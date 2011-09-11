@@ -1,3 +1,4 @@
+tgcom.mediaset.it###ContentSpecialBox
 agi.it###adl_medium_rectangle
 agi.it##.banner
 gazzetta.it###tv-adv
