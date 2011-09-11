@@ -1,3 +1,5 @@
+agi.it###adl_medium_rectangle
+agi.it##.banner
 ilgiornale.it###primopiano
 ilgiornale.it###tab_annunci
 libero-news.it###bannerbox1
