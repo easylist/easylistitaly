@@ -1,1 +1,2 @@
 ||4wnet.com^$third-party
+||doubleclick.net^*;sz=$object-subrequest,third-party,domain=lastampa.it
