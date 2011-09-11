@@ -1,4 +1,5 @@
 ilgiornale.it###primopiano
 ilgiornale.it###tab_annunci
+libero-news.it###bannerbox1
 libero-news.it##.BannerHead
 unita.it##.dannperdere
