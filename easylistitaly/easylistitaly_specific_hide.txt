@@ -2,6 +2,7 @@ agi.it###adl_medium_rectangle
 agi.it##.banner
 gazzetta.it##.bacheca-mkt
 gazzetta.it##.poker
+gazzetta.it##.pushbar
 ilgiornale.it###primopiano
 ilgiornale.it###tab_annunci
 ilsole24ore.com##.ad
