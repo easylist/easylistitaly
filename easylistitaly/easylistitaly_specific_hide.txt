@@ -5,4 +5,5 @@ ilgiornale.it###tab_annunci
 lapoliticaitaliana.it##.publi
 libero-news.it###bannerbox1
 libero-news.it##.BannerHead
+milanofinanza.it##.ban
 unita.it##.dannperdere
