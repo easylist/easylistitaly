@@ -6,6 +6,7 @@ gazzetta.it##.poker
 gazzetta.it##.pushbar
 ilgiornale.it###primopiano
 ilgiornale.it###tab_annunci
+ilmessaggero.it###molwidget300
 ilsole24ore.com##.ad
 lapoliticaitaliana.it##.publi
 libero-news.it###bannerbox1
