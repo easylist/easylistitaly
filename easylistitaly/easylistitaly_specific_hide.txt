@@ -3,6 +3,7 @@ agi.it##.banner
 ansa.it###banner970x30strip
 ansa.it##.adv
 cubovision.it##.advertising
+gamemag.it##.ads
 gazzetta.it###tv-adv
 gazzetta.it##.bacheca-mkt
 gazzetta.it##.poker
