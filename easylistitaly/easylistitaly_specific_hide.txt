@@ -18,13 +18,14 @@ libero-news.it##.BannerHead
 milanofinanza.it##.ban
 rai.tv##.placeholder300x250
 tgcom.mediaset.it###ContentSpecialBox
+tiscali.it###banner300x250c20
 tiscali.it##.ADV
 tiscali.it##.dannperdere
-tiscali.it##.mB25
 tiscali.it##.ts-headbanner
 tiscali.it##.tsr.mB20
 tiscali.it##.tsrAdv
 tiscali.it##.w304.mB20
+tiscali.it##.w312.mB25
 unita.it##.dannperdere
 virgilio.it###cont-leaderboard
 virgilio.it###cont-manchette
