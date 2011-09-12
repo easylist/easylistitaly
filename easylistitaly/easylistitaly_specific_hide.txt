@@ -10,6 +10,7 @@ gazzetta.it##.pushbar
 ilgiornale.it###primopiano
 ilgiornale.it###tab_annunci
 ilmessaggero.it###molwidget300
+ilsecoloxix.it##.artbanner
 ilsole24ore.com##.ad
 lapoliticaitaliana.it##.publi
 libero-news.it###bannerbox1
