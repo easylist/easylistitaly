@@ -1,1 +1,9 @@
-/banners/adv_/tiscali_ads._pubblicita.
+/adv1.
+/adv2.
+/adv3.
+/adv4.
+/adv5.
+/adv_flash.
+/banners/adv_
+/tiscali_ads.
+_pubblicita.
