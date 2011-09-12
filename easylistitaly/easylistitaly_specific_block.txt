@@ -1,5 +1,6 @@
 ||adnkronos.com^*/banner/
 ||agi.it^*-google-personalizzato-
+||businessmagazine.it/i/skin/
 ||ilgiornale.it/web/*/tab_
 ||ilmessaggero.it/box_tuttomercato052011/
 ||ilmessaggero.it/imgmol/
