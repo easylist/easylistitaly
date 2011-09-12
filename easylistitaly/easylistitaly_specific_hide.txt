@@ -15,5 +15,7 @@ milanofinanza.it##.ban
 rai.tv##.placeholder300x250
 tgcom.mediaset.it###ContentSpecialBox
 unita.it##.dannperdere
+virgilio.it###cont-leaderboard
+virgilio.it###cont-manchette
 virgilio.it##.adv
 virgilio.it##.newboxIs
