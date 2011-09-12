@@ -7,3 +7,4 @@
 ||repubblica.it^*_contentsense_
 ||tmnews.it^*/banner_
 ||virgilio.it/sg/boxis_
+||vps-ta.tiscali.it^
