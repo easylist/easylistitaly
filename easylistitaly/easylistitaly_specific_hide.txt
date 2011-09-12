@@ -1,5 +1,6 @@
 agi.it###adl_medium_rectangle
 agi.it##.banner
+cubovision.it##.advertising
 gazzetta.it###tv-adv
 gazzetta.it##.bacheca-mkt
 gazzetta.it##.poker
