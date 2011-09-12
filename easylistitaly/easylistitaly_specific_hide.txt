@@ -20,7 +20,10 @@ rai.tv##.placeholder300x250
 tgcom.mediaset.it###ContentSpecialBox
 tiscali.it###banner300x250c20
 tiscali.it##.ADV
+tiscali.it##.boxBanner
+tiscali.it##.c1c6.f12
 tiscali.it##.dannperdere
+tiscali.it##.teaserDx
 tiscali.it##.ts-headbanner
 tiscali.it##.tsr.mB20
 tiscali.it##.tsrAdv
