@@ -1,3 +1,4 @@
 ||4wnet.com^$third-party
+||doubleclick.net^$object-subrequest,third-party,domain=corrieredellosport.it
 ||doubleclick.net^*;sz=$object-subrequest,third-party,domain=lastampa.it
 ||juiceadv.com^$third-party
