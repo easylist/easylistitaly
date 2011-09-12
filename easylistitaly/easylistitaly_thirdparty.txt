@@ -1,1 +1,2 @@
-||adagiobanner.s3.amazonaws.com^
+||adagiobanner.s3.amazonaws.com^
+||bt.rcs.it^

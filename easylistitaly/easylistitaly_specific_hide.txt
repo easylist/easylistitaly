@@ -1,4 +1,3 @@
-tgcom.mediaset.it###ContentSpecialBox
 agi.it###adl_medium_rectangle
 agi.it##.banner
 gazzetta.it###tv-adv
@@ -12,4 +11,5 @@ lapoliticaitaliana.it##.publi
 libero-news.it###bannerbox1
 libero-news.it##.BannerHead
 milanofinanza.it##.ban
+tgcom.mediaset.it###ContentSpecialBox
 unita.it##.dannperdere
