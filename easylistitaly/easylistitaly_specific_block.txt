@@ -5,6 +5,7 @@
 ||ilmessaggero.it/box_tuttomercato052011/
 ||ilmessaggero.it/imgmol/
 ||lastampa.it^*/banner/
+||latitudeslife.com^*/banners/
 ||repubblica.it^*_contentsense_
 ||smtvsanmarino.sm/*/bnr/
 ||tmnews.it^*/banner_

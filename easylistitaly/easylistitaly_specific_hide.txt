@@ -14,6 +14,7 @@ ilmessaggero.it###molwidget300
 ilsecoloxix.it##.artbanner
 ilsole24ore.com##.ad
 lapoliticaitaliana.it##.publi
+latitudeslife.com###head_banner
 libero-news.it###bannerbox1
 libero-news.it##.BannerHead
 milanofinanza.it##.ban
