@@ -2,6 +2,8 @@
 ||agi.it^*-google-personalizzato-
 ||businessmagazine.it/i/skin/
 ||ilgiornale.it/web/*/tab_
+||ilmattino.it/box_tuttomercato052011/
+||ilmattino.it/imgmol/
 ||ilmessaggero.it/box_tuttomercato052011/
 ||ilmessaggero.it/imgmol/
 ||lastampa.it^*/banner/

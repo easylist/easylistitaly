@@ -10,6 +10,7 @@ gazzetta.it##.poker
 gazzetta.it##.pushbar
 ilgiornale.it###primopiano
 ilgiornale.it###tab_annunci
+ilmattino.it###molwidget300
 ilmessaggero.it###molwidget300
 ilsecoloxix.it##.artbanner
 ilsole24ore.com##.ad
