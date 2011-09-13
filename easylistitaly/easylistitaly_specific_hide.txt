@@ -8,6 +8,7 @@ gazzetta.it###tv-adv
 gazzetta.it##.bacheca-mkt
 gazzetta.it##.poker
 gazzetta.it##.pushbar
+gds.it##.pubb
 ilgiornale.it###primopiano
 ilgiornale.it###tab_annunci
 ilmattino.it###molwidget300
