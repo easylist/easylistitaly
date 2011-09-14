@@ -8,6 +8,7 @@
 ||ilmessaggero.it/imgmol/
 ||lastampa.it^*/banner/
 ||latitudeslife.com^*/banners/
+||radioradio.it/images/banner-
 ||repubblica.it^*_contentsense_
 ||rtl.it^*_ban_
 ||smtvsanmarino.sm/*/bnr/
