@@ -12,6 +12,8 @@ gds.it##.pubb
 ilfattoquotidiano.it##div[style="width:235px; height:75px; margin-top: 10px; overflow:hidden; float:left"]
 ilfattoquotidiano.it##div[style="width:235px; height:75px; overflow:hidden; float:left"]
 ilfattoquotidiano.it##div[style="width:235px; height:85px; margin-top: 10px; overflow:hidden; float:left"]
+ilfattoquotidiano.it##div[style="width:300px; height:75px; margin-top: 10px; overflow:hidden; float:left"]
+ilfattoquotidiano.it##div[style="width:300px; height:75px; overflow:hidden; float:left; margin-top: 10px;"]
 ilgiornale.it###primopiano
 ilgiornale.it###tab_annunci
 ilmattino.it###molwidget300
