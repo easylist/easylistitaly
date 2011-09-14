@@ -1,1 +1,3 @@
+@@||iads.iltrovatore.it/crossdomain.xml$object-subrequest,domain=la7.it
+@@||iads.iltrovatore.it/www/delivery/xmladv.php?$object-subrequest,domain=la7.it
 @@||repubblica.it/adimages/
