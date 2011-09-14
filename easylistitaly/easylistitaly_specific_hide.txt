@@ -20,6 +20,7 @@ latitudeslife.com###head_banner
 libero-news.it###bannerbox1
 libero-news.it##.BannerHead
 milanofinanza.it##.ban
+pianetacellulare.it##.banner2
 rai.tv##.placeholder300x250
 tgcom.mediaset.it###ContentSpecialBox
 tiscali.it###banner300x250c20
