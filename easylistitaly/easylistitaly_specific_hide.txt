@@ -38,3 +38,4 @@ virgilio.it###cont-leaderboard
 virgilio.it###cont-manchette
 virgilio.it##.adv
 virgilio.it##.newboxIs
+vivacinema.it###btop
