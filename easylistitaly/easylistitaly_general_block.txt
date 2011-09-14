@@ -7,3 +7,4 @@
 /banners/adv_
 /tiscali_ads.
 _pubblicita.
+"blank line at the end of file" error should now be gone
