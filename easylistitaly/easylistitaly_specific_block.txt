@@ -9,6 +9,7 @@
 ||lastampa.it^*/banner/
 ||latitudeslife.com^*/banners/
 ||repubblica.it^*_contentsense_
+||rtl.it^*_ban_
 ||smtvsanmarino.sm/*/bnr/
 ||tmnews.it^*/banner_
 ||virgilio.it/sg/boxis_
