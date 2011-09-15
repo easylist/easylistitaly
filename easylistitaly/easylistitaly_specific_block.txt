@@ -1,6 +1,7 @@
 ||adnkronos.com^*/banner/
 ||agi.it^*-google-personalizzato-
 ||businessmagazine.it/i/skin/
+||digital-sat.it/img/banner/
 ||ilgiornale.it/web/*/tab_
 ||ilmanifesto.it^*/sponsors/
 ||ilmattino.it/box_tuttomercato052011/
