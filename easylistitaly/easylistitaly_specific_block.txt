@@ -21,5 +21,6 @@
 ||technologyreview.it/img/banner/
 ||technologyreview.it/img/banner_
 ||tmnews.it^*/banner_
+||tomshw.it/shoppy.php?
 ||virgilio.it/sg/boxis_
 ||vps-ta.tiscali.it^
