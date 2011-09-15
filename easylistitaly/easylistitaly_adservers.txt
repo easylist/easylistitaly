@@ -1,5 +1,5 @@
 ||4wnet.com^$third-party
-||doubleclick.net^$object-subrequest,third-party,domain=corrieredellosport.it
+||doubleclick.net^$object-subrequest,third-party,domain=corrieredellosport.it|tuttosport.com
 ||doubleclick.net^*;sz=$object-subrequest,third-party,domain=lastampa.it|unita.it
 ||juiceadv.com^$third-party
 ||tgadv.it^$third-party
