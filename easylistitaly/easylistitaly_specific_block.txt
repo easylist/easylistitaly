@@ -17,6 +17,7 @@
 ||repubblica.it^*_contentsense_
 ||rtl.it^*_ban_
 ||smtvsanmarino.sm/*/bnr/
+||spartoo.it/footer_tag_iframe.
 ||technologyreview.it/img/banner/
 ||technologyreview.it/img/banner_
 ||tmnews.it^*/banner_
