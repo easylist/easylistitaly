@@ -17,6 +17,8 @@
 ||repubblica.it^*_contentsense_
 ||rtl.it^*_ban_
 ||smtvsanmarino.sm/*/bnr/
+||technologyreview.it/img/banner/
+||technologyreview.it/img/banner_
 ||tmnews.it^*/banner_
 ||virgilio.it/sg/boxis_
 ||vps-ta.tiscali.it^
