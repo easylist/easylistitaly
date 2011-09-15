@@ -16,6 +16,8 @@ ilfattoquotidiano.it##div[style="width:300px; height:75px; margin-top: 10px; ove
 ilfattoquotidiano.it##div[style="width:300px; height:75px; overflow:hidden; float:left; margin-top: 10px;"]
 ilgiornale.it###primopiano
 ilgiornale.it###tab_annunci
+ilmanifesto.it###banner
+ilmanifesto.it##.sponsor-box
 ilmattino.it###molwidget300
 ilmessaggero.it###molwidget300
 ilsecoloxix.it##.artbanner
