@@ -38,5 +38,6 @@
 ||technologyreview.it/img/banner_
 ||tmnews.it^*/banner_
 ||tomshw.it/shoppy.php?
+||ttgitalia.com/contenuti/banner/
 ||virgilio.it/sg/boxis_
 ||vps-ta.tiscali.it^
