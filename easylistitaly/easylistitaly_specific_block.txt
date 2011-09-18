@@ -14,6 +14,7 @@
 ||ilmessaggero.it/box_tuttomercato052011/
 ||ilmessaggero.it/imgmol/
 ||lagazzettadelmezzogiorno.it/banner_pk/
+||lapiazzaweb.it/banner/
 ||lastampa.it^*/banner/
 ||latitudeslife.com^*/banners/
 ||mattinonline.ch^*/banner_
