@@ -38,6 +38,8 @@ libero.it##div[style="width: 180px; height: 150px;"]
 libero.it##div[style="width: 300px; height: 250px;"]
 metalitalia.com###middle-home
 metalitalia.com###sidebar-top
+meteowebcam.it###header_top
+meteowebcam.it##.adsense_menu
 milanofinanza.it##.ban
 pianetacellulare.it##.banner2
 rai.tv##.placeholder300x250
