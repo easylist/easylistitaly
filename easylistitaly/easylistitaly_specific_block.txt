@@ -28,6 +28,7 @@
 ||radioradio.it/images/libro300.png
 ||radioradio.it^*/banner_
 ||repubblica.it^*_contentsense_
+||resport.it/public/banner/
 ||rtl.it^*_ban_
 ||smtvsanmarino.sm/*/bnr/
 ||spartoo.it/footer_tag_iframe.
