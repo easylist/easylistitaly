@@ -28,6 +28,8 @@ ilmanifesto.it###banner
 ilmanifesto.it##.sponsor-box
 ilmattino.it###molwidget300
 ilmessaggero.it###molwidget300
+ilsalvagente.it###bannerInt
+ilsalvagente.it###bannerTopInt
 ilsecoloxix.it##.artbanner
 ilsole24ore.com##.ad
 lapoliticaitaliana.it##.publi
