@@ -40,5 +40,6 @@
 ||tmnews.it^*/banner_
 ||tomshw.it/shoppy.php?
 ||ttgitalia.com/contenuti/banner/
+||vb33.it/images/banners/
 ||virgilio.it/sg/boxis_
 ||vps-ta.tiscali.it^
