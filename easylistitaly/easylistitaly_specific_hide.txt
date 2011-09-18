@@ -50,6 +50,8 @@ tiscali.it##.tsr.mB20
 tiscali.it##.tsrAdv
 tiscali.it##.w304.mB20
 tiscali.it##.w312.mB25
+treccani.it##.sponsorLogo
+treccani.it##div[style="float:left;margin:35px 0 15px;width:100%;height:166px;text-align:center;"]
 tuttogratis.it###bannerTop
 unita.it##.dannperdere
 virgilio.it###cont-leaderboard
