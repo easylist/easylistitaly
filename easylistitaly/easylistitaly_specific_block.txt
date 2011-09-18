@@ -11,6 +11,7 @@
 ||ilmattino.it/imgmol/
 ||ilmessaggero.it/box_tuttomercato052011/
 ||ilmessaggero.it/imgmol/
+||lagazzettadelmezzogiorno.it/banner_pk/
 ||lastampa.it^*/banner/
 ||latitudeslife.com^*/banners/
 ||radiomarte.it/site/images/sponsor/
