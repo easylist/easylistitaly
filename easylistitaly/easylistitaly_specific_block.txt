@@ -1,6 +1,7 @@
 ||adnkronos.com^*/banner/
 ||agi.it^*-google-personalizzato-
 ||businessmagazine.it/i/skin/
+||digital-forum.it/bannerdtt/
 ||digital-sat.it/img/banner/
 ||giardinaggio.it/@/servizi/dueverticali.asp
 ||ilgiornale.it/web/*/tab_
