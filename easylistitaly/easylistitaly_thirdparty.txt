@@ -1,6 +1,7 @@
 ||85.115.8.249^$image,domain=~chunnel.de.ip
 ||adagiobanner.s3.amazonaws.com^
 ||bt.rcs.it^
+||hrs.de/wizard.aspx?
 ||iads.iltrovatore.it^
 ||williamhill.it/promodisplay?
 ||williamhill.it/promoloaddisplay?
