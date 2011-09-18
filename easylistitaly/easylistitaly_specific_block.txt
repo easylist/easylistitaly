@@ -15,6 +15,8 @@
 ||lagazzettadelmezzogiorno.it/banner_pk/
 ||lastampa.it^*/banner/
 ||latitudeslife.com^*/banners/
+||radiocentro95.it/uploads/banner/
+||radiocentro95.it/uploads/bannerr/
 ||radiomarte.it/site/images/sponsor/
 ||radioradio.it/images/banner-
 ||radioradio.it/images/libro300.png
