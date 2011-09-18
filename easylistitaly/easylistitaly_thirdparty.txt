@@ -3,3 +3,4 @@
 ||bt.rcs.it^
 ||iads.iltrovatore.it^
 ||williamhill.it/promodisplay?
+||williamhill.it/promoloaddisplay?
