@@ -6,6 +6,7 @@
 ||digital-sat.it/img/banner/
 ||gazzettadiparma.it/gfx/txtlink/
 ||giardinaggio.it/@/servizi/dueverticali.asp
+||gratisfree.it/cgi-bin/bannergest$script
 ||ilgiornale.it/web/*/tab_
 ||ilmanifesto.it^*/sponsors/
 ||ilmattino.it/box_tuttomercato052011/
