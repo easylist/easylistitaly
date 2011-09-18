@@ -1,6 +1,7 @@
 ||adnkronos.com^*/banner/
 ||agi.it^*-google-personalizzato-
 ||businessmagazine.it/i/skin/
+||cittaditorino.net/banners/
 ||digital-forum.it/bannerdtt/
 ||digital-sat.it/img/banner/
 ||gazzettadiparma.it/gfx/txtlink/
