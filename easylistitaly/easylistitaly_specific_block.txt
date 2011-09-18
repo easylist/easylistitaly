@@ -3,6 +3,7 @@
 ||businessmagazine.it/i/skin/
 ||digital-forum.it/bannerdtt/
 ||digital-sat.it/img/banner/
+||gazzettadiparma.it/gfx/txtlink/
 ||giardinaggio.it/@/servizi/dueverticali.asp
 ||ilgiornale.it/web/*/tab_
 ||ilmanifesto.it^*/sponsors/

@@ -11,6 +11,7 @@ gazzetta.it###tv-adv
 gazzetta.it##.bacheca-mkt
 gazzetta.it##.poker
 gazzetta.it##.pushbar
+gazzettadiparma.it##.elenco-textlink
 gds.it##.pubb
 giornalettismo.com##.liq-frame
 hostingtalk.it###BannerBottom
