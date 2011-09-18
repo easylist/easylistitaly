@@ -33,6 +33,7 @@ lapoliticaitaliana.it##.publi
 latitudeslife.com###head_banner
 libero-news.it###bannerbox1
 libero-news.it##.BannerHead
+libero.it##div[style="width: 180px; height: 150px;"]
 metalitalia.com###middle-home
 metalitalia.com###sidebar-top
 milanofinanza.it##.ban
