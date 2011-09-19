@@ -27,6 +27,7 @@
 ||mattinonline.ch^*/banner_
 ||meteo.it/images/banner/
 ||metropolisweb.it/public/banner/
+||omnimilano.it/dati/banner/
 ||radiocentro95.it/uploads/banner/
 ||radiocentro95.it/uploads/bannerr/
 ||radiomarte.it/site/images/sponsor/
