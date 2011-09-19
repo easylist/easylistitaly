@@ -5,3 +5,4 @@
 ##.barraSipra
 ##.box-pubblicita
 ##.inews_adv_top
+##.promo_sp
