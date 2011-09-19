@@ -36,6 +36,7 @@
 ||lapiazzaweb.it/banner/
 ||lastampa.it^*/banner/
 ||latitudeslife.com^*/banners/
+||leonardo.it/images_for_css/skin-
 ||liguriawebcam.com/bn/
 ||mattinonline.ch^*/banner_
 ||meteo.it/images/banner/
