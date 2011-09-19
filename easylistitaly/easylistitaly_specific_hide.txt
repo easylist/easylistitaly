@@ -135,6 +135,7 @@ subito.it###coldxbig
 subito.it##.gray_box_small
 tempoitalia.it###headerBanner
 tgcom.mediaset.it###ContentSpecialBox
+tgmonline.it##td[align="right"][width="305"][valign="top"]
 ticinolibero.ch##.banner
 ticinolibero.ch##.redbar
 ticinolibero.ch##div[style="width:300px;height:250px;margin-bottom:10px"]
