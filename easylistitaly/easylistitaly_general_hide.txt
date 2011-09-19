@@ -2,6 +2,7 @@
 ###ADVrettangolopiede
 ###UNITIS_ads_300250
 ###adsense_testa
+###divPubblicita
 ###fwnetblocco
 ###fwnetblocco160x600
 ###fwnetblocco300x300
