@@ -9,6 +9,7 @@ ansa.it###banner970x30strip
 ansa.it##.adv
 avvenire.it###htmlcomponent11
 azpoint.net##table[cellspacing="2"][cellpadding="1"][border="0"][align="center"][width="90%"]
+bikeracing.it##table[height="180"][width="100%"]
 bora.la##.headerbtm
 bresciaoggi.it##.box-skyscrapers
 bresciaoggi.it##.header-box
