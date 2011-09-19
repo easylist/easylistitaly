@@ -65,6 +65,7 @@
 ||repubblica.it^*_contentsense_
 ||resport.it/public/banner/
 ||rtl.it^*_ban_
+||secondamano.it^*/footer_cobrand/
 ||smtvsanmarino.sm/*/bnr/
 ||spartoo.it/footer_tag_iframe.
 ||technologyreview.it/img/banner/

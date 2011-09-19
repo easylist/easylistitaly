@@ -100,6 +100,7 @@ retesport.it##.rect_banner
 retesport.it##div[style="float:none;margin-top:10px;text-align:center;width:493px;height:100px;"]
 romagiornoenotte.it##.areabannerTop
 romagiornoenotte.it##.basebannerBox
+secondamano.it##.moreblock
 shippingonline.ilsecoloxix.it###footer
 shippingonline.ilsecoloxix.it###zona_181
 tempoitalia.it###headerBanner
