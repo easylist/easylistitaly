@@ -53,6 +53,7 @@
 ||mailexpress.it/images/banner_
 ||mattinonline.ch^*/banner_
 ||meteo.it/images/banner/
+||metronews.it^*/banner_
 ||metropolisweb.it/public/banner/
 ||milanoweb.com/flash/imagerotator.swf
 ||motonline.com^*/partner/
