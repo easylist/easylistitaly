@@ -5,6 +5,8 @@
 ||amadeusonline.net/sponsor/
 ||businessmagazine.it/i/skin/
 ||cittaditorino.net/banners/
+||climateobserver.it^*/banner-
+||climateobserver.it^*/banner_
 ||digital-forum.it/bannerdtt/
 ||digital-sat.it/img/banner/
 ||ecoseven.net/img/banner/
