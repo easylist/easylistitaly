@@ -20,6 +20,7 @@ digital-sat.it##.banner_centrale
 digital-sat.it##.banner_dx
 dottorsalute.info###leaderboardspace
 finanza.com###top-banner
+fuorissimo.com##td[height="100"][bgcolor="#000000"][width="752"]
 gamemag.it##.ads
 gazzetta.it###tv-adv
 gazzetta.it##.bacheca-mkt
