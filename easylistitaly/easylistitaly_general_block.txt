@@ -1,7 +1,9 @@
 .it/_adv/
 .it/adv/
+/banner_zanox/*
 /pubblicita/*
 /pubblicita_
 /repubblicaad.
 /tiscali_ads.
 _pubblicita.
+_pubblicita/
