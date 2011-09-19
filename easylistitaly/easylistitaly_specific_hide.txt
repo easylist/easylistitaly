@@ -112,6 +112,8 @@ omnimoto.it###skin_link
 pctuner.net###boxbanner
 pcworld.it###pangora-chunnel
 pianetacellulare.it##.banner2
+qds.it###altro
+qds.it###banner_top
 rai.tv##.placeholder300x250
 retesport.it##.rect_banner
 retesport.it##div[style="float:none;margin-top:10px;text-align:center;width:493px;height:100px;"]
