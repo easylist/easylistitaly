@@ -38,6 +38,8 @@ ilsalvagente.it##.video
 ilsecoloxix.it##.artbanner
 ilsole24ore.com##.ad
 lapoliticaitaliana.it##.publi
+larena.it##.box-skyscrapers
+larena.it##.header-box
 latitudeslife.com###head_banner
 libero-news.it###bannerbox1
 libero-news.it##.BannerHead
