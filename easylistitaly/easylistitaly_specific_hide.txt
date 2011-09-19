@@ -118,6 +118,7 @@ motonline.com###box-bacheca
 motonline.com###box-bachecapremium
 mymovies.it##.linkblu[style="width:290px; cursor:pointer; margin-top:5px;"]
 mymovies.it##div[style="width:728px; height:90px;"]
+newsfood.com###banner_top
 omniauto.it##.box.gradient[style="height:270px!important; min-height:270px"]
 omniauto.it##.box_listinousato
 omnicorse.it##.skin
