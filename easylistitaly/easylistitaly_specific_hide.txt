@@ -141,6 +141,7 @@ shippingonline.ilsecoloxix.it###footer
 shippingonline.ilsecoloxix.it###zona_181
 soldionline.it##.sm_widget_contenitore
 sportivissimo.com##.menu4
+style.it##.side-gallery
 subito.it###coldxbig
 subito.it##.gray_box_small
 tempoitalia.it###headerBanner
