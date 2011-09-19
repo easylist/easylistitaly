@@ -47,6 +47,7 @@ ilsalvagente.it###bannerTopInt
 ilsalvagente.it##.video
 ilsecoloxix.it##.artbanner
 ilsole24ore.com##.ad
+ininsubria.it###PopUp_Under
 lapoliticaitaliana.it##.publi
 larena.it##.box-skyscrapers
 larena.it##.header-box
