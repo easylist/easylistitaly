@@ -53,6 +53,7 @@ gazzettahockey.it##.banner
 gds.it##.pubb
 giornaledellamusica.it###top_banner_container
 giornalettismo.com##.liq-frame
+gqitalia.it##.promobox
 hostingtalk.it###BannerBottom
 hostingtalk.it###BannerTop
 hostingtalk.it##.Banner
