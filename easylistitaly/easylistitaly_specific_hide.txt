@@ -91,6 +91,8 @@ mymovies.it##div[style="width:728px; height:90px;"]
 omniauto.it##.box.gradient[style="height:270px!important; min-height:270px"]
 omniauto.it##.box_listinousato
 omnicorse.it##.skin
+omnifurgone.it###skin_link
+omnifurgone.it###sponsor_logo_header
 omnimoto.it###skin_link
 pianetacellulare.it##.banner2
 rai.tv##.placeholder300x250

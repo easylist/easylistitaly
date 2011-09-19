@@ -49,6 +49,7 @@
 ||omniauto.it/2.0/banners/
 ||omniauto.it^*/sponsoredby_
 ||omnicorse.it/banners/
+||omnifurgone.it/img/skin_
 ||omnimilano.it/dati/banner/
 ||omnimoto.it/images/home/skin_
 ||omniroma.it/dati/banner/
