@@ -4,6 +4,7 @@
 ||amadeusonline.net/partner/
 ||amadeusonline.net/sponsor/
 ||businessmagazine.it/i/skin/
+||campaniameteo.it/banner/
 ||cittaditorino.net/banners/
 ||climateobserver.it^*/banner-
 ||climateobserver.it^*/banner_
