@@ -119,6 +119,7 @@ lonelyplanetitalia.it###side_banner
 lonelyplanetitalia.it###side_banner_300_100
 lonelyplanetitalia.it###top_banner
 mailexpress.it###ads
+mediapason.it##.banner300
 metalitalia.com###middle-home
 metalitalia.com###sidebar-top
 meteowebcam.it###header_top
