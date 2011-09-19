@@ -17,6 +17,7 @@
 ||gazzettadiparma.it/gfx/txtlink/
 ||giardinaggio.it/@/servizi/dueverticali.asp
 ||gratisfree.it/cgi-bin/bannergest$script
+||iammepress.it/media/banners/
 ||ilgiornale.it/web/*/tab_
 ||ilgiornaledienna.it/images/banners/
 ||ilgiornalediragusa.it/images/banners/

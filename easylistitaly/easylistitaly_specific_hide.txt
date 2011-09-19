@@ -41,6 +41,8 @@ giornalettismo.com##.liq-frame
 hostingtalk.it###BannerBottom
 hostingtalk.it###BannerTop
 hostingtalk.it##.Banner
+iammepress.it##.gcon_banners
+iammepress.it##.gcon_banners_label
 ilfattoquotidiano.it##div[style="width:235px; height:75px; margin-top: 10px; overflow:hidden; float:left"]
 ilfattoquotidiano.it##div[style="width:235px; height:75px; overflow:hidden; float:left"]
 ilfattoquotidiano.it##div[style="width:235px; height:85px; margin-top: 10px; overflow:hidden; float:left"]
