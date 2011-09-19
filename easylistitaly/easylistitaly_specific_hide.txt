@@ -55,6 +55,7 @@ hostingtalk.it###BannerTop
 hostingtalk.it##.Banner
 html.it###banner_piede_articolo
 html.it##.google
+html.it##.premium-links-container-home-ms
 iammepress.it##.gcon_banners
 iammepress.it##.gcon_banners_label
 ilfattoquotidiano.it##div[style="width:235px; height:75px; margin-top: 10px; overflow:hidden; float:left"]
