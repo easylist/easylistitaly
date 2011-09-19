@@ -85,6 +85,7 @@ meteowebcam.it##.adsense_menu
 metropolisweb.it##.BannerMezzoNotizia
 milanofinanza.it##.ban
 moto.it###rchm_overlay
+moto.it###topboard
 mymovies.it##.linkblu[style="width:290px; cursor:pointer; margin-top:5px;"]
 mymovies.it##div[style="width:728px; height:90px;"]
 pianetacellulare.it##.banner2
