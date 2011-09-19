@@ -7,6 +7,7 @@ bresciaoggi.it##.header-box
 cellulare-magazine.it###skin-top-container
 cellularemagazine.it###skin-top-container
 cubovision.it##.advertising
+diariodelweb.it##.publi
 diesis.it###box_banner
 digital-sat.it###sx_basso_topsx
 digital-sat.it##.banner_centrale
