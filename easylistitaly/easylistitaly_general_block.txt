@@ -1,5 +1,7 @@
 .it/_adv/
 .it/adv/
+/pubblicita/*
+/pubblicita_
 /repubblicaad.
 /tiscali_ads.
 _pubblicita.
