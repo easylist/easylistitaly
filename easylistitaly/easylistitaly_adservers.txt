@@ -12,6 +12,7 @@
 ||juiceadv.com^$third-party
 ||mondoecommerce.it^$third-party
 ||newclick.com^$third-party
+||s-p-o-n-s-o-r.com^$third-party
 ||scambiobanner.it^$third-party
 ||softwareplanet.net^$third-party
 ||sprintrade.com^$third-party
