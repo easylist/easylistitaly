@@ -14,6 +14,7 @@
 ||iads.iltrovatore.it^
 ||noicattolici.it/x_banner/
 ||pangora.com^$image,third-party
+||prodigiweb.it/hpsponsor/
 ||scambiobanner.aruba.it^$third-party
 ||smscellulari.it/pic/banner/$third-party
 ||uplink.aruba.it^$third-party
