@@ -2,4 +2,5 @@
 ||doubleclick.net^$object-subrequest,third-party,domain=corrieredellosport.it|tuttosport.com
 ||doubleclick.net^*;sz=$object-subrequest,third-party,domain=lastampa.it|unita.it
 ||juiceadv.com^$third-party
+||sprintrade.com^$third-party
 ||tgadv.it^$third-party
