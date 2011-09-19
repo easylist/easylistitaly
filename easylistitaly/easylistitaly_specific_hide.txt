@@ -2,6 +2,8 @@ agi.it###adl_medium_rectangle
 agi.it##.banner
 ansa.it###banner970x30strip
 ansa.it##.adv
+bresciaoggi.it##.box-skyscrapers
+bresciaoggi.it##.header-box
 cubovision.it##.advertising
 digital-sat.it###sx_basso_topsx
 digital-sat.it##.banner_centrale
