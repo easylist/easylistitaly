@@ -28,6 +28,7 @@
 ||lapiazzaweb.it/banner/
 ||lastampa.it^*/banner/
 ||latitudeslife.com^*/banners/
+||liguriawebcam.com/bn/
 ||mattinonline.ch^*/banner_
 ||meteo.it/images/banner/
 ||metropolisweb.it/public/banner/

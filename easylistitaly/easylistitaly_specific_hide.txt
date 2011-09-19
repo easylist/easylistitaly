@@ -65,6 +65,7 @@ libero-news.it##.BannerHead
 libero.it###chunnel-affari-300x170
 libero.it##div[style="width: 180px; height: 150px;"]
 libero.it##div[style="width: 300px; height: 250px;"]
+liguriawebcam.com##div[style="overflow:hidden;height:90px;margin:4px 0;"]
 lonelyplanetitalia.it###side_banner
 lonelyplanetitalia.it###side_banner_300_100
 lonelyplanetitalia.it###top_banner
