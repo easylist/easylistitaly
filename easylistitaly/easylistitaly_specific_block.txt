@@ -38,6 +38,7 @@
 ||ilmessaggero.it/imgmol/
 ||ilsalvagente.it/imgmol/
 ||ilsalvagente.it/immagini/banner120x60-
+||ilvelino.it^*/banner/
 ||ininsubria.it/thb.aspx?filename=upload%2fbanners%2f
 ||ininsubria.it/upload/banners/
 ||inside.bz.it/images/banners/
