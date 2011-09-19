@@ -70,6 +70,7 @@
 ||tempoitalia.it/banner/
 ||tmnews.it^*/banner_
 ||tomshw.it/shoppy.php?
+||trasporti-italia.com^*/banner/
 ||ttgitalia.com/contenuti/banner/
 ||vb33.it/images/banners/
 ||virgilio.it/sg/boxis_
