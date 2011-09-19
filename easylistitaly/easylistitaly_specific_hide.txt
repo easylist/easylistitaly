@@ -1,5 +1,6 @@
 agi.it###adl_medium_rectangle
 agi.it##.banner
+agimondo.it###overhp
 ansa.it###banner970x30strip
 ansa.it##.adv
 azpoint.net##table[cellspacing="2"][cellpadding="1"][border="0"][align="center"][width="90%"]
