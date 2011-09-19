@@ -18,6 +18,7 @@ gazzetta.it##.bacheca-mkt
 gazzetta.it##.poker
 gazzetta.it##.pushbar
 gazzettadiparma.it##.elenco-textlink
+gazzettahockey.it##.banner
 gds.it##.pubb
 giornalettismo.com##.liq-frame
 hostingtalk.it###BannerBottom
