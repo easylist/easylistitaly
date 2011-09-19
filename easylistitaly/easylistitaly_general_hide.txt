@@ -8,6 +8,7 @@
 ###fwnetblocco300x300
 ###leo-adv
 ###libero_header_adv
+###pubblicita
 ##.barraSipra
 ##.box-pubblicita
 ##.inews_adv_top

@@ -74,6 +74,7 @@
 ||omnimilano.it/dati/banner/
 ||omnimoto.it/images/home/skin_
 ||omniroma.it/dati/banner/
+||oxfordparavia.it/img/babylon.gif
 ||pctuner.net/banner/
 ||quicomo.it/qc-ad/
 ||quicomo.it/qc-assets/banner/
