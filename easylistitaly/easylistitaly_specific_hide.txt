@@ -2,6 +2,7 @@ agi.it###adl_medium_rectangle
 agi.it##.banner
 ansa.it###banner970x30strip
 ansa.it##.adv
+azpoint.net##table[cellspacing="2"][cellpadding="1"][border="0"][align="center"][width="90%"]
 bresciaoggi.it##.box-skyscrapers
 bresciaoggi.it##.header-box
 cani.com###headerBoard-box
