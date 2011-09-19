@@ -48,6 +48,7 @@
 ||notiziarioitaliano.it^*/banner/
 ||omniauto.it/2.0/banners/
 ||omniauto.it^*/sponsoredby_
+||omnicorse.it/banners/
 ||omnimilano.it/dati/banner/
 ||omnimoto.it/images/home/skin_
 ||omniroma.it/dati/banner/
