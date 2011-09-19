@@ -117,6 +117,7 @@ secondamano.it##.moreblock
 shippingonline.ilsecoloxix.it###footer
 shippingonline.ilsecoloxix.it###zona_181
 soldionline.it##.sm_widget_contenitore
+subito.it###coldxbig
 subito.it##.gray_box_small
 tempoitalia.it###headerBanner
 tgcom.mediaset.it###ContentSpecialBox
