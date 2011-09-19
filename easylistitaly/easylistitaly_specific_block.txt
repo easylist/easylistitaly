@@ -47,6 +47,7 @@
 ||lastampa.it^*/banner/
 ||latitudeslife.com^*/banners/
 ||leggo.it/box_tuttomercato032011/
+||leggo.it/imgmol/
 ||leonardo.it/images_for_css/skin-
 ||libertiamo.it^*468x60.
 ||libertiamo.it^*_234x60.

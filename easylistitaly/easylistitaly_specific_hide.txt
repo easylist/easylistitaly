@@ -91,6 +91,7 @@ larena.it##.box-skyscrapers
 larena.it##.header-box
 lastampa.it##.top-right-banner
 latitudeslife.com###head_banner
+leggo.it###molwidget300
 libero-news.it###bannerbox1
 libero-news.it##.BannerHead
 libero.it###chunnel-affari-300x170
