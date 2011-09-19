@@ -4,6 +4,7 @@
 ||andreafranzoso.com/banner/
 ||bazarcoupon.com/images/$third-party
 ||bt.rcs.it^
+||casinotop10.it/swf/$third-party
 ||djsoldi.com^$image,third-party
 ||djsuonerie.it/pic/$third-party
 ||hrs.de/wizard.aspx?
