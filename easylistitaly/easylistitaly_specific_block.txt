@@ -22,6 +22,8 @@
 ||ininsubria.it/upload/banners/
 ||inside.bz.it/images/banners/
 ||italia-film.com/uploads/youtube.gif
+||italia-news.it/box_ricerca/
+||italia-news.it/media/banners/
 ||lagazzettadelmezzogiorno.it/banner_pk/
 ||lapiazzaweb.it/banner/
 ||lastampa.it^*/banner/

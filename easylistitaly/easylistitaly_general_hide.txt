@@ -4,3 +4,4 @@
 ###libero_header_adv
 ##.barraSipra
 ##.box-pubblicita
+##.inews_adv_top
