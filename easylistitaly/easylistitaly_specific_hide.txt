@@ -40,6 +40,7 @@ fantagazzetta.com##.bg-ads
 fantascienza.com###partners
 finanza.com###top-banner
 foxlife.it##div[style="width: 728px; height: 90px; margin: 0px auto 10px auto; background:none;"]
+foxtv.it##.leaderboard
 fuorissimo.com##td[height="100"][bgcolor="#000000"][width="752"]
 gamemag.it##.ads
 gazzetta.it###tv-adv
