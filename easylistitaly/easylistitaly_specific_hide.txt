@@ -95,6 +95,8 @@ italia-news.it###box_ricerca
 italia-news.it##.gcon_banners
 italia-news.it##.gcon_banners_label
 itespresso.it###megabanner
+jacktech.it###assicu_box_ricerca
+jacktech.it##.jk_banner
 jugo.it##.ad
 julienews.it##.home_left_banner_box
 julienews.it##.pages_cnt_banner_box
