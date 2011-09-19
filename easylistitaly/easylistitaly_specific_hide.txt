@@ -58,6 +58,7 @@ ilfattoquotidiano.it##div[style="width:235px; height:75px; overflow:hidden; floa
 ilfattoquotidiano.it##div[style="width:235px; height:85px; margin-top: 10px; overflow:hidden; float:left"]
 ilfattoquotidiano.it##div[style="width:300px; height:75px; margin-top: 10px; overflow:hidden; float:left"]
 ilfattoquotidiano.it##div[style="width:300px; height:75px; overflow:hidden; float:left; margin-top: 10px;"]
+ilgazzettino.it###molwidget300
 ilgazzettinovesuviano.com###adsensing
 ilgazzettinovesuviano.com###leaderboard
 ilgazzettinovesuviano.com###leaderboard-footer

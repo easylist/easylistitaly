@@ -24,6 +24,8 @@
 ||giardinaggio.it/@/servizi/dueverticali.asp
 ||gratisfree.it/cgi-bin/bannergest$script
 ||iammepress.it/media/banners/
+||ilgazzettino.it/box_tuttomercato052011/
+||ilgazzettino.it/imgmol/
 ||ilgiornale.it/web/*/tab_
 ||ilgiornaledienna.it/images/banners/
 ||ilgiornalediragusa.it/images/banners/
