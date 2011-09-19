@@ -7,6 +7,7 @@ agimondo.it###overhp
 agoravox.it##.publarge
 ansa.it###banner970x30strip
 ansa.it##.adv
+asylumitalia.it###banner
 avvenire.it###htmlcomponent11
 axn.it###block-spti_operative-spti_operative_square
 azpoint.net##table[cellspacing="2"][cellpadding="1"][border="0"][align="center"][width="90%"]
