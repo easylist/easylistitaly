@@ -77,6 +77,7 @@ liguriawebcam.com##div[style="overflow:hidden;height:90px;margin:4px 0;"]
 lonelyplanetitalia.it###side_banner
 lonelyplanetitalia.it###side_banner_300_100
 lonelyplanetitalia.it###top_banner
+mailexpress.it###ads
 metalitalia.com###middle-home
 metalitalia.com###sidebar-top
 meteowebcam.it###header_top
