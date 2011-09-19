@@ -4,6 +4,7 @@ agichina24.it##.banner
 agichina24.it##.strip
 agichina24.it##.topbanner1
 agimondo.it###overhp
+agoravox.it##.publarge
 ansa.it###banner970x30strip
 ansa.it##.adv
 avvenire.it###htmlcomponent11
