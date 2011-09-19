@@ -7,6 +7,7 @@ bresciaoggi.it##.header-box
 cellulare-magazine.it###skin-top-container
 cellularemagazine.it###skin-top-container
 ciao.it###productlevellink
+ciao.it##.CWContainerComparePrice
 ciao.it##.priceComp2
 ciao.it##.specialOfferMod
 ciao.it##.tableSponsLinks
