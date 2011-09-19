@@ -20,6 +20,7 @@
 ||pangora.com^$image,third-party
 ||prodigiweb.it/hpsponsor/
 ||scambiobanner.aruba.it^$third-party
+||sereni.net/images/banner/
 ||smscellulari.it/pic/banner/$third-party
 ||uplink.aruba.it^$third-party
 ||williamhill.it/promodisplay?
