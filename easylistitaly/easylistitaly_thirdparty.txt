@@ -4,11 +4,14 @@
 ||andreafranzoso.com/banner/
 ||bazarcoupon.com/images/$third-party
 ||bt.rcs.it^
+||djsoldi.com^$image,third-party
+||djsuonerie.it/pic/$third-party
 ||hrs.de/wizard.aspx?
 ||iads.iltrovatore.it^
 ||noicattolici.it/x_banner/
 ||pangora.com^$image,third-party
 ||scambiobanner.aruba.it^$third-party
+||smscellulari.it/pic/banner/$third-party
 ||uplink.aruba.it^$third-party
 ||williamhill.it/promodisplay?
 ||williamhill.it/promoloaddisplay?
