@@ -76,6 +76,7 @@ ilsalvagente.it##.video
 ilsecoloxix.it##.artbanner
 ilsole24ore.com###block300x250
 ilsole24ore.com##.ad
+informatisubito.myblog.it##table[height="600"][width="120"]
 ininsubria.it###PopUp_Under
 italia-news.it###box_ricerca
 italia-news.it##.gcon_banners

@@ -1,12 +1,15 @@
 ||85.115.8.249^$image,domain=~chunnel.de.ip
 ||adagiobanner.s3.amazonaws.com^
 ||affiliate2.hardstore.com^
+||aimon.it/banner_
 ||andreafranzoso.com/banner/
+||autostima.net/partner/
 ||bazarcoupon.com/images/$third-party
 ||bt.rcs.it^
 ||casinotop10.it/swf/$third-party
 ||djsoldi.com^$image,third-party
 ||djsuonerie.it/pic/$third-party
+||gigacenter.it^$image,third-party
 ||hrs.de/wizard.aspx?
 ||iads.iltrovatore.it^
 ||noicattolici.it/x_banner/
