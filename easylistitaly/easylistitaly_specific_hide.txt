@@ -4,6 +4,7 @@ ansa.it###banner970x30strip
 ansa.it##.adv
 bresciaoggi.it##.box-skyscrapers
 bresciaoggi.it##.header-box
+cani.com###headerBoard-box
 cellulare-magazine.it###skin-top-container
 cellularemagazine.it###skin-top-container
 ciao.it###productlevellink
