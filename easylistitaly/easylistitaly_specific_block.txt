@@ -1,5 +1,8 @@
 ||adnkronos.com^*/banner/
 ||agi.it^*-google-personalizzato-
+||amadeusonline.net/banner/
+||amadeusonline.net/partner/
+||amadeusonline.net/sponsor/
 ||businessmagazine.it/i/skin/
 ||cittaditorino.net/banners/
 ||digital-forum.it/bannerdtt/
