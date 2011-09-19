@@ -26,6 +26,8 @@ comingsoon.it###advSkin
 comingsoon.it##.expanding-footer-container
 cronacaqui.it##table[height="112"][width="998"]
 cubovision.it##.advertising
+delleconomia.it###powered
+delleconomia.it##.adv200
 diariodelweb.it##.publi
 diesis.it###box_banner
 digital-sat.it###sx_basso_topsx
