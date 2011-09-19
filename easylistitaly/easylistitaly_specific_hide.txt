@@ -6,6 +6,10 @@ bresciaoggi.it##.box-skyscrapers
 bresciaoggi.it##.header-box
 cellulare-magazine.it###skin-top-container
 cellularemagazine.it###skin-top-container
+ciao.it###productlevellink
+ciao.it##.priceComp2
+ciao.it##.specialOfferMod
+ciao.it##.tableSponsLinks
 cronacaqui.it##table[height="112"][width="998"]
 cubovision.it##.advertising
 diariodelweb.it##.publi
