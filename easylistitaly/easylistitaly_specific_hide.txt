@@ -71,6 +71,8 @@ retesport.it##.rect_banner
 retesport.it##div[style="float:none;margin-top:10px;text-align:center;width:493px;height:100px;"]
 tempoitalia.it###headerBanner
 tgcom.mediaset.it###ContentSpecialBox
+ticinolibero.ch##.banner
+ticinolibero.ch##.redbar
 ticinonews.ch###rectangleleaderhome1_FormView1_ctl00_Banmanpro3Label
 tiscali.it###banner300x250c20
 tiscali.it##.ADV
