@@ -1,5 +1,6 @@
 .it/_adv/
 .it/adv/
+/alternet.ad?
 /banner_zanox/*
 /pubblicita.
 /pubblicita/*

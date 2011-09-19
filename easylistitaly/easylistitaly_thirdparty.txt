@@ -1,6 +1,7 @@
 ||85.115.8.249^$image,domain=~chunnel.de.ip
 ||adagiobanner.s3.amazonaws.com^
 ||affiliate2.hardstore.com^
+||affiliazioni.misterdomain.eu^
 ||aimon.it/banner_
 ||andreafranzoso.com/banner/
 ||autostima.net/partner/
