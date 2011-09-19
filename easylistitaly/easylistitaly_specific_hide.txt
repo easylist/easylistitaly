@@ -150,6 +150,12 @@ retesport.it##.rect_banner
 retesport.it##div[style="float:none;margin-top:10px;text-align:center;width:493px;height:100px;"]
 romagiornoenotte.it##.areabannerTop
 romagiornoenotte.it##.basebannerBox
+rumors.it###block-block-19
+rumors.it###block-block-2
+rumors.it###block-block-26
+rumors.it###block-block-27
+rumors.it###block-block-4
+rumors.it###block-block-5
 samp.tv###samptvsponsor
 secondamano.it##.moreblock
 shippingonline.ilsecoloxix.it###footer
@@ -180,6 +186,7 @@ tiscali.it##.w304.mB20
 tiscali.it##.w312.mB25
 treccani.it##.sponsorLogo
 treccani.it##div[style="float:left;margin:35px 0 15px;width:100%;height:166px;text-align:center;"]
+trendystyle.it###block-block-2
 trendystyle.it###block-block-26
 trendystyle.it###block-block-27
 trendystyle.it###block-block-4
