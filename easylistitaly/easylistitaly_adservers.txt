@@ -1,5 +1,6 @@
 ||4wnet.com^$third-party
 ||ad4mat.it^$third-party
+||annuncivari.altervista.org^$third-party
 ||bannergratis.it^$third-party
 ||bannerpromotion.it^$third-party
 ||clickpoint.it^$third-party
@@ -9,6 +10,7 @@
 ||juiceadv.com^$third-party
 ||mondoecommerce.it^$third-party
 ||newclick.com^$third-party
+||scambiobanner.it^$third-party
 ||softwareplanet.net^$third-party
 ||sprintrade.com^$third-party
 ||tgadv.it^$third-party
