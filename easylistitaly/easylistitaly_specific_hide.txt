@@ -169,6 +169,7 @@ virgilio.it###cont-manchette
 virgilio.it##.adv
 virgilio.it##.newboxIs
 vivacinema.it###btop
+wallstreetitalia.com##.bestbuybiz
 webpedia.altervista.org###banner
 webpedia.altervista.org##div[style="width:728px;height:90px;margin:6px auto;background:#eee"]
 zapster.it##.addx
