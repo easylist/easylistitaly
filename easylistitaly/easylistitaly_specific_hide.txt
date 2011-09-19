@@ -73,6 +73,7 @@ tempoitalia.it###headerBanner
 tgcom.mediaset.it###ContentSpecialBox
 ticinolibero.ch##.banner
 ticinolibero.ch##.redbar
+ticinolibero.ch##div[style="width:300px;height:250px;margin-bottom:10px"]
 ticinonews.ch###rectangleleaderhome1_FormView1_ctl00_Banmanpro3Label
 tiscali.it###banner300x250c20
 tiscali.it##.ADV
