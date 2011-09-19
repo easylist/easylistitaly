@@ -43,6 +43,7 @@
 ||mattinonline.ch^*/banner_
 ||meteo.it/images/banner/
 ||metropolisweb.it/public/banner/
+||milanoweb.com/flash/imagerotator.swf
 ||mymovies.it/v9/adv/
 ||notiziarioitaliano.it^*/banner/
 ||omnimilano.it/dati/banner/
