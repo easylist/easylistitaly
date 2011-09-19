@@ -11,6 +11,7 @@
 ||doubleclick.net^$object-subrequest,third-party,domain=corrieredellosport.it|tuttosport.com
 ||doubleclick.net^*;sz=$object-subrequest,third-party,domain=lastampa.it|unita.it
 ||eadv.it^$third-party
+||ebuzzing.it^$third-party
 ||juiceadv.com^$third-party
 ||mondoecommerce.it^$third-party
 ||newclick.com^$third-party
