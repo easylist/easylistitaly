@@ -33,6 +33,7 @@ gazzetta.it##.pushbar
 gazzettadiparma.it##.elenco-textlink
 gazzettahockey.it##.banner
 gds.it##.pubb
+giornaledellamusica.it###top_banner_container
 giornalettismo.com##.liq-frame
 hostingtalk.it###BannerBottom
 hostingtalk.it###BannerTop
