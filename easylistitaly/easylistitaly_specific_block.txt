@@ -10,6 +10,7 @@
 ||gratisfree.it/cgi-bin/bannergest$script
 ||ilgiornale.it/web/*/tab_
 ||ilgiornaledienna.it/images/banners/
+||ilgiornalediragusa.it/images/banners/
 ||ilmanifesto.it^*/sponsors/
 ||ilmattino.it/box_tuttomercato052011/
 ||ilmattino.it/imgmol/
