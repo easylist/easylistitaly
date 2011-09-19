@@ -83,6 +83,8 @@
 ||secondamano.it^*/footer_cobrand/
 ||smtvsanmarino.sm/*/bnr/
 ||spartoo.it/footer_tag_iframe.
+||sportlive.it/images/*_300x100_
+||sportlive.it/images/300x100_
 ||technologyreview.it/img/banner/
 ||technologyreview.it/img/banner_
 ||telecaprisport.it/banner/
