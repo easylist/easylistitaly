@@ -7,6 +7,7 @@
 ||cittaditorino.net/banners/
 ||climateobserver.it^*/banner-
 ||climateobserver.it^*/banner_
+||comingsoon.it/imgdb/banner/
 ||digital-forum.it/bannerdtt/
 ||digital-sat.it/img/banner/
 ||ecoseven.net/img/banner/

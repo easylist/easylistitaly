@@ -20,6 +20,10 @@ ciao.it##.CWContainerComparePrice
 ciao.it##.priceComp2
 ciao.it##.specialOfferMod
 ciao.it##.tableSponsLinks
+comingsoon.it###BnrRight1
+comingsoon.it###ExpTop
+comingsoon.it###advSkin
+comingsoon.it##.expanding-footer-container
 cronacaqui.it##table[height="112"][width="998"]
 cubovision.it##.advertising
 diariodelweb.it##.publi
