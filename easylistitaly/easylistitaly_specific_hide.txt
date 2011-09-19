@@ -58,6 +58,7 @@ italia-news.it##.gcon_banners_label
 lapoliticaitaliana.it##.publi
 larena.it##.box-skyscrapers
 larena.it##.header-box
+lastampa.it##.top-right-banner
 latitudeslife.com###head_banner
 libero-news.it###bannerbox1
 libero-news.it##.BannerHead
