@@ -83,6 +83,7 @@
 ||tempoitalia.it/banner/
 ||tmnews.it^*/banner_
 ||tomshw.it/shoppy.php?
+||topnegozi.it^*/banner/
 ||trasporti-italia.com^*/banner/
 ||ttgitalia.com/contenuti/banner/
 ||tvpitalia.it/sponsor/
