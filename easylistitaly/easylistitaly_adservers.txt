@@ -1,6 +1,8 @@
 ||4wnet.com^$third-party
 ||ad4mat.it^$third-party
+||bannergratis.it^$third-party
 ||bannerpromotion.it^$third-party
+||clickpoint.it^$third-party
 ||crmpilot.it^$third-party
 ||doubleclick.net^$object-subrequest,third-party,domain=corrieredellosport.it|tuttosport.com
 ||doubleclick.net^*;sz=$object-subrequest,third-party,domain=lastampa.it|unita.it
