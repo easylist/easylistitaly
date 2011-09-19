@@ -112,3 +112,4 @@ virgilio.it##.newboxIs
 vivacinema.it###btop
 webpedia.altervista.org###banner
 webpedia.altervista.org##div[style="width:728px;height:90px;margin:6px auto;background:#eee"]
+zapster.it##.addx
