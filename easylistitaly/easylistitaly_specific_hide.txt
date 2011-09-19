@@ -124,6 +124,7 @@ omnicorse.it##.skin
 omnifurgone.it###skin_link
 omnifurgone.it###sponsor_logo_header
 omnimoto.it###skin_link
+panorama.it###immob_box_ricerca
 pctuner.net###boxbanner
 pcworld.it###pangora-chunnel
 pianetacellulare.it##.banner2
