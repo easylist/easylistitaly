@@ -7,5 +7,6 @@
 ||hrs.de/wizard.aspx?
 ||iads.iltrovatore.it^
 ||noicattolici.it/x_banner/
+||pangora.com^$image,third-party
 ||williamhill.it/promodisplay?
 ||williamhill.it/promoloaddisplay?
