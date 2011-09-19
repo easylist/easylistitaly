@@ -47,6 +47,7 @@ ilsalvagente.it###bannerInt
 ilsalvagente.it###bannerTopInt
 ilsalvagente.it##.video
 ilsecoloxix.it##.artbanner
+ilsole24ore.com###block300x250
 ilsole24ore.com##.ad
 ininsubria.it###PopUp_Under
 lapoliticaitaliana.it##.publi
