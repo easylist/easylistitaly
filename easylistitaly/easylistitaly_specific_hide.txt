@@ -69,6 +69,8 @@ pianetacellulare.it##.banner2
 rai.tv##.placeholder300x250
 retesport.it##.rect_banner
 retesport.it##div[style="float:none;margin-top:10px;text-align:center;width:493px;height:100px;"]
+romagiornoenotte.it##.areabannerTop
+romagiornoenotte.it##.basebannerBox
 tempoitalia.it###headerBanner
 tgcom.mediaset.it###ContentSpecialBox
 ticinolibero.ch##.banner
