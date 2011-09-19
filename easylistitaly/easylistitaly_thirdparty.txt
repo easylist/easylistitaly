@@ -1,5 +1,6 @@
 ||85.115.8.249^$image,domain=~chunnel.de.ip
 ||adagiobanner.s3.amazonaws.com^
+||affiliate2.hardstore.com^
 ||andreafranzoso.com/banner/
 ||bazarcoupon.com/images/$third-party
 ||bt.rcs.it^
