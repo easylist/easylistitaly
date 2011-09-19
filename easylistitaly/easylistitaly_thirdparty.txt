@@ -8,6 +8,7 @@
 ||iads.iltrovatore.it^
 ||noicattolici.it/x_banner/
 ||pangora.com^$image,third-party
+||scambiobanner.aruba.it^$third-party
 ||uplink.aruba.it^$third-party
 ||williamhill.it/promodisplay?
 ||williamhill.it/promoloaddisplay?
