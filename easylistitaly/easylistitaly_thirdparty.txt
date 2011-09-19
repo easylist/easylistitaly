@@ -24,3 +24,4 @@
 ||uplink.aruba.it^$third-party
 ||williamhill.it/promodisplay?
 ||williamhill.it/promoloaddisplay?
+||ws.shoppydoo.com^$third-party
