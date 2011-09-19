@@ -54,6 +54,8 @@ hostingtalk.it###BannerBottom
 hostingtalk.it###BannerTop
 hostingtalk.it##.Banner
 html.it###banner_piede_articolo
+html.it###sponsor
+html.it##.banner
 html.it##.google
 html.it##.premium-links-container-home-ms
 iammepress.it##.gcon_banners

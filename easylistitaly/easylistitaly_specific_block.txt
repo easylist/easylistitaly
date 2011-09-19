@@ -8,6 +8,7 @@
 ||businessmagazine.it/i/skin/
 ||campaniameteo.it/banner/
 ||cittaditorino.net/banners/
+||click.html.it^
 ||climateobserver.it^*/banner-
 ||climateobserver.it^*/banner_
 ||comingsoon.it/imgdb/banner/
