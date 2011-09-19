@@ -59,6 +59,7 @@
 ||spartoo.it/footer_tag_iframe.
 ||technologyreview.it/img/banner/
 ||technologyreview.it/img/banner_
+||telecaprisport.it/banner/
 ||tempoitalia.it/banner/
 ||tmnews.it^*/banner_
 ||tomshw.it/shoppy.php?
