@@ -15,6 +15,7 @@
 ||gigacenter.it^$image,third-party
 ||hrs.de/wizard.aspx?
 ||iads.iltrovatore.it^
+||it.widget.kelkoo.com^$third-party
 ||noicattolici.it/x_banner/
 ||pangora.com^$image,third-party
 ||prodigiweb.it/hpsponsor/
