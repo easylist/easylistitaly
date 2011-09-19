@@ -46,6 +46,8 @@
 ||milanoweb.com/flash/imagerotator.swf
 ||mymovies.it/v9/adv/
 ||notiziarioitaliano.it^*/banner/
+||omniauto.it/2.0/banners/
+||omniauto.it^*/sponsoredby_
 ||omnimilano.it/dati/banner/
 ||omniroma.it/dati/banner/
 ||radiocentro95.it/uploads/banner/
