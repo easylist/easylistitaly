@@ -74,6 +74,8 @@ italia-news.it###box_ricerca
 italia-news.it##.gcon_banners
 italia-news.it##.gcon_banners_label
 itespresso.it###megabanner
+julienews.it##.pages_cnt_banner_box
+julienews.it##.pages_right_big_banner_box
 lapoliticaitaliana.it##.publi
 larena.it##.box-skyscrapers
 larena.it##.header-box

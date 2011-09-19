@@ -35,6 +35,8 @@
 ||italia-film.com/uploads/youtube.gif
 ||italia-news.it/box_ricerca/
 ||italia-news.it/media/banners/
+||julienews.it/upload/nxbannerlocal/
+||julienews.it/upload/nxbannerlocalswf/
 ||lagazzettadelmezzogiorno.it/banner_pk/
 ||lapiazzaweb.it/banner/
 ||lastampa.it^*/banner/
