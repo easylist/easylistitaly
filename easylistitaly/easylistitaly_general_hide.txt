@@ -1,6 +1,8 @@
 ###UNITIS_ads_300250
 ###adsense_testa
 ###fwnetblocco
+###fwnetblocco160x600
+###fwnetblocco300x300
 ###leo-adv
 ###libero_header_adv
 ##.barraSipra
