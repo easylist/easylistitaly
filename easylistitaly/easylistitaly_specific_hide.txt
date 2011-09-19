@@ -39,6 +39,7 @@ digital-sat.it##.banner_centrale
 digital-sat.it##.banner_dx
 dottorsalute.info###leaderboardspace
 eurosat-online.it###bottoni
+famigliacristiana.it###molwidget
 fantagazzetta.com##.bg-ads
 fantascienza.com###partners
 finanza.com###top-banner
