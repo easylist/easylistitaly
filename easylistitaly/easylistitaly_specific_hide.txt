@@ -20,6 +20,7 @@ digital-sat.it###sx_basso_topsx
 digital-sat.it##.banner_centrale
 digital-sat.it##.banner_dx
 dottorsalute.info###leaderboardspace
+fantagazzetta.com##.bg-ads
 finanza.com###top-banner
 fuorissimo.com##td[height="100"][bgcolor="#000000"][width="752"]
 gamemag.it##.ads
