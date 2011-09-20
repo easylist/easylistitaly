@@ -10,6 +10,7 @@
 ###leo-adv
 ###libero_header_adv
 ###pubblicita
+##.adv-articolo
 ##.barraSipra
 ##.box-pubblicita
 ##.inews_adv_top
