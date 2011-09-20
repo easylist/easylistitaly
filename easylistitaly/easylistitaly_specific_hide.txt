@@ -29,6 +29,8 @@ comingsoon.it###BnrRight1
 comingsoon.it###ExpTop
 comingsoon.it###advSkin
 comingsoon.it##.expanding-footer-container
+corrieredellosport.it##.annunci_art
+corrieredellosport.it##.promo_art
 cronacaqui.it##table[height="112"][width="998"]
 cubovision.it##.advertising
 delleconomia.it###powered
