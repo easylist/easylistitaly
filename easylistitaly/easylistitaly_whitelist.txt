@@ -1,4 +1,7 @@
 @@||adv.alice.it/crossdomain.xml$object-subrequest,domain=webtv.cubovision.it
+@@||adv.ilsole24ore.it/crossdomain.xml$object-subrequest,domain=sky.it
+@@||adv.ilsole24ore.it^*/empty.flv$object-subrequest,domain=sky.it
+@@||adv.ilsole24ore.it^*@preroll|$object-subrequest,domain=sky.it
 @@||iads.iltrovatore.it/crossdomain.xml$object-subrequest,domain=la7.it
 @@||iads.iltrovatore.it/www/delivery/xmladv.php?$object-subrequest,domain=la7.it
 @@||panorama.it/adv/$image
