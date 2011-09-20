@@ -157,6 +157,8 @@ retesport.it##.rect_banner
 retesport.it##div[style="float:none;margin-top:10px;text-align:center;width:493px;height:100px;"]
 romagiornoenotte.it##.areabannerTop
 romagiornoenotte.it##.basebannerBox
+romagnaoggi.it###banner990
+romagnaoggi.it##.adv
 rumors.it###block-block-19
 rumors.it###block-block-2
 rumors.it###block-block-26
