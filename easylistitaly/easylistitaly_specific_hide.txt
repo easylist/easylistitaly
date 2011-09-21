@@ -93,6 +93,7 @@ ilsalvagente.it###bannerDx
 ilsalvagente.it###bannerInt
 ilsalvagente.it###bannerTopInt
 ilsalvagente.it##.video
+ilsecoloxix.it###head_banners
 ilsecoloxix.it##.artbanner
 ilsole24ore.com###block300x250
 ilsole24ore.com##.ad
