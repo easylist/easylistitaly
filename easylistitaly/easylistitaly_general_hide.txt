@@ -13,6 +13,7 @@
 ##.adv-articolo
 ##.barraSipra
 ##.box-pubblicita
+##.box_adv_speciali_hp
 ##.inews_adv_top
 ##.promo_sp
 ##.pubblicitapremium
