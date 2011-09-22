@@ -89,6 +89,7 @@
 ||radioradio.it/images/libro300.png
 ||radioradio.it^*/banner_
 ||rampower.it/download/banner/
+||repubblica.it^*/adagiorep.js
 ||repubblica.it^*/negozi_accordion.swf?
 ||repubblica.it^*_contentsense_
 ||resport.it/public/banner/
