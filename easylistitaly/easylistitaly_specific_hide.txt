@@ -169,6 +169,7 @@ panorama.it###immob_box_ricerca
 pctuner.net###boxbanner
 pcworld.it###pangora-chunnel
 pianetacellulare.it##.banner2
+pmi.it##.banner
 qds.it###altro
 qds.it###banner_top
 rai.tv##.placeholder300x250
