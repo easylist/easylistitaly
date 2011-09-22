@@ -65,6 +65,7 @@
 ||masterviaggi.it/banner/
 ||mattinonline.ch^*/banner_
 ||meteo.it/images/banner/
+||meteoweb.eu/immagini/advris/
 ||metronews.it^*/banner_
 ||metropolisweb.it/public/banner/
 ||milanoweb.com/flash/imagerotator.swf
