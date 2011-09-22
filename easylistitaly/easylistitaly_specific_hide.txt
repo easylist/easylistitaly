@@ -129,6 +129,9 @@ lonelyplanetitalia.it###side_banner
 lonelyplanetitalia.it###side_banner_300_100
 lonelyplanetitalia.it###top_banner
 mailexpress.it###ads
+masterviaggi.it###box_link_sponsor
+masterviaggi.it###box_sponsor
+masterviaggi.it##.fieldset_sponsor
 mediapason.it##.banner300
 metalitalia.com###middle-home
 metalitalia.com###sidebar-top
