@@ -72,6 +72,13 @@ html.it##.google
 html.it##.premium-links-container-home-ms
 iammepress.it##.gcon_banners
 iammepress.it##.gcon_banners_label
+ilcapoluogo.com###bannerHeader
+ilcapoluogo.com###tier
+ilcapoluogo.com##.banner1
+ilcapoluogo.com##.banner2
+ilcapoluogo.com##.banner3
+ilcapoluogo.com##.banner4
+ilcapoluogo.com##.block-view-bannerSlide
 ilfattoquotidiano.it##div[style="width:235px; height:75px; margin-top: 10px; overflow:hidden; float:left"]
 ilfattoquotidiano.it##div[style="width:235px; height:75px; overflow:hidden; float:left"]
 ilfattoquotidiano.it##div[style="width:235px; height:85px; margin-top: 10px; overflow:hidden; float:left"]
