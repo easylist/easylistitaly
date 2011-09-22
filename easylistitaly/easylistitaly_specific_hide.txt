@@ -92,6 +92,7 @@ ilgiornale.it###primopiano
 ilgiornale.it###tab_annunci
 ilgiornaledivicenza.it##.box-skyscrapers
 ilgiornaledivicenza.it##.header-box
+iljournal.it##.banner250
 ilmanifesto.it###banner
 ilmanifesto.it##.sponsor-box
 ilmattino.it###molwidget300
