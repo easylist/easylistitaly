@@ -187,6 +187,7 @@ secondamano.it##.moreblock
 shippingonline.ilsecoloxix.it###footer
 shippingonline.ilsecoloxix.it###zona_181
 soldionline.it##.sm_widget_contenitore
+spaziogames.it##img[src="/img/common/blank.gif"][style="width: 99%; height: 99%;"]
 sportivissimo.com##.menu4
 style.it##.side-gallery
 subito.it###coldxbig
