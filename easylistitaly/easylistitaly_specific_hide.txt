@@ -212,6 +212,7 @@ trendystyle.it###block-block-4
 trendystyle.it###block-block-5
 tuttogratis.it###bannerTop
 unita.it##.dannperdere
+varesenews.it###cont_Superbanner
 virgilio.it###cont-leaderboard
 virgilio.it###cont-manchette
 virgilio.it##.adv

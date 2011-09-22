@@ -109,6 +109,7 @@
 ||trasporti-italia.com^*/banner/
 ||ttgitalia.com/contenuti/banner/
 ||tvpitalia.it/sponsor/
+||varesenews.it/banner/
 ||vb33.it/images/banners/
 ||virgilio.it/sg/boxis_
 ||vps-ta.tiscali.it^
