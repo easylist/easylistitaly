@@ -108,6 +108,8 @@ ilsole24ore.com###spot
 ilsole24ore.com##.ad
 informatisubito.myblog.it##table[height="600"][width="120"]
 ininsubria.it###PopUp_Under
+it.msn.com###consiglia
+it.msn.com###markette
 italia-news.it###box_ricerca
 italia-news.it##.gcon_banners
 italia-news.it##.gcon_banners_label
