@@ -112,6 +112,8 @@ julienews.it##.home_left_banner_box
 julienews.it##.pages_cnt_banner_box
 julienews.it##.pages_right_big_banner_box
 lapoliticaitaliana.it##.publi
+laprovinciadicomo.it###banner_header
+laprovinciadicomo.it##.banner_footer
 larena.it##.box-skyscrapers
 larena.it##.header-box
 lastampa.it##.top-right-banner
