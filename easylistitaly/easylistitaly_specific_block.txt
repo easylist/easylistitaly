@@ -10,6 +10,7 @@
 ||businessmagazine.it/i/skin/
 ||campaniameteo.it/banner/
 ||cittaditorino.net/banners/
+||clandestinoweb.com/images/banners/
 ||click.html.it^
 ||climateobserver.it^*/banner-
 ||climateobserver.it^*/banner_
