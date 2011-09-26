@@ -49,6 +49,7 @@ diesis.it###box_banner
 digital-sat.it###sx_basso_topsx
 digital-sat.it##.banner_centrale
 digital-sat.it##.banner_dx
+dissacration.com###leaderboard
 dottorsalute.info###leaderboardspace
 ecodellosport.it###bannerTop
 ecodibergamo.it##.banner_footer
@@ -61,6 +62,7 @@ fattidicronaca.it###bannerTop
 film.it##.ppn_h
 finanza.com###top-banner
 finanzaeborse.it###bannerTop
+fiscaleweb.com###leaderboard
 foxlife.it##div[style="width: 728px; height: 90px; margin: 0px auto 10px auto; background:none;"]
 foxtv.it##.leaderboard
 fuorissimo.com##td[height="100"][bgcolor="#000000"][width="752"]
@@ -74,6 +76,8 @@ gazzetta.it##.pushbar
 gazzettadiparma.it##.elenco-textlink
 gazzettahockey.it##.banner
 gds.it##.pubb
+geekissimo.com###leaderboard
+gingerandtomato.com###leaderboard
 giornaledellamusica.it###top_banner_container
 giornalettismo.com##.liq-frame
 gqitalia.it##.promobox
@@ -96,6 +100,7 @@ ilcapoluogo.com##.banner2
 ilcapoluogo.com##.banner3
 ilcapoluogo.com##.banner4
 ilcapoluogo.com##.block-view-bannerSlide
+ilcinemaniaco.com###leaderboard
 ilfattoquotidiano.it##div[style="width:235px; height:75px; margin-top: 10px; overflow:hidden; float:left"]
 ilfattoquotidiano.it##div[style="width:235px; height:75px; overflow:hidden; float:left"]
 ilfattoquotidiano.it##div[style="width:235px; height:85px; margin-top: 10px; overflow:hidden; float:left"]
@@ -126,6 +131,7 @@ ilsole24ore.com###spot
 ilsole24ore.com##.ad
 informatisubito.myblog.it##table[height="600"][width="120"]
 ininsubria.it###PopUp_Under
+iochiamo.com###leaderboard
 it.msn.com###consiglia
 it.msn.com###markette
 italia-news.it###box_ricerca
@@ -155,11 +161,13 @@ liguriawebcam.com##div[style="overflow:hidden;height:90px;margin:4px 0;"]
 lonelyplanetitalia.it###side_banner
 lonelyplanetitalia.it###side_banner_300_100
 lonelyplanetitalia.it###top_banner
+lussuosissimo.com###leaderboard
 mailexpress.it###ads
 masterviaggi.it###box_link_sponsor
 masterviaggi.it###box_sponsor
 masterviaggi.it##.fieldset_sponsor
 mediapason.it##.banner300
+medicinalive.com###leaderboard
 metalitalia.com###middle-home
 metalitalia.com###sidebar-top
 meteowebcam.it###header_top
@@ -167,10 +175,12 @@ meteowebcam.it##.ads_menu
 meteowebcam.it##.adsense_menu
 metropolisweb.it##.BannerMezzoNotizia
 milanofinanza.it##.ban
+mondoreality.com###leaderboard
 moto.it###rchm_overlay
 moto.it###topboard
 motonline.com###box-bacheca
 motonline.com###box-bachecapremium
+musickr.it###leaderboard
 musicroom.it###bannerTop
 myluxury.it###bannerTop
 mymovies.it##.linkblu[style="width:290px; cursor:pointer; margin-top:5px;"]
@@ -246,6 +256,7 @@ televisionando.it###bannerTop
 tempoitalia.it###headerBanner
 tgcom.mediaset.it###ContentSpecialBox
 tgmonline.it##td[align="right"][width="305"][valign="top"]
+theapplelounge.com###leaderboard
 theinquirer.it##.pubind1
 ticinolibero.ch##.banner
 ticinolibero.ch##.redbar
