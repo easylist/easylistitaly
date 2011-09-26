@@ -17,6 +17,7 @@ azpoint.net##table[cellspacing="2"][cellpadding="1"][border="0"][align="center"]
 bikeracing.it##table[height="180"][width="100%"]
 bitcity.it###banner
 bora.la##.headerbtm
+borsainside.com##.banner_bottom_post
 bresciaoggi.it##.box-skyscrapers
 bresciaoggi.it##.header-box
 cani.com###headerBoard-box
