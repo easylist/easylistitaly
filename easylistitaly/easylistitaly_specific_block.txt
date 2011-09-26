@@ -81,6 +81,7 @@
 ||omnimoto.it/images/home/skin_
 ||omniroma.it/dati/banner/
 ||oxfordparavia.it/img/babylon.gif
+||parmasera.it^*/img_banner/
 ||pctuner.net/banner/
 ||piacenzasera.it^*/img_banner/
 ||puntocellulare.it/banner/

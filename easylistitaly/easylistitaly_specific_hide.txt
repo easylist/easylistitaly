@@ -167,6 +167,9 @@ omnimoto.it###skin_link
 paginebianche.it###leaderboardWrap
 paginegialle.it###leaderboardWrap
 panorama.it###immob_box_ricerca
+parmasera.it##.banner_doc_bottom_foto
+parmasera.it##.banner_globaltop
+parmasera.it##.box-attico
 pctuner.net###boxbanner
 pcworld.it###pangora-chunnel
 piacenzasera.it##.banner_doc_bottom_foto
