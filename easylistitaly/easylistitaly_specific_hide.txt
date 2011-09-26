@@ -169,6 +169,9 @@ paginegialle.it###leaderboardWrap
 panorama.it###immob_box_ricerca
 pctuner.net###boxbanner
 pcworld.it###pangora-chunnel
+piacenzasera.it##.banner_doc_bottom_foto
+piacenzasera.it##.banner_globaltop
+piacenzasera.it##.box-attico
 pianetacellulare.it##.banner2
 pmi.it##.banner
 qds.it###altro

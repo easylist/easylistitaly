@@ -82,6 +82,7 @@
 ||omniroma.it/dati/banner/
 ||oxfordparavia.it/img/babylon.gif
 ||pctuner.net/banner/
+||piacenzasera.it^*/img_banner/
 ||puntocellulare.it/banner/
 ||quicomo.it/qc-ad/
 ||quicomo.it/qc-assets/banner/
