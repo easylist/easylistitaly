@@ -8,6 +8,8 @@
 @@||adv.ilsole24ore.it^*@preroll|$object-subrequest,domain=sky.it
 @@||adv.tre.it/www/$image,script
 @@||ansa.it/web/video/videoad.swf
+@@||ebayrtm.com/rtm?$script,domain=ebay.it
+@@||edintorni.net/related/service/*/jscript/$script,domain=ilgiornale.it
 @@||iads.iltrovatore.it/crossdomain.xml$object-subrequest,domain=la7.it
 @@||iads.iltrovatore.it/www/delivery/xmladv.php?$object-subrequest,domain=la7.it
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=ipaditalia.com|iphoneitalia.com
