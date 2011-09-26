@@ -22,6 +22,9 @@
 ||ecostiera.it^*/banner/
 ||everyeye.it/topskin/
 ||film.tv.it/img/banner/
+||freenewsonline.it^*-300.jpg
+||freenewsonline.it^*/250x250.swf
+||freenewsonline.it^*/banner/
 ||gay.it/me2/
 ||gay.it/metwo/
 ||gayclubbing.it/banner%20
