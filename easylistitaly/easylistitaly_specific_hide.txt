@@ -8,8 +8,10 @@ agichina24.it##.strip
 agichina24.it##.topbanner1
 agimondo.it###overhp
 agoravox.it##.publarge
+allaguida.it###bannerTop
 ansa.it###banner970x30strip
 ansa.it##.adv
+apollodoro.it###bannerTop
 asylumitalia.it###banner
 avvenire.it###htmlcomponent11
 axn.it###block-spti_operative-spti_operative_square
@@ -20,7 +22,9 @@ bora.la##.headerbtm
 borsainside.com##.banner_bottom_post
 bresciaoggi.it##.box-skyscrapers
 bresciaoggi.it##.header-box
+buttalapasta.it###bannerTop
 cani.com###headerBoard-box
+casapoker.it###bannerTop
 cellulare-magazine.it###skin-top-container
 cellularemagazine.it###skin-top-container
 ciao.it###productlevellink
@@ -38,23 +42,31 @@ cronacaqui.it##table[height="112"][width="998"]
 cubovision.it##.advertising
 delleconomia.it###powered
 delleconomia.it##.adv200
+derapate.it###bannerTop
+designmag.it###bannerTop
 diariodelweb.it##.publi
 diesis.it###box_banner
 digital-sat.it###sx_basso_topsx
 digital-sat.it##.banner_centrale
 digital-sat.it##.banner_dx
 dottorsalute.info###leaderboardspace
+ecodellosport.it###bannerTop
 ecodibergamo.it##.banner_footer
+ecoo.it###bannerTop
 eurosat-online.it###bottoni
 famigliacristiana.it###molwidget
 fantagazzetta.com##.bg-ads
 fantascienza.com###partners
+fattidicronaca.it###bannerTop
 film.it##.ppn_h
 finanza.com###top-banner
+finanzaeborse.it###bannerTop
 foxlife.it##div[style="width: 728px; height: 90px; margin: 0px auto 10px auto; background:none;"]
 foxtv.it##.leaderboard
 fuorissimo.com##td[height="100"][bgcolor="#000000"][width="752"]
 gamemag.it##.ads
+games4all.it###bannerTop
+gaywave.it###bannerTop
 gazzetta.it###tv-adv
 gazzetta.it##.bacheca-mkt
 gazzetta.it##.poker
@@ -65,6 +77,7 @@ gds.it##.pubb
 giornaledellamusica.it###top_banner_container
 giornalettismo.com##.liq-frame
 gqitalia.it##.promobox
+haisentito.it###bannerTop
 hostingtalk.it###BannerBottom
 hostingtalk.it###BannerTop
 hostingtalk.it##.Banner
@@ -158,10 +171,15 @@ moto.it###rchm_overlay
 moto.it###topboard
 motonline.com###box-bacheca
 motonline.com###box-bachecapremium
+musicroom.it###bannerTop
+myluxury.it###bannerTop
 mymovies.it##.linkblu[style="width:290px; cursor:pointer; margin-top:5px;"]
 mymovies.it##div[style="width:728px; height:90px;"]
+nanopress.it###bannerTop
 newsfood.com###banner_top
+nextmoto.it###bannerTop
 nokioteca.net##.dex_box
+nonmidire.it###bannerTop
 omniauto.it##.box.gradient[style="height:270px!important; min-height:270px"]
 omniauto.it##.box_listinousato
 omnicorse.it##.skin
@@ -181,9 +199,13 @@ piacenzasera.it##.banner_globaltop
 piacenzasera.it##.box-attico
 pianetacellulare.it##.banner2
 pmi.it##.banner
+politica24.it###bannerTop
+pourfemme.it###btop
 qds.it###altro
 qds.it###banner_top
+qnm.it###btop
 rai.tv##.placeholder300x250
+regaloregali.it###bannerTop
 retesport.it##.rect_banner
 retesport.it##div[style="float:none;margin-top:10px;text-align:center;width:493px;height:100px;"]
 romagiornoenotte.it##.areabannerTop
@@ -208,13 +230,19 @@ sportivissimo.com##.menu4
 stato-oggi.it###adl_leaderboard
 stato-oggi.it###adl_medium_rectangle
 style.it##.side-gallery
+stylosophy.it###bannerTop
 subito.it###coldxbig
 subito.it##.gray_box_small
+suipedali.it###bannerTop
+tantasalute.it###bannerTop
+tecnocino.it###bannerTop
+tecnozoom.it###bannerTop
 telefonino.net###boxShopping
 telefonino.net###google300x250
 telefonino.net###googleHomeNews
 telefonino.net###googleNewsTop
 telefonino.net##div[style="position: relative;width: 310px;height: 110px;margin: 0px -5px 5px -5px;"]
+televisionando.it###bannerTop
 tempoitalia.it###headerBanner
 tgcom.mediaset.it###ContentSpecialBox
 tgmonline.it##td[align="right"][width="305"][valign="top"]
@@ -225,6 +253,7 @@ ticinolibero.ch##div[style="width:300px;height:250px;margin-bottom:10px"]
 ticinolive.ch##.bannerwrap
 ticinonews.ch###ctl00_rectangleleaderhome1_FormView1_ctl00_Banmanpro3Label
 ticinonews.ch###rectangleleaderhome1_FormView1_ctl00_Banmanpro3Label
+ticonzero.info###bannerTop
 tio.ch###Tio_News_Sponsor_basso_Flat
 tio.ch##table[width="302"][style="border:1px solid #A7A9AC;border-top:none;"]
 tiscali.it###banner300x250c20
@@ -239,6 +268,7 @@ tiscali.it##.tsrAdv
 tiscali.it##.w304.mB20
 tiscali.it##.w312.mB25
 tiscali.it##div[style="width: 300px; height: 250px; vertical-align: top; text-align: left;"]
+trackback.it###bannerTop
 treccani.it##.sponsorLogo
 treccani.it##div[style="float:left;margin:35px 0 15px;width:100%;height:166px;text-align:center;"]
 trendystyle.it###block-block-2
@@ -246,6 +276,7 @@ trendystyle.it###block-block-26
 trendystyle.it###block-block-27
 trendystyle.it###block-block-4
 trendystyle.it###block-block-5
+tshot.it###bannerTop
 tuttogratis.it###bannerTop
 unita.it##.dannperdere
 varesenews.it###cont_Superbanner
@@ -253,8 +284,10 @@ virgilio.it###cont-leaderboard
 virgilio.it###cont-manchette
 virgilio.it##.adv
 virgilio.it##.newboxIs
+vivacinema.it###bannerTop
 vivacinema.it###btop
 vivicool.it###navpages
+vostrisoldi.it###bannerTop
 wallstreetitalia.com##.bestbuybiz
 webpedia.altervista.org###banner
 webpedia.altervista.org##div[style="width:728px;height:90px;margin:6px auto;background:#eee"]
