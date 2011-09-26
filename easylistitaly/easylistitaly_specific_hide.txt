@@ -211,7 +211,10 @@ style.it##.side-gallery
 subito.it###coldxbig
 subito.it##.gray_box_small
 telefonino.net###boxShopping
+telefonino.net###google300x250
+telefonino.net###googleHomeNews
 telefonino.net###googleNewsTop
+telefonino.net##div[style="position: relative;width: 310px;height: 110px;margin: 0px -5px 5px -5px;"]
 tempoitalia.it###headerBanner
 tgcom.mediaset.it###ContentSpecialBox
 tgmonline.it##td[align="right"][width="305"][valign="top"]
