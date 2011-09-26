@@ -115,6 +115,8 @@
 ||technologyreview.it/img/banner/
 ||technologyreview.it/img/banner_
 ||telecaprisport.it/banner/
+||telefonino.net/new_files/banners/
+||telefonino.net/shopping/
 ||tempoitalia.it/banner/
 ||tmnews.it^*/banner_
 ||tomshw.it/shoppy.php?

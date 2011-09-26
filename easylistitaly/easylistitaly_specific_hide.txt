@@ -210,6 +210,8 @@ stato-oggi.it###adl_medium_rectangle
 style.it##.side-gallery
 subito.it###coldxbig
 subito.it##.gray_box_small
+telefonino.net###boxShopping
+telefonino.net###googleNewsTop
 tempoitalia.it###headerBanner
 tgcom.mediaset.it###ContentSpecialBox
 tgmonline.it##td[align="right"][width="305"][valign="top"]
