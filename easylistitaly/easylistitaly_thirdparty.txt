@@ -22,6 +22,7 @@
 ||scambiobanner.aruba.it^$third-party
 ||sereni.net/images/banner/
 ||smscellulari.it/pic/banner/$third-party
+||upcom.it^*/banner/
 ||uplink.aruba.it^$third-party
 ||williamhill.it/promodisplay?
 ||williamhill.it/promoloaddisplay?
