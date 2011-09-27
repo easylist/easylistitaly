@@ -4,6 +4,7 @@
 ||amadeusonline.net/banner/
 ||amadeusonline.net/partner/
 ||amadeusonline.net/sponsor/
+||bazar.it/backfiles/banners/
 ||bikeracing.it/bannersbk.jpg
 ||bikeracing.it/sfondo.jpg
 ||bmwpassion.com^*/banners/
