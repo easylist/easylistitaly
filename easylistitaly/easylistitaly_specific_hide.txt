@@ -164,6 +164,7 @@ liguriawebcam.com##div[style="overflow:hidden;height:90px;margin:4px 0;"]
 lonelyplanetitalia.it###side_banner
 lonelyplanetitalia.it###side_banner_300_100
 lonelyplanetitalia.it###top_banner
+losportivo.sm##.bg_blocchi
 lussuosissimo.com###leaderboard
 mailexpress.it###ads
 masterviaggi.it###box_link_sponsor
