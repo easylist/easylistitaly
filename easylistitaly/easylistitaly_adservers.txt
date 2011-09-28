@@ -2,6 +2,7 @@
 ||4wnet.com^$third-party
 ||ad4mat.it^$third-party
 ||adagionet.com^$third-party
+||advplace.com^$third-party
 ||annuncivari.altervista.org^$third-party
 ||bannergratis.it^$third-party
 ||bannerpromotion.it^$third-party
