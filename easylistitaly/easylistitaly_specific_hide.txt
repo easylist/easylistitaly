@@ -9,6 +9,7 @@ agichina24.it##.topbanner1
 agimondo.it###overhp
 agoravox.it##.publarge
 allaguida.it###bannerTop
+alverde.net##td[height="125"]
 ansa.it###banner970x30strip
 ansa.it##.adv
 apollodoro.it###bannerTop
