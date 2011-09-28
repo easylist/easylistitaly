@@ -78,6 +78,7 @@ gazzettadiparma.it##.elenco-textlink
 gazzettahockey.it##.banner
 gds.it##.pubb
 geekissimo.com###leaderboard
+gelocal.it##.box.negozi
 gingerandtomato.com###leaderboard
 giornaledellamusica.it###top_banner_container
 giornalettismo.com##.liq-frame

@@ -16,6 +16,7 @@
 ||hrs.de/wizard.aspx?
 ||iads.iltrovatore.it^
 ||it.widget.kelkoo.com^$third-party
+||kataweb.it^*/negozi/$third-party
 ||noicattolici.it/x_banner/
 ||pangora.com^$image,third-party
 ||prodigiweb.it/hpsponsor/
