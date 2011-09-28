@@ -132,6 +132,8 @@ ilsole24ore.com##.ad
 informatisubito.myblog.it##table[height="600"][width="120"]
 ininsubria.it###PopUp_Under
 iochiamo.com###leaderboard
+ipoditalia.it###topbanner
+ipoditalia.it##.banner_topright
 it.msn.com###consiglia
 it.msn.com###markette
 italia-news.it###box_ricerca
