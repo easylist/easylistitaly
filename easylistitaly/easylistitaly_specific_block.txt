@@ -1,6 +1,7 @@
 ||adnkronos.com^*/banner/
 ||affiliati.cellulare.net^
 ||agi.it^*-google-personalizzato-
+||agienergia.it^*/banner/
 ||amadeusonline.net/banner/
 ||amadeusonline.net/partner/
 ||amadeusonline.net/sponsor/
