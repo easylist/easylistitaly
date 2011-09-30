@@ -83,6 +83,7 @@ gingerandtomato.com###leaderboard
 giornaledellamusica.it###top_banner_container
 giornalettismo.com##.liq-frame
 gqitalia.it##.promobox
+guidaviaggi.it##table[width="215"][height="240"]
 haisentito.it###bannerTop
 hostingtalk.it###BannerBottom
 hostingtalk.it###BannerTop
