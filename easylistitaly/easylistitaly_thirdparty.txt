@@ -16,7 +16,6 @@
 ||gigacenter.it^$image,third-party
 ||hrs.de/wizard.aspx?
 ||iads.iltrovatore.it^
-||it.widget.kelkoo.com^$third-party
 ||kataweb.it/zbanner_consorzio.js
 ||kataweb.it^*/negozi/$third-party
 ||noicattolici.it/x_banner/
