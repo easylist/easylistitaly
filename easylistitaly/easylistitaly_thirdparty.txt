@@ -20,6 +20,7 @@
 ||kataweb.it/zbanner_consorzio.js
 ||kataweb.it^*/negozi/$third-party
 ||noicattolici.it/x_banner/
+||oasjs.kataweb.it^
 ||pangora.com^$image,third-party
 ||prodigiweb.it/hpsponsor/
 ||scambiobanner.aruba.it^$third-party
