@@ -35,6 +35,8 @@
 ||gratisfree.it/cgi-bin/bannergest$script
 ||guidaviaggi.it/banners/
 ||iammepress.it/media/banners/
+||ilcalcio.net/immagini/*-120x240-
+||ilcalcio.net/immagini/*_125x125_
 ||ilfogliocostadamalfi.it/media/banner-
 ||ilfogliocostadamalfi.it/media/banner_
 ||ilgazzettino.it/box_tuttomercato052011/
