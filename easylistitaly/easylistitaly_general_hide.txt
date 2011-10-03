@@ -19,3 +19,4 @@
 ##.promo_sp
 ##.pubblicitapremium
 ##.sponsorizzati
+##a[href^="http://adserver.ilmessaggero.it/"]
