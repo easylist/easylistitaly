@@ -143,3 +143,4 @@
 ||vb33.it/images/banners/
 ||virgilio.it/sg/boxis_
 ||vps-ta.tiscali.it^
+||zabriskiepoint.net^*/banner/
