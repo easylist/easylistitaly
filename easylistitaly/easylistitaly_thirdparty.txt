@@ -18,6 +18,7 @@
 ||gigacenter.it^$image,third-party
 ||hrs.de/wizard.aspx?
 ||iads.iltrovatore.it^
+||ipercast.net/uploads/sponsors/
 ||kataweb.it/zbanner_consorzio.js
 ||kataweb.it^*/negozi/$third-party
 ||noicattolici.it/x_banner/
