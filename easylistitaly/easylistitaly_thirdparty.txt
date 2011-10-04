@@ -25,6 +25,7 @@
 ||scambiobanner.aruba.it^$third-party
 ||sereni.net/images/banner/
 ||smscellulari.it/pic/banner/$third-party
+||streamcaster.net/lunaset/web/template_
 ||upcom.it^*/banner/
 ||uplink.aruba.it^$third-party
 ||williamhill.it/promodisplay?
