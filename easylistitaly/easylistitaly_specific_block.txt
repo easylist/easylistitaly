@@ -126,6 +126,7 @@
 ||repubblica.it^*/negozi_accordion.swf?
 ||repubblica.it^*_contentsense_
 ||resport.it/public/banner/
+||rocknrollradio.it/images/banners/
 ||rtl.it^*_ban_
 ||sanmarinoworld.sm/custom/home/$object
 ||sanmarinoworld.sm/img/home/
