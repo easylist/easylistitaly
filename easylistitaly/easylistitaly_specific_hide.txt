@@ -299,6 +299,7 @@ trendystyle.it###block-block-26
 trendystyle.it###block-block-27
 trendystyle.it###block-block-4
 trendystyle.it###block-block-5
+troppoforte.net###sidebar
 tshot.it###bannerTop
 tuttogratis.it###bannerTop
 unita.it##.dannperdere
