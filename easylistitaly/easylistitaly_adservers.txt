@@ -16,6 +16,7 @@
 ||eadv.it^$third-party
 ||ebuzzing.it^$third-party
 ||juiceadv.com^$third-party
+||livepartners.it^$third-party
 ||maxiadv.com^$third-party
 ||mondoecommerce.it^$third-party
 ||newclick.com^$third-party
