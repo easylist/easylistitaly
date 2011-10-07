@@ -23,6 +23,7 @@
 ||corrieredigela.it/public/sponsor/
 ||digital-forum.it/bannerdtt/
 ||digital-sat.it/img/banner/
+||diretta.it/res/image/bookmaker-list.png
 ||ecoseven.net/img/banner/
 ||ecostiera.it^*/banner/
 ||everyeye.it/topskin/
