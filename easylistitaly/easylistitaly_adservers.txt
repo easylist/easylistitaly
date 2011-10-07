@@ -24,4 +24,5 @@
 ||scambiobanner.it^$third-party
 ||softwareplanet.net^$third-party
 ||sprintrade.com^$third-party
+||superbanner.org^$third-party
 ||tgadv.it^$third-party
