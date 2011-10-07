@@ -27,6 +27,7 @@
 ||ecoseven.net/img/banner/
 ||ecostiera.it^*/banner/
 ||everyeye.it/topskin/
+||factotum.ra.it/attachments/banner_
 ||film.tv.it/img/banner/
 ||freenewsonline.it^*-300.jpg
 ||freenewsonline.it^*/250x250.swf
