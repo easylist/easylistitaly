@@ -83,6 +83,7 @@
 ||liguriawebcam.com/bn/
 ||losportivo.sm/img/banner/
 ||lunico.eu/images/banners/
+||macexchange.it/included/banner*.bfr
 ||mailexpress.it/images/banner_
 ||masterviaggi.it/banner/
 ||mattinonline.ch^*/banner_
