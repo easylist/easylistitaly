@@ -143,6 +143,7 @@
 ||telecaprisport.it/banner/
 ||telefonino.net/new_files/banners/
 ||telefonino.net/shopping/
+||temi-wordpress.net/wp-content/plugins/maxblogpress-unblockable-popup/
 ||tempoitalia.it/banner/
 ||tmnews.it^*/banner_
 ||tomshw.it/shoppy.php?
