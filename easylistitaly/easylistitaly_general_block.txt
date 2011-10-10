@@ -1,6 +1,5 @@
 .it/_adv/
 .it/adv/
-/banner_zanox/*
 /pubblicita-
 /pubblicita.
 /pubblicita/*
