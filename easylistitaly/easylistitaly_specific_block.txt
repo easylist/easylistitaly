@@ -156,6 +156,7 @@
 ||uscatanzaro.net/images/banners/
 ||varesenews.it/banner/
 ||vb33.it/images/banners/
+||virgilio.it/bottomchat/bottom234x60.html
 ||virgilio.it/sg/boxis_
 ||vps-ta.tiscali.it^
 ||zabriskiepoint.net^*/banner/

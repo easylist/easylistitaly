@@ -306,6 +306,7 @@ tshot.it###bannerTop
 tuttogratis.it###bannerTop
 unita.it##.dannperdere
 varesenews.it###cont_Superbanner
+virgilio.it###cht_banner
 virgilio.it###cont-leaderboard
 virgilio.it###cont-manchette
 virgilio.it##.adv
