@@ -24,6 +24,7 @@
 ||noicattolici.it/x_banner/
 ||oasjs.kataweb.it^
 ||pangora.com^$image,third-party
+||planet49.it/cgi-bin/wingame.pl?$image,~image,popup
 ||prodigiweb.it/hpsponsor/
 ||scambiobanner.aruba.it^$third-party
 ||sereni.net/images/banner/
