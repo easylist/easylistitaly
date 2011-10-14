@@ -180,6 +180,8 @@ masterviaggi.it###box_sponsor
 masterviaggi.it##.fieldset_sponsor
 mediapason.it##.banner300
 medicinalive.com###leaderboard
+megalab.it###header_leaderboard
+megalab.it###left_skyscraper
 melamorsicata.it##.mela_ban_1
 melamorsicata.it##.mela_ban_2
 melamorsicata.it##.mela_ban_3
