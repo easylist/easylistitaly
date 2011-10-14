@@ -22,6 +22,7 @@
 ||mondoecommerce.it^$third-party
 ||newclick.com^$third-party
 ||payclick.it^$third-party
+||pirchio.com^$third-party
 ||ragazzeinvendita.com^$third-party
 ||s-p-o-n-s-o-r.com^$third-party
 ||scambiobanner.it^$third-party
