@@ -13,8 +13,6 @@
 ||delosstore.it/banner/
 ||djsoldi.com^$image,third-party
 ||djsuonerie.it/pic/$third-party
-||flv.kataweb.it^*/adv.js
-||flv.kataweb.it^*/adv_player_
 ||gigacenter.it^$image,third-party
 ||hrs.de/wizard.aspx?
 ||iads.iltrovatore.it^
