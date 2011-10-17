@@ -155,6 +155,8 @@
 ||troppoforte.net/bannersopra/
 ||ttgitalia.com/contenuti/banner/
 ||tvpitalia.it/sponsor/
+||twww.tv/campagnabanner/
+||twww.tv^*/background.jpg
 ||uscatanzaro.net/images/banners/
 ||varesenews.it/banner/
 ||vb33.it/images/banners/
