@@ -2,6 +2,7 @@
 ###ADVrettangolopiede
 ###UNITIS_ads_300250
 ###adsense_testa
+###adv_in_post
 ###annunciGoogle
 ###divPubblicita
 ###fwnetblocco

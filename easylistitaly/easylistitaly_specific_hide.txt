@@ -207,6 +207,7 @@ myluxury.it###bannerTop
 mymovies.it##.linkblu[style="width:290px; cursor:pointer; margin-top:5px;"]
 mymovies.it##div[style="width:728px; height:90px;"]
 nanopress.it###bannerTop
+newnotizie.it##.single_sidebar300x250
 newsfood.com###banner_top
 nextmoto.it###bannerTop
 nokioteca.net##.dex_box
