@@ -241,6 +241,7 @@ ravennanotizie.it##.bannerH
 regaloregali.it###bannerTop
 retesport.it##.rect_banner
 retesport.it##div[style="float:none;margin-top:10px;text-align:center;width:493px;height:100px;"]
+rockit.it###skinbanner
 romagiornoenotte.it##.areabannerTop
 romagiornoenotte.it##.basebannerBox
 romagnaoggi.it###banner990
