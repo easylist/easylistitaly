@@ -64,6 +64,7 @@ eurosat-online.it###bottoni
 famigliacristiana.it###molwidget
 fantagazzetta.com##.bg-ads
 fantascienza.com###partners
+fastweb.it###stdRCol
 fattidicronaca.it###bannerTop
 film.it##.ppn_h
 finanza.com###top-banner

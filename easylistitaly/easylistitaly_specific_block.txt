@@ -28,6 +28,9 @@
 ||ecostiera.it^*/banner/
 ||everyeye.it/topskin/
 ||factotum.ra.it/attachments/banner_
+||fastweb.it/portale/speciali/hrs/
+||fastweb.it^*/portale/speciali/
+||fastweb.it^*/rcol/immobiliare/
 ||film.tv.it/img/banner/
 ||firstonline.info/ftp/adv/
 ||freenewsonline.it^*-300.jpg
