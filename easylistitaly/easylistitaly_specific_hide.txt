@@ -278,6 +278,7 @@ telefonino.net###googleNewsTop
 telefonino.net##div[style="position: relative;width: 310px;height: 110px;margin: 0px -5px 5px -5px;"]
 televisionando.it###bannerTop
 tempoitalia.it###headerBanner
+tendenzeonline.info###banner
 tgcom.mediaset.it###ContentSpecialBox
 tgmonline.it##td[align="right"][width="305"][valign="top"]
 theapplelounge.com###leaderboard
