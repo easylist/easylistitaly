@@ -9,7 +9,6 @@
 @@||adv.tre.it/www/$image,script
 @@||ansa.it/web/video/videoad.swf
 @@||ebayrtm.com/rtm?$script,domain=ebay.it
-@@||edintorni.net/related/service/*/jscript/$script,domain=ilgiornale.it
 @@||gelocal.it/adimages/
 @@||iads.iltrovatore.it/crossdomain.xml$object-subrequest,domain=la7.it
 @@||iads.iltrovatore.it/www/delivery/xmladv.php?$object-subrequest,domain=la7.it
