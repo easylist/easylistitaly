@@ -17,6 +17,7 @@
 ##.box_adv_speciali_hp
 ##.inews_adv_top
 ##.linksponsorizzati
+##.modPubblicita
 ##.promo_sp
 ##.pubblicitapremium
 ##.sponsorizzati
