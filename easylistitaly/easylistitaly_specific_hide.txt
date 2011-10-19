@@ -326,6 +326,7 @@ virgilio.it###cont-leaderboard
 virgilio.it###cont-manchette
 virgilio.it##.adv
 virgilio.it##.newboxIs
+virgilio.it##.newboxIsOrizz
 vivacinema.it###bannerTop
 vivacinema.it###btop
 vivicool.it###navpages
