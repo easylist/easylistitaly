@@ -24,6 +24,7 @@
 ||pangora.com^$image,third-party
 ||planet49.it/cgi-bin/wingame.pl?$image,~image,popup
 ||prodigiweb.it/hpsponsor/
+||sanistatic.it/*/300x100_
 ||scambiobanner.aruba.it^$third-party
 ||sereni.net/images/banner/
 ||smscellulari.it/pic/banner/$third-party
