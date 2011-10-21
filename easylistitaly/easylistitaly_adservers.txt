@@ -24,6 +24,7 @@
 ||payclick.it^$third-party
 ||pirchio.com^$third-party
 ||ragazzeinvendita.com^$third-party
+||rivcash.com^$third-party
 ||s-p-o-n-s-o-r.com^$third-party
 ||scambiobanner.it^$third-party
 ||softwareplanet.net^$third-party
