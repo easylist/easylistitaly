@@ -265,6 +265,8 @@ sardegna24.net###banner300x250c20
 secondamano.it##.moreblock
 shippingonline.ilsecoloxix.it###footer
 shippingonline.ilsecoloxix.it###zona_181
+softonic.it##.banner
+softonic.it##.banner_box
 soldionline.it##.sm_widget_contenitore
 spaziogames.it###ads
 spaziogames.it###banner_300
