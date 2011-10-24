@@ -28,6 +28,7 @@
 ||ecostiera.it^*/banner/
 ||everyeye.it/topskin/
 ||factotum.ra.it/attachments/banner_
+||fashiontimes.it/images/banner/
 ||fastweb.it/portale/speciali/hrs/
 ||fastweb.it^*/portale/speciali/
 ||fastweb.it^*/rcol/immobiliare/
