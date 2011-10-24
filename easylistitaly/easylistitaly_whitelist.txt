@@ -22,6 +22,7 @@
 @@||viamichelin.it^*/rentacar.js
 @@||video1.italiaoggi.it/movie/movie/adserver_$object,object-subrequest
 @@||video1.milanofinanza.it/movie/movie/adserver_$object,object-subrequest
+@@||view.binlayer.com/ad-*.js$script,domain=videofamosi.com
 @@||youreporter.it/adv/ova-matrix.xml.php?$object-subrequest
 ! Anti-Adblock
 @@||hwupgrade.org/forum/advertisement.js
