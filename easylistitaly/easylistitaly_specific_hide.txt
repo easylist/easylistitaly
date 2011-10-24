@@ -334,6 +334,7 @@ virgilio.it###cont-manchette
 virgilio.it##.adv
 virgilio.it##.newboxIs
 virgilio.it##.newboxIsOrizz
+vistointv.net##.topbanner2
 vivacinema.it###bannerTop
 vivacinema.it###btop
 vivicool.it###navpages
