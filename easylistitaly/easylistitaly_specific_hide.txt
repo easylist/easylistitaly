@@ -345,4 +345,5 @@ wallstreetitalia.com##.bestbuybiz
 webpedia.altervista.org###banner
 webpedia.altervista.org##div[style="width:728px;height:90px;margin:6px auto;background:#eee"]
 wintricks.it##div[style="width:980px;height:90px;margin: 0 auto"]
+wintricks.it##div[style="width:980px;height:90px;margin: 0 auto;background:none"]
 zapster.it##.addx
