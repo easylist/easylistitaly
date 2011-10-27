@@ -122,6 +122,7 @@
 ||quicomo.it/qc-assets/banner/
 ||radiocentro95.it/uploads/banner/
 ||radiocentro95.it/uploads/bannerr/
+||radioitaliacharleroi.com/adv/
 ||radiomarte.it/site/images/sponsor/
 ||radionostalgia.fm^*/banner/
 ||radioradio.it/images/banner-
