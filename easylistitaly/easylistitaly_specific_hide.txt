@@ -56,6 +56,8 @@ diretta.it###tab-bonus-offers
 diretta.it###tab-odds
 diritto-oggi.it###adl_leaderboard
 diritto-oggi.it###adl_medium_rectangle
+disabili-oggi.it###adl_leaderboard
+disabili-oggi.it###adl_medium_rectangle
 dissacration.com###leaderboard
 dottorsalute.info###leaderboardspace
 ecodellosport.it###bannerTop
