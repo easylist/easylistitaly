@@ -218,6 +218,8 @@ newsfood.com###banner_top
 nextmoto.it###bannerTop
 nokioteca.net##.dex_box
 nonmidire.it###bannerTop
+nonsolocap.it###qk
+nonsolocap.it##.ba
 nonsolocap.it##.ru
 nonsolocinema.com##.banners
 omniauto.it##.box.gradient[style="height:270px!important; min-height:270px"]
