@@ -12,7 +12,7 @@
 @@||gelocal.it/adimages/
 @@||iads.iltrovatore.it/crossdomain.xml$object-subrequest,domain=la7.it
 @@||iads.iltrovatore.it/www/delivery/xmladv.php?$object-subrequest,domain=la7.it
-@@||oasjs.kataweb.it/adsetup.js$domain=tv.repubblica.it
+@@||oasjs.kataweb.it/adsetup.js$domain=video.repubblica.it
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=ipaditalia.com|iphoneitalia.com
 @@||panorama.it/adv/$image
 @@||rampower.it/flash/rp_player_rtmp.swf?*&videourl=http://www.rampower.it/advertising/$object
