@@ -14,6 +14,7 @@ allaguida.it###bannerTop
 alverde.net##td[height="125"]
 ansa.it###banner970x30strip
 ansa.it##.adv
+ansa.it##.text-link
 apollodoro.it###bannerTop
 asylumitalia.it###banner
 avvenire.it###htmlcomponent11
