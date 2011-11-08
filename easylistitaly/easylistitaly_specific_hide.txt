@@ -44,6 +44,7 @@ corrieredellosport.it##.annunci_art
 corrieredellosport.it##.promo_art
 cronacaqui.it##table[height="112"][width="998"]
 cubovision.it##.advertising
+deejay.it###ppn
 delleconomia.it###powered
 delleconomia.it##.adv200
 derapate.it###bannerTop
