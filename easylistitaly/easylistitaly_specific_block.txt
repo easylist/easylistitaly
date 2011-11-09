@@ -18,6 +18,7 @@
 ||climateobserver.it^*/banner-
 ||climateobserver.it^*/banner_
 ||comingsoon.it/imgdb/banner/
+||console-tribe.com^*/images/adv/
 ||coriglianocalabro.it/images/banners/
 ||coriglianocalabro.it^*/banner/
 ||corrieredigela.it/public/sponsor/
