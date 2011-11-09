@@ -231,6 +231,7 @@ omnicorse.it##.skin
 omnifurgone.it###skin_link
 omnifurgone.it###sponsor_logo_header
 omnimoto.it###skin_link
+orangedropdesign.com##.banner
 paginebianche.it###leaderboardWrap
 paginegialle.it###leaderboardWrap
 panorama.it###immob_box_ricerca
