@@ -250,6 +250,7 @@ qds.it###altro
 qds.it###banner_top
 qnm.it###btop
 quattroruote.it###adv_wideleaderboard
+quattroruote.it##.adv-key
 rai.tv##.placeholder300x250
 ravennanotizie.it##.bannerH
 regaloregali.it###bannerTop

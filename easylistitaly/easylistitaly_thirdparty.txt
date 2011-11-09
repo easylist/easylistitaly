@@ -14,6 +14,8 @@
 ||delosstore.it/banner/
 ||djsoldi.com^$image,third-party
 ||djsuonerie.it/pic/$third-party
+||edidomus.it^*/45x45_
+||edidomus.it^*_45x45.
 ||gigacenter.it^$image,third-party
 ||hrs.de/wizard.aspx?
 ||iads.iltrovatore.it^
