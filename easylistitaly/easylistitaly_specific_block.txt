@@ -168,6 +168,7 @@
 ||ttgitalia.com/contenuti/banner/
 ||tvpitalia.it/sponsor/
 ||twww.tv/campagnabanner/
+||twww.tv/get_banner.php?
 ||twww.tv^*/background.jpg
 ||uscatanzaro.net/images/banners/
 ||varesenews.it/banner/
