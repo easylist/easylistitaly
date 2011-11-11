@@ -29,6 +29,7 @@
 ||planet49.it/cgi-bin/wingame.pl?$image,~image,popup
 ||prodigiweb.it/hpsponsor/
 ||radiobanner.ws-008.com/banner.swf?$domain=radiosportiva.com
+||regaliper.me^$subdocument,third-party
 ||sanistatic.it/*/300x100_
 ||scambiobanner.aruba.it^$third-party
 ||sereni.net/images/banner/
