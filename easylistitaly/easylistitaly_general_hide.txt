@@ -1,6 +1,8 @@
 ###ADVrettangolo
 ###ADVrettangolopiede
 ###UNITIS_ads_300250
+###adl_leaderboard
+###adl_medium_rectangle
 ###adsense_testa
 ###adv_in_post
 ###annunciGoogle

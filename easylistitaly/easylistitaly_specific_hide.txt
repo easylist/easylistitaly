@@ -2,7 +2,6 @@
 4risate.com##.ad
 a-realestate.it##.adv
 a-realestate.it##.spot_banner
-agi.it###adl_medium_rectangle
 agi.it##.banner
 agichina24.it##.banner
 agichina24.it##.strip
@@ -56,10 +55,6 @@ digital-sat.it##.banner_centrale
 digital-sat.it##.banner_dx
 diretta.it###tab-bonus-offers
 diretta.it###tab-odds
-diritto-oggi.it###adl_leaderboard
-diritto-oggi.it###adl_medium_rectangle
-disabili-oggi.it###adl_leaderboard
-disabili-oggi.it###adl_medium_rectangle
 dissacration.com###leaderboard
 dottorsalute.info###leaderboardspace
 ecodellosport.it###bannerTop
@@ -288,8 +283,6 @@ spaziogames.it###ads
 spaziogames.it###banner_300
 spaziogames.it##img[src="/img/common/blank.gif"][style="width: 99%; height: 99%;"]
 sportivissimo.com##.menu4
-stato-oggi.it###adl_leaderboard
-stato-oggi.it###adl_medium_rectangle
 style.it##.side-gallery
 stylosophy.it###bannerTop
 subito.it###coldxbig
