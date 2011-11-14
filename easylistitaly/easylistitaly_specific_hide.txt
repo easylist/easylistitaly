@@ -1,4 +1,5 @@
 242movietv.com###back_inside
+312.it##table[width="728"][height="90"]
 4risate.com##.ad
 a-realestate.it##.adv
 a-realestate.it##.spot_banner
