@@ -286,6 +286,7 @@ spaziogames.it###banner_300
 spaziogames.it##img[src="/img/common/blank.gif"][style="width: 99%; height: 99%;"]
 sportivissimo.com##.menu4
 style.it##.side-gallery
+style.it##.style_promo
 stylosophy.it###bannerTop
 subito.it###coldxbig
 subito.it##.gray_box_small
