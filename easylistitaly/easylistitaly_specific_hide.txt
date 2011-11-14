@@ -29,6 +29,7 @@ bresciaoggi.it##.header-box
 buttalapasta.it###bannerTop
 cani.com###headerBoard-box
 casapoker.it###bannerTop
+cattoliciromani.com###posts > div:nth-child(2) .tborder[id^="post"]:first-child:last-child
 cellulare-magazine.it###skin-top-container
 cellularemagazine.it###skin-top-container
 ciao.it###productlevellink
