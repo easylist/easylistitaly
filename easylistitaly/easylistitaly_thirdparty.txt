@@ -26,6 +26,7 @@
 ||noicattolici.it/x_banner/
 ||oasjs.kataweb.it^
 ||pangora.com^$image,third-party
+||partypoker.it/td/$image,~image,popup
 ||planet49.it/cgi-bin/wingame.pl?$image,~image,popup
 ||prodigiweb.it/hpsponsor/
 ||radiobanner.ws-008.com/banner.swf?$domain=radiosportiva.com
