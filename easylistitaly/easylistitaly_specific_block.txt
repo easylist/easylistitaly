@@ -59,6 +59,7 @@
 ||ilgazzettino.it/imgmol/
 ||ilgiornale.it/web/*/tab_
 ||ilgiornaledienna.it/images/banners/
+||ilgiornaledigela.it/images/banners/
 ||ilgiornalediragusa.it/images/banners/
 ||ilmanifesto.it^*/sponsors/
 ||ilmattino.it/box_tuttomercato052011/
