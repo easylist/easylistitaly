@@ -18,6 +18,7 @@ ansa.it##.adv
 ansa.it##.text-link
 apollodoro.it###bannerTop
 asylumitalia.it###banner
+auto7.it##div[style="height:280px; width:336px; margin:2px 2px; float:left;"]
 avvenire.it###htmlcomponent11
 axn.it###block-spti_operative-spti_operative_square
 azpoint.net##table[cellspacing="2"][cellpadding="1"][border="0"][align="center"][width="90%"]
