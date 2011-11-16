@@ -12,6 +12,7 @@
 ||bmwpassion.com^*/banners/
 ||businessmagazine.it/i/skin/
 ||campaniameteo.it/banner/
+||casaportale.com/public/uploads/
 ||catanzaroinforma.it/public/sponsor/
 ||cittaditorino.net/banners/
 ||clandestinoweb.com/images/banners/
