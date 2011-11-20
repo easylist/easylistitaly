@@ -23,6 +23,7 @@
 ||iplaza.it/menu/mistercupido.png
 ||kataweb.it/zbanner_consorzio.js
 ||kataweb.it^*/negozi/$third-party
+||netweek.it/ban_
 ||noicattolici.it/x_banner/
 ||oasjs.kataweb.it^
 ||pangora.com^$image,third-party
