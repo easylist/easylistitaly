@@ -114,6 +114,7 @@
 ||milanoweb.com/flash/imagerotator.swf
 ||motonline.com^*/partner/
 ||mymovies.it/v9/adv/
+||netweek.it/banneranalyzer/
 ||newz.it^*/sponsor/
 ||notiziarioitaliano.it^*/banner/
 ||omniauto.it/2.0/banners/
