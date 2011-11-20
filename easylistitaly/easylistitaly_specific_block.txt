@@ -131,6 +131,7 @@
 ||piacenzasera.it^*/img_banner/
 ||positanonews.it/include_gen/banner_
 ||positanonews.it/publicnew/banners/
+||primissima.it/images/background_images/
 ||pubblicitaitalia.it^*banner_
 ||puntocellulare.it/banner/
 ||quicomo.it/qc-ad/

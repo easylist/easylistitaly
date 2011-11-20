@@ -248,6 +248,7 @@ pianetacellulare.it##.banner2
 pmi.it##.banner
 politica24.it###bannerTop
 pourfemme.it###btop
+primissima.it###banner_top
 qds.it###altro
 qds.it###banner_top
 qnm.it###btop
