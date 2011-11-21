@@ -345,6 +345,7 @@ troppoforte.net###sidebar
 tshot.it###bannerTop
 tuttogratis.it###bannerTop
 unita.it##.dannperdere
+vanityfair.it##.promo
 varesenews.it###cont_Superbanner
 virgilio.it###cht_banner
 virgilio.it###cont-leaderboard
