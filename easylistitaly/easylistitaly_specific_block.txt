@@ -86,6 +86,7 @@
 ||julienews.it/upload/nxbannerlocalswf/
 ||lagazzettadelmezzogiorno.it/banner_pk/
 ||lagazzettadilucca.it^*/inserzioni/
+||lametino.it/images/banners/
 ||lapiazzaweb.it/banner/
 ||lastampa.it^*/banner/
 ||latitudeslife.com^*/banners/
