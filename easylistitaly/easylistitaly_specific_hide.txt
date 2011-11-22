@@ -256,6 +256,7 @@ qds.it###altro
 qds.it###banner_top
 qnm.it###btop
 quattroruote.it###adv_wideleaderboard
+quattroruote.it###bannerrcl
 quattroruote.it##.adv-key
 quotidiano.net##.google-728
 rai.tv##.placeholder300x250
