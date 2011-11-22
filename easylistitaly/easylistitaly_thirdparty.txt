@@ -16,6 +16,7 @@
 ||djsuonerie.it/pic/$third-party
 ||edidomus.it^*/45x45_
 ||edidomus.it^*_45x45.
+||funpage.it^$image,~image,popup
 ||gigacenter.it^$image,third-party
 ||hrs.de/wizard.aspx?
 ||iads.iltrovatore.it^
@@ -35,7 +36,6 @@
 ||regaliper.me^$subdocument,third-party
 ||sanistatic.it/*/300x100_
 ||scambiobanner.aruba.it^$third-party
-||scommessesportive.funpage.it^$image,~image,popup
 ||sereni.net/images/banner/
 ||smscellulari.it/pic/banner/$third-party
 ||streamcaster.net/lunaset/web/template_
