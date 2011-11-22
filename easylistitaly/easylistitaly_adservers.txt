@@ -17,6 +17,7 @@
 ||doubleclick.net^*;sz=$object-subrequest,third-party,domain=ansa.it|ilmeteo.it|tiscali.it|unita.it
 ||eadv.it^$third-party
 ||ebuzzing.it^$third-party
+||gambling-italia.com^$third-party
 ||juiceadv.com^$third-party
 ||livepartners.it^$third-party
 ||maxiadv.com^$third-party
