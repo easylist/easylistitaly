@@ -65,6 +65,7 @@ dottorsalute.info###leaderboardspace
 ecodellosport.it###bannerTop
 ecodibergamo.it##.banner_footer
 ecoo.it###bannerTop
+essenzialeonline.it##.advPostLibri
 eurosat-online.it###bottoni
 famigliacristiana.it###molwidget
 fantagazzetta.com##.bg-ads

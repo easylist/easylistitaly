@@ -35,6 +35,7 @@
 ||regaliper.me^$subdocument,third-party
 ||sanistatic.it/*/300x100_
 ||scambiobanner.aruba.it^$third-party
+||scommessesportive.funpage.it^$image,~image,popup
 ||sereni.net/images/banner/
 ||smscellulari.it/pic/banner/$third-party
 ||streamcaster.net/lunaset/web/template_
