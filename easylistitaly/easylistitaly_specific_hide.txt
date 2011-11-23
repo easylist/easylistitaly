@@ -186,6 +186,7 @@ libero.it##div[style="width: 180px; height: 150px;"]
 libero.it##div[style="width: 300px; height: 250px;"]
 lifegate.it##a[href^="http://goo.gl/"]
 liguriawebcam.com##div[style="overflow:hidden;height:90px;margin:4px 0;"]
+lipari.biz##.banner
 lonelyplanetitalia.it###side_banner
 lonelyplanetitalia.it###side_banner_300_100
 lonelyplanetitalia.it###top_banner

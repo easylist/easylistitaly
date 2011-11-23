@@ -16,6 +16,7 @@
 ##.adv-articolo
 ##.barraSipra
 ##.box-pubblicita
+##.boxADV
 ##.box_adv_speciali_hp
 ##.inews_adv_top
 ##.linksponsorizzati
