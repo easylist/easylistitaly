@@ -22,7 +22,6 @@
 ||juiceadv.com^$third-party
 ||livepartners.it^$third-party
 ||maxiadv.com^$third-party
-||mediacpm.com^$third-party
 ||mondoecommerce.it^$third-party
 ||newclick.com^$third-party
 ||payclick.it^$third-party
