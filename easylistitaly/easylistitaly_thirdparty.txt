@@ -16,6 +16,8 @@
 ||djsuonerie.it/pic/$third-party
 ||edidomus.it^*/45x45_
 ||edidomus.it^*_45x45.
+||filepremier.com/banners.php?
+||filepremier.com/iframe/box2.js
 ||funpage.it^$image,~image,popup
 ||gigacenter.it^$image,third-party
 ||hrs.de/wizard.aspx?
