@@ -26,6 +26,7 @@
 ||iplaza.it/menu/mistercupido.png
 ||kataweb.it/zbanner_consorzio.js
 ||kataweb.it^*/negozi/$third-party
+||net-expire.tccstatic.com^*/banner.js
 ||netweek.it/ban_
 ||noicattolici.it/x_banner/
 ||oasjs.kataweb.it^
