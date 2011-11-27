@@ -3,6 +3,7 @@
 ||ad4mat.it^$third-party
 ||adagionet.com^$third-party
 ||adbrawl.com^$third-party
+||addyon.com^$third-party
 ||advplace.com^$third-party
 ||affiliationpartner.it^$third-party
 ||annuncivari.altervista.org^$third-party
