@@ -29,6 +29,7 @@
 ||maxiadv.com^$third-party
 ||mondoecommerce.it^$third-party
 ||newclick.com^$third-party
+||partypartners.it^$third-party
 ||payclick.it^$third-party
 ||pirchio.com^$third-party
 ||pubbli7.it^$third-party
