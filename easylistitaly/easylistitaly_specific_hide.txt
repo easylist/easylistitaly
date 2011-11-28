@@ -319,7 +319,7 @@ telefonino.net##div[style="position: relative;width: 310px;height: 110px;margin:
 televisionando.it###bannerTop
 tempoitalia.it###headerBanner
 tendenzeonline.info###banner
-tgcom.mediaset.it###ContentSpecialBox
+tgcom24.mediaset.it###ContentSpecialBox
 tgmonline.it##td[align="right"][width="305"][valign="top"]
 theapplelounge.com###leaderboard
 theinquirer.it##.pubind1
