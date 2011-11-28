@@ -332,6 +332,8 @@ ticinonews.ch###rectangleleaderhome1_FormView1_ctl00_Banmanpro3Label
 ticonzero.info###bannerTop
 tio.ch###Tio_News_Sponsor_basso_Flat
 tio.ch##table[width="302"][style="border:1px solid #A7A9AC;border-top:none;"]
+tipiace.it###externalbanner
+tipiace.it###vetrina
 tiscali.it###banner300x250c20
 tiscali.it##.ADV
 tiscali.it##.boxBanner
