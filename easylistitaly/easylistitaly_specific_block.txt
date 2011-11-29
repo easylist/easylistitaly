@@ -19,6 +19,8 @@
 ||catanzaroinforma.it/public/sponsor/
 ||cheauto.it/asset/img/prestitionline.gif
 ||cittaditorino.net/banners/
+||cityrumors.it/images/banners/
+||cityrumors.it/modules/mod_flexbanner/
 ||clandestinoweb.com/images/banners/
 ||click.html.it^
 ||climateobserver.it^*/banner-
