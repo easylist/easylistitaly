@@ -1,4 +1,5 @@
 ||312.it/img/banner/
+||abruzzoweb.it/images/banner/
 ||adnkronos.com^*/banner/
 ||affiliati.cellulare.net^
 ||agi.it^*-google-personalizzato-
