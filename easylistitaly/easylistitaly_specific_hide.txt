@@ -310,7 +310,7 @@ subito.it##.gray_box_small
 suipedali.it###bannerTop
 tantasalute.it###bannerTop
 tecnocino.it###btop
-tecnozoom.it###bannerTop
+tecnozoom.it###btop
 telefonino.net###boxShopping
 telefonino.net###google300x250
 telefonino.net###googleHomeNews
