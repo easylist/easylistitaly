@@ -13,6 +13,7 @@ agoravox.it##.publarge
 airdave.it##.banner
 allaguida.it###bannerTop
 alverde.net##td[height="125"]
+androidiani.com##div[style="border:4px dashed orange;height:90px;width:728px;margin:0 auto"]
 ansa.it###banner970x30strip
 ansa.it##.adv
 ansa.it##.text-link
