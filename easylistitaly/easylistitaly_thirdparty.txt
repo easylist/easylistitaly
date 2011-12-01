@@ -15,6 +15,7 @@
 ||djsoldi.com^$image,third-party
 ||djsuonerie.it/pic/$third-party
 ||edidomus.it^*/45x45_
+||edidomus.it^*180x150.
 ||edidomus.it^*_45x45.
 ||ediscom.it^*banner/
 ||fideliux.com/fideliux/banners/
