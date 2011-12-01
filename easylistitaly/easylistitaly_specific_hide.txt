@@ -313,9 +313,11 @@ tantasalute.it###bannerTop
 tecnocino.it###btop
 tecnozoom.it###btop
 telefonino.net###boxShopping
+telefonino.net###ebayBox
 telefonino.net###google300x250
 telefonino.net###googleHomeNews
 telefonino.net###googleNewsTop
+telefonino.net###googleProveTop
 telefonino.net##div[style="position: relative;width: 310px;height: 110px;margin: 0px -5px 5px -5px;"]
 televisionando.it###bannerTop
 tempoitalia.it###headerBanner
