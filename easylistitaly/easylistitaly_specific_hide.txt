@@ -182,10 +182,10 @@ lastampa.it##.top-right-banner
 latitudeslife.com###head_banner
 lavorincasa.it##.bak
 leggo.it###molwidget300
-libero-news.it###bannerbox1
 libero.it###chunnel-affari-300x170
 libero.it##div[style="width: 180px; height: 150px;"]
 libero.it##div[style="width: 300px; height: 250px;"]
+liberoquotidiano.it###bannerbox1
 liberoquotidiano.it##.BannerHead
 lifegate.it##a[href^="http://goo.gl/"]
 liguriawebcam.com##div[style="overflow:hidden;height:90px;margin:4px 0;"]
