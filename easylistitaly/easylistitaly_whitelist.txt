@@ -18,6 +18,7 @@
 @@||rampower.it/flash/rp_player_rtmp.swf?*&videourl=http://www.rampower.it/advertising/$object
 @@||repubblica.it/adimages/
 @@||search.excite.it/minify.php?files*/css/feed/adsearch.css
+@@||static.fanpage.it^*/adsense.swf?$object-subrequest
 @@||viamichelin.it/static/advert/afsquery/afsquery.js
 @@||viamichelin.it^*/rentacar.js
 @@||video1.italiaoggi.it/movie/movie/adserver_$object,object-subrequest
