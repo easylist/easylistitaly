@@ -253,6 +253,7 @@ parmasera.it##.banner_globaltop
 parmasera.it##.box-attico
 pctuner.net###boxbanner
 pcworld.it###pangora-chunnel
+petizionionline.it##.yahoo
 piacenzasera.it##.banner_doc_bottom_foto
 piacenzasera.it##.banner_globaltop
 piacenzasera.it##.box-attico
