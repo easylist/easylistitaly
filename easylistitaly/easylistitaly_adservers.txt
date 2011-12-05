@@ -33,6 +33,7 @@
 ||partypartners.it^$third-party
 ||payclick.it^$third-party
 ||pirchio.com^$third-party
+||plavid.com^$third-party
 ||pubbli7.it^$third-party
 ||ragazzeinvendita.com^$third-party
 ||rivcash.com^$third-party

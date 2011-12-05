@@ -193,6 +193,10 @@
 ||troppoforte.net/banner300px/
 ||troppoforte.net/bannersopra/
 ||ttgitalia.com/contenuti/banner/
+||tuttobasket.net/aries_
+||tuttobasket.net/assist.
+||tuttobasket.net/assist_
+||tuttobasket.net/banner_
 ||tvpitalia.it/sponsor/
 ||twww.tv/campagnabanner/
 ||twww.tv/get_banner.php?

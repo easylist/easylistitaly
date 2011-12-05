@@ -360,6 +360,7 @@ trendystyle.it###block-block-4
 trendystyle.it###block-block-5
 troppoforte.net###sidebar
 tshot.it###bannerTop
+tuttobasket.net###banner_head
 tuttogratis.it###bannerTop
 unita.it##.dannperdere
 vanityfair.it##.promo
