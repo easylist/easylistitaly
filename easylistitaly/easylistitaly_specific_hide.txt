@@ -141,6 +141,7 @@ ilmanifesto.it###banner
 ilmanifesto.it##.sponsor-box
 ilmattino.it###molwidget300
 ilmessaggero.it###molwidget300
+ilmonferrato.it###thin_banners_container
 ilquotidiano.it##.banner728
 ilquotidiano.it##.box-attico
 ilsalvagente.it###bannerBottomExtra
