@@ -133,6 +133,7 @@
 ||motonline.com^*/partner/
 ||mymovies.it/v9/adv/
 ||netweek.it/banneranalyzer/
+||network.alfemminile.com^
 ||newz.it^*/sponsor/
 ||notiziarioitaliano.it^*/banner/
 ||omniauto.it/2.0/banners/
