@@ -178,6 +178,7 @@
 ||sanmarinoworld.sm/img/home/
 ||sanmarinoworld.sm^*/bnr/
 ||secondamano.it^*/footer_cobrand/
+||sky.it/static/images/sito/skin_
 ||smtvsanmarino.sm/*/bnr/
 ||spartoo.it/footer_tag_iframe.
 ||spaziogames.it/banner/

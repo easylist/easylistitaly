@@ -9,6 +9,7 @@
 @@||adv.tre.it/www/$image,script
 @@||ansa.it/web/video/videoad.swf
 @@||edintorni.net/related/service/*/jscript/$script,domain=ilgiornale.it
+@@||eyewonder.com^*/video/$object-subrequest,domain=sky.it
 @@||gelocal.it/adimages/
 @@||iads.iltrovatore.it/crossdomain.xml$object-subrequest,domain=la7.it
 @@||iads.iltrovatore.it/www/delivery/xmladv.php?$object-subrequest,domain=la7.it
