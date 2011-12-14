@@ -44,8 +44,10 @@
 ||scambiobanner.aruba.it^$third-party
 ||sereni.net/images/banner/
 ||smscellulari.it/pic/banner/$third-party
+||spingitori.it/spnadv/
 ||streamcaster.net/lunaset/web/template_
 ||tophost.it/banners/
+||unibr.altervista.org/pub.html
 ||upcom.it^*/banner/
 ||uplink.aruba.it^$third-party
 ||viagogo.it/feeds/widget.ashx?*&affiliateid=$subdocument

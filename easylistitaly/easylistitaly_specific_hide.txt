@@ -165,6 +165,7 @@ it.msn.com###markette
 italia-news.it###box_ricerca
 italia-news.it##.gcon_banners
 italia-news.it##.gcon_banners_label
+itawow.it##div[style="height:60px; width:468px; float:left; margin-left:40px;"]
 itespresso.it###megabanner
 jacktech.it###assicu_box_ricerca
 jacktech.it##.jk_banner
