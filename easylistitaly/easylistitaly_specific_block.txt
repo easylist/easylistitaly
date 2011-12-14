@@ -193,6 +193,7 @@
 ||temi-wordpress.net/wp-content/plugins/maxblogpress-unblockable-popup/
 ||tempoitalia.it/banner/
 ||tmnews.it^*/banner_
+||tomshw.it/files/liste/skin*.jpg
 ||tomshw.it/shoppy.php?
 ||topnegozi.it^*/banner/
 ||trasporti-italia.com^*/banner/
