@@ -68,6 +68,8 @@ ecodellosport.it###bannerTop
 ecodibergamo.it##.banner_footer
 ecoo.it###bannerTop
 essenzialeonline.it##.advPostLibri
+eurogamer.it###leaderboard
+eurogamer.it###skyscraper
 eurosat-online.it###bottoni
 excite.it##.textlink_content
 f1passion.it##div[style="float:left; width:300px; height:250px; background:#f80; margin-bottom:24px;"]
