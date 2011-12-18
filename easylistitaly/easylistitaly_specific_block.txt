@@ -33,6 +33,7 @@
 ||coriglianocalabro.it^*/banner/
 ||corrieredigela.it/public/sponsor/
 ||digital-forum.it/bannerdtt/
+||digital-sat.it/ds_mpppv/
 ||digital-sat.it/img/banner/
 ||diretta.it/res/image/bookmaker-list.png
 ||ecoseven.net/img/banner/
