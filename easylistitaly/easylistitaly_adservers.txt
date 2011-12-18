@@ -33,8 +33,10 @@
 ||maxiadv.com^$third-party
 ||mondoecommerce.it^$third-party
 ||newclick.com^$third-party
+||partners-aedgency.com^$third-party
 ||partypartners.it^$third-party
 ||payclick.it^$third-party
+||perfcreatives.com^$third-party
 ||pirchio.com^$third-party
 ||plavid.com^$third-party
 ||pubbli7.it^$third-party
