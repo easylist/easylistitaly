@@ -175,6 +175,7 @@
 ||rockit.it/res/css3/skin_
 ||rocknrollradio.it/images/banners/
 ||rtl.it^*_ban_
+||sanmarinofixing.com/smfixing/images/banners/
 ||sanmarinoworld.sm/custom/home/$object
 ||sanmarinoworld.sm/img/home/
 ||sanmarinoworld.sm^*/bnr/
