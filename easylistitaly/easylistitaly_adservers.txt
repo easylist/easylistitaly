@@ -17,7 +17,6 @@
 ||bannerpromotion.it^$third-party
 ||clickadv.it^$third-party
 ||clickpoint.it^$third-party
-||crazylead.com^$third-party
 ||crmpilot.it^$third-party
 ||delosnetwork.it^$third-party
 ||divascam.com^$third-party
