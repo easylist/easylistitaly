@@ -50,6 +50,8 @@
 ||freenewsonline.it^*-300.jpg
 ||freenewsonline.it^*/250x250.swf
 ||freenewsonline.it^*/banner/
+||freetvonline.altervista.org/images/abbigliamentocalcio/
+||freetvonline.altervista.org/images/bazarcoupon/
 ||futur3.it/uploaded_files/
 ||gay.it/me2/
 ||gay.it/metwo/
