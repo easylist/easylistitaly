@@ -141,6 +141,8 @@ ilgiornaledivicenza.it##.box-skyscrapers
 ilgiornaledivicenza.it##.header-box
 iljournal.it##.banner250
 ilmanifesto.it###banner
+ilmanifesto.it##.banner
+ilmanifesto.it##.fascia_Arial
 ilmanifesto.it##.sponsor-box
 ilmattino.it###molwidget300
 ilmessaggero.it###molwidget300
