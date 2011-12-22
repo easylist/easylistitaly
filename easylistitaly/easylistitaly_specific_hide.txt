@@ -187,6 +187,7 @@ larena.it##.box-skyscrapers
 larena.it##.header-box
 lastampa.it###badge
 lastampa.it##.top-right-banner
+lastampa.it##div[style="width: 990px; height: 90px;"]
 latitudeslife.com###head_banner
 lavorincasa.it##.bak
 leggo.it###molwidget300

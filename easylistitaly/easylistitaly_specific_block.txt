@@ -108,7 +108,9 @@
 ||lagazzettadilucca.it^*/inserzioni/
 ||lametino.it/images/banners/
 ||lapiazzaweb.it/banner/
+||lastampa.it/files/prova_an_6.gif
 ||lastampa.it^*/banner/
+||lastampa.it^*/banner_
 ||latitudeslife.com^*/banners/
 ||lavorincasa.it/banner/
 ||lavorincasa.it/images/testata/
