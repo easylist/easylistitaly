@@ -152,6 +152,7 @@
 ||parmasera.it^*/img_banner/
 ||pctuner.net/banner/
 ||piacenzasera.it^*/img_banner/
+||poker.commentierecensioni.com^*/titanpoker125x125.gif
 ||positanonews.it/include_gen/banner_
 ||positanonews.it/publicnew/banners/
 ||primissima.it/images/background_images/

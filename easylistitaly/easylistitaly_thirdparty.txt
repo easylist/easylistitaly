@@ -52,5 +52,6 @@
 ||upcom.it^*/banner/
 ||uplink.aruba.it^$third-party
 ||viagogo.it/feeds/widget.ashx?*&affiliateid=$subdocument
+||virginpoker.it/pub/
 ||webalice.it/blackberry_09/trovadeal/
 ||ws.shoppydoo.com^$third-party
