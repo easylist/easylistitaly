@@ -4,6 +4,7 @@
 ||adagiobanner.s3.amazonaws.com^
 ||affiliate2.hardstore.com^
 ||affiliazioni.misterdomain.eu^
+||agenziapuntonet.it/banner/
 ||aimon.it/banner_
 ||andreafranzoso.com/banner/
 ||autostima.net/partner/

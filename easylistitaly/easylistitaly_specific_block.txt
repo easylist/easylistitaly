@@ -62,6 +62,7 @@
 ||goldwebtv.it/userfiles/file/banners/
 ||gratisfree.it/cgi-bin/bannergest$script
 ||guidaviaggi.it/banners/
+||histonium.net/moduli/banner/
 ||hwmobile.it/images/banners/
 ||hwupgrade.org/banner/
 ||hwupgrade.org/forum/lariffa.gif
