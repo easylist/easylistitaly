@@ -5,6 +5,7 @@
 ||adagionet.com^$third-party
 ||adbrawl.com^$third-party
 ||addyon.com^$third-party
+||adpartner.it^$third-party
 ||advplace.com^$third-party
 ||affiliationpartner.it^$third-party
 ||affiliazioniweb.com^$third-party
