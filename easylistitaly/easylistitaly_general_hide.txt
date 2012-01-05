@@ -18,6 +18,7 @@
 ##.box-pubblicita
 ##.boxADV
 ##.box_adv_speciali_hp
+##.cmt_bgadv
 ##.inews_adv_top
 ##.linksponsorizzati
 ##.modPubblicita
