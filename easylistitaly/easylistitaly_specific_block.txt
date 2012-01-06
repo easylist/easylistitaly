@@ -1,6 +1,7 @@
 ||312.it/img/banner/
 ||abruzzoweb.it/images/banner/
 ||adnkronos.com^*/banner/
+||adv2.spaziogames.it^$image,~image,popup
 ||affiliati.cellulare.net^
 ||agi.it^*-google-personalizzato-
 ||agienergia.it^*/banner/
