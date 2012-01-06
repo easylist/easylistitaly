@@ -215,6 +215,8 @@
 ||tuttobasket.net/assist.
 ||tuttobasket.net/assist_
 ||tuttobasket.net/banner_
+||tuttogratis.it/imgbanner/
+||tuttogratis.it/js/tgsense_
 ||tvpitalia.it/sponsor/
 ||twww.tv/campagnabanner/
 ||twww.tv/get_banner.php?
