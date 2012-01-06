@@ -379,6 +379,9 @@ troppoforte.net###sidebar
 tshot.it###bannerTop
 tuttobasket.net###banner_head
 tuttogratis.it###bannerTop
+tuttogratis.it###bleft
+tuttogratis.it###bright
+tuttogratis.it###btop
 unita.it##.dannperdere
 vanityfair.it##.promo
 varesenews.it###cont_Superbanner
