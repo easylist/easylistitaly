@@ -113,6 +113,7 @@
 ||lastampa.it^*/banner/
 ||lastampa.it^*/banner_
 ||latitudeslife.com^*/banners/
+||lattemiele.com/img/viprebanner/
 ||lavorincasa.it/banner/
 ||lavorincasa.it/images/testata/
 ||lavorincasa.it/includes/bacheca/annunci/
