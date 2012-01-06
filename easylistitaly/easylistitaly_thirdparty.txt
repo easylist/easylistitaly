@@ -45,6 +45,7 @@
 ||sanistatic.it/*/300x100_
 ||scambiobanner.aruba.it^$third-party
 ||sereni.net/images/banner/
+||smartclip.net^$~object-subrequest,third-party
 ||smscellulari.it/pic/banner/$third-party
 ||spingitori.it/spnadv/
 ||streamcaster.net/lunaset/web/template_

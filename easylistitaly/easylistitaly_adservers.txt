@@ -1,4 +1,4 @@
-||2mdn.net^$object-subrequest,third-party,domain=ansa.it
+||2mdn.net^$object-subrequest,third-party,domain=ansa.it|ilmeteo.it
 ||4link.it^$third-party
 ||4wnet.com^$third-party
 ||ad4mat.it^$third-party
@@ -22,7 +22,7 @@
 ||delosnetwork.it^$third-party
 ||divascam.com^$third-party
 ||doubleclick.net^$object-subrequest,third-party,domain=adnkronos.com|corrieredellosport.it|fanpage.it|lastampa.it|mtv.it|pmi.it|tuttosport.com
-||doubleclick.net^*;sz=$object-subrequest,third-party,domain=ilmeteo.it|tiscali.it|unita.it
+||doubleclick.net^*;sz=$object-subrequest,third-party,domain=tiscali.it|unita.it
 ||eadv.it^$third-party
 ||ebuzzing.it^$third-party
 ||firebanner.com^$third-party
