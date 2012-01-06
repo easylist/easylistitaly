@@ -23,7 +23,7 @@
 ||delosnetwork.it^$third-party
 ||divascam.com^$third-party
 ||dotandad.com^$third-party
-||doubleclick.net^$object-subrequest,third-party,domain=adnkronos.com|digital.it|fanpage.it|gamesnation.it|lastampa.it|mtv.it|pmi.it|tuttosport.com
+||doubleclick.net^$object-subrequest,third-party,domain=adnkronos.com|digital.it|fanpage.it|gamesnation.it|lastampa.it|mtv.it|nicktv.it|pmi.it|tuttosport.com
 ||doubleclick.net^*;sz=$object-subrequest,third-party,domain=unita.it
 ||eadv.it^$third-party
 ||ebuzzing.it^$third-party
