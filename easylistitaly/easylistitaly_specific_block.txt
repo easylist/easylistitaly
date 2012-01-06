@@ -222,6 +222,7 @@
 ||twww.tv/get_banner.php?
 ||twww.tv^*/background.jpg
 ||uscatanzaro.net/images/banners/
+||vanityfair.it/loaderframe.html
 ||vanityfair.it^*_105x65.jpg
 ||varesenews.it/banner/
 ||vb33.it/images/banners/
