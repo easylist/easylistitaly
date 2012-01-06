@@ -16,6 +16,7 @@
 ###pubblicita
 ##.adv-articolo
 ##.barraSipra
+##.blocco_servizi_sponsor
 ##.box-pubblicita
 ##.boxADV
 ##.box_adv_speciali_hp
