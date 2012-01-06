@@ -283,6 +283,7 @@ quattroruote.it###bannerrcl
 quattroruote.it##.adv-key
 quotidiano.net##.google-728
 quotidianosanita.it##.qs_n_interno_basso
+r101.it##.banner
 rai.tv##.placeholder300x250
 ravennanotizie.it##.bannerH
 regaloregali.it###bannerTop
