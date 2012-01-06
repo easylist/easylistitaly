@@ -6,6 +6,7 @@
 ~giornaledisiracusa.it###adsense_testa
 ###adv_in_post
 ###annunciGoogle
+###annunci_google
 ###divPubblicita
 ###fwnetblocco
 ###fwnetblocco160x600
