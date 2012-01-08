@@ -271,6 +271,7 @@ piacenzasera.it##.banner_doc_bottom_foto
 piacenzasera.it##.banner_globaltop
 piacenzasera.it##.box-attico
 pianetacellulare.it##.banner2
+playme.it###topPromo
 pmi.it##.banner
 politica24.it###bannerTop
 pourfemme.it###btop
