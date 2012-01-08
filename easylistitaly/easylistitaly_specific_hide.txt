@@ -26,6 +26,7 @@ axn.it###block-spti_operative-spti_operative_square
 azpoint.net##table[cellspacing="2"][cellpadding="1"][border="0"][align="center"][width="90%"]
 bikeracing.it##table[height="180"][width="100%"]
 bitcity.it###banner
+boomerangtv.it###leaderboard
 bora.la##.headerbtm
 borsainside.com##.banner_bottom_post
 bresciaoggi.it##.box-skyscrapers
