@@ -15,6 +15,7 @@
 ||bazar.it/backfiles/banners/
 ||bikeracing.it/bannersbk.jpg
 ||bikeracing.it/sfondo.jpg
+||blunote.it/images/banners/
 ||bmwpassion.com^*/banners/
 ||businessmagazine.it/i/skin/
 ||campaniameteo.it/banner/
