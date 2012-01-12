@@ -20,6 +20,7 @@
 ||edidomus.it^*180x150.
 ||edidomus.it^*_45x45.
 ||ediscom.it^*banner/
+||emotiko.com^*/banners/
 ||fideliux.com/fideliux/banners/
 ||filepremier.com/banners.php?
 ||filepremier.com/iframe/box2.js
