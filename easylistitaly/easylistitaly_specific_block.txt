@@ -135,6 +135,8 @@
 ||mailexpress.it/images/banner_
 ||masterviaggi.it/banner/
 ||mattinonline.ch^*/banner_
+||mbenz.it/banner.swf
+||mbenz.it/lidaolbia.jpg
 ||meteo.it/images/banner/
 ||meteoweb.eu/immagini/advris/
 ||metronews.it^*/banner_
