@@ -3,6 +3,7 @@
 ||ad.ricevitori-digitali.com^
 ||adagiobanner.s3.amazonaws.com^
 ||affiliate2.hardstore.com^
+||affiliazione.immobiliare.it^
 ||affiliazioni.misterdomain.eu^
 ||agenziapuntonet.it/banner/
 ||aimon.it/banner_
