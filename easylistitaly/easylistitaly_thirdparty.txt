@@ -7,6 +7,7 @@
 ||agenziapuntonet.it/banner/
 ||aimon.it/banner_
 ||andreafranzoso.com/banner/
+||angelobonorino.com/neve/*268x90.gif
 ||autostima.net/partner/
 ||babbano.com/adv/
 ||banner.crol.it^
@@ -46,6 +47,7 @@
 ||sanistatic.it/*/300x100_
 ||scambiobanner.aruba.it^$third-party
 ||sereni.net/images/banner/
+||sk1.it/images/promo/
 ||smartclip.net^$~object-subrequest,third-party
 ||smscellulari.it/pic/banner/$third-party
 ||spingitori.it/spnadv/
