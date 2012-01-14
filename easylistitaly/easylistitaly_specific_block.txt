@@ -237,5 +237,6 @@
 ||voceditalia.it/banner/
 ||voceditalia.it/banner_ev.js
 ||vps-ta.tiscali.it^
+||wintersport-news.it/banners/
 ||youreporter.it/partner/
 ||zabriskiepoint.net^*/banner/
