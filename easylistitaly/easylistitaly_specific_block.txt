@@ -179,6 +179,7 @@
 ||rampower.it/download/banner/
 ||ravennaedintorni.it/banner/
 ||regionelombardia.info/banners/
+||reportmotori.it/banner/
 ||repubblica.it/ad/
 ||repubblica.it^*/adagiorep.js
 ||repubblica.it^*/negozi_accordion.swf?
