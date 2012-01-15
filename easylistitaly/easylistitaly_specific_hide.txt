@@ -51,6 +51,7 @@ comingsoon.it##.expanding-footer-container
 corrieredellosport.it##.annunci_art
 corrieredellosport.it##.label_sponsor_sp
 corrieredellosport.it##.promo_art
+cronacamilano.it###banner728
 cronacaqui.it##table[height="112"][width="998"]
 cubovision.it##.advertising
 deejay.it###ppn
