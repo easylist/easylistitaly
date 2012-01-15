@@ -15,6 +15,7 @@
 ###libero_header_adv
 ###pubblicita
 ##.adv-articolo
+##.advhead
 ##.barraSipra
 ##.blocco_servizi_sponsor
 ##.box-pubblicita

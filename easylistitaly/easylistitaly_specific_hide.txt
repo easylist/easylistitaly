@@ -364,6 +364,7 @@ tipiace.it###externalbanner
 tipiace.it###vetrina
 tiscali.it###banner300x250c20
 tiscali.it##.ADV
+tiscali.it##.b300x250
 tiscali.it##.boxBanner
 tiscali.it##.c1c6.f12
 tiscali.it##.dannperdere
