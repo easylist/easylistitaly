@@ -264,8 +264,7 @@ omnifurgone.it###sponsor_logo_header
 omnimoto.it###skin_link
 orangedropdesign.com##.banner
 oroscopo.it###top_header
-paginebianche.it###leaderboardWrap
-paginegialle.it###leaderboardWrap
+paginebianche.it##div[style="width: 300px; height: 250px;"]
 panorama.it###immob_box_ricerca
 parmasera.it##.banner_doc_bottom_foto
 parmasera.it##.banner_globaltop
