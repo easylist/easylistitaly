@@ -4,6 +4,8 @@
 ###adl_leaderboard
 ###adl_medium_rectangle
 ~giornaledisiracusa.it###adsense_testa
+###advAutopromo1
+###advAutopromo2
 ###adv_in_post
 ###annunciGoogle
 ###annunci_google
