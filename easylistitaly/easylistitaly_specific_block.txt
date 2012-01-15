@@ -169,6 +169,7 @@
 ||primissima.it/images/background_images/
 ||pubblicitaitalia.it^*banner_
 ||puntocellulare.it/banner/
+||quattroruote.it/common/adv_
 ||quattroruote.it^*/logo_*_menu.png
 ||quicomo.it/qc-ad/
 ||quicomo.it/qc-assets/banner/
