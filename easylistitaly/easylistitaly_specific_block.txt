@@ -214,6 +214,7 @@
 ||tomshw.it/files/liste/skin*.jpg
 ||tomshw.it/shoppy.php?
 ||topnegozi.it^*/banner/
+||toptrade.it^*/downloadfilebanner.php?
 ||trasporti-italia.com^*/banner/
 ||troppoforte.net/banner300px/
 ||troppoforte.net/bannersopra/
