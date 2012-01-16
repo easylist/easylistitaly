@@ -49,6 +49,7 @@
 ||scambiobanner.org^$third-party
 ||softwareplanet.net^$third-party
 ||sprintrade.com^$third-party
+||stailamedia.com^$third-party
 ||superbanner.org^$third-party
 ||tgadv.it^$third-party
 ||the-adult-company.com^$third-party
