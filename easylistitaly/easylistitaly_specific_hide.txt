@@ -82,6 +82,8 @@ f1passion.it##div[style="width:300px; height:250px; margin-bottom:24px;"]
 famigliacristiana.it###molwidget
 fantagazzetta.com##.bg-ads
 fantascienza.com###partners
+farevela.net###text-7
+farevela.net##.banner-top
 fastweb.it###stdRCol
 fattidicronaca.it###bannerTop
 film.it##.ppn_h
