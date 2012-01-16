@@ -236,6 +236,7 @@
 ||twww.tv/get_banner.php?
 ||twww.tv^*/background.jpg
 ||uscatanzaro.net/images/banners/
+||ustation.it/img/intesa_carta.jpg
 ||vanityfair.it/loaderframe.html
 ||vanityfair.it^*_105x65.jpg
 ||varesenews.it/banner/
