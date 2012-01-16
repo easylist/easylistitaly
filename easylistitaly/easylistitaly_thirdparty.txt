@@ -53,6 +53,7 @@
 ||smartclip.net^$~object-subrequest,third-party
 ||smscellulari.it/pic/banner/$third-party
 ||spingitori.it/spnadv/
+||stgy.it/scripts/extern/tag-adv.js
 ||streamcaster.net/lunaset/web/template_
 ||subito.paneaserver.net^
 ||tophost.it/banners/
