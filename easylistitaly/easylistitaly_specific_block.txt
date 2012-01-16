@@ -199,6 +199,7 @@
 ||sanmarinoworld.sm/custom/home/$object
 ||sanmarinoworld.sm/img/home/
 ||sanmarinoworld.sm^*/bnr/
+||sassuolo2000.it/bnrs/
 ||secondamano.it^*/footer_cobrand/
 ||sky.it/static/images/sito/skin_
 ||smtvsanmarino.sm/*/bnr/
