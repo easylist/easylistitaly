@@ -10,3 +10,4 @@
 /tiscali_ads.
 _pubblicita.
 _pubblicita/
+_pubblicita_
