@@ -185,6 +185,7 @@
 ||radioradio.it^*/banner_
 ||rampower.it/download/banner/
 ||ravennaedintorni.it/banner/
+||reggio2000.it/bnrs/
 ||regionelombardia.info/banners/
 ||reportmotori.it/banner/
 ||repubblica.it/ad/
