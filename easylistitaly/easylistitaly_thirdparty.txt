@@ -54,6 +54,7 @@
 ||smscellulari.it/pic/banner/$third-party
 ||spingitori.it/spnadv/
 ||streamcaster.net/lunaset/web/template_
+||subito.paneaserver.net^
 ||tophost.it/banners/
 ||unibr.altervista.org/pub.html
 ||upcom.it^*/banner/
