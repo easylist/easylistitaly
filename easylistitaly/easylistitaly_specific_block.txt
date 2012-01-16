@@ -146,6 +146,7 @@
 ||metronews.it^*/banner_
 ||metropolisweb.it/public/banner/
 ||milanoweb.com/flash/imagerotator.swf
+||modena2000.it/bnrs/
 ||motonline.com^*/partner/
 ||mymovies.it/v9/adv/
 ||netweek.it/banneranalyzer/
