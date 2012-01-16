@@ -153,6 +153,7 @@
 ||network.alfemminile.com^
 ||newz.it^*/sponsor/
 ||notiziarioitaliano.it^*/banner/
+||notizie-online.it/banner/
 ||omniauto.it/2.0/banners/
 ||omniauto.it^*/sponsoredby_
 ||omnicorse.it/banners/
