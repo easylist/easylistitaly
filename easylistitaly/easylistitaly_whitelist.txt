@@ -1,5 +1,6 @@
 @@||ads.spinblog.it/www/delivery/ajs.php?zoneid=15&$domain=ipaditalia.com
 @@||ads.spinblog.it/www/delivery/ajs.php?zoneid=3&$domain=iphoneitalia.com
+@@||adser.localport.it/ads/logo-localport-it/logo.gif
 @@||adser.localport.it/banman.asp?zoneid=71$subdocument
 @@||adv.alice.it/crossdomain.xml$object-subrequest,domain=webtv.cubovision.it
 @@||adv.alice.it/html.ng/site=cubow$object-subrequest,domain=webtv.cubovision.it
