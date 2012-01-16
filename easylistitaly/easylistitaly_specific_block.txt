@@ -240,6 +240,7 @@
 ||ustation.it/img/pon.jpg
 ||vanityfair.it/loaderframe.html
 ||vanityfair.it^*_105x65.jpg
+||vaol.it/include/mod/layout1/images/bps.swf
 ||varesenews.it/banner/
 ||vb33.it/images/banners/
 ||videofamosi.com^$subdocument
