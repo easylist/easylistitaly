@@ -173,6 +173,7 @@ iobloggo.com##.adv
 iochiamo.com###leaderboard
 ipoditalia.it###topbanner
 ipoditalia.it##.banner_topright
+ispazio.net##.banner_right_sidebar_big
 it.msn.com###consiglia
 it.msn.com###markette
 italia-news.it###box_ricerca
