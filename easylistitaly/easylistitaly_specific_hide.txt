@@ -48,6 +48,7 @@ comingsoon.it###BnrRight1
 comingsoon.it###ExpTop
 comingsoon.it###advSkin
 comingsoon.it##.expanding-footer-container
+corriere.it###tv-adv
 corrieredellosport.it##.annunci_art
 corrieredellosport.it##.label_sponsor_sp
 corrieredellosport.it##.promo_art
