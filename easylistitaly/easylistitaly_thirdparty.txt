@@ -64,3 +64,4 @@
 ||virginpoker.it/pub/
 ||webalice.it/blackberry_09/trovadeal/
 ||ws.shoppydoo.com^$third-party
+||youbuy.it/banner/
