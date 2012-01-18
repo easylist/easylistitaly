@@ -11,6 +11,7 @@
 ||amitaliana.com/images/banners/
 ||articolotre.com/images/banner/
 ||asca.it/skin_
+||atlassib.it^*/banner/
 ||banneradmin.rai.it^
 ||bazar.it/backfiles/banners/
 ||bikeracing.it/bannersbk.jpg
