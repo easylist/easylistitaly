@@ -128,6 +128,8 @@
 ||libero.it/_ad/
 ||libero.it/static/generated_external/shopping/
 ||libero.it/static/upll/234x/
+||libero.it/wind/linkadv.jsp
+||libero.it/wind/linkadv_bottom.jsp
 ||libertas.sm^*/banner/
 ||libertiamo.it^*468x60.
 ||libertiamo.it^*_234x60.
@@ -212,6 +214,7 @@
 ||spaziogames.it/images/backgrounds/
 ||sportlive.it/images/*_300x100_
 ||sportlive.it/images/300x100_
+||spotmix.libero.it^
 ||technologyreview.it/img/banner/
 ||technologyreview.it/img/banner_
 ||tele90.it/banner/

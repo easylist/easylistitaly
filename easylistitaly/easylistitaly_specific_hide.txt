@@ -216,6 +216,7 @@ lonelyplanetitalia.it###top_banner
 losportivo.sm##.bg_blocchi
 lussuosissimo.com###leaderboard
 macitynet.it##.contentTop
+mailbeta.libero.it###leftBoxIFrame
 mailexpress.it###ads
 masterviaggi.it###box_link_sponsor
 masterviaggi.it###box_sponsor
