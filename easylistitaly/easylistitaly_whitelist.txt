@@ -1,5 +1,4 @@
-@@||ads.spinblog.it/www/delivery/ajs.php?zoneid=15&$domain=ipaditalia.com
-@@||ads.spinblog.it/www/delivery/ajs.php?zoneid=3&$domain=iphoneitalia.com
+@@||ads.spinblog.it/www/delivery/ajs.php?zoneid=$script,domain=ipaditalia.com|iphoneitalia.com
 @@||adser.localport.it/ads/logo-localport-it/logo.gif
 @@||adser.localport.it/banman.asp?zoneid=71$subdocument
 @@||adv.alice.it/crossdomain.xml$object-subrequest,domain=webtv.cubovision.it
@@ -15,6 +14,7 @@
 @@||gelocal.it/adimages/
 @@||iads.iltrovatore.it/crossdomain.xml$object-subrequest,domain=la7.it
 @@||iads.iltrovatore.it/www/delivery/xmladv.php?$object-subrequest,domain=la7.it
+@@||impit.tradedoubler.com/imp?$subdocument,domain=iphoneitalia.com
 @@||oasjs.kataweb.it/adsetup.js$domain=video.repubblica.it
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=ipaditalia.com|iphoneitalia.com
 @@||panorama.it/adv/$image
