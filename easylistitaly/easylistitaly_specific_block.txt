@@ -252,6 +252,7 @@
 ||varesenews.it/banner/
 ||vb33.it/images/banners/
 ||videofamosi.com^$subdocument
+||videogame.it^*/adv/
 ||virgilio.it/bottomchat/bottom234x60.html
 ||virgilio.it/sg/boxis_
 ||vivafm.it^*/banners/
