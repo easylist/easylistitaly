@@ -175,6 +175,7 @@
 ||positanonews.it/publicnew/banners/
 ||primissima.it/images/background_images/
 ||pubblicitaitalia.it^*banner_
+||puglialive.net/dfiles/banners/
 ||puntocellulare.it/banner/
 ||quattroruote.it/common/adv_
 ||quattroruote.it^*/logo_*_menu.png
