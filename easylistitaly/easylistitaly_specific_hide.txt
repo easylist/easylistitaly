@@ -65,6 +65,7 @@ diesis.it###box_banner
 digital-sat.it###sx_basso_topsx
 digital-sat.it##.banner_centrale
 digital-sat.it##.banner_dx
+diretta.it###bonus-offers
 diretta.it###tab-bonus-offers
 diretta.it###tab-odds
 dissacration.com###leaderboard
