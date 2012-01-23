@@ -216,6 +216,7 @@
 ||sportlive.it/images/*_300x100_
 ||sportlive.it/images/300x100_
 ||spotmix.libero.it^
+||statoquotidiano.it/banner/
 ||technologyreview.it/img/banner/
 ||technologyreview.it/img/banner_
 ||tele90.it/banner/
