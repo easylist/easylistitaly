@@ -90,6 +90,7 @@ farevela.net##.banner-top
 fastweb.it###stdRCol
 fattidicronaca.it###bannerTop
 film.it##.ppn_h
+film.it##.rightBoxAmazon
 finanza.com###top-banner
 finanzaeborse.it###bannerTop
 finanzaonline.com##.bannerlbforum
