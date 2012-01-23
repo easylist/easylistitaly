@@ -343,6 +343,7 @@ subito.it###coldxbig
 subito.it##.gray_box_small
 suipedali.it###bannerTop
 tantasalute.it###bannerTop
+tecnocino.it###bannerTop
 tecnocino.it###btop
 tecnozoom.it###btop
 telefonino.net###boxShopping
