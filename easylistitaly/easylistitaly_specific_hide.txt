@@ -289,6 +289,8 @@ playme.it###topPromo
 pmi.it##.banner
 politica24.it###bannerTop
 pourfemme.it###btop
+primaonline.it###banner_bottom
+primaonline.it###banner_top
 primissima.it###banner_top
 qds.it###altro
 qds.it###banner_top
