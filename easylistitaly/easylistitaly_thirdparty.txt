@@ -36,6 +36,7 @@
 ||kataweb.it/zbanner_consorzio.js
 ||kataweb.it^*/negozi/$third-party
 ||linearadio.it/bnrs/
+||macrolibrarsi.org/banner/
 ||net-expire.tccstatic.com^*/banner.js
 ||netweek.it/ban_
 ||noicattolici.it/x_banner/
