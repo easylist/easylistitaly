@@ -154,6 +154,7 @@
 ||mymovies.it/v9/adv/
 ||netweek.it/banneranalyzer/
 ||network.alfemminile.com^
+||newsic.it/assets/banner/
 ||newz.it^*/sponsor/
 ||notiziarioitaliano.it^*/banner/
 ||notizie-online.it/banner/
