@@ -16,6 +16,7 @@
 ###leo-adv
 ###libero_header_adv
 ###pubblicita
+###ripBoxAdvCentroSX2
 ##.adv-articolo
 ##.advhead
 ##.barraSipra
