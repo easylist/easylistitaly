@@ -209,6 +209,9 @@
 ||sanmarinoworld.sm/img/home/
 ||sanmarinoworld.sm^*/bnr/
 ||sassuolo2000.it/bnrs/
+||scopateitaliane.it/banner/
+||scopateitaliane.it/images/sesso_incps.jpg
+||scopateitaliane.it/images/troieinwebcam.jpg
 ||secondamano.it^*/footer_cobrand/
 ||sky.it/static/images/sito/skin_
 ||smtvsanmarino.sm/*/bnr/

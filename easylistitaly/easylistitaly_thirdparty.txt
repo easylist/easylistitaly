@@ -31,6 +31,7 @@
 ||gigacenter.it^$image,third-party
 ||hrs.de/wizard.aspx?
 ||iads.iltrovatore.it^
+||incontripersesso.com/banner/
 ||ipercast.net/uploads/sponsors/
 ||iplaza.it/menu/mistercupido.png
 ||kataweb.it/zbanner_consorzio.js
