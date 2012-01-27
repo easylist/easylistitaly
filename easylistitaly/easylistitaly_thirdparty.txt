@@ -43,6 +43,7 @@
 ||netweek.it/ban_
 ||noicattolici.it/x_banner/
 ||oasjs.kataweb.it^
+||okincontri.com^$image,~image,popup
 ||pangora.com^$image,third-party
 ||partypoker.it/td/$image,~image,popup
 ||planet49.it/cgi-bin/wingame.pl?$image,~image,popup

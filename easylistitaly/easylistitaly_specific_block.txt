@@ -239,6 +239,8 @@
 ||trasporti-italia.com^*/banner/
 ||troppoforte.net/banner300px/
 ||troppoforte.net/bannersopra/
+||trovaporno.com/banner/
+||trovaporno.com/slide/jss_msn.js
 ||ttgitalia.com/contenuti/banner/
 ||tuttobasket.net/aries_
 ||tuttobasket.net/assist.
