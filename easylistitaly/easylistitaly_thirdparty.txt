@@ -15,6 +15,7 @@
 ||bazarcoupon.com/images/$third-party
 ||bt.rcs.it^
 ||casinotop10.it/swf/$third-party
+||classificaporno.com/image/incontri*.gif
 ||delosstore.it/banner/
 ||djsoldi.com^$image,third-party
 ||djsuonerie.it/pic/$third-party
