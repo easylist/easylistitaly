@@ -39,6 +39,7 @@
 ||kataweb.it^*/negozi/$third-party
 ||linearadio.it/bnrs/
 ||macrolibrarsi.org/banner/
+||media.888.it^$image,~image,popup
 ||net-expire.tccstatic.com^*/banner.js
 ||netweek.it/ban_
 ||noicattolici.it/x_banner/
