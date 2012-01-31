@@ -50,6 +50,7 @@
 ||fastweb.it^*/portale/speciali/
 ||fastweb.it^*/rcol/immobiliare/
 ||film.tv.it/img/banner/
+||fiorentinanews.com^*/banner/
 ||firstonline.info/ftp/adv/
 ||fordfiestaitalia.com^*/sponsor/
 ||freenewsonline.it^*-300.jpg
