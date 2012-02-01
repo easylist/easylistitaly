@@ -36,6 +36,7 @@
 ||iads.iltrovatore.it^
 ||incontripersesso.com/banner/
 ||ipercast.net/uploads/sponsors/
+||iplaza.it/banner/
 ||iplaza.it/menu/mistercupido.png
 ||kataweb.it/zbanner_consorzio.js
 ||kataweb.it^*/negozi/$third-party
