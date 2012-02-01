@@ -48,6 +48,7 @@
 ||scambiobanner.it^$third-party
 ||scambiobanner.org^$third-party
 ||softwareplanet.net^$third-party
+||spicciolo.com^$third-party
 ||sprintrade.com^$third-party
 ||stailamedia.com^$third-party
 ||superbanner.org^$third-party
