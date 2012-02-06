@@ -2,6 +2,7 @@
 312.it##table[width="728"][height="90"]
 3bmeteo.com###adv_5
 4risate.com##.ad
+786cast.tv###hideall
 a-realestate.it##.adv
 a-realestate.it##.spot_banner
 agi.it##.banner

@@ -15,6 +15,7 @@
 @@||iads.iltrovatore.it/crossdomain.xml$object-subrequest,domain=la7.it
 @@||iads.iltrovatore.it/www/delivery/xmladv.php?$object-subrequest,domain=la7.it
 @@||impit.tradedoubler.com/imp?$subdocument,domain=iphoneitalia.com
+@@||liverail.com/interstitial/?*&lr_publisher_id=$script,domain=786cast.tv
 @@||oasjs.kataweb.it/adsetup.js$domain=video.repubblica.it
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=ipaditalia.com|iphoneitalia.com
 @@||panorama.it/adv/$image
@@ -26,6 +27,7 @@
 @@||viamichelin.it^*/rentacar.js
 @@||video1.italiaoggi.it/movie/movie/adserver_$object,object-subrequest
 @@||video1.milanofinanza.it/movie/movie/adserver_$object,object-subrequest
+@@||vox-static.liverail.com^*/liverail_preroll.swf$object,domain=786cast.tv
 @@||youreporter.it/adv/ova-matrix.xml.php?$object-subrequest
 ! Anti-Adblock
 @@||hwupgrade.org/forum/advertisement.js
