@@ -14,6 +14,7 @@
 ||atlassib.it^*/banner/
 ||banneradmin.rai.it^
 ||bazar.it/backfiles/banners/
+||bergamonews.it/agp/
 ||bikeracing.it/bannersbk.jpg
 ||bikeracing.it/sfondo.jpg
 ||blunote.it/images/banners/
