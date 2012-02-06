@@ -37,6 +37,7 @@
 ||console-tribe.com^*/images/adv/
 ||coriglianocalabro.it/images/banners/
 ||coriglianocalabro.it^*/banner/
+||corrieredellosport.it/res/swf/ova.swf$object-subrequest
 ||corrieredigela.it/public/sponsor/
 ||digital-forum.it/bannerdtt/
 ||digital-sat.it/ds_mpppv/
