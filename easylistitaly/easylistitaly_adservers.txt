@@ -1,4 +1,4 @@
-||2mdn.net^$object-subrequest,third-party,domain=ansa.it|corrieredellosport.it|forbiciate.com|ilmeteo.it|tiscali.it
+||2mdn.net^$object-subrequest,third-party,domain=ansa.it|calciomercato.com|corrieredellosport.it|forbiciate.com|ilmeteo.it|tiscali.it
 ||4link.it^$third-party
 ||4wnet.com^$third-party
 ||ad4mat.it^$third-party
