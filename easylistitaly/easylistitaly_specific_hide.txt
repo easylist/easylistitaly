@@ -13,6 +13,7 @@ agimondo.it###overhp
 agoravox.it##.publarge
 airdave.it##.banner
 allaguida.it###bannerTop
+allandroidnews.it##.wp_skyscraper_c2
 alverde.net###adv_wallpaper2
 alverde.net##td[height="125"]
 androidiani.com##div[style="border:4px dashed orange;height:90px;width:728px;margin:0 auto"]
