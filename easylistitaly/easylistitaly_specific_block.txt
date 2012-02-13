@@ -20,6 +20,7 @@
 ||blunote.it/images/banners/
 ||bmwpassion.com^*/banners/
 ||businessmagazine.it/i/skin/
+||calciomercato.com/uploads/banners/
 ||campaniameteo.it/banner/
 ||casaportale.com/public/uploads/
 ||casertanews.it/bann.asp?
