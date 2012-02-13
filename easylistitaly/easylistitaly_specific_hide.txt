@@ -429,4 +429,5 @@ webpedia.altervista.org###banner
 webpedia.altervista.org##div[style="width:728px;height:90px;margin:6px auto;background:#eee"]
 wintricks.it##div[style="width:980px;height:90px;margin: 0 auto"]
 wintricks.it##div[style="width:980px;height:90px;margin: 0 auto;background:none"]
+wmia.it##div[style="width:350px; height:300px; float:left"]
 zapster.it##.addx
