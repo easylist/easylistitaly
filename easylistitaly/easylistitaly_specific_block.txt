@@ -73,6 +73,7 @@
 ||giornaledimerate.it/banneranalyzer/
 ||giornaledisiracusa.it/images/banners/
 ||goldwebtv.it/userfiles/file/banners/
+||gpone.com/images/banners/
 ||gratisfree.it/cgi-bin/bannergest$script
 ||guidaviaggi.it/banners/
 ||histonium.net/moduli/banner/
