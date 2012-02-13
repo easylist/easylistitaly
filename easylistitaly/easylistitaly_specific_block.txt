@@ -128,6 +128,11 @@
 ||lavorincasa.it/banner/
 ||lavorincasa.it/images/testata/
 ||lavorincasa.it/includes/bacheca/annunci/
+||leggilanotizia.it/images/bg-banner/
+||leggilanotizia.it/userfiles/image/manchette/
+||leggilanotizia.it/userfiles/image/testata/
+||leggilanotizia.it^*/banner-
+||leggilanotizia.it^*/banner_
 ||leggo.it/box_tuttomercato032011/
 ||leggo.it/imgmol/
 ||leonardo.it/images_for_css/skin-
