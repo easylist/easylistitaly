@@ -256,6 +256,7 @@
 ||tuttobasket.net/banner_
 ||tuttogratis.it/imgbanner/
 ||tuttogratis.it/js/tgsense_
+||tuttosport.com/res/swf/ova.swf$object-subrequest
 ||tvpitalia.it/sponsor/
 ||twww.tv/campagnabanner/
 ||twww.tv/get_banner.php?
