@@ -181,6 +181,7 @@ informatisubito.myblog.it##table[height="600"][width="120"]
 ininsubria.it###PopUp_Under
 iobloggo.com##.adv
 iochiamo.com###leaderboard
+iodonna.it###buy-now
 ipoditalia.it###topbanner
 ipoditalia.it##.banner_topright
 ispazio.net##.banner_right_sidebar_big
