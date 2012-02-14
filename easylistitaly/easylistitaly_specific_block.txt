@@ -217,6 +217,10 @@
 ||rockit.it/res/css3/skin_
 ||rocknrollradio.it/images/banners/
 ||rtl.it^*_ban_
+||salernonotizie.it/images/bannerinternetfree.gif
+||salernonotizie.it/images/ikea_
+||salernonotizie.it^*/banner-
+||salernonotizie.it^*/banner_
 ||sanmarinofixing.com/smfixing/images/banners/
 ||sanmarinoworld.sm/custom/home/$object
 ||sanmarinoworld.sm/img/home/
