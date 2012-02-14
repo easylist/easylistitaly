@@ -142,6 +142,7 @@
 ||libero.it/static/upll/234x/
 ||libero.it/wind/linkadv.jsp
 ||libero.it/wind/linkadv_bottom.jsp
+||liberoinformato.it/banner-
 ||libertas.sm^*/banner/
 ||libertiamo.it^*468x60.
 ||libertiamo.it^*_234x60.
