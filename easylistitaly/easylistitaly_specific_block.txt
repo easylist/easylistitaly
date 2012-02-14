@@ -101,6 +101,7 @@
 ||ilquotidiano.it/userdata/banner/
 ||ilsalvagente.it/imgmol/
 ||ilsalvagente.it/immagini/banner120x60-
+||iltaccoditalia.info/banner/
 ||ilvelino.it^*/banner/
 ||infooggi.it/banner/
 ||informacalcio.quotidiano.net/banner/
