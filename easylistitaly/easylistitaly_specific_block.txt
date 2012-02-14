@@ -291,3 +291,4 @@
 ||wintersport-news.it/banners/
 ||youreporter.it/partner/
 ||zabriskiepoint.net^*/banner/
+||zapster.it/images/skin/

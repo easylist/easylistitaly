@@ -30,6 +30,7 @@
 ||erosadv.com^$third-party
 ||firebanner.com^$third-party
 ||gambling-italia.com^$third-party
+||himediads.com^$third-party
 ||iperbanner.com^$third-party
 ||juiceadv.com^$third-party
 ||livepartners.it^$third-party
