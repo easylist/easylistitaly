@@ -109,6 +109,7 @@ gazzetta.it###tv-adv
 gazzetta.it##.bacheca-mkt
 gazzetta.it##.poker
 gazzetta.it##.pushbar
+gazzetta.it##.sponsored
 gazzettadiparma.it##.elenco-textlink
 gazzettahockey.it##.banner
 gds.it##.pubb
