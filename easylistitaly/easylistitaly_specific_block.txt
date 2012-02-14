@@ -272,6 +272,7 @@
 ||twww.tv/campagnabanner/
 ||twww.tv/get_banner.php?
 ||twww.tv^*/background.jpg
+||ucciotube.altervista.org/skyscraper.html
 ||uscatanzaro.net/images/banners/
 ||ustation.it/img/intesa_carta.jpg
 ||ustation.it/img/pon.jpg
