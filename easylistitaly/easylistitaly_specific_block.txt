@@ -81,6 +81,7 @@
 ||hwupgrade.org/banner/
 ||hwupgrade.org/forum/lariffa.gif
 ||iammepress.it/media/banners/
+||igorevy.com/pup.js
 ||ilcalcio.net/immagini/*-120x240-
 ||ilcalcio.net/immagini/*_125x125_
 ||ilfogliocostadamalfi.it/media/banner-
