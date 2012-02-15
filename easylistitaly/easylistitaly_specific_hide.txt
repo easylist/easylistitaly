@@ -438,4 +438,5 @@ webpedia.altervista.org##div[style="width:728px;height:90px;margin:6px auto;back
 wintricks.it##div[style="width:980px;height:90px;margin: 0 auto"]
 wintricks.it##div[style="width:980px;height:90px;margin: 0 auto;background:none"]
 wmia.it##div[style="width:350px; height:300px; float:left"]
+youreporter.it##.sidebar_menu_virgilio
 zapster.it##.addx
