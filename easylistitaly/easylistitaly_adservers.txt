@@ -9,6 +9,7 @@
 ||adventertainment.it^$third-party
 ||advplace.com^$third-party
 ||affiliationpartner.it^$third-party
+||affiliazioni.me^$third-party
 ||affiliazioniweb.com^$third-party
 ||annuncivari.altervista.org^$third-party
 ||awsclic.com^$image,~image,popup
