@@ -9,6 +9,7 @@
 ||amadeusonline.net/partner/
 ||amadeusonline.net/sponsor/
 ||amitaliana.com/images/banners/
+||ansa.it/web/banner_js/
 ||articolotre.com/images/banner/
 ||asca.it/skin_
 ||atlassib.it^*/banner/
