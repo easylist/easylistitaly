@@ -168,6 +168,7 @@
 ||milanoweb.com/flash/imagerotator.swf
 ||modena2000.it/bnrs/
 ||motonline.com^*/partner/
+||movieplayer.it/images/adv/
 ||mymovies.it/v9/adv/
 ||netweek.it/banneranalyzer/
 ||network.alfemminile.com^
