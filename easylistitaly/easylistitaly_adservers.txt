@@ -18,6 +18,7 @@
 ||bannerout.com^$third-party
 ||bannerporno.com^$third-party
 ||bannerpromotion.it^$third-party
+||buyon.it^$third-party
 ||clickadv.it^$third-party
 ||clickpoint.it^$third-party
 ||crmpilot.it^$third-party
