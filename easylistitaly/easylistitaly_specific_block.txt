@@ -37,6 +37,7 @@
 ||climateobserver.it^*/banner-
 ||climateobserver.it^*/banner_
 ||comingsoon.it/imgdb/banner/
+||console-inf.com/banner/
 ||console-tribe.com^*/images/adv/
 ||coriglianocalabro.it/images/banners/
 ||coriglianocalabro.it^*/banner/
