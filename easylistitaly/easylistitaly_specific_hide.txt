@@ -245,6 +245,7 @@ melamorsicata.it##.mela_ban_3
 melamorsicata.it##img[width="160"][height="300"]
 metalitalia.com###middle-home
 metalitalia.com###sidebar-top
+meteo.it##.ImmobiliareIt
 meteowebcam.it###header_top
 meteowebcam.it##.ads_menu
 meteowebcam.it##.adsense_menu
