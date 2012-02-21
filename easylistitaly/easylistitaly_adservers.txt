@@ -37,6 +37,7 @@
 ||livepartners.it^$third-party
 ||maxiadv.com^$third-party
 ||mondoecommerce.it^$third-party
+||netaffiliation.com^$third-party
 ||newclick.com^$third-party
 ||partners-aedgency.com^$third-party
 ||partypartners.it^$third-party
