@@ -173,6 +173,9 @@
 ||netweek.it/banneranalyzer/
 ||network.alfemminile.com^
 ||newsic.it/assets/banner/
+||newslinet.it^*/bann_
+||newslinet.it^*/banner_
+||newslinet.it^*_247x56.gif
 ||newz.it^*/sponsor/
 ||notiziarioitaliano.it^*/banner/
 ||notizie-online.it/banner/
