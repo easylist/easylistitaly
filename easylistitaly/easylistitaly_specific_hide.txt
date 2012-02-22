@@ -216,6 +216,7 @@ latitudeslife.com###head_banner
 lavorincasa.it##.bak
 leggilanotizia.it###cont-banner-sotto-testata
 leggo.it###molwidget300
+leiweb.it###buy-now
 libero.it###chunnel-affari-300x170
 libero.it##div[style="width: 180px; height: 150px;"]
 libero.it##div[style="width: 300px; height: 250px;"]
