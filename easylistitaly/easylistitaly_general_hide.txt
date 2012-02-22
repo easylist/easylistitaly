@@ -1,6 +1,8 @@
 ###ADVrettangolo
 ###ADVrettangolopiede
 ###UNITIS_ads_300250
+###adbanner-laterale
+###adbanner-stampa
 ###adl_leaderboard
 ###adl_medium_rectangle
 ~giornaledisiracusa.it###adsense_testa
