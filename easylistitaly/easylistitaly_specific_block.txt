@@ -215,6 +215,13 @@
 ||radioradio.it/images/banner-
 ||radioradio.it/images/libro300.png
 ||radioradio.it^*/banner_
+||radiosport24.com/images/banner.png
+||radiosport24.com/images/blunord.jpg
+||radiosport24.com/images/lakers-fly-tech.jpg
+||radiosport24.com/images/logo_land_rover_.png
+||radiosport24.com/images/pellizza.jpg
+||radiosport24.com/images/romano_auto.png
+||radiosport24.com/images/stories/demo/med-music-corporate.jpg
 ||rampower.it/download/banner/
 ||ravennaedintorni.it/banner/
 ||reggio2000.it/bnrs/
