@@ -56,6 +56,8 @@
 ||fastweb.it/portale/speciali/hrs/
 ||fastweb.it^*/portale/speciali/
 ||fastweb.it^*/rcol/immobiliare/
+||film-stream.tv^*/banner-
+||film-stream.tv^*/trucco-permanente-1.gif
 ||film.tv.it/img/banner/
 ||fiorentinanews.com^*/banner/
 ||firstonline.info/ftp/adv/
