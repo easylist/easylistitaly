@@ -17,6 +17,7 @@
 ###fwnetblocco300x300
 ###leo-adv
 ###libero_header_adv
+###ppn_ad_div
 ###pubblicita
 ###ripBoxAdvCentroSX2
 ##.adv-articolo
