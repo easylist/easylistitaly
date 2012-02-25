@@ -237,6 +237,7 @@ mailexpress.it###ads
 masterviaggi.it###box_link_sponsor
 masterviaggi.it###box_sponsor
 masterviaggi.it##.fieldset_sponsor
+max.rcs.it###max_ppn
 mediapason.it##.banner300
 medicinalive.com###leaderboard
 megalab.it###header_leaderboard
