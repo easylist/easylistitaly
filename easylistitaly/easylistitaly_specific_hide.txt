@@ -166,6 +166,7 @@ ilmanifesto.it##.fascia_Arial
 ilmanifesto.it##.sponsor-box
 ilmattino.it###molwidget300
 ilmessaggero.it###molwidget300
+ilmondo.rcs.it###adv-mondo
 ilmonferrato.it###thin_banners_container
 ilquotidiano.it##.banner728
 ilquotidiano.it##.box-attico
