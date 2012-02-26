@@ -16,6 +16,7 @@
 ||bazarcoupon.com/images/$third-party
 ||bt.rcs.it^
 ||casinotop10.it/swf/$third-party
+||cdn.plus500.com/media/banners/
 ||classificaporno.com/image/incontri*.gif
 ||concorsi-pubblici.org/adv/
 ||delosstore.it/banner/
@@ -35,6 +36,7 @@
 ||gaggioso.it^$subdocument,third-party
 ||generik.nanopress.it/highlight_300x280.php
 ||gigacenter.it^$image,third-party
+||gratislandia.net/banners/
 ||hrs.de/wizard.aspx?
 ||iads.iltrovatore.it^
 ||iltelaiodipenelope.it/banner_exchange/
