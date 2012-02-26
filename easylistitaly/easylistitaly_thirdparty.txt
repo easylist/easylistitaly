@@ -25,6 +25,7 @@
 ||edidomus.it^*180x150.
 ||edidomus.it^*_45x45.
 ||ediscom.it^*banner/
+||elf76.altervista.org^$subdocument,third-party
 ||emotiko.com^*/banners/
 ||enoleggioauto.it/affiliatexmlstylesheets/
 ||fideliux.com/fideliux/banners/
@@ -36,6 +37,7 @@
 ||gigacenter.it^$image,third-party
 ||hrs.de/wizard.aspx?
 ||iads.iltrovatore.it^
+||iltelaiodipenelope.it/banner_exchange/
 ||incontripersesso.com/banner/
 ||ipercast.net/uploads/sponsors/
 ||iplaza.it/banner/
@@ -55,6 +57,7 @@
 ||planet49.it/cgi-bin/wingame.pl?$image,~image,popup
 ||prodigiweb.it/hpsponsor/
 ||promo.easy-dating.org^
+||puntostampa.altervista.org^$subdocument,third-party
 ||radiobanner.ws-008.com/banner.swf?$domain=radiosportiva.com
 ||regaliper.me^$subdocument,third-party
 ||rivenditori.aruba.it^$third-party
@@ -77,4 +80,5 @@
 ||virginpoker.it/pub/
 ||webalice.it/blackberry_09/trovadeal/
 ||ws.shoppydoo.com^$third-party
+||yoppinho.com/public/scambio_banner/
 ||youbuy.it/banner/
