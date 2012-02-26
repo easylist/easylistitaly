@@ -6,6 +6,7 @@
 ||adbrawl.com^$third-party
 ||addyon.com^$third-party
 ||adpartner.it^$third-party
+||adv-italiana.net^$third-party
 ||adventertainment.it^$third-party
 ||advplace.com^$third-party
 ||affiliationpartner.it^$third-party
