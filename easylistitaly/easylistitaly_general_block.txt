@@ -2,6 +2,7 @@
 .it/_adv/
 .it/ads/
 .it/adv/
+/advpirchio.
 /pubblicit%c3%a0/*
 /pubblicita-
 /pubblicita.

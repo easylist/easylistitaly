@@ -162,6 +162,7 @@
 ||macexchange.it/included/banner*.bfr
 ||mailexpress.it/images/banner_
 ||manduriaoggi.it/layout_nuovo/banner.asp
+||mastertop100.org/advf1.php
 ||masterviaggi.it/banner/
 ||mattinonline.ch^*/banner_
 ||mbenz.it/banner.swf
