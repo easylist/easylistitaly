@@ -75,6 +75,7 @@
 ||subito-server.it/banner/
 ||subito.paneaserver.net^
 ||tophost.it/banners/
+||topsexitalia.com/adv.php
 ||unibr.altervista.org/pub.html
 ||upcom.it^*/banner/
 ||uplink.aruba.it^$third-party
