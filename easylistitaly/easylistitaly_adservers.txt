@@ -53,6 +53,7 @@
 ||s-p-o-n-s-o-r.com^$third-party
 ||scambiobanner.it^$third-party
 ||scambiobanner.org^$third-party
+||scambiobanner.tv^$third-party
 ||softwareplanet.net^$third-party
 ||spicciolo.com^$third-party
 ||sprintrade.com^$third-party
