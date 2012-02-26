@@ -36,6 +36,7 @@
 ||himediads.com^$third-party
 ||iperbanner.com^$third-party
 ||juiceadv.com^$third-party
+||linkto.org^$third-party
 ||livepartners.it^$third-party
 ||maxiadv.com^$third-party
 ||mondoecommerce.it^$third-party
