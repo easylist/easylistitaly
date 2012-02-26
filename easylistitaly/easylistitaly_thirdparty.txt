@@ -31,6 +31,7 @@
 ||filepremier.com/banners.php?
 ||filepremier.com/iframe/box2.js
 ||funpage.it^$image,~image,popup
+||gaggioso.it^$subdocument,third-party
 ||generik.nanopress.it/highlight_300x280.php
 ||gigacenter.it^$image,third-party
 ||hrs.de/wizard.aspx?
