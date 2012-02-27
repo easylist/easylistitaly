@@ -209,6 +209,7 @@
 ||puntocellulare.it/banner/
 ||quattroruote.it/common/adv_
 ||quattroruote.it^*/logo_*_menu.png
+||quelliche.net^*/file_banner/
 ||quicomo.it/qc-ad/
 ||quicomo.it/qc-assets/banner/
 ||radiocentro95.it/uploads/banner/
