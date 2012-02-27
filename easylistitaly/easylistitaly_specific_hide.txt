@@ -26,6 +26,8 @@ auto7.it##div[style="height:280px; width:336px; margin:2px 2px; float:left;"]
 avvenire.it###htmlcomponent18
 axn.it###block-spti_operative-spti_operative_square
 azpoint.net##table[cellspacing="2"][cellpadding="1"][border="0"][align="center"][width="90%"]
+bastardidentro.it##.gigabanner_clickable
+bastardidentro.it##.minibox
 bergamosera.com###leaderboard_wrapper
 bergamosera.com##.wpbrbanner
 bikeracing.it##table[height="180"][width="100%"]
