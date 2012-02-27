@@ -263,6 +263,7 @@
 ||sportlive.it/images/*_300x100_
 ||sportlive.it/images/300x100_
 ||spotmix.libero.it^
+||staseraintv.com/simg/rebirthing2012_banner.png
 ||statoquotidiano.it/banner/
 ||technologyreview.it/img/banner/
 ||technologyreview.it/img/banner_
