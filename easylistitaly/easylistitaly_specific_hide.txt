@@ -435,6 +435,7 @@ virgilio.it###cht_banner
 virgilio.it###cont-leaderboard
 virgilio.it###cont-manchette
 virgilio.it##.adv
+virgilio.it##.advTuning
 virgilio.it##.newboxIs
 virgilio.it##.newboxIsOrizz
 vistointv.net##.topbanner2
