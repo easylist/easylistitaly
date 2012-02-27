@@ -288,6 +288,7 @@
 ||tuttobasket.net/assist.
 ||tuttobasket.net/assist_
 ||tuttobasket.net/banner_
+||tuttobasket.net^*/banner_
 ||tuttogratis.it/imgbanner/
 ||tuttogratis.it/js/tgsense_
 ||tuttosport.com/res/swf/ova.swf$object-subrequest
