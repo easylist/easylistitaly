@@ -29,6 +29,7 @@
 ||elf76.altervista.org^$subdocument,third-party
 ||emotiko.com^*/banners/
 ||enoleggioauto.it/affiliatexmlstylesheets/
+||excite.it/ad/
 ||fideliux.com/fideliux/banners/
 ||filepremier.com/banners.php?
 ||filepremier.com/iframe/box2.js

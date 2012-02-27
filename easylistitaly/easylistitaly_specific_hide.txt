@@ -38,6 +38,7 @@ borsainside.com##.banner_bottom_post
 bresciaoggi.it##.box-skyscrapers
 bresciaoggi.it##.header-box
 buttalapasta.it###bannerTop
+calcioblog.it##.box_highlight
 calciomercato.com###background_left
 calciomercato.com###background_right
 cani.com###headerBoard-box
