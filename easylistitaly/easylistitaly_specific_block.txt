@@ -268,6 +268,8 @@
 ||sportlive.it/images/*_300x100_
 ||sportlive.it/images/300x100_
 ||spotmix.libero.it^
+||stadionews.it/clienti/
+||stadionews.it^*_banner*.gif
 ||staseraintv.com/simg/rebirthing2012_banner.png
 ||statoquotidiano.it/banner/
 ||studiocataldi.it/banner/
