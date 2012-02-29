@@ -259,6 +259,7 @@ meteowebcam.it##.adsense_menu
 metropolisweb.it##.BannerMezzoNotizia
 milanofinanza.it###box_immo
 milanofinanza.it##.ban
+mister-x.it###siti_amici
 mondoreality.com###leaderboard
 moto.it###rchm_overlay
 moto.it###topboard
