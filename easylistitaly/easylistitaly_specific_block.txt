@@ -258,6 +258,7 @@
 ||secondamano.it^*/footer_cobrand/
 ||sky.it/static/images/sito/skin_
 ||smtvsanmarino.sm/*/bnr/
+||soldionline.it^*/300x100_
 ||spartoo.it/footer_tag_iframe.
 ||spaziogames.it/banner/
 ||spaziogames.it/images/backgrounds/
