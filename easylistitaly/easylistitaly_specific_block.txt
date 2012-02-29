@@ -204,6 +204,7 @@
 ||positanonews.it/include_gen/banner_
 ||positanonews.it/publicnew/banners/
 ||primissima.it/images/background_images/
+||pubblicitaitalia.it^*/background.jpg
 ||pubblicitaitalia.it^*banner_
 ||puglialive.net/dfiles/banners/
 ||puntocellulare.it/banner/
