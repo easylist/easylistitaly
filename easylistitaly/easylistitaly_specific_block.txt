@@ -94,6 +94,7 @@
 ||igorevy.com/pup.js
 ||ilcalcio.net/immagini/*-120x240-
 ||ilcalcio.net/immagini/*_125x125_
+||ilfattoalimentare.it/assets/banners/
 ||ilfogliocostadamalfi.it/media/banner-
 ||ilfogliocostadamalfi.it/media/banner_
 ||ilgazzettino.it/box_tuttomercato052011/
