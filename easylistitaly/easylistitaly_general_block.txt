@@ -3,6 +3,7 @@
 .it/ads/
 .it/adv/
 /advpirchio.
+/annunciogoogle.
 /pubblicit%c3%a0/*
 /pubblicita-
 /pubblicita.
