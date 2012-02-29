@@ -22,6 +22,7 @@
 ||blunote.it/images/banners/
 ||bmwpassion.com^*/banners/
 ||businessmagazine.it/i/skin/
+||c-radio.it/images/banners/
 ||calciomercato.com/uploads/banners/
 ||campaniameteo.it/banner/
 ||casaportale.com/public/uploads/
