@@ -176,6 +176,7 @@
 ||meteoweb.eu/immagini/advris/
 ||metronews.it^*/banner_
 ||metropolisweb.it/public/banner/
+||milanodabere.it/images/archivio/2000x1000/
 ||milanoweb.com/flash/imagerotator.swf
 ||modena2000.it/bnrs/
 ||momentosera.it/bannerupload/

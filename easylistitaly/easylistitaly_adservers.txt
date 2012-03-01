@@ -5,6 +5,7 @@
 ||adagionet.com^$third-party
 ||adbrawl.com^$third-party
 ||addyon.com^$third-party
+||adnxs.com^$image,~image,popup
 ||adpartner.it^$third-party
 ||adv-italiana.net^$third-party
 ||adventertainment.it^$third-party
