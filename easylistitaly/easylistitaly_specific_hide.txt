@@ -277,8 +277,10 @@ musickr.it###leaderboard
 musicroom.it###bannerTop
 myluxury.it###bannerTop
 mymovies.it##.linkblu[style="width:290px; cursor:pointer; margin-top:5px;"]
+mymovies.it##div[style="text-align:center; top:0px; margin-left:auto; margin-right:auto; height:120px; left:0px; float:left; width:100%; overflow:visible;"]
 mymovies.it##div[style="text-align:center; top:0px; margin-left:auto; margin-right:auto; height:190px; left:0px; float:left; width:100%; overflow:visible;"]
 mymovies.it##div[style="width:728px; height:90px;"]
+mymovies.it##td[style="height:45px; background-color:#FFFFFF; ;"]
 nanopress.it###bannerTop
 napolisport.net##div[style="float:left;margin:7px auto; width:1000px; margin-bottom:4px; text-align:left; height:92px;"]
 neveitalia.it##.promo

@@ -180,6 +180,7 @@
 ||momentosera.it/bannerupload/
 ||motonline.com^*/partner/
 ||movieplayer.it/images/adv/
+||mymovies.it/v7/include/homedressing/
 ||mymovies.it/v9/adv/
 ||netweek.it/banneranalyzer/
 ||network.alfemminile.com^
