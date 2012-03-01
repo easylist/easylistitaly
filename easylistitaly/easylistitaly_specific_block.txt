@@ -155,6 +155,7 @@
 ||libero.it/wind/linkadv.jsp
 ||libero.it/wind/linkadv_bottom.jsp
 ||liberoinformato.it/banner-
+||liberoreporter.it/public/upload/banner*.gif
 ||libertas.sm^*/banner/
 ||libertiamo.it^*468x60.
 ||libertiamo.it^*_234x60.
