@@ -341,6 +341,7 @@ rai.tv##.placeholder300x250
 ravennanotizie.it##.bannerH
 regaloregali.it###bannerTop
 retesport.it##.rect_banner
+retesport.it##.top_banner
 retesport.it##div[style="float:none;margin-top:10px;text-align:center;width:493px;height:100px;"]
 ricettepercucinare.com##.UAP_3to1_Rectangle
 ricettepercucinare.com##.UAP_Medium_Rectangle
