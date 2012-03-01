@@ -251,6 +251,7 @@
 ||salernonotizie.it/images/ikea_
 ||salernonotizie.it^*/banner-
 ||salernonotizie.it^*/banner_
+||samspot.softairmania.it^
 ||sanmarinofixing.com/smfixing/images/banners/
 ||sanmarinoworld.sm/custom/home/$object
 ||sanmarinoworld.sm/img/home/
