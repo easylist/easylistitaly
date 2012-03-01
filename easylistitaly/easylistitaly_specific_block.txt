@@ -275,6 +275,9 @@
 ||stadionews.it^*_banner*.gif
 ||staseraintv.com/simg/rebirthing2012_banner.png
 ||statoquotidiano.it/banner/
+||streamingfilm.it/images/stories/downloaddvdhard.jpg
+||streamingfilm.it/images/stories/streaming-film-hd.jpg
+||streamingfilm.it/images/stories/streamingfilmporno.jpg
 ||studiocataldi.it/banner/
 ||technologyreview.it/img/banner/
 ||technologyreview.it/img/banner_
