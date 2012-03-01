@@ -105,6 +105,9 @@ film.it##.rightBoxAmazon
 finanza.com###top-banner
 finanzaeborse.it###bannerTop
 finanzaonline.com##.bannerlbforum
+firstonline.info###ctl00_cph_main_banner1_p1
+firstonline.info##.banner300
+firstonline.info##.banner728
 fiscaleweb.com###leaderboard
 foxlife.it##div[style="width: 728px; height: 90px; margin: 0px auto 10px auto; background:none;"]
 foxtv.it##.leaderboard
