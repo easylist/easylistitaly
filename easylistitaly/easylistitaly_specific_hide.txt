@@ -58,6 +58,7 @@ ciao.it##.tableSponsLinks
 comingsoon.it###BnrRight1
 comingsoon.it###ExpTop
 comingsoon.it###advSkin
+comingsoon.it###expSkin
 comingsoon.it##.expanding-footer-container
 corriere.it###tv-adv
 corrieredellosport.it##.annunci_art
