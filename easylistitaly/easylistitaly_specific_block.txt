@@ -95,6 +95,7 @@
 ||igorevy.com/pup.js
 ||ilcalcio.net/immagini/*-120x240-
 ||ilcalcio.net/immagini/*_125x125_
+||ilcorrieredabruzzo.it/file/banner/
 ||ilfattoalimentare.it/assets/banners/
 ||ilfogliocostadamalfi.it/media/banner-
 ||ilfogliocostadamalfi.it/media/banner_
