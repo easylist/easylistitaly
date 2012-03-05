@@ -209,6 +209,7 @@
 ||parmasera.it^*/img_banner/
 ||pctuner.net/banner/
 ||perotorino.it/images/banners/
+||piacenzasera.it/img/top/sfondo.jpg
 ||piacenzasera.it^*/img_banner/
 ||pianetazzurro.it/images/banner/
 ||poker.commentierecensioni.com^*/titanpoker125x125.gif
