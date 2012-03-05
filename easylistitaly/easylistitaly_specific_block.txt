@@ -135,6 +135,7 @@
 ||lagazzettadelmezzogiorno.it/banner_pk/
 ||lagazzettadilucca.it^*/inserzioni/
 ||lametino.it/images/banners/
+||lamiaaria.it/oas/mjx.js
 ||lapiazzaweb.it/banner/
 ||lastampa.it/files/prova_an_6.gif
 ||lastampa.it^*/banner/
