@@ -260,6 +260,7 @@ melamorsicata.it##img[width="160"][height="300"]
 metalitalia.com###middle-home
 metalitalia.com###sidebar-top
 meteo.it##.ImmobiliareIt
+meteogiornale.it##iframe[width="655"][height="104"]
 meteowebcam.it###header_top
 meteowebcam.it##.ads_menu
 meteowebcam.it##.adsense_menu
