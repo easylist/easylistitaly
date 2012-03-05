@@ -27,6 +27,7 @@
 ||edidomus.it^*180x150.
 ||edidomus.it^*_45x45.
 ||ediscom.it^*banner/
+||ehiweb.it/banner/
 ||elf76.altervista.org^$subdocument,third-party
 ||emotiko.com^*/banners/
 ||enoleggioauto.it/affiliatexmlstylesheets/
