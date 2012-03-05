@@ -27,8 +27,8 @@
 ||delosnetwork.it^$third-party
 ||divascam.com^$third-party
 ||dotandad.com^$third-party
-||doubleclick.net^$object-subrequest,third-party,domain=adnkronos.com|ansa.it|digital.it|fanpage.it|gamesnation.it|ilmeteo.it|lastampa.it|mtv.it|nicktv.it|pmi.it|tuttosport.com
-||doubleclick.net^*;sz=$object-subrequest,third-party,domain=unita.it
+||doubleclick.net^$object-subrequest,third-party,domain=adnkronos.com|ansa.it|digital.it|fanpage.it|gamesnation.it|lastampa.it|mtv.it|nicktv.it|pmi.it|tuttosport.com
+||doubleclick.net^*;sz=$object-subrequest,third-party,domain=ilmeteo.it|unita.it
 ||eadv.it^$third-party
 ||ebuzzing.it^$third-party
 ||erosadv.com^$third-party
