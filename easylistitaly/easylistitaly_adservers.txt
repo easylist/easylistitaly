@@ -40,6 +40,7 @@
 ||linkto.org^$third-party
 ||livepartners.it^$third-party
 ||maxiadv.com^$third-party
+||mediamond.it^$third-party
 ||mondoecommerce.it^$third-party
 ||netaffiliation.com^$third-party
 ||netfilia.com^$third-party
