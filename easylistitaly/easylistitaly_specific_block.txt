@@ -40,7 +40,7 @@
 ||comic-soon.com/*/adv/
 ||comingsoon.it/imgdb/banner/
 ||console-inf.com/banner/
-||console-tribe.com^*/images/adv/
+||console-tribe.com^*/adv/
 ||coriglianocalabro.it/images/banners/
 ||coriglianocalabro.it^*/banner/
 ||corrieredellosport.it/res/swf/ova.swf$object-subrequest
