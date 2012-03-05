@@ -65,6 +65,7 @@
 ||fiorentinanews.com^*/banner/
 ||firstonline.info/ftp/adv/
 ||fordfiestaitalia.com^*/sponsor/
+||formiche.net/banner.asp?
 ||freenewsonline.it^*-300.jpg
 ||freenewsonline.it^*/250x250.swf
 ||freenewsonline.it^*/banner/
