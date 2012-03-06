@@ -181,6 +181,8 @@
 ||metropolisweb.it/public/banner/
 ||milanodabere.it/images/archivio/2000x1000/
 ||milanoweb.com/flash/imagerotator.swf
+||militariforum.it/forum/italy.swf
+||militariforum.it/forum/orologi-militari.swf
 ||modena2000.it/bnrs/
 ||momentosera.it/bannerupload/
 ||motonline.com^*/partner/
