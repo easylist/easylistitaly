@@ -13,6 +13,7 @@
 ||affiliationpartner.it^$third-party
 ||affiliazioni.me^$third-party
 ||affiliazioniweb.com^$third-party
+||angege.com^$image,~image,popup
 ||annuncivari.altervista.org^$third-party
 ||awsclic.com^$image,~image,popup
 ||bannerconnect.biz^$third-party
