@@ -101,6 +101,7 @@ farevela.net###text-7
 farevela.net##.banner-top
 fastweb.it###stdRCol
 fattidicronaca.it###bannerTop
+fattidicronaca.it###btop
 film.it##.ppn_h
 film.it##.rightBoxAmazon
 finanza.com###top-banner
