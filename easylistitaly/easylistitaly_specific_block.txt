@@ -142,6 +142,7 @@
 ||lastampa.it/files/prova_an_6.gif
 ||lastampa.it^*/banner/
 ||lastampa.it^*/banner_
+||lastampa.it^*/naturhouse/
 ||latitudeslife.com^*/banners/
 ||lattemiele.com/img/viprebanner/
 ||lavorincasa.it/banner/
