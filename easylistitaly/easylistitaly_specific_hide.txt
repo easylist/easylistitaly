@@ -179,6 +179,7 @@ ilmessaggero.it###molwidget300
 ilmilanista.it##div[style="width:480px; height:72px; padding: 6px; margin-left:auto; margin-right:auto;"]
 ilmondo.rcs.it###adv-mondo
 ilmonferrato.it###thin_banners_container
+ilnuovo.it###banner-right
 ilquotidiano.it##.banner728
 ilquotidiano.it##.box-attico
 ilsalvagente.it###bannerBottomExtra
