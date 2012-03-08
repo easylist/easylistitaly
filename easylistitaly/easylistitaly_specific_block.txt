@@ -46,6 +46,7 @@
 ||coriglianocalabro.it^*/banner/
 ||corrieredellosport.it/res/swf/ova.swf$object-subrequest
 ||corrieredigela.it/public/sponsor/
+||denaro.it^*/banner/
 ||digital-forum.it/bannerdtt/
 ||digital-sat.it/ds_mpppv/
 ||digital-sat.it/img/banner/
