@@ -287,6 +287,7 @@
 ||sportlive.it/images/*_300x100_
 ||sportlive.it/images/300x100_
 ||spotmix.libero.it^
+||spytwins.com/img/site/ec300.gif
 ||stadionews.it/clienti/
 ||stadionews.it^*_banner*.gif
 ||staseraintv.com/simg/rebirthing2012_banner.png
