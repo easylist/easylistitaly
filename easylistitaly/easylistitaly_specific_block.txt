@@ -14,6 +14,7 @@
 ||articolotre.com/images/banner/
 ||asca.it/skin_
 ||atlassib.it^*/banner/
+||audi-usato.motori24.ilsole24ore.com^
 ||banneradmin.rai.it^
 ||bazar.it/backfiles/banners/
 ||bergamonews.it/agp/
@@ -190,6 +191,7 @@
 ||modena2000.it/bnrs/
 ||momentosera.it/bannerupload/
 ||motonline.com^*/partner/
+||motori24.ilsole24ore.com/img2008/audimenutop_roll.jpg
 ||movieplayer.it/images/adv/
 ||mymovies.it/v7/include/homedressing/
 ||mymovies.it/v9/adv/
