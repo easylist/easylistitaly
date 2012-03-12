@@ -232,6 +232,8 @@
 ||quibrescia.it^*/wp-banners/
 ||quicomo.it/qc-ad/
 ||quicomo.it/qc-assets/banner/
+||r101.it/banner/
+||r101.it/img/bg_streaming_controller_audio.png
 ||r101.it/img/btn_innamorarsia101.jpg
 ||radiocentro95.it/uploads/banner/
 ||radiocentro95.it/uploads/bannerr/
