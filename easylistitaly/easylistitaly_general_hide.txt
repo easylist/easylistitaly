@@ -37,3 +37,4 @@
 ##.pubblicitapremium
 ##.sponsorizzati
 ##a[href^="http://adserver.ilmessaggero.it/"]
+##a[href^="http://crazylead.com/video/"]
