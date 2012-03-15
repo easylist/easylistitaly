@@ -23,6 +23,7 @@
 ###ripBoxAdvCentroSX2
 ##.adv-articolo
 ##.advhead
+##.advricaricamediamond
 ##.barraSipra
 ##.blocco_servizi_sponsor
 ##.box-pubblicita
