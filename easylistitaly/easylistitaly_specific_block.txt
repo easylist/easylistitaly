@@ -334,6 +334,7 @@
 ||tuttogratis.it/imgbanner/
 ||tuttogratis.it/js/tgsense_
 ||tuttosport.com/res/swf/ova.swf$object-subrequest
+||tuttosport.com^*/label_williamhill.png
 ||tvpitalia.it/sponsor/
 ||twww.tv/campagnabanner/
 ||twww.tv/get_banner.php?
