@@ -40,6 +40,7 @@
 ||climateobserver.it^*/banner-
 ||climateobserver.it^*/banner_
 ||comic-soon.com/*/adv/
+||comingsoon.it/fcred.asp?$object-subrequest
 ||comingsoon.it/imgdb/banner/
 ||console-inf.com/banner/
 ||console-tribe.com^*/adv/
