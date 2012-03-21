@@ -337,6 +337,8 @@
 ||tuttosport.com/res/swf/ova.swf$object-subrequest
 ||tuttosport.com^*/label_williamhill.png
 ||tvpitalia.it/sponsor/
+||tvzoom.it/images/banners/
+||tvzoom.it/minicms/linkwind.png
 ||twww.tv/campagnabanner/
 ||twww.tv/get_banner.php?
 ||twww.tv^*/background.jpg
