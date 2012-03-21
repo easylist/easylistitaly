@@ -10,6 +10,7 @@
 ||adv-italiana.net^$third-party
 ||adventertainment.it^$third-party
 ||advplace.com^$third-party
+||affiliago.it^$third-party
 ||affiliationpartner.it^$third-party
 ||affiliazioni.me^$third-party
 ||affiliazioniweb.com^$third-party
@@ -59,6 +60,7 @@
 ||scambiobanner.it^$third-party
 ||scambiobanner.org^$third-party
 ||scambiobanner.tv^$third-party
+||seolabadv.it^$third-party
 ||softwareplanet.net^$third-party
 ||spicciolo.com^$third-party
 ||sprintrade.com^$third-party
