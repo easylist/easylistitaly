@@ -102,6 +102,7 @@ fantascienza.com###partners
 farevela.net###text-7
 farevela.net##.banner-top
 fastweb.it###stdRCol
+fastweb.it##.advertising
 fattidicronaca.it###bannerTop
 fattidicronaca.it###btop
 film.it##.ppn_h
