@@ -252,6 +252,7 @@ lonelyplanetitalia.it###side_banner
 lonelyplanetitalia.it###side_banner_300_100
 lonelyplanetitalia.it###top_banner
 losportivo.sm##.bg_blocchi
+loudvision.it###prop-leader
 lussuosissimo.com###leaderboard
 macitynet.it##.contentTop
 mailbeta.libero.it###leftBoxIFrame
