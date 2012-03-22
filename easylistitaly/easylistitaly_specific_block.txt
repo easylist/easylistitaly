@@ -321,6 +321,7 @@
 ||tomshw.it/files/liste/skin*.jpg
 ||tomshw.it/shoppy.php?
 ||topnegozi.it^*/banner/
+||topolino.it^*/banners/
 ||toptrade.it^*/downloadfilebanner.php?
 ||trasporti-italia.com^*/banner/
 ||troppoforte.net/banner300px/
