@@ -120,6 +120,7 @@
 ||ilmessaggero.it/imgmol/
 ||ilmonferrato.it/banners/
 ||ilmonferrato.it/media/generalauto_
+||ilpost.it^*/home_adv.css
 ||ilquotidiano.it/userdata/banner/
 ||ilsalvagente.it/imgmol/
 ||ilsalvagente.it/immagini/banner120x60-
