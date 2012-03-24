@@ -122,6 +122,7 @@ games4all.it###bannerTop
 gaywave.it###bannerTop
 gazzetta.it###tv-adv
 gazzetta.it##.bacheca-mkt
+gazzetta.it##.info-quote
 gazzetta.it##.poker
 gazzetta.it##.pushbar
 gazzetta.it##.sponsored
