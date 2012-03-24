@@ -47,6 +47,7 @@
 ||coriglianocalabro.it/images/banners/
 ||coriglianocalabro.it^*/banner/
 ||corriere.it^*/icon_csnai.gif
+||corriere.it^*/icon_csnai_shared.gif
 ||corrieredellosport.it/res/swf/ova.swf$object-subrequest
 ||corrieredigela.it/public/sponsor/
 ||denaro.it^*/banner/
