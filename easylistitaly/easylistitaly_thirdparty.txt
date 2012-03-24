@@ -31,6 +31,7 @@
 ||elf76.altervista.org^$subdocument,third-party
 ||emotiko.com^*/banners/
 ||enoleggioauto.it/affiliatexmlstylesheets/
+||eurobet.it/adynit/$third-party
 ||excite.it/ad/
 ||fideliux.com/fideliux/banners/
 ||filepremier.com/banners.php?
