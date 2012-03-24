@@ -332,6 +332,8 @@ piacenzasera.it##.banner_doc_bottom_foto
 piacenzasera.it##.banner_globaltop
 piacenzasera.it##.box-attico
 pianetacellulare.it##.banner2
+pianetatech.it###div-banner-300
+pianetatech.it###partnerw
 piratestreaming.com##a[href^="http://www.piratestreaming.com/video"]
 playme.it###topPromo
 pmi.it##.banner
