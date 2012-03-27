@@ -234,6 +234,7 @@ lastampa.it###badge
 lastampa.it###banner_VideoBox
 lastampa.it###banner_top
 lastampa.it###storelocator
+lastampa.it##.pubb
 lastampa.it##.top-right-banner
 lastampa.it##div[style="width: 990px; height: 90px;"]
 latitudeslife.com###head_banner
