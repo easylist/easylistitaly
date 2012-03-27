@@ -320,6 +320,7 @@ omnimoto.it###skin_link
 orangedropdesign.com##.banner
 oroscopo.it###top_header
 paginebianche.it##div[style="width: 300px; height: 250px;"]
+paginegialle.it##.adv-cont
 palermomania.com###area_banner_top
 panorama.it###immob_box_ricerca
 parmasera.it##.banner_doc_bottom_foto
