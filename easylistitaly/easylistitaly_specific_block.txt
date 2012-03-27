@@ -215,6 +215,7 @@
 ||nyc-site.com/newyork/hotel/
 ||omniauto.it/2.0/banners/
 ||omniauto.it^*/sponsoredby_
+||omniauto.it^*_sponsor.jpg
 ||omnicorse.it/banners/
 ||omnifurgone.it/img/skin_
 ||omnimilano.it/dati/banner/
