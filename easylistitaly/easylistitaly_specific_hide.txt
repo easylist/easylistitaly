@@ -359,6 +359,7 @@ r101.it##.banner
 radiosei.it##.rect_banner
 radiosei.it##.top_banner
 radiosei.it##div[style="float:none;margin-top:10px;text-align:center;width:492px;height:100px;"]
+rai.it###Leaderboard
 rai.tv##.placeholder300x250
 ravennanotizie.it##.bannerH
 regaloregali.it###bannerTop
