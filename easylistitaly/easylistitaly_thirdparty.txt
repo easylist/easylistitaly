@@ -79,6 +79,7 @@
 ||streamcaster.net/lunaset/web/template_
 ||subito-server.it/banner/
 ||subito.paneaserver.net^
+||tccstatic.com/template/*/img/_sfondo.jpg
 ||tophost.it/banners/
 ||topsexitalia.com/adv.php
 ||unibr.altervista.org/pub.html
