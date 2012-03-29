@@ -109,6 +109,7 @@ film.it##.ppn_h
 film.it##.rightBoxAmazon
 finanza.com###top-banner
 finanzaeborse.it###bannerTop
+finanzaonline.com##.banner_bg
 finanzaonline.com##.bannerlbforum
 firstonline.info###ctl00_cph_main_banner1_p1
 firstonline.info##.banner300
