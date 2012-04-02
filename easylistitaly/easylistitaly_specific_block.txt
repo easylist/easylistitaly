@@ -15,6 +15,7 @@
 ||asca.it/skin_
 ||atlassib.it^*/banner/
 ||audi-usato.motori24.ilsole24ore.com^
+||autoxy.it/banners/
 ||banneradmin.rai.it^
 ||bazar.it/backfiles/banners/
 ||bergamonews.it/agp/
