@@ -231,6 +231,7 @@
 ||piacenzasera.it^*/img_banner/
 ||pianetazzurro.it/images/banner/
 ||poker.commentierecensioni.com^*/titanpoker125x125.gif
+||popcorntv.it/advloader.php?
 ||positanonews.it/include_gen/banner_
 ||positanonews.it/publicnew/banners/
 ||primissima.it/images/background_images/
