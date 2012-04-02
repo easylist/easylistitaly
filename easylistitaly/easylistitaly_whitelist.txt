@@ -25,6 +25,9 @@
 @@||rampower.it/flash/rp_player_rtmp.swf?*&videourl=http://www.rampower.it/advertising/$object
 @@||repubblica.it/adimages/
 @@||search.excite.it/minify.php?files*/css/feed/adsearch.css
+@@||smartadserver.com/a/diff/*/show42.asp?$object-subrequest,domain=popcorntv.it
+@@||smartadserver.com/call/pubx/$object-subrequest,domain=popcorntv.it
+@@||smartadserver.com/crossdomain.xml$object-subrequest,domain=popcorntv.it
 @@||static.fanpage.it^*/adsense.swf?$object-subrequest
 @@||viamichelin.it/static/advert/afsquery/afsquery.js
 @@||viamichelin.it^*/rentacar.js
