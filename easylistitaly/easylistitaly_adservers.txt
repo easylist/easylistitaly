@@ -68,4 +68,5 @@
 ||superbanner.org^$third-party
 ||tgadv.it^$third-party
 ||the-adult-company.com^$third-party
+||wbusiness.fr^$third-party
 ||widebanner.com^$third-party
