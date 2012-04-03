@@ -52,6 +52,7 @@ catania46.net##a[href^="http://www.clickpoint.it/db/goto.cp?"]
 cattoliciromani.com###posts > div:nth-child(2) .tborder[id^="post"]:first-child:last-child
 cellulare-magazine.it###skin-top-container
 cellularemagazine.it###skin-top-container
+centrometeo.com##.banneritemcenterdx
 cheauto.it##table[width="208"][height="148"][style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size:11px; background-image: url(imgmol/background_300_form3campi.gif); border: 1px solid #ffffff;"]
 ciao.it###productlevellink
 ciao.it##.CWContainerComparePrice

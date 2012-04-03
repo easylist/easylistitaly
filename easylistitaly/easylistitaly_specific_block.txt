@@ -31,6 +31,7 @@
 ||casaportale.com/public/uploads/
 ||casertanews.it/bann.asp?
 ||catanzaroinforma.it/public/sponsor/
+||centrometeo.com^*/banner_
 ||cheauto.it/asset/img/prestitionline.gif
 ||cittadigenova.com/banners/
 ||cittaditorino.net/banners/
