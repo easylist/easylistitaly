@@ -10,6 +10,8 @@
 /pubblicita.
 /pubblicita/*
 /pubblicita_
+/pubblicitadx.
+/pubblicitasx.
 /repubblicaad.
 /tiscali_ads.
 _pubblicita.

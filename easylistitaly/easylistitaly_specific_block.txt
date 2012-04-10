@@ -136,6 +136,8 @@
 ||ininsubria.it/thb.aspx?filename=upload%2fbanners%2f
 ||ininsubria.it/upload/banners/
 ||inside.bz.it/images/banners/
+||internapoli.it/public/bgspot/
+||internapoli.it/public/spot/
 ||italia-film.com/adobe.gif
 ||italia-film.com/banner.gif
 ||italia-film.com/uploads/youtube.gif

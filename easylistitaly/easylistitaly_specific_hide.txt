@@ -207,6 +207,7 @@ ilturista.info##.more-holder
 informatisubito.myblog.it##table[height="600"][width="120"]
 ininsubria.it###PopUp_Under
 interistaweb.it##div[style="width:480px; height:72px; padding: 6px; margin-left:auto; margin-right:auto;"]
+internapoli.it###divHeader
 iobloggo.com##.adv
 iochiamo.com###leaderboard
 iodonna.it###buy-now
