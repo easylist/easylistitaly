@@ -29,6 +29,7 @@
 @@||smartadserver.com/call/pubx/$object-subrequest,domain=popcorntv.it
 @@||smartadserver.com/crossdomain.xml$object-subrequest,domain=popcorntv.it
 @@||static.fanpage.it^*/adsense.swf?$object-subrequest
+@@||static.youreporter.it/adv/player.swf$object
 @@||viamichelin.it/static/advert/afsquery/afsquery.js
 @@||viamichelin.it^*/rentacar.js
 @@||video1.italiaoggi.it/movie/movie/adserver_$object,object-subrequest
