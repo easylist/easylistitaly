@@ -9,6 +9,8 @@
 ###advAutopromo1
 ###advAutopromo2
 ###adv_in_post
+###advcolonnadx
+###advcolonnasx
 ###annunciGoogle
 ###annunci_google
 ###blocco_servizi_sponsor1

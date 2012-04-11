@@ -287,6 +287,7 @@ metropolisweb.it##.BannerMezzoNotizia
 milanodabere.it##a[href^="http://ib.adnxs.com/clktrb?id="]
 milanofinanza.it###box_immo
 milanofinanza.it##.ban
+milanotoday.it##.advtop
 mister-x.it###siti_amici
 mondoreality.com###leaderboard
 moto.it###rchm_overlay
