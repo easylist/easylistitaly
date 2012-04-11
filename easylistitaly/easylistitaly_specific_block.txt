@@ -33,6 +33,8 @@
 ||catanzaroinforma.it/public/sponsor/
 ||centrometeo.com^*/banner_
 ||cheauto.it/asset/img/prestitionline.gif
+||ciaocomo.it/box-assicurazioni/
+||ciaocomo.it/images/banners/
 ||cineblog01.info/ban_
 ||cittadigenova.com/banners/
 ||cittaditorino.net/banners/
