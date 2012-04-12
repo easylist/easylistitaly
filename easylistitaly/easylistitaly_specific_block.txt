@@ -162,6 +162,7 @@
 ||lastampa.it^*/banner/
 ||lastampa.it^*/banner_
 ||lastampa.it^*/naturhouse/
+||latitudeslife.com/magazine/adv/
 ||latitudeslife.com^*/banners/
 ||lattemiele.com/img/viprebanner/
 ||lavorincasa.it/banner/
