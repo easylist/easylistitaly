@@ -111,6 +111,8 @@
 ||ilcalcio.net/immagini/*_125x125_
 ||ilcorrieredabruzzo.it/file/banner/
 ||ilfattoalimentare.it/assets/banners/
+||ilfattoquotidiano.it^*/banner_casait.jpg
+||ilfattoquotidiano.it^*/pulsante-2.jpg
 ||ilfogliocostadamalfi.it/media/banner-
 ||ilfogliocostadamalfi.it/media/banner_
 ||ilgazzettino.it/box_tuttomercato052011/
