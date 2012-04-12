@@ -96,6 +96,7 @@ eurogamer.it###leaderboard
 eurogamer.it###skyscraper
 eurosat-online.it###bottoni
 everyeye.it###banner300_v2
+everyeye.it###richmedia
 excite.it##.textlink_content
 f1passion.it##div[style="float:left; width:300px; height:250px; background:#f80; margin-bottom:24px;"]
 f1passion.it##div[style="width:300px; height:250px; margin-bottom:24px;"]
