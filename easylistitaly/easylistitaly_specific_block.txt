@@ -207,6 +207,7 @@
 ||milanoweb.com/flash/imagerotator.swf
 ||militariforum.it/forum/italy.swf
 ||militariforum.it/forum/orologi-militari.swf
+||mmorpgitalia.it/von/
 ||modena2000.it/bnrs/
 ||momentosera.it/bannerupload/
 ||motonline.com^*/partner/
