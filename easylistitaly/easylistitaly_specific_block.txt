@@ -16,6 +16,7 @@
 ||atlassib.it^*/banner/
 ||audi-usato.motori24.ilsole24ore.com^
 ||autoxy.it/banners/
+||balarm.it/banner.asp?
 ||banneradmin.rai.it^
 ||bazar.it/backfiles/banners/
 ||bergamonews.it/agp/
