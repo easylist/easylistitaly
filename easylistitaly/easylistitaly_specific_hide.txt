@@ -262,6 +262,8 @@ lonelyplanetitalia.it###top_banner
 losportivo.sm##.bg_blocchi
 loudvision.it###prop-leader
 lussuosissimo.com###leaderboard
+macitynet.it###boxItunes
+macitynet.it##.banner
 macitynet.it##.contentTop
 mailbeta.libero.it###leftBoxIFrame
 mailexpress.it###ads
