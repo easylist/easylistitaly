@@ -6,6 +6,8 @@
 ###adl_leaderboard
 ###adl_medium_rectangle
 ~giornaledisiracusa.it###adsense_testa
+###adv-skin-colonnadx
+###adv-skin-colonnasx
 ###advAutopromo1
 ###advAutopromo2
 ###adv_in_post
