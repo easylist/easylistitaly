@@ -337,6 +337,7 @@
 ||tempoitalia.it/banner/
 ||tennis.it/files/banco_desio_lazio.gif
 ||terranauta.it/banner/
+||tiscali.it/media/adv/
 ||tmnews.it^*/banner_
 ||tomshw.it/files/liste/skin*.jpg
 ||tomshw.it/shoppy.php?
