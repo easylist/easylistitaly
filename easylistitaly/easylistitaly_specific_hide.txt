@@ -5,6 +5,7 @@
 786cast.tv###hideall
 a-realestate.it##.adv
 a-realestate.it##.spot_banner
+acquaportal.it##table[width="284px"][style="border:1px solid #A5C9ED"]
 acquariofilia.biz###collapseobj_sidebar_google
 agi.it##.banner
 agichina24.it##.banner
