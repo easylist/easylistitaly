@@ -301,6 +301,7 @@ motonline.com###box-bacheca
 motonline.com###box-bachecapremium
 motori24.ilsole24ore.com##iframe[width="300"][height="350"]
 mrwebmaster.it##.txt
+multiplayer.it##a[href^="http://adv.multiplayer.it/"]
 musickr.it###leaderboard
 musicroom.it###bannerTop
 myluxury.it###bannerTop
