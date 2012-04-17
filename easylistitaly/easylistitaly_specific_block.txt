@@ -20,6 +20,7 @@
 ||amitaliana.com/images/banners/
 ||ansa.it/web/banner_js/
 ||articolotre.com/images/banner/
+||asca.it/banner/
 ||asca.it/skin_
 ||atlassib.it^*/banner/
 ||audi-usato.motori24.ilsole24ore.com^
