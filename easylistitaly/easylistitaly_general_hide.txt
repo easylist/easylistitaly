@@ -25,6 +25,7 @@
 ###ppn_ad_div
 ###pubblicita
 ###ripBoxAdvCentroSX2
+###skin_ADV_DIV
 ##.adv-articolo
 ##.advhead
 ##.advricaricamediamond
