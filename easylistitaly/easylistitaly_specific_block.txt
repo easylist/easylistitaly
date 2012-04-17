@@ -1,5 +1,11 @@
 ||312.it/img/banner/
 ||abruzzoweb.it/images/banner/
+||acquaportal.it/common/banner/
+||acquaportal.it/common/banner126/
+||acquaportal.it/common/banner280/
+||acquaportal.it/common/banner468/
+||acquaportal.it/common/banner728/
+||acquaportal.it/common/banner_sponsor/
 ||acquariofilia.biz/banner/
 ||acquariofilia.biz/images/banner/
 ||adnkronos.com^*/banner/
