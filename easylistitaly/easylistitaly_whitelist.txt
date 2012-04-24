@@ -1,3 +1,4 @@
+@@||adagionet.com/uploads/js/sipra.js$domain=rai.tv
 @@||ads.spinblog.it/www/delivery/ajs.php?zoneid=$script,domain=ipaditalia.com|iphoneitalia.com
 @@||adser.localport.it/ads/logo-localport-it/logo.gif
 @@||adser.localport.it/banman.asp?zoneid=71$subdocument
