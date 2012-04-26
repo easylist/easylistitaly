@@ -204,6 +204,7 @@ ilsalvagente.it##.video
 ilsecoloxix.it###head_banners
 ilsecoloxix.it##.artbanner
 ilsecoloxix.it##.banner650x60
+ilsoftware.it###SponsorFull
 ilsoftware.it##.boxDXa.txt3
 ilsoftware.it##.txtboxleft[style="width:280px; height:200px;"]
 ilsole24ore.com###block300x250
