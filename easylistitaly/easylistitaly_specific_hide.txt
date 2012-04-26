@@ -490,6 +490,7 @@ tuttogratis.it###bannerTop
 tuttogratis.it###bleft
 tuttogratis.it###bright
 tuttogratis.it###btop
+tvtv.it##.advert
 unita.it##.dannperdere
 ustation.it###adv
 vanityfair.it##.promo
