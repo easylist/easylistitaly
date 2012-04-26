@@ -143,6 +143,7 @@
 ||ilquotidiano.it/userdata/banner/
 ||ilsalvagente.it/imgmol/
 ||ilsalvagente.it/immagini/banner120x60-
+||ilsoftware.it/images/adv/
 ||iltaccoditalia.info/banner/
 ||ilvelino.it^*/banner/
 ||infooggi.it/banner/
