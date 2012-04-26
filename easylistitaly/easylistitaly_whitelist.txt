@@ -7,6 +7,8 @@
 @@||adv.ilsole24ore.it/crossdomain.xml$object-subrequest,domain=sky.it
 @@||adv.ilsole24ore.it^*/empty.flv$object-subrequest,domain=sky.it
 @@||adv.ilsole24ore.it^*@preroll|$object-subrequest,domain=sky.it
+@@||adv.rtl.it/crossdomain.xml
+@@||adv.rtl.it/www/delivery/fc.php?*&zones=pre-roll$object-subrequest
 @@||adv.tre.it/www/$image,script
 @@||ansa.it/web/multimedia/images/ad-gallery/
 @@||ansa.it/web/video/videoad.swf

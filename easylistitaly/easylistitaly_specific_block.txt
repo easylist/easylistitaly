@@ -301,6 +301,7 @@
 ||rockit.it/res/css3/skin_
 ||rocknrollradio.it/images/banners/
 ||rosalio.it^*/adv/
+||rtl.it^*/itunes_btn_
 ||rtl.it^*_ban_
 ||salernonotizie.it/images/bannerinternetfree.gif
 ||salernonotizie.it/images/ikea_
