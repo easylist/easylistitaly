@@ -11,7 +11,7 @@
 @@||adv.rtl.it/www/delivery/fc.php?*&zones=pre-roll$object-subrequest
 @@||adv.tre.it/www/$image,script
 @@||ansa.it/web/multimedia/images/ad-gallery/
-@@||ansa.it/web/video/videoad.swf
+@@||ansa.it/web/video/videoad.swf$object-subrequest
 @@||download.deejay.it/adv/podcast/$object-subrequest
 @@||edintorni.net/related/service/*/jscript/$script,domain=ilgiornale.it
 @@||eyewonder.com^*/video/$object-subrequest,domain=sky.it
@@ -32,6 +32,8 @@
 @@||smartadserver.com/crossdomain.xml$object-subrequest,domain=popcorntv.it
 @@||static.fanpage.it^*/adsense.swf?$object-subrequest
 @@||static.youreporter.it/adv/player.swf$object
+@@||tiscali.ad.dotandad.com/crossdomain.xml$object-subrequest,domain=ansa.it
+@@||tiscali.ad.dotandad.com/tiscali.jsp?mpo=vast2&mpt=ansa.video/$object-subrequest,domain=ansa.it
 @@||viamichelin.it/static/advert/afsquery/afsquery.js
 @@||viamichelin.it^*/rentacar.js
 @@||video1.italiaoggi.it/movie/movie/adserver_$object,object-subrequest
