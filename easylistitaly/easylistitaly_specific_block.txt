@@ -265,6 +265,7 @@
 ||quattroruote.it/common/adv_
 ||quattroruote.it^*/logo_*_menu.png
 ||quelliche.net^*/file_banner/
+||quellidellelica.com/images/banners/
 ||quibrescia.it^*/wp-banners/
 ||quicomo.it/qc-ad/
 ||quicomo.it/qc-assets/banner/
