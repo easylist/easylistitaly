@@ -261,6 +261,7 @@ libero.it##div[style="width: 180px; height: 150px;"]
 libero.it##div[style="width: 300px; height: 250px;"]
 liberoquotidiano.it###bannerbox1
 liberoquotidiano.it##.BannerHead
+liberoquotidiano.it##.banner_apertura
 lifegate.it##a[href^="http://goo.gl/"]
 liguriawebcam.com##div[style="overflow:hidden;height:90px;margin:4px 0;"]
 lipari.biz##.banner
