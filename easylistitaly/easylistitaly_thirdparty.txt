@@ -2,6 +2,7 @@
 ||ad.edision-nord.it^
 ||ad.ricevitori-digitali.com^
 ||adagiobanner.s3.amazonaws.com^
+||advx.esprimo.com^
 ||aff.buonisconto.it^
 ||affiliate2.hardstore.com^
 ||affiliazione.immobiliare.it^

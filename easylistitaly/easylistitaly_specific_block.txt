@@ -314,6 +314,7 @@
 ||sanmarinoworld.sm/custom/home/$object
 ||sanmarinoworld.sm/img/home/
 ||sanmarinoworld.sm^*/bnr/
+||sanremonews.it^*/box/
 ||sassarinotizie.com/public/adv/
 ||sassarinotizie.com/ws/advlink300.aspx
 ||sassuolo2000.it/bnrs/
