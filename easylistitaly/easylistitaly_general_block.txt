@@ -2,6 +2,7 @@
 .it/_adv/
 .it/ads/
 .it/adv/
+/adv_s_pirchio.
 /advpirchio.
 /annunciogoogle.
 /mediamondads.

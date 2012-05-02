@@ -57,6 +57,7 @@
 ||ragazzeinvendita.com^$third-party
 ||rivcash.com^$third-party
 ||s-p-o-n-s-o-r.com^$third-party
+||sbanner.com^$third-party
 ||scambiobanner.it^$third-party
 ||scambiobanner.org^$third-party
 ||scambiobanner.tv^$third-party
