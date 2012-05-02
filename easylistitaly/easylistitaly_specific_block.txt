@@ -295,6 +295,7 @@
 ||regionelombardia.info/banners/
 ||reportmotori.it/banner/
 ||repubblica.it/ad/
+||repubblica.it/contentsense/
 ||repubblica.it^*/adagiorep.js
 ||repubblica.it^*/negozi_accordion.swf?
 ||repubblica.it^*_contentsense_
