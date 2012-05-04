@@ -72,6 +72,7 @@
 ||rivenditori.aruba.it^$third-party
 ||sanistatic.it/*/300x100_
 ||scambiobanner.aruba.it^$third-party
+||scimmiablu.altervista.org/adv/
 ||sereni.net/images/banner/
 ||sk1.it/images/promo/
 ||smartclip.net^$~object-subrequest,third-party
