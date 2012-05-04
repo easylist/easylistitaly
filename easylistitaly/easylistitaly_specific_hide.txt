@@ -496,6 +496,7 @@ unita.it##.dannperdere
 ustation.it###adv
 vanityfair.it##.promo
 varesenews.it###cont_Superbanner
+violanews.com##div[id^="div-gpt-ad-"]
 virgilio.it###cht_banner
 virgilio.it###cont-leaderboard
 virgilio.it###cont-manchette
