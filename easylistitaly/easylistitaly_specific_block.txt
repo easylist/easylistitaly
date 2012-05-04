@@ -65,6 +65,8 @@
 ||corriere.it^*/icon_csnai_shared.gif
 ||corrieredellosport.it/res/swf/ova.swf$object-subrequest
 ||corrieredigela.it/public/sponsor/
+||corrierinocampaniasport.it^*/banner_
+||corrierinocampaniasport.it^*/menna.jpg
 ||denaro.it^*/banner/
 ||digital-forum.it/bannerdtt/
 ||digital-sat.it/ds_mpppv/
