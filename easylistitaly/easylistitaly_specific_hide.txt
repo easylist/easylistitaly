@@ -197,6 +197,9 @@ ilmonferrato.it###thin_banners_container
 ilnuovo.it###banner-right
 ilquotidiano.it##.banner728
 ilquotidiano.it##.box-attico
+ilroma.net##div[style=" width: 214px; height: 82px;"]
+ilroma.net##div[style=" width: 300px; height: 250px;"]
+ilroma.net##div[style=" width: 990px; height: 30px;"]
 ilsalvagente.it###bannerBottomExtra
 ilsalvagente.it###bannerDx
 ilsalvagente.it###bannerInt
