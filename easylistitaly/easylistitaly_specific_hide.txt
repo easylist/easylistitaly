@@ -129,6 +129,7 @@ fuorissimo.com##td[height="100"][bgcolor="#000000"][width="752"]
 gamemag.it##.ads
 games4all.it###bannerTop
 gaywave.it###bannerTop
+gazzetta.it###sponsor
 gazzetta.it###tv-adv
 gazzetta.it##.bacheca-mkt
 gazzetta.it##.info-quote
