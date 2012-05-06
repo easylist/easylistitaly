@@ -17,6 +17,7 @@
 ||banner.crol.it^
 ||bazarcoupon.com/images/$third-party
 ||bt.rcs.it^
+||careerjet.it/partners/
 ||casa.it/cobrand/
 ||casinotop10.it/swf/$third-party
 ||cdn.plus500.com/media/banners/
