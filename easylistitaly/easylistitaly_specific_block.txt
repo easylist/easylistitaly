@@ -112,6 +112,8 @@
 ||goldwebtv.it/userfiles/file/banners/
 ||gpone.com/images/banners/
 ||gratisfree.it/cgi-bin/bannergest$script
+||gufoporno.com/media/banners/adv/
+||gufoporno.com^*/popup.js
 ||guidaviaggi.it/banners/
 ||gustissimo.it/stili/locali/300x120_
 ||hdblog.it^*/skin_
