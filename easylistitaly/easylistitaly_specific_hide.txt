@@ -113,6 +113,7 @@ fastweb.it###stdRCol
 fastweb.it##.advertising
 fattidicronaca.it###bannerTop
 fattidicronaca.it###btop
+film-mkv.net##a[href^="http://netload.in/index.php?refer_id="]
 film.it##.ppn_h
 film.it##.rightBoxAmazon
 finanza.com###top-banner
