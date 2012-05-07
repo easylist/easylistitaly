@@ -66,6 +66,7 @@
 ||pangora.com^$image,third-party
 ||partypoker.it/td/$image,~image,popup
 ||planet49.it/cgi-bin/wingame.pl?$image,~image,popup
+||pornotizie.com/image/banner/
 ||prodigiweb.it/hpsponsor/
 ||promo.easy-dating.org^
 ||puntostampa.altervista.org^$subdocument,third-party
@@ -87,6 +88,7 @@
 ||tccstatic.com/template/*/img/_sfondo.jpg
 ||tophost.it/banners/
 ||topsexitalia.com/adv.php
+||tuoporno.com/images/banner/
 ||unibr.altervista.org/pub.html
 ||upcom.it^*/banner/
 ||uplink.aruba.it^$third-party
