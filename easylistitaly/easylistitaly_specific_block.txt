@@ -114,6 +114,7 @@
 ||gratisfree.it/cgi-bin/bannergest$script
 ||guidaviaggi.it/banners/
 ||gustissimo.it/stili/locali/300x120_
+||hdblog.it^*/skin_
 ||histonium.net/moduli/banner/
 ||hwmobile.it/images/banners/
 ||hwupgrade.org/banner/
