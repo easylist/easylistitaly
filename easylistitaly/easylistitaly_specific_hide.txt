@@ -235,6 +235,8 @@ ipadevice.com##a[href^="http://adserver.ispazio.net/"]
 ipoditalia.it###topbanner
 ipoditalia.it##.banner_topright
 ispazio.net##.banner_right_sidebar_big
+ispazio.net##.banner_right_sidebar_small
+ispazio.net##a[href^="http://adserver.ispazio.net/"]
 it.msn.com###consiglia
 it.msn.com###markette
 italia-news.it###box_ricerca
