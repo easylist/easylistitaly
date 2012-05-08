@@ -31,6 +31,7 @@
 @@||smartadserver.com/call/pubx/$object-subrequest,domain=popcorntv.it
 @@||smartadserver.com/crossdomain.xml$object-subrequest,domain=popcorntv.it
 @@||static.fanpage.it^*/adsense.swf?$object-subrequest
+@@||static.youreporter.it/adv/jwplayer.js$script,domain=youreporternews.it
 @@||static.youreporter.it/adv/player.swf$object
 @@||tiscali.ad.dotandad.com/crossdomain.xml$object-subrequest,domain=ansa.it
 @@||tiscali.ad.dotandad.com/tiscali.jsp?mpo=vast2&mpt=ansa.video/$object-subrequest,domain=ansa.it
@@ -39,6 +40,7 @@
 @@||video1.italiaoggi.it/movie/movie/adserver_$object,object-subrequest
 @@||video1.milanofinanza.it/movie/movie/adserver_$object,object-subrequest
 @@||vox-static.liverail.com^*/liverail_preroll.swf$object,domain=786cast.tv
+@@||youreporter.it/adv/ova-matrix-yrn.xml.php?$object-subrequest,domain=youreporternews.it
 @@||youreporter.it/adv/ova-matrix.xml.php?$object-subrequest
 ! Anti-Adblock
 @@||hwupgrade.org/forum/advertisement.js
