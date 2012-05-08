@@ -453,6 +453,7 @@ telefonino.net###google300x250
 telefonino.net###googleHomeNews
 telefonino.net###googleNewsTop
 telefonino.net###googleProveTop
+telefonino.net###news336x280GoogleBox
 telefonino.net##div[style="position: relative;width: 310px;height: 110px;margin: 0px -5px 5px -5px;"]
 televisionando.it###bannerTop
 tempi.it##div[style="position: relative; height: 250px; width: 300px;"]
