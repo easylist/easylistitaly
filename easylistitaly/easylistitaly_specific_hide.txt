@@ -532,6 +532,7 @@ vostrisoldi.it###bannerTop
 wallstreetitalia.com##.bestbuybiz
 webpedia.altervista.org###banner
 webpedia.altervista.org##div[style="width:728px;height:90px;margin:6px auto;background:#eee"]
+winmagazine.it##div[style="width:980px; height:90px; margin: 0 auto;text-align:center;margin-bottom:5px"]
 wintricks.it##div[style="width:980px;height:90px;margin: 0 auto"]
 wintricks.it##div[style="width:980px;height:90px;margin: 0 auto;background:none"]
 wmia.it##div[style="width:350px; height:300px; float:left"]
