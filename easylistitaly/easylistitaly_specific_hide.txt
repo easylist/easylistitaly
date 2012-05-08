@@ -450,6 +450,7 @@ subito.it###coldxbig
 subito.it##.gray_box_small
 suipedali.it###bannerTop
 tantasalute.it###bannerTop
+techassistance.it##div[style="height:90px; width:980px;display:block; text-align:center"]
 tecnocino.it###bannerTop
 tecnocino.it###btop
 tecnozoom.it###btop
