@@ -310,6 +310,7 @@ meteogiornale.it##iframe[width="655"][height="104"]
 meteowebcam.it###header_top
 meteowebcam.it##.ads_menu
 meteowebcam.it##.adsense_menu
+metronews.it##div[id^="div-gpt-ad-"]
 metropolisweb.it##.BannerMezzoNotizia
 milanodabere.it##a[href^="http://ib.adnxs.com/clktrb?id="]
 milanofinanza.it###box_immo
