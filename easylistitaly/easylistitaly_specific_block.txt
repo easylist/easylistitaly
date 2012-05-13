@@ -335,6 +335,7 @@
 ||scopateitaliane.it/images/troieinwebcam.jpg
 ||secondamano.it^*/footer_cobrand/
 ||sentieriselvaggi.it/public/banner/
+||siciliaway.it^*/immagini_promozionali/
 ||sky.it/static/images/sito/skin_
 ||smtvsanmarino.sm/*/bnr/
 ||soldionline.it^*/300x100_
