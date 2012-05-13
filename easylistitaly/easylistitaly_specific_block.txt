@@ -364,6 +364,7 @@
 ||temi-wordpress.net/wp-content/plugins/maxblogpress-unblockable-popup/
 ||tempoitalia.it/banner/
 ||tennis.it/files/banco_desio_lazio.gif
+||tennisworlditalia.com/banners/
 ||terranauta.it/banner/
 ||tiscali.it/media/adv/
 ||tmnews.it^*/banner_
