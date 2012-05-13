@@ -449,6 +449,7 @@ stylosophy.it###bannerTop
 subito.it###coldxbig
 subito.it##.gray_box_small
 suipedali.it###bannerTop
+swzone.it##a[href^="http://www.spytwins.com/"]
 tantasalute.it###bannerTop
 techassistance.it##div[style="height:90px; width:980px;display:block; text-align:center"]
 tecnocino.it###bannerTop
