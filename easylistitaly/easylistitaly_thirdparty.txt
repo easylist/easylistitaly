@@ -16,6 +16,7 @@
 ||babbano.com/adv/
 ||banner.crol.it^
 ||bazarcoupon.com/images/$third-party
+||betpro.it^*/banner/
 ||bt.rcs.it^
 ||careerjet.it/partners/
 ||casa.it/cobrand/
