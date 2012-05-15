@@ -84,6 +84,7 @@
 ||smartclip.net^$~object-subrequest,third-party
 ||smscellulari.it/pic/banner/$third-party
 ||spingitori.it/spnadv/
+||spytwins.com^$image,~image,popup
 ||stgy.it/scripts/extern/tag-adv.js
 ||streamcaster.net/lunaset/web/template_
 ||subito-server.it/banner/
