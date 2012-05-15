@@ -69,6 +69,8 @@
 ||pornotizie.com/image/banner/
 ||prodigiweb.it/hpsponsor/
 ||promo.easy-dating.org^
+||pronostitalia.com/banner/
+||pronostitalia.com/images/giocaconwilliamhill.png
 ||puntostampa.altervista.org^$subdocument,third-party
 ||radiobanner.ws-008.com/banner.swf?$domain=radiosportiva.com
 ||regaliper.me^$subdocument,third-party
