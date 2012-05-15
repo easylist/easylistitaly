@@ -1,3 +1,4 @@
+||0781.info^*/banners/
 ||312.it/img/banner/
 ||abruzzoweb.it/images/banner/
 ||acquaportal.it/common/banner/
