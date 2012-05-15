@@ -186,6 +186,7 @@
 ||latitudeslife.com/magazine/adv/
 ||latitudeslife.com^*/banners/
 ||lattemiele.com/img/viprebanner/
+||lavorare-spettacolo.com/images/banners/
 ||lavorincasa.it/banner/
 ||lavorincasa.it/images/testata/
 ||lavorincasa.it/includes/bacheca/annunci/
