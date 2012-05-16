@@ -259,6 +259,7 @@
 ||omnimilano.it/dati/banner/
 ||omnimoto.it/images/home/skin_
 ||omniroma.it/dati/banner/
+||orvietosi.it^*298x100.swf
 ||oxfordparavia.it/img/babylon.gif
 ||palermomania.com/images/banner/
 ||parmasera.it^*/img_banner/

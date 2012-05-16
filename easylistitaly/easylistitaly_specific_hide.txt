@@ -357,6 +357,8 @@ omnimoto.it###skin_link
 opinione.it##.manchette
 orangedropdesign.com##.banner
 oroscopo.it###top_header
+orvietosi.it##.banner
+orvietosi.it##.wp_bannerize
 paginebianche.it##div[style="width: 300px; height: 250px;"]
 paginegialle.it##.adv-cont
 palermomania.com###area_banner_top
