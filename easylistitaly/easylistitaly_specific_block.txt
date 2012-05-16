@@ -71,6 +71,8 @@
 ||corrieredigela.it/public/sponsor/
 ||corrierinocampaniasport.it^*/banner_
 ||corrierinocampaniasport.it^*/menna.jpg
+||deltadivenere.com/banners/
+||deltadivenere.com/tgp/
 ||denaro.it^*/banner/
 ||digital-forum.it/bannerdtt/
 ||digital-sat.it/ds_mpppv/
