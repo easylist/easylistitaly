@@ -237,6 +237,7 @@
 ||motonline.com^*/partner/
 ||motori24.ilsole24ore.com/img2008/audimenutop_roll.jpg
 ||movieplayer.it/images/adv/
+||mrstiff.it/view/context/spot/
 ||mymovies.it/v7/include/homedressing/
 ||mymovies.it/v9/adv/
 ||netweek.it/banneranalyzer/
