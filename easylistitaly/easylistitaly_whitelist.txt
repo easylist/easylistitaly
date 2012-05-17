@@ -33,8 +33,8 @@
 @@||static.fanpage.it^*/adsense.swf?$object-subrequest
 @@||static.youreporter.it/adv/jwplayer.js$script,domain=youreporternews.it
 @@||static.youreporter.it/adv/player.swf$object
-@@||tiscali.ad.dotandad.com/crossdomain.xml$object-subrequest,domain=ansa.it
-@@||tiscali.ad.dotandad.com/tiscali.jsp?mpo=vast2&mpt=ansa.video/$object-subrequest,domain=ansa.it
+@@||tiscali.ad.dotandad.com/crossdomain.xml$object-subrequest,domain=ansa.it|tiscali.it
+@@||tiscali.ad.dotandad.com/tiscali.jsp?mpo=vast2&mpt=$object-subrequest,domain=ansa.it|tiscali.it
 @@||viamichelin.it/static/advert/afsquery/afsquery.js
 @@||viamichelin.it^*/rentacar.js
 @@||video1.italiaoggi.it/movie/movie/adserver_$object,object-subrequest
