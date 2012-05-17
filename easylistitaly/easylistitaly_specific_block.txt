@@ -69,6 +69,7 @@
 ||corriere.it^*/icon_csnai_shared.gif
 ||corrieredellosport.it/res/swf/ova.swf$object-subrequest
 ||corrieredigela.it/public/sponsor/
+||corriereobjects.it^*/adv/
 ||corrierinocampaniasport.it^*/banner_
 ||corrierinocampaniasport.it^*/menna.jpg
 ||deltadivenere.com/banners/
