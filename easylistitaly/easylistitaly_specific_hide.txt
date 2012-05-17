@@ -127,6 +127,7 @@ fiscaleweb.com###leaderboard
 foxlife.it##div[style="width: 728px; height: 90px; margin: 0px auto 10px auto; background:none;"]
 foxtv.it##.leaderboard
 fuorissimo.com##td[height="100"][bgcolor="#000000"][width="752"]
+galileonet.it##.banner_oriz
 galileonet.it##.banner_vert
 gamemag.it##.ads
 games4all.it###bannerTop
