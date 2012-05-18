@@ -102,6 +102,8 @@
 ||freenewsonline.it^*/banner/
 ||freetvonline.altervista.org/images/abbigliamentocalcio/
 ||freetvonline.altervista.org/images/bazarcoupon/
+||freetvonline1.it^*/banner_
+||freetvonline1.it^*/sponsor/
 ||frescodiweb.it/banner/
 ||freshplaza.it/b/
 ||futur3.it/uploaded_files/
