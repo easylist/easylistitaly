@@ -339,6 +339,7 @@ mrstiff.it##.topad
 mrwebmaster.it###topbanner
 mrwebmaster.it##.txt
 multiplayer.it##a[href^="http://adv.multiplayer.it/"]
+musicclub.it###banner-onstage-leaderboard
 musickr.it###leaderboard
 musicroom.it###bannerTop
 myluxury.it###bannerTop
