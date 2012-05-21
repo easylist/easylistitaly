@@ -43,6 +43,7 @@
 ||calciomercato.com/uploads/banners/
 ||campaniameteo.it/banner/
 ||casaportale.com/public/uploads/
+||casedipiacere.it/images/banners/
 ||casertanews.it/bann.asp?
 ||catanzaroinforma.it/public/sponsor/
 ||centrometeo.com^*/banner_
