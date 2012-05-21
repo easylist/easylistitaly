@@ -167,6 +167,7 @@
 ||iltaccoditalia.info/banner/
 ||ilvelino.it^*/banner/
 ||indie-roccia.it/itunesbox.php?
+||indie-rock.it/itunesbox.php?
 ||infooggi.it/banner/
 ||informacalcio.quotidiano.net/banner/
 ||informazioneweb.org/images/banners/
