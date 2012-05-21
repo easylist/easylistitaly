@@ -66,6 +66,7 @@
 ||noicattolici.it/x_banner/
 ||oasjs.kataweb.it^
 ||okincontri.com^$image,~image,popup
+||ox-d.musicnetworkadv.com^
 ||pangora.com^$image,third-party
 ||partypoker.it/td/$image,~image,popup
 ||planet49.it/cgi-bin/wingame.pl?$image,~image,popup
