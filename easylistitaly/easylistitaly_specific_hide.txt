@@ -245,8 +245,10 @@ ipoditalia.it##.banner_topright
 ispazio.net##.banner_right_sidebar_big
 ispazio.net##.banner_right_sidebar_small
 ispazio.net##a[href^="http://adserver.ispazio.net/"]
+it.msn.com###advertisement
 it.msn.com###consiglia
 it.msn.com###markette
+it.msn.com##div[style="text-align: center; line-height: 1.33em; color: #666666; font-weight: bold; margin-bottom: 8px; height: 262px;"]
 italia-news.it###box_ricerca
 italia-news.it##.gcon_banners
 italia-news.it##.gcon_banners_label
