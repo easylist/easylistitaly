@@ -435,7 +435,9 @@ rumors.it###block-block-27
 rumors.it###block-block-4
 rumors.it###block-block-5
 samp.tv###samptvsponsor
+sanihelp.it###advertisement
 sanihelp.it##div[style="clear: both; width: 670px; padding:4px; height: 88px; margin-bottom: 15px; margin-top: 10px; line-height: 14px; border: 1px solid #DDEBF4;"]
+sanihelp.it##div[style="text-align: center; line-height: 1.33em; color: #666666; font-weight: bold; margin-bottom: 8px; height: 262px;"]
 sapere.it###s24box1
 sapere.it###s24box2
 sapere.it###s24square
