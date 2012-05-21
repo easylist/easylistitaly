@@ -124,6 +124,9 @@ firstonline.info###ctl00_cph_main_banner1_p1
 firstonline.info##.banner300
 firstonline.info##.banner728
 fiscaleweb.com###leaderboard
+forlitoday.it##.skin_left
+forlitoday.it##.skin_right
+forlitoday.it##.skin_top
 foxlife.it##div[style="width: 728px; height: 90px; margin: 0px auto 10px auto; background:none;"]
 foxtv.it##.leaderboard
 fuorissimo.com##td[height="100"][bgcolor="#000000"][width="752"]
