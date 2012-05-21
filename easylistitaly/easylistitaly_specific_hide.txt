@@ -49,6 +49,7 @@ calcioblog.it##.box_highlight
 calciomercato.com###background_left
 calciomercato.com###background_right
 cani.com###headerBoard-box
+canzoni.it###sponsor_footer
 car4you.it###banner
 casapoker.it###bannerTop
 catania46.net##a[href^="http://www.clickpoint.it/db/goto.cp?"]
