@@ -29,6 +29,7 @@
 ||djsoldi.com^$image,third-party
 ||djsuonerie.it/pic/$third-party
 ||dodiblog.it/banner_diretti/
+||duke.it/images/banners/
 ||edidomus.it^*/45x45_
 ||edidomus.it^*180x150.
 ||edidomus.it^*_45x45.
