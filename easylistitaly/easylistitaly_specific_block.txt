@@ -163,7 +163,7 @@
 ||ilquotidiano.it/userdata/banner/
 ||ilsalvagente.it/imgmol/
 ||ilsalvagente.it/immagini/banner120x60-
-||ilsecoloxix.it^*-skin.jpg
+||ilsecoloxix.it^*skin.jpg
 ||ilsoftware.it/images/adv/
 ||iltaccoditalia.info/banner/
 ||ilvelino.it^*/banner/
