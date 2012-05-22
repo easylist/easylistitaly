@@ -277,6 +277,7 @@
 ||omniroma.it/dati/banner/
 ||orvietosi.it^*298x100.swf
 ||oxfordparavia.it/img/babylon.gif
+||paeimprese.it^*/downloadfilebanner.php?
 ||palermomania.com/images/banner/
 ||parmasera.it^*/img_banner/
 ||pctuner.net/banner/
