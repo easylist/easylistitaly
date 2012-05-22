@@ -47,6 +47,7 @@
 ||casedipiacere.it/images/banners/
 ||casertanews.it/bann.asp?
 ||catanzaroinforma.it/public/sponsor/
+||cbritaly.it^*/downloadfilebanner.php?
 ||cdvweb.it^*/downloadfilebanner.php?
 ||centrometeo.com^*/banner_
 ||cheauto.it/asset/img/prestitionline.gif
