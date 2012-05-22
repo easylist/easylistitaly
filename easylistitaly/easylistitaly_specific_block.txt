@@ -36,6 +36,7 @@
 ||bergamosera.com^*/wp-banners/
 ||bikeracing.it/bannersbk.jpg
 ||bikeracing.it/sfondo.jpg
+||bitmat.it^*/downloadfilebanner.php?
 ||blunote.it/images/banners/
 ||bmwpassion.com^*/banners/
 ||businessmagazine.it/i/skin/
