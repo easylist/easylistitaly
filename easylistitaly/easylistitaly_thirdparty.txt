@@ -59,6 +59,7 @@
 ||kataweb.it/zbanner_consorzio.js
 ||kataweb.it^*/negozi/$third-party
 ||keepersport.it^*/banner728x90.jpg
+||lacasadiriposo.it/images/banner/
 ||linearadio.it/bnrs/
 ||macrolibrarsi.org/banner/
 ||media.888.it^$image,~image,popup

@@ -78,6 +78,9 @@
 ||corriereobjects.it^*/adv/
 ||corrierinocampaniasport.it^*/banner_
 ||corrierinocampaniasport.it^*/menna.jpg
+||datasport.it/graphic/img/banner_quotazioni_borsa_300x120.jpg
+||datasport.it/graphic/img/trenoescooter.gif
+||datasport.it/graphic/img/tutto_losport_tv.gif
 ||deltadivenere.com/banners/
 ||deltadivenere.com/tgp/
 ||denaro.it^*/banner/
