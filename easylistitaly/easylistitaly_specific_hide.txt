@@ -49,6 +49,7 @@ calcioblog.it##.box_highlight
 calciomercato.com###background_left
 calciomercato.com###background_right
 canalegenoa.it##div[id^="div-gpt-ad-"]
+canaleinter.it##div[id^="div-gpt-ad-"]
 canalejuve.it##div[id^="div-gpt-ad-"]
 cani.com###headerBoard-box
 canzoni.it###sponsor_footer
