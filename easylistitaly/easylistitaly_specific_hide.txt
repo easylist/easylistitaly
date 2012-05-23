@@ -48,6 +48,7 @@ buttalapasta.it###bannerTop
 calcioblog.it##.box_highlight
 calciomercato.com###background_left
 calciomercato.com###background_right
+canalejuve.it##div[id^="div-gpt-ad-"]
 cani.com###headerBoard-box
 canzoni.it###sponsor_footer
 car4you.it###banner
