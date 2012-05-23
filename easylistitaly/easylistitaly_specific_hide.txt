@@ -316,6 +316,7 @@ mediapason.it##.banner300
 medicinalive.com###leaderboard
 megalab.it###header_leaderboard
 megalab.it###left_skyscraper
+megastreaming.biz##div[id^="div-gpt-ad-"]
 melamorsicata.it##.mela_ban_1
 melamorsicata.it##.mela_ban_2
 melamorsicata.it##.mela_ban_3
