@@ -53,6 +53,7 @@
 ||iltelaiodipenelope.it/banner_exchange/
 ||immobiliagest.it^$subdocument,third-party
 ||incontripersesso.com/banner/
+||informaticainitalia.it^$script,third-party
 ||ipercast.net/uploads/sponsors/
 ||iplaza.it/banner/
 ||iplaza.it/menu/mistercupido.png
