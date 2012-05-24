@@ -67,6 +67,7 @@
 ||comingsoon.it/imgdb/banner/
 ||concertionline.com^*-1000x30.gif
 ||concertionline.com^*/300x1501.gif
+||connect24.it/fot468.gif
 ||console-inf.com/banner/
 ||console-tribe.com^*/adv/
 ||coriglianocalabro.it/images/banners/
@@ -288,6 +289,7 @@
 ||palermomania.com/images/banner/
 ||parmasera.it^*/img_banner/
 ||pctuner.net/banner/
+||percorsidigitali.com/consulting300.gif
 ||perotorino.it/images/banners/
 ||piacenzasera.it/img/top/sfondo.jpg
 ||piacenzasera.it^*/img_banner/
