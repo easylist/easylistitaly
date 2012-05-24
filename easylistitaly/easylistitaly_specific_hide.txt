@@ -188,6 +188,7 @@ ilcapoluogo.com##.banner3
 ilcapoluogo.com##.banner4
 ilcapoluogo.com##.block-view-bannerSlide
 ilcinemaniaco.com###leaderboard
+ilfattoquotidiano.it##.textlink
 ilfattoquotidiano.it##.widget_ifqbooks
 ilfattoquotidiano.it##div[style="width:235px; height:75px; margin-top: 10px; overflow:hidden; float:left"]
 ilfattoquotidiano.it##div[style="width:235px; height:75px; margin-top: 10px; overflow:hidden; float:left;line-height: 12px;"]
@@ -196,7 +197,9 @@ ilfattoquotidiano.it##div[style="width:235px; height:75px; overflow:hidden; floa
 ilfattoquotidiano.it##div[style="width:235px; height:85px; margin-top: 10px; overflow:hidden; float:left"]
 ilfattoquotidiano.it##div[style="width:235px; height:85px; margin-top: 10px; overflow:hidden; float:left;line-height: 12px;"]
 ilfattoquotidiano.it##div[style="width:300px; height:75px; margin-top: 10px; overflow:hidden; float:left"]
+ilfattoquotidiano.it##div[style="width:300px; height:75px; margin-top: 10px; overflow:hidden; float:left;line-height:15px;"]
 ilfattoquotidiano.it##div[style="width:300px; height:75px; overflow:hidden; float:left; margin-top: 10px;"]
+ilfattoquotidiano.it##div[style="width:300px; height:75px; overflow:hidden; float:left; margin-top: 10px;line-height:15px;"]
 ilgazzettino.it###molwidget300
 ilgazzettinovesuviano.com###adsensing
 ilgazzettinovesuviano.com###leaderboard
