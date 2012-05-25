@@ -104,6 +104,8 @@
 ||film-stream.tv^*/banner-
 ||film-stream.tv^*/trucco-permanente-1.gif
 ||film.tv.it/img/banner/
+||filmpertutti.tv^*/guarda-copia.png
+||filmpertutti.tv^*/scarica-copia.png
 ||fiorentinanews.com^*/banner/
 ||firstonline.info/ftp/adv/
 ||fordfiestaitalia.com^*/sponsor/
