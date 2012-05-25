@@ -24,6 +24,7 @@
 ||cdn.plus500.com/media/banners/
 ||classificaporno.com/image/incontri*.gif
 ||concorsi-pubblici.org/adv/
+||connect24.it/fot468.gif
 ||datingfactory.com/promotools/
 ||delosstore.it/banner/
 ||djsoldi.com^$image,third-party
@@ -72,6 +73,7 @@
 ||ox-d.musicnetworkadv.com^
 ||pangora.com^$image,third-party
 ||partypoker.it/td/$image,~image,popup
+||percorsidigitali.com/consulting300.gif
 ||planet49.it/cgi-bin/wingame.pl?$image,~image,popup
 ||pornotizie.com/image/banner/
 ||prodigiweb.it/hpsponsor/
