@@ -27,6 +27,7 @@
 ||asca.it/skin_
 ||atlassib.it^*/banner/
 ||audi-usato.motori24.ilsole24ore.com^
+||autoinserzioni.it/css/images/banner_
 ||autoxy.it/banners/
 ||balarm.it/banner.asp?
 ||banner.radiocuore.it^
