@@ -39,6 +39,7 @@ bergamosera.com###leaderboard_wrapper
 bergamosera.com##.wpbrbanner
 bikeracing.it##table[height="180"][width="100%"]
 bitcity.it###banner
+blogosfere.it###advTopRight_anchor
 boomerangtv.it###leaderboard
 bora.la##.headerbtm
 borsainside.com##.banner_bottom_post
