@@ -57,6 +57,7 @@
 ||cheauto.it/asset/img/prestitionline.gif
 ||ciaocomo.it/box-assicurazioni/
 ||ciaocomo.it/images/banners/
+||cineblog01.info/ban2_
 ||cineblog01.info/ban_
 ||cittadigenova.com/banners/
 ||cittaditorino.net/banners/
