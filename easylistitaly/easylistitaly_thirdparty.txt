@@ -10,6 +10,7 @@
 ||affiliazioni.misterdomain.eu^
 ||agenziapuntonet.it/banner/
 ||aimon.it/banner_
+||allosponsor.it/images/$third-party
 ||andreafranzoso.com/banner/
 ||angelobonorino.com/neve/*268x90.gif
 ||autostima.net/partner/
