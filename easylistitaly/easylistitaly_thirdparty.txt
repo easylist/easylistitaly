@@ -59,6 +59,8 @@
 ||ipercast.net/uploads/sponsors/
 ||iplaza.it/banner/
 ||iplaza.it/menu/mistercupido.png
+||justmoment.it/promo.swf
+||justmoment.it/promo2.swf
 ||kataweb.it/zbanner_consorzio.js
 ||kataweb.it^*/negozi/$third-party
 ||keepersport.it^*/banner728x90.jpg
