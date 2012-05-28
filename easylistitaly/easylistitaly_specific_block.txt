@@ -54,6 +54,7 @@
 ||cbritaly.it^*/downloadfilebanner.php?
 ||cdvweb.it^*/downloadfilebanner.php?
 ||centrometeo.com^*/banner_
+||centrosuonosport.com/images/banners/
 ||cheauto.it/asset/img/prestitionline.gif
 ||ciaocomo.it/box-assicurazioni/
 ||ciaocomo.it/images/banners/
