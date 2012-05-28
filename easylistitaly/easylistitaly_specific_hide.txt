@@ -137,6 +137,8 @@ fiscaleweb.com###leaderboard
 forlitoday.it##.skin_left
 forlitoday.it##.skin_right
 forlitoday.it##.skin_top
+forzapescara.net###banner
+forzapescara.net###banner2
 foxlife.it##div[style="width: 728px; height: 90px; margin: 0px auto 10px auto; background:none;"]
 foxtv.it##.leaderboard
 fuorissimo.com##td[height="100"][bgcolor="#000000"][width="752"]
