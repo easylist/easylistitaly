@@ -463,6 +463,7 @@
 ||voceditalia.it/banner_ev.js
 ||vps-ta.tiscali.it^
 ||waterpoloitaly.com/banner/
+||webmarketingforum.it/images/banners/
 ||wintersport-news.it/banners/
 ||youreporter.it/partner/
 ||zabriskiepoint.net^*/banner/
