@@ -209,6 +209,8 @@
 ||jugo.it^*/ads/
 ||julienews.it/upload/nxbannerlocal/
 ||julienews.it/upload/nxbannerlocalswf/
+||juventus.com^*/bannerscene?
+||juventus.com^*/sponsor_
 ||lagazzettadelmezzogiorno.it/banner_pk/
 ||lagazzettadilucca.it^*/inserzioni/
 ||lametino.it/images/banners/
