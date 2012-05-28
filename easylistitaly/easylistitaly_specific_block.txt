@@ -28,6 +28,7 @@
 ||atlassib.it^*/banner/
 ||audi-usato.motori24.ilsole24ore.com^
 ||autoinserzioni.it/css/images/banner_
+||autoseller.it/banner%5c
 ||autoxy.it/banners/
 ||balarm.it/banner.asp?
 ||banner.radiocuore.it^
