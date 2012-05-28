@@ -40,6 +40,7 @@
 ||bikeracing.it/sfondo.jpg
 ||bitmat.it^*/downloadfilebanner.php?
 ||blunote.it/images/banners/
+||blurum.it/resources/advertises/
 ||bmwpassion.com^*/banners/
 ||businessmagazine.it/i/skin/
 ||c-radio.it/images/banners/
