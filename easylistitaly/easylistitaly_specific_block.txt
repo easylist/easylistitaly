@@ -31,6 +31,7 @@
 ||autoseller.it/banner%5c
 ||autoxy.it/banners/
 ||balarm.it/banner.asp?
+||balarm.it/public/bannernewsletter/
 ||banner.radiocuore.it^
 ||banneradmin.rai.it^
 ||bazar.it/backfiles/banners/

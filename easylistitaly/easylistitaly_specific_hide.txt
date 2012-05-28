@@ -34,6 +34,7 @@ autoxy.it###subito-sponsor
 avvenire.it###htmlcomponent18
 axn.it###block-spti_operative-spti_operative_square
 azpoint.net##table[cellspacing="2"][cellpadding="1"][border="0"][align="center"][width="90%"]
+balarm.it##div[style="width:100%;height:1790px; text-align:center; z-index: 0; position:absolute"]
 bastardidentro.it##.gigabanner_clickable
 bastardidentro.it##.minibox
 bergamosera.com###leaderboard_wrapper
