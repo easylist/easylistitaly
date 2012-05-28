@@ -149,6 +149,9 @@
 ||hwupgrade.org/banner/
 ||hwupgrade.org/forum/lariffa.gif
 ||iammepress.it/media/banners/
+||identitagolose.it^*/bannerleatherboard_
+||identitagolose.it^*/leaderboard_
+||identitagolose.it^*300x90.gif
 ||igorevy.com/pup.js
 ||ilcalcio.net/immagini/*-120x240-
 ||ilcalcio.net/immagini/*_125x125_
