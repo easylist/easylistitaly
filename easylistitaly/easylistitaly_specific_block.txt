@@ -257,6 +257,7 @@
 ||lunico.eu/images/banners/
 ||macexchange.it/included/banner*.bfr
 ||mailexpress.it/images/banner_
+||mammedomani.it/images/banners/
 ||manduriaoggi.it/layout_nuovo/banner.asp
 ||mastertop100.org/advf1.php
 ||masterviaggi.it/banner/
