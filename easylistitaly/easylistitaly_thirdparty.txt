@@ -95,6 +95,7 @@
 ||smscellulari.it/pic/banner/$third-party
 ||spingitori.it/spnadv/
 ||spytwins.com^$image,~image,popup
+||stbm.it/img/banner/300x100_
 ||stgy.it/scripts/extern/tag-adv.js
 ||streamcaster.net/lunaset/web/template_
 ||subito-server.it/banner/
