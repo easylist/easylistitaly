@@ -23,6 +23,7 @@
 @@||labs.ebuzzing.it/shared/images/wikiothis/buttons/
 @@||liverail.com/interstitial/?*&lr_publisher_id=$script,domain=786cast.tv
 @@||oasjs.kataweb.it/adsetup.js$domain=video.repubblica.it
+@@||pad.mymovies.it/v9/adv/media/preroll/*.flv$object-subrequest
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=ipaditalia.com|iphoneitalia.com
 @@||panorama.it/adv/$image
 @@||pubblicitaitalia.it/media/*/logo_pubblicita_italia.gif
