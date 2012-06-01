@@ -18,6 +18,7 @@
 ||banner.crol.it^
 ||bazarcoupon.com/images/$third-party
 ||betpro.it^*/banner/
+||booking.com/general.html?$subdocument,domain=quattroruote.it
 ||bt.rcs.it^
 ||careerjet.it/partners/
 ||casa.it/cobrand/

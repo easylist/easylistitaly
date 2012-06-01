@@ -431,6 +431,7 @@ qnm.it###btop
 quattroruote.it###adv_wideleaderboard
 quattroruote.it###bannerrcl
 quattroruote.it##.adv-key
+quattroruote.it##.telecamera-address
 quotidiano.net##.google-728
 quotidianosanita.it##.qs_n_interno_basso
 r101.it##.banner
