@@ -193,6 +193,7 @@
 ||indie-rock.it/itunesbox.php?
 ||infooggi.it/banner/
 ||informacalcio.quotidiano.net/banner/
+||informazioneonline.it/public/sys.banner/
 ||informazioneweb.org/images/banners/
 ||ininsubria.it/thb.aspx?filename=upload%2fbanners%2f
 ||ininsubria.it/upload/banners/
