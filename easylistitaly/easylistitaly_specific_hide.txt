@@ -66,6 +66,7 @@ cellulare-magazine.it###skin-top-container
 cellularemagazine.it###skin-top-container
 centrometeo.com##.banneritemcenterdx
 cheauto.it##table[width="208"][height="148"][style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size:11px; background-image: url(imgmol/background_300_form3campi.gif); border: 1px solid #ffffff;"]
+chip.it##.boxHardware
 ciao.it###productlevellink
 ciao.it##.CWContainerComparePrice
 ciao.it##.priceComp2
