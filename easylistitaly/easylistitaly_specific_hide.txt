@@ -351,6 +351,7 @@ milanotoday.it##.advtop
 mister-x.it###siti_amici
 mmorpgitalia.it##.headerwrapA
 mondoreality.com###leaderboard
+mostraip.com##.spot1
 moto.it###rchm_overlay
 moto.it###topboard
 motonline.com###box-bacheca
