@@ -1,3 +1,4 @@
+||178.32.140.64^$third-party,domain=~pirchio.ip
 ||2mdn.net^$object-subrequest,third-party,domain=calciomercato.com|corrieredellosport.it|forbiciate.com|ilmeteo.it|tiscali.it|tuttomercatoweb.com
 ||4link.it^$third-party
 ||4wnet.com^$third-party

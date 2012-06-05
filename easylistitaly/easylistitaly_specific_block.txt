@@ -46,6 +46,7 @@
 ||businessmagazine.it/i/skin/
 ||c-radio.it/images/banners/
 ||calciomercato.com/uploads/banners/
+||calciomercato.it^*_1040x40_
 ||campaniameteo.it/banner/
 ||casaportale.com/public/uploads/
 ||casedipiacere.it/images/banners/
@@ -292,6 +293,7 @@
 ||newslinet.it^*/banner_
 ||newslinet.it^*_247x56.gif
 ||newz.it^*/sponsor/
+||nextmediavideo.com/inc/ova.swf$object-subrequest
 ||noiporno.com/slide/
 ||notiziarioitaliano.it^*/banner/
 ||notizie-online.it/banner/
