@@ -293,7 +293,6 @@
 ||newslinet.it^*/banner_
 ||newslinet.it^*_247x56.gif
 ||newz.it^*/sponsor/
-||nextmediavideo.com/inc/ova.swf$object-subrequest
 ||noiporno.com/slide/
 ||notiziarioitaliano.it^*/banner/
 ||notizie-online.it/banner/

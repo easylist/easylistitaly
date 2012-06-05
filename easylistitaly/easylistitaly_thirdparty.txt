@@ -71,6 +71,7 @@
 ||media.888.it^$image,~image,popup
 ||net-expire.tccstatic.com^*/banner.js
 ||netweek.it/ban_
+||nextmediavideo.com/inc/ova.swf$object-subrequest
 ||noicattolici.it/x_banner/
 ||oasjs.kataweb.it^
 ||okincontri.com^$image,~image,popup
