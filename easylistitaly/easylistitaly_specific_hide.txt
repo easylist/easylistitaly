@@ -167,6 +167,7 @@ giallozafferano.it##div[style="width:300px; height:250px;"]
 gingerandtomato.com###leaderboard
 giornaledellamusica.it###top_banner_container
 giornaledibrescia.it##.dealboxTop
+giornalettismo.com##.adv
 giornalettismo.com##.liq-frame
 gqitalia.it##.promobox
 grandefratellonews.com###banner
