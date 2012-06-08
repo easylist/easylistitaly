@@ -429,6 +429,7 @@
 ||tiscali.it/media/adv/
 ||tmnews.it^*/banner_
 ||tomshw.it/files/liste/skin*.jpg
+||tomshw.it/kelkoo.php?
 ||tomshw.it/shoppy.php?
 ||topnegozi.it^*/banner/
 ||topolino.it^*/banners/

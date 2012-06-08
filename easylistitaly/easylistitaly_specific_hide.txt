@@ -546,6 +546,7 @@ tiscali.it##.tsrAdv
 tiscali.it##.w304.mB20
 tiscali.it##.w312.mB25
 tiscali.it##div[style="width: 300px; height: 250px; vertical-align: top; text-align: left;"]
+tomshw.it###testata_giu
 tomshw.it##div[style="width:300px; height:250px;"]
 trackback.it###bannerTop
 transfermarkt.it##div[id^="div-gpt-ad-"]
