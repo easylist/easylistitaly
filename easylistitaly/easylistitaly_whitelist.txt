@@ -33,7 +33,7 @@
 @@||smartadserver.com/call/pubx/$object-subrequest,domain=popcorntv.it
 @@||smartadserver.com/crossdomain.xml$object-subrequest,domain=popcorntv.it
 @@||static.fanpage.it^*/adsense.swf?$object-subrequest
-@@||static.youreporter.it/adv/jwplayer.js$script,domain=youreporternews.it
+@@||static.youreporter.it/adv/jwplayer.js
 @@||static.youreporter.it/adv/player.swf$object
 @@||tiscali.ad.dotandad.com/crossdomain.xml$object-subrequest,domain=ansa.it|tiscali.it
 @@||tiscali.ad.dotandad.com/tiscali.jsp?mpo=vast2&mpt=$object-subrequest,domain=ansa.it|tiscali.it
