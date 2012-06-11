@@ -10,8 +10,8 @@
 @@||adv.rtl.it/crossdomain.xml$object-subrequest
 @@||adv.rtl.it/www/delivery/fc.php?*&zones=pre-roll$object-subrequest
 @@||adv.tre.it/www/$image,script
-@@||ansa.it/web/multimedia/images/ad-gallery/
 @@||ansa.it/web/video/videoad.swf$object-subrequest
+@@||ansa.it^*/ad-gallery/$image
 @@||download.deejay.it/adv/podcast/$object-subrequest
 @@||edintorni.net/related/service/*/jscript/$script,domain=ilgiornale.it
 @@||eyewonder.com^*/video/$object-subrequest,domain=sky.it
