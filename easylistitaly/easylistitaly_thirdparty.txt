@@ -69,6 +69,7 @@
 ||linearadio.it/bnrs/
 ||macrolibrarsi.org/banner/
 ||media.888.it^$image,~image,popup
+||mmvid.s3.amazonaws.com^
 ||net-expire.tccstatic.com^*/banner.js
 ||netweek.it/ban_
 ||nextmediavideo.com/inc/ova.swf$object-subrequest
