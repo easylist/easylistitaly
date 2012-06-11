@@ -19,7 +19,7 @@
 ||amadeusonline.net/partner/
 ||amadeusonline.net/sponsor/
 ||amitaliana.com/images/banners/
-||ansa.it/web/banner_js/
+||ansa.it^*/banner_
 ||arezzonotizie.it/images/banners/
 ||arezzonotizie.it/modules/mod_bgbanner/
 ||articolotre.com/images/banner/

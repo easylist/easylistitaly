@@ -22,6 +22,7 @@ androidiani.com##div[style="border:4px dashed orange;height:90px;width:728px;mar
 ansa.it###banner970x30strip
 ansa.it###banner984x45strip
 ansa.it##.adv
+ansa.it##.diretta-sponsor
 ansa.it##.text-link
 apollodoro.it###bannerTop
 asca.it##.personalized_background
