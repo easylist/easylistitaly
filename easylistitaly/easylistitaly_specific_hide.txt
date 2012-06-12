@@ -387,6 +387,7 @@ nonsolocap.it###qk
 nonsolocap.it##.ba
 nonsolocap.it##.ru
 nonsolocinema.com##.banners
+oggi24.it##div[id^="div-gpt-ad-"]
 omniauto.it##.box.gradient[style="height:270px!important; min-height:270px"]
 omniauto.it##.box_listinousato
 omnicorse.it##.skin
