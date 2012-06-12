@@ -130,6 +130,7 @@
 ||frescodiweb.it/banner/
 ||freshplaza.it/b/
 ||futur3.it/uploaded_files/
+||futuratv.it/upload/banner/
 ||gamesvillage.it/ajax.php?do=gv_amazon_page&
 ||gastronauta.it/files/files_banner/
 ||gay.it/me2/
