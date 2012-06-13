@@ -465,6 +465,7 @@ romagiornoenotte.it##.areabannerTop
 romagiornoenotte.it##.basebannerBox
 romagnaoggi.it###banner990
 romagnaoggi.it##.adv
+romatoday.it###box-immobiliare
 rumors.it###block-block-19
 rumors.it###block-block-2
 rumors.it###block-block-26
