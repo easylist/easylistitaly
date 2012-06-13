@@ -164,6 +164,7 @@ gazzettahockey.it##.banner
 gds.it##.pubb
 geekissimo.com###leaderboard
 gelocal.it##.box.negozi
+genova24.it##.banner-middle-board
 giallozafferano.it##div[style="width:300px; height:250px;"]
 gingerandtomato.com###leaderboard
 giornaledellamusica.it###top_banner_container
