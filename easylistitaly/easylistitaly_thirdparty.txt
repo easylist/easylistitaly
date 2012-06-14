@@ -93,6 +93,7 @@
 ||scambiobanner.aruba.it^$third-party
 ||scimmiablu.altervista.org/adv/
 ||sereni.net/images/banner/
+||servizi-web-marketing.it^$image,third-party
 ||sk1.it/images/promo/
 ||smartclip.net^$~object-subrequest,third-party
 ||smscellulari.it/pic/banner/$third-party

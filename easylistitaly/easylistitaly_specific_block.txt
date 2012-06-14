@@ -490,6 +490,8 @@
 ||waterpoloitaly.com/banner/
 ||webmarketingforum.it/images/banners/
 ||wintersport-news.it/banners/
+||worldweb.it/images/banners/
+||worldweb.it/images/stories/registrazionemotoridiricerca.jpg
 ||youreporter.it/partner/
 ||zabriskiepoint.net^*/banner/
 ||zapster.it/images/skin/
