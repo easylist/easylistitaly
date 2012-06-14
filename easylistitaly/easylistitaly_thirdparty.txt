@@ -46,6 +46,7 @@
 ||fideliux.com/fideliux/banners/
 ||filepremier.com/banners.php?
 ||filepremier.com/iframe/box2.js
+||free.netsons.com^
 ||funpage.it^$image,~image,popup
 ||gaggioso.it^$subdocument,third-party
 ||generik.nanopress.it/highlight_300x280.php
