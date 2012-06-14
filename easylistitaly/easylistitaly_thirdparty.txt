@@ -66,6 +66,7 @@
 ||kataweb.it^*/negozi/$third-party
 ||keepersport.it^*/banner728x90.jpg
 ||lacasadiriposo.it/images/banner/
+||libreriadelsanto.it/banners/
 ||linearadio.it/bnrs/
 ||macrolibrarsi.org/banner/
 ||media.888.it^$image,~image,popup
