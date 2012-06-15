@@ -154,6 +154,7 @@
 ||guidaviaggi.it/banners/
 ||gustissimo.it/stili/locali/300x120_
 ||hdblog.it^*/skin_
+||hi-techitaly.com/images/banners/
 ||histonium.net/moduli/banner/
 ||hwmobile.it/images/banners/
 ||hwupgrade.org/banner/
