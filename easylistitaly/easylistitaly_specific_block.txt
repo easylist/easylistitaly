@@ -273,6 +273,7 @@
 ||mattinonline.ch^*/banner_
 ||mbenz.it/banner.swf
 ||mbenz.it/lidaolbia.jpg
+||mediavideo24.com/inc/ova.swf$object-subrequest
 ||meteo.it/images/banner/
 ||meteoweb.eu/immagini/advris/
 ||metronews.it^*/banner_
