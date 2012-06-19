@@ -27,6 +27,7 @@
 ###ripBoxAdvCentroSX2
 ###skin_ADV_DIV
 ##.adv-articolo
+##.adv_esterno
 ##.advhead
 ##.advricaricamediamond
 ##.barraSipra
