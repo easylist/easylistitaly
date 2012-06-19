@@ -16,6 +16,7 @@ agoravox.it##.publarge
 airdave.it##.banner
 allaguida.it###bannerTop
 allandroidnews.it##.wp_skyscraper_c2
+altalex.com###bglink
 alverde.net###adv_wallpaper2
 alverde.net##td[height="125"]
 androidiani.com##div[style="border:4px dashed orange;height:90px;width:728px;margin:0 auto"]
@@ -489,6 +490,7 @@ secondamano.it##.moreblock
 senigallianotizie.it###bbitalia_banner
 senigallianotizie.it###box_ricerca
 senigallianotizie.it##div[id^="div-gpt-ad-"]
+sentenze.net###bglink
 shippingonline.ilsecoloxix.it###footer
 shippingonline.ilsecoloxix.it###zona_181
 softonic.it##.banner
