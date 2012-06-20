@@ -323,6 +323,8 @@
 ||perotorino.it/images/banners/
 ||piacenzasera.it/img/top/sfondo.jpg
 ||piacenzasera.it^*/img_banner/
+||pianetadonna.it/images/*_300x100.
+||pianetadonna.it/images/*_300x100_
 ||pianetazzurro.it/images/banner/
 ||poker.commentierecensioni.com^*/titanpoker125x125.gif
 ||popcorntv.it/advloader.php?
