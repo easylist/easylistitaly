@@ -12,6 +12,7 @@
 /pubblicita-
 /pubblicita.
 /pubblicita/*
+/pubblicita2/*
 /pubblicita_
 /pubblicitadx.
 /pubblicitasx.
