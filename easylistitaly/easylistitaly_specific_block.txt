@@ -179,6 +179,7 @@
 ||ilgazzettino.it/box_tuttomercato052011/
 ||ilgazzettino.it/imgmol/
 ||ilgiornale.it/web/*/tab_
+||ilgiornaledellaprotezionecivile.it^*_banners/
 ||ilgiornaledienna.it/images/banners/
 ||ilgiornaledigela.it/images/banners/
 ||ilgiornalediragusa.it/images/banners/
