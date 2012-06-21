@@ -146,6 +146,7 @@
 ||giorgiotave.it/media/images/sharingimages/2013.gif
 ||giornaledimerate.it/banneranalyzer/
 ||giornaledisiracusa.it/images/banners/
+||giornalettismo.com^*/skin/
 ||gnoccatravels.com^*/banner.gif
 ||gocity.it/library/banner/
 ||goldwebtv.it/userfiles/file/banners/

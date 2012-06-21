@@ -26,6 +26,7 @@
 ###pubblicita
 ###ripBoxAdvCentroSX2
 ###skin_ADV_DIV
+###skin_adv
 ##.adv-articolo
 ##.adv_esterno
 ##.advhead
