@@ -16,6 +16,7 @@
 ###annunciGoogle
 ###annunci_google
 ###blocco_servizi_sponsor1
+###corpo_video_sponsor
 ###divPubblicita
 ###fwnetblocco
 ###fwnetblocco160x600

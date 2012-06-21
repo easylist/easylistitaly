@@ -53,11 +53,6 @@ buttalapasta.it###bannerTop
 calcioblog.it##.box_highlight
 calciomercato.com###background_left
 calciomercato.com###background_right
-canalegenoa.it##div[id^="div-gpt-ad-"]
-canaleinter.it##div[id^="div-gpt-ad-"]
-canalejuve.it##div[id^="div-gpt-ad-"]
-canalemilan.it##div[id^="div-gpt-ad-"]
-canalenapoli.it##div[id^="div-gpt-ad-"]
 cani.com###headerBoard-box
 canzoni.it###sponsor_footer
 car4you.it###banner
@@ -89,7 +84,6 @@ corrierinocampaniasport.it##div[style="width: 960px; height: 120px; visibility: 
 cronacamilano.it###banner728
 cronacaqui.it##table[height="112"][width="998"]
 cubovision.it##.advertising
-cwi.it##div[id^="div-gpt-ad-"]
 deejay.it###ppn
 delleconomia.it###powered
 delleconomia.it##.adv200
@@ -111,7 +105,6 @@ dottorsalute.info###leaderboardspace
 ecodellosport.it###bannerTop
 ecodibergamo.it##.banner_footer
 ecoo.it###bannerTop
-ediltecnico.it##div[id^="div-gpt-ad-"]
 essenzialeonline.it##.advPostLibri
 eurogamer.it###leaderboard
 eurogamer.it###skyscraper
@@ -123,7 +116,6 @@ f1passion.it##div[style="float:left; width:300px; height:250px; background:#f80;
 f1passion.it##div[style="width:300px; height:250px; margin-bottom:24px;"]
 famigliacristiana.it###molwidget
 fantagazzetta.com##.bg-ads
-fantagazzetta.com##div[id^="div-gpt-ad-"]
 fantascienza.com###partners
 farevela.net###text-7
 farevela.net##.banner-top
@@ -339,7 +331,6 @@ mediapason.it##.banner300
 medicinalive.com###leaderboard
 megalab.it###header_leaderboard
 megalab.it###left_skyscraper
-megastreaming.biz##div[id^="div-gpt-ad-"]
 melamorsicata.it##.mela_ban_1
 melamorsicata.it##.mela_ban_2
 melamorsicata.it##.mela_ban_3
@@ -351,7 +342,6 @@ meteogiornale.it##iframe[width="655"][height="104"]
 meteowebcam.it###header_top
 meteowebcam.it##.ads_menu
 meteowebcam.it##.adsense_menu
-metronews.it##div[id^="div-gpt-ad-"]
 metropolisweb.it##.BannerMezzoNotizia
 milanodabere.it##a[href^="http://ib.adnxs.com/clktrb?id="]
 milanofinanza.it###box_immo
@@ -392,7 +382,6 @@ nonsolocap.it###qk
 nonsolocap.it##.ba
 nonsolocap.it##.ru
 nonsolocinema.com##.banners
-oggi24.it##div[id^="div-gpt-ad-"]
 omniauto.it##.box.gradient[style="height:270px!important; min-height:270px"]
 omniauto.it##.box_listinousato
 omnicorse.it##.skin
@@ -489,7 +478,6 @@ search.aol.it##.SLL
 secondamano.it##.moreblock
 senigallianotizie.it###bbitalia_banner
 senigallianotizie.it###box_ricerca
-senigallianotizie.it##div[id^="div-gpt-ad-"]
 sentenze.net###bglink
 shippingonline.ilsecoloxix.it###footer
 shippingonline.ilsecoloxix.it###zona_181
@@ -559,7 +547,6 @@ tomshw.it###testata_giu
 tomshw.it##.background-link
 tomshw.it##div[style="width:300px; height:250px;"]
 trackback.it###bannerTop
-transfermarkt.it##div[id^="div-gpt-ad-"]
 treccani.it##.sponsorLogo
 treccani.it##div[style="float:left;margin:35px 0 15px;width:100%;height:166px;text-align:center;"]
 trendystyle.it###block-block-2
@@ -568,7 +555,6 @@ trendystyle.it###block-block-27
 trendystyle.it###block-block-4
 trendystyle.it###block-block-5
 troppoforte.net###sidebar
-trovaporno.com###corpo_video_sponsor
 tshot.it###bannerTop
 tuttobasket.net###banner_head
 tuttogratis.it###bannerTop
@@ -580,7 +566,6 @@ unita.it##.dannperdere
 ustation.it###adv
 vanityfair.it##.promo
 varesenews.it###cont_Superbanner
-violanews.com##div[id^="div-gpt-ad-"]
 virgilio.it###cht_banner
 virgilio.it###cont-leaderboard
 virgilio.it###cont-manchette
