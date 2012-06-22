@@ -48,3 +48,4 @@
 ##.sponsorizzati
 ##a[href^="http://adserver.ilmessaggero.it/"]
 ##a[href^="http://crazylead.com/video/"]
+##a[href^="http://tracking.crazylead.com/"]
