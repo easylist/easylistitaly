@@ -297,6 +297,7 @@
 ||movieplayer.it/images/adv/
 ||mrstiff.it/view/context/spot/
 ||musicclub.it/banner/
+||musicoff.com^*/adshops_
 ||mymovies.it/v7/include/homedressing/
 ||mymovies.it/v9/adv/
 ||netweek.it/banneranalyzer/

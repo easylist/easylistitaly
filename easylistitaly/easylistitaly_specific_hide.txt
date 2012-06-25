@@ -362,6 +362,7 @@ mrwebmaster.it##.txt
 multiplayer.it##a[href^="http://adv.multiplayer.it/"]
 musicclub.it###banner-onstage-leaderboard
 musickr.it###leaderboard
+musicoff.com##a[href^="http://www.musicoff.com/ad/redirect/"]
 musicroom.it###bannerTop
 myluxury.it###bannerTop
 mymovies.it##.linkblu[style="width:290px; cursor:pointer; margin-top:5px;"]
