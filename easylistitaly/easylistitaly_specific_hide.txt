@@ -150,6 +150,7 @@ gaywave.it###bannerTop
 gazzetta.it###sponsor
 gazzetta.it###tv-adv
 gazzetta.it##.bacheca-mkt
+gazzetta.it##.contain-sisal-magicup
 gazzetta.it##.info-quote
 gazzetta.it##.poker
 gazzetta.it##.pushbar
