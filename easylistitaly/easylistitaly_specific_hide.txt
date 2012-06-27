@@ -160,7 +160,7 @@ gazzettahockey.it##.banner
 gds.it##.pubb
 geekissimo.com###leaderboard
 gelocal.it###s3slider
-gelocal.it##.box.negozi
+gelocal.it##.negozi
 gelocal.it##div[style="width:294px; height:74px; border:3px solid #90c539; display:block; background-color:#90c539; cursor:pointer; margin:0 0 10px;"]
 genova24.it##.banner-middle-board
 giallozafferano.it##div[style="width:300px; height:250px;"]
@@ -455,6 +455,7 @@ rai.it###Leaderboard
 rai.tv##.placeholder300x250
 ravennanotizie.it##.bannerH
 regaloregali.it###bannerTop
+repubblica.it##.negozi
 retesport.it##.rect_banner
 retesport.it##.top_banner
 retesport.it##div[style="float:none;margin-top:10px;text-align:center;width:493px;height:100px;"]
