@@ -13,6 +13,7 @@
 ||adv2.spaziogames.it^$image,~image,popup
 ||affaritaliani.it/static/generated_external/shopping/
 ||affiliati.cellulare.net^
+||agi.it/agipub/
 ||agi.it^*-google-personalizzato-
 ||agienergia.it^*/banner/
 ||amadeusonline.net/banner/
