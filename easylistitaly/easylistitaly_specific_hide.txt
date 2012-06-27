@@ -159,6 +159,7 @@ gazzettadiparma.it##.elenco-textlink
 gazzettahockey.it##.banner
 gds.it##.pubb
 geekissimo.com###leaderboard
+gelocal.it###s3slider
 gelocal.it##.box.negozi
 gelocal.it##div[style="width:294px; height:74px; border:3px solid #90c539; display:block; background-color:#90c539; cursor:pointer; margin:0 0 10px;"]
 genova24.it##.banner-middle-board
