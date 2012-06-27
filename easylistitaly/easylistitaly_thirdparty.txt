@@ -65,6 +65,7 @@
 ||justmoment.it/promo2.swf
 ||kataweb.it/zbanner_consorzio.js
 ||kataweb.it^*/negozi/$third-party
+||kataweb.it^*/pub/
 ||keepersport.it^*/banner728x90.jpg
 ||lacasadiriposo.it/images/banner/
 ||libreriadelsanto.it/banners/
