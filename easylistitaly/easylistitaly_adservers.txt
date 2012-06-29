@@ -72,3 +72,4 @@
 ||tgadv.it^$third-party
 ||wbusiness.fr^$third-party
 ||widebanner.com^$third-party
+||zxadhosting.it^$third-party
