@@ -526,6 +526,7 @@ tempi.it##div[style="position: relative; height: 250px; width: 300px;"]
 tempoitalia.it###headerBanner
 tendenzeonline.info###banner
 tgcom24.mediaset.it###ContentSpecialBox
+tgcom24.mediaset.it##a[href*=".ad.dotandad.com/clicktracker.jsp?"]
 tgmonline.it##td[align="right"][width="305"][valign="top"]
 theapplelounge.com###leaderboard
 theinquirer.it##.pubind1
