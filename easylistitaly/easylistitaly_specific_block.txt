@@ -165,6 +165,7 @@
 ||hdblog.it^*/skin_
 ||hi-techitaly.com/images/banners/
 ||histonium.net/moduli/banner/
+||hubcomunicazione.it/images/banners/
 ||hwmobile.it/images/banners/
 ||hwupgrade.org/banner/
 ||hwupgrade.org/forum/lariffa.gif
