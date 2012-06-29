@@ -123,3 +123,4 @@
 ||yoppinho.com/public/scambio_banner/
 ||youbuy.it/banner/
 ||youtube.com/embed/mktiiofqskm$object,domain=tvzoom.it
+||zxadhosting.it^
