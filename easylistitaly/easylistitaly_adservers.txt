@@ -10,6 +10,7 @@
 ||adpartner.it^$third-party
 ||adv-italiana.net^$third-party
 ||adventertainment.it^$third-party
+||advit.it^$third-party
 ||advplace.com^$third-party
 ||affiliago.it^$third-party
 ||affiliationpartner.it^$third-party
