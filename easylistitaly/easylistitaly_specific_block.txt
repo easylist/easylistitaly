@@ -98,6 +98,7 @@
 ||digital-sat.it/ds_mpppv/
 ||digital-sat.it/img/banner/
 ||diretta.it/res/image/bookmaker-list.png
+||eaglesfree.com^*/netload.gif
 ||ecoseven.net/img/banner/
 ||ecostiera.it^*/banner/
 ||estrazioni-del-lotto-e-superenalotto.com/casino1.js
