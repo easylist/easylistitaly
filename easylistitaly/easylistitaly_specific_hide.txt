@@ -501,6 +501,7 @@ spaziogames.it##img[src="/img/common/blank.gif"][style="width: 99%; height: 99%;
 sportivissimo.com##.menu4
 stadionews.it##table[style="margin-top:3px; width:680px; height:60px;"]
 stadionews.it##table[width="1000px"][height="90px"]
+stickmangames.altervista.org##.sponsor
 studiocataldi.it###overlayer
 studioconsulenzaromano.net###text-561964208
 style.it##.side-gallery
