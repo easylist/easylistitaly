@@ -467,6 +467,9 @@
 ||topolino.it^*/banners/
 ||toptrade.it^*/downloadfilebanner.php?
 ||trasporti-italia.com^*/banner/
+||tribunasportiva.it/images/*350x200.jpg
+||tribunasportiva.it/images/banners/
+||tribunasportiva.it/modules/mod_novarp/tmpl/pjmr.swf?
 ||troppoforte.net/banner300px/
 ||troppoforte.net/bannersopra/
 ||trovaporno.com/banner/
