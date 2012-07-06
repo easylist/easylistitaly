@@ -363,6 +363,7 @@
 ||radioalba.it/img_sito/banner/
 ||radiocentro95.it/uploads/banner/
 ||radiocentro95.it/uploads/bannerr/
+||radiogold.it^*/banner/
 ||radioitaliacharleroi.com/adv/
 ||radiomarte.it/site/images/sponsor/
 ||radionostalgia.fm^*/banner/
