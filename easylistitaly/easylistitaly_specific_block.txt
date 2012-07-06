@@ -361,6 +361,8 @@
 ||r101.it/img/bg_streaming_controller_audio.png
 ||r101.it/img/btn_innamorarsia101.jpg
 ||radioalba.it/img_sito/banner/
+||radioalex.it^*/banner-
+||radioalex.it^*/banner_
 ||radiocentro95.it/uploads/banner/
 ||radiocentro95.it/uploads/bannerr/
 ||radiogold.it^*/banner/
