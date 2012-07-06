@@ -28,6 +28,8 @@
 ###ripBoxAdvCentroSX2
 ###skin_ADV_DIV
 ###skin_adv
+###skinadvdx
+###skinadvsx
 ##.adv-articolo
 ##.adv_esterno
 ##.advhead

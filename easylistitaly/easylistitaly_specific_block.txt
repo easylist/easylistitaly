@@ -365,6 +365,8 @@
 ||radioalex.it^*/banner_
 ||radiocentro95.it/uploads/banner/
 ||radiocentro95.it/uploads/bannerr/
+||radioglobo.it/img/banner/
+||radioglobo.it/img/bg/bg_
 ||radiogold.it^*/banner/
 ||radioitaliacharleroi.com/adv/
 ||radiomarte.it/site/images/sponsor/
