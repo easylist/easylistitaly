@@ -106,6 +106,7 @@ dottorsalute.info###leaderboardspace
 ecodellosport.it###bannerTop
 ecodibergamo.it##.banner_footer
 ecoo.it###bannerTop
+edilportale.com##.click-Skin
 essenzialeonline.it##.advPostLibri
 eurogamer.it###leaderboard
 eurogamer.it###skyscraper
