@@ -30,6 +30,7 @@
 ||atlassib.it^*/banner/
 ||audi-usato.motori24.ilsole24ore.com^
 ||autoinserzioni.it/css/images/banner_
+||automoto.it/static/adv/
 ||autoseller.it/banner%5c
 ||autoseller.it/banner/
 ||autoxy.it/banners/
