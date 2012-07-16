@@ -37,6 +37,7 @@
 ||balarm.it/public/bannernewsletter/
 ||banner.radiocuore.it^
 ||banneradmin.rai.it^
+||baseball.it/banner_
 ||bazar.it/backfiles/banners/
 ||bergamonews.it/agp/
 ||bergamosera.com^*/wp-banners/
