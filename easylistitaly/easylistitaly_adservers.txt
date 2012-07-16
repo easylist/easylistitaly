@@ -69,6 +69,7 @@
 ||sprintrade.com^$third-party
 ||stailamedia.com^$third-party
 ||superbanner.org^$third-party
+||tekno4advertising.com^$third-party
 ||tgadv.it^$third-party
 ||wbusiness.fr^$third-party
 ||widebanner.com^$third-party

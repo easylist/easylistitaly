@@ -21,6 +21,7 @@
 ||amadeusonline.net/sponsor/
 ||amitaliana.com/images/banners/
 ||ansa.it^*/banner_
+||anzwers.net/messaggi/
 ||arezzonotizie.it/images/banners/
 ||arezzonotizie.it/modules/mod_bgbanner/
 ||articolotre.com/images/banner/
