@@ -502,6 +502,7 @@
 ||uscatanzaro.net/images/banners/
 ||ustation.it/img/intesa_carta.jpg
 ||ustation.it/img/pon.jpg
+||valenza.it/banner/
 ||valori.it/banner/
 ||vanityfair.it/loaderframe.html
 ||vanityfair.it^*_105x65.jpg
