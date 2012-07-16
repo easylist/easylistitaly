@@ -163,6 +163,7 @@
 ||greenme.it/images/banners/
 ||gufoporno.com/media/banners/adv/
 ||gufoporno.com^*/popup.js
+||guidasicilia.it/devlab/jsp/banner.jsp?
 ||guidaviaggi.it/banners/
 ||gustissimo.it/stili/locali/300x120_
 ||hdblog.it^*/skin_

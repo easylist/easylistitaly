@@ -173,6 +173,7 @@ giornalettismo.com##.adv
 giornalettismo.com##.liq-frame
 gqitalia.it##.promobox
 grandefratellonews.com###banner
+guidasicilia.it##.leaderboard
 guidaviaggi.it##table[width="215"][height="240"]
 gustissimo.it###banner-alto
 haisentito.it###bannerTop
