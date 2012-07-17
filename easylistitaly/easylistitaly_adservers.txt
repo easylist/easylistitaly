@@ -51,6 +51,7 @@
 ||partners-aedgency.com^$third-party
 ||partypartners.it^$third-party
 ||payclick.it^$third-party
+||paypublicity.it^$third-party
 ||perfcreatives.com^$third-party
 ||pirchio.com^$third-party
 ||plavid.com^$third-party
