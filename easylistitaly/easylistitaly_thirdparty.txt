@@ -29,6 +29,7 @@
 ||connect24.it/fot468.gif
 ||datingfactory.com/promotools/
 ||delosstore.it/banner/
+||directline.it^*/banner_$third-party
 ||djsoldi.com^$image,third-party
 ||djsuonerie.it/pic/$third-party
 ||dodiblog.it/banner_diretti/
