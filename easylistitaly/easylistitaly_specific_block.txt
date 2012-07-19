@@ -210,6 +210,7 @@
 ||ilsalvagente.it/immagini/banner120x60-
 ||ilsecoloxix.it^*skin.jpg
 ||ilsoftware.it/images/adv/
+||ilsole24ore.com^*_pubb.jpg
 ||iltaccoditalia.info/banner/
 ||ilvelino.it^*/banner/
 ||indie-roccia.it/itunesbox.php?
