@@ -3,6 +3,7 @@
 ###UNITIS_ads_300250
 ###adbanner-laterale
 ###adbanner-stampa
+###adl_300x250
 ###adl_leaderboard
 ###adl_medium_rectangle
 ~giornaledisiracusa.it###adsense_testa
