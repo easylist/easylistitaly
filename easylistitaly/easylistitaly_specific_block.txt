@@ -293,6 +293,7 @@
 ||mbenz.it/lidaolbia.jpg
 ||mediavideo24.com/inc/ova.swf$object-subrequest
 ||meteo.it/images/banner/
+||meteoweb.eu/adv/
 ||meteoweb.eu/immagini/advris/
 ||metronews.it^*/banner_
 ||metropolisweb.it/public/banner/
