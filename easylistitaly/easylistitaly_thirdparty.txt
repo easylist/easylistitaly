@@ -89,6 +89,7 @@
 ||pornotizie.com/image/banner/
 ||prodigiweb.it/hpsponsor/
 ||promo.easy-dating.org^
+||promo.ezstatic.com^
 ||pronostitalia.com/banner/
 ||pronostitalia.com/images/giocaconwilliamhill.png
 ||puntostampa.altervista.org^$subdocument,third-party
