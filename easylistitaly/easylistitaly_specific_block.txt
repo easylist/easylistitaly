@@ -239,6 +239,7 @@
 ||julienews.it/upload/nxbannerlocalswf/
 ||juventus.com^*/bannerscene?
 ||juventus.com^*/sponsor_
+||ladige.it/internal/immobiliare/
 ||lagazzettadelmezzogiorno.it/banner_pk/
 ||lagazzettadilucca.it^*/inserzioni/
 ||lametino.it/images/banners/

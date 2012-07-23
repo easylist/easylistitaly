@@ -58,6 +58,7 @@
 ||iads.iltrovatore.it^
 ||iltelaiodipenelope.it/banner_exchange/
 ||immobiliagest.it^$subdocument,third-party
+||immobiliare.it/widget/js/populateexternalform.js$third-party
 ||incontripersesso.com/banner/
 ||informaticainitalia.it^$script,third-party
 ||ipercast.net/uploads/sponsors/

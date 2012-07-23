@@ -292,6 +292,7 @@ julienews.it##.pages_cnt_banner_box
 julienews.it##.pages_right_big_banner_box
 la7.it###adv
 la7.it##.adv_630
+ladige.it###immob_box_ricerca
 lapoliticaitaliana.it##.publi
 laprovinciadicomo.it###banner_header
 laprovinciadicomo.it##.banner_footer
