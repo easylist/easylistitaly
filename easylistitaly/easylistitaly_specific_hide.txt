@@ -73,6 +73,7 @@ ciao.it##.CWContainerComparePrice
 ciao.it##.priceComp2
 ciao.it##.specialOfferMod
 ciao.it##.tableSponsLinks
+classifichemusica.com##a[href^="http://www.viagogo.it/Biglietti-Concerti?affiliateID="]
 comingsoon.it###BnrRight1
 comingsoon.it###ExpTop
 comingsoon.it###advSkin
