@@ -327,6 +327,9 @@
 ||notizie-online.it/banner/
 ||nyc-site.com/newyork/hotel/
 ||oggitreviso.it/files/fascevittoriofilm.jpg
+||oipamagazine.eu/banner_
+||oipamagazine.eu^*/banner-
+||oipamagazine.eu^*/banner/
 ||omniauto.it/2.0/banners/
 ||omniauto.it^*/sponsoredby_
 ||omniauto.it^*_sponsor.jpg
