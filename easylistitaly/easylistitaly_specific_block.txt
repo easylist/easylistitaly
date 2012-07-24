@@ -185,6 +185,7 @@
 ||ilcalcio.net/immagini/*_125x125_
 ||ilcorrieredabruzzo.it/file/banner/
 ||ilcorsaronero.info/js/nopopup.js
+||ilcrotonese.it^*/promo_
 ||ilfattoalimentare.it/assets/banners/
 ||ilfattoquotidiano.it^*/banner_casait.jpg
 ||ilfattoquotidiano.it^*/pulsante-2.jpg
