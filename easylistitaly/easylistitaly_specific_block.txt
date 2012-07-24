@@ -462,6 +462,8 @@
 ||telecaprisport.it/banner/
 ||telefonino.net/new_files/banners/
 ||telefonino.net/shopping/
+||telesud3.com/banner/
+||telesud3.com/images/banner/
 ||temi-wordpress.net/wp-content/plugins/maxblogpress-unblockable-popup/
 ||tempoitalia.it/banner/
 ||tennis.it/files/325x300_
