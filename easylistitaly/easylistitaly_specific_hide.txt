@@ -534,6 +534,7 @@ telefonino.net###googleProveTop
 telefonino.net###news336x280GoogleBox
 telefonino.net##div[style="position: relative;width: 310px;height: 110px;margin: 0px -5px 5px -5px;"]
 telesud3.com###banner-header
+telesud3.com###linkamici
 telesud3.com##.banner-destra
 telesud3.com##.banner-destra-tyf
 telesud3.com##.banner-sidebar

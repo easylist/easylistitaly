@@ -7,6 +7,7 @@
 ###adl_leaderboard
 ###adl_medium_rectangle
 ###adsense-destra
+###adsense-notizia
 ~giornaledisiracusa.it###adsense_testa
 ###adv-skin-colonnadx
 ###adv-skin-colonnasx
