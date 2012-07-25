@@ -36,7 +36,6 @@ automoto.it###topboard
 autoseller.it###ctl00_ContentCentraleBanner
 autoxy.it###assicu_widget_300x80
 autoxy.it###subito-sponsor
-avvenire.it###htmlcomponent18
 axn.it###block-spti_operative-spti_operative_square
 azpoint.net##table[cellspacing="2"][cellpadding="1"][border="0"][align="center"][width="90%"]
 balarm.it##div[style="width:100%;height:1790px; text-align:center; z-index: 0; position:absolute"]
