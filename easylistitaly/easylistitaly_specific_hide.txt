@@ -153,6 +153,7 @@ galileonet.it##.banner_oriz
 galileonet.it##.banner_vert
 gamemag.it##.ads
 games4all.it###bannerTop
+gamesvillage.it###buy_amazon
 gaywave.it###bannerTop
 gazzetta.it###sponsor
 gazzetta.it###tv-adv
