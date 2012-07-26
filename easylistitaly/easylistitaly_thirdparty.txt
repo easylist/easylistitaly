@@ -29,6 +29,7 @@
 ||connect24.it/fot468.gif
 ||datingfactory.com/promotools/
 ||delosstore.it/banner/
+||digisesso.com/img/incesti.gif
 ||directline.it^*/banner_$third-party
 ||djsoldi.com^$image,third-party
 ||djsuonerie.it/pic/$third-party
@@ -101,6 +102,7 @@
 ||scimmiablu.altervista.org/adv/
 ||sereni.net/images/banner/
 ||servizi-web-marketing.it^$image,third-party
+||sessotop.com/img/annunci*.gif
 ||sk1.it/images/promo/
 ||smartclip.net^$~object-subrequest,third-party
 ||smscellulari.it/pic/banner/$third-party
