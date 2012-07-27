@@ -51,6 +51,7 @@
 ||bmwpassion.com^*/banners/
 ||businessmagazine.it/i/skin/
 ||c-radio.it/images/banners/
+||cadoinpiedi.it/js/backgroundpromotion.js
 ||calciomercato.com/uploads/banners/
 ||calciomercato.it^*_1040x40_
 ||campaniameteo.it/banner/
