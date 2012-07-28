@@ -81,6 +81,8 @@
 ||comingsoon.it/imgdb/banner/
 ||concertionline.com^*-1000x30.gif
 ||concertionline.com^*/300x1501.gif
+||coni.it/images/banners/*_*.jpg
+||coni.it/images/banners/sfondi/
 ||console-inf.com/banner/
 ||console-tribe.com^*/adv/
 ||coriglianocalabro.it/images/banners/
