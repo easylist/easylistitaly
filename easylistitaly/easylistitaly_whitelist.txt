@@ -1,4 +1,3 @@
-@@||adagionet.com/uploads/js/sipra.js$domain=rai.tv
 @@||adnkronos.com/ign/mediacenter/fotogallery/data_01/img/ad_
 @@||ads.spinblog.it/www/delivery/ajs.php?zoneid=$script,domain=ipaditalia.com|iphoneitalia.com
 @@||adser.localport.it/ads/logo-localport-it/logo.gif
@@ -22,6 +21,7 @@
 @@||iads.iltrovatore.it/www/delivery/xmladv.php?$object-subrequest,domain=la7.it
 @@||ilfattoquotidiano.it/wp-content/themes/ilfatto/thumb/*_pubblicita_*.jpg
 @@||impit.tradedoubler.com/imp?$subdocument,domain=iphoneitalia.com
+@@||js49.adagionet.com/uploads/js/sipra.js$domain=rai.it|rai.tv
 @@||labs.ebuzzing.it/shared/images/wikiothis/buttons/
 @@||liverail.com/interstitial/?*&lr_publisher_id=$script,domain=786cast.tv
 @@||oasjs.kataweb.it/adsetup.js$domain=video.repubblica.it
