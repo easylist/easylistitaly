@@ -325,6 +325,7 @@ liberoquotidiano.it##.BannerHead
 liberoquotidiano.it##.banner_apertura
 lifegate.it##a[href^="http://goo.gl/"]
 liguriawebcam.com##div[style="overflow:hidden;height:90px;margin:4px 0;"]
+lindro.it##.banner
 lipari.biz##.banner
 lonelyplanetitalia.it###side_banner
 lonelyplanetitalia.it###side_banner_300_100
