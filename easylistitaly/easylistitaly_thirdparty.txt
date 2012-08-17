@@ -61,6 +61,7 @@
 ||immobiliagest.it^$subdocument,third-party
 ||immobiliare.it/widget/js/populateexternalform.js$third-party
 ||incontripersesso.com/banner/
+||incontripersesso.com/landing/$image,~image,popup
 ||informaticainitalia.it^$script,third-party
 ||ipercast.net/uploads/sponsors/
 ||iplaza.it/banner/

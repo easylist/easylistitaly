@@ -540,7 +540,8 @@
 ||videofamosi.com^$subdocument
 ||videogame.it^*/adv/
 ||videopornoitaliani.com/banner/random/
-||videopornoitaliani.com/images/banner_troia*.jpg
+||videopornoitaliani.com/banner/top/
+||videopornoitaliani.com/images/banner_
 ||videopornoitaliani.com/images/divas_*.jpg
 ||videopornoitaliani.com/images/libido_alto.gif
 ||videopornoitaliani.com/images/live_divas*.jpg
