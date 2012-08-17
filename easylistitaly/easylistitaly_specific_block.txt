@@ -465,6 +465,9 @@
 ||stadionews.it^*_banner*.gif
 ||staseraintv.com/simg/rebirthing2012_banner.png
 ||statoquotidiano.it/banner/
+||stiledimoda.it/banner/
+||stiledimoda.it/n/
+||stiledimoda.it/p/
 ||streamingfilm.it/images/stories/downloaddvdhard.jpg
 ||streamingfilm.it/images/stories/streaming-film-hd.jpg
 ||streamingfilm.it/images/stories/streamingfilmporno.jpg
