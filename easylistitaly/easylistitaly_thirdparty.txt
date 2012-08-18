@@ -102,6 +102,7 @@
 ||scambiobanner.aruba.it^$third-party
 ||scimmiablu.altervista.org/adv/
 ||sereni.net/images/banner/
+||serverplan.com/affiliati/$third-party
 ||servizi-web-marketing.it^$image,third-party
 ||sessotop.com/img/annunci*.gif
 ||sk1.it/images/promo/
