@@ -179,6 +179,7 @@
 ||hdblog.it^*/skin_
 ||hi-techitaly.com/images/banners/
 ||histonium.net/moduli/banner/
+||html5today.it/images/banners/
 ||hubcomunicazione.it/images/banners/
 ||hwmobile.it/images/banners/
 ||hwupgrade.it/speciali/*/300x100-

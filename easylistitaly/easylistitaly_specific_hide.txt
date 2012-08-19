@@ -195,6 +195,7 @@ html.it###suggested-links
 html.it##.banner
 html.it##.google
 html.it##.premium-links-container-home-ms
+html5today.it###sponsored-article
 iammepress.it##.gcon_banners
 iammepress.it##.gcon_banners_label
 igossip.it##div[style="width:600px; height:360px;float:left;"]
