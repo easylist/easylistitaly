@@ -25,6 +25,7 @@
 ||casinotop10.it/swf/$third-party
 ||cdn.plus500.com/media/banners/
 ||classificaporno.com/image/incontri*.gif
+||clubshop.com/banners/
 ||concorsi-pubblici.org/adv/
 ||connect24.it/fot468.gif
 ||datingfactory.com/promotools/
@@ -128,6 +129,7 @@
 ||viagogo.it/feeds/widget.ashx?*&affiliateid=$subdocument
 ||virginpoker.it/pub/
 ||webalice.it/blackberry_09/trovadeal/
+||wecoclub.it^*_banner_
 ||ws.shoppydoo.com^$third-party
 ||yoppinho.com/public/scambio_banner/
 ||youbuy.it/banner/
