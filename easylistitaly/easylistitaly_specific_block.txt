@@ -507,6 +507,7 @@
 ||tribunasportiva.it/images/*350x200.jpg
 ||tribunasportiva.it/images/banners/
 ||tribunasportiva.it/modules/mod_novarp/tmpl/pjmr.swf?
+||triesteallnews.it/images/banners/
 ||troppoforte.net/banner300px/
 ||troppoforte.net/bannersopra/
 ||trovaporno.com/banner/
