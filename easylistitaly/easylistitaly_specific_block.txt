@@ -50,6 +50,7 @@
 ||blunote.it/images/banners/
 ||blurum.it/resources/advertises/
 ||bmwpassion.com^*/banners/
+||bolli.it/images/banner/
 ||businessmagazine.it/i/skin/
 ||c-radio.it/images/banners/
 ||cadoinpiedi.it/js/backgroundpromotion.js
