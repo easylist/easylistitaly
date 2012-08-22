@@ -106,6 +106,8 @@ diretta.it###tab-bonus-offers
 diretta.it###tab-odds
 dissacration.com###leaderboard
 dottorsalute.info###leaderboardspace
+dueruote.it###box-bacheca
+dueruote.it###box-bachecapremium
 ecodellosport.it###bannerTop
 ecodibergamo.it##.banner_footer
 ecoo.it###bannerTop
