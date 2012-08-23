@@ -74,7 +74,7 @@
 ||cittaditorino.net/banners/
 ||cityrumors.it/images/banners/
 ||cityrumors.it/modules/mod_flexbanner/
-||clandestinoweb.com/images/banners/
+||clandestinoweb.com^*/banners/
 ||click.html.it^
 ||climateobserver.it^*/banner-
 ||climateobserver.it^*/banner_
@@ -429,6 +429,9 @@
 ||rinnovabili.it^*/sponsor_
 ||rockit.it/res/css3/skin_
 ||rocknrollradio.it/images/banners/
+||romacapitalenews.com^*-300.jpg
+||romacapitalenews.com^*/romasuonagratis.gif
+||romacapitalenews.com^*_banners/
 ||romanews.eu/upload/assets/files/*.swf?linkto=/php/redirect.php?
 ||rosalio.it^*/adv/
 ||rtl.it^*/itunes_btn_
