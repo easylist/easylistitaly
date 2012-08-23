@@ -83,6 +83,10 @@
 ||comingsoon.it/imgdb/banner/
 ||concertionline.com^*-1000x30.gif
 ||concertionline.com^*/300x1501.gif
+||condominioweb.com/banner/
+||condominioweb.com/banner_
+||condominioweb.com/images/banner_
+||condominioweb.com/velux_leader.png
 ||coni.it/images/banners/*_*.jpg
 ||coni.it/images/banners/sfondi/
 ||console-inf.com/banner/
