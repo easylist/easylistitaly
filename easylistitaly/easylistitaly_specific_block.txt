@@ -71,6 +71,7 @@
 ||cineblog01.info/ban2_
 ||cineblog01.info/ban_
 ||cinemadelsilenzio.it/banner4.js
+||cinemadelsilenzio.it/images/home/eff2012_
 ||cinemadelsilenzio.it/images/sponsor/
 ||cittadigenova.com/banners/
 ||cittaditorino.net/banners/
