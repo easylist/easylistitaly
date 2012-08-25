@@ -28,6 +28,7 @@
 @@||pad.mymovies.it/v9/adv/media/preroll/*.flv$object-subrequest
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=ipaditalia.com|iphoneitalia.com
 @@||panorama.it/adv/$image
+@@||primocanale.it/ads/*.flv$object-subrequest
 @@||pubblicitaitalia.it/media/*/logo_pubblicita_italia.gif
 @@||rampower.it/flash/rp_player_rtmp.swf?*&videourl=http://www.rampower.it/advertising/$object
 @@||repubblica.it/adimages/
