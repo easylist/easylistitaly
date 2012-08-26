@@ -212,7 +212,8 @@
 ||ilfogliocostadamalfi.it/media/banner_
 ||ilgazzettino.it/box_tuttomercato052011/
 ||ilgazzettino.it/imgmol/
-||ilgiornale.it/web/*/tab_
+||ilgiornale.it/static/widget_immobiliare/
+||ilgiornale.it^*/img/adv/
 ||ilgiornaledellaprotezionecivile.it^*_banners/
 ||ilgiornaledienna.it/images/banners/
 ||ilgiornaledigela.it/images/banners/
