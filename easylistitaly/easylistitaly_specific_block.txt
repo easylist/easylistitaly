@@ -367,6 +367,7 @@
 ||paeimprese.it^*/downloadfilebanner.php?
 ||palermomania.com/images/banner/
 ||parmasera.it^*/img_banner/
+||pc-facile.com/images/banner/
 ||pctuner.net/banner/
 ||perotorino.it/images/banners/
 ||piacenzasera.it/img/top/sfondo.jpg
