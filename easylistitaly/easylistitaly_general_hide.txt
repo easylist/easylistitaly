@@ -49,6 +49,7 @@
 ##.modPubblicita
 ##.promo_sp
 ##.pubblicita
+##.pubblicitaSlider
 ##.pubblicitapremium
 ##.skinAdv02
 ##.sponsorizzati
