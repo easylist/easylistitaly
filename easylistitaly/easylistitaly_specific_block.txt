@@ -515,6 +515,7 @@
 ||tomshw.it/kelkoo.php?
 ||tomshw.it/shoppy.php?
 ||tomshw.it^*/skin/
+||too.it/bannerframe.htm
 ||topnegozi.it^*/banner/
 ||topolino.it^*/banners/
 ||toptrade.it^*/downloadfilebanner.php?
