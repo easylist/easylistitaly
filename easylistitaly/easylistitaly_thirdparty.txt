@@ -110,6 +110,7 @@
 ||sk1.it/images/promo/
 ||smartclip.net^$~object-subrequest,third-party
 ||smscellulari.it/pic/banner/$third-party
+||solonapoli88.altervista.org/ban$subdocument
 ||spingitori.it/spnadv/
 ||spytwins.com^$image,~image,popup
 ||stbm.it/img/banner/300x100_
@@ -120,6 +121,7 @@
 ||subito.paneaserver.net^
 ||tccstatic.com/template/*/img/_sfondo.jpg
 ||tccstatic.com^*/985x20_
+||tipster.it^$subdocument,third-party
 ||tophost.it/banners/
 ||topsexitalia.com/adv.php
 ||trivago.it/external_rpc.php?
