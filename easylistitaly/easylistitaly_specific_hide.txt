@@ -255,6 +255,7 @@ ilsalvagente.it###bannerInt
 ilsalvagente.it###bannerTopInt
 ilsalvagente.it##.video
 ilsecoloxix.it###head_banners
+ilsecoloxix.it###toursoft-cn
 ilsecoloxix.it##.artbanner
 ilsecoloxix.it##.banner650x60
 ilsoftware.it###SponsorFull
