@@ -17,6 +17,7 @@
 @@||edintorni.net/related/service/*/jscript/$script,domain=ilgiornale.it|motociclismo.it
 @@||eyewonder.com^*/video/$object-subrequest,domain=sky.it
 @@||gelocal.it/adimages/
+@@||iads.iltrovatore.it/clientaccesspolicy.xml$object-subrequest,domain=la7.it
 @@||iads.iltrovatore.it/crossdomain.xml$object-subrequest,domain=la7.it
 @@||iads.iltrovatore.it/www/delivery/xmladv.php?$object-subrequest,domain=la7.it
 @@||ilfattoquotidiano.it/wp-content/themes/ilfatto/thumb/*_pubblicita_*.jpg
