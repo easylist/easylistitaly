@@ -169,6 +169,7 @@ gazzetta.it##.poker
 gazzetta.it##.pushbar
 gazzetta.it##.sponsored
 gazzettadiparma.it##.elenco-textlink
+gazzettagiallorossa.it##.wp_bannerize
 gazzettahockey.it##.banner
 gds.it##.pubb
 geekissimo.com###leaderboard
