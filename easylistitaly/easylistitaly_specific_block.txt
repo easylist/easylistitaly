@@ -35,6 +35,7 @@
 ||autoseller.it/banner%5c
 ||autoseller.it/banner/
 ||autoxy.it/banners/
+||avmagazine.it/immagini/adv_
 ||badtaste.it/file/amazon/
 ||balarm.it/banner.asp?
 ||balarm.it/public/bannernewsletter/
