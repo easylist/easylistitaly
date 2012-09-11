@@ -1,5 +1,5 @@
 ||178.32.140.64^$third-party,domain=~pirchio.ip
-||2mdn.net^$object-subrequest,third-party,domain=calciomercato.com|corrieredellosport.it|forbiciate.com|ilmeteo.it|mediapason.it|milanofinanza.it|tiscali.it|tuttomercatoweb.com|youreporter.it|youreporternews.it
+||2mdn.net^$object-subrequest,third-party,domain=calciomercato.com|corrieredellosport.it|forbiciate.com|ilmeteo.it|italiaoggi.it|mediapason.it|milanofinanza.it|tiscali.it|tuttomercatoweb.com|youreporter.it|youreporternews.it
 ||4link.it^$third-party
 ||4wnet.com^$third-party
 ||ad4mat.it^$third-party
