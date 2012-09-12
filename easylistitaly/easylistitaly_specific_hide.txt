@@ -192,6 +192,7 @@ haisentito.it###bannerTop
 hdblog.it###dx
 hdblog.it###sx
 hdblog.it###top
+hdblog.it###vetrine_kelkoo
 hostingtalk.it###BannerBottom
 hostingtalk.it###BannerTop
 hostingtalk.it##.Banner
