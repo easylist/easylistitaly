@@ -28,6 +28,7 @@
 ###libero_header_adv
 ###ppn_ad_div
 ###pubblicita
+###pubblicita_blog_post_testa
 ###ripBoxAdvCentroSX2
 ###skin_ADV_DIV
 ###skin_adv
