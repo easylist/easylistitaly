@@ -117,6 +117,8 @@
 ||stgy.it/images/skin/
 ||stgy.it/scripts/extern/tag-adv.js
 ||streamcaster.net/lunaset/web/template_
+||streamingtorrent.com/images/guarda.jpg
+||streamingtorrent.com/images/scarica.jpg
 ||subito-server.it/banner/
 ||subito.paneaserver.net^
 ||tccstatic.com/template/*/img/_sfondo.jpg
