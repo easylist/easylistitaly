@@ -250,6 +250,7 @@
 ||interfans.org/immagini/viagogo260.jpg
 ||internapoli.it/public/bgspot/
 ||internapoli.it/public/spot/
+||iphoneitalia.com.s3.amazonaws.com/skin-
 ||iphoneitalia.com^*/skin/
 ||italia-film.com/adobe.gif
 ||italia-film.com/banner.gif

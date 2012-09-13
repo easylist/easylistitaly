@@ -281,6 +281,7 @@ ipadevice.com##.banner_right_sidebar_big
 ipadevice.com##.banner_right_sidebar_small
 ipadevice.com##a[href^="http://adserver.ispazio.net/"]
 iphoneitalia.com##div[style="height:90px;display:block;width:1045px;"]
+iphoneitalia.com##div[style="height:90px;display:block;width:1045px;margin-top:40px;"]
 ipoditalia.it###topbanner
 ipoditalia.it##.banner_topright
 ispazio.net##.banner_right_sidebar_big
