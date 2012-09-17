@@ -471,6 +471,7 @@
 ||siciliaway.it^*/immagini_promozionali/
 ||sky.it/static/images/sito/skin_
 ||smtvsanmarino.sm/*/bnr/
+||sogninascosti.com/banner/
 ||soldionline.it^*/300x100_
 ||sonorika.com^*/sonorika_home_mito.jpg
 ||spartoo.it/footer_tag_iframe.
