@@ -1,0 +1,7 @@
+||888.it^$image,~image,popup,third-party
+||funpage.it^$image,~image,popup,third-party
+||incontripersesso.com/landing/$image,~image,popup
+||okincontri.com^$image,~image,popup,third-party
+||partypoker.it/td/$image,~image,popup
+||planet49.it/cgi-bin/wingame.pl?$image,~image,popup
+||spytwins.com^$image,~image,popup,third-party

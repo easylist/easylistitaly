@@ -10,7 +10,6 @@
 ||acquariofilia.biz/banner/
 ||acquariofilia.biz/images/banner/
 ||adnkronos.com^*/banner/
-||adv2.spaziogames.it^$image,~image,popup
 ||affaritaliani.it/static/generated_external/shopping/
 ||affiliati.cellulare.net^
 ||agi.it/agipub/

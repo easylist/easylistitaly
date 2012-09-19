@@ -6,7 +6,6 @@
 ||adagionet.com^$third-party
 ||adbrawl.com^$third-party
 ||addyon.com^$third-party
-||adnxs.com^$image,~image,popup
 ||adpartner.it^$third-party
 ||adv-italiana.net^$third-party
 ||adventertainment.it^$third-party
@@ -16,9 +15,7 @@
 ||affiliationpartner.it^$third-party
 ||affiliazioni.me^$third-party
 ||affiliazioniweb.com^$third-party
-||angege.com^$image,~image,popup
 ||annuncivari.altervista.org^$third-party
-||awsclic.com^$image,~image,popup
 ||bannerconnect.biz^$third-party
 ||bannerexplosion.it^$third-party
 ||bannergratis.it^$third-party
