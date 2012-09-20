@@ -104,6 +104,7 @@
 ||corrieredellosport.it/res/swf/ova.swf$object-subrequest
 ||corrieredigela.it/public/sponsor/
 ||corriereobjects.it^*/adv/
+||corriereobjects.it^*/icon_csnai_shared.png
 ||corrierinocampaniasport.it^*/banner_
 ||corrierinocampaniasport.it^*/menna.jpg
 ||datasport.it/graphic/img/banner_quotazioni_borsa_300x120.jpg
