@@ -342,6 +342,7 @@
 ||motori24.ilsole24ore.com/img2008/audimenutop_roll.jpg
 ||movieplayer.it/images/adv/
 ||mrstiff.it/view/context/spot/
+||mrwebmaster.it/files/menu_adv.js
 ||musicclub.it/banner/
 ||musicoff.com^*/adshops_
 ||mymovies.it/v7/include/homedressing/
