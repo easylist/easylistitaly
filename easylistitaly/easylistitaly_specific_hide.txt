@@ -183,6 +183,7 @@ giornaledellamusica.it###top_banner_container
 giornaledibrescia.it##.dealboxTop
 giornalettismo.com##.adv
 giornalettismo.com##.liq-frame
+gossipetv.com##.ebuzzing_box
 gqitalia.it##.promobox
 grandefratellonews.com###banner
 guidasicilia.it##.leaderboard
