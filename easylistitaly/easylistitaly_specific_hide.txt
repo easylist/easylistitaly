@@ -20,6 +20,7 @@ altalex.com###bglink
 alverde.net###adv_wallpaper
 alverde.net###adv_wallpaper2
 alverde.net##td[height="125"]
+amicidimotociclismo.it###partnerfooter
 amonapoli.it##.advert
 androidiani.com##div[style="border:4px dashed orange;height:90px;width:728px;margin:0 auto"]
 ansa.it###banner970x30strip
