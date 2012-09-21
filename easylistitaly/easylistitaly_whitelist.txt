@@ -14,7 +14,7 @@
 @@||ansa.it^*/ad-gallery/$image
 @@||doubleclick.net/adj/tuttosport.home/home;sz=336x600,300x250,300x600;=$script,domain=tuttosport.com
 @@||download.deejay.it/adv/podcast/$object-subrequest
-@@||edintorni.net/related/service/*/jscript/$script,domain=ilgiornale.it|motociclismo.it
+@@||edintorni.net/related/service/*/jscript/$script,domain=amicidimotociclismo.it|armietiro.it|automobilismo.it|ciclismo.it|motociclismo.it|runnersworld.it|tennisitaliano.it|velaemotore.it
 @@||eyewonder.com^*/video/$object-subrequest,domain=sky.it
 @@||gelocal.it/adimages/
 @@||iads.iltrovatore.it/clientaccesspolicy.xml$object-subrequest,domain=la7.it
