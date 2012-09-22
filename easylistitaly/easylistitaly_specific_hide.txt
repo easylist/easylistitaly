@@ -77,6 +77,7 @@ ciao.it##.specialOfferMod
 ciao.it##.tableSponsLinks
 cinemadelsilenzio.it##table[width="956"][height="306"]
 cinemadelsilenzio.it##table[width="956"][height="72"]
+cinematografo.it##img[alt="banner"]
 classifichemusica.com##a[href^="http://www.viagogo.it/Biglietti-Concerti?affiliateID="]
 comingsoon.it###BnrRight1
 comingsoon.it###ExpTop
