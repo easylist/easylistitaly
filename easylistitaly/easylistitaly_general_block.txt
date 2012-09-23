@@ -17,6 +17,7 @@
 /pubblicitadx.
 /pubblicitasx.
 /repubblicaad.
+/sponsorizzate.
 /tiscali_ads.
 _pubblicita.
 _pubblicita/

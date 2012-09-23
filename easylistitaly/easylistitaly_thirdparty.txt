@@ -57,6 +57,7 @@
 ||gigacenter.it^$image,third-party
 ||gratislandia.net/banners/
 ||hrs.de/wizard.aspx?
+||html.it/banner/
 ||iads.iltrovatore.it^
 ||iltelaiodipenelope.it/banner_exchange/
 ||immobiliagest.it^$subdocument,third-party

@@ -388,6 +388,7 @@ moto.it###rchm_overlay
 moto.it###topboard
 motonline.com###box-bacheca
 motonline.com###box-bachecapremium
+motori.it##.adv-items
 motori24.ilsole24ore.com##iframe[width="300"][height="350"]
 mrstiff.it##.topad
 mrwebmaster.it###topbanner
