@@ -22,6 +22,7 @@
 ||amicidimotociclismo.it/images/partner/
 ||amitaliana.com/images/banners/
 ||ammirati.org/immagini/sponsor/
+||ammirati.org/showpopup/
 ||ansa.it^*/banner_
 ||anzwers.net/messaggi/
 ||arezzonotizie.it/images/banners/
