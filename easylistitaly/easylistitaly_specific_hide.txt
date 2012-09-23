@@ -1,5 +1,8 @@
 242movietv.com###back_inside
 312.it##table[width="728"][height="90"]
+35mm.it###header_top_banner
+35mm.it##.box_rightcol_banner1
+35mm.it##.box_rightcol_banner2
 3bmeteo.com###adv_5
 4risate.com##.ad
 786cast.tv###hideall
