@@ -449,6 +449,7 @@
 ||repubblica.it^*_contentsense_
 ||resport.it/public/banner/
 ||rinnovabili.it^*/sponsor_
+||rockit.it/dbimg/7banner/
 ||rockit.it/res/css3/skin_
 ||rocknrollradio.it/images/banners/
 ||romacapitalenews.com^*-300.jpg
