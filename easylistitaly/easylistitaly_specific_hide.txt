@@ -547,8 +547,7 @@ studioconsulenzaromano.net###text-561964208
 style.it##.side-gallery
 style.it##.style_promo
 stylosophy.it###bannerTop
-subito.it###coldxbig
-subito.it##.gray_box_small
+subito.it##.box_sponsor
 suipedali.it###bannerTop
 tantasalute.it###bannerTop
 techassistance.it##div[style="height:90px; width:980px;display:block; text-align:center"]
