@@ -221,6 +221,13 @@ ilcapoluogo.com##.banner3
 ilcapoluogo.com##.banner4
 ilcapoluogo.com##.block-view-bannerSlide
 ilcinemaniaco.com###leaderboard
+ilcorrieredabruzzo.it###banner_testata_1004x114
+ilcorrieredabruzzo.it###skinlink
+ilcorrieredabruzzo.it##div[style="position:relative; overflow:hidden; margin:0 auto; width:150px; height:500px"]
+ilcorrieredabruzzo.it##div[style="position:relative; overflow:hidden; margin:0 auto; width:300px; height:100px"]
+ilcorrieredabruzzo.it##div[style="position:relative; overflow:hidden; margin:0 auto; width:300px; height:150px"]
+ilcorrieredabruzzo.it##div[style="position:relative; overflow:hidden; margin:0 auto; width:300px; height:300px"]
+ilcorrieredabruzzo.it##div[style="position:relative; overflow:hidden; margin:0 auto; width:435px; height:100px"]
 ilcrotonese.it##.background-link
 ilfattoquotidiano.it##.textlink
 ilfattoquotidiano.it##.widget_ifqbooks
