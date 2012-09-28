@@ -194,6 +194,8 @@
 ||gufoporno.com^*/popup.js
 ||guidasicilia.it/devlab/jsp/banner.jsp?
 ||guidaviaggi.it/banners/
+||guidaviaggi.it^*/banner_
+||guidaviaggi.it^*_156x250.jpg
 ||gustissimo.it/stili/locali/300x120_
 ||hdblog.it^*/skin_
 ||hi-techitaly.com/images/banners/
