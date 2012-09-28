@@ -92,6 +92,7 @@ corriere.it##iframe[width="620"][height="165"]
 corrieredellosport.it##.annunci_art
 corrieredellosport.it##.label_sponsor_sp
 corrieredellosport.it##.promo_art
+corrieremercantile.it##.banner
 corrierinocampaniasport.it##div[style="width: 960px; height: 120px; visibility: visible;"]
 cronacamilano.it###banner728
 cronacaqui.it##table[height="112"][width="998"]
