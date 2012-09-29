@@ -39,6 +39,7 @@
 ||firebanner.com^$third-party
 ||gambling-italia.com^$third-party
 ||iperbanner.com^$third-party
+||leaderaffiliation.com^$third-party
 ||linkto.org^$third-party
 ||livepartners.it^$third-party
 ||maxiadv.com^$third-party
