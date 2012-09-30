@@ -87,6 +87,7 @@
 ||oasjs.kataweb.it^
 ||pangora.com^$image,third-party
 ||percorsidigitali.com/consulting300.gif
+||popspace.virgilio.us^
 ||pornotizie.com/image/banner/
 ||prodigiweb.it/hpsponsor/
 ||promo.easy-dating.org^
