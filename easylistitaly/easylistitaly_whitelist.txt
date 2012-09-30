@@ -6,6 +6,7 @@
 @@||adv.alice.it/html.ng/site=cubow$object-subrequest,domain=webtv.cubovision.it
 @@||adv.ilsole24ore.it/crossdomain.xml$object-subrequest,domain=sky.it
 @@||adv.ilsole24ore.it^*/empty.flv$object-subrequest,domain=sky.it
+@@||adv.ilsole24ore.it^*/preroll/$object-subrequest,domain=sky.it
 @@||adv.ilsole24ore.it^*@preroll|$object-subrequest,domain=sky.it
 @@||adv.rtl.it/crossdomain.xml$object-subrequest
 @@||adv.rtl.it/www/delivery/fc.php?*&zones=pre-roll$object-subrequest
@@ -16,6 +17,7 @@
 @@||download.deejay.it/adv/podcast/$object-subrequest
 @@||edintorni.net/related/service/*/jscript/$script,domain=amicidimotociclismo.it|armietiro.it|automobilismo.it|ciclismo.it|motociclismo.it|runnersworld.it|tennisitaliano.it|velaemotore.it
 @@||eyewonder.com^*/video/$object-subrequest,domain=sky.it
+@@||files.adform.net/banners/stream/*.flv$object-subrequest,domain=sky.it
 @@||gelocal.it/adimages/
 @@||iads.iltrovatore.it/clientaccesspolicy.xml$object-subrequest,domain=la7.it
 @@||iads.iltrovatore.it/crossdomain.xml$object-subrequest,domain=la7.it
