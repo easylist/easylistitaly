@@ -172,9 +172,12 @@
 ||gay.it/me2/
 ||gay.it/metwo/
 ||gayclubbing.it/banner%20
+||gazzetta.it/yoodeal/
+||gazzetta.it^*/adv/
 ||gazzetta.it^*/includemanager/pub/
 ||gazzettadiparma.it/gfx/txtlink/
 ||gazzettaobjects.it/static_images/promo/
+||gazzettaobjects.it^*/adv/
 ||gdsannunci.it/images/bannerpub/
 ||geekissimo.com/images/5sms.gif
 ||giallozafferano.it/images/banner/
