@@ -352,6 +352,10 @@ lifegate.it##a[href^="http://goo.gl/"]
 liguriawebcam.com##div[style="overflow:hidden;height:90px;margin:4px 0;"]
 lindro.it##.banner
 lipari.biz##.banner
+livesicilia.it###pp[style="position:absolute; z-index:1000000000; width:400px; height:350px; left:295px; top:126px; border:3px #fff solid;"]
+livesicilia.it##.banner_leaderboard
+livesicilia.it##.flash-box-a-sponsor-2
+livesicilia.it##div[style="width:940px; margin:0 auto 25px"]
 lonelyplanetitalia.it###side_banner
 lonelyplanetitalia.it###side_banner_300_100
 lonelyplanetitalia.it###top_banner
