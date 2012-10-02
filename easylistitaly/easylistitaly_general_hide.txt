@@ -4,6 +4,7 @@
 ###adbanner-laterale
 ###adbanner-stampa
 ###adl_300x250
+###adl_728x90
 ###adl_leaderboard
 ###adl_medium_rectangle
 ###adsense-destra
