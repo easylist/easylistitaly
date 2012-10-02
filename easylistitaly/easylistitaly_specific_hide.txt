@@ -342,6 +342,7 @@ lavorincasa.it##.bak
 leggilanotizia.it###cont-banner-sotto-testata
 leggo.it###molwidget300
 leiweb.it###buy-now
+libero.it###b468x60bottoms
 libero.it###box_expedia_case
 libero.it###chunnel-affari-300x170
 libero.it##div[style="width: 180px; height: 150px;"]
