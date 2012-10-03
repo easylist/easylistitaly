@@ -168,6 +168,7 @@
 ||futur3.it/uploaded_files/
 ||futuratv.it/upload/banner/
 ||gamesvillage.it/ajax.php?do=gv_amazon_page&
+||garedepoca.com/grafica/banner_
 ||gastronauta.it/files/files_banner/
 ||gay.it/me2/
 ||gay.it/metwo/
