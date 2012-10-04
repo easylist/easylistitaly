@@ -488,6 +488,7 @@
 ||sentenze.net/css/images/skin/
 ||sentieriselvaggi.it/public/banner/
 ||siciliaway.it^*/immagini_promozionali/
+||sipario.it/images/banners/
 ||sky.it/static/images/sito/skin_
 ||smtvsanmarino.sm/*/bnr/
 ||sogninascosti.com/banner/
