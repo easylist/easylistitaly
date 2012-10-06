@@ -331,6 +331,7 @@ laroma24.it##div[style="text-align:center; width:300px; height:250px; float:left
 lascommessasportiva.it###header_banner
 lastampa.it###badge
 lastampa.it###banner_VideoBox
+lastampa.it###banner_maxticker
 lastampa.it###banner_top
 lastampa.it###storelocator
 lastampa.it##.pubb
