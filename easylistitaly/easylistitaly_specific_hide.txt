@@ -190,6 +190,8 @@ giornaledellamusica.it###top_banner_container
 giornaledibrescia.it##.dealboxTop
 giornalettismo.com##.adv
 giornalettismo.com##.liq-frame
+gommeblog.it##td[style="width: 305px; height: 251px; text-align: center;"]
+gommeblog.it##td[style="width: 335px; height: 251px; text-align: center;"]
 gossipetv.com##.ebuzzing_box
 gqitalia.it##.promobox
 grandefratellonews.com###banner
