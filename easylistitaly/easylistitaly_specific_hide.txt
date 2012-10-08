@@ -635,6 +635,8 @@ trendystyle.it###block-block-4
 trendystyle.it###block-block-5
 troppoforte.net###sidebar
 tshot.it###bannerTop
+ttmweb.it###footer
+ttmweb.it###zona_245
 turistipercaso.it##.trovaviaggi
 turistipercaso.it##.utilink
 tuttobasket.net###banner_head
