@@ -56,6 +56,7 @@
 ##.pubblicitapremium
 ##.skinAdv02
 ##.sponsorizzati
+##.tabella2Pubblicita
 ##.tabella3Pubblicita
 ##a[href^="http://adserver.ilmessaggero.it/"]
 ##a[href^="http://crazylead.com/video/"]
