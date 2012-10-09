@@ -441,6 +441,8 @@ nonsolocap.it###qk
 nonsolocap.it##.ba
 nonsolocap.it##.ru
 nonsolocinema.com##.banners
+notiziaoggi.it##.box-banner-menu
+notiziaoggi.it##.mutui
 ok-salute.it###ppn_center
 omniauto.it##.box.gradient[style="height:270px!important; min-height:270px"]
 omniauto.it##.box_listinousato
