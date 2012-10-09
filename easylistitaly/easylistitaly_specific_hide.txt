@@ -550,6 +550,8 @@ secondamano.it##.moreblock
 senigallianotizie.it###bbitalia_banner
 senigallianotizie.it###box_ricerca
 sentenze.net###bglink
+settegiorni.it##.box-banner-menu
+settegiorni.it##.mutui
 shippingonline.ilsecoloxix.it###footer
 shippingonline.ilsecoloxix.it###zona_181
 softonic.it##.banner
