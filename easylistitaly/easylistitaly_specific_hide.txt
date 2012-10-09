@@ -396,6 +396,7 @@ meteowebcam.it###header_top
 meteowebcam.it##.ads_menu
 meteowebcam.it##.adsense_menu
 metropolisweb.it##.BannerMezzoNotizia
+milaninterradio.tv##.box_300_250
 milanodabere.it##a[href^="http://ib.adnxs.com/clktrb?id="]
 milanofinanza.it###box_immo
 milanofinanza.it##.ban

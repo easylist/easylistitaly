@@ -342,6 +342,7 @@
 ||meteoweb.eu/immagini/advris/
 ||metronews.it^*/banner_
 ||metropolisweb.it/public/banner/
+||milaninterradio.tv/images/180x150.gif
 ||milanodabere.it/images/archivio/2000x1000/
 ||milanoweb.com/flash/imagerotator.swf
 ||militariforum.it/forum/italy.swf
