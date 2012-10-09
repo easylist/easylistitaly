@@ -343,6 +343,7 @@ lastampa.it##.top-right-banner
 lastampa.it##div[style="float: left; width: 990px; text-align: center; margin-top: 10px; height: 110px;"]
 lastampa.it##div[style="width: 990px; height: 90px;"]
 latitudeslife.com###head_banner
+lattemiele.com###vipre
 lavorincasa.it##.bak
 leggilanotizia.it###cont-banner-sotto-testata
 leggo.it###molwidget300
