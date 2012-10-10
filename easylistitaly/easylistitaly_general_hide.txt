@@ -38,6 +38,8 @@
 ###skinadvsx
 ##.adv-articolo
 ##.adv_esterno
+##.adv_oriz
+##.adv_vert
 ##.advhead
 ##.advricaricamediamond
 ##.barraSipra

@@ -104,6 +104,7 @@
 ||coriglianocalabro.it^*/banner/
 ||corriere.it^*/icon_csnai.gif
 ||corriere.it^*/icon_csnai_shared.gif
+||corrieredellacalabria.it^*/adv/
 ||corrieredellosport.it/res/swf/ova.swf$object-subrequest
 ||corrieredigela.it/public/sponsor/
 ||corriereobjects.it^*/adv/
