@@ -285,6 +285,7 @@ ilsoftware.it##.txtboxleft[style="width:280px; height:200px;"]
 ilsole24ore.com###block300x250
 ilsole24ore.com###spot
 ilsole24ore.com##.ad
+ilsole24ore.com##.adv
 ilsole24ore.com##a[href^="http://adv.ilsole24ore.it/"]
 ilturista.info##.google-box
 ilturista.info##.more-holder
