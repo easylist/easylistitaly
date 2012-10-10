@@ -51,6 +51,7 @@
 ||bikeracing.it/bannersbk.jpg
 ||bikeracing.it/sfondo.jpg
 ||bitmat.it^*/downloadfilebanner.php?
+||blogosfere.it/js/mjx.php
 ||blunote.it/images/banners/
 ||blurum.it/resources/advertises/
 ||bmwpassion.com^*/banners/
