@@ -604,6 +604,7 @@
 ||virgilio.it/bottomchat/bottom234x60.html
 ||virgilio.it/sg/boxis_
 ||vivafm.it^*/banners/
+||vivereancona.it/images/banners_
 ||voceditalia.it/banner.js
 ||voceditalia.it/banner/
 ||voceditalia.it/banner_ev.js
