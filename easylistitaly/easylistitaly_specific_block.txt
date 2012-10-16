@@ -465,6 +465,11 @@
 ||repubblica.it^*_contentsense_
 ||resport.it/public/banner/
 ||rinnovabili.it^*/sponsor_
+||rnbjunk.com/cdn-cgi/pe/bag?r[]=*.2mdn.net
+||rnbjunk.com/cdn-cgi/pe/bag?r[]=*.amung.us
+||rnbjunk.com/cdn-cgi/pe/bag?r[]=*.clickfuse.com
+||rnbjunk.com/cdn-cgi/pe/bag?r[]=*.doubleclick.net
+||rnbjunk.com/cdn-cgi/pe/bag?r[]=*.tynt.com
 ||rockit.it/dbimg/7banner/
 ||rockit.it/res/css3/skin_
 ||rocknrollradio.it/images/banners/
