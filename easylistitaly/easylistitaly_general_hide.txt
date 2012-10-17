@@ -49,6 +49,7 @@
 ##.boxADV
 ##.box_adv_speciali_hp
 ##.cmt_bgadv
+##.googleAnnunci
 ##.inews_adv_top
 ##.linksponsorizzati
 ##.modPubblicita
