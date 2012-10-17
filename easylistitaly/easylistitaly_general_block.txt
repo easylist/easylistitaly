@@ -5,6 +5,7 @@
 .it/adv_
 /adv_s_pirchio.
 /advpirchio.
+/advpirchiofooter.
 /annunciogoogle.
 /inclusioni/adv/*
 /mediamondads.
