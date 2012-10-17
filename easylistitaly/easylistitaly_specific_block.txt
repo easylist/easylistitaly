@@ -618,6 +618,7 @@
 ||vps-ta.tiscali.it^
 ||waterpoloitaly.com/banner/
 ||webmarketingforum.it/images/banners/
+||webpartner.mrcrawler.it^
 ||wintersport-news.it/banners/
 ||worldweb.it/images/banners/
 ||worldweb.it/images/stories/registrazionemotoridiricerca.jpg
