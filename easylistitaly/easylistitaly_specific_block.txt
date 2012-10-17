@@ -30,6 +30,7 @@
 ||articolotre.com/images/banner/
 ||asca.it/banner/
 ||asca.it/skin_
+||atdhe.eu/italy.gif
 ||atlassib.it^*/banner/
 ||atnews.it^*/1000x40_
 ||audi-usato.motori24.ilsole24ore.com^
