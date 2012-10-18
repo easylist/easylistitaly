@@ -124,6 +124,9 @@
 ||digital-forum.it/bannerdtt/
 ||digital-sat.it/ds_mpppv/
 ||digital-sat.it/img/banner/
+||dimmidipiu.com/ddpfiles/adv/
+||dimmidipiu.com/ddpfiles/bannerslides^
+||dimmidipiu.com/images/banners/
 ||diretta.it/res/image/bookmaker-list.png
 ||dueruote.it/asset/img/partner/
 ||eaglesfree.com^*/netload.gif
