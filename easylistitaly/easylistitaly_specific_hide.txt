@@ -655,6 +655,7 @@ tuttogratis.it###bleft
 tuttogratis.it###bright
 tuttogratis.it###btop
 tvtv.it##.advert
+ultimissime.net##div[style="margin:auto; background-image:url('/images/stories/professionecasinO.jpg'); height: 153px; width: 287px"]
 unita.it##.dannperdere
 ustation.it###adv
 vanityfair.it##.promo
