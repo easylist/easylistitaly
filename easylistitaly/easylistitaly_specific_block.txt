@@ -350,7 +350,10 @@
 ||metropolisweb.it/public/banner/
 ||milaninterradio.tv/images/180x150.gif
 ||milanodabere.it/images/archivio/2000x1000/
+||milanofinanza.it/common/home/mf/img/cmc290x40.gif
+||milanofinanza.it/common/home/mf/img/cru_ban.gif
 ||milanofinanza.it/common/home/mf/img/marketscom.gif
+||milanofinanza.it/common/home/mf/img/pro_ban_2012.gif
 ||milanofinanza.it/common/home/mf/img/xtbxtradebrokers.gif
 ||milanoweb.com/flash/imagerotator.swf
 ||militariforum.it/forum/italy.swf
