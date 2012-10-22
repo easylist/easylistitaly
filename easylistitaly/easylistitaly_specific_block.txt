@@ -180,7 +180,6 @@
 ||gay.it/me2/
 ||gay.it/metwo/
 ||gayclubbing.it/banner%20
-||gazzetta.it/yoodeal/
 ||gazzetta.it^*/adv/
 ||gazzetta.it^*/includemanager/pub/
 ||gazzettadiparma.it/gfx/txtlink/
