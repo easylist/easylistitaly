@@ -248,6 +248,7 @@
 ||ilmattino.it/img/magiclandlight.gif
 ||ilmattino.it/imgmol/
 ||ilmessaggero.it/box_tuttomercato052011/
+||ilmessaggero.it/img/magiclandlight.gif
 ||ilmessaggero.it/imgmol/
 ||ilmonferrato.it/banners/
 ||ilmonferrato.it/media/generalauto_
