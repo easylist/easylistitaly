@@ -434,6 +434,7 @@
 ||quibrescia.it^*/wp-banners/
 ||quicomo.it/qc-ad/
 ||quicomo.it/qc-assets/banner/
+||quotidianodipuglia.it/box_tuttomercato032011/
 ||quotidianodipuglia.it/img/magiclandlight.gif
 ||r101.it/banner/
 ||r101.it/img/bg_streaming_controller_audio.png
