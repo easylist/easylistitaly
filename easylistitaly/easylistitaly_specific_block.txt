@@ -596,8 +596,8 @@
 ||twww.tv^*/background.jpg
 ||ucciotube.altervista.org/skyscraper.html
 ||uscatanzaro.net/images/banners/
-||ustation.it/img/intesa_carta.jpg
-||ustation.it/img/pon.jpg
+||ustation.it/img/*_skin.jpg
+||ustation.it/img/telecom.swf
 ||valenza.it/banner/
 ||valori.it/banner/
 ||vanityfair.it/loaderframe.html
