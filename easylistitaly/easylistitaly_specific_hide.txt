@@ -143,6 +143,8 @@ fastweb.it##.advertising
 fattidicronaca.it###bannerTop
 fattidicronaca.it###btop
 film-mkv.net##a[href^="http://netload.in/index.php?refer_id="]
+film-review.it##div[style="width:308px; margin-left: 4px; height:260px;text-align: center;display:block;margin-top:10px;margin-bottom:10px;"]
+film-review.it##div[style="width:308px;height:260px;text-align: center;display:block;margin-top:10px;margin-bottom:10px;margin-left:3px;"]
 film.it##.ppn_h
 film.it##.rightBoxAmazon
 finanza.com###top-banner
