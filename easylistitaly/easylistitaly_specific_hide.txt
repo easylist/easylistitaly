@@ -55,6 +55,7 @@ bitcity.it###banner
 blogosfere.it###advTopRight_anchor
 boomerangtv.it###leaderboard
 bora.la##.headerbtm
+bordighera.net###ads
 borsainside.com##.banner_bottom_post
 bresciaoggi.it##.box-skyscrapers
 bresciaoggi.it##.header-box

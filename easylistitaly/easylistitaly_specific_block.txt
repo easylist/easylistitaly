@@ -57,6 +57,9 @@
 ||blurum.it/resources/advertises/
 ||bmwpassion.com^*/banners/
 ||bolli.it/images/banner/
+||bordighera.net/banner/
+||bordighera.net/banner_
+||bordighera.net/images/banner_
 ||businessmagazine.it/i/skin/
 ||c-radio.it/images/banners/
 ||cadoinpiedi.it/js/backgroundpromotion.js
