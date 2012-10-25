@@ -227,8 +227,13 @@
 ||identitagolose.it^*/leaderboard_
 ||identitagolose.it^*300x90.gif
 ||igorevy.com/pup.js
+||ilcalcio.net/banner/
 ||ilcalcio.net/immagini/*-120x240-
+||ilcalcio.net/immagini/*900x100.
 ||ilcalcio.net/immagini/*_125x125_
+||ilcalcio.net/immagini/120x240-
+||ilcalcio.net/immagini/casino-italia.swf
+||ilcalcio.net/immagini/trucchetto-roulette.jpg
 ||ilcorrieredabruzzo.it/file/banner/
 ||ilcorrieredabruzzo.it/modules/mod_novarp/tmpl/pjmr.swf?
 ||ilcorrieredabruzzo.it/templates/ilcorrieredabruzzo/images/style2/bg1.jpg
