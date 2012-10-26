@@ -40,6 +40,7 @@
 ||djsuonerie.it/pic/$third-party
 ||dodiblog.it/banner_diretti/
 ||duke.it/images/banners/
+||easyvols.org^*/300x150/$third-party
 ||edidomus.it/asset/adv/
 ||edidomus.it^*/45x45_
 ||edidomus.it^*180x150.
