@@ -530,6 +530,7 @@ raffaeleauriemma.com##div[style="width: 822px; height: 70px; visibility: visible
 rai.it###Leaderboard
 rai.tv##.placeholder300x250
 ravennanotizie.it##.bannerH
+rcdc.it##.banner
 regaloregali.it###bannerTop
 repubblica.it##.negozi
 retesport.it##.rect_banner
