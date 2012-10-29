@@ -25,6 +25,7 @@
 ||ammirati.org/showpopup/
 ||ansa.it^*/banner_
 ||anzwers.net/messaggi/
+||aostaoggi.it/banner_
 ||arezzonotizie.it/images/banners/
 ||arezzonotizie.it/modules/mod_bgbanner/
 ||articolotre.com/images/banner/
