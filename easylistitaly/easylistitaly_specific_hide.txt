@@ -478,6 +478,7 @@ outune.net##div[style="width:300px;height:180px; background:#fff;"]
 paginebianche.it##div[style="width: 300px; height: 100px;"]
 paginebianche.it##div[style="width: 300px; height: 250px;"]
 paginebianche.it##div[style="width: 978px; height: 45px;"]
+paginegialle.it###banner300x250_1
 paginegialle.it###banner_pushbar
 paginegialle.it##.adv-cont
 palermomania.com###area_banner_top
