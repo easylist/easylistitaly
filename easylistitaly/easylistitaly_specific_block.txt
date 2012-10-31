@@ -311,6 +311,7 @@
 ||laprovinciadilecco.it^*/banner/
 ||laroma24.it/banner/
 ||lascommessasportiva.it^*/banners/
+||lasignoraingiallorosso.it^*/banners/
 ||lastampa.it/common/_banner/
 ||lastampa.it/files/prova_an_6.gif
 ||lastampa.it^*/banner/
