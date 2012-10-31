@@ -383,6 +383,7 @@
 ||motori.it/app_scripts/banner/
 ||motori.it/campagne/
 ||motori24.ilsole24ore.com/img2008/audimenutop_roll.jpg
+||motorionline.com/banner/
 ||movieplayer.it/images/adv/
 ||mrstiff.it/view/context/spot/
 ||mrwebmaster.it/files/menu_adv.js
