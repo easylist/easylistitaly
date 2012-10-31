@@ -562,6 +562,7 @@ sapere.it###s24box2
 sapere.it###s24square
 sardegna24.net###Hbanner300x250c20
 sardegna24.net###banner300x250c20
+screenweek.it###background-adv
 search.aol.it##.SLL
 secondamano.it##.moreblock
 senigallianotizie.it###bbitalia_banner
