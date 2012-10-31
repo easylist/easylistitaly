@@ -525,6 +525,9 @@
 ||secondamano.it^*/footer_cobrand/
 ||sentenze.net/css/images/skin/
 ||sentieriselvaggi.it/public/banner/
+||sfilate.it/wp-content/themes/sfilate/images/banner-madeinitaly.gif
+||sfilate.it/wp-content/themes/sfilate/images/cb-logo.jpg
+||sfilate.it/wp-content/themes/sfilate/images/hotel728x90.jpg
 ||siciliaway.it^*/immagini_promozionali/
 ||sipario.it/images/banners/
 ||sky.it/static/images/sito/skin_
