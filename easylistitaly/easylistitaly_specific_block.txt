@@ -114,6 +114,7 @@
 ||corriere.it^*/icon_csnai_shared.gif
 ||corriereadriatico.it/box_tuttomercato052011/
 ||corrieredellacalabria.it^*/adv/
+||corrieredellosport.it/res/swf/ova-jw.swf$object-subrequest
 ||corrieredellosport.it/res/swf/ova.swf$object-subrequest
 ||corrieredigela.it/public/sponsor/
 ||corriereobjects.it^*/adv/
