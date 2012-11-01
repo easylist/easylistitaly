@@ -456,6 +456,9 @@ nonsolocap.it##.ru
 nonsolocinema.com##.banners
 notiziaoggi.it##.box-banner-menu
 notiziaoggi.it##.mutui
+oggitreviso.it###banner-top
+oggitreviso.it##.ban
+oggitreviso.it##.banner
 ok-salute.it###ppn_center
 omniauto.it##.box.gradient[style="height:270px!important; min-height:270px"]
 omniauto.it##.box_listinousato
