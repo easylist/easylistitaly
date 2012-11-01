@@ -608,6 +608,7 @@
 ||tuttobasket.net^*/banner_
 ||tuttogratis.it/imgbanner/
 ||tuttogratis.it/js/tgsense_
+||tuttosport.com/res/swf/ova-jw.swf$object-subrequest
 ||tuttosport.com/res/swf/ova.swf$object-subrequest
 ||tuttosport.com^*/label_williamhill.png
 ||tvpitalia.it/sponsor/
