@@ -509,6 +509,8 @@ pourfemme.it###btop
 primaonline.it###banner_bottom
 primaonline.it###banner_top
 primissima.it###banner_top
+pronostici-scommesse.info##div[style="height:250px;width:300px;"]
+pronostici-scommesse.info##div[style="height:90px;width:728px;position:relative;left:136px;"]
 pubblicitaitalia.it###sponsorTop
 pubblicitaitalia.it##.sponsor
 puntosicuro.it##div[style="padding: 5px; font-family: Verdana, Arial; font-size: 10px;"]
