@@ -584,6 +584,7 @@
 ||tennis.it/files/banco_desio_lazio.gif
 ||tennisworlditalia.com/banners/
 ||terranauta.it/banner/
+||tesionline.it/v2/img/skin/
 ||tiscali.it/media/adv/
 ||tmnews.it^*/banner_
 ||tomshw.it/files/liste/skin*.jpg
