@@ -551,6 +551,7 @@
 ||spoletonline.com/banner/
 ||sportlive.it/images/*_300x100_
 ||sportlive.it/images/300x100_
+||sportnews.bz/uploads/pics/banner869x90.gif.gif
 ||sportrentino.it/portale/novitast/getb.asp?
 ||spotmix.libero.it^
 ||spytwins.com/img/site/ec300.gif

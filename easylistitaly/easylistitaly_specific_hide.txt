@@ -591,6 +591,8 @@ spaziogames.it###ads
 spaziogames.it###banner_300
 spaziogames.it##img[src="/img/common/blank.gif"][style="width: 99%; height: 99%;"]
 sportivissimo.com##.menu4
+sportnews.bz###banner-leaderboard
+sportnews.bz##.box-fullbanner
 stadionews.it##table[style="margin-top:3px; width:680px; height:60px;"]
 stadionews.it##table[width="1000px"][height="90px"]
 stickmangames.altervista.org##.sponsor
