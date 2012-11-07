@@ -13,6 +13,7 @@
 @@||adv.tre.it/www/$image,script
 @@||ansa.it/web/video/videoad.swf$object-subrequest
 @@||ansa.it^*/ad-gallery/$image
+@@||areanapoli.it/adv/fb-fan-box.html?$subdocument
 @@||doubleclick.net/adj/tuttosport.home/home;sz=336x600,300x250,300x600;=$script,domain=tuttosport.com
 @@||download.deejay.it/adv/podcast/$object-subrequest
 @@||edintorni.net/related/service/*/jscript/$script,domain=amicidimotociclismo.it|armietiro.it|automobilismo.it|ciclismo.it|motociclismo.it|runnersworld.it|tennisitaliano.it|velaemotore.it
