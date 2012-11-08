@@ -20,6 +20,7 @@ airdave.it##.banner
 allaguida.it###bannerTop
 allandroidnews.it##.wp_skyscraper_c2
 altalex.com###bglink
+altoadigetv.it##div[style="width:945px; padding:0px 0px 0px 3px;"]
 alverde.net###adv_wallpaper
 alverde.net###adv_wallpaper2
 alverde.net##td[height="125"]
