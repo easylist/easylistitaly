@@ -448,6 +448,9 @@ mymovies.it##div[style="width:728px; height:90px;"]
 mymovies.it##td[style="height:45px; background-color:#FFFFFF; ;"]
 nanopress.it###bannerTop
 napolisport.net##div[style="float:left;margin:7px auto; width:1000px; margin-bottom:4px; text-align:left; height:92px;"]
+napolitoday.it##.skin_left
+napolitoday.it##.skin_right
+napolitoday.it##.skin_top
 neveitalia.it##.promo
 neveitalia.it##.topbanner
 newnotizie.it##.single_sidebar300x250

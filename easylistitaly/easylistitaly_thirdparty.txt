@@ -117,6 +117,7 @@
 ||stbm.it/img/banner/300x100_
 ||stgy.it/images/skin/
 ||stgy.it/scripts/extern/tag-adv.js
+||stgy.it^*/ova-jw.swf$object-subrequest
 ||streamcaster.net/lunaset/web/template_
 ||streamingtorrent.com/images/guarda.jpg
 ||streamingtorrent.com/images/scarica.jpg
