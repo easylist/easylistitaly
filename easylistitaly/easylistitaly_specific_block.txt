@@ -582,6 +582,8 @@
 ||telefonino.net/new_files/ajax/shopping.asp?
 ||telefonino.net/new_files/banners/
 ||telefonino.net/new_files/img/foto310x110.gif
+||telefonino.net/new_files/scripts/getOfferteKelkoo.js
+||telefonino.net/offerte_kelkoo/
 ||telefonino.net/shopping/
 ||telesud3.com/banner/
 ||telesud3.com/images/banner/
