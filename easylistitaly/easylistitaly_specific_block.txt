@@ -581,6 +581,7 @@
 ||telecaprisport.it/banner/
 ||telefonino.net/new_files/ajax/shopping.asp?
 ||telefonino.net/new_files/banners/
+||telefonino.net/new_files/img/foto310x110.gif
 ||telefonino.net/shopping/
 ||telesud3.com/banner/
 ||telesud3.com/images/banner/
