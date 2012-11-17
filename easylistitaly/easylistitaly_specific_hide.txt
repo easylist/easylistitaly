@@ -615,6 +615,7 @@ tecnozoom.it###btop
 telefonino.net###banner300x100Pos4
 telefonino.net###banner300x100TimPos1
 telefonino.net###banner300x250pos2
+telefonino.net###bannerProve300x250pos2
 telefonino.net###boxShopping
 telefonino.net###ebayBox
 telefonino.net###google300x250
