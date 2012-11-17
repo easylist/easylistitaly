@@ -612,6 +612,8 @@ techassistance.it##div[style="height:90px; width:980px;display:block; text-align
 tecnocino.it###bannerTop
 tecnocino.it###btop
 tecnozoom.it###btop
+telefonino.net###banner300x100Pos4
+telefonino.net###banner300x100TimPos1
 telefonino.net###boxShopping
 telefonino.net###ebayBox
 telefonino.net###google300x250
