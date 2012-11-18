@@ -28,6 +28,7 @@ america24.com##.adbox
 amicidimotociclismo.it###partnerfooter
 amonapoli.it##.advert
 androidiani.com##div[style="border:4px dashed orange;height:90px;width:728px;margin:0 auto"]
+animeclick.it###stile_link
 ansa.it###banner970x30strip
 ansa.it###banner984x45strip
 ansa.it##.adv
