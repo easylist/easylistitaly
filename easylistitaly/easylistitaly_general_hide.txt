@@ -1,6 +1,7 @@
 ###ADVrettangolo
 ###ADVrettangolopiede
 ###UNITIS_ads_300250
+bancavalle.it,bancodibrescia.it,bpa.it,bpb.it,bpci.it,brebanca.it,carime.it,quiubi.it,ubibancapi.it#@##ad_box
 ###adbanner-laterale
 ###adbanner-stampa
 ###adl_300x250
@@ -9,6 +10,7 @@
 ###adl_medium_rectangle
 ###adsense-destra
 ###adsense-notizia
+giornaledisiracusa.it#@##adsense_testa
 ###adv-skin-colonnadx
 ###adv-skin-colonnasx
 ###advAutopromo1
@@ -35,10 +37,17 @@
 ###skin_adv
 ###skinadvdx
 ###skinadvsx
+bakeca-incontri.net#@#.ad_bottom
+bakeca-incontri.net#@#.ad_center
+subito.it#@#.ad_links
+newscrawler.it#@#.ad_wrapper
+subito.it#@#.adcont
+bakeca-incontri.net#@#.adtitle
 ##.adv-articolo
 ##.adv_esterno
 ##.adv_oriz
 ##.adv_vert
+deejay.it#@#.advertorial
 ##.advhead
 ##.advricaricamediamond
 ##.barraSipra
@@ -52,6 +61,7 @@
 ##.inews_adv_top
 ##.linksponsorizzati
 ##.modPubblicita
+corrierecomo.it,corrieredicomo.it#@#.module-ad
 ##.promo_sp
 ##.pubblicita
 ##.pubblicitaGoogle
@@ -65,14 +75,3 @@
 ##a[href^="http://crazylead.com/video/"]
 ##a[href^="http://tracking.crazylead.com/"]
 ##a[href^="http://ul.to/ref/"]
-! Eccezioni
-bakeca-incontri.net#@#.ad_bottom
-bakeca-incontri.net#@#.ad_center
-bakeca-incontri.net#@#.adtitle
-bancavalle.it,bancodibrescia.it,bpa.it,bpb.it,bpci.it,brebanca.it,carime.it,quiubi.it,ubibancapi.it#@##ad_box
-corrierecomo.it,corrieredicomo.it#@#.module-ad
-deejay.it#@#.advertorial
-giornaledisiracusa.it#@##adsense_testa
-newscrawler.it#@#.ad_wrapper
-subito.it#@#.ad_links
-subito.it#@#.adcont
