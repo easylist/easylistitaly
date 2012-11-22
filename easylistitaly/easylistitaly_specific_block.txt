@@ -457,6 +457,7 @@
 ||quelliche.net^*/file_banner/
 ||quellidellelica.com/images/banners/
 ||quibrescia.it^*/wp-banners/
+||quiceditutto.it/flash/*.swf
 ||quicomo.it/qc-ad/
 ||quicomo.it/qc-assets/banner/
 ||quotidianodipuglia.it/box_tuttomercato032011/
