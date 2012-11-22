@@ -355,6 +355,7 @@ lastampa.it###banner_VideoBox
 lastampa.it###banner_maxticker
 lastampa.it###banner_top
 lastampa.it###storelocator
+lastampa.it###videobox_wrapper
 lastampa.it##.pubb
 lastampa.it##.top-right-banner
 lastampa.it##div[style="float: left; width: 990px; text-align: center; margin-top: 10px; height: 110px;"]
