@@ -53,6 +53,7 @@
 ||payclick.it^$third-party
 ||paypublicity.it^$third-party
 ||perfcreatives.com^$third-party
+||pipaoffers.com^$third-party
 ||pirchio.com^$third-party
 ||plavid.com^$third-party
 ||pubbli7.it^$third-party
