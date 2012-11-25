@@ -514,6 +514,7 @@ piacenzasera.it##.box-attico
 pianetacellulare.it##.banner2
 pianetatech.it###div-banner-300
 pianetatech.it###partnerw
+pinkdna.it##.adds300x250
 piratestreaming.com##a[href^="http://www.piratestreaming.com/video"]
 playme.it###topPromo
 pmi.it##.banner
