@@ -596,6 +596,8 @@ softonic.it##.banner_box
 soldionline.it##.sm_widget_contenitore
 spaziogames.it###ads
 spaziogames.it###banner_300
+spaziogames.it##.g_adv
+spaziogames.it##div[style="width:956px;height:250px;float:left;padding-bottom:10px;margin:0"]
 spaziogames.it##img[src="/img/common/blank.gif"][style="width: 99%; height: 99%;"]
 sportivissimo.com##.menu4
 sportnews.bz###banner-leaderboard
