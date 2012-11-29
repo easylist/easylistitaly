@@ -524,6 +524,7 @@ piacenzasera.it##.banner_globaltop
 piacenzasera.it##.box-attico
 pianetacellulare.it##.banner2
 pianetagreen.it##.adv
+pianetamotori.it##.adv
 pianetatech.it###div-banner-300
 pianetatech.it###partnerw
 pinkdna.it##.adds300x250
