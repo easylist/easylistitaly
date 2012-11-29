@@ -725,6 +725,7 @@ virgilio.it##.newboxIsOrizz
 vistointv.net##.topbanner2
 vivacinema.it###bannerTop
 vivacinema.it###btop
+vivalascuola.it##.adv
 vivicool.it###navpages
 voceditalia.it##.banner_casino2
 vostrisoldi.it###bannerTop
