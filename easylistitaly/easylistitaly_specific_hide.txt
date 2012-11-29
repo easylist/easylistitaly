@@ -336,6 +336,8 @@ italianhack.org###ads
 italiaoggi.it###box_immo
 itawow.it##div[style="height:60px; width:468px; float:left; margin-left:40px;"]
 itespresso.it###megabanner
+ivg.it##.banner-middle-board
+ivg.it##.takeover
 jacktech.it###assicu_box_ricerca
 jacktech.it##.jk_banner
 jugo.it##.ad
