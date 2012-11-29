@@ -724,6 +724,7 @@ winmagazine.it##div[style="width:980px; height:90px; margin: 0 auto;text-align:c
 wintricks.it##div[style="width:980px;height:90px;margin: 0 auto"]
 wintricks.it##div[style="width:980px;height:90px;margin: 0 auto;background:none"]
 wmia.it##div[style="width:350px; height:300px; float:left"]
+you-ng.it##.banneritem
 youreporter.it##.sidebar_menu_virgilio
 zapster.it##.addx
 zapster.it##a[href^="http://www.paperbox.it/"]
