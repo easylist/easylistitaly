@@ -86,6 +86,7 @@
 ||neonisi.com^*/items.external?$third-party
 ||net-expire.tccstatic.com^*/banner.js
 ||netweek.it/ban_
+||nexths.it/widget/$third-party
 ||nextmediavideo.com/inc/ova.swf$object-subrequest
 ||noicattolici.it/x_banner/
 ||oasjs.kataweb.it^

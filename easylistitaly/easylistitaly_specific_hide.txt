@@ -226,6 +226,7 @@ html.it##.banner
 html.it##.google
 html.it##.premium-links-container-home-ms
 html5today.it###sponsored-article
+hwupgrade.it###box-next-container
 iammepress.it##.gcon_banners
 iammepress.it##.gcon_banners_label
 igossip.it##div[style="width:600px; height:360px;float:left;"]
