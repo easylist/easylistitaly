@@ -711,6 +711,7 @@ tuttogratis.it###bannerTop
 tuttogratis.it###bleft
 tuttogratis.it###bright
 tuttogratis.it###btop
+tuttopercasa.it##.adv
 tvtv.it##.advert
 ultimissime.net##div[style="margin:auto; background-image:url('/images/stories/professionecasinO.jpg'); height: 153px; width: 287px"]
 unita.it##.dannperdere
