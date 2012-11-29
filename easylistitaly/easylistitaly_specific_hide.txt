@@ -217,6 +217,7 @@ gqitalia.it##.promobox
 grandefratellonews.com###banner
 guidasicilia.it##.leaderboard
 guidaviaggi.it##table[width="215"][height="240"]
+guidecucina.it##.adv
 gustissimo.it###banner-alto
 haisentito.it###bannerTop
 hdblog.it###dx
