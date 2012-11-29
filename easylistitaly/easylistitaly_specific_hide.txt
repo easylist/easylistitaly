@@ -130,6 +130,7 @@ ecodibergamo.it##.banner_footer
 ecoo.it###bannerTop
 edilportale.com##.click-Skin
 essenzialeonline.it##.advPostLibri
+esseresani.it##.adv
 eurogamer.it###leaderboard
 eurogamer.it###skyscraper
 eurosat-online.it###bottoni
