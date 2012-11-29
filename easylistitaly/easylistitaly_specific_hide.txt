@@ -475,6 +475,7 @@ nonsolocap.it###qk
 nonsolocap.it##.ba
 nonsolocap.it##.ru
 nonsolocinema.com##.banners
+nonsolocultura.it##.adv
 notiziaoggi.it##.box-banner-menu
 notiziaoggi.it##.mutui
 oggitreviso.it###banner-top
