@@ -320,6 +320,7 @@ internapoli.it###divHeader
 iobloggo.com##.adv
 iochiamo.com###leaderboard
 iodonna.it###buy-now
+iogames.it##.adv
 iomobile.it##.adv
 ipadevice.com##.banner_right_sidebar_big
 ipadevice.com##.banner_right_sidebar_small
