@@ -236,6 +236,7 @@ html5today.it###sponsored-article
 hwupgrade.it###box-next-container
 iammepress.it##.gcon_banners
 iammepress.it##.gcon_banners_label
+ideeviaggi.it##.adv
 igossip.it##div[style="width:600px; height:360px;float:left;"]
 ilcap.it###gadsense
 ilcapoluogo.com###bannerHeader
