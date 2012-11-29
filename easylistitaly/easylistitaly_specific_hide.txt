@@ -478,6 +478,7 @@ nonsolocinema.com##.banners
 nonsolocultura.it##.adv
 notiziaoggi.it##.box-banner-menu
 notiziaoggi.it##.mutui
+odiami.it##.adv
 oggitreviso.it###banner-top
 oggitreviso.it##.ban
 oggitreviso.it##.banner
