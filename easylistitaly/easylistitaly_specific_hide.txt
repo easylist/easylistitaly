@@ -719,6 +719,7 @@ unita.it##.dannperdere
 ustation.it###adv
 vanityfair.it##.promo
 varesenews.it###cont_Superbanner
+verytech.it##.adv
 videogame.it##.amazon
 virgilio.it###cht_banner
 virgilio.it###cont-leaderboard
