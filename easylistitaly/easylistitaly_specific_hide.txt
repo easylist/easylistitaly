@@ -320,6 +320,7 @@ internapoli.it###divHeader
 iobloggo.com##.adv
 iochiamo.com###leaderboard
 iodonna.it###buy-now
+iomobile.it##.adv
 ipadevice.com##.banner_right_sidebar_big
 ipadevice.com##.banner_right_sidebar_small
 ipadevice.com##a[href^="http://adserver.ispazio.net/"]
