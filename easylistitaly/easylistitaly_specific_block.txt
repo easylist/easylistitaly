@@ -154,6 +154,8 @@
 ||f1passion.it^*/banner.
 ||factotum.ra.it/attachments/banner_
 ||fanoinforma.it/framebannerrotaz.php?
+||fantagazzetta.com/img/betclic_230x90.gif
+||fantagazzetta.com^*/Banners/
 ||fashiontimes.it/images/banner/
 ||fastweb.it/portale/speciali/hrs/
 ||fastweb.it^*/portale/speciali/
