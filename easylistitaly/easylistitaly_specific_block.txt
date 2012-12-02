@@ -65,6 +65,7 @@
 ||bordighera.net/banner/
 ||bordighera.net/banner_
 ||bordighera.net/images/banner_
+||bruttastoria.it/img/banner-
 ||businessmagazine.it/i/skin/
 ||c-radio.it/images/banners/
 ||cadoinpiedi.it/js/backgroundpromotion.js
