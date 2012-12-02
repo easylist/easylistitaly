@@ -24,6 +24,7 @@ altoadigetv.it##div[style="width:945px; padding:0px 0px 0px 3px;"]
 alverde.net###adv_wallpaper
 alverde.net###adv_wallpaper2
 alverde.net##td[height="125"]
+amando.it###div-dx_300x250
 america24.com##.adbox
 amicidimotociclismo.it###partnerfooter
 amonapoli.it##.advert
