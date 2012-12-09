@@ -38,6 +38,7 @@ ansa.it##.channel-adv
 ansa.it##.diretta-sponsor
 ansa.it##.text-link
 apollodoro.it###bannerTop
+applemobile.it##.store
 asca.it##.personalized_background
 asroma24.com##div[style="width:480px; height:72px; padding: 6px; margin-left:auto; margin-right:auto;"]
 asylumitalia.it###banner

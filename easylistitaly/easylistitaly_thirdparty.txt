@@ -42,6 +42,7 @@
 ||djsoldi.com^$image,third-party
 ||djsuonerie.it/pic/$third-party
 ||dodiblog.it/banner_diretti/
+||dropbox.com^$image,domain=applemobile.it
 ||duke.it/images/banners/
 ||easyvols.org^*/300x150/$third-party
 ||edidomus.it/asset/adv/
