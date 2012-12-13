@@ -1,5 +1,6 @@
 ###ADVrettangolo
 ###ADVrettangolopiede
+###ADVstriscia
 ###UNITIS_ads_300250
 ###adbanner-laterale
 ###adbanner-stampa
