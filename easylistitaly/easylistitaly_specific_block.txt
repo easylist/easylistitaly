@@ -118,6 +118,7 @@
 ||console-tribe.com^*/adv/
 ||coriglianocalabro.it/images/banners/
 ||coriglianocalabro.it^*/banner/
+||corriere.it^*/adv/
 ||corriere.it^*/icon_csnai.gif
 ||corriere.it^*/icon_csnai_shared.gif
 ||corriereadriatico.it/box_tuttomercato052011/
