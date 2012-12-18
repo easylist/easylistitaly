@@ -401,6 +401,7 @@
 ||mobi2b.it^*/downloadfilebanner.php?
 ||modena2000.it/bnrs/
 ||momentosera.it/bannerupload/
+||motoclub-tingavert.it/modules/Dv_Banner/
 ||motonline.com^*/partner/
 ||motori.it/app_scripts/banner/
 ||motori.it/campagne/
