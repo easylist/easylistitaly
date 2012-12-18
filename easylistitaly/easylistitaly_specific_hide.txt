@@ -453,6 +453,8 @@ motonline.com###box-bacheca
 motonline.com###box-bachecapremium
 motori.it##.adv-items
 motori24.ilsole24ore.com##iframe[width="300"][height="350"]
+motousate.it###assicu_widget_300x80
+motousate.it##.item.link
 mrstiff.it##.topad
 mrwebmaster.it###topbanner
 mrwebmaster.it##.txt
