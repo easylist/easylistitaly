@@ -382,6 +382,7 @@
 ||mbenz.it/banner.swf
 ||mbenz.it/lidaolbia.jpg
 ||mediavideo24.com/inc/ova.swf$object-subrequest
+||metallized.it/banner/
 ||meteo.it/images/banner/
 ||meteoweb.eu/adv/
 ||meteoweb.eu/immagini/advris/
