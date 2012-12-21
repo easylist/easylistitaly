@@ -473,6 +473,7 @@
 ||quiceditutto.it/flash/*.swf
 ||quicomo.it/qc-ad/
 ||quicomo.it/qc-assets/banner/
+||quotidiano.net/file_generali/flash/ova.swf$object-subrequest
 ||quotidianodipuglia.it/box_tuttomercato032011/
 ||quotidianodipuglia.it/img/magiclandlight.gif
 ||r101.it/banner/
