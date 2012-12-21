@@ -26,6 +26,7 @@
 @@||ilfattoquotidiano.it/wp-content/themes/ilfatto/thumb/*_pubblicita_*.jpg
 @@||impit.tradedoubler.com/imp?$subdocument,domain=iphoneitalia.com
 @@||js49.adagionet.com/uploads/js/sipra.js$domain=rai.it|rai.tv
+@@||labs.ebuzzing.it/blogs/top/getrank?$image
 @@||labs.ebuzzing.it/shared/images/wikiothis/buttons/
 @@||liverail.com/interstitial/?*&lr_publisher_id=$script,domain=786cast.tv
 @@||oasjs.kataweb.it/adsetup.js$domain=video.repubblica.it
