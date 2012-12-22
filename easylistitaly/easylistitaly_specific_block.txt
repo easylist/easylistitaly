@@ -307,6 +307,7 @@
 ||internapoli.it/public/bgspot/
 ||internapoli.it/public/spot/
 ||internazionale.it/assets/img/wideskin-
+||iobloggo.com^*/banner/
 ||iphoneitalia.com.s3.amazonaws.com/skin-
 ||iphoneitalia.com^*/skin/
 ||italia-film.com/adobe.gif
