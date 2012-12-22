@@ -549,6 +549,7 @@ pourfemme.it###btop
 primaonline.it###banner_bottom
 primaonline.it###banner_top
 primissima.it###banner_top
+programmitv.com##.banner
 pronostici-scommesse.info##div[style="height:250px;width:300px;"]
 pronostici-scommesse.info##div[style="height:90px;width:728px;position:relative;left:136px;"]
 pubblicitaitalia.it###sponsorTop
