@@ -4,10 +4,6 @@
 ###UNITIS_ads_300250
 ###adbanner-laterale
 ###adbanner-stampa
-###adl_300x250
-###adl_728x90
-###adl_leaderboard
-###adl_medium_rectangle
 ###adsense-destra
 ###adsense-notizia
 ###adv-skin-colonnadx
@@ -37,6 +33,7 @@
 ###skinadvdx
 ###skinadvsx
 ##.adv-articolo
+##.advPostLibri
 ##.adv_esterno
 ##.adv_oriz
 ##.adv_vert

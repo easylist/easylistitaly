@@ -1,10 +1,10 @@
+bancavalle.it,bancodibrescia.it,bpa.it,bpb.it,bpci.it,brebanca.it,carime.it,quiubi.it,ubibancapi.it#@##ad_box
+giornaledisiracusa.it#@##adsense_testa
 bakeca-incontri.net#@#.ad_bottom
 bakeca-incontri.net#@#.ad_center
-bakeca-incontri.net#@#.adtitle
-bancavalle.it,bancodibrescia.it,bpa.it,bpb.it,bpci.it,brebanca.it,carime.it,quiubi.it,ubibancapi.it#@##ad_box
-corrierecomo.it,corrieredicomo.it#@#.module-ad
-deejay.it#@#.advertorial
-giornaledisiracusa.it#@##adsense_testa
-newscrawler.it#@#.ad_wrapper
 subito.it#@#.ad_links
+newscrawler.it#@#.ad_wrapper
 subito.it#@#.adcont
+bakeca-incontri.net#@#.adtitle
+deejay.it#@#.advertorial
+corrierecomo.it,corrieredicomo.it#@#.module-ad

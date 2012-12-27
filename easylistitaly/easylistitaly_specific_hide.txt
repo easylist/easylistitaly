@@ -21,8 +21,6 @@ allaguida.it###bannerTop
 allandroidnews.it##.wp_skyscraper_c2
 altalex.com###bglink
 altoadigetv.it##div[style="width:945px; padding:0px 0px 0px 3px;"]
-alverde.net###adv_wallpaper
-alverde.net###adv_wallpaper2
 alverde.net##td[height="125"]
 amando.it###div-dx_300x250
 america24.com##.adbox
@@ -59,7 +57,6 @@ bergamosera.com###leaderboard_wrapper
 bergamosera.com##.wpbrbanner
 bikeracing.it##table[height="180"][width="100%"]
 bitcity.it###banner
-blogosfere.it###advTopRight_anchor
 boomerangtv.it###leaderboard
 bora.la##.headerbtm
 bordighera.net###ads
@@ -95,7 +92,6 @@ cinematografo.it##img[alt="banner"]
 classifichemusica.com##a[href^="http://www.viagogo.it/Biglietti-Concerti?affiliateID="]
 comingsoon.it###BnrRight1
 comingsoon.it###ExpTop
-comingsoon.it###advSkin
 comingsoon.it###expSkin
 comingsoon.it##.expanding-footer-container
 corriere.it###tv-adv
@@ -135,7 +131,6 @@ ecoo.it###bannerTop
 edilportale.com##.click-Skin
 elaborare.info##img[style="height: 960px;\a             margin-left: -165px;\a             margin-top: 0px;\a             position: fixed;\a             top: 0;\a             width: 145px;"]
 elaborare.info##img[style="height: 960px;\a             margin-left: 970px;\a             margin-top: 0px;\a             position: fixed;\a             top: 0;\a             width: 145px;"]
-essenzialeonline.it##.advPostLibri
 esseresani.it##.adv
 eurogamer.it###leaderboard
 eurogamer.it###skyscraper
@@ -357,7 +352,6 @@ julienews.it##.home_left_banner_box
 julienews.it##.pages_cnt_banner_box
 julienews.it##.pages_right_big_banner_box
 la7.it###adv
-la7.it##.adv_630
 laborsadeipiccoli.com##.annunci
 ladige.it###immob_box_ricerca
 lapoliticaitaliana.it##.publi
@@ -519,7 +513,6 @@ paginebianche.it##div[style="width: 300px; height: 250px;"]
 paginebianche.it##div[style="width: 978px; height: 45px;"]
 paginegialle.it###banner300x250_1
 paginegialle.it###banner_pushbar
-paginegialle.it##.adv-cont
 palermomania.com###area_banner_top
 panorama.it###immob_box_ricerca
 parmasera.it##.banner_doc_bottom_foto
@@ -561,7 +554,6 @@ qds.it###banner_top
 qnm.it###btop
 quattroruote.it###adv_wideleaderboard
 quattroruote.it###bannerrcl
-quattroruote.it##.adv-key
 quattroruote.it##.telecamera-address
 quotidiano.net##.google-728
 quotidianosanita.it##.qs_n_interno_basso
@@ -609,7 +601,6 @@ sapere.it###s24box2
 sapere.it###s24square
 sardegna24.net###Hbanner300x250c20
 sardegna24.net###banner300x250c20
-screenweek.it###background-adv
 search.aol.it##.SLL
 secondamano.it##.moreblock
 senigallianotizie.it###bbitalia_banner
