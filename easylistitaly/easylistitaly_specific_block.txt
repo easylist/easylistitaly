@@ -43,6 +43,7 @@
 ||automoto.it/static/adv/
 ||autoseller.it/banner%5c
 ||autoseller.it/banner/
+||autosottocosto.com/files/banner/
 ||autoxy.it/banners/
 ||avmagazine.it/immagini/adv_
 ||aziendeonline.biz/db/banner_
