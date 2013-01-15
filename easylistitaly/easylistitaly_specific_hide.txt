@@ -614,6 +614,7 @@ shippingonline.ilsecoloxix.it###footer
 shippingonline.ilsecoloxix.it###zona_181
 softonic.it##.banner
 softonic.it##.banner_box
+softonic.it##.show_banner_down_leaderboard
 soldionline.it##.sm_widget_contenitore
 spaziogames.it###ads
 spaziogames.it###banner_300
