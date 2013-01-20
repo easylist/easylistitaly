@@ -4,6 +4,7 @@ bakeca-incontri.net#@#.ad_bottom
 bakeca-incontri.net#@#.ad_center
 subito.it#@#.ad_links
 newscrawler.it#@#.ad_wrapper
+filmeter.net#@#.adbanner
 subito.it#@#.adcont
 bakeca-incontri.net#@#.adtitle
 deejay.it#@#.advertorial
