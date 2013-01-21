@@ -263,6 +263,7 @@
 ||ilcorsaronero.info/js/nopopup.js
 ||ilcrotonese.it^*/promo_
 ||ilfattoalimentare.it/assets/banners/
+||ilfattoquotidiano.it/external/assicurazioni_300x100/
 ||ilfattoquotidiano.it^*/banner_casait.jpg
 ||ilfattoquotidiano.it^*/pulsante-2.jpg
 ||ilfogliocostadamalfi.it/media/banner-
