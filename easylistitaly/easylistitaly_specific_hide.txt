@@ -711,6 +711,7 @@ trendystyle.it###block-block-27
 trendystyle.it###block-block-4
 trendystyle.it###block-block-5
 trentinotv.it##div[style="width:945px; padding:0px 0px 0px 3px;"]
+tripadvisor.it##.ad
 troppoforte.net###sidebar
 tshot.it###bannerTop
 ttmweb.it###footer
