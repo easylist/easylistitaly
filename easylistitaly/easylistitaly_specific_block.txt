@@ -50,7 +50,6 @@
 ||badtaste.it/file/amazon/
 ||balarm.it/banner.asp?
 ||balarm.it/public/bannernewsletter/
-||banner.radiocuore.it^
 ||banneradmin.rai.it^
 ||baseball.it/banner_
 ||bazar.it/backfiles/banners/
