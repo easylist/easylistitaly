@@ -1,1 +1,1 @@
-||adv2.spaziogames.it^$image,~image,popup
+||adv2.spaziogames.it^$popup
