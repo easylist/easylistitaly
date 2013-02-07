@@ -435,6 +435,7 @@ metropolisweb.it##.BannerMezzoNotizia
 milaninterradio.tv##.box_300_250
 milanodabere.it##a[href^="http://ib.adnxs.com/clktrb?id="]
 milanofinanza.it###box_immo
+milanofinanza.it###widget_ticketcrociere
 milanofinanza.it##.ban
 milanotoday.it###box-immobiliare
 milanotoday.it##.advtop

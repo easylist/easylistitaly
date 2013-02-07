@@ -396,6 +396,7 @@
 ||metropolisweb.it/public/banner/
 ||milaninterradio.tv/images/180x150.gif
 ||milanodabere.it/images/archivio/2000x1000/
+||milanofinanza.it/common/home/mf/img/197x55xtb_it_short.gif
 ||milanofinanza.it/common/home/mf/img/cmc290x40.gif
 ||milanofinanza.it/common/home/mf/img/cru_ban.gif
 ||milanofinanza.it/common/home/mf/img/marketscom.gif
