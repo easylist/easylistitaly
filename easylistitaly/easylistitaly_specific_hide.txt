@@ -342,6 +342,7 @@ italia-news.it##.gcon_banners
 italia-news.it##.gcon_banners_label
 italianhack.org###ads
 italiaoggi.it###box_immo
+italiaoggi.it###widget_ticketcrociere
 italiapokerclub.com##.promotion
 itawow.it##div[style="height:60px; width:468px; float:left; margin-left:40px;"]
 itespresso.it###megabanner
