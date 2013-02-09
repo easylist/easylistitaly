@@ -698,6 +698,7 @@
 ||wintersport-news.it/banners/
 ||worldweb.it/images/banners/
 ||worldweb.it/images/stories/registrazionemotoridiricerca.jpg
+||yachtonline.it/be/servizi/ajax_banner.php?
 ||you-ng.it/images/skin_
 ||youreporter.it/partner/
 ||zabriskiepoint.net^*/banner/
