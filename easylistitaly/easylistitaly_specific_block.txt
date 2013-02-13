@@ -460,6 +460,7 @@
 ||pianetadonna.it/images/*_300x100.
 ||pianetadonna.it/images/*_300x100_
 ||pianetazzurro.it/images/banner/
+||piratestreaming.com/functions/pist_strp.js
 ||poker.commentierecensioni.com^*/titanpoker125x125.gif
 ||poliziamunicipale.it/script/getbnr.aspx?
 ||popcorntv.it/advloader.php?
