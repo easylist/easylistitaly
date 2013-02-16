@@ -1,1 +1,1 @@
-||angege.com^$popup,third-party||awsclic.com^$popup,third-party
+||heyos.com^$popup,third-party||angege.com^$popup,third-party||awsclic.com^$popup,third-party
