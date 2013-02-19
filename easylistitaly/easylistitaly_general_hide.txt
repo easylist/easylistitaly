@@ -21,6 +21,7 @@
 ###fwnetblocco
 ###fwnetblocco160x600
 ###fwnetblocco300x300
+###fwnetblocco_v
 ###leo-adv
 ###libero_header_adv
 ###ppn_ad_div
