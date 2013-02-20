@@ -134,6 +134,7 @@
 ||tipster.it^$subdocument,third-party
 ||tophost.it/banners/
 ||topsexitalia.com/adv.php
+||trilud.com/highlight_300X280.php?
 ||trivago.it/external_rpc.php?
 ||tuoporno.com/images/banner/
 ||unibr.altervista.org/pub.html
