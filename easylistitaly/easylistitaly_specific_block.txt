@@ -67,6 +67,7 @@
 ||blurum.it/resources/advertises/
 ||bmwpassion.com^*/banners/
 ||bolli.it/images/banner/
+||bolognatoday.it/images/skin/
 ||bordighera.net/banner/
 ||bordighera.net/banner_
 ||bordighera.net/images/banner_

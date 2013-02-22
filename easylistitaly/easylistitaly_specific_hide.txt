@@ -705,6 +705,10 @@ today.it##.leaderboard
 tomshw.it###testata_giu
 tomshw.it##.background-link
 tomshw.it##div[style="width:300px; height:250px;"]
+torinotoday.it###box-immobiliare
+torinotoday.it##.skin_left
+torinotoday.it##.skin_right
+torinotoday.it##.skin_top
 trackback.it###bannerTop
 treccani.it###campagnaBox
 treccani.it##.sponsorLogo
