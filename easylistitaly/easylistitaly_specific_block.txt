@@ -635,6 +635,7 @@
 ||toptrade.it^*/downloadfilebanner.php?
 ||trasporti-italia.com^*/banner/
 ||treccani.it/Portale/resources/images/bg$image
+||trentotoday.it/images/skin/
 ||tribunasportiva.it/images/*350x200.jpg
 ||tribunasportiva.it/images/banners/
 ||tribunasportiva.it/modules/mod_novarp/tmpl/pjmr.swf?

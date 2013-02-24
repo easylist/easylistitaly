@@ -16,6 +16,9 @@ agichina24.it##.strip
 agichina24.it##.topbanner1
 agimondo.it###overhp
 agoravox.it##.publarge
+agrigentonotizie.it,anconatoday.it,baritoday.it,bolognatoday.it,bresciatoday.it,cataniatoday.it,cesenatoday.it,chietitoday.it,firenzetoday.it,foggiatoday.it,forlitoday.it,genovatoday.it,ilpescara.it,ilpiacenza.it,latinatoday.it,milanotoday.it,modenatoday.it,monzatoday.it,napolitoday.it,novaratoday.it,padovaoggi.it,palermotoday.it,parmatoday.it,perugiatoday.it,pisatoday.it,ravennatoday.it,riminitoday.it,romatoday.it,salernotoday.it,torinotoday.it,trentotoday.it,trevisotoday.it,udinetoday.it,veneziatoday.it,veronasera.it,vicenzatoday.it###box-immobiliare
+agrigentonotizie.it,anconatoday.it,baritoday.it,bolognatoday.it,bresciatoday.it,cataniatoday.it,cesenatoday.it,chietitoday.it,firenzetoday.it,foggiatoday.it,forlitoday.it,genovatoday.it,ilpescara.it,ilpiacenza.it,latinatoday.it,milanotoday.it,modenatoday.it,monzatoday.it,napolitoday.it,novaratoday.it,padovaoggi.it,palermotoday.it,parmatoday.it,perugiatoday.it,pisatoday.it,ravennatoday.it,riminitoday.it,romatoday.it,salernotoday.it,torinotoday.it,trentotoday.it,trevisotoday.it,udinetoday.it,veneziatoday.it,veronasera.it,vicenzatoday.it##.skin_right
+agrigentonotizie.it,anconatoday.it,baritoday.it,bolognatoday.it,bresciatoday.it,cataniatoday.it,cesenatoday.it,chietitoday.it,firenzetoday.it,foggiatoday.it,forlitoday.it,genovatoday.it,ilpescara.it,ilpiacenza.it,latinatoday.it,milanotoday.it,modenatoday.it,monzatoday.it,napolitoday.it,novaratoday.it,padovaoggi.it,palermotoday.it,parmatoday.it,perugiatoday.it,pisatoday.it,ravennatoday.it,riminitoday.it,romatoday.it,salernotoday.it,torinotoday.it,trentotoday.it,trevisotoday.it,udinetoday.it,veneziatoday.it,veronasera.it,vicenzatoday.it##.skin_top
 airdave.it##.banner
 allaguida.it###bannerTop
 allandroidnews.it##.wp_skyscraper_c2
@@ -166,9 +169,6 @@ finanzaonline.com##.bannerlbforum
 firstonline.info###ctl00_cph_main_banner1_p1
 firstonline.info##.banner300
 fiscaleweb.com###leaderboard
-forlitoday.it##.skin_left
-forlitoday.it##.skin_right
-forlitoday.it##.skin_top
 forzapescara.net###banner
 forzapescara.net###banner2
 foxlife.it##div[style="width: 728px; height: 90px; margin: 0px auto 10px auto; background:none;"]
@@ -439,11 +439,6 @@ milanodabere.it##a[href^="http://ib.adnxs.com/clktrb?id="]
 milanofinanza.it###box_immo
 milanofinanza.it###widget_ticketcrociere
 milanofinanza.it##.ban
-milanotoday.it###box-immobiliare
-milanotoday.it##.advtop
-milanotoday.it##.skin_left
-milanotoday.it##.skin_right
-milanotoday.it##.skin_top
 mister-x.it###siti_amici
 mmorpgitalia.it##.headerwrapA
 modenaonline.info###header-banner-pane
@@ -475,9 +470,6 @@ mymovies.it##td[style="height:45px; background-color:#FFFFFF; ;"]
 myword.it##.login-container[style="height:92px;border:0px solid red;text-align:center;"]
 nanopress.it###bannerTop
 napolisport.net##div[style="float:left;margin:7px auto; width:1000px; margin-bottom:4px; text-align:left; height:92px;"]
-napolitoday.it##.skin_left
-napolitoday.it##.skin_right
-napolitoday.it##.skin_top
 neveitalia.it##.promo
 neveitalia.it##.topbanner
 newnotizie.it##.single_sidebar300x250
@@ -593,7 +585,6 @@ romagiornoenotte.it##.areabannerTop
 romagiornoenotte.it##.basebannerBox
 romagnaoggi.it###banner990
 romagnaoggi.it##.adv
-romatoday.it###box-immobiliare
 rumors.it###block-block-19
 rumors.it###block-block-2
 rumors.it###block-block-26
@@ -705,10 +696,6 @@ today.it##.leaderboard
 tomshw.it###testata_giu
 tomshw.it##.background-link
 tomshw.it##div[style="width:300px; height:250px;"]
-torinotoday.it###box-immobiliare
-torinotoday.it##.skin_left
-torinotoday.it##.skin_right
-torinotoday.it##.skin_top
 trackback.it###bannerTop
 treccani.it###campagnaBox
 treccani.it##.sponsorLogo
@@ -719,6 +706,7 @@ trendystyle.it###block-block-27
 trendystyle.it###block-block-4
 trendystyle.it###block-block-5
 trentinotv.it##div[style="width:945px; padding:0px 0px 0px 3px;"]
+trentotoday.it,trevisotoday.it,salernotoday.it|torinotoday.it,veneziatoday.it,vicenzatoday.it,udinetoday.it,veronasera.it,ravennatoday.it,riminitoday.it,romatoday.it,firenzetoday.it,padovaoggi.it,palermotoday.it,parmatoday.it,ilpescara.it,ilpiacenza.it,pisatoday.it,perugiatoday.it,foggiatoday.it,genovatoday.it,latinatoday.it,milanotoday.it,modenatoday.it,monzatoday.it,napolitoday.it,novaratoday.it,chietitoday.it,cesenatoday.it,cataniatoday.it,agrigentonotizie.it,anconatoday.it,baritoday.it,forlitoday.it,bresciatoday.it,bolognatoday.it##.skin_left
 tripadvisor.it###SPONSORED_TOP_10
 tripadvisor.it##.ad
 troppoforte.net###sidebar
