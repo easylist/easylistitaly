@@ -6,6 +6,7 @@
 /adv_s_pirchio.
 /advpirchio.
 /advpirchiofooter.
+/advsfondo/*
 /affiliati_img/*
 /annunciogoogle.
 /inclusioni/adv/*
