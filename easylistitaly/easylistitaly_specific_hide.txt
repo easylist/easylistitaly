@@ -136,6 +136,7 @@ ecoo.it###bannerTop
 edilportale.com##.click-Skin
 elaborare.info##img[style="height: 960px;\a             margin-left: -165px;\a             margin-top: 0px;\a             position: fixed;\a             top: 0;\a             width: 145px;"]
 elaborare.info##img[style="height: 960px;\a             margin-left: 970px;\a             margin-top: 0px;\a             position: fixed;\a             top: 0;\a             width: 145px;"]
+esigarettaforum.com###ad_global_below_navbar
 esseresani.it##.adv
 eurogamer.it###leaderboard
 eurogamer.it###skyscraper
