@@ -1,3 +1,4 @@
+||135.it/frame/
 ||6sicuro.it/widgets/$third-party
 ||85.115.8.249^$image,domain=~chunnel.de.ip
 ||ad.edision-nord.it^
