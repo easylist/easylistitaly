@@ -106,6 +106,7 @@
 ||pronostitalia.com/banner/
 ||pronostitalia.com/images/giocaconwilliamhill.png
 ||puntostampa.altervista.org^$subdocument,third-party
+||rdn.it/images/BANNER/
 ||regaliper.me^$subdocument,third-party
 ||rivenditori.aruba.it^$third-party
 ||sanistatic.it/*/300x100_
