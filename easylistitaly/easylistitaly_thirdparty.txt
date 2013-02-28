@@ -115,6 +115,7 @@
 ||serverplan.com/affiliati/$third-party
 ||servizi-web-marketing.it^$image,third-party
 ||sessotop.com/img/annunci*.gif
+||sitinuovi.it/banner/
 ||sk1.it/images/promo/
 ||smartclip.net^$~object-subrequest,third-party
 ||smscellulari.it/pic/banner/$third-party

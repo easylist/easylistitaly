@@ -194,6 +194,7 @@
 ||freenewsonline.it^*-300.jpg
 ||freenewsonline.it^*/250x250.swf
 ||freenewsonline.it^*/banner/
+||freeonline.org/img/banner/
 ||freetvonline.altervista.org/images/abbigliamentocalcio/
 ||freetvonline.altervista.org/images/bazarcoupon/
 ||freetvonline1.it^*/banner_
