@@ -32,6 +32,7 @@
 ||ansa.it^*/banner_
 ||anzwers.net/messaggi/
 ||aostaoggi.it/banner_
+||applemobile.it/ilger.gif
 ||areapress.it/banner/
 ||arezzonotizie.it/images/banners/
 ||arezzonotizie.it/modules/mod_bgbanner/
