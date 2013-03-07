@@ -263,6 +263,7 @@ ilcorrieredabruzzo.it##div[style="position:relative; overflow:hidden; margin:0 a
 ilcrotonese.it##.background-link
 ilfattoquotidiano.it##.textlink
 ilfattoquotidiano.it##.widget_ifqbooks
+ilfattoquotidiano.it##div[style="width: 600px; min-height: 42px; border: 0px none; margin: 0px 10px 10px; padding: 0px; background-color: rgb(239, 239, 239);"]
 ilfattoquotidiano.it##div[style="width:235px; height:75px; margin-top: 10px; overflow:hidden; float:left"]
 ilfattoquotidiano.it##div[style="width:235px; height:75px; margin-top: 10px; overflow:hidden; float:left;line-height: 12px;"]
 ilfattoquotidiano.it##div[style="width:235px; height:75px; overflow:hidden; float:left"]
