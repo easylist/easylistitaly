@@ -184,9 +184,11 @@ gamemag.it##.ads
 games4all.it###bannerTop
 gamesvillage.it###buy_amazon
 gaywave.it###bannerTop
+gazzetta.it###box-random-gazzastar-travel
 gazzetta.it###sponsor
 gazzetta.it###tv-adv
 gazzetta.it##.bacheca-mkt
+gazzetta.it##.bacheca-mkt-square
 gazzetta.it##.contain-sisal-magicup
 gazzetta.it##.gazzasconti
 gazzetta.it##.info-quote
