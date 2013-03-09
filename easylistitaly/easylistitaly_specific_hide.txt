@@ -185,6 +185,7 @@ games4all.it###bannerTop
 gamesvillage.it###buy_amazon
 gaywave.it###bannerTop
 gazzetta.it###box-random-gazzastar-travel
+gazzetta.it###box-sponsor
 gazzetta.it###sponsor
 gazzetta.it###tv-adv
 gazzetta.it##.bacheca-mkt
