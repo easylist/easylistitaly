@@ -392,6 +392,7 @@
 ||mattinonline.ch^*/banner_
 ||mbenz.it/banner.swf
 ||mbenz.it/lidaolbia.jpg
+||mediagol.it/images/sponsor/
 ||mediavideo24.com/inc/ova.swf$object-subrequest
 ||metallized.it/banner/
 ||meteo.it/images/banner/
