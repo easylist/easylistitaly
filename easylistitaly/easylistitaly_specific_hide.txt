@@ -437,6 +437,7 @@ melamorsicata.it##img[width="160"][height="300"]
 messinaweb.tv##.bannerpostsingle
 metalitalia.com###middle-home
 metalitalia.com###sidebar-top
+meteo-emiliaromagna.it###banner
 meteo.it##.ImmobiliareIt
 meteogiornale.it##iframe[width="655"][height="104"]
 meteoweb.eu##div[style="width:auto; min-width:300px; height:auto; min-height:250px; margin:0 0 3px 3px; float:right;"]
