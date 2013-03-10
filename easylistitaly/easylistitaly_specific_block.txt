@@ -278,6 +278,7 @@
 ||ilgazzettino.it/imgmol/
 ||ilgiornale.it/static/widget_immobiliare/
 ||ilgiornale.it^*/img/adv/
+||ilgiornale.it^*/paddy_power_sport.gif
 ||ilgiornaledellaprotezionecivile.it^*_banners/
 ||ilgiornaledienna.it/images/banners/
 ||ilgiornaledigela.it/images/banners/
