@@ -683,6 +683,8 @@
 ||vb33.it/images/banners/
 ||viamichelin.it/htm/cmn/AFS*.htm?
 ||viamichelin.it/htm/cmn/IFGdH*.htm?
+||vicenzalive.it/banners/
+||vicenzalive.it/risorse/banners/
 ||videofamosi.com^$subdocument
 ||videogame.it/arturo/vast/eas?
 ||videogame.it^*/adv/
