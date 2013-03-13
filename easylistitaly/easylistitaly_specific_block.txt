@@ -520,6 +520,7 @@
 ||radiosport24.com/images/pellizza.jpg
 ||radiosport24.com/images/romano_auto.png
 ||radiosport24.com/images/stories/demo/med-music-corporate.jpg
+||radiovaticana.va^*/ENEL_022013_320x64.gif
 ||radioveronica.it/uploads/partner/
 ||raffaeleauriemma.com^*/rotor/
 ||rampower.it/download/banner/
