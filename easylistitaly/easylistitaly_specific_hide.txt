@@ -653,10 +653,14 @@ techassistance.it##div[style="height:90px; width:980px;display:block; text-align
 tecnocino.it###bannerTop
 tecnocino.it###btop
 tecnozoom.it###btop
+telefonino.net###banner300x100Pos2
+telefonino.net###banner300x100Pos3
 telefonino.net###banner300x100Pos4
+telefonino.net###banner300x100Pos5
 telefonino.net###banner300x100TimPos1
 telefonino.net###banner300x250pos2
 telefonino.net###bannerProve300x250pos2
+telefonino.net###bannerstrip
 telefonino.net###boxShopping
 telefonino.net###ebayBox
 telefonino.net###google300x250
@@ -664,6 +668,7 @@ telefonino.net###googleHomeNews
 telefonino.net###googleNewsTop
 telefonino.net###googleProveTop
 telefonino.net###news336x280GoogleBox
+telefonino.net##.amazon_left
 telefonino.net##div[style="position: relative;width: 310px;height: 110px;margin: 0px -5px 5px -5px;"]
 telesud3.com###banner-header
 telesud3.com###linkamici
