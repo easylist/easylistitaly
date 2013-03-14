@@ -722,6 +722,7 @@ trentinotv.it##div[style="width:945px; padding:0px 0px 0px 3px;"]
 tripadvisor.it###SPONSORED_TOP_10
 tripadvisor.it##.ad
 troppoforte.net###sidebar
+trovaprezzi.it##.bannerdiv
 tshot.it###bannerTop
 ttmweb.it###footer
 ttmweb.it###zona_245
