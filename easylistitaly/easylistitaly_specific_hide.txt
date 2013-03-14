@@ -49,6 +49,7 @@ automoto.it###topboard
 autoseller.it###ctl00_ContentCentraleBanner
 autoxy.it###assicu_widget_300x80
 autoxy.it###subito-sponsor
+avmagazine.it##.background-link
 avvisatore.ilsecoloxix.it###footer
 avvisatore.ilsecoloxix.it###zona_266
 axn.it###block-spti_operative-spti_operative_square

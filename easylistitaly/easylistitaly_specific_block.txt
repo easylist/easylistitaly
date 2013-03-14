@@ -50,6 +50,7 @@
 ||autoseller.it/banner/
 ||autosottocosto.com/files/banner/
 ||autoxy.it/banners/
+||avmagazine.it/css/2010/skin/
 ||avmagazine.it/immagini/adv_
 ||aziendeonline.biz/db/banner_
 ||badtaste.it/file/amazon/
