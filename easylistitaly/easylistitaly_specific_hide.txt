@@ -458,6 +458,7 @@ mister-x.it###siti_amici
 mmorpgitalia.it##.headerwrapA
 modenaonline.info###header-banner-pane
 mondoreality.com###leaderboard
+morningstar.it##.advert
 mostraip.com##.spot1
 moto.it###rchm_overlay
 moto.it###topboard
