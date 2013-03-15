@@ -515,6 +515,7 @@ onstageweb.com##div[style="width:728px; margin:auto;height:90px; border:1px soli
 opinione.it##.manchette
 orangedropdesign.com##.banner
 orgoglionerd.it##.banner_rotation
+orgoglionerd.it##div[style="width:227px;height:315px"]
 oroscopo.it###top_header
 orvietosi.it##.banner
 orvietosi.it##.wp_bannerize
