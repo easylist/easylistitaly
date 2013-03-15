@@ -6,6 +6,7 @@
 ###adbanner-stampa
 ###adsense-destra
 ###adsense-notizia
+###adv-iframe-sx-home
 ###adv-skin-colonnadx
 ###adv-skin-colonnasx
 ###advAutopromo1
@@ -34,6 +35,7 @@
 ###skinadvdx
 ###skinadvsx
 ##.adv-articolo
+##.adv-iframe-sx
 ##.advPostLibri
 ##.adv_esterno
 ##.adv_oriz
