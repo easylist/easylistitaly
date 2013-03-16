@@ -626,6 +626,7 @@ settegiorni.it##.box-banner-menu
 settegiorni.it##.mutui
 shippingonline.ilsecoloxix.it###footer
 shippingonline.ilsecoloxix.it###zona_181
+sky.it##.adv
 softonic.it##.banner
 softonic.it##.banner_box
 softonic.it##.show_banner_down_leaderboard
