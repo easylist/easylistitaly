@@ -3,7 +3,6 @@
 ||4link.it^$third-party
 ||4wnet.com^$third-party
 ||ad4mat.it^$third-party
-||ad6media.fr^$third-party
 ||adagionet.com^$third-party
 ||adbrawl.com^$third-party
 ||addyon.com^$third-party
