@@ -597,6 +597,7 @@ ricettedelmondo.it###box_pub2
 ricettepercucinare.com##.UAP_3to1_Rectangle
 ricettepercucinare.com##.UAP_Medium_Rectangle
 ricettepercucinare.com##.UAP_Wide_Skyscraper
+rinnovabili.it###header-bottom
 rockit.it###skinbanner
 rockit.it##.banner
 romagiornoenotte.it##.areabannerTop
