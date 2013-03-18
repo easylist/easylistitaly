@@ -62,6 +62,7 @@
 ##.sponsorizzati
 ##.tabella2Pubblicita
 ##.tabella3Pubblicita
+##.view-pubblicita
 ##a[href^="http://adserver.ilmessaggero.it/"]
 ##a[href^="http://crazylead.com/video/"]
 ##a[href^="http://tracking.crazylead.com/"]
