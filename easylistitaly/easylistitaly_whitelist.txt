@@ -18,7 +18,7 @@
 @@||areanapoli.it/adv/fb-fan-box.html?$subdocument
 @@||doubleclick.net/adj/tuttosport.home/home;sz=336x600,300x250,300x600;=$script,domain=tuttosport.com
 @@||download.deejay.it/adv/podcast/$object-subrequest
-@@||edintorni.net/related/service/*/jscript/$script,domain=amicidimotociclismo.it|armietiro.it|automobilismo.it|businessmagazine.it|ciclismo.it|fotografidigitali.it|gamemag.it|hwfiles.it|ilfattoquotidiano.it|ilsecoloxix.it|iltempo.it|motociclismo.it|runnersworld.it|tennisitaliano.it|unita.it|velaemotore.it
+@@||edintorni.net/related/service/*/jscript/$script,domain=amicidimotociclismo.it|armietiro.it|automobilismo.it|businessmagazine.it|ciclismo.it|fotografidigitali.it|gamemag.it|hwfiles.it|hwupgrade.it|ilfattoquotidiano.it|ilsecoloxix.it|iltempo.it|motociclismo.it|runnersworld.it|tennisitaliano.it|unita.it|velaemotore.it
 @@||eyewonder.com^*/video/$object-subrequest,domain=sky.it
 @@||files.adform.net/banners/stream/*.flv$object-subrequest,domain=la7.tv|sky.it
 @@||gelocal.it/adimages/
