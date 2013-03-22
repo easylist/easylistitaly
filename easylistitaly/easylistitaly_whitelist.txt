@@ -1,3 +1,5 @@
+@@||ad.smartclip.net/crossdomain.xml$object-subrequest,domain=serviziopubblico.it
+@@||ad.smartclip.net/delivery/tag?$object-subrequest,domain=serviziopubblico.it
 @@||adimg.matrixspa.it/cookie_script/read_crt.html$domain=webmail.virgilio.it
 @@||adimg.matrixspa.it/jsc/advManage.js$domain=webmail.virgilio.it
 @@||adnkronos.com/ign/mediacenter/fotogallery/data_01/img/ad_
@@ -19,7 +21,7 @@
 @@||doubleclick.net/adj/tuttosport.home/home;sz=336x600,300x250,300x600;=$script,domain=tuttosport.com
 @@||download.deejay.it/adv/podcast/$object-subrequest
 @@||edintorni.net/related/service/*/jscript/$script,domain=amicidimotociclismo.it|armietiro.it|automobilismo.it|businessmagazine.it|ciclismo.it|fotografidigitali.it|gamemag.it|hwfiles.it|hwupgrade.it|ilfattoquotidiano.it|ilsecoloxix.it|iltempo.it|motociclismo.it|runnersworld.it|tennisitaliano.it|unita.it|velaemotore.it
-@@||eyewonder.com^*/video/$object-subrequest,domain=sky.it
+@@||eyewonder.com^*/video/$object-subrequest,domain=serviziopubblico.it|sky.it
 @@||files.adform.net/banners/stream/*.flv$object-subrequest,domain=la7.tv|sky.it
 @@||gelocal.it/adimages/
 @@||iads.iltrovatore.it/clientaccesspolicy.xml$object-subrequest,domain=la7.it
