@@ -357,6 +357,7 @@
 ||lavorincasa.it/banner/
 ||lavorincasa.it/images/testata/
 ||lavorincasa.it/includes/bacheca/annunci/
+||left.it/wp-content/uploads/banners/
 ||leggilanotizia.it/images/bg-banner/
 ||leggilanotizia.it/userfiles/image/manchette/
 ||leggilanotizia.it/userfiles/image/testata/
