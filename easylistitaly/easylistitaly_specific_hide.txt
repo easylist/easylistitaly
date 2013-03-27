@@ -76,6 +76,7 @@ buttalapasta.it###bannerTop
 calcioblog.it##.box_highlight
 calciomercato.com###background_left
 calciomercato.com###background_right
+camperonline.it##.publink
 canali16.altervista.org###up
 cani.com###headerBoard-box
 canzoni.it###sponsor_footer

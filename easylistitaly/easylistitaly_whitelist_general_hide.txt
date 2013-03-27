@@ -9,3 +9,4 @@ subito.it#@#.adcont
 bakeca-incontri.net#@#.adtitle
 deejay.it#@#.advertorial
 corrierecomo.it,corrieredicomo.it#@#.module-ad
+camperonline.it#@#.pubblicita

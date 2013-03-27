@@ -55,7 +55,6 @@
 ##.linksponsorizzati
 ##.modPubblicita
 ##.promo_sp
-##.pubblicita
 ##.pubblicitaGoogle
 ##.pubblicitaSlider
 ##.pubblicitapremium

@@ -82,6 +82,9 @@
 ||calciomercato.com/uploads/banners/
 ||calciomercato.it^*_1040x40_
 ||campaniameteo.it/banner/
+||camperonline.it/b-top/
+||camperonline.it/b/
+||camperonline.it/sfondo/
 ||canali16.altervista.org/calcio.html
 ||casaeclima.com/images/banners/
 ||casaportale.com/public/uploads/
