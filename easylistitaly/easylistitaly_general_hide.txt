@@ -4,6 +4,8 @@
 ###UNITIS_ads_300250
 ###adbanner-laterale
 ###adbanner-stampa
+###ads-interno-1
+###ads-interno-2
 ###ads-laterale
 ###adsense-destra
 ###adsense-notizia
