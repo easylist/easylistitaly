@@ -655,6 +655,7 @@ strettoweb.com##div[style="width:307px; height:250px; text-align:left; margin:0 
 strettoweb.com##div[style="width:728px; height:90px; margin:9px auto; display:block; float:right !important;"]
 studiocataldi.it###overlayer
 studioconsulenzaromano.net###text-561964208
+studionews24.com###sponsor
 style.it##.side-gallery
 style.it##.style_promo
 stylosophy.it###bannerTop
