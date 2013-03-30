@@ -744,6 +744,7 @@ tripadvisor.it###SPONSORED_TOP_10
 tripadvisor.it##.ad
 troppoforte.net###sidebar
 trovaprezzi.it##.bannerdiv
+trustpilot.it##.adblock
 tshot.it###bannerTop
 ttmweb.it###footer
 ttmweb.it###zona_245
