@@ -633,8 +633,8 @@
 ||telesud3.com/images/banner/
 ||temi-wordpress.net/wp-content/plugins/maxblogpress-unblockable-popup/
 ||tempoitalia.it/banner/
-||tennis.it/files/325x300_
-||tennis.it/files/banco_desio_lazio.gif
+||tennis.it/files/banner_blufreccia3c.gif
+||tennis.it/files/olio-san-clemente.jpg
 ||tennisworlditalia.com/banners/
 ||terranauta.it/banner/
 ||tesionline.it/v2/img/skin/
