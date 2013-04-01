@@ -367,9 +367,7 @@ ivg.it##.takeover
 jacktech.it###assicu_box_ricerca
 jacktech.it##.jk_banner
 jugo.it##.ad
-julienews.it##.home_left_banner_box
-julienews.it##.pages_cnt_banner_box
-julienews.it##.pages_right_big_banner_box
+julienews.it##.long_banner_row
 la7.it###adv
 laborsadeipiccoli.com##.annunci
 ladige.it###immob_box_ricerca
