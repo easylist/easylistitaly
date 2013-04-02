@@ -441,6 +441,8 @@ melamorsicata.it##.mela_ban_1
 melamorsicata.it##.mela_ban_2
 melamorsicata.it##.mela_ban_3
 melamorsicata.it##img[width="160"][height="300"]
+mesagne.me##.ad
+mesagne.me##.topbanner
 messinaweb.tv##.bannerpostsingle
 metalitalia.com###middle-home
 metalitalia.com###sidebar-top
