@@ -17,6 +17,7 @@
 @@||adv.tre.it/www/$image,script
 @@||ansa.it/web/video/videoad.swf$object-subrequest
 @@||ansa.it^*/ad-gallery/$image
+@@||antonioranesi.it/cache/Lavori/Pubblicita/
 @@||areanapoli.it/adv/fb-fan-box.html?$subdocument
 @@||doubleclick.net/adj/tuttosport.home/home;sz=336x600,300x250,300x600;=$script,domain=tuttosport.com
 @@||download.deejay.it/adv/podcast/$object-subrequest
