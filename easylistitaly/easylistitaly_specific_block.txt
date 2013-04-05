@@ -355,6 +355,7 @@
 ||lastampa.it^*/naturhouse/
 ||latitudeslife.com/magazine/adv/
 ||latitudeslife.com^*/banners/
+||lavocedivenezia.it/player/banner/
 ||lavorare-spettacolo.com/images/banners/
 ||lavorincasa.it/banner/
 ||lavorincasa.it/images/testata/
