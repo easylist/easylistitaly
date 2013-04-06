@@ -330,6 +330,7 @@
 ||italia-film.com^*_ilivid.gif
 ||italia-news.it/box_ricerca/
 ||italia-news.it/media/banners/
+||italiafilm.tv/italiafilm.png
 ||italiagermania4-3.com/images/banners/
 ||italianhack.org/adv/
 ||ivg.it^*/takeover/
