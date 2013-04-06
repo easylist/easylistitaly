@@ -122,6 +122,7 @@ designmag.it###bannerTop
 diariodelweb.it##.publi
 dica33.it##.top-banner
 diesis.it###box_banner
+digital-forum.it###ad_global_below_navbar
 digital-sat.it###sx_basso_topsx
 digital-sat.it##.banner_centrale
 digital-sat.it##.banner_dx
