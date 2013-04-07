@@ -760,6 +760,7 @@ tuttolosportdiparma.it###top-banner
 tuttopercasa.it##.adv
 tvtv.it##.advert
 ultimissime.net##div[style="margin:auto; background-image:url('/images/stories/professionecasinO.jpg'); height: 153px; width: 287px"]
+unita.it###eimp[style="width:298px;float:left;margin-top:20px;height:248px;border:1px solid #cccccc; position:relative; z-index:0"]
 unita.it##.dannperdere
 ustation.it###adv
 vanityfair.it##.promo
