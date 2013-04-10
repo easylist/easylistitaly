@@ -693,6 +693,7 @@
 ||vaol.it/include/mod/layout1/images/bps.swf
 ||varesenews.it/banner/
 ||vb33.it/images/banners/
+||venetouno.it/media/imgbanners/
 ||viamichelin.it/htm/cmn/AFS*.htm?
 ||viamichelin.it/htm/cmn/IFGdH*.htm?
 ||vicenzalive.it/banners/
