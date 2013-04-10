@@ -189,6 +189,7 @@ fuorissimo.com##td[height="100"][bgcolor="#000000"][width="752"]
 galileonet.it##.banner_oriz
 galileonet.it##.banner_vert
 gamemag.it##.ads
+gameplayer.it###banner_up_right
 games4all.it###bannerTop
 gamesvillage.it###buy_amazon
 gaywave.it###bannerTop
