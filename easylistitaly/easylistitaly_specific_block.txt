@@ -12,6 +12,7 @@
 ||adnkronos.com^*/banner/
 ||affaritaliani.it/static/generated_external/shopping/
 ||affiliati.cellulare.net^
+||agenparl.it^*/banners/
 ||agi.it/agipub/
 ||agi.it^*-google-personalizzato-
 ||agienergia.it^*/banner/
