@@ -371,6 +371,7 @@
 ||leggilanotizia.it^*/banner_
 ||leggo.it/box_tuttomercato032011/
 ||leggo.it/img/magiclandlight.gif
+||leggo.it/img/rainbow_magicland.gif
 ||leggo.it/imgmol/
 ||leonardo.it/images_for_css/skin-
 ||libero.it/_ad/
