@@ -793,5 +793,6 @@ you-ng.it##.banneritem
 youreporter.it##.sidebar_menu_virgilio
 zapster.it##.addx
 zapster.it##a[href^="http://www.paperbox.it/"]
+zeusnews.it###spotEsterno
 ! Anti-Adblock
 tomshw.it###notifica_adcont
