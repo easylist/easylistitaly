@@ -56,10 +56,6 @@
 @@||static.youreporter.it/adv/player.swf$object
 @@||tiscali.ad.dotandad.com/crossdomain.xml$object-subrequest,domain=ansa.it|tiscali.it
 @@||tiscali.ad.dotandad.com/tiscali.jsp?mpo=vast2&mpt=$object-subrequest,domain=ansa.it|tiscali.it
-@@||viamichelin.it/static/advert/afsquery/afsquery.js
-@@||viamichelin.it/static/advert/securoute/securoute.js
-@@||viamichelin.it/static/advert/sponsoring/itinerarypage/itinerarypage.js
-@@||viamichelin.it^*/rentacar.js
 @@||video1.italiaoggi.it/movie/movie/adserver_$object,object-subrequest
 @@||video1.milanofinanza.it/movie/movie/adserver_$object,object-subrequest
 @@||vox-static.liverail.com^*/liverail_preroll.swf$object,domain=786cast.tv
