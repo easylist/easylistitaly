@@ -293,6 +293,7 @@
 ||ilmanifesto.it^*/sponsors/
 ||ilmattino.it/box_tuttomercato052011/
 ||ilmattino.it/img/magiclandlight.gif
+||ilmattino.it/img/rainbow_magicland.gif
 ||ilmattino.it/imgmol/
 ||ilmessaggero.it/box_tuttomercato052011/
 ||ilmessaggero.it/img/magiclandlight.gif
