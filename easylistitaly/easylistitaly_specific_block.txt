@@ -586,6 +586,7 @@
 ||sentenze.net/css/images/skin/
 ||sentieriselvaggi.it/public/banner/
 ||serviziopubblico.it/media/images/banner/
+||settecalcio.it/public/banners/
 ||sfilate.it/wp-content/themes/sfilate/images/banner-madeinitaly.gif
 ||sfilate.it/wp-content/themes/sfilate/images/cb-logo.jpg
 ||sfilate.it/wp-content/themes/sfilate/images/hotel728x90.jpg
