@@ -238,6 +238,7 @@ guidecucina.it##.adv
 gustissimo.it###banner-alto
 haisentito.it###bannerTop
 hdblog.it###dx
+hdblog.it###shopping_kelkoo
 hdblog.it###sx
 hdblog.it###top
 hdblog.it###vetrine_kelkoo
