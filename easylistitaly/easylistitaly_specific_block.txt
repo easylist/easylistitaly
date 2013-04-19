@@ -397,6 +397,7 @@
 ||lolasesso.com/js/messaggio.js
 ||lolasesso.com^*/pene.gif
 ||lolasesso.com^*/video2.jpg
+||lospiffero.com/banner/
 ||losportivo.sm/img/banner/
 ||lunico.eu/images/banners/
 ||macexchange.it/included/banner*.bfr
