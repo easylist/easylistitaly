@@ -18,6 +18,7 @@
 ||agi.it/agipub/
 ||agi.it^*-google-personalizzato-
 ||agienergia.it^*/banner/
+||alatest.it/banner/
 ||alverde.net/banner/
 ||amadeusonline.net/banner/
 ||amadeusonline.net/partner/
