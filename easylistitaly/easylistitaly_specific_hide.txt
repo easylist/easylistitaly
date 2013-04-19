@@ -70,6 +70,7 @@ bora.la##.headerbtm
 bordighera.net###ads
 borsainside.com##.banner_bottom_post
 borsaitaliana.it##.container_banner_top
+bow.it##.header_banner
 bresciaoggi.it##.box-skyscrapers
 bresciaoggi.it##.header-box
 buttalapasta.it###bannerTop
