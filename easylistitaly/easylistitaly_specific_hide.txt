@@ -136,6 +136,7 @@ dizionariosinonimi.com##.Sponsor300x250Dx
 dottorsalute.info###leaderboardspace
 dueruote.it###box-bacheca
 dueruote.it###box-bachecapremium
+eccolanotiziaquotidiana.it###topbanner
 ecodellosport.it###bannerTop
 ecodibergamo.it##.banner_footer
 ecoo.it###bannerTop
