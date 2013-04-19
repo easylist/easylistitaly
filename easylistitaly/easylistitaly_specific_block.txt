@@ -11,6 +11,8 @@
 ||acquariofilia.biz/images/banner/
 ||adnkronos.com^*/banner/
 ||affaritaliani.it/static/generated_external/shopping/
+||affaritaliani.libero.it/static/upload/234x/
+||affaritaliani.libero.it/static/upload/food/foodita.jpg
 ||affiliati.cellulare.net^
 ||agenparl.it^*/banners/
 ||agi.it/agipub/
