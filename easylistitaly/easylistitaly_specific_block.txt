@@ -252,6 +252,8 @@
 ||guidaviaggi.it^*/banner_
 ||guidaviaggi.it^*_156x250.jpg
 ||gustissimo.it/stili/locali/300x120_
+||hdblog.it^*/300_it.swf
+||hdblog.it^*/coolerm.swf
 ||hdblog.it^*/skin_
 ||hi-techitaly.com/images/banners/
 ||histonium.net/moduli/banner/
