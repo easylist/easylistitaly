@@ -574,6 +574,7 @@
 ||romacapitalenews.com^*-300.jpg
 ||romacapitalenews.com^*/romasuonagratis.gif
 ||romacapitalenews.com^*_banners/
+||romait.it/img/banners/
 ||romanews.eu/upload/assets/files/*.swf?linkto=/php/redirect.php?
 ||romatoday.it/images/skin/
 ||rosalio.it^*/adv/
