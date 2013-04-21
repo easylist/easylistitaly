@@ -114,6 +114,7 @@
 ||rivenditori.aruba.it^$third-party
 ||sanistatic.it/*/300x100_
 ||scambiobanner.aruba.it^$third-party
+||scambiobanner.net-parade.it^$third-party
 ||scimmiablu.altervista.org/adv/
 ||secureholiday.net/moteur/v3/camperonline/min_form.aspx?$third-party
 ||sereni.net/images/banner/
