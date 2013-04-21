@@ -558,6 +558,9 @@
 ||repubblica.it^*/negozi_accordion.swf?
 ||repubblica.it^*_contentsense_
 ||resport.it/public/banner/
+||rietilife.it^*-banner.
+||rietilife.it^*/banner-
+||rietilife.it^*/banner_
 ||rinnovabili.it^*/sponsor_
 ||rnbjunk.com/cdn-cgi/pe/bag?r[]=*.2mdn.net
 ||rnbjunk.com/cdn-cgi/pe/bag?r[]=*.amung.us

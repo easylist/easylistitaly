@@ -2,6 +2,7 @@
 ###ADVrettangolopiede
 ###ADVstriscia
 ###UNITIS_ads_300250
+###ad_testa_foto
 ###adbanner-laterale
 ###adbanner-stampa
 ###ads-interno-1
