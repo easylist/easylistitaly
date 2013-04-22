@@ -375,6 +375,7 @@ jacktech.it##.jk_banner
 jugo.it##.ad
 julienews.it##.long_banner_row
 la7.it###adv
+la7.it##.leaderboard
 laborsadeipiccoli.com##.annunci
 ladige.it###immob_box_ricerca
 lapoliticaitaliana.it##.publi
