@@ -72,6 +72,7 @@
 ||bitmat.it^*/downloadfilebanner.php?
 ||blogosfere.it/js/mjx.php
 ||blogosfere.it/js/mjx2.js
+||bloopers.it/images/sponsor/
 ||blunote.it/images/banners/
 ||blurum.it/resources/advertises/
 ||bmwpassion.com^*/banners/
