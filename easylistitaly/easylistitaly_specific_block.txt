@@ -296,6 +296,7 @@
 ||ilfogliocostadamalfi.it/media/banner_
 ||ilgazzettino.it/box_tuttomercato052011/
 ||ilgazzettino.it/imgmol/
+||ilghirlandaio.com/web/template/banners/
 ||ilgiornale.it/static/widget_immobiliare/
 ||ilgiornale.it^*/img/adv/
 ||ilgiornale.it^*/paddy_power_sport.gif
