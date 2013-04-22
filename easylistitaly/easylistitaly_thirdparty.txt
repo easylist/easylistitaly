@@ -141,6 +141,7 @@
 ||tccstatic.com^*/985x20_
 ||tccstatic.com^*/banner/
 ||tipster.it^$subdocument,third-party
+||tomshw.corley.it^
 ||tophost.it/banners/
 ||topsexitalia.com/adv.php
 ||trilud.com/highlight_300X280.php?

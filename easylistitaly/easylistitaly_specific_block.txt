@@ -664,6 +664,7 @@
 ||tmnews.it^*/banner_
 ||tomshw.it/files/liste/skin*.jpg
 ||tomshw.it/kelkoo.php?
+||tomshw.it/kelkoo2.php?
 ||tomshw.it/shoppy.php?
 ||tomshw.it^*/skin/
 ||too.it/bannerframe.htm
