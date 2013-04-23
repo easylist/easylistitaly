@@ -115,6 +115,7 @@
 ||cittaditorino.net/banners/
 ||cityrumors.it/images/banners/
 ||cityrumors.it/modules/mod_flexbanner/
+||clandestinoweb.com/banner_
 ||clandestinoweb.com^*/banner_
 ||clandestinoweb.com^*/banners/
 ||click.html.it^
