@@ -210,6 +210,12 @@ gazzetta.it##.list-eventi
 gazzetta.it##.poker
 gazzetta.it##.pushbar
 gazzetta.it##.sponsored
+gazzettadasti.it##.footer-rotate-banner
+gazzettadasti.it##.homepage-central-ban
+gazzettadasti.it##.medium-rotate-banner
+gazzettadasti.it##.rotate-banner
+gazzettadasti.it##.top-left-ban
+gazzettadasti.it##.top-right-ban
 gazzettadiparma.it##.elenco-textlink
 gazzettagiallorossa.it##.wp_bannerize
 gazzettahockey.it##.banner
