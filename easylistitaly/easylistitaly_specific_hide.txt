@@ -101,6 +101,9 @@ ciao.it##.tableSponsLinks
 cinemadelsilenzio.it##table[width="956"][height="306"]
 cinemadelsilenzio.it##table[width="956"][height="72"]
 cinematografo.it##img[alt="banner"]
+cinquegiorni.it###spotleft
+cinquegiorni.it###spotright
+cinquegiorni.it##.rightbanner
 clandestinoweb.com##div[style="height:63px; margin-bottom:15px; border:solid 1px #ccc; width:468px; padding: 2px 0;"]
 classifichemusica.com##a[href^="http://www.viagogo.it/Biglietti-Concerti?affiliateID="]
 comingsoon.it###BnrRight1
