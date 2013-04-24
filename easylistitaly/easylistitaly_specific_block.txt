@@ -387,6 +387,7 @@
 ||leggilanotizia.it/userfiles/image/testata/
 ||leggilanotizia.it^*/banner-
 ||leggilanotizia.it^*/banner_
+||leggioggi.it^*/banner/
 ||leggo.it/box_tuttomercato032011/
 ||leggo.it/img/magiclandlight.gif
 ||leggo.it/img/rainbow_magicland.gif

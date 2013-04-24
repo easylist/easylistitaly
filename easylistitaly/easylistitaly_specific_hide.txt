@@ -412,6 +412,7 @@ lattemiele.com###vipre
 lavorincasa.it##.bak
 lavoroefinanza.it##.adv
 leggilanotizia.it###cont-banner-sotto-testata
+leggioggi.it##.spot-mini
 leggioggi.it##div[style="width:310px;overflow:hidden;height:130px;margin-left:-8px;"]
 leggo.it###molwidget300
 leiweb.it###buy-now
