@@ -723,6 +723,7 @@
 ||twww.tv/get_banner.php?
 ||twww.tv^*/background.jpg
 ||ucciotube.altervista.org/skyscraper.html
+||unionemonregalese.it/UP_BANNERS/
 ||uscatanzaro.net/images/banners/
 ||ustation.it/img/*_skin.jpg
 ||ustation.it/img/telecom.swf
