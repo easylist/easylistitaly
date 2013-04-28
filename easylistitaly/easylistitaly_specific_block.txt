@@ -607,6 +607,7 @@
 ||sassarinotizie.com/ws/advlink300.aspx
 ||sassuolo2000.it/bnrs/
 ||savonanews.it/fileadmin/archivio/savonanews/*/1000x40_
+||savonanews.it/fileadmin/archivio/savonanews/*/184x90_
 ||savonanews.it/fileadmin/archivio/savonanews/*/325x60_
 ||savonanews.it/fileadmin/archivio/savonanews/*/990x50_
 ||savonanews.it^*/banner/
