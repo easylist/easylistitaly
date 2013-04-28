@@ -366,6 +366,7 @@
 ||lagazzettadilucca.it^*/inserzioni/
 ||lametino.it/images/banners/
 ||lamiaaria.it/oas/mjx.js
+||lamicodelpopolo.it/images/banners/
 ||lapiazzaweb.it/banner/
 ||laprovinciadilecco.it^*/banner/
 ||laroma24.it/banner/
