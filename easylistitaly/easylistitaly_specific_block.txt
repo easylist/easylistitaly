@@ -321,6 +321,7 @@
 ||ilquotidianodellazio.it/img/banners/
 ||ilsalvagente.it/imgmol/
 ||ilsalvagente.it/immagini/banner120x60-
+||ilsannioquotidiano.it/images/banners/
 ||ilsecoloxix.it^*skin.jpg
 ||ilsoftware.it/images/adv/
 ||ilsole24ore.com^*/spot_include.shtml

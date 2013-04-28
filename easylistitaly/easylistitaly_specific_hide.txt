@@ -329,6 +329,7 @@ ilsalvagente.it###bannerDx
 ilsalvagente.it###bannerInt
 ilsalvagente.it###bannerTopInt
 ilsalvagente.it##.video
+ilsannioquotidiano.it###leaderboard
 ilsecoloxix.it###head_banners
 ilsecoloxix.it###toursoft-cn
 ilsecoloxix.it##.artbanner
