@@ -671,6 +671,7 @@
 ||tennisworlditalia.com/banners/
 ||terranauta.it/banner/
 ||tesionline.it/v2/img/skin/
+||tipresentoilcane.com/banner/
 ||tiscali.it/media/adv/
 ||tmnews.it^*/banner_
 ||tomshw.it/files/liste/skin*.jpg
