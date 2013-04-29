@@ -11,7 +11,7 @@
 @@||adv.ilsole24ore.it/crossdomain.xml$object-subrequest,domain=la7.it|la7.tv|sky.it
 @@||adv.ilsole24ore.it^*/empty.flv$object-subrequest,domain=sky.it
 @@||adv.ilsole24ore.it^*/preroll/$object-subrequest,domain=sky.it
-@@||adv.ilsole24ore.it^*@preroll|$object-subrequest,domain=sky.it
+@@||adv.ilsole24ore.it^*@preroll|$object-subrequest,domain=la7.tv|sky.it
 @@||adv.rtl.it/crossdomain.xml$object-subrequest
 @@||adv.rtl.it/www/delivery/fc.php?*&zones=pre-roll$object-subrequest
 @@||adv.tre.it/www/$image,script
@@ -25,7 +25,7 @@
 @@||ds.serving-sys.com/BurstingRes/*.flv$object-subrequest,domain=sky.it
 @@||edintorni.net/related/service/*/jscript/$script,domain=amicidimotociclismo.it|armietiro.it|automobilismo.it|businessmagazine.it|ciclismo.it|fotografidigitali.it|gamemag.it|hwfiles.it|hwupgrade.it|ilfattoquotidiano.it|ilsecoloxix.it|iltempo.it|informarexresistere.fr|macitynet.it|motociclismo.it|runnersworld.it|tennisitaliano.it|unita.it|velaemotore.it
 @@||eyewonder.com^*/video/$object-subrequest,domain=serviziopubblico.it
-@@||files.adform.net/banners/stream/*.flv$object-subrequest,domain=sky.it
+@@||files.adform.net/banners/stream/$object-subrequest,domain=la7.tv|sky.it
 @@||gelocal.it/adimages/
 @@||iads.iltrovatore.it/clientaccesspolicy.xml$object-subrequest,domain=la7.it
 @@||iads.iltrovatore.it/crossdomain.xml$object-subrequest,domain=la7.it
