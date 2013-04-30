@@ -234,6 +234,7 @@
 ||gayclubbing.it/banner%20
 ||gazzetta.it^*/adv/
 ||gazzetta.it^*/includemanager/pub/
+||gazzettadicaserta.net/banner/
 ||gazzettadiparma.it/gfx/txtlink/
 ||gazzettadisondrio.it/images/banner/
 ||gazzettaobjects.it/static_images/promo/
