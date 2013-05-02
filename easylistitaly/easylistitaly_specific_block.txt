@@ -698,6 +698,7 @@
 ||topnegozi.it^*/banner/
 ||topolino.it^*/banners/
 ||toptrade.it^*/downloadfilebanner.php?
+||torinotoday.it/images/skin/
 ||traderlink.it/images/skin/
 ||trasporti-italia.com^*/banner/
 ||treccani.it/Portale/resources/images/bg$image
