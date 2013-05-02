@@ -604,6 +604,7 @@ quotidiano.net##.google-728
 quotidianosanita.it##.qs_n_interno_basso
 r101.it##.banner
 radiogold.it##.autobanner
+radiolina.it##.adv
 radiolombardia.it##img[width="300"][height="250"]
 radiomontecarlo.net##.adv
 radiosei.it##.rect_banner
