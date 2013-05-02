@@ -180,6 +180,8 @@ filodiritto.com##.altro_box_banner_dx
 filodiritto.com##.altro_box_banner_sx
 filodiritto.com##div[style="border:1px solid #002035;width:120px;height:600px;"]
 finanza.com###top-banner
+finanza.com###top_content
+finanza.com##.banner_dx
 finanzaeborse.it###bannerTop
 finanzaonline.com##.banner_bg
 finanzaonline.com##.bannerlbforum
