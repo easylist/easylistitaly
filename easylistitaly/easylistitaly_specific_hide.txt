@@ -120,6 +120,7 @@ corrierinocampaniasport.it##div[style="width: 960px; height: 120px; visibility: 
 cronacamilano.it###banner728
 cronacaqui.it##table[height="112"][width="998"]
 cubovision.it##.advertising
+cwi.it###banners
 deejay.it###ppn
 delleconomia.it###powered
 delleconomia.it##.adv200
