@@ -750,6 +750,9 @@ tiscali.it##.w304.mB20
 tiscali.it##.w312.mB25
 tiscali.it##div[style="width: 300px; height: 250px; vertical-align: top; text-align: left;"]
 today.it##.leaderboard
+today.it##.skin_left
+today.it##.skin_right
+today.it##.skin_top
 tomshw.it###testata_giu
 tomshw.it##.background-link
 tomshw.it##div[style="width:300px; height:250px;"]

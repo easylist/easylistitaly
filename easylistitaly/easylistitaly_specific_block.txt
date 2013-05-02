@@ -566,6 +566,7 @@
 ||raffaeleauriemma.com^*/rotor/
 ||rampower.it/download/banner/
 ||ravennaedintorni.it/banner/
+||ravennatoday.it/images/skin/
 ||rcrevolution.net^*/banners/
 ||rcs.it/imgmol/
 ||reggio2000.it/bnrs/
