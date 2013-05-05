@@ -67,6 +67,7 @@
 ||scambiobanner.it^$third-party
 ||scambiobanner.org^$third-party
 ||scambiobanner.tv^$third-party
+||scambiositi.com^$third-party
 ||seolabadv.it^$third-party
 ||softwareplanet.net^$third-party
 ||spicciolo.com^$third-party
