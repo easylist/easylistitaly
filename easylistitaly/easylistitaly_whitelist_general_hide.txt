@@ -8,5 +8,6 @@ filmeter.net#@#.adbanner
 subito.it#@#.adcont
 bakeca-incontri.net#@#.adtitle
 deejay.it#@#.advertorial
+italiasw.com#@#.header-google-ads
 corrierecomo.it,corrieredicomo.it#@#.module-ad
-camperonline.it#@#.pubblicita
+camperonline.it,italiasw.com#@#.pubblicita
