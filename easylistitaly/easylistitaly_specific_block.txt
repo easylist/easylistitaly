@@ -88,6 +88,7 @@
 ||caffe.ch/media/STATICHE/ilcaffe/ADV/
 ||calciomercato.com/uploads/banners/
 ||calciomercato.it^*_1040x40_
+||calcioweb.eu/adv/
 ||campaniameteo.it/banner/
 ||camperonline.it/b-top/
 ||camperonline.it/b/

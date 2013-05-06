@@ -78,6 +78,7 @@ buttalapasta.it###bannerTop
 calcioblog.it##.box_highlight
 calciomercato.com###background_left
 calciomercato.com###background_right
+calcioweb.eu##div[style="width:auto; min-width:300px; height:auto; min-height:250px; margin:0 2px 2px 0; float:left;"]
 camperonline.it##.publink
 canali16.altervista.org###up
 cani.com###headerBoard-box
