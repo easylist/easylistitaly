@@ -1,3 +1,4 @@
+@@||151.1.68.170/index.php?zoneid=2045&pos=PreRoll$object-subrequest,domain=la7.it
 @@||ad.smartclip.net/crossdomain.xml$object-subrequest,domain=serviziopubblico.it
 @@||ad.smartclip.net/delivery/tag?$object-subrequest,domain=serviziopubblico.it
 @@||adimg.matrixspa.it/cookie_script/read_crt.html$domain=webmail.virgilio.it
