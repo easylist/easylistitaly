@@ -20,6 +20,7 @@
 ||autostima.net/partner/
 ||babbano.com/adv/
 ||banner.crol.it^
+||banzaimedia.it/hpsponsor/
 ||bazarcoupon.com/images/$third-party
 ||betpro.it^*/banner/
 ||blogspot.com^*/ban1.png$domain=italiafilm2.com
