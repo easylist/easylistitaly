@@ -7,6 +7,7 @@ newscrawler.it#@#.ad_wrapper
 filmeter.net#@#.adbanner
 subito.it#@#.adcont
 bakeca-incontri.net#@#.adtitle
+studenti.it#@#.adv_esterno
 deejay.it#@#.advertorial
 italiasw.com#@#.header-google-ads
 corrierecomo.it,corrieredicomo.it#@#.module-ad
