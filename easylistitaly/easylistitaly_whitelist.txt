@@ -24,7 +24,7 @@
 @@||doubleclick.net/adj/tuttosport.home/home;sz=336x600,300x250,300x600;=$script,domain=tuttosport.com
 @@||download.deejay.it/adv/podcast/$object-subrequest
 @@||ds.serving-sys.com/BurstingRes/*.flv$object-subrequest,domain=sky.it
-@@||edintorni.net/related/service/*/jscript/$script,domain=amicidimotociclismo.it|armietiro.it|automobilismo.it|businessmagazine.it|ciclismo.it|fotografidigitali.it|gamemag.it|girlpower.it|hwfiles.it|hwupgrade.it|ilfattoquotidiano.it|ilgiorno.it|ilrestodelcarlino.it|ilsecoloxix.it|iltempo.it|informarexresistere.fr|invidia.it|lanazione.it|macitynet.it|motociclismo.it|pianetadonna.it|quotidiano.net|runnersworld.it|studenti.it|tennisitaliano.it|unita.it|velaemotore.it
+@@||edintorni.net/related/service/*/jscript/$script,domain=amicidimotociclismo.it|armietiro.it|automobilismo.it|businessmagazine.it|ciclismo.it|fotografidigitali.it|gamemag.it|giallozafferano.it|girlpower.it|hwfiles.it|hwupgrade.it|ilfattoquotidiano.it|ilgiorno.it|ilrestodelcarlino.it|ilsecoloxix.it|iltempo.it|informarexresistere.fr|invidia.it|lanazione.it|macitynet.it|motociclismo.it|pianetadonna.it|quotidiano.net|runnersworld.it|studenti.it|tennisitaliano.it|unita.it|velaemotore.it
 @@||eyewonder.com^*/video/$object-subrequest,domain=serviziopubblico.it
 @@||files.adform.net/banners/stream/$object-subrequest,domain=la7.tv|sky.it
 @@||gelocal.it/adimages/
