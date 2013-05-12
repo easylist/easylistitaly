@@ -372,6 +372,8 @@
 ||lametino.it/images/banners/
 ||lamiaaria.it/oas/mjx.js
 ||lamicodelpopolo.it/images/banners/
+||lanotiziagiornale.it^*/federbox300x200.jpg
+||lanotiziagiornale.it^*/manchettesito.jpg
 ||lapiazzaweb.it/banner/
 ||laprovinciadilecco.it^*/banner/
 ||laroma24.it/banner/
