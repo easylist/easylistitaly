@@ -1,4 +1,5 @@
 bancavalle.it,bancodibrescia.it,bpa.it,bpb.it,bpci.it,brebanca.it,carime.it,quiubi.it,ubibancapi.it#@##ad_box
+techinfos.it#@##adblock
 giornaledisiracusa.it#@##adsense_testa
 bakeca-incontri.net#@#.ad_bottom
 bakeca-incontri.net#@#.ad_center
