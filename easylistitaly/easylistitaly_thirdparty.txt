@@ -98,6 +98,7 @@
 ||nextmediavideo.com/inc/ova.swf$object-subrequest
 ||noicattolici.it/x_banner/
 ||oasjs.kataweb.it^
+||overlays.fr/js/launcher.js
 ||pangora.com^$image,third-party
 ||percorsidigitali.com/consulting300.gif
 ||pop.virgilio.us^
