@@ -209,6 +209,7 @@ gazzetta.it###box-random-gazzastar-travel
 gazzetta.it###box-sponsor
 gazzetta.it###sponsor
 gazzetta.it###tv-adv
+gazzetta.it##.advertising
 gazzetta.it##.bacheca-mkt
 gazzetta.it##.bacheca-mkt-square
 gazzetta.it##.contain-sisal-magicup
@@ -217,6 +218,7 @@ gazzetta.it##.info-quote
 gazzetta.it##.list-eventi
 gazzetta.it##.poker
 gazzetta.it##.pushbar
+gazzetta.it##.sponsor
 gazzetta.it##.sponsored
 gazzettadasti.it##.footer-rotate-banner
 gazzettadasti.it##.homepage-central-ban
