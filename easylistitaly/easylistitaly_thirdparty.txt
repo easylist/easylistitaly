@@ -100,6 +100,7 @@
 ||oasjs.kataweb.it^
 ||overlays.fr/js/launcher.js
 ||pangora.com^$image,third-party
+||passionevideo.it/inc/ova.swf$object-subrequest
 ||percorsidigitali.com/consulting300.gif
 ||pop.virgilio.us^
 ||popspace.virgilio.us^
