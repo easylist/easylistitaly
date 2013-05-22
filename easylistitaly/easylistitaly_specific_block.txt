@@ -113,6 +113,8 @@
 ||cinemadelsilenzio.it/images/home/eff2012_
 ||cinemadelsilenzio.it/images/sponsor/
 ||cittaceleste.it/images/logo-siver.jpg
+||cittaceleste.it/images/logo-siver2.jpg
+||cittaceleste.it/images/taxi.gif
 ||cittadigenova.com/banners/
 ||cittaditorino.net/banners/
 ||cityrumors.it/images/banners/
