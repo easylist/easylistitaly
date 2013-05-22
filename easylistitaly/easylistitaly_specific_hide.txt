@@ -616,6 +616,9 @@ radiomontecarlo.net##.adv
 radiosei.it##.rect_banner
 radiosei.it##.top_banner
 radiosei.it##div[style="float:none;margin-top:10px;text-align:center;width:492px;height:100px;"]
+radiotime.it##div[style="width:360px; margin-top:10px; margin-bottom:5px;"]
+radiotime.it##div[style="width:940px; height: 105px; margin-top:10px; margin-bottom:0px;"]
+radiotime.it##div[style="width:940px; margin-bottom:20px; float:left;"]
 raffaeleauriemma.com##div[style="width: 248px; height: 250px; visibility: visible;"]
 raffaeleauriemma.com##div[style="width: 822px; height: 70px; visibility: visible;"]
 rai.it###Leaderboard
