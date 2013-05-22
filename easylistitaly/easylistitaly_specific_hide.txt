@@ -623,6 +623,7 @@ rai.tv##.placeholder300x250
 ravennanotizie.it##.bannerH
 rcdc.it##.banner
 regaloregali.it###bannerTop
+regginacalcio.com##div[style="width: 702px; height:300px; border: 4px solid #fff; margin-bottom: 0px;"]
 repubblica.it##.negozi
 retesport.it##.rect_banner
 retesport.it##.top_banner
