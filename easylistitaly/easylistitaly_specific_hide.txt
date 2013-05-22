@@ -399,6 +399,9 @@ jacktech.it###assicu_box_ricerca
 jacktech.it##.jk_banner
 jugo.it##.ad
 julienews.it##.long_banner_row
+juvenews.eu###bannerSottoTitolo
+juvenews.eu###itemBannerSottoImg
+juvenews.eu##.bannerNelTesto
 la7.it###adv
 la7.it##.leaderboard
 laborsadeipiccoli.com##.annunci
