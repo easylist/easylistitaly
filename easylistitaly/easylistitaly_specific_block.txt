@@ -754,6 +754,7 @@
 ||twww.tv/get_banner.php?
 ||twww.tv^*/background.jpg
 ||ucciotube.altervista.org/skyscraper.html
+||udinese.it^*/sponsor/
 ||unionemonregalese.it/UP_BANNERS/
 ||uscatanzaro.net/images/banners/
 ||ustation.it/img/*_skin.jpg
