@@ -1,6 +1,7 @@
 ||0781.info^*/banners/
 ||312.it/img/banner/
 ||abruzzoweb.it/images/banner/
+||acmilan.com^*/sponsor/
 ||acquaportal.it/common/banner/
 ||acquaportal.it/common/banner126/
 ||acquaportal.it/common/banner280/

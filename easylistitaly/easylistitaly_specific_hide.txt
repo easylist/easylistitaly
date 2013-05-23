@@ -8,6 +8,7 @@
 786cast.tv###hideall
 a-realestate.it##.adv
 a-realestate.it##.spot_banner
+acmilan.com###sponsors
 acquaportal.it##table[width="284px"][style="border:1px solid #A5C9ED"]
 acquariofilia.biz###collapseobj_sidebar_google
 adessoin.tv##.adv
