@@ -616,6 +616,8 @@ quattroruote.it###bannerrcl
 quattroruote.it##.telecamera-address
 quotidiano.net##.google-728
 quotidianosanita.it##.qs_n_interno_basso
+r101.it###bannerTop
+r101.it###innamorarsiA101
 r101.it##.banner
 radiogold.it##.autobanner
 radiolina.it##.adv

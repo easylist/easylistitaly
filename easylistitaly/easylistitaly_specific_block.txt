@@ -541,7 +541,8 @@
 ||quotidianodipuglia.it/img/magiclandlight.gif
 ||r101.it/banner/
 ||r101.it/img/bg_streaming_controller_audio.png
-||r101.it/img/btn_innamorarsia101.jpg
+||r101.it/img/btn_innamorarsia101.
+||r101.it/img/hp_pulsante_bol.png
 ||radioalba.it/img_sito/banner/
 ||radioalex.it^*/banner-
 ||radioalex.it^*/banner_
