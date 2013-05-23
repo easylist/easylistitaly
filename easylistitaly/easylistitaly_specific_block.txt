@@ -274,6 +274,8 @@
 ||hdblog.it^*/300_it.swf
 ||hdblog.it^*/coolerm.swf
 ||hdblog.it^*/skin_
+||hellasverona.it/img/banner/
+||hellasverona.it/sponsor/
 ||hi-techitaly.com/images/banners/
 ||histonium.net/moduli/banner/
 ||html5today.it/images/banners/
