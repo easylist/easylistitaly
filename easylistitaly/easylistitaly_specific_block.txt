@@ -293,6 +293,7 @@
 ||ilcalcio.net/immagini/120x240-
 ||ilcalcio.net/immagini/casino-italia.swf
 ||ilcalcio.net/immagini/trucchetto-roulette.jpg
+||ilcalciocatania.it/banners/
 ||ilcorrieredabruzzo.it/file/banner/
 ||ilcorrieredabruzzo.it/modules/mod_novarp/tmpl/pjmr.swf?
 ||ilcorrieredabruzzo.it/templates/ilcorrieredabruzzo/images/style2/bg1.jpg

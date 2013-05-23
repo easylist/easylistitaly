@@ -283,6 +283,7 @@ iammepress.it##.gcon_banners
 iammepress.it##.gcon_banners_label
 ideeviaggi.it##.adv
 igossip.it##div[style="width:600px; height:360px;float:left;"]
+ilcalciocatania.it##.bannerArea
 ilcap.it###gadsense
 ilcapoluogo.com###bannerHeader
 ilcapoluogo.com###tier
