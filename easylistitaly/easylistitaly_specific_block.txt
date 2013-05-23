@@ -628,6 +628,7 @@
 ||sassarinotizie.com/public/adv/
 ||sassarinotizie.com/ws/advlink300.aspx
 ||sassuolo2000.it/bnrs/
+||sassuolocalcio.it/imgs/grafiche/sponsor/
 ||savonanews.it/fileadmin/archivio/savonanews/*/1000x40_
 ||savonanews.it/fileadmin/archivio/savonanews/*/184x90_
 ||savonanews.it/fileadmin/archivio/savonanews/*/325x60_
