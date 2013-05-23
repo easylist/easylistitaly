@@ -819,6 +819,7 @@ vanityfair.it##.promo
 varesenews.it###cont_Superbanner
 verytech.it##.adv
 videogame.it##.amazon
+violachannel.tv##.footer_home
 virgilio.it###cht_banner
 virgilio.it###cont-leaderboard
 virgilio.it###cont-manchette
