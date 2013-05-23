@@ -104,6 +104,7 @@
 ||centrometeo.com^*/banner_
 ||centrosuonosport.com/images/banners/
 ||cheauto.it/asset/img/prestitionline.gif
+||chievocalcio.tv^*/full-sponsor.png
 ||ciaocomo.it/box-assicurazioni/
 ||ciaocomo.it/images/banners/
 ||ciclonline.com/images/banners/
