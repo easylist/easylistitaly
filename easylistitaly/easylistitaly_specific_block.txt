@@ -329,6 +329,7 @@
 ||ilmessaggero.it/img/magiclandlight.gif
 ||ilmessaggero.it/img/rainbow_magicland.gif
 ||ilmessaggero.it/imgmol/
+||ilmitte.com^*/banner_
 ||ilmonferrato.it/banners/
 ||ilmonferrato.it/media/generalauto_
 ||ilpost.it^*/home_adv.css
