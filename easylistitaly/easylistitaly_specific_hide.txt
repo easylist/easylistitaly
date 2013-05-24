@@ -271,6 +271,7 @@ hdblog.it###shopping_kelkoo
 hdblog.it###sx
 hdblog.it###top
 hdblog.it###vetrine_kelkoo
+healthdesk.it###leaderboard
 historychannel.it###leaderboard
 hostingtalk.it###BannerBottom
 hostingtalk.it###BannerTop
