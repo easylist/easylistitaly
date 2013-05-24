@@ -91,6 +91,7 @@
 ||lacasadiriposo.it/images/banner/
 ||libreriadelsanto.it/banners/
 ||linearadio.it/bnrs/
+||locandinebest.net/locandina/$subdocument,third-party
 ||macrolibrarsi.org/banner/
 ||mmvid.s3.amazonaws.com^
 ||neonisi.com^*/items.external?$third-party
