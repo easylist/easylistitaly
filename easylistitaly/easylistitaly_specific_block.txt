@@ -650,6 +650,7 @@
 ||sfilate.it/wp-content/themes/sfilate/images/banner-madeinitaly.gif
 ||sfilate.it/wp-content/themes/sfilate/images/cb-logo.jpg
 ||sfilate.it/wp-content/themes/sfilate/images/hotel728x90.jpg
+||si24.it/images/banners/
 ||siciliaway.it^*/immagini_promozionali/
 ||sipario.it/images/banners/
 ||sky.it/static/images/sito/skin_
