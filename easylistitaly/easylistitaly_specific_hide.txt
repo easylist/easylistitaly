@@ -817,6 +817,9 @@ tuttogratis.it###bright
 tuttogratis.it###btop
 tuttolosportdiparma.it###top-banner
 tuttopercasa.it##.adv
+tuttoshoppingmotori.com###topbanner
+tuttoshoppingmotori.com##div[style="background:url(/img/sfondo-video-tsm.png) no-repeat 0px 0px; width:297px; height:200px; padding-top:44px; padding-right:5px; margin-bottom:3px;"]
+tuttoshoppingmotori.com##img[width="610px;"]
 tvtv.it##.advert
 udinese.it###mod-udinese-sponsor-panel-fulllength
 ultimissime.net##div[style="margin:auto; background-image:url('/images/stories/professionecasinO.jpg'); height: 153px; width: 287px"]
