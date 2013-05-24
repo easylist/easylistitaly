@@ -312,6 +312,7 @@
 ||ilgazzettino.it/box_tuttomercato052011/
 ||ilgazzettino.it/imgmol/
 ||ilghirlandaio.com/web/template/banners/
+||ilgiornale.it/sites/all/themes/ilgiornaledefault/img/conto_corrente_070513.jpg
 ||ilgiornale.it/static/file/non-giudicate.swf
 ||ilgiornale.it/static/widget_immobiliare/
 ||ilgiornale.it^*/img/adv/
