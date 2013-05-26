@@ -20,6 +20,7 @@
 ||agi.it^*-google-personalizzato-
 ||agienergia.it^*/banner/
 ||alatest.it/banner/
+||altervista.org/adv/
 ||alverde.net/banner/
 ||amadeusonline.net/banner/
 ||amadeusonline.net/partner/
