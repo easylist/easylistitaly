@@ -189,6 +189,7 @@ film-review.it##div[style="width:308px; margin-left: 4px; height:260px;text-alig
 film-review.it##div[style="width:308px;height:260px;text-align: center;display:block;margin-top:10px;margin-bottom:10px;margin-left:3px;"]
 film.it##.ppn_h
 film.it##.rightBoxAmazon
+filmtv.it###skinlink
 filodiritto.com##.altro_box_banner_dx
 filodiritto.com##.altro_box_banner_sx
 filodiritto.com##div[style="border:1px solid #002035;width:120px;height:600px;"]
