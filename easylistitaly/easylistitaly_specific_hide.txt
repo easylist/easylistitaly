@@ -369,6 +369,7 @@ ilsole24ore.com##.spot_footer
 ilsole24ore.com##a[href^="http://adv.ilsole24ore.it/"]
 ilturista.info##.google-box
 ilturista.info##.more-holder
+immobiliare.it##.det_pub_box_content
 informatisubito.myblog.it##table[height="600"][width="120"]
 ininsubria.it###PopUp_Under
 inter.it###sponsors

@@ -58,6 +58,7 @@
 ##.linksponsorizzati
 ##.modPubblicita
 ##.promo_sp
+##.pub_text
 ##.pubblicita
 ##.pubblicitaGoogle
 ##.pubblicitaSlider
