@@ -20,6 +20,9 @@
 ||agi.it^*-google-personalizzato-
 ||agienergia.it^*/banner/
 ||alatest.it/banner/
+||alfamitoclub.it/images/banner/
+||alfamitoclub.it/images/sponsor/
+||alfamitoclub.it^*_banner_180.swf
 ||altervista.org/adv/
 ||alverde.net/banner/
 ||amadeusonline.net/banner/

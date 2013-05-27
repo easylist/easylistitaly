@@ -26,3 +26,5 @@
 _pubblicita.
 _pubblicita/
 _pubblicita_
+! Anti-Adblock
+/antipubblicita.js
