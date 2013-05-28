@@ -262,6 +262,7 @@
 ||giornaledimerate.it/banneranalyzer/
 ||giornaledisiracusa.it/images/banners/
 ||giornalettismo.com^*/skin/
+||glpress.it/wordpress/sponsor/
 ||gnoccatravels.com^*/banner.gif
 ||gocity.it/library/banner/
 ||goldwebtv.it/userfiles/file/banners/
