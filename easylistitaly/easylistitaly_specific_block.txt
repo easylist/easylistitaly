@@ -388,6 +388,7 @@
 ||juventus.com^*/bannerscene?
 ||juventus.com^*/sponsor_
 ||ladige.it/internal/immobiliare/
+||ladigetto.it/files/banners/
 ||lagazzettadelmezzogiorno.it/banner_pk/
 ||lagazzettadilucca.it^*/inserzioni/
 ||lametino.it/images/banners/
