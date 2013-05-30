@@ -725,6 +725,7 @@
 ||tipresentoilcane.com/banner/
 ||tiscali.it/media/adv/
 ||tmnews.it^*/banner_
+||today.it/images/*_skin_
 ||tomshw.it/files/liste/skin*.jpg
 ||tomshw.it/kelkoo.php?
 ||tomshw.it/kelkoo2.php?
