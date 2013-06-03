@@ -1,6 +1,7 @@
 ||888.it^$popup,third-party
 ||98.130.248.39^$popup,third-party
 ||bet365-scommesse.com/?affiliate=$popup,third-party
+||betclic.it/partner.aspx?$popup
 ||funpage.it^$popup,third-party
 ||incontripersesso.com/landing/$popup
 ||okincontri.com^$popup,third-party
