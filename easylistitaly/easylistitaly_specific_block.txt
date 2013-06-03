@@ -406,6 +406,8 @@
 ||lastampa.it^*/banner/
 ||lastampa.it^*/banner_
 ||lastampa.it^*/naturhouse/
+||latina-oggi.it/public/img/banner-
+||latina-oggi.it/public/img/bannerino-
 ||latitudeslife.com/magazine/adv/
 ||latitudeslife.com^*/banners/
 ||lavocedivenezia.it/player/banner/
