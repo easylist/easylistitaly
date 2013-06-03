@@ -120,6 +120,8 @@
 ||cinemadelsilenzio.it/banner4.js
 ||cinemadelsilenzio.it/images/home/eff2012_
 ||cinemadelsilenzio.it/images/sponsor/
+||ciociariaoggi.info/public/img/banner-
+||ciociariaoggi.info/public/img/bannerino-
 ||cittaceleste.it/images/logo-siver.jpg
 ||cittaceleste.it/images/logo-siver2.jpg
 ||cittaceleste.it/images/taxi.gif
