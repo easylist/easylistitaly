@@ -123,6 +123,7 @@ comingsoon.it###expSkin
 comingsoon.it##.expanding-footer-container
 corriere.it###tv-adv
 corriere.it###yoodeal
+corrieredelgiorno.com###banner1
 corrieredellosport.it##.annunci_art
 corrieredellosport.it##.label_sponsor_sp
 corrieredellosport.it##.promo_art
