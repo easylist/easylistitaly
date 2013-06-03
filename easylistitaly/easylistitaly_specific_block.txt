@@ -539,6 +539,7 @@
 ||popcorntv.it/advloader.php?
 ||positanonews.it/include_gen/banner_
 ||positanonews.it/publicnew/banners/
+||primapaginamolise.it/banner/
 ||primissima.it/images/background_images/
 ||pubblicitaitalia.it^*/background.jpg
 ||pubblicitaitalia.it^*banner_
