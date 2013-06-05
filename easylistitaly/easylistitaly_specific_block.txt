@@ -21,6 +21,7 @@
 ||agi.it/agipub/
 ||agi.it^*-google-personalizzato-
 ||agienergia.it^*/banner/
+||agrigentonotizie.it/images/skin/
 ||alatest.it/banner/
 ||alfamitoclub.it/images/banner/
 ||alfamitoclub.it/images/sponsor/
