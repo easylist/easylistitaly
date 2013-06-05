@@ -165,6 +165,7 @@
 ||widget.promoqui.it^
 ||ws.shoppydoo.com^$third-party
 ||wtpn.twenga.de^
+||yoox.it/view.aspx?$subdocument,third-party
 ||yoppinho.com/public/scambio_banner/
 ||youbuy.it/banner/
 ||youtube.com/embed/mktiiofqskm$object,domain=tvzoom.it
