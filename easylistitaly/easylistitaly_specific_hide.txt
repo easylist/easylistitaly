@@ -1,869 +1,650 @@
-242movietv.com###back_inside
-312.it##table[width="728"][height="90"]
-35mm.it###header_top_banner
-35mm.it##.box_rightcol_banner1
-35mm.it##.box_rightcol_banner2
-3bmeteo.com###adv_5
-4risate.com##.ad
-786cast.tv###hideall
-a-realestate.it##.adv
-a-realestate.it##.spot_banner
-acmilan.com###sponsors
-acquaportal.it##table[width="284px"][style="border:1px solid #A5C9ED"]
-acquariofilia.biz###collapseobj_sidebar_google
-adessoin.tv##.adv
-adnkronos.com##div[style="float:left;width:200px;height:200px;margin:10px"]
-agi.it##.banner
-agichina24.it##.banner
-agichina24.it##.strip
-agichina24.it##.topbanner1
-agimondo.it###overhp
-agoravox.it##.publarge
-agrigentonotizie.it,anconatoday.it,baritoday.it,bolognatoday.it,bresciatoday.it,cataniatoday.it,cesenatoday.it,chietitoday.it,firenzetoday.it,foggiatoday.it,forlitoday.it,genovatoday.it,ilpescara.it,ilpiacenza.it,latinatoday.it,milanotoday.it,modenatoday.it,monzatoday.it,napolitoday.it,novaratoday.it,padovaoggi.it,palermotoday.it,parmatoday.it,perugiatoday.it,pisatoday.it,ravennatoday.it,riminitoday.it,romatoday.it,salernotoday.it,torinotoday.it,trentotoday.it,trevisotoday.it,udinetoday.it,veneziatoday.it,veronasera.it,vicenzatoday.it###box-immobiliare
-agrigentonotizie.it,anconatoday.it,baritoday.it,bolognatoday.it,bresciatoday.it,cataniatoday.it,cesenatoday.it,chietitoday.it,firenzetoday.it,foggiatoday.it,forlitoday.it,genovatoday.it,ilpescara.it,ilpiacenza.it,latinatoday.it,milanotoday.it,modenatoday.it,monzatoday.it,napolitoday.it,novaratoday.it,padovaoggi.it,palermotoday.it,parmatoday.it,perugiatoday.it,pisatoday.it,ravennatoday.it,riminitoday.it,romatoday.it,salernotoday.it,torinotoday.it,trentotoday.it,trevisotoday.it,udinetoday.it,veneziatoday.it,veronasera.it,vicenzatoday.it##.skin_left
-agrigentonotizie.it,anconatoday.it,baritoday.it,bolognatoday.it,bresciatoday.it,cataniatoday.it,cesenatoday.it,chietitoday.it,firenzetoday.it,foggiatoday.it,forlitoday.it,genovatoday.it,ilpescara.it,ilpiacenza.it,latinatoday.it,milanotoday.it,modenatoday.it,monzatoday.it,napolitoday.it,novaratoday.it,padovaoggi.it,palermotoday.it,parmatoday.it,perugiatoday.it,pisatoday.it,ravennatoday.it,riminitoday.it,romatoday.it,salernotoday.it,torinotoday.it,trentotoday.it,trevisotoday.it,udinetoday.it,veneziatoday.it,veronasera.it,vicenzatoday.it##.skin_right
-agrigentonotizie.it,anconatoday.it,baritoday.it,bolognatoday.it,bresciatoday.it,cataniatoday.it,cesenatoday.it,chietitoday.it,firenzetoday.it,foggiatoday.it,forlitoday.it,genovatoday.it,ilpescara.it,ilpiacenza.it,latinatoday.it,milanotoday.it,modenatoday.it,monzatoday.it,napolitoday.it,novaratoday.it,padovaoggi.it,palermotoday.it,parmatoday.it,perugiatoday.it,pisatoday.it,ravennatoday.it,riminitoday.it,romatoday.it,salernotoday.it,torinotoday.it,trentotoday.it,trevisotoday.it,udinetoday.it,veneziatoday.it,veronasera.it,vicenzatoday.it##.skin_top
-airdave.it##.banner
-alfemminile.com##.OffresSpe_cadre
-allaguida.it###bannerTop
-allandroidnews.it##.wp_skyscraper_c2
-altalex.com###bglink
-altoadigetv.it##div[style="width:945px; padding:0px 0px 0px 3px;"]
-alverde.net##td[height="125"]
-amando.it###div-dx_300x250
-america24.com###top-banner
-america24.com##.adbox
-amicidimotociclismo.it###partnerfooter
-amonapoli.it##.advert
-androidiani.com##div[style="border:4px dashed orange;height:90px;width:728px;margin:0 auto"]
-animalidalmondo.it##.adv
-animeclick.it###stile_link
-ansa.it###banner970x30strip
-ansa.it###banner984x45strip
-ansa.it##.adv
-ansa.it##.channel-adv
-ansa.it##.diretta-sponsor
-ansa.it##.text-link
-apollodoro.it###bannerTop
-applemobile.it##.store
-asca.it##.personalized_background
-asroma.it###logos
-asroma24.com##div[style="width:480px; height:72px; padding: 6px; margin-left:auto; margin-right:auto;"]
-asylumitalia.it###banner
-auto7.it##div[style="height:280px; width:336px; margin:2px 2px; float:left;"]
-automoto.it###topboard
-autoseller.it###ctl00_ContentCentraleBanner
-autoxy.it###assicu_widget_300x80
-autoxy.it###subito-sponsor
-avmagazine.it##.background-link
-avvenire.it###htmlcomponent18 > .boxAggiuntivi
-avvenire.it##.bannerTop
-avvisatore.ilsecoloxix.it###footer
-avvisatore.ilsecoloxix.it###zona_266
-axn.it###block-spti_operative-spti_operative_square
-azpoint.net##table[cellspacing="2"][cellpadding="1"][border="0"][align="center"][width="90%"]
-balarm.it##div[style="width:100%;height:1790px; text-align:center; z-index: 0; position:absolute"]
-bastardidentro.it##.gigabanner_clickable
-bastardidentro.it##.minibox
-beauty.it##.adv
-bergamosera.com###leaderboard_wrapper
-bergamosera.com##.wpbrbanner
-bikeracing.it##table[height="180"][width="100%"]
-bitcity.it###banner
-boomerangtv.it###leaderboard
-bora.la##.headerbtm
-bordighera.net###ads
-borsainside.com##.banner_bottom_post
-borsaitaliana.it##.container_banner_top
-bow.it##.header_banner
-bresciaoggi.it##.box-skyscrapers
-bresciaoggi.it##.header-box
-buttalapasta.it###bannerTop
-calcioblog.it##.box_highlight
-calciomercato.com###background_left
-calciomercato.com###background_right
-calcioweb.eu##div[style="width:auto; min-width:300px; height:auto; min-height:250px; margin:0 2px 2px 0; float:left;"]
-camperonline.it##.publink
-canali16.altervista.org###up
-cani.com###headerBoard-box
-canzoni.it###sponsor_footer
-car4you.it###banner
-casapoker.it###bannerTop
-catania46.net##a[href^="http://www.clickpoint.it/db/goto.cp?"]
-cattoliciromani.com###posts > div:nth-child(2) .tborder[id^="post"]:first-child:last-child
-cellulare-magazine.it###skin-top-container
-cellularemagazine.it###skin-top-container
-centrometeo.com##.banneritemcenterdx
-centrometeoitaliano.it###box_publi
-cheauto.it##table[width="208"][height="148"][style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size:11px; background-image: url(imgmol/background_300_form3campi.gif); border: 1px solid #ffffff;"]
-chievocalcio.tv##.footer-sponsor-container
-chip.it##.boxHardware
-ciao.it###mod_ph_merchoffer
-ciao.it###productlevellink
-ciao.it##.CWContainerComparePrice
-ciao.it##.priceComp2
-ciao.it##.specialOfferMod
-ciao.it##.tableSponsLinks
-cinemadelsilenzio.it##table[width="956"][height="306"]
-cinemadelsilenzio.it##table[width="956"][height="72"]
-cinematografo.it##img[alt="banner"]
-cinquegiorni.it###spotleft
-cinquegiorni.it###spotright
-cinquegiorni.it##.rightbanner
-cittaceleste.it###bannerPrimaEdintorni
-cittaceleste.it###bannerSottoTitolo
-cittaceleste.it###itemBannerSottoImg
-cittaceleste.it##.bannerNelTesto
-cittaceleste.it##.zodiak
-clandestinoweb.com##div[style="height:63px; margin-bottom:15px; border:solid 1px #ccc; width:468px; padding: 2px 0;"]
-classifichemusica.com##a[href^="http://www.viagogo.it/Biglietti-Concerti?affiliateID="]
-comingsoon.it###BnrRight1
-comingsoon.it###ExpTop
-comingsoon.it###expSkin
-comingsoon.it##.expanding-footer-container
-corriere.it###tv-adv
-corriere.it###yoodeal
-corrieredelgiorno.com###banner1
-corrieredellosport.it##.annunci_art
-corrieredellosport.it##.label_sponsor_sp
-corrieredellosport.it##.promo_art
-corrieremercantile.it##.banner
-corrierinocampaniasport.it##div[style="width: 960px; height: 120px; visibility: visible;"]
-cronacamilano.it###banner728
-cronacaqui.it##table[height="112"][width="998"]
-cubovision.it##.advertising
-cwi.it###banners
-deejay.it###ppn
-delleconomia.it###powered
-delleconomia.it##.adv200
-derapate.it###bannerTop
-designmag.it###bannerTop
-diariodelweb.it##.publi
-dica33.it##.top-banner
-diesis.it###box_banner
-digital-forum.it###ad_global_below_navbar
-digital-sat.it###sx_basso_topsx
-digital-sat.it##.banner_centrale
-digital-sat.it##.banner_dx
-dimensionesuonoroma.it##.promo-image
-dimensionesuonoroma.it##.promo-list
-diretta.it###bonus-offers
-diretta.it###tab-bonus-offers
-diretta.it###tab-odds
-dissacration.com###leaderboard
-dizionariosinonimi.com##.Sponsor300x250Dx
-dottorsalute.info###leaderboardspace
-dragonballgt.it###skinClick
-dueruote.it###box-bacheca
-dueruote.it###box-bachecapremium
-eccolanotiziaquotidiana.it###topbanner
-ecodellosport.it###bannerTop
-ecodibergamo.it##.banner_footer
-ecoo.it###bannerTop
-edilportale.com##.click-Skin
-elaborare.info##img[style="height: 960px;\a             margin-left: -165px;\a             margin-top: 0px;\a             position: fixed;\a             top: 0;\a             width: 145px;"]
-elaborare.info##img[style="height: 960px;\a             margin-left: 970px;\a             margin-top: 0px;\a             position: fixed;\a             top: 0;\a             width: 145px;"]
-esigarettaforum.com###ad_global_below_navbar
-esseresani.it##.adv
-eurogamer.it###leaderboard
-eurogamer.it###skyscraper
-eurosat-online.it###bottoni
-everyeye.it###banner300_v2
-everyeye.it###richmedia
-everyeye.it##.banner_600_new
-excite.it##.textlink_content
-f1passion.it##div[style="float:left; width:300px; height:250px; background:#f80; margin-bottom:24px;"]
-f1passion.it##div[style="width:300px; height:250px; margin-bottom:24px;"]
-faidatemania.it##.adv
-famigliacristiana.it###molwidget
-fantagazzetta.com##.ads
-fantagazzetta.com##.banner5
-fantagazzetta.com##.h-box
-fantascienza.com###partners
-farevela.net###text-7
-farevela.net##.banner-top
-fastweb.it##.advertising
-fattidicronaca.it###bannerTop
-fattidicronaca.it###btop
-fcparma.com##.sponsor-group
-film-mkv.net##a[href^="http://netload.in/index.php?refer_id="]
-film-review.it##div[style="width:308px; margin-left: 4px; height:260px;text-align: center;display:block;margin-top:10px;margin-bottom:10px;"]
-film-review.it##div[style="width:308px;height:260px;text-align: center;display:block;margin-top:10px;margin-bottom:10px;margin-left:3px;"]
-film.it##.ppn_h
-film.it##.rightBoxAmazon
-filmtv.it###skinlink
-filodiritto.com##.altro_box_banner_dx
-filodiritto.com##.altro_box_banner_sx
-filodiritto.com##div[style="border:1px solid #002035;width:120px;height:600px;"]
-finanza.com###top-banner
-finanza.com###top_content
-finanza.com##.banner_dx
-finanzaeborse.it###bannerTop
-finanzaonline.com##.banner_bg
-finanzaonline.com##.bannerlbforum
-firstonline.info###ctl00_cph_main_banner1_p1
-firstonline.info##.banner300
-fiscaleweb.com###leaderboard
-forzapescara.net###banner
-forzapescara.net###banner2
-foxlife.it##div[style="width: 728px; height: 90px; margin: 0px auto 10px auto; background:none;"]
-foxtv.it##.leaderboard
-freemodding.it###bannerini
-fullhd.it##div[style="width:308px; margin-left: 4px; height:260px;text-align: center;display:block;margin-top:10px;margin-bottom:10px;"]
-fuorissimo.com##td[height="100"][bgcolor="#000000"][width="752"]
-galileonet.it##.banner_oriz
-galileonet.it##.banner_vert
-gamemag.it##.ads
-gameplayer.it###banner_up_right
-games4all.it###bannerTop
-gamesvillage.it###buy_amazon
-gaywave.it###bannerTop
-gazzetta.it###box-random-gazzastar-travel
-gazzetta.it###box-sponsor
-gazzetta.it###sponsor
-gazzetta.it###tv-adv
-gazzetta.it##.advertising
-gazzetta.it##.bacheca-mkt
-gazzetta.it##.bacheca-mkt-square
-gazzetta.it##.contain-sisal-magicup
-gazzetta.it##.gazzasconti
-gazzetta.it##.info-quote
-gazzetta.it##.list-eventi
-gazzetta.it##.poker
-gazzetta.it##.pushbar
-gazzetta.it##.sponsor
-gazzetta.it##.sponsored
-gazzettadasti.it##.footer-rotate-banner
-gazzettadasti.it##.homepage-central-ban
-gazzettadasti.it##.medium-rotate-banner
-gazzettadasti.it##.rotate-banner
-gazzettadasti.it##.top-left-ban
-gazzettadasti.it##.top-right-ban
-gazzettadiparma.it##.elenco-textlink
-gazzettagiallorossa.it##.wp_bannerize
-gazzettahockey.it##.banner
-gds.it##.pubb
-geekissimo.com###leaderboard
-gelocal.it###s3slider
-gelocal.it##.negozi
-gelocal.it##div[style="width:294px; height:74px; border:3px solid #90c539; display:block; background-color:#90c539; cursor:pointer; margin:0 0 10px;"]
-gelocal.it##div[style="width:294px; height:74px; border:3px solid #e2001a; display:block; background-color:#90c539; cursor:pointer; margin:0 0 10px;"]
-genova24.it###takeover_left
-genova24.it###takeover_right
-genova24.it##.banner-middle-board
-genova24.it##.takeover
-giallozafferano.it##div[style="width:300px; height:250px;"]
-gingerandtomato.com###leaderboard
-giochidicalcio.com##.banner
-giornaledellamusica.it###top_banner_container
-giornaledibrescia.it##.dealboxTop
-giornalettismo.com##.adv
-giornalettismo.com##.liq-frame
-gommeblog.it##td[style="width: 305px; height: 251px; text-align: center;"]
-gommeblog.it##td[style="width: 335px; height: 251px; text-align: center;"]
-gossipetv.com##.ebuzzing_box
-gqitalia.it##.promobox
-grandefratellonews.com###banner
-guidasicilia.it##.leaderboard
-guidaviaggi.it##table[width="215"][height="240"]
-guidecucina.it##.adv
-gustissimo.it###banner-alto
-haisentito.it###bannerTop
-hdblog.it###dx
-hdblog.it###shopping_kelkoo
-hdblog.it###sx
-hdblog.it###top
-hdblog.it###vetrine_kelkoo
-healthdesk.it###leaderboard
-historychannel.it###leaderboard
 hostingtalk.it###BannerBottom
 hostingtalk.it###BannerTop
-hostingtalk.it##.Banner
-html.it###banner_piede_articolo
-html.it###sponsor
-html.it###suggested-links
-html.it##.banner
-html.it##.google
-html.it##.premium-links-container-home-ms
-html5today.it###sponsored-article
-hwupgrade.it###box-next-container
-iammepress.it##.gcon_banners
-iammepress.it##.gcon_banners_label
-ideeviaggi.it##.adv
-igossip.it##div[style="width:600px; height:360px;float:left;"]
-ilcalciocatania.it##.bannerArea
-ilcap.it###gadsense
+comingsoon.it###BnrRight1
+tgcom24.mediaset.it###ContentSpecialBox
+comingsoon.it###ExpTop
+sardegna24.net###Hbanner300x250c20
+rai.it###Leaderboard
+ininsubria.it###PopUp_Under
+tio.ch###RectangleInterna
+tripadvisor.it###SPONSORED_TOP_10
+ilsoftware.it###SponsorFull
+tio.ch###Tio_News_Sponsor_basso_Flat
+digital-forum.it,esigarettaforum.com###ad_global_below_navbar
+bordighera.net,italianhack.org,mailexpress.it,spaziogames.it###ads
+ilgazzettinovesuviano.com###adsensing
+la7.it,ustation.it###adv
+3bmeteo.com###adv_5
+quattroruote.it###adv_wideleaderboard
+it.msn.com,sanihelp.it###advertisement
+qds.it###altro
+outcast.it###amazon
+palermomania.com###area_banner_top
+jacktech.it###assicu_box_ricerca
+autoxy.it,motousate.it###assicu_widget_300x80
+libero.it###b468x60bottoms
+242movietv.com###back_inside
+calciomercato.com###background_left
+calciomercato.com###background_right
+lastampa.it###badge
+asylumitalia.it,bitcity.it,car4you.it,forzapescara.net,grandefratellonews.com,ilmanifesto.it,meteo-emiliaromagna.it,tendenzeonline.info,webpedia.altervista.org###banner
+serviziopubblico.it###banner-1
+gustissimo.it###banner-alto
+telesud3.com###banner-header
+sportnews.bz###banner-leaderboard
+musicclub.it###banner-onstage-leaderboard
+ilnuovo.it###banner-right
+oggitreviso.it###banner-top
+corrieredelgiorno.com###banner1
+forzapescara.net###banner2
+everyeye.it###banner300_v2
+telefonino.net###banner300x100Pos2
+telefonino.net###banner300x100Pos3
+telefonino.net###banner300x100Pos4
+telefonino.net###banner300x100Pos5
+telefonino.net###banner300x100TimPos1
+paginegialle.it###banner300x250_1
+sardegna24.net,tiscali.it###banner300x250c20
+telefonino.net###banner300x250pos2
+cronacamilano.it###banner728
+ansa.it###banner970x30strip
+ansa.it###banner984x45strip
+romagnaoggi.it###banner990
+ilsalvagente.it###bannerBottomExtra
+ilsalvagente.it###bannerDx
 ilcapoluogo.com###bannerHeader
-ilcapoluogo.com###tier
-ilcapoluogo.com##.banner1
-ilcapoluogo.com##.banner2
-ilcapoluogo.com##.banner3
-ilcapoluogo.com##.banner4
-ilcapoluogo.com##.block-view-bannerSlide
-ilcinemaniaco.com###leaderboard
+ilsalvagente.it###bannerInt
+cittaceleste.it###bannerPrimaEdintorni
+telefonino.net###bannerProve300x250pos2
+tesionline.it###bannerSfondo
+cittaceleste.it,juvenews.eu###bannerSottoTitolo
+allaguida.it,apollodoro.it,buttalapasta.it,casapoker.it,derapate.it,designmag.it,ecodellosport.it,ecoo.it,fattidicronaca.it,finanzaeborse.it,games4all.it,gaywave.it,haisentito.it,musicroom.it,myluxury.it,nanopress.it,nextmoto.it,nonmidire.it,politica24.it,r101.it,regaloregali.it,stylosophy.it,suipedali.it,tantasalute.it,tecnocino.it,televisionando.it,ticonzero.info,trackback.it,tshot.it,tuttogratis.it,vivacinema.it,vostrisoldi.it###bannerTop
+ilsalvagente.it###bannerTopInt
+spaziogames.it###banner_300
+lastampa.it###banner_VideoBox
+primaonline.it###banner_bottom
+tuttobasket.net###banner_head
+laprovinciadicomo.it###banner_header
+lastampa.it###banner_maxticker
+html.it###banner_piede_articolo
+paginegialle.it###banner_pushbar
+livesicilia.it###banner_skin
 ilcorrieredabruzzo.it###banner_testata
 ilcorrieredabruzzo.it###banner_testata_1004x114
-ilcorrieredabruzzo.it###skinlink
+lastampa.it,newsfood.com,primaonline.it,primissima.it,qds.it###banner_top
+gameplayer.it###banner_up_right
+liberoquotidiano.it###bannerbox1
+freemodding.it###bannerini
+quattroruote.it###bannerrcl
+cwi.it###banners
+telefonino.net###bannerstrip
+senigallianotizie.it###bbitalia_banner
+altalex.com,sentenze.net###bglink
+tuttogratis.it###bleft
+rumors.it###block-block-19
+rumors.it,trendystyle.it###block-block-2
+rumors.it,trendystyle.it###block-block-26
+rumors.it,trendystyle.it###block-block-27
+rumors.it,trendystyle.it###block-block-4
+rumors.it,trendystyle.it###block-block-5
+axn.it###block-spti_operative-spti_operative_square
+ilsole24ore.com###block300x250
+diretta.it###bonus-offers
+eurosat-online.it###bottoni
+dueruote.it,motonline.com###box-bacheca
+dueruote.it,motonline.com###box-bachecapremium
+agrigentonotizie.it,anconatoday.it,baritoday.it,bolognatoday.it,bresciatoday.it,cataniatoday.it,cesenatoday.it,chietitoday.it,firenzetoday.it,foggiatoday.it,forlitoday.it,genovatoday.it,ilpescara.it,ilpiacenza.it,latinatoday.it,milanotoday.it,modenatoday.it,monzatoday.it,napolitoday.it,novaratoday.it,padovaoggi.it,palermotoday.it,parmatoday.it,perugiatoday.it,pisatoday.it,ravennatoday.it,riminitoday.it,romatoday.it,salernotoday.it,torinotoday.it,trentotoday.it,trevisotoday.it,udinetoday.it,veneziatoday.it,veronasera.it,vicenzatoday.it###box-immobiliare
+hwupgrade.it###box-next-container
+gazzetta.it###box-random-gazzastar-travel
+gazzetta.it###box-sponsor
+macitynet.it###boxItunes
+telefonino.net###boxShopping
+diesis.it###box_banner
+libero.it###box_expedia_case
+italiaoggi.it,milanofinanza.it###box_immo
+masterviaggi.it###box_link_sponsor
+ricettedelmondo.it###box_pub2
+centrometeoitaliano.it###box_publi
+italia-news.it,senigallianotizie.it###box_ricerca
+masterviaggi.it###box_sponsor
+pctuner.net###boxbanner
+tuttogratis.it###bright
+fattidicronaca.it,pourfemme.it,qnm.it,tecnocino.it,tecnozoom.it,tuttogratis.it,vivacinema.it###btop
+iodonna.it,leiweb.it###buy-now
+gamesvillage.it###buy_amazon
+treccani.it###campagnaBox
+virgilio.it###cht_banner
+libero.it###chunnel-affari-300x170
+acquariofilia.biz###collapseobj_sidebar_google
+it.msn.com###consiglia
+leggilanotizia.it###cont-banner-sotto-testata
+virgilio.it###cont-leaderboard
+virgilio.it###cont-manchette
+varesenews.it###cont_Superbanner
+autoseller.it###ctl00_ContentCentraleBanner
+firstonline.info###ctl00_cph_main_banner1_p1
+ticinonews.ch###ctl00_rectangleleaderhome1_FormView1_ctl00_Banmanpro3Label
+pianetatech.it###div-banner-300
+amando.it###div-dx_300x250
+internapoli.it###divHeader
+hdblog.it###dx
+telefonino.net###ebayBox
+unita.it###eimp[style="width:298px;float:left;margin-top:20px;height:248px;border:1px solid #cccccc; position:relative; z-index:0"]
+comingsoon.it###expSkin
+tipiace.it###externalbanner
+avvisatore.ilsecoloxix.it,shippingonline.ilsecoloxix.it,ttmweb.it###footer
+ilcap.it###gadsense
+telefonino.net###google300x250
+telefonino.net###googleHomeNews
+telefonino.net###googleNewsTop
+telefonino.net###googleProveTop
+latitudeslife.com###head_banner
+ilsecoloxix.it###head_banners
+modenaonline.info###header-banner-pane
+rinnovabili.it###header-bottom
+tempoitalia.it###headerBanner
+cani.com###headerBoard-box
+lascommessasportiva.it###header_banner
+megalab.it###header_leaderboard
+meteowebcam.it###header_top
+35mm.it###header_top_banner
+786cast.tv###hideall
+avvenire.it###htmlcomponent18 > .boxAggiuntivi
+ladige.it,panorama.it###immob_box_ricerca
+r101.it###innamorarsiA101
+cittaceleste.it,juvenews.eu###itemBannerSottoImg
+boomerangtv.it,dissacration.com,eurogamer.it,fiscaleweb.com,geekissimo.com,gingerandtomato.com,healthdesk.it,historychannel.it,ilcinemaniaco.com,ilgazzettinovesuviano.com,ilsannioquotidiano.it,iochiamo.com,lussuosissimo.com,medicinalive.com,mondoreality.com,musickr.it,theapplelounge.com###leaderboard
+ilgazzettinovesuviano.com###leaderboard-footer
+bergamosera.com###leaderboard_wrapper
+dottorsalute.info###leaderboardspace
+mailbeta.libero.it###leftBoxIFrame
+megalab.it###left_skyscraper
+telesud3.com###linkamici
+asroma.it###logos
+it.msn.com###markette
+max.rcs.it###max_ppn
+itespresso.it###megabanner
+metalitalia.com###middle-home
+udinese.it###mod-udinese-sponsor-panel-fulllength
+ciao.it###mod_ph_merchoffer
+famigliacristiana.it###molwidget
+ilgazzettino.it,ilmattino.it,ilmessaggero.it,leggo.it###molwidget300
+vivicool.it###navpages
+telefonino.net###news336x280GoogleBox
+agimondo.it###overhp
+studiocataldi.it###overlayer
+pcworld.it###pangora-chunnel
+amicidimotociclismo.it###partnerfooter
+fantascienza.com###partners
+pianetatech.it###partnerw
+cattoliciromani.com###posts > div:nth-child(2) .tborder[id^="post"]:first-child:last-child
+delleconomia.it###powered
+livesicilia.it###pp[style="position:absolute; z-index:1000000000; width:400px; height:350px; left:295px; top:126px; border:3px #fff solid;"]
+deejay.it###ppn
+ok-salute.it###ppn_center
+ilgiornale.it###primopiano
+ciao.it###productlevellink
+loudvision.it###prop-leader
+nonsolocap.it###qk
+moto.it###rchm_overlay
+ticinonews.ch###rectangleleaderhome1_FormView1_ctl00_Banmanpro3Label
+everyeye.it###richmedia
+sapere.it###s24box1
+sapere.it###s24box2
+sapere.it###s24square
+gelocal.it###s3slider
+sampdoria.it###samppromorow
+samp.tv###samptvsponsor
+hdblog.it###shopping_kelkoo
+lonelyplanetitalia.it###side_banner
+lonelyplanetitalia.it###side_banner_300_100
+troppoforte.net###sidebar
+metalitalia.com###sidebar-top
+mister-x.it###siti_amici
+tesionline.it###skin
+serviziopubblico.it###skin-leaderboard
+cellulare-magazine.it,cellularemagazine.it###skin-top-container
+dragonballgt.it###skinClick
+omnifurgone.it,omnimoto.it###skin_link
+rockit.it###skinbanner
+filmtv.it,ilcorrieredabruzzo.it###skinlink
+eurogamer.it###skyscraper
+primissima.it###space_banner
+gazzetta.it,html.it,studionews24.com###sponsor
+pubblicitaitalia.it###sponsorTop
+canzoni.it###sponsor_footer
+omnifurgone.it###sponsor_logo_header
+html5today.it###sponsored-article
+acmilan.com,inter.it###sponsors
+ilsole24ore.com###spot
+zeusnews.it###spotEsterno
+cinquegiorni.it###spotleft
+cinquegiorni.it###spotright
+animeclick.it###stile_link
+lastampa.it###storelocator
+autoxy.it###subito-sponsor
+html.it###suggested-links
+hdblog.it###sx
+digital-sat.it###sx_basso_topsx
+diretta.it###tab-bonus-offers
+diretta.it###tab-odds
+ilgiornale.it###tab_annunci
+genova24.it###takeover_left
+genova24.it###takeover_right
+tomshw.it###testata_giu
+studioconsulenzaromano.net###text-561964208
+farevela.net###text-7
+ilmonferrato.it###thin_banners_container
+ilcapoluogo.com###tier
+hdblog.it###top
+america24.com,finanza.com,tuttolosportdiparma.it###top-banner
+playme.it###topPromo
+lonelyplanetitalia.it###top_banner
+giornaledellamusica.it###top_banner_container
+finanza.com###top_content
+oroscopo.it###top_header
+eccolanotiziaquotidiana.it,ipoditalia.it,mrwebmaster.it,tuttoshoppingmotori.com###topbanner
+automoto.it,moto.it###topboard
+ilsecoloxix.it###toursoft-cn
+corriere.it,gazzetta.it###tv-adv
+canali16.altervista.org###up
+tipiace.it###vetrina
+hdblog.it###vetrine_kelkoo
+lastampa.it###videobox_wrapper
+lattemiele.com###vipre
+internazionale.it###wideSkinWrapper
+italiaoggi.it,milanofinanza.it###widget_ticketcrociere
+corriere.it###yoodeal
+shippingonline.ilsecoloxix.it###zona_181
+ttmweb.it###zona_245
+avvisatore.ilsecoloxix.it###zona_266
+tiscali.it##.ADV
+hostingtalk.it##.Banner
+liberoquotidiano.it##.BannerHead
+metropolisweb.it##.BannerMezzoNotizia
+ciao.it##.CWContainerComparePrice
+meteo.it##.ImmobiliareIt
+alfemminile.com##.OffresSpe_cadre
+search.aol.it##.SLL
+dizionariosinonimi.com##.Sponsor300x250Dx
+ricettepercucinare.com##.UAP_3to1_Rectangle
+ricettepercucinare.com##.UAP_Medium_Rectangle
+ricettepercucinare.com##.UAP_Wide_Skyscraper
+4risate.com,ilsole24ore.com,jugo.it,mesagne.me,tripadvisor.it##.ad
+trustpilot.it##.adblock
+america24.com##.adbox
+pinkdna.it##.adds300x250
+zapster.it##.addx
+fantagazzetta.com,gamemag.it,phicatube.net##.ads
+meteowebcam.it##.ads_menu
+meteowebcam.it##.adsense_menu
+a-realestate.it,adessoin.tv,animalidalmondo.it,ansa.it,beauty.it,esseresani.it,faidatemania.it,giornalettismo.com,guidecucina.it,ideeviaggi.it,ilsole24ore.com,iobloggo.com,iogames.it,iomobile.it,lavoroefinanza.it,mammaebambino.it,nonsolocultura.it,odiami.it,outcast.it,pianetagreen.it,pianetamotori.it,radiolina.it,radiomontecarlo.net,romagnaoggi.it,sky.it,sportpower.it,tuttopercasa.it,verytech.it,virgilio.it,vivalascuola.it##.adv
+motori.it##.adv-items
+delleconomia.it##.adv200
+virgilio.it##.advTuning
+amonapoli.it,morningstar.it,tvtv.it##.advert
+cubovision.it,fastweb.it,gazzetta.it##.advertising
+filodiritto.com##.altro_box_banner_dx
+filodiritto.com##.altro_box_banner_sx
+videogame.it##.amazon
+telefonino.net##.amazon_left
+laborsadeipiccoli.com##.annunci
+corrieredellosport.it##.annunci_art
+ilsole24ore.com##.annunci_g
+romagiornoenotte.it##.areabannerTop
+ilsecoloxix.it##.artbanner
+radiogold.it##.autobanner
+tiscali.it##.b300x250
+nonsolocap.it##.ba
+gazzetta.it##.bacheca-mkt
+gazzetta.it##.bacheca-mkt-square
+piacenzanight.com##.back_style
+avmagazine.it,ilcrotonese.it,tomshw.it##.background-link
+lavorincasa.it##.bak
+milanofinanza.it,oggitreviso.it##.ban
+agi.it,agichina24.it,airdave.it,corrieremercantile.it,gazzettahockey.it,giochidicalcio.com,html.it,ilmanifesto.it,lindro.it,lipari.biz,macitynet.it,oggitreviso.it,orangedropdesign.com,orvietosi.it,pmi.it,programmitv.com,r101.it,rcdc.it,rockit.it,softonic.it,strettoweb.com,ticinolibero.ch##.banner
+telesud3.com##.banner-destra
+telesud3.com##.banner-destra-tyf
+genova24.it,ivg.it##.banner-middle-board
+telesud3.com##.banner-sidebar
+farevela.net##.banner-top
+ilcapoluogo.com##.banner1
+ilcapoluogo.com,pianetacellulare.it##.banner2
+iljournal.it##.banner250
+outcast.it##.banner250250
+ilcapoluogo.com##.banner3
+firstonline.info,mediapason.it##.banner300
+outcast.it##.banner300250
+ilcapoluogo.com##.banner4
+fantagazzetta.com##.banner5
+ilsecoloxix.it##.banner650x60
+ilcalciocatania.it##.bannerArea
+ravennanotizie.it##.bannerH
+cittaceleste.it,juvenews.eu##.bannerNelTesto
+avvenire.it##.bannerTop
+ilquotidianodellacalabria.it##.banner_186x290
+ilquotidianodellacalabria.it##.banner_234x90
+everyeye.it##.banner_600_new
+liberoquotidiano.it##.banner_apertura
+finanzaonline.com##.banner_bg
+borsainside.com##.banner_bottom_post
+softonic.it##.banner_box
+voceditalia.it##.banner_casino2
+digital-sat.it##.banner_centrale
+parmasera.it,piacenzasera.it##.banner_doc_bottom_foto
+digital-sat.it,finanza.com,motori24.ilsole24ore.com##.banner_dx
+ecodibergamo.it,laprovinciadicomo.it,laprovinciadivarese.it##.banner_footer
+parmasera.it,piacenzasera.it##.banner_globaltop
+livesicilia.it##.banner_leaderboard
+galileonet.it##.banner_oriz
+ipadevice.com,ispazio.net##.banner_right_sidebar_big
+ipadevice.com,ispazio.net##.banner_right_sidebar_small
+orgoglionerd.it##.banner_rotation
+ipoditalia.it##.banner_topright
+galileonet.it##.banner_vert
+trovaprezzi.it##.bannerdiv
+you-ng.it##.banneritem
+centrometeo.com##.banneritemcenterdx
+finanzaonline.com##.bannerlbforum
+messinaweb.tv##.bannerpostsingle
+nonsolocinema.com##.banners
+musictory.it##.bannertop
+ticinolive.ch##.bannerwrap
+romagiornoenotte.it##.basebannerBox
+wallstreetitalia.com##.bestbuybiz
+losportivo.sm##.bg_blocchi
+ilcapoluogo.com##.block-view-bannerSlide
+ilquotidiano.it,parmasera.it,piacenzasera.it##.box-attico
+notiziaoggi.it,settegiorni.it##.box-banner-menu
+sportnews.bz##.box-fullbanner
+bresciaoggi.it,ilgiornaledivicenza.it,larena.it##.box-skyscrapers
+omniauto.it##.box.gradient[style="height:270px!important; min-height:270px"]
+tiscali.it##.boxBanner
+ilsoftware.it##.boxDXa.txt3
+chip.it##.boxHardware
+milaninterradio.tv##.box_300_250
+calcioblog.it##.box_highlight
+omniauto.it##.box_listinousato
+35mm.it##.box_rightcol_banner1
+35mm.it##.box_rightcol_banner2
+subito.it##.box_sponsor
+tiscali.it##.c1c6.f12
+ansa.it##.channel-adv
+edilportale.com##.click-Skin
+gazzetta.it##.contain-sisal-magicup
+borsaitaliana.it##.container_banner_top
+macitynet.it##.contentTop
+tiscali.it,unita.it##.dannperdere
+giornaledibrescia.it##.dealboxTop
+immobiliare.it##.det_pub_box_content
+nokioteca.net##.dex_box
+ansa.it##.diretta-sponsor
+gossipetv.com##.ebuzzing_box
+gazzettadiparma.it##.elenco-textlink
+comingsoon.it##.expanding-footer-container
+ilsole24ore.com##.fabbrica24
+ilmanifesto.it##.fascia_Arial
+masterviaggi.it##.fieldset_sponsor
+livesicilia.it##.flash-box-a-sponsor-2
+gazzettadasti.it##.footer-rotate-banner
+chievocalcio.tv##.footer-sponsor-container
+violachannel.tv##.footer_home
+spaziogames.it##.g_adv
+gazzetta.it##.gazzasconti
+iammepress.it,italia-news.it##.gcon_banners
+iammepress.it,italia-news.it##.gcon_banners_label
+bastardidentro.it##.gigabanner_clickable
+html.it##.google
+quotidiano.net##.google-728
+ilturista.info##.google-box
+fantagazzetta.com##.h-box
+bresciaoggi.it,ilgiornaledivicenza.it,larena.it##.header-box
+bow.it##.header_banner
+bora.la##.headerbtm
+mmorpgitalia.it##.headerwrapA
+gazzettadasti.it##.homepage-central-ban
+gazzetta.it##.info-quote
+motousate.it##.item.link
+jacktech.it##.jk_banner
+corrieredellosport.it##.label_sponsor_sp
+foxtv.it,guidasicilia.it,la7.it,today.it##.leaderboard
+mymovies.it##.linkblu[style="width:290px; cursor:pointer; margin-top:5px;"]
+giornalettismo.com##.liq-frame
+gazzetta.it##.list-eventi
+myword.it##.login-container[style="height:92px;border:0px solid red;text-align:center;"]
+julienews.it##.long_banner_row
+opinione.it##.manchette
+livesicilia.it##.manchette-l
+livesicilia.it##.manchette-r
+gazzettadasti.it##.medium-rotate-banner
+melamorsicata.it##.mela_ban_1
+melamorsicata.it##.mela_ban_2
+melamorsicata.it##.mela_ban_3
+sportivissimo.com##.menu4
+bastardidentro.it##.minibox
+ilturista.info##.more-holder
+secondamano.it##.moreblock
+notiziaoggi.it,settegiorni.it##.mutui
+gelocal.it,repubblica.it##.negozi
+virgilio.it##.newboxIs
+virgilio.it##.newboxIsOrizz
+asca.it##.personalized_background
+rai.tv##.placeholder300x250
+gazzetta.it##.poker
+film.it##.ppn_h
+html.it##.premium-links-container-home-ms
+ciao.it##.priceComp2
+neveitalia.it,stiledimoda.it,vanityfair.it##.promo
+dimensionesuonoroma.it##.promo-image
+dimensionesuonoroma.it##.promo-list
+corrieredellosport.it##.promo_art
+gqitalia.it##.promobox
+italiapokerclub.com##.promotion
+gds.it,lastampa.it##.pubb
+theinquirer.it##.pubind1
+agoravox.it##.publarge
+diariodelweb.it,lapoliticaitaliana.it##.publi
+camperonline.it##.publink
+termometropolitico.it##.publy
+gazzetta.it##.pushbar
+quotidianosanita.it##.qs_n_interno_basso
+radiosei.it,retesport.it##.rect_banner
+ticinolibero.ch##.redbar
+film.it##.rightBoxAmazon
+cinquegiorni.it##.rightbanner
+gazzettadasti.it##.rotate-banner
+nonsolocap.it##.ru
+tio.ch##.sfondoPubListaNews
+softonic.it##.show_banner_down_leaderboard
+style.it##.side-gallery
+youreporter.it##.sidebar_menu_virgilio
+newnotizie.it##.single_sidebar300x250
+omnicorse.it##.skin
+agrigentonotizie.it,anconatoday.it,baritoday.it,bolognatoday.it,bresciatoday.it,cataniatoday.it,cesenatoday.it,chietitoday.it,firenzetoday.it,foggiatoday.it,forlitoday.it,genovatoday.it,ilpescara.it,ilpiacenza.it,latinatoday.it,milanotoday.it,modenatoday.it,monzatoday.it,napolitoday.it,novaratoday.it,padovaoggi.it,palermotoday.it,parmatoday.it,perugiatoday.it,pisatoday.it,ravennatoday.it,riminitoday.it,romatoday.it,salernotoday.it,today.it,torinotoday.it,trentotoday.it,trevisotoday.it,udinetoday.it,veneziatoday.it,veronasera.it,vicenzatoday.it##.skin_left
+agrigentonotizie.it,anconatoday.it,baritoday.it,bolognatoday.it,bresciatoday.it,cataniatoday.it,cesenatoday.it,chietitoday.it,firenzetoday.it,foggiatoday.it,forlitoday.it,genovatoday.it,ilpescara.it,ilpiacenza.it,latinatoday.it,milanotoday.it,modenatoday.it,monzatoday.it,napolitoday.it,novaratoday.it,padovaoggi.it,palermotoday.it,parmatoday.it,perugiatoday.it,pisatoday.it,ravennatoday.it,riminitoday.it,romatoday.it,salernotoday.it,today.it,torinotoday.it,trentotoday.it,trevisotoday.it,udinetoday.it,veneziatoday.it,veronasera.it,vicenzatoday.it##.skin_right
+agrigentonotizie.it,anconatoday.it,baritoday.it,bolognatoday.it,bresciatoday.it,cataniatoday.it,cesenatoday.it,chietitoday.it,firenzetoday.it,foggiatoday.it,forlitoday.it,genovatoday.it,ilpescara.it,ilpiacenza.it,latinatoday.it,milanotoday.it,modenatoday.it,monzatoday.it,napolitoday.it,novaratoday.it,padovaoggi.it,palermotoday.it,parmatoday.it,perugiatoday.it,pisatoday.it,ravennatoday.it,riminitoday.it,romatoday.it,salernotoday.it,today.it,torinotoday.it,trentotoday.it,trevisotoday.it,udinetoday.it,veneziatoday.it,veronasera.it,vicenzatoday.it##.skin_top
+soldionline.it##.sm_widget_contenitore
+ciao.it##.specialOfferMod
+gazzetta.it,pubblicitaitalia.it,stickmangames.altervista.org##.sponsor
+ilmanifesto.it##.sponsor-box
+fcparma.com##.sponsor-group
+treccani.it##.sponsorLogo
+gazzetta.it##.sponsored
+inter.it##.sponsorsSlider
+leggioggi.it##.spot-mini
+mostraip.com##.spot1
+a-realestate.it##.spot_banner
+ilsole24ore.com##.spot_footer
+applemobile.it##.store
+agichina24.it,trend-online.com##.strip
+style.it##.style_promo
+ciao.it##.tableSponsLinks
+genova24.it,ivg.it##.takeover
+tiscali.it##.teaserDx
+quattroruote.it##.telecamera-address
+ansa.it##.text-link
+ilfattoquotidiano.it##.textlink
+excite.it##.textlink_content
+dica33.it##.top-banner
+gazzettadasti.it##.top-left-ban
+gazzettadasti.it##.top-right-ban
+lastampa.it##.top-right-banner
+radiosei.it,retesport.it##.top_banner
+mrstiff.it##.topad
+mesagne.me,neveitalia.it##.topbanner
+agichina24.it##.topbanner1
+vistointv.net##.topbanner2
+turistipercaso.it##.trovaviaggi
+tiscali.it##.ts-headbanner
+tiscali.it##.tsr.mB20
+tiscali.it##.tsrAdv
+mrwebmaster.it##.txt
+ilsoftware.it##.txtboxleft[style="width:280px; height:200px;"]
+turistipercaso.it##.utilink
+ilsalvagente.it##.video
+tiscali.it##.w304.mB20
+tiscali.it##.w312.mB25
+ilfattoquotidiano.it##.widget_ifqbooks
+gazzettagiallorossa.it,orvietosi.it##.wp_bannerize
+allandroidnews.it##.wp_skyscraper_c2
+bergamosera.com##.wpbrbanner
+petizionionline.it##.yahoo
+cittaceleste.it##.zodiak
+tgcom24.mediaset.it##a[href*=".ad.dotandad.com/clicktracker.jsp?"]
+ipadevice.com,ispazio.net##a[href^="http://adserver.ispazio.net/"]
+ilsole24ore.com##a[href^="http://adv.ilsole24ore.it/"]
+multiplayer.it##a[href^="http://adv.multiplayer.it/"]
+lifegate.it##a[href^="http://goo.gl/"]
+milanodabere.it##a[href^="http://ib.adnxs.com/clktrb?id="]
+film-mkv.net##a[href^="http://netload.in/index.php?refer_id="]
+catania46.net##a[href^="http://www.clickpoint.it/db/goto.cp?"]
+musicoff.com##a[href^="http://www.musicoff.com/ad/redirect/"]
+zapster.it##a[href^="http://www.paperbox.it/"]
+piratestreaming.com##a[href^="http://www.piratestreaming.com/video"]
+classifichemusica.com##a[href^="http://www.viagogo.it/Biglietti-Concerti?affiliateID="]
+traderlink.it##a[style="display: block; width: 100%; height: 1080px; filter:alpha(opacity=0); -moz-opacity: 0; opacity: 0; background-color: rgb(255, 255, 255);"]
+ilroma.net##div[style=" width: 214px; height: 82px;"]
+ilroma.net##div[style=" width: 300px; height: 250px;"]
+ilroma.net##div[style=" width: 990px; height: 30px;"]
+tuttoshoppingmotori.com##div[style="background:url(/img/sfondo-video-tsm.png) no-repeat 0px 0px; width:297px; height:200px; padding-top:44px; padding-right:5px; margin-bottom:3px;"]
+petizioni24.com##div[style="border: solid #95bce2 1px;  padding: 1em 0; margin: 0; margin-right: 6px; width: 200px; height: 600px; background-color: #fff; text-align: center; margin-bottom: 1em;"]
+filodiritto.com##div[style="border:1px solid #002035;width:120px;height:600px;"]
+androidiani.com##div[style="border:4px dashed orange;height:90px;width:728px;margin:0 auto"]
+sanihelp.it##div[style="clear: both; width: 670px; padding:4px; height: 88px; margin-bottom: 15px; margin-top: 10px; line-height: 14px; border: 1px solid #DDEBF4;"]
+lastampa.it##div[style="float: left; width: 990px; text-align: center; margin-top: 10px; height: 110px;"]
+rietilife.it##div[style="float: right; height: 80px; width: 350px;"]
+f1passion.it##div[style="float:left; width:300px; height:250px; background:#f80; margin-bottom:24px;"]
+treccani.it##div[style="float:left;margin:35px 0 15px;width:100%;height:166px;text-align:center;"]
+napolisport.net##div[style="float:left;margin:7px auto; width:1000px; margin-bottom:4px; text-align:left; height:92px;"]
+adnkronos.com##div[style="float:left;width:200px;height:200px;margin:10px"]
+radiosei.it##div[style="float:none;margin-top:10px;text-align:center;width:492px;height:100px;"]
+retesport.it##div[style="float:none;margin-top:10px;text-align:center;width:493px;height:100px;"]
+pronostici-scommesse.info##div[style="height:250px;width:300px;"]
+auto7.it##div[style="height:280px; width:336px; margin:2px 2px; float:left;"]
+itawow.it##div[style="height:60px; width:468px; float:left; margin-left:40px;"]
+clandestinoweb.com##div[style="height:63px; margin-bottom:15px; border:solid 1px #ccc; width:468px; padding: 2px 0;"]
+techassistance.it##div[style="height:90px; width:980px;display:block; text-align:center"]
+iphoneitalia.com##div[style="height:90px;display:block;width:1045px;"]
+iphoneitalia.com##div[style="height:90px;display:block;width:1045px;margin-top:40px;"]
+pronostici-scommesse.info##div[style="height:90px;width:728px;position:relative;left:136px;"]
+ultimissime.net##div[style="margin:auto; background-image:url('/images/stories/professionecasinO.jpg'); height: 153px; width: 287px"]
+liguriawebcam.com##div[style="overflow:hidden;height:90px;margin:4px 0;"]
+puntosicuro.it##div[style="padding: 5px; font-family: Verdana, Arial; font-size: 10px;"]
+tempi.it##div[style="position: relative; height: 250px; width: 300px;"]
+telefonino.net##div[style="position: relative;width: 310px;height: 110px;margin: 0px -5px 5px -5px;"]
 ilcorrieredabruzzo.it##div[style="position:relative; overflow:hidden; margin:0 auto; width:150px; height:500px"]
 ilcorrieredabruzzo.it##div[style="position:relative; overflow:hidden; margin:0 auto; width:300px; height:100px"]
 ilcorrieredabruzzo.it##div[style="position:relative; overflow:hidden; margin:0 auto; width:300px; height:150px"]
 ilcorrieredabruzzo.it##div[style="position:relative; overflow:hidden; margin:0 auto; width:300px; height:250px"]
 ilcorrieredabruzzo.it##div[style="position:relative; overflow:hidden; margin:0 auto; width:300px; height:300px"]
 ilcorrieredabruzzo.it##div[style="position:relative; overflow:hidden; margin:0 auto; width:435px; height:100px"]
-ilcrotonese.it##.background-link
-ilfattoquotidiano.it##.textlink
-ilfattoquotidiano.it##.widget_ifqbooks
+it.msn.com,sanihelp.it##div[style="text-align: center; line-height: 1.33em; color: #666666; font-weight: bold; margin-bottom: 8px; height: 262px;"]
+pctuner.net##div[style="text-align:center; clear:both; width:316px; height:265px;"]
+mymovies.it##div[style="text-align:center; top:0px; margin-left:auto; margin-right:auto; height:120px; left:0px; float:left; width:100%; overflow:visible;"]
+mymovies.it##div[style="text-align:center; top:0px; margin-left:auto; margin-right:auto; height:190px; left:0px; float:left; width:100%; overflow:visible;"]
+laroma24.it##div[style="text-align:center; width:300px; height:250px; float:left;"]
+libero.it##div[style="width: 180px; height: 150px;"]
+raffaeleauriemma.com##div[style="width: 248px; height: 250px; visibility: visible;"]
+paginebianche.it##div[style="width: 300px; height: 100px;"]
+tiscali.it##div[style="width: 300px; height: 250px; vertical-align: top; text-align: left;"]
+libero.it,paginebianche.it##div[style="width: 300px; height: 250px;"]
 ilfattoquotidiano.it##div[style="width: 600px; min-height: 42px; border: 0px none; margin: 0px 10px 10px; padding: 0px; background-color: rgb(239, 239, 239);"]
+regginacalcio.com##div[style="width: 702px; height:300px; border: 4px solid #fff; margin-bottom: 0px;"]
+foxlife.it##div[style="width: 728px; height: 90px; margin: 0px auto 10px auto; background:none;"]
+raffaeleauriemma.com##div[style="width: 822px; height: 70px; visibility: visible;"]
+corrierinocampaniasport.it##div[style="width: 960px; height: 120px; visibility: visible;"]
+paginebianche.it##div[style="width: 978px; height: 45px;"]
+lastampa.it##div[style="width: 990px; height: 90px;"]
+balarm.it##div[style="width:100%;height:1790px; text-align:center; z-index: 0; position:absolute"]
+orgoglionerd.it##div[style="width:227px;height:315px"]
 ilfattoquotidiano.it##div[style="width:235px; height:75px; margin-top: 10px; overflow:hidden; float:left"]
 ilfattoquotidiano.it##div[style="width:235px; height:75px; margin-top: 10px; overflow:hidden; float:left;line-height: 12px;"]
 ilfattoquotidiano.it##div[style="width:235px; height:75px; overflow:hidden; float:left"]
 ilfattoquotidiano.it##div[style="width:235px; height:75px; overflow:hidden; float:left;line-height: 12px;"]
 ilfattoquotidiano.it##div[style="width:235px; height:85px; margin-top: 10px; overflow:hidden; float:left"]
 ilfattoquotidiano.it##div[style="width:235px; height:85px; margin-top: 10px; overflow:hidden; float:left;line-height: 12px;"]
+gelocal.it##div[style="width:294px; height:74px; border:3px solid #90c539; display:block; background-color:#90c539; cursor:pointer; margin:0 0 10px;"]
+gelocal.it##div[style="width:294px; height:74px; border:3px solid #e2001a; display:block; background-color:#90c539; cursor:pointer; margin:0 0 10px;"]
+f1passion.it##div[style="width:300px; height:250px; margin-bottom:24px;"]
+giallozafferano.it,tomshw.it##div[style="width:300px; height:250px;"]
 ilfattoquotidiano.it##div[style="width:300px; height:75px; margin-top: 10px; overflow:hidden; float:left"]
 ilfattoquotidiano.it##div[style="width:300px; height:75px; margin-top: 10px; overflow:hidden; float:left;line-height:15px;"]
 ilfattoquotidiano.it##div[style="width:300px; height:75px; overflow:hidden; float:left; margin-top: 10px;"]
 ilfattoquotidiano.it##div[style="width:300px; height:75px; overflow:hidden; float:left; margin-top: 10px;line-height:15px;"]
-ilgazzettino.it###molwidget300
-ilgazzettinovesuviano.com###adsensing
-ilgazzettinovesuviano.com###leaderboard
-ilgazzettinovesuviano.com###leaderboard-footer
-ilgiornale.it###primopiano
-ilgiornale.it###tab_annunci
-ilgiornaledivicenza.it##.box-skyscrapers
-ilgiornaledivicenza.it##.header-box
-iljournal.it##.banner250
-ilmanifesto.it###banner
-ilmanifesto.it##.banner
-ilmanifesto.it##.fascia_Arial
-ilmanifesto.it##.sponsor-box
-ilmattino.it###molwidget300
-ilmessaggero.it###molwidget300
-ilmilanista.it##div[style="width:480px; height:72px; padding: 6px; margin-left:auto; margin-right:auto;"]
-ilmonferrato.it###thin_banners_container
-ilnuovo.it###banner-right
-ilquotidiano.it##.box-attico
-ilquotidianodellacalabria.it##.banner_186x290
-ilquotidianodellacalabria.it##.banner_234x90
-ilroma.net##div[style=" width: 214px; height: 82px;"]
-ilroma.net##div[style=" width: 300px; height: 250px;"]
-ilroma.net##div[style=" width: 990px; height: 30px;"]
-ilsalvagente.it###bannerBottomExtra
-ilsalvagente.it###bannerDx
-ilsalvagente.it###bannerInt
-ilsalvagente.it###bannerTopInt
-ilsalvagente.it##.video
-ilsannioquotidiano.it###leaderboard
-ilsecoloxix.it###head_banners
-ilsecoloxix.it###toursoft-cn
-ilsecoloxix.it##.artbanner
-ilsecoloxix.it##.banner650x60
-ilsoftware.it###SponsorFull
-ilsoftware.it##.boxDXa.txt3
-ilsoftware.it##.txtboxleft[style="width:280px; height:200px;"]
-ilsole24ore.com###block300x250
-ilsole24ore.com###spot
-ilsole24ore.com##.ad
-ilsole24ore.com##.adv
-ilsole24ore.com##.annunci_g
-ilsole24ore.com##.fabbrica24
-ilsole24ore.com##.spot_footer
-ilsole24ore.com##a[href^="http://adv.ilsole24ore.it/"]
-ilturista.info##.google-box
-ilturista.info##.more-holder
-immobiliare.it##.det_pub_box_content
-informatisubito.myblog.it##table[height="600"][width="120"]
-ininsubria.it###PopUp_Under
-inter.it###sponsors
-inter.it##.sponsorsSlider
-interistaweb.it##div[style="width:480px; height:72px; padding: 6px; margin-left:auto; margin-right:auto;"]
-internapoli.it###divHeader
-internazionale.it###wideSkinWrapper
-iobloggo.com##.adv
-iochiamo.com###leaderboard
-iodonna.it###buy-now
-iogames.it##.adv
-iomobile.it##.adv
-ipadevice.com##.banner_right_sidebar_big
-ipadevice.com##.banner_right_sidebar_small
-ipadevice.com##a[href^="http://adserver.ispazio.net/"]
-iphoneitalia.com##div[style="height:90px;display:block;width:1045px;"]
-iphoneitalia.com##div[style="height:90px;display:block;width:1045px;margin-top:40px;"]
-ipoditalia.it###topbanner
-ipoditalia.it##.banner_topright
-ispazio.net##.banner_right_sidebar_big
-ispazio.net##.banner_right_sidebar_small
-ispazio.net##a[href^="http://adserver.ispazio.net/"]
-it.msn.com###advertisement
-it.msn.com###consiglia
-it.msn.com###markette
-it.msn.com##div[style="text-align: center; line-height: 1.33em; color: #666666; font-weight: bold; margin-bottom: 8px; height: 262px;"]
-italia-news.it###box_ricerca
-italia-news.it##.gcon_banners
-italia-news.it##.gcon_banners_label
-italianhack.org###ads
-italiaoggi.it###box_immo
-italiaoggi.it###widget_ticketcrociere
-italiapokerclub.com##.promotion
-itawow.it##div[style="height:60px; width:468px; float:left; margin-left:40px;"]
-itespresso.it###megabanner
-ivg.it##.banner-middle-board
-ivg.it##.takeover
-jacktech.it###assicu_box_ricerca
-jacktech.it##.jk_banner
-jugo.it##.ad
-julienews.it##.long_banner_row
-juvenews.eu###bannerSottoTitolo
-juvenews.eu###itemBannerSottoImg
-juvenews.eu##.bannerNelTesto
-la7.it###adv
-la7.it##.leaderboard
-laborsadeipiccoli.com##.annunci
-ladige.it###immob_box_ricerca
-lapoliticaitaliana.it##.publi
-laprovinciadicomo.it###banner_header
-laprovinciadicomo.it##.banner_footer
-laprovinciadivarese.it##.banner_footer
-larena.it##.box-skyscrapers
-larena.it##.header-box
-laroma24.it##div[style="text-align:center; width:300px; height:250px; float:left;"]
-lascommessasportiva.it###header_banner
-lastampa.it###badge
-lastampa.it###banner_VideoBox
-lastampa.it###banner_maxticker
-lastampa.it###banner_top
-lastampa.it###storelocator
-lastampa.it###videobox_wrapper
-lastampa.it##.pubb
-lastampa.it##.top-right-banner
-lastampa.it##div[style="float: left; width: 990px; text-align: center; margin-top: 10px; height: 110px;"]
-lastampa.it##div[style="width: 990px; height: 90px;"]
-latitudeslife.com###head_banner
-lattemiele.com###vipre
-lavorincasa.it##.bak
-lavoroefinanza.it##.adv
-leggilanotizia.it###cont-banner-sotto-testata
-leggioggi.it##.spot-mini
-leggioggi.it##div[style="width:310px;overflow:hidden;height:130px;margin-left:-8px;"]
-leggo.it###molwidget300
-leiweb.it###buy-now
-libero.it###b468x60bottoms
-libero.it###box_expedia_case
-libero.it###chunnel-affari-300x170
-libero.it##div[style="width: 180px; height: 150px;"]
-libero.it##div[style="width: 300px; height: 250px;"]
-liberoquotidiano.it###bannerbox1
-liberoquotidiano.it##.BannerHead
-liberoquotidiano.it##.banner_apertura
-lifegate.it##a[href^="http://goo.gl/"]
-liguriawebcam.com##div[style="overflow:hidden;height:90px;margin:4px 0;"]
-lindro.it##.banner
-lipari.biz##.banner
-livesicilia.it###banner_skin
-livesicilia.it###pp[style="position:absolute; z-index:1000000000; width:400px; height:350px; left:295px; top:126px; border:3px #fff solid;"]
-livesicilia.it##.banner_leaderboard
-livesicilia.it##.flash-box-a-sponsor-2
-livesicilia.it##.manchette-l
-livesicilia.it##.manchette-r
-livesicilia.it##div[style="width:940px; margin:0 auto 25px"]
-livesicilia.it##div[style="width:940px; margin:0 auto 25px;"]
-lonelyplanetitalia.it###side_banner
-lonelyplanetitalia.it###side_banner_300_100
-lonelyplanetitalia.it###top_banner
-losportivo.sm##.bg_blocchi
-loudvision.it###prop-leader
-lussuosissimo.com###leaderboard
-macitynet.it###boxItunes
-macitynet.it##.banner
-macitynet.it##.contentTop
-mailbeta.libero.it###leftBoxIFrame
-mailexpress.it###ads
-mammaebambino.it##.adv
-masterviaggi.it###box_link_sponsor
-masterviaggi.it###box_sponsor
-masterviaggi.it##.fieldset_sponsor
-max.rcs.it###max_ppn
-mediapason.it##.banner300
-medicinalive.com###leaderboard
-megalab.it###header_leaderboard
-megalab.it###left_skyscraper
-melamorsicata.it##.mela_ban_1
-melamorsicata.it##.mela_ban_2
-melamorsicata.it##.mela_ban_3
-melamorsicata.it##img[width="160"][height="300"]
-mesagne.me##.ad
-mesagne.me##.topbanner
-messinaweb.tv##.bannerpostsingle
-metalitalia.com###middle-home
-metalitalia.com###sidebar-top
-meteo-emiliaromagna.it###banner
-meteo.it##.ImmobiliareIt
-meteogiornale.it##iframe[width="655"][height="104"]
-meteoweb.eu##div[style="width:auto; min-width:300px; height:auto; min-height:250px; margin:0 0 3px 3px; float:right;"]
-meteowebcam.it###header_top
-meteowebcam.it##.ads_menu
-meteowebcam.it##.adsense_menu
-metronews.it##div[style="width:990px; margin-left:10px; float:left; margin-bottom:10px; background-color:#FFD302"]
-metropolisweb.it##.BannerMezzoNotizia
-milaninterradio.tv##.box_300_250
-milanodabere.it##a[href^="http://ib.adnxs.com/clktrb?id="]
-milanofinanza.it###box_immo
-milanofinanza.it###widget_ticketcrociere
-milanofinanza.it##.ban
-mister-x.it###siti_amici
-mmorpgitalia.it##.headerwrapA
-modenaonline.info###header-banner-pane
-mondoreality.com###leaderboard
-morningstar.it##.advert
-mostraip.com##.spot1
-moto.it###rchm_overlay
-moto.it###topboard
-motonline.com###box-bacheca
-motonline.com###box-bachecapremium
-motori.it##.adv-items
-motori24.ilsole24ore.com##.banner_dx
-motousate.it###assicu_widget_300x80
-motousate.it##.item.link
-mrstiff.it##.topad
-mrwebmaster.it###topbanner
-mrwebmaster.it##.txt
-multiplayer.it##a[href^="http://adv.multiplayer.it/"]
-musicclub.it###banner-onstage-leaderboard
-musickr.it###leaderboard
-musicoff.com##a[href^="http://www.musicoff.com/ad/redirect/"]
-musicroom.it###bannerTop
-musictory.it##.bannertop
-myluxury.it###bannerTop
-mymovies.it##.linkblu[style="width:290px; cursor:pointer; margin-top:5px;"]
-mymovies.it##div[style="text-align:center; top:0px; margin-left:auto; margin-right:auto; height:120px; left:0px; float:left; width:100%; overflow:visible;"]
-mymovies.it##div[style="text-align:center; top:0px; margin-left:auto; margin-right:auto; height:190px; left:0px; float:left; width:100%; overflow:visible;"]
-mymovies.it##div[style="width:728px; height:90px;"]
-mymovies.it##td[style="height:45px; background-color:#FFFFFF; ;"]
-myword.it##.login-container[style="height:92px;border:0px solid red;text-align:center;"]
-nanopress.it###bannerTop
-napolisport.net##div[style="float:left;margin:7px auto; width:1000px; margin-bottom:4px; text-align:left; height:92px;"]
-neveitalia.it##.promo
-neveitalia.it##.topbanner
-newnotizie.it##.single_sidebar300x250
-newsfood.com###banner_top
-nextmoto.it###bannerTop
-nokioteca.net##.dex_box
-nonmidire.it###bannerTop
-nonsolocap.it###qk
-nonsolocap.it##.ba
-nonsolocap.it##.ru
-nonsolocinema.com##.banners
-nonsolocultura.it##.adv
-notiziaoggi.it##.box-banner-menu
-notiziaoggi.it##.mutui
-odiami.it##.adv
-oggitreviso.it###banner-top
-oggitreviso.it##.ban
-oggitreviso.it##.banner
-ok-salute.it###ppn_center
-omniauto.it##.box.gradient[style="height:270px!important; min-height:270px"]
-omniauto.it##.box_listinousato
-omnicorse.it##.skin
-omnifurgone.it###skin_link
-omnifurgone.it###sponsor_logo_header
-omnimoto.it###skin_link
-onstageweb.com##div[style="width:728px; margin:auto;height:90px; border:1px solid #ccc; margin-bottom:10px; margin-top:-10px;"]
-opinione.it##.manchette
-orangedropdesign.com##.banner
-orgoglionerd.it##.banner_rotation
-orgoglionerd.it##div[style="width:227px;height:315px"]
-oroscopo.it###top_header
-orvietosi.it##.banner
-orvietosi.it##.wp_bannerize
-outcast.it###amazon
-outcast.it##.adv
-outcast.it##.banner250250
-outcast.it##.banner300250
 outune.net##div[style="width:300px;height:180px; background:#fff;"]
-paginebianche.it##div[style="width: 300px; height: 100px;"]
-paginebianche.it##div[style="width: 300px; height: 250px;"]
-paginebianche.it##div[style="width: 978px; height: 45px;"]
-paginegialle.it###banner300x250_1
-paginegialle.it###banner_pushbar
-palermomania.com###area_banner_top
-panorama.it###immob_box_ricerca
-parmasera.it##.banner_doc_bottom_foto
-parmasera.it##.banner_globaltop
-parmasera.it##.box-attico
-pctuner.net###boxbanner
-pctuner.net##div[style="text-align:center; clear:both; width:316px; height:265px;"]
-pcworld.it###pangora-chunnel
-petizioni24.com##div[style="border: solid #95bce2 1px;  padding: 1em 0; margin: 0; margin-right: 6px; width: 200px; height: 600px; background-color: #fff; text-align: center; margin-bottom: 1em;"]
-petizionionline.it##.yahoo
-phicatube.net##.ads
-piacenzanight.com##.back_style
-piacenzasera.it##.banner_doc_bottom_foto
-piacenzasera.it##.banner_globaltop
-piacenzasera.it##.box-attico
-pianetacellulare.it##.banner2
-pianetagreen.it##.adv
-pianetamotori.it##.adv
-pianetatech.it###div-banner-300
-pianetatech.it###partnerw
-pinkdna.it##.adds300x250
-piratestreaming.com##a[href^="http://www.piratestreaming.com/video"]
-playme.it###topPromo
-pmi.it##.banner
-politica24.it###bannerTop
-pourfemme.it###btop
-primaonline.it###banner_bottom
-primaonline.it###banner_top
-primissima.it###banner_top
-primissima.it###space_banner
-programmitv.com##.banner
-pronostici-scommesse.info##div[style="height:250px;width:300px;"]
-pronostici-scommesse.info##div[style="height:90px;width:728px;position:relative;left:136px;"]
-pubblicitaitalia.it###sponsorTop
-pubblicitaitalia.it##.sponsor
-puntosicuro.it##div[style="padding: 5px; font-family: Verdana, Arial; font-size: 10px;"]
-puntosicuro.it##table[style="width: 468px; height: 60px; border: 1px solid #77BBFF; margin-left: auto; margin-right: auto;"]
-qds.it###altro
-qds.it###banner_top
-qnm.it###btop
-quattroruote.it###adv_wideleaderboard
-quattroruote.it###bannerrcl
-quattroruote.it##.telecamera-address
-quotidiano.net##.google-728
-quotidianosanita.it##.qs_n_interno_basso
-r101.it###bannerTop
-r101.it###innamorarsiA101
-r101.it##.banner
-radiogold.it##.autobanner
-radiolina.it##.adv
-radiolombardia.it##img[width="300"][height="250"]
-radiomontecarlo.net##.adv
-radiosei.it##.rect_banner
-radiosei.it##.top_banner
-radiosei.it##div[style="float:none;margin-top:10px;text-align:center;width:492px;height:100px;"]
+ticinolibero.ch##div[style="width:300px;height:250px;margin-bottom:10px"]
+strettoweb.com##div[style="width:307px; height:250px; text-align:left; margin:0 0 5px 5px; float:right;"]
+film-review.it,fullhd.it##div[style="width:308px; margin-left: 4px; height:260px;text-align: center;display:block;margin-top:10px;margin-bottom:10px;"]
+film-review.it##div[style="width:308px;height:260px;text-align: center;display:block;margin-top:10px;margin-bottom:10px;margin-left:3px;"]
+leggioggi.it##div[style="width:310px;overflow:hidden;height:130px;margin-left:-8px;"]
+wmia.it##div[style="width:350px; height:300px; float:left"]
 radiotime.it##div[style="width:360px; margin-top:10px; margin-bottom:5px;"]
+asroma24.com,ilmilanista.it,interistaweb.it##div[style="width:480px; height:72px; padding: 6px; margin-left:auto; margin-right:auto;"]
+igossip.it##div[style="width:600px; height:360px;float:left;"]
+strettoweb.com##div[style="width:728px; height:90px; margin:9px auto; display:block; float:right !important;"]
+mymovies.it##div[style="width:728px; height:90px;"]
+onstageweb.com##div[style="width:728px; margin:auto;height:90px; border:1px solid #ccc; margin-bottom:10px; margin-top:-10px;"]
+webpedia.altervista.org##div[style="width:728px;height:90px;margin:6px auto;background:#eee"]
 radiotime.it##div[style="width:940px; height: 105px; margin-top:10px; margin-bottom:0px;"]
 radiotime.it##div[style="width:940px; margin-bottom:20px; float:left;"]
-raffaeleauriemma.com##div[style="width: 248px; height: 250px; visibility: visible;"]
-raffaeleauriemma.com##div[style="width: 822px; height: 70px; visibility: visible;"]
-rai.it###Leaderboard
-rai.tv##.placeholder300x250
-ravennanotizie.it##.bannerH
-rcdc.it##.banner
-regaloregali.it###bannerTop
-regginacalcio.com##div[style="width: 702px; height:300px; border: 4px solid #fff; margin-bottom: 0px;"]
-repubblica.it##.negozi
-retesport.it##.rect_banner
-retesport.it##.top_banner
-retesport.it##div[style="float:none;margin-top:10px;text-align:center;width:493px;height:100px;"]
-ricettedelmondo.it###box_pub2
-ricettepercucinare.com##.UAP_3to1_Rectangle
-ricettepercucinare.com##.UAP_Medium_Rectangle
-ricettepercucinare.com##.UAP_Wide_Skyscraper
-rietilife.it##div[style="float: right; height: 80px; width: 350px;"]
-rietilife.it##img[style="width: 205px; height: 82px;"]
-rinnovabili.it###header-bottom
-rockit.it###skinbanner
-rockit.it##.banner
-romagiornoenotte.it##.areabannerTop
-romagiornoenotte.it##.basebannerBox
-romagnaoggi.it###banner990
-romagnaoggi.it##.adv
-rumors.it###block-block-19
-rumors.it###block-block-2
-rumors.it###block-block-26
-rumors.it###block-block-27
-rumors.it###block-block-4
-rumors.it###block-block-5
-samp.tv###samptvsponsor
-sampdoria.it###samppromorow
-sanihelp.it###advertisement
-sanihelp.it##div[style="clear: both; width: 670px; padding:4px; height: 88px; margin-bottom: 15px; margin-top: 10px; line-height: 14px; border: 1px solid #DDEBF4;"]
-sanihelp.it##div[style="text-align: center; line-height: 1.33em; color: #666666; font-weight: bold; margin-bottom: 8px; height: 262px;"]
-sapere.it###s24box1
-sapere.it###s24box2
-sapere.it###s24square
-sardegna24.net###Hbanner300x250c20
-sardegna24.net###banner300x250c20
-search.aol.it##.SLL
-secondamano.it##.moreblock
-senigallianotizie.it###bbitalia_banner
-senigallianotizie.it###box_ricerca
-sentenze.net###bglink
-serviziopubblico.it###banner-1
-serviziopubblico.it###skin-leaderboard
-settegiorni.it##.box-banner-menu
-settegiorni.it##.mutui
-shippingonline.ilsecoloxix.it###footer
-shippingonline.ilsecoloxix.it###zona_181
-sky.it##.adv
-softonic.it##.banner
-softonic.it##.banner_box
-softonic.it##.show_banner_down_leaderboard
-soldionline.it##.sm_widget_contenitore
-spaziogames.it###ads
-spaziogames.it###banner_300
-spaziogames.it##.g_adv
+livesicilia.it##div[style="width:940px; margin:0 auto 25px"]
+livesicilia.it##div[style="width:940px; margin:0 auto 25px;"]
+altoadigetv.it,trentinotv.it##div[style="width:945px; padding:0px 0px 0px 3px;"]
 spaziogames.it##div[style="width:956px;height:250px;float:left;padding-bottom:10px;margin:0"]
-spaziogames.it##img[src="/img/common/blank.gif"][style="width: 99%; height: 99%;"]
-sportivissimo.com##.menu4
-sportnews.bz###banner-leaderboard
-sportnews.bz##.box-fullbanner
-sportpower.it##.adv
-stadionews.it##table[style="margin-top:3px; width:680px; height:60px;"]
-stadionews.it##table[width="1000px"][height="90px"]
-stickmangames.altervista.org##.sponsor
-stiledimoda.it##.promo
-strettoweb.com##.banner
-strettoweb.com##div[style="width:307px; height:250px; text-align:left; margin:0 0 5px 5px; float:right;"]
-strettoweb.com##div[style="width:728px; height:90px; margin:9px auto; display:block; float:right !important;"]
-studiocataldi.it###overlayer
-studioconsulenzaromano.net###text-561964208
-studionews24.com###sponsor
-style.it##.side-gallery
-style.it##.style_promo
-stylosophy.it###bannerTop
-subito.it##.box_sponsor
-suipedali.it###bannerTop
-tantasalute.it###bannerTop
-techassistance.it##div[style="height:90px; width:980px;display:block; text-align:center"]
-tecnocino.it###bannerTop
-tecnocino.it###btop
-tecnozoom.it###btop
-telefonino.net###banner300x100Pos2
-telefonino.net###banner300x100Pos3
-telefonino.net###banner300x100Pos4
-telefonino.net###banner300x100Pos5
-telefonino.net###banner300x100TimPos1
-telefonino.net###banner300x250pos2
-telefonino.net###bannerProve300x250pos2
-telefonino.net###bannerstrip
-telefonino.net###boxShopping
-telefonino.net###ebayBox
-telefonino.net###google300x250
-telefonino.net###googleHomeNews
-telefonino.net###googleNewsTop
-telefonino.net###googleProveTop
-telefonino.net###news336x280GoogleBox
-telefonino.net##.amazon_left
-telefonino.net##div[style="position: relative;width: 310px;height: 110px;margin: 0px -5px 5px -5px;"]
-telesud3.com###banner-header
-telesud3.com###linkamici
-telesud3.com##.banner-destra
-telesud3.com##.banner-destra-tyf
-telesud3.com##.banner-sidebar
-televisionando.it###bannerTop
-tempi.it##div[style="position: relative; height: 250px; width: 300px;"]
-tempoitalia.it###headerBanner
-tendenzeonline.info###banner
-termometropolitico.it##.publy
-tesionline.it###bannerSfondo
-tesionline.it###skin
-tgcom24.mediaset.it###ContentSpecialBox
-tgcom24.mediaset.it##a[href*=".ad.dotandad.com/clicktracker.jsp?"]
-tgmonline.it##td[align="right"][width="305"][valign="top"]
-theapplelounge.com###leaderboard
-theinquirer.it##.pubind1
-ticinolibero.ch##.banner
-ticinolibero.ch##.redbar
-ticinolibero.ch##div[style="width:300px;height:250px;margin-bottom:10px"]
-ticinolive.ch##.bannerwrap
-ticinonews.ch###ctl00_rectangleleaderhome1_FormView1_ctl00_Banmanpro3Label
-ticinonews.ch###rectangleleaderhome1_FormView1_ctl00_Banmanpro3Label
-ticonzero.info###bannerTop
-tio.ch###RectangleInterna
-tio.ch###Tio_News_Sponsor_basso_Flat
-tio.ch##.sfondoPubListaNews
-tio.ch##table[width="302"][style="border:1px solid #A7A9AC;border-top:none;"]
-tipiace.it###externalbanner
-tipiace.it###vetrina
-tiscali.it###banner300x250c20
-tiscali.it##.ADV
-tiscali.it##.b300x250
-tiscali.it##.boxBanner
-tiscali.it##.c1c6.f12
-tiscali.it##.dannperdere
-tiscali.it##.teaserDx
-tiscali.it##.ts-headbanner
-tiscali.it##.tsr.mB20
-tiscali.it##.tsrAdv
-tiscali.it##.w304.mB20
-tiscali.it##.w312.mB25
-tiscali.it##div[style="width: 300px; height: 250px; vertical-align: top; text-align: left;"]
-today.it##.leaderboard
-today.it##.skin_left
-today.it##.skin_right
-today.it##.skin_top
-tomshw.it###testata_giu
-tomshw.it##.background-link
-tomshw.it##div[style="width:300px; height:250px;"]
-trackback.it###bannerTop
-traderlink.it##a[style="display: block; width: 100%; height: 1080px; filter:alpha(opacity=0); -moz-opacity: 0; opacity: 0; background-color: rgb(255, 255, 255);"]
-treccani.it###campagnaBox
-treccani.it##.sponsorLogo
-treccani.it##div[style="float:left;margin:35px 0 15px;width:100%;height:166px;text-align:center;"]
-trend-online.com##.strip
-trendystyle.it###block-block-2
-trendystyle.it###block-block-26
-trendystyle.it###block-block-27
-trendystyle.it###block-block-4
-trendystyle.it###block-block-5
-trentinotv.it##div[style="width:945px; padding:0px 0px 0px 3px;"]
-tripadvisor.it###SPONSORED_TOP_10
-tripadvisor.it##.ad
-troppoforte.net###sidebar
-trovaprezzi.it##.bannerdiv
-trustpilot.it##.adblock
-tshot.it###bannerTop
-ttmweb.it###footer
-ttmweb.it###zona_245
-turistipercaso.it##.trovaviaggi
-turistipercaso.it##.utilink
-tuttobasket.net###banner_head
-tuttogratis.it###bannerTop
-tuttogratis.it###bleft
-tuttogratis.it###bright
-tuttogratis.it###btop
-tuttolosportdiparma.it###top-banner
-tuttopercasa.it##.adv
-tuttoshoppingmotori.com###topbanner
-tuttoshoppingmotori.com##div[style="background:url(/img/sfondo-video-tsm.png) no-repeat 0px 0px; width:297px; height:200px; padding-top:44px; padding-right:5px; margin-bottom:3px;"]
-tuttoshoppingmotori.com##img[width="610px;"]
-tvtv.it##.advert
-udinese.it###mod-udinese-sponsor-panel-fulllength
-ultimissime.net##div[style="margin:auto; background-image:url('/images/stories/professionecasinO.jpg'); height: 153px; width: 287px"]
-unita.it###eimp[style="width:298px;float:left;margin-top:20px;height:248px;border:1px solid #cccccc; position:relative; z-index:0"]
-unita.it##.dannperdere
-ustation.it###adv
-vanityfair.it##.promo
-varesenews.it###cont_Superbanner
-verytech.it##.adv
-videogame.it##.amazon
-violachannel.tv##.footer_home
-virgilio.it###cht_banner
-virgilio.it###cont-leaderboard
-virgilio.it###cont-manchette
-virgilio.it##.adv
-virgilio.it##.advTuning
-virgilio.it##.newboxIs
-virgilio.it##.newboxIsOrizz
-vistointv.net##.topbanner2
-vivacinema.it###bannerTop
-vivacinema.it###btop
-vivalascuola.it##.adv
-vivicool.it###navpages
-voceditalia.it##.banner_casino2
-vostrisoldi.it###bannerTop
-wallstreetitalia.com##.bestbuybiz
-webpedia.altervista.org###banner
-webpedia.altervista.org##div[style="width:728px;height:90px;margin:6px auto;background:#eee"]
 winmagazine.it##div[style="width:980px; height:90px; margin: 0 auto;text-align:center;margin-bottom:5px"]
 wintricks.it##div[style="width:980px;height:90px;margin: 0 auto"]
 wintricks.it##div[style="width:980px;height:90px;margin: 0 auto;background:none"]
-wmia.it##div[style="width:350px; height:300px; float:left"]
-you-ng.it##.banneritem
-youreporter.it##.sidebar_menu_virgilio
-zapster.it##.addx
-zapster.it##a[href^="http://www.paperbox.it/"]
-zeusnews.it###spotEsterno
+metronews.it##div[style="width:990px; margin-left:10px; float:left; margin-bottom:10px; background-color:#FFD302"]
+meteoweb.eu##div[style="width:auto; min-width:300px; height:auto; min-height:250px; margin:0 0 3px 3px; float:right;"]
+calcioweb.eu##div[style="width:auto; min-width:300px; height:auto; min-height:250px; margin:0 2px 2px 0; float:left;"]
+meteogiornale.it##iframe[width="655"][height="104"]
+cinematografo.it##img[alt="banner"]
+spaziogames.it##img[src="/img/common/blank.gif"][style="width: 99%; height: 99%;"]
+elaborare.info##img[style="height: 960px;\a             margin-left: -165px;\a             margin-top: 0px;\a             position: fixed;\a             top: 0;\a             width: 145px;"]
+elaborare.info##img[style="height: 960px;\a             margin-left: 970px;\a             margin-top: 0px;\a             position: fixed;\a             top: 0;\a             width: 145px;"]
+rietilife.it##img[style="width: 205px; height: 82px;"]
+melamorsicata.it##img[width="160"][height="300"]
+radiolombardia.it##img[width="300"][height="250"]
+tuttoshoppingmotori.com##img[width="610px;"]
+azpoint.net##table[cellspacing="2"][cellpadding="1"][border="0"][align="center"][width="90%"]
+cronacaqui.it##table[height="112"][width="998"]
+bikeracing.it##table[height="180"][width="100%"]
+informatisubito.myblog.it##table[height="600"][width="120"]
+stadionews.it##table[style="margin-top:3px; width:680px; height:60px;"]
+puntosicuro.it##table[style="width: 468px; height: 60px; border: 1px solid #77BBFF; margin-left: auto; margin-right: auto;"]
+stadionews.it##table[width="1000px"][height="90px"]
+cheauto.it##table[width="208"][height="148"][style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size:11px; background-image: url(imgmol/background_300_form3campi.gif); border: 1px solid #ffffff;"]
+guidaviaggi.it##table[width="215"][height="240"]
+acquaportal.it##table[width="284px"][style="border:1px solid #A5C9ED"]
+tio.ch##table[width="302"][style="border:1px solid #A7A9AC;border-top:none;"]
+312.it##table[width="728"][height="90"]
+cinemadelsilenzio.it##table[width="956"][height="306"]
+cinemadelsilenzio.it##table[width="956"][height="72"]
+tgmonline.it##td[align="right"][width="305"][valign="top"]
+fuorissimo.com##td[height="100"][bgcolor="#000000"][width="752"]
+alverde.net##td[height="125"]
+mymovies.it##td[style="height:45px; background-color:#FFFFFF; ;"]
+gommeblog.it##td[style="width: 305px; height: 251px; text-align: center;"]
+gommeblog.it##td[style="width: 335px; height: 251px; text-align: center;"]
 ! Anti-Adblock
 tomshw.it###notifica_adcont
