@@ -363,6 +363,7 @@
 ||ilsole24ore.com^*_pubb.jpg
 ||iltaccoditalia.info/banner/
 ||ilvelino.it^*/banner/
+||ilwebmaster21.it/script1.js
 ||indie-roccia.it/itunesbox.php?
 ||indie-rock.it/itunesbox.php?
 ||infooggi.it/banner/
