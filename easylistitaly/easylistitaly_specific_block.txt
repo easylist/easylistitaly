@@ -484,6 +484,7 @@
 ||milanofinanza.it/common/home/mf/img/197x55xtb_it_short.gif
 ||milanofinanza.it/common/home/mf/img/cmc290x40.gif
 ||milanofinanza.it/common/home/mf/img/cru_ban.gif
+||milanofinanza.it/common/home/mf/img/Formazione197x55.jpg
 ||milanofinanza.it/common/home/mf/img/marketscom.gif
 ||milanofinanza.it/common/home/mf/img/pro_ban_2012.gif
 ||milanofinanza.it/common/home/mf/img/xtbxtradebrokers.gif
