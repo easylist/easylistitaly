@@ -155,6 +155,7 @@
 ||trilud.com/highlight_300X280.php?
 ||trivago.it/external_rpc.php?
 ||tuoporno.com/images/banner/
+||tuttogratis.it/hl_mfa/DXLARGE_v7num.php?
 ||unibr.altervista.org/pub.html
 ||upcom.it^*/banner/
 ||uplink.aruba.it^$third-party
