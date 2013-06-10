@@ -68,6 +68,7 @@
 ||autosottocosto.com/files/banner/
 ||autoxy.it/banners/
 ||avmagazine.it/css/2010/skin/
+||avmagazine.it/immagini/2013_05_02_educal_2013_500.jpg
 ||avmagazine.it/immagini/adv_
 ||avvenire.it/Lists/Banners/
 ||aziendeonline.biz/db/banner_
