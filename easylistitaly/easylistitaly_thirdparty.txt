@@ -38,6 +38,7 @@
 ||clubshop.com/banners/
 ||concorsi-pubblici.org/adv/
 ||connect24.it/fot468.gif
+||contactlab.it^*/Banner/
 ||d1n2y2eq1wbato.cloudfront.net^*/sponsor-$domain=atalanta.it
 ||datingfactory.com/promotools/
 ||delosstore.it/banner/
