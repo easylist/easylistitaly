@@ -38,6 +38,7 @@
 ###skin_adv
 ###skinadvdx
 ###skinadvsx
+##.adagiowritebanner_dmtag
 ##.adv-articolo
 ##.adv-iframe-sx
 ##.advPostLibri

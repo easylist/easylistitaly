@@ -186,6 +186,7 @@
 ||dimmidipiu.com/images/banners/
 ||diretta.it/res/image/bookmaker-list.png
 ||dizionariosinonimi.com/adv.php?
+||donnamoderna.com^*/bg-immobiliare.png
 ||dragonballgt.it^*/skin_
 ||dueruote.it/asset/img/partner/
 ||eaglesfree.com^*/netload.gif
