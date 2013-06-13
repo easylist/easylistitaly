@@ -7,6 +7,7 @@
 @@||ads.spinblog.it/www/delivery/ajs.php?zoneid=$script,domain=ipaditalia.com|iphoneitalia.com
 @@||adser.localport.it/ads/logo-localport-it/logo.gif
 @@||adser.localport.it/banman.asp?zoneid=71$subdocument
+@@||adserver.adtech.de/addyn/3.0/1183/3769607/0/170/ADTECH;$script,domain=gioco.it
 @@||adv.alice.it/crossdomain.xml$object-subrequest,domain=webtv.cubovision.it
 @@||adv.alice.it/html.ng/site=cubow$object-subrequest,domain=webtv.cubovision.it
 @@||adv.ilsole24ore.it/crossdomain.xml$object-subrequest,domain=la7.it|la7.tv|sky.it
