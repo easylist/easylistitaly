@@ -386,6 +386,7 @@
 ||iphoneitalia.com.s3.amazonaws.com/skin-
 ||iphoneitalia.com^*/skin/
 ||ispazio.net^*/ispazio-skin-
+||ispazio.net^*/Site-Skin-
 ||italia-film.com/adobe.gif
 ||italia-film.com/banner.gif
 ||italia-film.com/uploads/youtube.gif
