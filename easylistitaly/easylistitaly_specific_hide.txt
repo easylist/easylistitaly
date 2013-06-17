@@ -357,7 +357,7 @@ ilcapoluogo.com##.block-view-bannerSlide
 ilquotidiano.it,parmasera.it,piacenzasera.it##.box-attico
 notiziaoggi.it,settegiorni.it##.box-banner-menu
 sportnews.bz##.box-fullbanner
-bresciaoggi.it,ilgiornaledivicenza.it,larena.it##.box-skyscrapers
+bresciaoggi.it,ilgiornaledivicenza.it##.box-skyscrapers
 omniauto.it##.box.gradient[style="height:270px!important; min-height:270px"]
 tiscali.it##.boxBanner
 ilsoftware.it##.boxDXa.txt3
@@ -398,7 +398,7 @@ html.it##.google
 quotidiano.net##.google-728
 ilturista.info##.google-box
 fantagazzetta.com##.h-box
-bresciaoggi.it,ilgiornaledivicenza.it,larena.it##.header-box
+bresciaoggi.it,ilgiornaledivicenza.it##.header-box
 bow.it##.header_banner
 bora.la##.headerbtm
 mmorpgitalia.it##.headerwrapA
@@ -501,6 +501,7 @@ tiscali.it##.tsrAdv
 mrwebmaster.it##.txt
 ilsoftware.it##.txtboxleft[style="width:280px; height:200px;"]
 turistipercaso.it##.utilink
+larena.it##.v2_banner-wrapper
 ilsalvagente.it##.video
 tiscali.it##.w304.mB20
 tiscali.it##.w312.mB25
