@@ -293,6 +293,7 @@
 ||gustissimo.it/stili/locali/300x120_
 ||hdblog.it^*/300_it.swf
 ||hdblog.it^*/coolerm.swf
+||hdblog.it^*/skin/
 ||hdblog.it^*/skin_
 ||hellasverona.it/img/banner/
 ||hellasverona.it/sponsor/
