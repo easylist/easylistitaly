@@ -275,6 +275,9 @@
 ||giornaledisiracusa.it/images/banners/
 ||giornalettismo.com^*/skin/
 ||glpress.it/wordpress/sponsor/
+||gnoccatravels.com/column4/banner.swf
+||gnoccatravels.com/themes/gt/design/img/rebtel.jpg
+||gnoccatravels.com/uploads/bakeka.gif
 ||gnoccatravels.com^*/banner.gif
 ||gocity.it/library/banner/
 ||goldwebtv.it/userfiles/file/banners/
