@@ -258,7 +258,7 @@ corriere.it###yoodeal
 shippingonline.ilsecoloxix.it###zona_181
 ttmweb.it###zona_245
 avvisatore.ilsecoloxix.it###zona_266
-tiscali.it##.ADV
+gnoccaforum.com,tiscali.it##.ADV
 hostingtalk.it##.Banner
 liberoquotidiano.it##.BannerHead
 metropolisweb.it##.BannerMezzoNotizia
