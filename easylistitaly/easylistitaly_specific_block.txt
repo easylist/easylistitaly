@@ -261,6 +261,7 @@
 ||gazzetta.it^*/includemanager/pub/
 ||gazzettadicaserta.net/banner/
 ||gazzettadiparma.it/gfx/txtlink/
+||gazzettadiparma.it/swf/autozatti_14062013.swf
 ||gazzettadisondrio.it/images/banner/
 ||gazzettaobjects.it/static_images/promo/
 ||gazzettaobjects.it^*/adv/
