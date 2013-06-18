@@ -15,6 +15,7 @@
 ||agenziapuntonet.it/banner/
 ||aimon.it/banner_
 ||allosponsor.it/images/$third-party
+||amazonaws.com/cronachemaceratesi/banner/
 ||andreafranzoso.com/banner/
 ||angelobonorino.com/neve/*268x90.gif
 ||artera.it/banners.php?
