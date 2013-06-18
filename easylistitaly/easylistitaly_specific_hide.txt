@@ -186,6 +186,7 @@ ilgiornale.it###primopiano
 ciao.it###productlevellink
 loudvision.it###prop-leader
 nonsolocap.it###qk
+cronachemaceratesi.it###quattrownet_468x60
 moto.it###rchm_overlay
 ticinonews.ch###rectangleleaderhome1_FormView1_ctl00_Banmanpro3Label
 everyeye.it###richmedia
@@ -206,6 +207,7 @@ serviziopubblico.it###skin-leaderboard
 cellulare-magazine.it,cellularemagazine.it###skin-top-container
 dragonballgt.it###skinClick
 omnifurgone.it,omnimoto.it###skin_link
+cronachemaceratesi.it###skinabove
 rockit.it###skinbanner
 filmtv.it,ilcorrieredabruzzo.it###skinlink
 eurogamer.it###skyscraper
