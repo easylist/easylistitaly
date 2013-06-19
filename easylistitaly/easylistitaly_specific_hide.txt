@@ -564,6 +564,7 @@ ilcorrieredabruzzo.it##div[style="position:relative; overflow:hidden; margin:0 a
 ilcorrieredabruzzo.it##div[style="position:relative; overflow:hidden; margin:0 auto; width:300px; height:250px"]
 ilcorrieredabruzzo.it##div[style="position:relative; overflow:hidden; margin:0 auto; width:300px; height:300px"]
 ilcorrieredabruzzo.it##div[style="position:relative; overflow:hidden; margin:0 auto; width:435px; height:100px"]
+gamesource.it##div[style="position:relative; width:300px; height:250px; margin-top:15px;"]
 it.msn.com,sanihelp.it##div[style="text-align: center; line-height: 1.33em; color: #666666; font-weight: bold; margin-bottom: 8px; height: 262px;"]
 pctuner.net##div[style="text-align:center; clear:both; width:316px; height:265px;"]
 mymovies.it##div[style="text-align:center; top:0px; margin-left:auto; margin-right:auto; height:120px; left:0px; float:left; width:100%; overflow:visible;"]
