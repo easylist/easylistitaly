@@ -254,6 +254,7 @@ canali16.altervista.org###up
 tipiace.it###vetrina
 hdblog.it###vetrine_kelkoo
 lastampa.it###videobox_wrapper
+oggitreviso.it###views-banner_pop_up-95-926
 lattemiele.com###vipre
 internazionale.it###wideSkinWrapper
 italiaoggi.it,milanofinanza.it###widget_ticketcrociere
