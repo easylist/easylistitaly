@@ -742,6 +742,7 @@
 ||telefonino.net/shopping/
 ||telesud3.com/banner/
 ||telesud3.com/images/banner/
+||telmi.it/images/btb_pittogramma.png
 ||temi-wordpress.net/wp-content/plugins/maxblogpress-unblockable-popup/
 ||tempoitalia.it/banner/
 ||tennis.it/files/banner_blufreccia3c.gif
