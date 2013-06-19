@@ -848,3 +848,4 @@
 ||youreporter.it/partner/
 ||zabriskiepoint.net^*/banner/
 ||zapster.it/images/skin/
+||zipnews.it/sai.jpg
