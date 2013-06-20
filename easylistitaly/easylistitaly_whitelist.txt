@@ -28,6 +28,7 @@
 @@||edintorni.net/related/service/*/jscript/$script,domain=amicidimotociclismo.it|armietiro.it|automobilismo.it|businessmagazine.it|ciclismo.it|cucinare.meglio.it|fotografidigitali.it|gamemag.it|giallozafferano.it|girlpower.it|hwfiles.it|hwupgrade.it|ilfattoquotidiano.it|ilgiorno.it|ilquotidianodellacalabria.it|ilrestodelcarlino.it|ilsecoloxix.it|iltempo.it|informarexresistere.fr|invidia.it|lanazione.it|macitynet.it|motociclismo.it|pianetadonna.it|quotidiano.net|runnersworld.it|studenti.it|tennisitaliano.it|unita.it|velaemotore.it|yourself.it
 @@||eyewonder.com^*/video/$object-subrequest,domain=serviziopubblico.it
 @@||files.adform.net/banners/stream/$object-subrequest,domain=la7.tv|liberoquotidiano.it|sky.it
+@@||foolbite.com/foolbite/*_pubblicita_$~third-party
 @@||gelocal.it/adimages/
 @@||iads.iltrovatore.it/clientaccesspolicy.xml$object-subrequest,domain=la7.it
 @@||iads.iltrovatore.it/crossdomain.xml$object-subrequest,domain=la7.it
