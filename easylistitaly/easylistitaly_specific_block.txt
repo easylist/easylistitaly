@@ -698,6 +698,7 @@
 ||spartoo.it/footer_tag_iframe.
 ||spaziogames.it/banner/
 ||spaziogames.it/images/backgrounds/
+||spaziointer.it/wp-content/uploads/2013/05/pushbar_2008.gif
 ||spaziomilan.it^*/banner_
 ||spaziomilan.it^*/milancamp.gif
 ||spoletonline.com/banner/
