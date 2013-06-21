@@ -27,6 +27,9 @@
 ||betpro.it^*/banner/
 ||blogspot.com^*/ban1.png$domain=italiafilm2.com
 ||blogspot.com^*/ban2.gif$domain=internapoli-city.org
+||blogspot.com^*/download_728.gif
+||blogspot.com^*/download_728_2.gif
+||blogspot.com^*/downloadnow_it_468.png
 ||blogspot.com^*/Streaming.png$domain=internapoli-city.org
 ||booking.com/general.html?$subdocument,domain=quattroruote.it
 ||bt.rcs.it^
