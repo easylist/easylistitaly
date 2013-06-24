@@ -663,6 +663,7 @@
 ||sanmarinoworld.sm/img/home/
 ||sanmarinoworld.sm^*/bnr/
 ||sanremonews.it^*/box/
+||sardegnareporter.it/themes/img/banner/
 ||sassarinotizie.com/public/adv/
 ||sassarinotizie.com/ws/advlink300.aspx
 ||sassuolo2000.it/bnrs/

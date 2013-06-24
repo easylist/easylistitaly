@@ -408,6 +408,7 @@ bora.la##.headerbtm
 mmorpgitalia.it##.headerwrapA
 gazzettadasti.it##.homepage-central-ban
 gazzetta.it##.info-quote
+sardegnareporter.it##.innerfade[style="margin-bottom: 10px; position: relative; height: 295px;"]
 motousate.it##.item.link
 jacktech.it##.jk_banner
 corrieredellosport.it##.label_sponsor_sp
