@@ -736,6 +736,7 @@
 ||technologyreview.it/img/banner_
 ||tele90.it/banner/
 ||telecaprisport.it/banner/
+||telecolore.it/banner/
 ||telefonino.net/new_files/ajax/shopping.asp?
 ||telefonino.net/new_files/banners/
 ||telefonino.net/new_files/img/foto310x110.gif
