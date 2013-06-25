@@ -103,6 +103,7 @@
 ||calciomercato.it^*_1040x40_
 ||calcioweb.eu/adv/
 ||campaniameteo.it/banner/
+||campaniasuweb.it^*/sponsor.
 ||camperonline.it/b-top/
 ||camperonline.it/b/
 ||camperonline.it/sfondo/
