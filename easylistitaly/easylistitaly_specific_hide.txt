@@ -329,6 +329,7 @@ avvenire.it##.bannerTop
 ilquotidianodellacalabria.it##.banner_186x290
 ilquotidianodellacalabria.it##.banner_234x90
 everyeye.it##.banner_600_new
+nqnews.it##.banner_Leaderboard
 liberoquotidiano.it##.banner_apertura
 finanzaonline.com##.banner_bg
 borsainside.com##.banner_bottom_post
@@ -340,6 +341,7 @@ digital-sat.it,finanza.com,motori24.ilsole24ore.com##.banner_dx
 ecodibergamo.it,laprovinciadicomo.it,laprovinciadivarese.it##.banner_footer
 parmasera.it,piacenzasera.it##.banner_globaltop
 livesicilia.it##.banner_leaderboard
+nqnews.it##.banner_news
 galileonet.it##.banner_oriz
 ipadevice.com,ispazio.net##.banner_right_sidebar_big
 ipadevice.com,ispazio.net##.banner_right_sidebar_small
