@@ -328,7 +328,9 @@ cittaceleste.it,juvenews.eu##.bannerNelTesto
 avvenire.it##.bannerTop
 ilquotidianodellacalabria.it##.banner_186x290
 ilquotidianodellacalabria.it##.banner_234x90
+ilmattinodifoggia.it##.banner_300x250_3
 everyeye.it##.banner_600_new
+ilmattinodifoggia.it##.banner_990x30
 nqnews.it##.banner_Leaderboard
 liberoquotidiano.it##.banner_apertura
 finanzaonline.com##.banner_bg
@@ -359,6 +361,7 @@ ticinolive.ch##.bannerwrap
 romagiornoenotte.it##.basebannerBox
 wallstreetitalia.com##.bestbuybiz
 losportivo.sm##.bg_blocchi
+ilmattinodifoggia.it##.bgbanner
 ilcapoluogo.com##.block-view-bannerSlide
 ilquotidiano.it,parmasera.it,piacenzasera.it##.box-attico
 notiziaoggi.it,settegiorni.it##.box-banner-menu
