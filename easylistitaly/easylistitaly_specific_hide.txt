@@ -264,6 +264,7 @@ ttmweb.it###zona_245
 avvisatore.ilsecoloxix.it###zona_266
 gnoccaforum.com,tiscali.it##.ADV
 hostingtalk.it##.Banner
+lavoratorio.it##.BannerAltoHP
 liberoquotidiano.it##.BannerHead
 metropolisweb.it##.BannerMezzoNotizia
 ciao.it##.CWContainerComparePrice
@@ -388,6 +389,7 @@ giornaledibrescia.it##.dealboxTop
 immobiliare.it##.det_pub_box_content
 nokioteca.net##.dex_box
 ansa.it##.diretta-sponsor
+lavoratorio.it##.divBoxbanner300x250
 gossipetv.com##.ebuzzing_box
 gazzettadiparma.it##.elenco-textlink
 comingsoon.it##.expanding-footer-container
@@ -576,6 +578,7 @@ pctuner.net##div[style="text-align:center; clear:both; width:316px; height:265px
 mymovies.it##div[style="text-align:center; top:0px; margin-left:auto; margin-right:auto; height:120px; left:0px; float:left; width:100%; overflow:visible;"]
 mymovies.it##div[style="text-align:center; top:0px; margin-left:auto; margin-right:auto; height:190px; left:0px; float:left; width:100%; overflow:visible;"]
 laroma24.it##div[style="text-align:center; width:300px; height:250px; float:left;"]
+lavoratorio.it##div[style="text-align:center;width:336px;height:280px;margin:0px auto;margin-bottom:25px;"]
 libero.it##div[style="width: 180px; height: 150px;"]
 raffaeleauriemma.com##div[style="width: 248px; height: 250px; visibility: visible;"]
 paginebianche.it##div[style="width: 300px; height: 100px;"]
