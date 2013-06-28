@@ -287,7 +287,7 @@ a-realestate.it,adessoin.tv,animalidalmondo.it,ansa.it,beauty.it,esseresani.it,f
 motori.it##.adv-items
 delleconomia.it##.adv200
 virgilio.it##.advTuning
-amonapoli.it,morningstar.it,tvtv.it##.advert
+amonapoli.it,giardini.biz,morningstar.it,tvtv.it##.advert
 cubovision.it,fastweb.it,gazzetta.it##.advertising
 filodiritto.com##.altro_box_banner_dx
 filodiritto.com##.altro_box_banner_sx
