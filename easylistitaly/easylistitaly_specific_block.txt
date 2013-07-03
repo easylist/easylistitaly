@@ -733,6 +733,7 @@
 ||submission.it/banner/
 ||suedtirol-it.com/images/banner/
 ||superba.it/ad-
+||superzeta.it^*/dummy.gif
 ||targatocn.it/fileadmin/archivio/targatocn/*/bgr_body45_
 ||techassistance.it/media//adv/
 ||technologyreview.it/img/banner/
