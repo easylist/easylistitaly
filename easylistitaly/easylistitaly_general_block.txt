@@ -10,6 +10,7 @@
 /affiliati_img/*
 /annunciogoogle.
 /inclusioni/adv/*
+/materiali_adv/*
 /mediamondads.
 /pubblicit%c3%a0/*
 /pubblicita-
