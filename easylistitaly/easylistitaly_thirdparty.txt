@@ -96,7 +96,7 @@
 ||kataweb.it^*/pub/
 ||keepersport.it^*/banner728x90.jpg
 ||lacasadiriposo.it/images/banner/
-||libreriadelsanto.it/banners/
+||libreriadelsanto.it/banners/$third-party
 ||linearadio.it/bnrs/
 ||locandinebest.net/locandina/$subdocument,third-party
 ||macrolibrarsi.org/banner/
