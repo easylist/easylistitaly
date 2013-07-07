@@ -70,7 +70,6 @@
 ||seolabadv.it^$third-party
 ||softwareplanet.net^$third-party
 ||spicciolo.com^$third-party
-||stailamedia.com^$third-party
 ||sunaffiliation.com^$third-party
 ||superbanner.org^$third-party
 ||tekno4advertising.com^$third-party
