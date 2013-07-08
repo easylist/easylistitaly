@@ -20,7 +20,7 @@ it.msn.com,sanihelp.it###advertisement
 qds.it###altro
 outcast.it###amazon
 palermomania.com###area_banner_top
-jacktech.it###assicu_box_ricerca
+fastweb.it,jacktech.it###assicu_box_ricerca
 autoxy.it,motousate.it###assicu_widget_300x80
 libero.it###b468x60bottoms
 242movietv.com###back_inside
@@ -106,6 +106,7 @@ masterviaggi.it###box_link_sponsor
 ricettedelmondo.it###box_pub2
 centrometeoitaliano.it###box_publi
 italia-news.it,senigallianotizie.it###box_ricerca
+fastweb.it###box_ricerca[style="width:300px; height:100px; margin-bottom: 10px; background: url('/GFX/portale_v3/RCol/immobiliare/sfondo.png') no-repeat left top; font-family:Arial,Verdana,Helvetica,sans-serif !important; font-size:11px; overflow:hidden"]
 masterviaggi.it###box_sponsor
 pctuner.net###boxbanner
 tuttogratis.it###bright

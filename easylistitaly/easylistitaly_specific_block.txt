@@ -212,6 +212,7 @@
 ||fantagazzetta.com/img/betclic_230x90.gif
 ||fantagazzetta.com^*/Banners/
 ||fashiontimes.it/images/banner/
+||fastweb.it/cms/gfx/rcol/facile-bg.png
 ||fastweb.it/portale/speciali/hrs/
 ||fastweb.it^*/portale/speciali/
 ||fastweb.it^*/rcol/immobiliare/

@@ -9,6 +9,7 @@
 /advsfondo/*
 /affiliati_img/*
 /annunciogoogle.
+/gfx/adv/*
 /inclusioni/adv/*
 /materiali_adv/*
 /mediamondads.
