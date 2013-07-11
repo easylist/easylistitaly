@@ -12,8 +12,7 @@
 @@||adv.alice.it/html.ng/site=cubow$object-subrequest,domain=webtv.cubovision.it
 @@||adv.ilsole24ore.it/crossdomain.xml$object-subrequest,domain=la7.it|la7.tv|sky.it
 @@||adv.ilsole24ore.it^*/empty.flv$object-subrequest,domain=sky.it
-@@||adv.ilsole24ore.it^*/preroll/$object-subrequest,domain=sky.it
-@@||adv.ilsole24ore.it^*@preroll|$object-subrequest,domain=la7.tv|sky.it
+@@||adv.ilsole24ore.it^*@preroll|$object-subrequest,domain=la7.tv
 @@||adv.rtl.it/crossdomain.xml$object-subrequest
 @@||adv.rtl.it/www/delivery/fc.php?*&zones=pre-roll$object-subrequest
 @@||adv.tre.it/www/$image,script
@@ -24,10 +23,9 @@
 @@||bs.serving-sys.com/crossdomain.xml$object-subrequest,domain=sky.it
 @@||doubleclick.net/adj/tuttosport.home/home;sz=336x600,300x250,300x600;=$script,domain=tuttosport.com
 @@||download.deejay.it/adv/podcast/$object-subrequest
-@@||ds.serving-sys.com/BurstingRes/*.flv$object-subrequest,domain=sky.it
 @@||edintorni.net/related/service/*/jscript/$script,domain=amicidimotociclismo.it|armietiro.it|automobilismo.it|businessmagazine.it|ciclismo.it|cucinare.meglio.it|fotografidigitali.it|gamemag.it|giallozafferano.it|girlpower.it|hwfiles.it|hwupgrade.it|ilfattoquotidiano.it|ilgiorno.it|ilquotidianodellacalabria.it|ilrestodelcarlino.it|ilsecoloxix.it|iltempo.it|informarexresistere.fr|invidia.it|lanazione.it|macitynet.it|motociclismo.it|pianetadonna.it|quotidiano.net|runnersworld.it|studenti.it|tennisitaliano.it|unita.it|velaemotore.it|yourself.it
 @@||eyewonder.com^*/video/$object-subrequest,domain=serviziopubblico.it
-@@||files.adform.net/banners/stream/$object-subrequest,domain=la7.tv|liberoquotidiano.it|sky.it
+@@||files.adform.net/banners/stream/$object-subrequest,domain=la7.tv|liberoquotidiano.it
 @@||foolbite.com/foolbite/*_pubblicita_$~third-party
 @@||gelocal.it/adimages/
 @@||iads.iltrovatore.it/clientaccesspolicy.xml$object-subrequest,domain=la7.it
@@ -57,7 +55,6 @@
 @@||repubblica.it/adimages/
 @@||rtax.criteo.com/delivery/rta/rta.js?$script,domain=webmail.virgilio.it
 @@||serving-sys.com/BurstingPipe/adServer.bs?$object-subrequest,domain=sky.it
-@@||serving-sys.com/BurstingRes/*.mp4$object-subrequest,domain=sky.it
 @@||servizi-media-js.tiscali.it/cp/javascript/default/it/main/revsci.js$domain=mail.tiscali.it
 @@||smartadserver.com/a/diff/*/show42.asp?$object-subrequest,domain=popcorntv.it
 @@||smartadserver.com/call/pubx/$object-subrequest,domain=popcorntv.it
@@ -67,8 +64,6 @@
 @@||static.youreporter.it/adv/player.swf$object
 @@||tiscali.ad.dotandad.com/crossdomain.xml$object-subrequest,domain=ansa.it|tiscali.it
 @@||tiscali.ad.dotandad.com/tiscali.jsp?mpo=vast2&mpt=$object-subrequest,domain=ansa.it|tiscali.it
-@@||track.adform.net/crossdomain.xml$object-subrequest,domain=sky.it
-@@||track.adform.net/serving/videoad/$object-subrequest,domain=sky.it
 @@||video1.italiaoggi.it/movie/movie/adserver_$object,object-subrequest
 @@||video1.milanofinanza.it/movie/movie/adserver_$object,object-subrequest
 @@||vox-static.liverail.com^*/liverail_preroll.swf$object,domain=786cast.tv
