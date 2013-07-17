@@ -61,6 +61,7 @@ cittaceleste.it,juvenews.eu###bannerSottoTitolo
 allaguida.it,apollodoro.it,buttalapasta.it,casapoker.it,derapate.it,designmag.it,ecodellosport.it,ecoo.it,fattidicronaca.it,finanzaeborse.it,games4all.it,gaywave.it,haisentito.it,musicroom.it,myluxury.it,nanopress.it,nextmoto.it,nonmidire.it,politica24.it,r101.it,regaloregali.it,stylosophy.it,suipedali.it,tantasalute.it,tecnocino.it,televisionando.it,ticonzero.info,trackback.it,tshot.it,tuttogratis.it,vivacinema.it,vostrisoldi.it###bannerTop
 ilsalvagente.it###bannerTopInt
 spaziogames.it###banner_300
+ilsannioquotidiano.it###banner_468_60
 lastampa.it###banner_VideoBox
 primaonline.it###banner_bottom
 tuttobasket.net###banner_head
@@ -558,6 +559,7 @@ retesport.it##div[style="float:none;margin-top:10px;text-align:center;width:493p
 pronostici-scommesse.info##div[style="height:250px;width:300px;"]
 auto7.it##div[style="height:280px; width:336px; margin:2px 2px; float:left;"]
 itawow.it##div[style="height:60px; width:468px; float:left; margin-left:40px;"]
+ilsannioquotidiano.it##div[style="height:60px;border-bottom:1px solid #dedede; padding:10px 0;"]
 clandestinoweb.com##div[style="height:63px; margin-bottom:15px; border:solid 1px #ccc; width:468px; padding: 2px 0;"]
 techassistance.it##div[style="height:90px; width:980px;display:block; text-align:center"]
 iphoneitalia.com##div[style="height:90px;display:block;width:1045px;"]
