@@ -13,4 +13,5 @@ altervista.org,pianetadonna.it,studenti.it#@#.adv_esterno
 deejay.it#@#.advertorial
 italiasw.com#@#.header-google-ads
 corrierecomo.it,corrieredicomo.it#@#.module-ad
+latinomagazine.it#@#.moduletable-advert
 camperonline.it,italiasw.com#@#.pubblicita
