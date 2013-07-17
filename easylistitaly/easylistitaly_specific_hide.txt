@@ -298,6 +298,7 @@ telefonino.net##.amazon_left
 laborsadeipiccoli.com##.annunci
 corrieredellosport.it##.annunci_art
 ilsole24ore.com##.annunci_g
+pyrosonline.it##.anyClass[style="visibility: visible; overflow: hidden; position: relative; z-index: 2; left: 0px; width: 840px;"]
 romagiornoenotte.it##.areabannerTop
 ilsecoloxix.it##.artbanner
 radiogold.it##.autobanner
@@ -586,6 +587,7 @@ laroma24.it##div[style="text-align:center; width:300px; height:250px; float:left
 lavoratorio.it##div[style="text-align:center;width:336px;height:280px;margin:0px auto;margin-bottom:25px;"]
 libero.it##div[style="width: 180px; height: 150px;"]
 raffaeleauriemma.com##div[style="width: 248px; height: 250px; visibility: visible;"]
+pyrosonline.it##div[style="width: 265px; height: 265px;"]
 paginebianche.it##div[style="width: 300px; height: 100px;"]
 tiscali.it##div[style="width: 300px; height: 250px; vertical-align: top; text-align: left;"]
 libero.it,paginebianche.it##div[style="width: 300px; height: 250px;"]
