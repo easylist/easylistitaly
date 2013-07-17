@@ -633,7 +633,6 @@ film-review.it##div[style="width:308px;height:260px;text-align: center;display:b
 leggioggi.it##div[style="width:310px;overflow:hidden;height:130px;margin-left:-8px;"]
 wmia.it##div[style="width:350px; height:300px; float:left"]
 radiotime.it##div[style="width:360px; margin-top:10px; margin-bottom:5px;"]
-milannews.it##div[style="width:468px; height:60px; overflow:hidden; margin-left:auto; margin-right:auto; text-align:center; "]
 asroma24.com,ilmilanista.it,interistaweb.it##div[style="width:480px; height:72px; padding: 6px; margin-left:auto; margin-right:auto;"]
 igossip.it##div[style="width:600px; height:360px;float:left;"]
 strettoweb.com##div[style="width:728px; height:90px; margin:9px auto; display:block; float:right !important;"]

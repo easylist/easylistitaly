@@ -69,6 +69,7 @@
 ##.sponsorizzati
 ##.tabella2Pubblicita
 ##.tabella3Pubblicita
+##.tccbanner
 ##.view-pubblicita
 ##a[href^="http://adserver.ilmessaggero.it/"]
 ##a[href^="http://crazylead.com/video/"]
