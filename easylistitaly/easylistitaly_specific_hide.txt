@@ -5,9 +5,11 @@ tgcom24.mediaset.it###ContentSpecialBox
 comingsoon.it###ExpTop
 sardegna24.net###Hbanner300x250c20
 rai.it###Leaderboard
+liberatv.ch###Minisky
 ininsubria.it###PopUp_Under
 tio.ch###RectangleInterna
 tripadvisor.it###SPONSORED_TOP_10
+liberatv.ch###Sky2
 ilsoftware.it###SponsorFull
 tio.ch###Tio_News_Sponsor_basso_Flat
 digital-forum.it,esigarettaforum.com###ad_global_below_navbar
@@ -111,6 +113,7 @@ fastweb.it###box_ricerca[style="width:300px; height:100px; margin-bottom: 10px; 
 masterviaggi.it###box_sponsor
 pctuner.net###boxbanner
 tuttogratis.it###bright
+liberatv.ch###bsky
 fattidicronaca.it,pourfemme.it,qnm.it,tecnocino.it,tecnozoom.it,tuttogratis.it,vivacinema.it###btop
 iodonna.it,leiweb.it###buy-now
 gamesvillage.it###buy_amazon
@@ -242,6 +245,7 @@ tomshw.it###testata_giu
 studioconsulenzaromano.net###text-561964208
 farevela.net###text-7
 ilmonferrato.it###thin_banners_container
+liberatv.ch###ti_banner_top
 ilcapoluogo.com###tier
 hdblog.it###top
 america24.com,finanza.com,tuttolosportdiparma.it###top-banner
@@ -405,6 +409,7 @@ livesicilia.it##.flash-box-a-sponsor-2
 gazzettadasti.it##.footer-rotate-banner
 chievocalcio.tv##.footer-sponsor-container
 violachannel.tv##.footer_home
+liberatv.ch##.front_orrizzontale
 spaziogames.it##.g_adv
 gazzetta.it##.gazzasconti
 iammepress.it,italia-news.it##.gcon_banners
