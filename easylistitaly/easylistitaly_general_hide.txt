@@ -2,6 +2,7 @@
 ###ADVrettangolopiede
 ###ADVstriscia
 ###MediamondAd_rn_u
+###Sponsor728x90Top
 ###UNITIS_ads_300250
 ###ad_testa_foto
 ###adbanner-laterale
@@ -66,6 +67,8 @@
 ##.pubblicitaSlider
 ##.pubblicitapremium
 ##.skinAdv02
+##.sponsor160x600Dx
+##.sponsor300x250Sx
 ##.sponsorizzati
 ##.tabella2Pubblicita
 ##.tabella3Pubblicita

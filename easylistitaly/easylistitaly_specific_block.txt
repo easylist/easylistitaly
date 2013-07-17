@@ -156,6 +156,7 @@
 ||coni.it/images/banners/sfondi/
 ||console-inf.com/banner/
 ||console-tribe.com^*/adv/
+||copertinedvd.org/adv.php?
 ||coriglianocalabro.it/images/banners/
 ||coriglianocalabro.it^*/banner/
 ||corriere.it^*/adv/
