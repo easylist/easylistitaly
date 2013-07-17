@@ -122,6 +122,7 @@
 ||ciaocomo.it/box-assicurazioni/
 ||ciaocomo.it/images/banners/
 ||ciclonline.com/images/banners/
+||cilentotime.it/images/banners/
 ||cineblog01.info/ban2_
 ||cineblog01.info/ban_
 ||cinemadelsilenzio.it/banner4.js
