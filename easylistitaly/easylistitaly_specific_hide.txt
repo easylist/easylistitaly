@@ -140,6 +140,7 @@ telefonino.net###google300x250
 telefonino.net###googleHomeNews
 telefonino.net###googleNewsTop
 telefonino.net###googleProveTop
+ebay.it###halfboxes-container
 latitudeslife.com###head_banner
 ilsecoloxix.it###head_banners
 cronachemaceratesi.it###head_sponsor
@@ -172,6 +173,7 @@ udinese.it###mod-udinese-sponsor-panel-fulllength
 ciao.it###mod_ph_merchoffer
 famigliacristiana.it###molwidget
 ilgazzettino.it,ilmattino.it,ilmessaggero.it,leggo.it###molwidget300
+ebay.it###mpu-container
 vivicool.it###navpages
 telefonino.net###news336x280GoogleBox
 agimondo.it###overhp
