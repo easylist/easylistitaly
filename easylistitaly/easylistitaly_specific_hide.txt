@@ -344,7 +344,7 @@ ilmattinodifoggia.it##.banner_300x250_3
 everyeye.it##.banner_600_new
 ilmattinodifoggia.it##.banner_990x30
 nqnews.it##.banner_Leaderboard
-professionemotori.it##.banner_after_feat
+professionecalcio.net,professionemotori.it##.banner_after_feat
 liberoquotidiano.it##.banner_apertura
 finanzaonline.com##.banner_bg
 borsainside.com##.banner_bottom_post

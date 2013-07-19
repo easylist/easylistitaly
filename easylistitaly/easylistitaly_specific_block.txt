@@ -585,7 +585,10 @@
 ||positanonews.it/publicnew/banners/
 ||primapaginamolise.it/banner/
 ||primissima.it/images/background_images/
+||professionecalcio.net/wp-content/uploads/panini-box.jpg
 ||professionecalcio.net/wp-content/uploads/peugeot208_250x350_v3.jpg
+||professionecalcio.net/wp-content/uploads/williamHillbox.png
+||professionecalcio.net/wp-content/uploads/wwf1-242x160.jpg
 ||professionemotori.it/wp-content/uploads/panini-box.jpg
 ||professionemotori.it/wp-content/uploads/williamHillbox.png
 ||professionemotori.it/wp-content/uploads/wwf-242x160.jpg
