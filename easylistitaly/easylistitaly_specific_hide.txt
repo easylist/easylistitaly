@@ -139,6 +139,7 @@ unita.it###eimp[style="width:298px;float:left;margin-top:20px;height:248px;borde
 comingsoon.it###expSkin
 tipiace.it###externalbanner
 avvisatore.ilsecoloxix.it,shippingonline.ilsecoloxix.it,ttmweb.it###footer
+fc-suedtirol.com###footersponsor
 ilcap.it###gadsense
 telefonino.net###google300x250
 telefonino.net###googleHomeNews
@@ -494,6 +495,7 @@ ilmanifesto.it##.sponsor-box
 fcparma.com##.sponsor-group
 treccani.it##.sponsorLogo
 gazzetta.it##.sponsored
+fc-suedtirol.com##.sponsorliste
 inter.it##.sponsorsSlider
 leggioggi.it##.spot-mini
 mostraip.com##.spot1
@@ -529,6 +531,7 @@ bresciaoggi.it,larena.it##.v2_banner-wrapper
 ilsalvagente.it##.video
 tiscali.it##.w304.mB20
 tiscali.it##.w312.mB25
+fc-suedtirol.com##.werbung
 ilfattoquotidiano.it##.widget_ifqbooks
 gazzettagiallorossa.it,orvietosi.it##.wp_bannerize
 allandroidnews.it##.wp_skyscraper_c2
