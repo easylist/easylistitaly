@@ -335,6 +335,7 @@ ilcapoluogo.com##.banner4
 fantagazzetta.com##.banner5
 ilsecoloxix.it##.banner650x60
 ilcalciocatania.it##.bannerArea
+zoover.ch,zoover.it##.bannerContainer
 ravennanotizie.it##.bannerH
 cittaceleste.it,juvenews.eu##.bannerNelTesto
 avvenire.it,borsaitaliana.it##.bannerTop
