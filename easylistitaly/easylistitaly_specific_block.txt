@@ -143,6 +143,8 @@
 ||click.html.it^
 ||climateobserver.it^*/banner-
 ||climateobserver.it^*/banner_
+||clubalfa.it/images/banner/
+||clubalfa.it/ragazzon_banner_180.swf
 ||comic-soon.com/*/adv/
 ||comingsoon.it/fcred.asp?$object-subrequest
 ||comingsoon.it/imgdb/banner/
