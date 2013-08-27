@@ -101,6 +101,7 @@
 ||caffe.ch/media/STATICHE/ilcaffe/ADV/
 ||calciomercato.com/uploads/banners/
 ||calciomercato.it^*_1040x40_
+||calciomercato.napoli.it^*/comeessereprimo.png
 ||calcioweb.eu/adv/
 ||campaniameteo.it/banner/
 ||campaniasuweb.it^*/sponsor.
