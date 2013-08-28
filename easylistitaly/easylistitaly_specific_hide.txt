@@ -274,12 +274,15 @@ shippingonline.ilsecoloxix.it###zona_181
 ttmweb.it###zona_245
 avvisatore.ilsecoloxix.it###zona_266
 gnoccaforum.com,tiscali.it##.ADV
+foxsports.it##.Ad
+foxsports.it##.Adtext
 hostingtalk.it##.Banner
 lavoratorio.it##.BannerAltoHP
 liberoquotidiano.it##.BannerHead
 metropolisweb.it##.BannerMezzoNotizia
 ciao.it##.CWContainerComparePrice
 meteo.it##.ImmobiliareIt
+foxsports.it##.Mpu
 alfemminile.com##.OffresSpe_cadre
 search.aol.it##.SLL
 dizionariosinonimi.com##.Sponsor300x250Dx
