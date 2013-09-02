@@ -360,6 +360,7 @@ parmasera.it,piacenzasera.it##.banner_doc_bottom_foto
 digital-sat.it,finanza.com,motori24.ilsole24ore.com##.banner_dx
 ecodibergamo.it,laprovinciadicomo.it,laprovinciadivarese.it##.banner_footer
 parmasera.it,piacenzasera.it##.banner_globaltop
+smtvsanmarino.sm##.banner_head
 livesicilia.it##.banner_leaderboard
 nqnews.it##.banner_news
 galileonet.it##.banner_oriz
