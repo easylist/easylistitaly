@@ -72,6 +72,7 @@
 ##.sponsorizzati
 ##.tabella2Pubblicita
 ##.tabella3Pubblicita
+##.tabellaPubblicita
 ##.tccbanner
 ##.view-pubblicita
 ##a[href^="http://adserver.ilmessaggero.it/"]
