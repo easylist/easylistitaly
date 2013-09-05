@@ -17,12 +17,16 @@
 ###adv-skin-colonnasx
 ###advAutopromo1
 ###advAutopromo2
+###adv_annuncio_promo_1
+###adv_gda
 ###adv_in_post
+###adv_sponsor_categorico
 ###advcolonnadx
 ###advcolonnasx
 ###annunciGoogle
 ###annunci_google
 ###blocco_servizi_sponsor1
+###box_adv_sponsor_categorico
 ###corpo_video_sponsor
 ###divPubblicita
 ###fwnetblocco

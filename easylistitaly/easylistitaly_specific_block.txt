@@ -869,6 +869,7 @@
 ||violachannel.tv^*/sponsor/
 ||virgilio.it/bottomchat/bottom234x60.html
 ||virgilio.it/sg/boxis_
+||virgilio.it/src_tag_sponsor_
 ||vivafm.it^*/banners/
 ||vivereancona.it/images/banners_
 ||voceditalia.it/banner.js
