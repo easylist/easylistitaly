@@ -136,6 +136,7 @@
 ||sessotop.com/img/annunci*.gif
 ||sitinuovi.it/banner/
 ||sk1.it/images/promo/
+||slotmachinesgratisonline.com/image/$third-party
 ||smartclip.net^$~object-subrequest,third-party
 ||smscellulari.it/pic/banner/$third-party
 ||solonapoli88.altervista.org/ban$subdocument
