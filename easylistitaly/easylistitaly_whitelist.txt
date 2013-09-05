@@ -32,7 +32,7 @@
 @@||foolbite.com/foolbite/*_pubblicita_$~third-party
 @@||gelocal.it/adimages/
 @@||google.com/ads/search/module/ads/*/search.js$domain=zoover.ch|zoover.it
-@@||google.com/adsense/$subdocument,domain=sedo.it
+@@||google.com/adsense/$subdocument,domain=sedo.ch|sedo.it
 @@||google.com/adsense/search/ads.js$domain=zoover.ch|zoover.it
 @@||iads.iltrovatore.it/clientaccesspolicy.xml$object-subrequest,domain=la7.it
 @@||iads.iltrovatore.it/crossdomain.xml$object-subrequest,domain=la7.it
