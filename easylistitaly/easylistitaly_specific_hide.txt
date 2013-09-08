@@ -498,7 +498,7 @@ agrigentonotizie.it,anconatoday.it,baritoday.it,bolognatoday.it,bresciatoday.it,
 agrigentonotizie.it,anconatoday.it,baritoday.it,bolognatoday.it,bresciatoday.it,cataniatoday.it,cesenatoday.it,chietitoday.it,firenzetoday.it,foggiatoday.it,forlitoday.it,genovatoday.it,ilpescara.it,ilpiacenza.it,latinatoday.it,milanotoday.it,modenatoday.it,monzatoday.it,napolitoday.it,novaratoday.it,padovaoggi.it,palermotoday.it,parmatoday.it,perugiatoday.it,pisatoday.it,ravennatoday.it,riminitoday.it,romatoday.it,salernotoday.it,today.it,torinotoday.it,trentotoday.it,trevisotoday.it,udinetoday.it,veneziatoday.it,veronasera.it,vicenzatoday.it##.skin_top
 soldionline.it##.sm_widget_contenitore
 ciao.it##.specialOfferMod
-gazzetta.it,pubblicitaitalia.it,stickmangames.altervista.org##.sponsor
+gazzetta.it,ilgiornale.it,pubblicitaitalia.it,stickmangames.altervista.org##.sponsor
 ilmanifesto.it##.sponsor-box
 fcparma.com##.sponsor-group
 treccani.it##.sponsorLogo
