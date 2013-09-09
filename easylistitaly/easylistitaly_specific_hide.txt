@@ -22,6 +22,7 @@ quattroruote.it###adv_wideleaderboard
 it.msn.com,sanihelp.it###advertisement
 qds.it###altro
 outcast.it###amazon
+ilsole24ore.com###annunci
 palermomania.com###area_banner_top
 fastweb.it,jacktech.it###assicu_box_ricerca
 autoxy.it,motousate.it###assicu_widget_300x80
@@ -440,6 +441,7 @@ motousate.it##.item.link
 jacktech.it##.jk_banner
 corrieredellosport.it##.label_sponsor_sp
 foxtv.it,guidasicilia.it,la7.it,today.it##.leaderboard
+ilsole24ore.com##.link_expand
 mymovies.it##.linkblu[style="width:290px; cursor:pointer; margin-top:5px;"]
 giornalettismo.com##.liq-frame
 gazzetta.it##.list-eventi
