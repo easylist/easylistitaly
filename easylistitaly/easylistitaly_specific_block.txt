@@ -429,6 +429,7 @@
 ||italia-news.it/box_ricerca/
 ||italia-news.it/media/banners/
 ||italiafilm.tv/italiafilm.png
+||italiafilm.tv/v2.gif
 ||italiagermania4-3.com/images/banners/
 ||italianhack.org/adv/
 ||ivg.it^*/takeover/
