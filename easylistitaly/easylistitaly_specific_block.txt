@@ -623,6 +623,7 @@
 ||quotidiano.net/file_generali/flash/ova.swf$object-subrequest
 ||quotidianodipuglia.it/box_tuttomercato032011/
 ||quotidianodipuglia.it/img/magiclandlight.gif
+||quotidianodipuglia.it/img/rainbow_magicland.gif
 ||r101.it/banner/
 ||r101.it/img/bg_streaming_controller_audio.png
 ||r101.it/img/btn_innamorarsia101.
