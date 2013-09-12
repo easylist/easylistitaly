@@ -381,6 +381,7 @@
 ||ilmattino.it/img/magiclandlight.gif
 ||ilmattino.it/img/rainbow_magicland.gif
 ||ilmattino.it/imgmol/
+||ilmessaggero.it/300x200Banner.php
 ||ilmessaggero.it/box_tuttomercato052011/
 ||ilmessaggero.it/img/magiclandlight.gif
 ||ilmessaggero.it/img/rainbow_magicland.gif
