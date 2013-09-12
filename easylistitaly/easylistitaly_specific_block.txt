@@ -475,6 +475,7 @@
 ||leggilanotizia.it^*/banner_
 ||leggilo.net/adv/
 ||leggioggi.it^*/banner/
+||leggo.it/300x200Banner.php
 ||leggo.it/box_tuttomercato032011/
 ||leggo.it/img/magiclandlight.gif
 ||leggo.it/img/rainbow_magicland.gif
