@@ -298,6 +298,7 @@ pinkdna.it##.adds300x250
 zapster.it##.addx
 fantagazzetta.com,gamemag.it,phicatube.net##.ads
 meteowebcam.it##.ads_menu
+ilsecoloxix.it##.adsense
 meteowebcam.it##.adsense_menu
 a-realestate.it,adessoin.tv,animalidalmondo.it,ansa.it,beauty.it,esseresani.it,faidatemania.it,giornalettismo.com,guidecucina.it,ideeviaggi.it,ilsole24ore.com,iobloggo.com,iogames.it,iomobile.it,lavoroefinanza.it,mammaebambino.it,nonsolocultura.it,odiami.it,outcast.it,pianetagreen.it,pianetamotori.it,radiolina.it,radiomontecarlo.net,romagnaoggi.it,sky.it,sportpower.it,tuttopercasa.it,verytech.it,virgilio.it,vivalascuola.it##.adv
 motori.it##.adv-items
