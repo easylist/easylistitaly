@@ -376,6 +376,7 @@
 ||ilgiornaledigela.it/images/banners/
 ||ilgiornalediragusa.it/images/banners/
 ||ilmanifesto.it^*/sponsors/
+||ilmattino.it/300x200Banner.php
 ||ilmattino.it/box_tuttomercato052011/
 ||ilmattino.it/img/magiclandlight.gif
 ||ilmattino.it/img/rainbow_magicland.gif
