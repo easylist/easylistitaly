@@ -15,6 +15,7 @@
 @@||adv.ilsole24ore.it^*@preroll|$object-subrequest,domain=la7.tv
 @@||adv.rtl.it/crossdomain.xml$object-subrequest
 @@||adv.rtl.it/www/delivery/fc.php?*&zones=pre-roll$object-subrequest
+@@||adv.sportube.tv/adv/www/delivery/ajs.php?$script,domain=fc-suedtirol.com|sportube.tv
 @@||adv.tre.it/www/$image,script
 @@||ansa.it/web/video/videoad.swf$object-subrequest
 @@||ansa.it^*/ad-gallery/$image
