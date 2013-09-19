@@ -151,6 +151,7 @@
 ||streamingtorrent.com/images/scarica.jpg
 ||subito-server.it/banner/
 ||subito.paneaserver.net^
+||tamtamsrl.it/dreamteam/banner/
 ||tccstatic.com/template/*/img/_sfondo.jpg
 ||tccstatic.com^*/985x20_
 ||tccstatic.com^*/banner/

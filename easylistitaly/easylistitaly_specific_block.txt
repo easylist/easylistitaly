@@ -745,6 +745,7 @@
 ||spaziomilan.it^*/banner_
 ||spaziomilan.it^*/milancamp.gif
 ||spoletonline.com/banner/
+||sportando.net/sportando/banner/
 ||sportlive.it/images/*_300x100_
 ||sportlive.it/images/300x100_
 ||sportnews.bz/uploads/pics/banner869x90.gif.gif
