@@ -243,6 +243,7 @@ digital-sat.it###sx_basso_topsx
 diretta.it###tab-bonus-offers
 diretta.it###tab-odds
 ilgiornale.it###tab_annunci
+ladyradio.it###table128[width="492"]
 genova24.it###takeover_left
 genova24.it###takeover_right
 tomshw.it###testata_giu
@@ -486,6 +487,7 @@ gazzetta.it##.pushbar
 quotidianosanita.it##.qs_n_interno_basso
 radiosei.it,retesport.it##.rect_banner
 ticinolibero.ch##.redbar
+ladyradio.it##.right-table5[width="162"]
 film.it##.rightBoxAmazon
 cinquegiorni.it##.rightbanner
 gazzettadasti.it##.rotate-banner
