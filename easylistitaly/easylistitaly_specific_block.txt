@@ -354,6 +354,7 @@
 ||ilcorrieredabruzzo.it/file/banner/
 ||ilcorrieredabruzzo.it/modules/mod_novarp/tmpl/pjmr.swf?
 ||ilcorrieredabruzzo.it/templates/ilcorrieredabruzzo/images/style2/bg1.jpg
+||ilcorsaronero.info/br_mc/
 ||ilcorsaronero.info/js/nopopup.js
 ||ilcrotonese.it^*/promo_
 ||ilfattoalimentare.it/assets/banners/
