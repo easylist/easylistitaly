@@ -102,6 +102,8 @@
 ||calciomercato.com/uploads/banners/
 ||calciomercato.it^*_1040x40_
 ||calciomercato.napoli.it^*/comeessereprimo.png
+||calcionapoli24.it/img/cammarota_336x60.gif
+||calcionapoli24.it/img/segi.gif
 ||calcioweb.eu/adv/
 ||campaniameteo.it/banner/
 ||campaniasuweb.it^*/sponsor.
