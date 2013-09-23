@@ -24,6 +24,7 @@
 @@||bs.serving-sys.com/crossdomain.xml$object-subrequest,domain=sky.it
 @@||dotandad.com/crossdomain.xml$object-subrequest,domain=r101.it
 @@||dotandad.com/mediamond.jsp?$object-subrequest,domain=r101.it
+@@||dotandad.com/mediamond?mpo=$script,domain=panorama.it
 @@||dotandad.com^*.mp3$object-subrequest,domain=r101.it
 @@||doubleclick.net/adj/tuttosport.home/home;sz=336x600,300x250,300x600;=$script,domain=tuttosport.com
 @@||download.deejay.it/adv/podcast/$object-subrequest
@@ -48,6 +49,7 @@
 @@||mail.virgilio.it/common/tech_includes/mail/$subdocument,domain=webmail.virgilio.it
 @@||mail.virgilio.it/google/$subdocument,domain=webmail.virgilio.it
 @@||mda.matrixspa.it/RealMedia/ads/adstream_jx.ads/virgilio.it/Mail/$script,domain=webmail.virgilio.it
+@@||mediamond.it/MediamondAds.js$domain=panorama.it
 @@||mediamond.it/MediamondAdsAsync.js$domain=video.mediaset.it
 @@||mymovies.it/live/myads/preroll/$object-subrequest
 @@||oasjs.kataweb.it/adsetup.js$domain=video.repubblica.it
