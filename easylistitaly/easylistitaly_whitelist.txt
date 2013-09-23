@@ -16,10 +16,10 @@
 @@||adv.rtl.it/crossdomain.xml$object-subrequest
 @@||adv.rtl.it/www/delivery/fc.php?*&zones=pre-roll$object-subrequest
 @@||adv.sportube.tv/adv/www/delivery/ajs.php?$script,domain=fc-suedtirol.com|sportube.tv
-@@||adv.tre.it/www/$image,script
+@@||adv.tre.it/www/$image,script,$~third-party
 @@||ansa.it/web/video/videoad.swf$object-subrequest
 @@||ansa.it^*/ad-gallery/$image
-@@||antonioranesi.it/cache/Lavori/Pubblicita/
+@@||antonioranesi.it/cache/Lavori/Pubblicita/$~third-party
 @@||areanapoli.it/adv/fb-fan-box.html?$subdocument
 @@||bs.serving-sys.com/crossdomain.xml$object-subrequest,domain=sky.it
 @@||dotandad.com/crossdomain.xml$object-subrequest,domain=r101.it
