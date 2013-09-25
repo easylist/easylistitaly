@@ -419,6 +419,7 @@ ilsole24ore.com##.fabbrica24
 ilmanifesto.it##.fascia_Arial
 masterviaggi.it##.fieldset_sponsor
 livesicilia.it##.flash-box-a-sponsor-2
+cazzofiga.com##.footer-banner-wrapper
 gazzettadasti.it##.footer-rotate-banner
 chievocalcio.tv##.footer-sponsor-container
 violachannel.tv##.footer_home
