@@ -180,6 +180,7 @@
 ||corriereobjects.it^*/icon_csnai_shared.png
 ||corrierinocampaniasport.it^*/banner_
 ||corrierinocampaniasport.it^*/menna.jpg
+||dagospia.com/_include/banner/
 ||datasport.it/graphic/img/banner_
 ||datasport.it/graphic/img/bannerspettacolo.gif
 ||datasport.it/graphic/img/trenoescooter.gif

@@ -168,6 +168,7 @@ boomerangtv.it,dissacration.com,eurogamer.it,fiscaleweb.com,geekissimo.com,ginge
 ilgazzettinovesuviano.com###leaderboard-footer
 bergamosera.com###leaderboard_wrapper
 dottorsalute.info###leaderboardspace
+dagospia.com###left-160x90
 mailbeta.libero.it###leftBoxIFrame
 megalab.it###left_skyscraper
 telesud3.com###linkamici
@@ -202,6 +203,7 @@ cronachemaceratesi.it###quattrownet_468x60
 moto.it###rchm_overlay
 ticinonews.ch###rectangleleaderhome1_FormView1_ctl00_Banmanpro3Label
 everyeye.it###richmedia
+dagospia.com###right-160x90
 sapere.it###s24box1
 sapere.it###s24box2
 sapere.it###s24square
@@ -301,7 +303,7 @@ fantagazzetta.com,gamemag.it,phicatube.net##.ads
 meteowebcam.it##.ads_menu
 ilsecoloxix.it##.adsense
 meteowebcam.it##.adsense_menu
-a-realestate.it,adessoin.tv,animalidalmondo.it,ansa.it,beauty.it,esseresani.it,faidatemania.it,giornalettismo.com,guidecucina.it,ideeviaggi.it,ilsole24ore.com,iobloggo.com,iogames.it,iomobile.it,lavoroefinanza.it,mammaebambino.it,nonsolocultura.it,odiami.it,outcast.it,pianetagreen.it,pianetamotori.it,radiolina.it,radiomontecarlo.net,romagnaoggi.it,sky.it,sportpower.it,tuttopercasa.it,verytech.it,virgilio.it,vivalascuola.it##.adv
+a-realestate.it,adessoin.tv,animalidalmondo.it,ansa.it,beauty.it,dagospia.com,esseresani.it,faidatemania.it,giornalettismo.com,guidecucina.it,ideeviaggi.it,ilsole24ore.com,iobloggo.com,iogames.it,iomobile.it,lavoroefinanza.it,mammaebambino.it,nonsolocultura.it,odiami.it,outcast.it,pianetagreen.it,pianetamotori.it,radiolina.it,radiomontecarlo.net,romagnaoggi.it,sky.it,sportpower.it,tuttopercasa.it,verytech.it,virgilio.it,vivalascuola.it##.adv
 motori.it##.adv-items
 delleconomia.it##.adv200
 virgilio.it##.advTuning
