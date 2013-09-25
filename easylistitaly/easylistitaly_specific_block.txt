@@ -697,6 +697,7 @@
 ||romanews.eu/upload/assets/files/*.swf?linkto=/php/redirect.php?
 ||romatoday.it/images/skin/
 ||rosalio.it^*/adv/
+||rtl.it^*/ico_iTunes-Download-
 ||rtl.it^*/itunes_btn_
 ||rtl.it^*_ban_
 ||salernonotizie.it/images/bannerinternetfree.gif

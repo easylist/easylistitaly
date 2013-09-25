@@ -441,6 +441,7 @@ gazzettadasti.it##.homepage-central-ban
 gazzetta.it##.info-quote
 sardegnareporter.it##.innerfade[style="margin-bottom: 10px; position: relative; height: 295px;"]
 motousate.it##.item.link
+rtl.it##.itunes-btn
 jacktech.it##.jk_banner
 corrieredellosport.it##.label_sponsor_sp
 foxtv.it,guidasicilia.it,la7.it,today.it##.leaderboard
