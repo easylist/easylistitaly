@@ -121,6 +121,7 @@ fattidicronaca.it,pourfemme.it,qnm.it,tecnocino.it,tecnozoom.it,tuttogratis.it,v
 iodonna.it,leiweb.it###buy-now
 gamesvillage.it###buy_amazon
 treccani.it###campagnaBox
+camionsupermarket.it###center_banner
 virgilio.it###cht_banner
 libero.it###chunnel-affari-300x170
 acquariofilia.biz###collapseobj_sidebar_google
