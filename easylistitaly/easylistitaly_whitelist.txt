@@ -83,4 +83,7 @@
 @@||youreporter.it/adv/ova-matrix.xml.php?$object-subrequest
 ! Anti-Adblock
 @@||hwupgrade.org/forum/advertisement.js
+@@||tvgratis.altervista.org^$elemhide
+@@||tvgratis.altervista.org^*#$image
+@@||tvgratis.altervista.org^*/advertisement.js
 @@||violanews.com/js/adframe.js
