@@ -66,6 +66,7 @@
 @@||rtax.criteo.com/delivery/rta/rta.js?$script,domain=webmail.virgilio.it
 @@||serving-sys.com/BurstingPipe/adServer.bs?$object-subrequest,domain=sky.it
 @@||servizi-media-js.tiscali.it/cp/javascript/default/it/main/revsci.js$domain=mail.tiscali.it
+@@||serviziopubblico.it/media/js/init_f4m_doubleclick.js
 @@||smartadserver.com/a/diff/*/show42.asp?$object-subrequest,domain=popcorntv.it
 @@||smartadserver.com/call/pubx/$object-subrequest,domain=popcorntv.it
 @@||smartadserver.com/crossdomain.xml$object-subrequest,domain=popcorntv.it
