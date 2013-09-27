@@ -3,6 +3,7 @@
 ||6sicuro.it/widgets/$third-party
 ||85.115.8.249^$image,domain=~chunnel.de.ip
 ||ad.edision-nord.it^
+||ad.jamba.it^
 ||ad.ricevitori-digitali.com^
 ||adagiobanner.s3.amazonaws.com^
 ||advx.esprimo.com^
