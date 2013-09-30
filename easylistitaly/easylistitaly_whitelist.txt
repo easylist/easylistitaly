@@ -30,7 +30,7 @@
 @@||download.deejay.it/adv/podcast/$object-subrequest
 @@||edintorni.net/related/service/*/jscript/$script,domain=amicidimotociclismo.it|armietiro.it|automobilismo.it|businessmagazine.it|ciclismo.it|cucinare.meglio.it|fotografidigitali.it|freeonline.org|gamemag.it|giallozafferano.it|girlpower.it|hwfiles.it|hwupgrade.it|ilfattoquotidiano.it|ilgiorno.it|ilquotidianodellacalabria.it|ilrestodelcarlino.it|ilsecoloxix.it|iltempo.it|informarexresistere.fr|invidia.it|lagazzettadelmezzogiorno.it|lanazione.it|macitynet.it|motociclismo.it|pianetadonna.it|quotidiano.net|runnersworld.it|studenti.it|tennisitaliano.it|unita.it|velaemotore.it|yourself.it
 @@||eyewonder.com^*/video/$object-subrequest,domain=serviziopubblico.it
-@@||files.adform.net/banners/stream/$object-subrequest,domain=la7.tv|liberoquotidiano.it
+@@||files.adform.net/banners/stream/$object-subrequest,domain=la7.tv|liberoquotidiano.it|sky.it
 @@||foolbite.com/foolbite/*_pubblicita_$~third-party
 @@||gelocal.it/adimages/
 @@||google.com/ads/search/module/ads/*/search.js$domain=zoover.ch|zoover.it
@@ -75,6 +75,8 @@
 @@||static.youreporter.it/adv/player.swf$object
 @@||tiscali.ad.dotandad.com/crossdomain.xml$object-subrequest,domain=ansa.it|tiscali.it
 @@||tiscali.ad.dotandad.com/tiscali.jsp?mpo=vast2&mpt=$object-subrequest,domain=ansa.it|tiscali.it
+@@||track.adform.net/crossdomain.xml$object-subrequest,domain=sky.it
+@@||track.adform.net/serving/videoad/?$object-subrequest,domain=sky.it
 @@||video1.italiaoggi.it/movie/movie/adserver_$object,object-subrequest
 @@||video1.milanofinanza.it/movie/movie/adserver_$object,object-subrequest
 @@||vox-static.liverail.com^*/liverail_preroll.swf$object,domain=786cast.tv
