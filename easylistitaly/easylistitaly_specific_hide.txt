@@ -268,6 +268,7 @@ ilsecoloxix.it###toursoft-cn
 corriere.it,gazzetta.it###tv-adv
 canali16.altervista.org###up
 tipiace.it###vetrina
+arezzoweb.it###vetrina_premium
 hdblog.it###vetrine_kelkoo
 lastampa.it###videobox_wrapper
 oggitreviso.it###views-banner_pop_up-95-926
