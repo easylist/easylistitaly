@@ -612,6 +612,7 @@
 ||professionemotori.it/wp-content/uploads/panini-box.jpg
 ||professionemotori.it/wp-content/uploads/williamHillbox.png
 ||professionemotori.it/wp-content/uploads/wwf-242x160.jpg
+||pubblicitaitalia.it/skin_
 ||pubblicitaitalia.it^*/background.jpg
 ||pubblicitaitalia.it^*banner_
 ||puglialive.net/dfiles/banners/
