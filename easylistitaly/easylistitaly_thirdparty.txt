@@ -100,6 +100,7 @@
 ||libreriadelsanto.it/banners/$third-party
 ||linearadio.it/bnrs/
 ||locandinebest.net/locandina/$subdocument,third-party
+||macrolibrarsi.it/banners/
 ||macrolibrarsi.org/banner/
 ||mmvid.s3.amazonaws.com^
 ||neonisi.com^*/items.external?$third-party
