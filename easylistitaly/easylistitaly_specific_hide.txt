@@ -355,6 +355,7 @@ cittaceleste.it,juvenews.eu##.bannerNelTesto
 avvenire.it,borsaitaliana.it##.bannerTop
 ilquotidianodellacalabria.it##.banner_186x290
 ilquotidianodellacalabria.it##.banner_234x90
+spaziofilm.it##.banner_300
 ilmattinodifoggia.it##.banner_300x250_3
 everyeye.it##.banner_600_new
 ilmattinodifoggia.it##.banner_990x30
