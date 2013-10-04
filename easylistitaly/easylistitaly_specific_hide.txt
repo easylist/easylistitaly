@@ -155,6 +155,7 @@ ilsecoloxix.it###head_banners
 cronachemaceratesi.it###head_sponsor
 modenaonline.info###header-banner-pane
 rinnovabili.it###header-bottom
+marigliano.net###header-top
 tempoitalia.it###headerBanner
 cani.com###headerBoard-box
 lascommessasportiva.it###header_banner
