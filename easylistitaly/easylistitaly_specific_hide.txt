@@ -361,6 +361,7 @@ spaziofilm.it##.banner_300
 ilmattinodifoggia.it##.banner_300x250_3
 everyeye.it##.banner_600_new
 ilmattinodifoggia.it##.banner_990x30
+rsvn.it##.banner_BodyTop
 nqnews.it##.banner_Leaderboard
 professionecalcio.net,professionemotori.it##.banner_after_feat
 liberoquotidiano.it##.banner_apertura
@@ -378,9 +379,11 @@ livesicilia.it##.banner_leaderboard
 nqnews.it##.banner_news
 galileonet.it##.banner_oriz
 pubblicitaitalia.it##.banner_over_footer
+rsvn.it##.banner_panel
 ipadevice.com,ispazio.net##.banner_right_sidebar_big
 ipadevice.com,ispazio.net##.banner_right_sidebar_small
 orgoglionerd.it##.banner_rotation
+rsvn.it##.banner_spalla
 ipoditalia.it##.banner_topright
 galileonet.it##.banner_vert
 trovaprezzi.it##.bannerdiv
@@ -396,7 +399,7 @@ wallstreetitalia.com##.bestbuybiz
 losportivo.sm##.bg_blocchi
 ilmattinodifoggia.it##.bgbanner
 ilcapoluogo.com##.block-view-bannerSlide
-ilquotidiano.it,parmasera.it,piacenzasera.it##.box-attico
+ilquotidiano.it,parmasera.it,piacenzasera.it,rsvn.it##.box-attico
 notiziaoggi.it,settegiorni.it##.box-banner-menu
 sportnews.bz##.box-fullbanner
 ilgiornaledivicenza.it##.box-skyscrapers
