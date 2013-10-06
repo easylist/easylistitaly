@@ -183,8 +183,6 @@ itespresso.it###megabanner
 metalitalia.com###middle-home
 udinese.it###mod-udinese-sponsor-panel-fulllength
 ciao.it###mod_ph_merchoffer
-famigliacristiana.it###molwidget
-ilgazzettino.it,ilmattino.it,ilmessaggero.it,leggo.it###molwidget300
 red-live.it###mpu
 ebay.it###mpu-container
 vivicool.it###navpages
@@ -311,6 +309,7 @@ meteowebcam.it##.ads_menu
 ilsecoloxix.it,pubblicitaitalia.it##.adsense
 meteowebcam.it##.adsense_menu
 a-realestate.it,adessoin.tv,animalidalmondo.it,ansa.it,beauty.it,dagospia.com,esseresani.it,faidatemania.it,giornalettismo.com,guidecucina.it,ideeviaggi.it,ilsole24ore.com,iobloggo.com,iogames.it,iomobile.it,lavoroefinanza.it,mammaebambino.it,nonsolocultura.it,odiami.it,outcast.it,pianetagreen.it,pianetamotori.it,radiolina.it,radiomontecarlo.net,romagnaoggi.it,sky.it,sportpower.it,tuttopercasa.it,verytech.it,virgilio.it,vivalascuola.it##.adv
+famigliacristiana.it##.adv-box
 motori.it##.adv-items
 delleconomia.it##.adv200
 virgilio.it##.advTuning
