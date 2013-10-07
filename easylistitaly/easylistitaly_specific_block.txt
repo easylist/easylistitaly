@@ -278,6 +278,7 @@
 ||gayclubbing.it/banner%20
 ||gazzetta.it^*/adv/
 ||gazzetta.it^*/includemanager/pub/
+||gazzettabenevento.it/Sito2009/image/banner/
 ||gazzettadicaserta.net/banner/
 ||gazzettadiparma.it/gfx/txtlink/
 ||gazzettadiparma.it/swf/autozatti_14062013.swf
