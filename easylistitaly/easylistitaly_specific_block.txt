@@ -856,6 +856,7 @@
 ||tuttosport.com/res/swf/ova-jw.swf$object-subrequest
 ||tuttosport.com/res/swf/ova.swf$object-subrequest
 ||tuttosport.com^*/label_williamhill.png
+||tv2000.it^*/banner/
 ||tvpitalia.it/sponsor/
 ||tvzoom.it/images/banners/
 ||tvzoom.it/minicms/linkwind.png
