@@ -760,6 +760,7 @@
 ||spaziogames.it/banner/
 ||spaziogames.it/images/backgrounds/
 ||spaziointer.it/wp-content/uploads/2013/05/pushbar_2008.gif
+||spaziointer.it^*/roulette_234x60-1.gif
 ||spaziomilan.it^*/banner_
 ||spaziomilan.it^*/milancamp.gif
 ||spoletonline.com/banner/
