@@ -20,7 +20,7 @@ ilgazzettinovesuviano.com###adsensing
 la7.it,ustation.it###adv
 3bmeteo.com###adv_5
 quattroruote.it###adv_wideleaderboard
-it.msn.com,sanihelp.it###advertisement
+it.msn.com,rockol.it,sanihelp.it###advertisement
 qds.it###altro
 outcast.it###amazon
 ilsole24ore.com###annunci
