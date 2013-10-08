@@ -507,7 +507,7 @@ film.it##.rightBoxAmazon
 cinquegiorni.it##.rightbanner
 gazzettadasti.it##.rotate-banner
 nonsolocap.it##.ru
-gaywave.it##.sectCntGoogle3
+gaywave.it,haisentito.it##.sectCntGoogle3
 tio.ch##.sfondoPubListaNews
 softonic.it##.show_banner_down_leaderboard
 style.it##.side-gallery
