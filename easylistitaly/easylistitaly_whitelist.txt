@@ -21,6 +21,7 @@
 @@||ansa.it^*/ad-gallery/$image
 @@||antonioranesi.it/cache/Lavori/Pubblicita/$~third-party
 @@||areanapoli.it/adv/fb-fan-box.html?$subdocument
+@@||banneradmin.rai.it/crossdomain.xml$object-subrequest
 @@||bs.serving-sys.com/crossdomain.xml$object-subrequest,domain=sky.it
 @@||dotandad.com/crossdomain.xml$object-subrequest,domain=r101.it
 @@||dotandad.com/mediamond.jsp?$object-subrequest,domain=r101.it
