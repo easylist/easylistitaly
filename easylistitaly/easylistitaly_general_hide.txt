@@ -1,6 +1,7 @@
 ###ADVrettangolo
 ###ADVrettangolopiede
 ###ADVstriscia
+###MediamondAd_bp
 ###MediamondAd_rn_2
 ###MediamondAd_rn_u
 ###Sponsor728x90Top
