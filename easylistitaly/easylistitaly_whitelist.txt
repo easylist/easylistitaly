@@ -86,6 +86,8 @@
 @@||youreporter.it/adv/ova-matrix-yrn.xml.php?$object-subrequest,domain=youreporternews.it
 @@||youreporter.it/adv/ova-matrix.xml.php?$object-subrequest
 ! Anti-Adblock
+@@||blogspot.com^*#$image,domain=dataok.altervista.org
+@@||dataok.altervista.org^$elemhide
 @@||hwupgrade.org/forum/advertisement.js
 @@||tvgratis.altervista.org^$elemhide
 @@||tvgratis.altervista.org^*#$image
