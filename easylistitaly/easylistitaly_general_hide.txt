@@ -71,6 +71,7 @@
 ##.pubblicita
 ##.pubblicitaGoogle
 ##.pubblicitaSlider
+##.pubblicita_col1
 ##.pubblicitapremium
 ##.skinAdv02
 ##.sponsor160x600Dx
