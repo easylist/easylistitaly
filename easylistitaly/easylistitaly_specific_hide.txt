@@ -687,6 +687,7 @@ wintricks.it##div[style="width:980px;height:90px;margin: 0 auto;background:none"
 metronews.it##div[style="width:990px; margin-left:10px; float:left; margin-bottom:10px; background-color:#FFD302"]
 meteoweb.eu##div[style="width:auto; min-width:300px; height:auto; min-height:250px; margin:0 0 3px 3px; float:right;"]
 calcioweb.eu##div[style="width:auto; min-width:300px; height:auto; min-height:250px; margin:0 2px 2px 0; float:left;"]
+casa-cinema.tv##div[style="z-index: 99999; position: fixed; width: 100%; background: none repeat scroll 0% 0% rgb(251, 236, 173); overflow: hidden; border-bottom: 1px solid rgb(112, 112, 112); top: 0px; left: 0px; margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: Verdana,Geneva,sans-serif;"]
 meteogiornale.it##iframe[width="655"][height="104"]
 cinematografo.it##img[alt="banner"]
 spaziogames.it##img[src="/img/common/blank.gif"][style="width: 99%; height: 99%;"]
