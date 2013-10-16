@@ -595,6 +595,7 @@
 ||oxfordparavia.it/img/babylon.gif
 ||paeimprese.it^*/downloadfilebanner.php?
 ||palermomania.com/images/banner/
+||panorama.it^*-promobox/
 ||parmasera.it^*/img_banner/
 ||pc-facile.com/images/banner/
 ||pctuner.net/banner/

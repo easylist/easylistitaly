@@ -107,7 +107,7 @@ macitynet.it###boxItunes
 telefonino.net###boxShopping
 diesis.it###box_banner
 libero.it###box_expedia_case
-italiaoggi.it,milanofinanza.it###box_immo
+italiaoggi.it,milanofinanza.it,panorama.it###box_immo
 masterviaggi.it###box_link_sponsor
 ricettedelmondo.it###box_pub2
 centrometeoitaliano.it###box_publi
@@ -539,6 +539,7 @@ agichina24.it,trend-online.com##.strip
 style.it##.style_promo
 ciao.it##.tableSponsLinks
 genova24.it,ivg.it##.takeover
+panorama.it##.teaser-immobiliare
 tiscali.it##.teaserDx
 quattroruote.it##.telecamera-address
 ansa.it##.text-link
