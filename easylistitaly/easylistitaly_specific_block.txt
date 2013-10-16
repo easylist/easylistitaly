@@ -429,6 +429,7 @@
 ||internapoli.it/public/spot/
 ||internazionale.it/assets/img/wideskin-
 ||iobloggo.com^*/banner/
+||iovivoaroma.it/public/banners/
 ||iphoneitalia.com.s3.amazonaws.com/skin-
 ||iphoneitalia.com^*/skin/
 ||ispazio.net^*/ispazio-skin-
