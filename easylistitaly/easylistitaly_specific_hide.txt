@@ -52,6 +52,7 @@ paginegialle.it###banner300x250_1
 sardegna24.net,tiscali.it###banner300x250c20
 telefonino.net###banner300x250pos2
 cronacamilano.it###banner728
+ilmeteo.it###banner728x90bottom
 ansa.it###banner970x30strip
 ansa.it###banner984x45strip
 romagnaoggi.it###banner990
