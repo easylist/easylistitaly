@@ -4,6 +4,7 @@
 ||betclic.it/partner.aspx?$popup
 ||funpage.it^$popup,third-party
 ||goo.gl^$popup,domain=ispazio.net
+||gooble.info^$popup
 ||incontripersesso.com/landing/$popup
 ||okincontri.com^$popup,third-party
 ||partypoker.it/td/$popup
