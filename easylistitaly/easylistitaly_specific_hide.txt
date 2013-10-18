@@ -467,6 +467,7 @@ giornalettismo.com##.liq-frame
 gazzetta.it##.list-eventi
 myword.it##.login-container[style="height:92px;border:0px solid red;text-align:center;"]
 julienews.it##.long_banner_row
+rietilife.it##.lshowcase-logos
 opinione.it##.manchette
 livesicilia.it##.manchette-l
 livesicilia.it##.manchette-r
