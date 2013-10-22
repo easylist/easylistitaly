@@ -779,6 +779,7 @@
 ||stadionews.it/clienti/
 ||stadionews.it^*_banner*.gif
 ||staseraintv.com/simg/rebirthing2012_banner.png
+||staseraintv.it/simg/rebirthing2012_banner.png
 ||statoquotidiano.it/banner/
 ||stiledimoda.it/banner/
 ||stiledimoda.it/n/
