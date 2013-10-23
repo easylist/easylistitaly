@@ -89,6 +89,7 @@
 @@||blogspot.com^*#$image,domain=dataok.altervista.org
 @@||dataok.altervista.org^$elemhide
 @@||hwupgrade.org/forum/advertisement.js
+@@||italiatv.org^$elemhide
 @@||tvgratis.altervista.org^$elemhide
 @@||tvgratis.altervista.org^*#$image
 @@||tvgratis.altervista.org^*/advertisement.js
