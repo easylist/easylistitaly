@@ -703,6 +703,7 @@
 ||rockit.it/dbimg/7banner/
 ||rockit.it/res/css3/skin_
 ||rocknrollradio.it/images/banners/
+||rollingstonemagazine.it^*/banner/
 ||romacapitalenews.com^*-300.jpg
 ||romacapitalenews.com^*/romasuonagratis.gif
 ||romacapitalenews.com^*_banners/

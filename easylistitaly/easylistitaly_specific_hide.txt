@@ -338,6 +338,7 @@ avmagazine.it,ilcrotonese.it,tomshw.it##.background-link
 lavorincasa.it##.bak
 milanofinanza.it,oggitreviso.it##.ban
 agi.it,agichina24.it,airdave.it,corrieremercantile.it,gazzettahockey.it,giochidicalcio.com,html.it,ilmanifesto.it,lindro.it,lipari.biz,macitynet.it,oggitreviso.it,orangedropdesign.com,orvietosi.it,pmi.it,programmitv.com,pubblicitaitalia.it,r101.it,rcdc.it,rockit.it,softonic.it,strettoweb.com,ticinolibero.ch##.banner
+rollingstonemagazine.it##.banner-abbonamenti
 telesud3.com##.banner-destra
 telesud3.com##.banner-destra-tyf
 genova24.it,ivg.it##.banner-middle-board
@@ -643,6 +644,7 @@ ilfattoquotidiano.it##div[style="width: 600px; min-height: 42px; border: 0px non
 regginacalcio.com##div[style="width: 702px; height:300px; border: 4px solid #fff; margin-bottom: 0px;"]
 foxlife.it##div[style="width: 728px; height: 90px; margin: 0px auto 10px auto; background:none;"]
 raffaeleauriemma.com##div[style="width: 822px; height: 70px; visibility: visible;"]
+rollingstonemagazine.it##div[style="width: 953px; height: 80px; position: relative; float:left;background:url(http://www.rollingstonemagazine.it/wp-content/themes/rs2013/images/banner/banner-RS10.gif) no-repeat top left; border:1px solid #ccc; margin:5px 0 15px 12px;"]
 corrierinocampaniasport.it##div[style="width: 960px; height: 120px; visibility: visible;"]
 paginebianche.it##div[style="width: 978px; height: 45px;"]
 lastampa.it##div[style="width: 990px; height: 90px;"]
