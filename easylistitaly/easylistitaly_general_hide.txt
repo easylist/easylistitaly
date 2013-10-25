@@ -2,6 +2,7 @@
 ###ADVrettangolopiede
 ###ADVstriscia
 ###MediamondAd_bp
+###MediamondAd_bp_1
 ###MediamondAd_rn_2
 ###MediamondAd_rn_u
 ###Sponsor728x90Top
@@ -25,6 +26,7 @@
 ###adv_sponsor_categorico
 ###advcolonnadx
 ###advcolonnasx
+###advdivbp1
 ###annunciGoogle
 ###annunci_google
 ###blocco_servizi_sponsor1
