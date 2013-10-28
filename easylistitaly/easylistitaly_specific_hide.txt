@@ -144,6 +144,7 @@ unita.it###eimp[style="width:298px;float:left;margin-top:20px;height:248px;borde
 comingsoon.it###expSkin
 tipiace.it###externalbanner
 avvisatore.ilsecoloxix.it,shippingonline.ilsecoloxix.it,ttmweb.it###footer
+ladige.it###footer-leaderboard
 red-live.it###footer_banner
 fc-suedtirol.com###footersponsor
 ilcap.it###gadsense
