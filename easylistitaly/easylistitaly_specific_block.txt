@@ -885,6 +885,8 @@
 ||varesenews.it/banner/
 ||vb33.it/images/banners/
 ||venetouno.it/media/imgbanners/
+||veronica.it/images/banners/
+||veronica.it/templates/youscene/images/backgrounds/background
 ||viamichelin.it/htm/cmn/AFS*.htm?
 ||viamichelin.it/htm/cmn/IFGdH*.htm?
 ||vicenzalive.it/banners/

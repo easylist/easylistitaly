@@ -176,6 +176,7 @@ bergamosera.com###leaderboard_wrapper
 dottorsalute.info###leaderboardspace
 dagospia.com###left-160x90
 mailbeta.libero.it###leftBoxIFrame
+veronica.it###leftSkin
 megalab.it###left_skyscraper
 telesud3.com###linkamici
 asroma.it###logos
@@ -209,6 +210,7 @@ moto.it###rchm_overlay
 ticinonews.ch###rectangleleaderhome1_FormView1_ctl00_Banmanpro3Label
 everyeye.it###richmedia
 dagospia.com###right-160x90
+veronica.it###rightSkin
 sapere.it###s24box1
 sapere.it###s24box2
 sapere.it###s24square
