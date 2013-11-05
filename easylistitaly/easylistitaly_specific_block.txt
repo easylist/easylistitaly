@@ -876,6 +876,7 @@
 ||twww.tv^*/background.jpg
 ||ucciotube.altervista.org/skyscraper.html
 ||udinese.it^*/sponsor/
+||umbriaingol.it//immagini/File_banner/
 ||unionemonregalese.it/UP_BANNERS/
 ||uscatanzaro.net/images/banners/
 ||ustation.it/img/*_skin.jpg
