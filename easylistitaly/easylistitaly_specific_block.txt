@@ -78,6 +78,9 @@
 ||banneradmin.rai.it^
 ||baseball.it/banner_
 ||bazar.it/backfiles/banners/
+||bergamoesport.it^*/banner/
+||bergamoesport.it^*/bg-body.jpg
+||bergamoesport.it^*/sponsor/
 ||bergamonews.it/agp/
 ||bergamosera.com^*/wp-banners/
 ||bikeracing.it/bannersbk.jpg
