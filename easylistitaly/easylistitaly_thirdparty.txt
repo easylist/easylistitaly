@@ -127,6 +127,7 @@
 ||rdn.it/images/BANNER/
 ||regaliper.me^$subdocument,third-party
 ||rivenditori.aruba.it^$third-party
+||roi.ediscom.it^
 ||sanistatic.it/*/300x100_
 ||scambiobanner.aruba.it^$third-party
 ||scambiobanner.net-parade.it^$third-party
