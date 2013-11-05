@@ -319,7 +319,7 @@ famigliacristiana.it##.adv-box
 motori.it##.adv-items
 delleconomia.it##.adv200
 virgilio.it##.advTuning
-amonapoli.it,giardini.biz,morningstar.it,tvtv.it##.advert
+addicted2play.com,amonapoli.it,giardini.biz,morningstar.it,tvtv.it##.advert
 cubovision.it,fastweb.it,gazzetta.it##.advertising
 filodiritto.com##.altro_box_banner_dx
 filodiritto.com##.altro_box_banner_sx
