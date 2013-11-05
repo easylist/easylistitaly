@@ -180,6 +180,7 @@ veronica.it###leftSkin
 megalab.it###left_skyscraper
 telesud3.com###linkamici
 asroma.it###logos
+eurogamer.it###low-leaderboard
 it.msn.com###markette
 max.rcs.it###max_ppn
 itespresso.it###megabanner
@@ -319,7 +320,7 @@ famigliacristiana.it##.adv-box
 motori.it##.adv-items
 delleconomia.it##.adv200
 virgilio.it##.advTuning
-addicted2play.com,amonapoli.it,giardini.biz,morningstar.it,tvtv.it##.advert
+addicted2play.com,amonapoli.it,eurogamer.it,giardini.biz,morningstar.it,tvtv.it##.advert
 cubovision.it,fastweb.it,gazzetta.it##.advertising
 filodiritto.com##.altro_box_banner_dx
 filodiritto.com##.altro_box_banner_sx
