@@ -888,6 +888,7 @@
 ||vaol.it/include/mod/layout1/images/bps.swf
 ||varesenews.it/banner/
 ||vb33.it/images/banners/
+||venetogol.it//immagini/File_banner/
 ||venetouno.it/media/imgbanners/
 ||veronica.it/images/banners/
 ||veronica.it/templates/youscene/images/backgrounds/background
