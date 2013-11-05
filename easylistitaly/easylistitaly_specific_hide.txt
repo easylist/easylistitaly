@@ -204,6 +204,7 @@ deejay.it###ppn
 ok-salute.it###ppn_center
 ilgiornale.it###primopiano
 ciao.it###productlevellink
+mtv.it###promoInfo
 loudvision.it###prop-leader
 nonsolocap.it###qk
 cronachemaceratesi.it###quattrownet_468x60
