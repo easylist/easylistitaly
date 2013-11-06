@@ -17,6 +17,7 @@
 ||agenziapuntonet.it/banner/
 ||aimon.it/banner_
 ||allosponsor.it/images/$third-party
+||alpinotizie.it^*/banner.aspx?
 ||amazonaws.com/cronachemaceratesi/banner/
 ||andreafranzoso.com/banner/
 ||angelobonorino.com/neve/*268x90.gif
@@ -85,6 +86,7 @@
 ||iltelaiodipenelope.it/banner_exchange/
 ||immobiliagest.it^$subdocument,third-party
 ||immobiliare.it/widget/js/populateexternalform.js$third-party
+||immobz.it^*/banner.aspx?
 ||incontripersesso.com/banner/
 ||inetweek.it/comincom/widget/
 ||informaticainitalia.it^$script,third-party

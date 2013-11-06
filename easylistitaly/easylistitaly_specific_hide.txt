@@ -554,7 +554,7 @@ quattroruote.it##.telecamera-address
 ansa.it##.text-link
 ilfattoquotidiano.it##.textlink
 excite.it##.textlink_content
-dica33.it##.top-banner
+dica33.it,radionbc.it##.top-banner
 gazzettadasti.it##.top-left-ban
 gazzettadasti.it##.top-right-ban
 lastampa.it##.top-right-banner
