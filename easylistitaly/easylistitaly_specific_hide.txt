@@ -668,6 +668,7 @@ cronachemaceratesi.it##div[style="width:250px; height:250px; overflow:hidden; ma
 cronachemaceratesi.it##div[style="width:250px; height:250px; overflow:hidden; margin:5px auto;"]
 gelocal.it##div[style="width:294px; height:74px; border:3px solid #90c539; display:block; background-color:#90c539; cursor:pointer; margin:0 0 10px;"]
 gelocal.it##div[style="width:294px; height:74px; border:3px solid #e2001a; display:block; background-color:#90c539; cursor:pointer; margin:0 0 10px;"]
+unita.it##div[style="width:298px;float:left;margin-top:20px;height:148px;border:1px solid #cccccc; position:relative;"]
 panorama.it##div[style="width:300px; height:125px; background-image:url('http://www.panorama.it/statici/img_nuovosito/blocchetti/facileIT/box_ricerca/sfondo.gif'); font-family:Arial,Verdana,Helvetica,sans-serif !important; font-size:11px; overflow:hidden"]
 f1passion.it##div[style="width:300px; height:250px; margin-bottom:24px;"]
 giallozafferano.it,tomshw.it##div[style="width:300px; height:250px;"]
