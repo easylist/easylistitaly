@@ -238,6 +238,7 @@ rockit.it###skinbanner
 filmtv.it,ilcorrieredabruzzo.it###skinlink
 eurogamer.it###skyscraper
 primissima.it###space_banner
+mediaset.it###spalla-banner
 gazzetta.it,html.it,studionews24.com###sponsor
 pubblicitaitalia.it###sponsorTop
 canzoni.it###sponsor_footer
