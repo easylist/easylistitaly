@@ -521,6 +521,7 @@
 ||losportivo.sm/img/banner/
 ||lunico.eu/images/banners/
 ||macexchange.it/included/banner*.bfr
+||maidireborsa.it/banners/
 ||mailexpress.it/images/banner_
 ||mammedomani.it/images/banners/
 ||manduriaoggi.it/layout_nuovo/banner.asp
