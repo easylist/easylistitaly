@@ -70,6 +70,7 @@ spaziogames.it###banner_300
 ilsannioquotidiano.it###banner_468_60
 lastampa.it###banner_VideoBox
 primaonline.it###banner_bottom
+contosulconto.it###banner_content
 tuttobasket.net###banner_head
 laprovinciadicomo.it###banner_header
 lastampa.it###banner_maxticker
