@@ -281,6 +281,7 @@ automoto.it,moto.it###topboard
 ilsecoloxix.it###toursoft-cn
 corriere.it,gazzetta.it###tv-adv
 canali16.altervista.org###up
+megabass.it###var_width[style="width: 180px !important;"]
 tipiace.it###vetrina
 arezzoweb.it###vetrina_premium
 hdblog.it###vetrine_kelkoo

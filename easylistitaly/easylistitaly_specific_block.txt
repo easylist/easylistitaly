@@ -536,6 +536,7 @@
 ||mbenz.it/lidaolbia.jpg
 ||mediagol.it/images/sponsor/
 ||mediavideo24.com/inc/ova.swf$object-subrequest
+||megabass.it^*/banner_
 ||metallized.it/banner/
 ||meteo.it/images/banner/
 ||meteoweb.eu/adv/
