@@ -147,6 +147,7 @@
 ||smscellulari.it/pic/banner/$third-party
 ||solonapoli88.altervista.org/ban$subdocument
 ||spingitori.it/spnadv/
+||static.plista.com^*/resized/$third-party
 ||stbm.it/img/banner/300x100_
 ||stgy.it/images/banner-
 ||stgy.it/images/skin/
