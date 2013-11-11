@@ -146,6 +146,7 @@ unita.it###eimp[style="width:298px;float:left;margin-top:20px;height:248px;borde
 comingsoon.it###expSkin
 tipiace.it###externalbanner
 avvisatore.ilsecoloxix.it,shippingonline.ilsecoloxix.it,ttmweb.it###footer
+insegreto.it###footer-banners
 ladige.it###footer-leaderboard
 red-live.it###footer_banner
 fc-suedtirol.com###footersponsor
@@ -347,7 +348,7 @@ piacenzanight.com##.back_style
 avmagazine.it,ilcrotonese.it,tomshw.it##.background-link
 lavorincasa.it##.bak
 milanofinanza.it,oggitreviso.it##.ban
-agi.it,agichina24.it,airdave.it,corrieremercantile.it,gazzettahockey.it,giochidicalcio.com,html.it,ilmanifesto.it,lindro.it,lipari.biz,macitynet.it,oggitreviso.it,orangedropdesign.com,orvietosi.it,pmi.it,programmitv.com,pubblicitaitalia.it,r101.it,rcdc.it,rockit.it,softonic.it,strettoweb.com,ticinolibero.ch##.banner
+agi.it,agichina24.it,airdave.it,corrieremercantile.it,gazzettahockey.it,giochidicalcio.com,html.it,ilmanifesto.it,insegreto.it,lindro.it,lipari.biz,macitynet.it,oggitreviso.it,orangedropdesign.com,orvietosi.it,pmi.it,programmitv.com,pubblicitaitalia.it,r101.it,rcdc.it,rockit.it,softonic.it,strettoweb.com,ticinolibero.ch##.banner
 rollingstonemagazine.it##.banner-abbonamenti
 telesud3.com##.banner-destra
 telesud3.com##.banner-destra-tyf
@@ -581,6 +582,7 @@ ilsalvagente.it##.video
 tiscali.it##.w304.mB20
 tiscali.it##.w312.mB25
 fc-suedtirol.com##.werbung
+insegreto.it##.widget-banner
 ilfattoquotidiano.it##.widget_ifqbooks
 gazzettagiallorossa.it,orvietosi.it##.wp_bannerize
 allandroidnews.it##.wp_skyscraper_c2
