@@ -187,6 +187,7 @@ it.msn.com###markette
 max.rcs.it###max_ppn
 itespresso.it###megabanner
 metalitalia.com###middle-home
+mymovies.it###middle1_companion
 udinese.it###mod-udinese-sponsor-panel-fulllength
 ciao.it###mod_ph_merchoffer
 red-live.it###mpu
