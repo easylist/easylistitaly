@@ -236,7 +236,7 @@ iovivoaroma.it###skin_link_dx
 iovivoaroma.it###skin_link_sx
 cronachemaceratesi.it###skinabove
 rockit.it###skinbanner
-filmtv.it,ilcorrieredabruzzo.it###skinlink
+filmtv.it,ilcorrieredabruzzo.it,lazionews24.com###skinlink
 eurogamer.it###skyscraper
 primissima.it###space_banner
 mediaset.it###spalla-banner
