@@ -74,6 +74,7 @@
 ||superbanner.org^$third-party
 ||tekno4advertising.com^$third-party
 ||tgadv.it^$third-party
+||viralbeat.com^$third-party
 ||wbusiness.fr^$third-party
 ||widebanner.com^$third-party
 ||zanox-affiliate.de^$third-party
