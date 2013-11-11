@@ -541,6 +541,7 @@ fcparma.com##.sponsor-group
 treccani.it##.sponsorLogo
 gazzetta.it##.sponsored
 fc-suedtirol.com##.sponsorliste
+fcbolzano.it##.sponsors
 inter.it##.sponsorsSlider
 leggioggi.it##.spot-mini
 mostraip.com##.spot1
