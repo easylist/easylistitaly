@@ -382,6 +382,7 @@
 ||ilgiornale.it/static/file/non-giudicate.swf
 ||ilgiornale.it/static/widget_immobiliare/
 ||ilgiornale.it^*/img/adv/
+||ilgiornale.it^*/logo_lottomatica.jpg
 ||ilgiornale.it^*/paddy_power.gif
 ||ilgiornale.it^*/paddy_power_sport.gif
 ||ilgiornale.it^*_125x125.jpg
