@@ -569,7 +569,7 @@
 ||motori24.ilsole24ore.com/img2008/audimenutop_roll.jpg
 ||motorionline.com/banner/
 ||motorionline.com^*/banner_motorionline.gif
-||movieplayer.it/images/adv/
+||movieplayer.it/static/img/cinemapiu.jpg
 ||mrstiff.it/view/context/spot/
 ||mrwebmaster.it/files/menu_adv.js
 ||musicclub.it/banner/
