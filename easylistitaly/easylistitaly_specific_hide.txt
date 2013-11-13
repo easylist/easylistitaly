@@ -1,6 +1,7 @@
 hostingtalk.it###BannerBottom
 hostingtalk.it###BannerTop
 comingsoon.it###BnrRight1
+comingsoon.it###BnrRight2
 tgcom24.mediaset.it###ContentSpecialBox
 comingsoon.it###ExpTop
 sardegna24.net###Hbanner300x250c20
@@ -40,8 +41,9 @@ sportnews.bz###banner-leaderboard
 musicclub.it###banner-onstage-leaderboard
 ilnuovo.it###banner-right
 oggitreviso.it###banner-top
-corrieredelgiorno.com###banner1
-forzapescara.net###banner2
+comingsoon.it,corrieredelgiorno.com###banner1
+comingsoon.it,forzapescara.net###banner2
+comingsoon.it###banner3
 everyeye.it###banner300_v2
 telefonino.net###banner300x100Pos2
 telefonino.net###banner300x100Pos3
