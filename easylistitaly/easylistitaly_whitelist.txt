@@ -54,7 +54,7 @@
 @@||mediamond.it/MediamondAdsAsync.js$domain=video.mediaset.it
 @@||mymovies.it/live/myads/preroll/$object-subrequest
 @@||oasjs.kataweb.it/adsetup.js$domain=video.repubblica.it
-@@||online-retail.unicredit.it/adv/$subdocument,~third-party
+@@||online-retail.unicredit.it/adv/$~third-party
 @@||pad.mymovies.it/v9/adv/media/preroll/*.flv$object-subrequest
 @@||paesesera.it/design/paesesera/stylesheets/advertising.css
 @@||pagead2.googlesyndication.com/pagead/googlevideoadslibrary.swf$object-subrequest,domain=giochidicalcio.com
