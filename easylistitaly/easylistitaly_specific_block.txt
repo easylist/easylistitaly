@@ -147,6 +147,7 @@
 ||clandestinoweb.com/banner_
 ||clandestinoweb.com^*/banner_
 ||clandestinoweb.com^*/banners/
+||clandestinoweb.com^*/skin_
 ||click.html.it^
 ||climateobserver.it^*/banner-
 ||climateobserver.it^*/banner_

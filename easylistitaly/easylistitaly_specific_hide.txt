@@ -231,7 +231,7 @@ lonelyplanetitalia.it###side_banner_300_100
 troppoforte.net###sidebar
 metalitalia.com###sidebar-top
 mister-x.it###siti_amici
-tesionline.it###skin
+clandestinoweb.com,tesionline.it###skin
 serviziopubblico.it###skin-leaderboard
 cellulare-magazine.it,cellularemagazine.it###skin-top-container
 dragonballgt.it###skinClick
