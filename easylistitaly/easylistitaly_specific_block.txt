@@ -480,6 +480,8 @@
 ||lastampa.it^*/naturhouse/
 ||latina-oggi.it/public/img/banner-
 ||latina-oggi.it/public/img/bannerino-
+||latinaoggi.net/public/img/banner-
+||latinaoggi.net/public/img/bannerino-
 ||latitudeslife.com/magazine/adv/
 ||latitudeslife.com^*/banners/
 ||lavocedivenezia.it/player/banner/
