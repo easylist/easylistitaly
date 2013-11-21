@@ -175,6 +175,7 @@ avvenire.it###htmlcomponent18 > .boxAggiuntivi
 ladige.it,panorama.it###immob_box_ricerca
 r101.it###innamorarsiA101
 cittaceleste.it,juvenews.eu###itemBannerSottoImg
+macitynet.it###leader-wrapper
 boomerangtv.it,discoverychannel.it,dissacration.com,eurogamer.it,fiscaleweb.com,geekissimo.com,gingerandtomato.com,healthdesk.it,historychannel.it,ilcinemaniaco.com,ilgazzettinovesuviano.com,ilsannioquotidiano.it,iochiamo.com,lasiciliaweb.it,lussuosissimo.com,medicinalive.com,mondoreality.com,musickr.it,theapplelounge.com###leaderboard
 ilgazzettinovesuviano.com###leaderboard-footer
 bergamosera.com###leaderboard_wrapper
