@@ -11,6 +11,7 @@
 /annunciogoogle.
 /gfx/adv/*
 /inclusioni/adv/*
+/it/adv/*
 /materiali_adv/*
 /mediamondads.
 /pubblicit%c3%a0/*
