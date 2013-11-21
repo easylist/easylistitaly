@@ -90,6 +90,7 @@ cwi.it###banners
 telefonino.net###bannerstrip
 senigallianotizie.it###bbitalia_banner
 altalex.com,sentenze.net###bglink
+gizmodo.it###big-mega
 tuttogratis.it###bleft
 rumors.it###block-block-19
 rumors.it,trendystyle.it###block-block-2
