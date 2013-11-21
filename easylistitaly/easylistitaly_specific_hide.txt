@@ -404,6 +404,7 @@ orgoglionerd.it##.banner_rotation
 rsvn.it##.banner_spalla
 ipoditalia.it##.banner_topright
 galileonet.it##.banner_vert
+techarena.it##.bannercentro
 trovaprezzi.it##.bannerdiv
 you-ng.it##.banneritem
 centrometeo.com##.banneritemcenterdx
