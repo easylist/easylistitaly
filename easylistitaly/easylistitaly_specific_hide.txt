@@ -417,6 +417,7 @@ centrometeo.com##.banneritemcenterdx
 finanzaonline.com##.bannerlbforum
 messinaweb.tv##.bannerpostsingle
 nonsolocinema.com##.banners
+cremonaoggi.it##.bannersx
 musictory.it##.bannertop
 ticinolive.ch##.bannerwrap
 romagiornoenotte.it##.basebannerBox
@@ -491,11 +492,12 @@ gazzetta.it##.list-eventi
 myword.it##.login-container[style="height:92px;border:0px solid red;text-align:center;"]
 julienews.it##.long_banner_row
 rietilife.it##.lshowcase-logos
-opinione.it##.manchette
+cremonaoggi.it,opinione.it##.manchette
 erbanotizie.com,lecconotizie.com##.manchette-dx
 livesicilia.it##.manchette-l
 livesicilia.it##.manchette-r
 erbanotizie.com,lecconotizie.com##.manchette-sx
+cremonaoggi.it##.manchette2
 gazzettadasti.it##.medium-rotate-banner
 melamorsicata.it##.mela_ban_1
 melamorsicata.it##.mela_ban_2
@@ -519,6 +521,7 @@ neveitalia.it,stiledimoda.it,vanityfair.it##.promo
 dimensionesuonoroma.it##.promo-image
 dimensionesuonoroma.it##.promo-list
 corrieredellosport.it##.promo_art
+cremonaoggi.it##.promo_slider_wrapper
 gqitalia.it##.promobox
 italiapokerclub.com##.promotion
 gds.it,lastampa.it##.pubb
