@@ -20,6 +20,7 @@
 ||bannerexplosion.it^$third-party
 ||bannergratis.it^$third-party
 ||bannerout.com^$third-party
+||bannerplace.it^$third-party
 ||bannerporno.com^$third-party
 ||bannerpromotion.it^$third-party
 ||beead.it^$third-party
