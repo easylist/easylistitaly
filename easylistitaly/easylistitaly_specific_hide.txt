@@ -261,6 +261,7 @@ cinquegiorni.it###spotleft
 cinquegiorni.it###spotright
 animeclick.it###stile_link
 lastampa.it###storelocator
+valsassinanews.com###stripbanner
 autoxy.it###subito-sponsor
 html.it###suggested-links
 hdblog.it###sx
