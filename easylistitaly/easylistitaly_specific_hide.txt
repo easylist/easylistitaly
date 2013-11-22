@@ -53,6 +53,7 @@ telefonino.net###banner300x100TimPos1
 paginegialle.it###banner300x250_1
 sardegna24.net,tiscali.it###banner300x250c20
 telefonino.net###banner300x250pos2
+telefonino.net###banner300x250pos3
 cronacamilano.it###banner728
 ilmeteo.it###banner728x90bottom
 ansa.it###banner970x30strip
