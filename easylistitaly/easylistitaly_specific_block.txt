@@ -898,6 +898,7 @@
 ||ustation.it/img/*_skin.jpg
 ||ustation.it/img/telecom.swf
 ||valenza.it/banner/
+||vallesabbianews.it/files/Image/Banner/
 ||valori.it/banner/
 ||vanityfair.it/loaderframe.html
 ||vanityfair.it^*_105x65.jpg
