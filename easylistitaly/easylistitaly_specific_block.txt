@@ -117,6 +117,7 @@
 ||canali16.altervista.org/calcio.html
 ||casaeclima.com/images/banners/
 ||casaportale.com/public/uploads/
+||casateonline.it/public/banner/
 ||casedipiacere.it/images/banners/
 ||casertanews.it/bann.asp?
 ||catanzaroinforma.it/public/sponsor/
@@ -544,6 +545,7 @@
 ||mediagol.it/images/sponsor/
 ||mediavideo24.com/inc/ova.swf$object-subrequest
 ||megabass.it^*/banner_
+||merateonline.it/public/banner/
 ||metallized.it/banner/
 ||meteo.it/images/banner/
 ||meteoweb.eu/adv/
