@@ -182,6 +182,7 @@ ilgazzettinovesuviano.com###leaderboard-footer
 bergamosera.com###leaderboard_wrapper
 dottorsalute.info###leaderboardspace
 dagospia.com###left-160x90
+lecconotizie.com###left-domination
 mailbeta.libero.it###leftBoxIFrame
 veronica.it###leftSkin
 megalab.it###left_skyscraper
@@ -220,6 +221,7 @@ moto.it###rchm_overlay
 ticinonews.ch###rectangleleaderhome1_FormView1_ctl00_Banmanpro3Label
 everyeye.it###richmedia
 dagospia.com###right-160x90
+lecconotizie.com###right-domination
 veronica.it###rightSkin
 sapere.it###s24box1
 sapere.it###s24box2
@@ -276,6 +278,7 @@ liberatv.ch###ti_banner_top
 ilcapoluogo.com###tier
 hdblog.it###top
 america24.com,finanza.com,tuttolosportdiparma.it###top-banner
+lecconotizie.com###top-domination
 playme.it###topPromo
 lonelyplanetitalia.it###top_banner
 giornaledellamusica.it###top_banner_container
@@ -362,6 +365,7 @@ panorama.it##.banner-spalla-dx
 farevela.net##.banner-top
 ilcapoluogo.com,latinaoggi.net##.banner1
 ilcapoluogo.com,latinaoggi.net,pianetacellulare.it##.banner2
+lecconotizie.com##.banner234x60-right
 iljournal.it##.banner250
 outcast.it##.banner250250
 ilcapoluogo.com##.banner3
@@ -479,6 +483,7 @@ rtl.it##.itunes-btn
 jacktech.it##.jk_banner
 corrieredellosport.it##.label_sponsor_sp
 foxtv.it,guidasicilia.it,la7.it,today.it##.leaderboard
+lecconotizie.com##.leaderboard-bottom
 ilsole24ore.com##.link_expand
 mymovies.it##.linkblu[style="width:290px; cursor:pointer; margin-top:5px;"]
 giornalettismo.com##.liq-frame
@@ -546,6 +551,7 @@ ciao.it##.specialOfferMod
 gazzetta.it,ilgiornale.it,pubblicitaitalia.it,stickmangames.altervista.org##.sponsor
 ilmanifesto.it##.sponsor-box
 fcparma.com##.sponsor-group
+lecconotizie.com##.sponsor-rubrica
 treccani.it##.sponsorLogo
 gazzetta.it##.sponsored
 fc-suedtirol.com##.sponsorliste

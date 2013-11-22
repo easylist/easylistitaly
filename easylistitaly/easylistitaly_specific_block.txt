@@ -491,6 +491,9 @@
 ||lavorincasa.it/includes/bacheca/annunci/
 ||lazionews24.com/images/*/skin.jpg
 ||leccenews24.it/upload/banner/
+||lecconotizie.com^*/domination_
+||lecconotizie.com^*/PopUpLeopardi.jpg
+||lecconotizie.com^*/sponsor_
 ||left.it/wp-content/uploads/banners/
 ||leggilanotizia.it/images/bg-banner/
 ||leggilanotizia.it/userfiles/image/manchette/
