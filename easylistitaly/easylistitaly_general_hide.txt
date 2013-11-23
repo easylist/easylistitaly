@@ -86,7 +86,6 @@
 ##.tabella3Pubblicita
 ##.tabellaPubblicita
 ##.tccbanner
-##.upcloo-adv-content
 ##.view-pubblicita
 ##a[href^="http://adserver.ilmessaggero.it/"]
 ##a[href^="http://crazylead.com/video/"]
