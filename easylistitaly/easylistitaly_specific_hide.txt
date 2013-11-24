@@ -480,7 +480,6 @@ fantagazzetta.com##.h-box
 ilgiornaledivicenza.it##.header-box
 bow.it##.header_banner
 bora.la##.headerbtm
-mmorpgitalia.it##.headerwrapA
 gazzettadasti.it##.homepage-central-ban
 gazzetta.it##.info-quote
 sardegnareporter.it##.innerfade[style="margin-bottom: 10px; position: relative; height: 295px;"]
@@ -744,6 +743,7 @@ rietilife.it##img[style="width: 205px; height: 82px;"]
 frosinoneweb.net##img[style="width: 930px; height: 115px;"]
 melamorsicata.it##img[width="160"][height="300"]
 radiolombardia.it##img[width="300"][height="250"]
+mmorpgitalia.it##img[width="500"][height="122"]
 tuttoshoppingmotori.com##img[width="610px;"]
 azpoint.net##table[cellspacing="2"][cellpadding="1"][border="0"][align="center"][width="90%"]
 cronacaqui.it##table[height="112"][width="998"]
