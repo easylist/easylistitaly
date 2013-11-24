@@ -610,6 +610,7 @@ bergamosera.com##.wpbrbanner
 petizionionline.it##.yahoo
 cittaceleste.it##.zodiak
 tgcom24.mediaset.it##a[href*=".ad.dotandad.com/clicktracker.jsp?"]
+mmorpgitalia.it##a[href^="http://ad2games.com/slave.php?"]
 ipadevice.com,ispazio.net##a[href^="http://adserver.ispazio.net/"]
 ilsole24ore.com##a[href^="http://adv.ilsole24ore.it/"]
 multiplayer.it##a[href^="http://adv.multiplayer.it/"]
@@ -685,6 +686,7 @@ corrierinocampaniasport.it##div[style="width: 960px; height: 120px; visibility: 
 paginebianche.it##div[style="width: 978px; height: 45px;"]
 lastampa.it##div[style="width: 990px; height: 90px;"]
 balarm.it##div[style="width:100%;height:1790px; text-align:center; z-index: 0; position:absolute"]
+mmorpgitalia.it##div[style="width:120px; height:600px;"]
 cronachemaceratesi.it##div[style="width:160px; float:none; height:600px; margin:30px auto;"]
 orgoglionerd.it##div[style="width:227px;height:315px"]
 ilfattoquotidiano.it##div[style="width:235px; height:75px; margin-top: 10px; overflow:hidden; float:left"]
@@ -700,7 +702,7 @@ gelocal.it##div[style="width:294px; height:74px; border:3px solid #e2001a; displ
 unita.it##div[style="width:298px;float:left;margin-top:20px;height:148px;border:1px solid #cccccc; position:relative;"]
 panorama.it##div[style="width:300px; height:125px; background-image:url('http://www.panorama.it/statici/img_nuovosito/blocchetti/facileIT/box_ricerca/sfondo.gif'); font-family:Arial,Verdana,Helvetica,sans-serif !important; font-size:11px; overflow:hidden"]
 f1passion.it##div[style="width:300px; height:250px; margin-bottom:24px;"]
-giallozafferano.it,tomshw.it##div[style="width:300px; height:250px;"]
+giallozafferano.it,mmorpgitalia.it,tomshw.it##div[style="width:300px; height:250px;"]
 ilfattoquotidiano.it##div[style="width:300px; height:75px; margin-top: 10px; overflow:hidden; float:left"]
 ilfattoquotidiano.it##div[style="width:300px; height:75px; margin-top: 10px; overflow:hidden; float:left;line-height:15px;"]
 ilfattoquotidiano.it##div[style="width:300px; height:75px; overflow:hidden; float:left; margin-top: 10px;"]
