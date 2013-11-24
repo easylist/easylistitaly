@@ -843,6 +843,7 @@
 ||tesionline.it/v2/img/skin/
 ||ticinofinanza.ch/banner/
 ||tio.ch/img/2013/iframe/postfinance.jpg
+||tio.ch^*/banner/
 ||tipresentoilcane.com/banner/
 ||tiscali.it/media/adv/
 ||tmnews.it^*/banner_
