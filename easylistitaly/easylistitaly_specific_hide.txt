@@ -220,6 +220,7 @@ loudvision.it###prop-leader
 nonsolocap.it###qk
 cronachemaceratesi.it###quattrownet_468x60
 moto.it###rchm_overlay
+gazzetta.it###rectangle
 ticinonews.ch###rectangleleaderhome1_FormView1_ctl00_Banmanpro3Label
 everyeye.it###richmedia
 dagospia.com###right-160x90
