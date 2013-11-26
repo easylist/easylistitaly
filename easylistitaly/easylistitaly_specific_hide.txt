@@ -179,7 +179,7 @@ r101.it###innamorarsiA101
 cittaceleste.it,juvenews.eu###itemBannerSottoImg
 prowrestling.it###landingbanner
 macitynet.it###leader-wrapper
-boomerangtv.it,discoverychannel.it,dissacration.com,eurogamer.it,fiscaleweb.com,geekissimo.com,gingerandtomato.com,healthdesk.it,historychannel.it,ilcinemaniaco.com,ilgazzettinovesuviano.com,ilsannioquotidiano.it,iochiamo.com,lasiciliaweb.it,lussuosissimo.com,medicinalive.com,mondoreality.com,musickr.it,theapplelounge.com###leaderboard
+boomerangtv.it,discoverychannel.it,dissacration.com,ebay.it,eurogamer.it,fiscaleweb.com,geekissimo.com,gingerandtomato.com,healthdesk.it,historychannel.it,ilcinemaniaco.com,ilgazzettinovesuviano.com,ilsannioquotidiano.it,iochiamo.com,lasiciliaweb.it,lussuosissimo.com,medicinalive.com,mondoreality.com,musickr.it,theapplelounge.com###leaderboard
 ilgazzettinovesuviano.com###leaderboard-footer
 bergamosera.com###leaderboard_wrapper
 dottorsalute.info###leaderboardspace
@@ -248,6 +248,7 @@ iovivoaroma.it###skin_link_sx
 cronachemaceratesi.it###skinabove
 rockit.it###skinbanner
 filmtv.it,ilcorrieredabruzzo.it,lazionews24.com###skinlink
+ebay.it###skyscrape
 eurogamer.it###skyscraper
 casateonline.it,merateonline.it###sottotestata
 primissima.it###space_banner
