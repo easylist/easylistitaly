@@ -51,6 +51,7 @@
 ||anzwers.net/messaggi/
 ||aostaoggi.it/banner_
 ||applemobile.it/ilger.gif
+||areamilan.it/store/show.php
 ||areapress.it/banner/
 ||arezzonotizie.it/images/banners/
 ||arezzonotizie.it/modules/mod_bgbanner/
