@@ -939,6 +939,7 @@
 ||voceditalia.it/banner.js
 ||voceditalia.it/banner/
 ||voceditalia.it/banner_ev.js
+||vocenuova.tv/assets/uploads/banners/
 ||vps-ta.tiscali.it^
 ||wallstreetitalia.com/img/*-798x27.gif
 ||wallstreetitalia.com/img/skin_
