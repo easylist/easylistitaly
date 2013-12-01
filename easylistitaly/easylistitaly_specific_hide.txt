@@ -118,8 +118,7 @@ italiaoggi.it,milanofinanza.it,panorama.it###box_immo
 masterviaggi.it###box_link_sponsor
 ricettedelmondo.it###box_pub2
 centrometeoitaliano.it###box_publi
-corrieredellosport.it,italia-news.it,senigallianotizie.it,tuttosport.com###box_ricerca
-fastweb.it###box_ricerca[style="width:300px; height:100px; margin-bottom: 10px; background: url('/GFX/portale_v3/RCol/immobiliare/sfondo.png') no-repeat left top; font-family:Arial,Verdana,Helvetica,sans-serif !important; font-size:11px; overflow:hidden"]
+corrieredellosport.it,fastweb.it,italia-news.it,senigallianotizie.it,tuttosport.com###box_ricerca
 virgilio.it###box_solo_promozioni
 masterviaggi.it###box_sponsor
 pctuner.net###boxbanner
