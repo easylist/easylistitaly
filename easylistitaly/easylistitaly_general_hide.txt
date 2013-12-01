@@ -71,6 +71,7 @@
 ##.inews_adv_top
 ##.linksponsorizzati
 ##.modPubblicita
+##.post_pubblicita
 ##.promo_sp
 ##.pub_text
 ##.pubblicita
