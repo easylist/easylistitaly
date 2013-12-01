@@ -128,6 +128,7 @@
 ||puntostampa.altervista.org^$subdocument,third-party
 ||rdn.it/images/BANNER/
 ||regaliper.me^$subdocument,third-party
+||resources.saldiprivati.com^$third-party
 ||rivenditori.aruba.it^$third-party
 ||roi.ediscom.it^
 ||sanistatic.it/*/300x100_

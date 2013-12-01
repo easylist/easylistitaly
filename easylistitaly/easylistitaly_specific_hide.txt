@@ -601,6 +601,7 @@ ilsoftware.it##.txtboxleft[style="width:280px; height:200px;"]
 turistipercaso.it##.utilink
 bresciaoggi.it,larena.it##.v2_banner-wrapper
 ilsalvagente.it##.video
+giallozafferano.it##.vini-sp
 tiscali.it##.w304.mB20
 tiscali.it##.w312.mB25
 fc-suedtirol.com##.werbung

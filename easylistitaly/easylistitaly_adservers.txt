@@ -23,6 +23,7 @@
 ||bannerplace.it^$third-party
 ||bannerporno.com^$third-party
 ||bannerpromotion.it^$third-party
+||banzaiadv.it^$third-party
 ||beead.it^$third-party
 ||buyon.it^$third-party
 ||clickadv.it^$third-party
