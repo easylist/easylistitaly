@@ -389,6 +389,8 @@ ilquotidianodellacalabria.it##.banner_234x90
 spaziofilm.it##.banner_300
 ilmattinodifoggia.it##.banner_300x250_3
 everyeye.it##.banner_600_new
+ottopagine.net##.banner_990_90
+ottopagine.net##.banner_990_90_mid
 ilmattinodifoggia.it##.banner_990x30
 rsvn.it##.banner_BodyTop
 nqnews.it##.banner_Leaderboard
