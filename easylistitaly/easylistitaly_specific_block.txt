@@ -843,6 +843,8 @@
 ||tennis.it/files/banner_blufreccia3c.gif
 ||tennis.it/files/olio-san-clemente.jpg
 ||tennisworlditalia.com/banners/
+||terninrete.it/banner/
+||terninrete.it/skins/terninrete2/images/headings/head_ha_suggerimenti_da_google.gif
 ||terranauta.it/banner/
 ||tesionline.it/v2/img/skin/
 ||ticinofinanza.ch/banner/
