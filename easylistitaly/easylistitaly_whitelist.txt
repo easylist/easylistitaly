@@ -27,6 +27,7 @@
 @@||dotandad.com/crossdomain.xml$object-subrequest,domain=r101.it
 @@||dotandad.com/mediamond.jsp?$object-subrequest,domain=r101.it
 @@||dotandad.com/mediamond?mpo=$script,domain=panorama.it
+@@||dotandad.com^*.flv$object-subrequest,domain=donnamoderna.com
 @@||dotandad.com^*.mp3$object-subrequest,domain=r101.it
 @@||doubleclick.net/adj/tuttosport.home/home;sz=336x600,300x250,300x600;=$script,domain=tuttosport.com
 @@||download.deejay.it/adv/podcast/$object-subrequest
