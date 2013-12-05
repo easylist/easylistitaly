@@ -742,6 +742,9 @@
 ||salernonotizie.it/images/ikea_
 ||salernonotizie.it^*/banner-
 ||salernonotizie.it^*/banner_
+||salernonotizie.it^*_banner_
+||salernonotizie.it^*_bnr120x180.
+||salernonotizie.net^*_banner_
 ||sampdoria.it/images/banners/
 ||samspot.softairmania.it^
 ||sanmarinofixing.com/smfixing/images/banners/
