@@ -601,6 +601,7 @@
 ||notebookitalia.it/images/stories/*_wallpaper_jpg.jpg
 ||notiziarioitaliano.it^*/banner/
 ||notizie-online.it/banner/
+||nuovadelsud.it/images/banners/
 ||nyc-site.com/newyork/hotel/
 ||oggitreviso.it/files/fascevittoriofilm.jpg
 ||oipamagazine.eu/banner_
