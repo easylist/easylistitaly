@@ -257,6 +257,7 @@ pubblicitaitalia.it###sponsorTop
 canzoni.it###sponsor_footer
 omnifurgone.it###sponsor_logo_header
 html5today.it###sponsored-article
+lastampa.it###sponsoredBy
 acmilan.com,inter.it###sponsors
 ilsole24ore.com###spot
 zeusnews.it###spotEsterno
@@ -301,6 +302,7 @@ hdblog.it###vetrine_kelkoo
 lastampa.it###videobox_wrapper
 oggitreviso.it###views-banner_pop_up-95-926
 lattemiele.com###vipre
+lastampa.it###webdoc_sponsor
 internazionale.it###wideSkinWrapper
 italiaoggi.it,milanofinanza.it###widget_ticketcrociere
 animeclick.it###wrapper
