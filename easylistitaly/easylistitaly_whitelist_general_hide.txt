@@ -15,4 +15,4 @@ italiasw.com#@#.header-google-ads
 corrierecomo.it,corrieredicomo.it#@#.module-ad
 latinomagazine.it#@#.moduletable-advert
 camperonline.it,italiasw.com#@#.pubblicita
-mmorpgitalia.it#@#div[id^="div-gpt-ad-"]
+beppegrillo.it,mmorpgitalia.it#@#div[id^="div-gpt-ad-"]
