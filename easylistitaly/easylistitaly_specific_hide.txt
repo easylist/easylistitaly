@@ -405,7 +405,7 @@ voceditalia.it##.banner_casino2
 digital-sat.it##.banner_centrale
 parmasera.it,piacenzasera.it##.banner_doc_bottom_foto
 digital-sat.it,finanza.com,motori24.ilsole24ore.com##.banner_dx
-ecodibergamo.it,laprovinciadicomo.it,laprovinciadivarese.it##.banner_footer
+ecodibergamo.it,ilcittadinomb.it,laprovinciadicomo.it,laprovinciadivarese.it##.banner_footer
 parmasera.it,piacenzasera.it##.banner_globaltop
 smtvsanmarino.sm##.banner_head
 livesicilia.it##.banner_leaderboard
