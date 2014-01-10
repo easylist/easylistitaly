@@ -23,6 +23,7 @@
 ###adv_annuncio_promo_1
 ###adv_gda
 ###adv_in_post
+###adv_sponsor_canale_tematico
 ###adv_sponsor_categorico
 ###advcolonnadx
 ###advcolonnasx
