@@ -552,6 +552,7 @@ areanapoli.it##.sdoo_cnt
 apollodoro.it,ecoo.it,gaywave.it,haisentito.it,nanopress.it,tantasalute.it##.sectCntGoogle3
 tio.ch##.sfondoPubListaNews
 softonic.it##.show_banner_down_leaderboard
+radiomontecarlo.net##.side-ban
 style.it##.side-gallery
 youreporter.it##.sidebar_menu_virgilio
 newnotizie.it##.single_sidebar300x250
