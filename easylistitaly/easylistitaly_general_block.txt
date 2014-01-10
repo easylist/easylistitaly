@@ -1,5 +1,6 @@
 -dx/adv_
 .it/_adv/
+.it/ads.
 .it/ads/
 .it/adv/
 .it/adv_
