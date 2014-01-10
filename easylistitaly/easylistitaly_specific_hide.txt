@@ -79,6 +79,7 @@ laprovinciadicomo.it###banner_header
 lastampa.it###banner_maxticker
 html.it###banner_piede_articolo
 paginegialle.it###banner_pushbar
+firenzespettacolo.it###banner_side
 livesicilia.it###banner_skin
 ilcorrieredabruzzo.it###banner_testata
 ilcorrieredabruzzo.it###banner_testata_1004x114
