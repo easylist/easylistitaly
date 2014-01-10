@@ -711,6 +711,7 @@
 ||ravennatoday.it/images/skin/
 ||rcrevolution.net^*/banners/
 ||rcs.it/imgmol/
+||rdf.it/images/banners/
 ||regginacalcio.com/images/banners/
 ||reggio2000.it/bnrs/
 ||regionelombardia.info/banners/

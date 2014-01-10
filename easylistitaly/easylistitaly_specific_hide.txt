@@ -155,6 +155,7 @@ ladige.it###footer-leaderboard
 red-live.it###footer_banner
 fc-suedtirol.com###footersponsor
 ilcap.it###gadsense
+rdf.it###gkBanner2
 telefonino.net###google300x250
 telefonino.net###googleHomeNews
 telefonino.net###googleNewsTop
