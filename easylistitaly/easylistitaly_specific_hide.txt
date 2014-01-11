@@ -435,7 +435,7 @@ ticinolive.ch##.bannerwrap
 romagiornoenotte.it##.basebannerBox
 wallstreetitalia.com##.bestbuybiz
 losportivo.sm##.bg_blocchi
-ilmattinodifoggia.it##.bgbanner
+corriereromagna.it,ilmattinodifoggia.it##.bgbanner
 ilcapoluogo.com##.block-view-bannerSlide
 ilquotidiano.it,parmasera.it,piacenzasera.it,rsvn.it##.box-attico
 notiziaoggi.it,settegiorni.it##.box-banner-menu
@@ -690,6 +690,7 @@ libero.it##div[style="width: 180px; height: 150px;"]
 raffaeleauriemma.com##div[style="width: 248px; height: 250px; visibility: visible;"]
 pyrosonline.it##div[style="width: 265px; height: 265px;"]
 paginebianche.it##div[style="width: 300px; height: 100px;"]
+corriereromagna.it##div[style="width: 300px; height: 250px; border: 0px solid black; position: relative; background-color: #013671;"]
 tiscali.it##div[style="width: 300px; height: 250px; vertical-align: top; text-align: left;"]
 libero.it,paginebianche.it##div[style="width: 300px; height: 250px;"]
 ilfattoquotidiano.it##div[style="width: 600px; min-height: 42px; border: 0px none; margin: 0px 10px 10px; padding: 0px; background-color: rgb(239, 239, 239);"]

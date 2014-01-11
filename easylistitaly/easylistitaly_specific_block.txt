@@ -190,6 +190,7 @@
 ||corriereobjects.it^*/adv/
 ||corriereobjects.it^*/banner_dizionario_iphone.gif
 ||corriereobjects.it^*/icon_csnai_shared.png
+||corriereromagna.it/upload/
 ||corrierinocampaniasport.it^*/banner_
 ||corrierinocampaniasport.it^*/menna.jpg
 ||dagospia.com/_include/banner/

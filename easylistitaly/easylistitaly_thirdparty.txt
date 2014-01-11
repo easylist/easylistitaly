@@ -35,6 +35,7 @@
 ||blogspot.com^*/downloadnow_it_468.png
 ||blogspot.com^*/Streaming.png$domain=internapoli-city.org
 ||booking.com/general.html?$subdocument,domain=quattroruote.it|tuttobaviera.it
+||booking.fioccovacanze.it^$third-party
 ||bt.rcs.it^
 ||careerjet.it/partners/
 ||casa.it/cobrand/
