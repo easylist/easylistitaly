@@ -76,6 +76,7 @@
 ||avmagazine.it/immagini/adv_
 ||avvenire.it/Lists/Banners/
 ||aziendeonline.biz/db/banner_
+||babboleo.it/images/banners/
 ||badtaste.it/file/amazon/
 ||balarm.it/banner.asp?
 ||balarm.it/public/bannernewsletter/
