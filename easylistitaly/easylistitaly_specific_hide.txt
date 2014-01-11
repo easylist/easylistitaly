@@ -344,6 +344,7 @@ motori.it##.adv-items
 delleconomia.it##.adv200
 virgilio.it##.advTuning
 addicted2play.com,amonapoli.it,eurogamer.it,giardini.biz,morningstar.it,tvtv.it##.advert
+internimagazine.it##.advertisement
 cubovision.it,fastweb.it,gazzetta.it##.advertising
 filodiritto.com##.altro_box_banner_dx
 filodiritto.com##.altro_box_banner_sx
