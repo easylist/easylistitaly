@@ -789,3 +789,4 @@ gommeblog.it##td[style="width: 305px; height: 251px; text-align: center;"]
 gommeblog.it##td[style="width: 335px; height: 251px; text-align: center;"]
 ! Anti-Adblock
 tomshw.it###notifica_adcont
+termometropolitico.it##[id^="bsa"]
