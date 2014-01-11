@@ -491,6 +491,8 @@ ilgiornaledivicenza.it##.header-box
 bow.it##.header_banner
 bora.la##.headerbtm
 gazzettadasti.it##.homepage-central-ban
+autoline-eu.it##.index-center-banners-1
+autoline-eu.it##.index-main-banners
 gazzetta.it##.info-quote
 sardegnareporter.it##.innerfade[style="margin-bottom: 10px; position: relative; height: 295px;"]
 motousate.it##.item.link
