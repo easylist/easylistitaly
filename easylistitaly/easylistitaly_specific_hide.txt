@@ -421,6 +421,7 @@ rsvn.it##.banner_panel
 ipadevice.com,ispazio.net##.banner_right_sidebar_big
 ipadevice.com,ispazio.net##.banner_right_sidebar_small
 orgoglionerd.it##.banner_rotation
+ilgiornaleditalia.org##.banner_slide_300x250_slide
 rsvn.it##.banner_spalla
 ipoditalia.it##.banner_topright
 galileonet.it##.banner_vert
