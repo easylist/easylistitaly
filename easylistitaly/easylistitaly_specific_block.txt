@@ -472,6 +472,7 @@
 ||julienews.it/upload/banner/
 ||juventus.com^*/bannerscene?
 ||juventus.com^*/sponsor_
+||labisalta.it/pubb/
 ||ladige.it/internal/immobiliare/
 ||ladigetto.it/files/banners/
 ||lagazzettadelmezzogiorno.it/banner_pk/
