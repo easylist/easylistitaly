@@ -175,6 +175,7 @@ megalab.it###header_leaderboard
 meteowebcam.it###header_top
 35mm.it###header_top_banner
 786cast.tv###hideall
+radiospeaker.it###home-banner
 avvenire.it###htmlcomponent18 > .boxAggiuntivi
 ladige.it,panorama.it###immob_box_ricerca
 r101.it###innamorarsiA101
@@ -335,7 +336,7 @@ trustpilot.it##.adblock
 america24.com##.adbox
 pinkdna.it##.adds300x250
 zapster.it##.addx
-caserta24ore.it,fantagazzetta.com,gamemag.it,phicatube.net##.ads
+caserta24ore.it,fantagazzetta.com,gamemag.it,phicatube.net,radiospeaker.it##.ads
 meteowebcam.it##.ads_menu
 ilsecoloxix.it,pcprofessionale.it,pubblicitaitalia.it##.adsense
 meteowebcam.it##.adsense_menu
@@ -502,7 +503,7 @@ motousate.it##.item.link
 rtl.it##.itunes-btn
 jacktech.it##.jk_banner
 corrieredellosport.it##.label_sponsor_sp
-foxtv.it,guidasicilia.it,la7.it,today.it##.leaderboard
+foxtv.it,guidasicilia.it,la7.it,radiospeaker.it,today.it##.leaderboard
 erbanotizie.com,lecconotizie.com##.leaderboard-bottom
 ilsole24ore.com##.link_expand
 mymovies.it##.linkblu[style="width:290px; cursor:pointer; margin-top:5px;"]
