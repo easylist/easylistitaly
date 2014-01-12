@@ -731,6 +731,7 @@
 ||regionelombardia.info/banners/
 ||reportmotori.it/banner/
 ||repubblica.it/ad/
+||repubblica.it/javascript/mjx.js
 ||repubblica.it^*/adagiorep.js
 ||repubblica.it^*/negozi_accordion.swf?
 ||repubblica.it^*_contentsense_
