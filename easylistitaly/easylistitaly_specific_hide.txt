@@ -463,6 +463,7 @@ gazzetta.it##.contain-sisal-magicup
 borsaitaliana.it##.container_banner_top
 macitynet.it##.contentTop
 tiscali.it,unita.it##.dannperdere
+ebay.it##.dart-banner-slot
 giornaledibrescia.it##.dealboxTop
 immobiliare.it##.det_pub_box_content
 nokioteca.net##.dex_box
