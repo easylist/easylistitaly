@@ -400,6 +400,7 @@
 ||ilgiornale.it^*_125x125.jpg
 ||ilgiornale.it^*_65x65.jpg
 ||ilgiornaledellaprotezionecivile.it^*_banners/
+||ilgiornaledelpiemonte.com/pubb/
 ||ilgiornaledienna.it/images/banners/
 ||ilgiornaledigela.it/images/banners/
 ||ilgiornalediragusa.it/images/banners/
