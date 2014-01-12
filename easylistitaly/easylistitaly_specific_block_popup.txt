@@ -1,2 +1,4 @@
+||adf.ly^$popup,domain=vstau.info
 ||adv2.spaziogames.it^$popup
+||linkbucks.com^$popup,domain=vstau.info
 ||mammevacche.com/out?$popup
