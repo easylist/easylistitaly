@@ -681,6 +681,7 @@
 ||r101.it/img/btn_innamorarsia101_pic.gif
 ||r101.it/img/btn_innamorarsia101_pic_
 ||r101.it/img/hp_pulsante_bol.png
+||radio103.it/banner_
 ||radioalba.it/img_sito/banner/
 ||radioalex.it^*/banner-
 ||radioalex.it^*/banner_
