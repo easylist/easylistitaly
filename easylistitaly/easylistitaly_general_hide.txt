@@ -34,6 +34,8 @@
 ###box_adv_sponsor_categorico
 ###corpo_video_sponsor
 ###divPubblicita
+###fullAdv-dx
+###fullAdv-sx
 ###fwnetblocco
 ###fwnetblocco160x600
 ###fwnetblocco300x300
