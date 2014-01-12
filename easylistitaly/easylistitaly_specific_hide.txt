@@ -448,6 +448,7 @@ omniauto.it##.box.gradient[style="height:270px!important; min-height:270px"]
 tiscali.it##.boxBanner
 ilsoftware.it##.boxDXa.txt3
 chip.it##.boxHardware
+liberoquotidiano.it##.box_12
 milaninterradio.tv##.box_300_250
 calcioblog.it##.box_highlight
 omniauto.it##.box_listinousato
