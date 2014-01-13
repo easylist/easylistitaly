@@ -306,6 +306,7 @@ hdblog.it###vetrine_kelkoo
 lastampa.it###videobox_wrapper
 oggitreviso.it###views-banner_pop_up-95-926
 lattemiele.com###vipre
+italpress.com###virgilio-banner
 lastampa.it###webdoc_sponsor
 internazionale.it###wideSkinWrapper
 italiaoggi.it,milanofinanza.it###widget_ticketcrociere
