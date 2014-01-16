@@ -508,7 +508,7 @@ motousate.it##.item.link
 rtl.it##.itunes-btn
 jacktech.it##.jk_banner
 corrieredellosport.it##.label_sponsor_sp
-foxtv.it,guidasicilia.it,la7.it,radiospeaker.it,today.it##.leaderboard
+close-up.it,foxtv.it,guidasicilia.it,la7.it,radiospeaker.it,today.it##.leaderboard
 erbanotizie.com,lecconotizie.com##.leaderboard-bottom
 ilsole24ore.com##.link_expand
 mymovies.it##.linkblu[style="width:290px; cursor:pointer; margin-top:5px;"]
