@@ -73,6 +73,7 @@ spaziogames.it###banner_300
 ilsannioquotidiano.it###banner_468_60
 lastampa.it###banner_VideoBox
 primaonline.it###banner_bottom
+si24.it###banner_branciforte
 contosulconto.it###banner_content
 tuttobasket.net###banner_head
 laprovinciadicomo.it###banner_header
@@ -89,6 +90,7 @@ liberoquotidiano.it###bannerbox1
 freemodding.it###bannerini
 quattroruote.it###bannerrcl
 cwi.it###banners
+si24.it###banners_middle
 telefonino.net###bannerstrip
 senigallianotizie.it###bbitalia_banner
 altalex.com,sentenze.net###bglink
@@ -360,6 +362,7 @@ ilsole24ore.com##.annunci_g
 pyrosonline.it##.anyClass[style="visibility: visible; overflow: hidden; position: relative; z-index: 2; left: 0px; width: 840px;"]
 romagiornoenotte.it##.areabannerTop
 ilsecoloxix.it##.artbanner
+si24.it##.attachment-300x600
 radiogold.it##.autobanner
 tiscali.it##.b300x250
 nonsolocap.it##.ba
@@ -766,6 +769,7 @@ wintricks.it##div[style="width:980px;height:90px;margin: 0 auto;background:none"
 metronews.it##div[style="width:990px; margin-left:10px; float:left; margin-bottom:10px; background-color:#FFD302"]
 meteoweb.eu##div[style="width:auto; min-width:300px; height:auto; min-height:250px; margin:0 0 3px 3px; float:right;"]
 calcioweb.eu##div[style="width:auto; min-width:300px; height:auto; min-height:250px; margin:0 2px 2px 0; float:left;"]
+si24.it##div[style="width:auto;height:70px;text-align:center;clear:both;"]
 piratestreaming.tv##div[style="z-index: 99999; position: fixed; width: 100%; background: none repeat scroll 0% 0% rgb(251, 236, 173); overflow: hidden; border-bottom: 1px solid rgb(112, 112, 112); top: 0px; left: 0px; margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: Verdana,Geneva,sans-serif; display: block;"]
 casa-cinema.tv,filmsenzalimiti.net##div[style="z-index: 99999; position: fixed; width: 100%; background: none repeat scroll 0% 0% rgb(251, 236, 173); overflow: hidden; border-bottom: 1px solid rgb(112, 112, 112); top: 0px; left: 0px; margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: Verdana,Geneva,sans-serif;"]
 meteogiornale.it##iframe[width="655"][height="104"]
