@@ -15,6 +15,7 @@
 /it/adv/*
 /materiali_adv/*
 /mediamondads.
+/pubbl_vert.
 /pubblicit%c3%a0/*
 /pubblicita-
 /pubblicita.
