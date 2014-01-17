@@ -593,6 +593,7 @@ leggioggi.it##.spot-mini
 mostraip.com##.spot1
 a-realestate.it##.spot_banner
 ilsole24ore.com##.spot_footer
+ilsecoloxix.it##.square-banner
 applemobile.it##.store
 agichina24.it,trend-online.com##.strip
 style.it##.style_promo
