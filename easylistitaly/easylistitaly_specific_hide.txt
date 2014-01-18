@@ -325,6 +325,7 @@ hostingtalk.it##.Banner
 lavoratorio.it##.BannerAltoHP
 liberoquotidiano.it##.BannerHead
 metropolisweb.it##.BannerMezzoNotizia
+nqnews.it##.Banner_box
 ciao.it##.CWContainerComparePrice
 meteo.it##.ImmobiliareIt
 foxsports.it##.Mpu
