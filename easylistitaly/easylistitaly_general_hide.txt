@@ -82,6 +82,8 @@
 ##.pubblicitaSlider
 ##.pubblicita_col1
 ##.pubblicitapremium
+##.pubblitalocaleaddADV
+##.pubblitalocaleaddpiccola
 ##.skinAdv02
 ##.sponsor160x600Dx
 ##.sponsor300x250Sx

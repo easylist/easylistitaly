@@ -350,6 +350,8 @@ motori.it##.adv-items
 delleconomia.it##.adv200
 virgilio.it##.advTuning
 addicted2play.com,amonapoli.it,eurogamer.it,giardini.biz,morningstar.it,tvtv.it##.advert
+loradellacalabria.it##.advertise
+loradellacalabria.it##.advertise2
 internimagazine.it##.advertisement
 cubovision.it,fastweb.it,gazzetta.it##.advertising
 loggiap2.com##.advs
@@ -597,6 +599,7 @@ ilsole24ore.com##.spot_footer
 ilsecoloxix.it##.square-banner
 applemobile.it##.store
 agichina24.it,trend-online.com##.strip
+loradellacalabria.it##.strisciane1
 style.it##.style_promo
 ciao.it##.tableSponsLinks
 genova24.it,ivg.it##.takeover
