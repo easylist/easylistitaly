@@ -969,6 +969,7 @@
 ||voceditalia.it/banner_ev.js
 ||vocenuova.tv/assets/uploads/banners/
 ||vps-ta.tiscali.it^
+||vstau.info/assets/nopop_
 ||wallstreetitalia.com/img/*-798x27.gif
 ||wallstreetitalia.com/img/skin_
 ||waterpoloitaly.com/banner/
