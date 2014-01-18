@@ -863,6 +863,7 @@
 ||telefonino.net/new_files/scripts/getOfferteKelkoo.js
 ||telefonino.net/offerte_kelkoo/
 ||telefonino.net/shopping/
+||telenord.it^*/Banner-
 ||telesud3.com/banner/
 ||telesud3.com/images/banner/
 ||telmi.it/images/btb_pittogramma.png
