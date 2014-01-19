@@ -388,6 +388,9 @@
 ||ilfattoquotidiano.it^*/pulsante-2.jpg
 ||ilfogliocostadamalfi.it/media/banner-
 ||ilfogliocostadamalfi.it/media/banner_
+||ilfriuli.it/writable/images/*_skin.jpg
+||ilfriuli.it/writable/images/animazione-
+||ilfriuli.it/writable/images/banner-
 ||ilgazzettino.it/box_tuttomercato052011/
 ||ilgazzettino.it/imgmol/
 ||ilghirlandaio.com/web/template/banners/

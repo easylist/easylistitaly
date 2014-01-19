@@ -375,7 +375,7 @@ piacenzanight.com##.back_style
 avmagazine.it,ilcrotonese.it,tomshw.it##.background-link
 lavorincasa.it##.bak
 milanofinanza.it,oggitreviso.it##.ban
-agi.it,agichina24.it,airdave.it,casateonline.it,corrieremercantile.it,gazzettahockey.it,giochidicalcio.com,html.it,ilmanifesto.it,insegreto.it,lindro.it,lipari.biz,macitynet.it,merateonline.it,oggitreviso.it,orangedropdesign.com,orvietosi.it,pmi.it,programmitv.com,pubblicitaitalia.it,r101.it,rcdc.it,rockit.it,softonic.it,strettoweb.com,ticinolibero.ch,vocenuova.tv##.banner
+agi.it,agichina24.it,airdave.it,casateonline.it,corrieremercantile.it,gazzettahockey.it,giochidicalcio.com,html.it,ilfriuli.it,ilmanifesto.it,insegreto.it,lindro.it,lipari.biz,macitynet.it,merateonline.it,oggitreviso.it,orangedropdesign.com,orvietosi.it,pmi.it,programmitv.com,pubblicitaitalia.it,r101.it,rcdc.it,rockit.it,softonic.it,strettoweb.com,ticinolibero.ch,vocenuova.tv##.banner
 rollingstonemagazine.it##.banner-abbonamenti
 telesud3.com##.banner-destra
 telesud3.com##.banner-destra-tyf
@@ -520,6 +520,7 @@ gazzetta.it##.list-eventi
 myword.it##.login-container[style="height:92px;border:0px solid red;text-align:center;"]
 julienews.it##.long_banner_row
 rietilife.it##.lshowcase-logos
+ilfriuli.it##.main-header__banner
 cremonaoggi.it,opinione.it##.manchette
 erbanotizie.com,lecconotizie.com##.manchette-dx
 livesicilia.it##.manchette-l
