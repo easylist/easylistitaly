@@ -70,6 +70,7 @@ cittaceleste.it,juvenews.eu###bannerSottoTitolo
 allaguida.it,apollodoro.it,buttalapasta.it,casapoker.it,derapate.it,designmag.it,ecodellosport.it,ecoo.it,fattidicronaca.it,finanzaeborse.it,games4all.it,gaywave.it,haisentito.it,musicroom.it,myluxury.it,nanopress.it,nextmoto.it,nonmidire.it,politica24.it,r101.it,regaloregali.it,stylosophy.it,suipedali.it,tantasalute.it,tecnocino.it,televisionando.it,ticonzero.info,trackback.it,tshot.it,tuttogratis.it,vivacinema.it,vostrisoldi.it###bannerTop
 ilsalvagente.it###bannerTopInt
 spaziogames.it###banner_300
+cronachemaceratesi.it###banner_300x250
 ilsannioquotidiano.it###banner_468_60
 lastampa.it###banner_VideoBox
 primaonline.it###banner_bottom
@@ -223,7 +224,6 @@ ciao.it###productlevellink
 mtv.it###promoInfo
 loudvision.it###prop-leader
 nonsolocap.it###qk
-cronachemaceratesi.it###quattrownet_468x60
 moto.it###rchm_overlay
 gazzetta.it###rectangle
 ticinonews.ch###rectangleleaderhome1_FormView1_ctl00_Banmanpro3Label
