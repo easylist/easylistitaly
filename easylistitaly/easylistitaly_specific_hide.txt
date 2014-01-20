@@ -19,6 +19,7 @@ digital-forum.it,esigarettaforum.com###ad_global_below_navbar
 bordighera.net,italianhack.org,mailexpress.it,spaziogames.it###ads
 ilgazzettinovesuviano.com###adsensing
 la7.it,ustation.it###adv
+agarymathematics.net###adv1
 3bmeteo.com###adv_5
 quattroruote.it###adv_wideleaderboard
 rockol.it,sanihelp.it###advertisement
