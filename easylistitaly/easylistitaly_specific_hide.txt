@@ -168,7 +168,7 @@ ebay.it###halfboxes-container
 latitudeslife.com###head_banner
 ilsecoloxix.it###head_banners
 cronachemaceratesi.it###head_sponsor
-modenaonline.info,reggionline.com###header-banner-pane
+modenaonline.info,parmaonline.info,reggionline.com###header-banner-pane
 rinnovabili.it###header-bottom
 marigliano.net###header-top
 tempoitalia.it###headerBanner
