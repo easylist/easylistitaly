@@ -25,6 +25,7 @@
 /pubblicitadx.
 /pubblicitasx.
 /repubblicaad.
+/separatore-pub.
 /sponsorizzate.
 /tiscali_ads.
 /TiscaliADV_
