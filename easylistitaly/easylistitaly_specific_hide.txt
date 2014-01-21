@@ -149,6 +149,7 @@ ticinonews.ch###ctl00_rectangleleaderhome1_FormView1_ctl00_Banmanpro3Label
 pianetatech.it###div-banner-300
 amando.it###div-dx_300x250
 internapoli.it###divHeader
+ecodicaserta.it###down
 hdblog.it###dx
 telefonino.net###ebayBox
 unita.it###eimp[style="width:298px;float:left;margin-top:20px;height:248px;border:1px solid #cccccc; position:relative; z-index:0"]
