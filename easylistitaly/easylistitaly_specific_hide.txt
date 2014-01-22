@@ -745,6 +745,7 @@ panorama.it##div[style="width:300px; height:125px; background-image:url('http://
 unionesarda.it##div[style="width:300px; height:250px; float:left; margin-right:40px;"]
 unionesarda.it##div[style="width:300px; height:250px; float:left;"]
 f1passion.it##div[style="width:300px; height:250px; margin-bottom:24px;"]
+sologossip.it##div[style="width:300px; height:250px; margin:0 auto; margin-bottom: 5px;"]
 giallozafferano.it,mmorpgitalia.it,tomshw.it##div[style="width:300px; height:250px;"]
 ilfattoquotidiano.it##div[style="width:300px; height:75px; margin-top: 10px; overflow:hidden; float:left"]
 ilfattoquotidiano.it##div[style="width:300px; height:75px; margin-top: 10px; overflow:hidden; float:left;line-height:15px;"]
