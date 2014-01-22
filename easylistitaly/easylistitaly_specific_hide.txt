@@ -337,7 +337,7 @@ dizionariosinonimi.com##.Sponsor300x250Dx
 ricettepercucinare.com##.UAP_3to1_Rectangle
 ricettepercucinare.com##.UAP_Medium_Rectangle
 ricettepercucinare.com##.UAP_Wide_Skyscraper
-4risate.com,7per24.it,ilsole24ore.com,jugo.it,mesagne.me,tripadvisor.it##.ad
+4risate.com,7per24.it,ilsole24ore.com,jugo.it,mesagne.me,milanlive.it,tripadvisor.it##.ad
 trustpilot.it##.adblock
 america24.com##.adbox
 pinkdna.it##.adds300x250
@@ -760,6 +760,7 @@ leggioggi.it##div[style="width:310px;overflow:hidden;height:130px;margin-left:-8
 maxitubo.com##div[style="width:340px; height:307px; text-align:center; float:right; margin-bottom:96px; background-color:#FCFAFA; border: 1px solid #BCBCBC;; padding-left:10px; padding-right:10px; padding-top:30px; padding-bottom:30px; padding-top:80px; margin-right: 10px; border-radius: 5px;"]
 wmia.it##div[style="width:350px; height:300px; float:left"]
 radiotime.it##div[style="width:360px; margin-top:10px; margin-bottom:5px;"]
+milanlive.it##div[style="width:468px; float:left; height:60px; margin-bottom:3px;"]
 asroma24.com,ilmilanista.it,interistaweb.it##div[style="width:480px; height:72px; padding: 6px; margin-left:auto; margin-right:auto;"]
 igossip.it##div[style="width:600px; height:360px;float:left;"]
 strettoweb.com##div[style="width:728px; height:90px; margin:9px auto; display:block; float:right !important;"]
