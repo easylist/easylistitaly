@@ -215,6 +215,7 @@
 ||dimmidipiu.com/ddpfiles/bannerslides^
 ||dimmidipiu.com/images/banners/
 ||diretta.it/res/image/bookmaker-list.png
+||direttagoal.it/writable/banners/
 ||dizionariosinonimi.com/adv.php?
 ||donnamoderna.com^*/bg-immobiliare.png
 ||dragonballgt.it^*/skin_

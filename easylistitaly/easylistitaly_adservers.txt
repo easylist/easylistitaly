@@ -4,6 +4,7 @@
 ||adagionet.com^$third-party
 ||adbrawl.com^$third-party
 ||addyon.com^$third-party
+||adnext.it^$third-party
 ||adpartner.it^$third-party
 ||adultsadv.com^$third-party
 ||adv-italiana.net^$third-party
