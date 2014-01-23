@@ -783,6 +783,7 @@
 ||sanmarinoworld.sm/custom/home/$object
 ||sanmarinoworld.sm/img/home/
 ||sanmarinoworld.sm^*/bnr/
+||sanremonews.it^*/banner/
 ||sanremonews.it^*/box/
 ||sardegnareporter.it/themes/img/banner/
 ||sassarinotizie.com/public/adv/
