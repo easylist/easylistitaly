@@ -138,6 +138,8 @@ camionsupermarket.it###center_banner
 virgilio.it###cht_banner
 libero.it###chunnel-affari-300x170
 acquariofilia.biz###collapseobj_sidebar_google
+alessandrianews.it###colonnadx-bg
+alessandrianews.it###colonnasx-bg
 it.msn.com###consiglia
 leggilanotizia.it###cont-banner-sotto-testata
 virgilio.it###cont-leaderboard
@@ -285,6 +287,7 @@ ladyradio.it###table128[width="492"]
 genova24.it###takeover_left
 genova24.it###takeover_right
 tomshw.it###testata_giu
+alessandrianews.it###testata_tkv-bg
 studioconsulenzaromano.net###text-561964208
 farevela.net###text-7
 ilmonferrato.it###thin_banners_container
@@ -377,7 +380,7 @@ piacenzanight.com##.back_style
 avmagazine.it,ilcrotonese.it,tomshw.it##.background-link
 lavorincasa.it##.bak
 milanofinanza.it,oggitreviso.it##.ban
-agi.it,agichina24.it,airdave.it,casateonline.it,corrieremercantile.it,gazzettahockey.it,giochidicalcio.com,html.it,ilfriuli.it,ilmanifesto.it,insegreto.it,lindro.it,lipari.biz,macitynet.it,merateonline.it,oggitreviso.it,orangedropdesign.com,orvietosi.it,pmi.it,programmitv.com,pubblicitaitalia.it,r101.it,rcdc.it,rockit.it,softonic.it,strettoweb.com,ticinolibero.ch,vocenuova.tv##.banner
+agi.it,agichina24.it,airdave.it,alessandrianews.it,casateonline.it,corrieremercantile.it,gazzettahockey.it,giochidicalcio.com,html.it,ilfriuli.it,ilmanifesto.it,insegreto.it,lindro.it,lipari.biz,macitynet.it,merateonline.it,oggitreviso.it,orangedropdesign.com,orvietosi.it,pmi.it,programmitv.com,pubblicitaitalia.it,r101.it,rcdc.it,rockit.it,softonic.it,strettoweb.com,ticinolibero.ch,vocenuova.tv##.banner
 rollingstonemagazine.it##.banner-abbonamenti
 telesud3.com##.banner-destra
 telesud3.com##.banner-destra-tyf
@@ -513,6 +516,8 @@ motousate.it##.item.link
 rtl.it##.itunes-btn
 jacktech.it##.jk_banner
 corrieredellosport.it##.label_sponsor_sp
+alessandrianews.it##.leader-board-225x90
+alessandrianews.it##.leader-board-728x90
 close-up.it,foxtv.it,guidasicilia.it,la7.it,radiospeaker.it,today.it##.leaderboard
 erbanotizie.com,lecconotizie.com##.leaderboard-bottom
 ilsole24ore.com##.link_expand
