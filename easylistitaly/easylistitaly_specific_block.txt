@@ -901,6 +901,7 @@
 ||terninrete.it/skins/terninrete2/images/headings/head_ha_suggerimenti_da_google.gif
 ||terranauta.it/banner/
 ||tesionline.it/v2/img/skin/
+||therockblog.net^*/banner-
 ||ticinofinanza.ch/banner/
 ||tio.ch/img/2013/iframe/postfinance.jpg
 ||tio.ch^*/banner/
