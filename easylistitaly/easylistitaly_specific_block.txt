@@ -486,6 +486,8 @@
 ||lametino.it/images/banners/
 ||lamiaaria.it/oas/mjx.js
 ||lamicodelpopolo.it/images/banners/
+||lanotiziagiornale.it^*/234x90.gif
+||lanotiziagiornale.it^*/300x300.gif
 ||lanotiziagiornale.it^*/federbox300x200.jpg
 ||lanotiziagiornale.it^*/manchettesito.jpg
 ||lapiazzagrande.it/pubb/
