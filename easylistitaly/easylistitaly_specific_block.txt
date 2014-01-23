@@ -700,6 +700,7 @@
 ||radio103.it/banner_
 ||radioalba.it/img_sito/banner/
 ||radioalex.it^*/banner-
+||radioalex.it^*/banner/
 ||radioalex.it^*/banner_
 ||radioamore.it^*/banners/
 ||radiocentro95.it/uploads/banner/
