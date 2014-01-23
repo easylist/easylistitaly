@@ -103,6 +103,7 @@
 ||kataweb.it/zbanner_consorzio.js
 ||kataweb.it^*/negozi/$third-party
 ||keepersport.it^*/banner728x90.jpg
+||kuko.it/banner.
 ||lacasadiriposo.it/images/banner/
 ||libreriadelsanto.it/banners/$third-party
 ||linearadio.it/bnrs/
