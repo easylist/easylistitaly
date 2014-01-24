@@ -755,6 +755,7 @@
 ||repubblica.it/javascript/mjx.js
 ||repubblica.it^*/adagiorep.js
 ||repubblica.it^*/negozi_accordion.swf?
+||repubblica.it^*/neorep.js
 ||repubblica.it^*/sponsors.png
 ||repubblica.it^*_contentsense_
 ||resport.it/public/banner/
