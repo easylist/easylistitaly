@@ -569,6 +569,8 @@
 ||mediavideo24.com/inc/ova.swf$object-subrequest
 ||megabass.it^*/banner_
 ||merateonline.it/public/banner/
+||metalgermania.it/images/itunes.jpg
+||metalgermania.it/images/seatwave.jpg
 ||metallized.it/banner/
 ||meteo.it/images/banner/
 ||meteoweb.eu/adv/
