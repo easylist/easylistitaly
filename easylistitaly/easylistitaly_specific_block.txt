@@ -650,6 +650,11 @@
 ||parrocchie.it/banner/
 ||pc-facile.com/images/banner/
 ||pctuner.net/banner/
+||periodicodaily.com^*-1024x350.
+||periodicodaily.com^*/banner-
+||periodicodaily.com^*/bannergiftanimataheader.gif
+||periodicodaily.com^*/bannerlateralelento.gif
+||periodicodaily.com^*/gifanimatabannerlaterale.gif
 ||perotorino.it/images/banners/
 ||piacenzanight.com/images/background/
 ||piacenzasera.it/img/top/sfondo.jpg
