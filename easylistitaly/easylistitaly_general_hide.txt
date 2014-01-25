@@ -28,6 +28,8 @@
 ###advcolonnadx
 ###advcolonnasx
 ###advdivbp1
+###altervista_banner-3
+###altervista_googleadsense-2
 ###annunciGoogle
 ###annunci_google
 ###blocco_servizi_sponsor1
