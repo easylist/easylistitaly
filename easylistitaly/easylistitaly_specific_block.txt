@@ -223,6 +223,7 @@
 ||dueruote.it/asset/img/partner/
 ||eaglesfree.com^*/netload.gif
 ||earone.it/themes/banner/
+||earone.it/themes/images/btn_itunes.png
 ||eccolanotiziaquotidiana.it/banners/
 ||ecoseven.net/img/banner/
 ||ecostiera.it^*/banner/
