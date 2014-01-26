@@ -751,6 +751,8 @@
 ||reggio2000.it/bnrs/
 ||regionelombardia.info/banners/
 ||reportmotori.it/banner/
+||reportnet.it/images/banners/
+||reportnet.it/templates/magazine/images/body-gray.png
 ||repubblica.it/ad/
 ||repubblica.it/javascript/mjx.js
 ||repubblica.it^*/adagiorep.js
