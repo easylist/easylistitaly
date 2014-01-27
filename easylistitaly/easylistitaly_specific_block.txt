@@ -591,11 +591,13 @@
 ||milanofinanza.it/common/home/mf/img/Forex-Contest.gif
 ||milanofinanza.it/common/home/mf/img/Formazione197x55.jpg
 ||milanofinanza.it/common/home/mf/img/generic-197x55.gif
+||milanofinanza.it/common/home/mf/img/iwbank.gif
 ||milanofinanza.it/common/home/mf/img/marketscom.gif
 ||milanofinanza.it/common/home/mf/img/pro_ban_2012.gif
 ||milanofinanza.it/common/home/mf/img/xtb-IT-METATRADER_ACADEMY-197x55.gif
 ||milanofinanza.it/common/home/mf/img/xtb-IT-METATRADER_ACADEMY-2-197x55.gif
 ||milanofinanza.it/common/home/mf/img/xtbxtradebrokers.gif
+||milanofinanza.it^*/promo/
 ||milanoweb.com/flash/imagerotator.swf
 ||militariforum.it/forum/italy.swf
 ||militariforum.it/forum/orologi-militari.swf
