@@ -380,6 +380,9 @@
 ||ilcalcio.net/immagini/casino-italia.swf
 ||ilcalcio.net/immagini/trucchetto-roulette.jpg
 ||ilcalciocatania.it/banners/
+||ilcambiamento.it//sbanner/
+||ilcambiamento.it/banner/
+||ilcambiamento.it/sbanner/
 ||ilcorrieredabruzzo.it/file/banner/
 ||ilcorrieredabruzzo.it/modules/mod_novarp/tmpl/pjmr.swf?
 ||ilcorrieredabruzzo.it/templates/ilcorrieredabruzzo/images/style2/bg1.jpg
