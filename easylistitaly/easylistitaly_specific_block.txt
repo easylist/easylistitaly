@@ -86,6 +86,7 @@
 ||banneradmin.rai.it^
 ||baseball.it/banner_
 ||bazar.it/backfiles/banners/
+||bebeez.it^*/sponsors/
 ||bellelli.biz/images/stories/banner/
 ||bergamoesport.it^*/banner/
 ||bergamoesport.it^*/bg-body.jpg
