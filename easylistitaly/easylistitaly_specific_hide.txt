@@ -453,6 +453,7 @@ romagiornoenotte.it##.basebannerBox
 wallstreetitalia.com##.bestbuybiz
 losportivo.sm##.bg_blocchi
 corriereromagna.it,ilmattinodifoggia.it##.bgbanner
+youreporter.it##.bigrectangle600
 ilcapoluogo.com##.block-view-bannerSlide
 ilquotidiano.it,parmasera.it,piacenzasera.it,rsvn.it##.box-attico
 notiziaoggi.it,settegiorni.it##.box-banner-menu
