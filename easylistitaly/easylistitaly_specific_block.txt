@@ -417,6 +417,7 @@
 ||ilgiornaledienna.it/images/banners/
 ||ilgiornaledigela.it/images/banners/
 ||ilgiornalediragusa.it/images/banners/
+||ilmamilio.it^*/banners/
 ||ilmanifesto.it^*/sponsors/
 ||ilmattino.it/300x200Banner.php
 ||ilmattino.it/box_tuttomercato052011/
