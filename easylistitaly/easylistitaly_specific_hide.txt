@@ -284,8 +284,8 @@ diretta.it###tab-bonus-offers
 diretta.it###tab-odds
 ilgiornale.it###tab_annunci
 ladyradio.it###table128[width="492"]
-techvideo.tv###takeover
-techvideo.tv###takeover-spazio
+datamanager.it,techvideo.tv###takeover
+datamanager.it,techvideo.tv###takeover-spazio
 genova24.it###takeover_left
 genova24.it###takeover_right
 tomshw.it###testata_giu
