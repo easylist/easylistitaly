@@ -455,6 +455,7 @@ losportivo.sm##.bg_blocchi
 corriereromagna.it,ilmattinodifoggia.it##.bgbanner
 youreporter.it##.bigrectangle600
 ilcapoluogo.com##.block-view-bannerSlide
+risultati.it##.bookmarker-53
 ilquotidiano.it,parmasera.it,piacenzasera.it,rsvn.it##.box-attico
 notiziaoggi.it,settegiorni.it##.box-banner-menu
 sportnews.bz##.box-fullbanner
@@ -548,6 +549,7 @@ geoplan.it##.my_adv
 gelocal.it,repubblica.it##.negozi
 virgilio.it##.newboxIs
 virgilio.it##.newboxIsOrizz
+risultati.it##.odds-detail
 asca.it##.personalized_background
 rai.tv##.placeholder300x250
 gazzetta.it##.poker
