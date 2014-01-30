@@ -345,7 +345,7 @@ trustpilot.it##.adblock
 america24.com##.adbox
 pinkdna.it##.adds300x250
 zapster.it##.addx
-caserta24ore.it,fantagazzetta.com,gamemag.it,phicatube.net,radiospeaker.it##.ads
+caserta24ore.it,fantagazzetta.com,gamemag.it,phicatube.net,radiospeaker.it,teleborsa.it##.ads
 meteowebcam.it##.ads_menu
 ilsecoloxix.it,pcprofessionale.it,pubblicitaitalia.it##.adsense
 meteowebcam.it##.adsense_menu
