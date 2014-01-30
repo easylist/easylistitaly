@@ -406,6 +406,7 @@ ilcalciocatania.it##.bannerArea
 zoover.ch,zoover.it##.bannerContainer
 ravennanotizie.it##.bannerH
 cittaceleste.it,juvenews.eu##.bannerNelTesto
+corriereirpinia.it##.bannerTd
 avvenire.it,borsaitaliana.it##.bannerTop
 ilquotidianodellacalabria.it##.banner_186x290
 ilquotidianodellacalabria.it##.banner_234x90
@@ -706,6 +707,9 @@ liguriawebcam.com##div[style="overflow:hidden;height:90px;margin:4px 0;"]
 puntosicuro.it##div[style="padding: 5px; font-family: Verdana, Arial; font-size: 10px;"]
 giornaledicomo.it,tempi.it##div[style="position: relative; height: 250px; width: 300px;"]
 telefonino.net##div[style="position: relative;width: 310px;height: 110px;margin: 0px -5px 5px -5px;"]
+corriereirpinia.it##div[style="position:absolute;top:0px;left:50%;margin-left:-1116px;width:600px;height:1400px;"]
+corriereirpinia.it##div[style="position:absolute;top:0px;left:50%;margin-left:-520px;width:1040px;height:84px;"]
+corriereirpinia.it##div[style="position:absolute;top:0px;left:50%;margin-left:516px;width:600px;height:1400px;"]
 ilcorrieredabruzzo.it##div[style="position:relative; overflow:hidden; margin:0 auto; width:150px; height:500px"]
 ilcorrieredabruzzo.it##div[style="position:relative; overflow:hidden; margin:0 auto; width:300px; height:100px"]
 ilcorrieredabruzzo.it##div[style="position:relative; overflow:hidden; margin:0 auto; width:300px; height:150px"]

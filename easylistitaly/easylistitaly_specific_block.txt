@@ -194,6 +194,9 @@
 ||corrieredellosport.it/res/swf/ova.swf$object-subrequest
 ||corrieredicomo.it/images/banners/
 ||corrieredigela.it/public/sponsor/
+||corriereirpinia.it^*_back1.
+||corriereirpinia.it^*_Banner_
+||corriereirpinia.it^*_BannerPageBG.
 ||corriereobjects.it^*/adv/
 ||corriereobjects.it^*/banner_dizionario_iphone.gif
 ||corriereobjects.it^*/icon_csnai_shared.png
