@@ -662,6 +662,7 @@
 ||oxfordparavia.it/img/babylon.gif
 ||paeimprese.it^*/downloadfilebanner.php?
 ||palermomania.com/images/banner/
+||palermomania.it/public/banner/
 ||panorama.it^*-promobox/
 ||parmasera.it^*/img_banner/
 ||parrocchie.it/banner/
