@@ -74,6 +74,7 @@
 ##.box_adv_speciali_hp
 ##.cmt_bgadv
 ##.googleAnnunci
+##.home-rubriche-adv
 ##.inews_adv_top
 ##.linksponsorizzati
 ##.modPubblicita

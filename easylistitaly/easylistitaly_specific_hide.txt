@@ -20,6 +20,8 @@ bordighera.net,italianhack.org,mailexpress.it,spaziogames.it###ads
 ilgazzettinovesuviano.com###adsensing
 la7.it,ustation.it###adv
 agarymathematics.net###adv1
+cinquequotidiano.it###adv2
+cinquequotidiano.it###adv_1
 3bmeteo.com###adv_5
 quattroruote.it###adv_wideleaderboard
 rockol.it,sanihelp.it###advertisement
