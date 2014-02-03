@@ -36,7 +36,7 @@ libero.it###b468x60bottoms
 calciomercato.com###background_left
 calciomercato.com###background_right
 lastampa.it###badge
-asylumitalia.it,bitcity.it,car4you.it,forzapescara.net,grandefratellonews.com,ilmanifesto.it,meteo-emiliaromagna.it,tendenzeonline.info,webpedia.altervista.org###banner
+advertiser.it,asylumitalia.it,bitcity.it,car4you.it,forzapescara.net,grandefratellonews.com,ilmanifesto.it,meteo-emiliaromagna.it,tendenzeonline.info,webpedia.altervista.org###banner
 serviziopubblico.it###banner-1
 gustissimo.it###banner-alto
 telesud3.com###banner-header
@@ -384,7 +384,7 @@ piacenzanight.com##.back_style
 avmagazine.it,ilcrotonese.it,tomshw.it##.background-link
 lavorincasa.it##.bak
 milanofinanza.it,oggitreviso.it##.ban
-agi.it,agichina24.it,airdave.it,alessandrianews.it,casateonline.it,corrieremercantile.it,gazzettahockey.it,giochidicalcio.com,html.it,ilcambiamento.it,ilfriuli.it,ilmanifesto.it,insegreto.it,lindro.it,lipari.biz,macitynet.it,merateonline.it,oggitreviso.it,orangedropdesign.com,orvietosi.it,pmi.it,programmitv.com,pubblicitaitalia.it,r101.it,rcdc.it,rockit.it,softonic.it,strettoweb.com,ticinolibero.ch,vocenuova.tv##.banner
+advertiser.it,agi.it,agichina24.it,airdave.it,alessandrianews.it,casateonline.it,corrieremercantile.it,gazzettahockey.it,giochidicalcio.com,html.it,ilcambiamento.it,ilfriuli.it,ilmanifesto.it,insegreto.it,lindro.it,lipari.biz,macitynet.it,merateonline.it,oggitreviso.it,orangedropdesign.com,orvietosi.it,pmi.it,programmitv.com,pubblicitaitalia.it,r101.it,rcdc.it,rockit.it,softonic.it,strettoweb.com,ticinolibero.ch,vocenuova.tv##.banner
 rollingstonemagazine.it##.banner-abbonamenti
 telesud3.com##.banner-destra
 telesud3.com##.banner-destra-tyf
@@ -435,7 +435,7 @@ smtvsanmarino.sm##.banner_head
 livesicilia.it##.banner_leaderboard
 nqnews.it##.banner_news
 galileonet.it##.banner_oriz
-pubblicitaitalia.it##.banner_over_footer
+advertiser.it,pubblicitaitalia.it##.banner_over_footer
 rsvn.it##.banner_panel
 ipadevice.com,ispazio.net##.banner_right_sidebar_big
 ipadevice.com,ispazio.net##.banner_right_sidebar_small
