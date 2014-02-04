@@ -319,6 +319,7 @@
 ||genova24.it^*/img/adv/
 ||geoplan.it/advs/
 ||giallozafferano.it/images/banner/
+||gianlucadimarzio.com^*_skin_
 ||giardinaggio.it/@/servizi/dueverticali.asp
 ||giorgiotave.it/media/images/sharingimages/2013.gif
 ||giornaledimerate.it/banneranalyzer/
