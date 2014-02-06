@@ -149,6 +149,7 @@
 ||servizi-web-marketing.it^$image,third-party
 ||sessotop.com/img/annunci*.gif
 ||sitinuovi.it/banner/
+||sk1.it/images/banners/
 ||sk1.it/images/promo/
 ||slotmachinesgratisonline.com/image/$third-party
 ||smartclip.net^$~object-subrequest,third-party

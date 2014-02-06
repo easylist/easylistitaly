@@ -99,7 +99,7 @@ telefonino.net###bannerstrip
 senigallianotizie.it###bbitalia_banner
 altalex.com,sentenze.net###bglink
 gizmodo.it###big-mega
-tuttogratis.it###bleft
+neveitalia.it,tuttogratis.it###bleft
 rumors.it###block-block-19
 rumors.it,trendystyle.it###block-block-2
 rumors.it,trendystyle.it###block-block-26
@@ -129,10 +129,10 @@ corrieredellosport.it,fastweb.it,italia-news.it,senigallianotizie.it,tuttosport.
 virgilio.it###box_solo_promozioni
 masterviaggi.it###box_sponsor
 pctuner.net###boxbanner
-tuttogratis.it###bright
+neveitalia.it,tuttogratis.it###bright
 liberatv.ch###bsky
 r101.it###btn_r101store
-fattidicronaca.it,pourfemme.it,qnm.it,tecnocino.it,tecnozoom.it,tuttogratis.it,vivacinema.it###btop
+fattidicronaca.it,neveitalia.it,pourfemme.it,qnm.it,tecnocino.it,tecnozoom.it,tuttogratis.it,vivacinema.it###btop
 iodonna.it,leiweb.it###buy-now
 gamesvillage.it###buy_amazon
 treccani.it###campagnaBox
