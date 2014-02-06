@@ -122,6 +122,7 @@
 ||pangora.com^$image,third-party
 ||passionevideo.it/inc/ova.swf$object-subrequest
 ||percorsidigitali.com/consulting300.gif
+||plug.it/*/oas/
 ||pop.virgilio.us^
 ||popspace.virgilio.us^
 ||pornotizie.com/image/banner/
