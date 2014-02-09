@@ -586,6 +586,7 @@ gazzettadasti.it##.rotate-banner
 nonsolocap.it##.ru
 areanapoli.it##.sdoo_cnt
 apollodoro.it,ecoo.it,gaywave.it,haisentito.it,nanopress.it,tantasalute.it##.sectCntGoogle3
+guidamonaci.it##.separatorFooter
 tio.ch##.sfondoPubListaNews
 softonic.it##.show_banner_down_leaderboard
 radiomontecarlo.net##.side-ban
