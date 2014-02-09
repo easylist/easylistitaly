@@ -8,6 +8,7 @@ sardegna24.net###Hbanner300x250c20
 rai.it###Leaderboard
 liberatv.ch###Minisky
 ininsubria.it###PopUp_Under
+tio.ch###PromotionInterna
 tio.ch###RectangleInterna
 tripadvisor.it###SPONSORED_TOP_10
 liberatv.ch###Sky2
@@ -232,6 +233,7 @@ loudvision.it###prop-leader
 nonsolocap.it###qk
 moto.it###rchm_overlay
 gazzetta.it###rectangle
+tio.ch###rectangleGallery
 ticinonews.ch###rectangleleaderhome1_FormView1_ctl00_Banmanpro3Label
 everyeye.it###richmedia
 dagospia.com###right-160x90
