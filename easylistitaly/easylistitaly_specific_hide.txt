@@ -709,6 +709,7 @@ calciomercato.napoli.it##div[style="margin-top:-25px; margin-bottom:20px; height
 horsemoonpost.com##div[style="margin: 0 auto; width: 728px; height: 90px; background: #ccc;"]
 donnamoderna.com##div[style="margin: 10px 0px 0px 0px; padding: 0px 15px 9px 15px; width: 285px; height:90px; background-image:url('http://www.donnamoderna.com/extension/donnamoderna/design/donnamoderna/images/bg-immobiliare.png'); background-repeat: no-repeat; "]
 ultimissime.net##div[style="margin:auto; background-image:url('/images/stories/professionecasinO.jpg'); height: 153px; width: 287px"]
+agichina24.it##div[style="overflow: hidden; width: 459px; height: 27px;"]
 liguriawebcam.com##div[style="overflow:hidden;height:90px;margin:4px 0;"]
 puntosicuro.it##div[style="padding: 5px; font-family: Verdana, Arial; font-size: 10px;"]
 giornaledicomo.it,tempi.it##div[style="position: relative; height: 250px; width: 300px;"]

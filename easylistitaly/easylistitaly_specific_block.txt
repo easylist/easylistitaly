@@ -28,6 +28,8 @@
 ||agenparl.it^*/banners/
 ||agi.it/agipub/
 ||agi.it^*-google-personalizzato-
+||agichina24.it^*-banner-google-
+||agichina24.it^*/459x27.jpg
 ||agienergia.it^*/banner/
 ||agrigentonotizie.it/images/skin/
 ||alatest.it/banner/
