@@ -316,6 +316,7 @@
 ||gazzettaobjects.it/static_images/promo/
 ||gazzettaobjects.it^*/adv/
 ||gazzettaobjects.it^*/sponsor/
+||gds.it^*-300x251-
 ||gdsannunci.it/images/bannerpub/
 ||geekissimo.com/images/5sms.gif
 ||genova24.it^*/img/adv/
