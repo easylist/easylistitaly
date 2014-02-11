@@ -695,6 +695,7 @@ notizieindiretta.it##div[style="float:left;padding:5px 13px 13px 0px;width:336px
 adnkronos.com##div[style="float:left;width:200px;height:200px;margin:10px"]
 radiosei.it##div[style="float:none;margin-top:10px;text-align:center;width:492px;height:100px;"]
 retesport.it##div[style="float:none;margin-top:10px;text-align:center;width:493px;height:100px;"]
+piacenzanight.com##div[style="float:right; position:absolute; z-index:2; cursor:pointer; width:969px; height:306px;"]
 pronostici-scommesse.info##div[style="height:250px;width:300px;"]
 autobelle.it##div[style="height:255px;padding-top:15px;position:relative; left:-15px;"]
 auto7.it##div[style="height:280px; width:336px; margin:2px 2px; float:left;"]
