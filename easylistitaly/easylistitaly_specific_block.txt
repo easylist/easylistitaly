@@ -409,6 +409,7 @@
 ||ilfriuli.it/writable/images/*_skin.jpg
 ||ilfriuli.it/writable/images/animazione-
 ||ilfriuli.it/writable/images/banner-
+||ilgazzettino.it/300x200Banner.php
 ||ilgazzettino.it/box_tuttomercato052011/
 ||ilgazzettino.it/imgmol/
 ||ilghirlandaio.com/web/template/banners/
