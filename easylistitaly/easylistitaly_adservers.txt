@@ -56,6 +56,7 @@
 ||partners-aedgency.com^$third-party
 ||partypartners.it^$third-party
 ||payclick.it^$third-party
+||paypublicity-system.com^$third-party
 ||paypublicity.it^$third-party
 ||perfcreatives.com^$third-party
 ||pipaoffers.com^$third-party
