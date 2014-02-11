@@ -64,13 +64,14 @@ ansa.it###banner970x30strip
 ansa.it###banner984x45strip
 romagnaoggi.it###banner990
 ilsalvagente.it###bannerBottomExtra
-ilsalvagente.it###bannerDx
+ilsalvagente.it,lavoripubblici.it###bannerDx
 ilcapoluogo.com###bannerHeader
 ilsalvagente.it###bannerInt
 cittaceleste.it###bannerPrimaEdintorni
 telefonino.net###bannerProve300x250pos2
 tesionline.it###bannerSfondo
 cittaceleste.it,juvenews.eu###bannerSottoTitolo
+lavoripubblici.it###bannerSx
 allaguida.it,apollodoro.it,buttalapasta.it,casapoker.it,derapate.it,designmag.it,ecodellosport.it,ecoo.it,fattidicronaca.it,finanzaeborse.it,games4all.it,gaywave.it,haisentito.it,musicroom.it,myluxury.it,nanopress.it,nextmoto.it,nonmidire.it,politica24.it,r101.it,regaloregali.it,stylosophy.it,suipedali.it,tantasalute.it,tecnocino.it,televisionando.it,ticonzero.info,trackback.it,tshot.it,tuttogratis.it,vivacinema.it,vostrisoldi.it###bannerTop
 ilsalvagente.it###bannerTopInt
 spaziogames.it###banner_300
@@ -110,6 +111,7 @@ rumors.it,trendystyle.it###block-block-5
 axn.it###block-spti_operative-spti_operative_square
 ilsole24ore.com###block300x250
 diretta.it###bonus-offers
+lavoripubblici.it###bottomBanner
 eurosat-online.it###bottoni
 dueruote.it,motonline.com###box-bacheca
 dueruote.it,motonline.com###box-bachecapremium
@@ -178,7 +180,7 @@ cronachemaceratesi.it###head_sponsor
 modenaonline.info,parmaonline.info,reggionline.com,sportreggio.it###header-banner-pane
 rinnovabili.it###header-bottom
 marigliano.net###header-top
-tempoitalia.it###headerBanner
+lavoripubblici.it,tempoitalia.it###headerBanner
 cani.com###headerBoard-box
 lascommessasportiva.it###header_banner
 megalab.it###header_leaderboard
@@ -282,6 +284,7 @@ lastampa.it###storelocator
 valsassinanews.com###stripbanner
 autoxy.it###subito-sponsor
 html.it###suggested-links
+lavoripubblici.it###superBanner
 hdblog.it###sx
 digital-sat.it###sx_basso_topsx
 diretta.it###tab-bonus-offers
@@ -302,6 +305,7 @@ ilcapoluogo.com###tier
 hdblog.it###top
 america24.com,finanza.com,tuttolosportdiparma.it###top-banner
 lecconotizie.com###top-domination
+lavoripubblici.it###topBanner
 playme.it###topPromo
 lonelyplanetitalia.it###top_banner
 giornaledellamusica.it###top_banner_container
