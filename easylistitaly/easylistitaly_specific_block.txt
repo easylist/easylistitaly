@@ -512,6 +512,7 @@
 ||lapiazzagrande.it/pubb/
 ||lapiazzaweb.it/banner/
 ||laprovinciadilecco.it^*/banner/
+||laregione.ch/ban.asp?
 ||laroma24.it/banner/
 ||lascommessasportiva.it^*/banners/
 ||lasignoraingiallorosso.it^*/banners/
