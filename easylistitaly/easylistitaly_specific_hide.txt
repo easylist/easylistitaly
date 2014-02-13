@@ -465,6 +465,7 @@ wallstreetitalia.com##.bestbuybiz
 losportivo.sm##.bg_blocchi
 corriereromagna.it,ilmattinodifoggia.it##.bgbanner
 youreporter.it##.bigrectangle600
+ilgiornale.it##.block-ilg-adsense
 ilcapoluogo.com##.block-view-bannerSlide
 risultati.it##.bookmarker-53
 ilquotidiano.it,parmasera.it,piacenzasera.it,rsvn.it##.box-attico
