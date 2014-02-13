@@ -29,6 +29,7 @@
 /sponsorizzate.
 /tiscali_ads.
 /TiscaliADV_
+_pubblicita-
 _pubblicita.
 _pubblicita/
 _pubblicita_
