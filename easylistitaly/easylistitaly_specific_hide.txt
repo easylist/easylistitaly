@@ -591,6 +591,7 @@ film.it##.rightBoxAmazon
 cinquegiorni.it##.rightbanner
 gazzettadasti.it##.rotate-banner
 nonsolocap.it##.ru
+ivg.it##.sb-banner
 areanapoli.it##.sdoo_cnt
 apollodoro.it,ecoo.it,gaywave.it,haisentito.it,nanopress.it,tantasalute.it##.sectCntGoogle3
 guidamonaci.it##.separatorFooter
