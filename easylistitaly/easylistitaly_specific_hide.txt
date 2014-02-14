@@ -110,6 +110,8 @@ rumors.it,trendystyle.it###block-block-4
 rumors.it,trendystyle.it###block-block-5
 axn.it###block-spti_operative-spti_operative_square
 ilsole24ore.com###block300x250
+cronacamilano.it###block_left
+cronacamilano.it###block_right
 diretta.it###bonus-offers
 lavoripubblici.it###bottomBanner
 eurosat-online.it###bottoni
@@ -519,7 +521,7 @@ quotidiano.net##.google-728
 ilturista.info##.google-box
 fantagazzetta.com##.h-box
 ilgiornaledivicenza.it##.header-box
-bow.it##.header_banner
+bow.it,cronacamilano.it##.header_banner
 bora.la##.headerbtm
 gazzettadasti.it##.homepage-central-ban
 autoline-eu.it##.index-center-banners-1
