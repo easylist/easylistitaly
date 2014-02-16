@@ -444,6 +444,7 @@
 ||ilmitte.com^*/banner_
 ||ilmonferrato.it/banners/
 ||ilmonferrato.it/media/generalauto_
+||ilnord.it/imgbank/banner/
 ||ilpaesenuovo.it^*/italfiamma.jpg
 ||ilpaesenuovo.it^*/perhospital-01.jpg
 ||ilpaesenuovo.it^*/perhospital.jpg
