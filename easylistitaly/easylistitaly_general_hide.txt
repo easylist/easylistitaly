@@ -60,7 +60,6 @@
 ##.adagiowritebanner_dmtag
 ##.adv-articolo
 ##.adv-iframe-sx
-##.adv-x61
 ##.advPostLibri
 ##.adv_esterno
 ##.adv_oriz
