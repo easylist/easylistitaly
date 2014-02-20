@@ -533,6 +533,8 @@
 ||latinaoggi.net/public/img/bannerino-
 ||latitudeslife.com/magazine/adv/
 ||latitudeslife.com^*/banners/
+||lavocedinewyork.com^*/52DBA386-71AE-11.jpg
+||lavocedinewyork.com^*/5303FE28-71AE-11.jpg
 ||lavocedivenezia.it/player/banner/
 ||lavorare-spettacolo.com/images/banners/
 ||lavorincasa.it/banner/
