@@ -184,6 +184,7 @@
 ||console-inf.com/banner/
 ||console-tribe.com^*/adv/
 ||copertinedvd.org/adv.php?
+||coplanet.it^*/bannerzon/
 ||coriglianocalabro.it/images/banners/
 ||coriglianocalabro.it^*/banner/
 ||corriere.it^*/adv/
