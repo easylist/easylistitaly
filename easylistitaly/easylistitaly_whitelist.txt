@@ -24,6 +24,8 @@
 @@||banneradmin.rai.it/crossdomain.xml$object-subrequest
 @@||bs.serving-sys.com/crossdomain.xml$object-subrequest,domain=sky.it
 @@||cdn-wx.rainbowtgx.com/*/adaptive-content/js/speweb-001.js$domain=quotidiano.net
+@@||centrosangiorgio.com^*_pubblicita.
+@@||centrosangiorgio.com^*_pubblicita/
 @@||dotandad.com/crossdomain.xml$object-subrequest,domain=r101.it
 @@||dotandad.com/mediamond.jsp?$object-subrequest,domain=r101.it
 @@||dotandad.com/mediamond?mpo=$script,domain=panorama.it
