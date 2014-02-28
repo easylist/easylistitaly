@@ -7,6 +7,8 @@
 ||abruzzoweb.it/images/banners/
 ||abruzzoweb.it/images/capannoni/banner.jpg
 ||abruzzoweb.it/images/grey.gif
+||accordiespartiti.it/propalco*.png
+||accordiespartiti.it/suonarechitarra.jpg
 ||acmilan.com^*/sponsor/
 ||acquaportal.it/common/banner/
 ||acquaportal.it/common/banner126/
