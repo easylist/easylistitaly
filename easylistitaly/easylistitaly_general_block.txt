@@ -35,3 +35,4 @@ _pubblicita/
 _pubblicita_
 ! Anti-Adblock
 /antipubblicita.js
+/noadblock.jpg
