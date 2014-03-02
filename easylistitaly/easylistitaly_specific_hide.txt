@@ -475,6 +475,7 @@ youreporter.it##.bigrectangle600
 ilgiornale.it##.block-ilg-adsense
 ilcapoluogo.com##.block-view-bannerSlide
 risultati.it##.bookmarker-53
+beppegrillo.it##.bottom-banner
 ilquotidiano.it,parmasera.it,piacenzasera.it,rsvn.it##.box-attico
 notiziaoggi.it,settegiorni.it##.box-banner-menu
 sportnews.bz##.box-fullbanner
@@ -769,6 +770,7 @@ unionesarda.it##div[style="width:100%; height:250px; float:left;"]
 balarm.it##div[style="width:100%;height:1790px; text-align:center; z-index: 0; position:absolute"]
 mmorpgitalia.it##div[style="width:120px; height:600px;"]
 cronachemaceratesi.it##div[style="width:160px; float:none; height:600px; margin:30px auto;"]
+beppegrillo.it##div[style="width:160px; height:600px;"]
 orgoglionerd.it##div[style="width:227px;height:315px"]
 ilfattoquotidiano.it##div[style="width:235px; height:75px; margin-top: 10px; overflow:hidden; float:left"]
 ilfattoquotidiano.it##div[style="width:235px; height:75px; margin-top: 10px; overflow:hidden; float:left;line-height: 12px;"]
@@ -807,6 +809,7 @@ wmia.it##div[style="width:350px; height:300px; float:left"]
 radiotime.it##div[style="width:360px; margin-top:10px; margin-bottom:5px;"]
 pornoitalico.com##div[style="width:380px; height:480px; _position:absolute; _right: 0px; text-align:center; float:right; margin-top:51px;margin-bottom: 50px; margin-left: 5px; background-color:#FCFAFA; border: 1px solid #BCBCBC;; padding-left:10px; padding-right:10px; padding-top:30px; padding-bottom:100px; margin-right: 10px; border-radius: 0px;"]
 milanlive.it##div[style="width:468px; float:left; height:60px; margin-bottom:3px;"]
+beppegrillo.it##div[style="width:475px; height:60px; display:none;"]
 asroma24.com,ilmilanista.it,interistaweb.it##div[style="width:480px; height:72px; padding: 6px; margin-left:auto; margin-right:auto;"]
 igossip.it##div[style="width:600px; height:360px;float:left;"]
 beppegrillo.it##div[style="width:728px; height:45px;"]
