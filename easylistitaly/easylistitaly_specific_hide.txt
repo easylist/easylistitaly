@@ -377,6 +377,7 @@ loradellacalabria.it##.advertise2
 internimagazine.it##.advertisement
 cubovision.it,fastweb.it,gazzetta.it##.advertising
 loggiap2.com##.advs
+quotidianodigela.it##.advs-title
 filodiritto.com##.altro_box_banner_dx
 filodiritto.com##.altro_box_banner_sx
 videogame.it##.amazon

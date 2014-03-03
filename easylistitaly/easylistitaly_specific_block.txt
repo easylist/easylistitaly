@@ -731,6 +731,9 @@
 ||quicomo.it/qc-ad/
 ||quicomo.it/qc-assets/banner/
 ||quotidiano.net/file_generali/flash/ova.swf$object-subrequest
+||quotidianodigela.it/images/background/
+||quotidianodigela.it/images/banners/
+||quotidianodigela.it^*/banners/
 ||quotidianodipuglia.it/box_tuttomercato032011/
 ||quotidianodipuglia.it/img/magiclandlight.gif
 ||quotidianodipuglia.it/img/rainbow_magicland.gif
