@@ -436,7 +436,7 @@ ilmattinodifoggia.it##.banner_990x30
 rsvn.it##.banner_BodyTop
 nqnews.it##.banner_Leaderboard
 professionecalcio.net,professionemotori.it##.banner_after_feat
-liberoquotidiano.it##.banner_apertura
+lanuovaprimapagina.it,liberoquotidiano.it##.banner_apertura
 finanzaonline.com##.banner_bg
 borsainside.com##.banner_bottom_post
 softonic.it##.banner_box
@@ -472,7 +472,7 @@ ticinolive.ch##.bannerwrap
 romagiornoenotte.it##.basebannerBox
 wallstreetitalia.com##.bestbuybiz
 losportivo.sm##.bg_blocchi
-corriereromagna.it,ilmattinodifoggia.it##.bgbanner
+corriereromagna.it,ilmattinodifoggia.it,lanuovaprimapagina.it##.bgbanner
 youreporter.it##.bigrectangle600
 ilgiornale.it##.block-ilg-adsense
 ilcapoluogo.com##.block-view-bannerSlide
