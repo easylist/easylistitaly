@@ -359,6 +359,7 @@ ricettepercucinare.com##.UAP_Wide_Skyscraper
 4risate.com,7per24.it,ilsole24ore.com,jugo.it,mesagne.me,milanlive.it,tripadvisor.it##.ad
 trustpilot.it##.adblock
 america24.com,gianlucadimarzio.com##.adbox
+loradellacalabria.it##.add768int
 pinkdna.it##.adds300x250
 zapster.it##.addx
 caserta24ore.it,fantagazzetta.com,gamemag.it,phicatube.net,radiospeaker.it,teleborsa.it##.ads
