@@ -558,6 +558,8 @@ livesicilia.it##.manchette-l
 livesicilia.it##.manchette-r
 erbanotizie.com,lecconotizie.com##.manchette-sx
 cremonaoggi.it##.manchette2
+europaquotidiano.it##.mct_dx
+europaquotidiano.it##.mct_sx
 gazzettadasti.it##.medium-rotate-banner
 melamorsicata.it##.mela_ban_1
 melamorsicata.it##.mela_ban_2
