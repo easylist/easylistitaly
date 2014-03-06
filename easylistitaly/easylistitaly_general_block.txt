@@ -4,6 +4,7 @@
 .it/ads/
 .it/adv/
 .it/adv_
+/adv/codice_
 /adv_s_pirchio.
 /advpirchio.
 /advpirchiofooter.
