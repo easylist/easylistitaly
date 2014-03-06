@@ -162,6 +162,7 @@ internapoli.it###divHeader
 ecodicaserta.it###down
 hdblog.it###dx
 telefonino.net###ebayBox
+key4biz.it###ebookNews
 unita.it###eimp[style="width:298px;float:left;margin-top:20px;height:248px;border:1px solid #cccccc; position:relative; z-index:0"]
 comingsoon.it###expSkin
 tipiace.it###externalbanner
@@ -423,6 +424,7 @@ zoover.ch,zoover.it##.bannerContainer
 ravennanotizie.it##.bannerH
 beppegrillo.it##.bannerHeader
 cittaceleste.it,juvenews.eu##.bannerNelTesto
+key4biz.it##.bannerRight
 corriereirpinia.it##.bannerTd
 avvenire.it,borsaitaliana.it##.bannerTop
 ilquotidianodellacalabria.it##.banner_186x290
