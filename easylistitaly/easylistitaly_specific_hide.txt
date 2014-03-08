@@ -498,6 +498,7 @@ subito.it##.box_sponsor
 tiscali.it##.c1c6.f12
 quotidiano.net##.category-SPONSOR
 edilportale.com##.click-Skin
+tripadvisor.it##.commerce
 gazzetta.it##.contain-sisal-magicup
 borsaitaliana.it##.container_banner_top
 macitynet.it##.contentTop
