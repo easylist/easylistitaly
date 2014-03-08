@@ -497,7 +497,6 @@ omniauto.it##.box_listinousato
 subito.it##.box_sponsor
 tiscali.it##.c1c6.f12
 quotidiano.net##.category-SPONSOR
-ansa.it##.channel-adv
 edilportale.com##.click-Skin
 gazzetta.it##.contain-sisal-magicup
 borsaitaliana.it##.container_banner_top
