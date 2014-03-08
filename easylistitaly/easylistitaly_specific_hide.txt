@@ -350,7 +350,7 @@ metropolisweb.it##.BannerMezzoNotizia
 nqnews.it##.Banner_box
 ciao.it##.CWContainerComparePrice
 meteo.it##.ImmobiliareIt
-foxcrime.it,foxlife.it,foxtv.it##.MPU336
+foxcrime.it,foxlife.it,foxretro.it,foxtv.it##.MPU336
 foxsports.it##.Mpu
 alfemminile.com##.OffresSpe_cadre
 search.aol.it##.SLL
