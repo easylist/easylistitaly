@@ -12,6 +12,7 @@
 /affiliati_img/*
 /annunciogoogle.
 /gfx/adv/*
+/immagini/adv_
 /inclusioni/adv/*
 /it/adv/*
 /materiali_adv/*
