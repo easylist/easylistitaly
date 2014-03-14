@@ -404,6 +404,8 @@ advertiser.it,agi.it,agichina24.it,airdave.it,alessandrianews.it,casateonline.it
 rollingstonemagazine.it##.banner-abbonamenti
 telesud3.com##.banner-destra
 telesud3.com##.banner-destra-tyf
+algheroeco.com##.banner-header-dx
+algheroeco.com##.banner-header-sx
 genova24.it,ivg.it##.banner-middle-board
 milanofinanza.it##.banner-sfondo
 telesud3.com##.banner-sidebar
@@ -674,6 +676,7 @@ ilsalvagente.it##.video
 giallozafferano.it##.vini-sp
 tiscali.it##.w304.mB20
 tiscali.it##.w312.mB25
+algheroeco.com##.wallpaper-link
 fc-suedtirol.com##.werbung
 insegreto.it##.widget-banner
 ilfattoquotidiano.it##.widget_ifqbooks
