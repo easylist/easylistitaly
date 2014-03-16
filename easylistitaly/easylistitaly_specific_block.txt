@@ -208,6 +208,7 @@
 ||corriereromagna.it/upload/
 ||corrierinocampaniasport.it^*/banner_
 ||corrierinocampaniasport.it^*/menna.jpg
+||cronacaflegrea.it^*/ads/
 ||dagospia.com/_include/banner/
 ||datasport.it/graphic/img/banner_
 ||datasport.it/graphic/img/bannerspettacolo.gif
