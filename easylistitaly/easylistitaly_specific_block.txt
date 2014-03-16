@@ -664,6 +664,7 @@
 ||notizie-online.it/banner/
 ||nuovadelsud.it/images/banners/
 ||nyc-site.com/newyork/hotel/
+||oas.repubblica.it^
 ||occhiodisalerno.com/images/banners/
 ||oggitreviso.it/files/fascevittoriofilm.jpg
 ||oipamagazine.eu/banner_
