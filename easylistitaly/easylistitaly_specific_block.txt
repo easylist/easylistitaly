@@ -430,6 +430,7 @@
 ||ilgiornaledellaprotezionecivile.it^*_banners/
 ||ilgiornaledelmolise.it/img/bannerlungo/
 ||ilgiornaledelpiemonte.com/pubb/
+||ilgiornaledelpiemonte.it/web/pubb/
 ||ilgiornaledienna.it/images/banners/
 ||ilgiornaledigela.it/images/banners/
 ||ilgiornalediragusa.it/images/banners/
