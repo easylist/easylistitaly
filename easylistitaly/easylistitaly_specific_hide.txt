@@ -424,12 +424,12 @@ fantagazzetta.com##.banner5
 ilsecoloxix.it##.banner650x60
 ilcalciocatania.it##.bannerArea
 zoover.ch,zoover.it##.bannerContainer
-ravennanotizie.it##.bannerH
+ilmessaggero.it,ravennanotizie.it##.bannerH
 beppegrillo.it##.bannerHeader
 cittaceleste.it,juvenews.eu##.bannerNelTesto
 key4biz.it##.bannerRight
 corriereirpinia.it##.bannerTd
-avvenire.it,borsaitaliana.it##.bannerTop
+avvenire.it,borsaitaliana.it,ilmessaggero.it##.bannerTop
 ilquotidianodellacalabria.it##.banner_186x290
 ilquotidianodellacalabria.it##.banner_234x90
 spaziofilm.it##.banner_300
