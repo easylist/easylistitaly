@@ -647,6 +647,7 @@ ravennaedintorni.it##.strillo
 agichina24.it,trend-online.com##.strip
 loradellacalabria.it##.strisciane1
 style.it##.style_promo
+wired.it##.supported
 ciao.it##.tableSponsLinks
 genova24.it,ivg.it##.takeover
 panorama.it##.teaser-immobiliare
