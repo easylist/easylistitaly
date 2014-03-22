@@ -20,7 +20,7 @@ spaziogames.it###a_boder_bg
 digital-forum.it,esigarettaforum.com###ad_global_below_navbar
 bordighera.net,italianhack.org,mailexpress.it,spaziogames.it###ads
 ilgazzettinovesuviano.com###adsensing
-la7.it,ustation.it###adv
+la7.it,ustation.it,xvideoscopate.com###adv
 agarymathematics.net###adv1
 cinquequotidiano.it###adv2
 cinquequotidiano.it###adv_1
@@ -171,6 +171,7 @@ insegreto.it###footer-banners
 ladige.it###footer-leaderboard
 red-live.it###footer_banner
 fc-suedtirol.com###footersponsor
+xvideoscopate.com###footertop
 ilcap.it###gadsense
 rdf.it###gkBanner2
 telefonino.net###google300x250
@@ -808,6 +809,7 @@ ilfattoquotidiano.it##div[style="width:300px; height:75px; margin-top: 10px; ove
 ilfattoquotidiano.it##div[style="width:300px; height:75px; margin-top: 10px; overflow:hidden; float:left;line-height:15px;"]
 ilfattoquotidiano.it##div[style="width:300px; height:75px; overflow:hidden; float:left; margin-top: 10px;"]
 ilfattoquotidiano.it##div[style="width:300px; height:75px; overflow:hidden; float:left; margin-top: 10px;line-height:15px;"]
+xvideoscopate.com##div[style="width:300px;float:right;margin-right:15px;border: 4px solid rgb(85, 85, 85);padding: 40px 40px;"]
 outune.net##div[style="width:300px;height:180px; background:#fff;"]
 ticinolibero.ch##div[style="width:300px;height:250px;margin-bottom:10px"]
 strettoweb.com##div[style="width:307px; height:250px; text-align:left; margin:0 0 5px 5px; float:right;"]
