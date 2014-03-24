@@ -597,6 +597,8 @@
 ||mastertop100.org/advf1.php
 ||masterviaggi.it/banner/
 ||mattinonline.ch^*/banner_
+||maxleggeri.it^*/uni2.png
+||maxleggeri.it^*/UNICUSANO_
 ||mbenz.it/banner.swf
 ||mbenz.it/lidaolbia.jpg
 ||mediagol.it/images/sponsor/
@@ -760,6 +762,7 @@
 ||radioglobo.it/img/bg/bg_
 ||radiogold.it^*/banner/
 ||radioitaliacharleroi.com/adv/
+||radiomanasport.it^*/EU.jpg
 ||radiomarte.it/site/images/sponsor/
 ||radiomondo.it/images/banners/
 ||radionorba.it/sp/flash/banner-
