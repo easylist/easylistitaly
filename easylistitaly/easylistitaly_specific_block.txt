@@ -460,6 +460,7 @@
 ||ilpost.it^*/home_adv.css
 ||ilquotidiano.it/userdata/banner/
 ||ilquotidianodellazio.it/img/banners/
+||ilroma.net^*/rotor/
 ||ilromanista.it/images/banners/
 ||ilsalvagente.it/imgmol/
 ||ilsalvagente.it/immagini/banner120x60-
