@@ -83,6 +83,7 @@
 ||avmagazine.it/css/2010/skin/
 ||avmagazine.it/immagini/2013_05_02_educal_2013_500.jpg
 ||avvenire.it/Lists/Banners/
+||avvenire.it^*/skin_
 ||aziendeonline.biz/db/banner_
 ||babboleo.it/images/banners/
 ||badtaste.it/file/amazon/
