@@ -671,6 +671,9 @@
 ||notebookitalia.it/images/stories/*_wallpaper_jpg.jpg
 ||notiziarioitaliano.it^*/banner/
 ||notizie-online.it/banner/
+||novara.com/images/Banners/
+||novara.com/public/WAPPS/LinksBannerData/
+||novara.com^*/MainBanner_
 ||nuovadelsud.it/images/banners/
 ||nyc-site.com/newyork/hotel/
 ||oas.repubblica.it^

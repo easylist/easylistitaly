@@ -2,6 +2,7 @@ hostingtalk.it###BannerBottom
 hostingtalk.it###BannerTop
 comingsoon.it###BnrRight1
 comingsoon.it###BnrRight2
+novara.com###BoxBlock_8
 tgcom24.mediaset.it###ContentSpecialBox
 comingsoon.it###ExpTop
 sardegna24.net###Hbanner300x250c20
@@ -352,6 +353,7 @@ nqnews.it##.Banner_box
 ciao.it##.CWContainerComparePrice
 meteo.it##.ImmobiliareIt
 foxcrime.it,foxlife.it,foxretro.it,foxtv.it##.MPU336
+novara.com##.MainBanner
 foxsports.it##.Mpu
 alfemminile.com##.OffresSpe_cadre
 search.aol.it##.SLL
