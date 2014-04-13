@@ -198,6 +198,7 @@ avvenire.it###htmlcomponent18 > .boxAggiuntivi
 ladige.it,panorama.it###immob_box_ricerca
 r101.it###innamorarsiA101
 cittaceleste.it,juvenews.eu###itemBannerSottoImg
+unita.it###ixeBanner
 prowrestling.it###landingbanner
 macitynet.it###leader-wrapper
 boomerangtv.it,discoverychannel.it,dissacration.com,ebay.it,eurogamer.it,fiscaleweb.com,geekissimo.com,gingerandtomato.com,healthdesk.it,historychannel.it,ilcinemaniaco.com,ilgazzettinovesuviano.com,ilsannioquotidiano.it,iochiamo.com,lasiciliaweb.it,lussuosissimo.com,medicinalive.com,mondoreality.com,musickr.it,theapplelounge.com###leaderboard
@@ -715,6 +716,10 @@ centrometeoitaliano.it##div[style="border: -1px solid; border-color: #EEEEEE;wid
 petizioni24.com##div[style="border: solid #95bce2 1px;  padding: 1em 0; margin: 0; margin-right: 6px; width: 200px; height: 600px; background-color: #fff; text-align: center; margin-bottom: 1em;"]
 wallstreetitalia.com##div[style="border:0px none #FFF !important;position:fixed; background-image:url('/img/skin_ipadronidel mondo2.jpg');background-position:center top;background-repeat:no-repeat;z-index:0;height:100%;left:0px; top:55px; width:100%;"]
 filodiritto.com##div[style="border:1px solid #002035;width:120px;height:600px;"]
+unita.it##div[style="border:1px solid #D1D1D1;padding:1px; position:absolute;right:0;top:274px;width:300px;"]
+unita.it##div[style="border:1px solid #D1D1D1;padding:1px; position:absolute;right:0;top:288px;width:300px;"]
+unita.it##div[style="border:1px solid #D1D1D1;padding:1px; position:absolute;right:0;top:551px;width:300px;"]
+unita.it##div[style="border:1px solid #D1D1D1;padding:1px; position:absolute;right:0;top:829px;width:300px;"]
 androidiani.com##div[style="border:4px dashed orange;height:90px;width:728px;margin:0 auto"]
 radioromacapitale.it,retesport.it##div[style="border:solid 1px #000000; width: 298px; height: 78px;"]
 sanihelp.it##div[style="clear: both; width: 670px; padding:4px; height: 88px; margin-bottom: 15px; margin-top: 10px; line-height: 14px; border: 1px solid #DDEBF4;"]
