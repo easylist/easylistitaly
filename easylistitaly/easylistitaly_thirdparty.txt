@@ -116,6 +116,7 @@
 ||netweek.it/ban_
 ||nexths.it/widget/$third-party
 ||nextmediavideo.com/inc/ova.swf$object-subrequest
+||nohup.it^*_110x40_
 ||noicattolici.it/x_banner/
 ||oasjs.kataweb.it^
 ||overlays.fr/js/launcher.js
