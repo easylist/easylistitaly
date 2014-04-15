@@ -549,6 +549,7 @@ sardegnareporter.it##.innerfade[style="margin-bottom: 10px; position: relative; 
 motousate.it##.item.link
 rtl.it##.itunes-btn
 jacktech.it##.jk_banner
+vivastreet.it##.kiwii-box-300x250
 corrieredellosport.it##.label_sponsor_sp
 alessandrianews.it##.leader-board-225x90
 alessandrianews.it##.leader-board-728x90
