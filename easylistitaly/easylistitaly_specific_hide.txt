@@ -680,6 +680,7 @@ turistipercaso.it##.utilink
 bresciaoggi.it,larena.it##.v2_banner-wrapper
 ilsalvagente.it##.video
 giallozafferano.it##.vini-sp
+vivastreet.it##.vs-summary-300x250
 tiscali.it##.w304.mB20
 tiscali.it##.w312.mB25
 algheroeco.com##.wallpaper-link
