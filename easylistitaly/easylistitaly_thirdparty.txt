@@ -1,6 +1,7 @@
 ||135.it/frame/
 ||24hassistance.com^*/banner_$third-party
 ||377d936c10e6811f484c-6402e46c712497f58e3f77a59f47bbd5.r17.cf2.rackcdn.com^
+||4minuti.it/img/imgpartner/
 ||6sicuro.it/widgets/$third-party
 ||85.115.8.249^$image,domain=~chunnel.de.ip
 ||ad.edision-nord.it^

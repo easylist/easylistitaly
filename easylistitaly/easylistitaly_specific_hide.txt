@@ -282,6 +282,7 @@ canzoni.it###sponsor_footer
 omnifurgone.it###sponsor_logo_header
 html5today.it###sponsored-article
 lastampa.it###sponsoredBy
+ilgiornaledireggio.it###sponsorn
 acmilan.com,inter.it###sponsors
 ilsole24ore.com###spot
 zeusnews.it###spotEsterno
@@ -452,7 +453,7 @@ softonic.it##.banner_box
 voceditalia.it##.banner_casino2
 digital-sat.it##.banner_centrale
 parmasera.it,piacenzasera.it##.banner_doc_bottom_foto
-digital-sat.it,finanza.com,motori24.ilsole24ore.com##.banner_dx
+digital-sat.it,finanza.com,ilgiornaledireggio.it,motori24.ilsole24ore.com##.banner_dx
 ecodibergamo.it,ilcittadinomb.it,laprovinciadicomo.it,laprovinciadivarese.it##.banner_footer
 parmasera.it,piacenzasera.it##.banner_globaltop
 smtvsanmarino.sm##.banner_head
