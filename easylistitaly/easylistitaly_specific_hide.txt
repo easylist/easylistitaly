@@ -101,7 +101,7 @@ cwi.it###banners
 si24.it###banners_middle
 telefonino.net###bannerstrip
 senigallianotizie.it###bbitalia_banner
-altalex.com,sentenze.net###bglink
+altalex.com,primopianomolise.it,sentenze.net###bglink
 gizmodo.it###big-mega
 neveitalia.it,tuttogratis.it###bleft
 rumors.it###block-block-19
@@ -349,8 +349,10 @@ foxsports.it##.Ad
 foxsports.it##.Adtext
 hostingtalk.it##.Banner
 lavoratorio.it##.BannerAltoHP
+primopianomolise.it##.BannerDinamico
 liberoquotidiano.it##.BannerHead
 metropolisweb.it##.BannerMezzoNotizia
+primopianomolise.it##.Banner_Modulabile
 nqnews.it##.Banner_box
 ciao.it##.CWContainerComparePrice
 meteo.it##.ImmobiliareIt
