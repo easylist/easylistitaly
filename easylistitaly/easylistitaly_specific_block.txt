@@ -75,7 +75,6 @@
 ||autoinserzioni.it/css/images/banner_
 ||autoline-eu.it/atlads/
 ||automania.it^*-238x60-anim.gif
-||automoto.it/static/adv/
 ||autoseller.it/banner%5c
 ||autoseller.it/banner/
 ||autosottocosto.com/files/banner/
@@ -186,7 +185,6 @@
 ||coni.it/images/banners/sfondi/
 ||console-inf.com/banner/
 ||console-tribe.com^*/adv/
-||copertinedvd.org/adv.php?
 ||coplanet.it^*/bannerzon/
 ||coriglianocalabro.it/images/banners/
 ||coriglianocalabro.it^*/banner/
@@ -230,7 +228,6 @@
 ||dimmidipiu.com/images/banners/
 ||diretta.it/res/image/bookmaker-list.png
 ||direttagoal.it/writable/banners/
-||dizionariosinonimi.com/adv.php?
 ||donnamoderna.com^*/bg-immobiliare.png
 ||dragonballgt.it^*/skin_
 ||dueruote.it/asset/img/partner/
@@ -328,8 +325,6 @@
 ||gds.it^*-300x251-
 ||gdsannunci.it/images/bannerpub/
 ||geekissimo.com/images/5sms.gif
-||genova24.it^*/img/adv/
-||geoplan.it/advs/
 ||giallozafferano.it/images/banner/
 ||gianlucadimarzio.com^*_skin_
 ||giardinaggio.it/@/servizi/dueverticali.asp
@@ -350,7 +345,6 @@
 ||gratisfree.it/cgi-bin/bannergest$script
 ||greenews.info/wp-content/banners/
 ||greenme.it/images/banners/
-||gufoporno.com/media/banners/adv/
 ||gufoporno.com^*/popup.js
 ||guidasicilia.it/devlab/jsp/banner.jsp?
 ||guidaviaggi.it/banners/
@@ -381,7 +375,6 @@
 ||html5today.it/images/banners/
 ||hubcomunicazione.it/images/banners/
 ||hwmobile.it/images/banners/
-||hwupgrade.it/js/hwu_adv.js
 ||hwupgrade.it/speciali/*/300x100-
 ||hwupgrade.org/banner/
 ||hwupgrade.org/forum/lariffa.gif
@@ -425,7 +418,6 @@
 ||ilgiornale.it/sites/all/themes/ilgiornaledefault/img/conto_corrente_070513.jpg
 ||ilgiornale.it/static/file/non-giudicate.swf
 ||ilgiornale.it/static/widget_immobiliare/
-||ilgiornale.it^*/img/adv/
 ||ilgiornale.it^*/logo_lottomatica.jpg
 ||ilgiornale.it^*/ova-jw.swf$object-subrequest
 ||ilgiornale.it^*/paddy_power.gif
@@ -460,7 +452,6 @@
 ||ilpaesenuovo.it^*/italfiamma.jpg
 ||ilpaesenuovo.it^*/perhospital-01.jpg
 ||ilpaesenuovo.it^*/perhospital.jpg
-||ilpost.it^*/home_adv.css
 ||ilquotidiano.it/userdata/banner/
 ||ilquotidianodellazio.it/img/banners/
 ||ilroma.net^*/rotor/
@@ -469,7 +460,6 @@
 ||ilsalvagente.it/immagini/banner120x60-
 ||ilsannioquotidiano.it/images/banners/
 ||ilsecoloxix.it^*skin.jpg
-||ilsoftware.it/images/adv/
 ||ilsole24ore.com^*/spot_include.shtml
 ||ilsole24ore.com^*_pubb.jpg
 ||iltaccoditalia.info/banner/
@@ -577,8 +567,6 @@
 ||libero.it/_ad/
 ||libero.it/static/generated_external/shopping/
 ||libero.it/static/upll/234x/
-||libero.it/wind/linkadv.jsp
-||libero.it/wind/linkadv_bottom.jsp
 ||liberoinformato.it/banner-
 ||liberoreporter.it/public/upload/banner*.gif
 ||libertas.sm^*/banner/
@@ -602,7 +590,6 @@
 ||mammedomani.it/images/banners/
 ||manduriaoggi.it/layout_nuovo/banner.asp
 ||marigliano.net/_upload/banner/
-||mastertop100.org/advf1.php
 ||masterviaggi.it/banner/
 ||mattinonline.ch^*/banner_
 ||maxleggeri.it^*/uni2.png
@@ -618,7 +605,6 @@
 ||metallized.it/banner/
 ||meteo.it/images/banner/
 ||meteoweb.eu/adv/
-||meteoweb.eu/immagini/advris/
 ||metronews.it^*/banner_
 ||metropolisweb.it/public/banner/
 ||milaninterradio.tv/images/180x150.gif
@@ -656,11 +642,9 @@
 ||motorionline.com^*/banner_motorionline.gif
 ||movieplayer.it/static/img/cinemapiu.jpg
 ||mrstiff.it/view/context/spot/
-||mrwebmaster.it/files/menu_adv.js
 ||musicclub.it/banner/
 ||musicoff.com^*/adshops_
 ||mymovies.it/v7/include/homedressing/
-||mymovies.it/v9/adv/
 ||netweek.it/banneranalyzer/
 ||network.alfemminile.com^
 ||newsic.it/assets/banner/
@@ -720,7 +704,6 @@
 ||piratestreaming.com/functions/pist_strp.js
 ||poker.commentierecensioni.com^*/titanpoker125x125.gif
 ||poliziamunicipale.it/script/getbnr.aspx?
-||popcorntv.it/advloader.php?
 ||pornovideoitaliano.com/bitter728.jpg
 ||pornovideoitaliano.com^*/animazione
 ||positanonews.it/include_gen/banner_
@@ -860,8 +843,6 @@
 ||sanremonews.it^*/banner/
 ||sanremonews.it^*/box/
 ||sardegnareporter.it/themes/img/banner/
-||sassarinotizie.com/public/adv/
-||sassarinotizie.com/ws/advlink300.aspx
 ||sassuolo2000.it/bnrs/
 ||sassuolocalcio.it/imgs/grafiche/sponsor/
 ||savonanews.it/fileadmin/archivio/savonanews/*/1000x40_
@@ -980,7 +961,6 @@
 ||tio.ch/img/2013/iframe/postfinance.jpg
 ||tio.ch^*/banner/
 ||tipresentoilcane.com/banner/
-||tiscali.it/media/adv/
 ||tmnews.it^*/banner_
 ||today.it/images/*_skin_
 ||today.it/images/lg.jpg

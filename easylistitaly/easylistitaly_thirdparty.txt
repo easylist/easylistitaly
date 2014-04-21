@@ -62,7 +62,6 @@
 ||dropbox.com^$image,domain=applemobile.it
 ||duke.it/images/banners/
 ||easyvols.org^*/300x150/$third-party
-||edidomus.it/asset/adv/
 ||edidomus.it^*-logo45x45.
 ||edidomus.it^*/45x45-
 ||edidomus.it^*/45x45_
@@ -143,7 +142,6 @@
 ||sanistatic.it/*/300x100_
 ||scambiobanner.aruba.it^$third-party
 ||scambiobanner.net-parade.it^$third-party
-||scimmiablu.altervista.org/adv/
 ||scimmiablu.altervista.org/cpm/
 ||secureholiday.net/moteur/v3/camperonline/min_form.aspx?$third-party
 ||sereni.net/images/banner/
@@ -163,7 +161,6 @@
 ||stbm.it/img/banner/300x100_
 ||stgy.it/images/banner-
 ||stgy.it/images/skin/
-||stgy.it/scripts/extern/tag-adv.js
 ||stgy.it^*/ova-jw.swf$object-subrequest
 ||streamcaster.net/lunaset/web/template_
 ||streamingtorrent.com/images/guarda.jpg
@@ -177,7 +174,6 @@
 ||tipster.it^$subdocument,third-party
 ||tomshw.corley.it^
 ||tophost.it/banners/
-||topsexitalia.com/adv.php
 ||trilud.com/highlight_300X280.php?
 ||tripadvisor.ru/WidgetEmbed-tcphoto?$domain=russiaoggi.it
 ||trivago.it/external_rpc.php?
