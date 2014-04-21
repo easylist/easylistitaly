@@ -478,6 +478,7 @@ centrometeo.com##.banneritemcenterdx
 finanzaonline.com##.bannerlbforum
 messinaweb.tv##.bannerpostsingle
 nonsolocinema.com##.banners
+ilquotidianofvg.it##.banners-125
 cremonaoggi.it##.bannersx
 musictory.it##.bannertop
 ticinolive.ch##.bannerwrap

@@ -454,6 +454,14 @@
 ||ilpaesenuovo.it^*/perhospital.jpg
 ||ilquotidiano.it/userdata/banner/
 ||ilquotidianodellazio.it/img/banners/
+||ilquotidianofvg.it/banner
+||ilquotidianofvg.it/bcc.jpg
+||ilquotidianofvg.it/cinema.jpg
+||ilquotidianofvg.it/concorde.jpg
+||ilquotidianofvg.it/nassfeld.jpg
+||ilquotidianofvg.it/provinciaud.jpg
+||ilquotidianofvg.it/radiospazio.jpg
+||ilquotidianofvg.it/thun.jpg
 ||ilroma.net^*/rotor/
 ||ilromanista.it/images/banners/
 ||ilsalvagente.it/imgmol/
