@@ -615,6 +615,7 @@ radiosei.it,retesport.it##.rect_banner
 ticinolibero.ch##.redbar
 ladyradio.it##.right-table5[width="162"]
 film.it##.rightBoxAmazon
+megasesso.com##.rightPubHome
 cinquegiorni.it##.rightbanner
 gazzettadasti.it##.rotate-banner
 nonsolocap.it##.ru
