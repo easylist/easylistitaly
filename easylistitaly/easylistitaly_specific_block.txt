@@ -39,7 +39,6 @@
 ||alfamitoclub.it/images/banner/
 ||alfamitoclub.it/images/sponsor/
 ||alfamitoclub.it^*_banner_180.swf
-||altervista.org/adv/
 ||altoadigetv.it/images/social/banner
 ||alverde.net/banner/
 ||amadeusonline.net/banner/
@@ -105,7 +104,6 @@
 ||blogosfere.it/js/mjx2.js
 ||bloopers.it/images/sponsor/
 ||blunote.it/images/banners/
-||blurum.it/resources/advertises/
 ||bmwpassion.com^*/banners/
 ||bolli.it/images/banner/
 ||bolognatoday.it/images/skin/
@@ -122,7 +120,6 @@
 ||calciomercato.napoli.it^*/comeessereprimo.png
 ||calcionapoli24.it/img/cammarota_336x60.gif
 ||calcionapoli24.it/img/segi.gif
-||calcioweb.eu/adv/
 ||campaniameteo.it/banner/
 ||campaniasuweb.it^*/sponsor.
 ||camperonline.it/b-top/
@@ -171,7 +168,7 @@
 ||climateobserver.it^*/banner_
 ||clubalfa.it/images/banner/
 ||clubalfa.it/ragazzon_banner_180.swf
-||comic-soon.com/*/adv/
+||comic-soon.com^*/adv/
 ||comicradio.it/swf/banner_rotator.swf
 ||comingsoon.it/fcred.asp?$object-subrequest
 ||comingsoon.it/imgdb/banner/
@@ -218,7 +215,6 @@
 ||deltadivenere.com/tgp/
 ||denaro.it^*/banner/
 ||di-roma.com/images/fabio/
-||digisesso.com/adv_player_
 ||digisesso.com/images/transparent.gif
 ||digital-forum.it/bannerdtt/
 ||digital-sat.it/ds_mpppv/
@@ -506,7 +502,6 @@
 ||italiafilm.tv/v2.gif
 ||italiagermania4-3.com/images/banners/
 ||italiagol.it//immagini/File_banner/
-||italianhack.org/adv/
 ||ivg.it^*/takeover/
 ||iviaggidellagnocca.info/banner.jpg
 ||jugo.it^*/ads/
@@ -563,7 +558,6 @@
 ||leggilanotizia.it/userfiles/image/testata/
 ||leggilanotizia.it^*/banner-
 ||leggilanotizia.it^*/banner_
-||leggilo.net/adv/
 ||leggioggi.it^*/banner/
 ||leggo.it/300x200Banner.php
 ||leggo.it/box_tuttomercato032011/
@@ -612,7 +606,6 @@
 ||metalgermania.it/images/seatwave.jpg
 ||metallized.it/banner/
 ||meteo.it/images/banner/
-||meteoweb.eu/adv/
 ||metronews.it^*/banner_
 ||metropolisweb.it/public/banner/
 ||milaninterradio.tv/images/180x150.gif
@@ -730,7 +723,6 @@
 ||pubblicitaitalia.it^*banner_
 ||puglialive.net/dfiles/banners/
 ||puntocellulare.it/banner/
-||quattroruote.it/common/adv_
 ||quattroruote.it^*/logo_*_menu.png
 ||quattroruote.it^*/sponsoredby.gif
 ||quattroruote.it^*_280x75.gif
@@ -766,7 +758,6 @@
 ||radioglobo.it/img/banner/
 ||radioglobo.it/img/bg/bg_
 ||radiogold.it^*/banner/
-||radioitaliacharleroi.com/adv/
 ||radiomanasport.it^*/EU.jpg
 ||radiomarte.it/site/images/sponsor/
 ||radiomondo.it/images/banners/
@@ -915,7 +906,6 @@
 ||streamingfilm.it/images/stories/downloaddvdhard.jpg
 ||streamingfilm.it/images/stories/streaming-film-hd.jpg
 ||streamingfilm.it/images/stories/streamingfilmporno.jpg
-||strettoweb.com/adv/
 ||strill.it/images/banners/
 ||studiocataldi.it/banner/
 ||suannunci.it/cgi-bin/home_pubblicita^

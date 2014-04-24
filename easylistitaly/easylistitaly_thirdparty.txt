@@ -24,7 +24,6 @@
 ||angelobonorino.com/neve/*268x90.gif
 ||artera.it/banners.php?
 ||autostima.net/partner/
-||babbano.com/adv/
 ||banner.crol.it^
 ||banzaimedia.it/hpsponsor/
 ||bazarcoupon.com/images/$third-party
@@ -47,7 +46,6 @@
 ||classificaporno.com/image/incontri*.gif
 ||clubshop.com/banners/
 ||cmstorage.it/public/skin/
-||concorsi-pubblici.org/adv/
 ||connect24.it/fot468.gif
 ||contactlab.it^*/Banner/
 ||d1n2y2eq1wbato.cloudfront.net^*/sponsor-$domain=atalanta.it
