@@ -533,6 +533,7 @@ gazzettadasti.it##.footer-rotate-banner
 chievocalcio.tv##.footer-sponsor-container
 violachannel.tv##.footer_home
 liberatv.ch##.front_orrizzontale
+quattroruote.it##.fullBanner
 spaziogames.it##.g_adv
 gazzetta.it##.gazzasconti
 iammepress.it,italia-news.it##.gcon_banners
