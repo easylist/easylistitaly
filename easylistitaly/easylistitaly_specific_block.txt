@@ -363,6 +363,7 @@
 ||hdblog.it^*/coolerm.swf
 ||hdblog.it^*/skin/
 ||hdblog.it^*/skin_
+||healthdesk.it/userfiles/Banner
 ||hellasverona.it/img/banner/
 ||hellasverona.it/sponsor/
 ||hi-techitaly.com/images/banners/
