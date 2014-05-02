@@ -635,6 +635,7 @@
 ||mobi2b.it^*/downloadfilebanner.php?
 ||modena2000.it/bnrs/
 ||momentosera.it/bannerupload/
+||mondoclassica.it^*/banner/
 ||montecarlonews.it^*/banner/
 ||montecarlonews.it^*/box/
 ||motoclub-tingavert.it/modules/Dv_Banner/
