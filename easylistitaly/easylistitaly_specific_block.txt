@@ -727,6 +727,7 @@
 ||pubblicitaitalia.it^*banner_
 ||puglialive.net/dfiles/banners/
 ||puntocellulare.it/banner/
+||pupia.tv/banner-
 ||quattroruote.it^*/logo_*_menu.png
 ||quattroruote.it^*/sponsoredby.gif
 ||quattroruote.it^*_280x75.gif
