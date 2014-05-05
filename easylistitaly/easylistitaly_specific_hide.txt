@@ -91,6 +91,7 @@ html.it###banner_piede_articolo
 paginegialle.it###banner_pushbar
 firenzespettacolo.it###banner_side
 livesicilia.it###banner_skin
+notiziediprato.it###banner_strip
 ilcorrieredabruzzo.it###banner_testata
 ilcorrieredabruzzo.it###banner_testata_1004x114
 lastampa.it,newsfood.com,primaonline.it,primissima.it,qds.it###banner_top

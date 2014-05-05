@@ -83,6 +83,7 @@
 ##.post_pubblicita
 ##.promo_sp
 ##.pub_text
+##.pubblicit
 ##.pubblicita
 ##.pubblicitaGoogle
 ##.pubblicitaSlider
