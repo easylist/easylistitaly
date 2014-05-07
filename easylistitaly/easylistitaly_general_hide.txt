@@ -57,6 +57,7 @@
 ###skin_adv
 ###skinadvdx
 ###skinadvsx
+###top3-pubbli
 ##.adagiowritebanner_dmtag
 ##.adv-articolo
 ##.adv-iframe-sx

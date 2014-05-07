@@ -216,6 +216,7 @@ megalab.it###left_skyscraper
 telesud3.com###linkamici
 asroma.it###logos
 eurogamer.it###low-leaderboard
+catanzaroinforma.it###mainsponsor
 it.msn.com###markette
 max.rcs.it###max_ppn
 itespresso.it###megabanner
@@ -242,6 +243,7 @@ ilgiornale.it###primopiano
 ciao.it###productlevellink
 mtv.it###promoInfo
 loudvision.it###prop-leader
+catanzaroinforma.it###pubbliinmezzo
 nonsolocap.it###qk
 moto.it###rchm_overlay
 gazzetta.it###rectangle
@@ -272,7 +274,7 @@ iovivoaroma.it###skin_link_dx
 iovivoaroma.it###skin_link_sx
 cronachemaceratesi.it###skinabove
 rockit.it###skinbanner
-filmtv.it,ilcorrieredabruzzo.it,lazionews24.com###skinlink
+catanzaroinforma.it,filmtv.it,ilcorrieredabruzzo.it,lazionews24.com###skinlink
 ebay.it###skyscrape
 eurogamer.it###skyscraper
 casateonline.it,merateonline.it###sottotestata
