@@ -511,6 +511,9 @@
 ||julienews.it/upload/banner/
 ||juventus.com^*/bannerscene?
 ||juventus.com^*/sponsor_
+||kveeniland.com/dwnd.png
+||kveeniland.com/guarda.png
+||kveeniland.com/scarica.png
 ||labisalta.it/pubb/
 ||ladige.it/internal/immobiliare/
 ||ladigetto.it/files/banners/
