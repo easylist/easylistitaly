@@ -189,6 +189,7 @@
 ||widget.promoqui.it^
 ||ws.shoppydoo.com^$third-party
 ||wtpn.twenga.de^
+||wtpn.twenga.it^
 ||yoox.it/view.aspx?$subdocument,third-party
 ||yoppinho.com/public/scambio_banner/
 ||youbuy.it/banner/
