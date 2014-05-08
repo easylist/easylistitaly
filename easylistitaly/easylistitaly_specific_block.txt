@@ -948,6 +948,7 @@
 ||telefonino.net/offerte_kelkoo/
 ||telefonino.net/shopping/
 ||telenord.it^*/Banner-
+||telenuovo.it^*/banner/
 ||telestense.it/wp-content/banners/
 ||telesud3.com/banner/
 ||telesud3.com/images/banner/
@@ -961,6 +962,7 @@
 ||terninrete.it/skins/terninrete2/images/headings/head_ha_suggerimenti_da_google.gif
 ||terranauta.it/banner/
 ||tesionline.it/v2/img/skin/
+||tggialloblu.it/images/banner-
 ||therockblog.net^*/banner-
 ||ticinofinanza.ch/banner/
 ||ticinolive.ch/files/banners/
