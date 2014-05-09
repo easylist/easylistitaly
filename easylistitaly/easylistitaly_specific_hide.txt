@@ -227,7 +227,7 @@ ciao.it###mod_ph_merchoffer
 red-live.it###mpu
 ebay.it###mpu-container
 vivicool.it###navpages
-kveeniland.com###nebanner
+kveeniland.com,poseidonbistro.com###nebanner
 telefonino.net###news336x280GoogleBox
 agimondo.it###overhp
 studiocataldi.it###overlayer
