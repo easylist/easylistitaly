@@ -268,6 +268,8 @@ metalitalia.com###sidebar-top
 mister-x.it###siti_amici
 clandestinoweb.com,tesionline.it###skin
 serviziopubblico.it###skin-leaderboard
+radiomanamana.it###skin-left
+radiomanamana.it###skin-right
 cellulare-magazine.it,cellularemagazine.it###skin-top-container
 dragonballgt.it###skinClick
 omnifurgone.it,omnimoto.it###skin_link

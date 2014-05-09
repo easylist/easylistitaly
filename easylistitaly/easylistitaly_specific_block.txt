@@ -771,6 +771,9 @@
 ||radioglobo.it/img/banner/
 ||radioglobo.it/img/bg/bg_
 ||radiogold.it^*/banner/
+||radiomanamana.it/stylerays.png
+||radiomanamana.it/universita_on_line.jpg
+||radiomanamana.it^*/skin-radiomana.png
 ||radiomanasport.it^*/EU.jpg
 ||radiomarte.it/site/images/sponsor/
 ||radiomondo.it/images/banners/
