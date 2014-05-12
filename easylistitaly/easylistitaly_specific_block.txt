@@ -1052,6 +1052,8 @@
 ||videofamosi.com^$subdocument
 ||videogame.it/arturo/vast/eas?
 ||videogame.it^*/adv/
+||videohifi.com^*/MONITORAUDIO.JPG
+||videohifi.com^*/SICK4MILK.png
 ||videopornoitaliani.com/banner/random/
 ||videopornoitaliani.com/banner/top/
 ||videopornoitaliani.com/images/banner_
