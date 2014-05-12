@@ -182,6 +182,7 @@
 ||upcom.it^*/banner/
 ||uplink.aruba.it^$third-party
 ||vantaggiando.it/banners/
+||vhf.tbiz.it^
 ||viagogo.it/feeds/widget.ashx?*&affiliateid=$subdocument
 ||virginpoker.it/pub/
 ||webalice.it/blackberry_09/trovadeal/
