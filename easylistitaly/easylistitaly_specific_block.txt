@@ -675,6 +675,8 @@
 ||oas.repubblica.it^
 ||occhiodisalerno.com/images/banners/
 ||oggitreviso.it/files/fascevittoriofilm.jpg
+||oilproject.org/static/images/logotimhome.png
+||oilproject.org/static/images/studiacontim.png
 ||oipamagazine.eu/banner_
 ||oipamagazine.eu^*/banner-
 ||oipamagazine.eu^*/banner/
