@@ -473,6 +473,7 @@
 ||ilsole24ore.com^*/spot_include.shtml
 ||ilsole24ore.com^*_pubb.jpg
 ||iltaccoditalia.info/banner/
+||iltempo.it^*/unicusano.jpg
 ||ilvelino.it^*/banner/
 ||ilwebmaster21.it/script1.js
 ||indie-roccia.it/itunesbox.php?
