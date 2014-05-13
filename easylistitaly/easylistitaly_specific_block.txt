@@ -81,7 +81,12 @@
 ||avmagazine.it/css/2010/skin/
 ||avmagazine.it/immagini/2013_05_02_educal_2013_500.jpg
 ||avvenire.it/Lists/Banners/
+||avvenire.it/PublishingImages/Piccoli%20Annuci/
+||avvenire.it^*/300x250trecani.swf
+||avvenire.it^*/OSF_banner300x250marzo.gif
+||avvenire.it^*/piccoliannunci.aspx
 ||avvenire.it^*/skin_
+||avvenire.it^*/skincei1.jpg
 ||aziendeonline.biz/db/banner_
 ||babboleo.it/images/banners/
 ||badtaste.it/file/amazon/
