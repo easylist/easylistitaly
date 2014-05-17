@@ -21,6 +21,7 @@
 ||adginforma.it/images/banner_
 ||adginforma.it/images/banners/
 ||adnkronos.com^*/banner/
+||adnkronos.com^*/Promo/
 ||affaritaliani.it/static/generated_external/shopping/
 ||affaritaliani.it/static/upload/234x/
 ||affaritaliani.it/static/upload/food/foodita.jpg

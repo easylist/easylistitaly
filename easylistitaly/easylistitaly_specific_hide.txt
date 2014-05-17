@@ -531,6 +531,7 @@ ansa.it##.diretta-sponsor
 lavoratorio.it##.divBoxbanner300x250
 gossipetv.com##.ebuzzing_box
 gazzettadiparma.it##.elenco-textlink
+adnkronos.com##.evidenceBox
 comingsoon.it##.expanding-footer-container
 ilsole24ore.com##.fabbrica24
 masterviaggi.it##.fieldset_sponsor
