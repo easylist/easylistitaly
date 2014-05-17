@@ -809,6 +809,7 @@ teamspeakitalia.it##div[style="width: 950px; height:90px; margin: 0px 25px 20px 
 rollingstonemagazine.it##div[style="width: 953px; height: 80px; position: relative; float:left;background:url(http://www.rollingstonemagazine.it/wp-content/themes/rs2013/images/banner/banner-RS10.gif) no-repeat top left; border:1px solid #ccc; margin:5px 0 15px 12px;"]
 corrierinocampaniasport.it##div[style="width: 960px; height: 120px; visibility: visible;"]
 paginebianche.it##div[style="width: 978px; height: 45px;"]
+vercellioggi.it##div[style="width: 987px; height: 148px; overflow:hidden; margin-bottom: 10px; background-color: #54a7cf; overflow:hidden; margin-top: 10px;"]
 lastampa.it##div[style="width: 990px; height: 90px;"]
 unionesarda.it##div[style="width:100%; height:250px; float:left;"]
 autobelle.it##div[style="width:100%; text-align:center; height:280px; margin-top:15px;"]
