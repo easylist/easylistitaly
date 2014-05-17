@@ -1051,6 +1051,7 @@
 ||vb33.it/images/banners/
 ||venetogol.it//immagini/File_banner/
 ||venetouno.it/media/imgbanners/
+||vercellioggi.it/immagini/banner/
 ||veronica.it/images/banners/
 ||veronica.it/templates/youscene/images/backgrounds/background
 ||viamichelin.it/htm/cmn/AFS*.htm?
