@@ -2,6 +2,7 @@ bancavalle.it,bancodibrescia.it,bpa.it,bpb.it,bpci.it,brebanca.it,carime.it,quiu
 techinfos.it#@##adblock
 giornaledisiracusa.it#@##adsense_testa
 subito.it#@##body_ad
+cardiochirurgia.com#@#.ad-head
 bakeca-incontri.net#@#.ad_bottom
 bakeca-incontri.net#@#.ad_center
 subito.it#@#.ad_links
@@ -11,7 +12,9 @@ subito.it#@#.adcont
 bakeca-incontri.net#@#.adtitle
 altervista.org,pianetadonna.it,studenti.it#@#.adv_esterno
 deejay.it#@#.advertorial
+cardiochirurgia.com#@#.box-ad
 italiasw.com#@#.header-google-ads
+cardiochirurgia.com#@#.list-ads
 corrierecomo.it,corrieredicomo.it#@#.module-ad
 latinomagazine.it#@#.moduletable-advert
 camperonline.it,italiasw.com#@#.pubblicita
