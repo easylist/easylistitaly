@@ -86,6 +86,7 @@
 ||avvenire.it^*/300x250trecani.swf
 ||avvenire.it^*/OSF_banner300x250marzo.gif
 ||avvenire.it^*/piccoliannunci.aspx
+||avvenire.it^*/sinOnlineBannerV2.gif
 ||avvenire.it^*/skin_
 ||avvenire.it^*/skincei1.jpg
 ||aziendeonline.biz/db/banner_
