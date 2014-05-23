@@ -529,6 +529,7 @@ ebay.it,kijiji.it##.dart-banner-slot
 giornaledibrescia.it##.dealboxTop
 immobiliare.it##.det_pub_box_content
 nokioteca.net##.dex_box
+supermoney.eu##.dfp-leaderbord
 ansa.it##.diretta-sponsor
 lavoratorio.it##.divBoxbanner300x250
 gossipetv.com##.ebuzzing_box
