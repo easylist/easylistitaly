@@ -923,6 +923,7 @@ cheauto.it##table[width="208"][height="148"][style="font-family:Verdana, Arial, 
 guidaviaggi.it##table[width="215"][height="240"]
 acquaportal.it##table[width="284px"][style="border:1px solid #A5C9ED"]
 tio.ch##table[width="302"][style="border:1px solid #A7A9AC;border-top:none;"]
+mnews.it##table[width="728"][height="280"]
 312.it##table[width="728"][height="90"]
 cinemadelsilenzio.it##table[width="956"][height="306"]
 cinemadelsilenzio.it##table[width="956"][height="72"]
