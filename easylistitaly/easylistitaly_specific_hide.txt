@@ -130,7 +130,7 @@ macitynet.it###boxItunes
 telefonino.net###boxShopping
 diesis.it###box_banner
 libero.it###box_expedia_case
-italiaoggi.it,milanofinanza.it,panorama.it###box_immo
+affaritaliani.it,italiaoggi.it,milanofinanza.it,panorama.it###box_immo
 masterviaggi.it###box_link_sponsor
 ricettedelmondo.it###box_pub2
 centrometeoitaliano.it###box_publi
@@ -843,6 +843,7 @@ gelocal.it##div[style="width:294px; height:74px; border:3px solid #90c539; displ
 gelocal.it##div[style="width:294px; height:74px; border:3px solid #e2001a; display:block; background-color:#90c539; cursor:pointer; margin:0 0 10px;"]
 unita.it##div[style="width:298px;float:left;margin-top:20px;height:148px;border:1px solid #cccccc; position:relative;"]
 panorama.it##div[style="width:300px; height:125px; background-image:url('http://www.panorama.it/statici/img_nuovosito/blocchetti/facileIT/box_ricerca/sfondo.gif'); font-family:Arial,Verdana,Helvetica,sans-serif !important; font-size:11px; overflow:hidden"]
+affaritaliani.it##div[style="width:300px; height:180px; background-image:url(http://www.affaritaliani.it/mutuionline/imgmol/mol_background_form3campi.png)"]
 unionesarda.it##div[style="width:300px; height:250px; float:left; margin-right:40px;"]
 unionesarda.it##div[style="width:300px; height:250px; float:left;"]
 f1passion.it##div[style="width:300px; height:250px; margin-bottom:24px;"]
@@ -855,6 +856,7 @@ ilfattoquotidiano.it##div[style="width:300px; height:75px; overflow:hidden; floa
 ilfattoquotidiano.it##div[style="width:300px; height:75px; overflow:hidden; float:left; margin-top: 10px;line-height:15px;"]
 xvideoscopate.com##div[style="width:300px;float:right;margin-right:15px;border: 4px solid rgb(85, 85, 85);padding: 40px 40px;"]
 outune.net##div[style="width:300px;height:180px; background:#fff;"]
+affaritaliani.it##div[style="width:300px;height:200px;border:solid 5px #afb2b4 ; background-image:url('http://www.affaritaliani.it/includes/files/affari/fondo.png');font-family:Verdana; color:white"]
 ticinolibero.ch##div[style="width:300px;height:250px;margin-bottom:10px"]
 strettoweb.com##div[style="width:307px; height:250px; text-align:left; margin:0 0 5px 5px; float:right;"]
 film-review.it,fullhd.it##div[style="width:308px; margin-left: 4px; height:260px;text-align: center;display:block;margin-top:10px;margin-bottom:10px;"]
