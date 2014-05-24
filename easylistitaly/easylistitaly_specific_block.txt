@@ -569,6 +569,7 @@
 ||lavoripubblici.it/gif/banner/
 ||lazionews24.com/images/*/skin.jpg
 ||leccenews24.it/upload/banner/
+||leccesette.it/img/banner/
 ||lecconotizie.com^*/domination_
 ||lecconotizie.com^*/PopUpLeopardi.jpg
 ||lecconotizie.com^*/sponsor_

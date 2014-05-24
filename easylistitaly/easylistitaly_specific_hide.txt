@@ -521,6 +521,7 @@ tiscali.it##.c1c6.f12
 quotidiano.net##.category-SPONSOR
 edilportale.com##.click-Skin
 tripadvisor.it##.commerce
+leccesette.it##.cont_banner
 gazzetta.it##.contain-sisal-magicup
 borsaitaliana.it##.container_banner_top
 macitynet.it##.contentTop
@@ -537,6 +538,7 @@ gazzettadiparma.it##.elenco-textlink
 adnkronos.com##.evidenceBox
 comingsoon.it##.expanding-footer-container
 ilsole24ore.com##.fabbrica24
+leccesette.it##.featured_banner
 masterviaggi.it##.fieldset_sponsor
 livesicilia.it##.flash-box-a-sponsor-2
 netweek.it##.flexslider-header
