@@ -35,6 +35,7 @@ ilsole24ore.com###annunci
 palermomania.com###area_banner_top
 fastweb.it,jacktech.it###assicu_box_ricerca
 autoxy.it,motousate.it###assicu_widget_300x80
+sportmediaset.it###b300xn
 libero.it###b468x60bottoms
 242movietv.com###back_inside
 calciomercato.com###background_left
@@ -243,6 +244,7 @@ ok-salute.it###ppn_center
 ilgiornale.it###primopiano
 ciao.it###productlevellink
 mtv.it###promoInfo
+sportmediaset.it###promobox
 loudvision.it###prop-leader
 catanzaroinforma.it###pubbliinmezzo
 nonsolocap.it###qk
