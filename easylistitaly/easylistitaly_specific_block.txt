@@ -992,6 +992,7 @@
 ||terninrete.it/skins/terninrete2/images/headings/head_ha_suggerimenti_da_google.gif
 ||terranauta.it/banner/
 ||tesionline.it/v2/img/skin/
+||tgcom24.mediaset.it^*_BoxSpeciali_
 ||tggialloblu.it/images/banner-
 ||therockblog.net^*/banner-
 ||ticinofinanza.ch/banner/

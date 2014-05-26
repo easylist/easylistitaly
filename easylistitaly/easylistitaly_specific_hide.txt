@@ -517,6 +517,7 @@ omniauto.it##.box_listinousato
 35mm.it##.box_rightcol_banner1
 35mm.it##.box_rightcol_banner2
 subito.it##.box_sponsor
+tgcom24.mediaset.it##.boxspeciale
 tiscali.it##.c1c6.f12
 quotidiano.net##.category-SPONSOR
 edilportale.com##.click-Skin
