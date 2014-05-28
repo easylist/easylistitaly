@@ -136,6 +136,7 @@
 ||rdn.it/images/BANNER/
 ||regaliper.me^$subdocument,third-party
 ||resources.saldiprivati.com^$third-party
+||riparautonline.com/banner/
 ||rivenditori.aruba.it^$third-party
 ||roi.ediscom.it^
 ||sanistatic.it/*/300x100_
