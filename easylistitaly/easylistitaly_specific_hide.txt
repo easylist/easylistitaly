@@ -350,6 +350,7 @@ internazionale.it###wideSkinWrapper
 italiaoggi.it,milanofinanza.it###widget_ticketcrociere
 animeclick.it###wrapper
 corriere.it###yoodeal
+corriere.it###yoodeal2
 gay.it###yukendu
 shippingonline.ilsecoloxix.it###zona_181
 ttmweb.it###zona_245
