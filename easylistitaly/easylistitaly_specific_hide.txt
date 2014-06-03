@@ -219,6 +219,7 @@ telesud3.com###linkamici
 asroma.it###logos
 eurogamer.it###low-leaderboard
 catanzaroinforma.it###mainsponsor
+laroma24.it###marketingRotator
 it.msn.com###markette
 max.rcs.it###max_ppn
 itespresso.it###megabanner
@@ -809,6 +810,7 @@ teamspeakitalia.it##div[style="text-align:center; width:100%; height:250px;"]
 laroma24.it##div[style="text-align:center; width:300px; height:250px; float:left;"]
 lavoratorio.it##div[style="text-align:center;width:336px;height:280px;margin:0px auto;margin-bottom:25px;"]
 libero.it##div[style="width: 180px; height: 150px;"]
+laroma24.it##div[style="width: 184px; height: 138px;"]
 raffaeleauriemma.com##div[style="width: 248px; height: 250px; visibility: visible;"]
 pyrosonline.it##div[style="width: 265px; height: 265px;"]
 paginebianche.it##div[style="width: 300px; height: 100px;"]
