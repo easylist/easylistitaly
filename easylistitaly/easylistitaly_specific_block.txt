@@ -610,6 +610,7 @@
 ||lombardianews.it/banner/
 ||lospiffero.com/banner/
 ||losportivo.sm/img/banner/
+||luccaindiretta.it/images/banners/
 ||lunico.eu/images/banners/
 ||macexchange.it/included/banner*.bfr
 ||maidireborsa.it/banners/
