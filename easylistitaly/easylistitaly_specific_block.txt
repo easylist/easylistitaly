@@ -700,6 +700,9 @@
 ||oipamagazine.eu/banner_
 ||oipamagazine.eu^*/banner-
 ||oipamagazine.eu^*/banner/
+||oktennis.it/images/*-Skin.jpg
+||oktennis.it/images/*_logo.png
+||oktennis.it/images/banners/
 ||omniauto.it/2.0/banners/
 ||omniauto.it^*/sponsoredby_
 ||omniauto.it^*_sponsor.jpg
