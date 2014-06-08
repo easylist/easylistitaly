@@ -971,6 +971,7 @@
 ||supercalcioextra.com/miniwh.jpg
 ||superzeta.it^*/dummy.gif
 ||targatocn.it/fileadmin/archivio/targatocn/*/bgr_body45_
+||targatocn.it^*/box/
 ||techassistance.it/media//adv/
 ||technologyreview.it/img/banner/
 ||technologyreview.it/img/banner_
