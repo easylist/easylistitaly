@@ -412,6 +412,7 @@ ilsole24ore.com##.annunci_g
 pyrosonline.it##.anyClass[style="visibility: visible; overflow: hidden; position: relative; z-index: 2; left: 0px; width: 840px;"]
 romagiornoenotte.it##.areabannerTop
 ilsecoloxix.it##.artbanner
+violanews.com##.article_banners
 si24.it##.attachment-300x600
 radiogold.it##.autobanner
 tiscali.it##.b300x250
@@ -662,7 +663,7 @@ agrigentonotizie.it,anconatoday.it,baritoday.it,bolognatoday.it,bresciatoday.it,
 soldionline.it##.sm_widget_contenitore
 tgcom24.mediaset.it##.spaceBanner
 ciao.it##.specialOfferMod
-gazzetta.it,ilgiornale.it,pubblicitaitalia.it,repubblica.it,stickmangames.altervista.org##.sponsor
+gazzetta.it,ilgiornale.it,pubblicitaitalia.it,repubblica.it,stickmangames.altervista.org,violanews.com##.sponsor
 fcparma.com##.sponsor-group
 erbanotizie.com,lecconotizie.com##.sponsor-rubrica
 treccani.it##.sponsorLogo
