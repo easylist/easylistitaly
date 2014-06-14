@@ -88,11 +88,13 @@ si24.it###banner_branciforte
 contosulconto.it###banner_content
 tuttobasket.net###banner_head
 laprovinciadicomo.it###banner_header
+tuttosport.com###banner_leaderboard
 lastampa.it###banner_maxticker
 html.it###banner_piede_articolo
 paginegialle.it###banner_pushbar
 firenzespettacolo.it###banner_side
 livesicilia.it###banner_skin
+tuttosport.com###banner_square
 notiziediprato.it###banner_strip
 ilcorrieredabruzzo.it###banner_testata
 ilcorrieredabruzzo.it###banner_testata_1004x114
