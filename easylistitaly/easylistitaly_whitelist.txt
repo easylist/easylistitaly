@@ -1,6 +1,8 @@
 @@||151.1.68.170/index.php?zoneid=$object-subrequest,domain=la7.it
 @@||ad.smartclip.net/crossdomain.xml$object-subrequest,domain=serviziopubblico.it
 @@||ad.smartclip.net/delivery/tag?$object-subrequest,domain=serviziopubblico.it
+@@||ad2.neodatagroup.com/uploads/js/sid49jq.js$domain=rai.it|rai.tv
+@@||ad49.neodatagroup.com/ad/sipra.jsp?*&player=html5$script,domain=rai.it|rai.tv
 @@||adimg.matrixspa.it/cookie_script/read_crt.html$domain=webmail.virgilio.it
 @@||adimg.matrixspa.it/jsc/advManage.js$domain=webmail.virgilio.it
 @@||adnkronos.com/ign/mediacenter/fotogallery/data_01/img/ad_
