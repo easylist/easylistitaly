@@ -691,6 +691,7 @@
 ||novara.com/public/WAPPS/LinksBannerData/
 ||novara.com^*/MainBanner_
 ||nuovadelsud.it/images/banners/
+||nuovavicenza.it/banner/
 ||nyc-site.com/newyork/hotel/
 ||oas.repubblica.it^
 ||occhiodisalerno.com/images/banners/
