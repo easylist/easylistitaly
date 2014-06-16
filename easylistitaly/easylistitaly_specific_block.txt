@@ -659,6 +659,7 @@
 ||modena2000.it/bnrs/
 ||momentosera.it/bannerupload/
 ||mondoclassica.it^*/banner/
+||mondopallone.it^*/skin_
 ||montecarlonews.it^*/banner/
 ||montecarlonews.it^*/box/
 ||motoclub-tingavert.it/modules/Dv_Banner/
