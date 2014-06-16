@@ -204,6 +204,7 @@ radiospeaker.it###home-banner
 avvenire.it###htmlcomponent18 > .boxAggiuntivi
 ladige.it,panorama.it###immob_box_ricerca
 r101.it###innamorarsiA101
+sportstadio.it###iol-partners
 cittaceleste.it,juvenews.eu###itemBannerSottoImg
 unita.it###ixeBanner
 prowrestling.it###landingbanner
