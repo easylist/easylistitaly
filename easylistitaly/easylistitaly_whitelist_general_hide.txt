@@ -20,4 +20,4 @@ latinomagazine.it#@#.moduletable-advert
 camperonline.it,italiasw.com#@#.pubblicita
 beppegrillo.it,mmorpgitalia.it#@#div[id^="div-gpt-ad-"]
 ! Anti-Adblock
-rai.tv#@##sponsored-ad
+rai.it,rai.tv#@##sponsored-ad
