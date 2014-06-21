@@ -134,6 +134,7 @@
 ||pronostitalia.com/banner/
 ||pronostitalia.com/images/giocaconwilliamhill.png
 ||puntostampa.altervista.org^$subdocument,third-party
+||r.kelkoo.com^$domain=quotidiano.net
 ||rdn.it/images/BANNER/
 ||regaliper.me^$subdocument,third-party
 ||resources.saldiprivati.com^$third-party
