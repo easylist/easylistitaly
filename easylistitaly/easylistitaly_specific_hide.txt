@@ -231,7 +231,7 @@ metalitalia.com###middle-home
 mymovies.it###middle1_companion
 udinese.it###mod-udinese-sponsor-panel-fulllength
 ciao.it###mod_ph_merchoffer
-red-live.it###mpu
+105.net,red-live.it###mpu
 ebay.it###mpu-container
 vivicool.it###navpages
 kveeniland.com,poseidonbistro.com###nebanner
