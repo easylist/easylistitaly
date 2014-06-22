@@ -211,6 +211,7 @@
 ||corrieredellosport.it/res/swf/ova.swf$object-subrequest
 ||corrieredicomo.it/images/banners/
 ||corrieredigela.it/public/sponsor/
+||corrierediragusa.it^*/banner/
 ||corriereirpinia.it^*_back1.
 ||corriereirpinia.it^*_Banner_
 ||corriereirpinia.it^*_BannerPageBG.
