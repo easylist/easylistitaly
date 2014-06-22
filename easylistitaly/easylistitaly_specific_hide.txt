@@ -627,6 +627,7 @@ videohifi.com##.portlet-static-sponsor
 film.it##.ppn_h
 html.it##.premium-links-container-home-ms
 ciao.it##.priceComp2
+paginegialle.it##.prio
 neveitalia.it,stiledimoda.it,vanityfair.it##.promo
 dimensionesuonoroma.it##.promo-image
 dimensionesuonoroma.it##.promo-list
