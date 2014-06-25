@@ -543,8 +543,9 @@
 ||lamicodelpopolo.it/images/banners/
 ||lanotiziagiornale.it^*/234x90.gif
 ||lanotiziagiornale.it^*/300x300.gif
-||lanotiziagiornale.it^*/federbox300x200.jpg
-||lanotiziagiornale.it^*/manchettesito.jpg
+||lanotiziagiornale.it^*/box-poin.gif
+||lanotiziagiornale.it^*/skin982x2.png
+||lanotiziagiornale.it^*/viviconsulting_
 ||lapiazzagrande.it/pubb/
 ||lapiazzaweb.it/banner/
 ||laprovinciadilecco.it^*/banner/
