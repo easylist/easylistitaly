@@ -449,7 +449,6 @@ outcast.it##.banner300250
 ildesk.it##.banner385x198
 ilcapoluogo.com##.banner4
 ildesk.it##.banner468x60
-fantagazzetta.com##.banner5
 ilsecoloxix.it##.banner650x60
 ilcalciocatania.it##.bannerArea
 zoover.ch,zoover.it##.bannerContainer
