@@ -200,7 +200,6 @@ lascommessasportiva.it###header_banner
 megalab.it###header_leaderboard
 meteowebcam.it###header_top
 35mm.it###header_top_banner
-786cast.tv###hideall
 radiospeaker.it###home-banner
 avvenire.it###htmlcomponent18 > .boxAggiuntivi
 ladige.it,panorama.it###immob_box_ricerca

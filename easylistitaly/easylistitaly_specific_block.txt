@@ -707,13 +707,7 @@
 ||oktennis.it/images/*-Skin.jpg
 ||oktennis.it/images/*_logo.png
 ||oktennis.it/images/banners/
-||omniauto.it/2.0/banners/
-||omniauto.it^*/sponsoredby_
-||omniauto.it^*_sponsor.jpg
-||omnicorse.it/banners/
-||omnifurgone.it/img/skin_
 ||omnimilano.it/dati/banner/
-||omnimoto.it/images/home/skin_
 ||omniroma.it/dati/banner/
 ||ondarock.it/skin/
 ||orvietosi.it^*298x100.swf

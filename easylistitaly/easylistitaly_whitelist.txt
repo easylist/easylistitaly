@@ -54,7 +54,6 @@
 @@||js49.adagionet.com/uploads/js/sipra.js$domain=rai.it|rai.tv
 @@||labs.ebuzzing.it/blogs/top/getrank?$image
 @@||labs.ebuzzing.it/shared/images/wikiothis/buttons/
-@@||liverail.com/interstitial/?*&lr_publisher_id=$script,domain=786cast.tv
 @@||mail.tiscali.it/cp/extras/it/dashboard/300x250.html?
 @@||mail.virgilio.it/common/tech_includes/mail/$subdocument,domain=webmail.virgilio.it
 @@||mail.virgilio.it/google/$subdocument,domain=webmail.virgilio.it
@@ -97,7 +96,6 @@
 @@||video1.italiaoggi.it/movie/movie/adserver_$object,object-subrequest
 @@||video1.milanofinanza.it/movie/movie/adserver_$object,object-subrequest
 @@||videosynd.kataweb.it/advertising/$xmlhttprequest,domain=videosynd.kataweb.it
-@@||vox-static.liverail.com^*/liverail_preroll.swf$object,domain=786cast.tv
 @@||webcenter.tiscali.it/distribuzione/_script/TiscaliADV_315.js$domain=mail.tiscali.it
 @@||webmail.virgilio.it/cp/bannervirgilio/$subdocument
 @@||youreporter.it/adv/ova-matrix-yrn.xml.php?$object-subrequest,domain=youreporternews.it
