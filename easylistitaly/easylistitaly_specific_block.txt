@@ -708,6 +708,7 @@
 ||oktennis.it/images/*-Skin.jpg
 ||oktennis.it/images/*_logo.png
 ||oktennis.it/images/banners/
+||oltreuomo.com^*/skin-
 ||omnicorse.it/pages/skins/
 ||omnimilano.it/dati/banner/
 ||omniroma.it/dati/banner/
