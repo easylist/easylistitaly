@@ -50,6 +50,7 @@
 ###ppn_ad_div
 ###pubbli_top
 ###pubblicita
+###pubblicita-menu
 ###pubblicita_blog_post_testa
 ###quattrownet_468x60
 ###ripBoxAdvCentroSX2
