@@ -707,6 +707,7 @@
 ||oktennis.it/images/*-Skin.jpg
 ||oktennis.it/images/*_logo.png
 ||oktennis.it/images/banners/
+||omnicorse.it/pages/skins/
 ||omnimilano.it/dati/banner/
 ||omniroma.it/dati/banner/
 ||ondarock.it/skin/
