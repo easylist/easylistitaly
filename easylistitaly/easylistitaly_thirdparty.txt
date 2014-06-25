@@ -78,7 +78,6 @@
 ||fideliux.com/fideliux/banners/
 ||filepremier.com/banners.php?
 ||filepremier.com/iframe/box2.js
-||flv.kataweb.it/misc/flv-pub/
 ||free.netsons.com^
 ||gaggioso.it^$subdocument,third-party
 ||generik.nanopress.it/highlight_300x280.php
