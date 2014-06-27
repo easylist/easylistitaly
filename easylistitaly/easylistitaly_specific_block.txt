@@ -204,6 +204,7 @@
 ||corriere.it^*/adv/
 ||corriere.it^*/icon_csnai.gif
 ||corriere.it^*/icon_csnai_shared.gif
+||corriere.it^*_pringooals.png
 ||corriereadriatico.it/300x200Banner.php
 ||corriereadriatico.it/box_tuttomercato052011/
 ||corrierecomo.it/images/banners/
