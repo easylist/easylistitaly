@@ -19,5 +19,3 @@ corrierecomo.it,corrieredicomo.it#@#.module-ad
 latinomagazine.it#@#.moduletable-advert
 camperonline.it,italiasw.com#@#.pubblicita
 beppegrillo.it,lafucina.it,mmorpgitalia.it#@#div[id^="div-gpt-ad-"]
-! Anti-Adblock
-rai.it,rai.tv#@##sponsored-ad
