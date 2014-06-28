@@ -703,7 +703,7 @@ gazzettadasti.it##.top-right-ban
 lastampa.it##.top-right-banner
 radiosei.it,retesport.it##.top_banner
 mrstiff.it##.topad
-mesagne.me,neveitalia.it##.topbanner
+mesagne.me,neveitalia.it,terzobinario.it##.topbanner
 agichina24.it##.topbanner1
 vistointv.net##.topbanner2
 turistipercaso.it##.trovaviaggi
