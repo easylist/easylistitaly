@@ -628,6 +628,7 @@
 ||maxleggeri.it^*/UNICUSANO_
 ||mbenz.it/banner.swf
 ||mbenz.it/lidaolbia.jpg
+||mbenz.it/tuttoautoricambi.gif
 ||mediagol.it/images/sponsor/
 ||mediavideo24.com/inc/ova.swf$object-subrequest
 ||megabass.it^*/banner_
