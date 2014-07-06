@@ -546,8 +546,8 @@ ansa.it##.diretta-sponsor
 lavoratorio.it##.divBoxbanner300x250
 gossipetv.com##.ebuzzing_box
 gazzettadiparma.it##.elenco-textlink
-digisesso.com,iltrombatore.com,koalaporno.com,sessosadomaso.com##.embed1
-digisesso.com,iltrombatore.com,koalaporno.com,sessosadomaso.com##.embed2
+digisesso.com,iltrombatore.com,koalaporno.com,ranaporno.com,sessosadomaso.com##.embed1
+digisesso.com,iltrombatore.com,koalaporno.com,ranaporno.com,sessosadomaso.com##.embed2
 adnkronos.com##.evidenceBox
 comingsoon.it##.expanding-footer-container
 ilsole24ore.com##.fabbrica24
