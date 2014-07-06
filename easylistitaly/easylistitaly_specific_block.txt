@@ -234,6 +234,7 @@
 ||denaro.it^*/banner/
 ||di-roma.com/images/fabio/
 ||digisesso.com/images/transparent.gif
+||digisesso.com:81/images/transparent.gif
 ||digital-forum.it/bannerdtt/
 ||digital-sat.it/ds_mpppv/
 ||digital-sat.it/img/banner/
