@@ -905,6 +905,7 @@ strettoweb.com##div[style="width:728px; height:90px; margin:9px auto; display:bl
 beppegrillo.it,mymovies.it##div[style="width:728px; height:90px;"]
 beppegrillo.it##div[style="width:728px; height:90px;float:left;\""]
 ilcrotonese.it##div[style="width:728px; height:90px;overflow: hidden;"]
+ilcrotonese.it##div[style="width:728px; height:90px;overflow: hidden;display:block;"]
 onstageweb.com##div[style="width:728px; margin:auto;height:90px; border:1px solid #ccc; margin-bottom:10px; margin-top:-10px;"]
 webpedia.altervista.org##div[style="width:728px;height:90px;margin:6px auto;background:#eee"]
 radio103.it,radiostereo103.it##div[style="width:750px; height:112px; margin:20px auto 20px auto; background: url(images/back_banner_home.png);"]

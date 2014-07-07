@@ -419,6 +419,7 @@
 ||ilcorsaronero.info/br_mc/
 ||ilcorsaronero.info/js/nopopup.js
 ||ilcrotonese.it^*/promo_
+||ilcrotonese.it^*_bg.jpg
 ||ilfattoalimentare.it/assets/banners/
 ||ilfattoquotidiano.it/external/assicurazioni_300x100/
 ||ilfattoquotidiano.it^*/banner_casait.jpg
