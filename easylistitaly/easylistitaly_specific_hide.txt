@@ -183,6 +183,7 @@ fc-suedtirol.com###footersponsor
 xvideoscopate.com###footertop
 ilcap.it###gadsense
 rdf.it###gkBanner2
+paginegialle.it###glamoo-box
 telefonino.net###google300x250
 telefonino.net###googleHomeNews
 telefonino.net###googleNewsTop
