@@ -1032,6 +1032,7 @@
 ||torinotoday.it/images/skin/
 ||traderlink.it/images/skin/
 ||trasporti-italia.com^*/banner/
+||travelnostop.com/banner/
 ||treccani.it/Portale/resources/images/bg$image
 ||treccani.it^*_300x100_
 ||trentinotv.it/images/social/banner
