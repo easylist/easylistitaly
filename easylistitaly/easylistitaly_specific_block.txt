@@ -490,6 +490,8 @@
 ||iltaccoditalia.info/banner/
 ||iltempo.it^*/unicusano.jpg
 ||ilvelino.it^*/banner/
+||ilvolo.it/images/banners/
+||ilvolo.it/images/stories/banner-
 ||ilwebmaster21.it/script1.js
 ||indie-roccia.it/itunesbox.php?
 ||indie-rock.it/itunesbox.php?
