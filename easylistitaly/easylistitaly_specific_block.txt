@@ -768,6 +768,10 @@
 ||puglialive.net/dfiles/banners/
 ||puntocellulare.it/banner/
 ||pupia.tv/banner-
+||qds.it/docs/bancopopolaresiciliano.gif
+||qds.it/docs/guidamonaci_
+||qds.it/docs/mariluranch-
+||qds.it/docs/SICEP.jpg
 ||quattroruote.it^*/logo_*_menu.png
 ||quattroruote.it^*/sponsoredby.gif
 ||quattroruote.it^*_280x75.gif
