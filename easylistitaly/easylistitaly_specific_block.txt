@@ -587,6 +587,8 @@
 ||lecconotizie.com^*/PopUpLeopardi.jpg
 ||lecconotizie.com^*/sponsor_
 ||left.it/wp-content/uploads/banners/
+||lega-pro.com/banner/
+||lega-pro.com^*/sponsor
 ||leggilanotizia.it/images/bg-banner/
 ||leggilanotizia.it/userfiles/image/manchette/
 ||leggilanotizia.it/userfiles/image/testata/
