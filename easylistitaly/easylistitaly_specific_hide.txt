@@ -642,6 +642,7 @@ theinquirer.it##.pubind1
 agoravox.it##.publarge
 diariodelweb.it,lapoliticaitaliana.it##.publi
 camperonline.it##.publink
+prendiporno.tv##.publis-bottom
 termometropolitico.it##.publy
 gazzetta.it##.pushbar
 quotidianosanita.it##.qs_n_interno_basso
