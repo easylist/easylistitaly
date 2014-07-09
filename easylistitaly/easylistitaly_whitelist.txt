@@ -83,7 +83,7 @@
 @@||smartadserver.com/a/diff/*/show42.asp?$object-subrequest,domain=popcorntv.it
 @@||smartadserver.com/call/pubx/$object-subrequest,domain=popcorntv.it
 @@||smartadserver.com/crossdomain.xml$object-subrequest,domain=popcorntv.it
-@@||sportube.tv/adv/www/delivery/ajs.php?$script,domain=fc-suedtirol.com|lega-pro.com|sportube.tv
+@@||sportube.tv/*/www/delivery/ajs.php?$script,domain=fc-suedtirol.com|lega-pro.com|sportube.tv
 @@||srv-wx.rainbowtgx.com/rtgxsrv/css/def.css$domain=quotidiano.net
 @@||srv-wx.rainbowtgx.com/rtgxsrv/targettingServlet$script,domain=quotidiano.net
 @@||static.fanpage.it^*/adsense.swf?$object-subrequest
