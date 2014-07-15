@@ -516,7 +516,7 @@ ilcapoluogo.com##.block-view-bannerSlide
 risultati.it##.bookmarker-53
 beppegrillo.it##.bottom-banner
 ilquotidiano.it,parmasera.it,piacenzasera.it,rsvn.it##.box-attico
-gazzettadelladda.it,notiziaoggi.it,settegiorni.it##.box-banner-menu
+europa-in.it,gazzettadelladda.it,notiziaoggi.it,settegiorni.it##.box-banner-menu
 sportnews.bz##.box-fullbanner
 ilgiornaledivicenza.it##.box-skyscrapers
 omniauto.it##.box.gradient[style="height:270px!important; min-height:270px"]
