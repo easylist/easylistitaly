@@ -533,6 +533,8 @@ subito.it##.box_sponsor
 tgcom24.mediaset.it##.boxspeciale
 tiscali.it##.c1c6.f12
 quotidiano.net##.category-SPONSOR
+businessmagazine.it,fotografidigitali.it,gamemag.it,hwupgrade.it,ilgiorno.it,ilrestodelcarlino.it,lanazione.it,motorionline.com,quotidiano.net##.center_all > div[style="background:#ffffff;border-bottom:1px #ffffff solid;border-top:1px #ffffff solid;margin-bottom:3px;margin-top:3px;"]
+businessmagazine.it,fotografidigitali.it,gamemag.it,hwupgrade.it,ilgiorno.it,ilrestodelcarlino.it,lanazione.it,motorionline.com,quotidiano.net##.center_all > div[style="font-size:small;font-style:normal;font-weight:normal;margin-top:3px;margin-bottom:3px"]
 edilportale.com##.click-Skin
 tripadvisor.it##.commerce
 leccesette.it##.cont_banner
