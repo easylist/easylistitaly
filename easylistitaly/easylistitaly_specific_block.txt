@@ -826,6 +826,8 @@
 ||radioradio.it^*/banner_
 ||radioroma.fm/images/banners/
 ||radioroma.fm/images/flash/zoomarine.swf
+||radioromacapitale.it/images/banner-
+||radioromacapitale.it/images/conf.jpg
 ||radiosport24.com/images/banner.png
 ||radiosport24.com/images/blunord.jpg
 ||radiosport24.com/images/lakers-fly-tech.jpg
