@@ -861,6 +861,8 @@
 ||repubblica.it^*/sponsors.png
 ||repubblica.it^*_contentsense_
 ||resport.it/public/banner/
+||retesport.it/images/banner-
+||retesport.it/images/conf.jpg
 ||rietilife.it^*-banner.
 ||rietilife.it^*/banner-
 ||rietilife.it^*/banner_

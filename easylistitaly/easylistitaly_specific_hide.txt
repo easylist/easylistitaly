@@ -652,7 +652,6 @@ prendiporno.tv##.publis-bottom
 termometropolitico.it##.publy
 gazzetta.it##.pushbar
 quotidianosanita.it##.qs_n_interno_basso
-radiosei.it,retesport.it##.rect_banner
 ticinolibero.ch##.redbar
 ladyradio.it##.right-table5[width="162"]
 film.it##.rightBoxAmazon
@@ -711,7 +710,6 @@ allsongs.tv,dica33.it,radionbc.it##.top-banner
 gazzettadasti.it##.top-left-ban
 gazzettadasti.it##.top-right-ban
 lastampa.it##.top-right-banner
-radiosei.it,retesport.it##.top_banner
 mrstiff.it##.topad
 mesagne.me,neveitalia.it,terzobinario.it##.topbanner
 agichina24.it##.topbanner1
@@ -787,7 +785,6 @@ napolisport.net##div[style="float:left;margin:7px auto; width:1000px; margin-bot
 notizieindiretta.it##div[style="float:left;padding:5px 13px 13px 0px;width:336px;height:280px;"]
 adnkronos.com##div[style="float:left;width:200px;height:200px;margin:10px"]
 radiosei.it##div[style="float:none;margin-top:10px;text-align:center;width:492px;height:100px;"]
-retesport.it##div[style="float:none;margin-top:10px;text-align:center;width:493px;height:100px;"]
 piacenzanight.com##div[style="float:right; position:absolute; z-index:2; cursor:pointer; width:969px; height:306px;"]
 pronostici-scommesse.info##div[style="height:250px;width:300px;"]
 autobelle.it##div[style="height:255px;padding-top:15px;position:relative; left:-15px;"]
