@@ -965,7 +965,7 @@ tgmonline.it##td[align="right"][width="305"][valign="top"]
 fuorissimo.com##td[height="100"][bgcolor="#000000"][width="752"]
 alverde.net##td[height="125"]
 mymovies.it##td[style="height:45px; background-color:#FFFFFF; ;"]
-hwupgrade.it##td[style="padding-left:10px; width:300px;"]
+finanzaonline.com,hwupgrade.it##td[style="padding-left:10px; width:300px;"]
 gommeblog.it##td[style="width: 305px; height: 251px; text-align: center;"]
 gommeblog.it##td[style="width: 335px; height: 251px; text-align: center;"]
 ! Anti-Adblock
