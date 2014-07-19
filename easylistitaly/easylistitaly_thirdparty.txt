@@ -51,7 +51,6 @@
 ||contactlab.it^*/Banner/
 ||d1n2y2eq1wbato.cloudfront.net^*/sponsor-$domain=atalanta.it
 ||d1oaxhr280l1ho.cloudfront.net^
-||datingfactory.com/promotools/
 ||delosstore.it/banner/
 ||digisesso.com/img/incesti.gif
 ||dipalermo.it/iii.html
@@ -77,8 +76,6 @@
 ||favolefantasia.com/banner/
 ||feed.yoodeal.net^
 ||fideliux.com/fideliux/banners/
-||filepremier.com/banners.php?
-||filepremier.com/iframe/box2.js
 ||free.netsons.com^
 ||gaggioso.it^$subdocument,third-party
 ||generik.nanopress.it/highlight_300x280.php
