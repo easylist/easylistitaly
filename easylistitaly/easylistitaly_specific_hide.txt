@@ -737,6 +737,7 @@ allandroidnews.it##.wp_skyscraper_c2
 bergamosera.com##.wpbrbanner
 petizionionline.it##.yahoo
 cittaceleste.it##.zodiak
+windowsblogitalia.com##[id^="bsa"]
 tgcom24.mediaset.it##a[href*=".ad.dotandad.com/clicktracker.jsp?"]
 mmorpgitalia.it##a[href^="http://ad2games.com/slave.php?"]
 ipadevice.com,ispazio.net##a[href^="http://adserver.ispazio.net/"]

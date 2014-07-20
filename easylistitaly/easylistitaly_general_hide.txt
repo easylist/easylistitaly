@@ -32,6 +32,7 @@
 ###altervista_googleadsense-2
 ###annunciGoogle
 ###annunci_google
+###annuncio-virgilio
 ###blocco_servizi_sponsor1
 ###box_adv_sponsor_categorico
 ###corpo_video_sponsor
