@@ -380,6 +380,7 @@
 ||h24notizie.com^*_220x90.
 ||h24notizie.com^*_250x200_
 ||h24notizie.com^*_700x90_
+||hbritalia.it/images/*_300x300.jpg
 ||hdblog.it^*/300_it.swf
 ||hdblog.it^*/coolerm.swf
 ||hdblog.it^*/skin/
