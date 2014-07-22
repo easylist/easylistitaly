@@ -55,6 +55,11 @@
 @@||js49.adagionet.com/uploads/js/sipra.js$domain=rai.it|rai.tv
 @@||labs.ebuzzing.it/blogs/top/getrank?$image
 @@||labs.ebuzzing.it/shared/images/wikiothis/buttons/
+@@||laprovinciadibiella.it/upload/webpublic/facebook.jpg
+@@||laprovinciadibiella.it/upload/webpublic/nuova-provincia-biella-
+@@||laprovinciadibiella.it/upload/webpublic/rss.jpg
+@@||laprovinciadibiella.it/upload/webpublic/twitter.jpg
+@@||laprovinciadibiella.it/upload/webpublic/youtube.jpg
 @@||mail.tiscali.it/cp/extras/it/dashboard/300x250.html?
 @@||mail.virgilio.it/common/tech_includes/mail/$subdocument,domain=webmail.virgilio.it
 @@||mail.virgilio.it/google/$subdocument,domain=webmail.virgilio.it

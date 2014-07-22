@@ -555,6 +555,7 @@
 ||lanotiziagiornale.it^*/viviconsulting_
 ||lapiazzagrande.it/pubb/
 ||lapiazzaweb.it/banner/
+||laprovinciadibiella.it/upload/webpublic/
 ||laprovinciadilecco.it^*/banner/
 ||laregione.ch/ban.asp?
 ||laroma24.it/banner/
