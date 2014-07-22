@@ -644,6 +644,7 @@
 ||megabass.it^*/banner_
 ||merateonline.it/public/banner/
 ||metalgermania.it/images/itunes.jpg
+||metalgermania.it/images/rammstein-shop-italia.jpg
 ||metalgermania.it/images/seatwave.jpg
 ||metallized.it/banner/
 ||meteo.it/images/banner/
