@@ -1,5 +1,6 @@
 ||0781.info^*/banners/
 ||312.it/img/banner/
+||607080.it^*/banners/
 ||7per24.it^*/banner-
 ||892000.it/img/bannerino_
 ||abruzzoweb.it/cache/banners/
