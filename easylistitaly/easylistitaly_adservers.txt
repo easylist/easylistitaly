@@ -9,6 +9,7 @@
 ||adultsadv.com^$third-party
 ||adv-italiana.net^$third-party
 ||adventertainment.it^$third-party
+||advhits.com^$third-party
 ||advit.it^$third-party
 ||advplace.com^$third-party
 ||adwebster.com^$third-party
