@@ -564,6 +564,7 @@ netweek.it##.flexslider-header
 cazzofiga.com##.footer-banner-wrapper
 gazzettadasti.it##.footer-rotate-banner
 chievocalcio.tv##.footer-sponsor-container
+socialchannel.it##.footer2-wrapper
 violachannel.tv##.footer_home
 liberatv.ch##.front_orrizzontale
 quattroruote.it##.fullBanner
