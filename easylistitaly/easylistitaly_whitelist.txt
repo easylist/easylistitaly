@@ -109,8 +109,9 @@
 @@||youreporter.it/adv/ova-matrix-yrn.xml.php?$object-subrequest,domain=youreporternews.it
 @@||youreporter.it/adv/ova-matrix.xml.php?$object-subrequest
 ! Anti-Adblock
-@@.png#$domain=italiatv.org
+@@.png#$domain=codeclan.altervista.org|italiatv.org
 @@||blogspot.com^*#$image,domain=dataok.altervista.org
+@@||codeclan.altervista.org^$elemhide
 @@||dataok.altervista.org^$elemhide
 @@||italiatv.org^$elemhide
 @@||tvgratis.altervista.org^$elemhide
