@@ -1,8 +1,8 @@
 @@||151.1.68.170/index.php?zoneid=$object-subrequest,domain=la7.it
 @@||ad.smartclip.net/crossdomain.xml$object-subrequest,domain=serviziopubblico.it
 @@||ad.smartclip.net/delivery/tag?$object-subrequest,domain=serviziopubblico.it
-@@||ad2.neodatagroup.com/uploads/js/sid49jq.js$domain=rai.it|rai.tv
-@@||ad49.neodatagroup.com/ad/sipra.jsp?$script,domain=rai.it|rai.tv
+@@||ad2.neodatagroup.com/uploads/js/sid49jq.js$domain=rai.it|rai.tv|rainews.it
+@@||ad49.neodatagroup.com/ad/sipra.jsp?$script,domain=rai.it|rai.tv|rainews.it
 @@||adimg.matrixspa.it/cookie_script/read_crt.html$domain=webmail.virgilio.it
 @@||adimg.matrixspa.it/jsc/advManage.js$domain=webmail.virgilio.it
 @@||adnkronos.com/ign/mediacenter/fotogallery/data_01/img/ad_
@@ -52,7 +52,7 @@
 @@||ilfattoquotidiano.it/wp-content/themes/ilfatto/thumb/*_pubblicita_*.jpg
 @@||impit.tradedoubler.com/imp?$subdocument,domain=iphoneitalia.com
 @@||js.neodatagroup.com/uploads/js/rds.js$domain=rds.it
-@@||js49.adagionet.com/uploads/js/sipra.js$domain=rai.it|rai.tv
+@@||js49.adagionet.com/uploads/js/sipra.js$domain=rai.it|rai.tv|rainews.it
 @@||labs.ebuzzing.it/blogs/top/getrank?$image
 @@||labs.ebuzzing.it/shared/images/wikiothis/buttons/
 @@||laprovinciadibiella.it/upload/webpublic/facebook.jpg
