@@ -549,6 +549,7 @@ giornaledibrescia.it##.dealboxTop
 immobiliare.it##.det_pub_box_content
 nokioteca.net##.dex_box
 supermoney.eu##.dfp-leaderbord
+blastingnews.com##.dfp-mobile-leadeboard
 ansa.it##.diretta-sponsor
 lavoratorio.it##.divBoxbanner300x250
 gossipetv.com##.ebuzzing_box
@@ -598,6 +599,7 @@ corrieredellosport.it##.label_sponsor_sp
 alessandrianews.it##.leader-board-225x90
 alessandrianews.it##.leader-board-728x90
 close-up.it,foxtv.it,guidasicilia.it,la7.it,radiospeaker.it,today.it##.leaderboard
+blastingnews.com##.leaderboard-article
 erbanotizie.com,lecconotizie.com##.leaderboard-bottom
 ilsole24ore.com##.link_expand
 mymovies.it##.linkblu[style="width:290px; cursor:pointer; margin-top:5px;"]
