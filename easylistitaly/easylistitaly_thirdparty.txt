@@ -84,6 +84,7 @@
 ||hrs.de/wizard.aspx?
 ||html.it/banner/
 ||iads.iltrovatore.it^
+||ilpelonelluovo.net/banner/
 ||iltelaiodipenelope.it/banner_exchange/
 ||immobiliagest.it^$subdocument,third-party
 ||immobiliare.it/widget/js/populateexternalform.js$third-party
