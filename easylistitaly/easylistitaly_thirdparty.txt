@@ -188,6 +188,7 @@
 ||virginpoker.it/pub/
 ||webalice.it/blackberry_09/trovadeal/
 ||webalice.it/ivo.gervasoni/$third-party
+||webself.it/banners/
 ||wecoclub.it^*_banner_
 ||widget.promoqui.it^
 ||ws.shoppydoo.com^$third-party
