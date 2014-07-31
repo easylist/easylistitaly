@@ -193,7 +193,7 @@ telefonino.net###googleNewsTop
 telefonino.net###googleProveTop
 ebay.it###halfboxes-container
 latitudeslife.com###head_banner
-ilsecoloxix.it###head_banners
+fxempire.it,ilsecoloxix.it###head_banners
 cronachemaceratesi.it###head_sponsor
 modenaonline.info,parmaonline.info,reggionline.com,sportreggio.it###header-banner-pane
 rinnovabili.it###header-bottom
@@ -737,7 +737,13 @@ tiscali.it##.w312.mB25
 algheroeco.com##.wallpaper-link
 fc-suedtirol.com##.werbung
 insegreto.it##.widget-banner
+fxempire.it##.widget_banner
+fxempire.it##.widget_brokers
 ilfattoquotidiano.it##.widget_ifqbooks
+fxempire.it##.widget_latest_promotions
+fxempire.it##.widget_latest_promotions_right
+fxempire.it##.widget_recommended_brokers
+fxempire.it##.widget_top_brokers
 gazzettagiallorossa.it,orvietosi.it##.wp_bannerize
 allandroidnews.it##.wp_skyscraper_c2
 bergamosera.com##.wpbrbanner
