@@ -668,6 +668,7 @@ areanapoli.it##.sdoo_cnt
 apollodoro.it,ecoo.it,gaywave.it,haisentito.it,nanopress.it,tantasalute.it##.sectCntGoogle3
 guidamonaci.it##.separatorFooter
 tio.ch##.sfondoPubListaNews
+bloopers.it##.shop
 softonic.it##.show_banner_down_leaderboard
 radiomontecarlo.net##.side-ban
 style.it##.side-gallery
@@ -966,6 +967,7 @@ azpoint.net##table[cellspacing="2"][cellpadding="1"][border="0"][align="center"]
 cronacaqui.it##table[height="112"][width="998"]
 bikeracing.it##table[height="180"][width="100%"]
 informatisubito.myblog.it##table[height="600"][width="120"]
+bloopers.it##table[name="banner.tbl"]
 stadionews.it##table[style="margin-top:3px; width:680px; height:60px;"]
 puntosicuro.it##table[style="width: 468px; height: 60px; border: 1px solid #77BBFF; margin-left: auto; margin-right: auto;"]
 stadionews.it##table[width="1000px"][height="90px"]
