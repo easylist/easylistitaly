@@ -450,6 +450,7 @@ outcast.it##.banner250250
 ilcapoluogo.com##.banner3
 firstonline.info,mediapason.it##.banner300
 outcast.it##.banner300250
+hwupgrade.it##.banner300x250
 ildesk.it##.banner385x198
 ilcapoluogo.com##.banner4
 ildesk.it##.banner468x60
