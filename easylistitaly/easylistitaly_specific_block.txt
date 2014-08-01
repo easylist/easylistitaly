@@ -545,6 +545,7 @@
 ||ladige.it/internal/immobiliare/
 ||ladigetto.it/files/banners/
 ||lagazzettadelmezzogiorno.it/banner_pk/
+||lagazzettadelmezzogiorno.it/images/fc_bari_1908.swf
 ||lagazzettadilucca.it^*/inserzioni/
 ||lametino.it/images/banners/
 ||lamiaaria.it/oas/mjx.js

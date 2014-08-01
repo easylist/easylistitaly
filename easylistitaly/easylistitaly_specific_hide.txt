@@ -246,6 +246,7 @@ pcworld.it###pangora-chunnel
 amicidimotociclismo.it###partnerfooter
 fantascienza.com###partners
 pianetatech.it###partnerw
+lagazzettadelmezzogiorno.it###petizione
 cattoliciromani.com###posts > div:nth-child(2) .tborder[id^="post"]:first-child:last-child
 delleconomia.it###powered
 livesicilia.it###pp[style="position:absolute; z-index:1000000000; width:400px; height:350px; left:295px; top:126px; border:3px #fff solid;"]
