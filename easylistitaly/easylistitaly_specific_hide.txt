@@ -168,6 +168,7 @@ firstonline.info###ctl00_cph_main_banner1_p1
 ticinonews.ch###ctl00_rectangleleaderhome1_FormView1_ctl00_Banmanpro3Label
 pianetatech.it###div-banner-300
 amando.it###div-dx_300x250
+metropolisweb.it###divBanner300x250
 internapoli.it###divHeader
 ecodicaserta.it###down
 hdblog.it###dx
