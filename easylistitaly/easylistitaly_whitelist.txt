@@ -36,7 +36,6 @@
 @@||dotandad.com^*.mp3$object-subrequest,domain=r101.it
 @@||doubleclick.net/adj/tuttosport.home/home;sz=336x600,300x250,300x600;=$script,domain=tuttosport.com
 @@||download.deejay.it/adv/podcast/$object-subrequest
-@@||edintorni.net/related/service/*/jscript/$script,domain=amicidimotociclismo.it|armietiro.it|articolotre.com|automobilismo.it|businessmagazine.it|ciclismo.it|cucinare.meglio.it|fantagazzetta.com|fotografidigitali.it|freeonline.org|gamemag.it|giallozafferano.it|girlpower.it|gpone.com|hwfiles.it|hwupgrade.it|ilfattoquotidiano.it|ilgiorno.it|ilquotidianodellacalabria.it|ilquotidianoweb.it|ilrestodelcarlino.it|ilsecoloxix.it|iltempo.it|informarexresistere.fr|internazionale.it|invidia.it|italia24ore.it|lagazzettadelmezzogiorno.it|lanazione.it|lastampa.it|macitynet.it|metropolisweb.it|modenaonline.info|motociclismo.it|parmaonline.info|pianetadonna.it|quotidiano.net|reggionline.com|runnersworld.it|studenti.it|tennisitaliano.it|torinofree.it|unita.it|varesenews.it|velaemotore.it|violanews.com|voceditalia.it|wallstreetitalia.com|yourself.it
 @@||eyewonder.com^*/video/$object-subrequest,domain=serviziopubblico.it
 @@||files.adform.net/banners/stream/$object-subrequest,domain=la7.tv|liberoquotidiano.it|sky.it
 @@||foolbite.com/foolbite/*_pubblicita_$~third-party

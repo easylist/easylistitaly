@@ -39,7 +39,6 @@
 ||eadv.it^$third-party
 ||easymarketcrs.it^$third-party
 ||ebuzzing.it^$third-party
-||edintorni.net^$third-party
 ||erosadv.com^$third-party
 ||firebanner.com^$third-party
 ||gambling-italia.com^$third-party
