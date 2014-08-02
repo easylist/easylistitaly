@@ -489,6 +489,7 @@
 ||ilsalvagente.it/immagini/banner120x60-
 ||ilsannioquotidiano.it/images/banners/
 ||ilsecoloxix.it^*skin.jpg
+||ilsole24ore.com^*-sponsor-
 ||ilsole24ore.com^*/spot_include.shtml
 ||ilsole24ore.com^*_pubb.jpg
 ||iltaccoditalia.info/banner/

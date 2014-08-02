@@ -585,6 +585,7 @@ dday.it##.google-dfp
 gqitalia.it##.gq-promotions
 fantagazzetta.com##.h-box
 ilgiornaledivicenza.it##.header-box
+newyork-tales.ilsole24ore.com##.header-right
 bow.it,cronacamilano.it##.header_banner
 bora.la##.headerbtm
 gazzettadasti.it##.homepage-central-ban
