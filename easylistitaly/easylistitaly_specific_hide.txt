@@ -735,7 +735,7 @@ mrwebmaster.it##.txt
 ilsoftware.it##.txtboxleft[style="width:280px; height:200px;"]
 turistipercaso.it##.utilink
 bresciaoggi.it,larena.it##.v2_banner-wrapper
-larena.it##.v3_horz-banner
+ilgiornaledivicenza.it,larena.it##.v3_horz-banner
 ilsalvagente.it##.video
 giallozafferano.it##.vini-sp
 filmtv.it##.visione
