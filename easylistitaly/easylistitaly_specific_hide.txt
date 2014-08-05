@@ -108,6 +108,7 @@ liberoquotidiano.it###bannerbox1
 freemodding.it###bannerini
 quattroruote.it###bannerrcl
 cwi.it###banners
+siracusanews.it###banners-top
 si24.it###banners_middle
 telefonino.net###bannerstrip
 senigallianotizie.it###bbitalia_banner
