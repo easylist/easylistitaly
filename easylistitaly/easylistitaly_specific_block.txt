@@ -890,6 +890,7 @@
 ||romanews.eu/upload/assets/files/*.swf?linkto=/php/redirect.php?
 ||romatoday.it/images/skin/
 ||rosalio.it^*/adv/
+||rovigooggi.it/files/miele/
 ||rtl.it^*/ico_iTunes-Download-
 ||rtl.it^*/itunes_btn_
 ||rtl.it^*_ban_

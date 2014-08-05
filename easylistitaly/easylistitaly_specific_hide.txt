@@ -94,6 +94,8 @@ tuttosport.com###banner_leaderboard
 lastampa.it###banner_maxticker
 html.it###banner_piede_articolo
 paginegialle.it###banner_pushbar
+rovigooggi.it###banner_righttop
+rovigooggi.it###banner_righttop_inner
 firenzespettacolo.it###banner_side
 livesicilia.it###banner_skin
 tuttosport.com###banner_square
@@ -626,6 +628,7 @@ melamorsicata.it##.mela_ban_1
 melamorsicata.it##.mela_ban_2
 melamorsicata.it##.mela_ban_3
 sportivissimo.com##.menu4
+rovigooggi.it##.miele
 bastardidentro.it##.minibox
 ilturista.info##.more-holder
 secondamano.it##.moreblock
