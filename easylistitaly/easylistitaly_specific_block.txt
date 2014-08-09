@@ -894,14 +894,8 @@
 ||rtl.it^*/ico_iTunes-Download-
 ||rtl.it^*/itunes_btn_
 ||rtl.it^*_ban_
-||salernonotizie.it/images/bannerinternetfree.gif
-||salernonotizie.it/images/ikea_
 ||salernonotizie.it/wp-content/banner/
 ||salernonotizie.it/wp-content/skin/
-||salernonotizie.it^*/banner-
-||salernonotizie.it^*/banner_
-||salernonotizie.it^*_banner_
-||salernonotizie.it^*_bnr120x180.
 ||salernonotizie.net^*_banner_
 ||sampdoria.it/images/banners/
 ||samspot.softairmania.it^
