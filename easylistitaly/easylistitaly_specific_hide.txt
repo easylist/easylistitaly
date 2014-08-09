@@ -472,6 +472,7 @@ ilquotidianodellacalabria.it##.banner_186x290
 ilquotidianodellacalabria.it##.banner_234x90
 spaziofilm.it##.banner_300
 ilmattinodifoggia.it##.banner_300x250_3
+liberoquotidiano.it##.banner_300x250_colonna_6
 everyeye.it##.banner_600_new
 ottopagine.net##.banner_990_90
 ottopagine.net##.banner_990_90_mid
