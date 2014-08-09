@@ -896,6 +896,8 @@
 ||rtl.it^*_ban_
 ||salernonotizie.it/images/bannerinternetfree.gif
 ||salernonotizie.it/images/ikea_
+||salernonotizie.it/wp-content/banner/
+||salernonotizie.it/wp-content/skin/
 ||salernonotizie.it^*/banner-
 ||salernonotizie.it^*/banner_
 ||salernonotizie.it^*_banner_
