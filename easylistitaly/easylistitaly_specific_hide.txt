@@ -408,6 +408,7 @@ motori.it##.adv-items
 oktennis.it##.adv1
 delleconomia.it##.adv200
 virgilio.it##.advTuning
+webnews.it##.adv_01
 addicted2play.com,amonapoli.it,eurogamer.it,giardini.biz,morningstar.it,tvtv.it##.advert
 loradellacalabria.it##.advertise
 loradellacalabria.it##.advertise2
