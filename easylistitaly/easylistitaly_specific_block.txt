@@ -3,11 +3,7 @@
 ||607080.it^*/banners/
 ||7per24.it^*/banner-
 ||892000.it/img/bannerino_
-||abruzzoweb.it/cache/banners/
-||abruzzoweb.it/images/banner/
-||abruzzoweb.it/images/banners/
-||abruzzoweb.it/images/capannoni/banner.jpg
-||abruzzoweb.it/images/grey.gif
+||abruzzolive.it^*banner
 ||accordiespartiti.it/propalco*.png
 ||accordiespartiti.it/suonarechitarra.jpg
 ||acmilan.com^*/sponsor/
@@ -636,6 +632,7 @@
 ||mammedomani.it/images/banners/
 ||manduriaoggi.it/layout_nuovo/banner.asp
 ||marigliano.net/_upload/banner/
+||marsicalive.it^*banner
 ||masterviaggi.it/banner/
 ||mattinonline.ch^*/banner_
 ||maxleggeri.it^*/uni2.png
