@@ -50,6 +50,7 @@
 ###mmAdDivSkLb
 ###mmAdDivSkSx
 ###ppn_ad_div
+###pubbli-alto
 ###pubbli_top
 ###pubblicita
 ###pubblicita-menu
