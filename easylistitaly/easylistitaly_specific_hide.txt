@@ -447,7 +447,7 @@ genova24.it,ivg.it##.banner-middle-board
 milanofinanza.it##.banner-sfondo
 telesud3.com##.banner-sidebar
 panorama.it##.banner-spalla-dx
-farevela.net,milanofinanza.it##.banner-top
+farevela.net,forum-macchine.it,milanofinanza.it##.banner-top
 ilcapoluogo.com,latinaoggi.net##.banner1
 ilcapoluogo.com,latinaoggi.net,pianetacellulare.it##.banner2
 erbanotizie.com,lecconotizie.com##.banner234x60-right
