@@ -1125,6 +1125,7 @@
 ||virgilio.it/src_tag_sponsor_
 ||vivafm.it^*/banners/
 ||vivereancona.it/images/banners_
+||viverejesi.it/images/banners_
 ||voceditalia.it/banner.js
 ||voceditalia.it/banner/
 ||voceditalia.it/banner_ev.js
