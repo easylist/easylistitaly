@@ -535,6 +535,8 @@ ilsoftware.it##.boxDXa.txt3
 chip.it##.boxHardware
 liberoquotidiano.it##.box_12
 milaninterradio.tv##.box_300_250
+tuttosport.com##.box_Banner
+tuttosport.com##.box_LeaderBoard
 calcioblog.it##.box_highlight
 omniauto.it##.box_listinousato
 35mm.it##.box_rightcol_banner1
