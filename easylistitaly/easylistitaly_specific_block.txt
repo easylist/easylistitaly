@@ -650,6 +650,7 @@
 ||metalgermania.it/images/seatwave.jpg
 ||metallized.it/banner/
 ||meteo.it/images/banner/
+||meteoweb.eu/bannerMW/
 ||metronews.it^*/banner_
 ||metropolisweb.it/public/banner/
 ||milaninterradio.tv/images/180x150.gif
