@@ -1027,6 +1027,7 @@
 ||therockblog.net^*/banner-
 ||ticinofinanza.ch/banner/
 ||ticinolive.ch/files/banners/
+||ticketcrociere.lagazzettadelmezzogiorno.it^
 ||ticketcrociere.lasicilia.it^
 ||tio.ch/img/2013/iframe/postfinance.jpg
 ||tio.ch^*/banner/
