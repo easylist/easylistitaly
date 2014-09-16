@@ -118,6 +118,7 @@
 ||oasjs.kataweb.it^
 ||overlays.fr/js/launcher.js
 ||pangora.com^$image,third-party
+||partner.leguide.com^$third-party
 ||passionevideo.it/inc/ova.swf$object-subrequest
 ||percorsidigitali.com/consulting300.gif
 ||plug.it/*/oas/

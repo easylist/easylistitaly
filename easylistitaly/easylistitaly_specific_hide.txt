@@ -626,6 +626,7 @@ livesicilia.it##.manchette-l
 livesicilia.it##.manchette-r
 erbanotizie.com,lecconotizie.com##.manchette-sx
 cremonaoggi.it##.manchette2
+tiscali.it##.maxi-box
 europaquotidiano.it##.mct_dx
 europaquotidiano.it##.mct_sx
 gazzettadasti.it##.medium-rotate-banner
