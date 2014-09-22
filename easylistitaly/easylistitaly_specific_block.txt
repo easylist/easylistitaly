@@ -327,9 +327,7 @@
 ||gazzetta.it^*/includemanager/pub/
 ||gazzettabenevento.it/Sito2009/image/banner/
 ||gazzettadicaserta.net/banner/
-||gazzettadiparma.it/gfx/txtlink/
 ||gazzettadiparma.it/resizer/80/80/
-||gazzettadiparma.it/swf/autozatti_14062013.swf
 ||gazzettadisondrio.it/images/banner/
 ||gazzettamatin.com/admin/banner_
 ||gazzettamatin.com/admin/img_banner/
