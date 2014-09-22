@@ -107,6 +107,7 @@
 ||locandinebest.net/locandina/$subdocument,third-party
 ||macrolibrarsi.it/banners/
 ||macrolibrarsi.org/banner/
+||mediaon.it/objects/deal_list/
 ||mmvid.s3.amazonaws.com^
 ||neonisi.com^*/items.external?$third-party
 ||net-expire.tccstatic.com^*/banner.js

@@ -472,6 +472,7 @@ avvenire.it,borsaitaliana.it,ilmessaggero.it##.bannerTop
 ilquotidianodellacalabria.it##.banner_186x290
 ilquotidianodellacalabria.it##.banner_234x90
 spaziofilm.it##.banner_300
+gazzettadiparma.it##.banner_300x170
 ilmattinodifoggia.it##.banner_300x250_3
 liberoquotidiano.it##.banner_300x250_colonna_6
 everyeye.it##.banner_600_new
@@ -539,6 +540,7 @@ tuttosport.com##.box_Banner
 tuttosport.com##.box_LeaderBoard
 calcioblog.it##.box_highlight
 omniauto.it##.box_listinousato
+gazzettadiparma.it##.box_preview_column_promo_article
 35mm.it##.box_rightcol_banner1
 35mm.it##.box_rightcol_banner2
 subito.it##.box_sponsor
