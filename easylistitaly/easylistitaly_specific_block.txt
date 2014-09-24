@@ -1148,4 +1148,5 @@
 ||youreporter.it/partner/
 ||zabriskiepoint.net^*/banner/
 ||zapster.it/images/skin/
+||zerodelta.net/immagini/immagini2.0/
 ||zipnews.it/sai.jpg
