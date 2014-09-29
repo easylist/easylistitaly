@@ -527,6 +527,7 @@ ilgiornale.it##.block-ilg-adsense
 ilcapoluogo.com##.block-view-bannerSlide
 risultati.it##.bookmarker-53
 beppegrillo.it##.bottom-banner
+pmi.it##.box-300-special
 ilquotidiano.it,parmasera.it,piacenzasera.it,rsvn.it##.box-attico
 europa-in.it,gazzettadelladda.it,notiziaoggi.it,settegiorni.it##.box-banner-menu
 sportnews.bz##.box-fullbanner
@@ -696,6 +697,7 @@ agrigentonotizie.it,anconatoday.it,baritoday.it,bolognatoday.it,bresciatoday.it,
 agrigentonotizie.it,anconatoday.it,baritoday.it,bolognatoday.it,bresciatoday.it,cataniatoday.it,cesenatoday.it,chietitoday.it,firenzetoday.it,foggiatoday.it,forlitoday.it,genovatoday.it,ilpescara.it,ilpiacenza.it,latinatoday.it,milanotoday.it,modenatoday.it,monzatoday.it,napolitoday.it,novaratoday.it,padovaoggi.it,palermotoday.it,parmatoday.it,perugiatoday.it,pisatoday.it,ravennatoday.it,riminitoday.it,romatoday.it,salernotoday.it,today.it,torinotoday.it,trentotoday.it,trevisotoday.it,udinetoday.it,veneziatoday.it,veronasera.it,vicenzatoday.it##.skin_top
 soldionline.it##.sm_widget_contenitore
 tgcom24.mediaset.it##.spaceBanner
+pmi.it##.special-widget
 ciao.it##.specialOfferMod
 europages.it,gazzetta.it,ilgiornale.it,pubblicitaitalia.it,repubblica.it,stickmangames.altervista.org,violanews.com##.sponsor
 fcparma.com##.sponsor-group
