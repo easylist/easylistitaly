@@ -105,6 +105,7 @@
 ##.tabellaPubblicita
 ##.tccbanner
 ##.view-pubblicita
+##a[href^="http://adserver.html.it/"]
 ##a[href^="http://adserver.ilmessaggero.it/"]
 ##a[href^="http://crazylead.com/video/"]
 ##a[href^="http://edintorni.net/related/service/sponsor/redirect/?"]
