@@ -78,6 +78,8 @@
 ||atlassib.it^*/banner/
 ||atnews.it^*/1000x40_
 ||audi-usato.motori24.ilsole24ore.com^
+||audirsclub.it/images/banners/
+||audirsclub.it/images/misc/Faratech3.png
 ||autoinserzioni.it/css/images/banner_
 ||autoline-eu.it/atlads/
 ||automania.it^*-238x60-anim.gif
