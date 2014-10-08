@@ -109,6 +109,7 @@
 @@||codeclan.altervista.org^$elemhide
 @@||dataok.altervista.org^$elemhide
 @@||italiatv.org^$elemhide
+@@||mtv.it/advertisement.js
 @@||tvgratis.altervista.org^$elemhide
 @@||tvgratis.altervista.org^*#$image
 @@||tvgratis.altervista.org^*/advertisement.js
