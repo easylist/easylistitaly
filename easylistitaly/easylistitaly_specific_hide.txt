@@ -23,7 +23,7 @@ ascoltareradio.com###ad3
 digital-forum.it,esigarettaforum.com###ad_global_below_navbar
 bordighera.net,italianhack.org,mailexpress.it,spaziogames.it###ads
 ilgazzettinovesuviano.com###adsensing
-la7.it,ustation.it,xvideoscopate.com###adv
+la7.it,ustation.it,virgilio.it,xvideoscopate.com###adv
 agarymathematics.net###adv1
 cinquequotidiano.it###adv2
 cinquequotidiano.it###adv_1
@@ -430,7 +430,7 @@ ilsecoloxix.it##.artbanner
 violanews.com##.article_banners
 si24.it##.attachment-300x600
 radiogold.it##.autobanner
-tiscali.it##.b300x250
+tiscali.it,virgilio.it##.b300x250
 nonsolocap.it##.ba
 gazzetta.it##.bacheca-mkt
 gazzetta.it##.bacheca-mkt-square
