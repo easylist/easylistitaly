@@ -497,6 +497,7 @@
 ||ilvolo.it/images/banners/
 ||ilvolo.it/images/stories/banner-
 ||ilwebmaster21.it/script1.js
+||imperiapost.it^*/Banner
 ||indie-roccia.it/itunesbox.php?
 ||indie-rock.it/itunesbox.php?
 ||infooggi.it/banner/
