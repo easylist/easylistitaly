@@ -104,10 +104,11 @@
 @@||youreporter.it/adv/ova-matrix-yrn.xml.php?$object-subrequest,domain=youreporternews.it
 @@||youreporter.it/adv/ova-matrix.xml.php?$object-subrequest
 ! Anti-Adblock
-@@.png#$domain=codeclan.altervista.org|italiatv.org
+@@.png#$domain=codeclan.altervista.org|italiatv.org|naturaselvaggia2.altervista.org
 @@||blogspot.com^*#$image,domain=dataok.altervista.org
 @@||codeclan.altervista.org^$elemhide
 @@||dataok.altervista.org^$elemhide
+@@||hostingtv.org^$elemhide
 @@||italiatv.org^$elemhide
 @@||mtv.it/advertisement.js
 @@||tvgratis.altervista.org^$elemhide
