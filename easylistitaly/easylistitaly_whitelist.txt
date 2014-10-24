@@ -108,9 +108,9 @@
 @@||blogspot.com^*#$image,domain=dataok.altervista.org
 @@||codeclan.altervista.org^$elemhide
 @@||dataok.altervista.org^$elemhide
-@@||hostingtv.org^$elemhide
 @@||italiatv.org^$elemhide
 @@||mtv.it/advertisement.js
+@@||naturaselvaggia2.altervista.org^$elemhide
 @@||tvgratis.altervista.org^$elemhide
 @@||tvgratis.altervista.org^*#$image
 @@||tvgratis.altervista.org^*/advertisement.js

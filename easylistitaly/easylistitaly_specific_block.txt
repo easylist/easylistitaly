@@ -390,8 +390,9 @@
 ||hi-techitaly.com/images/banners/
 ||histonium.net/moduli/banner/
 ||hostgame.it/images/banner/
-||hostingtv.org/files/cubicgobbopink2.php
-||hostingtv.org/files/smartwp2.php
+||hostingtv.org/files/cubicgobbopink
+||hostingtv.org/files/smartwp
+||hostingtv.org/files/sportweek
 ||html.it^*/banner/
 ||html5today.it/images/banners/
 ||hubcomunicazione.it/images/banners/
