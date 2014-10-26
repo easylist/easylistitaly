@@ -90,6 +90,7 @@
 @@||static.fanpage.it^*/adsense.swf?$object-subrequest
 @@||static.youreporter.it/adv/jwplayer.js
 @@||static.youreporter.it/adv/player.swf$object
+@@||tag.reachadv.it/player|$script,domain=tzetze.it
 @@||terradidelizie.s3.amazonaws.com/banners/$image,domain=terradidelizie.it
 @@||tiscali.ad.dotandad.com/crossdomain.xml$object-subrequest,domain=ansa.it|tiscali.it
 @@||tiscali.ad.dotandad.com/tiscali.jsp?mpo=vast2&mpt=$object-subrequest,domain=ansa.it|tiscali.it
