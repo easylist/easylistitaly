@@ -703,6 +703,7 @@ pmi.it##.special-widget
 ciao.it##.specialOfferMod
 europages.it,gazzetta.it,ilgiornale.it,pubblicitaitalia.it,repubblica.it,stickmangames.altervista.org,violanews.com##.sponsor
 fcparma.com##.sponsor-group
+milanofinanza.it##.sponsor-red
 erbanotizie.com,lecconotizie.com##.sponsor-rubrica
 treccani.it##.sponsorLogo
 tuttosport.com##.sponsor_peroni
