@@ -68,6 +68,7 @@
 ##.adv-iframe-sx
 ##.adv300eni
 ##.advPostLibri
+##.adv_articolo
 ##.adv_esterno
 ##.adv_oriz
 ##.adv_vert
