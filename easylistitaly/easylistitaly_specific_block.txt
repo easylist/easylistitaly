@@ -722,6 +722,7 @@
 ||nyc-site.com/newyork/hotel/
 ||oas.repubblica.it^
 ||occhiodisalerno.com/images/banners/
+||oggiroma.it/public/banner/
 ||oggitreviso.it/files/fascevittoriofilm.jpg
 ||oilproject.org/static/images/logotimhome.png
 ||oilproject.org/static/images/studiacontim.png
