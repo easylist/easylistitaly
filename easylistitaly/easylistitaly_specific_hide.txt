@@ -110,6 +110,7 @@ quattroruote.it###bannerrcl
 cwi.it###banners
 siracusanews.it###banners-top
 si24.it###banners_middle
+cmnews.it###bannersdx
 telefonino.net###bannerstrip
 senigallianotizie.it###bbitalia_banner
 altalex.com,primopianomolise.it,sentenze.net###bglink
