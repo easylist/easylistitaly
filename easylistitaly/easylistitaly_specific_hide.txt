@@ -206,6 +206,7 @@ rinnovabili.it###header-bottom
 marigliano.net###header-top
 lavoripubblici.it,tempoitalia.it###headerBanner
 cani.com###headerBoard-box
+agriaffaires.it###header_ban
 lascommessasportiva.it###header_banner
 megalab.it###header_leaderboard
 meteowebcam.it###header_top
