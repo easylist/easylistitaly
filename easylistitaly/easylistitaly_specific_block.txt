@@ -1156,6 +1156,8 @@
 ||wintersport-news.it/banners/
 ||worldweb.it/images/banners/
 ||worldweb.it/images/stories/registrazionemotoridiricerca.jpg
+||xvideomature.com/images/u_player2.jpg
+||xvideomature.com^*/rotate.php
 ||yachtonline.it/be/servizi/ajax_banner.php?
 ||you-ng.it/images/skin_
 ||youreporter.it/partner/
