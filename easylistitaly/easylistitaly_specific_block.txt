@@ -468,6 +468,7 @@
 ||ilmessaggero.it/img/magiclandlight.gif
 ||ilmessaggero.it/img/rainbow_magicland.gif
 ||ilmessaggero.it/imgmol/
+||ilmioip.it/UPLD/BN/
 ||ilmitte.com^*/banner_
 ||ilmonferrato.it/banners/
 ||ilmonferrato.it/media/generalauto_
