@@ -657,6 +657,7 @@ asca.it##.personalized_background
 rai.tv##.placeholder300x250
 gazzetta.it##.poker
 videohifi.com##.portlet-static-sponsor
+lastampa.it##.ppn
 film.it##.ppn_h
 html.it##.premium-links-container-home-ms
 ciao.it##.priceComp2
