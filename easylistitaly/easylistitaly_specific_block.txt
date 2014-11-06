@@ -83,6 +83,7 @@
 ||autoinserzioni.it/css/images/banner_
 ||autoline-eu.it/atlads/
 ||automania.it^*-238x60-anim.gif
+||autoscout24.ch/content/startpage/
 ||autoseller.it/banner%5c
 ||autoseller.it/banner/
 ||autosottocosto.com/files/banner/
