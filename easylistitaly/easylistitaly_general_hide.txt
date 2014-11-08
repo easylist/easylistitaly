@@ -94,6 +94,7 @@
 ##.pubblicita
 ##.pubblicitaGoogle
 ##.pubblicitaSlider
+##.pubblicita_728x90
 ##.pubblicita_col1
 ##.pubblicitapremium
 ##.pubblitalocaleaddADV
@@ -113,3 +114,4 @@
 ##a[href^="http://edintorni.net/related/service/sponsor/redirect/?"]
 ##a[href^="http://tracking.crazylead.com/"]
 ##a[href^="http://www.linkwelove.it/urls/"]
+##a[href^="https://www.linkwelove.it/urls/"]
