@@ -522,7 +522,8 @@
 ||internapoli.it/public/spot/
 ||internazionale.it/assets/img/wideskin-
 ||iobloggo.com^*/banner/
-||iovivoaroma.it/public/banners/
+||iovivoaroma.org/images/new/bg.jpg
+||iovivoaroma.org/public/banners/
 ||iphoneitalia.com.s3.amazonaws.com/skin-
 ||iphoneitalia.com^*/skin/
 ||ispazio.net^*/ispazio-skin-
