@@ -750,6 +750,7 @@
 ||padovanews.it/images/banners/
 ||paeimprese.it^*/downloadfilebanner.php?
 ||palermomania.com/images/banner/
+||palermomania.it/images/banner_
 ||palermomania.it/public/banner/
 ||panorama.it^*-promobox/
 ||parmasera.it^*/img_banner/
