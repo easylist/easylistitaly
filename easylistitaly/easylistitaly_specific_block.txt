@@ -807,6 +807,7 @@
 ||quattroruote.it^*_280x75.gif
 ||quelliche.net^*/file_banner/
 ||quellidellelica.com/images/banners/
+||questotrentino.it/sponsor/
 ||quibrescia.it^*/wp-banners/
 ||quiceditutto.it/flash/*.swf
 ||quicomo.it/qc-ad/
