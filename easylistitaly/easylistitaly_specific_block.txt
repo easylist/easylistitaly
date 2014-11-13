@@ -254,6 +254,8 @@
 ||earone.it/themes/banner/
 ||earone.it/themes/images/btn_itunes.png
 ||eccolanotiziaquotidiana.it/banners/
+||ecodallecitta.it/immagini/banners/
+||ecodallecitta.it/video/menorifiuti_120x120.swf
 ||ecoseven.net/img/banner/
 ||ecostiera.it^*/banner/
 ||ehgoo.com/banner/
