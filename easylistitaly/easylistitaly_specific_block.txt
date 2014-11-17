@@ -183,6 +183,7 @@
 ||clandestinoweb.com^*/banner_
 ||clandestinoweb.com^*/banners/
 ||clandestinoweb.com^*/skin_
+||classmeteo.it^*/logo-zurich-connect.png
 ||click.html.it^
 ||climateobserver.it^*/banner-
 ||climateobserver.it^*/banner_
