@@ -469,6 +469,7 @@ ecodallecitta.it,ilcapoluogo.com##.banner4
 ildesk.it##.banner468x60
 ecodallecitta.it##.banner6
 ilsecoloxix.it##.banner650x60
+ilfattonisseno.it##.banner6x3
 ilcalciocatania.it##.bannerArea
 zoover.ch,zoover.it##.bannerContainer
 ilmessaggero.it,ravennanotizie.it##.bannerH
@@ -478,6 +479,7 @@ key4biz.it##.bannerRight
 corriereirpinia.it##.bannerTd
 avvenire.it,borsaitaliana.it,ilmessaggero.it##.bannerTop
 ilquotidianodellacalabria.it##.banner_186x290
+ilfattonisseno.it##.banner_200
 ilquotidianodellacalabria.it##.banner_234x90
 spaziofilm.it##.banner_300
 gazzettadiparma.it##.banner_300x170
@@ -488,6 +490,7 @@ ottopagine.net##.banner_990_90
 ottopagine.net##.banner_990_90_mid
 ilmattinodifoggia.it##.banner_990x30
 rsvn.it##.banner_BodyTop
+ilfattonisseno.it##.banner_H600
 nqnews.it##.banner_Leaderboard
 professionecalcio.net,professionemotori.it##.banner_after_feat
 lanuovaprimapagina.it,liberoquotidiano.it##.banner_apertura
@@ -498,6 +501,7 @@ voceditalia.it##.banner_casino2
 digital-sat.it##.banner_centrale
 parmasera.it,piacenzasera.it##.banner_doc_bottom_foto
 digital-sat.it,finanza.com,ilgiornaledireggio.it,motori24.ilsole24ore.com##.banner_dx
+ilfattonisseno.it##.banner_flusso
 ecodibergamo.it,ilcittadinomb.it,laprovinciadicomo.it,laprovinciadivarese.it##.banner_footer
 parmasera.it,piacenzasera.it##.banner_globaltop
 smtvsanmarino.sm##.banner_head
@@ -631,7 +635,7 @@ myword.it##.login-container[style="height:92px;border:0px solid red;text-align:c
 julienews.it##.long_banner_row
 rietilife.it##.lshowcase-logos
 ilfriuli.it##.main-header__banner
-cremonaoggi.it,opinione.it##.manchette
+cremonaoggi.it,ilfattonisseno.it,opinione.it##.manchette
 erbanotizie.com,lecconotizie.com##.manchette-dx
 livesicilia.it##.manchette-l
 livesicilia.it##.manchette-r
@@ -739,6 +743,7 @@ quattroruote.it##.telecamera-address
 ansa.it##.text-link
 ilfattoquotidiano.it##.textlink
 excite.it##.textlink_content
+ilfattonisseno.it##.top
 allsongs.tv,dica33.it,radionbc.it##.top-banner
 gazzettadasti.it##.top-left-ban
 gazzettadasti.it##.top-right-ban
