@@ -1173,6 +1173,7 @@
 ||xvideomature.com/images/u_player2.jpg
 ||xvideomature.com^*/rotate.php
 ||yachtonline.it/be/servizi/ajax_banner.php?
+||yimg.com^*/Expedia-Dubai-YahooIT-$domain=yahoo.com
 ||you-ng.it/images/skin_
 ||youreporter.it/partner/
 ||zabriskiepoint.net^*/banner/
