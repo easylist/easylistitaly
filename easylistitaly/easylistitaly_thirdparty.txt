@@ -185,6 +185,7 @@
 ||trilud.com/highlight_300X280.php?
 ||tripadvisor.ru/WidgetEmbed-tcphoto?$domain=russiaoggi.it
 ||trivago.it/external_rpc.php?
+||tstore.it/banner.
 ||tuoporno.com/images/banner/
 ||tuttogratis.it/hl_mfa/DXLARGE_v7num.php?
 ||unibr.altervista.org/pub.html
