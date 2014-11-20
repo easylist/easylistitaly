@@ -646,6 +646,7 @@
 ||lospiffero.com/banner/
 ||losportivo.sm/img/banner/
 ||luccaindiretta.it/images/banners/
+||lultimaribattuta.it^*banner
 ||lunico.eu/images/banners/
 ||macexchange.it/included/banner*.bfr
 ||maidireborsa.it/banners/
