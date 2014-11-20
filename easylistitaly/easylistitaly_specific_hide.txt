@@ -557,6 +557,7 @@ gazzettadiparma.it##.box_preview_column_promo_article
 35mm.it##.box_rightcol_banner1
 35mm.it##.box_rightcol_banner2
 subito.it##.box_sponsor
+livescore.it##.box_top_books
 tgcom24.mediaset.it##.boxspeciale
 tiscali.it##.c1c6.f12
 quotidiano.net##.category-SPONSOR
@@ -735,6 +736,7 @@ agichina24.it,trend-online.com##.strip
 loradellacalabria.it##.strisciane1
 style.it##.style_promo
 wired.it##.supported
+livescore.it##.table-odds
 ciao.it##.tableSponsLinks
 genova24.it,ivg.it##.takeover
 panorama.it##.teaser-immobiliare
