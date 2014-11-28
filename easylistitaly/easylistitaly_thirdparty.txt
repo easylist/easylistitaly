@@ -50,6 +50,7 @@
 ||cmstorage.it/public/skin/
 ||connect24.it/fot468.gif
 ||contactlab.it^*/Banner/
+||creativita.gsf.rcs.it^
 ||d1a6pzosbglc5p.cloudfront.net^
 ||d1n2y2eq1wbato.cloudfront.net^*/sponsor-$domain=atalanta.it
 ||d1oaxhr280l1ho.cloudfront.net^
