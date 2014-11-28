@@ -59,6 +59,8 @@ telefonino.net###banner300x100Pos2
 telefonino.net###banner300x100Pos3
 telefonino.net###banner300x100Pos4
 telefonino.net###banner300x100Pos5
+telefonino.net###banner300x100Pos6
+telefonino.net###banner300x100Pos7
 telefonino.net###banner300x100TimPos1
 paginegialle.it###banner300x250_1
 sardegna24.net,tiscali.it###banner300x250c20
