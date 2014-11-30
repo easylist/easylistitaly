@@ -102,8 +102,6 @@
 @@||videosynd.kataweb.it/advertising/$xmlhttprequest,domain=videosynd.kataweb.it
 @@||webcenter.tiscali.it/distribuzione/_script/TiscaliADV_315.js$domain=mail.tiscali.it
 @@||webmail.virgilio.it/cp/bannervirgilio/$subdocument
-@@||youreporter.it/adv/ova-matrix-yrn.xml.php?$object-subrequest,domain=youreporternews.it
-@@||youreporter.it/adv/ova-matrix.xml.php?$object-subrequest
 ! Anti-Adblock
 @@.png#$domain=codeclan.altervista.org|italiatv.org|naturaselvaggia2.altervista.org
 @@||blogspot.com^*#$image,domain=dataok.altervista.org
