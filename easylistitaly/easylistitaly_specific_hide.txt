@@ -11,7 +11,9 @@ eunews.it###HeaderBanner
 rai.it###Leaderboard
 liberatv.ch###Minisky
 ininsubria.it###PopUp_Under
+tio.ch###Promotion
 tio.ch###PromotionInterna
+tio.ch###RectangleHome
 tio.ch###RectangleInterna
 tripadvisor.it###SPONSORED_TOP_10
 liberatv.ch###Sky2
