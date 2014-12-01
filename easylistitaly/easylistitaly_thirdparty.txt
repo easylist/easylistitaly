@@ -38,6 +38,7 @@
 ||booking.com/general.html?$subdocument,domain=quattroruote.it|tuttobaviera.it
 ||booking.fioccovacanze.it^$third-party
 ||bt.rcs.it^
+||caniaddestrati.org^$third-party
 ||careerjet.it/partners/
 ||casa.it/cobrand/
 ||casinotop10.it/swf/$third-party
@@ -105,6 +106,7 @@
 ||keepersport.it^*/banner728x90.jpg
 ||kuko.it/banner.
 ||lacasadiriposo.it/images/banner/
+||laricettadellostudente.it^$third-party
 ||libreriadelsanto.it/banners/$third-party
 ||linearadio.it/bnrs/
 ||locandinebest.net/locandina/$subdocument,third-party
@@ -112,6 +114,7 @@
 ||macrolibrarsi.org/banner/
 ||mediaon.it/objects/deal_list/
 ||mmvid.s3.amazonaws.com^
+||mondojuventus.it^$third-party
 ||neonisi.com^*/items.external?$third-party
 ||net-expire.tccstatic.com^*/banner.js
 ||netweek.it/ban_
@@ -163,6 +166,7 @@
 ||smartclip.net^$~object-subrequest,third-party
 ||smscellulari.it/pic/banner/$third-party
 ||solonapoli88.altervista.org/ban$subdocument
+||spazioautomobile.it^$third-party
 ||spingitori.it/spnadv/
 ||static.plista.com^*/resized/$third-party
 ||staticroot.com/nl/affiliati/
@@ -190,12 +194,14 @@
 ||tuoporno.com/images/banner/
 ||tuttogratis.it/hl_mfa/DXLARGE_v7num.php?
 ||unibr.altervista.org/pub.html
+||universosmartphone.it^$third-party
 ||upcom.it^*/banner/
 ||uplink.aruba.it^$third-party
 ||vantaggiando.it/banners/
 ||vhf.tbiz.it^
 ||viagogo.it/feeds/widget.ashx?*&affiliateid=$subdocument
 ||virginpoker.it/pub/
+||vitaquotidiana.com^$third-party
 ||webalice.it/blackberry_09/trovadeal/
 ||webalice.it/ivo.gervasoni/$third-party
 ||webself.it/banners/
