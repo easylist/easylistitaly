@@ -592,6 +592,7 @@
 ||latinaoggi.net/public/img/bannerino-
 ||latitudeslife.com/magazine/adv/
 ||latitudeslife.com^*/banners/
+||lavocedeltrentino.it/images/banners/
 ||lavocedinewyork.com^*/52DBA386-71AE-11.jpg
 ||lavocedinewyork.com^*/5303FE28-71AE-11.jpg
 ||lavocedivenezia.it/player/banner/
