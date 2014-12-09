@@ -214,6 +214,7 @@
 ||corriereadriatico.it/box_tuttomercato052011/
 ||corrierecomo.it/images/banners/
 ||corrieredellacalabria.it^*/adv/
+||corrieredellosport.it/dinamiche/serviziXml/bwin.jsp?
 ||corrieredellosport.it/res/swf/ova-jw.swf$object-subrequest
 ||corrieredellosport.it/res/swf/ova.swf$object-subrequest
 ||corrieredicomo.it/images/banners/
