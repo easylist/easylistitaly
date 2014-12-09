@@ -998,6 +998,7 @@ winmagazine.it##div[style="width:980px; height:90px; margin: 0 auto;text-align:c
 wintricks.it##div[style="width:980px;height:90px;margin: 0 auto"]
 wintricks.it##div[style="width:980px;height:90px;margin: 0 auto;background:none"]
 metronews.it##div[style="width:990px; margin-left:10px; float:left; margin-bottom:10px; background-color:#FFD302"]
+calcioweb.eu##div[style="width:auto; min-width:300px; height:auto; height:250px; margin: 0 0 15px 15px; float:right;"]
 meteoweb.eu##div[style="width:auto; min-width:300px; height:auto; min-height:250px; margin:0 0 3px 3px; float:right;"]
 calcioweb.eu##div[style="width:auto; min-width:300px; height:auto; min-height:250px; margin:0 2px 2px 0; float:left;"]
 si24.it##div[style="width:auto;height:70px;text-align:center;clear:both;"]
