@@ -1173,6 +1173,7 @@
 ||wallstreetitalia.com/img/skin_
 ||waterpoloitaly.com/banner/
 ||webmarketingforum.it/images/banners/
+||weboggi.it/banners/
 ||webpartner.mrcrawler.it^
 ||widget.blogosfere.it/assicurazione/
 ||wintersport-news.it/banners/
