@@ -43,6 +43,7 @@
 ||erosadv.com^$third-party
 ||firebanner.com^$third-party
 ||gambling-italia.com^$third-party
+||inaffiliago.it^$third-party
 ||ioladv.it^$third-party
 ||iperbanner.com^$third-party
 ||leaderaffiliation.com^$third-party
