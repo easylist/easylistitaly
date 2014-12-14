@@ -351,6 +351,8 @@
 ||gds.it^*-300x251-
 ||gdsannunci.it/images/bannerpub/
 ||geekissimo.com/images/5sms.gif
+||ggpht.com^*/asus_pc_lffl.jpg$domain=lffl.org
+||ggpht.com^*/prezzoverde.jpg$domain=lffl.org
 ||giallozafferano.it/images/banner/
 ||gianlucadimarzio.com^*_skin_
 ||giardinaggio.it/@/servizi/dueverticali.asp
