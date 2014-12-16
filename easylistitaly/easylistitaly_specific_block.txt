@@ -926,6 +926,7 @@
 ||romatoday.it/images/skin/
 ||rosalio.it^*/adv/
 ||rovigooggi.it/files/miele/
+||rtl-4me.weebo.it/static/*.mp4?$object-subrequest,domain=rtl.it
 ||rtl.it^*/ico_iTunes-Download-
 ||rtl.it^*/itunes_btn_
 ||rtl.it^*_ban_
