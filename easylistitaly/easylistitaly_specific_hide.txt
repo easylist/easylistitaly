@@ -411,6 +411,7 @@ dizionariosinonimi.com##.Sponsor300x250Dx
 ricettepercucinare.com##.UAP_3to1_Rectangle
 ricettepercucinare.com##.UAP_Medium_Rectangle
 ricettepercucinare.com##.UAP_Wide_Skyscraper
+rietinvetrina.it##.a-single
 4risate.com,7per24.it,allrecipes.it,ilsole24ore.com,jugo.it,mesagne.me,milanlive.it,tripadvisor.it##.ad
 trustpilot.it##.adblock
 america24.com,gianlucadimarzio.com##.adbox
@@ -610,6 +611,7 @@ socialchannel.it##.footer2-wrapper
 violachannel.tv##.footer_home
 liberatv.ch##.front_orrizzontale
 quattroruote.it##.fullBanner
+rietinvetrina.it##.g
 spaziogames.it##.g_adv
 gazzetta.it##.gazzasconti
 iammepress.it,italia-news.it##.gcon_banners
