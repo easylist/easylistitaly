@@ -236,6 +236,7 @@ lecconotizie.com###left-domination
 mailbeta.libero.it###leftBoxIFrame
 veronica.it###leftSkin
 megalab.it###left_skyscraper
+funweek.it###libero_col_dx
 telesud3.com###linkamici
 asroma.it###logos
 eurogamer.it###low-leaderboard

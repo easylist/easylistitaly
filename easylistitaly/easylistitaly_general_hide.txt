@@ -54,6 +54,7 @@
 ###pubbli-alto
 ###pubbli_top
 ###pubblicita
+###pubblicita-libero-top
 ###pubblicita-menu
 ###pubblicita_blog_post_testa
 ###quattrownet_468x60
