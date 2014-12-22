@@ -1,3 +1,4 @@
+@@||ad.doubleclick.net/adj/mtv.ita/$script,domain=mtv.it
 @@||ad.smartclip.net/crossdomain.xml$object-subrequest,domain=serviziopubblico.it
 @@||ad.smartclip.net/delivery/tag?$object-subrequest,domain=serviziopubblico.it
 @@||ad2.neodatagroup.com/uploads/js/sid49jq.js$domain=rai.it|rai.tv|rainews.it
