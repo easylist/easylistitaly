@@ -12,6 +12,7 @@
 @@||adserver.adtech.de/addyn/3.0/1183/3769607/0/170/ADTECH;$script,domain=gioco.it
 @@||adv.alice.it/crossdomain.xml$object-subrequest,domain=webtv.cubovision.it
 @@||adv.alice.it/html.ng/site=cubow$object-subrequest,domain=webtv.cubovision.it
+@@||adv.ilsole24ore.it/crossdomain.xml$object-subrequest,domain=sky.it
 @@||adv.rtl.it/crossdomain.xml$object-subrequest
 @@||adv.rtl.it/www/delivery/fc.php?*&zones=pre-roll$object-subrequest
 @@||adv.tre.it/www/$image,script,$~third-party
