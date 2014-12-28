@@ -400,6 +400,7 @@ liberoquotidiano.it##.BannerHead
 metropolisweb.it##.BannerMezzoNotizia
 primopianomolise.it##.Banner_Modulabile
 nqnews.it##.Banner_box
+viterbonews24.it##.CON-fascia-alto-banner
 ciao.it##.CWContainerComparePrice
 iltempo.it##.DCLS4
 meteo.it##.ImmobiliareIt
@@ -408,6 +409,7 @@ novara.com##.MainBanner
 foxsports.it##.Mpu
 alfemminile.com##.OffresSpe_cadre
 search.aol.it##.SLL
+viterbonews24.it##.SepBanner
 dizionariosinonimi.com##.Sponsor300x250Dx
 ricettepercucinare.com##.UAP_3to1_Rectangle
 ricettepercucinare.com##.UAP_Medium_Rectangle
