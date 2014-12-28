@@ -413,7 +413,7 @@ ricettepercucinare.com##.UAP_3to1_Rectangle
 ricettepercucinare.com##.UAP_Medium_Rectangle
 ricettepercucinare.com##.UAP_Wide_Skyscraper
 rietinvetrina.it##.a-single
-4risate.com,7per24.it,allrecipes.it,ilsole24ore.com,jugo.it,mesagne.me,milanlive.it,tripadvisor.it##.ad
+4risate.com,7per24.it,allrecipes.it,ilsole24ore.com,jugo.it,mesagne.me,milanlive.it,servizioallerta.it,tripadvisor.it##.ad
 trustpilot.it##.adblock
 america24.com,gianlucadimarzio.com##.adbox
 loradellacalabria.it##.add768int
