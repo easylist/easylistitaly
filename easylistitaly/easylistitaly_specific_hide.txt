@@ -129,6 +129,7 @@ rumors.it,trendystyle.it###block-block-27
 rumors.it,trendystyle.it###block-block-4
 rumors.it,trendystyle.it###block-block-5
 axn.it###block-spti_operative-spti_operative_square
+nuovosud.it###block-views-banner-centrale-menu-block
 ilsole24ore.com###block300x250
 cronacamilano.it###block_left
 cronacamilano.it###block_right
@@ -289,6 +290,7 @@ gelocal.it###s3slider
 sampdoria.it###samppromorow
 samp.tv###samptvsponsor
 trombodromo.com###searchboxInc
+nuovosud.it###sfondo
 hdblog.it###shopping_kelkoo
 lonelyplanetitalia.it###side_banner
 lonelyplanetitalia.it###side_banner_300_100
