@@ -421,7 +421,7 @@ america24.com,gianlucadimarzio.com##.adbox
 loradellacalabria.it##.add768int
 pinkdna.it##.adds300x250
 zapster.it##.addx
-caserta24ore.it,fantagazzetta.com,gamemag.it,phicatube.net,radiospeaker.it,teleborsa.it##.ads
+caserta24ore.it,fantagazzetta.com,gamemag.it,ilikepuglia.it,phicatube.net,radiospeaker.it,teleborsa.it##.ads
 meteowebcam.it##.ads_menu
 corriereadriatico.it,ilgazzettino.it,ilmattino.it,ilmessaggero.it,ilsecoloxix.it,leggo.it,pcprofessionale.it,pubblicitaitalia.it,quotidianodipuglia.it##.adsense
 meteowebcam.it##.adsense_menu
@@ -467,6 +467,7 @@ telesud3.com##.banner-destra-tyf
 algheroeco.com##.banner-header-dx
 algheroeco.com##.banner-header-sx
 genova24.it,ivg.it##.banner-middle-board
+ilikepuglia.it##.banner-placeholder
 milanofinanza.it##.banner-sfondo
 telesud3.com##.banner-sidebar
 panorama.it##.banner-spalla-dx
