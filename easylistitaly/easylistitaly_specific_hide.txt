@@ -502,7 +502,6 @@ ilfattonisseno.it##.banner_200
 lavocedelpopolo.net##.banner_210
 ilquotidianodellacalabria.it##.banner_234x90
 spaziofilm.it##.banner_300
-gazzettadiparma.it##.banner_300x170
 ilmattinodifoggia.it##.banner_300x250_3
 liberoquotidiano.it##.banner_300x250_colonna_6
 everyeye.it##.banner_600_new
@@ -549,6 +548,7 @@ nonsolocinema.com##.banners
 ilquotidianofvg.it##.banners-125
 cremonaoggi.it##.bannersx
 album-mmt.it,musictory.it##.bannertop
+gazzettadiparma.it##.bannervcms
 ticinolive.ch##.bannerwrap
 romagiornoenotte.it##.basebannerBox
 wallstreetitalia.com##.bestbuybiz
