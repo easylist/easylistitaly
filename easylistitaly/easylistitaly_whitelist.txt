@@ -53,6 +53,7 @@
 @@||laprovinciadibiella.it/upload/webpublic/rss.jpg
 @@||laprovinciadibiella.it/upload/webpublic/twitter.jpg
 @@||laprovinciadibiella.it/upload/webpublic/youtube.jpg
+@@||lastampa.it/modulo/pubblicita/rcs/js/infra-gallery.js?
 @@||mail.tiscali.it/cp/extras/it/dashboard/300x250.html?
 @@||mail.virgilio.it/common/tech_includes/mail/$subdocument,domain=webmail.virgilio.it
 @@||mail.virgilio.it/google/$subdocument,domain=webmail.virgilio.it
