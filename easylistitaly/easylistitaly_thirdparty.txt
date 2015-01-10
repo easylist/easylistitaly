@@ -29,12 +29,9 @@
 ||banzaimedia.it/hpsponsor/
 ||bazarcoupon.com/images/$third-party
 ||betpro.it^*/banner/
-||blogspot.com^*/ban1.png$domain=italiafilm2.com
-||blogspot.com^*/ban2.gif$domain=internapoli-city.org
 ||blogspot.com^*/download_728.gif
 ||blogspot.com^*/download_728_2.gif
 ||blogspot.com^*/downloadnow_it_468.png
-||blogspot.com^*/Streaming.png$domain=internapoli-city.org
 ||booking.com/general.html?$subdocument,domain=quattroruote.it|tuttobaviera.it
 ||booking.com^*;tmpl=banners;$subdocument,domain=trombodromo.com
 ||booking.fioccovacanze.it^$third-party
@@ -177,8 +174,6 @@
 ||stgy.it/images/skin/
 ||stgy.it^*/ova-jw.swf$object-subrequest
 ||streamcaster.net/lunaset/web/template_
-||streamingtorrent.com/images/guarda.jpg
-||streamingtorrent.com/images/scarica.jpg
 ||subito-server.it/banner/
 ||subito.paneaserver.net^
 ||tamtamsrl.it/dreamteam/banner/
@@ -189,7 +184,6 @@
 ||tomshw.corley.it^
 ||tophost.it/banners/
 ||trilud.com/highlight_300X280.php?
-||tripadvisor.ru/WidgetEmbed-tcphoto?$domain=russiaoggi.it
 ||trivago.it/external_rpc.php?
 ||tstore.it/banner.
 ||tuoporno.com/images/banner/
@@ -214,5 +208,4 @@
 ||yoox.it/view.aspx?$subdocument,third-party
 ||yoppinho.com/public/scambio_banner/
 ||youbuy.it/banner/
-||youtube.com/embed/mktiiofqskm$object,domain=tvzoom.it
 ||zxadhosting.it^
