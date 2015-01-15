@@ -820,6 +820,8 @@
 ||quiceditutto.it/flash/*.swf
 ||quicomo.it/qc-ad/
 ||quicomo.it/qc-assets/banner/
+||quicosenza.it/images/banner_
+||quicosenza.it/images/banners/
 ||quotidiano.net/file_generali/flash/ova.swf$object-subrequest
 ||quotidianodigela.it/images/background/
 ||quotidianodigela.it^*/banners/
