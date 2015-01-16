@@ -14,6 +14,7 @@
 ||affiliate2.hardstore.com^
 ||affiliatesys.interwetten.it^
 ||affiliati.bet2bet.it^
+||affiliationjs.s3.amazonaws.com^
 ||affiliazione.immobiliare.it^
 ||affiliazioni.misterdomain.eu^
 ||agenziapuntonet.it/banner/
