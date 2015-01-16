@@ -83,6 +83,7 @@
 ##.boxADV
 ##.box_adv_speciali_hp
 ##.cmt_bgadv
+##.ed_Related_Record_Div_Sponsor
 ##.googleAnnunci
 ##.home-rubriche-adv
 ##.inews_adv_top
