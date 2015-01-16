@@ -242,6 +242,7 @@ telesud3.com###linkamici
 asroma.it###logos
 eurogamer.it###low-leaderboard
 catanzaroinforma.it###mainsponsor
+catanzaroinforma.it###mainsponsorcronaca
 laroma24.it###marketingRotator
 it.msn.com###markette
 max.rcs.it###max_ppn
