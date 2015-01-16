@@ -900,6 +900,7 @@
 ||rtl.it^*/ico_iTunes-Download-
 ||rtl.it^*/itunes_btn_
 ||rtl.it^*_ban_
+||saggiamente.com^*-helpsaggiamente.jpg
 ||salernonotizie.it/wp-content/banner/
 ||salernonotizie.it/wp-content/skin/
 ||salernonotizie.net^*_banner_
