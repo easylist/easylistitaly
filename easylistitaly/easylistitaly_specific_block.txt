@@ -343,6 +343,7 @@
 ||gazzettadinapoli.it^*/clickwall.
 ||gazzettadinapoli.it^*/sponsor/
 ||gazzettadiparma.it/resizer/80/80/
+||gazzettadisalerno.it^*/clickwall.
 ||gazzettadisondrio.it/images/banner/
 ||gazzettamatin.com/admin/banner_
 ||gazzettamatin.com/admin/img_banner/

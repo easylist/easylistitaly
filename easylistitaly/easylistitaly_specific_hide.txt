@@ -307,7 +307,7 @@ iovivoaroma.org###skin_link_dx
 iovivoaroma.org###skin_link_sx
 cronachemaceratesi.it###skinabove
 rockit.it###skinbanner
-catanzaroinforma.it,filmtv.it,gazzettadiavellino.it,gazzettadinapoli.it,ilcorrieredabruzzo.it,lazionews24.com,salernonotizie.it###skinlink
+catanzaroinforma.it,filmtv.it,gazzettadiavellino.it,gazzettadinapoli.it,gazzettadisalerno.it,ilcorrieredabruzzo.it,lazionews24.com,salernonotizie.it###skinlink
 ebay.it###skyscrape
 eurogamer.it###skyscraper
 casateonline.it,merateonline.it###sottotestata
@@ -461,7 +461,7 @@ piacenzanight.com##.back_style
 avmagazine.it,corrierediragusa.it,ilcrotonese.it,tomshw.it##.background-link
 lavorincasa.it##.bak
 milanofinanza.it,oggitreviso.it##.ban
-advertiser.it,agi.it,agichina24.it,airdave.it,alessandrianews.it,america24.com,casateonline.it,chiamarsibomber.com,corrieredelgiorno.com,corrieremercantile.it,dagospia.com,diretta.it,finanzaonline.com,gazzettadiavellino.it,gazzettadinapoli.it,gazzettahockey.it,giochidicalcio.com,html.it,ilcambiamento.it,ilfriuli.it,ilgiornale.it,insegreto.it,lindro.it,lipari.biz,macitynet.it,merateonline.it,meteoweb.eu,oggitreviso.it,orangedropdesign.com,orvietosi.it,pmi.it,programmitv.com,pubblicitaitalia.it,r101.it,rcdc.it,rockit.it,softonic.it,strettoweb.com,tenews.it,ticinolibero.ch,ultimouomo.com,vocenuova.tv##.banner
+advertiser.it,agi.it,agichina24.it,airdave.it,alessandrianews.it,america24.com,casateonline.it,chiamarsibomber.com,corrieredelgiorno.com,corrieremercantile.it,dagospia.com,diretta.it,finanzaonline.com,gazzettadiavellino.it,gazzettadinapoli.it,gazzettadisalerno.it,gazzettahockey.it,giochidicalcio.com,html.it,ilcambiamento.it,ilfriuli.it,ilgiornale.it,insegreto.it,lindro.it,lipari.biz,macitynet.it,merateonline.it,meteoweb.eu,oggitreviso.it,orangedropdesign.com,orvietosi.it,pmi.it,programmitv.com,pubblicitaitalia.it,r101.it,rcdc.it,rockit.it,softonic.it,strettoweb.com,tenews.it,ticinolibero.ch,ultimouomo.com,vocenuova.tv##.banner
 rollingstonemagazine.it##.banner-abbonamenti
 telesud3.com##.banner-destra
 telesud3.com##.banner-destra-tyf
@@ -797,8 +797,8 @@ algheroeco.com##.wallpaper-link
 fc-suedtirol.com##.werbung
 gazzettadinapoli.it##.widget-12
 gazzettadiavellino.it##.widget-4
-gazzettadinapoli.it##.widget-5
-gazzettadiavellino.it##.widget-6
+gazzettadinapoli.it,gazzettadisalerno.it##.widget-5
+gazzettadiavellino.it,gazzettadisalerno.it##.widget-6
 insegreto.it##.widget-banner
 fxempire.it##.widget_banner
 fxempire.it##.widget_brokers
@@ -1041,6 +1041,7 @@ romanews.eu##img[width="300"][height="150"]
 radiolombardia.it,siciliainrosa.it##img[width="300"][height="250"]
 romanews.eu##img[width="300"][height="300"]
 gazzettadinapoli.it##img[width="460"][height="60"]
+gazzettadisalerno.it##img[width="468"][height="60"]
 mmorpgitalia.it##img[width="500"][height="122"]
 tuttoshoppingmotori.com##img[width="610px;"]
 romanews.eu##img[width="630"][height="80"]
