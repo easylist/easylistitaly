@@ -910,6 +910,7 @@
 ||sanremonews.it^*/banner/
 ||sanremonews.it^*/box/
 ||sardegnareporter.it/themes/img/banner/
+||sassiland.com/public/sponsor/
 ||sassuolo2000.it/bnrs/
 ||sassuolocalcio.it/imgs/grafiche/sponsor/
 ||savonanews.it/fileadmin/archivio/savonanews/*/1000x40_
