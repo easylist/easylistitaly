@@ -31,7 +31,6 @@ agarymathematics.net###adv1
 cinquequotidiano.it###adv2
 cinquequotidiano.it###adv_1
 3bmeteo.com###adv_5
-quattroruote.it###adv_wideleaderboard
 rockol.it,sanihelp.it###advertisement
 qds.it###altro
 outcast.it###amazon
@@ -112,7 +111,6 @@ lastampa.it,newsfood.com,primaonline.it,primissima.it,qds.it###banner_top
 gameplayer.it###banner_up_right
 liberoquotidiano.it###bannerbox1
 freemodding.it###bannerini
-quattroruote.it###bannerrcl
 cwi.it###banners
 siracusanews.it###banners-top
 si24.it###banners_middle
@@ -632,6 +630,7 @@ ilturista.info##.google-box
 dday.it##.google-dfp
 gqitalia.it##.gq-promotions
 fantagazzetta.com##.h-box
+quattroruote.it##.halfPageBanner2
 ilgiornaledivicenza.it##.header-box
 newyork-tales.ilsole24ore.com##.header-right
 bow.it,cronacamilano.it##.header_banner
@@ -767,7 +766,6 @@ ciao.it##.tableSponsLinks
 genova24.it,ivg.it##.takeover
 panorama.it##.teaser-immobiliare
 tiscali.it##.teaserDx
-quattroruote.it##.telecamera-address
 ansa.it##.text-link
 ilfattoquotidiano.it##.textlink
 excite.it##.textlink_content
