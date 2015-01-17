@@ -338,7 +338,9 @@
 ||gazzetta.it^*/adv/
 ||gazzetta.it^*/includemanager/pub/
 ||gazzettabenevento.it/Sito2009/image/banner/
+||gazzettadiavellino.it^*/clickwall.
 ||gazzettadicaserta.net/banner/
+||gazzettadinapoli.it^*/sponsor/
 ||gazzettadiparma.it/resizer/80/80/
 ||gazzettadisondrio.it/images/banner/
 ||gazzettamatin.com/admin/banner_
