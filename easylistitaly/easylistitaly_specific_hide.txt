@@ -88,6 +88,8 @@ spaziogames.it###banner_300
 cronachemaceratesi.it###banner_300x250
 ilsannioquotidiano.it###banner_468_60
 lastampa.it###banner_VideoBox
+sportal.it###banner_alto_dx
+sportal.it###banner_alto_sx
 corrierediragusa.it###banner_bg_flash
 primaonline.it###banner_bottom
 si24.it###banner_branciforte
