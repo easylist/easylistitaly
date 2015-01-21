@@ -704,6 +704,7 @@ corrieredellosport.it##.promo_art
 cremonaoggi.it##.promo_slider_wrapper
 gqitalia.it##.promobox
 italiapokerclub.com##.promotion
+agoravox.it##.pub
 gds.it,lastampa.it##.pubb
 theinquirer.it##.pubind1
 agoravox.it##.publarge
