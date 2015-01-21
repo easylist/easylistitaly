@@ -99,10 +99,12 @@
 @@||webcenter.tiscali.it/distribuzione/_script/TiscaliADV_315.js$domain=mail.tiscali.it
 @@||webmail.virgilio.it/cp/bannervirgilio/$subdocument
 ! Anti-Adblock
+@@.gif#$domain=naturaselvaggia2.altervista.org
 @@.png#$domain=codeclan.altervista.org|italiatv.org|naturaselvaggia2.altervista.org
 @@||blogspot.com^*#$image,domain=dataok.altervista.org
 @@||codeclan.altervista.org^$elemhide
 @@||dataok.altervista.org^$elemhide
+@@||hostingtv.org^$elemhide
 @@||italiatv.org^$elemhide
 @@||mtv.it/advertisement.js
 @@||naturaselvaggia2.altervista.org^$elemhide

@@ -406,6 +406,7 @@
 ||hi-techitaly.com/images/banners/
 ||histonium.net/moduli/banner/
 ||hostgame.it/images/banner/
+||hostingtv.org/files/cubic
 ||hostingtv.org/files/cubicgobbopink
 ||hostingtv.org/files/smartwp
 ||hostingtv.org/files/sportweek
