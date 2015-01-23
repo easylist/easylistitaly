@@ -17,6 +17,7 @@ deejay.it#@#.advertorial
 cardiochirurgia.com#@#.box-ad
 italiasw.com#@#.header-google-ads
 cardiochirurgia.com#@#.list-ads
+biancolavoro.it#@#.listad
 corrierecomo.it,corrieredicomo.it#@#.module-ad
 latinomagazine.it#@#.moduletable-advert
 camperonline.it,italiasw.com#@#.pubblicita
