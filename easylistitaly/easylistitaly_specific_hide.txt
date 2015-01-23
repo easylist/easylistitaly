@@ -197,6 +197,7 @@ red-live.it###footer_banner
 fc-suedtirol.com###footersponsor
 xvideoscopate.com###footertop
 lega-pro.com###fpssContainer381
+ansa.it###fwnetC300
 ilcap.it###gadsense
 rdf.it###gkBanner2
 paginegialle.it###glamoo-box
