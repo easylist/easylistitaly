@@ -23,4 +23,5 @@ latinomagazine.it#@#.moduletable-advert
 camperonline.it,italiasw.com#@#.pubblicita
 beppegrillo.it,lafucina.it,mmorpgitalia.it#@#div[id^="div-gpt-ad-"]
 ! Anti-Adblock
+dbplanet.net#@##ad_block
 sportube.tv#@#.afs_ads

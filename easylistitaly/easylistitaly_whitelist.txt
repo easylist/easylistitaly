@@ -69,7 +69,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=windowsblogitalia.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=windowsblogitalia.com
 @@||pagead2.googlesyndication.com/pagead/scache/googlevideoads.swf$object-subrequest,domain=giochidicalcio.com
-@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=ipaditalia.com|iphoneitalia.com
+@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=dbplanet.net|ipaditalia.com|iphoneitalia.com
 @@||panorama.it/adv/$image
 @@||portalecomuni.net^*/ShowBanner.aspx$image
 @@||primocanale.it/ads/*.flv$object-subrequest
