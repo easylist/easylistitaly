@@ -4,6 +4,8 @@
 ||7per24.it^*/banner-
 ||892000.it/img/bannerino_
 ||abruzzolive.it^*banner
+||abruzzoweb.it/cache/banners/
+||abruzzoweb.it^*/banner-
 ||accordiespartiti.it/propalco*.png
 ||accordiespartiti.it/suonarechitarra.jpg
 ||acmilan.com^*/sponsor/
