@@ -765,6 +765,8 @@
 ||omnimilano.it/dati/banner/
 ||omniroma.it/dati/banner/
 ||ondarock.it/skin/
+||opinione.it/media/*60x150.
+||opinione.it/media/*750x50.
 ||orvietosi.it^*298x100.swf
 ||oxfordparavia.it/img/babylon.gif
 ||padovanews.it/images/banners/
