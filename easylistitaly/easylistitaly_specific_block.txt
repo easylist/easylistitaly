@@ -662,6 +662,7 @@
 ||mammedomani.it/images/banners/
 ||manduriaoggi.it/layout_nuovo/banner.asp
 ||marigliano.net/_upload/banner/
+||marsalaviva.it/images/banners/
 ||marsicalive.it^*banner
 ||masterviaggi.it/banner/
 ||mattinonline.ch^*/banner_
