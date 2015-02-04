@@ -1113,6 +1113,7 @@
 ||virgilio.it/sg/boxis_
 ||virgilio.it/src_tag_sponsor_
 ||viterbonews24.it/gesBanner/
+||viterbopost.it^*/Partner.
 ||vivafm.it^*/banners/
 ||vivereancona.it/images/banners_
 ||viverejesi.it/images/banners_

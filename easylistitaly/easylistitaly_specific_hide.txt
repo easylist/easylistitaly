@@ -244,6 +244,8 @@ asroma.it###logos
 eurogamer.it###low-leaderboard
 catanzaroinforma.it###mainsponsor
 catanzaroinforma.it###mainsponsorcronaca
+viterbopost.it###manchette-dx
+viterbopost.it###manchette-sx
 laroma24.it###marketingRotator
 it.msn.com###markette
 max.rcs.it###max_ppn
@@ -354,7 +356,8 @@ lavocedelpopolo.net###text-20
 lavocedelpopolo.net###text-26
 lavocedelpopolo.net###text-28
 lavocedelpopolo.net###text-33
-lavocedelpopolo.net###text-35
+viterbopost.it###text-34
+lavocedelpopolo.net,viterbopost.it###text-35
 lavocedelpopolo.net###text-41
 studioconsulenzaromano.net###text-561964208
 farevela.net###text-7
@@ -749,6 +752,7 @@ europages.it,gazzetta.it,ilgiornale.it,pubblicitaitalia.it,repubblica.it,stickma
 fcparma.com##.sponsor-group
 milanofinanza.it##.sponsor-red
 erbanotizie.com,lecconotizie.com##.sponsor-rubrica
+viterbopost.it##.sponsorA
 treccani.it##.sponsorLogo
 tuttosport.com##.sponsor_peroni
 gazzetta.it,wired.it##.sponsored
