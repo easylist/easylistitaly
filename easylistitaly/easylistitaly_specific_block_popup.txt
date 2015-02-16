@@ -1,5 +1,6 @@
 ||adf.ly^$popup,domain=vstau.info
 ||adv2.spaziogames.it^$popup
+||filmsenzalimiti.co/4k/$popup
 ||goo.gl^$popup,domain=mondopallone.it
 ||linkbucks.com^$popup,domain=vstau.info
 ||mammevacche.com/out?$popup
