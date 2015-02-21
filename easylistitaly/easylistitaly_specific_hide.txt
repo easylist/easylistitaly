@@ -44,7 +44,7 @@ libero.it###b468x60bottoms
 calciomercato.com###background_left
 calciomercato.com###background_right
 lastampa.it###badge
-advertiser.it,asylumitalia.it,bitcity.it,car4you.it,forzapescara.net,grandefratellonews.com,meteo-emiliaromagna.it,tendenzeonline.info,webpedia.altervista.org###banner
+advertiser.it,asylumitalia.it,bitcity.it,car4you.it,forzapescara.net,grandefratellonews.com,meteo-emiliaromagna.it,rvuno.it,tendenzeonline.info,webpedia.altervista.org###banner
 serviziopubblico.it###banner-1
 gustissimo.it###banner-alto
 telesud3.com###banner-header
