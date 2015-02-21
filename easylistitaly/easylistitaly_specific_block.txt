@@ -64,6 +64,7 @@
 ||ammirati.org/showpopup/
 ||animeclick.it/Banners/
 ||animeclick.it/mh3/
+||animeclick.it/video-intro/
 ||annuariodelcinema.it^*/banner-
 ||annuariodelcinema.it^*/banner_
 ||annuariodelcinema.it^*/banners/
