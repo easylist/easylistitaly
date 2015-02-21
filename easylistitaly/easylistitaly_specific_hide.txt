@@ -548,6 +548,7 @@ ipoditalia.it##.banner_topright
 galileonet.it##.banner_vert
 techarena.it##.bannercentro
 trovaprezzi.it##.bannerdiv
+radiogold.it##.bannergroupskin-banner-module
 you-ng.it##.banneritem
 centrometeo.com##.banneritemcenterdx
 finanzaonline.com##.bannerlbforum

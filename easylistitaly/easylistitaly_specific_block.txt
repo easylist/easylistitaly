@@ -845,6 +845,7 @@
 ||radioetv.it/images/BigRectangle_
 ||radioglobo.it/img/banner/
 ||radioglobo.it/img/bg/bg_
+||radiogold.it/images/banners/
 ||radiogold.it^*/banner/
 ||radiomanamana.it/stylerays.png
 ||radiomanamana.it/universita_on_line.jpg
