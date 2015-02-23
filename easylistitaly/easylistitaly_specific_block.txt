@@ -595,6 +595,7 @@
 ||lastampa.it^*/banner/
 ||lastampa.it^*/banner_
 ||lastampa.it^*/naturhouse/
+||lastampadelmezzogiorno.it/images/stories/banner/
 ||latina-oggi.it/public/img/banner-
 ||latina-oggi.it/public/img/bannerino-
 ||latinaoggi.net/public/img/banner-
