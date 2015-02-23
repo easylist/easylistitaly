@@ -602,6 +602,7 @@ gazzettavvisionline.it##.cont_Leaderboard
 leccesette.it##.cont_banner
 gazzetta.it##.contain-sisal-magicup
 borsaitaliana.it##.container_banner_top
+fanpage.it##.content-leaderboard
 macitynet.it##.contentTop
 tiscali.it,unita.it##.dannperdere
 ebay.it,kijiji.it##.dart-banner-slot
