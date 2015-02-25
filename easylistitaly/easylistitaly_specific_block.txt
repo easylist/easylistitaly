@@ -289,6 +289,7 @@
 ||fastweb.it^*/portale/speciali/
 ||fastweb.it^*/rcol/immobiliare/
 ||fbritaly.it^*/downloadfilebanner.php?
+||film-stream.org^*/banner-
 ||film-stream.tv^*/banner-
 ||film-stream.tv^*/trucco-permanente-1.gif
 ||film.tv.it/img/banner/
