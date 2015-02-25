@@ -112,5 +112,6 @@
 @@||tvgratis.altervista.org^*#$image
 @@||tvgratis.altervista.org^*/advertisement.js
 @@||vvvvid.it/img/advertisement.jpg?
+@@||vvvvid.it/img/advertisment.jpg?
 @@||zeb89.altervista.org^$elemhide
 @@||zeb89.altervista.org^*#$image
