@@ -101,6 +101,7 @@
 ! Anti-Adblock
 @@.gif#$domain=naturaselvaggia2.altervista.org
 @@.png#$domain=codeclan.altervista.org|italiatv.org|naturaselvaggia2.altervista.org
+@@||bagniproeliator.it^$elemhide
 @@||blogspot.com^*#$image,domain=dataok.altervista.org
 @@||codeclan.altervista.org^$elemhide
 @@||dataok.altervista.org^$elemhide
