@@ -113,6 +113,7 @@
 ||neonisi.com^*/items.external?$third-party
 ||net-expire.tccstatic.com^*/banner.js
 ||netweek.it/ban_
+||netweek.it/images/isolamutui/
 ||nexths.it/widget/$third-party
 ||nextmediavideo.com/inc/ova.swf$object-subrequest
 ||nohup.it^*_110x40_
