@@ -1044,6 +1044,7 @@
 ||topolino.it^*/banners/
 ||toptrade.it^*/downloadfilebanner.php?
 ||torinotoday.it/images/skin/
+||toronews.net/banner/
 ||traderlink.it/images/skin/
 ||trasporti-italia.com^*/banner/
 ||travelnostop.com/banner/
