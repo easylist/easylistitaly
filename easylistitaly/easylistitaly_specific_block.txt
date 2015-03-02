@@ -1144,6 +1144,7 @@
 ||weboggi.it/banners/
 ||webpartner.mrcrawler.it^
 ||widget.blogosfere.it/assicurazione/
+||wikilao.com^*/banners/
 ||wintersport-news.it/banners/
 ||worldweb.it/images/banners/
 ||worldweb.it/images/stories/registrazionemotoridiricerca.jpg
