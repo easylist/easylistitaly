@@ -672,6 +672,7 @@ ilsole24ore.com##.link_expand
 mymovies.it##.linkblu[style="width:290px; cursor:pointer; margin-top:5px;"]
 giornalettismo.com##.liq-frame
 gazzetta.it##.list-eventi
+diretta.it##.live-betting-strip
 myword.it##.login-container[style="height:92px;border:0px solid red;text-align:center;"]
 julienews.it##.long_banner_row
 rietilife.it##.lshowcase-logos
