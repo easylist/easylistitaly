@@ -21,7 +21,7 @@ biancolavoro.it#@#.listad
 corrierecomo.it,corrieredicomo.it#@#.module-ad
 latinomagazine.it#@#.moduletable-advert
 camperonline.it,italiasw.com#@#.pubblicita
-beppegrillo.it,d1khqztmu4w2hg.cloudfront.net,lafucina.it,mmorpgitalia.it#@#div[id^="div-gpt-ad-"]
+beppegrillo.it,d1khqztmu4w2hg.cloudfront.net,lafucina.it,mmorpgitalia.it,tzetze.it#@#div[id^="div-gpt-ad-"]
 ! Anti-Adblock
 dbplanet.net#@##ad_block
 sportube.tv#@#.afs_ads
