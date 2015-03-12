@@ -648,7 +648,7 @@ fantagazzetta.com##.h-box
 quattroruote.it##.halfPageBanner2
 ilgiornaledivicenza.it##.header-box
 newyork-tales.ilsole24ore.com##.header-right
-bow.it,cronacamilano.it##.header_banner
+bow.it,cronacamilano.it,ilfaroonline.it##.header_banner
 bora.la##.headerbtm
 gazzettadasti.it##.homepage-central-ban
 radioitalia.it##.iTunes

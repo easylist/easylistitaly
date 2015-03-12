@@ -447,6 +447,7 @@
 ||ilcorsaronero.info/js/nopopup.js
 ||ilcrotonese.it^*/promo_
 ||ilcrotonese.it^*_bg.jpg
+||ilfaroonline.it/images/banners/
 ||ilfattoalimentare.it/assets/banners/
 ||ilfattoquotidiano.it/external/assicurazioni_300x100/
 ||ilfattoquotidiano.it^*/banner_casait.jpg
@@ -779,6 +780,7 @@
 ||opinione.it/media/*60x150.
 ||opinione.it/media/*750x50.
 ||orvietosi.it^*298x100.swf
+||ostiatv.it/upl/banner
 ||oxfordparavia.it/img/babylon.gif
 ||padovanews.it/images/banners/
 ||paeimprese.it^*/downloadfilebanner.php?

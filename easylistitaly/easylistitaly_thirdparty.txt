@@ -87,6 +87,7 @@
 ||imagerip.net/images/2014/12/14/button_2.png$domain=filmsenzalimiti.co
 ||immobiliagest.it^$subdocument,third-party
 ||immobiliare.it/widget/js/populateexternalform.js$third-party
+||immobilmente.com/Banner/$third-party
 ||immobz.it^*/banner.aspx?
 ||incontripersesso.com/banner/
 ||inetweek.it/comincom/widget/
