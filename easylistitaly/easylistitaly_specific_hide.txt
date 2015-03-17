@@ -708,6 +708,7 @@ gazzetta.it##.poker
 videohifi.com##.portlet-static-sponsor
 lastampa.it##.ppn
 film.it##.ppn_h
+itpornovideo.com##.pr-widget
 html.it##.premium-links-container-home-ms
 ciao.it##.priceComp2
 paginegialle.it##.prio
