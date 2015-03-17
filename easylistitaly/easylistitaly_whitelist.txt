@@ -2,7 +2,6 @@
 @@||ad.smartclip.net/crossdomain.xml$object-subrequest,domain=serviziopubblico.it
 @@||ad.smartclip.net/delivery/tag?$object-subrequest,domain=serviziopubblico.it
 @@||ad2.neodatagroup.com/uploads/js/sid49jq.js$domain=rai.it|rai.tv|rainews.it
-@@||ad49.neodatagroup.com/ad/sipra.jsp?$script,xmlhttprequest,domain=rai.it|rai.tv|rainews.it
 @@||adimg.matrixspa.it/cookie_script/read_crt.html$domain=webmail.virgilio.it
 @@||adimg.matrixspa.it/jsc/advManage.js$domain=webmail.virgilio.it
 @@||adnkronos.com/ign/mediacenter/fotogallery/data_01/img/ad_
