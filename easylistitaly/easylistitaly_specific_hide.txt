@@ -1098,6 +1098,8 @@ mymovies.it##td[style="height:45px; background-color:#FFFFFF; ;"]
 finanzaonline.com,hwupgrade.it##td[style="padding-left:10px; width:300px;"]
 gommeblog.it##td[style="width: 305px; height: 251px; text-align: center;"]
 gommeblog.it##td[style="width: 335px; height: 251px; text-align: center;"]
+clubalfa.it##td[width="305"][height="205"]
+clubalfa.it##td[width="310"][height="255"]
 ! Anti-Adblock
 tomshw.it###notifica_adcont
 termometropolitico.it##[id^="bsa"]
