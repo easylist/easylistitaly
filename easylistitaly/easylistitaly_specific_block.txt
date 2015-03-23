@@ -782,6 +782,7 @@
 ||orvietosi.it^*298x100.swf
 ||ostiatv.it/upl/banner
 ||oxfordparavia.it/img/babylon.gif
+||p.italia-film.org^
 ||padovanews.it/images/banners/
 ||paeimprese.it^*/downloadfilebanner.php?
 ||palermomania.com/images/banner/
