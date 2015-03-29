@@ -113,5 +113,6 @@
 @@||tvgratis.altervista.org^*/advertisement.js
 @@||vvvvid.it/img/advertisement.jpg?
 @@||vvvvid.it/img/advertisment.jpg?
+@@||webtvhd.com^$elemhide
 @@||zeb89.altervista.org^$elemhide
 @@||zeb89.altervista.org^*#$image
