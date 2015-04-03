@@ -99,7 +99,7 @@ contosulconto.it###banner_content
 tuttobasket.net###banner_head
 laprovinciadicomo.it###banner_header
 palermomania.it###banner_header2
-tuttosport.com###banner_leaderboard
+subito.it,tuttosport.com###banner_leaderboard
 lastampa.it###banner_maxticker
 html.it###banner_piede_articolo
 paginegialle.it###banner_pushbar
