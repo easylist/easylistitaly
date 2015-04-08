@@ -108,6 +108,7 @@
 ||locandinebest.net/locandina/$subdocument,third-party
 ||macrolibrarsi.it/banners/
 ||macrolibrarsi.org/banner/
+||macrolibrarsi.s3.amazonaws.com/img/banner_partner/
 ||mediaon.it/objects/deal_list/
 ||mmvid.s3.amazonaws.com^
 ||mondojuventus.it^$third-party
