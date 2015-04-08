@@ -110,6 +110,7 @@
 ##.tabellaPubblicita
 ##.tccbanner
 ##.view-pubblicita
+##a[href^="//w.linkwelove.it/urls/"]
 ##a[href^="http://adserver.html.it/"]
 ##a[href^="http://adserver.ilmessaggero.it/"]
 ##a[href^="http://crazylead.com/video/"]
