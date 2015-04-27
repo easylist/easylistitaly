@@ -203,6 +203,8 @@ xvideoscopate.com###footertop
 lega-pro.com###fpssContainer381
 ansa.it###fwnetC300
 ilcap.it###gadsense
+mondoplay.it###gameBlock_amazon
+mondoplay.it###gameBlock_amazon_noboxart
 rdf.it###gkBanner2
 paginegialle.it###glamoo-box
 telefonino.net###google300x250
