@@ -255,6 +255,7 @@ viterbopost.it###manchette-sx
 laroma24.it###marketingRotator
 it.msn.com###markette
 max.rcs.it###max_ppn
+ilfattoquotidiano.it###meetic_quad
 itespresso.it###megabanner
 metalitalia.com###middle-home
 mymovies.it###middle1_companion
