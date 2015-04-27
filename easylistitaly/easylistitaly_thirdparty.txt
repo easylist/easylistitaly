@@ -33,8 +33,7 @@
 ||blogspot.com^*/download_728.gif
 ||blogspot.com^*/download_728_2.gif
 ||blogspot.com^*/downloadnow_it_468.png
-||booking.com/general.html?$subdocument,domain=quattroruote.it|tuttobaviera.it
-||booking.com^*;tmpl=banners;$subdocument,domain=trombodromo.com
+||booking.com^$subdocument,domain=iltempo.it|quattroruote.it|trombodromo.com|tuttobaviera.it
 ||booking.fioccovacanze.it^$third-party
 ||bt.rcs.it^
 ||caniaddestrati.org^$third-party
