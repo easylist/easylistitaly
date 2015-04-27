@@ -745,6 +745,7 @@
 ||newslinet.it^*/banner_
 ||newslinet.it^*_247x56.gif
 ||newz.it^*/sponsor/
+||nocturno.it^*/banner/
 ||noiporno.com/slide/
 ||nordesteuropa.it^*/adv/
 ||notebookitalia.it/images/stories/*_wallpaper_jpg.jpg
