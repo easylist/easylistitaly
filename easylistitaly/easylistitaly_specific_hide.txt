@@ -118,6 +118,8 @@ freemodding.it###bannerini
 cwi.it###banners
 siracusanews.it###banners-top
 si24.it###banners_middle
+linguee.it###banners_right
+linguee.it###banners_top
 cmnews.it###bannersdx
 telefonino.net###bannerstrip
 stadiotardini.it###bannertesta
