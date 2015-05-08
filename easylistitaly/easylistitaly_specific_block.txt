@@ -571,6 +571,7 @@
 ||julienews.it/upload/banner/
 ||juventus.com^*/bannerscene?
 ||juventus.com^*/sponsor_
+||kisskissnapoli.it/images/banners/
 ||kveeniland.com/dwnd.png
 ||kveeniland.com/guarda.png
 ||kveeniland.com/scarica.png
