@@ -794,6 +794,7 @@ ciao.it##.tableSponsLinks
 genova24.it,ivg.it##.takeover
 panorama.it##.teaser-immobiliare
 tiscali.it##.teaserDx
+edidomus.it##.telecamera-address
 ansa.it##.text-link
 excite.it##.textlink_content
 ilfattonisseno.it##.top
