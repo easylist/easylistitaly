@@ -838,6 +838,7 @@ allandroidnews.it##.wp_skyscraper_c2
 bergamosera.com##.wpbrbanner
 petizionionline.it##.yahoo
 notizie.it##.yahoo-white-bg
+millecanali.it##.zedo
 cittaceleste.it##.zodiak
 windowsblogitalia.com##[id^="bsa"]
 tgcom24.mediaset.it##a[href*=".ad.dotandad.com/clicktracker.jsp?"]
