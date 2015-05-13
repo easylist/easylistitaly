@@ -863,6 +863,7 @@
 ||radioglobo.it/img/bg/bg_
 ||radiogold.it/images/banners/
 ||radiogold.it^*/banner/
+||radioitalianetwork.fm/images/banners/
 ||radiomanamana.it/stylerays.png
 ||radiomanamana.it/universita_on_line.jpg
 ||radiomanamana.it^*/skin-radiomana.png
