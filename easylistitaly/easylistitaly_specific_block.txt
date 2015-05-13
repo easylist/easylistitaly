@@ -160,6 +160,7 @@
 ||cdvweb.it^*/downloadfilebanner.php?
 ||centrometeo.com^*/banner_
 ||centrometeoitaliano.it/images/portaguelfa.jpg
+||centrosuono.com^*/banners/
 ||centrosuonosport.com/images/banners/
 ||cercocamion.com/banner/
 ||cheauto.it/asset/img/prestitionline.gif
