@@ -398,6 +398,7 @@ oggitreviso.it###views-banner_pop_up-95-926
 lattemiele.com###vipre
 italpress.com###virgilio-banner
 lastampa.it###webdoc_sponsor
+transfermarkt.it###werbung_superbanner
 internazionale.it###wideSkinWrapper
 italiaoggi.it,milanofinanza.it###widget_ticketcrociere
 animeclick.it###wrapper
@@ -822,7 +823,8 @@ vivastreet.it##.vs-summary-300x250
 tiscali.it##.w304.mB20
 tiscali.it##.w312.mB25
 algheroeco.com##.wallpaper-link
-fc-suedtirol.com##.werbung
+fc-suedtirol.com,transfermarkt.it##.werbung
+transfermarkt.it##.werbung-skyscraper
 gazzettadinapoli.it##.widget-12
 gazzettadiavellino.it##.widget-4
 gazzettadinapoli.it,gazzettadisalerno.it##.widget-5
