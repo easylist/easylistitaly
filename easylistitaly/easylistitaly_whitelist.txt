@@ -105,6 +105,7 @@
 @@||codeclan.altervista.org^$elemhide
 @@||dataok.altervista.org^$elemhide
 @@||hostingtv.org^$elemhide
+@@||italiatv.org/advertisement.js
 @@||italiatv.org^$elemhide
 @@||mtv.it/advertisement.js
 @@||naturaselvaggia2.altervista.org^$elemhide
