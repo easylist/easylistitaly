@@ -488,6 +488,7 @@ telesud3.com##.banner-destra-tyf
 algheroeco.com##.banner-header-dx
 algheroeco.com##.banner-header-sx
 genova24.it,ivg.it##.banner-middle-board
+corrieredinovara.com##.banner-mix
 ilikepuglia.it##.banner-placeholder
 milanofinanza.it##.banner-sfondo
 telesud3.com##.banner-sidebar
@@ -841,6 +842,8 @@ allandroidnews.it##.wp_skyscraper_c2
 bergamosera.com##.wpbrbanner
 petizionionline.it##.yahoo
 notizie.it##.yahoo-white-bg
+corrieredinovara.com##.z-banner
+corrieredinovara.com##.z-bannerpub
 millecanali.it##.zedo
 cittaceleste.it##.zodiak
 windowsblogitalia.com##[id^="bsa"]
