@@ -21,6 +21,8 @@
 ###adv-skin-colonnasx
 ###advAutopromo1
 ###advAutopromo2
+###adv_ManchetteDx
+###adv_ManchetteSx
 ###adv_annuncio_promo_1
 ###adv_gda
 ###adv_in_post
