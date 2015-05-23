@@ -89,6 +89,7 @@
 ##.googleAnnunci
 ##.home-rubriche-adv
 ##.inews_adv_top
+##.jadv_leoadv_pd
 ##.linksponsorizzati
 ##.modPubblicita
 ##.post_pubblicita
