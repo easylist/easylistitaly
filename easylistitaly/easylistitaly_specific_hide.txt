@@ -921,6 +921,7 @@ horsemoonpost.com##div[style="margin: 0 auto; width: 728px; height: 90px; backgr
 donnamoderna.com##div[style="margin: 10px 0px 0px 0px; padding: 0px 15px 9px 15px; width: 285px; height:90px; background-image:url('http://www.donnamoderna.com/extension/donnamoderna/design/donnamoderna/images/bg-immobiliare.png'); background-repeat: no-repeat; "]
 globalist.it##div[style="margin: 5px 0;padding: 9px; border: 1px solid #ccc; zoom:1;overflow:hidden;height:80px;width:280px;font: normal 12px/14px arial, sans-serif"]
 ultimissime.net##div[style="margin:auto; background-image:url('/images/stories/professionecasinO.jpg'); height: 153px; width: 287px"]
+fantagazzetta.com##div[style="max-width:300px;width:300px;min-height:250px;height:250px; height: auto !important"]
 serviziopubblico.it##div[style="min-height:90px;"]
 agichina24.it##div[style="overflow: hidden; width: 459px; height: 27px;"]
 liguriawebcam.com##div[style="overflow:hidden;height:90px;margin:4px 0;"]

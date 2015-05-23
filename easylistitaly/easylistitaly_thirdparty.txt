@@ -70,6 +70,7 @@
 ||enoleggioauto.it/affiliatexmlstylesheets/
 ||eurobet.it/adynit/$third-party
 ||excite.it/ad/
+||fantagenius.com^*/banner/
 ||favolefantasia.com/banner/
 ||feed.yoodeal.net^
 ||fideliux.com/fideliux/banners/
