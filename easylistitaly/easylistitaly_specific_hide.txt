@@ -1000,6 +1000,7 @@ affaritaliani.it##div[style="width:300px;height:200px;border:solid 5px #afb2b4 ;
 dday.it##div[style="width:300px;height:250px"]
 ticinolibero.ch##div[style="width:300px;height:250px;margin-bottom:10px"]
 amazon.it##div[style="width:300px;height:280px;"]
+calciomercato.it##div[style="width:300px;min-height:255px"]
 strettoweb.com##div[style="width:307px; height:250px; text-align:left; margin:0 0 5px 5px; float:right;"]
 film-review.it,fullhd.it##div[style="width:308px; margin-left: 4px; height:260px;text-align: center;display:block;margin-top:10px;margin-bottom:10px;"]
 film-review.it##div[style="width:308px;height:260px;text-align: center;display:block;margin-top:10px;margin-bottom:10px;margin-left:3px;"]
