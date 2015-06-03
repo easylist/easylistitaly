@@ -1025,7 +1025,10 @@
 ||telestense.it/wp-content/banners/
 ||telesud3.com/banner/
 ||telesud3.com/images/banner/
+||telmi.it/images/brennercom-
 ||telmi.it/images/btb_pittogramma.png
+||telmi.it/images/geoliving-
+||telmi.it/images/quifoto-
 ||temi-wordpress.net/wp-content/plugins/maxblogpress-unblockable-popup/
 ||tempoitalia.it/banner/
 ||tenews.it/banner/
