@@ -570,7 +570,7 @@ nonsolocinema.com##.banners
 ilquotidianofvg.it##.banners-125
 cremonaoggi.it##.bannersx
 album-mmt.it,musictory.it##.bannertop
-corrieredilatina.it,gazzettadiparma.it##.bannervcms
+corrieredilatina.it,gazzettadiparma.it,ilquotidianoweb.it##.bannervcms
 ticinolive.ch##.bannerwrap
 romagiornoenotte.it##.basebannerBox
 wallstreetitalia.com##.bestbuybiz
