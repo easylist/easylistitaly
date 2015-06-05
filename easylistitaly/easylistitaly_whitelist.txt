@@ -20,6 +20,8 @@
 @@||antonioranesi.it/cache/Lavori/Pubblicita/$~third-party
 @@||areanapoli.it/adv/fb-fan-box.html?$subdocument
 @@||banneradmin.rai.it/crossdomain.xml$object-subrequest
+@@||betrad.com/geo/h1.js$domain=corriere.it|gazzetta.it
+@@||betrad.com/pub/c/*.js$domain=corriere.it|gazzetta.it
 @@||cdn-wx.rainbowtgx.com/*/adaptive-content/js/speweb-001.js$domain=quotidiano.net
 @@||centrosangiorgio.com^*_pubblicita.
 @@||centrosangiorgio.com^*_pubblicita/
