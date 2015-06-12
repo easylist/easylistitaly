@@ -249,8 +249,7 @@
 ||digisesso.com/images/transparent.gif
 ||digisesso.com:81/images/transparent.gif
 ||digital-forum.it/bannerdtt/
-||digital-sat.it/ds_mpppv/
-||digital-sat.it/img/banner/
+||digital-news.it/img/banner/
 ||dimmidipiu.com/ddpfiles/adv/
 ||dimmidipiu.com/ddpfiles/bannerslides^
 ||dimmidipiu.com/images/banners/

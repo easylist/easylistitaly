@@ -263,6 +263,7 @@ metalitalia.com###middle-home
 mymovies.it###middle1_companion
 udinese.it###mod-udinese-sponsor-panel-fulllength
 ciao.it###mod_ph_merchoffer
+digital-news.it###mp
 105.net,red-live.it###mpu
 ebay.it###mpu-container
 vivicool.it###navpages
@@ -350,7 +351,6 @@ autoxy.it###subito-sponsor
 html.it###suggested-links
 lavoripubblici.it###superBanner
 hdblog.it###sx
-digital-sat.it###sx_basso_topsx
 diretta.it###tab-bonus-offers
 diretta.it###tab-odds
 ilgiornale.it###tab_annunci
@@ -490,8 +490,9 @@ algheroeco.com##.banner-header-sx
 genova24.it,ivg.it##.banner-middle-board
 corrieredinovara.com##.banner-mix
 ilikepuglia.it##.banner-placeholder
+digital-news.it##.banner-separazione
 milanofinanza.it##.banner-sfondo
-telesud3.com##.banner-sidebar
+digital-news.it,telesud3.com##.banner-sidebar
 panorama.it##.banner-spalla-dx
 farevela.net,forum-macchine.it,milanofinanza.it##.banner-top
 ilcapoluogo.com,latinaoggi.net##.banner1
@@ -539,9 +540,8 @@ finanzaonline.com##.banner_bg
 borsainside.com##.banner_bottom_post
 softonic.it##.banner_box
 voceditalia.it##.banner_casino2
-digital-sat.it##.banner_centrale
 parmasera.it,piacenzasera.it##.banner_doc_bottom_foto
-digital-sat.it,finanza.com,ilgiornaledireggio.it,motori24.ilsole24ore.com##.banner_dx
+finanza.com,ilgiornaledireggio.it,motori24.ilsole24ore.com##.banner_dx
 ilfattonisseno.it##.banner_flusso
 ecodibergamo.it,ilcittadinomb.it,laprovinciadicomo.it,laprovinciadivarese.it##.banner_footer
 parmasera.it,piacenzasera.it##.banner_globaltop
