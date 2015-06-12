@@ -234,6 +234,7 @@ r101.it###innamorarsiA101
 sportstadio.it###iol-partners
 cittaceleste.it,juvenews.eu###itemBannerSottoImg
 unita.it###ixeBanner
+lercio.it###kadv_13020
 prowrestling.it###landingbanner
 lercio.it,macitynet.it###leader-wrapper
 boomerangtv.it,discoverychannel.it,dissacration.com,ebay.it,eurogamer.it,fiscaleweb.com,geekissimo.com,gingerandtomato.com,healthdesk.it,historychannel.it,ilcinemaniaco.com,ilgazzettinovesuviano.com,ilsannioquotidiano.it,iochiamo.com,lasiciliaweb.it,lussuosissimo.com,medicinalive.com,mondoreality.com,musickr.it,skiinfo.ch,skiinfo.it,theapplelounge.com###leaderboard
