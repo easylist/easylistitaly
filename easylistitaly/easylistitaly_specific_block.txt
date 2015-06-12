@@ -152,6 +152,7 @@
 ||campioni.cn^*/670x60_
 ||canali16.altervista.org/calcio.html
 ||casaeclima.com/images/banners/
+||casaportale.com/ImagesHandler.aspx?imagename=http://www.casaportale.com/public/uploads/
 ||casaportale.com/public/uploads/
 ||casateonline.it/public/banner/
 ||casedipiacere.it/images/banners/
@@ -266,6 +267,7 @@
 ||ecodallecitta.it/video/menorifiuti_120x120.swf
 ||ecoseven.net/img/banner/
 ||ecostiera.it^*/banner/
+||edilportale.com/immagini/velux_manchette
 ||ehgoo.com/banner/
 ||elaborare.com/Skin-
 ||elaborare.info/forum/vbulletin/images/sfondo.jpg

@@ -420,6 +420,7 @@ liberoquotidiano.it##.BannerHead
 metropolisweb.it##.BannerMezzoNotizia
 primopianomolise.it##.Banner_Modulabile
 nqnews.it##.Banner_box
+edilportale.com##.BigSquare
 viterbonews24.it##.CON-fascia-alto-banner
 ciao.it##.CWContainerComparePrice
 iltempo.it##.DCLS4
@@ -496,6 +497,7 @@ milanofinanza.it##.banner-sfondo
 digital-news.it,telesud3.com##.banner-sidebar
 panorama.it##.banner-spalla-dx
 farevela.net,forum-macchine.it,milanofinanza.it##.banner-top
+edilportale.com##.banner-velux
 ilcapoluogo.com,latinaoggi.net##.banner1
 ecodallecitta.it,ilcapoluogo.com,latinaoggi.net,pianetacellulare.it##.banner2
 erbanotizie.com,lecconotizie.com##.banner234x60-right
@@ -614,6 +616,7 @@ edilportale.com##.click-Skin
 lacrocequotidiano.it##.column-banner
 tripadvisor.it##.commerce
 saggiamente.com##.consigliati
+edilportale.com##.cont-leaderBoard
 gazzettavvisionline.it##.cont_Leaderboard
 leccesette.it##.cont_banner
 gazzetta.it##.contain-sisal-magicup
