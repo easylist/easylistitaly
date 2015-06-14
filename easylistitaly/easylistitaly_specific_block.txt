@@ -940,6 +940,7 @@
 ||salernonotizie.net^*_banner_
 ||sampdoria.it/images/banners/
 ||samspot.softairmania.it^
+||sanfrancescopatronoditalia.it/banner/
 ||sanmarinofixing.com/smfixing/images/banners/
 ||sanmarinoworld.sm/custom/home/$object
 ||sanmarinoworld.sm/img/home/
