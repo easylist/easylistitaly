@@ -246,6 +246,7 @@ dagospia.com###left-160x90
 lecconotizie.com###left-domination
 mailbeta.libero.it###leftBoxIFrame
 veronica.it###leftSkin
+prezzibenzina.it###left_banner
 megalab.it###left_skyscraper
 funweek.it###libero_col_dx
 telesud3.com###linkamici
