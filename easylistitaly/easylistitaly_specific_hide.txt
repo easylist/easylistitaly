@@ -45,7 +45,7 @@ libero.it###b468x60bottoms
 calciomercato.com###background_left
 calciomercato.com###background_right
 lastampa.it###badge
-advertiser.it,asylumitalia.it,bitcity.it,car4you.it,forzapescara.net,grandefratellonews.com,meteo-emiliaromagna.it,rvuno.it,tendenzeonline.info,webpedia.altervista.org###banner
+advertiser.it,asylumitalia.it,bitcity.it,car4you.it,forzapescara.net,grandefratellonews.com,meteo-emiliaromagna.it,piratestreaming.co,rvuno.it,tendenzeonline.info,webpedia.altervista.org###banner
 radiozeta.it,serviziopubblico.it###banner-1
 radiozeta.it###banner-2
 gustissimo.it###banner-alto
@@ -872,6 +872,7 @@ catania46.net##a[href^="http://www.clickpoint.it/db/goto.cp?"]
 filmsenzalimiti.co##a[href^="http://www.filmsenzalimiti.co/4k/"]
 musicoff.com##a[href^="http://www.musicoff.com/ad/redirect/"]
 zapster.it##a[href^="http://www.paperbox.it/"]
+piratestreaming.co##a[href^="http://www.piratestreaming.co/4k-serie/"]
 piratestreaming.co##a[href^="http://www.piratestreaming.co/4k/"]
 piratestreaming.com##a[href^="http://www.piratestreaming.com/video"]
 classifichemusica.com##a[href^="http://www.viagogo.it/Biglietti-Concerti?affiliateID="]
