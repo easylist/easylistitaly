@@ -585,6 +585,7 @@ losportivo.sm##.bg_blocchi
 corrieredilatina.it,corriereromagna.it,ilmattinodifoggia.it,lanuovaprimapagina.it##.bgbanner
 libero.it##.big
 youreporter.it##.bigrectangle600
+ladige.it##.block--dfp
 ilgiornale.it##.block-ilg-adsense
 ilroma.net##.block-rotating-banner
 ilcapoluogo.com##.block-view-bannerSlide
