@@ -232,6 +232,7 @@ avvenire.it###htmlcomponent18 > .boxAggiuntivi
 ladige.it,panorama.it###immob_box_ricerca
 r101.it###innamorarsiA101
 sportstadio.it###iol-partners
+quifinanza.it###iol_dfp_local
 cittaceleste.it,juvenews.eu###itemBannerSottoImg
 unita.it###ixeBanner
 lercio.it###kadv_13020
@@ -1082,6 +1083,7 @@ hbritalia.it##img[width="180"][height="90"]
 romanews.eu##img[width="250"][height="90"]
 automobili.it##img[width="256"][height="170"]
 parmaquotidiano.info##img[width="290"][height="90"]
+quifinanza.it##img[width="300"][height="120"]
 romanews.eu##img[width="300"][height="150"]
 radioinblu.it##img[width="300"][height="200"]
 radioinblu.it,radiolombardia.it,siciliainrosa.it##img[width="300"][height="250"]
