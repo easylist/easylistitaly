@@ -49,6 +49,7 @@
 ||cmstorage.it/public/skin/
 ||connect24.it/fot468.gif
 ||contactlab.it^*/Banner/
+||corriere.it/coupon/
 ||creativita.gsf.rcs.it^
 ||d1a6pzosbglc5p.cloudfront.net^
 ||d1n2y2eq1wbato.cloudfront.net^*/sponsor-$domain=atalanta.it
