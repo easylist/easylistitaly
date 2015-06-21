@@ -67,8 +67,8 @@
 @@||pad.mymovies.it/v9/adv/media/preroll/*.flv$object-subrequest
 @@||paesesera.it/design/paesesera/stylesheets/advertising.css
 @@||pagead2.googlesyndication.com/pagead/googlevideoadslibrary.swf$object-subrequest,domain=giochidicalcio.com
-@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=windowsblogitalia.com
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=windowsblogitalia.com
+@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=unmondodibaci.it|windowsblogitalia.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=unmondodibaci.it|windowsblogitalia.com
 @@||pagead2.googlesyndication.com/pagead/scache/googlevideoads.swf$object-subrequest,domain=giochidicalcio.com
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=dbplanet.net|ipaditalia.com|iphoneitalia.com
 @@||panorama.it/adv/$image
@@ -101,7 +101,7 @@
 @@||webmail.virgilio.it/cp/bannervirgilio/$subdocument
 ! Anti-Adblock
 @@.gif#$domain=naturaselvaggia2.altervista.org
-@@.png#$domain=codeclan.altervista.org|italiatv.org|naturaselvaggia2.altervista.org
+@@.png#$domain=codeclan.altervista.org|italiatv.org|naturaselvaggia2.altervista.org|unmondodibaci.it
 @@||bagniproeliator.it^$elemhide
 @@||blogspot.com^*#$image,domain=dataok.altervista.org
 @@||codeclan.altervista.org^$elemhide
@@ -114,6 +114,7 @@
 @@||tvgratis.altervista.org^$elemhide
 @@||tvgratis.altervista.org^*#$image
 @@||tvgratis.altervista.org^*/advertisement.js
+@@||unmondodibaci.it^$elemhide
 @@||vvvvid.it/img/advertisement.jpg?
 @@||vvvvid.it/img/advertisment.jpg?
 @@||webtvhd.com^$elemhide
