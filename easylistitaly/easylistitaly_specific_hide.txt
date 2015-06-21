@@ -305,6 +305,7 @@ sapere.it###s24box1
 sapere.it###s24box2
 sapere.it###s24square
 gelocal.it###s3slider
+cinafoniaci.com###s5_top_row2_area1
 sampdoria.it###samppromorow
 samp.tv###samptvsponsor
 trombodromo.com###searchboxInc
