@@ -120,6 +120,10 @@
 ||bergamoesport.it^*/sponsor/
 ||bergamonews.it/agp/
 ||bergamosera.com^*/wp-banners/
+||beverfood.com^*650x80b
+||beverfood.com^*banner
+||beverfood.com^*orizontalea
+||beverfood.com^*wallpaper
 ||bikeracing.it/bannersbk.jpg
 ||bikeracing.it/sfondo.jpg
 ||bitmat.it^*/downloadfilebanner.php?

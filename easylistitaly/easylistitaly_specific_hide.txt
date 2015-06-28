@@ -44,6 +44,7 @@ libero.it###b468x60bottoms
 242movietv.com###back_inside
 calciomercato.com###background_left
 calciomercato.com###background_right
+beverfood.com###backy
 lastampa.it###badge
 advertiser.it,asylumitalia.it,bitcity.it,car4you.it,forzapescara.net,grandefratellonews.com,meteo-emiliaromagna.it,piratestreaming.co,rvuno.it,tendenzeonline.info,webpedia.altervista.org###banner
 radiozeta.it,serviziopubblico.it###banner-1
@@ -1094,8 +1095,9 @@ parmaquotidiano.info##img[width="290"][height="90"]
 quifinanza.it##img[width="300"][height="120"]
 romanews.eu##img[width="300"][height="150"]
 radioinblu.it##img[width="300"][height="200"]
-radioinblu.it,radiolombardia.it,siciliainrosa.it##img[width="300"][height="250"]
+beverfood.com,radioinblu.it,radiolombardia.it,siciliainrosa.it##img[width="300"][height="250"]
 romanews.eu##img[width="300"][height="300"]
+beverfood.com##img[width="300"][height="600"]
 milanofinanza.it##img[width="300"][height="76"]
 ilsaronno.it##img[width="300px"][height="250px"]
 gazzettadinapoli.it##img[width="460"][height="60"]
@@ -1103,6 +1105,7 @@ gazzettadisalerno.it##img[width="468"][height="60"]
 mmorpgitalia.it##img[width="500"][height="122"]
 tuttoshoppingmotori.com##img[width="610px;"]
 romanews.eu##img[width="630"][height="80"]
+beverfood.com##img[width="650"][height="320"]
 hbritalia.it##img[width="728"][height="90"]
 spaziomilan.it##img[width="900"][height="60"]
 animeclick.it##img[width="997"][height="108"]
