@@ -979,6 +979,7 @@ incircolo.altervista.org##div[style="width: 300px; height: 260px; margin-top: 10
 blogo.it##div[style="width: 300px;height: 250px;"]
 dtti.it##div[style="width: 336px; height: 280px; padding: 1px 1px 1px 0; float: left; margin-left: 0; margin-right: 18px;"]
 articolotre.com##div[style="width: 500px; min-height: 50px; border-bottom: 1px dotted rgb(205, 23, 19); padding: 0px 0px 5px; margin: 0px; background-color: rgb(232, 239, 252);"]
+latribuna.sm##div[style="width: 559px; height: 100px; margin: 10px auto 0px; visibility: visible;"]
 regginacalcio.com##div[style="width: 702px; height:300px; border: 4px solid #fff; margin-bottom: 0px;"]
 foxlife.it##div[style="width: 728px; height: 90px; margin: 0px auto 10px auto; background:none;"]
 videohifi.com##div[style="width: 740px;height: 110px;"]
