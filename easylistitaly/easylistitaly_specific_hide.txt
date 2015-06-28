@@ -96,6 +96,7 @@ corrierediragusa.it###banner_bg_flash
 primaonline.it###banner_bottom
 si24.it###banner_branciforte
 contosulconto.it###banner_content
+lnd.it###banner_hack
 tuttobasket.net###banner_head
 laprovinciadicomo.it###banner_header
 palermomania.it###banner_header2
@@ -785,6 +786,7 @@ milanofinanza.it##.sponsor-red
 erbanotizie.com,lecconotizie.com##.sponsor-rubrica
 viterbopost.it##.sponsorA
 treccani.it##.sponsorLogo
+lnd.it##.sponsorPage
 tuttosport.com##.sponsor_peroni
 gazzetta.it,wired.it##.sponsored
 fc-suedtirol.com##.sponsorliste
