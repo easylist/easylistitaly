@@ -504,6 +504,7 @@ digital-news.it,telesud3.com##.banner-sidebar
 panorama.it##.banner-spalla-dx
 farevela.net,forum-macchine.it,milanofinanza.it##.banner-top
 edilportale.com##.banner-velux
+milanofinanza.it##.banner-video
 ilcapoluogo.com,latinaoggi.net##.banner1
 ecodallecitta.it,ilcapoluogo.com,latinaoggi.net,pianetacellulare.it##.banner2
 erbanotizie.com,lecconotizie.com##.banner234x60-right

@@ -721,6 +721,7 @@
 ||milanofinanza.it/common/home/mf/img/xtb-IT-METATRADER_ACADEMY-197x55.gif
 ||milanofinanza.it/common/home/mf/img/xtb-IT-METATRADER_ACADEMY-2-197x55.gif
 ||milanofinanza.it/common/home/mf/img/xtbxtradebrokers.gif
+||milanofinanza.it/img/adv_
 ||milanofinanza.it/img/logo_zurich-connect.gif
 ||milanofinanza.it/img/speciali/
 ||milanofinanza.it^*/promo/
