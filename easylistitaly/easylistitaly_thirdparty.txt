@@ -56,6 +56,7 @@
 ||d1n2y2eq1wbato.cloudfront.net^*/sponsor-$domain=atalanta.it
 ||d1oaxhr280l1ho.cloudfront.net^
 ||d2moz0h55szev9.cloudfront.net^
+||debriditalia.com/images/$third-party
 ||delosstore.it/banner/
 ||digisesso.com/img/incesti.gif
 ||dipalermo.it/iii.html
