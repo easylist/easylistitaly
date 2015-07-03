@@ -91,12 +91,17 @@ spaziogames.it###banner_300
 cronachemaceratesi.it###banner_300x250
 ilsannioquotidiano.it###banner_468_60
 lastampa.it###banner_VideoBox
+agonchannel.it###banner_agon_palinsesto
+agonchannel.it###banner_agon_seconda_fascia
+agonchannel.it###banner_agon_sidebar_bottom
+agonchannel.it###banner_agon_sidebar_top
 sportal.it###banner_alto_dx
 sportal.it###banner_alto_sx
 corrierediragusa.it###banner_bg_flash
 primaonline.it###banner_bottom
 si24.it###banner_branciforte
 contosulconto.it###banner_content
+agonchannel.it###banner_fascia_top
 lnd.it###banner_hack
 tuttobasket.net###banner_head
 laprovinciadicomo.it###banner_header
