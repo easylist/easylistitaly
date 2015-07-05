@@ -29,6 +29,7 @@
 ||banzaiadv.it^$third-party
 ||beead.it^$third-party
 ||buyon.it^$third-party
+||clacson24.com^$third-party
 ||clickadv.it^$third-party
 ||clickpoint.it^$third-party
 ||crmpilot.it^$third-party

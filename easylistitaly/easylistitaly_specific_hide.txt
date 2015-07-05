@@ -120,7 +120,6 @@ ilcorrieredabruzzo.it###banner_testata
 ilcorrieredabruzzo.it###banner_testata_1004x114
 lastampa.it,newsfood.com,primaonline.it,primissima.it,qds.it###banner_top
 gameplayer.it###banner_up_right
-liberoquotidiano.it###bannerbox1
 freemodding.it###bannerini
 cwi.it###banners
 siracusanews.it###banners-top
@@ -427,7 +426,6 @@ foxsports.it##.Adtext
 hostingtalk.it##.Banner
 lavoratorio.it##.BannerAltoHP
 primopianomolise.it##.BannerDinamico
-liberoquotidiano.it##.BannerHead
 metropolisweb.it##.BannerMezzoNotizia
 primopianomolise.it##.Banner_Modulabile
 nqnews.it##.Banner_box
@@ -542,7 +540,6 @@ lavocedelpopolo.net##.banner_210
 ilquotidianodellacalabria.it##.banner_234x90
 spaziofilm.it##.banner_300
 ilmattinodifoggia.it##.banner_300x250_3
-liberoquotidiano.it##.banner_300x250_colonna_6
 everyeye.it##.banner_600_new
 lavocedelpopolo.net##.banner_728
 ottopagine.net##.banner_990_90
@@ -588,7 +585,7 @@ nonsolocinema.com##.banners
 ilquotidianofvg.it##.banners-125
 cremonaoggi.it##.bannersx
 album-mmt.it,musictory.it##.bannertop
-corrieredilatina.it,gazzettadiparma.it,ilquotidianoweb.it##.bannervcms
+corrieredilatina.it,gazzettadiparma.it,ilquotidianoweb.it,liberoquotidiano.it##.bannervcms
 ticinolive.ch##.bannerwrap
 romagiornoenotte.it##.basebannerBox
 wallstreetitalia.com##.bestbuybiz
@@ -611,7 +608,6 @@ omniauto.it##.box.gradient[style="height:270px!important; min-height:270px"]
 tiscali.it##.boxBanner
 ilsoftware.it##.boxDXa.txt3
 chip.it##.boxHardware
-liberoquotidiano.it##.box_12
 milaninterradio.tv##.box_300_250
 tuttosport.com##.box_Banner
 tuttosport.com##.box_LeaderBoard
