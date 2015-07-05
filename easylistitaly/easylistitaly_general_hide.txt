@@ -79,6 +79,7 @@
 ##.advricaricamediamond
 ##.av-banner-728X90
 ##.banner_altervista_300X250
+##.bannervcms
 ##.barraSipra
 ##.blocco_servizi_sponsor
 ##.box-pubblicita
