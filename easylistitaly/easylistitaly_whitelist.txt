@@ -2,8 +2,6 @@
 @@||ad.smartclip.net/crossdomain.xml$object-subrequest,domain=serviziopubblico.it
 @@||ad.smartclip.net/delivery/tag?$object-subrequest,domain=serviziopubblico.it
 @@||ad2.neodatagroup.com/uploads/js/sid49jq.js$domain=rai.it|rai.tv|rainews.it
-@@||adcash.com/ad/display.php?$script,domain=italiatv.org
-@@||adcash.com/ban/*_468x60_$image,domain=italiatv.org
 @@||adimg.matrixspa.it/cookie_script/read_crt.html$domain=webmail.virgilio.it
 @@||adimg.matrixspa.it/jsc/advManage.js$domain=webmail.virgilio.it
 @@||adnkronos.com/ign/mediacenter/fotogallery/data_01/img/ad_
@@ -25,7 +23,6 @@
 @@||banneradmin.rai.it/crossdomain.xml$object-subrequest
 @@||betrad.com/geo/h1.js$domain=corriere.it|gazzetta.it
 @@||betrad.com/pub/c/*.js$domain=corriere.it|gazzetta.it
-@@||cashtrafic.info/ban/*_468x60_$image,domain=italiatv.org
 @@||cdn-wx.rainbowtgx.com/*/adaptive-content/js/speweb-001.js$domain=quotidiano.net
 @@||centrosangiorgio.com^*_pubblicita.
 @@||centrosangiorgio.com^*_pubblicita/
@@ -49,8 +46,6 @@
 @@||google.com/adsense/search/ads.js$domain=zoover.ch|zoover.it
 @@||ilfattoquotidiano.it/wp-content/themes/ilfatto/thumb/*_pubblicita_*.jpg
 @@||impit.tradedoubler.com/imp?$subdocument,domain=iphoneitalia.com
-@@||italiatv.org^$elemhide
-@@||italiatv.org^$script
 @@||js.neodatagroup.com/uploads/js/rds.js$domain=rds.it
 @@||js49.adagionet.com/uploads/js/sipra.js$domain=rai.it|rai.tv|rainews.it
 @@||labs.ebuzzing.it/blogs/top/getrank?$image
@@ -107,16 +102,22 @@
 @@||webmail.virgilio.it/cp/bannervirgilio/$subdocument
 ! Anti-Adblock
 @@.gif#$domain=naturaselvaggia2.altervista.org
+@@.jpg#$domain=riparodasolo.altervista.org
 @@.png#$domain=codeclan.altervista.org|italiatv.org|naturaselvaggia2.altervista.org|unmondodibaci.it
+@@||adcash.com/ad/display.php?$script,domain=italiatv.org
+@@||adcash.com/ban/*_468x60_$image,domain=italiatv.org
 @@||bagniproeliator.it^$elemhide
 @@||blogspot.com^*#$image,domain=dataok.altervista.org
+@@||cashtrafic.info/ban/*_468x60_$image,domain=italiatv.org
 @@||codeclan.altervista.org^$elemhide
 @@||dataok.altervista.org^$elemhide
 @@||hostingtv.org^$elemhide
 @@||italiatv.org/advertisement.js
 @@||italiatv.org^$elemhide
+@@||italiatv.org^$script
 @@||mtv.it/advertisement.js
 @@||naturaselvaggia2.altervista.org^$elemhide
+@@||riparodasolo.altervista.org^$elemhide
 @@||tvgratis.altervista.org^$elemhide
 @@||tvgratis.altervista.org^*#$image
 @@||tvgratis.altervista.org^*/advertisement.js
