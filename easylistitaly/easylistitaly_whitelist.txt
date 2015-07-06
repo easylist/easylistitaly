@@ -2,6 +2,8 @@
 @@||ad.smartclip.net/crossdomain.xml$object-subrequest,domain=serviziopubblico.it
 @@||ad.smartclip.net/delivery/tag?$object-subrequest,domain=serviziopubblico.it
 @@||ad2.neodatagroup.com/uploads/js/sid49jq.js$domain=rai.it|rai.tv|rainews.it
+@@||adcash.com/ad/display.php?$script,domain=italiatv.org
+@@||adcash.com/ban/*_468x60_$image,domain=italiatv.org
 @@||adimg.matrixspa.it/cookie_script/read_crt.html$domain=webmail.virgilio.it
 @@||adimg.matrixspa.it/jsc/advManage.js$domain=webmail.virgilio.it
 @@||adnkronos.com/ign/mediacenter/fotogallery/data_01/img/ad_
@@ -23,6 +25,7 @@
 @@||banneradmin.rai.it/crossdomain.xml$object-subrequest
 @@||betrad.com/geo/h1.js$domain=corriere.it|gazzetta.it
 @@||betrad.com/pub/c/*.js$domain=corriere.it|gazzetta.it
+@@||cashtrafic.info/ban/*_468x60_$image,domain=italiatv.org
 @@||cdn-wx.rainbowtgx.com/*/adaptive-content/js/speweb-001.js$domain=quotidiano.net
 @@||centrosangiorgio.com^*_pubblicita.
 @@||centrosangiorgio.com^*_pubblicita/
@@ -46,6 +49,8 @@
 @@||google.com/adsense/search/ads.js$domain=zoover.ch|zoover.it
 @@||ilfattoquotidiano.it/wp-content/themes/ilfatto/thumb/*_pubblicita_*.jpg
 @@||impit.tradedoubler.com/imp?$subdocument,domain=iphoneitalia.com
+@@||italiatv.org^$elemhide
+@@||italiatv.org^$script
 @@||js.neodatagroup.com/uploads/js/rds.js$domain=rds.it
 @@||js49.adagionet.com/uploads/js/sipra.js$domain=rai.it|rai.tv|rainews.it
 @@||labs.ebuzzing.it/blogs/top/getrank?$image
