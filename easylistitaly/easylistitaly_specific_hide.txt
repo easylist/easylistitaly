@@ -250,6 +250,7 @@ ilgazzettinovesuviano.com###leaderboard-footer
 ravennaedintorni.it###leaderboard_div
 bergamosera.com###leaderboard_wrapper
 dottorsalute.info###leaderboardspace
+bikechannel.it###leaderbord
 dagospia.com###left-160x90
 lecconotizie.com###left-domination
 mailbeta.libero.it###leftBoxIFrame
@@ -334,7 +335,7 @@ iovivoaroma.org###skin_link_dx
 iovivoaroma.org###skin_link_sx
 cronachemaceratesi.it###skinabove
 rockit.it###skinbanner
-catanzaroinforma.it,filmtv.it,gazzettadiavellino.it,gazzettadinapoli.it,gazzettadisalerno.it,ilcorrieredabruzzo.it,lazionews24.com,salernonotizie.it###skinlink
+bikechannel.it,catanzaroinforma.it,filmtv.it,gazzettadiavellino.it,gazzettadinapoli.it,gazzettadisalerno.it,ilcorrieredabruzzo.it,lazionews24.com,salernonotizie.it###skinlink
 ebay.it###skyscrape
 eurogamer.it###skyscraper
 casateonline.it,merateonline.it###sottotestata
@@ -1074,6 +1075,7 @@ calcioweb.eu##div[style="width:auto; min-width:300px; height:auto; min-height:25
 si24.it##div[style="width:auto;height:70px;text-align:center;clear:both;"]
 piratestreaming.tv##div[style="z-index: 99999; position: fixed; width: 100%; background: none repeat scroll 0% 0% rgb(251, 236, 173); overflow: hidden; border-bottom: 1px solid rgb(112, 112, 112); top: 0px; left: 0px; margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: Verdana,Geneva,sans-serif; display: block;"]
 casa-cinema.tv##div[style="z-index: 99999; position: fixed; width: 100%; background: none repeat scroll 0% 0% rgb(251, 236, 173); overflow: hidden; border-bottom: 1px solid rgb(112, 112, 112); top: 0px; left: 0px; margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: Verdana,Geneva,sans-serif;"]
+bikechannel.it##div[style^="margin-top: 10px; width: 960px; height: 96px;"]
 meteogiornale.it##iframe[width="655"][height="104"]
 cinematografo.it##img[alt="banner"]
 spaziogames.it##img[src="/img/common/blank.gif"][style="width: 99%; height: 99%;"]
