@@ -647,6 +647,8 @@ lavoratorio.it##.divBoxbanner300x250
 gossipetv.com##.ebuzzing_box
 digisesso.com,gorillaporno.com,iltrombatore.com,koalaporno.com,pandasesso.com,ranaporno.com,sessosadomaso.com##.embed1
 digisesso.com,gorillaporno.com,iltrombatore.com,koalaporno.com,pandasesso.com,ranaporno.com,sessosadomaso.com##.embed2
+androidworld.it##.eprice-lnk
+androidworld.it##.eprice-side
 adnkronos.com##.evidenceBox
 comingsoon.it##.expanding-footer-container
 ilsole24ore.com##.fabbrica24
