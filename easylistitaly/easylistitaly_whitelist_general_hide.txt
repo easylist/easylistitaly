@@ -1,6 +1,7 @@
 comingsoon.it#@##AdvHeader
 bancavalle.it,bancodibrescia.it,bpa.it,bpb.it,bpci.it,brebanca.it,carime.it,quiubi.it,ubibancapi.it#@##ad_box
 techinfos.it#@##adblock
+cosavisitareanewyork.com#@##adbox
 giornaledisiracusa.it#@##adsense_testa
 repubblica.it#@##advtop
 subito.it#@##body_ad
