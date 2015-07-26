@@ -634,6 +634,7 @@ gazzetta.it##.contain-sisal-magicup
 borsaitaliana.it##.container_banner_top
 fanpage.it##.content-leaderboard
 macitynet.it##.contentTop
+toro.it##.contentleaderboard
 tiscali.it,unita.it##.dannperdere
 ebay.it,kijiji.it##.dart-banner-slot
 giornaledibrescia.it##.dealboxTop
