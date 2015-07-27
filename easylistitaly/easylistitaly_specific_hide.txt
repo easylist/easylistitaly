@@ -302,6 +302,7 @@ loudvision.it###prop-leader
 catanzaroinforma.it###pubbliinmezzo
 nonsolocap.it###qk
 moto.it###rchm_overlay
+vg247.it###recommendations
 gazzetta.it###rectangle
 tio.ch###rectangleGallery
 ticinonews.ch###rectangleleaderhome1_FormView1_ctl00_Banmanpro3Label
