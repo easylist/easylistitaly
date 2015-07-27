@@ -503,6 +503,8 @@ telesud3.com##.banner-destra
 telesud3.com##.banner-destra-tyf
 algheroeco.com##.banner-header-dx
 algheroeco.com##.banner-header-sx
+italiafruit.net##.banner-i
+italiafruit.net##.banner-m
 genova24.it,ivg.it##.banner-middle-board
 corrieredinovara.com##.banner-mix
 ilikepuglia.it##.banner-placeholder
