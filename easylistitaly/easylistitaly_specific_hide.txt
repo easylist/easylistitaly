@@ -377,6 +377,7 @@ tomshw.it###testata_giu
 alessandrianews.it###testata_tkv-bg
 lavocedelpopolo.net###text-19
 lavocedelpopolo.net###text-20
+tuttomotoriweb.com###text-23
 lavocedelpopolo.net###text-26
 lavocedelpopolo.net###text-28
 lavocedelpopolo.net###text-33
