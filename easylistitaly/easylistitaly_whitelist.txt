@@ -124,8 +124,8 @@
 @@||tvgratis.altervista.org^*#$image
 @@||tvgratis.altervista.org^*/advertisement.js
 @@||unmondodibaci.it^$elemhide
-@@||vvvvid.it/img/advertisement.jpg?
-@@||vvvvid.it/img/advertisment.jpg?
+@@||vvvvid.it^*/advertisement.jpg?
+@@||vvvvid.it^*/advertisment.jpg?
 @@||webtvhd.com^$elemhide
 @@||zeb89.altervista.org^$elemhide
 @@||zeb89.altervista.org^*#$image
