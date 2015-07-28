@@ -119,6 +119,7 @@
 @@||italiatv.org^$script
 @@||mtv.it/advertisement.js
 @@||naturaselvaggia2.altervista.org^$elemhide
+@@||pokmon-forever.forumfree.it^$image
 @@||riparodasolo.altervista.org^$elemhide
 @@||tvgratis.altervista.org^$elemhide
 @@||tvgratis.altervista.org^*#$image
