@@ -678,6 +678,7 @@ quotidiano.net##.google-728
 ilturista.info##.google-box
 dday.it##.google-dfp
 gqitalia.it##.gq-promotions
+tomshw.it##.guides-summary
 fantagazzetta.com##.h-box
 quattroruote.it##.halfPageBanner2
 ilgiornaledivicenza.it##.header-box
@@ -772,6 +773,7 @@ gazzettadasti.it##.rotate-banner
 ecodallecitta.it##.rotobanner
 nonsolocap.it##.ru
 ivg.it##.sb-banner
+tomshw.it##.scontitech
 areanapoli.it##.sdoo_cnt
 apollodoro.it,ecoo.it,gaywave.it,haisentito.it,nanopress.it,tantasalute.it##.sectCntGoogle3
 guidamonaci.it##.separatorFooter
