@@ -764,6 +764,7 @@ prendiporno.tv##.publis-bottom
 termometropolitico.it##.publy
 gazzetta.it##.pushbar
 quotidianosanita.it##.qs_n_interno_basso
+violanews.com##.rcsmedia_container
 ticinolibero.ch##.redbar
 ladyradio.it##.right-table5[width="162"]
 film.it##.rightBoxAmazon
