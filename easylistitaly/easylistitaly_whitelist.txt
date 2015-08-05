@@ -2,8 +2,6 @@
 @@||ad.smartclip.net/crossdomain.xml$object-subrequest,domain=serviziopubblico.it
 @@||ad.smartclip.net/delivery/tag?$object-subrequest,domain=serviziopubblico.it
 @@||ad2.neodatagroup.com/uploads/js/sid49jq.js$domain=rai.it|rai.tv|rainews.it
-@@||adimg.matrixspa.it/cookie_script/read_crt.html$domain=webmail.virgilio.it
-@@||adimg.matrixspa.it/jsc/advManage.js$domain=webmail.virgilio.it
 @@||adnkronos.com/ign/mediacenter/fotogallery/data_01/img/ad_
 @@||ads.spinblog.it/www/delivery/ajs.php?zoneid=$script,domain=ipaditalia.com|iphoneitalia.com
 @@||adser.localport.it/ads/logo-localport-it/logo.gif
@@ -57,9 +55,6 @@
 @@||laprovinciadibiella.it/upload/webpublic/youtube.jpg
 @@||lastampa.it/modulo/pubblicita/rcs/js/infra-gallery.js?
 @@||mail.tiscali.it/cp/extras/it/dashboard/300x250.html?
-@@||mail.virgilio.it/common/tech_includes/mail/$subdocument,domain=webmail.virgilio.it
-@@||mail.virgilio.it/google/$subdocument,domain=webmail.virgilio.it
-@@||mda.matrixspa.it/RealMedia/ads/adstream_jx.ads/virgilio.it/Mail/$script,domain=webmail.virgilio.it
 @@||mediamond.it/MediamondAds.js$domain=grazia.it|panorama.it|radioitalia.it
 @@||mediamond.it/MediamondAdsAsync.js$domain=video.mediaset.it
 @@||mymovies.it/live/myads/preroll/$object-subrequest
@@ -79,7 +74,6 @@
 @@||pubblicitaitalia.it/media/*/logo_pubblicita_italia.gif
 @@||rampower.it/flash/rp_player_rtmp.swf?*&videourl=http://www.rampower.it/advertising/$object
 @@||repubblica.it/adimages/
-@@||rtax.criteo.com/delivery/rta/rta.js?$script,domain=webmail.virgilio.it
 @@||servizi-media-js.tiscali.it/cp/javascript/default/it/main/revsci.js$domain=mail.tiscali.it
 @@||serviziopubblico.it/media/js/init_f4m_doubleclick.js
 @@||smartadserver.com/a/diff/*/show42.asp?$object-subrequest,domain=popcorntv.it
@@ -99,9 +93,8 @@
 @@||video1.italiaoggi.it/movie/movie/adserver_$object,object-subrequest
 @@||video1.milanofinanza.it/movie/movie/adserver_$object,object-subrequest
 @@||videosynd.kataweb.it/advertising/$xmlhttprequest,domain=videosynd.kataweb.it
-@@||virgilio.it^*?advTile=$subdocument
+@@||virgilio.it^*?advTile=$subdocument,domain=mailweb.virgilio.it
 @@||webcenter.tiscali.it/distribuzione/_script/TiscaliADV_315.js$domain=mail.tiscali.it
-@@||webmail.virgilio.it/cp/bannervirgilio/$subdocument
 ! Anti-Adblock
 @@.gif#$domain=naturaselvaggia2.altervista.org
 @@.jpg#$domain=riparodasolo.altervista.org
