@@ -61,8 +61,6 @@
 ###pubblicita_blog_post_testa
 ###quattrownet_468x60
 ###ripBoxAdvCentroSX2
-###skin_ADV_DIV
-###skin_adv
 ###skinadvdx
 ###skinadvsx
 ###top3-pubbli
@@ -108,7 +106,6 @@
 ##.pubblicitapremium
 ##.pubblitalocaleaddADV
 ##.pubblitalocaleaddpiccola
-##.skinAdv02
 ##.sponsor160x600Dx
 ##.sponsor300x250Sx
 ##.sponsorizzati
