@@ -39,6 +39,7 @@ ilsole24ore.com###annunci
 palermomania.com###area_banner_top
 fastweb.it,jacktech.it###assicu_box_ricerca
 autoxy.it,motousate.it###assicu_widget_300x80
+altarimini.it###attivitaEvidenza
 sportmediaset.it###b300xn
 libero.it###b468x60bottoms
 242movietv.com###back_inside
@@ -407,6 +408,7 @@ megabass.it###var_width[style="width: 180px !important;"]
 tipiace.it###vetrina
 arezzoweb.it###vetrina_premium
 hdblog.it###vetrine_kelkoo
+altarimini.it###videoRedazionale
 lastampa.it###videobox_wrapper
 oggitreviso.it###views-banner_pop_up-95-926
 lattemiele.com###vipre

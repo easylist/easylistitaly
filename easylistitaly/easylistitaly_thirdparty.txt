@@ -5,6 +5,7 @@
 ||6sicuro.it/widgets/$third-party
 ||85.115.8.249^$image,domain=~chunnel.de.ip
 ||92.240.245.41/upload/banners/$domain=~phica.net.ip
+||abc.sm/banner/
 ||ad.edision-nord.it^
 ||ad.jamba.it^
 ||ad.ricevitori-digitali.com^
