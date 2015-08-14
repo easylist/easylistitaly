@@ -873,7 +873,7 @@ petizionionline.it##.yahoo
 notizie.it##.yahoo-white-bg
 corrieredinovara.com##.z-banner
 corrieredinovara.com##.z-bannerpub
-ambientecucinaweb.it,millecanali.it##.zedo
+ambientecucinaweb.it,eurosat-online.it,millecanali.it##.zedo
 cittaceleste.it##.zodiak
 windowsblogitalia.com##[id^="bsa"]
 tgcom24.mediaset.it##a[href*=".ad.dotandad.com/clicktracker.jsp?"]
