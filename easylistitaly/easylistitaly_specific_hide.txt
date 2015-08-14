@@ -378,6 +378,8 @@ tomshw.it###testata_giu
 alessandrianews.it###testata_tkv-bg
 lavocedelpopolo.net###text-19
 lavocedelpopolo.net###text-20
+radioradio.it###text-21
+radioradio.it###text-22
 tuttomotoriweb.com###text-23
 lavocedelpopolo.net###text-26
 lavocedelpopolo.net###text-28
@@ -1125,6 +1127,7 @@ tuttoshoppingmotori.com##img[width="610px;"]
 romanews.eu##img[width="630"][height="80"]
 beverfood.com##img[width="650"][height="320"]
 hbritalia.it##img[width="728"][height="90"]
+radioradio.it##img[width="776"][height="175"]
 spaziomilan.it##img[width="900"][height="60"]
 animeclick.it##img[width="997"][height="108"]
 corrieredelgiorno.com##ins[style="display:inline-table;border:none;height:90px;margin:0;padding:0;position:relative;visibility:visible;width:728px;background-color:transparent"]
