@@ -27,3 +27,4 @@ beppegrillo.it,d1khqztmu4w2hg.cloudfront.net,lafucina.it,mmorpgitalia.it,tzetze.
 ! Anti-Adblock
 dbplanet.net#@##ad_block
 sportube.tv#@#.afs_ads
+calciomercato.com#@#.text_ads
