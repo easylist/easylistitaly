@@ -103,9 +103,10 @@ primaonline.it###banner_bottom
 si24.it###banner_branciforte
 contosulconto.it###banner_content
 agonchannel.it###banner_fascia_top
+gruppoesperti.it###banner_footer
 lnd.it###banner_hack
 tuttobasket.net###banner_head
-laprovinciadicomo.it###banner_header
+gruppoesperti.it,laprovinciadicomo.it###banner_header
 palermomania.it###banner_header2
 ilroma.net,subito.it,tuttosport.com###banner_leaderboard
 lastampa.it###banner_maxticker
