@@ -394,7 +394,7 @@ ilmonferrato.it###thin_banners_container
 liberatv.ch###ti_banner_top
 ilcapoluogo.com###tier
 hdblog.it###top
-america24.com,finanza.com,trovaprezzi.it,tuttolosportdiparma.it###top-banner
+america24.com,certificatejournal.it,finanza.com,trovaprezzi.it,tuttolosportdiparma.it###top-banner
 lecconotizie.com###top-domination
 lavoripubblici.it###topBanner
 playme.it###topPromo
