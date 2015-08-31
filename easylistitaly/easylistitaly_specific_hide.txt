@@ -1,3 +1,5 @@
+livescore.it##.promo_top_match_wide
+livescore.it##.footer-promo-full
 ilmioip.it###ADS
 hostingtalk.it###BannerBottom
 hostingtalk.it###BannerTop
