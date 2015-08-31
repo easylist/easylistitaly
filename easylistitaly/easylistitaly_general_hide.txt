@@ -88,6 +88,7 @@
 ##.cmt_bgadv
 ##.edSponsor
 ##.ed_Related_Record_Div_Sponsor
+##.foglia-middle-adv
 ##.googleAnnunci
 ##.home-rubriche-adv
 ##.inews_adv_top
