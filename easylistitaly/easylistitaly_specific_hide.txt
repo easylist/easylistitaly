@@ -47,7 +47,7 @@ calciomercato.com###background_left
 calciomercato.com###background_right
 beverfood.com###backy
 lastampa.it###badge
-advertiser.it,asylumitalia.it,bitcity.it,car4you.it,forzapescara.net,grandefratellonews.com,meteo-emiliaromagna.it,piratestreaming.co,rvuno.it,tendenzeonline.info,webpedia.altervista.org###banner
+advertiser.it,asylumitalia.it,bitcity.it,car4you.it,fiorentinanews.com,forzapescara.net,grandefratellonews.com,meteo-emiliaromagna.it,piratestreaming.co,rvuno.it,tendenzeonline.info,webpedia.altervista.org###banner
 radiozeta.it,serviziopubblico.it###banner-1
 radiozeta.it###banner-2
 gustissimo.it###banner-alto
@@ -122,6 +122,7 @@ ilcorrieredabruzzo.it###banner_testata
 ilcorrieredabruzzo.it###banner_testata_1004x114
 lastampa.it,newsfood.com,primaonline.it,primissima.it,qds.it###banner_top
 gameplayer.it###banner_up_right
+fiorentinanews.com###banneralto
 freemodding.it###bannerini
 cwi.it###banners
 siracusanews.it###banners-top
@@ -651,6 +652,7 @@ toro.it##.contentleaderboard
 tiscali.it,unita.it##.dannperdere
 ebay.it,kijiji.it##.dart-banner-slot
 giornaledibrescia.it##.dealboxTop
+fiorentinanews.com##.destra_banner
 immobiliare.it##.det_pub_box_content
 nokioteca.net##.dex_box
 supermoney.eu##.dfp-leaderbord
