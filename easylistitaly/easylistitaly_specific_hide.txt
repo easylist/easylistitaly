@@ -787,6 +787,7 @@ tomshw.it##.scontitech
 areanapoli.it##.sdoo_cnt
 apollodoro.it,ecoo.it,gaywave.it,haisentito.it,nanopress.it,tantasalute.it##.sectCntGoogle3
 guidamonaci.it##.separatorFooter
+ilnuovocalcio.it##.sfondo
 tio.ch##.sfondoPubListaNews
 bloopers.it##.shop
 softonic.it##.show_banner_down_leaderboard
