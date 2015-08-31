@@ -1,5 +1,3 @@
-livescore.it##.promo_top_match_wide
-livescore.it##.footer-promo-full
 ilmioip.it###ADS
 hostingtalk.it###BannerBottom
 hostingtalk.it###BannerTop
@@ -674,6 +672,7 @@ masterviaggi.it##.fieldset_sponsor
 livesicilia.it##.flash-box-a-sponsor-2
 netweek.it##.flexslider-header
 cazzofiga.com##.footer-banner-wrapper
+livescore.it##.footer-promo-full
 gazzettadasti.it##.footer-rotate-banner
 chievocalcio.tv##.footer-sponsor-container
 socialchannel.it##.footer2-wrapper
@@ -765,6 +764,7 @@ dimensionesuonoroma.it##.promo-image
 dimensionesuonoroma.it##.promo-list
 corrieredellosport.it##.promo_art
 cremonaoggi.it##.promo_slider_wrapper
+livescore.it##.promo_top_match_wide
 gqitalia.it##.promobox
 italiapokerclub.com##.promotion
 agoravox.it##.pub
