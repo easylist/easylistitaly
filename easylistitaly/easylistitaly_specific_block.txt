@@ -1189,3 +1189,5 @@
 ||zapster.it/images/skin/
 ||zerodelta.net/immagini/immagini2.0/
 ||zipnews.it/sai.jpg
+! Anti-Adblock
+||calciomercato.com^*/cm.adb.js
