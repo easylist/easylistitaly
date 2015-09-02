@@ -3,11 +3,14 @@ hostingtalk.it###BannerBottom
 hostingtalk.it###BannerTop
 comingsoon.it###BnrRight1
 comingsoon.it###BnrRight2
+fantacalcioservice.it###Box300x250
 novara.com###BoxBlock_8
 tgcom24.mediaset.it###ContentSpecialBox
 comingsoon.it###ExpTop
 sardegna24.net###Hbanner300x250c20
 eunews.it###HeaderBanner
+fantacalcioservice.it###LeaderBoardFooter
+fantacalcioservice.it###LeaderBoardTop
 rai.it###Leaderboard
 liberatv.ch###Minisky
 ininsubria.it###PopUp_Under
