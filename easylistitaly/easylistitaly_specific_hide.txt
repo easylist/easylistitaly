@@ -658,6 +658,7 @@ giornaledibrescia.it##.dealboxTop
 fiorentinanews.com##.destra_banner
 immobiliare.it##.det_pub_box_content
 nokioteca.net##.dex_box
+kijiji.it##.dfp-banner-slot
 supermoney.eu##.dfp-leaderbord
 blastingnews.com##.dfp-mobile-leadeboard
 ansa.it##.diretta-sponsor
