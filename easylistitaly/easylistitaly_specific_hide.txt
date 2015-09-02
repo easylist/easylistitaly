@@ -498,6 +498,7 @@ ilsecoloxix.it##.artbanner
 violanews.com##.article_banners
 si24.it##.attachment-300x600
 radiogold.it##.autobanner
+subito.it##.autopromo
 tiscali.it,virgilio.it##.b300x250
 nonsolocap.it##.ba
 gazzetta.it##.bacheca-mkt
