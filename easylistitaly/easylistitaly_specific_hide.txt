@@ -775,6 +775,7 @@ gqitalia.it##.promobox
 italiapokerclub.com##.promotion
 agoravox.it##.pub
 gds.it,lastampa.it##.pubb
+liberta.it##.pubbliblog
 theinquirer.it##.pubind1
 agoravox.it##.publarge
 diariodelweb.it,lapoliticaitaliana.it##.publi
