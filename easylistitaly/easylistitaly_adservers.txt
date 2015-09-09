@@ -18,6 +18,7 @@
 ||affiliationpartner.it^$third-party
 ||affiliazioni.me^$third-party
 ||affiliazioniweb.com^$third-party
+||ammadv.it^$third-party
 ||annuncivari.altervista.org^$third-party
 ||bannerconnect.biz^$third-party
 ||bannerexplosion.it^$third-party
