@@ -227,6 +227,7 @@ telefonino.net###googleHomeNews
 telefonino.net###googleNewsTop
 telefonino.net###googleProveTop
 ebay.it###halfboxes-container
+mercatinomusicale.com###hdr_leaderboard
 latitudeslife.com###head_banner
 fxempire.it,ilsecoloxix.it###head_banners
 cronachemaceratesi.it###head_sponsor
