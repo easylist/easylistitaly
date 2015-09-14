@@ -606,12 +606,14 @@ nonsolocinema.com##.banners
 ilquotidianofvg.it##.banners-125
 cremonaoggi.it##.bannersx
 album-mmt.it,musictory.it##.bannertop
+gazzettinodelchianti.it##.bannertopbar
 ticinolive.ch##.bannerwrap
 romagiornoenotte.it##.basebannerBox
 wallstreetitalia.com##.bestbuybiz
 losportivo.sm##.bg_blocchi
 corrieredilatina.it,corriereromagna.it,ilmattinodifoggia.it,lanuovaprimapagina.it##.bgbanner
 libero.it##.big
+gazzettinodelchianti.it##.big_link
 youreporter.it##.bigrectangle600
 ladige.it##.block--dfp
 ilgiornale.it##.block-ilg-adsense
@@ -814,6 +816,7 @@ iovivoaroma.org##.skin_link_top
 agrigentonotizie.it,anconatoday.it,baritoday.it,bolognatoday.it,bresciatoday.it,cataniatoday.it,cesenatoday.it,chietitoday.it,firenzetoday.it,foggiatoday.it,forlitoday.it,genovatoday.it,ilpescara.it,ilpiacenza.it,latinatoday.it,milanotoday.it,modenatoday.it,monzatoday.it,napolitoday.it,novaratoday.it,padovaoggi.it,palermotoday.it,parmatoday.it,perugiatoday.it,pisatoday.it,ravennatoday.it,riminitoday.it,romatoday.it,salernotoday.it,today.it,torinotoday.it,trentotoday.it,trevisotoday.it,udinetoday.it,veneziatoday.it,veronasera.it,vicenzatoday.it##.skin_right
 agrigentonotizie.it,anconatoday.it,baritoday.it,bolognatoday.it,bresciatoday.it,cataniatoday.it,cesenatoday.it,chietitoday.it,firenzetoday.it,foggiatoday.it,forlitoday.it,genovatoday.it,ilpescara.it,ilpiacenza.it,latinatoday.it,milanotoday.it,modenatoday.it,monzatoday.it,napolitoday.it,novaratoday.it,padovaoggi.it,palermotoday.it,parmatoday.it,perugiatoday.it,pisatoday.it,ravennatoday.it,riminitoday.it,romatoday.it,salernotoday.it,today.it,torinotoday.it,trentotoday.it,trevisotoday.it,udinetoday.it,veneziatoday.it,veronasera.it,vicenzatoday.it##.skin_top
 soldionline.it##.sm_widget_contenitore
+gazzettinodelchianti.it##.small_link
 tgcom24.mediaset.it##.spaceBanner
 pmi.it##.special-widget
 ciao.it##.specialOfferMod
@@ -890,6 +893,7 @@ fxempire.it##.widget_top_brokers
 gazzettagiallorossa.it,orvietosi.it##.wp_bannerize
 allandroidnews.it##.wp_skyscraper_c2
 bergamosera.com##.wpbrbanner
+gazzettinodelchianti.it##.wrapper-top
 petizionionline.it##.yahoo
 notizie.it##.yahoo-white-bg
 corrieredinovara.com##.z-banner
@@ -897,6 +901,7 @@ corrieredinovara.com##.z-bannerpub
 ambientecucinaweb.it,eurosat-online.it,millecanali.it##.zedo
 cittaceleste.it##.zodiak
 windowsblogitalia.com##[id^="bsa"]
+gazzettinodelchianti.it##a[class*="bannerpos"]
 tgcom24.mediaset.it##a[href*=".ad.dotandad.com/clicktracker.jsp?"]
 abruzzoweb.it##a[href*="/adserver/go.php?"]
 piratestreaming.co##a[href^="/4k/"]
