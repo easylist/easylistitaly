@@ -1140,6 +1140,7 @@
 ||viamichelin.it/htm/cmn/IFGdH*.htm?
 ||vicenzalive.it/banners/
 ||vicenzalive.it/risorse/banners/
+||videocasalinghi.com/media/banners/
 ||videofamosi.com^$subdocument
 ||videogame.it/arturo/vast/eas?
 ||videogame.it^*/adv/

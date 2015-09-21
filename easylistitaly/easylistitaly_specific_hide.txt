@@ -469,7 +469,7 @@ america24.com,gianlucadimarzio.com##.adbox
 loradellacalabria.it##.add768int
 pinkdna.it##.adds300x250
 zapster.it##.addx
-caserta24ore.it,fantagazzetta.com,gamemag.it,ilikepuglia.it,phicatube.net,radiospeaker.it,supereva.it,teleborsa.it,viamichelin.ch,viamichelin.it##.ads
+caserta24ore.it,fantagazzetta.com,gamemag.it,ilikepuglia.it,phicatube.net,radiospeaker.it,supereva.it,teleborsa.it,viamichelin.ch,viamichelin.it,videocasalinghi.com##.ads
 meteowebcam.it##.ads_menu
 corriereadriatico.it,ilgazzettino.it,ilmattino.it,ilmessaggero.it,ilsecoloxix.it,leggo.it,pcprofessionale.it,pubblicitaitalia.it,quotidianodipuglia.it##.adsense
 meteowebcam.it##.adsense_menu
