@@ -38,6 +38,9 @@
 ###annuncio-virgilio
 ###blocco_servizi_sponsor1
 ###box_adv_sponsor_categorico
+###box_single_adv_sotto
+###box_single_adv_sotto_1
+###box_single_adv_sotto_2
 ###contPubb
 ###corpo_video_sponsor
 ###divPubblicita
