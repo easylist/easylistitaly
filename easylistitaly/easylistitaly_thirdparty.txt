@@ -133,6 +133,7 @@
 ||passionevideo.it/inc/ova.swf$object-subrequest
 ||percorsidigitali.com/consulting300.gif
 ||plug.it/*/oas/
+||plug.it//banners/
 ||plug.it/banners/
 ||plug.it/oas/
 ||pop.virgilio.us^
