@@ -307,6 +307,7 @@ ciao.it###productlevellink
 mtv.it###promoInfo
 sportmediaset.it###promobox
 loudvision.it###prop-leader
+centrometeoitaliano.it###pubb_home
 catanzaroinforma.it###pubbliinmezzo
 nonsolocap.it###qk
 moto.it###rchm_overlay
