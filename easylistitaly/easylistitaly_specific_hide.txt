@@ -556,6 +556,7 @@ zoover.ch,zoover.it##.bannerContainer
 ilmessaggero.it,ravennanotizie.it##.bannerH
 beppegrillo.it##.bannerHeader
 cittaceleste.it,juvenews.eu##.bannerNelTesto
+meteoweb.eu##.bannerPrint
 key4biz.it##.bannerRight
 emmelle.it##.bannerSlide
 corriereirpinia.it##.bannerTd
