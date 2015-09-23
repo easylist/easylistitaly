@@ -246,10 +246,7 @@
 ||corrierinocampaniasport.it^*/menna.jpg
 ||cronacaflegrea.it^*/ads/
 ||dagospia.com/_include/banner/
-||datasport.it/graphic/img/banner_
-||datasport.it/graphic/img/bannerspettacolo.gif
-||datasport.it/graphic/img/trenoescooter.gif
-||datasport.it/graphic/img/tutto_losport_tv.gif
+||datasport.it/img/banner_
 ||deltadivenere.com/banners/
 ||deltadivenere.com/tgp/
 ||denaro.it^*/banner/
