@@ -428,6 +428,7 @@ lastampa.it###videobox_wrapper
 oggitreviso.it###views-banner_pop_up-95-926
 lattemiele.com###vipre
 italpress.com###virgilio-banner
+macitynet.it###wallpaper
 lastampa.it###webdoc_sponsor
 transfermarkt.it###werbung_superbanner
 internazionale.it###wideSkinWrapper
