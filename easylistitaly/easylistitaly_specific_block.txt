@@ -870,6 +870,7 @@
 ||radioalex.it^*/banner/
 ||radioalex.it^*/banner_
 ||radioamore.it^*/banners/
+||radiochieri.it/uploads/banner/
 ||radiocuore.it/nencini.gif
 ||radioetv.it/images/banners/
 ||radioetv.it/images/BigRectangle_
