@@ -473,7 +473,7 @@ america24.com,gianlucadimarzio.com##.adbox
 loradellacalabria.it##.add768int
 pinkdna.it##.adds300x250
 zapster.it##.addx
-caserta24ore.it,fantagazzetta.com,gamemag.it,ilikepuglia.it,phicatube.net,radiospeaker.it,supereva.it,teleborsa.it,viamichelin.ch,viamichelin.it,videocasalinghi.com##.ads
+caserta24ore.it,fantagazzetta.com,gamemag.it,hdblog.it,ilikepuglia.it,phicatube.net,radiospeaker.it,supereva.it,teleborsa.it,viamichelin.ch,viamichelin.it,videocasalinghi.com##.ads
 meteowebcam.it##.ads_menu
 corriereadriatico.it,ilgazzettino.it,ilmattino.it,ilmessaggero.it,ilsecoloxix.it,leggo.it,pcprofessionale.it,pubblicitaitalia.it,quotidianodipuglia.it##.adsense
 meteowebcam.it##.adsense_menu
@@ -640,6 +640,7 @@ chip.it##.boxHardware
 milaninterradio.tv##.box_300_250
 tuttosport.com##.box_Banner
 tuttosport.com##.box_LeaderBoard
+hdblog.it##.box_flame
 calcioblog.it##.box_highlight
 omniauto.it##.box_listinousato
 gazzettadiparma.it##.box_preview_column_promo_article
