@@ -468,6 +468,7 @@ ricettepercucinare.com##.UAP_Wide_Skyscraper
 rietinvetrina.it##.a-single
 4risate.com,7per24.it,allrecipes.it,ilsole24ore.com,jugo.it,lacrocequotidiano.it,mesagne.me,milanlive.it,servizioallerta.it,tripadvisor.it##.ad
 corriereitaliano.com##.ad-box
+portaportese.it##.adL
 trustpilot.it##.adblock
 america24.com,gianlucadimarzio.com##.adbox
 loradellacalabria.it##.add768int
@@ -828,7 +829,7 @@ gazzettinodelchianti.it##.small_link
 tgcom24.mediaset.it##.spaceBanner
 pmi.it##.special-widget
 ciao.it##.specialOfferMod
-europages.it,gazzetta.it,gds.it,ilgiornale.it,pubblicitaitalia.it,repubblica.it,stickmangames.altervista.org,violanews.com##.sponsor
+europages.it,gazzetta.it,gds.it,ilgiornale.it,portaportese.it,pubblicitaitalia.it,repubblica.it,stickmangames.altervista.org,violanews.com##.sponsor
 fcparma.com##.sponsor-group
 milanofinanza.it##.sponsor-red
 erbanotizie.com,lecconotizie.com##.sponsor-rubrica
