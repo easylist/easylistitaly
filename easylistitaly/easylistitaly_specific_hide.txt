@@ -715,6 +715,7 @@ ilgiornaledivicenza.it##.header-box
 newyork-tales.ilsole24ore.com##.header-right
 bow.it,cronacamilano.it,ilfaroonline.it##.header_banner
 bora.la##.headerbtm
+transfermarkt.it##.hide-for-small[style="height: 273px; text-align: center; overflow: hidden;"]
 gazzettadasti.it##.homepage-central-ban
 radioitalia.it##.iTunes
 ildesk.it##.img_banner385x50
