@@ -116,6 +116,7 @@
 ##.tabella2Pubblicita
 ##.tabella3Pubblicita
 ##.tabellaPubblicita
+##.tccbanner
 ##.view-pubblicita
 ##a[href^="//w.linkwelove.it/urls/"]
 ##a[href^="http://ads.williamhill.it/"]
