@@ -98,7 +98,7 @@
 ! Anti-Adblock
 @@.gif#$domain=naturaselvaggia2.altervista.org
 @@.jpg#$domain=riparodasolo.altervista.org
-@@.png#$domain=codeclan.altervista.org|italiatv.org|naturaselvaggia2.altervista.org|unmondodibaci.it
+@@.png#$domain=codeclan.altervista.org|gfchannel.altervista.org|italiatv.org|naturaselvaggia2.altervista.org|unmondodibaci.it|webserver.one
 @@||adcash.com/ad/display.php?$script,domain=italiatv.org
 @@||adcash.com/ban/*_468x60_$image,domain=italiatv.org
 @@||bagniproeliator.it^$elemhide
@@ -107,6 +107,7 @@
 @@||codeclan.altervista.org^$elemhide
 @@||dasolo.info/advertisement.js
 @@||dataok.altervista.org^$elemhide
+@@||gfchannel.altervista.org^$elemhide
 @@||hostingtv.org^$elemhide
 @@||italiatv.org/advertisement.js
 @@||italiatv.org^$elemhide
