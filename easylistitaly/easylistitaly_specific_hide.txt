@@ -380,7 +380,7 @@ ilgiornale.it###tab_annunci
 ladyradio.it###table128[width="492"]
 datamanager.it,techvideo.tv###takeover
 datamanager.it,techvideo.tv###takeover-spazio
-gamesvillage.it###takeover_gv
+gamesvillage.it,thegamesmachine.it###takeover_gv
 genova24.it###takeover_left
 genova24.it###takeover_right
 tomshw.it###testata_giu
