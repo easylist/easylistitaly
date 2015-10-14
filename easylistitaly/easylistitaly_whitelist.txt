@@ -109,6 +109,8 @@
 @@||dataok.altervista.org^$elemhide
 @@||gfchannel.altervista.org^$elemhide
 @@||hostingtv.org^$elemhide
+@@||ilsitodellozoo.com/assets/fuckadblock-$script
+@@||ilsitodellozoo.com^$elemhide
 @@||italiatv.org/advertisement.js
 @@||italiatv.org^$elemhide
 @@||italiatv.org^$script
