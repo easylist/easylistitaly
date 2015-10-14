@@ -206,7 +206,6 @@ ecodicaserta.it###down
 hdblog.it###dx
 telefonino.net###ebayBox
 key4biz.it###ebookNews
-unita.it###eimp[style="width:298px;float:left;margin-top:20px;height:248px;border:1px solid #cccccc; position:relative; z-index:0"]
 comingsoon.it###expSkin
 tipiace.it###externalbanner
 imperiapost.it###extlnk
@@ -250,7 +249,6 @@ r101.it###innamorarsiA101
 sportstadio.it###iol-partners
 quifinanza.it###iol_dfp_local
 cittaceleste.it,juvenews.eu###itemBannerSottoImg
-unita.it###ixeBanner
 lercio.it###kadv_13020
 prowrestling.it###landingbanner
 lercio.it,macitynet.it###leader-wrapper
@@ -667,7 +665,7 @@ borsaitaliana.it##.container_banner_top
 fanpage.it##.content-leaderboard
 macitynet.it##.contentTop
 toro.it##.contentleaderboard
-tiscali.it,unita.it##.dannperdere
+tiscali.it##.dannperdere
 ebay.it,kijiji.it##.dart-banner-slot
 giornaledibrescia.it##.dealboxTop
 fiorentinanews.com##.destra_banner
@@ -952,10 +950,6 @@ centrometeoitaliano.it##div[style="border: -1px solid; border-color: #EEEEEE;wid
 petizioni24.com##div[style="border: solid #95bce2 1px;  padding: 1em 0; margin: 0; margin-right: 6px; width: 200px; height: 600px; background-color: #fff; text-align: center; margin-bottom: 1em;"]
 wallstreetitalia.com##div[style="border:0px none #FFF !important;position:fixed; background-image:url('/img/skin_ipadronidel mondo2.jpg');background-position:center top;background-repeat:no-repeat;z-index:0;height:100%;left:0px; top:55px; width:100%;"]
 filodiritto.com##div[style="border:1px solid #002035;width:120px;height:600px;"]
-unita.it##div[style="border:1px solid #D1D1D1;padding:1px; position:absolute;right:0;top:274px;width:300px;"]
-unita.it##div[style="border:1px solid #D1D1D1;padding:1px; position:absolute;right:0;top:288px;width:300px;"]
-unita.it##div[style="border:1px solid #D1D1D1;padding:1px; position:absolute;right:0;top:551px;width:300px;"]
-unita.it##div[style="border:1px solid #D1D1D1;padding:1px; position:absolute;right:0;top:829px;width:300px;"]
 androidiani.com##div[style="border:4px dashed orange;height:90px;width:728px;margin:0 auto"]
 radioromacapitale.it##div[style="border:solid 1px #000000; width: 298px; height: 78px;"]
 sanihelp.it##div[style="clear: both; width: 670px; padding:4px; height: 88px; margin-bottom: 15px; margin-top: 10px; line-height: 14px; border: 1px solid #DDEBF4;"]
@@ -1059,7 +1053,6 @@ cronachemaceratesi.it##div[style="width:250px; height:250px; overflow:hidden; ma
 cronachemaceratesi.it##div[style="width:250px; height:250px; overflow:hidden; margin:5px auto;"]
 gelocal.it##div[style="width:294px; height:74px; border:3px solid #90c539; display:block; background-color:#90c539; cursor:pointer; margin:0 0 10px;"]
 gelocal.it##div[style="width:294px; height:74px; border:3px solid #e2001a; display:block; background-color:#90c539; cursor:pointer; margin:0 0 10px;"]
-unita.it##div[style="width:298px;float:left;margin-top:20px;height:148px;border:1px solid #cccccc; position:relative;"]
 panorama.it##div[style="width:300px; height:125px; background-image:url('http://www.panorama.it/statici/img_nuovosito/blocchetti/facileIT/box_ricerca/sfondo.gif'); font-family:Arial,Verdana,Helvetica,sans-serif !important; font-size:11px; overflow:hidden"]
 affaritaliani.it##div[style="width:300px; height:180px; background-image:url(http://www.affaritaliani.it/mutuionline/imgmol/mol_background_form3campi.png)"]
 unionesarda.it##div[style="width:300px; height:250px; float:left; margin-right:40px;"]
