@@ -186,6 +186,7 @@ camionsupermarket.it###center_banner
 virgilio.it###cht_banner
 libero.it###chunnel-affari-300x170
 amazon.it###click_withinLazyLoad_tower
+ilfattoquotidiano.it###cntplchr-1
 acquariofilia.biz###collapseobj_sidebar_google
 alessandrianews.it###colonnadx-bg
 alessandrianews.it###colonnasx-bg
