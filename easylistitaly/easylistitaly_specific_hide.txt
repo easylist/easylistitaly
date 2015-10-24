@@ -306,6 +306,7 @@ ciao.it###productlevellink
 mtv.it###promoInfo
 sportmediaset.it###promobox
 loudvision.it###prop-leader
+flashgames.it###pub_sotto
 centrometeoitaliano.it###pubb_home
 catanzaroinforma.it###pubbliinmezzo
 nonsolocap.it###qk
@@ -808,6 +809,7 @@ gazzettadasti.it##.rotate-banner
 ecodallecitta.it##.rotobanner
 nonsolocap.it##.ru
 ivg.it##.sb-banner
+flashgames.it##.scheda_ppc
 tomshw.it##.scontitech
 areanapoli.it##.sdoo_cnt
 apollodoro.it,ecoo.it,gaywave.it,haisentito.it,nanopress.it,tantasalute.it##.sectCntGoogle3
