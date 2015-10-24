@@ -1021,6 +1021,7 @@
 ||techassistance.it/media//adv/
 ||technologyreview.it/img/banner/
 ||technologyreview.it/img/banner_
+||tecnoandroid.it/banner/
 ||tecnoandroid.it/xiaomi.jpg
 ||tele90.it/banner/
 ||telecaprisport.it/banner/
