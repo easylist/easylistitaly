@@ -27,6 +27,7 @@
 ||angelobonorino.com/neve/*268x90.gif
 ||artera.it/banners.php?
 ||autostima.net/partner/
+||banner-madai-com.s3.amazonaws.com^
 ||banner.crol.it^
 ||banzaimedia.it/hpsponsor/
 ||bazarcoupon.com/images/$third-party
