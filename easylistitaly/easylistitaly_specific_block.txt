@@ -282,9 +282,6 @@
 ||eunews.it^*/BANNER-375x100_
 ||eusebiano.it/banners/
 ||eventiesagre.it/images/banner/
-||everyeye.it/amazon/
-||everyeye.it/topskin/
-||everyeye.it/topskin_2012/
 ||exxun.com/adi/
 ||f052.it/archivefile/*/banner-
 ||f1passion.it^*/banner.

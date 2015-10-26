@@ -62,7 +62,6 @@ oggitreviso.it###banner-top
 comingsoon.it,corrieredelgiorno.com###banner1
 comingsoon.it,forzapescara.net###banner2
 comingsoon.it###banner3
-everyeye.it###banner300_v2
 telefonino.net###banner300x100Pos2
 telefonino.net###banner300x100Pos3
 telefonino.net###banner300x100Pos4
@@ -315,7 +314,6 @@ vg247.it###recommendations
 gazzetta.it###rectangle
 tio.ch###rectangleGallery
 ticinonews.ch###rectangleleaderhome1_FormView1_ctl00_Banmanpro3Label
-everyeye.it###richmedia
 dagospia.com###right-160x90
 lecconotizie.com###right-domination
 veronica.it###rightSkin
@@ -416,6 +414,7 @@ finanza.com###top_content
 oroscopo.it###top_header
 eccolanotiziaquotidiana.it,ipoditalia.it,mrwebmaster.it,tuttoshoppingmotori.com###topbanner
 automoto.it,moto.it###topboard
+everyeye.it###topskin_clicktag
 ilsecoloxix.it###toursoft-cn
 corriere.it,gazzetta.it###tv-adv
 canali16.altervista.org###up
@@ -571,7 +570,6 @@ lavocedelpopolo.net##.banner_210
 ilquotidianodellacalabria.it##.banner_234x90
 spaziofilm.it##.banner_300
 ilmattinodifoggia.it##.banner_300x250_3
-everyeye.it##.banner_600_new
 lavocedelpopolo.net##.banner_728
 ottopagine.net##.banner_990_90
 ottopagine.net##.banner_990_90_mid
@@ -585,6 +583,7 @@ finanzaonline.com##.banner_bg
 borsainside.com##.banner_bottom_post
 softonic.it##.banner_box
 voceditalia.it##.banner_casino2
+everyeye.it##.banner_destra
 parmasera.it,piacenzasera.it##.banner_doc_bottom_foto
 finanza.com,ilgiornaledireggio.it,motori24.ilsole24ore.com##.banner_dx
 ilfattonisseno.it##.banner_flusso
