@@ -1191,3 +1191,4 @@
 ||zipnews.it/sai.jpg
 ! Anti-Adblock
 ||calciomercato.com^*/cm.adb.js
+||swzz.xyz/noadblock.png

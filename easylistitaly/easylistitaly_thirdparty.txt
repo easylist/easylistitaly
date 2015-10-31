@@ -137,6 +137,7 @@
 ||plug.it//banners/
 ||plug.it/banners/
 ||plug.it/oas/
+||pokerstars.it/it/ad/
 ||pop.virgilio.us^
 ||popspace.virgilio.us^
 ||pornerbros.com^$subdocument,domain=phica.net
