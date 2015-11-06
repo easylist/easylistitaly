@@ -1160,6 +1160,7 @@
 ||viterbonews24.it/gesBanner/
 ||viterbopost.it^*/Partner.
 ||vivafm.it^*/banners/
+||vivere.biz/images/banners_
 ||vivereancona.it/images/banners_
 ||viverejesi.it/images/banners_
 ||voceditalia.it/banner.js

@@ -88,6 +88,7 @@
 ##.box-pubblicita
 ##.box-pubblicita-multimedia
 ##.boxADV
+##.box_adv_annunci
 ##.box_adv_speciali_hp
 ##.cmt_bgadv
 ##.edSponsor
