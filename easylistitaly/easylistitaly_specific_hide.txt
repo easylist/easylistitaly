@@ -396,6 +396,7 @@ retenews24.it###text-29
 lavocedelpopolo.net###text-33
 viterbopost.it###text-34
 lavocedelpopolo.net,viterbopost.it###text-35
+vigamusmagazine.com###text-4
 lavocedelpopolo.net###text-41
 serbianmonitor.com###text-5
 studioconsulenzaromano.net###text-561964208
