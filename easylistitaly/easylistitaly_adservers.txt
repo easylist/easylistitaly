@@ -58,6 +58,7 @@
 ||newclick.com^$third-party
 ||nextadv.eu^$third-party
 ||novadv.com^$third-party
+||ovoadv.com^$third-party
 ||partners-aedgency.com^$third-party
 ||partypartners.it^$third-party
 ||payclick.it^$third-party
@@ -86,6 +87,7 @@
 ||tekno4advertising.com^$third-party
 ||tgadv.it^$third-party
 ||turboadv.com^$third-party
+||upstory.it^$third-party
 ||viralbeat.com^$third-party
 ||wbusiness.fr^$third-party
 ||widebanner.com^$third-party
