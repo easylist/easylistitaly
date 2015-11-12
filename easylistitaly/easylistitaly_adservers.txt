@@ -91,6 +91,5 @@
 ||viralbeat.com^$third-party
 ||wbusiness.fr^$third-party
 ||widebanner.com^$third-party
-||xgpub.com^$third-party
 ||zanox-affiliate.de^$third-party
 ||zodiakactive.com^$third-party
