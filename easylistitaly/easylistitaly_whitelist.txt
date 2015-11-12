@@ -105,6 +105,7 @@
 @@||blogspot.com^*#$image,domain=dataok.altervista.org
 @@||cashtrafic.info/ban/*_468x60_$image,domain=italiatv.org
 @@||codeclan.altervista.org^$elemhide
+@@||compitoinclasse.org/script/advertisement.js
 @@||dasolo.info/advertisement.js
 @@||dataok.altervista.org^$elemhide
 @@||gfchannel.altervista.org^$elemhide
