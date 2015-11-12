@@ -633,6 +633,7 @@ ilcapoluogo.com##.block-view-bannerSlide
 risultati.it##.bookmarker-53
 beppegrillo.it##.bottom-banner
 pmi.it##.box-300-special
+comingsoon.it##.box-adv
 ilquotidiano.it,parmasera.it,piacenzasera.it,rsvn.it##.box-attico
 europa-in.it,gazzettadelladda.it,giornaledidesio.it,notiziaoggi.it,nuovaperiferia.it,settegiorni.it##.box-banner-menu
 sportnews.bz##.box-fullbanner
