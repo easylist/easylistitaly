@@ -1126,6 +1126,7 @@
 ||vanityfair.it/loaderframe.html
 ||vanityfair.it^*_105x65.jpg
 ||varesenews.it/banner/
+||varesenews.it^*/banner/
 ||vb33.it/images/banners/
 ||venetogol.it//immagini/File_banner/
 ||venetouno.it/media/imgbanners/
