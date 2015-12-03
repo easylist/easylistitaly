@@ -120,13 +120,11 @@
 @@||naturaselvaggia2.altervista.org^$elemhide
 @@||pokmon-forever.forumfree.it^$image
 @@||riparodasolo.altervista.org^$elemhide
+@@||static.vvvvid.it^$image
 @@||tvgratis.altervista.org^$elemhide
 @@||tvgratis.altervista.org^*#$image
 @@||tvgratis.altervista.org^*/advertisement.js
 @@||unmondodibaci.it^$elemhide
-@@||vvvvid.it^*/adv.jpg?
-@@||vvvvid.it^*/advertisement.jpg?
-@@||vvvvid.it^*/advertisment.jpg?
 @@||webtvhd.com^$elemhide
 @@||zeb89.altervista.org^$elemhide
 @@||zeb89.altervista.org^*#$image
