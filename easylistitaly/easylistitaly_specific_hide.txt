@@ -556,7 +556,7 @@ outcast.it##.banner250250
 ecodallecitta.it,ilcapoluogo.com##.banner3
 firstonline.info,mediapason.it##.banner300
 outcast.it##.banner300250
-askanews.it,fotografidigitali.it,hwupgrade.it,italiaoggi.it,milanofinanza.it##.banner300x250
+askanews.it,fotografidigitali.it,hwupgrade.it,italiaoggi.it,milanofinanza.it,rai.it##.banner300x250
 ildesk.it##.banner385x198
 ecodallecitta.it,ilcapoluogo.com##.banner4
 ildesk.it##.banner468x60
