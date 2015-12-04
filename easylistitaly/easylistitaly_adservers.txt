@@ -70,6 +70,7 @@
 ||pirchio.com^$third-party
 ||plavid.com^$third-party
 ||pubbli7.it^$third-party
+||radxcomm.com^$third-party
 ||ragazzeinvendita.com^$third-party
 ||rcsadv.it^$third-party
 ||reachadv.it^$third-party
