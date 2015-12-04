@@ -1180,6 +1180,7 @@
 ||weboggi.it/banners/
 ||webpartner.mrcrawler.it^
 ||widget.blogosfere.it/assicurazione/
+||wiitalia.it/230x90.php
 ||wikilao.com^*/banners/
 ||wintersport-news.it/banners/
 ||worldweb.it/images/banners/

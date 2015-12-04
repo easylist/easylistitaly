@@ -511,7 +511,9 @@ radiogold.it##.autobanner
 subito.it##.autopromo
 quicomo.it##.b-250
 quicomo.it##.b-250-placeholder
+wiitalia.it##.b300
 tiscali.it,virgilio.it##.b300x250
+wiitalia.it##.b728
 nonsolocap.it##.ba
 gazzetta.it##.bacheca-mkt
 gazzetta.it##.bacheca-mkt-square
@@ -654,6 +656,7 @@ gazzettadiparma.it##.box_preview_column_promo_article
 subito.it##.box_sponsor
 livescore.it##.box_top_books
 tgcom24.mediaset.it##.boxspeciale
+wiitalia.it##.bsmall
 tiscali.it##.c1c6.f12
 quotidiano.net##.category-SPONSOR
 businessmagazine.it,fotografidigitali.it,gamemag.it,hwupgrade.it,ilgiorno.it,ilrestodelcarlino.it,lanazione.it,motorionline.com,quotidiano.net##.center_all > div[style="background:#ffffff;border-bottom:1px #ffffff solid;border-top:1px #ffffff solid;margin-bottom:3px;margin-top:3px;"]
