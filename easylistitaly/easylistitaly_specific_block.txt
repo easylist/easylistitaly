@@ -585,6 +585,7 @@
 ||kveeniland.com/guarda.png
 ||kveeniland.com/scarica.png
 ||labisalta.it/pubb/
+||lacnews24.it/filemanager/skinz/
 ||ladige.it/internal/immobiliare/
 ||ladigetto.it/files/banners/
 ||lagazzettadelmezzogiorno.it/banner_pk/
