@@ -21,6 +21,8 @@
 @@||banneradmin.rai.it/crossdomain.xml$object-subrequest
 @@||betrad.com/geo/h1.js$domain=corriere.it|gazzetta.it
 @@||betrad.com/pub/c/*.js$domain=corriere.it|gazzetta.it
+@@||carrozzeriabertazzoni.it/immagini/PUBBLICITA.gif
+@@||carrozzeriabertazzoni.it/pubblicita/
 @@||cdn-wx.rainbowtgx.com/*/adaptive-content/js/speweb-001.js$domain=quotidiano.net
 @@||centrosangiorgio.com^*_pubblicita.
 @@||centrosangiorgio.com^*_pubblicita/
