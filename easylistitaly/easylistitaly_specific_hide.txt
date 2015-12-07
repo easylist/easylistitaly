@@ -270,6 +270,7 @@ asroma.it###logos
 eurogamer.it###low-leaderboard
 catanzaroinforma.it###mainsponsor
 catanzaroinforma.it###mainsponsorcronaca
+legnanonews.com###makeMeScrollable
 viterbopost.it###manchette-dx
 viterbopost.it###manchette-sx
 laroma24.it###marketingRotator
@@ -308,6 +309,7 @@ sportmediaset.it###promobox
 loudvision.it###prop-leader
 flashgames.it###pub_sotto
 centrometeoitaliano.it###pubb_home
+legnanonews.com###pubbl_footer_ext
 catanzaroinforma.it###pubbliinmezzo
 nonsolocap.it###qk
 moto.it###rchm_overlay
@@ -752,6 +754,7 @@ mymovies.it##.linkblu[style="width:290px; cursor:pointer; margin-top:5px;"]
 giornalettismo.com##.liq-frame
 gazzetta.it##.list-eventi
 diretta.it##.live-betting-strip
+legnanonews.com##.live_pubbl
 myword.it##.login-container[style="height:92px;border:0px solid red;text-align:center;"]
 julienews.it##.long_banner_row
 rietilife.it##.lshowcase-logos
@@ -803,6 +806,7 @@ gqitalia.it##.promobox
 italiapokerclub.com##.promotion
 agoravox.it##.pub
 gds.it,lastampa.it##.pubb
+legnanonews.com##.pubbl
 liberta.it##.pubbliblog
 theinquirer.it##.pubind1
 agoravox.it##.publarge
@@ -1025,6 +1029,7 @@ ildesk.it##div[style="position:absolute; background-color:#ffffff; width:300px; 
 corriereirpinia.it##div[style="position:absolute;top:0px;left:50%;margin-left:-1116px;width:600px;height:1400px;"]
 corriereirpinia.it##div[style="position:absolute;top:0px;left:50%;margin-left:-520px;width:1040px;height:84px;"]
 corriereirpinia.it##div[style="position:absolute;top:0px;left:50%;margin-left:516px;width:600px;height:1400px;"]
+legnanonews.com##div[style="position:relative; margin-bottom:10px; width:180px; height:320px;"]
 ilcorrieredabruzzo.it##div[style="position:relative; overflow:hidden; margin:0 auto; width:150px; height:500px"]
 ilcorrieredabruzzo.it##div[style="position:relative; overflow:hidden; margin:0 auto; width:300px; height:100px"]
 ilcorrieredabruzzo.it##div[style="position:relative; overflow:hidden; margin:0 auto; width:300px; height:150px"]
@@ -1106,6 +1111,7 @@ maxitubo.com,pornovideoitaliano.com,solopornoitaliano.com##div[style="width:340p
 pornovideoitaliano.com,solopornoitaliano.com##div[style="width:340px; height:480px; text-align:center; float:right; margin-top:51px;margin-bottom: 50px; margin-left: 5px; background-color:#FCFAFA; border: 1px solid #BCBCBC;; padding-left:10px; padding-right:10px; padding-top:30px; padding-bottom:100px; margin-right: 10px; border-radius: 5px;"]
 wmia.it##div[style="width:350px; height:300px; float:left"]
 radiotime.it##div[style="width:360px; margin-top:10px; margin-bottom:5px;"]
+legnanonews.com##div[style="width:370px; height:320px; margin-bottom: 10px; position:relative"]
 pornoitalico.com##div[style="width:380px; height:480px; _position:absolute; _right: 0px; text-align:center; float:right; margin-top:51px;margin-bottom: 50px; margin-left: 5px; background-color:#FCFAFA; border: 1px solid #BCBCBC;; padding-left:10px; padding-right:10px; padding-top:30px; padding-bottom:100px; margin-right: 10px; border-radius: 0px;"]
 milanlive.it##div[style="width:468px; float:left; height:60px; margin-bottom:3px;"]
 reggiotv.it##div[style="width:468px; height:60px; border:1px solid #DDD; margin:10px; margin-left:60px; overflow:hidden; text-align:center"]
