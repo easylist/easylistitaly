@@ -43,6 +43,7 @@ palermomania.com###area_banner_top
 fastweb.it,jacktech.it###assicu_box_ricerca
 autoxy.it,motousate.it###assicu_widget_300x80
 altarimini.it###attivitaEvidenza
+eurogamer.it###auto-amazon-link
 sportmediaset.it###b300xn
 libero.it###b468x60bottoms
 242movietv.com###back_inside
