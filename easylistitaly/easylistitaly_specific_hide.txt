@@ -332,6 +332,7 @@ sampdoria.it###samppromorow
 samp.tv###samptvsponsor
 trombodromo.com###searchboxInc
 nuovosud.it###sfondo
+etrurianews.it###sfondocliccabile
 hdblog.it###shopping_kelkoo
 lonelyplanetitalia.it###side_banner
 lonelyplanetitalia.it###side_banner_300_100
