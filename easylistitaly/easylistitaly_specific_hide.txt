@@ -905,7 +905,6 @@ bresciaoggi.it,larena.it##.v2_banner-wrapper
 ilgiornaledivicenza.it,larena.it##.v3_horz-banner
 ilsalvagente.it##.video
 giallozafferano.it##.vini-sp
-filmtv.it##.visione
 vivastreet.it##.vs-summary-300x250
 tiscali.it##.w304.mB20
 tiscali.it##.w312.mB25
