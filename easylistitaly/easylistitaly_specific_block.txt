@@ -609,6 +609,7 @@
 ||laprovinciadilecco.it^*/banner/
 ||laregione.ch/ban.asp?
 ||laroma24.it/banner/
+||laroma24.it/images/SuperTelefonia.gif
 ||laroma24.it^*/skin-
 ||lascommessasportiva.it^*/banners/
 ||lasiciliastore.it/banner/

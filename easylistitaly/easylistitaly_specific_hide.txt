@@ -55,6 +55,9 @@ advertiser.it,asylumitalia.it,bitcity.it,car4you.it,fiorentinanews.com,forzapesc
 radiozeta.it,serviziopubblico.it###banner-1
 radiozeta.it###banner-2
 gustissimo.it###banner-alto
+laroma24.it###banner-desktop-1
+laroma24.it###banner-desktop-2
+laroma24.it###banner-desktop-4
 telesud3.com###banner-header
 sportnews.bz###banner-leaderboard
 musicclub.it###banner-onstage-leaderboard
@@ -89,6 +92,7 @@ cittaceleste.it###bannerPrimaEdintorni
 telefonino.net###bannerProve300x250pos2
 tesionline.it###bannerSfondo
 cittaceleste.it,juvenews.eu###bannerSottoTitolo
+laroma24.it###bannerSuperTelefonia
 lavoripubblici.it###bannerSx
 allaguida.it,apollodoro.it,buttalapasta.it,casapoker.it,derapate.it,designmag.it,ecodellosport.it,ecoo.it,fattidicronaca.it,finanzaeborse.it,games4all.it,gaywave.it,haisentito.it,musicroom.it,myluxury.it,nanopress.it,nextmoto.it,nonmidire.it,politica24.it,r101.it,regaloregali.it,stylosophy.it,suipedali.it,tantasalute.it,tecnocino.it,televisionando.it,ticonzero.info,trackback.it,tshot.it,tuttogratis.it,vivacinema.it,vostrisoldi.it###bannerTop
 ilsalvagente.it###bannerTopInt
