@@ -93,6 +93,7 @@
 ##.cmt_bgadv
 ##.edSponsor
 ##.ed_Related_Record_Div_Sponsor
+##.ed_Related_Sponsor_Top_Container
 ##.foglia-middle-adv
 ##.googleAnnunci
 ##.home-rubriche-adv
