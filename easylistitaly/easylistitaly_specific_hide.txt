@@ -314,6 +314,7 @@ flashgames.it###pub_sotto
 centrometeoitaliano.it###pubb_home
 legnanonews.com###pubbl_footer_ext
 catanzaroinforma.it###pubbliinmezzo
+meteo.it###publi-medi
 nonsolocap.it###qk
 moto.it###rchm_overlay
 vg247.it###recommendations
