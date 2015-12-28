@@ -33,6 +33,7 @@
 ||clacson24.com^$third-party
 ||clickadv.it^$third-party
 ||clickpoint.it^$third-party
+||coreg-feed.com^$third-party
 ||crmpilot.it^$third-party
 ||delosnetwork.it^$third-party
 ||divascam.com^$third-party
