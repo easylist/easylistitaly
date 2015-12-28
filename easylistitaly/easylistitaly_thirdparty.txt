@@ -137,6 +137,7 @@
 ||plug.it//banners/
 ||plug.it/banners/
 ||plug.it/oas/
+||plug.it/sg/boxis_2010/
 ||pokerstars.it/it/ad/
 ||pop.virgilio.us^
 ||popspace.virgilio.us^
