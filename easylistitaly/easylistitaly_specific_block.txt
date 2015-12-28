@@ -1039,6 +1039,7 @@
 ||telefonino.net/shopping/
 ||telenord.it^*/Banner-
 ||telenuovo.it^*/banner/
+||teleradiostereo.it/flash/banner_
 ||telestense.it/wp-content/banners/
 ||telesud3.com/banner/
 ||telesud3.com/images/banner/
