@@ -45,6 +45,7 @@
 ||alfamitoclub.it/images/banner/
 ||alfamitoclub.it/images/sponsor/
 ||alfamitoclub.it^*_banner_180.swf
+||alfemminile.com/clients/venteprivee/
 ||algheroeco.com^**-960x30.swf
 ||algheroeco.com^*-300x500.swf
 ||algheroeco.com^*/banner_
