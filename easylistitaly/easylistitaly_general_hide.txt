@@ -68,6 +68,7 @@
 ###skinadvdx
 ###skinadvsx
 ###top3-pubbli
+##.Banner_VideoAd_Interno
 ##.adagiowritebanner_dmtag
 ##.adv-articolo
 ##.adv-iframe-sx
