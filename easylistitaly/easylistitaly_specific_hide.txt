@@ -938,6 +938,7 @@ cittaceleste.it##.zodiak
 windowsblogitalia.com##[id^="bsa"]
 gazzettinodelchianti.it##a[class*="bannerpos"]
 tgcom24.mediaset.it##a[href*=".ad.dotandad.com/clicktracker.jsp?"]
+casa-cinema.org,speedvideo.net##a[href*="/4k/"]
 abruzzoweb.it##a[href*="/adserver/go.php?"]
 piratestreaming.co##a[href^="/4k/"]
 bdc-forum.it##a[href^="http://ad.zanox.com/"]
