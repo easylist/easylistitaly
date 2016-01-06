@@ -179,7 +179,7 @@
 ||spingitori.it/spnadv/
 ||static.plista.com^*/resized/$third-party
 ||staticroot.com/nl/affiliati/
-||stats.betradar.com^
+||stats.betradar.com^$third-party
 ||stbm.it/img/banner/300x100_
 ||stgy.it/images/banner-
 ||stgy.it/images/skin/
