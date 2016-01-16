@@ -97,6 +97,7 @@
 ||immobilmente.com/Banner/$third-party
 ||immobz.it^*/banner.aspx?
 ||incontripersesso.com/banner/
+||incontriticino.com/promo/
 ||inetweek.it/comincom/widget/
 ||informaticainitalia.it^$script,third-party
 ||ipercast.net/uploads/sponsors/
