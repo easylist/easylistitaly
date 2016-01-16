@@ -513,6 +513,7 @@
 ||ilpaesenuovo.it^*/italfiamma.jpg
 ||ilpaesenuovo.it^*/perhospital-01.jpg
 ||ilpaesenuovo.it^*/perhospital.jpg
+||ilprimatonazionale.it/skin/
 ||ilquotidiano.it/userdata/banner/
 ||ilquotidianodellazio.it/img/banners/
 ||ilquotidianofvg.it/banner
