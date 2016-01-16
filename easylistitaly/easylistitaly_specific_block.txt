@@ -455,6 +455,7 @@
 ||ilcorrieredabruzzo.it/templates/ilcorrieredabruzzo/images/style2/bg1.jpg
 ||ilcorsaronero.info/br_mc/
 ||ilcorsaronero.info/js/nopopup.js
+||ilcosentino.it^*/banners/
 ||ilcrotonese.it^*/promo_
 ||ilcrotonese.it^*_bg.jpg
 ||ilfaroonline.it/images/banners/

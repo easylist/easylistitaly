@@ -623,6 +623,7 @@ ipoditalia.it##.banner_topright
 galileonet.it##.banner_vert
 techarena.it##.bannercentro
 trovaprezzi.it##.bannerdiv
+lametino.it##.bannergroup
 radiogold.it##.bannergroupskin-banner-module
 you-ng.it##.banneritem
 centrometeo.com##.banneritemcenterdx
@@ -1032,6 +1033,8 @@ puntosicuro.it##div[style="padding: 5px; font-family: Verdana, Arial; font-size:
 ladyblitz.it##div[style="padding: 9px; border: 1px solid #ccc; zoom:1;overflow:hidden;height:80px;width:280px;font: normal 12px/14px arial, sans-serif"]
 corriere.it##div[style="position: fixed; margin-right: 20px; margin-left: 20px; top: 405px; display: block; z-index: 10001; cursor: pointer; left: 34%;"]
 giornaledicomo.it,giornaledidesio.it,tempi.it##div[style="position: relative; height: 250px; width: 300px;"]
+lametino.it##div[style="position: relative; width: 300px; height: 250px; overflow: hidden;"]
+lametino.it##div[style="position: relative; width: 300px; height: 250px;"]
 motorinolimits.com##div[style="position: relative; z-index: 0; width: 160px; height: 160px;"]
 motorinolimits.com##div[style="position: relative; z-index: 0; width: 300px; height: 250px;"]
 telefonino.net##div[style="position: relative;width: 310px;height: 110px;margin: 0px -5px 5px -5px;"]
