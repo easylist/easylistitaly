@@ -843,6 +843,7 @@ guidamonaci.it##.separatorFooter
 ilnuovocalcio.it##.sfondo
 tio.ch##.sfondoPubListaNews
 bloopers.it##.shop
+tomshw.it##.shopping
 softonic.it##.show_banner_down_leaderboard
 radiomontecarlo.net##.side-ban
 style.it##.side-gallery
@@ -890,6 +891,7 @@ tiscali.it##.teaserDx
 edidomus.it##.telecamera-address
 ansa.it##.text-link
 excite.it##.textlink_content
+tomshw.it##.toms-amazon-button
 ilfattonisseno.it##.top
 allsongs.tv,dica33.it,radionbc.it##.top-banner
 gazzettadasti.it##.top-left-ban
