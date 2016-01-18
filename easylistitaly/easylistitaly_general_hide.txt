@@ -91,6 +91,8 @@
 ##.boxADV
 ##.box_adv_annunci
 ##.box_adv_speciali_hp
+##.boxpubblicita
+##.boxpubblicitasx
 ##.cmt_bgadv
 ##.edSponsor
 ##.ed_Related_Record_Div_Sponsor

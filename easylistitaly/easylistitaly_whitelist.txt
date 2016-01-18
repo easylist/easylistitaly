@@ -114,6 +114,7 @@
 @@||compitoinclasse.org/script/advertisement.js
 @@||dasolo.info/advertisement.js
 @@||dataok.altervista.org^$elemhide
+@@||fiatti.com/adframe.js
 @@||gfchannel.altervista.org^$elemhide
 @@||hostingtv.org^$elemhide
 @@||ilsitodellozoo.com^$elemhide
