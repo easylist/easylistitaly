@@ -42,6 +42,7 @@
 ||agrigentonotizie.it/images/skin/
 ||alatest.it/banner/
 ||alessandrianews.it/banner/
+||alessandriaoggi.info/images/banners/
 ||alfamitoclub.it/images/banner/
 ||alfamitoclub.it/images/sponsor/
 ||alfamitoclub.it^*_banner_180.swf
