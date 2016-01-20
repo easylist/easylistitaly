@@ -127,7 +127,7 @@
 @@||naturaselvaggia2.altervista.org^$elemhide
 @@||pokmon-forever.forumfree.it^$image
 @@||riparodasolo.altervista.org^$elemhide
-@@||static.vvvvid.it^$image
+@@||static.vvvvid.it^$image,xmlhttprequest
 @@||tvgratis.altervista.org^$elemhide
 @@||tvgratis.altervista.org^*#$image
 @@||tvgratis.altervista.org^*/advertisement.js
