@@ -76,6 +76,7 @@
 @@||pagead2.googlesyndication.com/pagead/scache/googlevideoads.swf$object-subrequest,domain=giochidicalcio.com
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=dbplanet.net|ipaditalia.com|iphoneitalia.com
 @@||panorama.it/adv/$image
+@@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=sky.it
 @@||portalecomuni.net^*/ShowBanner.aspx$image
 @@||primocanale.it/ads/*.flv$object-subrequest
 @@||pubblicitaitalia.it/media/*/logo_pubblicita_italia.gif
