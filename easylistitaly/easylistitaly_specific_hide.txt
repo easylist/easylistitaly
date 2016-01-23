@@ -29,7 +29,7 @@ ascoltareradio.com###ad3
 digital-forum.it,ebaygeneration.com,esigarettaforum.com###ad_global_below_navbar
 bordighera.net,corriere.it,italianhack.org,mailexpress.it,spaziogames.it###ads
 ilgazzettinovesuviano.com###adsensing
-la7.it,ustation.it,virgilio.it,xvideoscopate.com###adv
+areanapoli.it,la7.it,ustation.it,virgilio.it,xvideoscopate.com###adv
 agarymathematics.net###adv1
 cinquequotidiano.it###adv2
 ilnapolista.it###adv3
