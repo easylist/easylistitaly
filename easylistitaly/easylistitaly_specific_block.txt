@@ -980,6 +980,7 @@
 ||sentieriselvaggi.it/public/banner/
 ||serviziopubblico.it/media/images/banner/
 ||settecalcio.it/public/banners/
+||sexyguidaitalia.com/images/899/
 ||si24.it/images/banners/
 ||sibarinet.it/images/banners/
 ||siciliaway.it^*/immagini_promozionali/
