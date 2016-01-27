@@ -413,7 +413,7 @@ serbianmonitor.com###text-5
 studioconsulenzaromano.net###text-561964208
 farevela.net###text-7
 serbianmonitor.com###text-9
-ilmonferrato.it###thin_banners_container
+ilmonferrato.it,ilpiccolo.net###thin_banners_container
 liberatv.ch###ti_banner_top
 ilcapoluogo.com###tier
 hdblog.it###top
