@@ -114,7 +114,7 @@
 @@||cashtrafic.info/ban/*_468x60_$image,domain=italiatv.org
 @@||codeclan.altervista.org^$elemhide
 @@||compitoinclasse.org/script/advertisement.js
-@@||dasolo.info/advertisement.js
+@@||dasolo.org/advertisement.js
 @@||dataok.altervista.org^$elemhide
 @@||fiatti.com/adframe.js
 @@||gfchannel.altervista.org^$elemhide
