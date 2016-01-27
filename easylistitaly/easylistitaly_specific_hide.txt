@@ -1242,3 +1242,5 @@ clubalfa.it##td[width="310"][height="255"]
 ! Anti-Adblock
 tomshw.it###notifica_adcont
 termometropolitico.it##[id^="bsa"]
+! Site Specific filters (used with $generichide)
+worldcomputing.it##.adsbygoogle
