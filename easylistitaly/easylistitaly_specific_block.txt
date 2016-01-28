@@ -611,6 +611,7 @@
 ||lapiazzaweb.it/banner/
 ||laprovinciadibiella.it/upload/webpublic/
 ||laprovinciadilecco.it^*/banner/
+||laquila1.it/images/banners/
 ||laregione.ch/ban.asp?
 ||laroma24.it/banner/
 ||laroma24.it/images/SuperTelefonia.gif
