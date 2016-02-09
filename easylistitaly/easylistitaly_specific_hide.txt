@@ -1240,6 +1240,7 @@ juzaphoto.com##td[style="width:170px; vertical-align:top; text-align:center"]
 clubalfa.it##td[width="305"][height="205"]
 clubalfa.it##td[width="310"][height="255"]
 ! Anti-Adblock
+3bmeteo.com###adblock_warning
 tomshw.it###notifica_adcont
 termometropolitico.it##[id^="bsa"]
 ! Site Specific filters (used with $generichide)

@@ -1211,5 +1211,6 @@
 ||zerodelta.net/immagini/immagini2.0/
 ||zipnews.it/sai.jpg
 ! Anti-Adblock
+||3bmeteo.com^*/adblock.png
 ||calciomercato.com^*/cm.adb.js
 ||swzz.xyz/noadblock.png
