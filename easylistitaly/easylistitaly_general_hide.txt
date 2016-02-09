@@ -99,6 +99,8 @@
 ##.ed_Related_Sponsor_Top_Container
 ##.ed_Sponsor
 ##.foglia-middle-adv
+##.google-adx-corpo
+##.google-adx-spalla
 ##.googleAnnunci
 ##.home-rubriche-adv
 ##.inews_adv_top
