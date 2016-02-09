@@ -468,7 +468,6 @@ lacnews24.it##.FPB_dex
 lacnews24.it##.FPB_header
 lacnews24.it##.FPB_six
 meteo.it##.ImmobiliareIt
-foxcrime.it,foxlife.it,foxretro.it,foxtv.it##.MPU336
 novara.com##.MainBanner
 alfemminile.com##.OffresSpe_cadre
 search.aol.it##.SLL
@@ -756,7 +755,7 @@ corrieredellosport.it##.label_sponsor_sp
 quattroruote.it##.lastQDeals
 alessandrianews.it##.leader-board-225x90
 alessandrianews.it##.leader-board-728x90
-close-up.it,foxsports.it,foxtv.it,guidasicilia.it,la7.it,meteovista.it,mtv.it,prealpina.it,radiospeaker.it,serviziopubblico.it,today.it##.leaderboard
+close-up.it,foxanimation.it,foxcomedy.it,foxcrime.it,foxlife.it,foxsports.it,foxtv.it,guidasicilia.it,la7.it,meteovista.it,mondofox.it,mtv.it,prealpina.it,radiospeaker.it,serviziopubblico.it,today.it##.leaderboard
 blastingnews.com##.leaderboard-article
 erbanotizie.com,lecconotizie.com##.leaderboard-bottom
 ilsole24ore.com##.link_expand
@@ -1075,7 +1074,6 @@ dtti.it##div[style="width: 336px; height: 280px; padding: 1px 1px 1px 0; float: 
 articolotre.com##div[style="width: 500px; min-height: 50px; border-bottom: 1px dotted rgb(205, 23, 19); padding: 0px 0px 5px; margin: 0px; background-color: rgb(232, 239, 252);"]
 latribuna.sm##div[style="width: 559px; height: 100px; margin: 10px auto 0px; visibility: visible;"]
 regginacalcio.com##div[style="width: 702px; height:300px; border: 4px solid #fff; margin-bottom: 0px;"]
-foxlife.it##div[style="width: 728px; height: 90px; margin: 0px auto 10px auto; background:none;"]
 videohifi.com##div[style="width: 740px;height: 110px;"]
 raffaeleauriemma.com##div[style="width: 822px; height: 70px; visibility: visible;"]
 videohifi.com##div[style="width: 830px;height: 110px;"]
