@@ -120,6 +120,7 @@ ilroma.net,subito.it,tuttosport.com###banner_leaderboard
 lastampa.it###banner_maxticker
 html.it###banner_piede_articolo
 paginegialle.it###banner_pushbar
+tuttocampo.it###banner_right_big
 rovigooggi.it###banner_righttop
 rovigooggi.it###banner_righttop_inner
 firenzespettacolo.it###banner_side
