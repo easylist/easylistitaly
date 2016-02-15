@@ -625,7 +625,7 @@ ipoditalia.it##.banner_topright
 galileonet.it##.banner_vert
 techarena.it##.bannercentro
 trovaprezzi.it##.bannerdiv
-alessandriaoggi.info,lametino.it,laquila1.it##.bannergroup
+alessandriaoggi.info,lametino.it,laquila1.it,uninews24.it##.bannergroup
 paviapiu.it##.bannergroupnomarginall
 radiogold.it##.bannergroupskin-banner-module
 you-ng.it##.banneritem
@@ -636,6 +636,7 @@ nonsolocinema.com##.banners
 ilquotidianofvg.it##.banners-125
 cremonaoggi.it##.bannersx
 album-mmt.it,musictory.it##.bannertop
+uninews24.it##.bannertopa
 gazzettinodelchianti.it##.bannertopbar
 ticinolive.ch##.bannerwrap
 romagiornoenotte.it##.basebannerBox
