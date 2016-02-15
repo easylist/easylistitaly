@@ -626,6 +626,7 @@ galileonet.it##.banner_vert
 techarena.it##.bannercentro
 trovaprezzi.it##.bannerdiv
 alessandriaoggi.info,lametino.it,laquila1.it##.bannergroup
+paviapiu.it##.bannergroupnomarginall
 radiogold.it##.bannergroupskin-banner-module
 you-ng.it##.banneritem
 centrometeo.com##.banneritemcenterdx

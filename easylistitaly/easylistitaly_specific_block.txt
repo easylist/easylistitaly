@@ -816,6 +816,7 @@
 ||panorama.it^*-promobox/
 ||parmasera.it^*/img_banner/
 ||parrocchie.it/banner/
+||paviapiu.it/images/banners/
 ||pc-facile.com/images/banner/
 ||pctuner.net/banner/
 ||periodicodaily.com^*-1024x350.
