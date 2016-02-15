@@ -106,6 +106,7 @@
 ##.inews_adv_top
 ##.jadv_leoadv_pd
 ##.linksponsorizzati
+##.listatonativeadv
 ##.modPubblicita
 ##.post_pubblicita
 ##.promo_sp
