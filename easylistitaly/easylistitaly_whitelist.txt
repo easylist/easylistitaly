@@ -115,6 +115,7 @@
 @@||codeclan.altervista.org^$elemhide
 @@||compitoinclasse.org/script/advertisement.js
 @@||dasolo.org/advertisement.js
+@@||dasolo.org^$generichide
 @@||dataok.altervista.org^$elemhide
 @@||fiatti.com/adframe.js
 @@||gfchannel.altervista.org^$elemhide
