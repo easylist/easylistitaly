@@ -64,6 +64,7 @@
 @@||mail.tiscali.it/cp/extras/it/dashboard/300x250.html?
 @@||mediamond.it/MediamondAds.js$domain=grazia.it|panorama.it|radioitalia.it
 @@||mediamond.it/MediamondAdsAsync.js$domain=video.mediaset.it
+@@||misterdomain.eu/affiliation/$~third-party
 @@||mymovies.it/live/myads/preroll/$object-subrequest
 @@||net-static.tccstatic.com/template/fcinter1908.it/img/banner/logod.gif
 @@||oasjs.kataweb.it/adsetup.js$domain=video.repubblica.it
