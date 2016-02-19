@@ -17,7 +17,7 @@
 ||affiliati.bet2bet.it^
 ||affiliationjs.s3.amazonaws.com^
 ||affiliazione.immobiliare.it^
-||affiliazioni.misterdomain.eu^
+||affiliazioni.misterdomain.eu^$third-party
 ||agenziapuntonet.it/banner/
 ||aimon.it/banner_
 ||allosponsor.it/images/$third-party
