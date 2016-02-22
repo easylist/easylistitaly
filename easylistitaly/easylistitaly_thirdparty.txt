@@ -23,6 +23,7 @@
 ||allosponsor.it/images/$third-party
 ||alpinotizie.it^*/banner.aspx?
 ||amazonaws.com/cronachemaceratesi/banner/
+||amazonaws.com^*-promo-$domain=lonelyplanetitalia.it
 ||andreafranzoso.com/banner/
 ||angelobonorino.com/neve/*268x90.gif
 ||artera.it/banners.php?
