@@ -818,6 +818,7 @@ livescore.it##.promo_top_match_wide
 gqitalia.it##.promobox
 italiapokerclub.com##.promotion
 agoravox.it##.pub
+kikapress.com##.pub_container
 gds.it,lastampa.it##.pubb
 legnanonews.com##.pubbl
 liberta.it##.pubbliblog
