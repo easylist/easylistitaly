@@ -51,7 +51,7 @@ calciomercato.com###background_left
 calciomercato.com###background_right
 beverfood.com###backy
 lastampa.it###badge
-advertiser.it,asylumitalia.it,bitcity.it,car4you.it,fiorentinanews.com,forzapescara.net,grandefratellonews.com,meteo-emiliaromagna.it,piratestreaming.co,rvuno.it,tendenzeonline.info,webpedia.altervista.org###banner
+advertiser.it,asylumitalia.it,bitcity.it,car4you.it,fiorentinanews.com,forzapescara.net,grandefratellonews.com,meteo-emiliaromagna.it,rvuno.it,tendenzeonline.info,webpedia.altervista.org###banner
 radiozeta.it,serviziopubblico.it###banner-1
 radiozeta.it###banner-2
 gustissimo.it###banner-alto
@@ -948,7 +948,7 @@ gazzettinodelchianti.it##a[class*="bannerpos"]
 tgcom24.mediaset.it##a[href*=".ad.dotandad.com/clicktracker.jsp?"]
 casa-cinema.org,cb01.co,speedvideo.net##a[href*="/4k/"]
 abruzzoweb.it##a[href*="/adserver/go.php?"]
-piratestreaming.co##a[href^="/4k/"]
+piratestreaming.news##a[href^="/4k1/"]
 bdc-forum.it##a[href^="http://ad.zanox.com/"]
 mmorpgitalia.it##a[href^="http://ad2games.com/slave.php?"]
 ipadevice.com,ispazio.net##a[href^="http://adserver.ispazio.net/"]
@@ -969,9 +969,6 @@ catania46.net##a[href^="http://www.clickpoint.it/db/goto.cp?"]
 filmsenzalimiti.co##a[href^="http://www.filmsenzalimiti.co/4k/"]
 musicoff.com##a[href^="http://www.musicoff.com/ad/redirect/"]
 zapster.it##a[href^="http://www.paperbox.it/"]
-piratestreaming.co##a[href^="http://www.piratestreaming.co/4k-serie/"]
-piratestreaming.co##a[href^="http://www.piratestreaming.co/4k/"]
-piratestreaming.com##a[href^="http://www.piratestreaming.com/video"]
 rietilife.com##a[href^="http://www.rietilife.com?pasID=]
 robinfilms.me##a[href^="http://www.robinfilms.me/4k/"]
 classifichemusica.com##a[href^="http://www.viagogo.it/Biglietti-Concerti?affiliateID="]
@@ -1173,7 +1170,6 @@ meteoweb.eu##div[style="width:auto; min-width:300px; height:auto; min-height:250
 calcioweb.eu##div[style="width:auto; min-width:300px; height:auto; min-height:250px; margin:0 2px 2px 0; float:left;"]
 polesine24.it##div[style="width:auto;height:371px;margin-top:15px;margin-bottom: 15px;border:solid 1px #CCC"]
 si24.it##div[style="width:auto;height:70px;text-align:center;clear:both;"]
-piratestreaming.tv##div[style="z-index: 99999; position: fixed; width: 100%; background: none repeat scroll 0% 0% rgb(251, 236, 173); overflow: hidden; border-bottom: 1px solid rgb(112, 112, 112); top: 0px; left: 0px; margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: Verdana,Geneva,sans-serif; display: block;"]
 casa-cinema.tv##div[style="z-index: 99999; position: fixed; width: 100%; background: none repeat scroll 0% 0% rgb(251, 236, 173); overflow: hidden; border-bottom: 1px solid rgb(112, 112, 112); top: 0px; left: 0px; margin: 0px; padding: 0px; color: rgb(0, 0, 0); font-family: Verdana,Geneva,sans-serif;"]
 bikechannel.it##div[style^="margin-top: 10px; width: 960px; height: 96px;"]
 meteogiornale.it##iframe[width="655"][height="104"]
