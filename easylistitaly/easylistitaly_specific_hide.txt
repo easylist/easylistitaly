@@ -769,7 +769,6 @@ diretta.it##.live-betting-strip
 legnanonews.com##.live_pubbl
 myword.it##.login-container[style="height:92px;border:0px solid red;text-align:center;"]
 julienews.it##.long_banner_row
-rietilife.it##.lshowcase-logos
 ludomedia.it##.ludoAdv
 ilfriuli.it##.main-header__banner
 rockol.it##.main-menu-manchette
@@ -973,6 +972,7 @@ zapster.it##a[href^="http://www.paperbox.it/"]
 piratestreaming.co##a[href^="http://www.piratestreaming.co/4k-serie/"]
 piratestreaming.co##a[href^="http://www.piratestreaming.co/4k/"]
 piratestreaming.com##a[href^="http://www.piratestreaming.com/video"]
+rietilife.com##a[href^="http://www.rietilife.com?pasID=]
 robinfilms.me##a[href^="http://www.robinfilms.me/4k/"]
 classifichemusica.com##a[href^="http://www.viagogo.it/Biglietti-Concerti?affiliateID="]
 italia-film.org##a[href^="http://x.italia-film.org/get.php"]
@@ -1001,7 +1001,6 @@ ildesk.it##div[style="display:block; float:left; margin-top:13px; width:376px; h
 ildesk.it##div[style="display:block; float:left; width:300px; height:250px; margin-left:44px; margin-top:10px;"]
 ildesk.it##div[style="display:block; float:left; width:468px; height:60px; position:relative; margin-top:20px; left:30px;"]
 lastampa.it##div[style="float: left; width: 990px; text-align: center; margin-top: 10px; height: 110px;"]
-rietilife.it##div[style="float: right; height: 80px; width: 350px;"]
 f1passion.it##div[style="float:left; width:300px; height:250px; background:#f80; margin-bottom:24px;"]
 villaggiomusicale.com##div[style="float:left; width:980px; height:90px; text-align:center; padding:10px 0; background:#F3F3F3; margin:10px 0;"]
 treccani.it##div[style="float:left;margin:35px 0 15px;width:100%;height:166px;text-align:center;"]
@@ -1182,7 +1181,6 @@ cinematografo.it##img[alt="banner"]
 spaziogames.it##img[src="/img/common/blank.gif"][style="width: 99%; height: 99%;"]
 elaborare.info##img[style="height: 960px;\a             margin-left: -165px;\a             margin-top: 0px;\a             position: fixed;\a             top: 0;\a             width: 145px;"]
 elaborare.info##img[style="height: 960px;\a             margin-left: 970px;\a             margin-top: 0px;\a             position: fixed;\a             top: 0;\a             width: 145px;"]
-rietilife.it##img[style="width: 205px; height: 82px;"]
 frosinoneweb.net##img[style="width: 930px; height: 115px;"]
 milanofinanza.it##img[width=" 180"][height="50"]
 ilsalvagente.it##img[width="120"][height="60"]

@@ -934,9 +934,7 @@
 ||resport.it/public/banner/
 ||retesport.it/images/banner-
 ||retesport.it/images/conf.jpg
-||rietilife.it^*-banner.
-||rietilife.it^*/banner-
-||rietilife.it^*/banner_
+||rietilife.it^*banner
 ||rinnovabili.it^*/sponsor_
 ||rl1.it/img/web/banner/
 ||rockit.it/dbimg/7banner/
