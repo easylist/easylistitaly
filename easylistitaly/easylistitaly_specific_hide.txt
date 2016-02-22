@@ -133,7 +133,7 @@ lastampa.it,newsfood.com,primaonline.it,primissima.it,qds.it###banner_top
 gameplayer.it###banner_up_right
 fiorentinanews.com###banneralto
 freemodding.it###bannerini
-cwi.it###banners
+colonnineelettriche.it,cwi.it###banners
 siracusanews.it###banners-top
 si24.it###banners_middle
 linguee.it###banners_right

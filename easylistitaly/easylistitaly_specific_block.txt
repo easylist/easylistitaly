@@ -205,6 +205,7 @@
 ||climateobserver.it^*/banner_
 ||clubalfa.it/images/banner/
 ||clubalfa.it/ragazzon_banner_180.swf
+||colonnineelettriche.it^*/banner/
 ||comic-soon.com^*/adv/
 ||comicradio.it/swf/banner_rotator.swf
 ||comingsoon.it/fcred.asp?$object-subrequest
