@@ -1001,6 +1001,7 @@
 ||spaziogames.it/backgrounds/
 ||spaziogames.it/banner/
 ||spaziogames.it/images/backgrounds/
+||spaziogames.it^*/banner_
 ||spoletonline.com/banner/
 ||sponsor.imperiapost.it^
 ||sportal.it/banner/
