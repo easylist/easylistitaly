@@ -626,7 +626,7 @@ ipoditalia.it##.banner_topright
 galileonet.it##.banner_vert
 techarena.it##.bannercentro
 trovaprezzi.it##.bannerdiv
-alessandriaoggi.info,lametino.it,laquila1.it,uninews24.it##.bannergroup
+alessandriaoggi.info,lametino.it,laquila1.it,tecnicadellascuola.it,uninews24.it##.bannergroup
 paviapiu.it##.bannergroupnomarginall
 radiogold.it##.bannergroupskin-banner-module
 you-ng.it##.banneritem
