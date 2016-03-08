@@ -125,6 +125,7 @@
 @@||dasolo.org^$generichide
 @@||dataok.altervista.org^$elemhide
 @@||fiatti.com/adframe.js
+@@||forexinfo.it^$generichide
 @@||gfchannel.altervista.org^$elemhide
 @@||hostingtv.org^$elemhide
 @@||ilsitodellozoo.com^$elemhide

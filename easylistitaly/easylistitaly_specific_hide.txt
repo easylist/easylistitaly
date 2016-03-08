@@ -710,6 +710,7 @@ androidworld.it##.eprice-lnk
 androidworld.it##.eprice-side
 adnkronos.com##.evidenceBox
 greenstyle.it##.evidenziato
+forexinfo.it##.exchange
 comingsoon.it##.expanding-footer-container
 ilsole24ore.com##.fabbrica24
 leccesette.it##.featured_banner
@@ -1244,4 +1245,5 @@ clubalfa.it##td[width="310"][height="255"]
 tomshw.it###notifica_adcont
 termometropolitico.it##[id^="bsa"]
 ! Site Specific filters (used with $generichide)
-worldcomputing.it##.adsbygoogle
+forexinfo.it,worldcomputing.it##.adsbygoogle
+forexinfo.it##div[id^="div-gpt-ad-"]
