@@ -133,6 +133,7 @@
 ##a[href^="http://ads.williamhill.it/"]
 ##a[href^="http://adserver.html.it/"]
 ##a[href^="http://adserver.ilmessaggero.it/"]
+##a[href^="http://adv.ilsole24ore.it/"]
 ##a[href^="http://affiliazioniads.snai.it/"]
 ##a[href^="http://crazylead.com/video/"]
 ##a[href^="http://edintorni.net/related/service/sponsor/redirect/?"]
