@@ -947,7 +947,6 @@
 ||romatoday.it/images/skin/
 ||rosalio.it^*/adv/
 ||rovigooggi.it/files/miele/
-||rtl-4me.weebo.it/static/*.mp4?$object-subrequest,domain=rtl.it
 ||rtl.it^*/ico_iTunes-Download-
 ||rtl.it^*/itunes_btn_
 ||rtl.it^*_ban_
@@ -1199,6 +1198,7 @@
 ||webmarketingforum.it/images/banners/
 ||weboggi.it/banners/
 ||webpartner.mrcrawler.it^
+||weebo.it/*.mp4$object-subrequest,domain=rtl.it
 ||widget.blogosfere.it/assicurazione/
 ||wiitalia.it/230x90.php
 ||wikilao.com^*/banners/
