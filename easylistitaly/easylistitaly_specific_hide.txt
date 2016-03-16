@@ -820,6 +820,7 @@ gqitalia.it##.promobox
 italiapokerclub.com##.promotion
 agoravox.it##.pub
 kikapress.com##.pub_container
+meteoconsult.it##.pub_lcm
 gds.it,lastampa.it##.pubb
 legnanonews.com##.pubbl
 liberta.it##.pubbliblog
@@ -1017,6 +1018,7 @@ techassistance.it##div[style="height:90px; width:980px;display:block; text-align
 iphoneitalia.com##div[style="height:90px;display:block;width:1045px;"]
 iphoneitalia.com##div[style="height:90px;display:block;width:1045px;margin-top:40px;"]
 pronostici-scommesse.info##div[style="height:90px;width:728px;position:relative;left:136px;"]
+meteoconsult.it##div[style="height:95px; padding-top:8px; padding-bottom:12px; overflow:hidden; text-align:center;"]
 juzaphoto.com##div[style="margin-left: auto; margin-right: auto; width: 730px"]
 telmi.it##div[style="margin-left:0px; margin-top: 10px; position:relative; float:left; height: 160px; width: 920px;"]
 tmnews.it##div[style="margin-top: 10px; margin-bottom: 10px; margin-left: auto; margin-right: auto; width: 728px; height: 90px;"]
