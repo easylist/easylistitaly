@@ -143,7 +143,7 @@
 @@||tvgratis.altervista.org^*#$image
 @@||tvgratis.altervista.org^*/advertisement.js
 @@||unmondodibaci.it^$elemhide
-@@||webtvhd.com^$elemhide
+@@||webserver.one/advertisement.js
 @@||worldcomputing.it^$generichide
 @@||zeb89.altervista.org^$elemhide
 @@||zeb89.altervista.org^*#$image
