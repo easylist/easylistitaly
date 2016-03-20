@@ -391,6 +391,7 @@
 ||goldwebtv.it/userfiles/file/banners/
 ||gonews.it/banner/
 ||gorillaporno.com/banners/
+||gossip.it^*/banner/
 ||gpone.com/images/banners/
 ||gratisfree.it/cgi-bin/bannergest$script
 ||greenews.info/wp-content/banners/
