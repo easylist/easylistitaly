@@ -98,7 +98,7 @@ lavoripubblici.it###bannerSx
 allaguida.it,apollodoro.it,buttalapasta.it,casapoker.it,derapate.it,designmag.it,ecodellosport.it,ecoo.it,fattidicronaca.it,finanzaeborse.it,games4all.it,gaywave.it,haisentito.it,musicroom.it,myluxury.it,nanopress.it,nextmoto.it,nonmidire.it,politica24.it,r101.it,regaloregali.it,stylosophy.it,suipedali.it,tantasalute.it,tecnocino.it,televisionando.it,ticonzero.info,trackback.it,tshot.it,tuttogratis.it,vivacinema.it,vostrisoldi.it###bannerTop
 ilsalvagente.it###bannerTopInt
 spaziogames.it###banner_300
-cronachemaceratesi.it###banner_300x250
+cronachemaceratesi.it,ondarock.it###banner_300x250
 ilsannioquotidiano.it###banner_468_60
 lastampa.it###banner_VideoBox
 agonchannel.it###banner_agon_palinsesto
@@ -284,6 +284,7 @@ viterbopost.it###manchette-dx
 viterbopost.it###manchette-sx
 laroma24.it###marketingRotator
 it.msn.com###markette
+ondarock.it###masthead_or
 max.rcs.it###max_ppn
 ilfattoquotidiano.it###meetic_quad
 itespresso.it###megabanner
