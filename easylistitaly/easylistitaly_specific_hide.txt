@@ -1249,5 +1249,6 @@ clubalfa.it##td[width="310"][height="255"]
 tomshw.it###notifica_adcont
 termometropolitico.it##[id^="bsa"]
 ! Site Specific filters (used with $generichide)
-forexinfo.it,worldcomputing.it##.adsbygoogle
+forexinfo.it,worldcomputing.it,zeusnews.it##.adsbygoogle
+zeusnews.it##.pagefair-acceptable
 forexinfo.it##div[id^="div-gpt-ad-"]
