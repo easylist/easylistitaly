@@ -805,6 +805,7 @@ asca.it##.personalized_background
 rai.tv##.placeholder300x250
 gazzetta.it##.poker
 videohifi.com##.portlet-static-sponsor
+wired.it##.poweredby
 lastampa.it##.ppn
 film.it##.ppn_h
 itpornovideo.com##.pr-widget
