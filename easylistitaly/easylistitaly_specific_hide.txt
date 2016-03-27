@@ -31,9 +31,9 @@ digital-forum.it,ebaygeneration.com,esigarettaforum.com###ad_global_below_navbar
 bordighera.net,corriere.it,italianhack.org,mailexpress.it,spaziogames.it###ads
 ilgazzettinovesuviano.com###adsensing
 areanapoli.it,la7.it,ustation.it,virgilio.it,xvideoscopate.com###adv
-agarymathematics.net###adv1
+agarymathematics.net,sentireascoltare.com###adv1
 cinquequotidiano.it###adv2
-ilnapolista.it###adv3
+ilnapolista.it,sentireascoltare.com###adv3
 cinquequotidiano.it###adv_1
 3bmeteo.com###adv_5
 rockol.it,sanihelp.it###advertisement
@@ -147,6 +147,7 @@ senigallianotizie.it###bbitalia_banner
 altalex.com,primopianomolise.it,sentenze.net###bglink
 gizmodo.it###big-mega
 neveitalia.it,tuttogratis.it###bleft
+sentireascoltare.com###block-adv
 rumors.it###block-block-19
 rumors.it,trendystyle.it###block-block-2
 rumors.it,trendystyle.it###block-block-26
@@ -218,6 +219,7 @@ key4biz.it###ebookNews
 comingsoon.it###expSkin
 tipiace.it###externalbanner
 imperiapost.it###extlnk
+sentireascoltare.com###firstAdv
 gqitalia.it###fogliaBanner
 avvisatore.ilsecoloxix.it,lavocedivenezia.it,shippingonline.ilsecoloxix.it,ttmweb.it###footer
 insegreto.it###footer-banners
@@ -342,6 +344,7 @@ cinafoniaci.com###s5_top_row2_area1
 sampdoria.it###samppromorow
 samp.tv###samptvsponsor
 trombodromo.com###searchboxInc
+sentireascoltare.com###secondAdv
 nuovosud.it###sfondo
 etrurianews.it###sfondocliccabile
 hdblog.it###shopping_kelkoo
@@ -495,7 +498,7 @@ meteowebcam.it##.ads_menu
 corriereadriatico.it,ilgazzettino.it,ilmattino.it,ilmessaggero.it,ilsecoloxix.it,leggo.it,pcprofessionale.it,pubblicitaitalia.it,quotidianodipuglia.it##.adsense
 meteowebcam.it##.adsense_menu
 aranzulla.it##.adslBox
-a-realestate.it,adessoin.tv,animalidalmondo.it,ansa.it,beauty.it,corrieredellosport.it,dagospia.com,esseresani.it,faidatemania.it,gay.it,gds.it,giornalettismo.com,greenstyle.it,guidecucina.it,ideeviaggi.it,ilfattoquotidiano.it,ilsole24ore.com,iobloggo.com,iogames.it,iomobile.it,lavoroefinanza.it,lonelyplanetitalia.it,mammaebambino.it,mtv.it,nonsolocultura.it,odiami.it,outcast.it,pianetagreen.it,pianetamotori.it,prealpina.it,radiolina.it,radiomontecarlo.net,repubblica.it,romagnaoggi.it,sky.it,sportpower.it,tuttopercasa.it,verytech.it,virgilio.it,vivalascuola.it,vocenuova.tv##.adv
+a-realestate.it,adessoin.tv,animalidalmondo.it,ansa.it,beauty.it,corrieredellosport.it,dagospia.com,esseresani.it,faidatemania.it,gay.it,gds.it,giornalettismo.com,greenstyle.it,guidecucina.it,ideeviaggi.it,ilfattoquotidiano.it,ilsole24ore.com,iobloggo.com,iogames.it,iomobile.it,lavoroefinanza.it,lonelyplanetitalia.it,mammaebambino.it,mtv.it,nonsolocultura.it,odiami.it,outcast.it,pianetagreen.it,pianetamotori.it,prealpina.it,radiolina.it,radiomontecarlo.net,repubblica.it,romagnaoggi.it,sentireascoltare.com,sky.it,sportpower.it,tuttopercasa.it,verytech.it,virgilio.it,vivalascuola.it,vocenuova.tv##.adv
 nextquotidiano.it##.adv-1
 famigliacristiana.it##.adv-box
 motori.it##.adv-items
@@ -778,6 +781,7 @@ julienews.it##.long_banner_row
 ludomedia.it##.ludoAdv
 ilfriuli.it##.main-header__banner
 rockol.it##.main-menu-manchette
+sentireascoltare.com##.mainAdv
 cremonaoggi.it,ilfattonisseno.it,opinione.it##.manchette
 erbanotizie.com,lecconotizie.com##.manchette-dx
 livesicilia.it##.manchette-l
