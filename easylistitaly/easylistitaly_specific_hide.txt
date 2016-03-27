@@ -199,6 +199,7 @@ acquariofilia.biz###collapseobj_sidebar_google
 alessandrianews.it###colonnadx-bg
 alessandrianews.it###colonnasx-bg
 it.msn.com###consiglia
+affaritaliani.it###consigliati-giochi2
 leggilanotizia.it###cont-banner-sotto-testata
 virgilio.it###cont-leaderboard
 virgilio.it###cont-manchette
@@ -562,6 +563,7 @@ edilportale.com##.banner-velux
 milanofinanza.it##.banner-video
 ilcapoluogo.com,latinaoggi.net##.banner1
 ecodallecitta.it,ilcapoluogo.com,latinaoggi.net,pianetacellulare.it##.banner2
+affaritaliani.it##.banner234Eni
 erbanotizie.com,lecconotizie.com##.banner234x60-right
 iljournal.it##.banner250
 outcast.it##.banner250250
@@ -793,6 +795,7 @@ rovigooggi.it##.miele
 bastardidentro.it##.minibox
 ilturista.info##.more-holder
 secondamano.it##.moreblock
+affaritaliani.it##.mpe_sponsor
 notiziaoggi.it,nuovaperiferia.it,settegiorni.it##.mutui
 geoplan.it##.my_adv
 gelocal.it,repubblica.it##.negozi
@@ -995,6 +998,7 @@ wallstreetitalia.com##div[style="border:0px none #FFF !important;position:fixed;
 filodiritto.com##div[style="border:1px solid #002035;width:120px;height:600px;"]
 androidiani.com##div[style="border:4px dashed orange;height:90px;width:728px;margin:0 auto"]
 radioromacapitale.it##div[style="border:solid 1px #000000; width: 298px; height: 78px;"]
+affaritaliani.it##div[style="box-sizing: content-box;padding: 9px; border: 1px solid #ccc; zoom:1;overflow:hidden;height:80px;width:280px;font: normal 12px/14px arial, sans-serif;text-align:left;margin-bottom:10px;"]
 torinoggi.it##div[style="box-sizing: content-box;padding: 9px; border: 1px solid #ccc; zoom:1;overflow:hidden;height:80px;width:280px;font:normal 12px/14px arial, sans-serif;text-align:left;"]
 sanihelp.it##div[style="clear: both; width: 670px; padding:4px; height: 88px; margin-bottom: 15px; margin-top: 10px; line-height: 14px; border: 1px solid #DDEBF4;"]
 varesenews.it##div[style="display: block; height: 250px; margin-left: 0px; margin-bottom: 2px; position: relative;"]
@@ -1027,6 +1031,7 @@ juzaphoto.com##div[style="margin-left: auto; margin-right: auto; width: 730px"]
 telmi.it##div[style="margin-left:0px; margin-top: 10px; position:relative; float:left; height: 160px; width: 920px;"]
 tmnews.it##div[style="margin-top: 10px; margin-bottom: 10px; margin-left: auto; margin-right: auto; width: 728px; height: 90px;"]
 adagio.it##div[style="margin-top: 4px; width: 468px; height: 60px;"]
+affaritaliani.it##div[style="margin-top: 5px; margin-bottom: 5px; border: 1px solid rgb(0, 0, 0); margin-right: -2px;height:250px;"]
 calciomercato.napoli.it##div[style="margin-top:-25px; margin-bottom:20px; height:90px;width:728px; margin-left:110px;"]
 affaritaliani.it##div[style="margin-top:10px;height:90px"]
 horsemoonpost.com##div[style="margin: 0 auto; width: 728px; height: 90px; background: #ccc;"]
