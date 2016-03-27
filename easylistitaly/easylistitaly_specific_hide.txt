@@ -253,6 +253,7 @@ meteowebcam.it###header_top
 35mm.it###header_top_banner
 radiospeaker.it###home-banner
 avvenire.it###htmlcomponent18 > .boxAggiuntivi
+affaritaliani.it###immo-300x250
 ladige.it,panorama.it###immob_box_ricerca
 cronachemaceratesi.it###infooter
 r101.it###innamorarsiA101
@@ -796,7 +797,7 @@ bastardidentro.it##.minibox
 ilturista.info##.more-holder
 secondamano.it##.moreblock
 affaritaliani.it##.mpe_sponsor
-notiziaoggi.it,nuovaperiferia.it,settegiorni.it##.mutui
+affaritaliani.it,notiziaoggi.it,nuovaperiferia.it,settegiorni.it##.mutui
 geoplan.it##.my_adv
 gelocal.it,repubblica.it##.negozi
 virgilio.it##.newboxIs
@@ -1034,6 +1035,7 @@ adagio.it##div[style="margin-top: 4px; width: 468px; height: 60px;"]
 affaritaliani.it##div[style="margin-top: 5px; margin-bottom: 5px; border: 1px solid rgb(0, 0, 0); margin-right: -2px;height:250px;"]
 calciomercato.napoli.it##div[style="margin-top:-25px; margin-bottom:20px; height:90px;width:728px; margin-left:110px;"]
 affaritaliani.it##div[style="margin-top:10px;height:90px"]
+affaritaliani.it##div[style="margin-top:6px;margin-bottom:10px;padding: 9px; border: 1px solid #ccc; zoom:1;overflow:hidden;height:80px;width:280px;font: normal 12px/14px arial, sans-serif"]
 horsemoonpost.com##div[style="margin: 0 auto; width: 728px; height: 90px; background: #ccc;"]
 donnamoderna.com##div[style="margin: 10px 0px 0px 0px; padding: 0px 15px 9px 15px; width: 285px; height:90px; background-image:url('http://www.donnamoderna.com/extension/donnamoderna/design/donnamoderna/images/bg-immobiliare.png'); background-repeat: no-repeat; "]
 globalist.it##div[style="margin: 5px 0;padding: 9px; border: 1px solid #ccc; zoom:1;overflow:hidden;height:80px;width:280px;font: normal 12px/14px arial, sans-serif"]

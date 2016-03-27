@@ -56,6 +56,7 @@
 ||maxiadv.com^$third-party
 ||mediamond.it^$third-party
 ||mondoecommerce.it^$third-party
+||mperience.net^$third-party
 ||mycookies.it^$third-party
 ||netfilia.com^$third-party
 ||newclick.com^$third-party
