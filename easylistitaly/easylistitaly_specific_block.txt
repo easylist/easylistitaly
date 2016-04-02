@@ -466,6 +466,7 @@
 ||ilcrotonese.it^*_bg.jpg
 ||ilfaroonline.it/images/banners/
 ||ilfattoalimentare.it/assets/banners/
+||ilfattonisseno.it/banner_
 ||ilfattoquotidiano.it/external/assicurazioni_300x100/
 ||ilfattoquotidiano.it^*/banner_casait.jpg
 ||ilfattoquotidiano.it^*/pulsante-2.jpg

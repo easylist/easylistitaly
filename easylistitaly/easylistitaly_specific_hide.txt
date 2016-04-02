@@ -561,6 +561,7 @@ ilikepuglia.it##.banner-placeholder
 digital-news.it##.banner-separazione
 milanofinanza.it##.banner-sfondo
 digital-news.it,telesud3.com##.banner-sidebar
+ilfattonisseno.it##.banner-sottopp
 panorama.it##.banner-spalla-dx
 farevela.net,forum-macchine.it,milanofinanza.it##.banner-top
 edilportale.com##.banner-velux
