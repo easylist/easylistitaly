@@ -135,6 +135,7 @@
 @@||mobileuniverse.it/advertisement.js
 @@||mtv.it/advertisement.js
 @@||naturaselvaggia2.altervista.org^$elemhide
+@@||pagead2.googlesyndication.com/pagead/|$image,domain=dasolo.org
 @@||pokmon-forever.forumfree.it^$image
 @@||riparodasolo.altervista.org^$elemhide
 @@||static.vvvvid.it^$image,xmlhttprequest
