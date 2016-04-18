@@ -116,6 +116,7 @@
 @@||badtaste.it^*/bad-analytics/$script
 @@||badtv.it^*/bad-analytics/$script
 @@||bagniproeliator.it^$elemhide
+@@||beppegrillo.it^$generichide
 @@||blogspot.com^*#$image,domain=dataok.altervista.org
 @@||calciomercato.com^$generichide
 @@||cashtrafic.info/ban/*_468x60_$image,domain=italiatv.org
