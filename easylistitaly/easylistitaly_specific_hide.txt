@@ -765,6 +765,7 @@ sardegnareporter.it##.innerfade[style="margin-bottom: 10px; position: relative; 
 motousate.it##.item.link
 mtv.it##.itunes
 rtl.it##.itunes-btn
+lifegate.it##.itunesButton
 jacktech.it##.jk_banner
 vivastreet.it##.kiwii-box-300x250
 corrieredellosport.it##.label_sponsor_sp
