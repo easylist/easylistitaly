@@ -950,6 +950,7 @@
 ||romait.it/img/banners/
 ||romanews.eu/upload/assets/files/*.swf?linkto=/php/redirect.php?
 ||romatoday.it/images/skin/
+||rosa-rossa.com^*/xbn/
 ||rosalio.it^*/adv/
 ||rovigooggi.it/files/miele/
 ||rtl.it^*/ico_iTunes-Download-
