@@ -107,6 +107,7 @@
 @@||video1.milanofinanza.it/movie/movie/adserver_$object,object-subrequest
 @@||videosynd.kataweb.it/advertising/$xmlhttprequest,domain=videosynd.kataweb.it
 @@||virgilio.it^*?advTile=$subdocument,domain=mailweb.virgilio.it
+@@||vobis.it/ZeusInc/AdFarm/Image/$image,~third-party
 @@||webcenter.tiscali.it/distribuzione/_script/TiscaliADV_315.js$domain=mail.tiscali.it
 @@||zincontri.com/ads/galleries/crops/$image,~third-party
 ! Anti-Adblock
