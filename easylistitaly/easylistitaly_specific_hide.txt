@@ -462,6 +462,7 @@ ttmweb.it###zona_245
 avvisatore.ilsecoloxix.it###zona_266
 arezzoweb.it###zurich_connect
 gnoccaforum.com,tiscali.it##.ADV
+ludomedia.it##.AmazonBox
 hostingtalk.it##.Banner
 lavoratorio.it##.BannerAltoHP
 primopianomolise.it##.BannerDinamico
@@ -498,7 +499,7 @@ meteowebcam.it##.ads_menu
 corriereadriatico.it,ilgazzettino.it,ilmattino.it,ilmessaggero.it,ilsecoloxix.it,leggo.it,pcprofessionale.it,pubblicitaitalia.it,quotidianodipuglia.it##.adsense
 meteowebcam.it##.adsense_menu
 aranzulla.it##.adslBox
-a-realestate.it,adessoin.tv,animalidalmondo.it,ansa.it,beauty.it,corrieredellosport.it,dagospia.com,esseresani.it,faidatemania.it,gay.it,gds.it,giornalettismo.com,greenstyle.it,guidecucina.it,ideeviaggi.it,ilfattoquotidiano.it,ilsole24ore.com,iobloggo.com,iogames.it,iomobile.it,lavoroefinanza.it,lonelyplanetitalia.it,mammaebambino.it,mtv.it,nonsolocultura.it,odiami.it,outcast.it,pianetagreen.it,pianetamotori.it,prealpina.it,radiolina.it,radiomontecarlo.net,repubblica.it,romagnaoggi.it,sentireascoltare.com,sky.it,sportpower.it,tuttopercasa.it,verytech.it,virgilio.it,vivalascuola.it,vocenuova.tv##.adv
+a-realestate.it,adessoin.tv,animalidalmondo.it,ansa.it,beauty.it,corrieredellosport.it,dagospia.com,esseresani.it,faidatemania.it,gay.it,gds.it,giornalettismo.com,greenstyle.it,guidecucina.it,ideeviaggi.it,ilfattoquotidiano.it,ilsole24ore.com,iobloggo.com,iogames.it,iomobile.it,lavoroefinanza.it,lonelyplanetitalia.it,ludomedia.it,mammaebambino.it,mtv.it,nonsolocultura.it,odiami.it,outcast.it,pianetagreen.it,pianetamotori.it,prealpina.it,radiolina.it,radiomontecarlo.net,repubblica.it,romagnaoggi.it,sentireascoltare.com,sky.it,sportpower.it,tuttopercasa.it,verytech.it,virgilio.it,vivalascuola.it,vocenuova.tv##.adv
 nextquotidiano.it##.adv-1
 famigliacristiana.it##.adv-box
 motori.it##.adv-items
@@ -808,6 +809,7 @@ geoplan.it##.my_adv
 gelocal.it,repubblica.it##.negozi
 virgilio.it##.newboxIs
 virgilio.it##.newboxIsOrizz
+ludomedia.it##.nonSonoAdv
 risultati.it##.odds-detail
 lastampa.it##.pane-views-partner-block-1
 ilmionuovonumero.it##.partner
@@ -977,7 +979,7 @@ quotidiano.net##a[href^="http://redirect.rainbowtgx.com/"]
 juzaphoto.com##a[href^="http://rover.ebay.com/"]
 tecnoandroid.it##a[href^="http://www.allinmobile.eu/"]
 juzaphoto.com##a[href^="http://www.amazon."][href*="creativeASIN"]
-bdc-forum.it##a[href^="http://www.amazon."][href*="tag="]
+bdc-forum.it,ludomedia.it##a[href^="http://www.amazon."][href*="tag="]
 film-stream.org##a[href^="http://www.aznotizie.com/"]
 catania46.net##a[href^="http://www.clickpoint.it/db/goto.cp?"]
 filmsenzalimiti.co##a[href^="http://www.filmsenzalimiti.co/4k/"]
