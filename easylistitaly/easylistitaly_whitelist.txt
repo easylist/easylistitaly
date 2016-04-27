@@ -33,6 +33,7 @@
 @@||cheapnet.it/adv/$~third-party
 @@||corrieredellosport.it/res/advertising/ad.js
 @@||des.smartclip.net/ads?$xmlhttprequest,domain=vvvvid.it
+@@||dincontri.com/ads/galleries/crops/$image,~third-party
 @@||dotandad.com/crossdomain.xml$object-subrequest,domain=r101.it|radioitalia.it
 @@||dotandad.com/mediamond.jsp?$object-subrequest,domain=r101.it|radioitalia.it
 @@||dotandad.com/mediamond?mpo=$script,domain=grazia.it|panorama-auto.it|panorama.it|radioitalia.it|sportube.tv
@@ -107,6 +108,7 @@
 @@||videosynd.kataweb.it/advertising/$xmlhttprequest,domain=videosynd.kataweb.it
 @@||virgilio.it^*?advTile=$subdocument,domain=mailweb.virgilio.it
 @@||webcenter.tiscali.it/distribuzione/_script/TiscaliADV_315.js$domain=mail.tiscali.it
+@@||zincontri.com/ads/galleries/crops/$image,~third-party
 ! Anti-Adblock
 @@.gif#$domain=naturaselvaggia2.altervista.org
 @@.jpg#$domain=riparodasolo.altervista.org
