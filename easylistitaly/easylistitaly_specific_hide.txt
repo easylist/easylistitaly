@@ -6,6 +6,7 @@ comingsoon.it###BnrRight1
 comingsoon.it###BnrRight2
 fantacalcioservice.it###Box300x250
 novara.com###BoxBlock_8
+tio.ch###BoxTioGame
 tgcom24.mediaset.it###ContentSpecialBox
 comingsoon.it###ExpTop
 sardegna24.net###Hbanner300x250c20
@@ -326,6 +327,7 @@ centrometeoitaliano.it###pubb_home
 legnanonews.com###pubbl_footer_ext
 catanzaroinforma.it###pubbliinmezzo
 meteo.it###publi-medi
+tio.ch###publiRed0
 nonsolocap.it###qk
 moto.it###rchm_overlay
 vg247.it###recommendations
