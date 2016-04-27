@@ -898,6 +898,7 @@ mostraip.com##.spot1
 a-realestate.it##.spot_banner
 ilsole24ore.com##.spot_footer
 ilsecoloxix.it##.square-banner
+mediaset.it##.stickyadv
 applemobile.it##.store
 ravennaedintorni.it##.strillo
 agichina24.it,trend-online.com##.strip
