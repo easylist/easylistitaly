@@ -16,6 +16,7 @@ subito.it#@#.adcont
 bakeca-incontri.net#@#.adtitle
 altervista.org,pianetadonna.it,studenti.it#@#.adv_esterno
 deejay.it#@#.advertorial
+tuttoaffari.com#@#.block-adv
 cardiochirurgia.com#@#.box-ad
 italiasw.com#@#.header-google-ads
 cardiochirurgia.com#@#.list-ads
