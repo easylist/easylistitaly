@@ -933,6 +933,7 @@ turistipercaso.it##.utilink
 bresciaoggi.it,larena.it##.v2_banner-wrapper
 ilgiornaledivicenza.it,larena.it##.v3_horz-banner
 ilsalvagente.it##.video
+la7.it##.view-display-id-la7_consiglia
 giallozafferano.it##.vini-sp
 vivastreet.it##.vs-summary-300x250
 tiscali.it##.w304.mB20
