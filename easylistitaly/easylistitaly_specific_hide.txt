@@ -244,6 +244,7 @@ mercatinomusicale.com###hdr_leaderboard
 latitudeslife.com###head_banner
 fxempire.it,ilsecoloxix.it###head_banners
 cronachemaceratesi.it###head_sponsor
+beverfood.com###headbanner
 modenaonline.info,parmaonline.info,reggionline.com,sportreggio.it###header-banner-pane
 rinnovabili.it###header-bottom
 marigliano.net###header-top
