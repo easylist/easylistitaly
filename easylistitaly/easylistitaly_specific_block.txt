@@ -685,6 +685,7 @@
 ||lipari.biz/banners/
 ||livescore.it/logos/icons/bookmakers/
 ||livescore.it/upload/william-100-5casino.jpg
+||livescore.it/upload/wrapper.jpg?
 ||livesicilia.it/upload/assets/files/1323,-1,729/1170-att.jpg
 ||lnd.it/storage/Sponsor/
 ||lolasesso.com/js/messaggio.js
