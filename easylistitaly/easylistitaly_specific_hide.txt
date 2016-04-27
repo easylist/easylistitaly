@@ -780,6 +780,7 @@ legnanonews.com##.live_pubbl
 myword.it##.login-container[style="height:92px;border:0px solid red;text-align:center;"]
 julienews.it##.long_banner_row
 ludomedia.it##.ludoAdv
+gonews.it##.machette-over-logo
 ilfriuli.it##.main-header__banner
 rockol.it##.main-menu-manchette
 sentireascoltare.com##.mainAdv
