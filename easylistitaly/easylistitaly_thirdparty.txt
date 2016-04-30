@@ -93,6 +93,7 @@
 ||ilpelonelluovo.net/banner/
 ||iltelaiodipenelope.it/banner_exchange/
 ||imagerip.net/images/2014/12/14/button_2.png$domain=filmsenzalimiti.co
+||imagerip.net^*/guarda.png$domain=altadefinizione01.click
 ||immobiliagest.it^$subdocument,third-party
 ||immobiliare.it/widget/$third-party
 ||immobilmente.com/Banner/$third-party
