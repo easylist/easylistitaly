@@ -136,6 +136,8 @@
 @@||gfchannel.altervista.org^$elemhide
 @@||hostingtv.org^$elemhide
 @@||ilsitodellozoo.com^$elemhide
+@@||ilwebmaster21.com^$generichide
+@@||ilwebmaster21.com^$xmlhttprequest
 @@||italiatv.org/advertisement.js
 @@||italiatv.org^$elemhide
 @@||italiatv.org^$script

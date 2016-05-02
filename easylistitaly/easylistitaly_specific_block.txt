@@ -548,6 +548,10 @@
 ||ilvelino.it^*/banner/
 ||ilvolo.it/images/banners/
 ||ilvolo.it/images/stories/banner-
+||ilwebmaster21.com/wp-content/uploads/2014/07/upload.gif
+||ilwebmaster21.com/wp-content/uploads/2014/12/easy.gif
+||ilwebmaster21.com/wp-content/uploads/2015/06/simple.png
+||ilwebmaster21.com/wp-content/uploads/2016/04/data.gif
 ||ilwebmaster21.it/script1.js
 ||imperiapost.it^*/Banner
 ||indie-roccia.it/itunesbox.php?
