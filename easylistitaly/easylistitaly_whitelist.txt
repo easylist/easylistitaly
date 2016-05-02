@@ -124,6 +124,7 @@
 @@||beppegrillo.it^$generichide
 @@||blogspot.com^*#$image,domain=dataok.altervista.org
 @@||calciomercato.com^$generichide
+@@||calciomercato.com^$xmlhttprequest
 @@||cashtrafic.info/ban/*_468x60_$image,domain=italiatv.org
 @@||codeclan.altervista.org^$elemhide
 @@||compitoinclasse.org/script/advertisement.js
