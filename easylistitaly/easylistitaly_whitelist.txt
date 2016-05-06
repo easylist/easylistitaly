@@ -155,6 +155,7 @@
 @@||unmondodibaci.it^$elemhide
 @@||webserver.one/advertisement.js
 @@||worldcomputing.it^$generichide
+@@||yourlifeupdated.net^$generichide
 @@||zeb89.altervista.org^$elemhide
 @@||zeb89.altervista.org^*#$image
 @@||zeusnews.it^$generichide
