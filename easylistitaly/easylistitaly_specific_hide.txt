@@ -1274,5 +1274,6 @@ tomshw.it###notifica_adcont
 termometropolitico.it##[id^="bsa"]
 ! Site Specific filters (used with $generichide)
 forexinfo.it,worldcomputing.it,zeusnews.it##.adsbygoogle
+codeclan.altervista.org##.banner_altervista_300X250
 zeusnews.it##.pagefair-acceptable
 forexinfo.it##div[id^="div-gpt-ad-"]
