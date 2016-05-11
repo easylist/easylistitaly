@@ -92,8 +92,7 @@
 ||iads.iltrovatore.it^
 ||ilpelonelluovo.net/banner/
 ||iltelaiodipenelope.it/banner_exchange/
-||imagerip.net/images/2014/12/14/button_2.png$domain=filmsenzalimiti.co
-||imagerip.net^$domain=altadefinizione01.click
+||imagerip.net^$domain=altadefinizione01.click|filmsenzalimiti.co
 ||immobiliagest.it^$subdocument,third-party
 ||immobiliare.it/widget/$third-party
 ||immobilmente.com/Banner/$third-party
