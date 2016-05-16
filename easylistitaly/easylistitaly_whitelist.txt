@@ -15,7 +15,7 @@
 @@||adv.rtl.it/www/delivery/fc.php?*&zones=pre-roll$object-subrequest
 @@||adv.tre.it/www/$image,script,$~third-party
 @@||adx.adform.net/adx/$xmlhttprequest,domain=vvvvid.it
-@@||adx.adform.net/videoad/$object-subrequest,domain=vvvvid.it
+@@||adx.adform.net/videoad/$object-subrequest,xmlhttprequest,domain=vvvvid.it
 @@||alessandriaoggi.info/images/banners/ALESSANDRIA-OGGI-testata.png
 @@||ansa.it/web/video/videoad.swf$object-subrequest
 @@||ansa.it^*/ad-gallery/$image
