@@ -103,9 +103,13 @@
 ||avvenire.it/Lists/Banners/
 ||avvenire.it/PublishingImages/Bannerini/
 ||avvenire.it/PublishingImages/Piccoli%20Annuci/
+||avvenire.it^*-300x125-
 ||avvenire.it^*/300x250trecani.swf
+||avvenire.it^*/bancoalimentare.jpg
+||avvenire.it^*/banner300x250.
 ||avvenire.it^*/OSF_banner300x250marzo.gif
 ||avvenire.it^*/piccoliannunci.aspx
+||avvenire.it^*/scienza_vita.gif
 ||avvenire.it^*/sinOnlineBannerV2.gif
 ||avvenire.it^*/skin_
 ||avvenire.it^*/skincei1.jpg
