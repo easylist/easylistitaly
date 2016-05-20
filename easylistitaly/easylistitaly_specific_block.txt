@@ -1144,6 +1144,8 @@
 ||tuttotrasporti.it^*/banner/
 ||tv2000.it^*/banner.
 ||tv2000.it^*/banner/
+||tv2000.it^*/skin/
+||tv2000.it^*_300x200.
 ||tvpitalia.it/sponsor/
 ||tvzoom.it/images/banners/
 ||tvzoom.it/minicms/linkwind.png

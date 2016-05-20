@@ -690,7 +690,7 @@ tgcom24.mediaset.it##.boxspeciale
 wiitalia.it##.bsmall
 tiscali.it##.c1c6.f12
 quotidiano.net##.category-SPONSOR
-radioinblu.it##.cei-skin-side
+radioinblu.it,tv2000.it##.cei-skin-side
 businessmagazine.it,fotografidigitali.it,gamemag.it,hwupgrade.it,ilgiorno.it,ilrestodelcarlino.it,lanazione.it,motorionline.com,quotidiano.net##.center_all > div[style="background:#ffffff;border-bottom:1px #ffffff solid;border-top:1px #ffffff solid;margin-bottom:3px;margin-top:3px;"]
 businessmagazine.it,fotografidigitali.it,gamemag.it,hwupgrade.it,ilgiorno.it,ilrestodelcarlino.it,lanazione.it,motorionline.com,quotidiano.net##.center_all > div[style="font-size:small;font-style:normal;font-weight:normal;margin-top:3px;margin-bottom:3px"]
 edilportale.com##.click-Skin
@@ -1224,7 +1224,7 @@ automobili.it##img[width="256"][height="170"]
 parmaquotidiano.info##img[width="290"][height="90"]
 quifinanza.it##img[width="300"][height="120"]
 romanews.eu##img[width="300"][height="150"]
-radioinblu.it##img[width="300"][height="200"]
+radioinblu.it,tv2000.it##img[width="300"][height="200"]
 beverfood.com,pescarasport24.it,radioinblu.it,radiolombardia.it,siciliainrosa.it##img[width="300"][height="250"]
 romanews.eu##img[width="300"][height="300"]
 beverfood.com##img[width="300"][height="600"]
