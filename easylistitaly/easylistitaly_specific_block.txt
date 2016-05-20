@@ -904,6 +904,7 @@
 ||radioglobo.it/img/bg/bg_
 ||radiogold.it/images/banners/
 ||radiogold.it^*/banner/
+||radioinblu.it^*/skin/
 ||radioitalianetwork.fm/images/banners/
 ||radiomanamana.it/stylerays.png
 ||radiomanamana.it/universita_on_line.jpg
@@ -1141,6 +1142,7 @@
 ||tuttosport.com/res/swf/ova.swf$object-subrequest
 ||tuttosport.com^*/label_williamhill.png
 ||tuttotrasporti.it^*/banner/
+||tv2000.it^*/banner.
 ||tv2000.it^*/banner/
 ||tvpitalia.it/sponsor/
 ||tvzoom.it/images/banners/
