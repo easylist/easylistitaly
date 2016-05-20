@@ -84,6 +84,7 @@
 ||fideliux.com/fideliux/banners/
 ||free.netsons.com^
 ||gaggioso.it^$subdocument,third-party
+||gelestatic.it^*/adv/
 ||generik.nanopress.it/highlight_300x280.php
 ||gigacenter.it^$image,third-party
 ||gratislandia.net/banners/
@@ -101,6 +102,7 @@
 ||incontriticino.com/promo/
 ||inetweek.it/comincom/widget/
 ||informaticainitalia.it^$script,third-party
+||insite.sconty.it^$third-party
 ||ipercast.net/uploads/sponsors/
 ||iplaza.it/banner/
 ||iplaza.it/menu/mistercupido.png
