@@ -28,7 +28,7 @@ ladistanza.it###a1[style="top: 523px;"]
 spaziogames.it###a_boder_bg
 2night.it,ascoltareradio.com###ad
 ascoltareradio.com###ad3
-digital-forum.it,ebaygeneration.com,esigarettaforum.com###ad_global_below_navbar
+digital-forum.it,ebaygeneration.com,esigarettaforum.com,thegamesmachine.it###ad_global_below_navbar
 bordighera.net,corriere.it,italianhack.org,mailexpress.it,spaziogames.it###ads
 ilgazzettinovesuviano.com###adsensing
 areanapoli.it,la7.it,ustation.it,virgilio.it,xvideoscopate.com###adv
@@ -403,7 +403,7 @@ ilgiornale.it###tab_annunci
 ladyradio.it###table128[width="492"]
 datamanager.it,techvideo.tv###takeover
 datamanager.it,techvideo.tv###takeover-spazio
-gamesvillage.it,thegamesmachine.it###takeover_gv
+gamesvillage.it###takeover_gv
 genova24.it###takeover_left
 genova24.it###takeover_right
 tomshw.it###testata_giu
