@@ -136,6 +136,7 @@
 ##a[href^="http://crazylead.com/video/"]
 ##a[href^="http://edintorni.net/related/service/sponsor/redirect/?"]
 ##a[href^="http://hdpass.xyz/"]
+##a[href^="http://native.publy.com/related/service/sponsor/redirect/?"]
 ##a[href^="http://tracking.crazylead.com/"]
 ##a[href^="http://w.linkwelove.it/urls/"]
 ##a[href^="http://worldfilia-tracking.ddns.net/"]

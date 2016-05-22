@@ -88,6 +88,7 @@ ansa.it###banner984x45strip
 romagnaoggi.it###banner990
 ilsalvagente.it###bannerBottomExtra
 ilsalvagente.it,lavoripubblici.it###bannerDx
+tusciaweb.eu###bannerFondo
 ilcapoluogo.com###bannerHeader
 ilsalvagente.it###bannerInt
 cittaceleste.it###bannerPrimaEdintorni
@@ -296,6 +297,7 @@ ilfattoquotidiano.it###meetic_quad
 itespresso.it###megabanner
 metalitalia.com###middle-home
 mymovies.it###middle1_companion
+tusciaweb.eu###miesSPLASH
 udinese.it###mod-udinese-sponsor-panel-fulllength
 ciao.it###mod_ph_merchoffer
 digital-news.it###mp
@@ -436,6 +438,7 @@ lonelyplanetitalia.it###top_banner
 giornaledellamusica.it###top_banner_container
 finanza.com###top_content
 oroscopo.it###top_header
+tusciaweb.eu###topalto
 eccolanotiziaquotidiana.it,ipoditalia.it,mrwebmaster.it,tuttoshoppingmotori.com###topbanner
 automoto.it,moto.it###topboard
 everyeye.it###topskin_clicktag
@@ -490,6 +493,7 @@ ricettepercucinare.com##.UAP_Medium_Rectangle
 ricettepercucinare.com##.UAP_Wide_Skyscraper
 rietinvetrina.it##.a-single
 4risate.com,7per24.it,allrecipes.it,ilprimatonazionale.it,ilsole24ore.com,jugo.it,lacrocequotidiano.it,mesagne.me,milanlive.it,servizioallerta.it,tripadvisor.it##.ad
+tusciaweb.eu##.ad-article
 corriereitaliano.com##.ad-box
 portaportese.it##.adL
 trustpilot.it##.adblock
