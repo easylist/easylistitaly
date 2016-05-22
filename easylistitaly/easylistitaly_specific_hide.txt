@@ -497,7 +497,7 @@ tusciaweb.eu##.ad-article
 corriereitaliano.com##.ad-box
 portaportese.it##.adL
 trustpilot.it##.adblock
-america24.com,gianlucadimarzio.com##.adbox
+america24.com,gianlucadimarzio.com,it.videogamer.com##.adbox
 loradellacalabria.it##.add768int
 pinkdna.it##.adds300x250
 zapster.it##.addx

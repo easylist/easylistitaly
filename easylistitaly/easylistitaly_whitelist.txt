@@ -140,6 +140,7 @@
 @@||ilsitodellozoo.com^$elemhide
 @@||ilwebmaster21.com^$generichide
 @@||ilwebmaster21.com^$xmlhttprequest
+@@||it.videogamer.com/wp-content/themes/videogamer/js/ads.js
 @@||italiatv.org/advertisement.js
 @@||italiatv.org^$elemhide
 @@||italiatv.org^$script
