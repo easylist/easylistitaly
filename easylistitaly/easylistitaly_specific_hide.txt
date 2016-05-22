@@ -932,6 +932,7 @@ mrstiff.it##.topad
 mesagne.me,neveitalia.it,terzobinario.it##.topbanner
 agichina24.it##.topbanner1
 vistointv.net##.topbanner2
+everyeye.it##.topskin
 turistipercaso.it##.trovaviaggi
 tiscali.it##.ts-headbanner
 tiscali.it##.tsr.mB20
