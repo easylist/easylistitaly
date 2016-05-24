@@ -691,6 +691,7 @@ gazzettadiparma.it##.box_preview_column_promo_article
 subito.it##.box_sponsor
 livescore.it##.box_top_books
 tgcom24.mediaset.it##.boxspeciale
+forexinfo.it##.broker-tabella_container_aside
 wiitalia.it##.bsmall
 tiscali.it##.c1c6.f12
 quotidiano.net##.category-SPONSOR
