@@ -440,6 +440,7 @@
 ||html5today.it/images/banners/
 ||hubcomunicazione.it/images/banners/
 ||hwmobile.it/images/banners/
+||hwupgrade.it/Amazon/
 ||hwupgrade.it/speciali/*/300x100-
 ||hwupgrade.org/banner/
 ||hwupgrade.org/forum/lariffa.gif

@@ -130,6 +130,7 @@
 ##a[href^="//w.linkwelove.it/urls/"]
 ##a[href^="http://ads.williamhill.it/"]
 ##a[href^="http://adserver.html.it/"]
+##a[href^="http://adserver.hwupgrade.it/"]
 ##a[href^="http://adserver.ilmessaggero.it/"]
 ##a[href^="http://adv.ilsole24ore.it/"]
 ##a[href^="http://affiliazioniads.snai.it/"]
