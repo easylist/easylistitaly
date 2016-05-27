@@ -877,6 +877,7 @@
 ||puglialive.net/dfiles/banners/
 ||puntocellulare.it/banner/
 ||pupia.tv/banner-
+||qdpnews.it/images/banners/
 ||qds.it/docs/mariluranch-
 ||qds.it/docs/SICEP.jpg
 ||quelliche.net^*/file_banner/

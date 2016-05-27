@@ -287,8 +287,8 @@ eurogamer.it###low-leaderboard
 catanzaroinforma.it###mainsponsor
 catanzaroinforma.it###mainsponsorcronaca
 legnanonews.com###makeMeScrollable
-viterbopost.it###manchette-dx
-viterbopost.it###manchette-sx
+qdpnews.it,viterbopost.it###manchette-dx
+qdpnews.it,viterbopost.it###manchette-sx
 laroma24.it###marketingRotator
 it.msn.com###markette
 ondarock.it###masthead_or
@@ -643,7 +643,7 @@ ipoditalia.it##.banner_topright
 galileonet.it##.banner_vert
 techarena.it##.bannercentro
 trovaprezzi.it##.bannerdiv
-alessandriaoggi.info,lametino.it,laquila1.it,tecnicadellascuola.it,uninews24.it##.bannergroup
+alessandriaoggi.info,lametino.it,laquila1.it,qdpnews.it,tecnicadellascuola.it,uninews24.it##.bannergroup
 paviapiu.it##.bannergroupnomarginall
 radiogold.it##.bannergroupskin-banner-module
 you-ng.it##.banneritem
