@@ -114,10 +114,11 @@
 @@.gif#$domain=naturaselvaggia2.altervista.org
 @@.jpg#$domain=riparodasolo.altervista.org
 @@.png#$domain=codeclan.altervista.org|gfchannel.altervista.org|italiatv.org|naturaselvaggia2.altervista.org|unmondodibaci.it|webserver.one|webtvhd.com|worldcomputing.it
-@@|https://$image,third-party,domain=animesubita.info
+@@|https://$image,third-party,domain=animesubita.info|anizilla.com
 @@||adcash.com/ad/display.php?$script,domain=italiatv.org
 @@||adcash.com/ban/*_468x60_$image,domain=italiatv.org
 @@||animesubita.info^$generichide
+@@||anizilla.com^$elemhide
 @@||aranzulla.it^$generichide
 @@||badcomics.it^*/bad-analytics/$script
 @@||badgames.it^*/bad-analytics/$script
