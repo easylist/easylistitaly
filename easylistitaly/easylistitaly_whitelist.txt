@@ -118,6 +118,7 @@
 @@||adcash.com/ad/display.php?$script,domain=italiatv.org
 @@||adcash.com/ban/*_468x60_$image,domain=italiatv.org
 @@||animesubita.info^$generichide
+@@||aranzulla.it^$generichide
 @@||badcomics.it^*/bad-analytics/$script
 @@||badgames.it^*/bad-analytics/$script
 @@||badtaste.it^*/bad-analytics/$script
