@@ -211,6 +211,7 @@ autoseller.it###ctl00_ContentCentraleBanner
 firstonline.info###ctl00_cph_main_banner1_p1
 ticinonews.ch###ctl00_rectangleleaderhome1_FormView1_ctl00_Banmanpro3Label
 pianetatech.it###div-banner-300
+mmtitalia.it###div-bannerHome-Top
 amando.it###div-dx_300x250
 metropolisweb.it###divBanner300x250
 internapoli.it###divHeader
@@ -1053,6 +1054,7 @@ iphoneitalia.com##div[style="height:90px;display:block;width:1045px;"]
 iphoneitalia.com##div[style="height:90px;display:block;width:1045px;margin-top:40px;"]
 pronostici-scommesse.info##div[style="height:90px;width:728px;position:relative;left:136px;"]
 meteoconsult.it##div[style="height:95px; padding-top:8px; padding-bottom:12px; overflow:hidden; text-align:center;"]
+mmtitalia.it##div[style="margin-bottom:4%; text-align:center; height: 250px"]
 juzaphoto.com##div[style="margin-left: auto; margin-right: auto; width: 730px"]
 telmi.it##div[style="margin-left:0px; margin-top: 10px; position:relative; float:left; height: 160px; width: 920px;"]
 tmnews.it##div[style="margin-top: 10px; margin-bottom: 10px; margin-left: auto; margin-right: auto; width: 728px; height: 90px;"]
