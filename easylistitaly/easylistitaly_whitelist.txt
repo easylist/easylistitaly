@@ -46,7 +46,7 @@
 @@||eyewonder.com^*/video/$object-subrequest,domain=serviziopubblico.it
 @@||files.adform.net/banners/stream/$object-subrequest,domain=liberoquotidiano.it
 @@||foolbite.com/foolbite/*_pubblicita_$~third-party
-@@||forads.iltrovatore.it/geoip/json/|$xmlhttprequest
+@@||forads.iltrovatore.it/geoip/json/|$xmlhttprequest,domain=la7.it
 @@||forebase.com/plugin/*/images/ads/$image
 @@||forebase.com/plugin/ads.htm?$subdocument
 @@||gelocal.it/adimages/
