@@ -150,6 +150,7 @@
 @@||italiatv.org/advertisement.js
 @@||italiatv.org^$elemhide
 @@||italiatv.org^$script
+@@||la-cosa.it^$generichide
 @@||mobileuniverse.it/advertisement.js
 @@||mtv.it/advertisement.js
 @@||naturaselvaggia2.altervista.org^$elemhide
