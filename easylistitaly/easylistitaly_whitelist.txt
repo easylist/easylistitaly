@@ -117,6 +117,7 @@
 @@.gif#$domain=naturaselvaggia2.altervista.org
 @@.jpg#$domain=riparodasolo.altervista.org
 @@.png#$domain=codeclan.altervista.org|gfchannel.altervista.org|italiatv.org|naturaselvaggia2.altervista.org|unmondodibaci.it|webserver.one|webtvhd.com|worldcomputing.it
+@@|http://$image,third-party,domain=zeusnews.com
 @@|https://$image,third-party,domain=animesubita.info|anizilla.com
 @@||adcash.com/ad/display.php?$script,domain=italiatv.org
 @@||adcash.com/ban/*_468x60_$image,domain=italiatv.org
@@ -168,4 +169,5 @@
 @@||yourlifeupdated.net^$generichide
 @@||zeb89.altervista.org^$elemhide
 @@||zeb89.altervista.org^*#$image
+@@||zeusnews.com^$generichide
 @@||zeusnews.it^$generichide
