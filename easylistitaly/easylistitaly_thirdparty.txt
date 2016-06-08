@@ -167,6 +167,7 @@
 ||scambiobanner.aruba.it^$third-party
 ||scambiobanner.net-parade.it^$third-party
 ||scimmiablu.altervista.org/cpm/
+||sconty.it/img/banner/
 ||sda.quinews.net^
 ||secureholiday.net/moteur/v3/camperonline/min_form.aspx?$third-party
 ||sereni.net/images/banner/
