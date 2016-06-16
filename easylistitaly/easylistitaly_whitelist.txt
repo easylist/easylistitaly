@@ -158,11 +158,11 @@
 @@||veronasera.it^$generichide
 @@||vicenzatoday.it^$generichide
 ! Anti-Adblock
-@@.png#$domain=codeclan.altervista.org|italiatv.org|webserver.one|webtvhd.com|worldcomputing.it
+@@.jpg#$domain=italia-tv.org
+@@.png#$domain=codeclan.altervista.org|italia-tv.org|webserver.one|webtvhd.com|worldcomputing.it
 @@|http://$image,third-party,domain=zeusnews.com
 @@|https://$image,third-party,domain=animesubita.info|anizilla.com
-@@||adcash.com/ad/display.php?$script,domain=italiatv.org
-@@||adcash.com/ban/*_468x60_$image,domain=italiatv.org
+@@||ads.viralize.tv/display/$script,domain=italia-tv.org
 @@||animesubita.info^$generichide
 @@||anizilla.com^$generichide
 @@||aranzulla.it^$generichide
@@ -173,7 +173,6 @@
 @@||beppegrillo.it^$generichide
 @@||calciomercato.com^$generichide
 @@||calciomercato.com^$xmlhttprequest
-@@||cashtrafic.info/ban/*_468x60_$image,domain=italiatv.org
 @@||codeclan.altervista.org^$generichide
 @@||compitoinclasse.org/script/advertisement.js
 @@||dasolo.org/advertisement.js
@@ -185,9 +184,7 @@
 @@||ilwebmaster21.com^$generichide
 @@||ilwebmaster21.com^$xmlhttprequest
 @@||it.videogamer.com/wp-content/themes/videogamer/js/ads.js
-@@||italiatv.org/advertisement.js
-@@||italiatv.org^$elemhide
-@@||italiatv.org^$script
+@@||italiatv.ga^$generichide
 @@||la-cosa.it^$generichide
 @@||mobileuniverse.it/advertisement.js
 @@||mtv.it/advertisement.js
