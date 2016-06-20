@@ -122,6 +122,7 @@
 ||macrolibrarsi.it/banners/
 ||macrolibrarsi.org/banner/
 ||macrolibrarsi.s3.amazonaws.com/img/banner_partner/
+||mediaadv.mediaon.it^
 ||mediaon.it/objects/deal_list/
 ||mmvid.s3.amazonaws.com^
 ||mondojuventus.it^$third-party
