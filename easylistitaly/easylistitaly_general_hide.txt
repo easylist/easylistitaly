@@ -79,6 +79,7 @@
 ##.adv_oriz
 ##.adv_vert
 ##.advhead
+##.advnext_correlati
 ##.advricaricamediamond
 ##.av-banner-728X90
 ##.bannervcms
