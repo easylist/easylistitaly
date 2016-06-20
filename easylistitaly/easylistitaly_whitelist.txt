@@ -185,6 +185,7 @@
 @@||ilwebmaster21.com^$xmlhttprequest
 @@||it.videogamer.com/wp-content/themes/videogamer/js/ads.js
 @@||italiatv.ga^$generichide
+@@||kxcdn.com^$script,domain=aranzulla.it
 @@||la-cosa.it^$generichide
 @@||mobileuniverse.it/advertisement.js
 @@||mtv.it/advertisement.js
