@@ -369,7 +369,7 @@ iovivoaroma.org###skin_link_dx
 iovivoaroma.org###skin_link_sx
 cronachemaceratesi.it###skinabove
 rockit.it###skinbanner
-bikechannel.it,catanzaroinforma.it,filmtv.it,gazzettadiavellino.it,gazzettadinapoli.it,gazzettadisalerno.it,ilcorrieredabruzzo.it,lazionews24.com,salernonotizie.it###skinlink
+bikechannel.it,catanzaroinforma.it,filmtv.it,gazzettadiavellino.it,gazzettadinapoli.it,gazzettadisalerno.it,ilcorrieredabruzzo.it,lazionews24.com,lospiffero.com,salernonotizie.it###skinlink
 ebay.it###skyscrape
 eurogamer.it###skyscraper
 casateonline.it,merateonline.it###sottotestata

@@ -707,6 +707,7 @@
 ||lombardianews.it/banner/
 ||loraquotidiano.it/wp-content/banners/
 ||lospiffero.com/banner/
+||lospiffero.com/images/graphics/skin
 ||losportivo.sm/img/banner/
 ||luccaindiretta.it/images/banners/
 ||lultimaribattuta.it^*banner
