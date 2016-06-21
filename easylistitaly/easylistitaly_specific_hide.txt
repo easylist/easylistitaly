@@ -373,6 +373,7 @@ bikechannel.it,catanzaroinforma.it,filmtv.it,gazzettadiavellino.it,gazzettadinap
 ebay.it###skyscrape
 eurogamer.it###skyscraper
 casateonline.it,merateonline.it###sottotestata
+corrieredellacalabria.it###sovrapposto
 tgcom24.it###spaceBanner_rn_u
 primissima.it###space_banner
 mediaset.it###spalla-banner
@@ -644,7 +645,7 @@ ipoditalia.it##.banner_topright
 galileonet.it##.banner_vert
 techarena.it##.bannercentro
 trovaprezzi.it##.bannerdiv
-alessandriaoggi.info,lametino.it,laquila1.it,qdpnews.it,tecnicadellascuola.it,uninews24.it##.bannergroup
+alessandriaoggi.info,corrieredellacalabria.it,lametino.it,laquila1.it,qdpnews.it,tecnicadellascuola.it,uninews24.it##.bannergroup
 paviapiu.it##.bannergroupnomarginall
 radiogold.it##.bannergroupskin-banner-module
 you-ng.it##.banneritem
