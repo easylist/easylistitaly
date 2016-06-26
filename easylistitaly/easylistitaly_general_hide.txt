@@ -51,6 +51,7 @@
 ###fwnetblocco160x600
 ###fwnetblocco300x300
 ###fwnetblocco_v
+###hp_sez_advmkt_01
 ###leo-adv
 ###libero_header_adv
 ###mmAdDivSkDx

@@ -815,6 +815,7 @@ melamorsicata.it##.mela_ban_3
 sportivissimo.com##.menu4
 rovigooggi.it##.miele
 bastardidentro.it##.minibox
+gazzetta.it##.mkt-780x100-box
 ilturista.info##.more-holder
 secondamano.it##.moreblock
 affaritaliani.it##.mpe_sponsor
