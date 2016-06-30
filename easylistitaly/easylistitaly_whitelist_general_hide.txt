@@ -25,6 +25,7 @@ corrierecomo.it,corrieredicomo.it#@#.module-ad
 latinomagazine.it#@#.moduletable-advert
 camperonline.it,italiasw.com#@#.pubblicita
 meteo.it#@#.section-sponsor
+brocardi.it#@#.with-background-ads
 d1khqztmu4w2hg.cloudfront.net,lafucina.it,mmorpgitalia.it,tzetze.it#@#div[id^="div-gpt-ad"]
 ! Anti-Adblock
 dbplanet.net#@##ad_block
