@@ -191,6 +191,7 @@
 @@||mtv.it/advertisement.js
 @@||pagead2.googlesyndication.com/pagead/|$image,domain=dasolo.org
 @@||pokmon-forever.forumfree.it^$image
+@@||popcorntv.it^$generichide
 @@||static.vvvvid.it^$image,xmlhttprequest
 @@||thegamesmachine.it^*/ad-block-defender/$script
 @@||webserver.one/advertisement.js
