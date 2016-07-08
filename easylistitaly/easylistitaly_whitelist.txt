@@ -34,6 +34,7 @@
 @@||centrosangiorgio.com^*_pubblicita/
 @@||cheapnet.it/adv/$~third-party
 @@||corrieredellosport.it/res/advertising/ad.js
+@@||deejay.it^*download.deejay.it/adv/podcast/$subdocument
 @@||des.smartclip.net/ads?$xmlhttprequest,domain=vvvvid.it
 @@||dincontri.com/ads/galleries/crops/$image,~third-party
 @@||dotandad.com/crossdomain.xml$object-subrequest,domain=r101.it|radioitalia.it
