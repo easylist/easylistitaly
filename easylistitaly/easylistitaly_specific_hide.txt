@@ -568,6 +568,7 @@ rl1.it##.banner-main
 genova24.it,ivg.it##.banner-middle-board
 corrieredinovara.com##.banner-mix
 ilikepuglia.it##.banner-placeholder
+classeuractiv.it##.banner-pos
 digital-news.it##.banner-separazione
 milanofinanza.it##.banner-sfondo
 digital-news.it,telesud3.com##.banner-sidebar
