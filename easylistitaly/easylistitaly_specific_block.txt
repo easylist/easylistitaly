@@ -216,6 +216,7 @@
 ||comicradio.it/swf/banner_rotator.swf
 ||comingsoon.it/fcred.asp?$object-subrequest
 ||comingsoon.it/imgdb/banner/
+||comprovendolibri.it/sponsor/
 ||concertionline.com^*-1000x30.gif
 ||concertionline.com^*/300x1501.gif
 ||condominioweb.com/banner/

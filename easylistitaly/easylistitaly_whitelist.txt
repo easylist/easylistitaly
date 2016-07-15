@@ -80,10 +80,10 @@
 @@||pad.mymovies.it/v9/adv/media/preroll/*.flv$object-subrequest
 @@||paesesera.it/design/paesesera/stylesheets/advertising.css
 @@||pagead2.googlesyndication.com/pagead/googlevideoadslibrary.swf$object-subrequest,domain=giochidicalcio.com
-@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=faqmozilla.org|quelchenonsapevi.it|unmondodibaci.it|windowsblogitalia.com
+@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=comprovendolibri.it|faqmozilla.org|quelchenonsapevi.it|unmondodibaci.it|windowsblogitalia.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=faqmozilla.org|quelchenonsapevi.it|unmondodibaci.it|windowsblogitalia.com
 @@||pagead2.googlesyndication.com/pagead/scache/googlevideoads.swf$object-subrequest,domain=giochidicalcio.com
-@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=dbplanet.net|ipaditalia.com|iphoneitalia.com
+@@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=comprovendolibri.it|dbplanet.net|ipaditalia.com|iphoneitalia.com
 @@||panorama.it/adv/$image
 @@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=sky.it
 @@||portalecomuni.net^*/ShowBanner.aspx$image
@@ -176,6 +176,7 @@
 @@||calciomercato.com^$xmlhttprequest
 @@||codeclan.altervista.org^$generichide
 @@||compitoinclasse.org/script/advertisement.js
+@@||comprovendolibri.it^$generichide
 @@||dasolo.org/advertisement.js
 @@||dasolo.org^$generichide
 @@||fiatti.com/adframe.js
