@@ -191,6 +191,7 @@
 @@||italiatv.ga^$generichide
 @@||kxcdn.com^$script,domain=aranzulla.it
 @@||la-cosa.it^$generichide
+@@||ladige.it^$generichide
 @@||mobileuniverse.it/advertisement.js
 @@||mtv.it/advertisement.js
 @@||pagead2.googlesyndication.com/pagead/|$image,domain=dasolo.org
