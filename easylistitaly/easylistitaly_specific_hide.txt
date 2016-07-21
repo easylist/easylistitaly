@@ -507,10 +507,11 @@ brocardi.it,caserta24ore.it,fantagazzetta.com,gamemag.it,hdblog.it,ilikepuglia.i
 meteowebcam.it##.ads_menu
 corriereadriatico.it,ilgazzettino.it,ilmattino.it,ilmessaggero.it,ilsecoloxix.it,leggo.it,pcprofessionale.it,pubblicitaitalia.it,quotidianodipuglia.it##.adsense
 meteowebcam.it##.adsense_menu
-a-realestate.it,adessoin.tv,animalidalmondo.it,ansa.it,beauty.it,calciomercato.com,corrieredellosport.it,dagospia.com,esseresani.it,faidatemania.it,gay.it,gds.it,gelocal.it,giornalettismo.com,greenstyle.it,gta-expert.it,guidecucina.it,ideeviaggi.it,ilfattoquotidiano.it,ilsole24ore.com,iobloggo.com,iogames.it,iomobile.it,lavoroefinanza.it,lonelyplanetitalia.it,ludomedia.it,mammaebambino.it,mtv.it,nonsolocultura.it,odiami.it,outcast.it,pianetagreen.it,pianetamotori.it,prealpina.it,radiolina.it,radiomontecarlo.net,repubblica.it,romagnaoggi.it,sentireascoltare.com,sky.it,sportpower.it,tuttopercasa.it,verytech.it,virgilio.it,vivalascuola.it,vocenuova.tv##.adv
+a-realestate.it,adessoin.tv,animalidalmondo.it,ansa.it,beauty.it,calciomercato.com,coratolive.it,corrieredellosport.it,dagospia.com,esseresani.it,faidatemania.it,gay.it,gds.it,gelocal.it,giornalettismo.com,greenstyle.it,gta-expert.it,guidecucina.it,ideeviaggi.it,ilfattoquotidiano.it,ilsole24ore.com,iobloggo.com,iogames.it,iomobile.it,lavoroefinanza.it,lonelyplanetitalia.it,ludomedia.it,mammaebambino.it,mtv.it,nonsolocultura.it,odiami.it,outcast.it,pianetagreen.it,pianetamotori.it,prealpina.it,radiolina.it,radiomontecarlo.net,repubblica.it,romagnaoggi.it,sentireascoltare.com,sky.it,sportpower.it,tuttopercasa.it,verytech.it,virgilio.it,vivalascuola.it,vocenuova.tv##.adv
 nextquotidiano.it##.adv-1
 famigliacristiana.it##.adv-box
 motori.it##.adv-items
+coratolive.it##.adv-news
 oktennis.it##.adv1
 delleconomia.it##.adv200
 virgilio.it##.advTuning
@@ -773,6 +774,7 @@ ildesk.it##.img_banner385x50
 autoline-eu.it##.index-center-banners-1
 autoline-eu.it##.index-main-banners
 gazzetta.it##.info-quote
+coratolive.it##.inner-adv-news
 sardegnareporter.it##.innerfade[style="margin-bottom: 10px; position: relative; height: 295px;"]
 motousate.it##.item.link
 mtv.it##.itunes

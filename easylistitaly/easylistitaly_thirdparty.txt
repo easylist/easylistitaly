@@ -118,6 +118,7 @@
 ||laricettadellostudente.it^$third-party
 ||libreriadelsanto.it/banners/$third-party
 ||linearadio.it/bnrs/
+||livenetwork.it/skinoverlay/
 ||locandinebest.net/locandina/$subdocument,third-party
 ||macrolibrarsi.it/banners/
 ||macrolibrarsi.org/banner/
