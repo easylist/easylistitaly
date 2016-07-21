@@ -878,6 +878,7 @@ ivg.it##.sb-banner
 flashgames.it##.scheda_ppc
 tomshw.it##.scontitech
 areanapoli.it##.sdoo_cnt
+treccani.it##.search-adv
 apollodoro.it,ecoo.it,gaywave.it,haisentito.it,nanopress.it,tantasalute.it##.sectCntGoogle3
 guidamonaci.it##.separatorFooter
 ilnuovocalcio.it##.sfondo
