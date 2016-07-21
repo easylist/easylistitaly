@@ -1031,6 +1031,7 @@
 ||spaziogames.it/banner/
 ||spaziogames.it/images/backgrounds/
 ||spaziogames.it^*/banner_
+||spaziomilan.it^*/tuttoautoricambi_
 ||spoletonline.com/banner/
 ||sponsor.imperiapost.it^
 ||sportal.it/banner/
