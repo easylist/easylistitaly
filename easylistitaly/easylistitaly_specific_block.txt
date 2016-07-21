@@ -1268,5 +1268,9 @@
 ||zipnews.it/sai.jpg
 ! Anti-Adblock
 ||3bmeteo.com^*/adblock.png
+||badcomics.it^*/default.include-footer.$script
+||badgames.it^*/default.include-footer.$script
+||badtaste.it^*/default.include-footer.$script
+||badtv.it^*/default.include-footer.$script
 ||calciomercato.com^*/cm.adb.js
 ||swzz.xyz/noadblock.png
