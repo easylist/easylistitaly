@@ -167,6 +167,7 @@
 @@||animesubita.info^$generichide
 @@||anizilla.com^$generichide
 @@||aranzulla.it^$generichide
+@@||archivio.corriere.it^$generichide
 @@||badcomics.it^*/bad-analytics/$script
 @@||badgames.it^*/bad-analytics/$script
 @@||badtaste.it^*/bad-analytics/$script
