@@ -617,6 +617,7 @@
 ||lacnews24.it/filemanager/skinz/
 ||ladige.it/internal/immobiliare/
 ||ladigetto.it/files/banners/
+||lafedelta.it^*/banner/
 ||lagazzettadelmezzogiorno.it/banner_pk/
 ||lagazzettadelmezzogiorno.it/images/fc_bari_1908.swf
 ||lagazzettadilucca.it^*/inserzioni/

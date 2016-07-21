@@ -669,6 +669,7 @@ libero.it##.big
 gazzettinodelchianti.it##.big_link
 youreporter.it##.bigrectangle600
 ladige.it##.block--dfp
+lafedelta.it##.block-banners
 ilgiornale.it##.block-ilg-adsense
 ilroma.net##.block-rotating-banner
 ilcapoluogo.com##.block-view-bannerSlide
