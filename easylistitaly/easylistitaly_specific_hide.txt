@@ -564,6 +564,7 @@ rl1.it##.banner-head
 algheroeco.com##.banner-header-dx
 algheroeco.com##.banner-header-sx
 italiafruit.net##.banner-i
+newsauto.it##.banner-lead
 italiafruit.net##.banner-m
 rl1.it##.banner-main
 genova24.it,ivg.it##.banner-middle-board
