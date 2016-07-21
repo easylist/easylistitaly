@@ -49,8 +49,6 @@ eurogamer.it###auto-amazon-link
 sportmediaset.it###b300xn
 libero.it###b468x60bottoms
 242movietv.com###back_inside
-calciomercato.com###background_left
-calciomercato.com###background_right
 beverfood.com###backy
 lastampa.it###badge
 advertiser.it,asylumitalia.it,bitcity.it,car4you.it,fiorentinanews.com,forzapescara.net,grandefratellonews.com,meteo-emiliaromagna.it,rvuno.it,tendenzeonline.info,webpedia.altervista.org###banner
