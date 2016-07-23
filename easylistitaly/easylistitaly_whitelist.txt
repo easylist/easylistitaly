@@ -197,6 +197,7 @@
 @@||pagead2.googlesyndication.com/pagead/|$image,domain=dasolo.org
 @@||pokmon-forever.forumfree.it^$image
 @@||popcorntv.it^$generichide
+@@||scambiofile.info/js/ads.$script
 @@||static.vvvvid.it^$image,xmlhttprequest
 @@||thegamesmachine.it^*/ad-block-defender/$script
 @@||webserver.one/advertisement.js
