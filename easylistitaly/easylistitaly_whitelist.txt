@@ -163,6 +163,7 @@
 @@.png#$domain=codeclan.altervista.org|italia-tv.org|webserver.one|webtvhd.com|worldcomputing.it
 @@|http://$image,third-party,domain=zeusnews.com
 @@|https://$image,third-party,domain=animesubita.info|anizilla.com
+@@||3bmeteo.com/js/advert.js
 @@||ads.viralize.tv/display/$script,domain=italia-tv.org
 @@||adv.calciomercato.com/api/ads/banners|$script
 @@||animesubita.info^$generichide
