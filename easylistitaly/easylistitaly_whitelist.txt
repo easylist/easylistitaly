@@ -208,3 +208,5 @@
 @@||zeb89.altervista.org^*#$image
 @@||zeusnews.com^$generichide
 @@||zeusnews.it^$generichide
+! Ammadv.it
+@@||admin.ammadv.it/pop-under.it/$~third-party
