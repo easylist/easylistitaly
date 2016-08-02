@@ -588,6 +588,7 @@ ecodallecitta.it,ilcapoluogo.com##.banner3
 firstonline.info,mediapason.it##.banner300
 outcast.it##.banner300250
 askanews.it,fotografidigitali.it,hwupgrade.it,italiaoggi.it,milanofinanza.it,rai.it##.banner300x250
+tiscali.it##.banner320x250
 ildesk.it##.banner385x198
 ecodallecitta.it,ilcapoluogo.com##.banner4
 ildesk.it##.banner468x60
@@ -776,6 +777,7 @@ autoline-eu.it##.index-main-banners
 gazzetta.it##.info-quote
 coratolive.it##.inner-adv-news
 sardegnareporter.it##.innerfade[style="margin-bottom: 10px; position: relative; height: 295px;"]
+tiscali.it##.istella-shopping
 motousate.it##.item.link
 mtv.it##.itunes
 rtl.it##.itunes-btn
