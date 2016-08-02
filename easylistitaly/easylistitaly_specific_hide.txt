@@ -654,7 +654,7 @@ you-ng.it##.banneritem
 centrometeo.com##.banneritemcenterdx
 finanzaonline.com##.bannerlbforum
 messinaweb.tv##.bannerpostsingle
-nonsolocinema.com##.banners
+alverde.net,nonsolocinema.com##.banners
 ilquotidianofvg.it##.banners-125
 cremonaoggi.it##.bannersx
 album-mmt.it,gossip.it,musictory.it##.bannertop

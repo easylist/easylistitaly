@@ -57,6 +57,7 @@
 ||altarimini.it/bannerBoxCatalog.php
 ||altoadigetv.it/images/social/banner
 ||alverde.net/banner/
+||alverde.net^*/skin-
 ||amadeusonline.net/banner/
 ||amadeusonline.net/partner/
 ||amadeusonline.net/sponsor/
