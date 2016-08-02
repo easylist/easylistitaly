@@ -1168,6 +1168,7 @@
 ||tuttobasket.net/assist_
 ||tuttobasket.net/banner_
 ||tuttobasket.net^*/banner_
+||tuttocampo.it/Web/Images/Banners/
 ||tuttogratis.it/imgbanner/
 ||tuttogratis.it/js/tgsense_
 ||tuttosport.com/dinamiche/serviziXml/bwin.jsp?
