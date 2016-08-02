@@ -71,6 +71,8 @@
 ###top3-pubbli
 ##.Banner_VideoAd_Interno
 ##.adagiowritebanner_dmtag
+##.ads_topdx
+##.ads_topsx
 ##.adv-articolo
 ##.adv-iframe-sx
 ##.adv300eni
