@@ -165,7 +165,7 @@
 @@|https://$image,third-party,domain=animesubita.info|anizilla.com
 @@||3bmeteo.com/js/advert.js
 @@||ads.viralize.tv/display/$script,domain=italia-tv.org
-@@||adv.calciomercato.com/api/ads/banners?$script
+@@||adv.calciomercato.com^$script
 @@||advertising-adv.aranzulla.it^*?ads=true$image,script,domain=aranzulla.it
 @@||animesubita.info^$generichide
 @@||anizilla.com^$generichide
