@@ -166,6 +166,7 @@
 @@||3bmeteo.com/js/advert.js
 @@||ads.viralize.tv/display/$script,domain=italia-tv.org
 @@||adv.calciomercato.com/api/ads/banners?$script
+@@||advertising-adv.aranzulla.it^*?ads=true$image,script,domain=aranzulla.it
 @@||animesubita.info^$generichide
 @@||anizilla.com^$generichide
 @@||aranzulla.it^$generichide
@@ -195,7 +196,8 @@
 @@||ladige.it^$generichide
 @@||mobileuniverse.it/advertisement.js
 @@||mtv.it/advertisement.js
-@@||pagead2.googlesyndication.com/pagead/|$image,domain=dasolo.org
+@@||pagead2.googlesyndication.com/pagead/|$image,domain=aranzulla.it|dasolo.org
+@@||pagead2.googlesyndication.com/|$image,domain=aranzulla.it
 @@||pokmon-forever.forumfree.it^$image
 @@||popcorntv.it^$generichide
 @@||scambiofile.info/js/ads.$script
