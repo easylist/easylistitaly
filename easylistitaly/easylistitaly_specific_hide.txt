@@ -1122,6 +1122,7 @@ corriereromagna.it##div[style="width: 300px; height: 250px; border: 0px solid bl
 tiscali.it##div[style="width: 300px; height: 250px; vertical-align: top; text-align: left;"]
 libero.it,paginebianche.it##div[style="width: 300px; height: 250px;"]
 incircolo.altervista.org##div[style="width: 300px; height: 260px; margin-top: 10px;"]
+ivg.it##div[style="width: 300px; height: 80px; overflow: hidden; font: bold 13px/17px arial, sans-serif;text-align:left;color:#666;text-align:center"]
 blogo.it##div[style="width: 300px;height: 250px;"]
 dtti.it##div[style="width: 336px; height: 280px; padding: 1px 1px 1px 0; float: left; margin-left: 0; margin-right: 18px;"]
 articolotre.com##div[style="width: 500px; min-height: 50px; border-bottom: 1px dotted rgb(205, 23, 19); padding: 0px 0px 5px; margin: 0px; background-color: rgb(232, 239, 252);"]

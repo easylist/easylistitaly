@@ -185,12 +185,14 @@
 @@||dasolo.org^$generichide
 @@||fiatti.com/adframe.js
 @@||forexinfo.it^$generichide
+@@||genova24.it^*/ads.js
 @@||hostingtv.org^$elemhide
 @@||ilsitodellozoo.com^$generichide
 @@||ilwebmaster21.com^$generichide
 @@||ilwebmaster21.com^$xmlhttprequest
 @@||it.videogamer.com/wp-content/themes/videogamer/js/ads.js
 @@||italiatv.ga^$generichide
+@@||ivg.it^*/ads.js
 @@||kxcdn.com^$script,domain=aranzulla.it
 @@||la-cosa.it^$generichide
 @@||ladige.it^$generichide
