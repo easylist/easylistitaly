@@ -219,6 +219,7 @@ key4biz.it###ebookNews
 comingsoon.it###expSkin
 tipiace.it###externalbanner
 imperiapost.it###extlnk
+cassino24.it###featured-wrapper
 sentireascoltare.com###firstAdv
 gqitalia.it###fogliaBanner
 avvisatore.ilsecoloxix.it,lavocedivenezia.it,shippingonline.ilsecoloxix.it,ttmweb.it###footer
