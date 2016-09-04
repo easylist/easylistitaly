@@ -73,6 +73,7 @@
 ##.adagiowritebanner_dmtag
 ##.ads_topdx
 ##.ads_topsx
+##.adsbyawcloud
 ##.adv-articolo
 ##.adv-iframe-sx
 ##.adv300eni
