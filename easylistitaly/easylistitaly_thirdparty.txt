@@ -33,9 +33,11 @@
 ||banzaimedia.it/hpsponsor/
 ||bazarcoupon.com/images/$third-party
 ||betpro.it^*/banner/
+||blogspot.com^*/banner-vadovia.jpg$domain=smetteredilavorare.it
 ||blogspot.com^*/download_728.gif
 ||blogspot.com^*/download_728_2.gif
 ||blogspot.com^*/downloadnow_it_468.png
+||blogspot.com^*/e-book-life.jpg$domain=smetteredilavorare.it
 ||booking.com^$subdocument,domain=iltempo.it|quattroruote.it|trombodromo.com|tuttobaviera.it
 ||booking.fioccovacanze.it^$third-party
 ||bt.rcs.it^

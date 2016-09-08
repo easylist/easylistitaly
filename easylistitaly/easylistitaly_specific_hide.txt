@@ -307,6 +307,7 @@ kveeniland.com,poseidonbistro.com###nebanner
 telefonino.net###news336x280GoogleBox
 mondoplay.it,mondoxbox.com###offersbox
 agimondo.it###overhp
+smetteredilavorare.it###overlay-block
 studiocataldi.it###overlayer
 globalist.it###pCollar_c
 pcworld.it###pangora-chunnel
