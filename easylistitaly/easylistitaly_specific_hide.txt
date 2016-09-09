@@ -878,7 +878,8 @@ cinquegiorni.it##.rightbanner
 gazzettadasti.it##.rotate-banner
 ecodallecitta.it##.rotobanner
 nonsolocap.it##.ru
-ivg.it##.sb-banner
+genova24.it,ivg.it##.sb-banner
+ivg.it##.sb-box-pubbliredazionale
 flashgames.it##.scheda_ppc
 tomshw.it##.scontitech
 areanapoli.it##.sdoo_cnt
