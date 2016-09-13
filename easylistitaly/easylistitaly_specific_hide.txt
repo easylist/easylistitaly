@@ -732,6 +732,7 @@ supermoney.eu##.dfp-leaderbord
 blastingnews.com##.dfp-mobile-leadeboard
 ansa.it##.diretta-sponsor
 lavoratorio.it##.divBoxbanner300x250
+ilmeteo.net##.eHotel
 gossipetv.com##.ebuzzing_box
 digisesso.com,gorillaporno.com,iltrombatore.com,koalaporno.com,pandasesso.com,ranaporno.com,sessosadomaso.com##.embed1
 digisesso.com,gorillaporno.com,iltrombatore.com,koalaporno.com,pandasesso.com,ranaporno.com,sessosadomaso.com##.embed2
@@ -857,6 +858,7 @@ livescore.it##.promo_top_match_wide
 gqitalia.it##.promobox
 italiapokerclub.com##.promotion
 agoravox.it##.pub
+ilmeteo.net##.pubDesk
 kikapress.com##.pub_container
 meteoconsult.it##.pub_lcm
 gds.it,lastampa.it##.pubb
