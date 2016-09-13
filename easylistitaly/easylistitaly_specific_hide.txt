@@ -62,7 +62,7 @@ telesud3.com###banner-header
 sportnews.bz###banner-leaderboard
 musicclub.it###banner-onstage-leaderboard
 ilnuovo.it###banner-right
-oggitreviso.it###banner-top
+larivieraonline.com,oggitreviso.it###banner-top
 comingsoon.it,corrieredelgiorno.com###banner1
 comingsoon.it,forzapescara.net###banner2
 comingsoon.it###banner3
@@ -956,6 +956,7 @@ turistipercaso.it##.utilink
 bresciaoggi.it,larena.it##.v2_banner-wrapper
 ilgiornaledivicenza.it,larena.it##.v3_horz-banner
 ilsalvagente.it##.video
+larivieraonline.com##.view-Banners
 la7.it##.view-display-id-la7_consiglia
 giallozafferano.it##.vini-sp
 vivastreet.it##.vs-summary-300x250
