@@ -924,6 +924,7 @@ ilsecoloxix.it##.square-banner
 mediaset.it##.stickyadv
 applemobile.it##.store
 ravennaedintorni.it##.strillo
+affaritaliani.it##.strillo-speciale3
 agichina24.it,trend-online.com##.strip
 loradellacalabria.it##.strisciane1
 style.it##.style_promo

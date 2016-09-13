@@ -85,6 +85,7 @@
 ||scambiobanner.tv^$third-party
 ||scambiositi.com^$third-party
 ||seolabadv.it^$third-party
+||simpleview.it^$third-party
 ||softwareplanet.net^$third-party
 ||spicciolo.com^$third-party
 ||sunaffiliation.com^$third-party

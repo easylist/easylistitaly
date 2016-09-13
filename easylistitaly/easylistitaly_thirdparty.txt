@@ -178,7 +178,6 @@
 ||serverplan.com/affiliati/$third-party
 ||servizi-web-marketing.it^$image,third-party
 ||sessotop.com/img/annunci*.gif
-||simpleview.it^*/ptnrship/
 ||sitinuovi.it/banner/
 ||sk1.it/images/banners/
 ||sk1.it/images/promo/
