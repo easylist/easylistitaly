@@ -187,6 +187,7 @@
 @@||fiatti.com/adframe.js
 @@||forexinfo.it^$generichide
 @@||genova24.it^*/ads.js
+@@||guideitech.com^$generichide
 @@||hostingtv.org^$elemhide
 @@||ilsitodellozoo.com^$generichide
 @@||ilwebmaster21.com^$generichide
