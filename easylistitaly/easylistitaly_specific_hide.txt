@@ -527,6 +527,7 @@ quotidianodigela.it##.advs-title
 filodiritto.com##.altro_box_banner_dx
 filodiritto.com##.altro_box_banner_sx
 gamemag.it,videogame.it##.amazon
+andreagaleazzi.com##.amazon_box
 telefonino.net##.amazon_left
 laborsadeipiccoli.com##.annunci
 corrieredellosport.it##.annunci_art
