@@ -646,6 +646,8 @@
 ||lastampadelmezzogiorno.it/images/stories/banner/
 ||latina-oggi.it/public/img/banner-
 ||latina-oggi.it/public/img/bannerino-
+||latina24ore.it/l24/adv/
+||latina24ore.it/l24/popup/
 ||latinaoggi.net/public/img/banner-
 ||latinaoggi.net/public/img/bannerino-
 ||latitudeslife.com/magazine/adv/
