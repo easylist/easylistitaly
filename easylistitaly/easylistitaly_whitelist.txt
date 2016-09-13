@@ -81,8 +81,8 @@
 @@||pad.mymovies.it/v9/adv/media/preroll/*.flv$object-subrequest
 @@||paesesera.it/design/paesesera/stylesheets/advertising.css
 @@||pagead2.googlesyndication.com/pagead/googlevideoadslibrary.swf$object-subrequest,domain=giochidicalcio.com
-@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=comprovendolibri.it|economia-italia.com|faqmozilla.org|quelchenonsapevi.it|unmondodibaci.it|windowsblogitalia.com
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=economia-italia.com|faqmozilla.org|quelchenonsapevi.it|unmondodibaci.it|windowsblogitalia.com
+@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=comprovendolibri.it|economia-italia.com|faqmozilla.org|ilcaffe.tv|quelchenonsapevi.it|unmondodibaci.it|windowsblogitalia.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=economia-italia.com|faqmozilla.org|ilcaffe.tv|quelchenonsapevi.it|unmondodibaci.it|windowsblogitalia.com
 @@||pagead2.googlesyndication.com/pagead/scache/googlevideoads.swf$object-subrequest,domain=giochidicalcio.com
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=comprovendolibri.it|dbplanet.net|ipaditalia.com|iphoneitalia.com
 @@||panorama.it/adv/$image
