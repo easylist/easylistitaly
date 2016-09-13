@@ -913,6 +913,8 @@
 ||radiogold.it^*/banner/
 ||radioinblu.it^*/skin/
 ||radioitalianetwork.fm/images/banners/
+||radioluna.it/news/banner/
+||radioluna.it/news/header/
 ||radiomanamana.it/stylerays.png
 ||radiomanamana.it/universita_on_line.jpg
 ||radiomanamana.it^*/skin-radiomana.png
