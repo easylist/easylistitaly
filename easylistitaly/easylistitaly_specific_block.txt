@@ -1272,6 +1272,12 @@
 ||zapster.it/images/skin/
 ||zerodelta.net/immagini/immagini2.0/
 ||zipnews.it/sai.jpg
+! City-news
+/astalegale.net/iframe.php
+/immobiliare.it/iframe.php
+||citynews.ovh^$third-party
+||stgy.it^*/skin/
+||stgy.ovh^*/skin/
 ! Anti-Adblock
 ||3bmeteo.com^*/adblock.png
 ||badcomics.it^*/default.include-footer.$script
