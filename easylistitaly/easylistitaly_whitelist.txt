@@ -166,7 +166,6 @@
 @@||3bmeteo.com/js/advert.js
 @@||ad.doubleclick.net/ddm/pfadx/$xmlhttprequest,domain=vvvvid.it
 @@||ads.viralize.tv/display/$script,domain=italia-tv.org
-@@||adv.calciomercato.com^$script
 @@||advertising-adv.aranzulla.it^*?ads=true$image,script,domain=aranzulla.it
 @@||animesubita.info^$generichide
 @@||anizilla.com^$generichide
@@ -178,7 +177,7 @@
 @@||badtv.it^*/bad-analytics/$script
 @@||beppegrillo.it^$generichide
 @@||calciomercato.com^$generichide
-@@||calciomercato.com^$xmlhttprequest
+@@||calciomercato.com^$script,xmlhttprequest
 @@||codeclan.altervista.org^$generichide
 @@||compitoinclasse.org/script/advertisement.js
 @@||comprovendolibri.it^$generichide
