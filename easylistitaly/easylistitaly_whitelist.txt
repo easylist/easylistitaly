@@ -167,6 +167,7 @@
 @@||ad.doubleclick.net/ddm/pfadx/$xmlhttprequest,domain=vvvvid.it
 @@||ads.viralize.tv/display/$script,domain=italia-tv.org
 @@||advertising-adv.aranzulla.it^*?ads=true$image,script,domain=aranzulla.it
+@@||androidiani.com^$generichide
 @@||animesubita.info^$generichide
 @@||anizilla.com^$generichide
 @@||aranzulla.it^$generichide
