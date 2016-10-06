@@ -161,7 +161,7 @@
 @@||vicenzatoday.it^$generichide
 ! Anti-Adblock
 @@.jpg#$domain=economia-italia.com|italia-tv.org
-@@.png#$domain=codeclan.altervista.org|italia-tv.org|webserver.one|webtvhd.com|worldcomputing.it
+@@.png#$domain=codeclan.altervista.org|italia-tv.org|phica.net|webserver.one|webtvhd.com|worldcomputing.it
 @@|https://$image,third-party,domain=animesubita.info|anizilla.com
 @@||3bmeteo.com/js/advert.js
 @@||ad.doubleclick.net/ddm/pfadx/$xmlhttprequest,domain=vvvvid.it
@@ -206,6 +206,7 @@
 @@||mtv.it/advertisement.js
 @@||pagead2.googlesyndication.com/pagead/|$image,domain=aranzulla.it|dasolo.org
 @@||pagead2.googlesyndication.com/|$image,domain=aranzulla.it
+@@||phica.net^$generichide
 @@||pokmon-forever.forumfree.it^$image
 @@||popcorntv.it^$generichide
 @@||scambiofile.info/js/ads.$script
