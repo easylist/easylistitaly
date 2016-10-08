@@ -120,6 +120,7 @@
 ||badtaste.it/file/amazon/
 ||balarm.it/banner.asp?
 ||balarm.it/public/bannernewsletter/
+||banner.aranzulla.it^
 ||banner.casino2k.com^
 ||banneradmin.rai.it^
 ||baseball.it/banner_

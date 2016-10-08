@@ -166,11 +166,11 @@
 @@||3bmeteo.com/js/advert.js
 @@||ad.doubleclick.net/ddm/pfadx/$xmlhttprequest,domain=vvvvid.it
 @@||ads.viralize.tv/display/$script,domain=italia-tv.org
-@@||advertising-adv.aranzulla.it^*?ads=true$image,script,domain=aranzulla.it
 @@||androidiani.com^$generichide
 @@||animesubita.info^$generichide
 @@||anizilla.com^$generichide
 @@||aranzulla.it^$generichide
+@@||aranzulla.it^*?ads=true$image,script,domain=aranzulla.it
 @@||archivio.corriere.it^$generichide
 @@||badcomics.it^*/bad-analytics/$script
 @@||badgames.it^*/bad-analytics/$script
@@ -210,6 +210,8 @@
 @@||pokmon-forever.forumfree.it^$image
 @@||popcorntv.it^$generichide
 @@||scambiofile.info/js/ads.$script
+@@||static.criteo.com/images|$image,domain=aranzulla.it
+@@||static.criteo.net/images|$image,domain=aranzulla.it
 @@||static.vvvvid.it^$image,xmlhttprequest
 @@||thegamesmachine.it^*/ad-block-defender/$script
 @@||webserver.one/advertisement.js
