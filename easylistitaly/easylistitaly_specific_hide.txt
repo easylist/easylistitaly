@@ -468,6 +468,7 @@ shippingonline.ilsecoloxix.it###zona_181
 ttmweb.it###zona_245
 avvisatore.ilsecoloxix.it###zona_266
 arezzoweb.it###zurich_connect
+lifegate.it##.-sponsor
 gnoccaforum.com,tiscali.it##.ADV
 ludomedia.it##.AmazonBox
 hostingtalk.it##.Banner
@@ -681,7 +682,7 @@ ilcapoluogo.com##.block-view-bannerSlide
 risultati.it##.bookmarker-53
 beppegrillo.it##.bottom-banner
 pmi.it##.box-300-special
-comingsoon.it##.box-adv
+comingsoon.it,lifegate.it##.box-adv
 ilquotidiano.it,parmasera.it,piacenzasera.it,rsvn.it##.box-attico
 europa-in.it,gazzettadelladda.it,giornaledidesio.it,notiziaoggi.it,nuovaperiferia.it,settegiorni.it##.box-banner-menu
 sportnews.bz##.box-fullbanner
