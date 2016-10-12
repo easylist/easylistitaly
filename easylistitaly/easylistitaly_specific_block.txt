@@ -1276,11 +1276,14 @@
 ||zerodelta.net/immagini/immagini2.0/
 ||zipnews.it/sai.jpg
 ! City-news
-/astalegale.net/iframe.php
-/immobiliare.it/iframe.php
-||citynews.ovh^$third-party
+/astalegale.net/*$subdocument
+/immobiliare.it/*$subdocument
+||citynews.ovh^
+||stgy.it^*/niks/
 ||stgy.it^*/skin/
+||stgy.ovh^*/niks/
 ||stgy.ovh^*/skin/
+||tp7vgzeh7kq.ovh^
 ! Anti-Adblock
 ||3bmeteo.com^*/adblock.png
 ||badcomics.it^*/default.include-footer.$script
