@@ -58,7 +58,7 @@
 @@||google.com/adsense/$subdocument,domain=sedo.ch|sedo.it
 @@||google.com/adsense/search/ads.js$domain=zoover.ch|zoover.it
 @@||ilfattoquotidiano.it/wp-content/themes/ilfatto/thumb/*_pubblicita_*.jpg
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=vvvvid.it
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=multiplayer.it|vvvvid.it
 @@||impit.tradedoubler.com/imp?$subdocument,domain=iphoneitalia.com
 @@||js.neodatagroup.com/uploads/js/rds.js$domain=rds.it
 @@||js49.adagionet.com/uploads/js/sipra.js$domain=rai.it|rai.tv|rainews.it
@@ -204,6 +204,7 @@
 @@||ladige.it^$generichide
 @@||mobileuniverse.it/advertisement.js
 @@||mtv.it/advertisement.js
+@@||ntv.multiplayer.it^$generichide
 @@||pagead2.googlesyndication.com/pagead/|$image,domain=aranzulla.it|dasolo.org
 @@||pagead2.googlesyndication.com/|$image,domain=aranzulla.it
 @@||phica.net^$generichide
