@@ -985,6 +985,7 @@ fxempire.it##.widget_top_brokers
 gazzettagiallorossa.it,orvietosi.it##.wp_bannerize
 allandroidnews.it##.wp_skyscraper_c2
 bergamosera.com##.wpbrbanner
+multiplayer.it##.wrapper-content-leaderboard
 gazzettinodelchianti.it##.wrapper-top
 petizionionline.it##.yahoo
 notizie.it##.yahoo-white-bg
