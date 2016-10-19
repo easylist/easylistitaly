@@ -131,6 +131,8 @@
 ##.tabellaPubblicita
 ##.tccbanner
 ##.view-pubblicita
+##.wl_WidgetRel_Sponsor1
+##a[href^="//native.publy.com/related/service/sponsor/redirect/?"]
 ##a[href^="//w.linkwelove.com/urls/"]
 ##a[href^="//w.linkwelove.it/urls/"]
 ##a[href^="http://ads.williamhill.it/"]

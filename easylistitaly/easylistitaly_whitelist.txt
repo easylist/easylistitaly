@@ -216,6 +216,7 @@
 @@||static.criteo.net/images|$image,domain=aranzulla.it
 @@||static.vvvvid.it^$image,xmlhttprequest
 @@||thegamesmachine.it^*/ad-block-defender/$script
+@@||vanityfair.it^*/cn-adv.js
 @@||webserver.one/advertisement.js
 @@||worldcomputing.it^$generichide
 @@||yourlifeupdated.net^$generichide
