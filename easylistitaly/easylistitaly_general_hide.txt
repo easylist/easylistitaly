@@ -134,6 +134,7 @@
 ##.tccbanner
 ##.view-pubblicita
 ##.wl_WidgetRel_Sponsor1
+##a[href^="//edintorni.net/related/service/sponsor/redirect/?"]
 ##a[href^="//native.publy.com/related/service/sponsor/redirect/?"]
 ##a[href^="//w.linkwelove.com/urls/"]
 ##a[href^="//w.linkwelove.it/urls/"]
