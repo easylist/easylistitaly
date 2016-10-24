@@ -640,12 +640,14 @@ ilfattonisseno.it##.banner_flusso
 ecodibergamo.it,ilcittadinomb.it,laprovinciadicomo.it,laprovinciadivarese.it##.banner_footer
 parmasera.it,piacenzasera.it##.banner_globaltop
 smtvsanmarino.sm##.banner_head
+sportface.it##.banner_head1
 catanzaroinforma.it##.banner_inner
 livesicilia.it##.banner_leaderboard
 nqnews.it##.banner_news
 galileonet.it##.banner_oriz
 advertiser.it,pubblicitaitalia.it##.banner_over_footer
 rsvn.it##.banner_panel
+sportface.it##.banner_panorama
 ipadevice.com,ispazio.net##.banner_right_sidebar_big
 ipadevice.com,ispazio.net##.banner_right_sidebar_small
 orgoglionerd.it##.banner_rotation
