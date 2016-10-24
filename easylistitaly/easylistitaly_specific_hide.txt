@@ -906,7 +906,7 @@ ilroma.net,omnicorse.it##.skin
 iovivoaroma.org##.skin_link_top
 soldionline.it##.sm_widget_contenitore
 gazzettinodelchianti.it##.small_link
-tgcom24.mediaset.it##.spaceBanner
+finanzaonline.com,tgcom24.mediaset.it##.spaceBanner
 pmi.it##.special-widget
 ciao.it##.specialOfferMod
 europages.it,gazzetta.it,gds.it,ilgiornale.it,portaportese.it,pubblicitaitalia.it,repubblica.it,stickmangames.altervista.org,violanews.com##.sponsor
