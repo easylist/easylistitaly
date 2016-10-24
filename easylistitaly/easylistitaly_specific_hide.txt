@@ -478,8 +478,10 @@ metropolisweb.it##.BannerMezzoNotizia
 primopianomolise.it##.Banner_Modulabile
 nqnews.it##.Banner_box
 edilportale.com##.BigSquare
+tio.ch##.BoxSpeciale
 viterbonews24.it##.CON-fascia-alto-banner
 ciao.it##.CWContainerComparePrice
+tio.ch##.CornicePubliRed
 iltempo.it##.DCLS4
 lacnews24.it##.FPB_dex
 lacnews24.it##.FPB_header

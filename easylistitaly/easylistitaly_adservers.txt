@@ -5,6 +5,7 @@
 ||ad4mat.it^$third-party
 ||adagionet.com^$third-party
 ||adbrawl.com^$third-party
+||adbreak.ch^$third-party
 ||addyon.com^$third-party
 ||adnext.it^$third-party
 ||adpartner.it^$third-party
