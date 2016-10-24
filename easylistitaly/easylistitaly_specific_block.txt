@@ -18,6 +18,7 @@
 ||acquaportal.it/common/banner_sponsor/
 ||acquariofilia.biz/banner/
 ||acquariofilia.biz/images/banner/
+||ad.internapoli.it^
 ||adginforma.it/images/banner_
 ||adginforma.it/images/banners/
 ||adnkronos.com^*/banner/
