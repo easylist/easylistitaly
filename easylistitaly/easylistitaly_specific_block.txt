@@ -1075,6 +1075,9 @@
 ||tecnoandroid.it/xiaomi.jpg
 ||tele90.it/banner/
 ||telecaprisport.it/banner/
+||teleclubitalia.it/wp-content/*1100x300
+||teleclubitalia.it/wp-content/*180x100
+||teleclubitalia.it/wp-content/banners/
 ||telecolore.it/banner/
 ||telefonino.net/new_files/ajax/shopping.asp?
 ||telefonino.net/new_files/banners/
