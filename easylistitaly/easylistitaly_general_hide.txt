@@ -71,6 +71,7 @@
 ###skinadvsx
 ###top3-pubbli
 ##.Banner_VideoAd_Interno
+##.ad_pedice
 ##.adagiowritebanner_dmtag
 ##.ads_topdx
 ##.ads_topsx
