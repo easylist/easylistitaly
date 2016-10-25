@@ -256,7 +256,6 @@ megalab.it###header_leaderboard
 meteowebcam.it###header_top
 35mm.it###header_top_banner
 radiospeaker.it###home-banner
-avvenire.it###htmlcomponent18 > .boxAggiuntivi
 affaritaliani.it###immo-300x250
 ladige.it,panorama.it###immob_box_ricerca
 cronachemaceratesi.it###infooter
@@ -489,7 +488,6 @@ lacnews24.it##.FPB_six
 meteo.it##.ImmobiliareIt
 novara.com##.MainBanner
 alfemminile.com##.OffresSpe_cadre
-avvenire.it##.Pubblicita
 search.aol.it##.SLL
 viterbonews24.it##.SepBanner
 dizionariosinonimi.com##.Sponsor300x250Dx
@@ -614,7 +612,7 @@ meteoweb.eu##.bannerPrint
 key4biz.it##.bannerRight
 emmelle.it##.bannerSlide
 corriereirpinia.it##.bannerTd
-avvenire.it,borsaitaliana.it,ilmessaggero.it##.bannerTop
+borsaitaliana.it,ilmessaggero.it##.bannerTop
 ilquotidianodellacalabria.it##.banner_186x290
 ilfattonisseno.it##.banner_200
 lavocedelpopolo.net##.banner_210
