@@ -305,7 +305,8 @@
 ||eunews.it^*/BANNER-375x100_
 ||eusebiano.it/banners/
 ||eventiesagre.it/images/banner/
-||everyeye.it/engine2015/stampa_ajax/default.asp
+||everyeye.it/amazonasin/
+||everyeye.it^*/stampa_ajax/
 ||everyeye.it^*/topskin/
 ||exxun.com/adi/
 ||f052.it/archivefile/*/banner-
