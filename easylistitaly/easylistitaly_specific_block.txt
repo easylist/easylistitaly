@@ -1284,7 +1284,9 @@
 ! City-news
 /astalegale.net/*$subdocument
 /immobiliare.it/*$subdocument
+/~vda/_/*.php/*$script
 ||citynews.ovh^
+||n6trhtnxnzi.ovh^
 ||stgy.it^*/niks/
 ||stgy.it^*/skin/
 ||stgy.ovh^*/niks/
