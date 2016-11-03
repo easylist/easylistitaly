@@ -744,6 +744,7 @@ ilmeteo.net##.eHotel
 gossipetv.com##.ebuzzing_box
 digisesso.com,gorillaporno.com,iltrombatore.com,koalaporno.com,pandasesso.com,ranaporno.com,sessosadomaso.com##.embed1
 digisesso.com,gorillaporno.com,iltrombatore.com,koalaporno.com,pandasesso.com,ranaporno.com,sessosadomaso.com##.embed2
+affaritaliani.it##.eni
 androidworld.it##.eprice-lnk
 androidworld.it##.eprice-side
 adnkronos.com##.evidenceBox

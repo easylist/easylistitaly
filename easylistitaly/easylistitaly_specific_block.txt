@@ -26,8 +26,8 @@
 ||affaritaliani.it/includes/files/affari/
 ||affaritaliani.it/mutuionline/imgmol/
 ||affaritaliani.it/static/generated_external/shopping/
-||affaritaliani.it/static/upload/234x/
 ||affaritaliani.it/static/upload/food/foodita.jpg
+||affaritaliani.it^*/234x/
 ||affaritaliani.it^*/300x100_
 ||affaritaliani.it^*/classicvoice1801.jpg
 ||affaritaliani.libero.it/static/upload/234x/
