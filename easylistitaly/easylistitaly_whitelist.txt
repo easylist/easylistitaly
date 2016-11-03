@@ -162,13 +162,10 @@
 ! Anti-Adblock
 @@.jpg#$domain=economia-italia.com|italia-tv.org
 @@.png#$domain=codeclan.altervista.org|italia-tv.org|phica.net|webserver.one|webtvhd.com|worldcomputing.it
-@@|https://$image,third-party,domain=animesubita.info|anizilla.com
 @@||3bmeteo.com/js/advert.js
 @@||ad.doubleclick.net/ddm/pfadx/$xmlhttprequest,domain=vvvvid.it
 @@||ads.viralize.tv/display/$script,domain=italia-tv.org
 @@||androidiani.com^$generichide
-@@||animesubita.info^$generichide
-@@||anizilla.com^$generichide
 @@||aranzulla.it^$generichide
 @@||aranzulla.it^*?ads=true$image,script,domain=aranzulla.it
 @@||archivio.corriere.it^$generichide
