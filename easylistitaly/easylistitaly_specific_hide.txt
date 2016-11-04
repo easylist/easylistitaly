@@ -579,6 +579,7 @@ ilikepuglia.it##.banner-placeholder
 classeuractiv.it##.banner-pos
 digital-news.it##.banner-separazione
 milanofinanza.it##.banner-sfondo
+milanofinanza.it##.banner-sfondo-body
 digital-news.it,telesud3.com##.banner-sidebar
 ilfattonisseno.it##.banner-sottopp
 panorama.it##.banner-spalla-dx
