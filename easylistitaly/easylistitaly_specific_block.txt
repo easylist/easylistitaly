@@ -102,6 +102,7 @@
 ||autoxy.it/banners/
 ||avmagazine.it/css/2010/skin/
 ||avmagazine.it/immagini/2013_05_02_educal_2013_500.jpg
+||avmagazine.it/js/common-tag.js
 ||aziendeonline.biz/db/banner_
 ||babboleo.it/images/banners/
 ||badtaste.it/file/amazon/
