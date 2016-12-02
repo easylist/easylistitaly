@@ -753,6 +753,7 @@
 ||mmorpgitalia.it/von/
 ||mobi2b.it^*/downloadfilebanner.php?
 ||modena2000.it/bnrs/
+||mole24.it^*/skin-
 ||momentosera.it/bannerupload/
 ||mondoclassica.it^*/banner/
 ||mondopallone.it^*/skin_
