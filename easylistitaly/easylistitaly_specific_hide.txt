@@ -495,6 +495,7 @@ dizionariosinonimi.com##.Sponsor300x250Dx
 ricettepercucinare.com##.UAP_3to1_Rectangle
 ricettepercucinare.com##.UAP_Medium_Rectangle
 ricettepercucinare.com##.UAP_Wide_Skyscraper
+ilsole24ore.com##.a-leaderboard
 rietinvetrina.it##.a-single
 repubblica.it##.aas_whole_wrapper
 4risate.com,7per24.it,allrecipes.it,ilprimatonazionale.it,ilsole24ore.com,jugo.it,lacrocequotidiano.it,mesagne.me,milanlive.it,servizioallerta.it,tripadvisor.it##.ad
