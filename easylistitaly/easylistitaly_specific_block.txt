@@ -29,7 +29,13 @@
 ||affaritaliani.it/static/upload/food/foodita.jpg
 ||affaritaliani.it^*/234x/
 ||affaritaliani.it^*/300x100_
+||affaritaliani.it^*/casa/
 ||affaritaliani.it^*/classicvoice1801.jpg
+||affaritaliani.it^*/dott/
+||affaritaliani.it^*/fogl/
+||affaritaliani.it^*/immo/
+||affaritaliani.it^*/luxu/
+||affaritaliani.it^*/pron/
 ||affaritaliani.libero.it/static/upload/234x/
 ||affaritaliani.libero.it/static/upload/food/foodita.jpg
 ||affiliati.cellulare.net^
