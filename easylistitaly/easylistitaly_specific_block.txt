@@ -1045,6 +1045,7 @@
 ||tecnoandroid.it/banner/
 ||tecnoandroid.it/xiaomi.jpg
 ||tele90.it/banner/
+||teleborsa.it/FrameResources/4WTV/
 ||telecaprisport.it/banner/
 ||teleclubitalia.it/wp-content/*1100x300
 ||teleclubitalia.it/wp-content/*180x100

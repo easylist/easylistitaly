@@ -206,6 +206,7 @@ virgilio.it###cont-manchette
 varesenews.it###cont_Superbanner
 autoseller.it###ctl00_ContentCentraleBanner
 firstonline.info###ctl00_cph_main_banner1_p1
+teleborsa.it###ctl00_if4WTV300x250
 ticinonews.ch###ctl00_rectangleleaderhome1_FormView1_ctl00_Banmanpro3Label
 pianetatech.it###div-banner-300
 mmtitalia.it###div-bannerHome-Top
