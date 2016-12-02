@@ -5,6 +5,7 @@
 .it/adv.
 .it/adv/
 .it/adv_
+/adagioadv_
 /adv/codice_
 /adv_s_pirchio.
 /advpirchio.
