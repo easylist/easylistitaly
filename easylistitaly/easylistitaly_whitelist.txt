@@ -163,6 +163,7 @@
 ! Anti-Adblock
 @@.jpg#$domain=economia-italia.com|italia-tv.org
 @@.png#$domain=codeclan.altervista.org|italia-tv.org|phica.net|webserver.one|webtvhd.com|worldcomputing.it
+@@||3bmeteo.com/js/ads.js
 @@||3bmeteo.com/js/advert.js
 @@||ad.doubleclick.net/ddm/pfadx/$xmlhttprequest,domain=vvvvid.it
 @@||ads.viralize.tv/display/$script,domain=italia-tv.org
