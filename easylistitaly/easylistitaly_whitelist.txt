@@ -53,12 +53,13 @@
 @@||forads.iltrovatore.it/geoip/json/|$xmlhttprequest,domain=la7.it
 @@||forebase.com/plugin/*/images/ads/$image
 @@||forebase.com/plugin/ads.htm?$subdocument
+@@||g.doubleclick.net/gpt/pubads_impl_$script,domain=agi.it
 @@||gelocal.it/adimages/
 @@||google.com/ads/search/module/ads/*/search.js$domain=zoover.ch|zoover.it
 @@||google.com/adsense/$subdocument,domain=sedo.ch|sedo.it
 @@||google.com/adsense/search/ads.js$domain=zoover.ch|zoover.it
 @@||ilfattoquotidiano.it/wp-content/themes/ilfatto/thumb/*_pubblicita_*.jpg
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=movieplayer.it|multiplayer.it|vvvvid.it
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=agi.it|movieplayer.it|multiplayer.it|vvvvid.it
 @@||impit.tradedoubler.com/imp?$subdocument,domain=iphoneitalia.com
 @@||js.neodatagroup.com/uploads/js/rds.js$domain=rds.it
 @@||js49.adagionet.com/uploads/js/sipra.js$domain=rai.it|rai.tv|rainews.it
@@ -165,6 +166,7 @@
 @@||3bmeteo.com/js/advert.js
 @@||ad.doubleclick.net/ddm/pfadx/$xmlhttprequest,domain=vvvvid.it
 @@||ads.viralize.tv/display/$script,domain=italia-tv.org
+@@||agi.it^$generichide
 @@||androidiani.com^$generichide
 @@||aranzulla.it^$generichide
 @@||aranzulla.it^*?ads=true$image,script,domain=aranzulla.it
