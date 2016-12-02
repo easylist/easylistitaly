@@ -431,6 +431,7 @@
 ||hostingtv.org/files/cubicgobbopink
 ||hostingtv.org/files/smartwp
 ||hostingtv.org/files/sportweek
+||houseofgolf.it/images/banners/
 ||html.it^*/banner/
 ||html5today.it/images/banners/
 ||hubcomunicazione.it/images/banners/

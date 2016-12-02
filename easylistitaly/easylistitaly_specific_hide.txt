@@ -663,7 +663,7 @@ trovaprezzi.it##.bannerdiv
 alessandriaoggi.info,corrieredellacalabria.it,lametino.it,laquila1.it,qdpnews.it,tecnicadellascuola.it,uninews24.it##.bannergroup
 paviapiu.it##.bannergroupnomarginall
 radiogold.it##.bannergroupskin-banner-module
-you-ng.it##.banneritem
+houseofgolf.it,you-ng.it##.banneritem
 centrometeo.com##.banneritemcenterdx
 finanzaonline.com##.bannerlbforum
 messinaweb.tv##.bannerpostsingle
