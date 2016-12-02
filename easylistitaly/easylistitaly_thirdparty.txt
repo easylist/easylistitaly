@@ -173,6 +173,7 @@
 ||scimmiablu.altervista.org/cpm/
 ||sconty.it/img/banner/
 ||sda.quinews.net^
+||secure.emp-online.it^$third-party
 ||secureholiday.net/moteur/v3/camperonline/min_form.aspx?$third-party
 ||sereni.net/images/banner/
 ||serverplan.com/affiliati/$third-party
