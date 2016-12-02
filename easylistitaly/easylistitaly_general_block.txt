@@ -28,7 +28,12 @@
 /pubblicita2/*
 /pubblicita_
 /pubblicitadx.
+/pubblicitaimmaginecolonnadestra/*
+/pubblicitaimmaginegrande/*
+/pubblicitaimmaginetoppiccola/*
+/pubblicitamobile/*
 /pubblicitasx.
+/pubblicitatratopic/*
 /repubblicaad.
 /separatore-pub.
 /sponsorizzate.

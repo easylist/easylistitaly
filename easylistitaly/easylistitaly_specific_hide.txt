@@ -62,6 +62,7 @@ telesud3.com###banner-header
 sportnews.bz###banner-leaderboard
 musicclub.it###banner-onstage-leaderboard
 ilnuovo.it###banner-right
+gnoccatravels.com###banner-right-list
 larivieraonline.com,oggitreviso.it###banner-top
 comingsoon.it,corrieredelgiorno.com###banner1
 comingsoon.it,forzapescara.net###banner2
@@ -566,7 +567,9 @@ m100.it##.banner-1
 sanfrancescopatronoditalia.it##.banner-100
 sanfrancescopatronoditalia.it##.banner-250
 rollingstonemagazine.it##.banner-abbonamenti
+gnoccatravels.com##.banner-area
 lacrocequotidiano.it,mtv.it##.banner-container
+gnoccatravels.com##.banner-desktop-block
 telesud3.com##.banner-destra
 telesud3.com##.banner-destra-tyf
 ilgarantista.it##.banner-dx
