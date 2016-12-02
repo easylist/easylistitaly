@@ -117,6 +117,7 @@
 ||balarm.it/public/bannernewsletter/
 ||banner.aranzulla.it^
 ||banner.casino2k.com^
+||banner.orizzontescuola.it^
 ||banneradmin.rai.it^
 ||baseball.it/banner_
 ||bazar.it/backfiles/banners/
