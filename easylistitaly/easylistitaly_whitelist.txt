@@ -194,6 +194,7 @@
 @@||ilsitodellozoo.com^$generichide
 @@||ilwebmaster21.com^$generichide
 @@||ilwebmaster21.com^$xmlhttprequest
+@@||ispazio.net^$generichide
 @@||it.videogamer.com/wp-content/themes/videogamer/js/ads.js
 @@||italiatv.ga^$generichide
 @@||ivg.it/pubblicita.js
