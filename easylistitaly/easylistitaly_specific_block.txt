@@ -1,5 +1,6 @@
 ||0781.info^*/banners/
 ||11giovani.it/images/banners/
+||12alle12.it/wp-content/banners/
 ||312.it/img/banner/
 ||607080.it^*/banners/
 ||7per24.it^*/banner-
