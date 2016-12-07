@@ -1158,6 +1158,7 @@ raffaeleauriemma.com##div[style="width: 248px; height: 250px; visibility: visibl
 pyrosonline.it##div[style="width: 265px; height: 265px;"]
 paginebianche.it##div[style="width: 300px; height: 100px;"]
 corriereromagna.it##div[style="width: 300px; height: 250px; border: 0px solid black; position: relative; background-color: #013671;"]
+sardegnaoggi.it##div[style="width: 300px; height: 250px; margin: 1em 1em 1em 0; float: left"]
 tiscali.it##div[style="width: 300px; height: 250px; vertical-align: top; text-align: left;"]
 libero.it,paginebianche.it,tp24.it##div[style="width: 300px; height: 250px;"]
 incircolo.altervista.org##div[style="width: 300px; height: 260px; margin-top: 10px;"]
