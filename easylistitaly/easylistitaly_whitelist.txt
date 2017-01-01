@@ -217,6 +217,7 @@
 @@||static.criteo.net/images|$image,domain=aranzulla.it
 @@||static.vvvvid.it^$image,xmlhttprequest
 @@||thegamesmachine.it^*/ad-block-defender/$script
+@@||tt4.info^$xmlhttprequest,domain=calciomercato.com
 @@||vanityfair.it^*/cn-adv.js
 @@||webserver.one/advertisement.js
 @@||worldcomputing.it^$generichide
