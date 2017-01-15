@@ -669,6 +669,7 @@ paviapiu.it##.bannergroupnomarginall
 radiogold.it##.bannergroupskin-banner-module
 houseofgolf.it,you-ng.it##.banneritem
 centrometeo.com##.banneritemcenterdx
+chimica-online.it##.bannerlaterale
 finanzaonline.com##.bannerlbforum
 messinaweb.tv##.bannerpostsingle
 alverde.net,nonsolocinema.com##.banners
@@ -691,6 +692,7 @@ lafedelta.it##.block-banners
 ilgiornale.it##.block-ilg-adsense
 ilroma.net##.block-rotating-banner
 ilcapoluogo.com##.block-view-bannerSlide
+chimica-online.it##.bnbottom
 risultati.it##.bookmarker-53
 beppegrillo.it##.bottom-banner
 pmi.it##.box-300-special
@@ -967,6 +969,7 @@ mrstiff.it##.topad
 mesagne.me,neveitalia.it,terzobinario.it##.topbanner
 agichina24.it##.topbanner1
 vistointv.net##.topbanner2
+chimica-online.it##.topreat
 everyeye.it##.topskin
 turistipercaso.it##.trovaviaggi
 tiscali.it##.ts-headbanner
