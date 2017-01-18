@@ -34,6 +34,7 @@
 ||buyon.it^$third-party
 ||clacson24.com^$third-party
 ||clickadv.it^$third-party
+||clickpoint.com^$third-party
 ||clickpoint.it^$third-party
 ||coreg-feed.com^$third-party
 ||crmpilot.it^$third-party
@@ -74,6 +75,7 @@
 ||pipaoffers.com^$third-party
 ||pirchio.com^$third-party
 ||plavid.com^$third-party
+||prontocampaign.com^$third-party
 ||pubbli7.it^$third-party
 ||radxcomm.com^$third-party
 ||ragazzeinvendita.com^$third-party
