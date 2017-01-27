@@ -301,6 +301,7 @@
 ||eusebiano.it/banners/
 ||eventiesagre.it/images/banner/
 ||everyeye.it/amazonasin/
+||everyeye.it/novembertopskin/
 ||everyeye.it^*/topskin/
 ||exxun.com/adi/
 ||f052.it/archivefile/*/banner-
