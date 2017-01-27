@@ -426,9 +426,9 @@ retenews24.it###text-29
 lavocedelpopolo.net###text-33
 viterbopost.it###text-34
 lavocedelpopolo.net,viterbopost.it###text-35
-vigamusmagazine.com###text-4
+birramoriamoci.it,vigamusmagazine.com###text-4
 lavocedelpopolo.net###text-41
-serbianmonitor.com###text-5
+birramoriamoci.it,serbianmonitor.com###text-5
 studioconsulenzaromano.net###text-561964208
 farevela.net###text-7
 serbianmonitor.com###text-9
@@ -1037,7 +1037,7 @@ tecnoandroid.it##a[href^="http://www.allinmobile.eu/"]
 altadefinizione01.click##a[href^="http://www.altadefinizione01.click/4k/"]
 altadefinizione01.click##a[href^="http://www.altadefinizione01.click/stream/"]
 juzaphoto.com##a[href^="http://www.amazon."][href*="creativeASIN"]
-bdc-forum.it,comprovendolibri.it,ludomedia.it,outcast.it,techzilla.it##a[href^="http://www.amazon."][href*="tag="]
+bdc-forum.it,birramoriamoci.it,comprovendolibri.it,ludomedia.it,outcast.it,techzilla.it##a[href^="http://www.amazon."][href*="tag="]
 film-stream.org##a[href^="http://www.aznotizie.com/"]
 catania46.net##a[href^="http://www.clickpoint.it/db/goto.cp?"]
 filmsenzalimiti.co##a[href^="http://www.filmsenzalimiti.co/4k/"]
