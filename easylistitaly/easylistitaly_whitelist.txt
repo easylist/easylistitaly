@@ -219,6 +219,7 @@
 @@||static.vvvvid.it^$image,xmlhttprequest
 @@||thegamesmachine.it^*/ad-block-defender/$script
 @@||tt4.info^$xmlhttprequest,domain=calciomercato.com
+@@||utils.cedsdigital.it/js/$xmlhttprequest
 @@||vanityfair.it^*/cn-adv.js
 @@||webserver.one/advertisement.js
 @@||worldcomputing.it^$generichide

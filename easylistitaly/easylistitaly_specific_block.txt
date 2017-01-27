@@ -512,6 +512,7 @@
 ||ilmattino.it/imgmol/
 ||ilmessaggero.it/300x200Banner.php
 ||ilmessaggero.it/box_tuttomercato052011/
+||ilmessaggero.it/img/banner_
 ||ilmessaggero.it/imgmol/
 ||ilmioip.it/UPLD/BN/
 ||ilmionuovonumero.it/Immagini/partner/
