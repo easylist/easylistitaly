@@ -238,6 +238,7 @@ mondoplay.it,mondoxbox.com###gameBlock_amazon
 mondoplay.it,mondoxbox.com###gameBlock_amazon_noboxart
 rdf.it###gkBanner2
 paginegialle.it###glamoo-box
+ilfattoquotidiano.it###glfb-sticky-1
 telefonino.net###google300x250
 telefonino.net###googleHomeNews
 telefonino.net###googleNewsTop
