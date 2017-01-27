@@ -67,6 +67,7 @@
 ||nextadv.eu^$third-party
 ||novadv.com^$third-party
 ||ovoadv.com^$third-party
+||panea.it^$third-party
 ||partners-aedgency.com^$third-party
 ||partypartners.it^$third-party
 ||payclick.it^$third-party

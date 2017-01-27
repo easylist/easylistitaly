@@ -921,6 +921,7 @@ youreporter.it##.sidebar_menu_virgilio
 newnotizie.it##.single_sidebar300x250
 ilroma.net,omnicorse.it##.skin
 iovivoaroma.org##.skin_link_top
+sky.it##.skybet_spalla
 soldionline.it##.sm_widget_contenitore
 gazzettinodelchianti.it##.small_link
 finanzaonline.com,tgcom24.mediaset.it##.spaceBanner
