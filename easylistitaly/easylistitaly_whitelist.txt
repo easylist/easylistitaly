@@ -52,7 +52,7 @@
 @@||forads.iltrovatore.it/geoip/json/|$xmlhttprequest,domain=la7.it
 @@||forebase.com/plugin/*/images/ads/$image
 @@||forebase.com/plugin/ads.htm?$subdocument
-@@||g.doubleclick.net/gpt/pubads_impl_$script,domain=agi.it
+@@||g.doubleclick.net/gpt/pubads_impl_$script,domain=agi.it|la7.it
 @@||gelocal.it/adimages/
 @@||google.com/ads/search/module/ads/*/search.js$domain=zoover.ch|zoover.it
 @@||google.com/adsense/$subdocument,domain=sedo.ch|sedo.it
