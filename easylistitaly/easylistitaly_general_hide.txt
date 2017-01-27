@@ -102,6 +102,7 @@
 ##.cmt_bgadv
 ##.edSponsor
 ##.ed_Related_Record_Div_Sponsor
+##.ed_Related_Sponsor
 ##.ed_Related_Sponsor_Top_Container
 ##.ed_Sponsor
 ##.foglia-middle-adv
