@@ -427,7 +427,6 @@
 ||hellasverona.it/img/banner/
 ||hellasverona.it/sponsor/
 ||hi-techitaly.com/images/banners/
-||histonium.net/moduli/banner/
 ||hostgame.it/images/banner/
 ||hostingtv.org/files/cubic
 ||hostingtv.org/files/cubicgobbopink
