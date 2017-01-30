@@ -428,6 +428,7 @@ viterbopost.it###text-34
 lavocedelpopolo.net,viterbopost.it###text-35
 birramoriamoci.it,vigamusmagazine.com###text-4
 lavocedelpopolo.net###text-41
+bufale.net###text-48
 birramoriamoci.it,serbianmonitor.com###text-5
 studioconsulenzaromano.net###text-561964208
 farevela.net###text-7
