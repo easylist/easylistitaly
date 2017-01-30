@@ -541,6 +541,7 @@ filodiritto.com##.altro_box_banner_sx
 gamemag.it,videogame.it##.amazon
 andreagaleazzi.com##.amazon_box
 telefonino.net##.amazon_left
+vgnetwork.it##.amazon_similarity
 laborsadeipiccoli.com##.annunci
 corrieredellosport.it##.annunci_art
 ilsole24ore.com##.annunci_g
