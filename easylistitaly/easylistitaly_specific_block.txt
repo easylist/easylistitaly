@@ -752,6 +752,7 @@
 ||milanoweb.com/flash/imagerotator.swf
 ||militariforum.it/forum/italy.swf
 ||militariforum.it/forum/orologi-militari.swf
+||mmorpgitalia.it/media/aion
 ||mmorpgitalia.it/von/
 ||mobi2b.it^*/downloadfilebanner.php?
 ||modena2000.it/bnrs/

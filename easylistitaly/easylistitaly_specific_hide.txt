@@ -442,12 +442,13 @@ lavoripubblici.it###topBanner
 playme.it###topPromo
 lonelyplanetitalia.it###top_banner
 giornaledellamusica.it###top_banner_container
+mmorpgitalia.it###top_click
 finanza.com###top_content
 oroscopo.it###top_header
 tusciaweb.eu###topalto
 eccolanotiziaquotidiana.it,ipoditalia.it,mrwebmaster.it,tuttoshoppingmotori.com###topbanner
 automoto.it,moto.it###topboard
-everyeye.it###topskin_clicktag
+everyeye.it,mmorpgitalia.it###topskin_clicktag
 ilsecoloxix.it###toursoft-cn
 corriere.it,gazzetta.it###tv-adv
 canali16.altervista.org###up
