@@ -185,6 +185,7 @@
 @@||comprovendolibri.it^$generichide
 @@||dasolo.org/advertisement.js
 @@||dasolo.org^$generichide
+@@||davidpuente.it^$generichide
 @@||economia-italia.com^$generichide
 @@||fiatti.com/adframe.js
 @@||forexinfo.it^$generichide
