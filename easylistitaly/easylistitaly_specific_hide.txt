@@ -190,6 +190,7 @@ r101.it###btn_r101store
 fattidicronaca.it,neveitalia.it,pourfemme.it,qnm.it,tecnocino.it,tecnozoom.it,tuttogratis.it,vivacinema.it###btop
 iodonna.it,leiweb.it###buy-now
 gamesvillage.it###buy_amazon
+qds.it###bx-adv
 treccani.it###campagnaBox
 camionsupermarket.it###center_banner
 virgilio.it###cht_banner
@@ -663,7 +664,7 @@ sportface.it##.banner_panorama
 orgoglionerd.it##.banner_rotation
 ilgiornaleditalia.org##.banner_slide_300x250_slide
 rsvn.it##.banner_spalla
-romanews.eu##.banner_top
+qds.it,romanews.eu##.banner_top
 ipoditalia.it##.banner_topright
 galileonet.it##.banner_vert
 techarena.it##.bannercentro
@@ -725,6 +726,7 @@ ecodibergamo.it##.boxbanner-footer
 tgcom24.mediaset.it##.boxspeciale
 forexinfo.it##.broker-tabella_container_aside
 wiitalia.it##.bsmall
+qds.it##.bx-home-bnr-mini
 tiscali.it##.c1c6.f12
 quotidiano.net##.category-SPONSOR
 radioinblu.it,tv2000.it##.cei-skin-side
@@ -837,6 +839,7 @@ livesicilia.it##.manchette-l
 livesicilia.it##.manchette-r
 erbanotizie.com,lecconotizie.com##.manchette-sx
 cremonaoggi.it##.manchette2
+qds.it##.manchettes
 tiscali.it##.maxi-box
 europaquotidiano.it##.mct_dx
 europaquotidiano.it##.mct_sx
