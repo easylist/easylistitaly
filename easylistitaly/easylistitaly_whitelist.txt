@@ -219,7 +219,7 @@
 @@||static.criteo.net/images|$image,domain=aranzulla.it
 @@||static.vvvvid.it^$image,xmlhttprequest
 @@||thegamesmachine.it^*/ad-block-defender/$script
-@@||tt4.info^$xmlhttprequest,domain=calciomercato.com
+@@||tt4.info^$script,xmlhttprequest,domain=calciomercato.com
 @@||utils.cedsdigital.it/js/$xmlhttprequest
 @@||vanityfair.it^*/cn-adv.js
 @@||webserver.one/advertisement.js
