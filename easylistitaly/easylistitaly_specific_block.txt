@@ -1107,10 +1107,13 @@
 ||tmnews.it^*/banner_
 ||today.it/images/*_skin_
 ||today.it/images/lg.jpg
+||tomshw.it/base/generator/button-widget
 ||tomshw.it/files/liste/skin*.jpg
 ||tomshw.it/kelkoo.php?
 ||tomshw.it/kelkoo2.php?
 ||tomshw.it/shoppy.php?
+||tomshw.it^*/affiliate.js
+||tomshw.it^*/manzoni2.js
 ||tomshw.it^*/skin/
 ||too.it/bannerframe.htm
 ||topnegozi.it^*/banner/

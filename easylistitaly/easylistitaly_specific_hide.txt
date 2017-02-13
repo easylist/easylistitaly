@@ -958,6 +958,7 @@ affaritaliani.it##.strillo-speciale3
 agichina24.it,trend-online.com##.strip
 loradellacalabria.it##.strisciane1
 style.it##.style_promo
+tomshw.it##.supercute-frenchies
 wired.it##.supported
 livescore.it##.table-odds
 ciao.it##.tableSponsLinks
