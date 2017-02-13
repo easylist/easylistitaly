@@ -187,6 +187,7 @@
 @@||dasolo.org^$generichide
 @@||davidpuente.it^$generichide
 @@||economia-italia.com^$generichide
+@@||f1sport.it^$generichide
 @@||fiatti.com/adframe.js
 @@||forexinfo.it^$generichide
 @@||genova24.it^*/ads.js

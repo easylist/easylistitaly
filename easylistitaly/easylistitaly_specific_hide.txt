@@ -253,6 +253,7 @@ cronachemaceratesi.it###head_sponsor
 beverfood.com###headbanner
 modenaonline.info,parmaonline.info,reggionline.com,sportreggio.it###header-banner-pane
 rinnovabili.it###header-bottom
+f1sport.it###header-right-section
 marigliano.net###header-top
 lavoripubblici.it,tempoitalia.it###headerBanner
 cani.com###headerBoard-box
@@ -1371,7 +1372,7 @@ clubalfa.it##td[width="310"][height="255"]
 tomshw.it###notifica_adcont
 termometropolitico.it##[id^="bsa"]
 ! Site Specific filters (used with $generichide)
-forexinfo.it,worldcomputing.it,zeusnews.it##.adsbygoogle
+f1sport.it,forexinfo.it,worldcomputing.it,zeusnews.it##.adsbygoogle
 codeclan.altervista.org##.banner_altervista_300X250
 zeusnews.it##.pagefair-acceptable
 forexinfo.it,ivg.it##div[id^="div-gpt-ad"]
