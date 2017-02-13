@@ -776,6 +776,8 @@
 ||musicclub.it/banner/
 ||musicoff.com^*/adshops_
 ||mymovies.it/v7/include/homedressing/
+||nerdplanet.it^*/banner.
+||nerdplanet.it^*/batmanultimo2017.
 ||netweek.it/banneranalyzer/
 ||network.alfemminile.com^
 ||newsic.it/assets/banner/

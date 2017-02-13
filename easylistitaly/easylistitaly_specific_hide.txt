@@ -416,12 +416,15 @@ genova24.it###takeover_left
 genova24.it###takeover_right
 tomshw.it###testata_giu
 alessandrianews.it###testata_tkv-bg
+nerdplanet.it###text-10
 serbianmonitor.com###text-15
 lavocedelpopolo.net###text-19
 lavocedelpopolo.net###text-20
 radioradio.it###text-21
 radioradio.it###text-22
 tuttomotoriweb.com###text-23
+nerdplanet.it###text-24
+nerdplanet.it###text-25
 lavocedelpopolo.net###text-26
 lavocedelpopolo.net###text-28
 retenews24.it###text-29
@@ -434,7 +437,7 @@ bufale.net###text-48
 birramoriamoci.it,serbianmonitor.com###text-5
 studioconsulenzaromano.net###text-561964208
 farevela.net###text-7
-serbianmonitor.com###text-9
+nerdplanet.it,serbianmonitor.com###text-9
 ilmonferrato.it,ilpiccolo.net###thin_banners_container
 liberatv.ch###ti_banner_top
 ilcapoluogo.com###tier
