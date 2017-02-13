@@ -360,6 +360,7 @@
 ||galatina.it^*/banner-roa-
 ||galatina.it^*/banners/
 ||galatina.it^*/body_bg.png
+||gamesnote.it/images/banner-
 ||gamesvillage.it/ajax.php?do=gv_amazon_page&
 ||garedepoca.com/grafica/banner_
 ||gastronauta.it/files/files_banner/
