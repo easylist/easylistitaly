@@ -1009,6 +1009,7 @@
 ||siciliaway.it^*/immagini_promozionali/
 ||sipario.it/images/banners/
 ||sky.it/static/images/sito/skin_
+||smartweek.it^*/banner-
 ||smtvsanmarino.sm/*/bnr/
 ||softonic.it/ad/
 ||sogninascosti.com/banner/
