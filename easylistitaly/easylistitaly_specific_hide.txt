@@ -188,6 +188,7 @@ subito.it###bs_textlinks
 liberatv.ch###bsky
 r101.it###btn_r101store
 fattidicronaca.it,neveitalia.it,pourfemme.it,qnm.it,tecnocino.it,tecnozoom.it,tuttogratis.it,vivacinema.it###btop
+gamernews.it###bunyad-latest-reviews-widget-2
 iodonna.it,leiweb.it###buy-now
 gamesvillage.it###buy_amazon
 qds.it###bx-adv
