@@ -654,6 +654,7 @@ voceditalia.it##.banner_casino2
 everyeye.it##.banner_destra
 parmasera.it,piacenzasera.it##.banner_doc_bottom_foto
 finanza.com,ilgiornaledireggio.it,motori24.ilsole24ore.com##.banner_dx
+ragusanews.com##.banner_dx_google
 ilfattonisseno.it##.banner_flusso
 ecodibergamo.it,ilcittadinomb.it,laprovinciadicomo.it,laprovinciadivarese.it##.banner_footer
 parmasera.it,piacenzasera.it##.banner_globaltop
@@ -669,7 +670,7 @@ sportface.it##.banner_panorama
 orgoglionerd.it##.banner_rotation
 ilgiornaleditalia.org##.banner_slide_300x250_slide
 rsvn.it##.banner_spalla
-qds.it,romanews.eu##.banner_top
+qds.it,ragusanews.com,romanews.eu##.banner_top
 ipoditalia.it##.banner_topright
 galileonet.it##.banner_vert
 techarena.it##.bannercentro
@@ -868,7 +869,7 @@ everyeye.it##.nome_gioco_amazon_destra
 ludomedia.it##.nonSonoAdv
 risultati.it##.odds-detail
 lastampa.it##.pane-views-partner-block-1
-ilmionuovonumero.it##.partner
+ilmionuovonumero.it,ragusanews.com##.partner
 asca.it##.personalized_background
 rai.tv##.placeholder300x250
 gazzetta.it##.poker
