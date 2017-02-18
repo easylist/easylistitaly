@@ -307,6 +307,7 @@ tusciaweb.eu###miesSPLASH
 udinese.it###mod-udinese-sponsor-panel-fulllength
 ciao.it###mod_ph_merchoffer
 digital-news.it###mp
+digital-news.it###mp17
 105.net,red-live.it###mpu
 ebay.it###mpu-container
 vivicool.it###navpages
