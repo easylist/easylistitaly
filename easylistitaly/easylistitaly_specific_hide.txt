@@ -421,6 +421,7 @@ alessandrianews.it###testata_tkv-bg
 nerdplanet.it###text-10
 serbianmonitor.com###text-15
 lavocedelpopolo.net###text-19
+zoom24.it###text-2
 lavocedelpopolo.net###text-20
 radioradio.it###text-21
 radioradio.it###text-22
