@@ -274,6 +274,7 @@
 ||direttagoal.it/writable/banners/
 ||donnamoderna.com^*/bg-immobiliare.png
 ||dragonballgt.it^*/skin_
+||drivingitalia.net/tuttiautopezzi.gif
 ||dueruote.it/asset/img/partner/
 ||eaglesfree.com^*/netload.gif
 ||earone.it/themes/banner/
