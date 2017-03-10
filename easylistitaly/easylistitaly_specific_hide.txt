@@ -1379,4 +1379,4 @@ termometropolitico.it##[id^="bsa"]
 f1sport.it,forexinfo.it,worldcomputing.it,zeusnews.it##.adsbygoogle
 codeclan.altervista.org##.banner_altervista_300X250
 zeusnews.it##.pagefair-acceptable
-forexinfo.it,ivg.it##div[id^="div-gpt-ad"]
+calcionapoli24.it,forexinfo.it,ivg.it##div[id^="div-gpt-ad"]

@@ -178,6 +178,7 @@
 @@||beppegrillo.it^$generichide
 @@||calciomercato.com^$generichide
 @@||calciomercato.com^$script,xmlhttprequest
+@@||calcionapoli24.it^$generichide
 @@||canonclubitalia.com^$generichide
 @@||chimica-online.it^$generichide
 @@||codeclan.altervista.org^$generichide
