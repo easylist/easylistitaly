@@ -1057,6 +1057,8 @@
 ||sud656.tv/images/banners/
 ||suedtirol-it.com/images/banner/
 ||superba.it/ad-
+||supertennis.tv/images/banner-
+||supertennis.tv/images/banner_
 ||superzeta.it^*/dummy.gif
 ||targatocn.it/fileadmin/archivio/targatocn/*/bgr_body45_
 ||targatocn.it^*/box/

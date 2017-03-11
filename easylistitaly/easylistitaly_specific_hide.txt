@@ -678,9 +678,10 @@ galileonet.it##.banner_vert
 techarena.it##.bannercentro
 trovaprezzi.it##.bannerdiv
 alessandriaoggi.info,corrieredellacalabria.it,lametino.it,laquila1.it,qdpnews.it,sud656.tv,tecnicadellascuola.it,uninews24.it##.bannergroup
+supertennis.tv##.bannergroup-banner
 paviapiu.it##.bannergroupnomarginall
 radiogold.it##.bannergroupskin-banner-module
-houseofgolf.it,you-ng.it##.banneritem
+houseofgolf.it,supertennis.tv,you-ng.it##.banneritem
 centrometeo.com##.banneritemcenterdx
 chimica-online.it##.bannerlaterale
 finanzaonline.com##.bannerlbforum
