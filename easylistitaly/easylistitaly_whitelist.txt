@@ -211,7 +211,7 @@
 @@||mtv.it/advertisement.js
 @@||ntv.movieplayer.it^$generichide
 @@||ntv.multiplayer.it^$generichide
-@@||pagead2.googlesyndication.com/pagead/|$image,domain=aranzulla.it|dasolo.org
+@@||pagead2.googlesyndication.com/pagead/|$image,domain=aranzulla.it|dasolo.co|dasolo.org
 @@||pagead2.googlesyndication.com/|$image,domain=aranzulla.it
 @@||phica.net^$generichide
 @@||pokmon-forever.forumfree.it^$image
