@@ -190,6 +190,7 @@
 @@||economia-italia.com^$generichide
 @@||f1sport.it^$generichide
 @@||fiatti.com/adframe.js
+@@||fkadb.info^$script,xmlhttprequest,domain=calciomercato.com
 @@||forexinfo.it^$generichide
 @@||genova24.it^*/ads.js
 @@||giornale.it^$generichide
