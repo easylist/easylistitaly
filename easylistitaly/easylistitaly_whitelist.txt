@@ -217,6 +217,7 @@
 @@||phica.net^$generichide
 @@||pokmon-forever.forumfree.it^$image
 @@||popcorntv.it^$generichide
+@@||repstatic.it/adagiojs/repubblicaad.js|$domain=video.repubblica.it
 @@||repstatic.it/cless/channel/video/js/utils/$domain=video.repubblica.it
 @@||scambiofile.info/js/ads.$script
 @@||static.criteo.com/images|$image,domain=aranzulla.it
