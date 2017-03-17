@@ -227,6 +227,7 @@
 @@||thegamesmachine.it^*/ad-block-defender/$script
 @@||tt4.info^$script,xmlhttprequest,domain=calciomercato.com
 @@||utils.cedsdigital.it/js/$xmlhttprequest
+@@||utils.cedsdigital.it^$image
 @@||vanityfair.it^*/cn-adv.js
 @@||video.netaddiction.it^$generichide
 @@||webserver.one/advertisement.js
