@@ -177,7 +177,7 @@
 @@||badtaste.it^*/bad-analytics/$script
 @@||badtv.it^*/bad-analytics/$script
 @@||beppegrillo.it^$generichide
-@@||bresciaoggi.it/*ad$image,~third-party
+@@||bresciaoggi.it/*ad$image
 @@||calciomercato.com^$generichide
 @@||calciomercato.com^$script,xmlhttprequest
 @@||calcionapoli24.it^$generichide
@@ -198,7 +198,7 @@
 @@||giornale.it^$generichide
 @@||guideitech.com^$generichide
 @@||hostingtv.org^$elemhide
-@@||ilgiornaledivicenza.it/*ad$image,~third-party
+@@||ilgiornaledivicenza.it/*ad$image
 @@||ilsitodellozoo.com^$generichide
 @@||ilwebmaster21.com^$generichide
 @@||ilwebmaster21.com^$xmlhttprequest
@@ -211,7 +211,7 @@
 @@||kxcdn.com^$script,domain=aranzulla.it
 @@||la-cosa.it^$generichide
 @@||ladige.it^$generichide
-@@||larena.it/*ad$image,~third-party
+@@||larena.it/*ad$image
 @@||mobileuniverse.it/advertisement.js
 @@||mtv.it/advertisement.js
 @@||ntv.movieplayer.it^$generichide
