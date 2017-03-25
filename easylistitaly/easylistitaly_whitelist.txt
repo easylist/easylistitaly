@@ -177,6 +177,7 @@
 @@||badtaste.it^*/bad-analytics/$script
 @@||badtv.it^*/bad-analytics/$script
 @@||beppegrillo.it^$generichide
+@@||bresciaoggi.it/*ad$image,~third-party
 @@||calciomercato.com^$generichide
 @@||calciomercato.com^$script,xmlhttprequest
 @@||calcionapoli24.it^$generichide
