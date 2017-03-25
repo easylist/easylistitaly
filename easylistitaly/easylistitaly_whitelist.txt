@@ -211,6 +211,7 @@
 @@||kxcdn.com^$script,domain=aranzulla.it
 @@||la-cosa.it^$generichide
 @@||ladige.it^$generichide
+@@||larena.it/*ad$image,~third-party
 @@||mobileuniverse.it/advertisement.js
 @@||mtv.it/advertisement.js
 @@||ntv.movieplayer.it^$generichide
