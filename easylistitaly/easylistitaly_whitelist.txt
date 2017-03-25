@@ -197,6 +197,7 @@
 @@||giornale.it^$generichide
 @@||guideitech.com^$generichide
 @@||hostingtv.org^$elemhide
+@@||ilgiornaledivicenza.it/*ad$image,~third-party
 @@||ilsitodellozoo.com^$generichide
 @@||ilwebmaster21.com^$generichide
 @@||ilwebmaster21.com^$xmlhttprequest
