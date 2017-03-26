@@ -205,9 +205,9 @@
 @@||ispazio.net^$generichide
 @@||it.videogamer.com/wp-content/themes/videogamer/js/ads.js
 @@||italiatv.ga^$generichide
+@@||ivg.it/*ad$script
 @@||ivg.it/pubblicita.js
 @@||ivg.it^$generichide
-@@||ivg.it^*/ads.js
 @@||kxcdn.com^$script,domain=aranzulla.it
 @@||la-cosa.it^$generichide
 @@||ladige.it^$generichide
