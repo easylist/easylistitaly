@@ -79,7 +79,6 @@
 ||elf76.altervista.org^$subdocument,third-party
 ||emotiko.com^*/banners/
 ||enoleggioauto.it/affiliatexmlstylesheets/
-||eurobet.it/adynit/$third-party
 ||excite.it/ad/
 ||fantagenius.com^*/banner/
 ||favolefantasia.com/banner/
