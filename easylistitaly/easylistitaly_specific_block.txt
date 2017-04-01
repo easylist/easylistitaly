@@ -257,6 +257,7 @@
 ||corrierinocampaniasport.it^*/menna.jpg
 ||cronacaflegrea.it^*/ads/
 ||dagospia.com/_include/banner/
+||dasolo.co/easy.gif
 ||datasport.it/img/banner_
 ||deltadivenere.com/banners/
 ||deltadivenere.com/tgp/

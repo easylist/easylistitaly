@@ -82,7 +82,7 @@
 @@||paesesera.it/design/paesesera/stylesheets/advertising.css
 @@||pagead2.googlesyndication.com/pagead/googlevideoadslibrary.swf$object-subrequest,domain=giochidicalcio.com
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=comprovendolibri.it|economia-italia.com|faqmozilla.org|ilcaffe.tv|quelchenonsapevi.it|unmondodibaci.it|windowsblogitalia.com
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=economia-italia.com|faqmozilla.org|ilcaffe.tv|quelchenonsapevi.it|unmondodibaci.it|windowsblogitalia.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=dasolo.co|economia-italia.com|faqmozilla.org|ilcaffe.tv|quelchenonsapevi.it|unmondodibaci.it|windowsblogitalia.com
 @@||pagead2.googlesyndication.com/pagead/scache/googlevideoads.swf$object-subrequest,domain=giochidicalcio.com
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=comprovendolibri.it|dbplanet.net|ipaditalia.com|iphoneitalia.com
 @@||panorama.it/adv/$image
@@ -161,7 +161,7 @@
 @@||vicenzatoday.it^$generichide
 ! Anti-Adblock
 @@.jpg#$domain=economia-italia.com|italia-tv.org
-@@.png#$domain=codeclan.altervista.org|italia-tv.org|phica.net|webserver.one|webtvhd.com|worldcomputing.it
+@@.png#$domain=codeclan.altervista.org|dasolo.co|italia-tv.org|phica.net|webserver.one|webtvhd.com|worldcomputing.it
 @@||3bmeteo.com/js/ads.js
 @@||3bmeteo.com/js/advert.js
 @@||ad.doubleclick.net/ddm/pfadx/$xmlhttprequest,domain=vvvvid.it
@@ -186,6 +186,8 @@
 @@||codeclan.altervista.org^$generichide
 @@||compitoinclasse.org/script/advertisement.js
 @@||comprovendolibri.it^$generichide
+@@||dasolo.co/*ad$script
+@@||dasolo.co^$generichide
 @@||dasolo.org/advertisement.js
 @@||dasolo.org^$generichide
 @@||davidpuente.it^$generichide
