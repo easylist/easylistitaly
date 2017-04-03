@@ -612,6 +612,7 @@
 ||kveeniland.com/dwnd.png
 ||kveeniland.com/guarda.png
 ||kveeniland.com/scarica.png
+||kxcdn.com/gear.jpg$domain=tecnoandroid.it
 ||labisalta.it/pubb/
 ||lacnews24.it/filemanager/skinz/
 ||ladige.it/internal/immobiliare/
