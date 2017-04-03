@@ -416,6 +416,7 @@ datamanager.it,techvideo.tv###takeover-spazio
 gamesvillage.it###takeover_gv
 genova24.it###takeover_left
 genova24.it###takeover_right
+telefonino.net###telnetforumlot3
 tomshw.it###testata_giu
 alessandrianews.it###testata_tkv-bg
 nerdplanet.it###text-10
@@ -1102,6 +1103,7 @@ ildesk.it##div[style="display:block; float:left; width:468px; height:60px; posit
 3bmeteo.com##div[style="display:inline-block;min-width:320px;max-width:1200px;width:100%;height:100px"]
 internapoli.it##div[style="float: left; margin-top: 10px; background-color: #C0C0C0; width: 300px; height: 250px; margin: 10px;"]
 lastampa.it##div[style="float: left; width: 990px; text-align: center; margin-top: 10px; height: 110px;"]
+telefonino.net##div[style="float: right;width: 300px;min-height:250px;margin: 2px 4px 10px 10px;"]
 f1passion.it##div[style="float:left; width:300px; height:250px; background:#f80; margin-bottom:24px;"]
 villaggiomusicale.com##div[style="float:left; width:980px; height:90px; text-align:center; padding:10px 0; background:#F3F3F3; margin:10px 0;"]
 treccani.it##div[style="float:left;margin:35px 0 15px;width:100%;height:166px;text-align:center;"]
