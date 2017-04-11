@@ -1,4 +1,3 @@
-###ADVTG_CONTAINER_pushdown
 ###ADVrettangolo
 ###ADVrettangolopiede
 ###ADVstriscia
