@@ -239,6 +239,7 @@ ilcap.it###gadsense
 mondoplay.it,mondoxbox.com###gameBlock_amazon
 mondoplay.it,mondoxbox.com###gameBlock_amazon_noboxart
 rdf.it###gkBanner2
+tiburno.tv###gkBannerTop
 paginegialle.it###glamoo-box
 ilfattoquotidiano.it###glfb-sticky-1
 telefonino.net###google300x250
@@ -325,6 +326,7 @@ amicidimotociclismo.it###partnerfooter
 fantascienza.com###partners
 pianetatech.it###partnerw
 lagazzettadelmezzogiorno.it###petizione
+tiburno.tv###popup_wrap
 cattoliciromani.com###posts > div:nth-child(2) .tborder[id^="post"]:first-child:last-child
 delleconomia.it###powered
 livesicilia.it###pp[style="position:absolute; z-index:1000000000; width:400px; height:350px; left:295px; top:126px; border:3px #fff solid;"]
@@ -543,7 +545,7 @@ webnews.it##.adv_01
 addicted2play.com,amonapoli.it,eurogamer.it,giardini.biz,morningstar.it,tvtv.it,vg247.it##.advert
 loradellacalabria.it##.advertise
 loradellacalabria.it##.advertise2
-internimagazine.it##.advertisement
+internimagazine.it,tiburno.tv##.advertisement
 cubovision.it,fastweb.it,gazzetta.it,ilgazzettinovesuviano.com,lettera43.it##.advertising
 loggiap2.com##.advs
 quotidianodigela.it##.advs-title
@@ -680,7 +682,7 @@ ipoditalia.it##.banner_topright
 galileonet.it##.banner_vert
 techarena.it##.bannercentro
 trovaprezzi.it##.bannerdiv
-alessandriaoggi.info,corrieredellacalabria.it,lametino.it,laquila1.it,qdpnews.it,sud656.tv,tecnicadellascuola.it,uninews24.it##.bannergroup
+alessandriaoggi.info,corrieredellacalabria.it,lametino.it,laquila1.it,qdpnews.it,sud656.tv,tecnicadellascuola.it,tiburno.tv,uninews24.it##.bannergroup
 supertennis.tv##.bannergroup-banner
 paviapiu.it##.bannergroupnomarginall
 radiogold.it##.bannergroupskin-banner-module

@@ -1105,6 +1105,9 @@
 ||tgcom24.mediaset.it^*_BoxSpeciali_
 ||tggialloblu.it/images/banner-
 ||therockblog.net^*/banner-
+||tiburno.tv/images/banners/
+||tiburno.tv/images/mod_jt_popup_balloon/
+||tiburno.tv/images/Sfondo/
 ||ticinofinanza.ch/banner/
 ||ticinolive.ch/files/banners/
 ||ticinonews.ch/img/bsi.jpg
