@@ -304,6 +304,8 @@ itespresso.it###megabanner
 metalitalia.com###middle-home
 mymovies.it###middle1_companion
 tusciaweb.eu###miesSPLASH
+eurogamer.it###mobile-leaderboard
+eurogamer.it###mobile-mpu
 udinese.it###mod-udinese-sponsor-panel-fulllength
 ciao.it###mod_ph_merchoffer
 digital-news.it###mp
@@ -865,6 +867,7 @@ gazzetta.it##.mkt-780x100-box
 ilturista.info##.more-holder
 secondamano.it##.moreblock
 affaritaliani.it##.mpe_sponsor
+eurogamer.it##.mpu
 affaritaliani.it,notiziaoggi.it,nuovaperiferia.it,settegiorni.it##.mutui
 geoplan.it##.my_adv
 gelocal.it,repubblica.it##.negozi
