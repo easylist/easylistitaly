@@ -1289,16 +1289,20 @@
 ! City-news
 /astalegale.net/*$subdocument
 /immobiliare.it/*$subdocument
+/traffico/banner/*
 /vzzbovyvner.vg/*$subdocument
 /~vda/_/*.php/*
+/~vda/__/*.php/*
 ||citynews.ovh^
 ||j7sz3ccbyfc.ovh^
 ||n6trhtnxnzi.ovh^
 ||stgy.it^*/niks/
 ||stgy.it^*/skin/
+||stgy.ovh^*/da/
 ||stgy.ovh^*/niks/
 ||stgy.ovh^*/skin/
 ||tp7vgzeh7kq.ovh^
+||xdhjzedghvi.ovh^
 ! Anti-Adblock
 ||3bmeteo.com^*/adblock.png
 ||badcomics.it^*/default.include-footer.$script
