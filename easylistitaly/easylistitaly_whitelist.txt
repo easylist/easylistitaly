@@ -169,6 +169,7 @@
 @@||agi.it^$generichide
 @@||androidiani.com^$generichide
 @@||aranzulla.it/_adv/*ad$image,script,domain=aranzulla.it
+@@||aranzulla.it/_adv/dartcall.$image,script,domain=aranzulla.it
 @@||aranzulla.it^$generichide
 @@||aranzulla.it^*?ads=true$image,script,domain=aranzulla.it
 @@||archivio.corriere.it^$generichide
