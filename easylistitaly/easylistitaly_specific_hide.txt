@@ -208,6 +208,7 @@ leggilanotizia.it###cont-banner-sotto-testata
 virgilio.it###cont-leaderboard
 virgilio.it###cont-manchette
 varesenews.it###cont_Superbanner
+lapiazzacastelmadama.com###container_bottom1_modules
 autoseller.it###ctl00_ContentCentraleBanner
 firstonline.info###ctl00_cph_main_banner1_p1
 teleborsa.it###ctl00_if4WTV300x250
@@ -741,6 +742,7 @@ tgcom24.mediaset.it##.boxspeciale
 forexinfo.it##.broker-tabella_container_aside
 wiitalia.it##.bsmall
 qds.it##.bx-home-bnr-mini
+lapiazzacastelmadama.com##.bx-wrapper
 tiscali.it##.c1c6.f12
 quotidiano.net##.category-SPONSOR
 radioinblu.it,tv2000.it##.cei-skin-side
