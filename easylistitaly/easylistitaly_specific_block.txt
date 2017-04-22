@@ -304,6 +304,7 @@
 ||eventiesagre.it/images/banner/
 ||everyeye.it/amazonasin/
 ||everyeye.it/novembertopskin/
+||everyeye.it^*-skin.
 ||everyeye.it^*/topskin/
 ||exxun.com/adi/
 ||f052.it/archivefile/*/banner-
