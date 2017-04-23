@@ -306,6 +306,7 @@
 ||everyeye.it/novembertopskin/
 ||everyeye.it^*-skin.
 ||everyeye.it^*/topskin/
+||everyeye.it^*_skin.
 ||exxun.com/adi/
 ||f052.it/archivefile/*/banner-
 ||f1passion.it^*/banner.
