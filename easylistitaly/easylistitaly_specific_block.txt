@@ -384,6 +384,7 @@
 ||gazzettadisondrio.it/images/banner/
 ||gazzettamatin.com/admin/banner_
 ||gazzettamatin.com/admin/img_banner/
+||gazzettaobjects.it/includes2013/External-Content/box_netflix.shtml
 ||gazzettaobjects.it/static_images/promo/
 ||gazzettaobjects.it^*/adv/
 ||gazzettaobjects.it^*/sponsor/
