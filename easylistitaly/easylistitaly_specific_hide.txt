@@ -701,6 +701,7 @@ gazzettinodelchianti.it##.bannertopbar
 ticinolive.ch##.bannerwrap
 romagiornoenotte.it##.basebannerBox
 altadefinizione.zone##.bbtn
+notizialocale.it##.bc_random_banner
 wallstreetitalia.com##.bestbuybiz
 losportivo.sm##.bg_blocchi
 corrieredilatina.it,corriereromagna.it,ilmattinodifoggia.it,lanuovaprimapagina.it##.bgbanner
@@ -982,6 +983,7 @@ wired.it##.supported
 livescore.it##.table-odds
 ciao.it##.tableSponsLinks
 genova24.it,ivg.it##.takeover
+notizialocale.it##.td-a-rec-id-header
 panorama.it##.teaser-immobiliare
 tiscali.it##.teaserDx
 edidomus.it##.telecamera-address

@@ -795,6 +795,7 @@
 ||noiporno.com/slide/
 ||nordesteuropa.it^*/adv/
 ||notebookitalia.it/images/stories/*_wallpaper_jpg.jpg
+||notizialocale.it^*/banner-
 ||notiziarioitaliano.it^*/banner/
 ||notizie-online.it/banner/
 ||notiziediprato.it/caricaBannerIframe/
