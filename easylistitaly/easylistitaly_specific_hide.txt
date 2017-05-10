@@ -194,6 +194,7 @@ gamesvillage.it###buy_amazon
 qds.it###bx-adv
 treccani.it###campagnaBox
 camionsupermarket.it###center_banner
+mediaset.it###chiudib
 virgilio.it###cht_banner
 libero.it###chunnel-affari-300x170
 amazon.it###click_withinLazyLoad_tower
