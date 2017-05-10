@@ -732,6 +732,7 @@ milaninterradio.tv##.box_300_250
 tuttosport.com##.box_Banner
 tuttosport.com##.box_LeaderBoard
 hdblog.it##.box_flame
+hdblog.it##.box_grampa_shadow
 calcioblog.it##.box_highlight
 omniauto.it##.box_listinousato
 gazzettadiparma.it##.box_preview_column_promo_article
