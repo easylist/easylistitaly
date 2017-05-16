@@ -633,6 +633,7 @@ ilsecoloxix.it##.banner650x60
 ilfattonisseno.it##.banner6x3
 ilcalciocatania.it##.bannerArea
 zoover.ch,zoover.it##.bannerContainer
+djmagitalia.com##.bannerExtra
 ilmessaggero.it,ravennanotizie.it##.bannerH
 beppegrillo.it##.bannerHeader
 cittaceleste.it,juvenews.eu##.bannerNelTesto
@@ -1047,6 +1048,7 @@ corrieredinovara.com##.z-banner
 corrieredinovara.com##.z-bannerpub
 01net.it,ambientecucinaweb.it,eurosat-online.it,millecanali.it##.zedo
 cittaceleste.it##.zodiak
+djmagitalia.com##[href^="http://www.djpoint.net/"]
 windowsblogitalia.com##[id^="bsa"]
 gazzettinodelchianti.it##a[class*="bannerpos"]
 tgcom24.mediaset.it##a[href*=".ad.dotandad.com/clicktracker.jsp?"]

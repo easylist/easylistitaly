@@ -273,6 +273,9 @@
 ||dincontri.com/img/europe_pharm.gif
 ||diretta.it/res/image/bookmaker-list.png
 ||direttagoal.it/writable/banners/
+||djmagitalia.com^*-banner-
+||djmagitalia.com^*/BANNER_
+||djmagitalia.com^*_skin_
 ||donnamoderna.com^*/bg-immobiliare.png
 ||dragonballgt.it^*/skin_
 ||drivingitalia.net/tuttiautopezzi.gif
