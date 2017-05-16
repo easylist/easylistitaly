@@ -661,6 +661,7 @@ finanzaonline.com##.banner_bg
 borsainside.com##.banner_bottom_post
 softonic.it##.banner_box
 voceditalia.it##.banner_casino2
+volleyball.it##.banner_container
 everyeye.it##.banner_destra
 parmasera.it,piacenzasera.it##.banner_doc_bottom_foto
 finanza.com,ilgiornaledireggio.it,motori24.ilsole24ore.com##.banner_dx
@@ -981,6 +982,7 @@ affaritaliani.it##.strillo-speciale3
 agichina24.it,trend-online.com##.strip
 loradellacalabria.it##.strisciane1
 style.it##.style_promo
+volleyball.it##.su-carousel
 tomshw.it##.supercute-frenchies
 wired.it##.supported
 livescore.it##.table-odds
@@ -1324,7 +1326,12 @@ liguriaoggi.it##img[alt="ad"]
 cinematografo.it##img[alt="banner"]
 teslaitalia.it##img[height="150"][width="250"]
 gioco.it,latinaquotidiano.it,liguriaoggi.it,sette-giorni.ro##img[height="250"][width="300"]
+volleyball.it##img[height="300"][width="300"]
+volleyball.it##img[height="490"][width="745"]
 gioco.it##img[height="600"][width="160"]
+volleyball.it##img[height="80"][width="700"]
+volleyball.it##img[height="81"][width="700"]
+volleyball.it##img[height="886"][width="886"]
 gioco.it,liguriaoggi.it##img[height="90"][width="728"]
 spaziogames.it##img[src="/img/common/blank.gif"][style="width: 99%; height: 99%;"]
 elaborare.info##img[style="height: 960px;\a             margin-left: -165px;\a             margin-top: 0px;\a             position: fixed;\a             top: 0;\a             width: 145px;"]

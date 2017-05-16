@@ -1268,6 +1268,7 @@
 ||voceditalia.it/banner/
 ||voceditalia.it/banner_ev.js
 ||vocenuova.tv/assets/uploads/banners/
+||volleyball.it^*/banner-
 ||vps-ta.tiscali.it^
 ||vstau.info/assets/nopop_
 ||vvvvid.it/vast/
