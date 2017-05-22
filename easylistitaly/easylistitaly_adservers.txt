@@ -16,7 +16,6 @@
 ||advhits.com^$third-party
 ||advit.it^$third-party
 ||advplace.com^$third-party
-||adwebster.com^$third-party
 ||affiliago.it^$third-party
 ||affiliationpartner.it^$third-party
 ||affiliazioni.me^$third-party
