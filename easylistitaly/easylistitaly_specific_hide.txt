@@ -1402,14 +1402,3 @@ gommeblog.it##td[style="width: 335px; height: 251px; text-align: center;"]
 juzaphoto.com##td[style="width:170px; vertical-align:top; text-align:center"]
 clubalfa.it##td[width="305"][height="205"]
 clubalfa.it##td[width="310"][height="255"]
-! Anti-Adblock
-3bmeteo.com###adblock_warning
-tomshw.it###notifica_adcont
-termometropolitico.it##[id^="bsa"]
-! Site Specific filters (used with $generichide)
-f1sport.it,forexinfo.it,worldcomputing.it,zeusnews.it##.adsbygoogle
-codeclan.altervista.org##.banner_altervista_300X250
-zeusnews.it##.pagefair-acceptable
-ivg.it##.wrb4_x1_adv
-ivg.it##a[href^="//edintorni.net/related/service/sponsor/redirect/?"]
-calcionapoli24.it,forexinfo.it,ivg.it##div[id^="div-gpt-ad"]

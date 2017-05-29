@@ -45,6 +45,3 @@ _pubblicita.
 _pubblicita/
 _pubblicita_
 _sito/adv/
-! Anti-Adblock
-/antipubblicita.js
-/noadblock.jpg

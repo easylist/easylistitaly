@@ -13,7 +13,6 @@ huffingtonpost.it#@#.ad_spot
 newscrawler.it#@#.ad_wrapper
 filmeter.net#@#.adbanner
 subito.it#@#.adcont
-faqmozilla.org#@#.adsbygoogle
 bakeca-incontri.net#@#.adtitle
 altervista.org,pianetadonna.it,studenti.it#@#.adv_esterno
 deejay.it#@#.advertorial
@@ -27,8 +26,3 @@ latinomagazine.it#@#.moduletable-advert
 camperonline.it,italiasw.com#@#.pubblicita
 meteo.it#@#.section-sponsor
 brocardi.it#@#.with-background-ads
-d1khqztmu4w2hg.cloudfront.net,lafucina.it,mmorpgitalia.it,tzetze.it#@#div[id^="div-gpt-ad"]
-! Anti-Adblock
-dbplanet.net#@##ad_block
-sportube.tv#@#.afs_ads
-calciomercato.com#@#.text_ads

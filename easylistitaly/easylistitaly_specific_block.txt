@@ -1297,28 +1297,3 @@
 ||zapster.it/images/skin/
 ||zerodelta.net/immagini/immagini2.0/
 ||zipnews.it/sai.jpg
-! City-news
-/astalegale.net/*$subdocument
-/immobiliare.it/*$subdocument
-/traffico/banner/*
-/vzzbovyvner.vg/*$subdocument
-/~vda/_/*.php/*
-/~vda/__/*.php/*
-||citynews.ovh^
-||j7sz3ccbyfc.ovh^
-||n6trhtnxnzi.ovh^
-||stgy.it^*/niks/
-||stgy.it^*/skin/
-||stgy.ovh^*/da/
-||stgy.ovh^*/niks/
-||stgy.ovh^*/skin/
-||tp7vgzeh7kq.ovh^
-||xdhjzedghvi.ovh^
-! Anti-Adblock
-||3bmeteo.com^*/adblock.png
-||badcomics.it^*/default.include-footer.$script
-||badgames.it^*/default.include-footer.$script
-||badtaste.it^*/default.include-footer.$script
-||badtv.it^*/default.include-footer.$script
-||calciomercato.com^*/cm.adb.js
-||swzz.xyz/noadblock.png
