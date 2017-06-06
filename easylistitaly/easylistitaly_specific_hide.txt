@@ -956,6 +956,7 @@ ilroma.net,omnicorse.it##.skin
 iovivoaroma.org##.skin_link_top
 sky.it##.skybet_spalla
 gioco.it##.skyscraper
+genova24.it##.slider-elezioni-bottom-container
 soldionline.it##.sm_widget_contenitore
 gazzettinodelchianti.it##.small_link
 finanzaonline.com,tgcom24.mediaset.it##.spaceBanner
