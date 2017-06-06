@@ -816,6 +816,7 @@ gqitalia.it##.gq-promotions
 tomshw.it##.guides-summary
 fantagazzetta.com##.h-box
 quattroruote.it##.halfPageBanner2
+nuovosud.it##.header-banner-wrapper
 ilgiornaledivicenza.it##.header-box
 newyork-tales.ilsole24ore.com##.header-right
 bow.it,cronacamilano.it,ilfaroonline.it,vendingnews.it##.header_banner
