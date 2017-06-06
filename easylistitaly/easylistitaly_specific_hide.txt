@@ -317,6 +317,8 @@ digital-news.it###mp17
 ebay.it###mpu-container
 vivicool.it###navpages
 kveeniland.com,poseidonbistro.com###nebanner
+sky.it###neodataneodataright1Banner
+sky.it###neodataneodataright2Banner
 telefonino.net###news336x280GoogleBox
 mondoplay.it,mondoxbox.com###offersbox
 agimondo.it###overhp

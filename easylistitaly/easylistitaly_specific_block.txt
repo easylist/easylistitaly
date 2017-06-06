@@ -1,3 +1,4 @@
+|blob:$domain=02blog.it|06blog.it|artsblog.it|autoblog.it|bebeblog.it|benessereblog.it|blogo.it|blogosfere.it|booksblog.it|cineblog.it|clickblog.it|comicsblog.it|deluxeblog.it|designerblog.it|downloadblog.it|ecoblog.it|fashionblog.it|gadgetblog.it|gamesblog.it|gossipblog.it|gustoblog.it|managementnotes.it|melablog.it|mobileblog.it|motoblog.it|motorsportblog.it|outdoorblog.it|petsblog.it|pinkblog.it|polisblog.it|queerblog.it|soldiblog.it|soundsblog.it|toysblog.it|travelblog.it|tvblog.it
 ||0781.info^*/banners/
 ||11giovani.it/images/banners/
 ||12alle12.it/wp-content/banners/
