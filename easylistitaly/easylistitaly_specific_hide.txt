@@ -67,6 +67,7 @@ larivieraonline.com,oggitreviso.it###banner-top
 comingsoon.it,corrieredelgiorno.com###banner1
 comingsoon.it,forzapescara.net###banner2
 comingsoon.it###banner3
+gayburg.blogspot.it###banner300
 telefonino.net###banner300x100Pos2
 telefonino.net###banner300x100Pos3
 telefonino.net###banner300x100Pos4
