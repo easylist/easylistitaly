@@ -135,6 +135,7 @@
 ##.tabellaPubblicita
 ##.tccbanner
 ##.view-pubblicita
+##.wl_WidgetRel_Sponsor
 ##.wl_WidgetRel_Sponsor1
 ##a[href^="//edintorni.net/related/service/sponsor/redirect/?"]
 ##a[href^="//native.booster3d.com/related/service/sponsor/redirect/?"]
