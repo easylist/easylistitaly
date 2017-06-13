@@ -132,6 +132,8 @@
 ||beverfood.com^*banner
 ||beverfood.com^*orizontalea
 ||beverfood.com^*wallpaper
+||bikeitalia.it/banner/
+||bikeitalia.it^*/banner-
 ||bikeracing.it/bannersbk.jpg
 ||bikeracing.it/sfondo.jpg
 ||bitmat.it^*/downloadfilebanner.php?
