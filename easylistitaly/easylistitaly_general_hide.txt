@@ -27,6 +27,9 @@
 ###adv_annuncio_promo_1
 ###adv_gda
 ###adv_in_post
+###adv_nativ_sopracartina
+###adv_outbrain_AR_1_sottocartina
+###adv_sotto_navigatore
 ###adv_sponsor_canale_tematico
 ###adv_sponsor_categorico
 ###advcolonnadx
