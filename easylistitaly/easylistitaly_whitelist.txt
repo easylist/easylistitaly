@@ -48,7 +48,7 @@
 @@||google.com/adsense/$subdocument,domain=sedo.ch|sedo.it
 @@||google.com/adsense/search/ads.js$domain=zoover.ch|zoover.it
 @@||ilfattoquotidiano.it/wp-content/themes/ilfatto/thumb/*_pubblicita_*.jpg
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=agi.it|liveksoft.tv|movieplayer.it|multiplayer.it|radiofreccia.it|video.repubblica.it|vvvvid.it
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=agi.it|liveksoft.tv|movieplayer.it|multiplayer.it|radiofreccia.it|radiozeta.it|video.repubblica.it|vvvvid.it
 @@||impit.tradedoubler.com/imp?$subdocument,domain=iphoneitalia.com
 @@||js.neodatagroup.com/uploads/js/rds.js$domain=rds.it
 @@||js49.adagionet.com/uploads/js/sipra.js$domain=rai.it|rai.tv|rainews.it
