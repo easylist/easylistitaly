@@ -895,6 +895,7 @@ lastampa.it##.pane-views-partner-block-1
 ilmionuovonumero.it,ragusanews.com##.partner
 asca.it##.personalized_background
 rai.tv##.placeholder300x250
+radio.it##.playlist-teaser-buttons
 gazzetta.it##.poker
 videohifi.com##.portlet-static-sponsor
 wired.it##.poweredby
