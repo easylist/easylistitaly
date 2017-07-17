@@ -1300,5 +1300,13 @@
 ||zapster.it/images/skin/
 ||zerodelta.net/immagini/immagini2.0/
 ||zipnews.it/sai.jpg
+! Citynews
+/traffico//banner/*
+/~vda/*/*.php/*
+||ad.citynews.it^
+||cdn.da.*.ovh^
+||oipzyrzffum.ovh^
+||stgy.ovh/~shared/images/d_a/
+||today.it/~shared/cgi-bin/d_a/
 ! webrtc ads
 $webrtc,domain=02blog.it|06blog.it|artsblog.it|autoblog.it|bebeblog.it|benessereblog.it|blogo.it|blogosfere.it|booksblog.it|cineblog.it|clickblog.it|comicsblog.it|deluxeblog.it|designerblog.it|ecoblog.it|fashionblog.it|gadgetblog.it|gamesblog.it|gossipblog.it|gustoblog.it|managementnotes.it|melablog.it|mobileblog.it|motoblog.it|motorsportblog.it|outdoorblog.it|petsblog.it|pinkblog.it|polisblog.it|queerblog.it|soldiblog.it|soundsblog.it|toysblog.it|travelblog.it|tvblog.it
