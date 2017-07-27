@@ -646,6 +646,8 @@
 ||laregione.ch/ban.asp?
 ||larivieraonline.com^*/banner/
 ||larivieraonline.com^*/takeover/
+||larivieraonline.it^*/banner/
+||larivieraonline.it^*/takeover/
 ||laroma24.it/banner/
 ||laroma24.it/images/SuperTelefonia.gif
 ||laroma24.it^*/skin-
