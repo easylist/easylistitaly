@@ -798,6 +798,7 @@ comingsoon.it##.expanding-footer-container
 ilsole24ore.com##.fabbrica24
 leccesette.it##.featured_banner
 masterviaggi.it##.fieldset_sponsor
+quattroruote.it##.financialbox
 livesicilia.it##.flash-box-a-sponsor-2
 netweek.it##.flexslider-header
 cazzofiga.com##.footer-banner-wrapper
@@ -940,6 +941,7 @@ cinquegiorni.it##.rightbanner
 gazzettadasti.it##.rotate-banner
 ecodallecitta.it##.rotobanner
 nonsolocap.it##.ru
+quattroruote.it##.salone-sponsor
 genova24.it,ivg.it##.sb-banner
 genova24.it,ivg.it##.sb-box-pubbliredazionale
 flashgames.it##.scheda_ppc
