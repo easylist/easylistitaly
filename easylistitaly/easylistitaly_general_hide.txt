@@ -113,6 +113,7 @@
 ##.google-adx-corpo
 ##.google-adx-spalla
 ##.googleAnnunci
+##.google_adx_corpo
 ##.home-rubriche-adv
 ##.inews_adv_top
 ##.jadv_leoadv_pd
