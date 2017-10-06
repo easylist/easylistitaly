@@ -811,6 +811,7 @@ liberatv.ch##.front_orrizzontale
 quattroruote.it##.fullBanner
 rietinvetrina.it##.g
 spaziogames.it##.g_adv
+netflixlovers.it##.gadget
 gazzetta.it##.gazzasconti
 iammepress.it,italia-news.it##.gcon_banners
 iammepress.it,italia-news.it##.gcon_banners_label
@@ -1094,7 +1095,7 @@ tecnoandroid.it##a[href^="http://www.allinmobile.eu/"]
 altadefinizione01.click##a[href^="http://www.altadefinizione01.click/4k/"]
 altadefinizione01.click##a[href^="http://www.altadefinizione01.click/stream/"]
 juzaphoto.com##a[href^="http://www.amazon."][href*="creativeASIN"]
-bdc-forum.it,birramoriamoci.it,comprovendolibri.it,ludomedia.it,mangaforever.net,outcast.it,techzilla.it,tivusat.tv##a[href^="http://www.amazon."][href*="tag="]
+bdc-forum.it,birramoriamoci.it,comprovendolibri.it,ludomedia.it,mangaforever.net,netflixlovers.it,outcast.it,techzilla.it,tivusat.tv##a[href^="http://www.amazon."][href*="tag="]
 film-stream.org##a[href^="http://www.aznotizie.com/"]
 catania46.net##a[href^="http://www.clickpoint.it/db/goto.cp?"]
 filmsenzalimiti.co##a[href^="http://www.filmsenzalimiti.co/4k/"]
