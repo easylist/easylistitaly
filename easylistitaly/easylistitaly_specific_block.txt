@@ -766,7 +766,9 @@
 ||milaninterradio.tv/images/180x150.gif
 ||milanodabere.it/images/archivio/2000x1000/
 ||milanofinanza.it/img/adv_
+||milanofinanza.it/img/logo_zurich-connect.gif
 ||milanofinanza.it/img/speciali/
+||milanofinanza.it^*/banner-
 ||milanofinanza.it^*/promo/
 ||milanoweb.com/flash/imagerotator.swf
 ||militariforum.it/forum/italy.swf
