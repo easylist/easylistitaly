@@ -574,6 +574,7 @@ quibrianza.it##.aside-banners
 si24.it##.attachment-300x600
 radiogold.it##.autobanner
 subito.it##.autopromo
+amazon.it##.aw-campaigns
 quicomo.it##.b-250
 quicomo.it##.b-250-placeholder
 wiitalia.it##.b300
