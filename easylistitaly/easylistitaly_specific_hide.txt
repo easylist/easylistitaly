@@ -324,6 +324,7 @@ sky.it###neodataneodataright1Banner
 sky.it###neodataneodataright2Banner
 telefonino.net###news336x280GoogleBox
 mondoplay.it,mondoxbox.com###offersbox
+mondoxbox.com###offersbox_wide
 agimondo.it###overhp
 smetteredilavorare.it###overlay-block
 studiocataldi.it###overlayer
