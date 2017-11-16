@@ -7,6 +7,7 @@ repubblica.it#@##advtop
 subito.it#@##body_ad
 kijiji.it#@##post-ad
 cardiochirurgia.com#@#.ad-head
+forbesitalia.com#@#.ad-row
 bakeca-incontri.net#@#.ad_bottom
 bakeca-incontri.net#@#.ad_center
 subito.it#@#.ad_links
