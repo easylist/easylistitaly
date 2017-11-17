@@ -984,6 +984,7 @@
 ||rollingstonemagazine.it^*/banner/
 ||romait.it/img/banners/
 ||romanews.eu/upload/assets/files/*.swf?linkto=/php/redirect.php?
+||romanews.eu^*-300x200.
 ||romatoday.it/images/skin/
 ||rosa-rossa.com^*/xbn/
 ||rosalio.it^*/adv/
