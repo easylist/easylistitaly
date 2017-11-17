@@ -1,2 +1,3 @@
+||35.188.14.213^$popup
 ||golandwin.it^$popup,third-party
 ||heyos.com^$popup,third-party
