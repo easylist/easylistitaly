@@ -287,6 +287,7 @@
 ||earone.it/themes/banner/
 ||earone.it/themes/images/btn_itunes.png
 ||eccolanotiziaquotidiana.it/banners/
+||ecocentrica.it^*/banner-
 ||ecodallecitta.it/immagini/banners/
 ||ecodallecitta.it/video/menorifiuti_120x120.swf
 ||ecodibergamo.it/mediaon/www.mediaadv.it/
