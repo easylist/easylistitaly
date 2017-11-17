@@ -275,6 +275,7 @@
 ||dimmidipiu.com/images/banners/
 ||dincontri.com/img/europe_pharm.gif
 ||diretta.it/res/image/bookmaker-list.png
+||diretta.it^*/banner/
 ||direttagoal.it/writable/banners/
 ||djmagitalia.com^*-banner-
 ||djmagitalia.com^*/BANNER_
