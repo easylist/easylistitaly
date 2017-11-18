@@ -1,4 +1,5 @@
 ilmioip.it###ADS
+gazzetta.it###Adv
 spaziogames.it###Amazon
 hostingtalk.it###BannerBottom
 hostingtalk.it###BannerTop

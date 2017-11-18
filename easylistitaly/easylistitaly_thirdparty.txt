@@ -61,7 +61,9 @@
 ||d1drp6hsazvovp.cloudfront.net^*/banner/$domain=libertas.sm
 ||d1n2y2eq1wbato.cloudfront.net^*/sponsor-$domain=atalanta.it
 ||d1oaxhr280l1ho.cloudfront.net^
+||d1yhzddoi8ev99.cloudfront.net^
 ||d2moz0h55szev9.cloudfront.net^
+||d3qrbrazsnzdog.cloudfront.net^
 ||debriditalia.com/images/$third-party
 ||delosstore.it/banner/
 ||digisesso.com/img/incesti.gif
