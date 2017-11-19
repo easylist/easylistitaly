@@ -355,8 +355,6 @@
 ||focus-online.it/files/img_banner/
 ||fordfiestaitalia.com^*/sponsor/
 ||formiche.net/banner.asp?
-||forumfree.net/src/jq.js
-||forumfree.net/src/jqt.js
 ||forzapescara.net/foto/
 ||forzapescara.tv/images/partite/a.jpg
 ||freemodding.it/varie/loghi-sidebar/
