@@ -95,11 +95,9 @@
 ||spicciolo.com^$third-party
 ||sunaffiliation.com^$third-party
 ||superbanner.org^$third-party
-||superfastcdn.com^$third-party
 ||tekno4advertising.com^$third-party
 ||tgadv.it^$third-party
 ||upstory.it^$third-party
-||velocecdn.com^$third-party
 ||videomatictv.com^$third-party
 ||viralbeat.com^$third-party
 ||wbusiness.fr^$third-party
