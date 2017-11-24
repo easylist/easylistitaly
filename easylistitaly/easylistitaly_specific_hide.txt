@@ -452,8 +452,10 @@ viterbopost.it###text-34
 lavocedelpopolo.net,viterbopost.it###text-35
 birramoriamoci.it,vigamusmagazine.com###text-4
 lavocedelpopolo.net###text-41
-bufale.net###text-48
+bufale.net,formiche.net###text-48
+formiche.net###text-49
 birramoriamoci.it,serbianmonitor.com###text-5
+formiche.net###text-50
 studioconsulenzaromano.net###text-561964208
 farevela.net###text-7
 nerdplanet.it,serbianmonitor.com###text-9
@@ -836,6 +838,7 @@ newyork-tales.ilsole24ore.com##.header-right
 bow.it,cronacamilano.it,ilfaroonline.it,vendingnews.it##.header_banner
 bora.la##.headerbtm
 transfermarkt.it##.hide-for-small[style="height: 273px; text-align: center; overflow: hidden;"]
+formiche.net##.himedia_sidebar
 gazzettadasti.it##.homepage-central-ban
 radioitalia.it##.iTunes
 ildesk.it##.img_banner385x50
