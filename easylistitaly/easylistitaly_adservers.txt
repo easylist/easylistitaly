@@ -83,6 +83,7 @@
 ||ragazzeinvendita.com^$third-party
 ||rcsadv.it^$third-party
 ||reachadv.it^$third-party
+||rizzonelli.it^$third-party
 ||s-p-o-n-s-o-r.com^$third-party
 ||sbanner.com^$third-party
 ||scambiobanner.it^$third-party
