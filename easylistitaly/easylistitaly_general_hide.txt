@@ -75,6 +75,7 @@
 ###top3-pubbli
 ##.Banner_VideoAd_Interno
 ##.Pubblicita
+##.ad-fisso
 ##.ad_pedice
 ##.adagiowritebanner_dmtag
 ##.ads_topdx
