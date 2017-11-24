@@ -1071,7 +1071,7 @@ movieplayer.it,multiplayer.it##.wrapper-content-leaderboard
 gazzettinodelchianti.it##.wrapper-top
 petizionionline.it##.yahoo
 notizie.it##.yahoo-white-bg
-corrieredinovara.com##.z-banner
+corrieredinovara.com,corrieredinovara.it##.z-banner
 corrieredinovara.com##.z-bannerpub
 01net.it,ambientecucinaweb.it,eurosat-online.it,millecanali.it##.zedo
 cittaceleste.it##.zodiak
