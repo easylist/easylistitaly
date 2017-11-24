@@ -378,6 +378,7 @@ lonelyplanetitalia.it###side_banner
 lonelyplanetitalia.it###side_banner_300_100
 troppoforte.net###sidebar
 metalitalia.com###sidebar-top
+eurogamer.it###sidebar_amazon
 orizzontescuola.it###single-top-banner
 mister-x.it###siti_amici
 clandestinoweb.com,tesionline.it###skin
@@ -1099,7 +1100,7 @@ tecnoandroid.it##a[href^="http://www.allinmobile.eu/"]
 altadefinizione01.click##a[href^="http://www.altadefinizione01.click/4k/"]
 altadefinizione01.click##a[href^="http://www.altadefinizione01.click/stream/"]
 juzaphoto.com##a[href^="http://www.amazon."][href*="creativeASIN"]
-bdc-forum.it,birramoriamoci.it,comprovendolibri.it,ludomedia.it,mangaforever.net,netflixlovers.it,outcast.it,techzilla.it,tivusat.tv##a[href^="http://www.amazon."][href*="tag="]
+bdc-forum.it,birramoriamoci.it,comprovendolibri.it,eurogamer.it,ludomedia.it,mangaforever.net,netflixlovers.it,outcast.it,techzilla.it,tivusat.tv##a[href^="http://www.amazon."][href*="tag="]
 film-stream.org##a[href^="http://www.aznotizie.com/"]
 catania46.net##a[href^="http://www.clickpoint.it/db/goto.cp?"]
 filmsenzalimiti.co##a[href^="http://www.filmsenzalimiti.co/4k/"]
