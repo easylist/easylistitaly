@@ -567,6 +567,7 @@ quotidianodigela.it##.advs-title
 filodiritto.com##.altro_box_banner_dx
 filodiritto.com##.altro_box_banner_sx
 gamemag.it,videogame.it##.amazon
+surface-phone.it##.amazon-auto-links
 andreagaleazzi.com##.amazon_box
 telefonino.net##.amazon_left
 vgnetwork.it##.amazon_similarity
@@ -1093,6 +1094,7 @@ mmorpgitalia.it##a[href^="http://ad2games.com/slave.php?"]
 multiplayer.it##a[href^="http://adv.multiplayer.it/"]
 altadefinizione.zone##a[href^="http://altadefinizione.zone/videohd/"]
 guardaserie.net##a[href^="http://bit.ly/"]
+surface-phone.it##a[href^="http://clkde.tradedoubler.com/"]
 dasolo.info##a[href^="http://creative.m2pub.com/"]
 lifegate.it##a[href^="http://goo.gl/"]
 milanodabere.it##a[href^="http://ib.adnxs.com/clktrb?id="]
@@ -1121,7 +1123,7 @@ classifichemusica.com##a[href^="http://www.viagogo.it/Biglietti-Concerti?affilia
 italia-film.org##a[href^="http://x.italia-film.org/get.php"]
 greenme.it##a[href^="https://ad.zanox.com/"]
 autobusweb.com##a[href^="https://goo.gl/"]
-consigli.it,everyeye.it,greenme.it,rifaidate.it##a[href^="https://www.amazon."][href*="tag="]
+consigli.it,everyeye.it,greenme.it,rifaidate.it,surface-phone.it##a[href^="https://www.amazon."][href*="tag="]
 traderlink.it##a[style="display: block; width: 100%; height: 1080px; filter:alpha(opacity=0); -moz-opacity: 0; opacity: 0; background-color: rgb(255, 255, 255);"]
 notebookcheck.it##div[id][class] > div[id] > img:first-child
 gpone.com##div[style=" margin:auto; margin-top:0px; margin-bottom:0px; width:730px; height:92px;"]
