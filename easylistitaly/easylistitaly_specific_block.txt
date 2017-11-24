@@ -173,6 +173,7 @@
 ||casateonline.it/public/banner/
 ||casedipiacere.it/images/banners/
 ||casertanews.it/bann.asp?
+||casertaweb.com/sfondo
 ||catanzaroinforma.it/public/sponsor/
 ||cbritaly.it^*/downloadfilebanner.php?
 ||cdvweb.it^*/downloadfilebanner.php?
