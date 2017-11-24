@@ -783,6 +783,7 @@ borsaitaliana.it##.container_banner_top
 fanpage.it##.content-leaderboard
 macitynet.it##.contentTop
 toro.it##.contentleaderboard
+windowsblogitalia.com##.corrispondenza
 tiscali.it##.dannperdere
 ebay.it,kijiji.it##.dart-banner-slot
 giornaledibrescia.it##.dealboxTop
