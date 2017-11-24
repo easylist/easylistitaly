@@ -24,6 +24,7 @@ tio.ch###RectangleInterna
 tripadvisor.it###SPONSORED_TOP_10
 liberatv.ch###Sky2
 ilsoftware.it###SponsorFull
+evomagazine.it###TestataBanner
 tio.ch###Tio_News_Sponsor_basso_Flat
 ladistanza.it###a1[style="top: 523px;"]
 spaziogames.it###a_boder_bg
@@ -516,6 +517,7 @@ iltempo.it##.DCLS4
 lacnews24.it##.FPB_dex
 lacnews24.it##.FPB_header
 lacnews24.it##.FPB_six
+evomagazine.it##.HomeBanner
 meteo.it##.ImmobiliareIt
 novara.com##.MainBanner
 alfemminile.com##.OffresSpe_cadre
