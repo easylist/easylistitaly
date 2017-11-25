@@ -505,6 +505,8 @@
 ||ilgiornale.it/sites/all/themes/ilgiornaledefault/img/conto_corrente_070513.jpg
 ||ilgiornale.it/static/file/non-giudicate.swf
 ||ilgiornale.it/static/widget_immobiliare/
+||ilgiornale.it^*-300x250.
+||ilgiornale.it^*/banner_
 ||ilgiornale.it^*/logo_lottomatica.jpg
 ||ilgiornale.it^*/ova-jw.swf$object-subrequest
 ||ilgiornale.it^*/paddy_power.gif
