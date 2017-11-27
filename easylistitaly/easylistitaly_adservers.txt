@@ -98,6 +98,7 @@
 ||superbanner.org^$third-party
 ||tekno4advertising.com^$third-party
 ||tgadv.it^$third-party
+||tgadvcdn.it^$third-party
 ||upstory.it^$third-party
 ||videomatictv.com^$third-party
 ||viralbeat.com^$third-party
