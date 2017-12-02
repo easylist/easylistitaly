@@ -93,7 +93,6 @@
 ##.advnext_correlati
 ##.advricaricamediamond
 ##.av-banner-728X90
-##.bannervcms
 ##.barraSipra
 ##.blocco_servizi_sponsor
 ##.box-pubb
