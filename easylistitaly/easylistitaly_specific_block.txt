@@ -1230,6 +1230,9 @@
 ||udinese.it^*/sponsor/
 ||ultimouomo.com^*/skin-
 ||umbriaingol.it//immagini/File_banner/
+||umbriajournal.com^*/banner-
+||umbriajournal.com^*/banner.
+||umbriajournal.com^*_banner_
 ||uninews24.it/images/980x45-
 ||uninews24.it/images/banners/
 ||unionemonregalese.it/UP_BANNERS/
