@@ -203,7 +203,7 @@
 ||tccstatic.com/template/*/img/_sfondo.jpg
 ||tccstatic.com^*/985x20_
 ||tccstatic.com^*/banner/
-||tinypic.com^$domain=f1analisitecnica.com
+||tinypic.com^$domain=f1analisitecnica.com|ilsitodifirenze.it
 ||tipster.it^$subdocument,third-party
 ||tomshw.corley.it^
 ||tophost.it/banners/

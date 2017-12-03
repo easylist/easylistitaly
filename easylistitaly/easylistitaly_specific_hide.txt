@@ -1362,6 +1362,7 @@ casa-cinema.tv##div[style="z-index: 99999; position: fixed; width: 100%; backgro
 bikechannel.it##div[style^="margin-top: 10px; width: 960px; height: 96px;"]
 02blog.it,06blog.it,artsblog.it,autoblog.it,bebeblog.it,benessereblog.it,blogo.it,blogosfere.it,booksblog.it,cineblog.it,clickblog.it,comicsblog.it,deluxeblog.it,designerblog.it,ecoblog.it,excite.it,fashionblog.it,gadgetblog.it,gamesblog.it,gossipblog.it,gustoblog.it,managementnotes.it,melablog.it,mobileblog.it,motoblog.it,motorsportblog.it,outdoorblog.it,petsblog.it,pinkblog.it,polisblog.it,queerblog.it,soldiblog.it,soundsblog.it,toysblog.it,travelblog.it,tvblog.it##iframe[style="display: inline-table !important;"]
 meteogiornale.it##iframe[width="655"][height="104"]
+ilsitodifirenze.it##img[alt="Image and video hosting by TinyPic"]
 techzilla.it##img[alt="Offerte amazon"]
 liguriaoggi.it##img[alt="ad"]
 cinematografo.it##img[alt="banner"]
