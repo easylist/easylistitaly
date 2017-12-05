@@ -316,6 +316,7 @@
 ||everyeye.it/marchtopskin/
 ||everyeye.it/novembertopskin/
 ||everyeye.it^*-skin.
+||everyeye.it^*/huawei_desktop.jpg
 ||everyeye.it^*/topskin/
 ||everyeye.it^*_skin.
 ||everyeye.it^*_Skin_
