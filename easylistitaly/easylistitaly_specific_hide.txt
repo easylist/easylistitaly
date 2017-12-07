@@ -736,6 +736,7 @@ ilgiornale.it##.block-ilg-adsense
 ilroma.net##.block-rotating-banner
 ilcapoluogo.com##.block-view-bannerSlide
 chimica-online.it##.bnbottom
+stateofmind.it##.bnn-fullwidth
 risultati.it##.bookmarker-53
 beppegrillo.it##.bottom-banner
 pmi.it##.box-300-special

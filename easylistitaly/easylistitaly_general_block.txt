@@ -1,4 +1,5 @@
 -dx/adv_
+-pubblicita300x275.
 .it/_adv/
 .it/ads.
 .it/ads/
