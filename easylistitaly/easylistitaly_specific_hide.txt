@@ -572,6 +572,7 @@ ridble.com##.amazon-product
 andreagaleazzi.com##.amazon_box
 telefonino.net##.amazon_left
 vgnetwork.it##.amazon_similarity
+voglioporno.com##.analytics-event
 laborsadeipiccoli.com##.annunci
 corrieredellosport.it##.annunci_art
 ilsole24ore.com##.annunci_g
@@ -716,6 +717,7 @@ finanzaonline.com##.bannerlbforum
 messinaweb.tv##.bannerpostsingle
 alverde.net,nonsolocinema.com##.banners
 ilquotidianofvg.it##.banners-125
+voglioporno.com##.banners-footer
 cremonaoggi.it##.bannersx
 album-mmt.it,gossip.it,musictory.it##.bannertop
 uninews24.it##.bannertopa
@@ -924,6 +926,7 @@ html.it##.premium-links-container-home-ms
 ciao.it##.priceComp2
 paginegialle.it##.prio
 movieplayer.it,neveitalia.it,stiledimoda.it,vanityfair.it##.promo
+voglioporno.com##.promo-462x66
 dimensionesuonoroma.it##.promo-image
 dimensionesuonoroma.it##.promo-list
 corrieredellosport.it##.promo_art
@@ -1086,8 +1089,10 @@ djmagitalia.com##[href^="http://www.djpoint.net/"]
 windowsblogitalia.com##[id^="bsa"]
 gazzettinodelchianti.it##a[class*="bannerpos"]
 tgcom24.mediaset.it##a[href*=".ad.dotandad.com/clicktracker.jsp?"]
+voglioporno.com##a[href*=".com/track/"]
 casa-cinema.org,cb01.co,speedvideo.net##a[href*="/4k/"]
 abruzzoweb.it##a[href*="/adserver/go.php?"]
+voglioporno.com##a[href*="?utm_campaign="]
 piratestreaming.news##a[href^="/4k1/"]
 comprovendolibri.it##a[href^="/conta.asp?"]
 italia-film.co##a[href^="/hd2/"]
