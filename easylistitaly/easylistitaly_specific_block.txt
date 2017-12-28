@@ -720,6 +720,7 @@
 ||libertiamo.it^*468x60.
 ||libertiamo.it^*_234x60.
 ||lifegate.it/app/uploads/banner-
+||lifegate.it^*/skin_
 ||lifegate.it^*_skin_
 ||liguriawebcam.com/bn/
 ||linchiestaquotidiano.it/Media/banner-
