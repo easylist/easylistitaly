@@ -74,6 +74,7 @@
 ||dodiblog.it/banner_diretti/
 ||dropbox.com^$image,domain=applemobile.it
 ||duke.it/images/banners/
+||dzt1km7tv28ex.cloudfront.net^
 ||easyvols.org^*/300x150/$third-party
 ||ediscom.it^*banner/
 ||ehiweb.it/banner/

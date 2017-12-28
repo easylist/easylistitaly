@@ -1,6 +1,7 @@
 ||adf.ly^$popup,domain=vstau.info
 ||adv2.spaziogames.it^$popup
 ||altadefinizione01.click/4k/$popup
+||anon.to^$popup,domain=animeforce.org
 ||avmagazine.it/advertise/$popup
 ||filmsenzalimiti.co/4k/$popup
 ||goo.gl^$popup,domain=mondopallone.it
