@@ -315,6 +315,7 @@
 ||everyeye.it/amazonasin/
 ||everyeye.it/marchtopskin/
 ||everyeye.it/novembertopskin/
+||everyeye.it^*-promo_
 ||everyeye.it^*-skin.
 ||everyeye.it^*/huawei_desktop.jpg
 ||everyeye.it^*/topskin/
