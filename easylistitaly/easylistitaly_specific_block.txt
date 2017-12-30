@@ -1131,6 +1131,8 @@
 ||terninrete.it/banner/
 ||terninrete.it/skins/terninrete2/images/headings/head_ha_suggerimenti_da_google.gif
 ||terranauta.it/banner/
+||terranuova.it^*/ad$xmlhttprequest
+||terranuova.it^*/banner/
 ||tesionline.it/v2/img/skin/
 ||tg24.info^*/banners/
 ||tgcom24.mediaset.it^*_BoxSpeciali_
