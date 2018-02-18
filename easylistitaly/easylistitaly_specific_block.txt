@@ -553,6 +553,7 @@
 ||ilpaesenuovo.it^*/perhospital.jpg
 ||ilporn.it^*/rotate.php
 ||ilprimatonazionale.it/skin/
+||ilprimatonazionale.it^*/saldi-
 ||ilquotidiano.it/userdata/banner/
 ||ilquotidianodellazio.it/img/banners/
 ||ilquotidianofvg.it/banner

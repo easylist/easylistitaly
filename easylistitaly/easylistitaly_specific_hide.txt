@@ -1028,6 +1028,7 @@ livescore.it##.table-odds
 ciao.it##.tableSponsLinks
 genova24.it,ivg.it##.takeover
 notizialocale.it##.td-a-rec-id-header
+ilprimatonazionale.it##.td-banner-bg
 panorama.it##.teaser-immobiliare
 tiscali.it##.teaserDx
 edidomus.it##.telecamera-address
