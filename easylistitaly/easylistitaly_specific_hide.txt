@@ -980,6 +980,7 @@ style.it##.side-gallery
 livesicilia.it##.side_banners_fixed
 youreporter.it##.sidebar_menu_virgilio
 newnotizie.it##.single_sidebar300x250
+ilmomento.eu##.site-commerc
 ilroma.net,omnicorse.it##.skin
 iovivoaroma.org##.skin_link_top
 sky.it##.skybet_spalla
