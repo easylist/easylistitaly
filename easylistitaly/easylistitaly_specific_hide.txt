@@ -827,6 +827,7 @@ quattroruote.it##.fullBanner
 rietinvetrina.it##.g
 spaziogames.it##.g_adv
 netflixlovers.it##.gadget
+agendadigitale.eu##.gallery-container-home
 gazzetta.it##.gazzasconti
 iammepress.it,italia-news.it##.gcon_banners
 iammepress.it,italia-news.it##.gcon_banners_label
