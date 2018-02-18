@@ -57,6 +57,7 @@
 ###fwnetblocco_v
 ###hp_sez_advmkt_01
 ###leo-adv
+###lg-spalla-ads01-up
 ###libero_header_adv
 ###mmAdDivSkDx
 ###mmAdDivSkLb
@@ -117,6 +118,9 @@
 ##.home-rubriche-adv
 ##.inews_adv_top
 ##.jadv_leoadv_pd
+##.lg-titolo-ads
+##.lg-titolo-ads-dx
+##.lg-titolo-ads-sx
 ##.linksponsorizzati
 ##.listatonativeadv
 ##.modPubblicita
