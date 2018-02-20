@@ -837,6 +837,7 @@ html.it##.google
 quotidiano.net##.google-728
 ilturista.info##.google-box
 dday.it##.google-dfp
+3bmeteo.com##.gpt_top
 gqitalia.it##.gq-promotions
 tomshw.it##.guides-summary
 fantagazzetta.com##.h-box
