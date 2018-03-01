@@ -910,6 +910,7 @@
 ||qdpnews.it/images/banners/
 ||qds.it/docs/mariluranch-
 ||qds.it/docs/SICEP.jpg
+||quattroruote.it^*/landing/
 ||quelliche.net^*/file_banner/
 ||quellidellelica.com/images/banners/
 ||questotrentino.it/sponsor/
