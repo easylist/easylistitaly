@@ -943,7 +943,6 @@ gqitalia.it##.promobox
 milanofinanza.it##.promocanali
 italiapokerclub.com##.promotion
 agoravox.it##.pub
-ilmeteo.net##.pubDesk
 kikapress.com##.pub_container
 meteoconsult.it##.pub_lcm
 gds.it,lastampa.it##.pubb
