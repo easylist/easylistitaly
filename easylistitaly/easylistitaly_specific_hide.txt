@@ -398,6 +398,7 @@ ebay.it###skyscrape
 eurogamer.it###skyscraper
 casateonline.it,merateonline.it###sottotestata
 corrieredellacalabria.it###sovrapposto
+ilmetapontino.it###sp-top-add
 tgcom24.it###spaceBanner_rn_u
 primissima.it###space_banner
 mediaset.it###spalla-banner

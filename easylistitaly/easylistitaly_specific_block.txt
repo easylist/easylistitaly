@@ -539,6 +539,7 @@
 ||ilmessaggero.it/box_tuttomercato052011/
 ||ilmessaggero.it/img/banner_
 ||ilmessaggero.it/imgmol/
+||ilmetapontino.it/images/banners/
 ||ilmioip.it/UPLD/BN/
 ||ilmionuovonumero.it/Immagini/partner/
 ||ilmitte.com^*/banner_
