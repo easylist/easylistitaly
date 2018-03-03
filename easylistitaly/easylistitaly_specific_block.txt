@@ -1292,6 +1292,8 @@
 ||virgilio.it/src_tag_sponsor_
 ||viterbonews24.it/gesBanner/
 ||viterbooggi.eu/gesBanner/
+||viterbopost.it^*-1000X50-
+||viterbopost.it^*-180x100-
 ||viterbopost.it^*/Partner.
 ||vivafm.it^*/banners/
 ||vivere.biz/images/banners_
