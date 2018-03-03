@@ -513,7 +513,7 @@ primopianomolise.it##.Banner_Modulabile
 nqnews.it##.Banner_box
 edilportale.com##.BigSquare
 tio.ch##.BoxSpeciale
-viterbonews24.it##.CON-fascia-alto-banner
+viterbonews24.it,viterbooggi.eu##.CON-fascia-alto-banner
 ciao.it##.CWContainerComparePrice
 tio.ch##.CornicePubliRed
 iltempo.it##.DCLS4

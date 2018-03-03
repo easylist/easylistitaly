@@ -1291,6 +1291,7 @@
 ||virgilio.it/sg/boxis_
 ||virgilio.it/src_tag_sponsor_
 ||viterbonews24.it/gesBanner/
+||viterbooggi.eu/gesBanner/
 ||viterbopost.it^*/Partner.
 ||vivafm.it^*/banners/
 ||vivere.biz/images/banners_
