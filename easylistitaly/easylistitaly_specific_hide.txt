@@ -468,6 +468,7 @@ america24.com,certificatejournal.it,finanza.com,trovaprezzi.it,tuttolosportdipar
 lecconotizie.com###top-domination
 lavoripubblici.it###topBanner
 playme.it###topPromo
+corriere.it###topXcoupon
 lonelyplanetitalia.it###top_banner
 giornaledellamusica.it###top_banner_container
 mmorpgitalia.it###top_click
