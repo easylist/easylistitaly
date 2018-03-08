@@ -983,6 +983,7 @@ softonic.it##.show_banner_down_leaderboard
 radiomontecarlo.net##.side-ban
 style.it##.side-gallery
 livesicilia.it##.side_banners_fixed
+tpi.it##.sidebar_custom_banner
 youreporter.it##.sidebar_menu_virgilio
 newnotizie.it##.single_sidebar300x250
 ilmomento.eu##.site-commerc
