@@ -895,6 +895,7 @@ livesicilia.it##.manchette-l
 livesicilia.it##.manchette-r
 erbanotizie.com,lecconotizie.com##.manchette-sx
 cremonaoggi.it##.manchette2
+laverita.info##.manchette_box
 qds.it##.manchettes
 tiscali.it##.maxi-box
 europaquotidiano.it##.mct_dx
