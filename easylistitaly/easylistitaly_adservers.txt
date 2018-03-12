@@ -28,6 +28,7 @@
 ||bannerout.com^$third-party
 ||bannerplace.it^$third-party
 ||bannerporno.com^$third-party
+||bannerpress.it^$third-party
 ||bannerpromotion.it^$third-party
 ||banzaiadv.it^$third-party
 ||beead.it^$third-party

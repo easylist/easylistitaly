@@ -537,6 +537,7 @@ repubblica.it##.aas_whole_wrapper
 4risate.com,7per24.it,allrecipes.it,ilprimatonazionale.it,ilsole24ore.com,jugo.it,lacrocequotidiano.it,mesagne.me,milanlive.it,ridble.com,servizioallerta.it,tripadvisor.it##.ad
 tusciaweb.eu##.ad-article
 corriereitaliano.com##.ad-box
+guidafisco.it##.ad2
 portaportese.it##.adL
 trustpilot.it##.adblock
 america24.com,finanzaonline.com,gianlucadimarzio.com,it.videogamer.com##.adbox
