@@ -954,6 +954,7 @@ liberta.it##.pubbliblog
 theinquirer.it##.pubind1
 agoravox.it##.publarge
 diariodelweb.it,lapoliticaitaliana.it##.publi
+diariodelweb.it##.publi300_diariodelweb
 camperonline.it##.publink
 prendiporno.tv##.publis-bottom
 termometropolitico.it##.publy
