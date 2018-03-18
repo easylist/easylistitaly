@@ -734,6 +734,7 @@ altadefinizione.zone##.bbtn
 notizialocale.it##.bc_random_banner
 wallstreetitalia.com##.bestbuybiz
 losportivo.sm##.bg_blocchi
+nuovosud.it##.bg_skin
 corrieredilatina.it,corriereromagna.it,ilmattinodifoggia.it,lanuovaprimapagina.it##.bgbanner
 libero.it##.big
 gazzettinodelchianti.it##.big_link
