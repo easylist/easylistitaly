@@ -40,6 +40,7 @@
 ||coreg-feed.com^$third-party
 ||crmpilot.it^$third-party
 ||delosnetwork.it^$third-party
+||digitalbees.it^$third-party
 ||divascam.com^$third-party
 ||doubleclick.net/adx/liberotv.$third-party
 ||doubleclick.net^$object-subrequest,third-party,domain=adnkronos.com|ansa.it|corrieredellosport.it|digital.it|fanpage.it|gamesnation.it|giallozafferano.it|lastampa.it|mtv.it|nicktv.it|pmi.it|rtl.it|tiscali.it|tuttosport.com|webnews.it
