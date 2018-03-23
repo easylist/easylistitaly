@@ -997,6 +997,7 @@
 ||rietilife.it^*banner
 ||rinnovabili.it^*/sponsor_
 ||rl1.it/img/web/banner/
+||rmcsport.net^*/banner/
 ||rockit.it/dbimg/7banner/
 ||rockit.it/res/css3/skin_
 ||rocknrollradio.it/images/banners/
