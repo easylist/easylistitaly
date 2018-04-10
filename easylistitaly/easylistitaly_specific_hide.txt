@@ -775,6 +775,7 @@ subito.it##.box_sponsor
 livescore.it##.box_top_books
 ecodibergamo.it##.boxbanner-footer
 tgcom24.mediaset.it##.boxspeciale
+starbene.it##.brand_logo_hp
 forexinfo.it##.broker-tabella_container_aside
 wiitalia.it##.bsmall
 tivusat.tv##.buy
