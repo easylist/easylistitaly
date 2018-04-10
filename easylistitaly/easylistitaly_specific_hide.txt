@@ -810,6 +810,7 @@ supermoney.eu##.dfp-leaderbord
 blastingnews.com##.dfp-mobile-leadeboard
 ansa.it##.diretta-sponsor
 lavoratorio.it##.divBoxbanner300x250
+donnamoderna.com##.donnam-sidebar-adv
 ilmeteo.net##.eHotel
 gossipetv.com##.ebuzzing_box
 digisesso.com,gorillaporno.com,iltrombatore.com,koalaporno.com,pandasesso.com,ranaporno.com,sessosadomaso.com##.embed1
