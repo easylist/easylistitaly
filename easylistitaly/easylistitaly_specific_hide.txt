@@ -544,6 +544,7 @@ america24.com,finanzaonline.com,gianlucadimarzio.com,it.videogamer.com##.adbox
 loradellacalabria.it##.add768int
 pinkdna.it##.adds300x250
 zapster.it##.addx
+qnm.it##.adex
 tomshw.it##.adorable-cats
 tomshw.it##.adorable-puppies
 brocardi.it,caserta24ore.it,fantagazzetta.com,gamemag.it,hdblog.it,ilikepuglia.it,netflixlovers.it,phicatube.net,radiospeaker.it,supereva.it,teleborsa.it,viamichelin.ch,viamichelin.it,videocasalinghi.com##.ads
