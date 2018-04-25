@@ -222,6 +222,7 @@
 ||comic-soon.com^*/adv/
 ||comicradio.it/swf/banner_rotator.swf
 ||comingsoon.it/fcred.asp?$object-subrequest
+||comingsoon.it/img/compra-su-amazon.png
 ||comingsoon.it/imgdb/banner/
 ||comprovendolibri.it/sponsor/
 ||concertionline.com^*-1000x30.gif
