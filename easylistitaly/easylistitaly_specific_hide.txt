@@ -62,10 +62,13 @@ laroma24.it###banner-desktop-2
 laroma24.it###banner-desktop-4
 telesud3.com###banner-header
 sportnews.bz###banner-leaderboard
+canavesenews.it###banner-left-bottom
+canavesenews.it###banner-left-top
 musicclub.it###banner-onstage-leaderboard
 ilnuovo.it###banner-right
 gnoccatravels.com###banner-right-list
 larivieraonline.com,larivieraonline.it,oggitreviso.it###banner-top
+canavesenews.it###banner-top-container
 comingsoon.it,corrieredelgiorno.com###banner1
 comingsoon.it,forzapescara.net###banner2
 comingsoon.it###banner3
@@ -634,6 +637,7 @@ digital-news.it##.banner-separazione
 milanofinanza.it##.banner-sfondo
 milanofinanza.it##.banner-sfondo-body
 digital-news.it,telesud3.com##.banner-sidebar
+canavesenews.it##.banner-slider
 ilfattonisseno.it##.banner-sottopp
 panorama.it##.banner-spalla-dx
 tpi.it##.banner-standard
