@@ -785,6 +785,7 @@
 ||milaninterradio.tv/images/180x150.gif
 ||milanodabere.it/images/archivio/2000x1000/
 ||milanofinanza.it/img/adv_
+||milanofinanza.it/img/capgemini_
 ||milanofinanza.it/img/logo_zurich-connect.gif
 ||milanofinanza.it/img/speciali/
 ||milanofinanza.it^*/banner-
