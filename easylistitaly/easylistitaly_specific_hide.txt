@@ -297,6 +297,7 @@ veronica.it###leftSkin
 prezzibenzina.it###left_banner
 megalab.it###left_skyscraper
 funweek.it###libero_col_dx
+cronachemaceratesi.it###ligatus_cronachemaceratesi_cronachemaceratesi_smartbox
 telesud3.com###linkamici
 asroma.it###logos
 eurogamer.it###low-leaderboard
