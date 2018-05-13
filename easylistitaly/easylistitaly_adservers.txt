@@ -37,6 +37,7 @@
 ||clickadv.it^$third-party
 ||clickpoint.com^$third-party
 ||clickpoint.it^$third-party
+||consigli.it^$third-party
 ||coreg-feed.com^$third-party
 ||crmpilot.it^$third-party
 ||delosnetwork.it^$third-party
