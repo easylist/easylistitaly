@@ -68,6 +68,7 @@
 ||netfilia.com^$third-party
 ||newclick.com^$third-party
 ||nextadv.eu^$third-party
+||noddus.com^$third-party
 ||novadv.com^$third-party
 ||ovoadv.com^$third-party
 ||panea.it^$third-party
