@@ -22,6 +22,7 @@
 ||affiliazioni.me^$third-party
 ||affiliazioniweb.com^$third-party
 ||annuncivari.altervista.org^$third-party
+||atomikad.com^$third-party
 ||bannerconnect.biz^$third-party
 ||bannerexplosion.it^$third-party
 ||bannergratis.it^$third-party
