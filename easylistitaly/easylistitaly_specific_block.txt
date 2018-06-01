@@ -772,6 +772,7 @@
 ||mediagol.it/images/sponsor/
 ||mediavideo24.com/inc/ova.swf$object-subrequest
 ||megabass.it^*/banner_
+||mentelocale.it/devmktg/
 ||merateonline.it/public/banner/
 ||metalgermania.it/images/itunes.jpg
 ||metalgermania.it/images/rammstein-shop-italia.jpg
