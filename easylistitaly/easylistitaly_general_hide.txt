@@ -83,6 +83,7 @@
 ##.ads_topsx
 ##.adsbyawcloud
 ##.adv-articolo
+##.adv-footer-kauppa
 ##.adv-iframe-sx
 ##.adv300eni
 ##.advPostLibri
