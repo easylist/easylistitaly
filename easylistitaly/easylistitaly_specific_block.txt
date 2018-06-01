@@ -981,6 +981,8 @@
 ||redaweb.it/images/bannershoppingeventialto.gif
 ||regginacalcio.com/images/banners/
 ||reggio2000.it/bnrs/
+||reggioemiliameteo.it^*-sponsor/
+||reggioemiliameteo.it^*/banner/
 ||reggiotv.it/immagini/banner/
 ||regionelombardia.info/banners/
 ||reportmotori.it/banner/

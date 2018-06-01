@@ -151,6 +151,7 @@ telefonino.net###bannerstrip
 stadiotardini.it###bannertesta
 alfredopedulla.com###bannertop
 senigallianotizie.it###bbitalia_banner
+reggioemiliameteo.it###bg-dx
 altalex.com,orizzontescuola.it,primopianomolise.it,sentenze.net###bglink
 gizmodo.it###big-mega
 neveitalia.it,tuttogratis.it###bleft
@@ -758,6 +759,7 @@ beppegrillo.it##.bottom-banner
 pmi.it##.box-300-special
 comingsoon.it,lifegate.it##.box-adv
 ilquotidiano.it,parmasera.it,piacenzasera.it,rsvn.it##.box-attico
+tempoitalia.it##.box-banner
 europa-in.it,gazzettadelladda.it,giornaledidesio.it,notiziaoggi.it,nuovaperiferia.it,settegiorni.it##.box-banner-menu
 ilgiornaledivicenza.it##.box-skyscrapers
 omniauto.it##.box.gradient[style="height:270px!important; min-height:270px"]
