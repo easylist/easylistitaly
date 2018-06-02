@@ -456,7 +456,7 @@ retenews24.it###text-29
 lavocedelpopolo.net###text-33
 viterbopost.it###text-34
 lavocedelpopolo.net,viterbopost.it###text-35
-birramoriamoci.it,vigamusmagazine.com###text-4
+birramoriamoci.it,radiosienatv.it,vigamusmagazine.com###text-4
 lavocedelpopolo.net###text-41
 bufale.net,formiche.net###text-48
 formiche.net###text-49
