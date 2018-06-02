@@ -359,6 +359,7 @@
 ||firenzepost.it^*/TC300x250.jpg
 ||firenzepost.it^*/villaler.jpg
 ||firenzespettacolo.it/gestione/BadMS/
+||fm-world.it^*/banner-
 ||focus-online.it/files/banner/
 ||focus-online.it/files/img_banner/
 ||fordfiestaitalia.com^*/sponsor/
