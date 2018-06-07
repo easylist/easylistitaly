@@ -438,6 +438,7 @@
 ||gratisfree.it/cgi-bin/bannergest$script
 ||greenews.info/wp-content/banners/
 ||greenme.it/images/banners/
+||guerinsportivo.it^*/gs.ad.
 ||gufoporno.com^*/popup.js
 ||guidasicilia.it/devlab/jsp/banner.jsp?
 ||guidaviaggi.it/banners/
