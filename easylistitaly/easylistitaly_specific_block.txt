@@ -599,6 +599,7 @@
 ||informazioneweb.org/images/banners/
 ||ininsubria.it/thb.aspx?filename=upload%2fbanners%2f
 ||ininsubria.it/upload/banners/
+||inmoto.it^*/im.ad.
 ||inside.bz.it/images/banners/
 ||inter.it/html/images/sponsors/
 ||inter.it/img/sponsor/
