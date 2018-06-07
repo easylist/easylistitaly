@@ -1238,6 +1238,7 @@
 ||tuttosport.com/res/swf/ova-jw.swf$object-subrequest
 ||tuttosport.com/res/swf/ova.swf$object-subrequest
 ||tuttosport.com^*/label_williamhill.png
+||tuttosport.com^*/ts.ad.
 ||tuttotrasporti.it^*/banner/
 ||tv2000.it^*/banner.
 ||tv2000.it^*/banner/
