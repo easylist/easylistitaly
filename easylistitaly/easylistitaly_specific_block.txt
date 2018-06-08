@@ -247,6 +247,8 @@
 ||corrierecomo.it/images/banners/
 ||corrieredellacalabria.it/images/banners/
 ||corrieredellacalabria.it^*/adv/
+||corrieredellacalabria.it^*/desk_
+||corrieredellacalabria.it^*300x100
 ||corrieredellosport.it/dinamiche/serviziXml/bwin.jsp?
 ||corrieredellosport.it/res/swf/ova-jw.swf$object-subrequest
 ||corrieredellosport.it/res/swf/ova.swf$object-subrequest
