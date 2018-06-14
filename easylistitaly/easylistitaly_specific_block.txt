@@ -847,6 +847,7 @@
 ||nuovosud.it/sites/default/files/box-
 ||nuovosud.it/sites/default/files/skin-
 ||nuovosud.it^*/banner/
+||nursetimes.org^*/banner-
 ||nyc-site.com/newyork/hotel/
 ||oas.repubblica.it^
 ||occhiodisalerno.com/images/banners/
