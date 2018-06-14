@@ -639,6 +639,7 @@
 ||jugo.it^*/ads/
 ||julienews.it/upload/banner/
 ||juzaphoto.com^*/banners/
+||kisskiss.it/images/banners/
 ||kisskissnapoli.it/images/banners/
 ||kveeniland.com/dwnd.png
 ||kveeniland.com/guarda.png
