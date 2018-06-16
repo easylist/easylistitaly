@@ -1104,6 +1104,7 @@ fxempire.it##.widget_banner
 fxempire.it##.widget_brokers
 fxempire.it##.widget_latest_promotions
 fxempire.it##.widget_latest_promotions_right
+dilei.it##.widget_promo_box_widget
 fxempire.it##.widget_recommended_brokers
 fxempire.it##.widget_top_brokers
 gazzettagiallorossa.it,orvietosi.it##.wp_bannerize
