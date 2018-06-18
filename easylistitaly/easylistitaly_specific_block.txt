@@ -141,6 +141,7 @@
 ||bikeracing.it/bannersbk.jpg
 ||bikeracing.it/sfondo.jpg
 ||bitmat.it^*/downloadfilebanner.php?
+||blitzquotidiano.it^*/poweredbyaruba.
 ||blogosfere.it/js/mjx.php
 ||blogosfere.it/js/mjx2.js
 ||bloopers.it/images/sponsor/
