@@ -40,6 +40,7 @@ ilnapolista.it,sentireascoltare.com###adv3
 cinquequotidiano.it###adv_1
 3bmeteo.com###adv_5
 rockol.it,sanihelp.it###advertisement
+ladyblitz.it###ai_widget-10
 qds.it###altro
 outcast.it###amazon
 ilsole24ore.com###annunci
