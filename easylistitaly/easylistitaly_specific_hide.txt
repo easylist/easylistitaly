@@ -341,7 +341,7 @@ studiocataldi.it###overlayer
 globalist.it###pCollar_c
 pcworld.it###pangora-chunnel
 amicidimotociclismo.it###partnerfooter
-fantascienza.com###partners
+fantascienza.com,ship2shore.it###partners
 pianetatech.it###partnerw
 lagazzettadelmezzogiorno.it###petizione
 tiburno.tv###popup_wrap
@@ -907,7 +907,7 @@ gonews.it##.machette-over-logo
 ilfriuli.it##.main-header__banner
 rockol.it##.main-menu-manchette
 sentireascoltare.com##.mainAdv
-cremonaoggi.it,ilfattonisseno.it,opinione.it##.manchette
+cremonaoggi.it,ilfattonisseno.it,opinione.it,ship2shore.it##.manchette
 erbanotizie.com,lecconotizie.com##.manchette-dx
 livesicilia.it##.manchette-l
 livesicilia.it##.manchette-r
@@ -1044,7 +1044,7 @@ ilsecoloxix.it##.square-banner
 applemobile.it##.store
 ravennaedintorni.it##.strillo
 affaritaliani.it##.strillo-speciale3
-agichina24.it,trend-online.com##.strip
+agichina24.it,ship2shore.it,trend-online.com##.strip
 spaziogames.it##.stripe-full-wrapper
 loradellacalabria.it##.strisciane1
 style.it##.style_promo

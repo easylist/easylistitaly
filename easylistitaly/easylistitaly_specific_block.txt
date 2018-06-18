@@ -1059,6 +1059,13 @@
 ||serviziopubblico.it/media/images/banner/
 ||settecalcio.it/public/banners/
 ||sexyguidaitalia.com/images/899/
+||ship2shore.it^*/colonna/
+||ship2shore.it^*/manchette/
+||ship2shore.it^*/partners/
+||ship2shore.it^*/skin/
+||ship2shore.it^*/strip/
+||ship2shore.it^*/stripmobile/
+||ship2shore.it^*_banner/
 ||si24.it/images/banners/
 ||sibarinet.it/images/banners/
 ||siciliaway.it^*/immagini_promozionali/
