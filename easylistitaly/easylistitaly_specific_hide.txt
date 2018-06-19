@@ -277,6 +277,7 @@ megalab.it###header_leaderboard
 meteowebcam.it###header_top
 35mm.it###header_top_banner
 radiospeaker.it###home-banner
+transfermarkt.it###home-rectangle-spotlight
 affaritaliani.it###immo-300x250
 ladige.it,panorama.it###immob_box_ricerca
 cronachemaceratesi.it###infooter
