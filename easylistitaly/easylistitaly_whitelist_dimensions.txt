@@ -1,5 +1,6 @@
 @@||barillagroup.com/pic/media/uploads/*.300x250_$domain=piccolini.it
 @@||fantagazzetta.com/App_Resources/Images/Articoli/300x250/300x250_
+@@||italiamilitare.it^*-120x60.
 @@||media.blogo.it/media/*_320x250_
 @@||oggiroma.it/public/news_foto/300x250_
 @@||widget.traderlink.it/modules/marketmap/*=300x250&
