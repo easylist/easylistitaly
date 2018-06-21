@@ -777,6 +777,7 @@
 ||mbenz.it/lidaolbia.jpg
 ||mbenz.it/tuttoautoricambi.gif
 ||mediagol.it/images/sponsor/
+||mediakey.tv/uploads/tx_macinabanners/
 ||mediavideo24.com/inc/ova.swf$object-subrequest
 ||megabass.it^*/banner_
 ||mentelocale.it/devmktg/
