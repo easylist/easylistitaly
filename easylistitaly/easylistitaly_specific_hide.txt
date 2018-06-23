@@ -1293,6 +1293,7 @@ raffaeleauriemma.com##div[style="width: 248px; height: 250px; visibility: visibl
 pyrosonline.it##div[style="width: 265px; height: 265px;"]
 romadailynews.it##div[style="width: 296px; text-align: center; padding-bottom: 12px; border: 2px solid #d10019;"]
 paginebianche.it##div[style="width: 300px; height: 100px;"]
+lattemiele.com##div[style="width: 300px; height: 250px; "]
 corriereromagna.it##div[style="width: 300px; height: 250px; border: 0px solid black; position: relative; background-color: #013671;"]
 sardegnaoggi.it##div[style="width: 300px; height: 250px; margin: 1em 1em 1em 0; float: left"]
 tiscali.it##div[style="width: 300px; height: 250px; vertical-align: top; text-align: left;"]
