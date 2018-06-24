@@ -947,6 +947,7 @@
 ||radioalex.it^*/banner/
 ||radioalex.it^*/banner_
 ||radioamore.it^*/banners/
+||radiobrunotoscana.it^*/banners/
 ||radiochieri.it/uploads/banner/
 ||radiocinema.it^*/banner
 ||radiocuore.it/nencini.gif
