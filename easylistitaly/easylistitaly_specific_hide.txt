@@ -1118,6 +1118,7 @@ fxempire.it##.widget_recommended_brokers
 fxempire.it##.widget_top_brokers
 gazzettagiallorossa.it,orvietosi.it##.wp_bannerize
 allandroidnews.it##.wp_skyscraper_c2
+mvnonews.com##.wpa
 bergamosera.com##.wpbrbanner
 keyforweb.it##.wpmc_display
 keyforweb.it##.wpmoneyclick_template_single-product
