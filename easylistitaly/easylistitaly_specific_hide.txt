@@ -966,7 +966,7 @@ dimensionesuonoroma.it##.promo-list
 corrieredellosport.it##.promo_art
 cremonaoggi.it##.promo_slider_wrapper
 livescore.it##.promo_top_match_wide
-gqitalia.it##.promobox
+gqitalia.it,motori.it##.promobox
 milanofinanza.it##.promocanali
 italiapokerclub.com##.promotion
 agoravox.it##.pub
