@@ -947,6 +947,7 @@ ludomedia.it##.nonSonoAdv
 risultati.it##.odds-detail
 lastampa.it##.pane-views-partner-block-1
 ilmionuovonumero.it,ragusanews.com##.partner
+mediaworld.it##.partnership
 asca.it##.personalized_background
 rai.tv##.placeholder300x250
 radio.it##.playlist-teaser-buttons
