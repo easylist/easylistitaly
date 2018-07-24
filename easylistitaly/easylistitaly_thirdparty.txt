@@ -189,6 +189,7 @@
 ||smartclip.net^$~object-subrequest,third-party
 ||smscellulari.it/pic/banner/$third-party
 ||solonapoli88.altervista.org/ban$subdocument
+||sostariffe.it/sosWidget3/$third-party
 ||spazioautomobile.it^$third-party
 ||spingitori.it/spnadv/
 ||static.plista.com^*/resized/$third-party
