@@ -111,6 +111,7 @@
 ##.ed_Related_Sponsor
 ##.ed_Related_Sponsor_Top_Container
 ##.ed_Sponsor
+##.epeex_Sas
 ##.foglia-middle-adv
 ##.google-adx-corpo
 ##.google-adx-spalla
