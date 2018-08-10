@@ -581,7 +581,7 @@ addicted2play.com,amonapoli.it,eurogamer.it,giardini.biz,gioco.it,lausc.it,morni
 loradellacalabria.it##.advertise
 loradellacalabria.it##.advertise2
 internimagazine.it,tiburno.tv##.advertisement
-cubovision.it,fastweb.it,gazzetta.it,ilgazzettinovesuviano.com,lettera43.it##.advertising
+cubovision.it,fastweb.it,gazzetta.it,ilgazzettinovesuviano.com,lettera43.it,tpi.it##.advertising
 loggiap2.com##.advs
 quotidianodigela.it##.advs-title
 filodiritto.com##.altro_box_banner_dx
