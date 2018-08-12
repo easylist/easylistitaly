@@ -129,6 +129,7 @@
 ||macrolibrarsi.s3.amazonaws.com/img/banner_partner/
 ||mediaadv.mediaon.it^
 ||mediaon.it/objects/deal_list/
+||mediatickets.ch/widgets/$third-party
 ||mmvid.s3.amazonaws.com^
 ||mondojuventus.it^$third-party
 ||neonisi.com^*/items.external?$third-party
