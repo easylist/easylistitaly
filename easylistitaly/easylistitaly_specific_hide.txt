@@ -726,6 +726,7 @@ rsvn.it##.banner_spalla
 qds.it,ragusanews.com,romanews.eu##.banner_top
 ipoditalia.it##.banner_topright
 galileonet.it##.banner_vert
+vocedimantova.it##.bannerbox
 techarena.it##.bannercentro
 treccani.it##.bannercontainer
 trovaprezzi.it##.bannerdiv
