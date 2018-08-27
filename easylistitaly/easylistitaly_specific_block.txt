@@ -267,6 +267,7 @@
 ||corrierinocampaniasport.it^*/banner_
 ||corrierinocampaniasport.it^*/menna.jpg
 ||cronacaflegrea.it^*/ads/
+||cronachedellacampania.it^*-300x250.
 ||dagospia.com/_include/banner/
 ||dasolo.co/easy.gif
 ||datasport.it/img/banner_
