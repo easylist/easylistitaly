@@ -194,6 +194,7 @@
 ||sostariffe.it/sosWidget3/$third-party
 ||spazioautomobile.it^$third-party
 ||spingitori.it/spnadv/
+||spox.com/daznpic/$third-party
 ||static.plista.com^*/resized/$third-party
 ||staticroot.com/nl/affiliati/
 ||stats.betradar.com^$third-party
