@@ -644,6 +644,7 @@ genova24.it,ivg.it##.banner-middle-board
 corrieredinovara.com##.banner-mix
 ilikepuglia.it##.banner-placeholder
 classeuractiv.it##.banner-pos
+sportnotizie24.it##.banner-quadrato-container
 digital-news.it##.banner-separazione
 milanofinanza.it##.banner-sfondo
 milanofinanza.it##.banner-sfondo-body
@@ -850,6 +851,7 @@ cazzofiga.com##.footer-banner-wrapper
 livescore.it##.footer-promo-full
 gazzettadasti.it##.footer-rotate-banner
 chievocalcio.tv##.footer-sponsor-container
+sportnotizie24.it##.footer-sponsors
 socialchannel.it##.footer2-wrapper
 violachannel.tv##.footer_home
 liberatv.ch##.front_orrizzontale
