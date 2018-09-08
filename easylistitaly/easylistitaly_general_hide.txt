@@ -57,7 +57,9 @@
 ###fwnetblocco_v
 ###hp_sez_advmkt_01
 ###leo-adv
+###lg-spalla-ads01-down
 ###lg-spalla-ads01-up
+###lg-spalla-ads03
 ###libero_header_adv
 ###mmAdDivSkDx
 ###mmAdDivSkLb
