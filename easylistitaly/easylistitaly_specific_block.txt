@@ -877,6 +877,7 @@
 ||ostiatv.it/upl/banner
 ||oxfordparavia.it/img/babylon.gif
 ||p.italia-film.org^
+||p300.it^*/sponsor-
 ||padovanews.it/images/banners/
 ||paeimprese.it^*/downloadfilebanner.php?
 ||palermomania.com/images/banner/
