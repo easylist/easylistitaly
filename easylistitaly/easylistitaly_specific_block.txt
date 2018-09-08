@@ -1077,6 +1077,7 @@
 ||si24.it/images/banners/
 ||sibarinet.it/images/banners/
 ||siciliaway.it^*/immagini_promozionali/
+||sienafree.it/images/banners/
 ||sipario.it/images/banners/
 ||sky.it/static/images/sito/skin_
 ||smartweek.it^*/banner-

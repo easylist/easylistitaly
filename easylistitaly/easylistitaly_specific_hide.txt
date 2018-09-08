@@ -278,6 +278,7 @@ lascommessasportiva.it###header_banner
 megalab.it###header_leaderboard
 meteowebcam.it###header_top
 35mm.it###header_top_banner
+sienafree.it###headerbanner
 radiospeaker.it###home-banner
 transfermarkt.it###home-rectangle-spotlight
 affaritaliani.it###immo-300x250
@@ -287,6 +288,9 @@ r101.it###innamorarsiA101
 sportstadio.it###iol-partners
 quifinanza.it###iol_dfp_local
 cittaceleste.it,juvenews.eu###itemBannerSottoImg
+sienafree.it###ja-banner300x250
+sienafree.it###ja-bannertop300x250
+sienafree.it###ja-leaderboard
 lercio.it###kadv_13020
 prowrestling.it###landingbanner
 lercio.it,macitynet.it###leader-wrapper
@@ -583,7 +587,7 @@ loradellacalabria.it##.advertise
 loradellacalabria.it##.advertise2
 internimagazine.it,tiburno.tv##.advertisement
 cubovision.it,fastweb.it,gazzetta.it,ilgazzettinovesuviano.com,lettera43.it,tpi.it##.advertising
-loggiap2.com##.advs
+loggiap2.com,sienafree.it##.advs
 quotidianodigela.it##.advs-title
 filodiritto.com##.altro_box_banner_dx
 filodiritto.com##.altro_box_banner_sx
@@ -732,7 +736,7 @@ vocedimantova.it##.bannerbox
 techarena.it##.bannercentro
 treccani.it##.bannercontainer
 trovaprezzi.it##.bannerdiv
-alessandriaoggi.info,corrieredellacalabria.it,epolisbari.com,kisskiss.it,lametino.it,laquila1.it,qdpnews.it,sud656.tv,tecnicadellascuola.it,tiburno.tv,uninews24.it##.bannergroup
+alessandriaoggi.info,corrieredellacalabria.it,epolisbari.com,kisskiss.it,lametino.it,laquila1.it,qdpnews.it,sienafree.it,sud656.tv,tecnicadellascuola.it,tiburno.tv,uninews24.it##.bannergroup
 supertennis.tv##.bannergroup-banner
 paviapiu.it##.bannergroupnomarginall
 radiogold.it##.bannergroupskin-banner-module
