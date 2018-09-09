@@ -566,7 +566,7 @@ zapster.it##.addx
 qnm.it##.adex
 tomshw.it##.adorable-cats
 tomshw.it##.adorable-puppies
-brocardi.it,caserta24ore.it,fantagazzetta.com,gamemag.it,hdblog.it,ilikepuglia.it,netflixlovers.it,phicatube.net,radiospeaker.it,supereva.it,teleborsa.it,viamichelin.ch,viamichelin.it,videocasalinghi.com##.ads
+brocardi.it,caserta24ore.it,cb01.online,fantagazzetta.com,gamemag.it,hdblog.it,ilikepuglia.it,netflixlovers.it,phicatube.net,radiospeaker.it,supereva.it,teleborsa.it,viamichelin.ch,viamichelin.it,videocasalinghi.com##.ads
 ildolomiti.it##.adsB
 meteowebcam.it##.ads_menu
 chistachiamando.it,corriereadriatico.it,ilgazzettino.it,ilmattino.it,ilmessaggero.it,ilsecoloxix.it,leggo.it,livesicilia.it,pcprofessionale.it,pubblicitaitalia.it,quotidianodipuglia.it##.adsense
@@ -1150,7 +1150,7 @@ windowsblogitalia.com##[id^="bsa"]
 gazzettinodelchianti.it##a[class*="bannerpos"]
 tgcom24.mediaset.it##a[href*=".ad.dotandad.com/clicktracker.jsp?"]
 voglioporno.com##a[href*=".com/track/"]
-casa-cinema.org,cb01.co,speedvideo.net##a[href*="/4k/"]
+altadefinizione01.click,casa-cinema.org,cb01.co,cb01.online,cb01.zone,filmsenzalimiti.co,robinfilms.me,speedvideo.net##a[href*="/4k/"]
 abruzzoweb.it##a[href*="/adserver/go.php?"]
 everyeye.it##a[href*="/click.asp?"]
 gazzetta.it##a[href*="/codici-sconto/"]
@@ -1176,18 +1176,15 @@ tecnoandroid.it##a[href^="http://shrsl.com/"]
 gioco.it##a[href^="http://smarturl.it/"]
 comprovendolibri.it##a[href^="http://tracker.tradedoubler.com/"]
 tecnoandroid.it##a[href^="http://www.allinmobile.eu/"]
-altadefinizione01.click##a[href^="http://www.altadefinizione01.click/4k/"]
 altadefinizione01.click##a[href^="http://www.altadefinizione01.click/stream/"]
 juzaphoto.com##a[href^="http://www.amazon."][href*="creativeASIN"]
 animeclick.it,bdc-forum.it,birramoriamoci.it,comprovendolibri.it,eurogamer.it,gamerclick.it,ludomedia.it,mangaforever.net,netflixlovers.it,outcast.it,projectcars.it,serialclick.it,techzilla.it,tivusat.tv##a[href^="http://www.amazon."][href*="tag="]
 film-stream.org##a[href^="http://www.aznotizie.com/"]
 catania46.net##a[href^="http://www.clickpoint.it/db/goto.cp?"]
-filmsenzalimiti.co##a[href^="http://www.filmsenzalimiti.co/4k/"]
 filmsenzalimiti.co##a[href^="http://www.filmsenzalimiti.co/4k1/"]
 musicoff.com##a[href^="http://www.musicoff.com/ad/redirect/"]
 zapster.it##a[href^="http://www.paperbox.it/"]
 rietilife.com##a[href^="http://www.rietilife.com?pasID="]
-robinfilms.me##a[href^="http://www.robinfilms.me/4k/"]
 outcast.it##a[href^="http://www.tostadora.it/t-shirt-nerd.php?"]
 tp24.it##a[href^="http://www.tp24.it/link_banner.php?"]
 classifichemusica.com##a[href^="http://www.viagogo.it/Biglietti-Concerti?affiliateID="]
