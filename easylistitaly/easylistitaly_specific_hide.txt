@@ -416,6 +416,8 @@ eurogamer.it###skyscraper
 casateonline.it,merateonline.it###sottotestata
 corrieredellacalabria.it###sovrapposto
 ilmetapontino.it###sp-top-add
+amazon.it###sp_detail
+amazon.it###sp_detail2
 tgcom24.it###spaceBanner_rn_u
 primissima.it###space_banner
 mediaset.it###spalla-banner
