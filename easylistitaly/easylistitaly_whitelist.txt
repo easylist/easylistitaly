@@ -67,7 +67,7 @@
 @@||misterdomain.eu/affiliation/$~third-party
 @@||mymovies.it/live/myads/preroll/$object-subrequest
 @@||net-static.tccstatic.com/template/fcinter1908.it/img/banner/logod.gif
-@@||oasjs.kataweb.it/adsetup.$domain=video.repubblica.it
+@@||oasjs.kataweb.it/adsetup.$domain=video.huffingtonpost.it|video.repubblica.it
 @@||online-retail.unicredit.it/adv/$~third-party
 @@||pad.mymovies.it/v9/adv/media/preroll/*.flv$object-subrequest
 @@||paesesera.it/design/paesesera/stylesheets/advertising.css
