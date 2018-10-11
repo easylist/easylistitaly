@@ -51,6 +51,7 @@
 ||ebuzzing.it^$third-party
 ||edinetadv.com^$third-party
 ||erosadv.com^$third-party
+||evolutionadv.it^$third-party
 ||exmarketplace.com^$third-party
 ||firebanner.com^$third-party
 ||gambling-italia.com^$third-party
