@@ -240,6 +240,7 @@
 ||coplanet.it^*/bannerzon/
 ||coriglianocalabro.it/images/banners/
 ||coriglianocalabro.it^*/banner/
+||corriere.ca^*/Banners/
 ||corriere.it^*/adv/
 ||corriere.it^*/icon_csnai.gif
 ||corriere.it^*/icon_csnai_shared.gif
