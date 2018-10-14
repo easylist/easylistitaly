@@ -376,6 +376,7 @@ vg247.it###recommendations
 gazzetta.it###rectangle
 tio.ch###rectangleGallery
 ticinonews.ch###rectangleleaderhome1_FormView1_ctl00_Banmanpro3Label
+spaziogames.it###riga-pc
 dagospia.com###right-160x90
 lecconotizie.com###right-domination
 veronica.it###rightSkin
