@@ -1149,6 +1149,7 @@ notizie.it##.yahoo-white-bg
 corrieredinovara.com,corrieredinovara.it##.z-banner
 corrieredinovara.com##.z-bannerpub
 01net.it,ambientecucinaweb.it,eurosat-online.it,millecanali.it##.zedo
+ilquotidianodellazio.it##.zkslide
 cittaceleste.it##.zodiak
 nursetimes.org##AMP-IMG[width="320"][height="50"]
 djmagitalia.com##[href^="http://www.djpoint.net/"]
