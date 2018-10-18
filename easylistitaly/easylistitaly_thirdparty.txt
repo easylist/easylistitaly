@@ -24,6 +24,7 @@
 ||alpinotizie.it^*/banner.aspx?
 ||amazonaws.com/cronachemaceratesi/banner/
 ||amazonaws.com^*-promo-$domain=lonelyplanetitalia.it
+||amazonaws.com^*/banner.$domain=ilbianconero.com
 ||andreafranzoso.com/banner/
 ||angelobonorino.com/neve/*268x90.gif
 ||artera.it/banners.php?
