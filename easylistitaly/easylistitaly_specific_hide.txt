@@ -157,6 +157,7 @@ senigallianotizie.it###bbitalia_banner
 reggioemiliameteo.it###bg-dx
 altalex.com,orizzontescuola.it,primopianomolise.it,sentenze.net###bglink
 gizmodo.it###big-mega
+siracusanews.it###billboard1
 neveitalia.it,tuttogratis.it###bleft
 sentireascoltare.com###block-adv
 rumors.it###block-block-19
