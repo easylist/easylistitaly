@@ -288,6 +288,7 @@
 ||diretta.it/res/image/bookmaker-list.png
 ||diretta.it^*/banner/
 ||direttagoal.it/writable/banners/
+||dirittoegiustizia.it^*/downloadFileBanner.
 ||djmagitalia.com^*-banner-
 ||djmagitalia.com^*/BANNER_
 ||djmagitalia.com^*_skin_
