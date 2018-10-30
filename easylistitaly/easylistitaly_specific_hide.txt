@@ -55,7 +55,7 @@ libero.it###b468x60bottoms
 242movietv.com###back_inside
 beverfood.com###backy
 lastampa.it###badge
-advertiser.it,asylumitalia.it,bitcity.it,car4you.it,fiorentinanews.com,forzapescara.net,grandefratellonews.com,mediakey.tv,meteo-emiliaromagna.it,my-personaltrainer.it,rvuno.it,tendenzeonline.info,webpedia.altervista.org###banner
+advertiser.it,asylumitalia.it,bitcity.it,car4you.it,fiorentinanews.com,forzapescara.net,grandefratellonews.com,mediakey.tv,meteo-emiliaromagna.it,my-personaltrainer.it,rvuno.it,superwheels.net,tendenzeonline.info,webpedia.altervista.org###banner
 radiozeta.it,serviziopubblico.it###banner-1
 radiozeta.it###banner-2
 gustissimo.it###banner-alto
