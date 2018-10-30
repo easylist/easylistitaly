@@ -4,6 +4,7 @@
 ||11giovani.it/images/banners/
 ||12alle12.it/wp-content/banners/
 ||312.it/img/banner/
+||3bmeteo.com^*/promo/
 ||607080.it^*/banners/
 ||7per24.it^*/banner-
 ||892000.it/img/bannerino_
