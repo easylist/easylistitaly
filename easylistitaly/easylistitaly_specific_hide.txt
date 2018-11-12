@@ -871,7 +871,7 @@ socialchannel.it##.footer2-wrapper
 violachannel.tv##.footer_home
 liberatv.ch##.front_orrizzontale
 quattroruote.it##.fullBanner
-rietinvetrina.it,stradeeautostrade.it##.g
+gazzettadasti.it,rietinvetrina.it,stradeeautostrade.it##.g
 spaziogames.it##.g_adv
 netflixlovers.it##.gadget
 agendadigitale.eu##.gallery-container-home
