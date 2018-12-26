@@ -1038,6 +1038,7 @@ genova24.it,ivg.it,lacnews24.it##.sb-banner
 genova24.it,ivg.it##.sb-box-pubbliredazionale
 flashgames.it##.scheda_ppc
 tomshw.it##.scontitech
+risultati.it##.scrolling-box-over-content
 areanapoli.it##.sdoo_cnt
 treccani.it##.search-adv
 apollodoro.it,ecoo.it,gaywave.it,haisentito.it,nanopress.it,tantasalute.it##.sectCntGoogle3
