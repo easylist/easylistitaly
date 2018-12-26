@@ -180,6 +180,7 @@ eurosat-online.it###bottoni
 dueruote.it,motonline.com###box-bacheca
 dueruote.it,motonline.com###box-bachecapremium
 hwupgrade.it###box-next-container
+diretta.it###box-over-content-a
 gazzetta.it###box-random-gazzastar-travel
 gazzetta.it###box-sponsor
 macitynet.it###boxItunes
