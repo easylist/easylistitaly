@@ -185,7 +185,7 @@ gazzetta.it###box-random-gazzastar-travel
 gazzetta.it###box-sponsor
 macitynet.it###boxItunes
 telefonino.net###boxShopping
-diesis.it###box_banner
+diesis.it,lasicilia.it###box_banner
 libero.it###box_expedia_case
 affaritaliani.it,italiaoggi.it,milanofinanza.it,panorama.it###box_immo
 masterviaggi.it###box_link_sponsor
