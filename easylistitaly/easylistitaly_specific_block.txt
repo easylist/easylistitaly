@@ -660,6 +660,7 @@
 ||ladige.it/internal/immobiliare/
 ||ladigetto.it/files/banners/
 ||lafedelta.it^*/banner/
+||lafeltrinelli.it^*/Partner/
 ||lagazzettadelmezzogiorno.it/banner_pk/
 ||lagazzettadelmezzogiorno.it/images/fc_bari_1908.swf
 ||lagazzettadilucca.it^*/inserzioni/

@@ -359,6 +359,7 @@ pcworld.it###pangora-chunnel
 amicidimotociclismo.it###partnerfooter
 fantascienza.com,ship2shore.it###partners
 p300.it###partners-cont
+lafeltrinelli.it###partners-slider
 pianetatech.it###partnerw
 amazon.it###pdagMwebCarousel
 lagazzettadelmezzogiorno.it###petizione
