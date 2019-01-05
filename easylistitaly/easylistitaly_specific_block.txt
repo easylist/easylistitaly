@@ -789,6 +789,8 @@
 ||mediagol.it/images/sponsor/
 ||mediakey.tv/uploads/tx_macinabanners/
 ||mediavideo24.com/inc/ova.swf$object-subrequest
+||mediaw.it^*/300x229_
+||mediaw.it^*/banner
 ||mediaw.it^*/partnership/
 ||megabass.it^*/banner_
 ||mentelocale.it/devmktg/
