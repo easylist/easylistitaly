@@ -1142,6 +1142,7 @@
 ||supertennis.tv/images/banner_
 ||superzeta.it^*/dummy.gif
 ||surface-phone.it^*-banner-
+||tantifilm.one/buton
 ||targatocn.it/fileadmin/archivio/targatocn/*/bgr_body45_
 ||targatocn.it^*/box/
 ||teatronaturale.it^*/banner_
