@@ -1,5 +1,6 @@
 ||adf.ly^$popup,domain=vstau.info
 ||adv2.spaziogames.it^$popup
+||altadefinizione.wiki/player/$popup
 ||altadefinizione01.click/4k/$popup
 ||anon.to^$popup,domain=animeforce.org
 ||avmagazine.it/advertise/$popup
