@@ -199,6 +199,7 @@
 ||ciclonline.com/images/banners/
 ||cilentotime.it/images/banners/
 ||cinafoniaci.com/images/banners/
+||cineblog.club/player/
 ||cinemadelsilenzio.it/banner4.js
 ||cinemadelsilenzio.it/images/home/eff2012_
 ||cinemadelsilenzio.it/images/sponsor/
