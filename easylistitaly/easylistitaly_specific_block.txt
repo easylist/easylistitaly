@@ -203,6 +203,7 @@
 ||cinemadelsilenzio.it/images/home/eff2012_
 ||cinemadelsilenzio.it/images/sponsor/
 ||cinemagratis.info/img/bottone
+||cinemahd.space/img/bottone
 ||cinquequotidiano.it^*/skin_
 ||ciociaria24.net/ciociaria24-
 ||ciociariaoggi.info/public/img/banner-
