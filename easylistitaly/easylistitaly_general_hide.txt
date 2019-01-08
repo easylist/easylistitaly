@@ -133,6 +133,8 @@
 ##.pub_text
 ##.pubblicit
 ##.pubblicita
+##.pubblicita-banner
+##.pubblicita-box
 ##.pubblicitaGoogle
 ##.pubblicitaSlider
 ##.pubblicita_728x90
