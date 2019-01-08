@@ -170,4 +170,5 @@
 ##a[href^="http://worldfilia-tracking.ddns.net/"]
 ##a[href^="http://www.bet365.it/"][href*="?affiliate="]
 ##a[href^="http://www.linkwelove.it/urls/"]
+##a[href^="http://www.sostariffe.it/tracker2.php?"]
 ##a[href^="https://www.linkwelove.it/urls/"]
