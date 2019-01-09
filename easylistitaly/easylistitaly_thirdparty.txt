@@ -23,7 +23,7 @@
 ||allosponsor.it/images/$third-party
 ||alpinotizie.it^*/banner.aspx?
 ||amazonaws.com/cronachemaceratesi/banner/
-||amazonaws.com^$third-party,xmlhttprequest,domain=altadefinizionehd.pro
+||amazonaws.com^$third-party,xmlhttprequest,domain=altadefinizionehd.pro|guardaserie.co
 ||amazonaws.com^*-promo-$domain=lonelyplanetitalia.it
 ||amazonaws.com^*/banner.$domain=ilbianconero.com
 ||andreafranzoso.com/banner/
@@ -53,7 +53,7 @@
 ||cinetrailer.tv/skin/
 ||city-news.it/do/vast/
 ||classificaporno.com/image/incontri*.gif
-||cloudfront.net^$image,script,subdocument,domain=altadefinizionehd.pro
+||cloudfront.net^$image,script,subdocument,domain=altadefinizionehd.pro|guardaserie.co
 ||clubmetroshop.it/banner/
 ||clubshop.com/banners/
 ||cmstorage.it/public/skin/
