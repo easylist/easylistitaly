@@ -201,6 +201,8 @@
 ||cilentotime.it/images/banners/
 ||cinafoniaci.com/images/banners/
 ||cineblog.club/player/
+||cineblog01.cloud/scarica
+||cineblog01.cloud/stream
 ||cinemadelsilenzio.it/banner4.js
 ||cinemadelsilenzio.it/images/home/eff2012_
 ||cinemadelsilenzio.it/images/sponsor/
