@@ -1014,6 +1014,7 @@ livescore.it##.promo_top_match_wide
 gqitalia.it,motori.it##.promobox
 milanofinanza.it##.promocanali
 italiapokerclub.com##.promotion
+altadefinizione4k.net##.pseudo-link
 agoravox.it##.pub
 kikapress.com##.pub_container
 meteoconsult.it##.pub_lcm
