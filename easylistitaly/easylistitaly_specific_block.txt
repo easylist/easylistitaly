@@ -67,6 +67,7 @@
 ||algheroeco.com^*_skin_
 ||allsongs.tv/banner/
 ||alqamah.it/banners/
+||altadefinizione01.cloud/buton
 ||altarimini.it/bannerBoxCatalog.php
 ||altoadigetv.it/images/social/banner
 ||alverde.net/banner/
