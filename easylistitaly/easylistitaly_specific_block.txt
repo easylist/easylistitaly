@@ -363,6 +363,8 @@
 ||film.tv.it/skin/
 ||filmpertutti.tv^*/guarda-copia.png
 ||filmpertutti.tv^*/scarica-copia.png
+||filmstreaming1.ws/player/
+||filmstreaming1.ws^*/button
 ||filmstreamingporno.com^*/guardastreaming...2.png
 ||filmstreamingporno.com^*/playnow.jpg
 ||filmstreamingporno.com^*/scaricagratis...2.png
