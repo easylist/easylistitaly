@@ -993,6 +993,7 @@ ilmionuovonumero.it,ragusanews.com##.partner
 mediaworld.it##.partnership
 asca.it##.personalized_background
 rai.tv##.placeholder300x250
+seriehd.video##.player
 radio.it##.playlist-teaser-buttons
 gazzetta.it##.poker
 trovanumeroverde.it##.pop_link
