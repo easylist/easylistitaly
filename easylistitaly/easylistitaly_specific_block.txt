@@ -634,6 +634,8 @@
 ||ispazio.net^*/Site-Skin-
 ||italia-film.co/hd/
 ||italia-film.co/hd2/
+||italia-film.pro/hd/
+||italia-film.pro/player/
 ||italia-news.it/box_ricerca/
 ||italia-news.it/media/banners/
 ||italiafilm.tv/italiafilm.png
