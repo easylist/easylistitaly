@@ -58,7 +58,7 @@ libero.it###b468x60bottoms
 242movietv.com###back_inside
 beverfood.com###backy
 lastampa.it###badge
-advertiser.it,asylumitalia.it,bitcity.it,car4you.it,fiorentinanews.com,forzapescara.net,grandefratellonews.com,mediakey.tv,meteo-emiliaromagna.it,my-personaltrainer.it,rvuno.it,superwheels.net,tendenzeonline.info,webpedia.altervista.org###banner
+advertiser.it,asylumitalia.it,bitcity.it,car4you.it,fiorentinanews.com,formiche.net,forzapescara.net,grandefratellonews.com,mediakey.tv,meteo-emiliaromagna.it,my-personaltrainer.it,rvuno.it,superwheels.net,tendenzeonline.info,webpedia.altervista.org###banner
 radiozeta.it,serviziopubblico.it###banner-1
 radiozeta.it###banner-2
 gustissimo.it###banner-alto
@@ -492,7 +492,13 @@ formiche.net###text-49
 birramoriamoci.it,serbianmonitor.com###text-5
 formiche.net###text-50
 studioconsulenzaromano.net###text-561964208
+formiche.net###text-63
 farevela.net###text-7
+formiche.net###text-83
+formiche.net###text-84
+formiche.net###text-85
+formiche.net###text-86
+formiche.net###text-87
 nerdplanet.it,serbianmonitor.com###text-9
 ilmonferrato.it,ilpiccolo.net###thin_banners_container
 liberatv.ch###ti_banner_top
