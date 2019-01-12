@@ -1137,6 +1137,7 @@
 ||sslazio.it^*/banner_
 ||stadionews.it/clienti/
 ||stadionews.it^*_banner*.gif
+||startmag.it^*/skin-
 ||staseraintv.com/simg/rebirthing2012_banner.png
 ||staseraintv.it/simg/rebirthing2012_banner.png
 ||statoquotidiano.it/banner/
