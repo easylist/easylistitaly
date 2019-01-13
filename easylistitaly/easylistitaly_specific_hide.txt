@@ -1069,6 +1069,7 @@ style.it##.side-gallery
 livesicilia.it##.side_banners_fixed
 tpi.it##.sidebar_custom_banner
 youreporter.it##.sidebar_menu_virgilio
+cosedicasa.com##.sidespot-wrapper
 newnotizie.it##.single_sidebar300x250
 ilmomento.eu##.site-commerc
 ilroma.net,omnicorse.it##.skin
