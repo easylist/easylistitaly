@@ -536,6 +536,7 @@ transfermarkt.it###werbung_superbanner
 internazionale.it###wideSkinWrapper
 italiaoggi.it,milanofinanza.it###widget_ticketcrociere
 animeclick.it###wrapper
+kontrokultura.it###xfooterbanner
 corriere.it###yoodeal
 corriere.it###yoodeal2
 gay.it###yukendu
