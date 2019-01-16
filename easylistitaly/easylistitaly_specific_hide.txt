@@ -1126,6 +1126,7 @@ ciao.it##.tableSponsLinks
 genova24.it,ivg.it##.takeover
 notizialocale.it##.td-a-rec-id-header
 ilprimatonazionale.it,obiettivonews.it##.td-banner-bg
+gdoweek.it##.td-leaderboard-wrap-full
 gizchina.it##.td_block_template_1
 panorama.it##.teaser-immobiliare
 tiscali.it##.teaserDx
