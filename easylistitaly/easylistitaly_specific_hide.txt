@@ -762,7 +762,7 @@ vocedimantova.it##.bannerbox
 techarena.it##.bannercentro
 treccani.it##.bannercontainer
 trovaprezzi.it##.bannerdiv
-alessandriaoggi.info,corrieredellacalabria.it,epolisbari.com,kisskiss.it,lametino.it,laquila1.it,qdpnews.it,sienafree.it,sud656.tv,tecnicadellascuola.it,tiburno.tv,uninews24.it##.bannergroup
+alessandriaoggi.info,corrieredellacalabria.it,epolisbari.com,kisskiss.it,lametino.it,laquila1.it,qdpnews.it,sienafree.it,sud656.tv,tecnicadellascuola.it,tiburno.tv,uninews24.it,youtg.net##.bannergroup
 supertennis.tv##.bannergroup-banner
 paviapiu.it##.bannergroupnomarginall
 radiogold.it##.bannergroupskin-banner-module
