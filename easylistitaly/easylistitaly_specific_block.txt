@@ -446,6 +446,7 @@
 ||giornaledimerate.it/banneranalyzer/
 ||giornaledisiracusa.it/images/banners/
 ||giornalettismo.com^*/skin/
+||gizchina.it^*/mrdeals-
 ||glpress.it/wordpress/sponsor/
 ||gnoccatravels.com/column4/banner.swf
 ||gnoccatravels.com/themes/gt/design/img/rebtel.jpg

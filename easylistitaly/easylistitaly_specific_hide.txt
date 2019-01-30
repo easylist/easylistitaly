@@ -1130,7 +1130,6 @@ notizialocale.it##.td-a-rec-id-header
 ilprimatonazionale.it,obiettivonews.it##.td-banner-bg
 ilcorriere.net##.td-header-sp-recs
 gdoweek.it##.td-leaderboard-wrap-full
-gizchina.it##.td_block_template_1
 panorama.it##.teaser-immobiliare
 tiscali.it##.teaserDx
 edidomus.it##.telecamera-address
