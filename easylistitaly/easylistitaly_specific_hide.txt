@@ -141,7 +141,7 @@ tuttosport.com###banner_square
 notiziediprato.it###banner_strip
 ilcorrieredabruzzo.it###banner_testata
 ilcorrieredabruzzo.it###banner_testata_1004x114
-ecomotori.net,lastampa.it,newsfood.com,primaonline.it,primissima.it,qds.it###banner_top
+ecomotori.net,gruppovideomedia.it,lastampa.it,newsfood.com,primaonline.it,primissima.it,qds.it###banner_top
 livesicilia.it###banner_trans
 gameplayer.it###banner_up_right
 fiorentinanews.com###banneralto
