@@ -284,6 +284,7 @@
 ||cronacaqui.it^*/banner-
 ||cronachedellacampania.it^*-300x250.
 ||dagospia.com/_include/banner/
+||dailyonline.it^*/banner-
 ||dasolo.co/easy.gif
 ||datasport.it/img/banner_
 ||deltadivenere.com/banners/

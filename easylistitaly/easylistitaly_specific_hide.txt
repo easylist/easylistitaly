@@ -896,7 +896,7 @@ violachannel.tv##.footer_home
 liberatv.ch##.front_orrizzontale
 quattroruote.it##.fullBanner
 obiettivonews.it##.fullwidthbanner-container
-gazzettadasti.it,ilcorriere.net,rietinvetrina.it,stradeeautostrade.it,ticinonotizie.it##.g
+dailyonline.it,gazzettadasti.it,ilcorriere.net,rietinvetrina.it,stradeeautostrade.it,ticinonotizie.it##.g
 spaziogames.it##.g_adv
 netflixlovers.it##.gadget
 agendadigitale.eu##.gallery-container-home
