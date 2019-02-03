@@ -430,6 +430,7 @@
 ||gazzettaobjects.it/includes2013/External-Content/box_netflix.shtml
 ||gazzettaobjects.it/static_images/promo/
 ||gazzettaobjects.it^*/adv/
+||gazzettaobjects.it^*/bt-sportPesa.
 ||gazzettaobjects.it^*/sponsor/
 ||gazzettaobjects.it^*/sportPesa.
 ||gazzettinodelchianti.it/files/immagini-banner/

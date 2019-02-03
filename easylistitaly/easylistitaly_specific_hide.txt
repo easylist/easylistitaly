@@ -1108,6 +1108,7 @@ agrifoodtoday.it,agrigentonotizie.it,anconatoday.it,avellinotoday.it,baritoday.i
 fc-suedtirol.com##.sponsorliste
 acfontemeravigliosa.it,alfamasera.it,aracelipallacanestrovicenza.it,ascsanrocco.it,asdcmozzo.it,asdeasytennis.it,asdfrentania.it,asdgranarolobasket.it,asdroccaprioracalcio.it,asdvillanova.it,asrivoltanacalcio.it,atleticoacquaviva.it,basketclubsansperate.it,basketmogliano.it,belmontecalcio.it,cestisticasavonese.it,cgb-basketbrugherio.it,delfinosalento.it,excelsiorcalcio.it,falcoalbino.it,fcbolzano.it,federazioneitalianacalciodasala.it,franzinvalnocebasket.it,gsdedelweiss.it,interclubparma.it,juventussanmichelefoggia.it,napolimamafutsal.it,nuovafrontiera.it,pallacanestroalassio.it,podisticapomigliano.it,podisticasannicandro.it,poldgaviese1920.it,polysportlavagna.it,reggioemiliafive.it,rinascitarutiglianese.it,robur1905macerata.it,saronnorobur.it,scanzorosciatebasket.it,sccampanilepianura.it,scuolacalciofrancodellamonica.it,sgsturritana.it,ssdcolonna.it,usaclitrecella.it,usdmiranesecalcio.it,villaggiobasket.it,villaggiocalcio.it,virtusapriliabasket.it##.sponsors
 inter.it##.sponsorsSlider
+gazzetta.it##.sportPesa
 lastampa.it##.sportcom-ads-element
 avvenire.it##.spot
 leggioggi.it##.spot-mini
@@ -1230,6 +1231,7 @@ cineblog01.cloud##a[href*="/scar-hd."]
 cinemalibero.news##a[href*="/watch/"]
 voglioporno.com##a[href*="?utm_campaign="]
 gazzetta.it##a[href^="//bit.ly/"]
+gazzetta.it##a[href^="//www.sportpesa.it/"]
 piratestreaming.news##a[href^="/4k1/"]
 comprovendolibri.it##a[href^="/conta.asp?"]
 italia-film.co##a[href^="/hd2/"]
