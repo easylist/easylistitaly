@@ -49,7 +49,7 @@
 @@||google.com/adsense/search/ads.js$domain=zoover.ch|zoover.it
 @@||ilfattoquotidiano.it/wp-content/themes/ilfatto/thumb/*_pubblicita_*.jpg
 @@||ilparking-moto.it/images/flag/gif/ad.gif
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=agi.it|liveksoft.tv|movieplayer.it|multiplayer.it|radiofreccia.it|radiozeta.it|video.repubblica.it|vvvvid.it
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=agi.it|auto.it|corrieredellosport.it|guerinsportivo.it|inmoto.it|liveksoft.tv|movieplayer.it|multiplayer.it|radiofreccia.it|radiozeta.it|tuttosport.com|video.repubblica.it|vvvvid.it
 @@||impit.tradedoubler.com/imp?$subdocument,domain=iphoneitalia.com
 @@||js.neodatagroup.com/uploads/js/rds.js$domain=rds.it
 @@||js49.adagionet.com/uploads/js/sipra.js$domain=rai.it|rai.tv|rainews.it
