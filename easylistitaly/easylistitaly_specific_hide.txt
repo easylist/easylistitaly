@@ -604,6 +604,7 @@ famigliacristiana.it##.adv-box
 motori.it##.adv-items
 coratolive.it##.adv-news
 rbe.it##.adv-section
+quattroruote.it##.adv-wrap
 oktennis.it##.adv1
 delleconomia.it##.adv200
 virgilio.it##.advTuning
@@ -874,6 +875,7 @@ quotidiano.net##.discount-block
 lavoratorio.it##.divBoxbanner300x250
 donnamoderna.com##.donnam-sidebar-adv
 ilmeteo.net##.eHotel
+quattroruote.it##.ebay-catalog-box
 gossipetv.com##.ebuzzing_box
 digisesso.com,gorillaporno.com,iltrombatore.com,koalaporno.com,pandasesso.com,ranaporno.com,sessosadomaso.com##.embed1
 digisesso.com,gorillaporno.com,iltrombatore.com,koalaporno.com,pandasesso.com,ranaporno.com,sessosadomaso.com##.embed2
