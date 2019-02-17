@@ -139,6 +139,7 @@ firenzespettacolo.it###banner_side
 livesicilia.it###banner_skin
 tuttosport.com###banner_square
 notiziediprato.it###banner_strip
+salernonotizie.it###banner_testa
 ilcorrieredabruzzo.it###banner_testata
 ilcorrieredabruzzo.it###banner_testata_1004x114
 ecomotori.net,gruppovideomedia.it,lastampa.it,newsfood.com,primaonline.it,primissima.it,qds.it###banner_top
@@ -323,6 +324,8 @@ cronachemaceratesi.it###ligatus_cronachemaceratesi_cronachemaceratesi_smartbox
 telesud3.com###linkamici
 asroma.it###logos
 eurogamer.it###low-leaderboard
+salernonotizie.it###machette_left
+salernonotizie.it###machette_right
 catanzaroinforma.it###mainsponsor
 catanzaroinforma.it###mainsponsorcronaca
 legnanonews.com###makeMeScrollable
@@ -861,6 +864,7 @@ frasimania.it##.content-banner
 fanpage.it##.content-leaderboard
 macitynet.it##.contentTop
 toro.it##.contentleaderboard
+salernonotizie.it##.contskin
 windowsblogitalia.com##.corrispondenza
 tiscali.it##.dannperdere
 ebay.it,kijiji.it##.dart-banner-slot
