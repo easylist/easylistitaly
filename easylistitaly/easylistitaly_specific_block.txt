@@ -385,6 +385,7 @@
 ||fm-world.it^*/banner-
 ||focus-online.it/files/banner/
 ||focus-online.it/files/img_banner/
+||foggiacalciomania.com^*-640x274.
 ||fordfiestaitalia.com^*/sponsor/
 ||formiche.net/banner.asp?
 ||forzapescara.net/foto/
