@@ -718,6 +718,7 @@ zoover.ch,zoover.it##.bannerContainer
 djmagitalia.com##.bannerExtra
 ilmessaggero.it,ravennanotizie.it##.bannerH
 beppegrillo.it##.bannerHeader
+linkiesta.it##.bannerMasthead
 cittaceleste.it,juvenews.eu##.bannerNelTesto
 meteoweb.eu##.bannerPrint
 key4biz.it##.bannerRight
