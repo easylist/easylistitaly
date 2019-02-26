@@ -46,6 +46,7 @@
 ||caniaddestrati.org^$third-party
 ||careerjet.it/partners/
 ||casa.it/cobrand/
+||casadivita.despar.it^$third-party
 ||casinotop10.it/swf/$third-party
 ||cdn.adultsadv.com^
 ||cdn.plus500.com/media/banners/
