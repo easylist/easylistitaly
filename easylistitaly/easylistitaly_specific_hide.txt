@@ -553,8 +553,12 @@ lifegate.it##.-sponsor
 gnoccaforum.com,tiscali.it##.ADV
 ludomedia.it##.AmazonBox
 hostingtalk.it##.Banner
+cinemaitaliano.info##.Banner01
+cinemaitaliano.info##.Banner430x45
+cinemaitaliano.info##.Banner970x250
 lavoratorio.it##.BannerAltoHP
 primopianomolise.it##.BannerDinamico
+cinemaitaliano.info##.BannerDx
 metropolisweb.it##.BannerMezzoNotizia
 primopianomolise.it##.Banner_Modulabile
 nqnews.it##.Banner_box

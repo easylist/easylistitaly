@@ -209,6 +209,7 @@
 ||cinemadelsilenzio.it/images/sponsor/
 ||cinemagratis.info/img/bottone
 ||cinemahd.space/img/bottone
+||cinemaitaliano.info^*/banner/
 ||cinquequotidiano.it^*/skin_
 ||ciociaria24.net/ciociaria24-
 ||ciociariaoggi.info/public/img/banner-
