@@ -799,6 +799,7 @@ corrieredilatina.it,corriereromagna.it,ilmattinodifoggia.it,lanuovaprimapagina.i
 libero.it##.big
 gazzettinodelchianti.it##.big_link
 youreporter.it##.bigrectangle600
+foodnetwork.it##.billboard
 ladige.it##.block--dfp
 lafedelta.it,vitatrentina.it##.block-banners
 ilgiornale.it##.block-ilg-adsense
