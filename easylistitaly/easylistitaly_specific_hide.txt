@@ -1144,6 +1144,7 @@ wired.it##.supported
 mbnews.it##.swiper-container
 livescore.it##.table-odds
 ciao.it##.tableSponsLinks
+ilpost.it##.tag-sponsored
 genova24.it,ivg.it##.takeover
 notizialocale.it##.td-a-rec-id-header
 ilprimatonazionale.it,obiettivonews.it##.td-banner-bg
