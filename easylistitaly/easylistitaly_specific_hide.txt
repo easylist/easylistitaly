@@ -990,6 +990,7 @@ europaquotidiano.it##.mct_dx
 europaquotidiano.it##.mct_sx
 ticinonews.ch##.mediatickets-widget
 gazzettadasti.it##.medium-rotate-banner
+tiscali.it##.meetic-box
 melamorsicata.it##.mela_ban_1
 melamorsicata.it##.mela_ban_2
 melamorsicata.it##.mela_ban_3

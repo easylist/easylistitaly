@@ -1225,7 +1225,7 @@
 ||tio.ch/img/2013/iframe/postfinance.jpg
 ||tio.ch^*/banner/
 ||tipresentoilcane.com/banner/
-||tiscali.it^*/meetic3.swf
+||tiscali.it/planner/
 ||tmnews.it^*/banner_
 ||today.it/images/*_skin_
 ||today.it/images/lg.jpg
@@ -1379,7 +1379,6 @@
 ||voceditalia.it/banner_ev.js
 ||vocenuova.tv/assets/uploads/banners/
 ||volleyball.it^*/banner-
-||vps-ta.tiscali.it^
 ||vstau.info/assets/nopop_
 ||vvvvid.it/vast/
 ||wallstreetitalia.com/img/*-798x27.gif
