@@ -854,6 +854,7 @@
 ||motorionline.com/banner/
 ||motorionline.com^*/banner_motorionline.gif
 ||movieplayer.it/static/img/cinemapiu.jpg
+||movieplayer.it^*/cinecitta-default-
 ||mrstiff.it/view/context/spot/
 ||musicclub.it/banner/
 ||musicoff.com^*/adshops_
