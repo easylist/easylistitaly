@@ -338,6 +338,8 @@
 ||etrurianews.it/images/banners/
 ||etrurianews.it^*-skin.jpg
 ||eunews.it^*/BANNER-375x100_
+||euroregionalpmed.eu/img/banner/
+||euroregionalpmed.eu/js/clickBanner_
 ||eusebiano.it/banners/
 ||eventiesagre.it/images/banner/
 ||everyeye.it/amazonasin/
