@@ -1135,6 +1135,7 @@ applemobile.it##.store
 ravennaedintorni.it##.strillo
 affaritaliani.it##.strillo-speciale3
 agichina24.it,ship2shore.it,trend-online.com##.strip
+ilmessaggero.it##.strip-guidalloshopping
 spaziogames.it##.stripe-full-wrapper
 loradellacalabria.it##.strisciane1
 style.it##.style_promo
