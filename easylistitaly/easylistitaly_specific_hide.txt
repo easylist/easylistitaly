@@ -1171,6 +1171,7 @@ vistointv.net##.topbanner2
 chimica-online.it##.topreat
 everyeye.it##.topskin
 comingsoon.it##.trkAmazon
+ilsole24ore.com##.trova-casa-masthead
 turistipercaso.it##.trovaviaggi
 tiscali.it##.ts-headbanner
 tiscali.it##.tsr.mB20
