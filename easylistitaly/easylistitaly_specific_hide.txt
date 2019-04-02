@@ -812,6 +812,7 @@ sulpanaro.net##.block-sulpanaroexpo
 ilcapoluogo.com##.block-view-bannerSlide
 chimica-online.it##.bnbottom
 stateofmind.it##.bnn-fullwidth
+meteovalmorea.it##.bnr-row
 risultati.it##.bookmarker-53
 beppegrillo.it##.bottom-banner
 pmi.it##.box-300-special

@@ -827,6 +827,7 @@
 ||metallized.it/banner/
 ||meteo.it/images/banner/
 ||meteoconsult.it/publicite/
+||meteovalmorea.it^*/banners/
 ||meteoweb.eu/bannerMW/
 ||metronews.it^*/banner_
 ||metropolisweb.it/public/banner/
