@@ -850,6 +850,7 @@
 ||momentosera.it/bannerupload/
 ||mondoclassica.it^*/banner/
 ||mondopallone.it^*/skin_
+||money.it/box-amazon/
 ||montecarlonews.it^*/banner/
 ||montecarlonews.it^*/box/
 ||motoclub-tingavert.it/modules/Dv_Banner/
