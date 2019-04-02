@@ -1401,6 +1401,7 @@
 ||worldweb.it/images/banners/
 ||worldweb.it/images/stories/registrazionemotoridiricerca.jpg
 ||wp.com^*/banner_$domain=tariffando.it
+||wp.com^*/banners/$domain=proiezionidiborsa.it
 ||wp.com^*/offerte-lampo-amazon.$domain=tariffando.it
 ||xvideomature.com/images/u_player2.jpg
 ||xvideomature.com^*/rotate.php
