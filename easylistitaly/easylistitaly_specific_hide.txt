@@ -1065,6 +1065,7 @@ gazzetta.it,telestense.it##.pushbar
 quotidianosanita.it##.qs_n_interno_basso
 violanews.com##.rcsmedia_container
 ticinolibero.ch##.redbar
+mobimart.it##.resp-container
 lacnews24.it##.right-side
 ladyradio.it##.right-table5[width="162"]
 film.it##.rightBoxAmazon

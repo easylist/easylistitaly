@@ -845,6 +845,7 @@
 ||mmorpgitalia.it/media/aion
 ||mmorpgitalia.it/von/
 ||mobi2b.it^*/downloadfilebanner.php?
+||mobimart.it/ban.
 ||modena2000.it/bnrs/
 ||mole24.it^*/skin-
 ||momentosera.it/bannerupload/
