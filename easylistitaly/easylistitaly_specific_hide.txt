@@ -854,6 +854,7 @@ radioinblu.it,tv2000.it##.cei-skin-side
 businessmagazine.it,fotografidigitali.it,gamemag.it,hwupgrade.it,ilgiorno.it,ilrestodelcarlino.it,lanazione.it,motorionline.com,quotidiano.net##.center_all > div[style="background:#ffffff;border-bottom:1px #ffffff solid;border-top:1px #ffffff solid;margin-bottom:3px;margin-top:3px;"]
 businessmagazine.it,fotografidigitali.it,gamemag.it,hwupgrade.it,ilgiorno.it,ilrestodelcarlino.it,lanazione.it,motorionline.com,quotidiano.net##.center_all > div[style="font-size:small;font-style:normal;font-weight:normal;margin-top:3px;margin-bottom:3px"]
 edilportale.com##.click-Skin
+puntocellulare.it##.clklnk
 gizchina.it##.code-block-6
 ilcorrieredelgiorno.it##.col-banner
 lacrocequotidiano.it##.column-banner
@@ -1019,6 +1020,7 @@ everyeye.it##.nome_gioco_amazon_destra
 ludomedia.it##.nonSonoAdv
 risultati.it##.odds-detail
 lastampa.it##.pane-views-partner-block-1
+puntocellulare.it##.panel-offers
 ilmionuovonumero.it,ragusanews.com##.partner
 mediaworld.it##.partnership
 asca.it##.personalized_background
@@ -1075,6 +1077,7 @@ quattroruote.it##.salone-sponsor
 genova24.it,ivg.it,lacnews24.it##.sb-banner
 genova24.it,ivg.it##.sb-box-pubbliredazionale
 flashgames.it##.scheda_ppc
+puntocellulare.it##.schlnk
 tomshw.it##.scontitech
 risultati.it##.scrolling-box-over-content
 areanapoli.it##.sdoo_cnt
