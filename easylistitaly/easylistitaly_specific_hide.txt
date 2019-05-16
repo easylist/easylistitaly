@@ -1073,6 +1073,7 @@ megasesso.com##.rightPubHome
 cinquegiorni.it##.rightbanner
 gazzettadasti.it##.rotate-banner
 ecodallecitta.it##.rotobanner
+wikihow.it##.rr_container
 nonsolocap.it##.ru
 quattroruote.it##.salone-sponsor
 genova24.it,ivg.it,lacnews24.it##.sb-banner
