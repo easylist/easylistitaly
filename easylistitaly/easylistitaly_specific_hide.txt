@@ -860,6 +860,7 @@ ilcorrieredelgiorno.it##.col-banner
 lacrocequotidiano.it##.column-banner
 tripadvisor.it##.commerce
 quattroruote.it##.commercial-article
+fuoritraiettoria.com##.computer
 saggiamente.com##.consigliati
 reteimprese.it##.cont-banner
 edilportale.com##.cont-leaderBoard
