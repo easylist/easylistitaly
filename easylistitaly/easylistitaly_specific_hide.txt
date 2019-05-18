@@ -620,7 +620,7 @@ corrierecomunicazioni.it##.adv_container
 addicted2play.com,amonapoli.it,eurogamer.it,giardini.biz,gioco.it,lausc.it,morningstar.it,tvtv.it,vg247.it##.advert
 loradellacalabria.it##.advertise
 loradellacalabria.it##.advertise2
-internimagazine.it,tiburno.tv##.advertisement
+internimagazine.it,pharmastar.it,tiburno.tv##.advertisement
 cubovision.it,fastweb.it,gazzetta.it,ilgazzettinovesuviano.com,lettera43.it,tpi.it##.advertising
 loggiap2.com,sienafree.it##.advs
 quotidianodigela.it##.advs-title

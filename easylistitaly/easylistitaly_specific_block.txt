@@ -938,6 +938,8 @@
 ||periodicodaily.com^*/bannerlateralelento.gif
 ||periodicodaily.com^*/gifanimatabannerlaterale.gif
 ||perotorino.it/images/banners/
+||pharmastar.it^*/banner/
+||pharmastar.it^*/skins/
 ||piacenzanight.com/images/background/
 ||piacenzanight.com/images/banner/
 ||piacenzasera.it/img/top/sfondo.jpg
