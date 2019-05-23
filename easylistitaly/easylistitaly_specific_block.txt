@@ -4,6 +4,7 @@
 ||0781.info^*/banners/
 ||11giovani.it/images/banners/
 ||12alle12.it/wp-content/banners/
+||24emilia.com^*banner
 ||312.it/img/banner/
 ||3bmeteo.com^*/promo/
 ||607080.it^*/banners/

@@ -82,6 +82,8 @@
 ##.ad-fisso
 ##.ad_pedice
 ##.adagiowritebanner_dmtag
+##.ads-dx
+##.ads-sx
 ##.ads_topdx
 ##.ads_topsx
 ##.adsbyawcloud

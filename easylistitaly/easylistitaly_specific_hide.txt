@@ -600,7 +600,7 @@ zapster.it##.addx
 qnm.it##.adex
 tomshw.it##.adorable-cats
 tomshw.it##.adorable-puppies
-autoscout24.ch,brocardi.it,casacinema.news,caserta24ore.it,cb01.online,fantagazzetta.com,filmpertutti.uno,gamemag.it,hdblog.it,ilikepuglia.it,netflixlovers.it,phicatube.net,radiospeaker.it,supereva.it,teleborsa.it,viamichelin.ch,viamichelin.it,videocasalinghi.com##.ads
+24emilia.com,autoscout24.ch,brocardi.it,casacinema.news,caserta24ore.it,cb01.online,fantagazzetta.com,filmpertutti.uno,gamemag.it,hdblog.it,ilikepuglia.it,netflixlovers.it,phicatube.net,radiospeaker.it,supereva.it,teleborsa.it,viamichelin.ch,viamichelin.it,videocasalinghi.com##.ads
 ildolomiti.it##.adsB
 meteowebcam.it##.ads_menu
 chistachiamando.it,corriereadriatico.it,ilgazzettino.it,ilmattino.it,ilmessaggero.it,ilsecoloxix.it,leggo.it,livesicilia.it,pcprofessionale.it,pubblicitaitalia.it,quotidianodipuglia.it##.adsense
@@ -991,6 +991,7 @@ erbanotizie.com,lecconotizie.com##.manchette-sx
 cremonaoggi.it##.manchette2
 laverita.info##.manchette_box
 qds.it##.manchettes
+24emilia.com##.marquee0
 tiscali.it##.maxi-box
 europaquotidiano.it##.mct_dx
 europaquotidiano.it##.mct_sx
