@@ -397,6 +397,7 @@ dagospia.com###right-160x90
 lecconotizie.com###right-domination
 veronica.it###rightSkin
 centrometeoitaliano.it###rp-autopromo-300x250
+parmaonline.info###s13
 sapere.it###s24box1
 sapere.it###s24box2
 sapere.it###s24square
