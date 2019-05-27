@@ -965,6 +965,7 @@ lifegate.it##.itunesButton
 jacktech.it##.jk_banner
 vivastreet.it##.kiwii-box-300x250
 corrieredellosport.it##.label_sponsor_sp
+bluerating.com##.large_home_adv
 quattroruote.it##.lastQDeals
 alessandrianews.it##.leader-board-225x90
 alessandrianews.it##.leader-board-728x90
@@ -981,6 +982,7 @@ bisceglielive.it##.live-promo
 legnanonews.com##.live_pubbl
 myword.it##.login-container[style="height:92px;border:0px solid red;text-align:center;"]
 julienews.it##.long_banner_row
+bluerating.com##.long_side_adv
 ludomedia.it##.ludoAdv
 gonews.it##.machette-over-logo
 ilfriuli.it##.main-header__banner
@@ -1172,6 +1174,7 @@ tiscali.it##.teaserDx
 edidomus.it##.telecamera-address
 ansa.it##.text-link
 excite.it##.textlink_content
+bluerating.com##.the_big_banner
 tomshw.it##.toms-amazon-button
 ilfattonisseno.it##.top
 allsongs.tv,dica33.it,radionbc.it##.top-banner
