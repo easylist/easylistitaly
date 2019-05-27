@@ -431,6 +431,7 @@ rockit.it###skinbanner
 bikechannel.it,casertaweb.com,catanzaroinforma.it,filmtv.it,gazzettadiavellino.it,gazzettadinapoli.it,gazzettadisalerno.it,ilcorrieredabruzzo.it,lazionews24.com,lospiffero.com,salernonotizie.it###skinlink
 ebay.it###skyscrape
 bisceglielive.it,eurogamer.it###skyscraper
+advisoronline.it###slidebox
 3bmeteo.com###sole24_banner
 casateonline.it,merateonline.it###sottotestata
 corrieredellacalabria.it###sovrapposto
@@ -815,6 +816,7 @@ ilcapoluogo.com##.block-view-bannerSlide
 chimica-online.it##.bnbottom
 stateofmind.it##.bnn-fullwidth
 meteovalmorea.it##.bnr-row
+advisoronline.it##.body_click
 risultati.it##.bookmarker-53
 beppegrillo.it##.bottom-banner
 pmi.it##.box-300-special
@@ -1576,6 +1578,7 @@ modenaonline.info,parmaonline.info,reggionline.com##img[onload^="ga('send','even
 spaziogames.it##img[src="/img/common/blank.gif"][style="width: 99%; height: 99%;"]
 elaborare.info##img[style="height: 960px;\a             margin-left: -165px;\a             margin-top: 0px;\a             position: fixed;\a             top: 0;\a             width: 145px;"]
 elaborare.info##img[style="height: 960px;\a             margin-left: 970px;\a             margin-top: 0px;\a             position: fixed;\a             top: 0;\a             width: 145px;"]
+advisoronline.it##img[style="width: 300px; height: 150px;"]
 frosinoneweb.net##img[style="width: 930px; height: 115px;"]
 milanofinanza.it##img[width=" 180"][height="50"]
 ilsalvagente.it##img[width="120"][height="60"]
