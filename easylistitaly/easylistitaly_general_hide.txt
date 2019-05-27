@@ -143,6 +143,7 @@
 ##.pubblicitaSlider
 ##.pubblicita_728x90
 ##.pubblicita_col1
+##.pubblicita_sottile
 ##.pubblicitapremium
 ##.pubblitalocaleaddADV
 ##.pubblitalocaleaddpiccola

@@ -795,6 +795,7 @@
 ||lospiffero.com/banner/
 ||lospiffero.com/images/graphics/skin
 ||losportivo.sm/img/banner/
+||lostrillone.tv/foto-banner/
 ||luccaindiretta.it/images/banners/
 ||lultimaribattuta.it^*banner
 ||lunico.eu/images/banners/

@@ -1071,6 +1071,8 @@ diariodelweb.it##.publi300_diariodelweb
 camperonline.it##.publink
 prendiporno.tv##.publis-bottom
 termometropolitico.it##.publy
+lostrillone.tv##.pull-left
+lostrillone.tv##.pull-right
 gazzetta.it,telestense.it##.pushbar
 quotidianosanita.it##.qs_n_interno_basso
 violanews.com##.rcsmedia_container
