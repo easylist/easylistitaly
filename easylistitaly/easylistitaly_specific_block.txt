@@ -1160,6 +1160,7 @@
 ||sscnapoli.it/client/sponsor/
 ||sslazio.it/images/banners/
 ||sslazio.it^*/banner_
+||stabiachannel.it^*/banner/
 ||stadionews.it/clienti/
 ||stadionews.it^*_banner*.gif
 ||startmag.it^*/skin-
