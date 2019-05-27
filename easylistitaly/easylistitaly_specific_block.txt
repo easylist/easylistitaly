@@ -1065,6 +1065,7 @@
 ||retesport.it/images/conf.jpg
 ||rietilife.it^*banner
 ||rinnovabili.it^*/sponsor_
+||rivistanatura.com^*/SKIN_
 ||rl1.it/img/web/banner/
 ||rmcsport.net^*/banner/
 ||rockit.it/dbimg/7banner/

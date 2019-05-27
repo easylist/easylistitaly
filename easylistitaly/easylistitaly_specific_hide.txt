@@ -1231,6 +1231,8 @@ petizionionline.it##.yahoo
 notizie.it##.yahoo-white-bg
 corrieredinovara.com,corrieredinovara.it##.z-banner
 corrieredinovara.com##.z-bannerpub
+rivistanatura.com##.zcx
+rivistanatura.com##.zcx-img
 01net.it,ambientecucinaweb.it,eurosat-online.it,millecanali.it##.zedo
 ilquotidianodellazio.it##.zkslide
 cittaceleste.it##.zodiak
@@ -1241,6 +1243,7 @@ gazzettinodelchianti.it##a[class*="bannerpos"]
 gizchina.it##a[href*="&utm_campaign="]
 tgcom24.mediaset.it##a[href*=".ad.dotandad.com/clicktracker.jsp?"]
 voglioporno.com##a[href*=".com/track/"]
+altadefinizione.wiki,fantascientificast.it,guardaserie.net,hwupgrade.it,italia-film.pro,rivistanatura.com##a[href*="//bit.ly/"]
 altadefinizione01.click,altadefinizione01.club,casa-cinema.org,cb01.co,cb01.news,cb01.online,cb01.zone,cinemagratis.info,cinemahd.space,filmsenzalimiti.co,filmstreamingita.live,guardarefilm.red,robinfilms.me,speedvideo.net##a[href*="/4k/"]
 eurostreaming.watch##a[href*="/Guarda4K/"]
 eurostreaming.watch##a[href*="/GuardaOra/"]
@@ -1271,7 +1274,6 @@ mmorpgitalia.it##a[href^="http://ad2games.com/slave.php?"]
 multiplayer.it##a[href^="http://adv.multiplayer.it/"]
 altadefinizione.zone##a[href^="http://altadefinizione.zone/videohd/"]
 projectcars.it##a[href^="http://amzn.to/"]
-fantascientificast.it,guardaserie.net,hwupgrade.it##a[href^="http://bit.ly/"]
 surface-phone.it##a[href^="http://clkde.tradedoubler.com/"]
 dasolo.info##a[href^="http://creative.m2pub.com/"]
 lifegate.it##a[href^="http://goo.gl/"]
@@ -1298,7 +1300,6 @@ classifichemusica.com##a[href^="http://www.viagogo.it/Biglietti-Concerti?affilia
 italia-film.org##a[href^="http://x.italia-film.org/get.php"]
 greenme.it##a[href^="https://ad.zanox.com/"]
 infotelematico.com,techzilla.it##a[href^="https://amzn.to/"]
-altadefinizione.wiki,italia-film.pro##a[href^="https://bit.ly/"]
 mentelocale.it##a[href^="https://clk.tradedoubler.com/"]
 autobusweb.com,corrieredellacalabria.it,lasposatv.it##a[href^="https://goo.gl/"]
 italia-film.pro##a[href^="https://iptvstreaming.org/"]
