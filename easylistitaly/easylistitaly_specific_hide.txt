@@ -305,7 +305,7 @@ sienafree.it###ja-bannertop300x250
 sienafree.it###ja-leaderboard
 lercio.it###kadv_13020
 prowrestling.it###landingbanner
-lercio.it,macitynet.it###leader-wrapper
+lercio.it,macitynet.it,torrechannel.it###leader-wrapper
 bisceglielive.it,boomerangtv.it,discoverychannel.it,dissacration.com,ebay.it,eurogamer.it,fiscaleweb.com,geekissimo.com,gingerandtomato.com,healthdesk.it,historychannel.it,ilcinemaniaco.com,ilgazzettinovesuviano.com,ilsannioquotidiano.it,iochiamo.com,lasiciliaweb.it,lussuosissimo.com,medicinalive.com,mondoreality.com,musickr.it,skiinfo.ch,skiinfo.it,theapplelounge.com###leaderboard
 orizzontescuola.it###leaderboard-banner
 ilgazzettinovesuviano.com###leaderboard-footer
