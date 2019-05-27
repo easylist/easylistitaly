@@ -1007,7 +1007,7 @@ melamorsicata.it##.mela_ban_1
 melamorsicata.it##.mela_ban_2
 melamorsicata.it##.mela_ban_3
 sportivissimo.com##.menu4
-newslinet.com##.metaslider
+newslinet.com,tvcity.it##.metaslider
 rovigooggi.it##.miele
 bastardidentro.it##.minibox
 bisceglielive.it##.mkt-300x250
