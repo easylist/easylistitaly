@@ -937,6 +937,7 @@ ilturista.info##.google-box
 dday.it##.google-dfp
 3bmeteo.com##.gpt_top
 gqitalia.it##.gq-promotions
+cb01.kim##.guarda1
 tomshw.it##.guides-summary
 fantagazzetta.com##.h-box
 quattroruote.it##.halfPageBanner2
@@ -958,6 +959,7 @@ coratolive.it##.inner-adv-news
 sardegnareporter.it##.innerfade[style="margin-bottom: 10px; position: relative; height: 295px;"]
 foggiacalciomania.com##.irw-widget
 repubblica.it##.is-marketing
+cb01.kim##.iscrivitiscarica
 tiscali.it##.istella-shopping
 motousate.it##.item.link
 hdblog.it##.item_compra
