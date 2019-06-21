@@ -1243,6 +1243,7 @@
 ||tio.ch^*/banner/
 ||tipresentoilcane.com/banner/
 ||tiscali.it/planner/
+||tiscali.it^*/comparasemplice.
 ||tmnews.it^*/banner_
 ||today.it/images/*_skin_
 ||today.it/images/lg.jpg
