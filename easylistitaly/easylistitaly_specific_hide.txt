@@ -703,6 +703,7 @@ ilgarantista.it##.banner-sx
 farevela.net,forum-macchine.it,frasimania.it,milanofinanza.it##.banner-top
 edilportale.com##.banner-velux
 milanofinanza.it##.banner-video
+telegranducato.it##.banner-wrap
 ilcapoluogo.com,latinaoggi.net##.banner1
 ecodallecitta.it,ilcapoluogo.com,latinaoggi.net,pianetacellulare.it##.banner2
 affaritaliani.it##.banner234Eni
