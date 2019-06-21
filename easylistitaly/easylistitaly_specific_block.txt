@@ -184,6 +184,8 @@
 ||casertanews.it/bann.asp?
 ||casertaweb.com/sfondo
 ||catanzaroinforma.it/public/sponsor/
+||cb01.best/player/
+||cb01.best/vod/
 ||cb01.studio/imgc/
 ||cb01.zone/imgc/b_
 ||cbritaly.it^*/downloadfilebanner.php?
