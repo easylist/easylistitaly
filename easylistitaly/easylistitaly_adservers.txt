@@ -104,6 +104,7 @@
 ||spicciolo.com^$third-party
 ||sunaffiliation.com^$third-party
 ||superbanner.org^$third-party
+||tagvideo.eu^$third-party
 ||tekno4advertising.com^$third-party
 ||tgadv.it^$third-party
 ||tgadvcdn.it^$third-party
