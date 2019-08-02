@@ -590,6 +590,7 @@ rietinvetrina.it##.a-single
 player.it##.aalb-259-product-carousel-unit
 badcomics.it,badgames.it,badtaste.it,badtv.it##.aalb-880-product-carousel-unit
 repubblica.it##.aas_whole_wrapper
+ilsole24ore.com##.abox
 4risate.com,7per24.it,allrecipes.it,ilprimatonazionale.it,ilsole24ore.com,jugo.it,lacrocequotidiano.it,mesagne.me,milanlive.it,mondoplay.it,mondoxbox.com,ridble.com,servizioallerta.it,smartbuildingitalia.it,trend-online.com,tripadvisor.it##.ad
 tusciaweb.eu##.ad-article
 corriereitaliano.com##.ad-box
@@ -1155,6 +1156,7 @@ mostraip.com##.spot1
 a-realestate.it##.spot_banner
 ilsole24ore.com##.spot_footer
 ilsecoloxix.it##.square-banner
+ilsole24ore.com##.srel
 applemobile.it##.store
 ravennaedintorni.it##.strillo
 affaritaliani.it##.strillo-speciale3
