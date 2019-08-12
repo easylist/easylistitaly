@@ -1169,6 +1169,7 @@
 ||stabiachannel.it^*/banner/
 ||stadionews.it/clienti/
 ||stadionews.it^*_banner*.gif
+||staffettaonline.com/fcomuniBanner/
 ||startmag.it^*/skin-
 ||staseraintv.com/simg/rebirthing2012_banner.png
 ||staseraintv.it/simg/rebirthing2012_banner.png
