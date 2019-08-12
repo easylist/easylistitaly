@@ -735,7 +735,7 @@ meteoweb.eu##.bannerPrint
 key4biz.it##.bannerRight
 emmelle.it##.bannerSlide
 corriereirpinia.it##.bannerTd
-borsaitaliana.it,ilmessaggero.it##.bannerTop
+borsaitaliana.it,edilportale.com,ilmessaggero.it##.bannerTop
 ilquotidianodellacalabria.it##.banner_186x290
 ilfattonisseno.it##.banner_200
 lavocedelpopolo.net##.banner_210
