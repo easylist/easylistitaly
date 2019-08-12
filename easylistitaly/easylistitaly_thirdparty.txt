@@ -113,6 +113,7 @@
 ||incontriticino.com/promo/
 ||inetweek.it/comincom/widget/
 ||informaticainitalia.it^$script,third-party
+||insicilia.com/banner/
 ||insite.sconty.it^$third-party
 ||ipercast.net/uploads/sponsors/
 ||iplaza.it/banner/
@@ -232,6 +233,7 @@
 ||vhf.tbiz.it^
 ||viagogo.it/feeds/widget.ashx?*&affiliateid=$subdocument
 ||virginpoker.it/pub/
+||vistosulweb.com/almanacco/
 ||vitaquotidiana.com^$third-party
 ||webalice.it/blackberry_09/trovadeal/
 ||webalice.it/ivo.gervasoni/$third-party
