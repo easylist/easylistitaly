@@ -926,7 +926,7 @@ violachannel.tv##.footer_home
 liberatv.ch##.front_orrizzontale
 quattroruote.it##.fullBanner
 obiettivonews.it##.fullwidthbanner-container
-bolognaindiretta.it,dailyonline.it,gazzettadasti.it,ilcorriere.net,ilmartino.it,lavalsusa.it,modenaindiretta.it,qds.it,reggionline.com,rietinvetrina.it,stradeeautostrade.it,teleclubitalia.it,ticinonotizie.it##.g
+bolognaindiretta.it,buttanissima.it,dailyonline.it,gazzettadasti.it,ilcorriere.net,ilmartino.it,lavalsusa.it,modenaindiretta.it,qds.it,reggionline.com,rietinvetrina.it,stradeeautostrade.it,teleclubitalia.it,ticinonotizie.it##.g
 spaziogames.it##.g_adv
 netflixlovers.it##.gadget
 agendadigitale.eu##.gallery-container-home
@@ -991,6 +991,7 @@ myword.it##.login-container[style="height:92px;border:0px solid red;text-align:c
 julienews.it##.long_banner_row
 bluerating.com##.long_side_adv
 ludomedia.it##.ludoAdv
+buttanissima.it##.machette
 gonews.it##.machette-over-logo
 ilfriuli.it##.main-header__banner
 rockol.it##.main-menu-manchette
