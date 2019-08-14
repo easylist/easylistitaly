@@ -115,6 +115,7 @@
 ||informaticainitalia.it^$script,third-party
 ||insicilia.com/banner/
 ||insite.sconty.it^$third-party
+||investimenti.bnpparibas.it^$domain=trend-online.com
 ||ipercast.net/uploads/sponsors/
 ||iplaza.it/banner/
 ||iplaza.it/menu/mistercupido.png

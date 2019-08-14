@@ -10,6 +10,7 @@
 ||607080.it^*/banners/
 ||7per24.it^*/banner-
 ||892000.it/img/bannerino_
+||a.trend-online.it^
 ||abruzzolive.it^*banner
 ||abruzzoweb.it/cache/banners/
 ||abruzzoweb.it^*/banner-
@@ -1279,6 +1280,8 @@
 ||travelnostop.com/banner/
 ||treccani.it/Portale/resources/images/bg$image
 ||treccani.it^*_300x100_
+||trend-online.com^*/Banner/
+||trend-online.com^*/button
 ||trentinotv.it/images/social/banner
 ||trentotoday.it/images/skin/
 ||tribunasportiva.it/images/*350x200.jpg

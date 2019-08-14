@@ -831,6 +831,7 @@ tempoitalia.it##.box-banner
 europa-in.it,gazzettadelladda.it,giornaledidesio.it,notiziaoggi.it,nuovaperiferia.it,settegiorni.it##.box-banner-menu
 lifegate.it##.box-presentato
 ilgiornaledivicenza.it##.box-skyscrapers
+trend-online.com##.box-special
 omniauto.it##.box.gradient[style="height:270px!important; min-height:270px"]
 tiscali.it##.boxBanner
 ilsoftware.it##.boxDXa.txt3
