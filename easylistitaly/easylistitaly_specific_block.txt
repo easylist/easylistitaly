@@ -534,6 +534,7 @@
 ||ilcorrieredabruzzo.it/file/banner/
 ||ilcorrieredabruzzo.it/modules/mod_novarp/tmpl/pjmr.swf?
 ||ilcorrieredabruzzo.it/templates/ilcorrieredabruzzo/images/style2/bg1.jpg
+||ilcorrierino.com/foto-banner/
 ||ilcorsaronero.info/br_mc/
 ||ilcorsaronero.info/js/nopopup.js
 ||ilcosentino.it^*/banners/
