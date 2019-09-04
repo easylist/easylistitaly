@@ -119,8 +119,6 @@
 ||ipercast.net/uploads/sponsors/
 ||iplaza.it/banner/
 ||iplaza.it/menu/mistercupido.png
-||justmoment.it/promo.swf
-||justmoment.it/promo2.swf
 ||karmalia.it/bunner/
 ||kataweb.it/zbanner_consorzio.js
 ||kataweb.it^*/negozi/$third-party
@@ -145,14 +143,12 @@
 ||netweek.it/ban_
 ||netweek.it/images/isolamutui/
 ||nexths.it/widget/$third-party
-||nextmediavideo.com/inc/ova.swf$object-subrequest
 ||nohup.it^*_110x40_
 ||noicattolici.it/x_banner/
 ||oasjs.kataweb.it^
 ||overlays.fr/js/launcher.js
 ||pangora.com^$image,third-party
 ||partner.leguide.com^$third-party
-||passionevideo.it/inc/ova.swf$object-subrequest
 ||percorsidigitali.com/consulting300.gif
 ||pezzotto.net/banners/
 ||plug.it/*/oas/
@@ -196,7 +192,7 @@
 ||sk1.it/images/banners/
 ||sk1.it/images/promo/
 ||slotmachinesgratisonline.com/image/$third-party
-||smartclip.net^$~object-subrequest,third-party
+||smartclip.net^$~object,third-party
 ||smscellulari.it/pic/banner/$third-party
 ||solonapoli88.altervista.org/ban$subdocument
 ||sostariffe.it/sosWidget3/$third-party
@@ -209,7 +205,6 @@
 ||stbm.it/img/banner/300x100_
 ||stgy.it/images/banner-
 ||stgy.it/images/skin/
-||stgy.it^*/ova-jw.swf$object-subrequest
 ||streamcaster.net/lunaset/web/template_
 ||subito-server.it/banner/
 ||subito.paneaserver.net^

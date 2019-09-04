@@ -60,10 +60,7 @@
 ||alessandriaoggi.info/images/banners/
 ||alfamitoclub.it/images/banner/
 ||alfamitoclub.it/images/sponsor/
-||alfamitoclub.it^*_banner_180.swf
 ||alfemminile.com/clients/venteprivee/
-||algheroeco.com^**-960x30.swf
-||algheroeco.com^*-300x500.swf
 ||algheroeco.com^*/banner_
 ||algheroeco.com^*300x250.gif
 ||algheroeco.com^*_skin_
@@ -236,11 +233,9 @@
 ||climateobserver.it^*/banner-
 ||climateobserver.it^*/banner_
 ||clubalfa.it/images/banner/
-||clubalfa.it/ragazzon_banner_180.swf
 ||colonnineelettriche.it^*/banner/
 ||comic-soon.com^*/adv/
-||comicradio.it/swf/banner_rotator.swf
-||comingsoon.it/fcred.asp?$object-subrequest
+||comingsoon.it/fcred.asp?$object
 ||comingsoon.it/img/compra-su-amazon.png
 ||comingsoon.it/imgdb/banner/
 ||comprovendolibri.it/sponsor/
@@ -272,8 +267,6 @@
 ||corrieredellacalabria.it^*/desk_
 ||corrieredellacalabria.it^*300x100
 ||corrieredellosport.it/dinamiche/serviziXml/bwin.jsp?
-||corrieredellosport.it/res/swf/ova-jw.swf$object-subrequest
-||corrieredellosport.it/res/swf/ova.swf$object-subrequest
 ||corrieredicomo.it/images/banners/
 ||corrieredigela.it/public/sponsor/
 ||corrierediragusa.it^*/banner/
@@ -326,7 +319,6 @@
 ||eccolanotiziaquotidiana.it/banners/
 ||ecocentrica.it^*/banner-
 ||ecodallecitta.it/immagini/banners/
-||ecodallecitta.it/video/menorifiuti_120x120.swf
 ||ecodibergamo.it/mediaon/www.mediaadv.it/
 ||ecoseven.net/img/banner/
 ||ecostiera.it^*/banner/
@@ -406,9 +398,7 @@
 ||forzapescara.tv/images/partite/a.jpg
 ||frasicelebri.it^*/amazonbuy.
 ||freemodding.it/varie/loghi-sidebar/
-||freemodding.it/varie/totalmodding.swf
 ||freenewsonline.it^*-300.jpg
-||freenewsonline.it^*/250x250.swf
 ||freenewsonline.it^*/banner/
 ||freeonline.org/img/banner/
 ||freetvonline.altervista.org/images/abbigliamentocalcio/
@@ -466,7 +456,6 @@
 ||giornalettismo.com^*/skin/
 ||gizchina.it^*/mrdeals-
 ||glpress.it/wordpress/sponsor/
-||gnoccatravels.com/column4/banner.swf
 ||gnoccatravels.com/themes/gt/design/img/rebtel.jpg
 ||gnoccatravels.com/uploads/bakeka.gif
 ||gnoccatravels.com^*/banner.gif
@@ -490,8 +479,6 @@
 ||gustissimo.it/stili/locali/300x120_
 ||h24notizie.com/wp-content/banners/
 ||hbritalia.it/images/*_300x300.jpg
-||hdblog.it^*/300_it.swf
-||hdblog.it^*/coolerm.swf
 ||hdblog.it^*/skin/
 ||hdblog.it^*/skin_
 ||healthdesk.it/userfiles/Banner
@@ -525,18 +512,14 @@
 ||ilcalcio.net/immagini/*900x100.
 ||ilcalcio.net/immagini/*_125x125_
 ||ilcalcio.net/immagini/120x240-
-||ilcalcio.net/immagini/casino-italia.swf
 ||ilcalcio.net/immagini/trucchetto-roulette.jpg
 ||ilcalciocatania.it/banners/
 ||ilcambiamento.it//sbanner/
 ||ilcambiamento.it/banner/
 ||ilcambiamento.it/sbanner/
 ||ilcorrieredabruzzo.it/file/banner/
-||ilcorrieredabruzzo.it/modules/mod_novarp/tmpl/pjmr.swf?
 ||ilcorrieredabruzzo.it/templates/ilcorrieredabruzzo/images/style2/bg1.jpg
 ||ilcorrierino.com/foto-banner/
-||ilcorsaronero.info/br_mc/
-||ilcorsaronero.info/js/nopopup.js
 ||ilcosentino.it^*/banners/
 ||ilcrotonese.it^*/promo_
 ||ilcrotonese.it^*_bg.jpg
@@ -557,12 +540,10 @@
 ||ilgazzettino.it/imgmol/
 ||ilghirlandaio.com/web/template/banners/
 ||ilgiornale.it/sites/all/themes/ilgiornaledefault/img/conto_corrente_070513.jpg
-||ilgiornale.it/static/file/non-giudicate.swf
 ||ilgiornale.it/static/widget_immobiliare/
 ||ilgiornale.it^*-300x250.
 ||ilgiornale.it^*/banner_
 ||ilgiornale.it^*/logo_lottomatica.jpg
-||ilgiornale.it^*/ova-jw.swf$object-subrequest
 ||ilgiornale.it^*/paddy_power.gif
 ||ilgiornale.it^*/paddy_power_sport.gif
 ||ilgiornale.it^*_125x125.jpg
@@ -625,7 +606,6 @@
 ||ilsole24ore.com^*/spot_include.shtml
 ||ilsole24ore.com^*_pubb.jpg
 ||iltaccoditalia.info/banner/
-||iltempo.it^*/enel.swf
 ||iltempo.it^*/unicusano.jpg
 ||ilvelino.it^*/banner/
 ||ilvolo.it/images/banners/
@@ -699,7 +679,6 @@
 ||lafedelta.it^*/banner/
 ||lafeltrinelli.it^*/Partner/
 ||lagazzettadelmezzogiorno.it/banner_pk/
-||lagazzettadelmezzogiorno.it/images/fc_bari_1908.swf
 ||lagazzettadilucca.it^*/inserzioni/
 ||lametino.it/images/banners/
 ||lamiaaria.it/oas/mjx.js
@@ -821,12 +800,10 @@
 ||mattinonline.ch^*/banner_
 ||maxleggeri.it^*/uni2.png
 ||maxleggeri.it^*/UNICUSANO_
-||mbenz.it/banner.swf
 ||mbenz.it/lidaolbia.jpg
 ||mbenz.it/tuttoautoricambi.gif
 ||mediagol.it/images/sponsor/
 ||mediakey.tv/uploads/tx_macinabanners/
-||mediavideo24.com/inc/ova.swf$object-subrequest
 ||mediaw.it^*/300x229_
 ||mediaw.it^*/banner
 ||mediaw.it^*/partnership/
@@ -851,9 +828,6 @@
 ||milanofinanza.it/img/speciali/
 ||milanofinanza.it^*/banner-
 ||milanofinanza.it^*/promo/
-||milanoweb.com/flash/imagerotator.swf
-||militariforum.it/forum/italy.swf
-||militariforum.it/forum/orologi-militari.swf
 ||mmorpgitalia.it/media/aion
 ||mmorpgitalia.it/von/
 ||mobi2b.it^*/downloadfilebanner.php?
@@ -928,7 +902,6 @@
 ||ondarock.it/skin/
 ||opinione.it/media/*60x150.
 ||opinione.it/media/*750x50.
-||orvietosi.it^*298x100.swf
 ||ostiatv.it/upl/banner
 ||oxfordparavia.it/img/babylon.gif
 ||p.italia-film.org^
@@ -995,12 +968,10 @@
 ||quellidellelica.com/images/banners/
 ||questotrentino.it/sponsor/
 ||quibrescia.it^*/wp-banners/
-||quiceditutto.it/flash/*.swf
 ||quicomo.it/qc-ad/
 ||quicomo.it/qc-assets/banner/
 ||quicosenza.it/images/banner_
 ||quicosenza.it/images/banners/
-||quotidiano.net/file_generali/flash/ova.swf$object-subrequest
 ||quotidianodigela.it/images/background/
 ||quotidianodigela.it^*/banners/
 ||quotidianodipuglia.it/box_tuttomercato032011/
@@ -1038,7 +1009,6 @@
 ||radioradio.it/images/libro300.png
 ||radioradio.it^*/banner_
 ||radioroma.fm/images/banners/
-||radioroma.fm/images/flash/zoomarine.swf
 ||radioromacapitale.it/images/banner-
 ||radioromacapitale.it/images/conf.jpg
 ||radiosienatv.it^*-300x250.
@@ -1067,7 +1037,6 @@
 ||repubblica.it/ad/
 ||repubblica.it/javascript/mjx.js
 ||repubblica.it^*/adagiorep.js
-||repubblica.it^*/negozi_accordion.swf?
 ||repubblica.it^*/neorep.js
 ||repubblica.it^*/sponsors.png
 ||repubblica.it^*_contentsense_
@@ -1084,7 +1053,6 @@
 ||rocknrollradio.it/images/banners/
 ||rollingstonemagazine.it^*/banner/
 ||romait.it/img/banners/
-||romanews.eu/upload/assets/files/*.swf?linkto=/php/redirect.php?
 ||romanews.eu^*-300x200.
 ||romatoday.it/images/skin/
 ||rosa-rossa.com^*/xbn/
@@ -1124,7 +1092,6 @@
 ||secondamano.it^*/footer_cobrand/
 ||sentenze.net/css/images/skin/
 ||sentieriselvaggi.it/public/banner/
-||serviziopubblico.it/media/images/banner/
 ||settecalcio.it/public/banners/
 ||sexyguidaitalia.com/images/899/
 ||ship2shore.it^*/colonna/
@@ -1287,7 +1254,6 @@
 ||trentotoday.it/images/skin/
 ||tribunasportiva.it/images/*350x200.jpg
 ||tribunasportiva.it/images/banners/
-||tribunasportiva.it/modules/mod_novarp/tmpl/pjmr.swf?
 ||triesteallnews.it/images/banners/
 ||troppoforte.net/banner300px/
 ||troppoforte.net/bannersopra/
@@ -1325,8 +1291,6 @@
 ||tuttogratis.it/imgbanner/
 ||tuttogratis.it/js/tgsense_
 ||tuttosport.com/dinamiche/serviziXml/bwin.jsp?
-||tuttosport.com/res/swf/ova-jw.swf$object-subrequest
-||tuttosport.com/res/swf/ova.swf$object-subrequest
 ||tuttosport.com^*/label_williamhill.png
 ||tuttosport.com^*/ts.ad.
 ||tuttotrasporti.it^*/banner/
@@ -1417,7 +1381,7 @@
 ||webmarketingforum.it/images/banners/
 ||weboggi.it/banners/
 ||webpartner.mrcrawler.it^
-||weebo.it/*.mp4$object-subrequest,domain=rtl.it
+||weebo.it/*.mp4$object,domain=rtl.it
 ||widget.blogosfere.it/assicurazione/
 ||wiitalia.it/230x90.php
 ||wikilao.com^*/banners/

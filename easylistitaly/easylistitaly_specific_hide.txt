@@ -60,7 +60,7 @@ libero.it###b468x60bottoms
 beverfood.com###backy
 lastampa.it###badge
 advertiser.it,asylumitalia.it,bitcity.it,car4you.it,fiorentinanews.com,formiche.net,forzapescara.net,grandefratellonews.com,mediakey.tv,meteo-emiliaromagna.it,my-personaltrainer.it,rvuno.it,superwheels.net,tendenzeonline.info,webpedia.altervista.org###banner
-radiozeta.it,serviziopubblico.it###banner-1
+radiozeta.it###banner-1
 radiozeta.it###banner-2
 gustissimo.it###banner-alto
 laroma24.it###banner-desktop-1
@@ -419,7 +419,6 @@ eurogamer.it###sidebar_amazon
 orizzontescuola.it###single-top-banner
 mister-x.it###siti_amici
 clandestinoweb.com,tesionline.it###skin
-serviziopubblico.it###skin-leaderboard
 radiomanamana.it###skin-left
 radiomanamana.it###skin-right
 cellulare-magazine.it,cellularemagazine.it###skin-top-container
@@ -979,7 +978,7 @@ bluerating.com##.large_home_adv
 quattroruote.it##.lastQDeals
 alessandrianews.it##.leader-board-225x90
 alessandrianews.it##.leader-board-728x90
-close-up.it,floptv.tv,foodweb.it,foxanimation.it,foxcomedy.it,foxcrime.it,foxlife.it,foxsports.it,foxtv.it,guidasicilia.it,la7.it,meteovista.it,mondofox.it,mtv.it,pneusnews.it,prealpina.it,radiospeaker.it,ridble.com,serviziopubblico.it,today.it##.leaderboard
+close-up.it,floptv.tv,foodweb.it,foxanimation.it,foxcomedy.it,foxcrime.it,foxlife.it,foxsports.it,foxtv.it,guidasicilia.it,la7.it,meteovista.it,mondofox.it,mtv.it,pneusnews.it,prealpina.it,radiospeaker.it,ridble.com,today.it##.leaderboard
 blastingnews.com##.leaderboard-article
 erbanotizie.com,lecconotizie.com##.leaderboard-bottom
 lacnews24.it##.left-side
@@ -1407,7 +1406,6 @@ globalist.it##div[style="margin: 5px 0;padding: 9px; border: 1px solid #ccc; zoo
 ultimissime.net##div[style="margin:auto; background-image:url('/images/stories/professionecasinO.jpg'); height: 153px; width: 287px"]
 fantagazzetta.com##div[style="max-width:300px;width:300px;min-height:250px;height:250px; height: auto !important"]
 motofan.it##div[style="min-height: 90px;overflow: visible;"]
-serviziopubblico.it##div[style="min-height:90px;"]
 rmcsport.net##div[style="overflow: hidden; width: 300px; height: 300px; margin-bottom:0.5em;"]
 agichina24.it##div[style="overflow: hidden; width: 459px; height: 27px;"]
 liguriawebcam.com##div[style="overflow:hidden;height:90px;margin:4px 0;"]
