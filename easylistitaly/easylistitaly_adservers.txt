@@ -1,6 +1,6 @@
 ||178.32.140.64^$third-party,domain=~pirchio.ip
 ||24network.it^$third-party
-||2mdn.net^$object-subrequest,third-party,domain=beppegrillo.it|calciomercato.com|corriereadriatico.it|corrieredellosport.it|forbiciate.com|foxsports.it|ilgazzettino.it|ilmattino.it|ilmessaggero.it|ilmeteo.it|italiaoggi.it|lapresse.it|lastampa.it|leggo.it|leonardo.it|mediapason.it|mffashion.com|milanofinanza.it|pianetadonna.it|quotidianodipuglia.it|tiscali.it|tripadvisor.it|tuttomercatoweb.com|violachannel.tv|vvvvid.it|youreporter.it|youreporternews.it
+||2mdn.net^$object,third-party,domain=beppegrillo.it|calciomercato.com|corriereadriatico.it|corrieredellosport.it|forbiciate.com|foxsports.it|ilgazzettino.it|ilmattino.it|ilmessaggero.it|ilmeteo.it|italiaoggi.it|lapresse.it|lastampa.it|leggo.it|leonardo.it|mediapason.it|mffashion.com|milanofinanza.it|pianetadonna.it|quotidianodipuglia.it|tiscali.it|tripadvisor.it|tuttomercatoweb.com|violachannel.tv|vvvvid.it|youreporter.it|youreporternews.it
 ||4strokemedia.com^$third-party
 ||ad4mat.it^$third-party
 ||adagionet.com^$third-party
@@ -44,8 +44,8 @@
 ||digitalbees.it^$third-party
 ||divascam.com^$third-party
 ||doubleclick.net/adx/liberotv.$third-party
-||doubleclick.net^$object-subrequest,third-party,domain=adnkronos.com|ansa.it|corrieredellosport.it|digital.it|fanpage.it|gamesnation.it|giallozafferano.it|lastampa.it|mtv.it|nicktv.it|pmi.it|rtl.it|tiscali.it|tuttosport.com|webnews.it
-||doubleclick.net^*;sz=$object-subrequest,third-party,domain=ilmeteo.it|unita.it
+||doubleclick.net^$object,third-party,domain=adnkronos.com|ansa.it|corrieredellosport.it|digital.it|fanpage.it|gamesnation.it|giallozafferano.it|lastampa.it|mtv.it|nicktv.it|pmi.it|rtl.it|tiscali.it|tuttosport.com|webnews.it
+||doubleclick.net^*;sz=$object,third-party,domain=ilmeteo.it|unita.it
 ||eadv.it^$third-party
 ||easymarketcrs.it^$third-party
 ||ebuzzing.it^$third-party
