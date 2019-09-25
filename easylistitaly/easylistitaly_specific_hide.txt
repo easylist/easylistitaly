@@ -1181,6 +1181,7 @@ ilpost.it##.tag-sponsored
 genova24.it,ivg.it##.takeover
 notizialocale.it##.td-a-rec-id-header
 ilprimatonazionale.it,obiettivonews.it##.td-banner-bg
+ilgiornaledeltermoidraulico.it##.td-footer-wrapper
 ilcorriere.net,laspia.it##.td-header-sp-recs
 gdoweek.it##.td-leaderboard-wrap-full
 panorama.it##.teaser-immobiliare
