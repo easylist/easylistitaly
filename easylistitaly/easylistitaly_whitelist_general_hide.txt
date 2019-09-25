@@ -28,3 +28,4 @@ latinomagazine.it#@#.moduletable-advert
 camperonline.it,italiasw.com#@#.pubblicita
 meteo.it#@#.section-sponsor
 brocardi.it#@#.with-background-ads
+festivalnervi.it#@#a[href^="https://track.adform.net/"]
