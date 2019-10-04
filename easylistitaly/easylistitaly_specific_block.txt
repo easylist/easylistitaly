@@ -239,6 +239,7 @@
 ||comingsoon.it/img/compra-su-amazon.png
 ||comingsoon.it/imgdb/banner/
 ||comprovendolibri.it/sponsor/
+||comuniecitta.it^*/amazon
 ||concertionline.com^*-1000x30.gif
 ||concertionline.com^*/300x1501.gif
 ||condominioitalia.biz^*/banner/
