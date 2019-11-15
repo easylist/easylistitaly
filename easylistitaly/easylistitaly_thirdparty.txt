@@ -155,7 +155,6 @@
 ||plug.it//banners/
 ||plug.it/banners/
 ||plug.it/oas/
-||plug.it/sg/boxis_2010/
 ||pokerstars.it/it/ad/
 ||pop.virgilio.us^
 ||popspace.virgilio.us^
@@ -167,7 +166,6 @@
 ||promozioneprezzo.it/gallery/$third-party
 ||pronostitalia.com/banner/
 ||pronostitalia.com/images/giocaconwilliamhill.png
-||puntostampa.altervista.org^$subdocument,third-party
 ||r.kelkoo.com^$domain=quotidiano.net
 ||rdn.it/images/BANNER/
 ||regaliper.me^$subdocument,third-party
@@ -194,7 +192,6 @@
 ||slotmachinesgratisonline.com/image/$third-party
 ||smartclip.net^$~object,third-party
 ||smscellulari.it/pic/banner/$third-party
-||solonapoli88.altervista.org/ban$subdocument
 ||sostariffe.it/sosWidget3/$third-party
 ||spazioautomobile.it^$third-party
 ||spingitori.it/spnadv/
@@ -212,7 +209,6 @@
 ||tccstatic.com/template/*/img/_sfondo.jpg
 ||tccstatic.com^*/985x20_
 ||tccstatic.com^*/banner/
-||tinypic.com^$domain=f1analisitecnica.com|ilsitodifirenze.it
 ||tipster.it^$subdocument,third-party
 ||tomshw.corley.it^
 ||tophost.it/banners/
@@ -221,7 +217,6 @@
 ||tstore.it/banner.
 ||tuoporno.com/images/banner/
 ||tuttogratis.it/hl_mfa/DXLARGE_v7num.php?
-||unibr.altervista.org/pub.html
 ||universosmartphone.it^$third-party
 ||upcom.it^*/banner/
 ||uplink.aruba.it^$third-party
@@ -231,8 +226,6 @@
 ||virginpoker.it/pub/
 ||vistosulweb.com/almanacco/
 ||vitaquotidiana.com^$third-party
-||webalice.it/blackberry_09/trovadeal/
-||webalice.it/ivo.gervasoni/$third-party
 ||webself.it/banners/
 ||websooncms.com^*/Banner/$domain=radiozeta.it
 ||webster.it^*/affiliati/
@@ -245,4 +238,3 @@
 ||yoox.it/view.aspx?$subdocument,third-party
 ||yoppinho.com/public/scambio_banner/
 ||youbuy.it/banner/
-||zxadhosting.it^

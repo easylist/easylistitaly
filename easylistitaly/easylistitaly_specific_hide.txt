@@ -9,7 +9,6 @@ staffettaonline.com###BnrSolidarieta
 fantacalcioservice.it###Box300x250
 novara.com###BoxBlock_8
 tio.ch###BoxTioGame
-tgcom24.mediaset.it###ContentSpecialBox
 comingsoon.it###ExpTop
 sardegna24.net###Hbanner300x250c20
 eunews.it###HeaderBanner
@@ -54,12 +53,11 @@ fastweb.it,jacktech.it###assicu_box_ricerca
 autoxy.it,motousate.it###assicu_widget_300x80
 altarimini.it###attivitaEvidenza
 eurogamer.it###auto-amazon-link
-sportmediaset.it###b300xn
 libero.it###b468x60bottoms
 242movietv.com###back_inside
 beverfood.com###backy
 lastampa.it###badge
-advertiser.it,asylumitalia.it,bitcity.it,car4you.it,fiorentinanews.com,formiche.net,forzapescara.net,grandefratellonews.com,mediakey.tv,meteo-emiliaromagna.it,my-personaltrainer.it,rvuno.it,superwheels.net,tendenzeonline.info,webpedia.altervista.org###banner
+advertiser.it,asylumitalia.it,bitcity.it,car4you.it,fiorentinanews.com,formiche.net,forzapescara.net,grandefratellonews.com,mediakey.tv,meteo-emiliaromagna.it,my-personaltrainer.it,rvuno.it,superwheels.net,tendenzeonline.info###banner
 radiozeta.it###banner-1
 radiozeta.it###banner-2
 gustissimo.it###banner-alto
@@ -77,7 +75,6 @@ canavesenews.it###banner-top-container
 comingsoon.it,corrieredelgiorno.com###banner1
 comingsoon.it,forzapescara.net###banner2
 comingsoon.it###banner3
-gayburg.blogspot.it###banner300
 telefonino.net###banner300x100Pos2
 telefonino.net###banner300x100Pos3
 telefonino.net###banner300x100Pos4
@@ -113,20 +110,14 @@ spaziogames.it###banner_300
 cronachemaceratesi.it,ondarock.it###banner_300x250
 ilsannioquotidiano.it###banner_468_60
 lastampa.it###banner_VideoBox
-agonchannel.it###banner_agon_palinsesto
-agonchannel.it###banner_agon_seconda_fascia
-agonchannel.it###banner_agon_sidebar_bottom
-agonchannel.it###banner_agon_sidebar_top
 sportal.it###banner_alto_dx
 sportal.it###banner_alto_sx
 corrierediragusa.it###banner_bg_flash
 primaonline.it###banner_bottom
 si24.it###banner_branciforte
 contosulconto.it###banner_content
-agonchannel.it###banner_fascia_top
 gruppoesperti.it###banner_footer
 lnd.it###banner_hack
-tuttobasket.net###banner_head
 gruppoesperti.it,laprovinciadicomo.it###banner_header
 palermomania.it###banner_header2
 ilroma.net,subito.it,tuttosport.com###banner_leaderboard
@@ -379,7 +370,6 @@ ok-salute.it###ppn_center
 ilgiornale.it###primopiano
 ciao.it###productlevellink
 mtv.it###promoInfo
-sportmediaset.it###promobox
 loudvision.it###prop-leader
 flashgames.it###pub_sotto
 centrometeoitaliano.it###pubb_home
@@ -527,7 +517,6 @@ automoto.it,moto.it###topboard
 everyeye.it,mmorpgitalia.it###topskin_clicktag
 ilsecoloxix.it###toursoft-cn
 corriere.it,gazzetta.it###tv-adv
-canali16.altervista.org###up
 megabass.it###var_width[style="width: 180px !important;"]
 tipiace.it###vetrina
 arezzoweb.it###vetrina_premium
@@ -851,7 +840,6 @@ subito.it##.box_sponsor
 livescore.it##.box_top_books
 ecodibergamo.it##.boxbanner-footer
 pneusnews.it##.boxes
-tgcom24.mediaset.it##.boxspeciale
 starbene.it##.brand_logo_hp
 forexinfo.it##.broker-tabella_container_aside
 wiitalia.it##.bsmall
@@ -969,7 +957,6 @@ tiscali.it##.istella-shopping
 motousate.it##.item.link
 hdblog.it##.item_compra
 mtv.it##.itunes
-rtl.it##.itunes-btn
 lifegate.it##.itunesButton
 jacktech.it##.jk_banner
 vivastreet.it##.kiwii-box-300x250
@@ -1043,8 +1030,6 @@ lastampa.it##.pane-views-partner-block-1
 puntocellulare.it##.panel-offers
 ilmionuovonumero.it,ragusanews.com##.partner
 mediaworld.it##.partnership
-asca.it##.personalized_background
-rai.tv##.placeholder300x250
 seriehd.video##.player
 radio.it##.playlist-teaser-buttons
 gazzetta.it##.poker
@@ -1133,7 +1118,7 @@ agrifoodtoday.it,agrigentonotizie.it,anconatoday.it,avellinotoday.it,baritoday.i
 soldionline.it##.sm_widget_contenitore
 corriere.ca##.small_banner
 gazzettinodelchianti.it##.small_link
-finanzaonline.com,tgcom24.mediaset.it##.spaceBanner
+finanzaonline.com##.spaceBanner
 pmi.it##.special-widget
 ciao.it##.specialOfferMod
 quimamme.it##.specials
@@ -1264,7 +1249,6 @@ djmagitalia.com##[href^="http://www.djpoint.net/"]
 windowsblogitalia.com##[id^="bsa"]
 gazzettinodelchianti.it##a[class*="bannerpos"]
 gizchina.it##a[href*="&utm_campaign="]
-tgcom24.mediaset.it##a[href*=".ad.dotandad.com/clicktracker.jsp?"]
 voglioporno.com##a[href*=".com/track/"]
 altadefinizione.wiki,fantascientificast.it,guardaserie.net,hwupgrade.it,italia-film.pro,rivistanatura.com##a[href*="//bit.ly/"]
 altadefinizione01.click,altadefinizione01.club,casa-cinema.org,cb01.co,cb01.love,cb01.news,cb01.online,cb01.space,cb01.zone,cineblog01.tools,cinemagratis.info,cinemahd.space,filmsenzalimiti.co,filmstreamingita.live,guardarefilm.red,piratestreaming.space,robinfilms.me,speedvideo.net##a[href*="/4k/"]
@@ -1513,9 +1497,6 @@ articolotre.com##div[style="width:320px;overflow:none;padding:0;margin:0;"]
 articolotre.com##div[style="width:320px;overflow:none;padding:0;margin:20px 0px 0px 0px;"]
 beppegrillo.it,corrieredellacalabria.it##div[style="width:336px; height:280px;"]
 newspedia.it##div[style="width:336px;height:280px;background-color:#E6E1E2;"]
-pornoitalico.com##div[style="width:340px; height:307px; _height:435px; text-align:center; float:right; margin-bottom:96px; background-color:#FCFAFA; border: 1px solid #BCBCBC;; padding-left:10px; padding-right:10px; padding-top:30px; padding-bottom:30px; padding-top:80px; margin-right: 10px; border-radius: 0px;"]
-maxitubo.com,pornovideoitaliano.com,solopornoitaliano.com##div[style="width:340px; height:307px; text-align:center; float:right; margin-bottom:96px; background-color:#FCFAFA; border: 1px solid #BCBCBC;; padding-left:10px; padding-right:10px; padding-top:30px; padding-bottom:30px; padding-top:80px; margin-right: 10px; border-radius: 5px;"]
-pornovideoitaliano.com,solopornoitaliano.com##div[style="width:340px; height:480px; text-align:center; float:right; margin-top:51px;margin-bottom: 50px; margin-left: 5px; background-color:#FCFAFA; border: 1px solid #BCBCBC;; padding-left:10px; padding-right:10px; padding-top:30px; padding-bottom:100px; margin-right: 10px; border-radius: 5px;"]
 wmia.it##div[style="width:350px; height:300px; float:left"]
 radiotime.it##div[style="width:360px; margin-top:10px; margin-bottom:5px;"]
 legnanonews.com##div[style="width:370px; height:320px; margin-bottom: 10px; position:relative"]
@@ -1528,7 +1509,6 @@ asroma24.com,ilmilanista.it,interistaweb.it##div[style="width:480px; height:72px
 allaguida.it##div[style="width:600px; height:300px;"]
 igossip.it##div[style="width:600px; height:360px;float:left;"]
 livesicilia.it##div[style="width:600px;height:90px;border:1px solid #aaa;clear:both;margin: 10px auto;"]
-asca.it##div[style="width:659px; height:60px; float:left; margin-top:10px;margin-bottom:5px;"]
 salernonotizie.it##div[style="width:660px; height:90px; display:block;"]
 fantagazzetta.com##div[style="width:663px;height:275px;float:left;margin:5px 0"]
 beppegrillo.it##div[style="width:728px; height:45px;"]
@@ -1541,7 +1521,6 @@ ilcrotonese.it##div[style="width:728px; height:90px;overflow: hidden;"]
 ilcrotonese.it##div[style="width:728px; height:90px;overflow: hidden;display:block;"]
 onstageweb.com##div[style="width:728px; margin:auto;height:90px; border:1px solid #ccc; margin-bottom:10px; margin-top:-10px;"]
 3bmeteo.com##div[style="width:728px;height:90px; margin: 0 auto;"]
-webpedia.altervista.org##div[style="width:728px;height:90px;margin:6px auto;background:#eee"]
 gta-expert.it##div[style="width:732px; height:105px"]
 radio103.it,radiostereo103.it##div[style="width:750px; height:112px; margin:20px auto 20px auto; background: url(images/back_banner_home.png);"]
 radiotime.it##div[style="width:940px; height: 105px; margin-top:10px; margin-bottom:0px;"]
@@ -1650,14 +1629,10 @@ algheroeco.com##object[width="960"][height="30"]
 azpoint.net##table[cellspacing="2"][cellpadding="1"][border="0"][align="center"][width="90%"]
 cronacaqui.it##table[height="112"][width="998"]
 bikeracing.it##table[height="180"][width="100%"]
-informatisubito.myblog.it##table[height="600"][width="120"]
 bloopers.it##table[name="banner.tbl"]
-stadionews.it##table[style="margin-top:3px; width:680px; height:60px;"]
 puntosicuro.it##table[style="width: 468px; height: 60px; border: 1px solid #77BBFF; margin-left: auto; margin-right: auto;"]
-stadionews.it##table[width="1000px"][height="90px"]
 cheauto.it##table[width="208"][height="148"][style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size:11px; background-image: url(imgmol/background_300_form3campi.gif); border: 1px solid #ffffff;"]
 guidaviaggi.it##table[width="215"][height="240"]
-acquaportal.it##table[width="284px"][style="border:1px solid #A5C9ED"]
 elaborare.com##table[width="300"]
 tio.ch##table[width="302"][style="border:1px solid #A7A9AC;border-top:none;"]
 film-stream.org##table[width="503"][height="202"]

@@ -1,10 +1,9 @@
-@@||ad2.neodatagroup.com/uploads/js/sid49jq.js$domain=rai.it|rai.tv|rainews.it
+@@||ad2.neodatagroup.com/uploads/js/sid49jq.js$domain=rai.it|rainews.it
 @@||adnkronos.com/ign/mediacenter/fotogallery/data_01/img/ad_
 @@||adser.localport.it/ads/logo-localport-it/logo.gif
 @@||adser.localport.it/banman.asp?zoneid=71$subdocument
 @@||adserver.adtech.de/addyn/3.0/1183/3769607/0/170/ADTECH;$script,domain=gioco.it
 @@||adultsadv.com/etero/random730_90.php$domain=mrjizz.com|pornotubo.it
-@@||adv.rtl.it/www/delivery/fc.php?*&zones=pre-roll$object
 @@||alessandriaoggi.info/images/banners/ALESSANDRIA-OGGI-testata.png
 @@||ansa.it^*/ad-gallery/$image
 @@||antonioranesi.it/cache/Lavori/Pubblicita/$~third-party
@@ -45,7 +44,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=agi.it|auto.it|corrieredellosport.it|guerinsportivo.it|inmoto.it|liveksoft.tv|movieplayer.it|multiplayer.it|radiofreccia.it|radiozeta.it|tuttosport.com|video.repubblica.it|vvvvid.it
 @@||impit.tradedoubler.com/imp?$subdocument,domain=iphoneitalia.com
 @@||js.neodatagroup.com/uploads/js/rds.js$domain=rds.it
-@@||js49.adagionet.com/uploads/js/sipra.js$domain=rai.it|rai.tv|rainews.it
+@@||js49.adagionet.com/uploads/js/sipra.js$domain=rai.it|rainews.it
 @@||labs.ebuzzing.it/blogs/top/getrank?$image
 @@||labs.ebuzzing.it/shared/images/wikiothis/buttons/
 @@||laprovinciadibiella.it/upload/webpublic/facebook.jpg
@@ -58,16 +57,13 @@
 @@||mediamond.it/MediamondAds.js$domain=grazia.it|panorama.it|radioitalia.it
 @@||mediamond.it/MediamondAdsAsync.js$domain=video.mediaset.it
 @@||misterdomain.eu/affiliation/$~third-party
-@@||mymovies.it/live/myads/preroll/$object
 @@||net-static.tccstatic.com/template/fcinter1908.it/img/banner/logod.gif
 @@||oasjs.kataweb.it/adsetup.$domain=video.huffingtonpost.it|video.repubblica.it
 @@||online-retail.unicredit.it/adv/$~third-party
-@@||pad.mymovies.it/v9/adv/media/preroll/*.flv$object
 @@||paesesera.it/design/paesesera/stylesheets/advertising.css
 @@||panorama.it/adv/$image
 @@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=sky.it
 @@||portalecomuni.net^*/ShowBanner.aspx$image
-@@||primocanale.it/ads/*.flv$object
 @@||pubblicitaitalia.it/media/*/logo_pubblicita_italia.gif
 @@||repubblica.it/adimages/
 @@||servizi-media-js.tiscali.it/cp/javascript/default/it/main/revsci.js$domain=mail.tiscali.it
@@ -77,8 +73,6 @@
 @@||stats.betradar.com^subdocument,domain=sisal.it
 @@||terradidelizie.s3.amazonaws.com/banners/$image,domain=terradidelizie.it
 @@||ubibanca.com^*/ubi-adbanner.js
-@@||video1.italiaoggi.it/movie/movie/adserver_$object
-@@||video1.milanofinanza.it/movie/movie/adserver_$object
 @@||videosynd.kataweb.it/advertising/$xmlhttprequest,domain=videosynd.kataweb.it
 @@||virgilio.it^*?advTile=$subdocument,domain=mailweb.virgilio.it
 @@||vobis.it/ZeusInc/AdFarm/Image/$image,~third-party
