@@ -393,8 +393,6 @@
 ||gay.it/me2/
 ||gay.it/metwo/
 ||gayclubbing.it/banner%20
-||gazzetta.it^*/adv/
-||gazzetta.it^*/includemanager/pub/
 ||gazzettabenevento.it/Sito2009/image/banner/
 ||gazzettadiavellino.it^*/clickwall.
 ||gazzettadicaserta.net/banner/
@@ -405,12 +403,6 @@
 ||gazzettadisondrio.it/images/banner/
 ||gazzettamatin.com/admin/banner_
 ||gazzettamatin.com/admin/img_banner/
-||gazzettaobjects.it/includes2013/External-Content/box_netflix.shtml
-||gazzettaobjects.it/static_images/promo/
-||gazzettaobjects.it^*/adv/
-||gazzettaobjects.it^*/bt-sportPesa.
-||gazzettaobjects.it^*/sponsor/
-||gazzettaobjects.it^*/sportPesa.
 ||gazzettinodelchianti.it/files/immagini-banner/
 ||gds.it/fileadmin/banner/
 ||gds.it^*-300x251-
@@ -564,10 +556,6 @@
 ||ilsalvagente.it/imgmol/
 ||ilsalvagente.it/immagini/banner120x60-
 ||ilsannioquotidiano.it/images/banners/
-||ilsecoloxix.it^*skin.jpg
-||ilsole24ore.com^*-sponsor-
-||ilsole24ore.com^*/spot_include.shtml
-||ilsole24ore.com^*_pubb.jpg
 ||iltaccoditalia.info/banner/
 ||iltempo.it^*/unicusano.jpg
 ||ilvelino.it^*/banner/
@@ -667,12 +655,6 @@
 ||lascommessasportiva.it^*/banners/
 ||lasiciliastore.it/banner/
 ||lasignoraingiallorosso.it^*/banners/
-||lastampa.it/common/_banner/
-||lastampa.it/files/imagecache/partner/
-||lastampa.it/files/prova_an_6.gif
-||lastampa.it^*/banner/
-||lastampa.it^*/banner_
-||lastampa.it^*/naturhouse/
 ||lastampadelmezzogiorno.it/images/stories/banner/
 ||latina-oggi.it/public/img/banner-
 ||latina-oggi.it/public/img/bannerino-
@@ -779,7 +761,6 @@
 ||meteoweb.eu/bannerMW/
 ||metronews.it^*/banner_
 ||metropolisweb.it/public/banner/
-||milaninterradio.tv/images/180x150.gif
 ||milanodabere.it/images/archivio/2000x1000/
 ||milanofinanza.it/img/adv_
 ||milanofinanza.it/img/capgemini_
