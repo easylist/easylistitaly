@@ -59,6 +59,7 @@
 @@||misterdomain.eu/affiliation/$~third-party
 @@||net-static.tccstatic.com/template/fcinter1908.it/img/banner/logod.gif
 @@||oasjs.kataweb.it/adsetup.$domain=video.huffingtonpost.it|video.repubblica.it
+@@||oasjs.kataweb.it/cookielex/kwdnt.js$domain=video.repubblica.it
 @@||online-retail.unicredit.it/adv/$~third-party
 @@||paesesera.it/design/paesesera/stylesheets/advertising.css
 @@||panorama.it/adv/$image
