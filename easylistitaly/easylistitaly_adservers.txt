@@ -46,6 +46,7 @@
 ||easymarketcrs.it^$third-party
 ||ebuzzing.it^$third-party
 ||edinetadv.com^$third-party
+||epeex.io^$third-party
 ||erosadv.com^$third-party
 ||evolutionadv.it^$third-party
 ||exmarketplace.com^$third-party
@@ -59,11 +60,13 @@
 ||leonardoadv.it^$third-party
 ||linkto.org^$third-party
 ||livepartners.it^$third-party
+||lopfly.com^$third-party
 ||maxiadv.com^$third-party
 ||mediamond.it^$third-party
 ||mondoecommerce.it^$third-party
 ||mperience.net^$third-party
 ||mycookies.it^$third-party
+||nativery.com^$third-party
 ||netfilia.com^$third-party
 ||newclick.com^$third-party
 ||nextadv.eu^$third-party
