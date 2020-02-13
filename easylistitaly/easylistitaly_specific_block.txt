@@ -421,9 +421,8 @@
 ||giornalettismo.com^*/skin/
 ||gizchina.it^*/mrdeals-
 ||glpress.it/wordpress/sponsor/
-||gnoccatravels.com/themes/gt/design/img/rebtel.jpg
-||gnoccatravels.com/uploads/bakeka.gif
-||gnoccatravels.com^*/banner.gif
+||gnoccatravels.com/files/banner
+||gnoccatravels.com/files/pbblct
 ||gocity.it/library/banner/
 ||goldwebtv.it/userfiles/file/banners/
 ||gonews.it/banner/
