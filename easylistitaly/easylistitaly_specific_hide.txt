@@ -923,6 +923,7 @@ mtv.it##.itunes
 lifegate.it##.itunesButton
 jacktech.it##.jk_banner
 vivastreet.it##.kiwii-box-300x250
+lafedelta.it##.lafed-ads
 bluerating.com##.large_home_adv
 quattroruote.it##.lastQDeals
 alessandrianews.it##.leader-board-225x90
