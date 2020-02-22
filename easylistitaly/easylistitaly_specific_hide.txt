@@ -593,6 +593,7 @@ internimagazine.it,pharmastar.it,tiburno.tv##.advertisement
 fastweb.it,ilgazzettinovesuviano.com,lettera43.it,tpi.it##.advertising
 loggiap2.com,sienafree.it##.advs
 quotidianodigela.it##.advs-title
+agi.it##.agi-ad-wrap
 filodiritto.com##.altro_box_banner_dx
 filodiritto.com##.altro_box_banner_sx
 gamemag.it,videogame.it##.amazon
