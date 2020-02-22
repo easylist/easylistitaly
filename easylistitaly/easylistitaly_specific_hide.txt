@@ -799,6 +799,7 @@ hdblog.it##.box_grampa_shadow
 calcioblog.it##.box_highlight
 omniauto.it##.box_listinousato
 techzilla.it##.box_offerte_ajax
+cuneodice.it,genovadice.it,italiadice.it,torinodice.it##.box_oikia
 gazzettadiparma.it##.box_preview_column_promo_article
 35mm.it##.box_rightcol_banner1
 35mm.it##.box_rightcol_banner2
@@ -851,6 +852,7 @@ blastingnews.com##.dfp-mobile-leadeboard
 ansa.it##.diretta-sponsor
 quotidiano.net##.discount-block
 lavoratorio.it##.divBoxbanner300x250
+cuneodice.it,genovadice.it,italiadice.it,torinodice.it##.div_banner
 ridble.com##.dn
 donnamoderna.com##.donnam-sidebar-adv
 ilmeteo.net##.eHotel

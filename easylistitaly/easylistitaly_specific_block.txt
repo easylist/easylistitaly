@@ -261,6 +261,7 @@
 ||cronachedellacampania.it^*-300x250.
 ||cuneocronaca.it/img/banner/
 ||cuneocronaca.it/js/clickBanner.js
+||cuneodice.it/images/xoikia.jpg
 ||dagospia.com/_include/banner/
 ||dailyonline.it^*/banner-
 ||dasolo.co/easy.gif
@@ -408,6 +409,7 @@
 ||gds.it^*-300x251-
 ||gdsannunci.it/images/bannerpub/
 ||geekissimo.com/images/5sms.gif
+||genovadice.it/images/oikia.jpg
 ||ggpht.com^*/asus_pc_lffl.jpg$domain=lffl.org
 ||ggpht.com^*/prezzoverde.jpg$domain=lffl.org
 ||giallozafferano.it/images/banner/
@@ -597,6 +599,7 @@
 ||italia-film.pro/player/
 ||italia-news.it/box_ricerca/
 ||italia-news.it/media/banners/
+||italiadice.it/images/xoikia.jpg
 ||italiafilm.tv/italiafilm.png
 ||italiafilm.tv/v2.gif
 ||italiafilm01.com^*_watchonline_
@@ -1161,6 +1164,7 @@
 ||topnegozi.it^*/banner/
 ||topolino.it^*/banners/
 ||toptrade.it^*/downloadfilebanner.php?
+||torinodice.it/images/xoikia.jpg
 ||torinoerotica.com/banner/
 ||torinoggi.it^*/150x60_
 ||torinotoday.it/images/skin/
