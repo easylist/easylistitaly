@@ -59,6 +59,7 @@ advertiser.it,asylumitalia.it,bitcity.it,car4you.it,fiorentinanews.com,formiche.
 radiozeta.it###banner-1
 radiozeta.it###banner-2
 gustissimo.it###banner-alto
+bresciaoggi.it,ilgiornaledivicenza.it,larena.it###banner-autodoc
 laroma24.it###banner-desktop-1
 laroma24.it###banner-desktop-2
 laroma24.it###banner-desktop-4
