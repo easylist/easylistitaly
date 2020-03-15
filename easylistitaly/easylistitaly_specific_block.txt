@@ -669,7 +669,8 @@
 ||latitudeslife.com^*/banners/
 ||lausc.it/images/banners/
 ||laverita.info^*_Banner_
-||lavocedeltrentino.it/images/banners/
+||lavocedeltrentino.it^*/banners/
+||lavocedeltrentino.it^*600x600
 ||lavocedinewyork.com^*/52DBA386-71AE-11.jpg
 ||lavocedinewyork.com^*/5303FE28-71AE-11.jpg
 ||lavocedivenezia.it/player/banner/
