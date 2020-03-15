@@ -306,6 +306,7 @@ megalab.it###left_skyscraper
 funweek.it###libero_col_dx
 cronachemaceratesi.it###ligatus_cronachemaceratesi_cronachemaceratesi_smartbox
 telesud3.com###linkamici
+business.it###logoYobee
 asroma.it###logos
 eurogamer.it###low-leaderboard
 salernonotizie.it###machette_left

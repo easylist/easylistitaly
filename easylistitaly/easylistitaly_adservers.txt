@@ -100,6 +100,7 @@
 ||seolabadv.it^$third-party
 ||simpleview.it^$third-party
 ||softwareplanet.net^$third-party
+||soluzionibio.it^$third-party
 ||spicciolo.com^$third-party
 ||sunaffiliation.com^$third-party
 ||superbanner.org^$third-party
