@@ -1136,6 +1136,7 @@ gazzettadasti.it##.top-left-ban
 gazzettadasti.it##.top-right-ban
 positanonews.it##.top-testata
 sinonimi-contrari.it##.topAd
+hwreload.it##.top_banner
 bluerating.com##.top_funders
 mrstiff.it##.topad
 mesagne.me,neveitalia.it,terzobinario.it##.topbanner
