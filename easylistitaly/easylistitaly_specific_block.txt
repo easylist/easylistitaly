@@ -1014,6 +1014,7 @@
 ||sanremonews.it^*/banner/
 ||sanremonews.it^*/box/
 ||sardegnareporter.it/themes/img/banner/
+||sassarinotizie.com^*-banner125x125.gif
 ||sassiland.com/public/sponsor/
 ||sassuolo2000.it/bnrs/
 ||sassuolocalcio.it/imgs/grafiche/sponsor/
