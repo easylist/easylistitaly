@@ -876,6 +876,7 @@ mediaworld.it##.external-right-sidebar
 leccesette.it##.featured_banner
 masterviaggi.it##.fieldset_sponsor
 quattroruote.it##.financialbox
+luinonotizie.it##.fixed-sponsor
 livesicilia.it##.flash-box-a-sponsor-2
 netweek.it##.flexslider-header
 cazzofiga.com##.footer-banner-wrapper
@@ -1084,6 +1085,7 @@ pmi.it##.special-widget
 ciao.it##.specialOfferMod
 quimamme.it##.specials
 europages.it,gds.it,ilgiornale.it,ilmonferrato.it,lifegate.it,portaportese.it,pubblicitaitalia.it,repubblica.it,stickmangames.altervista.org,violanews.com##.sponsor
+luinonotizie.it##.sponsor-background-big
 fcparma.com##.sponsor-group
 ansa.it##.sponsor-menu
 milanofinanza.it##.sponsor-red
@@ -1115,6 +1117,7 @@ obiettivonews.it##.su-slider
 tomshw.it##.supercute-frenchies
 wired.it##.supported
 mbnews.it##.swiper-container
+luinonotizie.it##.swiper-wrapper
 livescore.it##.table-odds
 ciao.it##.tableSponsLinks
 ilpost.it##.tag-sponsored
