@@ -279,7 +279,7 @@ radiospeaker.it###home-banner
 transfermarkt.it###home-rectangle-spotlight
 affaritaliani.it###immo-300x250
 ladige.it,panorama.it###immob_box_ricerca
-cronachemaceratesi.it###infooter
+cronacheancona.it,cronachemaceratesi.it###infooter
 r101.it###innamorarsiA101
 sportstadio.it###iol-partners
 quifinanza.it###iol_dfp_local
@@ -410,7 +410,7 @@ dragonballgt.it###skinClick
 omnifurgone.it,omnimoto.it###skin_link
 iovivoaroma.org###skin_link_dx
 iovivoaroma.org###skin_link_sx
-cronachemaceratesi.it###skinabove
+cronacheancona.it,cronachemaceratesi.it###skinabove
 rockit.it###skinbanner
 bikechannel.it,casertaweb.com,catanzaroinforma.it,filmtv.it,gazzettadiavellino.it,gazzettadinapoli.it,gazzettadisalerno.it,ilcorrieredabruzzo.it,lazionews24.com,lospiffero.com,salernonotizie.it###skinlink
 ebay.it###skyscrape
@@ -633,7 +633,7 @@ lavorincasa.it##.bak
 milanofinanza.it,oggitreviso.it##.ban
 lacnews24.it##.ban_1000x45
 lacnews24.it##.ban_300x250
-advertiser.it,agi.it,agichina24.it,airdave.it,alessandrianews.it,america24.com,casateonline.it,chiamarsibomber.com,corrieredelgiorno.com,corrieremercantile.it,cronachemaceratesi.it,cuneocronaca.it,dagospia.com,diretta.it,euroregionalpmed.eu,finanzaonline.com,foodweb.it,gazzettadiavellino.it,gazzettadinapoli.it,gazzettadisalerno.it,gazzettahockey.it,giochidicalcio.com,globalist.it,gossip.it,greenstyle.it,html.it,ilcambiamento.it,ilfriuli.it,ilgarantista.it,ilgiornale.it,insegreto.it,ivid.it,lindro.it,lipari.biz,macitynet.it,merateonline.it,meteoweb.eu,oggitreviso.it,orangedropdesign.com,orizzontescuola.it,orvietosi.it,pmi.it,programmitv.com,projectcars.it,pubblicitaitalia.it,quattroruote.it,quibrianza.it,quotidianocanavese.it,r101.it,rcdc.it,rockit.it,sassarinotizie.com,secoloditalia.it,softonic.it,strettoweb.com,teatronaturale.it,telejato.it,telenord.it,tenews.it,tg24.info,ticinolibero.ch,traniviva.it,ultimouomo.com,varesenews.it,vocenuova.tv##.banner
+advertiser.it,agi.it,agichina24.it,airdave.it,alessandrianews.it,america24.com,casateonline.it,chiamarsibomber.com,corrieredelgiorno.com,corrieremercantile.it,cronacheancona.it,cronachemaceratesi.it,cuneocronaca.it,dagospia.com,diretta.it,euroregionalpmed.eu,finanzaonline.com,foodweb.it,gazzettadiavellino.it,gazzettadinapoli.it,gazzettadisalerno.it,gazzettahockey.it,giochidicalcio.com,globalist.it,gossip.it,greenstyle.it,html.it,ilcambiamento.it,ilfriuli.it,ilgarantista.it,ilgiornale.it,insegreto.it,ivid.it,lindro.it,lipari.biz,macitynet.it,merateonline.it,meteoweb.eu,oggitreviso.it,orangedropdesign.com,orizzontescuola.it,orvietosi.it,pmi.it,programmitv.com,projectcars.it,pubblicitaitalia.it,quattroruote.it,quibrianza.it,quotidianocanavese.it,r101.it,rcdc.it,rockit.it,sassarinotizie.com,secoloditalia.it,softonic.it,strettoweb.com,teatronaturale.it,telejato.it,telenord.it,tenews.it,tg24.info,ticinolibero.ch,traniviva.it,ultimouomo.com,varesenews.it,vocenuova.tv##.banner
 m100.it##.banner-1
 sanfrancescopatronoditalia.it##.banner-100
 sanfrancescopatronoditalia.it##.banner-250
