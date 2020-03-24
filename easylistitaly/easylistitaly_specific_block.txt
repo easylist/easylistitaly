@@ -143,6 +143,7 @@
 ||bordighera.net/images/banner_
 ||bruttastoria.it/img/banner-
 ||bufale.net^*/sosbiglietti.jpg
+||buongiornoalghero.it^*/banner_
 ||businessmagazine.it/i/skin/
 ||c-radio.it/images/banners/
 ||cadoinpiedi.it/js/backgroundpromotion.js
