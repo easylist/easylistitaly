@@ -218,6 +218,7 @@ firstonline.info###ctl00_cph_main_banner1_p1
 teleborsa.it###ctl00_if4WTV300x250
 segugio.it###ctl00_phMainContent_banner_pBanner
 ticinonews.ch###ctl00_rectangleleaderhome1_FormView1_ctl00_Banmanpro3Label
+strill.it###custom_html-25
 bikeitalia.it###desktop_banner
 amazon.it###detailILM_feature_div
 pianetatech.it###div-banner-300
@@ -628,6 +629,7 @@ wiitalia.it##.b728
 nonsolocap.it##.ba
 gnoccatravels.com##.bacheca-incontri-b-nner
 piacenzanight.com##.back_style
+strill.it##.background-cover
 avmagazine.it,corrierediragusa.it,ilcrotonese.it,tomshw.it##.background-link
 lavorincasa.it##.bak
 milanofinanza.it,oggitreviso.it##.ban
