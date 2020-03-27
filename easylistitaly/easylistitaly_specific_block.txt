@@ -559,6 +559,7 @@
 ||ilsalvagente.it/imgmol/
 ||ilsalvagente.it/immagini/banner120x60-
 ||ilsannioquotidiano.it/images/banners/
+||ilsicilia.it/wp-content/banners/
 ||iltaccoditalia.info/banner/
 ||iltempo.it^*/unicusano.jpg
 ||ilvelino.it^*/banner/
