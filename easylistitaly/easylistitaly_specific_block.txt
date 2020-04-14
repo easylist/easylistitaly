@@ -956,6 +956,7 @@
 ||radioroma.fm/images/banners/
 ||radioromacapitale.it/images/banner-
 ||radioromacapitale.it/images/conf.jpg
+||radiortm.it^*/Banner_
 ||radiosienatv.it^*-300x250.
 ||radiostereo103.it/banner_
 ||radioveronica.it/uploads/partner/
