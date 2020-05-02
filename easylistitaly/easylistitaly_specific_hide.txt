@@ -909,6 +909,7 @@ tomshw.it##.guides-summary
 fantagazzetta.com##.h-box
 quattroruote.it##.halfPageBanner2
 nuovosud.it##.header-banner-wrapper
+calciomercato.com##.header-banner__container
 ilgiornaledivicenza.it##.header-box
 bow.it,cronacamilano.it,ilfaroonline.it,vendingnews.it##.header_banner
 bora.la##.headerbtm
