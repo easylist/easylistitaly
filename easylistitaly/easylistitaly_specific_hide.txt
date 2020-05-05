@@ -552,6 +552,7 @@ novara.com##.MainBanner
 alfemminile.com##.OffresSpe_cadre
 search.aol.it##.SLL
 viterbonews24.it##.SepBanner
+theitaliantimes.it##.Side_DX
 dizionariosinonimi.com##.Sponsor300x250Dx
 telestense.it##.StandardBanner
 ricettepercucinare.com##.UAP_3to1_Rectangle
@@ -568,6 +569,7 @@ tusciaweb.eu##.ad-article
 corriereitaliano.com##.ad-box
 guidafisco.it##.ad2
 portaportese.it##.adL
+theitaliantimes.it##.adb
 trustpilot.it##.adblock
 america24.com,finanzaonline.com,gianlucadimarzio.com,it.videogamer.com##.adbox
 pinkdna.it##.adds300x250
