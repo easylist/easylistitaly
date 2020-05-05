@@ -1333,5 +1333,7 @@
 ||oipzyrzffum.ovh^
 ||stgy.ovh/~shared/images/d_a/
 ||today.it/~shared/cgi-bin/d_a/
+! (/sw.js)
+/^https?:\/\/.*\/.*sw[0-9(.|_)].*/$script,domain=dundi.it
 ! webrtc ads
 $webrtc,domain=02blog.it|06blog.it|artsblog.it|autoblog.it|bebeblog.it|benessereblog.it|blogo.it|blogosfere.it|booksblog.it|cineblog.it|clickblog.it|comicsblog.it|deluxeblog.it|designerblog.it|ecoblog.it|excite.it|fashionblog.it|gadgetblog.it|gamesblog.it|gossipblog.it|gustoblog.it|managementnotes.it|melablog.it|mobileblog.it|motoblog.it|motorsportblog.it|outdoorblog.it|petsblog.it|pinkblog.it|polisblog.it|queerblog.it|soldiblog.it|soundsblog.it|toysblog.it|travelblog.it|tvblog.it
