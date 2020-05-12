@@ -260,6 +260,7 @@
 ||cronacaflegrea.it^*/ads/
 ||cronacaqui.it^*/banner-
 ||cronachedellacampania.it^*-300x250.
+||cronachedibirra.it^*/banner_
 ||cuneocronaca.it/img/banner/
 ||cuneocronaca.it/js/clickBanner.js
 ||cuneodice.it/images/xoikia.jpg
