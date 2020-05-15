@@ -94,6 +94,7 @@
 ||fideliux.com/fideliux/banners/
 ||free.netsons.com^
 ||gaggioso.it^$subdocument,third-party
+||gbtcdn.com^$domain=lantidiplomatico.it
 ||gelestatic.it^*/adv/
 ||generik.nanopress.it/highlight_300x280.php
 ||gigacenter.it^$image,third-party

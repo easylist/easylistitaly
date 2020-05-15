@@ -645,6 +645,7 @@
 ||lanotiziagiornale.it^*/box-poin.gif
 ||lanotiziagiornale.it^*/skin982x2.png
 ||lanotiziagiornale.it^*/viviconsulting_
+||lantidiplomatico.it/img/coupon.png
 ||lapiazzagrande.it/pubb/
 ||lapiazzaweb.it/banner/
 ||laprovinciadibiella.it/upload/webpublic/
