@@ -1111,6 +1111,7 @@ avvenire.it##.spot
 leggioggi.it##.spot-mini
 mostraip.com##.spot1
 a-realestate.it##.spot_banner
+greenstyle.it##.sticky-adv
 applemobile.it##.store
 radioradio.it##.strack_cli
 ravennaedintorni.it##.strillo
