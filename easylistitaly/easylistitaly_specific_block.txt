@@ -1242,6 +1242,7 @@
 ||twww.tv/get_banner.php?
 ||twww.tv^*/background.jpg
 ||udinese.it^*/sponsor/
+||ultimissimemantova.it/banner/
 ||ultimouomo.com^*/skin-
 ||umbriaingol.it//immagini/File_banner/
 ||umbriajournal.com^*/banner-
