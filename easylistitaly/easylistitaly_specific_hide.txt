@@ -773,6 +773,7 @@ ticinolive.ch##.bannerwrap
 romagiornoenotte.it##.basebannerBox
 altadefinizione.zone##.bbtn
 notizialocale.it##.bc_random_banner
+corriere.it##.bck-media-list-sponsor
 wallstreetitalia.com##.bestbuybiz
 losportivo.sm##.bg_blocchi
 nuovosud.it##.bg_skin
