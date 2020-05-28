@@ -910,6 +910,7 @@
 ||qdpnews.it/images/banners/
 ||qds.it/docs/mariluranch-
 ||qds.it/docs/SICEP.jpg
+||quattroruote.it^*/box-eni-
 ||quattroruote.it^*/landing/
 ||quattroruote.it^*/logo-eni-generico.
 ||quelliche.net^*/file_banner/

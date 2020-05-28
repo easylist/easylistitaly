@@ -895,6 +895,7 @@ chievocalcio.tv##.footer-sponsor-container
 sportnotizie24.it##.footer-sponsors
 socialchannel.it##.footer2-wrapper
 violachannel.tv##.footer_home
+quattroruote.it##.four-box-sponsor
 liberatv.ch##.front_orrizzontale
 quattroruote.it##.fullBanner
 obiettivonews.it##.fullwidthbanner-container
