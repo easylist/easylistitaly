@@ -1311,6 +1311,7 @@
 ||webmarketingforum.it/images/banners/
 ||weboggi.it/banners/
 ||webpartner.mrcrawler.it^
+||welfarenetwork.it/media/banner/
 ||widget.blogosfere.it/assicurazione/
 ||wiitalia.it/230x90.php
 ||wikilao.com^*/banners/
