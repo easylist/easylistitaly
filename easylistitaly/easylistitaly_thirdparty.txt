@@ -139,6 +139,7 @@
 ||mediatickets.ch/widgets/$third-party
 ||mmvid.s3.amazonaws.com^
 ||mondojuventus.it^$third-party
+||mytrend.it/gifs/banner/
 ||neonisi.com^*/items.external?$third-party
 ||net-expire.tccstatic.com^*/banner.js
 ||netweek.it/ban_
