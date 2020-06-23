@@ -182,4 +182,5 @@
 ##a[href^="https://adserver.html.it/"]
 ##a[href^="https://affiliate.across.it/"]
 ##a[href^="https://marketing.net.occhiali24.it/"]
+##a[href^="https://promonow.shop/offers.php?"]
 ##a[href^="https://www.linkwelove.it/urls/"]
