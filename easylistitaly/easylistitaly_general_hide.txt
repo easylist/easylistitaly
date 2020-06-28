@@ -148,6 +148,7 @@
 ##.pubblitalocaleaddADV
 ##.pubblitalocaleaddpiccola
 ##.qtr-bacheca-adv
+##.sb-box-pubbliredazionale
 ##.sponsor160x600Dx
 ##.sponsor300x250Sx
 ##.sponsorizzati

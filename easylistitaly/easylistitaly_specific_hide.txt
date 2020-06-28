@@ -1058,7 +1058,6 @@ wikihow.it##.rr_container
 nonsolocap.it##.ru
 quattroruote.it##.salone-sponsor
 genova24.it,ivg.it,lacnews24.it##.sb-banner
-catanzaroinforma.it,genova24.it,ivg.it,positanonews.it##.sb-box-pubbliredazionale
 flashgames.it##.scheda_ppc
 puntocellulare.it##.schlnk
 tomshw.it##.scontitech
