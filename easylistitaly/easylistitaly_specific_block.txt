@@ -374,6 +374,8 @@
 ||foggiacalciomania.com^*-640x274.
 ||fordfiestaitalia.com^*/sponsor/
 ||formiche.net/banner.asp?
+||fortuneita.com^*/Banner
+||fortuneita.com^*900x90
 ||forzapescara.net/foto/
 ||forzapescara.tv/images/partite/a.jpg
 ||frasicelebri.it^*/amazonbuy.
