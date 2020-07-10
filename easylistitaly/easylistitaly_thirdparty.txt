@@ -35,6 +35,7 @@
 ||banzaimedia.it/hpsponsor/
 ||bazarcoupon.com/images/$third-party
 ||betpro.it^*/banner/
+||blazemedia.it/assets/amazon_
 ||blogspot.com^*/banner-vadovia.jpg$domain=smetteredilavorare.it
 ||blogspot.com^*/download_728.gif
 ||blogspot.com^*/download_728_2.gif
