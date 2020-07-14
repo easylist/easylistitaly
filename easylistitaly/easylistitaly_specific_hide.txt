@@ -923,6 +923,7 @@ calciomercato.com##.header-banner__container
 ilgiornaledivicenza.it##.header-box
 bow.it,cronacamilano.it,ilfaroonline.it,vendingnews.it##.header_banner
 bora.la##.headerbtm
+internazionale.it##.hentry--banner
 transfermarkt.it##.hide-for-small[style="height: 273px; text-align: center; overflow: hidden;"]
 formiche.net##.himedia_sidebar
 gazzettadasti.it##.homepage-central-ban
