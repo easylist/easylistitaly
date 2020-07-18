@@ -1013,11 +1013,13 @@ quattrozampe.online##.partner-item-wrapper
 mediaworld.it##.partnership
 seriehd.video##.player
 radio.it##.playlist-teaser-buttons
+assopoker.com##.poker-room-list
 trovanumeroverde.it##.pop_link
 videohifi.com##.portlet-static-sponsor
 wired.it##.poweredby
 film.it##.ppn_h
 itpornovideo.com##.pr-widget
+assopoker.com##.prbox-table-container
 html.it##.premium-links-container-home-ms
 ciao.it##.priceComp2
 paginegialle.it##.prio
