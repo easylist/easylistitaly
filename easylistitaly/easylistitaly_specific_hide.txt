@@ -27,6 +27,7 @@ liberatv.ch###Sky2
 ilsoftware.it###SponsorFull
 evomagazine.it###TestataBanner
 tio.ch###Tio_News_Sponsor_basso_Flat
+chimerarevo.com###TopWidgetArea
 ladistanza.it###a1[style="top: 523px;"]
 spaziogames.it###a_boder_bg
 2night.it,ascoltareradio.com###ad
