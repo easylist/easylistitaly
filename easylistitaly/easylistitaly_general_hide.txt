@@ -155,6 +155,7 @@
 ##.tabella2Pubblicita
 ##.tabella3Pubblicita
 ##.tabellaPubblicita
+##.tcc-banner
 ##.tccbanner
 ##.view-pubblicita
 ##.wl_WidgetRel_Sponsor
