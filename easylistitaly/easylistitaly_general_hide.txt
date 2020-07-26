@@ -77,6 +77,8 @@
 ###skinadvdx
 ###skinadvsx
 ###top3-pubbli
+##.ADVBig_Content
+##.ADVFLEX_250_Content
 ##.Banner_VideoAd_Interno
 ##.Pubblicita
 ##.ad-fisso
