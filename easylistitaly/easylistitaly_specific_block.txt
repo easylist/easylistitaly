@@ -805,6 +805,7 @@
 ||musicoff.com^*/adshops_
 ||mymovies.it/v7/include/homedressing/
 ||napolicittasolidale.it^*/banner/
+||napolimagazine.com^*/banner-
 ||nba24.it^*/banner-
 ||nerdplanet.it^*/banner.
 ||nerdplanet.it^*/batmanultimo2017.
