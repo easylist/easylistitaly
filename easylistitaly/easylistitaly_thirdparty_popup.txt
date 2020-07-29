@@ -1,12 +1,9 @@
 ||888.it^$popup,third-party
-||98.130.248.39^$popup,third-party
 ||bet365-scommesse.com/?affiliate=$popup,third-party
 ||betclic.it/partner.aspx?$popup
 ||edreams.it/?affiliate=$popup
 ||funpage.it^$popup,third-party
 ||goo.gl^$popup,domain=ispazio.net
-||gooble.info^$popup
-||hdpass.xyz/4k/$popup
 ||incontripersesso.com/landing/$popup
 ||lupoporno.com^$popup,third-party
 ||okincontri.com^$popup,third-party
