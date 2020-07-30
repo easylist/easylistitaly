@@ -1016,6 +1016,7 @@ dimensionesuonoroma.it##.promo-list
 cremonaoggi.it##.promo_slider_wrapper
 livescore.it##.promo_top_match_wide
 gqitalia.it,motori.it##.promobox
+proiezionidiborsa.it##.promoboxplus
 milanofinanza.it##.promocanali
 italiapokerclub.com##.promotion
 altadefinizione4k.net##.pseudo-link

@@ -1233,6 +1233,7 @@
 ||wp.com^*/banner_$domain=tariffando.it
 ||wp.com^*/banners/$domain=proiezionidiborsa.it
 ||wp.com^*/offerte-lampo-amazon.$domain=tariffando.it
+||wp.com^*/p500-$domain=proiezionidiborsa.it
 ||wp.com^*Banner300x600.$domain=milanodabere.it
 ||xvideomature.com/images/u_player2.jpg
 ||xvideomature.com^*/rotate.php
