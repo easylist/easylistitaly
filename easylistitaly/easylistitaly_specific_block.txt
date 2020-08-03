@@ -1261,4 +1261,4 @@
 ! (/sw.js)
 /^https?:\/\/.*\/.*sw[0-9(.|_)].*/$script,domain=dundi.it
 ! webrtc ads
-$webrtc,domain=02blog.it|06blog.it|artsblog.it|autoblog.it|bebeblog.it|benessereblog.it|blogo.it|blogosfere.it|booksblog.it|cineblog.it|clickblog.it|comicsblog.it|deluxeblog.it|designerblog.it|ecoblog.it|excite.it|fashionblog.it|gadgetblog.it|gamesblog.it|gossipblog.it|gustoblog.it|leggenditalia.com|leggenditaly.com|managementnotes.it|melablog.it|mobileblog.it|motoblog.it|motorsportblog.it|outdoorblog.it|petsblog.it|pinkblog.it|polisblog.it|queerblog.it|soldiblog.it|soundsblog.it|toysblog.it|travelblog.it|tvblog.it
+$webrtc,domain=02blog.it|06blog.it|artsblog.it|autoblog.it|bebeblog.it|benessereblog.it|blogo.it|blogosfere.it|booksblog.it|cineblog.it|clickblog.it|comicsblog.it|deluxeblog.it|designerblog.it|ecoblog.it|excite.it|fashionblog.it|gadgetblog.it|gamesblog.it|gossipblog.it|gustoblog.it|hentaisaturn.com|leggenditalia.com|leggenditaly.com|managementnotes.it|melablog.it|mobileblog.it|motoblog.it|motorsportblog.it|outdoorblog.it|petsblog.it|pinkblog.it|polisblog.it|queerblog.it|soldiblog.it|soundsblog.it|toysblog.it|travelblog.it|tvblog.it
