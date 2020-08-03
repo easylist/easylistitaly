@@ -69,6 +69,7 @@
 ||ammirati.org/showpopup/
 ||andreagaleazzi.com/wp-content/plugins/ag-partners/
 ||animeclick.it/Banners/
+||animeclick.it/immagini/campagna/
 ||animeclick.it/mh3/
 ||animeclick.it/video-intro/
 ||animeforce.org/frames/

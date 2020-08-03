@@ -1074,7 +1074,7 @@ youreporter.it##.sidebar_menu_virgilio
 cosedicasa.com##.sidespot-wrapper
 newnotizie.it##.single_sidebar300x250
 ilmomento.eu##.site-commerc
-andreagaleazzi.com,ilroma.net,omnicorse.it##.skin
+andreagaleazzi.com,animeclick.it,ilroma.net,omnicorse.it##.skin
 iovivoaroma.org##.skin_link_top
 sky.it##.skybet_spalla
 gioco.it##.skyscraper
