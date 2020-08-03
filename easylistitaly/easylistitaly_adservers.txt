@@ -28,6 +28,7 @@
 ||bannerpromotion.it^$third-party
 ||banzaiadv.it^$third-party
 ||beead.it^$third-party
+||break-even.it^$third-party
 ||brznetwork.com^$third-party
 ||buyon.it^$third-party
 ||clacson24.com^$third-party
