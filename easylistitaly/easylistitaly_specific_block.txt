@@ -370,6 +370,7 @@
 ||gazzettadisondrio.it/images/banner/
 ||gazzettamatin.com/admin/banner_
 ||gazzettamatin.com/admin/img_banner/
+||gazzettaregionale.it/assets/Auto-doc.
 ||gazzettinodelchianti.it/files/immagini-banner/
 ||gds.it/fileadmin/banner/
 ||gds.it^*-300x251-
