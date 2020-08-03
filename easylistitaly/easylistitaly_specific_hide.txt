@@ -564,6 +564,7 @@ player.it##.aalb-259-product-carousel-unit
 badcomics.it,badgames.it,badtaste.it,badtv.it##.aalb-880-product-carousel-unit
 repubblica.it##.aas_whole_wrapper
 cityrumors.it##.aawp
+topdigamma.it##.aawp-product
 ilsole24ore.com##.abox
 4risate.com,7per24.it,allrecipes.it,ilprimatonazionale.it,jugo.it,lacrocequotidiano.it,mesagne.me,milanlive.it,mondoplay.it,mondoxbox.com,ridble.com,servizioallerta.it,smartbuildingitalia.it,trend-online.com,tripadvisor.it##.ad
 tusciaweb.eu##.ad-article
@@ -1248,7 +1249,7 @@ comuniecitta.it,infotelematico.com,techzilla.it##a[href^="https://amzn.to/"]
 mentelocale.it##a[href^="https://clk.tradedoubler.com/"]
 autobusweb.com,corrieredellacalabria.it,lasposatv.it##a[href^="https://goo.gl/"]
 gnoccatravels.com##a[href^="https://wellcum.at/"]
-badcomics.it,badgames.it,badtaste.it,badtv.it,beppegrillo.it,cityrumors.it,comingsoon.it,consigli.it,eurogamer.it,everyeye.it,facciabuco.com,frasicelebri.it,game-experience.it,giardiniblog.it,gizchina.it,greenme.it,hdblog.it,hwupgrade.it,mangaforever.net,nerdmovieproductions.it,punto-informatico.it,ridble.com,rifaidate.it,spaziogames.it,surface-phone.it,techzilla.it##a[href^="https://www.amazon."][href*="tag="]
+badcomics.it,badgames.it,badtaste.it,badtv.it,beppegrillo.it,cityrumors.it,comingsoon.it,consigli.it,eurogamer.it,everyeye.it,facciabuco.com,frasicelebri.it,game-experience.it,giardiniblog.it,gizchina.it,greenme.it,hdblog.it,hwupgrade.it,mangaforever.net,nerdmovieproductions.it,punto-informatico.it,ridble.com,rifaidate.it,spaziogames.it,surface-phone.it,techzilla.it,topdigamma.it##a[href^="https://www.amazon."][href*="tag="]
 traderlink.it##a[style="display: block; width: 100%; height: 1080px; filter:alpha(opacity=0); -moz-opacity: 0; opacity: 0; background-color: rgb(255, 255, 255);"]
 notebookcheck.it##div[id][class] > div[id] > img:first-child
 gpone.com##div[style=" margin:auto; margin-top:0px; margin-bottom:0px; width:730px; height:92px;"]
