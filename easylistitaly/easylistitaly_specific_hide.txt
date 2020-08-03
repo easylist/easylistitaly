@@ -444,6 +444,7 @@ autoxy.it###subito-sponsor
 html.it###suggested-links
 lavoripubblici.it###superBanner
 hdblog.it###sx
+fiscoetasse.com###syTagContainer
 diretta.it###tab-bonus-offers
 diretta.it###tab-odds
 ilgiornale.it###tab_annunci
