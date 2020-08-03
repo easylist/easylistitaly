@@ -792,7 +792,7 @@ advisoronline.it##.body_click
 risultati.it##.bookmarker-53
 beppegrillo.it##.bottom-banner
 pmi.it##.box-300-special
-comingsoon.it,lifegate.it##.box-adv
+centrometeoitaliano.it,comingsoon.it,lifegate.it##.box-adv
 ilquotidiano.it,piacenzasera.it,rsvn.it##.box-attico
 tempoitalia.it##.box-banner
 europa-in.it,gazzettadelladda.it,giornaledidesio.it,notiziaoggi.it,nuovaperiferia.it,settegiorni.it##.box-banner-menu
