@@ -997,6 +997,7 @@ risultati.it##.odds-detail
 puntocellulare.it##.panel-offers
 ragusanews.com##.partner
 quattrozampe.online##.partner-item-wrapper
+andreagaleazzi.com##.partner_box
 mediaworld.it##.partnership
 seriehd.video##.player
 radio.it##.playlist-teaser-buttons
@@ -1071,7 +1072,7 @@ youreporter.it##.sidebar_menu_virgilio
 cosedicasa.com##.sidespot-wrapper
 newnotizie.it##.single_sidebar300x250
 ilmomento.eu##.site-commerc
-ilroma.net,omnicorse.it##.skin
+andreagaleazzi.com,ilroma.net,omnicorse.it##.skin
 iovivoaroma.org##.skin_link_top
 sky.it##.skybet_spalla
 gioco.it##.skyscraper
