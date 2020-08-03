@@ -715,6 +715,7 @@
 ||milanofinanza.it/img/speciali/
 ||milanofinanza.it^*/banner-
 ||milanofinanza.it^*/promo/
+||mio-ip.eu^*/offerte-amazon-
 ||mmorpgitalia.it/media/aion
 ||mmorpgitalia.it/von/
 ||mobi2b.it^*/downloadfilebanner.php?
