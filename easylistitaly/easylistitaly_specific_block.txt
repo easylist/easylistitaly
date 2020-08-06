@@ -346,6 +346,7 @@
 ||freemodding.it/varie/loghi-sidebar/
 ||freenewsonline.it^*-300.jpg
 ||freenewsonline.it^*/banner/
+||freeonline.it/img/newskin-
 ||freeonline.org/img/banner/
 ||frescodiweb.it/banner/
 ||freshplaza.it/b/

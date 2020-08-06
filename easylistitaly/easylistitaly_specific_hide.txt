@@ -413,7 +413,7 @@ iovivoaroma.org###skin_link_dx
 iovivoaroma.org###skin_link_sx
 cronacheancona.it,cronachemaceratesi.it###skinabove
 rockit.it###skinbanner
-bikechannel.it,buongiornoalghero.it,casertaweb.com,catanzaroinforma.it,filmtv.it,gazzettadiavellino.it,gazzettadinapoli.it,gazzettadisalerno.it,ilcorrieredabruzzo.it,lazionews24.com,lospiffero.com,salernonotizie.it###skinlink
+bikechannel.it,buongiornoalghero.it,casertaweb.com,catanzaroinforma.it,filmtv.it,freeonline.org,gazzettadiavellino.it,gazzettadinapoli.it,gazzettadisalerno.it,ilcorrieredabruzzo.it,lazionews24.com,lospiffero.com,salernonotizie.it###skinlink
 ebay.it###skyscrape
 bisceglielive.it,eurogamer.it###skyscraper
 advisoronline.it###slidebox
@@ -1213,7 +1213,7 @@ windowsblogitalia.com##[id^="bsa"]
 gazzettinodelchianti.it##a[class*="bannerpos"]
 gizchina.it##a[href*="&utm_campaign="]
 voglioporno.com##a[href*=".com/track/"]
-fantascientificast.it,hwupgrade.it,rivistanatura.com##a[href*="//bit.ly/"]
+fantascientificast.it,freeonline.org,hwupgrade.it,rivistanatura.com##a[href*="//bit.ly/"]
 cb01.online,speedvideo.net##a[href*="/4k/"]
 everyeye.it##a[href*="/click.asp?"]
 gazzetta.it##a[href*="/codici-sconto/"]
