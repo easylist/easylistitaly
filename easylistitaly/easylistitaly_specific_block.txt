@@ -568,8 +568,9 @@
 ||italianialondra.com/banner/
 ||italianialondra.com/images/terravision.gif
 ||italianialondra.com/images/trovahotel2.gif
-||italpress.com/img/banner-
-||italpress.com^*-300x180.
+||italpress.com^*/gif_talpress_def.
+||italpress.com^*/VolospeechGif_
+||italpress.com^*_300X250MYACEA-
 ||ivg.it^*/takeover/
 ||jugo.it^*/ads/
 ||julienews.it/upload/banner/

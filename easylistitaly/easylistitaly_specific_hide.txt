@@ -734,6 +734,7 @@ piacenzasera.it##.banner_globaltop
 smtvsanmarino.sm##.banner_head
 sportface.it##.banner_head1
 condominioweb.com##.banner_home
+italpress.com##.banner_img_widget
 catanzaroinforma.it##.banner_inner
 livesicilia.it##.banner_leaderboard
 nqnews.it##.banner_news
