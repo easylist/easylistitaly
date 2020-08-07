@@ -937,6 +937,8 @@
 ||rockit.it/dbimg/7banner/
 ||rockit.it/res/css3/skin_
 ||rocknrollradio.it/images/banners/
+||romachampionsleague.com^*/Logo-motto-
+||romachampionsleague.com^*/Pubblicit%C3%A0-
 ||romait.it/img/banners/
 ||romanews.eu^*-300x200.
 ||romatoday.it/images/skin/
