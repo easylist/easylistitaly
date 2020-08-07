@@ -1177,6 +1177,7 @@ tiscali.it##.w312.mB25
 algheroeco.com##.wallpaper-link
 fc-suedtirol.com,transfermarkt.it##.werbung
 transfermarkt.it##.werbung-skyscraper
+spettegolando.it##.wf-widget-container
 gazzettadinapoli.it##.widget-12
 gazzettadiavellino.it##.widget-4
 gazzettadinapoli.it,gazzettadisalerno.it##.widget-5

@@ -103,6 +103,7 @@
 ||viralbeat.com^$third-party
 ||wbusiness.fr^$third-party
 ||widebanner.com^$third-party
+||worldfilia.net^$third-party
 ||yobee.it^$third-party
 ||zanox-affiliate.de^$third-party
 ||zodiakactive.com^$third-party
