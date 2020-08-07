@@ -61,6 +61,7 @@
 ||amadeusonline.net/banner/
 ||amadeusonline.net/partner/
 ||amadeusonline.net/sponsor/
+||amalfinotizie.it^*/omenu.one_
 ||amando.it^*/banner.
 ||amando.it^*/banner/
 ||ambientequotidiano.it/banner/
