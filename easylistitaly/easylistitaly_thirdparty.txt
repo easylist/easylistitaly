@@ -9,6 +9,7 @@
 ||ad.jamba.it^
 ||adagiobanner.s3.amazonaws.com^
 ||advx.esprimo.com^
+||affiliatetxt.nextmediaweb.com^
 ||affiliati.bet2bet.it^
 ||affiliation.sostariffe.it^$third-party
 ||affiliazioni.misterdomain.eu^$third-party
