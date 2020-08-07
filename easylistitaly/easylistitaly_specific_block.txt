@@ -451,6 +451,9 @@
 ||ilcambiamento.it/sbanner/
 ||ilcorrieredabruzzo.it/file/banner/
 ||ilcorrieredabruzzo.it/templates/ilcorrieredabruzzo/images/style2/bg1.jpg
+||ilcorrieredellacitta.com^*/casino-italiani.jpg
+||ilcorrieredellacitta.com^*/cinecitta-world.jpg
+||ilcorrieredellacitta.com^*/sherasade-ardea.gif
 ||ilcorrierino.com/foto-banner/
 ||ilcosentino.it^*/banners/
 ||ilcrotonese.it^*/promo_
