@@ -801,6 +801,7 @@
 ||palermomania.it/images/banner_
 ||palermomania.it/public/banner/
 ||panorama.it^*-promobox/
+||papaboys.org^*/banner-
 ||parrocchie.it/banner/
 ||paviapiu.it/images/banners/
 ||pc-facile.com/images/banner/
