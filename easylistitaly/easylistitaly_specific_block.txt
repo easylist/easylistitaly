@@ -534,6 +534,10 @@
 ||ilwebmaster21.com/wp-content/uploads/2015/06/simple.png
 ||ilwebmaster21.com/wp-content/uploads/2016/04/data.gif
 ||ilwebmaster21.it/script1.js
+||imgpress.it^*/banner1bis
+||imgpress.it^*/banner2
+||imgpress.it^*/banner3
+||imgpress.it^*/Pubbl-
 ||imperiapost.it^*/Banner
 ||indie-roccia.it/itunesbox.php?
 ||indie-rock.it/itunesbox.php?
