@@ -389,6 +389,7 @@
 ||giornale.it/img/auto-doc.gif
 ||giornaledelticino.ch/banner/
 ||giornaledimerate.it/banneranalyzer/
+||giornaledimontesilvano.com/images/banners/
 ||giornaledisiracusa.it/images/banners/
 ||giornalettismo.com^*/skin/
 ||gizchina.it^*/mrdeals-
