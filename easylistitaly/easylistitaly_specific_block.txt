@@ -734,6 +734,7 @@
 ||mobi2b.it^*/downloadfilebanner.php?
 ||mobimart.it/ban.
 ||modena2000.it/bnrs/
+||mole24.it^*-skin-
 ||mole24.it^*/skin-
 ||momentosera.it/bannerupload/
 ||mondoclassica.it^*/banner/
