@@ -877,6 +877,7 @@
 ||radioglobo.it/img/banner/
 ||radioglobo.it/img/bg/bg_
 ||radiogold.it/images/banners/
+||radiogold.it^*/Banner-
 ||radiogold.it^*/banner/
 ||radioinblu.it^*/skin/
 ||radioitalianetwork.fm/images/banners/
