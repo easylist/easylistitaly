@@ -709,6 +709,8 @@
 ||mediaw.it^*/banner
 ||mediaw.it^*/partnership/
 ||megabass.it^*/banner_
+||megasesso.com/js_pub/
+||megasesso.com/xlovecam.php
 ||mentelocale.it/devmktg/
 ||merateonline.it/public/banner/
 ||metalgermania.it/images/itunes.jpg
