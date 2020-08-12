@@ -1109,6 +1109,7 @@ mostraip.com##.spot1
 a-realestate.it##.spot_banner
 greenstyle.it,motori.it##.sticky-adv
 applemobile.it##.store
+andreagaleazzi.com##.store-box
 radioradio.it##.strack_cli
 ravennaedintorni.it##.strillo
 affaritaliani.it##.strillo-speciale3
