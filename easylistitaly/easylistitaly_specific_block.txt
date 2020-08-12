@@ -180,6 +180,7 @@
 ||cinemadelsilenzio.it/images/home/eff2012_
 ||cinemadelsilenzio.it/images/sponsor/
 ||cinemaitaliano.info^*/banner/
+||cinestreaming.uno/img/b_
 ||cinquequotidiano.it^*/skin_
 ||ciociaria24.net/ciociaria24-
 ||ciociariaoggi.info/public/img/banner-
