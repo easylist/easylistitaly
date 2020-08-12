@@ -805,8 +805,6 @@ tiscali.it##.boxBanner
 ilsoftware.it##.boxDXa.txt3
 chip.it##.boxHardware
 tecnocino.it##.boxLiderboard
-hdblog.it##.box_flame
-hdblog.it##.box_grampa_shadow
 calcioblog.it##.box_highlight
 omniauto.it##.box_listinousato
 techzilla.it##.box_offerte_ajax
@@ -931,7 +929,6 @@ foggiacalciomania.com##.irw-widget
 repubblica.it##.is-marketing
 tiscali.it##.istella-shopping
 motousate.it##.item.link
-hdblog.it##.item_compra
 mtv.it##.itunes
 lifegate.it##.itunesButton
 jacktech.it##.jk_banner
