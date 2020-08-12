@@ -1277,9 +1277,9 @@
 |https://$script,third-party,domain=eurostreaming.cloud
 ! Eurekaddl
 @@||connect.facebook.net^$script,domain=eurekaddl.site
-@@||disqus.com^$script,domain=eurekaddl.site
-@@||twitter.com^$script,domain=eurekaddl.site
-|https://$script,third-party,domain=eurekaddl.site
+@@||disqus.com^$script,xmlhttprequest,domain=eurekaddl.site
+@@||twitter.com^$script,xmlhttprequest,domain=eurekaddl.site
+|https://$script,third-party,xmlhttprequest,domain=eurekaddl.site
 ! (/sw.js)
 /^https?:\/\/.*\/.*sw[0-9(.|_)].*/$script,domain=dundi.it
 ! webrtc ads
