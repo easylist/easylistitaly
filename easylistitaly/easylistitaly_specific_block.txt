@@ -265,6 +265,7 @@
 ||edilportale.com/Banner/
 ||edilportale.com/immagini/velux_manchette
 ||ehgoo.com/banner/
+||elaborare.com^*/banner
 ||elaborare.info/forum/vbulletin/images/sfondo.jpg
 ||emiliagol.it//immagini/File_banner/
 ||erostubes.com/590.gif
