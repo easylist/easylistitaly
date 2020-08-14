@@ -771,6 +771,7 @@ ticinolive.ch##.bannerwrap
 romagiornoenotte.it##.basebannerBox
 notizialocale.it##.bc_random_banner
 corriere.it##.bck-media-list-sponsor
+telefonino.net##.best_price_btn
 wallstreetitalia.com##.bestbuybiz
 nuovosud.it##.bg_skin
 corrieredilatina.it,corriereromagna.it,ilmattinodifoggia.it,lanuovaprimapagina.it##.bgbanner
@@ -784,7 +785,7 @@ ilgiornale.it##.block-ilg-adsense
 ilroma.net##.block-rotating-banner
 sulpanaro.net##.block-sulpanaroexpo
 ilcapoluogo.com##.block-view-bannerSlide
-punto-informatico.it##.blz-url
+punto-informatico.it,telefonino.net##.blz-url
 chimica-online.it##.bnbottom
 stateofmind.it##.bnn-fullwidth
 meteovalmorea.it##.bnr-row
@@ -1229,7 +1230,7 @@ dasolo.info##a[href^="http://creative.m2pub.com/"]
 lifegate.it##a[href^="http://goo.gl/"]
 milanodabere.it##a[href^="http://ib.adnxs.com/clktrb?id="]
 film-mkv.net##a[href^="http://netload.in/index.php?refer_id="]
-juzaphoto.com##a[href^="http://rover.ebay.com/"]
+juzaphoto.com,telefonino.net##a[href^="http://rover.ebay.com/"]
 tecnoandroid.it##a[href^="http://shrsl.com/"]
 gioco.it##a[href^="http://smarturl.it/"]
 comprovendolibri.it##a[href^="http://tracker.tradedoubler.com/"]
@@ -1248,7 +1249,7 @@ comuniecitta.it,infotelematico.com,mio-ip.eu,techzilla.it##a[href^="https://amzn
 mentelocale.it##a[href^="https://clk.tradedoubler.com/"]
 autobusweb.com,corrieredellacalabria.it,lasposatv.it##a[href^="https://goo.gl/"]
 gnoccatravels.com##a[href^="https://wellcum.at/"]
-badcomics.it,badgames.it,badtaste.it,badtv.it,beppegrillo.it,cityrumors.it,comingsoon.it,consigli.it,eurogamer.it,everyeye.it,facciabuco.com,frasicelebri.it,game-experience.it,giardiniblog.it,gizchina.it,greenme.it,hdblog.it,hwupgrade.it,mangaforever.net,nerdmovieproductions.it,punto-informatico.it,ridble.com,rifaidate.it,spaziogames.it,surface-phone.it,techzilla.it,topdigamma.it,tuttotek.it##a[href^="https://www.amazon."][href*="tag="]
+badcomics.it,badgames.it,badtaste.it,badtv.it,beppegrillo.it,cityrumors.it,comingsoon.it,consigli.it,eurogamer.it,everyeye.it,facciabuco.com,frasicelebri.it,game-experience.it,giardiniblog.it,gizchina.it,greenme.it,hdblog.it,hwupgrade.it,mangaforever.net,nerdmovieproductions.it,punto-informatico.it,ridble.com,rifaidate.it,spaziogames.it,surface-phone.it,techzilla.it,telefonino.net,topdigamma.it,tuttotek.it##a[href^="https://www.amazon."][href*="tag="]
 traderlink.it##a[style="display: block; width: 100%; height: 1080px; filter:alpha(opacity=0); -moz-opacity: 0; opacity: 0; background-color: rgb(255, 255, 255);"]
 notebookcheck.it##div[id][class] > div[id] > img:first-child
 alvolante.it##div[id^="dfp-alv-slot"]

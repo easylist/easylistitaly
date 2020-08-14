@@ -997,6 +997,7 @@
 ||teleclubitalia.it/wp-content/*180x100
 ||teleclubitalia.it/wp-content/banners/
 ||telecolore.it/banner/
+||telefonino.net^*/justearntn.js
 ||telenord.it^*/Banner-
 ||telenuovo.it^*/banner/
 ||teleradiostereo.it/flash/banner_

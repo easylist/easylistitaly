@@ -53,6 +53,7 @@
 ||inaffiliago.it^$third-party
 ||ioladv.it^$third-party
 ||iperbanner.com^$third-party
+||justearn.it^$third-party
 ||leaderaffiliation.com^$third-party
 ||leonardoadv.it^$third-party
 ||linkto.org^$third-party
