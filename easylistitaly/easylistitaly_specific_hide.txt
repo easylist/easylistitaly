@@ -395,7 +395,6 @@ samp.tv###samptvsponsor
 trombodromo.com###searchboxInc
 sentireascoltare.com###secondAdv
 nuovosud.it###sfondo
-etrurianews.it###sfondocliccabile
 hdblog.it###shopping_kelkoo
 lonelyplanetitalia.it###side_banner
 lonelyplanetitalia.it###side_banner_300_100
@@ -580,7 +579,7 @@ zapster.it##.addx
 qnm.it##.adex
 tomshw.it##.adorable-cats
 tomshw.it##.adorable-puppies
-24emilia.com,autoscout24.ch,brocardi.it,caserta24ore.it,cb01.online,fantagazzetta.com,gamemag.it,hdblog.it,ilikepuglia.it,netflixlovers.it,phicatube.net,radiospeaker.it,supereva.it,teleborsa.it,viamichelin.ch,viamichelin.it,videocasalinghi.com##.ads
+24emilia.com,autoscout24.ch,brocardi.it,caserta24ore.it,cb01.online,gamemag.it,hdblog.it,ilikepuglia.it,netflixlovers.it,phicatube.net,radiospeaker.it,supereva.it,teleborsa.it,viamichelin.ch,viamichelin.it,videocasalinghi.com##.ads
 ildolomiti.it##.adsB
 meteowebcam.it##.ads_menu
 chistachiamando.it,corriereadriatico.it,ilgazzettino.it,ilmattino.it,ilmessaggero.it,leggo.it,livesicilia.it,pcprofessionale.it,pubblicitaitalia.it,quotidianodipuglia.it##.adsense
@@ -640,7 +639,7 @@ lavorincasa.it##.bak
 milanofinanza.it,oggitreviso.it##.ban
 lacnews24.it##.ban_1000x45
 lacnews24.it##.ban_300x250
-advertiser.it,agi.it,agichina24.it,airdave.it,alessandrianews.it,america24.com,casateonline.it,chiamarsibomber.com,corrieredelgiorno.com,cronacheancona.it,cronachemaceratesi.it,cuneocronaca.it,dagospia.com,diretta.it,euroregionalpmed.eu,finanzaonline.com,foodweb.it,gazzettadiavellino.it,gazzettadinapoli.it,gazzettadisalerno.it,gazzettahockey.it,giochidicalcio.com,globalist.it,gossip.it,greenstyle.it,html.it,ilcambiamento.it,ilfriuli.it,ilgarantista.it,ilgiornale.it,insegreto.it,ivid.it,lindro.it,lipari.biz,macitynet.it,merateonline.it,meteoweb.eu,oggitreviso.it,orangedropdesign.com,orizzontescuola.it,orvietosi.it,pmi.it,programmitv.com,projectcars.it,pubblicitaitalia.it,quattroruote.it,quibrianza.it,quotidianocanavese.it,r101.it,rcdc.it,rockit.it,sassarinotizie.com,secoloditalia.it,softonic.it,strettoweb.com,teatronaturale.it,telejato.it,telenord.it,tenews.it,tg24.info,ticinolibero.ch,traniviva.it,ultimouomo.com,varesenews.it,vocenuova.tv##.banner
+advertiser.it,agi.it,airdave.it,alessandrianews.it,america24.com,casateonline.it,chiamarsibomber.com,corrieredelgiorno.com,cronacheancona.it,cronachemaceratesi.it,cuneocronaca.it,dagospia.com,diretta.it,euroregionalpmed.eu,finanzaonline.com,foodweb.it,gazzettadiavellino.it,gazzettadinapoli.it,gazzettadisalerno.it,gazzettahockey.it,giochidicalcio.com,globalist.it,gossip.it,greenstyle.it,html.it,ilcambiamento.it,ilfriuli.it,ilgarantista.it,ilgiornale.it,insegreto.it,ivid.it,lindro.it,lipari.biz,macitynet.it,merateonline.it,meteoweb.eu,oggitreviso.it,orangedropdesign.com,orizzontescuola.it,orvietosi.it,pmi.it,programmitv.com,projectcars.it,pubblicitaitalia.it,quattroruote.it,quibrianza.it,quotidianocanavese.it,r101.it,rcdc.it,rockit.it,sassarinotizie.com,secoloditalia.it,softonic.it,strettoweb.com,teatronaturale.it,telejato.it,telenord.it,tenews.it,tg24.info,ticinolibero.ch,traniviva.it,ultimouomo.com,varesenews.it,vocenuova.tv##.banner
 m100.it##.banner-1
 sanfrancescopatronoditalia.it##.banner-100
 sanfrancescopatronoditalia.it##.banner-250
@@ -908,7 +907,6 @@ dday.it##.google-dfp
 3bmeteo.com##.gpt_top
 gqitalia.it##.gq-promotions
 tomshw.it##.guides-summary
-fantagazzetta.com##.h-box
 quattroruote.it##.halfPageBanner2
 nuovosud.it##.header-banner-wrapper
 calciomercato.com##.header-banner__container
@@ -1113,7 +1111,7 @@ andreagaleazzi.com##.store-box
 radioradio.it##.strack_cli
 ravennaedintorni.it##.strillo
 affaritaliani.it##.strillo-speciale3
-agichina24.it,ship2shore.it,trend-online.com##.strip
+ship2shore.it,trend-online.com##.strip
 ilmessaggero.it##.strip-guidalloshopping
 ilmessaggero.it,leggo.it##.strip-omnia
 spaziogames.it##.stripe-full-wrapper
@@ -1151,7 +1149,6 @@ hwreload.it##.top_banner
 bluerating.com##.top_funders
 mrstiff.it##.topad
 mesagne.me,neveitalia.it,terzobinario.it##.topbanner
-agichina24.it##.topbanner1
 vistointv.net##.topbanner2
 chimica-online.it##.topreat
 everyeye.it##.topskin
@@ -1328,10 +1325,7 @@ donnamoderna.com##div[style="margin: 10px 0px 0px 0px; padding: 0px 15px 9px 15p
 3bmeteo.com##div[style="margin: 12px auto 12px; width:300px;height:250px;"]
 globalist.it##div[style="margin: 5px 0;padding: 9px; border: 1px solid #ccc; zoom:1;overflow:hidden;height:80px;width:280px;font: normal 12px/14px arial, sans-serif"]
 ultimissime.net##div[style="margin:auto; background-image:url('/images/stories/professionecasinO.jpg'); height: 153px; width: 287px"]
-fantagazzetta.com##div[style="max-width:300px;width:300px;min-height:250px;height:250px; height: auto !important"]
 motofan.it##div[style="min-height: 90px;overflow: visible;"]
-rmcsport.net##div[style="overflow: hidden; width: 300px; height: 300px; margin-bottom:0.5em;"]
-agichina24.it##div[style="overflow: hidden; width: 459px; height: 27px;"]
 liguriawebcam.com##div[style="overflow:hidden;height:90px;margin:4px 0;"]
 freeones.it##div[style="padding: 0px; margin: 10px 0px; height: 100px; width: 898px; background-color: #4C89F9; border: 1px solid #4C89F9"]
 puntosicuro.it##div[style="padding: 5px; font-family: Verdana, Arial; font-size: 10px;"]
@@ -1445,7 +1439,6 @@ allaguida.it##div[style="width:600px; height:300px;"]
 igossip.it##div[style="width:600px; height:360px;float:left;"]
 livesicilia.it##div[style="width:600px;height:90px;border:1px solid #aaa;clear:both;margin: 10px auto;"]
 salernonotizie.it##div[style="width:660px; height:90px; display:block;"]
-fantagazzetta.com##div[style="width:663px;height:275px;float:left;margin:5px 0"]
 beppegrillo.it##div[style="width:728px; height:45px;"]
 salernonotizie.it##div[style="width:728px; height:90px; display:block; margin-top:2px; margin-bottom:2px;"]
 salernonotizie.it##div[style="width:728px; height:90px; display:block; margin-top:4px; margin-bottom:4px;"]

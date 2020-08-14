@@ -1,13 +1,9 @@
 @@||ad2.neodatagroup.com/uploads/js/sid49jq.js$domain=rai.it|rainews.it
 @@||adnkronos.com/ign/mediacenter/fotogallery/data_01/img/ad_
-@@||adser.localport.it/ads/logo-localport-it/logo.gif
-@@||adser.localport.it/banman.asp?zoneid=71$subdocument
 @@||adserver.adtech.de/addyn/3.0/1183/3769607/0/170/ADTECH;$script,domain=gioco.it
 @@||adultsadv.com/etero/random730_90.php$domain=mrjizz.com|pornotubo.it
-@@||alessandriaoggi.info/images/banners/ALESSANDRIA-OGGI-testata.png
 @@||ansa.it^*/ad-gallery/$image
 @@||antonioranesi.it/cache/Lavori/Pubblicita/$~third-party
-@@||areanapoli.it/adv/fb-fan-box.html?$subdocument
 @@||betrad.com/geo/h1.js$domain=corriere.it|gazzetta.it
 @@||betrad.com/pub/c/*.js$domain=corriere.it|gazzetta.it
 @@||carloneworld.it^*/tastixhumpp_b12_Pubblicita_Taroccate.png
@@ -26,7 +22,6 @@
 @@||dotandad.com^*.mp3$object,domain=r101.it
 @@||doubleclick.net/adj/tuttosport.home/home;sz=336x600,300x250,300x600;=$script,domain=tuttosport.com
 @@||download.deejay.it/adv/podcast/$object
-@@||etrurianews.it/images/banners/logoNuovo_etrurianews.jpg
 @@||eyewonder.com^*/video/$object,domain=serviziopubblico.it
 @@||files.adform.net/banners/stream/$object,domain=liberoquotidiano.it
 @@||foolbite.com/foolbite/*_pubblicita_$~third-party
@@ -60,8 +55,6 @@
 @@||oasjs.kataweb.it/adsetup*.js$script,domain=capital.it|huffingtonpost.it|m2o.it|video.deejay.it|video.espresso.repubblica.it|video.ilsecoloxix.it|video.lanuovasardegna.it|video.lastampa.it|video.rep.repubblica.it|video.repubblica.it
 @@||oasjs.kataweb.it/cookielex/$domain=capital.it|huffingtonpost.it|m2o.it|video.deejay.it|video.espresso.repubblica.it|video.ilsecoloxix.it|video.lanuovasardegna.it|video.lastampa.it|video.rep.repubblica.it|video.repubblica.it
 @@||online-retail.unicredit.it/adv/$~third-party
-@@||paesesera.it/design/paesesera/stylesheets/advertising.css
-@@||panorama.it/adv/$image
 @@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=sky.it
 @@||portalecomuni.net^*/ShowBanner.aspx$image
 @@||pubblicitaitalia.it/media/*/logo_pubblicita_italia.gif
