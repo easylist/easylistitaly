@@ -119,6 +119,7 @@
 ||napolimagazine.blob.core.windows.net/banner-
 ||napolimagazine.blob.core.windows.net/skin-
 ||neonisi.com^*/items.external?$third-party
+||netrefer-a.akamaihd.net^
 ||netweek.it/ban_
 ||netweek.it/images/isolamutui/
 ||nexths.it/widget/$third-party
