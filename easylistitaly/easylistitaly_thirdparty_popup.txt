@@ -10,6 +10,7 @@
 ||partypoker.it/td/$popup
 ||planet49.it/cgi-bin/wingame.pl?$popup
 ||spytwins.com^$popup,third-party
+||tracking.foodblog.it^$popup,third-party
 ||tracking.mammemagazine.it^$popup,third-party
 ||tracking.notizie.it^$popup,third-party
 ||tracking.tuobenessere.it^$popup,third-party
