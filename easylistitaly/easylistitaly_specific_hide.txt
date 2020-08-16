@@ -403,7 +403,7 @@ metalitalia.com###sidebar-top
 eurogamer.it###sidebar_amazon
 orizzontescuola.it###single-top-banner
 mister-x.it###siti_amici
-clandestinoweb.com,tesionline.it###skin
+clandestinoweb.com,epolisbari.com,tesionline.it###skin
 radiomanamana.it###skin-left
 radiomanamana.it###skin-right
 cellulare-magazine.it,cellularemagazine.it###skin-top-container
