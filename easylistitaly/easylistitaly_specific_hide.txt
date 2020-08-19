@@ -721,7 +721,7 @@ professionecalcio.net,professionemotori.it##.banner_after_feat
 lanuovaprimapagina.it##.banner_apertura
 finanzaonline.com##.banner_bg
 borsainside.com##.banner_bottom_post
-softonic.it##.banner_box
+fidelityhouse.eu,softonic.it##.banner_box
 voceditalia.it##.banner_casino2
 volleyball.it##.banner_container
 everyeye.it##.banner_destra

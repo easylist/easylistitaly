@@ -59,6 +59,7 @@
 @@||portalecomuni.net^*/ShowBanner.aspx$image
 @@||pubblicitaitalia.it/media/*/logo_pubblicita_italia.gif
 @@||repubblica.it/adimages/
+@@||services.brid.tv/player/build/plugins/adunit.js$domain=fidelityhouse.eu
 @@||servizi-media-js.tiscali.it/cp/javascript/default/it/main/revsci.js$domain=mail.tiscali.it
 @@||static.youreporter.it/adv/jwplayer.js
 @@||stats.betradar.com^subdocument,domain=sisal.it
