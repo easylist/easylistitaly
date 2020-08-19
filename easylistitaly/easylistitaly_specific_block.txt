@@ -390,6 +390,7 @@
 ||hwmobile.it/images/banners/
 ||hwupgrade.it/Amazon/
 ||hwupgrade.it/i/spalla-
+||hwupgrade.it/js/hwu_adv.js
 ||hwupgrade.it/speciali/*/300x100-
 ||hwupgrade.org/banner/
 ||hwupgrade.org/forum/lariffa.gif
