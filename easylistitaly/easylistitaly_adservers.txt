@@ -103,6 +103,7 @@
 ||upstory.it^$third-party
 ||videomatictv.com^$third-party
 ||viralbeat.com^$third-party
+||wailay.com^$third-party
 ||wbusiness.fr^$third-party
 ||widebanner.com^$third-party
 ||worldfilia.net^$third-party
