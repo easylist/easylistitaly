@@ -460,6 +460,7 @@
 ||ilpaesenuovo.it^*/italfiamma.jpg
 ||ilpaesenuovo.it^*/perhospital-01.jpg
 ||ilpaesenuovo.it^*/perhospital.jpg
+||ilpost.it^*/newAdv.js?
 ||ilprimatonazionale.it/skin/
 ||ilprimatonazionale.it^*/saldi-
 ||ilquotidiano.it/userdata/banner/
