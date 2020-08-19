@@ -6,6 +6,7 @@
 ||adbrawl.com^$third-party
 ||adbreak.ch^$third-party
 ||addyon.com^$third-party
+||adkaora.space^$third-party
 ||adnext.it^$third-party
 ||adpartner.it^$third-party
 ||adsolutions.nl^$third-party
