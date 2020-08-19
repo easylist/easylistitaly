@@ -607,6 +607,7 @@ filodiritto.com##.altro_box_banner_sx
 gamemag.it,videogame.it##.amazon
 surface-phone.it##.amazon-auto-links
 ridble.com##.amazon-product
+animeclick.it##.amazon-row
 andreagaleazzi.com##.amazon_box
 telefonino.net##.amazon_left
 vgnetwork.it##.amazon_similarity
