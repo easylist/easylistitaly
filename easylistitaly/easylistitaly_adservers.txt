@@ -51,6 +51,7 @@
 ||exmarketplace.com^$third-party
 ||firebanner.com^$third-party
 ||gbucket.ch^$third-party
+||hbagency.it^$third-party
 ||inaffiliago.it^$third-party
 ||ioladv.it^$third-party
 ||iperbanner.com^$third-party
