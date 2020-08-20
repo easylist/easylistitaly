@@ -264,7 +264,7 @@ latitudeslife.com###head_banner
 fxempire.it###head_banners
 cronachemaceratesi.it###head_sponsor
 beverfood.com###headbanner
-andriaviva.it,bariviva.it,barlettaviva.it,bisceglieviva.it,bitontoviva.it,canosaviva.it,cerignolaviva.it,coratoviva.it,giovinazzoviva.it,margheritaviva.it,minervinoviva.it,modugnoviva.it,molfettaviva.it,ruvoviva.it,sanferdinandoviva.it,spinazzolaviva.it,terlizziviva.it,traniviva.it,trinitapoliviva.it###header-banner
+andriaviva.it,bariviva.it,barlettaviva.it,bisceglieviva.it,bitontoviva.it,canosaviva.it,cerignolaviva.it,coratoviva.it,giovinazzoviva.it,gravinalife.it,margheritaviva.it,minervinoviva.it,modugnoviva.it,molfettaviva.it,ruvoviva.it,sanferdinandoviva.it,spinazzolaviva.it,terlizziviva.it,traniviva.it,trinitapoliviva.it###header-banner
 modenaonline.info,parmaonline.info,reggionline.com,sportreggio.it###header-banner-pane
 rinnovabili.it###header-bottom
 f1sport.it###header-right-section
@@ -918,6 +918,7 @@ bora.la##.headerbtm
 internazionale.it##.hentry--banner
 transfermarkt.it##.hide-for-small[style="height: 273px; text-align: center; overflow: hidden;"]
 formiche.net##.himedia_sidebar
+altamuralife.it,andriaviva.it,bariviva.it,barlettaviva.it,bisceglieviva.it,bitontoviva.it,canosaviva.it,cerignolaviva.it,coratoviva.it,giovinazzoviva.it,gravinalife.it,margheritaviva.it,materalife.it,minervinoviva.it,modugnoviva.it,molfettaviva.it,ruvoviva.it,sanferdinandoviva.it,spinazzolaviva.it,terlizziviva.it,traniviva.it,trinitapoliviva.it##.home-election-wrapper
 gazzettadasti.it##.homepage-central-ban
 corriere.ca##.horizontal_banner
 radioitalia.it##.iTunes
