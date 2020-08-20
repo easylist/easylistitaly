@@ -357,6 +357,7 @@
 ||glpress.it/wordpress/sponsor/
 ||gnoccatravels.com/files/banner
 ||gnoccatravels.com/files/pbblct
+||goblins.net^*/banner/
 ||gocity.it/library/banner/
 ||goldwebtv.it/userfiles/file/banners/
 ||gonews.it/banner/
