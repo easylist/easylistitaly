@@ -564,6 +564,7 @@
 ||laprovinciadilecco.it^*/banner/
 ||laquila1.it/images/banners/
 ||laregione.ch/ban.asp?
+||larionews.com^*-MANCHETTE-
 ||larivieraonline.com^*/banner/
 ||larivieraonline.com^*/takeover/
 ||larivieraonline.it^*/banner/
