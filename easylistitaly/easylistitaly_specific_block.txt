@@ -1187,7 +1187,7 @@
 ||wiitalia.it/230x90.php
 ||wikilao.com^*/banners/
 ||windows.net/banner/$domain=lavocedimanduria.it
-||windows.net/specialeelezioni/$domain=altamuralive.it|barilive.it|cassanolive.it|lavocedimanduria.it|santeramolive.it
+||windows.net/specialeelezioni/$domain=altamuralive.it|barilive.it|bitontolive.it|cassanolive.it|coratolive.it|giovinazzolive.it|lavocedimanduria.it|ruvolive.it|santeramolive.it|terlizzilive.it
 ||wintersport-news.it/banners/
 ||worldweb.it/images/banners/
 ||worldweb.it/images/stories/registrazionemotoridiricerca.jpg
