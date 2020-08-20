@@ -150,6 +150,8 @@
 ||casertanews.it/bann.asp?
 ||casertaweb.com/sfondo
 ||catanzaroinforma.it/public/sponsor/
+||cb01.events/imgc/b_
+||cb01.events/imgc/side/s_
 ||cbritaly.it^*/downloadfilebanner.php?
 ||cdvweb.it^*/downloadfilebanner.php?
 ||centrometeo.com^*/banner_
