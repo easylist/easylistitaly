@@ -978,11 +978,11 @@ sportivissimo.com##.menu4
 newslinet.com,tvcity.it##.metaslider
 rovigooggi.it##.miele
 bastardidentro.it##.minibox
-bisceglielive.it,lavocedimanduria.it##.mkt-300x250
-bisceglielive.it##.mkt-300x60
+bisceglielive.it,cassanolive.it,lavocedimanduria.it##.mkt-300x250
+bisceglielive.it,cassanolive.it##.mkt-300x60
 bisceglielive.it,lavocedimanduria.it##.mkt-300x90
-bisceglielive.it,lavocedimanduria.it##.mkt-728x90
-bisceglielive.it##.mkt-970x250
+bisceglielive.it,cassanolive.it,lavocedimanduria.it##.mkt-728x90
+bisceglielive.it,cassanolive.it##.mkt-970x250
 bisceglielive.it##.mkt-editorial
 ilturista.info##.more-holder
 secondamano.it##.moreblock
