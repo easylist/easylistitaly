@@ -114,6 +114,7 @@
 ||macrolibrarsi.org/banner/
 ||macrolibrarsi.s3.amazonaws.com/img/banner_partner/
 ||mediatickets.ch/widgets/$third-party
+||meteosuper.it/public/adv_script.js
 ||mmvid.s3.amazonaws.com^
 ||mytrend.it/gifs/banner/
 ||napolimagazine.blob.core.windows.net/banner-
