@@ -178,6 +178,8 @@
 ||cittaditorino.net/banners/
 ||cityrumors.it/images/banners/
 ||cityrumors.it/modules/mod_flexbanner/
+||cityrumors.it^*/banner-
+||cityrumors.it^*/skin-
 ||click.html.it^
 ||clubalfa.it/images/banner/
 ||colonnineelettriche.it^*/banner/

@@ -314,6 +314,7 @@ asroma.it###logos
 eurogamer.it###low-leaderboard
 salernonotizie.it###machette_left
 salernonotizie.it###machette_right
+tuttopotenza.com###main-slim
 catanzaroinforma.it###mainsponsor
 catanzaroinforma.it###mainsponsorcronaca
 legnanonews.com###makeMeScrollable
@@ -602,6 +603,7 @@ fastweb.it,ilgazzettinovesuviano.com,lettera43.it,tpi.it##.advertising
 loggiap2.com,sienafree.it##.advs
 quotidianodigela.it##.advs-title
 agi.it##.agi-ad-wrap
+cityrumors.it##.ai-viewport-1
 filodiritto.com##.altro_box_banner_dx
 filodiritto.com##.altro_box_banner_sx
 gamemag.it,videogame.it##.amazon
@@ -1332,6 +1334,9 @@ donnamoderna.com##div[style="margin: 10px 0px 0px 0px; padding: 0px 15px 9px 15p
 globalist.it##div[style="margin: 5px 0;padding: 9px; border: 1px solid #ccc; zoom:1;overflow:hidden;height:80px;width:280px;font: normal 12px/14px arial, sans-serif"]
 ultimissime.net##div[style="margin:auto; background-image:url('/images/stories/professionecasinO.jpg'); height: 153px; width: 287px"]
 motofan.it##div[style="min-height: 90px;overflow: visible;"]
+tuttopotenza.com##div[style="overflow: hidden; height: 250px; width: 300px; margin: auto;"]
+tuttopotenza.com##div[style="overflow: hidden; height: 250px; width: 970px; margin: auto;"]
+tuttopotenza.com##div[style="overflow: hidden; height: 600px; width: 160px; margin: auto;"]
 liguriawebcam.com##div[style="overflow:hidden;height:90px;margin:4px 0;"]
 freeones.it##div[style="padding: 0px; margin: 10px 0px; height: 100px; width: 898px; background-color: #4C89F9; border: 1px solid #4C89F9"]
 puntosicuro.it##div[style="padding: 5px; font-family: Verdana, Arial; font-size: 10px;"]
@@ -1358,6 +1363,7 @@ gamesource.it##div[style="position:relative; width:300px; height:250px; margin-t
 romadailynews.it##div[style="position:relative;box-sizing:content-box;padding:10px 10px 10px 10px;border:2px solid #0A5ED6;zoom:1;overflow:hidden;height:80px;width:280px;text-align:left;"]
 ilquotidianocalabria.it##div[style="position:relative;width:234px; height:90px;float:right;"]
 it.msn.com,sanihelp.it##div[style="text-align: center; line-height: 1.33em; color: #666666; font-weight: bold; margin-bottom: 8px; height: 262px;"]
+tuttopotenza.com##div[style="text-align: center; width: 300px; height: 250px;"]
 pctuner.net##div[style="text-align:center; clear:both; width:316px; height:265px;"]
 mymovies.it##div[style="text-align:center; top:0px; margin-left:auto; margin-right:auto; height:120px; left:0px; float:left; width:100%; overflow:visible;"]
 mymovies.it##div[style="text-align:center; top:0px; margin-left:auto; margin-right:auto; height:190px; left:0px; float:left; width:100%; overflow:visible;"]
