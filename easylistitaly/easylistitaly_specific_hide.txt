@@ -979,7 +979,7 @@ rovigooggi.it##.miele
 bastardidentro.it##.minibox
 bisceglielive.it,lavocedimanduria.it##.mkt-300x250
 bisceglielive.it##.mkt-300x60
-bisceglielive.it##.mkt-300x90
+bisceglielive.it,lavocedimanduria.it##.mkt-300x90
 bisceglielive.it,lavocedimanduria.it##.mkt-728x90
 bisceglielive.it##.mkt-970x250
 bisceglielive.it##.mkt-editorial

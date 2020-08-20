@@ -1181,6 +1181,7 @@
 ||wiitalia.it/230x90.php
 ||wikilao.com^*/banners/
 ||windows.net/banner/$domain=lavocedimanduria.it
+||windows.net/specialeelezioni/$domain=lavocedimanduria.it
 ||wintersport-news.it/banners/
 ||worldweb.it/images/banners/
 ||worldweb.it/images/stories/registrazionemotoridiricerca.jpg
