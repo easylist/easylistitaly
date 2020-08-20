@@ -14,6 +14,7 @@
 /advpirchiofooter.
 /advsfondo/*
 /affiliati_img/*
+/ajax/adv/?
 /altro/adv/*
 /annunciogoogle.
 /gfx/adv/*

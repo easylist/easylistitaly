@@ -353,6 +353,7 @@
 ||giornaledimontesilvano.com/images/banners/
 ||giornaledisiracusa.it/images/banners/
 ||giornalettismo.com^*/skin/
+||giornalisti.vivere.srl^
 ||gizchina.it^*/mrdeals-
 ||glpress.it/wordpress/sponsor/
 ||gnoccatravels.com/files/banner
@@ -1169,6 +1170,7 @@
 ||viterbopost.it^*/Partner.
 ||vivafm.it^*/banners/
 ||vivere.biz/images/banners_
+||vivere.news/images/banners_
 ||vivereancona.it/images/banners_
 ||viverejesi.it/images/banners_
 ||voceditalia.it/banner.js
