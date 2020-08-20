@@ -560,6 +560,7 @@
 ||lantidiplomatico.it/img/coupon.png
 ||lapiazzagrande.it/pubb/
 ||lapiazzaweb.it/banner/
+||lapressa.it/sponsors/
 ||laprovinciadibiella.it/upload/webpublic/
 ||laprovinciadilecco.it^*/banner/
 ||laquila1.it/images/banners/
