@@ -293,7 +293,7 @@
 ||filmtv.it/skin/
 ||filodiritto.com/banner/
 ||finanzainchiaro.it/images/ava-
-||fiorentinanews.com^*/banner/
+||fiorentinanews.com^*/Banner
 ||firenzespettacolo.it/gestione/BadMS/
 ||fm-world.it^*/banner-
 ||focus-online.it/files/banner/
