@@ -1581,3 +1581,7 @@ gommeblog.it##td[style="width: 335px; height: 251px; text-align: center;"]
 juzaphoto.com##td[style="width:170px; vertical-align:top; text-align:center"]
 clubalfa.it##td[width="305"][height="205"]
 clubalfa.it##td[width="310"][height="255"]
+! Site Specific filters (used with $generichide)
+msn.com##a[href^="https://marketing.net.occhiali24.it/"]
+msn.com##a[href^="https://prf.hn/"]
+msn.com##a[href^="https://www.awin1.com/"]
