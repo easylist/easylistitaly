@@ -1128,6 +1128,9 @@
 ||valledaostaglocal.it^*/box/
 ||vallesabbianews.it/files/Image/Banner/
 ||valori.it/banner/
+||valsassinanews.com^*-ANNUNCIO-
+||valsassinanews.com^*-banner
+||valsassinanews.com^*-MANCHETTE-
 ||vanityfair.it/loaderframe.html
 ||vanityfair.it^*_105x65.jpg
 ||varesenews.it/banner/
