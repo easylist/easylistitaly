@@ -425,6 +425,7 @@
 ||ilfattoquotidiano.it/external/assicurazioni_300x100/
 ||ilfattoquotidiano.it^*/banner_casait.jpg
 ||ilfattoquotidiano.it^*/pulsante-2.jpg
+||ilfoglio.it/js/bannerInterstitial.js
 ||ilfogliocostadamalfi.it/media/banner-
 ||ilfogliocostadamalfi.it/media/banner_
 ||ilfriuli.it/writable/images/*_skin.jpg
