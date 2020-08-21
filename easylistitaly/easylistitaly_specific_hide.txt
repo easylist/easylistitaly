@@ -1015,7 +1015,7 @@ assopoker.com##.prbox-table-container
 html.it##.premium-links-container-home-ms
 ciao.it##.priceComp2
 paginegialle.it##.prio
-moto.it,movieplayer.it,neveitalia.it,pneusnews.it,stiledimoda.it,vanityfair.it##.promo
+comingsoon.it,moto.it,movieplayer.it,neveitalia.it,pneusnews.it,stiledimoda.it,vanityfair.it##.promo
 voglioporno.com##.promo-462x66
 dimensionesuonoroma.it##.promo-image
 dimensionesuonoroma.it##.promo-list
