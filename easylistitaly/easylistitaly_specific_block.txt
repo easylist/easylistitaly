@@ -1227,7 +1227,7 @@
 ||stgy.ovh/~shared/images/d_a/
 ||today.it/~shared/cgi-bin/d_a/
 ! Eurostreaming
-|https://$script,third-party,domain=eurostreaming.cloud
+|https://$script,third-party,domain=eurostreaming.cash|eurostreaming.cloud
 ! Eurekaddl
 @@||connect.facebook.net^$script,domain=eurekaddl.site
 @@||disqus.com^$script,xmlhttprequest,domain=eurekaddl.site
