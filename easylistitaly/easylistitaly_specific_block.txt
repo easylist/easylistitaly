@@ -865,6 +865,7 @@
 ||radiomanamana.it^*/skin-radiomana.png
 ||radiomanasport.it^*/EU.jpg
 ||radiomarte.it/site/images/sponsor/
+||radiomarte.it^*_Banner_
 ||radiomondo.it/images/banners/
 ||radionorba.it/sp/flash/banner-
 ||radionostalgia.fm^*/banner/
