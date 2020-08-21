@@ -1002,6 +1002,8 @@
 ||supertennis.tv/images/banner_
 ||superzeta.it^*/dummy.gif
 ||surface-phone.it^*-banner-
+||tantifilm.rest^*/bannersca.png
+||tantifilm.rest^*/wsxhQH2QyPxFBhiByjd1hQ.gif
 ||teatronaturale.it^*/banner_
 ||techassistance.it/media//adv/
 ||technologyreview.it/img/banner/
