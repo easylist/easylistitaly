@@ -1183,6 +1183,7 @@
 ||voceditalia.it/banner_ev.js
 ||vocenuova.tv/assets/uploads/banners/
 ||volleyball.it^*/banner-
+||vuemmetv.it^*/banner-
 ||vvvvid.it/vast/
 ||wallstreetitalia.com/img/*-798x27.gif
 ||wallstreetitalia.com/img/skin_
