@@ -696,6 +696,7 @@
 ||milanofinanza.it^*/banner-
 ||milanofinanza.it^*/promo/
 ||mio-ip.eu^*/offerte-amazon-
+||miotv.it/public/componenti/
 ||mmorpgitalia.it/media/aion
 ||mmorpgitalia.it/von/
 ||mobi2b.it^*/downloadfilebanner.php?
