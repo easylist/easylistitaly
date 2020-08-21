@@ -824,6 +824,7 @@ pneusnews.it##.boxes
 starbene.it##.brand_logo_hp
 forexinfo.it##.broker-tabella_container_aside
 wiitalia.it##.bsmall
+game-game.it##.btn-play
 tivusat.tv##.buy
 qds.it##.bx-home-bnr-mini
 lapiazzacastelmadama.com##.bx-wrapper
