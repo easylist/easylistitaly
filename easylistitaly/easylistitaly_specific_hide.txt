@@ -376,7 +376,6 @@ catanzaroinforma.it###pubbliinmezzo
 meteo.it###publi-medi
 tio.ch###publiRed0
 nonsolocap.it###qk
-moto.it###rchm_overlay
 vg247.it###recommendations
 tio.ch###rectangleGallery
 ticinonews.ch###rectangleleaderhome1_FormView1_ctl00_Banmanpro3Label
@@ -504,7 +503,7 @@ finanza.com###top_content
 goblins.net,oroscopo.it###top_header
 tusciaweb.eu###topalto
 eccolanotiziaquotidiana.it,mrwebmaster.it,tuttoshoppingmotori.com###topbanner
-automoto.it,moto.it###topboard
+automoto.it###topboard
 everyeye.it,mmorpgitalia.it###topskin_clicktag
 megabass.it###var_width[style="width: 180px !important;"]
 tipiace.it###vetrina
@@ -855,6 +854,11 @@ macitynet.it##.contentTop
 toro.it##.contentleaderboard
 salernonotizie.it##.contskin
 windowsblogitalia.com##.corrispondenza
+moto.it##.crm-unit-bx1
+moto.it##.crm-unit-bx2
+moto.it##.crm-unit-bx3
+moto.it##.crm-unit-bx4
+moto.it##.crm-unit-mh
 tiscali.it##.dannperdere
 ebay.it,kijiji.it##.dart-banner-slot
 giornaledibrescia.it##.dealboxTop
@@ -982,6 +986,7 @@ sportivissimo.com##.menu4
 newslinet.com,tvcity.it##.metaslider
 rovigooggi.it##.miele
 bastardidentro.it##.minibox
+moto.it##.mit-skin-spacer
 altamuralive.it,barilive.it,barlettalive.it,bisceglielive.it,bitontolive.it,cassanolive.it,coratolive.it,giovinazzolive.it,lavocedimanduria.it,okfirenze.com,okmugello.it,okvaldisieve.it,ruvolive.it,santeramolive.it,terlizzilive.it,termolionline.it,unicosettimanale.it##.mkt-300x250
 altamuralive.it,barilive.it,barlettalive.it,bisceglielive.it,bitontolive.it,cassanolive.it,coratolive.it,giovinazzolive.it,lavocedimanduria.it,okfirenze.com,okmugello.it,okvaldisieve.it,ruvolive.it,santeramolive.it,terlizzilive.it,termolionline.it,unicosettimanale.it##.mkt-300x60
 altamuralive.it,barilive.it,barlettalive.it,bisceglielive.it,bitontolive.it,cassanolive.it,coratolive.it,giovinazzolive.it,lavocedimanduria.it,okfirenze.com,okmugello.it,okvaldisieve.it,ruvolive.it,santeramolive.it,terlizzilive.it,termolionline.it,unicosettimanale.it##.mkt-300x600
@@ -1016,7 +1021,7 @@ assopoker.com##.prbox-table-container
 html.it##.premium-links-container-home-ms
 ciao.it##.priceComp2
 paginegialle.it##.prio
-comingsoon.it,moto.it,movieplayer.it,neveitalia.it,pneusnews.it,stiledimoda.it,vanityfair.it##.promo
+comingsoon.it,movieplayer.it,neveitalia.it,pneusnews.it,stiledimoda.it,vanityfair.it##.promo
 voglioporno.com##.promo-462x66
 dimensionesuonoroma.it##.promo-image
 dimensionesuonoroma.it##.promo-list
