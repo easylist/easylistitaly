@@ -922,6 +922,7 @@
 ||rosa-rossa.com^*/xbn/
 ||rosalio.it^*/adv/
 ||rovigooggi.it/files/miele/
+||rumors.it^*/banner-
 ||saggiamente.com^*-helpsaggiamente.jpg
 ||salernonotizie.it/wp-content/banner/
 ||salernonotizie.it/wp-content/skin/
