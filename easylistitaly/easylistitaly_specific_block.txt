@@ -731,6 +731,7 @@
 ||newslinet.it^*/bann_
 ||newslinet.it^*/banner_
 ||newslinet.it^*_247x56.gif
+||newsly.it^*/aawp/
 ||newz.it^*/sponsor/
 ||nocturno.it^*/banner/
 ||nordesteuropa.it^*/adv/
