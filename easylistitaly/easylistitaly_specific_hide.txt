@@ -211,7 +211,7 @@ affaritaliani.it###consigliati-giochi2
 leggilanotizia.it###cont-banner-sotto-testata
 virgilio.it###cont-leaderboard
 virgilio.it###cont-manchette
-supereva.it,virgilio.it###cont-wallpaper
+dilei.it,supereva.it,virgilio.it###cont-wallpaper
 varesenews.it###cont_Superbanner
 lapiazzacastelmadama.com###container_bottom1_modules
 bisceglielive.it###criteo
