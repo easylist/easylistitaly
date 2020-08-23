@@ -1,9 +1,10 @@
 @@||ad2.neodatagroup.com/uploads/js/sid49jq.js$domain=rai.it|rainews.it
 @@||adnkronos.com/ign/mediacenter/fotogallery/data_01/img/ad_
 @@||adserver.adtech.de/addyn/3.0/1183/3769607/0/170/ADTECH;$script,domain=gioco.it
+@@||adswizz.com/adswizz/js/SynchroClient2.js?$domain=105.net|r101.it|radiomontecarlo.net|virginradio.it
 @@||adultsadv.com/etero/random730_90.php$domain=mrjizz.com|pornotubo.it
-@@||adv.mediamond.it/hp_sponsor/utility_mediamond.js$domain=105.net|r101.it|virginradio.it
-@@||adv.mediamond.it^*/tag_adv_mediamond.js$domain=105.net|r101.it|virginradio.it
+@@||adv.mediamond.it/hp_sponsor/utility_mediamond.js$domain=105.net|r101.it|radiomontecarlo.net|virginradio.it
+@@||adv.mediamond.it^*/tag_adv_mediamond.js$domain=105.net|r101.it|radiomontecarlo.net|virginradio.it
 @@||ansa.it^*/ad-gallery/$image
 @@||antonioranesi.it/cache/Lavori/Pubblicita/$~third-party
 @@||betrad.com/geo/h1.js$domain=corriere.it|gazzetta.it
@@ -64,7 +65,7 @@
 @@||servizi-media-js.tiscali.it/cp/javascript/default/it/main/revsci.js$domain=mail.tiscali.it
 @@||static.youreporter.it/adv/jwplayer.js
 @@||stats.betradar.com^subdocument,domain=sisal.it
-@@||synchrobox.adswizz.com/register2.php?$domain=105.net|r101.it|virginradio.it
+@@||synchrobox.adswizz.com/register2.php$script,domain=105.net|r101.it|radiomontecarlo.net|virginradio.it
 @@||terradidelizie.s3.amazonaws.com/banners/$image,domain=terradidelizie.it
 @@||ubibanca.com^*/ubi-adbanner.js
 @@||videosynd.kataweb.it/advertising/$xmlhttprequest,domain=videosynd.kataweb.it
