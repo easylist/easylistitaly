@@ -82,6 +82,7 @@
 ||generik.nanopress.it/highlight_300x280.php
 ||gigacenter.it^$image,third-party
 ||gratislandia.net/banners/
+||groupon.it/content-assembly/render/$subdocument,third-party
 ||guugol.it^*/banner/
 ||hrs.de/wizard.aspx?
 ||html.it/banner/
