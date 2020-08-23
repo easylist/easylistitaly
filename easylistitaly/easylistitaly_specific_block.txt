@@ -1048,6 +1048,7 @@
 ||tio.ch/img/2013/iframe/postfinance.jpg
 ||tio.ch^*/banner/
 ||tipresentoilcane.com/banner/
+||tiscali.it/amazon/
 ||tiscali.it/planner/
 ||tiscali.it^*/comparasemplice.
 ||tmnews.it^*/banner_
