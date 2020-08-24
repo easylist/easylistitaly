@@ -64,6 +64,8 @@
 ||animeclick.it/immagini/campagna/
 ||animeclick.it/mh3/
 ||animeclick.it/video-intro/
+||animeemanga.it/banner_
+||animeemanga.it^*-prime-video-288x360.
 ||animeforce.org/frames/
 ||annuariodelcinema.it^*/banner-
 ||annuariodelcinema.it^*/banner_
