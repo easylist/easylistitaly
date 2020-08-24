@@ -658,6 +658,8 @@
 ||manduriaoggi.it/layout_nuovo/banner.asp
 ||mangaforever.net^*/fumetti-am.
 ||mangaforever.net^*/sconti-online.jpg
+||mangialibri.com^*/BANNER_
+||mangialibri.com^*300x250
 ||maremmanews.it/images/banners/
 ||marigliano.net/_upload/banner/
 ||marsalaviva.it/images/banners/

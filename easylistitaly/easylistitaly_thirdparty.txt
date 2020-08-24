@@ -108,6 +108,7 @@
 ||kuko.it/banner.
 ||lacasadiriposo.it/images/banner/
 ||libreriadelsanto.it/banners/$third-party
+||libreriauniversitaria.it/iframe_aff_$third-party
 ||linearadio.it/bnrs/
 ||livenetwork.it/skinoverlay/
 ||locandinebest.net/locandina/$subdocument,third-party
