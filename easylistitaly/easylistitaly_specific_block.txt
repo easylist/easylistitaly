@@ -745,6 +745,7 @@
 ||notizie-online.it/banner/
 ||notiziediprato.it/caricaBannerIframe/
 ||notiziediprato.it/uploads/banner/
+||notizieoggi.com^*_banner.
 ||novara.com/images/Banners/
 ||novara.com/public/WAPPS/LinksBannerData/
 ||novara.com^*/MainBanner_
