@@ -1001,6 +1001,10 @@
 ||stradeonline.it/images/banners/
 ||stranieriinitalia.it/images/banners/
 ||strill.it/images/banners/
+||studio93.it^*/firma.jpg
+||studio93.it^*160x738
+||studio93.it^*225x100
+||studio93.it^*798x90
 ||studiocataldi.it/banner/
 ||suannunci.it/cgi-bin/home_pubblicita^
 ||submission.it/banner/
