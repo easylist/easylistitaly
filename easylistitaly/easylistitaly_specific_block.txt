@@ -567,6 +567,8 @@
 ||lapressa.it/sponsors/
 ||laprovinciadibiella.it/upload/webpublic/
 ||laprovinciadilecco.it^*/banner/
+||laprovinciakr.it/images/banners/
+||laprovinciakr.it^*/banner-
 ||laquila1.it/images/banners/
 ||laregione.ch/ban.asp?
 ||larionews.com^*-MANCHETTE-
