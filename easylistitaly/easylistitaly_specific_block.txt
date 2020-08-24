@@ -833,6 +833,7 @@
 ||quattroruote.it^*/box-eni-
 ||quattroruote.it^*/landing/
 ||quattroruote.it^*/logo-eni-generico.
+||quattroruote.it^*/Qhybrid-toyota-
 ||quelliche.net^*/file_banner/
 ||quellidellelica.com/images/banners/
 ||questotrentino.it/sponsor/
