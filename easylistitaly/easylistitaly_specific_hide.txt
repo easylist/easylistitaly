@@ -1220,6 +1220,7 @@ keyforweb.it##.wpmoneyclick_template_single-product
 reteimprese.it##.wrap_banner
 movieplayer.it,multiplayer.it##.wrapper-content-leaderboard
 gazzettinodelchianti.it##.wrapper-top
+hwupgrade.it##.wrapper-xyz
 petizionionline.it##.yahoo
 notizie.it##.yahoo-white-bg
 corrieredinovara.com,corrieredinovara.it##.z-banner
