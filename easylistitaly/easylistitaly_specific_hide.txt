@@ -314,7 +314,7 @@ asroma.it###logos
 eurogamer.it###low-leaderboard
 salernonotizie.it###machette_left
 salernonotizie.it###machette_right
-tuttopotenza.com###main-slim
+fcinternews.it,tuttopotenza.com###main-slim
 catanzaroinforma.it###mainsponsor
 catanzaroinforma.it###mainsponsorcronaca
 legnanonews.com###makeMeScrollable
@@ -1349,10 +1349,12 @@ donnamoderna.com##div[style="margin: 10px 0px 0px 0px; padding: 0px 15px 9px 15p
 globalist.it##div[style="margin: 5px 0;padding: 9px; border: 1px solid #ccc; zoom:1;overflow:hidden;height:80px;width:280px;font: normal 12px/14px arial, sans-serif"]
 ultimissime.net##div[style="margin:auto; background-image:url('/images/stories/professionecasinO.jpg'); height: 153px; width: 287px"]
 motofan.it##div[style="min-height: 90px;overflow: visible;"]
-pianetabasket.com,tuttopotenza.com##div[style="overflow: hidden; height: 250px; width: 300px; margin: auto;"]
-pianetabasket.com,tuttopotenza.com##div[style="overflow: hidden; height: 250px; width: 970px; margin: auto;"]
-tuttopotenza.com##div[style="overflow: hidden; height: 600px; width: 160px; margin: auto;"]
+fcinternews.it,pianetabasket.com,tuttopotenza.com##div[style="overflow: hidden; height: 250px; width: 300px; margin: auto;"]
+fcinternews.it,pianetabasket.com,tuttopotenza.com##div[style="overflow: hidden; height: 250px; width: 970px; margin: auto;"]
+fcinternews.it,tuttopotenza.com##div[style="overflow: hidden; height: 600px; width: 160px; margin: auto;"]
 pianetabasket.com##div[style="overflow: hidden; height: 600px; width: 300px; margin: auto;"]
+fcinternews.it##div[style="overflow: hidden; height: 60px; width: 468px; margin: auto;"]
+fcinternews.it##div[style="overflow: hidden; height: 90px; width: 160px; margin: auto;"]
 liguriawebcam.com##div[style="overflow:hidden;height:90px;margin:4px 0;"]
 freeones.it##div[style="padding: 0px; margin: 10px 0px; height: 100px; width: 898px; background-color: #4C89F9; border: 1px solid #4C89F9"]
 puntosicuro.it##div[style="padding: 5px; font-family: Verdana, Arial; font-size: 10px;"]
