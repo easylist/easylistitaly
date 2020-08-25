@@ -987,6 +987,8 @@
 ||sportando.net/sportando/banner/
 ||sportlive.it/images/*_300x100_
 ||sportlive.it/images/300x100_
+||sportpaper.it^*/PayFan-
+||sportpaper.it^*/PayFan.
 ||sportrentino.it/portale/novitast/getb.asp?
 ||spotandweb.it/banner/
 ||spotmix.libero.it^
