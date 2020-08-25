@@ -22,6 +22,7 @@
 /immagini/adv_
 /inclusioni/adv/*
 /it/adv/*
+/manzoni_hp.js
 /materiali_adv/*
 /mediamondads.
 /pubbl_vert.
