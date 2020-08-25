@@ -621,6 +621,7 @@ insideevs.it##.ap
 ridble.com##.api-box
 romagiornoenotte.it##.areabannerTop
 violanews.com##.article_banners
+ilcittadinomb.it##.artpub
 giardiniblog.it##.asa2_fbh
 quibrianza.it##.aside-banners
 si24.it##.attachment-300x600
