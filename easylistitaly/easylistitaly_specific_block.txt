@@ -1013,6 +1013,7 @@
 ||submission.it/banner/
 ||suedtirol-it.com/images/banner/
 ||superba.it/ad-
+||superscommesse.it^*/bannerquadrati/
 ||supertennis.tv/images/banner-
 ||supertennis.tv/images/banner_
 ||superzeta.it^*/dummy.gif

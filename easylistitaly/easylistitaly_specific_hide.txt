@@ -945,6 +945,7 @@ motousate.it##.item.link
 mtv.it##.itunes
 lifegate.it##.itunesButton
 jacktech.it##.jk_banner
+superscommesse.it##.js_tracking_gtm
 nientepopcorn.it##.justwatch
 vivastreet.it##.kiwii-box-300x250
 lafedelta.it##.lafed-ads
