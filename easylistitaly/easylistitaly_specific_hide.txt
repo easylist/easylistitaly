@@ -857,6 +857,7 @@ macitynet.it##.contentTop
 toro.it##.contentleaderboard
 salernonotizie.it##.contskin
 windowsblogitalia.com##.corrispondenza
+ilmeteo.net##.creatividad
 automoto.it,moto.it##.crm-unit-bx1
 automoto.it,moto.it##.crm-unit-bx2
 automoto.it,moto.it##.crm-unit-bx3
