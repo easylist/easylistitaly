@@ -119,7 +119,7 @@ gruppoesperti.it,laprovinciadicomo.it###banner_header
 palermomania.it###banner_header2
 cronachedibirra.it###banner_in-article
 cronachedibirra.it###banner_in-article_adv
-ilroma.net,subito.it###banner_leaderboard
+subito.it###banner_leaderboard
 html.it###banner_piede_articolo
 paginegialle.it###banner_pushbar
 tuttocampo.it###banner_right_big
@@ -1062,6 +1062,7 @@ ladyradio.it##.right-table5[width="162"]
 film.it##.rightBoxAmazon
 megasesso.com##.rightPubHome
 gazzettadasti.it##.rotate-banner
+ilroma.net##.rotating-banner
 ecodallecitta.it##.rotobanner
 wikihow.it##.rr_container
 nonsolocap.it##.ru
@@ -1088,7 +1089,7 @@ youreporter.it##.sidebar_menu_virgilio
 cosedicasa.com##.sidespot-wrapper
 newnotizie.it##.single_sidebar300x250
 ilmomento.eu##.site-commerc
-andreagaleazzi.com,animeclick.it,ilroma.net,omnicorse.it##.skin
+andreagaleazzi.com,animeclick.it,omnicorse.it##.skin
 iovivoaroma.org##.skin_link_top
 sky.it##.skybet_spalla
 gioco.it##.skyscraper
@@ -1278,9 +1279,6 @@ alvolante.it##div[id^="dfp-alv-slot"]
 ebikecult.it,mtbcult.it##div[id^="id="mtbcu-"]
 gpone.com##div[style=" margin:auto; margin-top:0px; margin-bottom:0px; width:730px; height:92px;"]
 gpone.com##div[style=" margin:auto; margin-top:5px; margin-bottom:5px; width:730px; height:92px;"]
-ilroma.net##div[style=" width: 214px; height: 82px;"]
-ilroma.net##div[style=" width: 300px; height: 250px;"]
-ilroma.net##div[style=" width: 990px; height: 30px;"]
 laregione.ch##div[style=" width:980px; margin-left:auto; margin-right:auto;background:#d8d8d8;height:35px; z-index:150;"]
 globalist.it##div[style="background-color: #555555; width: 310px; float: left; margin-top: 0px; padding-top: 25px; height: 274px;"]
 ioleggoletichetta.it##div[style="background-color: #FFFFFF; width: 1200px; height: 100px; vertical-align: top"]

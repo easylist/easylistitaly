@@ -481,7 +481,10 @@
 ||ilquotidianofvg.it/provinciaud.jpg
 ||ilquotidianofvg.it/radiospazio.jpg
 ||ilquotidianofvg.it/thun.jpg
-||ilroma.net^*/rotor/
+||ilroma.net^*-banner_
+||ilroma.net^*/Dial_WEB.png
+||ilroma.net^*/rotating_banner/
+||ilroma.net^*_skin.
 ||ilromanista.it/images/banners/
 ||ilsalvagente.it/imgmol/
 ||ilsalvagente.it/immagini/banner120x60-
