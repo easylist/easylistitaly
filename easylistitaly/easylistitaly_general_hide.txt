@@ -96,6 +96,7 @@
 ##.advPostLibri
 ##.adv_articolo
 ##.adv_esterno
+##.adv_margin
 ##.adv_oriz
 ##.adv_vert
 ##.advhead
