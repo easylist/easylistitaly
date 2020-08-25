@@ -549,6 +549,8 @@
 ||lacnews24.it/filemanager/skinz/
 ||ladige.it/internal/immobiliare/
 ||ladigetto.it/files/banners/
+||ladiscussione.com^*/Banner-
+||ladiscussione.com^*/banner_
 ||lafedelta.it^*/banner/
 ||lafeltrinelli.it^*/Partner/
 ||lagazzettadelmezzogiorno.it/banner_pk/
