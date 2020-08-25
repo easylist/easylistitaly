@@ -620,6 +620,7 @@ pyrosonline.it##.anyClass[style="visibility: visible; overflow: hidden; position
 insideevs.it##.ap
 ridble.com##.api-box
 romagiornoenotte.it##.areabannerTop
+radiocuore.it##.areaclick
 violanews.com##.article_banners
 ilcittadinomb.it##.artpub
 giardiniblog.it##.asa2_fbh
