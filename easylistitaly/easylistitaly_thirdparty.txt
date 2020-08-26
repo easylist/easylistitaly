@@ -36,6 +36,7 @@
 ||ciaotour.com/it/client/hotels/inline.htm?*&promo=$subdocument
 ||cinetrailer.tv/skin/
 ||city-news.it/do/vast/
+||cloudfront.net^*/sponsor/$domain=violachannel.tv
 ||clubshop.com/banners/
 ||contactlab.it^*/Banner/
 ||corriere.it/coupon/

@@ -241,6 +241,7 @@ gqitalia.it###fogliaBanner
 lavocedivenezia.it,ttmweb.it###footer
 insegreto.it###footer-banners
 ladige.it###footer-leaderboard
+violachannel.tv###footer-sponsor
 red-live.it###footer_banner
 fc-suedtirol.com###footersponsor
 lega-pro.com###fpssContainer381
