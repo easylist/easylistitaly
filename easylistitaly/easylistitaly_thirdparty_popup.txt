@@ -3,7 +3,6 @@
 ||betclic.it/partner.aspx?$popup
 ||edreams.it/?affiliate=$popup
 ||funpage.it^$popup,third-party
-||goo.gl^$popup,domain=ispazio.net
 ||incontripersesso.com/landing/$popup
 ||lupoporno.com^$popup,third-party
 ||okincontri.com^$popup,third-party
