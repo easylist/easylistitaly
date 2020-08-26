@@ -425,7 +425,6 @@
 ||ilfriuli.it/writable/images/animazione-
 ||ilfriuli.it/writable/images/banner-
 ||ilghirlandaio.com/web/template/banners/
-||ilgiornale.it^*/banner_
 ||ilgiornaledabruzzo.it/IMG-pri/Cantina-Sangro-2014-IlGdA.png
 ||ilgiornaledabruzzo.it/wp-content/uploads/2013/05/Ai-Viali-Lanciano.png
 ||ilgiornaledabruzzo.it/wp-content/uploads/2013/06/Ferrovia-Adriatico-Sangritana-1912-20121.png
@@ -437,6 +436,10 @@
 ||ilgiornalediragusa.it/images/banners/
 ||ilgiornaledireggio.it/images/banner/
 ||ilgiornaledireggio.it/img/bh/
+||ilgiornaleoff.ilgiornale.it^*-300x250mm.
+||ilgiornaleoff.ilgiornale.it^*/Banner-
+||ilgiornaleoff.ilgiornale.it^*/Banner_
+||ilgiornaleoff.ilgiornale.it^*/side_banner.
 ||ilmamilio.it^*/banners/
 ||ilmessaggero.it/img/banner_
 ||ilmetapontino.it/images/banners/
