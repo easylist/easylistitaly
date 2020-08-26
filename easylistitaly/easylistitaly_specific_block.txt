@@ -207,6 +207,9 @@
 ||corriere.ca^*/Banners/
 ||corriere.it^*/adv/
 ||corrierecomo.it/images/banners/
+||corrieredellacalabria.it^*/banner-
+||corrieredellacalabria.it^*/banner_
+||corrieredellacalabria.it^*/FinCalabra-20.
 ||corrieredicomo.it/images/banners/
 ||corrieredigela.it/public/sponsor/
 ||corrierediragusa.it^*/banner/
