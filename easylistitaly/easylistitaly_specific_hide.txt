@@ -1019,6 +1019,7 @@ lostrillone.tv##.pull-left
 lostrillone.tv##.pull-right
 telestense.it##.pushbar
 quotidianosanita.it##.qs_n_interno_basso
+html.it##.rail-800
 violanews.com##.rcsmedia_container
 ticinolibero.ch##.redbar
 mobimart.it##.resp-container
