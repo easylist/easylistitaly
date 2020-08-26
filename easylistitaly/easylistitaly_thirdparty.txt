@@ -131,6 +131,7 @@
 ||promo.ezstatic.com^
 ||pronostitalia.com/banner/
 ||pronostitalia.com/images/giocaconwilliamhill.png
+||ratiolegisweb.it^*/pe728x90bis.
 ||rdn.it/images/BANNER/
 ||resources.saldiprivati.com^$third-party
 ||riparautonline.com/banner/

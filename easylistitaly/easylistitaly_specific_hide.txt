@@ -555,7 +555,9 @@ radioitalia.it##.acquista
 4risate.com,7per24.it,allrecipes.it,ilprimatonazionale.it,jugo.it,lacrocequotidiano.it,lonelyplanetitalia.it,mesagne.me,milanlive.it,mondoplay.it,mondoxbox.com,ridble.com,servizioallerta.it,smartbuildingitalia.it,trend-online.com,tripadvisor.it##.ad
 tusciaweb.eu##.ad-article
 corriereitaliano.com##.ad-box
+laltrapagina.it##.ad1
 guidafisco.it##.ad2
+laltrapagina.it##.ad5
 portaportese.it##.adL
 theitaliantimes.it##.adb
 trustpilot.it##.adblock
