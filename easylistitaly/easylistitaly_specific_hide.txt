@@ -431,7 +431,6 @@ qualenergia.it###stripbar
 autoxy.it###subito-sponsor
 lavoripubblici.it###superBanner
 hdblog.it###sx
-fiscoetasse.com###syTagContainer
 diretta.it###tab-bonus-offers
 diretta.it###tab-odds
 ladyradio.it###table128[width="492"]
