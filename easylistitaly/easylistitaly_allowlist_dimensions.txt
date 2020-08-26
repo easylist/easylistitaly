@@ -2,5 +2,4 @@
 @@||italiamilitare.it^*-120x60.
 @@||media.blogo.it/media/*_320x250_
 @@||oggiroma.it/public/news_foto/300x250_
-@@||widget.traderlink.it/modules/marketmap/*=300x250&
 @@||zeusnews.it/thumbs/1/300x250/300x250-

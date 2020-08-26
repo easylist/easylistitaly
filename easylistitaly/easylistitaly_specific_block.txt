@@ -108,17 +108,10 @@
 ||bergamoesport.it^*/sponsor/
 ||bergamonews.it/agp/
 ||bergamosera.com^*/wp-banners/
-||beverfood.com^*/SKIN_
-||beverfood.com^*650x80b
-||beverfood.com^*banner
-||beverfood.com^*orizontalea
-||beverfood.com^*wallpaper
 ||bikeitalia.it/banner/
 ||bikeitalia.it^*/banner-
 ||bikeracing.it/bannersbk.jpg
 ||bikeracing.it/sfondo.jpg
-||bitmat.it^*/downloadfilebanner.php?
-||blitzquotidiano.it^*/poweredbyaruba.
 ||blogosfere.it/js/mjx.php
 ||blogosfere.it/js/mjx2.js
 ||bloopers.it/images/sponsor/
@@ -153,8 +146,6 @@
 ||catanzaroinforma.it/public/sponsor/
 ||cb01.events/imgc/b_
 ||cb01.events/imgc/side/s_
-||cbritaly.it^*/downloadfilebanner.php?
-||cdvweb.it^*/downloadfilebanner.php?
 ||centrometeo.com^*/banner_
 ||centrometeoitaliano.it/images/portaguelfa.jpg
 ||centrosuono.com^*/banners/
@@ -185,7 +176,6 @@
 ||clubalfa.it/images/banner/
 ||colonnineelettriche.it^*/banner/
 ||comic-soon.com^*/adv/
-||comingsoon.it/img/compra-su-amazon.png
 ||comingsoon.it/imgdb/banner/
 ||comprovendolibri.it/sponsor/
 ||comuniecitta.it^*/amazon
@@ -240,8 +230,6 @@
 ||di-roma.com/images/fabio/
 ||digisesso.com/images/transparent.gif
 ||digisesso.com:81/images/transparent.gif
-||digital-forum.it/bannerdtt/
-||digital-news.it/img/banner/
 ||dimmidipiu.com/ddpfiles/adv/
 ||dimmidipiu.com/ddpfiles/bannerslides^
 ||dimmidipiu.com/images/banners/
@@ -253,7 +241,6 @@
 ||djmagitalia.com^*-banner-
 ||djmagitalia.com^*/BANNER_
 ||djmagitalia.com^*_skin_
-||donnamoderna.com^*/bg-immobiliare.png
 ||dragonballgt.it^*/skin_
 ||drivingitalia.net/tuttiautopezzi.gif
 ||dueruote.it/asset/img/partner/
@@ -378,11 +365,7 @@
 ||gustissimo.it/stili/locali/300x120_
 ||h24notizie.com/wp-content/banners/
 ||hbritalia.it/images/*_300x300.jpg
-||hdblog.it^*/skin/
-||hdblog.it^*/skin_
 ||healthdesk.it/userfiles/Banner
-||hellasverona.it/img/banner/
-||hellasverona.it/sponsor/
 ||hi-techitaly.com/images/banners/
 ||hostingtv.org/files/cubic
 ||hostingtv.org/files/cubicgobbopink
@@ -393,10 +376,7 @@
 ||html5today.it/images/banners/
 ||hubcomunicazione.it/images/banners/
 ||hwmobile.it/images/banners/
-||hwupgrade.it/Amazon/
-||hwupgrade.it/i/spalla-
 ||hwupgrade.it/js/hwu_adv.js
-||hwupgrade.it/speciali/*/300x100-
 ||icnradio.com/images/banners/
 ||identitagolose.it^*/bannerleatherboard_
 ||identitagolose.it^*/leaderboard_
@@ -476,10 +456,6 @@
 ||ilvelino.it^*/banner/
 ||ilvolo.it/images/banners/
 ||ilvolo.it/images/stories/banner-
-||ilwebmaster21.com/wp-content/uploads/2014/07/upload.gif
-||ilwebmaster21.com/wp-content/uploads/2014/12/easy.gif
-||ilwebmaster21.com/wp-content/uploads/2015/06/simple.png
-||ilwebmaster21.com/wp-content/uploads/2016/04/data.gif
 ||ilwebmaster21.it/script1.js
 ||imgpress.it^*/banner1bis
 ||imgpress.it^*/banner2
@@ -489,7 +465,7 @@
 ||indie-roccia.it/itunesbox.php?
 ||indie-rock.it/itunesbox.php?
 ||infooggi.it/banner/
-||informacalcio.quotidiano.net/banner/
+||informacalcio.it/banner/
 ||informazioneonline.it/public/sys.banner/
 ||informazioneweb.org/images/banners/
 ||ininsubria.it/thb.aspx?filename=upload%2fbanners%2f
@@ -604,7 +580,6 @@
 ||liguriawebcam.com/bn/
 ||linchiestaquotidiano.it/Media/banner-
 ||lindro.it/banner/
-||lineaedp.it^*/downloadfilebanner.php?
 ||lipari.biz/banners/
 ||livescore.it/logos/icons/bookmakers/
 ||livescore.it/upload/wrapper.jpg?
@@ -660,7 +635,6 @@
 ||miotv.it/public/componenti/
 ||mmorpgitalia.it/media/aion
 ||mmorpgitalia.it/von/
-||mobi2b.it^*/downloadfilebanner.php?
 ||mobimart.it/ban.
 ||modena2000.it/bnrs/
 ||mole24.it^*-skin-
@@ -730,12 +704,9 @@
 ||oktennis.it/images/*_logo.png
 ||oktennis.it/images/banners/
 ||oltreuomo.com^*/skin-
-||omnicorse.it/pages/skins/
 ||omnimilano.it/dati/banner/
 ||omniroma.it/dati/banner/
 ||ondarock.it/skin/
-||opinione.it/media/*60x150.
-||opinione.it/media/*750x50.
 ||ostiatv.it/upl/banner
 ||oxfordparavia.it/img/babylon.gif
 ||p300.it^*/sponsor-
@@ -748,11 +719,6 @@
 ||paviapiu.it/images/banners/
 ||pc-facile.com/images/banner/
 ||pctuner.net/banner/
-||periodicodaily.com^*-1024x350.
-||periodicodaily.com^*/banner-
-||periodicodaily.com^*/bannergiftanimataheader.gif
-||periodicodaily.com^*/bannerlateralelento.gif
-||periodicodaily.com^*/gifanimatabannerlaterale.gif
 ||perotorino.it/images/banners/
 ||pharmastar.it^*/banner/
 ||pharmastar.it^*/skins/
@@ -995,12 +961,6 @@
 ||telenuovo.it^*/banner/
 ||teleradiostereo.it/flash/banner_
 ||telestense.it/wp-content/banners/
-||telesud3.com/banner/
-||telesud3.com/images/banner/
-||telmi.it/images/brennercom-
-||telmi.it/images/btb_pittogramma.png
-||telmi.it/images/geoliving-
-||telmi.it/images/quifoto-
 ||temi-wordpress.net/wp-content/plugins/maxblogpress-unblockable-popup/
 ||tempoitalia.it/banner/
 ||tenews.it/banner/
@@ -1030,7 +990,6 @@
 ||too.it/bannerframe.htm
 ||topnegozi.it^*/banner/
 ||topolino.it^*/banners/
-||toptrade.it^*/downloadfilebanner.php?
 ||torinodice.it/images/xoikia.jpg
 ||torinoerotica.com/banner/
 ||torinoggi.it^*/150x60_
@@ -1038,11 +997,8 @@
 ||toronews.net/banner/
 ||tp24.it/immagini_banner/
 ||tp24.it/library/_popup_banner.php
-||traderlink.it/images/skin/
 ||trasporti-italia.com^*/banner/
 ||travelnostop.com/banner/
-||treccani.it/Portale/resources/images/bg$image
-||treccani.it^*_300x100_
 ||trend-online.com^*/Banner/
 ||trend-online.com^*/button
 ||trentinotv.it/images/social/banner
@@ -1050,8 +1006,6 @@
 ||triesteallnews.it/images/banners/
 ||troppoforte.net/banner300px/
 ||troppoforte.net/bannersopra/
-||trovaporno.com/banner/
-||trovaporno.com/slide/jss_msn.js
 ||ttgitalia.com/contenuti/banner/
 ||turistipercaso.it^*/adv/
 ||tusciaweb.eu^*/Carrozzeria-fiorillo-

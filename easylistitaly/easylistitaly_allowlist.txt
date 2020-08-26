@@ -1,4 +1,3 @@
-@@||ad2.neodatagroup.com/uploads/js/sid49jq.js$domain=rai.it|rainews.it
 @@||adnkronos.com/ign/mediacenter/fotogallery/data_01/img/ad_
 @@||adserver.adtech.de/addyn/3.0/1183/3769607/0/170/ADTECH;$script,domain=gioco.it
 @@||adswizz.com/adswizz/js/SynchroClient2.js?$domain=105.net|r101.it|radiomontecarlo.net|virginradio.it
@@ -7,8 +6,6 @@
 @@||adv.mediamond.it^*/tag_adv_mediamond.js$domain=105.net|r101.it|radiomontecarlo.net|virginradio.it
 @@||ansa.it^*/ad-gallery/$image
 @@||antonioranesi.it/cache/Lavori/Pubblicita/$~third-party
-@@||betrad.com/geo/h1.js$domain=corriere.it|gazzetta.it
-@@||betrad.com/pub/c/*.js$domain=corriere.it|gazzetta.it
 @@||carloneworld.it^*/tastixhumpp_b12_Pubblicita_Taroccate.png
 @@||carrozzeriabertazzoni.it/immagini/PUBBLICITA.gif
 @@||carrozzeriabertazzoni.it/pubblicita/
@@ -17,8 +14,7 @@
 @@||cheapnet.it/adv/$~third-party
 @@||deejay.it^*download.deejay.it/adv/podcast/$subdocument
 @@||dincontri.com/ads/galleries/crops/$image,~third-party
-@@||dotandad.com/mediamond.jsp?$object,domain=radioitalia.it
-@@||dotandad.com/mediamond?mpo=$script,domain=grazia.it|radioitalia.it|sportube.tv
+@@||dotandad.com/mediamond?mpo=$script,domain=grazia.it|sportube.tv
 @@||dotandad.com/TiscaliAds.js$domain=ansa.it
 @@||doubleclick.net/adj/tuttosport.home/home;sz=336x600,300x250,300x600;=$script,domain=tuttosport.com
 @@||download.deejay.it/adv/podcast/$object
@@ -37,11 +33,10 @@
 @@||ilparking-moto.it/images/flag/gif/ad.gif
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=3bmeteo.com|agi.it|auto.it|capital.it|corrieredellosport.it|guerinsportivo.it|huffingtonpost.it|inmoto.it|la7.it|liveksoft.tv|m2o.it|movieplayer.it|multiplayer.it|radiofreccia.it|radioitalia.it|radiozeta.it|rds.it|rtl.it|tuttosport.com|velvetgossip.it|video.deejay.it|video.espresso.repubblica.it|video.ilsecoloxix.it|video.lanuovasardegna.it|video.lastampa.it|video.rep.repubblica.it|video.repubblica.it|vvvvid.it
 @@||js.neodatagroup.com/uploads/js/rds.js$domain=rds.it
-@@||js49.adagionet.com/uploads/js/sipra.js$domain=rai.it|rainews.it
 @@||labs.ebuzzing.it/blogs/top/getrank?$image
 @@||labs.ebuzzing.it/shared/images/wikiothis/buttons/
 @@||mail.tiscali.it/cp/extras/it/dashboard/300x250.html?
-@@||mediamond.it/MediamondAds.js$domain=grazia.it|radioitalia.it
+@@||mediamond.it/MediamondAds.js$domain=grazia.it
 @@||misterdomain.eu/affiliation/$~third-party
 @@||net-static.tccstatic.com/template/fcinter1908.it/img/banner/logod.gif
 @@||oasjs.kataweb.it/adsetup*.js$script,domain=capital.it|huffingtonpost.it|m2o.it|video.deejay.it|video.espresso.repubblica.it|video.ilsecoloxix.it|video.lanuovasardegna.it|video.lastampa.it|video.rep.repubblica.it|video.repubblica.it
