@@ -910,6 +910,7 @@ coratolive.it##.inner-adv-news
 sardegnareporter.it##.innerfade[style="margin-bottom: 10px; position: relative; height: 295px;"]
 foggiacalciomania.com##.irw-widget
 repubblica.it##.is-marketing
+ispazio.net##.ispaz-adlabel
 tiscali.it##.istella-shopping
 motousate.it##.item.link
 mtv.it##.itunes
