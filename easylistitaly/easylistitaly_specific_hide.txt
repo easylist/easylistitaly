@@ -105,6 +105,8 @@ lavoripubblici.it###bannerSx
 allaguida.it,apollodoro.it,buttalapasta.it,casapoker.it,derapate.it,designmag.it,ecodellosport.it,ecoo.it,fattidicronaca.it,finanzaeborse.it,games4all.it,gaywave.it,haisentito.it,musicroom.it,myluxury.it,nanopress.it,nextmoto.it,nonmidire.it,politica24.it,regaloregali.it,stylosophy.it,suipedali.it,tantasalute.it,tecnocino.it,televisionando.it,ticonzero.info,trackback.it,tshot.it,tuttogratis.it,vivacinema.it,vostrisoldi.it###bannerTop
 ilsalvagente.it###bannerTopInt
 spaziogames.it###banner_300
+ondarock.it###banner_300x250_slot3
+ondarock.it###banner_300x250_slot4
 ilsannioquotidiano.it###banner_468_60
 sportal.it###banner_alto_dx
 sportal.it###banner_alto_sx
