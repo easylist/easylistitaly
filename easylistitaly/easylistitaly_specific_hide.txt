@@ -1000,6 +1000,7 @@ leggioggi.it##.spot-mini
 mostraip.com##.spot1
 a-realestate.it##.spot_banner
 greenstyle.it,motori.it##.sticky-adv
+occhionotizie.it##.sticky_bar_container
 andreagaleazzi.com##.store-box
 radioradio.it##.strack_cli
 ravennaedintorni.it##.strillo
