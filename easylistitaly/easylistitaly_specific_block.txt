@@ -684,6 +684,7 @@
 ||oipamagazine.eu/banner_
 ||oipamagazine.eu^*/banner-
 ||oipamagazine.eu^*/banner/
+||oktennis.it^*/skin/
 ||oltreuomo.com^*/skin-
 ||omnimilano.it/dati/banner/
 ||omniroma.it/dati/banner/
