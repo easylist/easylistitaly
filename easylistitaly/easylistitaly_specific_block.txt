@@ -313,6 +313,7 @@
 ||gamesvillage.it/ajax.php?do=gv_amazon_page&
 ||garedepoca.com/grafica/banner_
 ||gastronauta.it/files/files_banner/
+||gay.it/js/brightcove/adonly.js
 ||gayclubbing.it/banner%20
 ||gazzettabenevento.it/Sito2009/image/banner/
 ||gazzettadiparma.it/resizer/80/80/
