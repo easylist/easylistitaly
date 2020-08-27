@@ -286,6 +286,8 @@
 ||finanzainchiaro.it/images/ava-
 ||fiorentinanews.com^*/Banner
 ||firenzespettacolo.it/gestione/BadMS/
+||firstonline.info^*/300x600.
+||firstonline.info^*/Auto-Doc.
 ||fm-world.it^*/banner-
 ||focus-online.it/files/banner/
 ||focus-online.it/files/img_banner/
