@@ -581,7 +581,7 @@ hwupgrade.it##.amz-wrapper
 voglioporno.com##.analytics-event
 laborsadeipiccoli.com##.annunci
 pyrosonline.it##.anyClass[style="visibility: visible; overflow: hidden; position: relative; z-index: 2; left: 0px; width: 840px;"]
-insideevs.it,omnifurgone.it##.ap
+insideevs.it,omnifurgone.it,omnimoto.it##.ap
 ridble.com##.api-box
 romagiornoenotte.it##.areabannerTop
 radiocuore.it##.areaclick
