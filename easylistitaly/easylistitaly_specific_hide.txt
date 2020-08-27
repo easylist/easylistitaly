@@ -983,6 +983,7 @@ prendiporno.tv##.publis-bottom
 termometropolitico.it##.publy
 lostrillone.tv##.pull-left
 lostrillone.tv##.pull-right
+money.it##.pulsantiplus
 telestense.it##.pushbar
 quotidianosanita.it##.qs_n_interno_basso
 html.it##.rail-800

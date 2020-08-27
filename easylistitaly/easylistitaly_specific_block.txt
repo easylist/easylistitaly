@@ -643,6 +643,8 @@
 ||mondoclassica.it^*/banner/
 ||mondopallone.it^*/skin_
 ||money.it/box-amazon/
+||money.it^*/box-amazon.js
+||money.it^*/etoro/
 ||montecarlonews.it^*/banner/
 ||montecarlonews.it^*/box/
 ||motoclub-tingavert.it/modules/Dv_Banner/
