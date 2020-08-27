@@ -10,6 +10,7 @@ eunews.it###HeaderBanner
 tetractis.it###LeaderBoard
 fantacalcioservice.it###LeaderBoardFooter
 fantacalcioservice.it###LeaderBoardTop
+mymovies.it###Middle3_hp
 liberatv.ch###Minisky
 ininsubria.it###PopUp_Under
 tripadvisor.it###SPONSORED_TOP_10
