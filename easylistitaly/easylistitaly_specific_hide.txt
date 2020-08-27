@@ -581,7 +581,7 @@ hwupgrade.it##.amz-wrapper
 voglioporno.com##.analytics-event
 laborsadeipiccoli.com##.annunci
 pyrosonline.it##.anyClass[style="visibility: visible; overflow: hidden; position: relative; z-index: 2; left: 0px; width: 840px;"]
-insideevs.it##.ap
+insideevs.it,omnifurgone.it##.ap
 ridble.com##.api-box
 romagiornoenotte.it##.areabannerTop
 radiocuore.it##.areaclick
@@ -901,6 +901,7 @@ myword.it##.login-container[style="height:92px;border:0px solid red;text-align:c
 julienews.it##.long_banner_row
 bluerating.com##.long_side_adv
 ludomedia.it##.ludoAdv
+omnifurgone.it##.m1-apb
 buttanissima.it##.machette
 gonews.it##.machette-over-logo
 ilfriuli.it##.main-header__banner
