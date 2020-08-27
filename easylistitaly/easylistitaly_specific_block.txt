@@ -210,6 +210,7 @@
 ||corriereobjects.it^*/banner_dizionario_iphone.gif
 ||corriereobjects.it^*/sponsor/
 ||corriereromagna.it/upload/
+||corrieresalentino.it^*/banner_
 ||corrierinocampaniasport.it^*/banner_
 ||corrierinocampaniasport.it^*/menna.jpg
 ||cosedicasa.com^*/sidespot/
