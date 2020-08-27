@@ -674,6 +674,7 @@
 ||newsly.it^*/aawp/
 ||newz.it^*/sponsor/
 ||nocturno.it^*/banner/
+||nokioteca.net/_immagini/Nokia2720-2.
 ||nordesteuropa.it^*/adv/
 ||notebookitalia.it/images/stories/*_wallpaper_jpg.jpg
 ||notizialocale.it^*/banner-
