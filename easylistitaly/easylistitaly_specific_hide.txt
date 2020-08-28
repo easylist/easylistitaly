@@ -859,6 +859,7 @@ wired.it##.poweredby
 film.it##.ppn_h
 assopoker.com##.prbox-table-container
 paginegialle.it##.prio
+webnews.it##.product__info
 comingsoon.it,neveitalia.it,pneusnews.it,stiledimoda.it,vanityfair.it##.promo
 voglioporno.com##.promo-462x66
 dimensionesuonoroma.it##.promo-image
@@ -948,6 +949,7 @@ leggioggi.it##.spot-mini
 mostraip.com##.spot1
 greenstyle.it,motori.it##.sticky-adv
 occhionotizie.it##.sticky_bar_container
+webnews.it##.sticky_wrapper
 andreagaleazzi.com##.store-box
 radioradio.it##.strack_cli
 ravennaedintorni.it##.strillo
@@ -1063,7 +1065,7 @@ comuniecitta.it,hynerd.it,infotelematico.com,mio-ip.eu,nokioteca.net,techzilla.i
 mentelocale.it##a[href^="https://clk.tradedoubler.com/"]
 animeemanga.it,autobusweb.com,corrieredellacalabria.it##a[href^="https://goo.gl/"]
 gnoccatravels.com##a[href^="https://wellcum.at/"]
-badcomics.it,badgames.it,badtaste.it,badtv.it,beppegrillo.it,cityrumors.it,comingsoon.it,consigli.it,donnamoderna.com,eurogamer.it,everyeye.it,facciabuco.com,frasicelebri.it,game-experience.it,giardiniblog.it,gizchina.it,greenme.it,hdblog.it,hwupgrade.it,mangaforever.net,nerdmovieproductions.it,newsly.it,nientepopcorn.it,notebookcheck.it,punto-informatico.it,ridble.com,rifaidate.it,spaziogames.it,techzilla.it,telefonino.net,topdigamma.it,tuttotek.it,vuemmetv.it##a[href^="https://www.amazon."][href*="tag="]
+badcomics.it,badgames.it,badtaste.it,badtv.it,beppegrillo.it,cityrumors.it,comingsoon.it,consigli.it,donnamoderna.com,eurogamer.it,everyeye.it,facciabuco.com,frasicelebri.it,game-experience.it,giardiniblog.it,gizchina.it,greenme.it,hdblog.it,hwupgrade.it,mangaforever.net,nerdmovieproductions.it,newsly.it,nientepopcorn.it,notebookcheck.it,punto-informatico.it,ridble.com,rifaidate.it,spaziogames.it,techzilla.it,telefonino.net,topdigamma.it,tuttotek.it,vuemmetv.it,webnews.it##a[href^="https://www.amazon."][href*="tag="]
 animeemanga.it##a[href^="https://www.primevideo.com/"][href*="tag="]
 notebookcheck.it##div[id][class] > div[id] > img:first-child
 alvolante.it##div[id^="dfp-alv-slot"]
