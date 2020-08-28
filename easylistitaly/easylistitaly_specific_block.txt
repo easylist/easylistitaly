@@ -1,5 +1,5 @@
 .bid^$script,third-party,domain=animeforce.org
-|blob:$domain=02blog.it|06blog.it|artsblog.it|autoblog.it|bebeblog.it|benessereblog.it|blogo.it|blogosfere.it|booksblog.it|cineblog.it|clickblog.it|comicsblog.it|deluxeblog.it|designerblog.it|ecoblog.it|excite.it|fashionblog.it|gadgetblog.it|gamesblog.it|gossipblog.it|gustoblog.it|managementnotes.it|melablog.it|mobileblog.it|motoblog.it|motorsportblog.it|outdoorblog.it|petsblog.it|pinkblog.it|polisblog.it|queerblog.it|soldiblog.it|soundsblog.it|spaziogames.it|toysblog.it|travelblog.it|tvblog.it
+|blob:$domain=02blog.it|06blog.it|artsblog.it|autoblog.it|bebeblog.it|benessereblog.it|blogo.it|blogosfere.it|booksblog.it|cineblog.it|clickblog.it|comicsblog.it|deluxeblog.it|designerblog.it|ecoblog.it|excite.it|fashionblog.it|gadgetblog.it|gamesblog.it|gossipblog.it|gustoblog.it|managementnotes.it|melablog.it|mobileblog.it|motoblog.it|motorsportblog.it|outdoorblog.it|petsblog.it|pinkblog.it|polisblog.it|queerblog.it|soldiblog.it|soundsblog.it|toysblog.it|travelblog.it|tvblog.it
 ||0-100.it^*/banner-
 ||0781.info^*/banners/
 ||11giovani.it/images/banners/
@@ -16,7 +16,6 @@
 ||abruzzoweb.it^*/banner-
 ||accordiespartiti.it/propalco*.png
 ||accordiespartiti.it/suonarechitarra.jpg
-||acmilan.com^*/sponsor/
 ||acquariofilia.biz/banner/
 ||acquariofilia.biz/images/banner/
 ||adginforma.it/images/banner_
@@ -162,7 +161,6 @@
 ||cinemadelsilenzio.it/banner4.js
 ||cinemaitaliano.info^*/banner/
 ||cinestreaming.uno/img/b_
-||cinquequotidiano.it^*/skin_
 ||ciociaria24.net/ciociaria24-
 ||ciociariaoggi.info/public/img/banner-
 ||ciociariaoggi.info/public/img/bannerino-
@@ -174,14 +172,10 @@
 ||cityrumors.it^*/skin-
 ||classificaporno.com/d/
 ||click.html.it^
-||clubalfa.it/images/banner/
-||colonnineelettriche.it^*/banner/
 ||comic-soon.com^*/adv/
 ||comingsoon.it/imgdb/banner/
 ||comprovendolibri.it/sponsor/
 ||comuniecitta.it^*/amazon
-||concertionline.com^*-1000x30.gif
-||concertionline.com^*/300x1501.gif
 ||condominioitalia.biz^*/banner/
 ||condominioweb.com/bann/
 ||condominioweb.com/banner/
@@ -191,7 +185,6 @@
 ||coni.it/images/banners/*_*.jpg
 ||coni.it/images/banners/sfondi/
 ||console-inf.com/banner/
-||console-tribe.com^*/adv/
 ||coplanet.it^*/bannerzon/
 ||coriglianocalabro.it/images/banners/
 ||coriglianocalabro.it^*/banner/
@@ -259,7 +252,6 @@
 ||edilportale.com/immagini/velux_manchette
 ||ehgoo.com/banner/
 ||elaborare.com^*/banner
-||elaborare.info/forum/vbulletin/images/sfondo.jpg
 ||emiliagol.it//immagini/File_banner/
 ||epolisbari.com/banner/
 ||erostubes.com/590.gif
@@ -272,14 +264,9 @@
 ||eventiesagre.it/images/banner/
 ||exxun.com/adi/
 ||f052.it/archivefile/*/banner-
-||f1passion.it^*/banner.
 ||factotum.ra.it/attachments/banner_
 ||fanoinforma.it/framebannerrotaz.php?
 ||fashiontimes.it/images/banner/
-||fastweb.it/cms/gfx/rcol/facile-bg.png
-||fastweb.it/portale/speciali/hrs/
-||fastweb.it^*/portale/speciali/
-||fastweb.it^*/rcol/immobiliare/
 ||filmatipornohd.com/sponsors/
 ||filmtv.it/skin/
 ||filodiritto.com/banner/
@@ -316,7 +303,6 @@
 ||garedepoca.com/grafica/banner_
 ||gastronauta.it/files/files_banner/
 ||gay.it/js/brightcove/adonly.js
-||gayclubbing.it/banner%20
 ||gazzettabenevento.it/Sito2009/image/banner/
 ||gazzettadiparma.it/resizer/80/80/
 ||gazzettadisondrio.it/images/banner/
@@ -324,15 +310,10 @@
 ||gazzettamatin.com/admin/img_banner/
 ||gazzettaregionale.it/assets/Auto-doc.
 ||gazzettinodelchianti.it/files/immagini-banner/
-||gdsannunci.it/images/bannerpub/
 ||geekissimo.com/images/5sms.gif
 ||genovadice.it/images/oikia.jpg
-||ggpht.com^*/asus_pc_lffl.jpg$domain=lffl.org
-||ggpht.com^*/prezzoverde.jpg$domain=lffl.org
 ||giallozafferano.it/images/banner/
 ||gianlucadimarzio.com^*_skin_
-||giardinaggio.it/@/servizi/dueverticali.asp
-||giorgiotave.it/media/images/sharingimages/2013.gif
 ||giornale.it/img/auto-doc.gif
 ||giornaledelticino.ch/banner/
 ||giornaledimerate.it/banneranalyzer/
@@ -370,7 +351,6 @@
 ||hostingtv.org/files/sportweek
 ||houseofgolf.it/images/banners/
 ||html.it^*/banner/
-||html5today.it/images/banners/
 ||hubcomunicazione.it/images/banners/
 ||hwmobile.it/images/banners/
 ||hwupgrade.it/js/hwu_adv.js
@@ -492,7 +472,6 @@
 ||ladiscussione.com^*/Banner-
 ||ladiscussione.com^*/banner_
 ||lafeltrinelli.it^*/Partner/
-||lagazzettadelmezzogiorno.it/banner_pk/
 ||lagazzettadilucca.it^*/inserzioni/
 ||laltrapagina.it^*/pe4681.
 ||lametino.it/images/banners/
@@ -512,9 +491,6 @@
 ||larivieraonline.com^*/takeover/
 ||larivieraonline.it^*/banner/
 ||larivieraonline.it^*/takeover/
-||laroma24.it/banner/
-||laroma24.it/images/SuperTelefonia.gif
-||laroma24.it^*/skin-
 ||lascommessasportiva.it^*/banners/
 ||lasiciliastore.it/banner/
 ||lasignoraingiallorosso.it^*/banners/
@@ -528,7 +504,6 @@
 ||latitudeslife.com/magazine/adv/
 ||latitudeslife.com^*/banners/
 ||lausc.it/images/banners/
-||laverita.info^*_Banner_
 ||lavocedeltrentino.it^*/banners/
 ||lavocedeltrentino.it^*600x600
 ||lavocedinewyork.com^*/52DBA386-71AE-11.jpg
@@ -572,7 +547,6 @@
 ||lifegate.it^*_skin_
 ||liguriawebcam.com/bn/
 ||linchiestaquotidiano.it/Media/banner-
-||lindro.it/banner/
 ||lipari.biz/banners/
 ||livescore.it/logos/icons/bookmakers/
 ||livescore.it/upload/wrapper.jpg?
@@ -589,7 +563,6 @@
 ||lunico.eu/images/banners/
 ||macexchange.it/included/banner*.bfr
 ||maidireborsa.it/banners/
-||mailexpress.it/images/banner_
 ||mammedomani.it/images/banners/
 ||manduriaoggi.it/layout_nuovo/banner.asp
 ||mangaforever.net^*/fumetti-am.
@@ -602,8 +575,6 @@
 ||marsicalive.it^*banner
 ||masterviaggi.it/banner/
 ||mattinonline.ch^*/banner_
-||mbenz.it/lidaolbia.jpg
-||mbenz.it/tuttoautoricambi.gif
 ||mediagol.it/images/sponsor/
 ||mediakey.tv/uploads/tx_macinabanners/
 ||megabass.it^*/banner_
@@ -729,15 +700,10 @@
 ||professionemotori.it/wp-content/uploads/williamHillbox.png
 ||professionemotori.it/wp-content/uploads/wwf-242x160.jpg
 ||prontotaxi5737.it/images/banners/
-||pubblicitaitalia.it/skin_
-||pubblicitaitalia.it^*/background.jpg
-||pubblicitaitalia.it^*banner_
 ||puglialive.net/dfiles/banners/
 ||puntocellulare.it/banner/
 ||pupia.tv/banner-
 ||qdpnews.it/images/banners/
-||qds.it/docs/mariluranch-
-||qds.it/docs/SICEP.jpg
 ||quattroruote.it^*/box-eni-
 ||quattroruote.it^*/landing/
 ||quattroruote.it^*/logo-eni-generico.

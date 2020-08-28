@@ -47,9 +47,7 @@
 ||ebuzzing.it^$third-party
 ||edinetadv.com^$third-party
 ||epeex.io^$third-party
-||erosadv.com^$third-party
 ||evolutionadv.it^$third-party
-||exmarketplace.com^$third-party
 ||firebanner.com^$third-party
 ||gbucket.ch^$third-party
 ||hbagency.it^$third-party
@@ -62,7 +60,6 @@
 ||linkto.org^$third-party
 ||livepartners.it^$third-party
 ||lopfly.com^$third-party
-||maxiadv.com^$third-party
 ||mediamond.it^$third-party
 ||mondoecommerce.it^$third-party
 ||mycookies.it^$third-party

@@ -44,7 +44,6 @@
 @@||online-retail.unicredit.it/adv/$~third-party
 @@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=sky.it
 @@||portalecomuni.net^*/ShowBanner.aspx$image
-@@||pubblicitaitalia.it/media/*/logo_pubblicita_italia.gif
 @@||repubblica.it/adimages/
 @@||services.brid.tv/player/build/plugins/adunit.js$domain=fidelityhouse.eu|laroma24.it
 @@||servizi-media-js.tiscali.it/cp/javascript/default/it/main/revsci.js$domain=mail.tiscali.it
