@@ -664,6 +664,7 @@ pmi.it##.box-300-special
 centrometeoitaliano.it,lifegate.it##.box-adv
 ilquotidiano.it,piacenzasera.it##.box-attico
 tempoitalia.it##.box-banner
+cucchiaio.it##.box-banner-hp-dx
 europa-in.it,gazzettadelladda.it,giornaledidesio.it,notiziaoggi.it,nuovaperiferia.it,settegiorni.it##.box-banner-menu
 lifegate.it##.box-presentato
 ilgiornaledivicenza.it##.box-skyscrapers
