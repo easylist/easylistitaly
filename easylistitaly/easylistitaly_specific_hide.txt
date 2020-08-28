@@ -241,7 +241,7 @@ sienafree.it###ja-bannertop300x250
 sienafree.it###ja-leaderboard
 prowrestling.it###landingbanner
 espansionetv.it,macitynet.it,torrechannel.it###leader-wrapper
-bisceglielive.it,boomerangtv.it,cronachedibirra.it,discoverychannel.it,dissacration.com,ebay.it,eurogamer.it,fiscaleweb.com,geekissimo.com,gingerandtomato.com,healthdesk.it,historychannel.it,ilcinemaniaco.com,ilgazzettinovesuviano.com,ilsannioquotidiano.it,iochiamo.com,lasiciliaweb.it,lussuosissimo.com,medicinalive.com,mondoreality.com,musickr.it,skiinfo.ch,skiinfo.it,theapplelounge.com###leaderboard
+bisceglielive.it,boomerangtv.it,cronachedibirra.it,discoverychannel.it,dissacration.com,ebay.it,eurogamer.it,fiscaleweb.com,geekissimo.com,gingerandtomato.com,healthdesk.it,historychannel.it,ilcinemaniaco.com,ilgazzettinovesuviano.com,ilsannioquotidiano.it,iochiamo.com,lasiciliaweb.it,lussuosissimo.com,medicinalive.com,mondoreality.com,mrwebmaster.it,musickr.it,skiinfo.ch,skiinfo.it,theapplelounge.com###leaderboard
 orizzontescuola.it###leaderboard-banner
 ilgazzettinovesuviano.com###leaderboard-footer
 ravennaedintorni.it###leaderboard_div
