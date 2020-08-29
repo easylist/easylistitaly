@@ -1,5 +1,4 @@
 .bid^$script,third-party,domain=animeforce.org
-|blob:$domain=02blog.it|06blog.it|artsblog.it|autoblog.it|bebeblog.it|benessereblog.it|blogo.it|blogosfere.it|booksblog.it|cineblog.it|clickblog.it|comicsblog.it|deluxeblog.it|designerblog.it|ecoblog.it|excite.it|fashionblog.it|gadgetblog.it|gamesblog.it|gossipblog.it|gustoblog.it|managementnotes.it|melablog.it|mobileblog.it|motoblog.it|motorsportblog.it|outdoorblog.it|petsblog.it|pinkblog.it|polisblog.it|queerblog.it|soldiblog.it|soundsblog.it|toysblog.it|travelblog.it|tvblog.it
 ||0-100.it^*/banner-
 ||0781.info^*/banners/
 ||11giovani.it/images/banners/
@@ -97,7 +96,6 @@
 ||balarm.it/banner.asp?
 ||balarm.it/public/bannernewsletter/
 ||banner.casino2k.com^
-||banner.orizzontescuola.it^
 ||baseball.it/banner_
 ||bazar.it/backfiles/banners/
 ||bebeez.it^*/sponsors/
@@ -111,8 +109,6 @@
 ||bikeitalia.it^*/banner-
 ||bikeracing.it/bannersbk.jpg
 ||bikeracing.it/sfondo.jpg
-||blogosfere.it/js/mjx.php
-||blogosfere.it/js/mjx2.js
 ||bloopers.it/images/sponsor/
 ||blunote.it/images/banners/
 ||bmwpassion.com^*/banners/
@@ -197,9 +193,6 @@
 ||corrieredicomo.it/images/banners/
 ||corrieredigela.it/public/sponsor/
 ||corrierediragusa.it^*/banner/
-||corriereirpinia.it^*_back1.
-||corriereirpinia.it^*_Banner_
-||corriereirpinia.it^*_BannerPageBG.
 ||corriereobjects.it^*/adv/
 ||corriereobjects.it^*/banner_dizionario_iphone.gif
 ||corriereobjects.it^*/sponsor/
@@ -321,7 +314,6 @@
 ||giornaledisiracusa.it/images/banners/
 ||giornalettismo.com^*/skin/
 ||giornalisti.vivere.srl^
-||gizchina.it^*/mrdeals-
 ||glpress.it/wordpress/sponsor/
 ||gnoccatravels.com/files/banner
 ||gnoccatravels.com/files/pbblct
@@ -331,7 +323,6 @@
 ||gonews.it/banner/
 ||gorillaporno.com/banners/
 ||gossip.it^*/banner/
-||gpone.com/images/banners/
 ||gratisfree.it/cgi-bin/bannergest$script
 ||greenews.info/wp-content/banners/
 ||greenme.it/images/banners/
@@ -355,10 +346,6 @@
 ||hwmobile.it/images/banners/
 ||hwupgrade.it/js/hwu_adv.js
 ||icnradio.com/images/banners/
-||identitagolose.it^*/bannerleatherboard_
-||identitagolose.it^*/leaderboard_
-||identitagolose.it^*300x90.gif
-||igorevy.com/pup.js
 ||ilcalciocatania.it/banners/
 ||ilcambiamento.it//sbanner/
 ||ilcambiamento.it/banner/
@@ -423,7 +410,6 @@
 ||ilromanista.it/images/banners/
 ||ilsalvagente.it/imgmol/
 ||ilsalvagente.it/immagini/banner120x60-
-||ilsannioquotidiano.it/images/banners/
 ||ilsicilia.it/wp-content/banners/
 ||iltaccoditalia.info/banner/
 ||ilvelino.it^*/banner/
@@ -484,8 +470,6 @@
 ||laprovinciadilecco.it^*/banner/
 ||laprovinciakr.it/images/banners/
 ||laprovinciakr.it^*/banner-
-||laquila1.it/images/banners/
-||laregione.ch/ban.asp?
 ||larionews.com^*-MANCHETTE-
 ||larivieraonline.com^*/banner/
 ||larivieraonline.com^*/takeover/
@@ -508,8 +492,6 @@
 ||lavocedeltrentino.it^*600x600
 ||lavocedinewyork.com^*/52DBA386-71AE-11.jpg
 ||lavocedinewyork.com^*/5303FE28-71AE-11.jpg
-||lavocedivenezia.it/player/banner/
-||lavocedivenezia.it/x_rotazione
 ||lavorare-spettacolo.com/images/banners/
 ||lavorincasa.it/banner/
 ||lavorincasa.it/images/testata/
@@ -1061,35 +1043,21 @@
 ||volleyball.it^*/banner-
 ||vuemmetv.it^*/banner-
 ||vvvvid.it/vast/
-||wallstreetitalia.com/img/*-798x27.gif
-||wallstreetitalia.com/img/skin_
 ||waterpoloitaly.com/banner/
 ||webmarketingforum.it/images/banners/
 ||weboggi.it/banners/
 ||welfarenetwork.it/media/banner/
-||widget.blogosfere.it/assicurazione/
-||wiitalia.it/230x90.php
 ||wikilao.com^*/banners/
 ||windows.net/banner/$domain=lavocedimanduria.it
 ||windows.net/specialeelezioni/$domain=altamuralive.it|barilive.it|barlettalive.it|bitontolive.it|cassanolive.it|coratolive.it|giovinazzolive.it|lavocedimanduria.it|ruvolive.it|santeramolive.it|terlizzilive.it
 ||wintersport-news.it/banners/
-||worldweb.it/images/banners/
-||worldweb.it/images/stories/registrazionemotoridiricerca.jpg
-||wp.com^*/banner_$domain=tariffando.it
 ||wp.com^*/banners/$domain=proiezionidiborsa.it
-||wp.com^*/offerte-lampo-amazon.$domain=tariffando.it
 ||wp.com^*/p500-$domain=proiezionidiborsa.it
 ||wp.com^*Banner300x600.$domain=milanodabere.it
-||xvideomature.com/images/u_player2.jpg
-||xvideomature.com^*/rotate.php
 ||yachtonline.it/be/servizi/ajax_banner.php?
 ||yimg.com^*/Expedia-Dubai-YahooIT-$domain=yahoo.com
 ||you-ng.it/images/skin_
 ||youreporter.it/partner/
-||zabriskiepoint.net^*/banner/
-||zapster.it/images/skin/
-||zerodelta.net/immagini/immagini2.0/
-||zipnews.it/sai.jpg
 ! Citynews
 /traffico//banner/*
 /~vda/*/*.php/*
@@ -1108,4 +1076,4 @@
 ! (/sw.js)
 /^https?:\/\/.*\/.*sw[0-9(.|_)].*/$script,domain=dundi.it
 ! webrtc ads
-$webrtc,domain=02blog.it|06blog.it|artsblog.it|autoblog.it|bebeblog.it|benessereblog.it|blogo.it|blogosfere.it|booksblog.it|cineblog.it|clickblog.it|comicsblog.it|deluxeblog.it|designerblog.it|ecoblog.it|excite.it|fashionblog.it|gadgetblog.it|gamesblog.it|gossipblog.it|gustoblog.it|hentaisaturn.com|leggenditalia.com|leggenditaly.com|managementnotes.it|melablog.it|mobileblog.it|motoblog.it|motorsportblog.it|outdoorblog.it|petsblog.it|pinkblog.it|polisblog.it|queerblog.it|soldiblog.it|soundsblog.it|toysblog.it|travelblog.it|tvblog.it
+$webrtc,domain=hentaisaturn.com|leggenditalia.com|leggenditaly.com

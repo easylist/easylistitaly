@@ -62,7 +62,6 @@
 ||ehiweb.it/banner/
 ||emotiko.com^*/banners/
 ||enoleggioauto.it/affiliatexmlstylesheets/
-||excite.it/ad/
 ||fantagenius.com^*/banner/
 ||favolefantasia.com/banner/
 ||free.netsons.com^
@@ -87,7 +86,6 @@
 ||incontriticino.com/promo/
 ||inetweek.it/comincom/widget/
 ||insicilia.com/banner/
-||insite.sconty.it^$third-party
 ||investimenti.bnpparibas.it^$domain=trend-online.com
 ||ipercast.net/uploads/sponsors/
 ||kataweb.it/zbanner_consorzio.js
@@ -134,14 +132,12 @@
 ||pronostitalia.com/banner/
 ||pronostitalia.com/images/giocaconwilliamhill.png
 ||ratiolegisweb.it^*/pe728x90bis.
-||rdn.it/images/BANNER/
 ||resources.saldiprivati.com^$third-party
 ||riparautonline.com/banner/
 ||rivenditori.aruba.it^$third-party
 ||roi.ediscom.it^
 ||scambiobanner.aruba.it^$third-party
 ||scambiobanner.net-parade.it^$third-party
-||sconty.it/img/banner/
 ||sda.quinews.net^
 ||secure.emp-online.it^$third-party
 ||secureholiday.net/moteur/v3/camperonline/min_form.aspx?$third-party
@@ -163,11 +159,7 @@
 ||stbm.it/img/banner/300x100_
 ||stgy.it/images/banner-
 ||stgy.it/images/skin/
-||streamcaster.net/lunaset/web/template_
 ||tamtamsrl.it/dreamteam/banner/
-||tccstatic.com/template/*/img/_sfondo.jpg
-||tccstatic.com^*/985x20_
-||tccstatic.com^*/banner/
 ||tipster.it^$subdocument,third-party
 ||tophost.it/banners/
 ||trilud.com/highlight_300X280.php?
@@ -181,7 +173,6 @@
 ||vitaquotidiana.com^$third-party
 ||webself.it/banners/
 ||webster.it^*/affiliati/
-||webtvhd.com/Banner/
 ||wecoclub.it^*_banner_
 ||widget.promoqui.it^
 ||ws.shoppydoo.com^$third-party
