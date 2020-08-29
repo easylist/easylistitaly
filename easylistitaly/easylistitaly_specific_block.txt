@@ -718,6 +718,7 @@
 ||quicosenza.it/images/banners/
 ||quotidianodigela.it/images/background/
 ||quotidianodigela.it^*/banners/
+||quotidianodiragusa.com^*/bannerdef/
 ||radio103.it/banner_
 ||radioalba.it/img_sito/banner/
 ||radioalex.it^*/banner-

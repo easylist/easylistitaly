@@ -606,6 +606,7 @@ finanza.com,ilgiornaledireggio.it##.banner_dx
 ragusanews.com##.banner_dx_google
 ilfattonisseno.it##.banner_flusso
 ecodibergamo.it,ilcittadinomb.it,laprovinciadicomo.it,laprovinciadivarese.it##.banner_footer
+quotidianodiragusa.it##.banner_full_cc
 piacenzasera.it##.banner_globaltop
 smtvsanmarino.sm##.banner_head
 sportface.it##.banner_head1
@@ -634,6 +635,7 @@ messinaweb.tv##.bannerpostsingle
 alverde.net,nonsolocinema.com,qualenergia.it##.banners
 voglioporno.com##.banners-footer
 cremonaoggi.it##.bannersx
+quotidianodiragusa.it##.bannertesto
 album-mmt.it,gossip.it,musictory.it##.bannertop
 uninews24.it##.bannertopa
 gazzettinodelchianti.it##.bannertopbar
