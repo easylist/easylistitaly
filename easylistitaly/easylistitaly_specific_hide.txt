@@ -712,6 +712,7 @@ fanpage.it##.content-leaderboard
 macitynet.it##.contentTop
 toro.it##.contentleaderboard
 salernonotizie.it##.contskin
+giochi.it##.cpx-content
 ilmeteo.net##.creatividad
 automoto.it,moto.it##.crm-unit-bx1
 automoto.it,moto.it##.crm-unit-bx2
