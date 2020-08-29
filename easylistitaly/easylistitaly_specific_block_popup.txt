@@ -1,3 +1,4 @@
+||altadefinizione.coach/4k/$popup
 ||anon.to^$popup,domain=animeforce.org
 ||avmagazine.it/advertise/$popup
 ||goo.gl^$popup,domain=mondopallone.it

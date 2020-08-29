@@ -765,7 +765,7 @@ bastardidentro.it##.gigabanner_clickable
 ilturista.info##.google-box
 3bmeteo.com##.gpt_top
 gqitalia.it##.gq-promotions
-guardaserie.store##.guarda_hd
+altadefinizione.coach,guardaserie.store##.guarda_hd
 quattroruote.it##.halfPageBanner2
 nuovosud.it##.header-banner-wrapper
 calciomercato.com##.header-banner__container
@@ -1037,7 +1037,7 @@ blog.libero.it##a[href*=".clickbank.net/"]
 voglioporno.com##a[href*=".com/track/"]
 videopornoitalia.it##a[href*=".rivcash.com/"]
 amalfinotizie.it,corrieredellacalabria.it,fantascientificast.it,freeonline.org,hwupgrade.it,rivistanatura.com##a[href*="//bit.ly/"]
-cb01.events,cb01.online,speedvideo.net##a[href*="/4k/"]
+altadefinizione.coach,cb01.events,cb01.online,speedvideo.net##a[href*="/4k/"]
 piratestreaming.movie##a[href*="/Guarda4K/"]
 romait.it##a[href*="/ad/click/"]
 everyeye.it##a[href*="/click.asp?"]
