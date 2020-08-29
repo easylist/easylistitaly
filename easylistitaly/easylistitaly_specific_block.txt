@@ -302,7 +302,8 @@
 ||gazzettamatin.com/admin/banner_
 ||gazzettamatin.com/admin/img_banner/
 ||gazzettaregionale.it/assets/Auto-doc.
-||gazzettinodelchianti.it/files/immagini-banner/
+||gazzettinodelchianti.it^*/banner-
+||gazzettinodelchianti.it^*/sfondo-
 ||geekissimo.com/images/5sms.gif
 ||genovadice.it/images/oikia.jpg
 ||giallozafferano.it/images/banner/
