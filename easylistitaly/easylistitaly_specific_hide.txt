@@ -765,6 +765,7 @@ bastardidentro.it##.gigabanner_clickable
 ilturista.info##.google-box
 3bmeteo.com##.gpt_top
 gqitalia.it##.gq-promotions
+guardaserie.store##.guarda_hd
 quattroruote.it##.halfPageBanner2
 nuovosud.it##.header-banner-wrapper
 calciomercato.com##.header-banner__container
