@@ -336,6 +336,7 @@
 ||hbritalia.it/images/*_300x300.jpg
 ||healthdesk.it/userfiles/Banner
 ||hi-techitaly.com/images/banners/
+||historychannel.it^*/swissre.
 ||hostingtv.org/files/cubic
 ||hostingtv.org/files/cubicgobbopink
 ||hostingtv.org/files/smartwp
