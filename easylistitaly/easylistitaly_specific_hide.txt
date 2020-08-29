@@ -885,6 +885,7 @@ risultati.it##.scrolling-box-over-content
 areanapoli.it##.sdoo_cnt
 apollodoro.it,ecoo.it,gaywave.it,haisentito.it,nanopress.it,tantasalute.it##.sectCntGoogle3
 guidamonaci.it##.separatorFooter
+excite.it##.serp-item
 ilnuovocalcio.it##.sfondo
 bloopers.it##.shop
 softonic.it##.show_banner_down_leaderboard
