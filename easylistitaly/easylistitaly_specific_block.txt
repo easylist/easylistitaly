@@ -572,6 +572,9 @@
 ||metalgermania.it/images/seatwave.jpg
 ||metallized.it/banner/
 ||meteo.it/images/banner/
+||meteoaquilano.it/images/Banner
+||meteoaquilano.it/images/logo_
+||meteoaquilano.it/Sponsor/
 ||meteoconsult.it/publicite/
 ||meteovalmorea.it^*/banners/
 ||meteoweb.eu/bannerMW/
