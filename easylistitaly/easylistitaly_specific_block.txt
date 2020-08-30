@@ -937,6 +937,7 @@
 ||troppoforte.net/bannersopra/
 ||ttgitalia.com/contenuti/banner/
 ||turistipercaso.it^*/adv/
+||tusciaweb.eu^*/Camperteam-
 ||tusciaweb.eu^*/Carrozzeria-fiorillo-
 ||tusciaweb.eu^*/cassa-edile-progetto.gif
 ||tusciaweb.eu^*/Centroauto-
@@ -944,12 +945,15 @@
 ||tusciaweb.eu^*/Coldiretti-gennaio-
 ||tusciaweb.eu^*/confartigianato.jpg
 ||tusciaweb.eu^*/Ferri-Ford
+||tusciaweb.eu^*/Ist.-J.J.Rousseau-
 ||tusciaweb.eu^*/sistemaediliziaviterbo.gif
 ||tusciaweb.eu^*100x30
 ||tusciaweb.eu^*200x250
 ||tusciaweb.eu^*240-X90
 ||tusciaweb.eu^*240x45
+||tusciaweb.eu^*240x72
 ||tusciaweb.eu^*300x90
+||tusciaweb.eu^*310x72
 ||tusciaweb.eu^*336x-107
 ||tusciaweb.eu^*336x100
 ||tusciaweb.eu^*336x200
@@ -959,6 +963,9 @@
 ||tusciaweb.eu^*336x457
 ||tusciaweb.eu^*336x600
 ||tusciaweb.eu^*45x415
+||tusciaweb.eu^*480x150
+||tusciaweb.eu^*480x200
+||tusciaweb.eu^*480x50
 ||tusciaweb.eu^*519x45
 ||tusciaweb.eu^*520x45
 ||tusciaweb.eu^*560x60
