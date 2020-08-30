@@ -316,6 +316,7 @@
 ||giornalettismo.com^*/skin/
 ||giornalisti.vivere.srl^
 ||glpress.it/wordpress/sponsor/
+||gnoccaforum.com^*/banners/
 ||gnoccatravels.com/files/banner
 ||gnoccatravels.com/files/pbblct
 ||goblins.net^*/banner/
