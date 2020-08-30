@@ -724,6 +724,8 @@
 ||radiogold.it^*/banner/
 ||radioinblu.it^*/skin/
 ||radioitalianetwork.fm/images/banners/
+||radiolaquila1.it^*/asimar-
+||radiolaquila1.it^*/mei-
 ||radioluna.it/news/banner/
 ||radioluna.it/news/header/
 ||radiomanamana.it/stylerays.png
