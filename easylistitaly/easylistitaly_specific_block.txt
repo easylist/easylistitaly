@@ -93,8 +93,6 @@
 ||aziendeonline.biz/db/banner_
 ||babboleo.it/images/banners/
 ||badtaste.it/file/amazon/
-||balarm.it/banner.asp?
-||balarm.it/public/bannernewsletter/
 ||banner.casino2k.com^
 ||baseball.it/banner_
 ||bazar.it/backfiles/banners/
@@ -247,8 +245,6 @@
 ||elaborare.com^*/banner
 ||emiliagol.it//immagini/File_banner/
 ||epolisbari.com/banner/
-||erostubes.com/590.gif
-||erostubes.com/790.gif
 ||escort-advisor.com^*/banner/
 ||eunews.it^*/BANNER-375x100_
 ||euroregionalpmed.eu/img/banner/
@@ -256,8 +252,6 @@
 ||eusebiano.it/banners/
 ||eventiesagre.it/images/banner/
 ||exxun.com/adi/
-||f052.it/archivefile/*/banner-
-||factotum.ra.it/attachments/banner_
 ||fanoinforma.it/framebannerrotaz.php?
 ||fashiontimes.it/images/banner/
 ||filmatipornohd.com/sponsors/
@@ -285,7 +279,6 @@
 ||freeonline.org/img/banner/
 ||frescodiweb.it/banner/
 ||freshplaza.it/b/
-||futur3.it/uploaded_files/
 ||futuratv.it/upload/banner/
 ||galatina.it^*/banner-roa-
 ||galatina.it^*/banners/
@@ -297,17 +290,12 @@
 ||gastronauta.it/files/files_banner/
 ||gay.it/js/brightcove/adonly.js
 ||gazzettabenevento.it/Sito2009/image/banner/
-||gazzettadiparma.it/resizer/80/80/
 ||gazzettadisondrio.it/images/banner/
-||gazzettamatin.com/admin/banner_
-||gazzettamatin.com/admin/img_banner/
 ||gazzettaregionale.it/assets/Auto-doc.
 ||gazzettinodelchianti.it^*/banner-
 ||gazzettinodelchianti.it^*/sfondo-
 ||geekissimo.com/images/5sms.gif
 ||genovadice.it/images/oikia.jpg
-||giallozafferano.it/images/banner/
-||gianlucadimarzio.com^*_skin_
 ||giornale.it/img/auto-doc.gif
 ||giornaledelticino.ch/banner/
 ||giornaledimerate.it/banneranalyzer/
@@ -364,7 +352,6 @@
 ||ilcrotonese.it^*_bg.jpg
 ||ilfaroonline.it/images/banners/
 ||ilfattoalimentare.it/assets/banners/
-||ilfattonisseno.it/banner_
 ||ilfoglio.it/js/bannerInterstitial.js
 ||ilfogliocostadamalfi.it/media/banner-
 ||ilfogliocostadamalfi.it/media/banner_
@@ -450,7 +437,6 @@
 ||italpress.com^*/VolospeechGif_
 ||italpress.com^*_300X250MYACEA-
 ||ivg.it^*/takeover/
-||jugo.it^*/ads/
 ||julienews.it/upload/banner/
 ||juzaphoto.com^*/banners/
 ||kisskiss.it/images/banners/
@@ -537,7 +523,6 @@
 ||livescore.it/upload/wrapper.jpg?
 ||livornolive.it^*/slider.
 ||livornopress.it^*/banner-
-||lnd.it/storage/Sponsor/
 ||lombardianews.it/banner/
 ||loraquotidiano.it/wp-content/banners/
 ||lospiffero.com/banner/
@@ -582,8 +567,6 @@
 ||milanodabere.it/images/archivio/2000x1000/
 ||mio-ip.eu^*/offerte-amazon-
 ||miotv.it/public/componenti/
-||mmorpgitalia.it/media/aion
-||mmorpgitalia.it/von/
 ||mobimart.it/ban.
 ||modena2000.it/bnrs/
 ||mole24.it^*-skin-
@@ -610,7 +593,6 @@
 ||nba24.it^*/banner-
 ||nerdplanet.it^*/banner.
 ||nerdplanet.it^*/batmanultimo2017.
-||netweek.it/banneranalyzer/
 ||newscatania.com^*_Petrol-Company.
 ||newsic.it/assets/banner/
 ||newsly.it^*/aawp/
@@ -700,8 +682,6 @@
 ||quellidellelica.com/images/banners/
 ||questotrentino.it/sponsor/
 ||quibrescia.it^*/wp-banners/
-||quicomo.it/qc-ad/
-||quicomo.it/qc-assets/banner/
 ||quicosenza.it/images/banner_
 ||quicosenza.it/images/banners/
 ||quotidianodigela.it/images/background/
@@ -709,9 +689,6 @@
 ||quotidianodiragusa.com^*/bannerdef/
 ||radio103.it/banner_
 ||radioalba.it/img_sito/banner/
-||radioalex.it^*/banner-
-||radioalex.it^*/banner/
-||radioalex.it^*/banner_
 ||radioamore.it^*/banners/
 ||radiobrunotoscana.it^*/banners/
 ||radiocantu.com^*-260x260-
@@ -731,10 +708,6 @@
 ||radiolaquila1.it^*/mei-
 ||radioluna.it/news/banner/
 ||radioluna.it/news/header/
-||radiomanamana.it/stylerays.png
-||radiomanamana.it/universita_on_line.jpg
-||radiomanamana.it^*/skin-radiomana.png
-||radiomanasport.it^*/EU.jpg
 ||radiomarte.it/site/images/sponsor/
 ||radiomarte.it^*_Banner_
 ||radiomillennium.it^*-banner-
@@ -791,7 +764,6 @@
 ||romachampionsleague.com^*/Logo-motto-
 ||romachampionsleague.com^*/Pubblicit%C3%A0-
 ||romait.it/img/banners/
-||romanews.eu^*-300x200.
 ||romatoday.it/images/skin/
 ||rosa-rossa.com^*/xbn/
 ||rosalio.it^*/adv/
@@ -830,14 +802,12 @@
 ||ship2shore.it^*/strip/
 ||ship2shore.it^*/stripmobile/
 ||ship2shore.it^*_banner/
-||si24.it/images/banners/
 ||sibarinet.it/images/banners/
 ||siciliaway.it^*/immagini_promozionali/
 ||sienafree.it/images/banners/
 ||sipario.it/images/banners/
 ||sky.it/static/images/sito/skin_
 ||smartweek.it^*/banner-
-||smtvsanmarino.sm/*/bnr/
 ||softonic.it/ad/
 ||sogninascosti.com/banner/
 ||soldionline.it^*/300x100_
@@ -912,9 +882,6 @@
 ||tg24.info^*/banners/
 ||tggialloblu.it/images/banner-
 ||therockblog.net^*/banner-
-||tiburno.tv/images/banners/
-||tiburno.tv/images/mod_jt_popup_balloon/
-||tiburno.tv/images/Sfondo/
 ||ticinofinanza.ch/banner/
 ||ticinolive.ch/files/banners/
 ||tipresentoilcane.com/banner/
@@ -1051,9 +1018,6 @@
 ||vivere.news/images/banners_
 ||vivereancona.it/images/banners_
 ||viverejesi.it/images/banners_
-||voceditalia.it/banner.js
-||voceditalia.it/banner/
-||voceditalia.it/banner_ev.js
 ||vocenuova.tv/assets/uploads/banners/
 ||volleyball.it^*/banner-
 ||vuemmetv.it^*/banner-
