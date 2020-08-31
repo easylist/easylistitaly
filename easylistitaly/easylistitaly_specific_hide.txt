@@ -316,6 +316,7 @@ bisceglielive.it,eurogamer.it###skyscraper
 advisoronline.it###slidebox
 3bmeteo.com###sole24_banner
 casateonline.it,merateonline.it###sottotestata
+lnd.it###sp-sponsor
 ilmetapontino.it###sp-top-add
 amazon.it###sp_detail
 amazon.it###sp_detail2

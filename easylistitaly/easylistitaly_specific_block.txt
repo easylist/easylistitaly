@@ -523,6 +523,7 @@
 ||livescore.it/upload/wrapper.jpg?
 ||livornolive.it^*/slider.
 ||livornopress.it^*/banner-
+||lnd.it/images/sponsor/
 ||lombardianews.it/banner/
 ||loraquotidiano.it/wp-content/banners/
 ||lospiffero.com/banner/
