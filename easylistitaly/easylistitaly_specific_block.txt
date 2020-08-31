@@ -438,7 +438,7 @@
 ||italpress.com^*_300X250MYACEA-
 ||ivg.it^*/takeover/
 ||julienews.it/upload/banner/
-||juzaphoto.com^*/banners/
+||juzaphoto.com^*/rce/
 ||kisskiss.it/images/banners/
 ||kisskissnapoli.it/images/banners/
 ||labisalta.it/pubb/

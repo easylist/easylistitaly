@@ -48,6 +48,7 @@
 ||djsuonerie.it/pic/$third-party
 ||dodiblog.it/banner_diretti/
 ||duke.it/images/banners/
+||dynamic.rcefoto.com^domain=juzaphoto.com
 ||dzt1km7tv28ex.cloudfront.net^
 ||easyvols.org^*/300x150/$third-party
 ||ediscom.it^*banner/
