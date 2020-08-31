@@ -338,6 +338,7 @@
 ||hwupgrade.it/js/hwu_adv.js
 ||icnradio.com/images/banners/
 ||ilcalciocatania.it/banners/
+||ilcalcioillustrato.it^*/banner-
 ||ilcambiamento.it//sbanner/
 ||ilcambiamento.it/banner/
 ||ilcambiamento.it/sbanner/
