@@ -1,4 +1,3 @@
-||888.it^$popup,third-party
 ||adserver.incontrierotici.it^$popup
 ||bet365-scommesse.com/?affiliate=$popup,third-party
 ||betclic.it/partner.aspx?$popup
