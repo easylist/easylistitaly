@@ -113,7 +113,7 @@ reggioemiliameteo.it###bg-dx
 altalex.com,primopianomolise.it,sentenze.net###bglink
 siracusanews.it###billboard1
 neveitalia.it,tuttogratis.it###bleft
-sentireascoltare.com###block-adv
+giornaledellamusica.it,sentireascoltare.com###block-adv
 rumors.it###block-block-19
 rumors.it,trendystyle.it###block-block-2
 rumors.it,trendystyle.it###block-block-26
