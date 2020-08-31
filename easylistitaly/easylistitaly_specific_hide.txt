@@ -571,6 +571,8 @@ galileonet.it##.banner_oriz
 sportface.it##.banner_panorama
 orgoglionerd.it##.banner_rotation
 ragusanews.com##.banner_top
+mercuriomagazine.com##.banner_top_left
+mercuriomagazine.com##.banner_top_right
 galileonet.it##.banner_vert
 techarena.it##.bannercentro
 treccani.it##.bannercontainer
