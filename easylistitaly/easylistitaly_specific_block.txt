@@ -352,6 +352,8 @@
 ||ilcrotonese.it^*_bg.jpg
 ||ilfaroonline.it/images/banners/
 ||ilfattoalimentare.it/assets/banners/
+||ilfattonisseno.it^*/350x350_
+||ilfattonisseno.it^*/gif-china.gif
 ||ilfoglio.it/js/bannerInterstitial.js
 ||ilfogliocostadamalfi.it/media/banner-
 ||ilfogliocostadamalfi.it/media/banner_
