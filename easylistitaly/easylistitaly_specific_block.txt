@@ -93,6 +93,7 @@
 ||aziendeonline.biz/db/banner_
 ||babboleo.it/images/banners/
 ||badtaste.it/file/amazon/
+||balarm.it/attachment-web/
 ||banner.casino2k.com^
 ||baseball.it/banner_
 ||bazar.it/backfiles/banners/
