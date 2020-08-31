@@ -91,6 +91,7 @@
 ##.ads_topsx
 ##.adsbyawcloud
 ##.adv-articolo
+##.adv-cnt
 ##.adv-footer-kauppa
 ##.adv-iframe-sx
 ##.adv300eni
