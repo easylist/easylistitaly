@@ -17,9 +17,7 @@
 @@||dincontri.com/ads/galleries/crops/$image,~third-party
 @@||dotandad.com/mediamond?mpo=$script,domain=grazia.it|sportube.tv
 @@||dotandad.com/TiscaliAds.js$domain=ansa.it
-@@||doubleclick.net/adj/tuttosport.home/home;sz=336x600,300x250,300x600;=$script,domain=tuttosport.com
 @@||download.deejay.it/adv/podcast/$object
-@@||eyewonder.com^*/video/$object,domain=serviziopubblico.it
 @@||files.adform.net/banners/stream/$object,domain=liberoquotidiano.it
 @@||foolbite.com/foolbite/*_pubblicita_$~third-party
 @@||forads.iltrovatore.it/geoip/json/|$xmlhttprequest,domain=la7.it
@@ -43,7 +41,6 @@
 @@||oasjs.kataweb.it/cookielex/$domain=capital.it|huffingtonpost.it|m2o.it|video.deejay.it|video.espresso.repubblica.it|video.ilsecoloxix.it|video.lanuovasardegna.it|video.lastampa.it|video.rep.repubblica.it|video.repubblica.it
 @@||online-retail.unicredit.it/adv/$~third-party
 @@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=sky.it
-@@||portalecomuni.net^*/ShowBanner.aspx$image
 @@||repubblica.it/adimages/
 @@||services.brid.tv/player/build/plugins/adunit.js$domain=fidelityhouse.eu|laroma24.it
 @@||servizi-media-js.tiscali.it/cp/javascript/default/it/main/revsci.js$domain=mail.tiscali.it

@@ -4,8 +4,6 @@ hostingtalk.it###BannerBottom
 hostingtalk.it###BannerTop
 staffettaonline.com###BnrSolidarieta
 fantacalcioservice.it###Box300x250
-novara.com###BoxBlock_8
-eunews.it###HeaderBanner
 tetractis.it###LeaderBoard
 fantacalcioservice.it###LeaderBoardFooter
 fantacalcioservice.it###LeaderBoardTop
@@ -112,7 +110,7 @@ senigallianotizie.it###bbitalia_banner
 reggioemiliameteo.it###bg-dx
 altalex.com,primopianomolise.it,sentenze.net###bglink
 siracusanews.it###billboard1
-neveitalia.it,tuttogratis.it###bleft
+tuttogratis.it###bleft
 giornaledellamusica.it,sentireascoltare.com###block-adv
 rumors.it###block-block-19
 rumors.it,trendystyle.it###block-block-2
@@ -140,10 +138,10 @@ virgilio.it###box_solo_promozioni
 masterviaggi.it###box_sponsor
 pctuner.net###boxbanner
 aggiustatutto.it###breadcrumbs
-neveitalia.it,tuttogratis.it###bright
+tuttogratis.it###bright
 subito.it###bs_textlinks
 liberatv.ch###bsky
-fattidicronaca.it,neveitalia.it,pourfemme.it,tecnocino.it,tecnozoom.it,tuttogratis.it,vivacinema.it###btop
+fattidicronaca.it,pourfemme.it,tecnocino.it,tecnozoom.it,tuttogratis.it,vivacinema.it###btop
 gamernews.it###bunyad-latest-reviews-widget-2
 iodonna.it,leiweb.it###buy-now
 gamesvillage.it###buy_amazon
@@ -305,7 +303,6 @@ eurogamer.it###sidebar_amazon
 mister-x.it###siti_amici
 epolisbari.com,tesionline.it###skin
 cellulare-magazine.it,cellularemagazine.it###skin-top-container
-dragonballgt.it###skinClick
 iovivoaroma.org###skin_link_dx
 iovivoaroma.org###skin_link_sx
 cronacheancona.it,cronachemaceratesi.it###skinabove
@@ -421,7 +418,6 @@ lacnews24.it##.FPB_header
 lacnews24.it##.FPB_six
 evomagazine.it##.HomeBanner
 meteo.it##.ImmobiliareIt
-novara.com##.MainBanner
 alfemminile.com##.OffresSpe_cadre
 viterbonews24.it##.SepBanner
 theitaliantimes.it##.Side_DX
@@ -560,7 +556,7 @@ everyeye.it##.banner_destra
 piacenzasera.it##.banner_doc_bottom_foto
 finanza.com,ilgiornaledireggio.it##.banner_dx
 ragusanews.com##.banner_dx_google
-ecodibergamo.it,ilcittadinomb.it,laprovinciadicomo.it,laprovinciadivarese.it##.banner_footer
+ilcittadinomb.it,laprovinciadicomo.it,laprovinciadivarese.it##.banner_footer
 quotidianodiragusa.it##.banner_full_cc
 piacenzasera.it##.banner_globaltop
 sportface.it##.banner_head1
@@ -630,7 +626,6 @@ cuneodice.it,genovadice.it,italiadice.it,torinodice.it##.box_oikia
 35mm.it##.box_rightcol_banner2
 subito.it##.box_sponsor
 livescore.it##.box_top_books
-ecodibergamo.it##.boxbanner-footer
 pneusnews.it##.boxes
 starbene.it##.brand_logo_hp
 forexinfo.it##.broker-tabella_container_aside
@@ -799,7 +794,7 @@ film.it##.ppn_h
 assopoker.com##.prbox-table-container
 paginegialle.it##.prio
 webnews.it##.product__info
-comingsoon.it,neveitalia.it,pneusnews.it,stiledimoda.it,vanityfair.it##.promo
+comingsoon.it,pneusnews.it,stiledimoda.it,vanityfair.it##.promo
 voglioporno.com##.promo-462x66
 dimensionesuonoroma.it##.promo-image
 dimensionesuonoroma.it##.promo-list
@@ -918,8 +913,7 @@ gazzettadasti.it##.top-right-ban
 positanonews.it##.top-testata
 hwreload.it##.top_banner
 bluerating.com##.top_funders
-mrstiff.it##.topad
-mesagne.me,neveitalia.it,terzobinario.it##.topbanner
+mesagne.me,terzobinario.it##.topbanner
 vistointv.net##.topbanner2
 everyeye.it##.topskin
 turistipercaso.it##.trovaviaggi
