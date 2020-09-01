@@ -43,7 +43,6 @@
 ||debriditalia.com/images/$third-party
 ||delosstore.it/banner/
 ||digitaladv.despar.it^
-||dipalermo.it/iii.html
 ||djsoldi.com^$image,third-party
 ||djsuonerie.it/pic/$third-party
 ||dodiblog.it/banner_diretti/

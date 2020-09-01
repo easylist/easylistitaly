@@ -188,7 +188,6 @@
 ||fordfiestaitalia.com^*/sponsor/
 ||fortuneita.com^*/Banner
 ||fortuneita.com^*900x90
-||forzapescara.net/foto/
 ||frasicelebri.it^*/amazonbuy.
 ||freemodding.it/varie/loghi-sidebar/
 ||freenewsonline.it^*-300.jpg
@@ -299,7 +298,6 @@
 ||ilmitte.com^*/banner_
 ||ilmonferrato.it/banners/
 ||ilmonferrato.it/media/generalauto_
-||ilnapolista.it/content/banner/
 ||ilnord.it/imgbank/banner/
 ||ilnuovocalcio.it/images/banners/
 ||ilnuovocalcio.it^*/sfondo.jpg
@@ -316,8 +314,6 @@
 ||ilroma.net^*/rotating_banner/
 ||ilroma.net^*_skin.
 ||ilromanista.it/images/banners/
-||ilsalvagente.it/imgmol/
-||ilsalvagente.it/immagini/banner120x60-
 ||ilsicilia.it/wp-content/banners/
 ||iltaccoditalia.info/banner/
 ||ilvelino.it^*/banner/
@@ -335,8 +331,6 @@
 ||informacalcio.it/banner/
 ||informazioneonline.it/public/sys.banner/
 ||informazioneweb.org/images/banners/
-||ininsubria.it/thb.aspx?filename=upload%2fbanners%2f
-||ininsubria.it/upload/banners/
 ||inside.bz.it/images/banners/
 ||inter.it/html/images/sponsors/
 ||inter.it/img/sponsor/
@@ -380,8 +374,6 @@
 ||larionews.com^*-MANCHETTE-
 ||larivieraonline.com^*/banner/
 ||larivieraonline.com^*/takeover/
-||larivieraonline.it^*/banner/
-||larivieraonline.it^*/takeover/
 ||lascommessasportiva.it^*/banners/
 ||lasiciliastore.it/banner/
 ||lasignoraingiallorosso.it^*/banners/
@@ -403,7 +395,6 @@
 ||lavorincasa.it/banner/
 ||lavorincasa.it/images/testata/
 ||lavorincasa.it/includes/bacheca/annunci/
-||lavoripubblici.it/gif/banner/
 ||lazionews24.com/images/*/skin.jpg
 ||leccenews24.it/upload/banner/
 ||leccesette.it/img/banner/
@@ -465,7 +456,6 @@
 ||masterviaggi.it/banner/
 ||mattinonline.ch^*/banner_
 ||mediagol.it/images/sponsor/
-||mediakey.tv/uploads/tx_macinabanners/
 ||megabass.it^*/banner_
 ||megasesso.com/js_pub/
 ||megasesso.com/xlovecam.php
@@ -504,7 +494,6 @@
 ||motori.it/campagne/
 ||motorionline.com/banner/
 ||motorionline.com^*/banner_motorionline.gif
-||musicclub.it/banner/
 ||musicoff.com^*/adshops_
 ||napolicittasolidale.it^*/banner/
 ||napolimagazine.com^*/banner-
