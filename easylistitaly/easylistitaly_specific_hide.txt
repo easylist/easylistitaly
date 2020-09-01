@@ -611,6 +611,7 @@ reteimprese.it##.cont-banner
 edilportale.com##.cont-leaderBoard
 gazzettavvisionline.it##.cont_Leaderboard
 leccesette.it##.cont_banner
+tiscali.it##.container_b_1
 borsaitaliana.it##.container_banner_top
 distribuzionemoderna.info##.contenitore-leaderboard
 frasimania.it##.content-banner
@@ -811,6 +812,7 @@ newnotizie.it##.single_sidebar300x250
 ilmomento.eu##.site-commerc
 andreagaleazzi.com,animeclick.it##.skin
 iovivoaroma.org##.skin_link_top
+tiscali.it##.sky-n
 sky.it##.skybet_spalla
 gioco.it##.skyscraper
 radioradio.it##.slide
