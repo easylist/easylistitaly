@@ -24,7 +24,7 @@
 ||beruby.com/images/banner/
 ||betpro.it^*/banner/
 ||blogspot.com^$image,domain=blog.libero.it
-||booking.com^$subdocument,domain=iltempo.it|notizie.tiscali.it|quattroruote.it|sport.tiscali.it|trombodromo.com|tuttobaviera.it
+||booking.com^$subdocument,domain=iltempo.it|milleunadonna.it|notizie.tiscali.it|quattroruote.it|sport.tiscali.it|trombodromo.com|tuttobaviera.it
 ||careerjet.it/partners/
 ||casa.it/cobrand/
 ||cdn.adultsadv.com^

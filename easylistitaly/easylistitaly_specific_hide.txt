@@ -495,6 +495,7 @@ outcast.it##.banner250250
 ecodallecitta.it,ilcapoluogo.com##.banner3
 outcast.it##.banner300250
 fotografidigitali.it,hwupgrade.it,tvtech.it##.banner300x250
+milleunadonna.it##.banner320x250
 ildesk.it##.banner385x198
 ecodallecitta.it,ilcapoluogo.com##.banner4
 ildesk.it##.banner468x60
