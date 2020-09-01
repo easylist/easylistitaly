@@ -34,7 +34,6 @@
 @@||js.neodatagroup.com/uploads/js/rds.js$domain=rds.it
 @@||labs.ebuzzing.it/blogs/top/getrank?$image
 @@||labs.ebuzzing.it/shared/images/wikiothis/buttons/
-@@||mail.tiscali.it/cp/extras/it/dashboard/300x250.html?
 @@||mediamond.it/MediamondAds.js$domain=grazia.it
 @@||misterdomain.eu/affiliation/$~third-party
 @@||oasjs.kataweb.it/adsetup*.js$script,domain=capital.it|huffingtonpost.it|m2o.it|video.deejay.it|video.espresso.repubblica.it|video.ilsecoloxix.it|video.lanuovasardegna.it|video.lastampa.it|video.rep.repubblica.it|video.repubblica.it
@@ -43,7 +42,6 @@
 @@||partner.googleadservices.com/gpt/pubads_impl_$script,domain=sky.it
 @@||repubblica.it/adimages/
 @@||services.brid.tv/player/build/plugins/adunit.js$domain=fidelityhouse.eu|laroma24.it
-@@||servizi-media-js.tiscali.it/cp/javascript/default/it/main/revsci.js$domain=mail.tiscali.it
 @@||static.youreporter.it/adv/jwplayer.js
 @@||stats.betradar.com^subdocument,domain=sisal.it
 @@||synchrobox.adswizz.com/register2.php$script,domain=105.net|r101.it|radiomontecarlo.net|virginradio.it
@@ -52,7 +50,6 @@
 @@||videosynd.kataweb.it/advertising/$xmlhttprequest,domain=videosynd.kataweb.it
 @@||virgilio.it^*?advTile=$subdocument,domain=mailweb.virgilio.it
 @@||vobis.it/ZeusInc/AdFarm/Image/$image,~third-party
-@@||webcenter.tiscali.it/distribuzione/_script/TiscaliADV_315.js$domain=mail.tiscali.it
 @@||zincontri.com/ads/galleries/crops/$image,~third-party
 ! Ammadv.it
 @@||admin.ammadv.it/pop-under.it/$~third-party

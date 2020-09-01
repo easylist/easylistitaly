@@ -43,6 +43,7 @@
 /separatore-pub.
 /sponsorizzate.
 /tiscali_ads.
+/tiscaliAds/*
 /TiscaliADV_
 _pubblicita-
 _pubblicita.

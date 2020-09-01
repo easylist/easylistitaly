@@ -409,6 +409,7 @@
 ||lunico.eu/images/banners/
 ||macexchange.it/included/banner*.bfr
 ||maidireborsa.it/banners/
+||mail.tiscali.it^*/advlib.js
 ||mammedomani.it/images/banners/
 ||manduriaoggi.it/layout_nuovo/banner.asp
 ||mangaforever.net^*/fumetti-am.
