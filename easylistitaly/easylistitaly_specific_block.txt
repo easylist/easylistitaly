@@ -195,6 +195,7 @@
 ||gazzettinodelchianti.it^*/banner-
 ||gazzettinodelchianti.it^*/sfondo-
 ||geekissimo.com/images/5sms.gif
+||genova24.it^*/banner_
 ||genovadice.it/images/oikia.jpg
 ||giornale.it/img/auto-doc.gif
 ||giornaledelticino.ch/banner/
