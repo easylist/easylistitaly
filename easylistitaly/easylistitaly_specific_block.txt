@@ -47,6 +47,7 @@
 ||annuariodelcinema.it^*/banner_
 ||annuariodelcinema.it^*/banners/
 ||ansa.it^*/banner_
+||autoline24.it/img/atlads1/
 ||autoscout24.ch/content/startpage/
 ||autoseller.it/banner%5c
 ||autoseller.it/banner/
