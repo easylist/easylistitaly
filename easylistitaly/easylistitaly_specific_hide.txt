@@ -15,6 +15,7 @@ altarimini.it###attivitaEvidenza
 eurogamer.it###auto-amazon-link
 gnoccatravels.com###b-nner-right-list
 libero.it###b468x60bottoms
+bazar.it###background
 superwheels.net###banner
 gustissimo.it###banner-alto
 bresciaoggi.it,ilgiornaledivicenza.it,larena.it###banner-autodoc

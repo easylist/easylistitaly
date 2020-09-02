@@ -54,6 +54,7 @@
 ||avmagazine.it/js/common-tag.js
 ||badtaste.it/file/amazon/
 ||balarm.it/attachment-web/
+||bazar.it^*/banner/
 ||bikeracing.it/bannersbk.jpg
 ||bloopers.it/images/sponsor/
 ||bolli.it/images/banner/
