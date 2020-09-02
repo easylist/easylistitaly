@@ -135,6 +135,7 @@
 ||emiliagol.it^*/File_banner/
 ||epolisbari.com/banner/
 ||escort-advisor.com^*/banner/
+||eunews.it^*/Banner-300x300_
 ||euroregionalpmed.eu/img/banner/
 ||euroregionalpmed.eu/js/clickBanner_
 ||eusebiano.it/banners/
