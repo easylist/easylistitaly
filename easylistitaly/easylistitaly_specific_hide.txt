@@ -351,7 +351,7 @@ cityrumors.it##.aawp
 topdigamma.it,tuttotek.it##.aawp-product
 ilsole24ore.com##.abox
 radioitalia.it##.acquista
-allrecipes.it,ilprimatonazionale.it,jugo.it,lacrocequotidiano.it,lonelyplanetitalia.it,mesagne.me,milanlive.it,mondoplay.it,mondoxbox.com,ridble.com,servizioallerta.it,smartbuildingitalia.it,trend-online.com,tripadvisor.it##.ad
+allrecipes.it,ilprimatonazionale.it,jugo.it,lacrocequotidiano.it,liberatv.ch,lonelyplanetitalia.it,mesagne.me,milanlive.it,mondoplay.it,mondoxbox.com,ridble.com,servizioallerta.it,smartbuildingitalia.it,trend-online.com,tripadvisor.it##.ad
 tusciaweb.eu##.ad-article
 laltrapagina.it##.ad1
 guidafisco.it##.ad2
