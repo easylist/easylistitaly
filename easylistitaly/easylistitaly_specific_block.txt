@@ -293,6 +293,10 @@
 ||ilroma.net^*/rotating_banner/
 ||ilroma.net^*_skin.
 ||ilromanista.it/images/banners/
+||ilsalvagente.it^*/Barrer-
+||ilsalvagente.it^*/COOP_PrezziFermi.jpg
+||ilsalvagente.it^*_Banner320x320-
+||ilsalvagente.it^*_Banner320x320.
 ||ilsicilia.it/wp-content/banners/
 ||iltaccoditalia.info/banner/
 ||ilvelino.it^*/banner/
