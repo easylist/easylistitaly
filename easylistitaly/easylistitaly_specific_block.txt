@@ -278,6 +278,8 @@
 ||ilgiornaleoff.ilgiornale.it^*/Banner_
 ||ilgiornaleoff.ilgiornale.it^*/side_banner.
 ||ilmessaggero.it/img/banner_
+||ilmioip.it/img/banner
+||ilmioip.it/img/infermieri
 ||ilmitte.com^*/banner_
 ||ilmonferrato.it/banners/
 ||ilmonferrato.it/media/generalauto_
