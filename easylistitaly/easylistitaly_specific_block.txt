@@ -62,6 +62,7 @@
 ||bordighera.net/images/banner_
 ||buongiornoalghero.it^*/banner_
 ||caffe.ch/media/STATICHE/ilcaffe/ADV/
+||campaniameteo.it/CMS/Upload/GalleriaUtente/Image/
 ||camperonline.it/b-top/
 ||camperonline.it/b/
 ||camperonline.it/sfondo/
