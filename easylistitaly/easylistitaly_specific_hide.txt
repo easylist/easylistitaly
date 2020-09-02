@@ -682,6 +682,7 @@ virgilio.it##.newboxIsOrizz
 everyeye.it##.nome_gioco_amazon_destra
 ludomedia.it##.nonSonoAdv
 risultati.it##.odds-detail
+casaeclima.com##.page-wrapper
 puntocellulare.it##.panel-offers
 ragusanews.com##.partner
 quattrozampe.online##.partner-item-wrapper

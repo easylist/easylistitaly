@@ -62,7 +62,12 @@
 ||camperonline.it/b-top/
 ||camperonline.it/b/
 ||camperonline.it/sfondo/
-||casaeclima.com/images/banners/
+||casaeclima.com/js/banner.js
+||casaeclima.com/js/manchette.js
+||casaeclima.com/js/skin.js
+||casaeclima.com^*/banner/
+||casaeclima.com^*/manchette/
+||casaeclima.com^*/skins/
 ||casateonline.it/public/banner/
 ||cb01.events/imgc/b_
 ||cb01.events/imgc/side/s_
