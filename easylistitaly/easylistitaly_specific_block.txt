@@ -278,6 +278,7 @@
 ||ilgiornaleoff.ilgiornale.it^*/Banner_
 ||ilgiornaleoff.ilgiornale.it^*/side_banner.
 ||ilmessaggero.it/img/banner_
+||ilmetapontino.it^*/banner-
 ||ilmioip.it/img/banner
 ||ilmioip.it/img/infermieri
 ||ilmitte.com^*/banner_
