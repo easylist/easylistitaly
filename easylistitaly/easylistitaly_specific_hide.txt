@@ -255,6 +255,7 @@ iovivoaroma.org###skin_link_dx
 iovivoaroma.org###skin_link_sx
 cronacheancona.it,cronachemaceratesi.it###skinabove
 rockit.it###skinbanner
+emiliagol.it###skinclick
 buongiornoalghero.it,filmtv.it,freeonline.org,ilcorrieredabruzzo.it,lazionews24.com,lospiffero.com,salernonotizie.it###skinlink
 ebay.it###skyscrape
 bisceglielive.it,eurogamer.it###skyscraper
