@@ -563,6 +563,7 @@ frasimania.it##.content-banner
 fanpage.it##.content-leaderboard
 toro.it##.contentleaderboard
 salernonotizie.it##.contskin
+ilpiccolo.net##.cornice_banner
 giochi.it##.cpx-content
 ilmeteo.net##.creatividad
 automoto.it,moto.it##.crm-unit-bx1
@@ -679,6 +680,7 @@ affaritaliani.it##.mutui
 geoplan.it##.my_adv
 virgilio.it##.newboxIs
 virgilio.it##.newboxIsOrizz
+ilpiccolo.net##.nocornice_banner
 everyeye.it##.nome_gioco_amazon_destra
 ludomedia.it##.nonSonoAdv
 risultati.it##.odds-detail
