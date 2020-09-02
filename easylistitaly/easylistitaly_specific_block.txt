@@ -904,6 +904,7 @@
 ||windows.net/banner/$domain=lavocedimanduria.it
 ||windows.net/specialeelezioni/$domain=altamuralive.it|barilive.it|barlettalive.it|bitontolive.it|cassanolive.it|coratolive.it|giovinazzolive.it|lavocedimanduria.it|ruvolive.it|santeramolive.it|terlizzilive.it
 ||wintersport-news.it/banners/
+||wp.com^*/banner/$domain=cronacaflegrea.it
 ||wp.com^*/banners/$domain=proiezionidiborsa.it
 ||wp.com^*/p500-$domain=proiezionidiborsa.it
 ||wp.com^*Banner300x600.$domain=milanodabere.it
