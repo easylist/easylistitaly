@@ -1,6 +1,7 @@
 ||0-100.it^*/banner-
 ||24emilia.com^*banner
 ||3bmeteo.com^*/promo/
+||7per24.it^*/sponsor/
 ||a.trend-online.it^
 ||abruzzoweb.it/cache/banners/
 ||abruzzoweb.it^*/banner-
