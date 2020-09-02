@@ -79,6 +79,7 @@ alfredopedulla.com###bannertop
 senigallianotizie.it###bbitalia_banner
 reggioemiliameteo.it###bg-dx
 altalex.com,primopianomolise.it,sentenze.net###bglink
+bergamoesport.it###billboard
 siracusanews.it###billboard1
 tuttogratis.it###bleft
 giornaledellamusica.it###block-adv

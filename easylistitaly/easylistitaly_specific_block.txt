@@ -55,6 +55,8 @@
 ||badtaste.it/file/amazon/
 ||balarm.it/attachment-web/
 ||bazar.it^*/banner/
+||bergamoesport.it^*/BANNER-
+||bergamoesport.it^*/planetel.jpg
 ||bikeracing.it/bannersbk.jpg
 ||bloopers.it/images/sponsor/
 ||bolli.it/images/banner/
