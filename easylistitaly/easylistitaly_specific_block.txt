@@ -468,6 +468,13 @@
 ||nerdplanet.it^*/banner.
 ||nerdplanet.it^*/batmanultimo2017.
 ||newscatania.com^*_Petrol-Company.
+||newsfood.com^*-Banner-
+||newsfood.com^*/banner-
+||newsfood.com^*/FAO-GIAHS_Soave-firma-mail-1.jpg
+||newsfood.com^*/ILPNEWSFOOD.gif
+||newsfood.com^*/KriKri_Frozen-yogurt_Newsfood1.gif
+||newsfood.com^*/Webbanner_
+||newsfood.com^*_banner_
 ||newsic.it/assets/banner/
 ||newsly.it^*/aawp/
 ||newz.it^*/sponsor/
