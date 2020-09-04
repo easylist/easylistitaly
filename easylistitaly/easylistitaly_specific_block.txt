@@ -145,6 +145,7 @@
 ||filodiritto.com/banner/
 ||finanzainchiaro.it/images/ava-
 ||fiorentinanews.com^*/Banner
+||firenzespettacolo.it/media/banner/
 ||firstonline.info^*/300x600.
 ||firstonline.info^*/Auto-Doc.
 ||fm-world.it^*/banner-
