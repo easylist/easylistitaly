@@ -215,8 +215,6 @@ advisoronline.it###slidebox
 3bmeteo.com###sole24_banner
 casateonline.it,merateonline.it###sottotestata
 lnd.it###sp-sponsor
-amazon.it###sp_detail
-amazon.it###sp_detail2
 mediaset.it###spalla-banner
 studionews24.com###sponsor
 ilgiornaledireggio.it###sponsorn
@@ -827,6 +825,7 @@ animeemanga.it##a[href^="https://www.primevideo.com/"][href*="tag="]
 notebookcheck.it##div[id][class] > div[id] > img:first-child
 alvolante.it##div[id^="dfp-alv-slot"]
 ebikecult.it,mtbcult.it##div[id^="id="mtbcu-"]
+amazon.it##div[id^="sp_detail"]
 globalist.it##div[style="background-color: #555555; width: 310px; float: left; margin-top: 0px; padding-top: 25px; height: 274px;"]
 ioleggoletichetta.it##div[style="background-color: #FFFFFF; width: 1200px; height: 100px; vertical-align: top"]
 autobelle.it##div[style="background: #ccc; height:100px; display:block; margin:10px 0; color:#fff;font-size:16px;"]
