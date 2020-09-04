@@ -694,6 +694,7 @@
 ||sslazio.it/images/banners/
 ||sslazio.it^*/banner_
 ||stabiachannel.it^*/banner/
+||stadiotardini.it^*/comeser_
 ||staffettaonline.com/fcomuniBanner/
 ||startmag.it^*/skin-
 ||statoquotidiano.it/banner/
