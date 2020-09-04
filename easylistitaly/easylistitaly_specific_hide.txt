@@ -604,6 +604,7 @@ erbanotizie.com,lecconotizie.com##.manchette-dx
 erbanotizie.com,lecconotizie.com##.manchette-sx
 cremonaoggi.it##.manchette2
 24emilia.com##.marquee0
+ecoo.it##.masterhead-container-column
 gazzettadasti.it##.medium-rotate-banner
 sportivissimo.com##.menu4
 newslinet.com,tvcity.it##.metaslider
