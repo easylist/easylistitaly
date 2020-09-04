@@ -101,6 +101,7 @@
 ##.adv_margin
 ##.adv_oriz
 ##.adv_vert
+##.advdsk
 ##.advhead
 ##.advnext_correlati
 ##.advricaricamediamond
