@@ -644,7 +644,10 @@
 ||rumors.it^*/banner-
 ||saggiamente.com^*-helpsaggiamente.jpg
 ||salernonotizie.it/wp-content/banner/
+||salernonotizie.it/wp-content/banner_
 ||salernonotizie.it/wp-content/skin/
+||salernonotizie.it/wp-content/uploads/ac_uploads/
+||salernonotizie.it^*/skin_
 ||salernonotizie.net^*_banner_
 ||samspot.softairmania.it^
 ||sanfrancescopatronoditalia.it/banner/
