@@ -151,6 +151,7 @@
 ||frasicelebri.it^*/amazonbuy.
 ||freeonline.it/img/newskin-
 ||freeonline.org/img/banner/
+||freshplaza.it/b/
 ||gamesnote.it/images/banner-
 ||gamesoul.it^*/skin-
 ||gamesvillage.it/ajax.php?do=gv_amazon_page&
@@ -898,6 +899,7 @@
 ||welfarenetwork.it/media/banner/
 ||wikilao.com^*/banners/
 ||windows.net/banner/$domain=lavocedimanduria.it
+||windows.net/banners/$domain=freshplaza.it
 ||windows.net/specialeelezioni/$domain=altamuralive.it|barilive.it|barlettalive.it|bitontolive.it|cassanolive.it|coratolive.it|giovinazzolive.it|lavocedimanduria.it|ruvolive.it|santeramolive.it|terlizzilive.it
 ||wintersport-news.it/banners/
 ||wp.com^*/banner/$domain=cronacaflegrea.it
