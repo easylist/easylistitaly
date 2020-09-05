@@ -162,7 +162,8 @@
 ||gazzettinodelchianti.it^*/sfondo-
 ||genova24.it^*/banner_
 ||giochixl.it/bfb/
-||giornale.it/img/auto-doc.gif
+||giornale.it^*/300x250px.
+||giornale.it^*/600x200px.
 ||giornaledelticino.ch/banner/
 ||giornaledimerate.it/banneranalyzer/
 ||giornaledimontesilvano.com/images/banners/
