@@ -152,20 +152,15 @@
 ||freeonline.it/img/newskin-
 ||freeonline.org/img/banner/
 ||freshplaza.it/b/
-||gamesnote.it/images/banner-
 ||gamesoul.it^*/skin-
 ||gamesvillage.it/ajax.php?do=gv_amazon_page&
 ||garedepoca.com/grafica/banner_
-||gastronauta.it/files/files_banner/
 ||gay.it/js/brightcove/adonly.js
 ||gazzettabenevento.it/Sito2009/image/banner/
-||gazzettadisondrio.it/images/banner/
 ||gazzettaregionale.it/assets/Auto-doc.
 ||gazzettinodelchianti.it^*/banner-
 ||gazzettinodelchianti.it^*/sfondo-
-||geekissimo.com/images/5sms.gif
 ||genova24.it^*/banner_
-||genovadice.it/images/oikia.jpg
 ||giochixl.it/bfb/
 ||giornale.it/img/auto-doc.gif
 ||giornaledelticino.ch/banner/
@@ -509,7 +504,6 @@
 ||parrocchie.it/banner/
 ||paviapiu.it/images/banners/
 ||pc-facile.com/images/banner/
-||pctuner.net/banner/
 ||perotorino.it/images/banners/
 ||pharmastar.it^*/banner/
 ||pharmastar.it^*/skins/
@@ -629,7 +623,6 @@
 ||romatoday.it/images/skin/
 ||rosa-rossa.com^*/xbn/
 ||rosalio.it^*/adv/
-||rumors.it^*/banner-
 ||saggiamente.com^*-helpsaggiamente.jpg
 ||salernonotizie.it/wp-content/banner/
 ||salernonotizie.it/wp-content/banner_

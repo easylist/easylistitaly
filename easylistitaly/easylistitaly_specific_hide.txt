@@ -45,28 +45,19 @@ linguee.it###banners_top
 bergamoesport.it###billboard
 siracusanews.it###billboard1
 giornaledellamusica.it###block-adv
-rumors.it###block-block-19
-rumors.it,trendystyle.it###block-block-2
-rumors.it,trendystyle.it###block-block-26
-rumors.it,trendystyle.it###block-block-27
-rumors.it,trendystyle.it###block-block-4
-rumors.it,trendystyle.it###block-block-5
 mediaworld.it###block-footerbanners
 nuovosud.it###block-views-banner-centrale-menu-block
 diretta.it###bonus-offers
 hwupgrade.it###box-next-container
 diretta.it###box-over-content-a
-diesis.it,lasicilia.it###box_banner
+lasicilia.it###box_banner
 libero.it###box_expedia_case
 affaritaliani.it###box_immo
 masterviaggi.it###box_link_sponsor
 ricettedelmondo.it###box_pub2
 virgilio.it###box_solo_promozioni
 masterviaggi.it###box_sponsor
-pctuner.net###boxbanner
-aggiustatutto.it###breadcrumbs
 subito.it###bs_textlinks
-gamernews.it###bunyad-latest-reviews-widget-2
 iodonna.it,leiweb.it###buy-now
 gamesvillage.it###buy_amazon
 camionsupermarket.it###center_banner
@@ -139,7 +130,7 @@ sienafree.it###ja-bannertop300x250
 sienafree.it###ja-leaderboard
 prowrestling.it###landingbanner
 espansionetv.it,torrechannel.it###leader-wrapper
-bisceglielive.it,cronachedibirra.it,dissacration.com,ebay.it,eurogamer.it,fiscaleweb.com,geekissimo.com,gingerandtomato.com,healthdesk.it,ilcinemaniaco.com,iochiamo.com,lussuosissimo.com,medicinalive.com,mondoreality.com,mrwebmaster.it,musickr.it,skiinfo.ch,skiinfo.it###leaderboard
+bisceglielive.it,cronachedibirra.it,dissacration.com,ebay.it,eurogamer.it,fiscaleweb.com,gingerandtomato.com,healthdesk.it,ilcinemaniaco.com,iochiamo.com,lussuosissimo.com,medicinalive.com,mondoreality.com,mrwebmaster.it,musickr.it,skiinfo.ch,skiinfo.it###leaderboard
 ravennaedintorni.it###leaderboard_div
 dottorsalute.info###leaderboardspace
 lecconotizie.com###left-domination
@@ -896,7 +887,6 @@ tuttopotenza.com##div[style="text-align: center; width: 300px; height: 250px;"]
 tuttojuve.com##div[style="text-align: center; width: 336px; height: 280px; padding: 3px 0; margin: 0 auto;"]
 pianetabasket.com##div[style="text-align: center; width: 336px; height: 280px; padding: 3px 0px 3px 0px;"]
 tuttojuve.com##div[style="text-align: center; width: 468px; height: 60px; padding: 3px 0px 3px 0px;"]
-pctuner.net##div[style="text-align:center; clear:both; width:316px; height:265px;"]
 lavoratorio.it##div[style="text-align:center;width:336px;height:280px;margin:0px auto;margin-bottom:25px;"]
 libero.it##div[style="width: 180px; height: 150px;"]
 pyrosonline.it##div[style="width: 265px; height: 265px;"]
