@@ -638,6 +638,11 @@
 ||salernonotizie.net^*_banner_
 ||samspot.softairmania.it^
 ||sanfrancescopatronoditalia.it/banner/
+||sangavinomonreale.net^*/Banner-
+||sangavinomonreale.net^*/Cardia-
+||sangavinomonreale.net^*/Casula.jpg
+||sangavinomonreale.net^*/Genesis.jpg
+||sangavinomonreale.net^*/HotelCrocus.jpg
 ||sanmarinofixing.com/smfixing/images/banners/
 ||sanremonews.it^*/banner/
 ||sanremonews.it^*/box/
