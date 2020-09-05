@@ -355,7 +355,7 @@ sanfrancescopatronoditalia.it##.banner-100
 sanfrancescopatronoditalia.it##.banner-250
 welfarenetwork.it##.banner-468-hp
 parmareport.it##.banner-big
-cuneocronaca.it,lacrocequotidiano.it,mtv.it##.banner-container
+cuneocronaca.it,giochixl.it,lacrocequotidiano.it,mtv.it##.banner-container
 genova24.it##.banner-elezioni
 rl1.it##.banner-head
 algheroeco.com##.banner-header-dx
