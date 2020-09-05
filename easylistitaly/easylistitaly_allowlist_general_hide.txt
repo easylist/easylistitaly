@@ -1,5 +1,4 @@
 cosavederealondra.it,cosavisitareanewyork.com#@##adbox
-giornaledisiracusa.it#@##adsense_testa
 repubblica.it#@##advtop
 subito.it#@##body_ad
 corrierediragusa.it#@##pubblicita
@@ -14,7 +13,6 @@ filmeter.net#@#.adbanner
 subito.it#@#.adcont
 bakeca-incontri.net#@#.adtitle
 altervista.org,pianetadonna.it,studenti.it#@#.adv_esterno
-deejay.it#@#.advertorial
 tuttoaffari.com#@#.block-adv
 cardiochirurgia.com#@#.box-ad
 italiasw.com#@#.header-google-ads

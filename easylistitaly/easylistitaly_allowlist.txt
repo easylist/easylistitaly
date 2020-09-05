@@ -13,12 +13,8 @@
 @@||centrosangiorgio.com^*_pubblicita.
 @@||centrosangiorgio.com^*_pubblicita/
 @@||cheapnet.it/adv/$~third-party
-@@||deejay.it^*download.deejay.it/adv/podcast/$subdocument
 @@||dincontri.com/ads/galleries/crops/$image,~third-party
-@@||dotandad.com/mediamond?mpo=$script,domain=grazia.it|sportube.tv
 @@||dotandad.com/TiscaliAds.js$domain=ansa.it
-@@||download.deejay.it/adv/podcast/$object
-@@||files.adform.net/banners/stream/$object,domain=liberoquotidiano.it
 @@||foolbite.com/foolbite/*_pubblicita_$~third-party
 @@||forads.iltrovatore.it/geoip/json/|$xmlhttprequest,domain=la7.it
 @@||forebase.com/plugin/*/images/ads/$image
@@ -34,7 +30,6 @@
 @@||js.neodatagroup.com/uploads/js/rds.js$domain=rds.it
 @@||labs.ebuzzing.it/blogs/top/getrank?$image
 @@||labs.ebuzzing.it/shared/images/wikiothis/buttons/
-@@||mediamond.it/MediamondAds.js$domain=grazia.it
 @@||misterdomain.eu/affiliation/$~third-party
 @@||oasjs.kataweb.it/adsetup*.js$script,domain=capital.it|huffingtonpost.it|m2o.it|video.deejay.it|video.espresso.repubblica.it|video.ilsecoloxix.it|video.lanuovasardegna.it|video.lastampa.it|video.rep.repubblica.it|video.repubblica.it
 @@||oasjs.kataweb.it/cookielex/$domain=capital.it|huffingtonpost.it|m2o.it|video.deejay.it|video.espresso.repubblica.it|video.ilsecoloxix.it|video.lanuovasardegna.it|video.lastampa.it|video.rep.repubblica.it|video.repubblica.it
