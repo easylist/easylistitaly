@@ -690,6 +690,8 @@ cosedicasa.com##.sidespot-wrapper
 newnotizie.it##.single_sidebar300x250
 ilmomento.eu##.site-commerc
 andreagaleazzi.com,animeclick.it##.skin
+primopianomolise.it##.skin_bg_left
+primopianomolise.it##.skin_bg_right
 iovivoaroma.org##.skin_link_top
 tiscali.it##.sky-n
 sky.it##.skybet_spalla
@@ -721,7 +723,7 @@ greenstyle.it,motori.it##.sticky-adv
 occhionotizie.it##.sticky_bar_container
 webnews.it##.sticky_wrapper
 andreagaleazzi.com##.store-box
-radioradio.it##.strack_cli
+primopianomolise.it,radioradio.it##.strack_cli
 ravennaedintorni.it##.strillo
 affaritaliani.it##.strillo-speciale3
 ship2shore.it,trend-online.com##.strip
