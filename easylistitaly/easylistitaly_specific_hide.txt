@@ -350,6 +350,7 @@ corrieredilatina.it,lanuovaprimapagina.it##.bgbanner
 libero.it##.big
 youreporter.it##.bigrectangle600
 foodnetwork.it##.billboard
+ludomedia.it##.blocchiPbi
 ladige.it##.block--dfp
 vitatrentina.it##.block-banners
 ilroma.net##.block-rotating-banner
