@@ -49,6 +49,7 @@ nuovosud.it###block-views-banner-centrale-menu-block
 diretta.it###bonus-offers
 hwupgrade.it###box-next-container
 diretta.it###box-over-content-a
+guidaviaggi.it###boxBannerSKIN
 lasicilia.it###box_banner
 libero.it###box_expedia_case
 affaritaliani.it###box_immo

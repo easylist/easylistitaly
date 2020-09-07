@@ -176,6 +176,7 @@
 ||gratisfree.it/cgi-bin/bannergest$script
 ||greenews.info/wp-content/banners/
 ||guidaviaggi.it/banners/
+||guidaviaggi.it/public/banners/
 ||historychannel.it^*/swissre.
 ||html.it^*/banner/
 ||hwupgrade.it/js/hwu_adv.js
