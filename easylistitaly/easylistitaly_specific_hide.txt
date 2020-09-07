@@ -439,7 +439,7 @@ socialchannel.it##.footer2-wrapper
 quattroruote.it##.four-box-sponsor
 quattroruote.it##.fullBanner
 obiettivonews.it##.fullwidthbanner-container
-bolognaindiretta.it,buttanissima.it,corrieresalentino.it,gazzettadasti.it,grandangoloagrigento.it,ilcorriere.net,ilfattonisseno.it,ilmartino.it,ilsicilia.it,lavalsusa.it,lavocedeltrentino.it,modenaindiretta.it,qds.it,reggionline.com,rietinvetrina.it,rivistastudio.com,stradeeautostrade.it,sudpress.it,teleclubitalia.it,ticinonotizie.it##.g
+bolognaindiretta.it,buttanissima.it,corrieresalentino.it,gazzettadasti.it,grandangoloagrigento.it,ilcorriere.net,ilfattonisseno.it,ilmartino.it,ilsicilia.it,informazioneonline.it,lavalsusa.it,lavocedeltrentino.it,modenaindiretta.it,qds.it,reggionline.com,rietinvetrina.it,rivistastudio.com,stradeeautostrade.it,sudpress.it,teleclubitalia.it,ticinonotizie.it##.g
 netflixlovers.it##.gadget
 agendadigitale.eu##.gallery-container-home
 bastardidentro.it##.gigabanner_clickable
@@ -463,6 +463,9 @@ coratolive.it##.inner-adv-news
 sardegnareporter.it##.innerfade[style="margin-bottom: 10px; position: relative; height: 295px;"]
 repubblica.it##.is-marketing
 ispazio.net##.ispaz-adlabel
+informazioneonline.it##.it-box-mainsponsor
+informazioneonline.it##.it-box-manchette-DX
+informazioneonline.it##.it-box-manchette-SX
 mtv.it##.itunes
 lifegate.it##.itunesButton
 superscommesse.it##.js_tracking_gtm

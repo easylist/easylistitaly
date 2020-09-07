@@ -221,6 +221,7 @@
 ||imgpress.it^*/banner3
 ||imgpress.it^*/Pubbl-
 ||informacalcio.it/banner/
+||informazioneonline.it/wp-content/banners/
 ||inside.bz.it/images/banners/
 ||iovivoaroma.org/images/new/bg.jpg
 ||iovivoaroma.org/public/banners/
