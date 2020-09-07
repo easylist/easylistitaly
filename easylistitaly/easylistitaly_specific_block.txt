@@ -275,6 +275,7 @@
 ||loraquotidiano.it/wp-content/banners/
 ||lospiffero.com/banner/
 ||lospiffero.com/images/graphics/skin
+||lospiffero.com/utils/add_popup_functions.js
 ||lostrillone.tv/foto-banner/
 ||luccaindiretta.it/images/banners/
 ||lultimaribattuta.it^*banner
