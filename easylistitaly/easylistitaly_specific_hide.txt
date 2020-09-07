@@ -153,6 +153,7 @@ zeusnews.it###spotEsterno
 animeclick.it###stile_link
 valsassinanews.com###stripbanner
 qualenergia.it###stripbar
+erbanotizie.com###striprotator
 diretta.it###tab-bonus-offers
 diretta.it###tab-odds
 gamesvillage.it###takeover_gv
