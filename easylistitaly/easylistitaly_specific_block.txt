@@ -251,6 +251,7 @@
 ||lavocedeltrentino.it^*/NATAM-
 ||lavocedeltrentino.it^*/skin-
 ||lavocedeltrentino.it^*600x600
+||lavorincasa.it/adb/
 ||lavoripubblici.it/banner/
 ||leccenews24.it/upload/banner/
 ||leccesette.it/img/banner/

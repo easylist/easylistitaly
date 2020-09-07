@@ -655,6 +655,9 @@ nursetimes.org##.widget_realty_widget
 keyforweb.it##.wpmc_display
 keyforweb.it##.wpmoneyclick_template_single-product
 reteimprese.it##.wrap_banner
+lavorincasa.it##.wrapper-banner-footerbanner
+lavorincasa.it##.wrapper-banner-medium-rectangle
+lavorincasa.it##.wrapper-sider-bacheca-aziende
 hwupgrade.it##.wrapper-xyz
 petizionionline.it##.yahoo
 notizie.it##.yahoo-white-bg
