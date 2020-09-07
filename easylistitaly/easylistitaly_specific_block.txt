@@ -249,6 +249,8 @@
 ||larionews.com^*-MANCHETTE-
 ||larivieraonline.com^*/banner/
 ||larivieraonline.com^*/takeover/
+||latina24ore.it^*/banner-
+||latina24ore.it^*_Skin_
 ||latitudeslife.com/magazine/adv/
 ||latitudeslife.com^*/banners/
 ||lausc.it/images/banners/

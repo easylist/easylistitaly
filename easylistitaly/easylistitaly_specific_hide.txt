@@ -216,7 +216,7 @@ trustpilot.it##.adblock
 24emilia.com,autoscout24.ch,brocardi.it,caserta24ore.it,cb01.online,gamemag.it,hdblog.it,ilikepuglia.it,netflixlovers.it,phicatube.net,supereva.it,teleborsa.it,viamichelin.ch,viamichelin.it,videocasalinghi.com##.ads
 ildolomiti.it##.adsB
 chistachiamando.it,corriereadriatico.it,ilgazzettino.it,ilmattino.it,pcprofessionale.it,quotidianodipuglia.it##.adsense
-adessoin.tv,allaguida.it,amica.it,animalidalmondo.it,ansa.it,beauty.it,bigodino.it,buttalapasta.it,calciomercato.com,coratolive.it,curioctopus.it,dissapore.com,esseresani.it,faidatemania.it,forbes.it,gelocal.it,gianlucadimarzio.com,greenstyle.it,gta-expert.it,guidecucina.it,ideeviaggi.it,ilfattoquotidiano.it,ilpost.it,ilsole24ore.com,iogames.it,iomobile.it,lasaluteconlanima.it,lavoroefinanza.it,mammaebambino.it,mediaset.it,misya.info,movieplayer.it,mtv.it,multiplayer.it,nanopress.it,nonsolocultura.it,norbaonline.it,odiami.it,pianetagreen.it,pianetamotori.it,pourfemme.it,prealpina.it,radioindiretta.fm,radiolina.it,radiomontecarlo.net,repubblica.it,salepepe.it,sky.it,sportpower.it,staffettaonline.com,stylosophy.it,supereva.it,tuttopercasa.it,verytech.it,virgilio.it,vivalascuola.it,vocenuova.tv##.adv
+adessoin.tv,allaguida.it,amica.it,animalidalmondo.it,ansa.it,beauty.it,bigodino.it,buttalapasta.it,calciomercato.com,coratolive.it,curioctopus.it,dissapore.com,esseresani.it,faidatemania.it,forbes.it,gelocal.it,gianlucadimarzio.com,greenstyle.it,gta-expert.it,guidecucina.it,ideeviaggi.it,ilfattoquotidiano.it,ilpost.it,ilsole24ore.com,iogames.it,iomobile.it,lasaluteconlanima.it,latina24ore.it,lavoroefinanza.it,mammaebambino.it,mediaset.it,misya.info,movieplayer.it,mtv.it,multiplayer.it,nanopress.it,nonsolocultura.it,norbaonline.it,odiami.it,pianetagreen.it,pianetamotori.it,pourfemme.it,prealpina.it,radioindiretta.fm,radiolina.it,radiomontecarlo.net,repubblica.it,salepepe.it,sky.it,sportpower.it,staffettaonline.com,stylosophy.it,supereva.it,tuttopercasa.it,verytech.it,virgilio.it,vivalascuola.it,vocenuova.tv##.adv
 motori.it##.adv-items
 coratolive.it##.adv-news
 rbe.it##.adv-section
@@ -442,7 +442,7 @@ socialchannel.it##.footer2-wrapper
 quattroruote.it##.four-box-sponsor
 quattroruote.it##.fullBanner
 obiettivonews.it##.fullwidthbanner-container
-bolognaindiretta.it,buttanissima.it,corrieresalentino.it,gazzettadasti.it,grandangoloagrigento.it,ilcorriere.net,ilfattonisseno.it,ilmartino.it,ilsicilia.it,informazioneonline.it,lavalsusa.it,lavocedeltrentino.it,modenaindiretta.it,qds.it,reggionline.com,rietinvetrina.it,rivistastudio.com,stradeeautostrade.it,sudpress.it,teleclubitalia.it,ticinonotizie.it##.g
+bolognaindiretta.it,buttanissima.it,corrieresalentino.it,gazzettadasti.it,grandangoloagrigento.it,ilcorriere.net,ilfattonisseno.it,ilmartino.it,ilsicilia.it,informazioneonline.it,latina24ore.it,lavalsusa.it,lavocedeltrentino.it,modenaindiretta.it,qds.it,reggionline.com,rietinvetrina.it,rivistastudio.com,stradeeautostrade.it,sudpress.it,teleclubitalia.it,ticinonotizie.it##.g
 netflixlovers.it##.gadget
 agendadigitale.eu##.gallery-container-home
 bastardidentro.it##.gigabanner_clickable
