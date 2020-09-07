@@ -432,6 +432,7 @@ masterviaggi.it##.fieldset_sponsor
 quattroruote.it##.financialbox
 luinonotizie.it##.fixed-sponsor
 cazzofiga.com##.footer-banner-wrapper
+lega-pro.com##.footer-partner
 livescore.it##.footer-promo-full
 gazzettadasti.it##.footer-rotate-banner
 sportnotizie24.it##.footer-sponsors
