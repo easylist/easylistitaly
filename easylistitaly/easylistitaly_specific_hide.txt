@@ -139,7 +139,7 @@ nuovosud.it###sfondo
 troppoforte.net###sidebar
 metalitalia.com###sidebar-top
 eurogamer.it###sidebar_amazon
-epolisbari.com###skin
+epolisbari.com,marigliano.net###skin
 iovivoaroma.org###skin_link_dx
 iovivoaroma.org###skin_link_sx
 cronacheancona.it,cronachemaceratesi.it###skinabove

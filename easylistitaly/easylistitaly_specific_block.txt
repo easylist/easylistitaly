@@ -297,6 +297,7 @@
 ||mangialibri.com^*/BANNER_
 ||mangialibri.com^*300x250
 ||maremmanews.it/images/banners/
+||marigliano.net/upload/banner/
 ||marsalaviva.it/images/banners/
 ||marsicalive.it^*banner
 ||masterviaggi.it/banner/
