@@ -2,7 +2,6 @@ cosavederealondra.it,cosavisitareanewyork.com#@##adbox
 repubblica.it#@##advtop
 subito.it#@##body_ad
 corrierediragusa.it#@##pubblicita
-cardiochirurgia.com#@#.ad-head
 forbes.it,forbesitalia.com#@#.ad-row
 bakeca-incontri.net#@#.ad_bottom
 bakeca-incontri.net#@#.ad_center
@@ -14,9 +13,7 @@ subito.it#@#.adcont
 bakeca-incontri.net#@#.adtitle
 altervista.org,pianetadonna.it,studenti.it#@#.adv_esterno
 tuttoaffari.com#@#.block-adv
-cardiochirurgia.com#@#.box-ad
 italiasw.com#@#.header-google-ads
-cardiochirurgia.com#@#.list-ads
 biancolavoro.it#@#.listad
 latinomagazine.it#@#.moduletable-advert
 camperonline.it,italiasw.com#@#.pubblicita

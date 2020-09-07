@@ -103,7 +103,6 @@ eurogamer.it###low-leaderboard
 salernonotizie.it###machette_left
 salernonotizie.it###machette_right
 fcinternews.it,tuttopotenza.com###main-slim
-legnanonews.com###makeMeScrollable
 qdpnews.it,viterbopost.it###manchette-dx
 qdpnews.it,viterbopost.it###manchette-sx
 stadionews.it###manchette_dx_container
@@ -131,7 +130,6 @@ ok-salute.it###ppn_center
 mtv.it###promoInfo
 loudvision.it###prop-leader
 flashgames.it###pub_sotto
-legnanonews.com###pubbl_footer_ext
 nonsolocap.it###qk
 sapere.it###s24box1
 sapere.it###s24box2
@@ -194,11 +192,7 @@ lacnews24.it##.FPB_six
 viterbonews24.it##.SepBanner
 theitaliantimes.it##.Side_DX
 telestense.it##.StandardBanner
-ricettepercucinare.com##.UAP_3to1_Rectangle
-ricettepercucinare.com##.UAP_Medium_Rectangle
-ricettepercucinare.com##.UAP_Wide_Skyscraper
 rietinvetrina.it##.a-single
-player.it##.aalb-259-product-carousel-unit
 badcomics.it,badgames.it,badtaste.it,badtv.it##.aalb-880-product-carousel-unit
 repubblica.it##.aas_whole_wrapper
 cityrumors.it##.aawp
@@ -216,7 +210,7 @@ trustpilot.it##.adblock
 24emilia.com,autoscout24.ch,brocardi.it,caserta24ore.it,cb01.online,gamemag.it,hdblog.it,ilikepuglia.it,netflixlovers.it,phicatube.net,supereva.it,teleborsa.it,viamichelin.ch,viamichelin.it,videocasalinghi.com##.ads
 ildolomiti.it##.adsB
 chistachiamando.it,corriereadriatico.it,ilgazzettino.it,ilmattino.it,pcprofessionale.it,quotidianodipuglia.it##.adsense
-adessoin.tv,allaguida.it,amica.it,animalidalmondo.it,ansa.it,beauty.it,bigodino.it,buttalapasta.it,calciomercato.com,coratolive.it,curioctopus.it,dissapore.com,esseresani.it,faidatemania.it,forbes.it,gelocal.it,gianlucadimarzio.com,greenstyle.it,gta-expert.it,guidecucina.it,ideeviaggi.it,ilfattoquotidiano.it,ilpost.it,ilsole24ore.com,iogames.it,iomobile.it,lasaluteconlanima.it,latina24ore.it,lavoroefinanza.it,mammaebambino.it,mediaset.it,misya.info,movieplayer.it,mtv.it,multiplayer.it,nanopress.it,nonsolocultura.it,norbaonline.it,odiami.it,pianetagreen.it,pianetamotori.it,pourfemme.it,prealpina.it,radioindiretta.fm,radiolina.it,radiomontecarlo.net,repubblica.it,salepepe.it,sky.it,sportpower.it,staffettaonline.com,stylosophy.it,supereva.it,tuttopercasa.it,verytech.it,virgilio.it,vivalascuola.it,vocenuova.tv##.adv
+adessoin.tv,allaguida.it,amica.it,animalidalmondo.it,ansa.it,beauty.it,bigodino.it,buttalapasta.it,calciomercato.com,coratolive.it,curioctopus.it,dissapore.com,esseresani.it,faidatemania.it,forbes.it,gelocal.it,gianlucadimarzio.com,greenstyle.it,gta-expert.it,guidecucina.it,ideeviaggi.it,ilfattoquotidiano.it,ilpost.it,ilsole24ore.com,iogames.it,iomobile.it,lasaluteconlanima.it,latina24ore.it,lavoroefinanza.it,mammaebambino.it,mediaset.it,misya.info,movieplayer.it,mtv.it,multiplayer.it,nanopress.it,nonsolocultura.it,norbaonline.it,odiami.it,pianetagreen.it,pianetamotori.it,pourfemme.it,prealpina.it,radioindiretta.fm,radiolina.it,repubblica.it,salepepe.it,sky.it,sportpower.it,staffettaonline.com,stylosophy.it,supereva.it,tuttopercasa.it,verytech.it,virgilio.it,vivalascuola.it,vocenuova.tv##.adv
 motori.it##.adv-items
 coratolive.it##.adv-news
 rbe.it##.adv-section
@@ -225,7 +219,6 @@ virgilio.it##.advTuning
 corrierecomunicazioni.it,ilsussidiario.net##.adv_container
 addicted2play.com,amonapoli.it,eurogamer.it,giardini.biz,gioco.it,lausc.it,morningstar.it,tvtv.it##.advert
 liberoquotidiano.it,pharmastar.it##.advertisement
-lettera43.it,tpi.it##.advertising
 sienafree.it##.advs
 quotidianodigela.it##.advs-title
 alfemminile.com##.affi-button
@@ -284,7 +277,6 @@ umbria24.it##.banner-show-desktop
 digital-news.it##.banner-sidebar
 canavesenews.it##.banner-slider
 qualenergia.it##.banner-space
-tpi.it##.banner-standard
 frasimania.it##.banner-top
 edilportale.com##.banner-velux
 milanofinanza.it##.banner-video
@@ -395,7 +387,6 @@ saggiamente.com##.consigliati
 reteimprese.it##.cont-banner
 edilportale.com##.cont-leaderBoard
 gazzettavvisionline.it##.cont_Leaderboard
-leccesette.it##.cont_banner
 tiscali.it##.container_b_1
 borsaitaliana.it##.container_banner_top
 distribuzionemoderna.info##.contenitore-leaderboard
@@ -429,7 +420,6 @@ androidworld.it##.eprice-lnk
 androidworld.it##.eprice-side
 greenstyle.it##.evidenziato
 forexinfo.it##.exchange
-leccesette.it##.featured_banner
 masterviaggi.it##.fieldset_sponsor
 quattroruote.it##.financialbox
 luinonotizie.it##.fixed-sponsor
@@ -482,8 +472,6 @@ erbanotizie.com##.leaderboard-bottom
 lacnews24.it##.left-side
 diretta.it##.live-betting-strip
 bisceglielive.it##.live-promo
-legnanonews.com##.live_pubbl
-bluerating.com##.long_side_adv
 omnifurgone.it##.m1-apb
 buttanissima.it##.machette
 gonews.it##.machette-over-logo
@@ -539,7 +527,6 @@ altadefinizione4k.net##.pseudo-link
 agoravox.it##.pub
 kikapress.com##.pub_container
 meteoconsult.it##.pub_lcm
-legnanonews.com##.pubbl
 liberta.it##.pubbliblog
 theinquirer.it##.pubind1
 agoravox.it##.publarge
@@ -575,9 +562,7 @@ guidamonaci.it##.separatorFooter
 excite.it##.serp-item
 bloopers.it##.shop
 softonic.it##.show_banner_down_leaderboard
-radiomontecarlo.net##.side-ban
 style.it##.side-gallery
-tpi.it##.sidebar_custom_banner
 youreporter.it##.sidebar_menu_virgilio
 cosedicasa.com##.sidespot-wrapper
 newnotizie.it##.single_sidebar300x250
@@ -775,7 +760,6 @@ lametino.it##div[style="position: relative; width: 300px; height: 250px;"]
 motorinolimits.com##div[style="position: relative; z-index: 0; width: 160px; height: 160px;"]
 motorinolimits.com##div[style="position: relative; z-index: 0; width: 300px; height: 250px;"]
 ildesk.it##div[style="position:absolute; background-color:#ffffff; width:300px; height:250px; left: 526px; top: -14px;"]
-legnanonews.com##div[style="position:relative; margin-bottom:10px; width:180px; height:320px;"]
 gamesource.it##div[style="position:relative; width:300px; height:250px; margin-top:15px;"]
 romadailynews.it##div[style="position:relative;box-sizing:content-box;padding:10px 10px 10px 10px;border:2px solid #0A5ED6;zoom:1;overflow:hidden;height:80px;width:280px;text-align:left;"]
 ilquotidianocalabria.it##div[style="position:relative;width:234px; height:90px;float:right;"]
@@ -812,7 +796,6 @@ strettoweb.com##div[style="width:307px; height:250px; text-align:left; margin:0 
 leggioggi.it##div[style="width:310px;overflow:hidden;height:130px;margin-left:-8px;"]
 lultimaribattuta.it##div[style="width:320px;height:250px;"]
 newspedia.it##div[style="width:336px;height:280px;background-color:#E6E1E2;"]
-legnanonews.com##div[style="width:370px; height:320px; margin-bottom: 10px; position:relative"]
 pornoitalico.com##div[style="width:380px; height:480px; _position:absolute; _right: 0px; text-align:center; float:right; margin-top:51px;margin-bottom: 50px; margin-left: 5px; background-color:#FCFAFA; border: 1px solid #BCBCBC;; padding-left:10px; padding-right:10px; padding-top:30px; padding-bottom:100px; margin-right: 10px; border-radius: 0px;"]
 milanlive.it##div[style="width:468px; float:left; height:60px; margin-bottom:3px;"]
 reggiotv.it##div[style="width:468px; height:60px; border:1px solid #DDD; margin:10px; margin-left:60px; overflow:hidden; text-align:center"]
