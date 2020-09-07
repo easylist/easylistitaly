@@ -594,6 +594,7 @@
 ||stabiachannel.it^*/banner/
 ||stadiotardini.it^*/comeser_
 ||staffettaonline.com/fcomuniBanner/
+||stamptoscana.it^*/sponsor/
 ||startmag.it^*/skin-
 ||statoquotidiano.it/banner/
 ||stiledimoda.it/banner/
