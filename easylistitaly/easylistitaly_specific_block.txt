@@ -660,6 +660,7 @@
 ||torinoggi.it^*/150x60_
 ||torinotoday.it/images/skin/
 ||toronews.net/banner/
+||toscanagol.it/immagini/File_banner/
 ||tp24.it/immagini_banner/
 ||tp24.it/library/_popup_banner.php
 ||trasporti-italia.com^*/banner/
