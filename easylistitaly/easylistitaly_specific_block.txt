@@ -257,6 +257,7 @@
 ||lavoripubblici.it/banner/
 ||leccenews24.it/upload/banner/
 ||leccesette.it/img/banner/
+||lecconotizie.com/wp-content/banners/
 ||left.it/wp-content/uploads/banners/
 ||leggioggi.it^*/banner/
 ||legnanonews.com/img/banner/
