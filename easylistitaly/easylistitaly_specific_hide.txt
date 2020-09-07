@@ -609,7 +609,7 @@ greenstyle.it,motori.it##.sticky-adv
 occhionotizie.it##.sticky_bar_container
 webnews.it##.sticky_wrapper
 andreagaleazzi.com##.store-box
-primopianomolise.it,radioradio.it##.strack_cli
+primopianomolise.it,radioradio.it,vendingnews.it##.strack_cli
 affaritaliani.it##.strillo-speciale3
 ship2shore.it,trend-online.com##.strip
 ilmessaggero.it##.strip-guidalloshopping

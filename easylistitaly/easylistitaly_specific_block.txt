@@ -738,6 +738,7 @@
 ||vanityfair.it^*_105x65.jpg
 ||varesenews.it^*/banner/
 ||vb33.it/images/banners/
+||vendingnews.it/wp-content/uploads/angwp/items/
 ||venetogol.it//immagini/File_banner/
 ||venetouno.it/media/imgbanners/
 ||vercellioggi.it/immagini/banner/
