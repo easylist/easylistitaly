@@ -80,6 +80,7 @@
 ||insicilia.com/banner/
 ||investimenti.bnpparibas.it^$domain=trend-online.com
 ||ipercast.net/uploads/sponsors/
+||italycharter.it/searchwidget$third-party
 ||kataweb.it/zbanner_consorzio.js
 ||kataweb.it^*/negozi/$third-party
 ||kuko.it/banner.
