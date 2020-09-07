@@ -72,6 +72,7 @@ dilei.it,quifinanza.it,supereva.it,virgilio.it###cont-wallpaper
 autoseller.it###ctl00_ContentCentraleBanner
 teleborsa.it###ctl00_if4WTV300x250
 strill.it###custom_html-25
+strill.it###custom_html-65
 amazon.it###detailILM_feature_div
 mymovies.it###div_topleft
 ecodicaserta.it###down
