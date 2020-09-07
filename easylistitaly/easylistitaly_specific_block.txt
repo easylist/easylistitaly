@@ -65,6 +65,7 @@
 ||campaniameteo.it/CMS/Upload/GalleriaUtente/Image/
 ||camperonline.it/b-top/
 ||camperonline.it/b/
+||camperonline.it/banner/
 ||camperonline.it/sfondo/
 ||casaeclima.com/js/banner.js
 ||casaeclima.com/js/manchette.js
