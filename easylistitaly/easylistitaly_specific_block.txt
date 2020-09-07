@@ -404,6 +404,9 @@
 ||palermomania.it/images/banner_
 ||palermomania.it/public/banner/
 ||papaboys.org^*/banner-
+||parmareport.it^*/320x250_
+||parmareport.it^*/Banner-
+||parmareport.it^*_banner_
 ||parrocchie.it/banner/
 ||paviapiu.it/images/banners/
 ||pc-facile.com/images/banner/
