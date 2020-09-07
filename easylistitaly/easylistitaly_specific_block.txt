@@ -172,6 +172,7 @@
 ||gnoccatravels.com/files/pbblct
 ||goblins.net^*/banner/
 ||gocity.it/library/banner/
+||gonews.it^*_Banner-
 ||gratisfree.it/cgi-bin/bannergest$script
 ||greenews.info/wp-content/banners/
 ||guidaviaggi.it/banners/
