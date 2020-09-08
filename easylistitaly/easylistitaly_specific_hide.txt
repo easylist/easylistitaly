@@ -274,6 +274,7 @@ rl1.it##.banner-main
 ilikepuglia.it##.banner-placeholder
 sportnotizie24.it##.banner-quadrato-container
 umbria24.it##.banner-show-desktop
+leccesette.it##.banner-side
 digital-news.it##.banner-sidebar
 canavesenews.it##.banner-slider
 qualenergia.it##.banner-space
@@ -568,6 +569,7 @@ cosedicasa.com##.sidespot-wrapper
 newnotizie.it##.single_sidebar300x250
 ilmomento.eu##.site-commerc
 andreagaleazzi.com,animeclick.it##.skin
+leccesette.it##.skin-desktop
 primopianomolise.it##.skin_bg_left
 primopianomolise.it##.skin_bg_right
 iovivoaroma.org##.skin_link_top

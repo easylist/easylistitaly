@@ -264,6 +264,7 @@
 ||lavorincasa.it/adb/
 ||lavoripubblici.it/banner/
 ||leccenews24.it/upload/banner/
+||leccesette.it/banner/
 ||lecconotizie.com/wp-content/banners/
 ||left.it/wp-content/uploads/banners/
 ||leggioggi.it^*/banner/
