@@ -24,7 +24,6 @@
 @@||google.com/ads/search/module/ads/*/search.js$domain=zoover.ch|zoover.it
 @@||google.com/adsense/$subdocument,domain=sedo.ch|sedo.it
 @@||google.com/adsense/search/ads.js$domain=zoover.ch|zoover.it
-@@||ilfattoquotidiano.it/wp-content/themes/ilfatto/thumb/*_pubblicita_*.jpg
 @@||ilparking-moto.it/images/flag/gif/ad.gif
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=3bmeteo.com|agi.it|auto.it|capital.it|corrieredellosport.it|guerinsportivo.it|huffingtonpost.it|inmoto.it|la7.it|liveksoft.tv|m2o.it|movieplayer.it|multiplayer.it|radiofreccia.it|radioitalia.it|radiozeta.it|rds.it|rtl.it|tuttosport.com|velvetgossip.it|video.deejay.it|video.espresso.repubblica.it|video.ilsecoloxix.it|video.lanuovasardegna.it|video.lastampa.it|video.rep.repubblica.it|video.repubblica.it|vvvvid.it
 @@||js.neodatagroup.com/uploads/js/rds.js$domain=rds.it
