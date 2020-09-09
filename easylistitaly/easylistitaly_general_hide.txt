@@ -158,6 +158,7 @@
 ##.sponsor160x600Dx
 ##.sponsor300x250Sx
 ##.sponsorizzati
+##.sticky-adv
 ##.tabella2Pubblicita
 ##.tabella3Pubblicita
 ##.tabellaPubblicita

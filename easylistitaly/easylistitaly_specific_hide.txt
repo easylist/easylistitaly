@@ -567,7 +567,6 @@ acfontemeravigliosa.it,alfamasera.it,ascsanrocco.it,asdcmozzo.it,asdeasytennis.i
 avvenire.it##.spot
 leggioggi.it##.spot-mini
 mostraip.com##.spot1
-greenstyle.it,motori.it##.sticky-adv
 occhionotizie.it##.sticky_bar_container
 webnews.it##.sticky_wrapper
 andreagaleazzi.com##.store-box
