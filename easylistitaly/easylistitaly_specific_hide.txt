@@ -394,6 +394,7 @@ supermoney.eu##.dfp-leaderbord
 blastingnews.com##.dfp-mobile-leadeboard
 quotidiano.net##.discount-block
 cuneodice.it,genovadice.it,italiadice.it,torinodice.it##.div_banner
+laleggepertutti.it##.div_topbanner
 ridble.com##.dn
 cronachedibirra.it##.e3lan125
 ilmeteo.net##.eHotel
@@ -446,6 +447,7 @@ close-up.it,foodweb.it,foxtv.it,la7.it,meteovista.it,pneusnews.it,prealpina.it,r
 blastingnews.com##.leaderboard-article
 erbanotizie.com##.leaderboard-bottom
 lacnews24.it##.left-side
+laleggepertutti.it##.lexdo-banner
 diretta.it##.live-betting-strip
 bisceglielive.it##.live-promo
 omnifurgone.it##.m1-apb
