@@ -340,6 +340,7 @@ punto-informatico.it,telefonino.net##.blz-url
 stateofmind.it##.bnn-fullwidth
 meteovalmorea.it##.bnr-row
 staffettaonline.com##.bnrZonaLati
+livescore.it##.bookmaker
 risultati.it##.bookmarker-53
 pmi.it##.box-300-special
 centrometeoitaliano.it##.box-adv
