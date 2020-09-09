@@ -75,6 +75,7 @@
 ||paypublicity.it^$third-party
 ||pirchio.com^$third-party
 ||plavid.com^$third-party
+||preludeadv.it^$third-party
 ||prontocampaign.com^$third-party
 ||radxcomm.com^$third-party
 ||ragazzeinvendita.com^$third-party
