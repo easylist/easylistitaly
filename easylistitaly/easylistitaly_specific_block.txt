@@ -240,6 +240,7 @@
 ||ladiscussione.com^*/Banner-
 ||ladiscussione.com^*/banner_
 ||lafeltrinelli.it^*/Partner/
+||lagazzetta.info^*/banner/
 ||lagazzettadilucca.it^*/inserzioni/
 ||laltrapagina.it^*/pe4681.
 ||lametino.it/images/banners/
