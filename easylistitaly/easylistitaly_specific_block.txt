@@ -356,7 +356,9 @@
 ||palermomania.it/public/banner/
 ||papaboys.org^*/banner-
 ||parmareport.it^*/320x250_
+||parmareport.it^*/320x267-
 ||parmareport.it^*/Banner-
+||parmareport.it^*/skin-
 ||parmareport.it^*_banner_
 ||parrocchie.it/banner/
 ||paviapiu.it/images/banners/
