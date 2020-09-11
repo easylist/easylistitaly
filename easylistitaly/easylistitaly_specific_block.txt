@@ -606,6 +606,7 @@
 ||toscanagol.it/immagini/File_banner/
 ||tp24.it/immagini_banner/
 ||tp24.it/library/_popup_banner.php
+||trapaniok.it/public/banner/
 ||trasporti-italia.com^*/banner/
 ||travelnostop.com/banner/
 ||trend-online.com^*/Banner/
