@@ -344,6 +344,7 @@
 ||oas.repubblica.it^
 ||occhionotizie.it^*_banner_
 ||oggiroma.it/public/banner/
+||oipamagazine.it^*/euroservice.gif
 ||oktennis.it^*/skin/
 ||ondarock.it/skin/
 ||ostiatv.it/upl/banner
