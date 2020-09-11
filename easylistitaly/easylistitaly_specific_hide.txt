@@ -576,6 +576,7 @@ bluerating.com##.top_funders
 vistointv.net##.topbanner2
 everyeye.it##.topskin
 turistipercaso.it##.trovaviaggi
+notebookitalia.it##.uk-height-medium
 turistipercaso.it##.utilink
 bresciaoggi.it,larena.it##.v2_banner-wrapper
 ilgiornaledivicenza.it,larena.it##.v3_horz-banner
