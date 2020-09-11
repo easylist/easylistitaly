@@ -397,7 +397,7 @@ agendadigitale.eu##.gallery-container-home
 bastardidentro.it##.gigabanner_clickable
 ilturista.info##.google-box
 3bmeteo.com##.gpt_top
-fanta.soccer,money.it##.gptslot
+fanta.soccer,fiscomania.com,money.it##.gptslot
 altadefinizione.coach,guardaserie.store##.guarda_hd
 quattroruote.it##.halfPageBanner2
 nuovosud.it##.header-banner-wrapper
