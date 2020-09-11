@@ -24,9 +24,6 @@
 ||alessandriaoggi.info/images/banners/
 ||alfamitoclub.it/images/banner/
 ||alfamitoclub.it/images/sponsor/
-||algheroeco.com^*/banner_
-||algheroeco.com^*300x250.gif
-||algheroeco.com^*_skin_
 ||alqamah.it/banners/
 ||altarimini.it/bannerBoxCatalog.php
 ||altoadigegol.it//immagini/File_banner/
@@ -91,10 +88,6 @@
 ||comprovendolibri.it/sponsor/
 ||condominioitalia.biz^*/banner/
 ||condominioweb.com/bann/
-||condominioweb.com/banner/
-||condominioweb.com/banner_
-||condominioweb.com/images/banner_
-||condominioweb.com/velux_leader.png
 ||coni.it/images/banners/*_*.jpg
 ||coni.it/images/banners/sfondi/
 ||coriglianocalabro.it/images/banners/
@@ -366,43 +359,20 @@
 ||parmareport.it^*/skin-
 ||parmareport.it^*_banner_
 ||parrocchie.it/banner/
-||paviapiu.it/images/banners/
-||pc-facile.com/images/banner/
 ||perotorino.it/images/banners/
 ||pharmastar.it^*/banner/
 ||pharmastar.it^*/skins/
-||piacenzasera.it/img/top/sfondo.jpg
-||piacenzasera.it^*/img_banner/
-||pianetazzurro.it/images/banner/
 ||piratestreaming.eu/vip/img/tad
-||plx.pornototale.com^
-||poker.commentierecensioni.com^*/titanpoker125x125.gif
 ||poliziamunicipale.it/script/getbnr.aspx?
 ||primapaginamolise.it/banner/
-||professionecalcio.net/wp-content/uploads/panini-box.jpg
-||professionecalcio.net/wp-content/uploads/peugeot208_250x350_v3.jpg
-||professionecalcio.net/wp-content/uploads/williamHillbox.png
-||professionecalcio.net/wp-content/uploads/wwf1-242x160.jpg
-||professionemotori.it/wp-content/uploads/panini-box.jpg
 ||professionemotori.it/wp-content/uploads/williamHillbox.png
-||professionemotori.it/wp-content/uploads/wwf-242x160.jpg
-||prontotaxi5737.it/images/banners/
-||puglialive.net/dfiles/banners/
-||puntocellulare.it/banner/
-||pupia.tv/banner-
 ||pyrosonline.it/site/public/image/20200131153026.jpg
 ||qdpnews.it/images/banners/
 ||quattroruote.it^*/box-eni-
 ||quattroruote.it^*/landing/
 ||quattroruote.it^*/logo-eni-generico.
 ||quattroruote.it^*/Qhybrid-toyota-
-||quelliche.net^*/file_banner/
 ||quellidellelica.com/images/banners/
-||questotrentino.it/sponsor/
-||quicosenza.it/images/banner_
-||quicosenza.it/images/banners/
-||quotidianodiragusa.com^*/bannerdef/
-||radio103.it/banner_
 ||radioalba.it/img_sito/banner/
 ||radioamore.it^*/banners/
 ||radiocantu.com^*-260x260-
@@ -441,7 +411,6 @@
 ||radioromacapitale.it/images/conf.jpg
 ||radiortm.it^*/Banner_
 ||radiosienatv.it^*-300x250.
-||radiostereo103.it/banner_
 ||ragusanews.com//immagini_banner/
 ||ragusanews.com/images_banner/
 ||rampower.it/download/banner/
@@ -466,7 +435,6 @@
 ||retesport.it/images/banner-
 ||retesport.it/images/conf.jpg
 ||rivistanatura.com^*/SKIN_
-||rl1.it/img/web/banner/
 ||rocknrollradio.it/images/banners/
 ||romachampionsleague.com^*/Logo-motto-
 ||romachampionsleague.com^*/Pubblicit%C3%A0-
@@ -482,7 +450,6 @@
 ||salernonotizie.it^*/skin_
 ||salernonotizie.net^*_banner_
 ||samspot.softairmania.it^
-||sanfrancescopatronoditalia.it/banner/
 ||sangavinomonreale.net^*/Banner-
 ||sangavinomonreale.net^*/Cardia-
 ||sangavinomonreale.net^*/Casula.jpg
@@ -521,7 +488,6 @@
 ||sipario.it/images/banners/
 ||sky.it/static/images/sito/skin_
 ||smartweek.it^*/banner-
-||softonic.it/ad/
 ||sogninascosti.com/banner/
 ||soldionline.it^*/300x100_
 ||spaitalia.it/images/immagini/banner
@@ -561,7 +527,6 @@
 ||superscommesse.it^*/bannerquadrati/
 ||tantifilm.rest^*/bannersca.png
 ||tantifilm.rest^*/wsxhQH2QyPxFBhiByjd1hQ.gif
-||teatronaturale.it^*/banner_
 ||techassistance.it/media//adv/
 ||technologyreview.it/img/banner/
 ||technologyreview.it/img/banner_
@@ -574,8 +539,6 @@
 ||teleclubitalia.it/wp-content/banners/
 ||telecolore.it/banner/
 ||telefonino.net^*/justearntn.js
-||telenord.it^*/Banner-
-||telenuovo.it^*/banner/
 ||teleradiostereo.it/flash/banner_
 ||telestense.it/wp-content/banners/
 ||temi-wordpress.net/wp-content/plugins/maxblogpress-unblockable-popup/
@@ -761,6 +724,6 @@
 @@||disquscdn.com^$script,domain=guardaserie.fit
 |https://$script,third-party,domain=guardaserie.fit
 ! (/sw.js)
-/^https?:\/\/.*\/.*sw[0-9(.|_)].*/$script,domain=dundi.it
+/^https?:\/\/.*\/.*sw[0-9._].*/$script,domain=dundi.it|pornototale.com
 ! webrtc ads
 $webrtc,domain=hentaisaturn.com|leggenditalia.com|leggenditaly.com
