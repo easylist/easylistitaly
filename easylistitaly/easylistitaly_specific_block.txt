@@ -381,6 +381,7 @@
 ||puglialive.net/dfiles/banners/
 ||puntocellulare.it/banner/
 ||pupia.tv/banner-
+||pyrosonline.it/site/public/image/20200131153026.jpg
 ||qdpnews.it/images/banners/
 ||quattroruote.it^*/box-eni-
 ||quattroruote.it^*/landing/
