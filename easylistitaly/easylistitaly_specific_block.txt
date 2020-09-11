@@ -101,6 +101,7 @@
 ||coriglianocalabro.it^*/banner/
 ||corriere.ca^*/Banners/
 ||corriere.it^*/adv/
+||corriereal.info^*/728x60.gif
 ||corrieredellacalabria.it^*/banner-
 ||corrieredellacalabria.it^*/banner_
 ||corrieredellacalabria.it^*/FinCalabra-20.
