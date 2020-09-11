@@ -229,6 +229,11 @@
 ||inside.bz.it/images/banners/
 ||iovivoaroma.org/images/new/bg.jpg
 ||iovivoaroma.org/public/banners/
+||itacanotizie.it^*/37-striscia-
+||itacanotizie.it^*/banner-
+||itacanotizie.it^*/banner_
+||itacanotizie.it^*/bj-3_
+||itacanotizie.it^*/e4dv-
 ||italiafruit.net/Public/Upload/Banner/
 ||italpress.com^*/gif_talpress_def.
 ||italpress.com^*/VolospeechGif_
