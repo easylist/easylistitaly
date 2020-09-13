@@ -370,6 +370,7 @@ ilturista.info##.google-box
 fanta.soccer,fiscomania.com,money.it##.gptslot
 altadefinizione.coach,guardaserie.store##.guarda_hd
 quattroruote.it##.halfPageBanner2
+emmelle.it##.header-ainfo
 nuovosud.it##.header-banner-wrapper
 calciomercato.com##.header-banner__container
 ilgiornaledivicenza.it##.header-box
@@ -523,6 +524,7 @@ ilmessaggero.it##.strip-guidalloshopping
 style.it##.style_promo
 volleyball.it##.su-carousel
 obiettivonews.it##.su-slider
+emmelle.it##.supermag-ainfo-widget
 wired.it##.supported
 mbnews.it##.swiper-container
 luinonotizie.it##.swiper-wrapper
