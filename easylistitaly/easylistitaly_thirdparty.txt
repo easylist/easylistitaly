@@ -19,6 +19,7 @@
 ||allosponsor.it/images/$third-party
 ||andreafranzoso.com/banner/
 ||artera.it/banners.php?
+||autocrocetta.com^$domain=quotidianocanavese.it
 ||autostima.net/partner/
 ||banner-madai-com.s3.amazonaws.com^
 ||bazarcoupon.com/images/$third-party

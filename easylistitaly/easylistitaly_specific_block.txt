@@ -373,12 +373,14 @@
 ||primapaginamolise.it/banner/
 ||professionemotori.it/wp-content/uploads/williamHillbox.png
 ||pyrosonline.it/site/public/image/20200131153026.jpg
+||qcanavese.it/banner/
 ||qdpnews.it/images/banners/
 ||quattroruote.it^*/box-eni-
 ||quattroruote.it^*/landing/
 ||quattroruote.it^*/logo-eni-generico.
 ||quattroruote.it^*/Qhybrid-toyota-
 ||quellidellelica.com/images/banners/
+||quotidianocanavese.it/img/skyscraper/
 ||radioalba.it/img_sito/banner/
 ||radioamore.it^*/banners/
 ||radiocantu.com^*-260x260-
