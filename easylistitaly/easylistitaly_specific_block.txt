@@ -24,6 +24,10 @@
 ||alessandriaoggi.info/images/banners/
 ||alfamitoclub.it/images/banner/
 ||alfamitoclub.it/images/sponsor/
+||algheroeco.com^*-banner-
+||algheroeco.com^*/banner-
+||algheroeco.com^*/BANNER960X30.
+||algheroeco.com^*/SC-Costruzioni.
 ||alqamah.it/banners/
 ||altarimini.it/bannerBoxCatalog.php
 ||altoadigegol.it//immagini/File_banner/
