@@ -382,13 +382,8 @@
 ||quellidellelica.com/images/banners/
 ||quicosenza.it^*/pirro300x407.gif
 ||quotidianocanavese.it/img/skyscraper/
-||radioalba.it/img_sito/banner/
 ||radioamore.it^*/banners/
 ||radiocantu.com^*-260x260-
-||radiochieri.it/uploads/banner/
-||radiocinema.it^*/banner
-||radioglobo.it/img/banner/
-||radioglobo.it/img/bg/bg_
 ||radiogold.it/images/banners/
 ||radiogold.it^*/Banner-
 ||radiogold.it^*/banner/
@@ -406,7 +401,6 @@
 ||radiomillennium.it^*-banner-
 ||radiomillennium.it^*/banner-
 ||radiomillennium.it^*/tuttiautopezzi_
-||radiomondo.it/images/banners/
 ||radionorba.it/sp/flash/banner-
 ||radionostalgia.fm^*/banner/
 ||radionumberone.it/images/banners/
@@ -495,7 +489,6 @@
 ||siciliaway.it^*/immagini_promozionali/
 ||sienafree.it/images/banners/
 ||sipario.it/images/banners/
-||sky.it/static/images/sito/skin_
 ||smartweek.it^*/banner-
 ||sogninascosti.com/banner/
 ||soldionline.it^*/300x100_

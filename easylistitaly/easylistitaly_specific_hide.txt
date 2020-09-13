@@ -108,8 +108,6 @@ mymovies.it###middle1_companion
 tusciaweb.eu###miesSPLASH
 eurogamer.it###mobile-leaderboard
 eurogamer.it###mobile-mpu
-sky.it###neodataneodataright1Banner
-sky.it###neodataneodataright2Banner
 mondoplay.it,mondoxbox.com###offersbox
 mondoplay.it,mondoxbox.com###offersbox_wide
 ship2shore.it###partners
@@ -184,7 +182,7 @@ theitaliantimes.it##.adb
 24emilia.com,autoscout24.ch,brocardi.it,cb01.online,gamemag.it,hdblog.it,ilikepuglia.it,teleborsa.it,viamichelin.ch,viamichelin.it##.ads
 ildolomiti.it##.adsB
 chistachiamando.it,pcprofessionale.it##.adsense
-adessoin.tv,allaguida.it,amica.it,ansa.it,buttalapasta.it,calciomercato.com,curioctopus.it,dissapore.com,forbes.it,gelocal.it,gianlucadimarzio.com,gta-expert.it,ilfattoquotidiano.it,ilpost.it,ilsole24ore.com,latina24ore.it,mediaset.it,movieplayer.it,multiplayer.it,nanopress.it,pourfemme.it,prealpina.it,radioindiretta.fm,repubblica.it,salepepe.it,sky.it,staffettaonline.com,stylosophy.it,supereva.it,virgilio.it,vocenuova.tv##.adv
+adessoin.tv,allaguida.it,amica.it,ansa.it,buttalapasta.it,calciomercato.com,curioctopus.it,dissapore.com,forbes.it,gelocal.it,gianlucadimarzio.com,gta-expert.it,ilfattoquotidiano.it,ilpost.it,ilsole24ore.com,latina24ore.it,mediaset.it,movieplayer.it,multiplayer.it,nanopress.it,pourfemme.it,prealpina.it,radioindiretta.fm,repubblica.it,salepepe.it,staffettaonline.com,stylosophy.it,supereva.it,virgilio.it,vocenuova.tv##.adv
 rbe.it##.adv-section
 quattroruote.it##.adv-wrap
 virgilio.it##.advTuning
@@ -491,7 +489,6 @@ primopianomolise.it##.skin_bg_left
 primopianomolise.it##.skin_bg_right
 iovivoaroma.org##.skin_link_top
 tiscali.it##.sky-n
-sky.it##.skybet_spalla
 gioco.it##.skyscraper
 radioradio.it##.slide
 livornolive.it##.slidelink
