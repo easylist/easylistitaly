@@ -89,6 +89,8 @@
 ##.adagiowritebanner_dmtag
 ##.ads-dx
 ##.ads-sx
+##.ads_dx
+##.ads_pagineprof
 ##.ads_topdx
 ##.ads_topsx
 ##.adsbyawcloud

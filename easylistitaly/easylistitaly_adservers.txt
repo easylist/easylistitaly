@@ -101,7 +101,6 @@
 ||tgadv.it^$third-party
 ||tgadvcdn.it^$third-party
 ||upstory.it^$third-party
-||videomatictv.com^$third-party
 ||viralbeat.com^$third-party
 ||wailay.com^$third-party
 ||wbusiness.fr^$third-party
