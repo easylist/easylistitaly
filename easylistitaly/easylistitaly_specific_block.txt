@@ -75,6 +75,7 @@
 ||chimerarevo.com^*/banner-
 ||ciclonline.com/images/banners/
 ||cinafoniaci.com/images/banners/
+||cineblog01.love/templates/CB01/img/button_
 ||cinemadelsilenzio.it/banner4.js
 ||cinemaitaliano.info^*/banner/
 ||cinestreaming.uno/img/b_
