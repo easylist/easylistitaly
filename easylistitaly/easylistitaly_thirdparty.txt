@@ -61,6 +61,7 @@
 ||favolefantasia.com/banner/
 ||files.iqoption.com^$domain=borsainside.com
 ||free.netsons.com^
+||funkyimg.com^$domain=marcheingol.it
 ||gaggioso.it^$subdocument,third-party
 ||gbtcdn.com^$domain=lantidiplomatico.it
 ||gelestatic.it^*/adv/
@@ -73,6 +74,7 @@
 ||iads.iltrovatore.it^
 ||ilpelonelluovo.net/banner/
 ||iltelaiodipenelope.it/banner_exchange/
+||imgbox.com^$domain=marcheingol.it
 ||immobiliagest.it^$subdocument,third-party
 ||immobiliare.it/widget/$third-party
 ||immobilmente.com/Banner/$third-party
