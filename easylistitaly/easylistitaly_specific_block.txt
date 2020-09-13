@@ -380,6 +380,7 @@
 ||quattroruote.it^*/logo-eni-generico.
 ||quattroruote.it^*/Qhybrid-toyota-
 ||quellidellelica.com/images/banners/
+||quicosenza.it^*/pirro300x407.gif
 ||quotidianocanavese.it/img/skyscraper/
 ||radioalba.it/img_sito/banner/
 ||radioamore.it^*/banners/
