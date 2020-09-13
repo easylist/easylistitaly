@@ -402,7 +402,8 @@
 ||radiomillennium.it^*/banner-
 ||radiomillennium.it^*/tuttiautopezzi_
 ||radionorba.it/sp/flash/banner-
-||radionostalgia.fm^*/banner/
+||radionostalgia.fm^*/emmerent_
+||radionostalgia.fm^*/ROISTYLE.jpg
 ||radionumberone.it/images/banners/
 ||radiopadova.com/it/back_full/
 ||radioradio.it/images/banner-
