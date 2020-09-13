@@ -21,7 +21,6 @@
 ||affaritaliani.it^*/luxu/
 ||affaritaliani.it^*/pron/
 ||agrigentonotizie.it/images/skin/
-||alessandriaoggi.info/images/banners/
 ||alfamitoclub.it/images/banner/
 ||alfamitoclub.it/images/sponsor/
 ||algheroeco.com^*-banner-
@@ -404,31 +403,15 @@
 ||radionorba.it/sp/flash/banner-
 ||radionostalgia.fm^*/emmerent_
 ||radionostalgia.fm^*/ROISTYLE.jpg
-||radionumberone.it/images/banners/
-||radiopadova.com/it/back_full/
-||radioradio.it/images/banner-
-||radioradio.it/images/libro300.png
 ||radioradio.it^*/banner-
 ||radioradio.it^*/banner_
-||radioroma.fm/images/banners/
-||radioromacapitale.it/images/banner-
-||radioromacapitale.it/images/conf.jpg
-||radiortm.it^*/Banner_
-||radiosienatv.it^*-300x250.
 ||ragusanews.com//immagini_banner/
 ||ragusanews.com/images_banner/
-||rampower.it/download/banner/
 ||ravennatoday.it/images/skin/
 ||rcrevolution.net^*/banners/
-||redaweb.it/banners/
-||redaweb.it/images/bannershoppingeventialto.gif
-||regginacalcio.com/images/banners/
-||reggio2000.it/bnrs/
 ||reggioemiliameteo.it^*-sponsor/
 ||reggioemiliameteo.it^*/banner/
 ||reggiotv.it/immagini/banner/
-||regionelombardia.info/banners/
-||reportmotori.it/banner/
 ||repubblica.it/ad/
 ||repubblica.it/javascript/mjx.js
 ||repubblica.it^*/adagiorep.js
@@ -533,7 +516,6 @@
 ||techassistance.it/media//adv/
 ||technologyreview.it/img/banner/
 ||technologyreview.it/img/banner_
-||tecnicadellascuola.it/images/banners/
 ||tele90.it/banner/
 ||teleborsa.it/FrameResources/4WTV/
 ||telecaprisport.it/banner/
@@ -561,7 +543,6 @@
 ||tiburno.tv^*/Olivieri-2.gif
 ||tiburno.tv^*/Studio-diagnostico-Tiberino.gif
 ||ticinofinanza.ch/banner/
-||ticinolive.ch/files/banners/
 ||tipresentoilcane.com/banner/
 ||tiscali.it/amazon/
 ||tiscali.it/planner/
@@ -642,8 +623,6 @@
 ||umbriajournal.com^*/banner-
 ||umbriajournal.com^*/banner.
 ||umbriajournal.com^*_banner_
-||uninews24.it/images/980x45-
-||uninews24.it/images/banners/
 ||unionemonregalese.it/UP_BANNERS/
 ||uominietrasporti.it/banner/
 ||uscatanzaro.net/images/banners/
@@ -657,7 +636,6 @@
 ||vanityfair.it/loaderframe.html
 ||vanityfair.it^*_105x65.jpg
 ||varesenews.it^*/banner/
-||vb33.it/images/banners/
 ||vendingnews.it/wp-content/uploads/angwp/items/
 ||venetogol.it//immagini/File_banner/
 ||venetouno.it/media/imgbanners/
@@ -676,7 +654,6 @@
 ||vigamusmagazine.com^*/Standard_Banner
 ||virgilio.it/bottomchat/bottom234x60.html
 ||virgilio.it/src_tag_sponsor_
-||vitatrentina.it^*/banner/
 ||viterbonews24.it/gesBanner/
 ||viterbooggi.eu/gesBanner/
 ||viterbopost.it^*-1000X50-
@@ -706,7 +683,6 @@
 ||wp.com^*Banner300x600.$domain=milanodabere.it
 ||yachtonline.it/be/servizi/ajax_banner.php?
 ||yimg.com^*/Expedia-Dubai-YahooIT-$domain=yahoo.com
-||youreporter.it/partner/
 ! Citynews
 /traffico//banner/*
 /~vda/*/*.php/*

@@ -137,7 +137,7 @@ gamesvillage.it###takeover_gv
 nerdplanet.it###text-24
 viterbopost.it###text-34
 viterbopost.it###text-35
-birramoriamoci.it,radiosienatv.it,vigamusmagazine.com###text-4
+birramoriamoci.it,vigamusmagazine.com###text-4
 birramoriamoci.it###text-5
 certificatejournal.it,finanza.com###top-banner
 hwupgrade.it###top300x250-background
@@ -254,49 +254,35 @@ ilcittadinomb.it,laprovinciadicomo.it,laprovinciadivarese.it##.banner_footer
 quotidianodiragusa.it##.banner_full_cc
 condominioweb.com##.banner_home
 italpress.com##.banner_img_widget
-galileonet.it##.banner_oriz
-orgoglionerd.it##.banner_rotation
 ragusanews.com##.banner_top
 mercuriomagazine.com##.banner_top_left
 mercuriomagazine.com##.banner_top_right
-galileonet.it##.banner_vert
 corriereal.info##.banner_wrapper
-techarena.it##.bannercentro
 treccani.it##.bannercontainer
-alessandriaoggi.info,giornaledimontesilvano.com,kisskiss.it,kisskissnapoli.it,lametino.it,maremmanews.it,qdpnews.it,sienafree.it,tecnicadellascuola.it,uninews24.it,youtg.net##.bannergroup
+giornaledimontesilvano.com,kisskiss.it,kisskissnapoli.it,lametino.it,maremmanews.it,qdpnews.it,sienafree.it,youtg.net##.bannergroup
 radiogold.it##.bannergroupskin-banner-module
-saturnonotizie.it##.bannerheader
-messinaweb.tv##.bannerpostsingle
-nonsolocinema.com,qualenergia.it##.banners
+qualenergia.it##.banners
 voglioporno.com##.banners-footer
-cremonaoggi.it##.bannersx
 quotidianodiragusa.it##.bannertesto
-album-mmt.it,gossip.it,musictory.it##.bannertop
-uninews24.it##.bannertopa
-ticinolive.ch##.bannerwrap
+album-mmt.it,gossip.it##.bannertop
 notizialocale.it##.bc_random_banner
 corriere.it##.bck-media-list-sponsor
 nuovosud.it##.bg_skin
 libero.it##.big
-youreporter.it##.bigrectangle600
 foodnetwork.it##.billboard
 ludomedia.it##.blocchiPbi
 ladige.it##.block--dfp
-vitatrentina.it##.block-banners
 ilroma.net##.block-rotating-banner
 punto-informatico.it,telefonino.net##.blz-url
 stateofmind.it##.bnn-fullwidth
 meteovalmorea.it##.bnr-row
 staffettaonline.com##.bnrZonaLati
 livescore.it##.bookmaker
-risultati.it##.bookmarker-53
 centrometeoitaliano.it##.box-adv
 tempoitalia.it##.box-banner
 cucchiaio.it##.box-banner-hp-dx
 ilgiornaledivicenza.it##.box-skyscrapers
 trend-online.com##.box-special
-chip.it##.boxHardware
-calcioblog.it##.box_highlight
 techzilla.it##.box_offerte_ajax
 cuneodice.it,genovadice.it,italiadice.it,torinodice.it##.box_oikia
 subito.it##.box_sponsor
@@ -399,10 +385,9 @@ bisceglielive.it##.live-promo
 omnifurgone.it##.m1-apb
 buttanissima.it##.machette
 gonews.it##.machette-over-logo
-cremonaoggi.it,opinione.it,ship2shore.it##.manchette
+opinione.it,ship2shore.it##.manchette
 erbanotizie.com##.manchette-dx
 erbanotizie.com##.manchette-sx
-cremonaoggi.it##.manchette2
 24emilia.com##.marquee0
 ecoo.it##.masterhead-container-column
 sportivissimo.com##.menu4
@@ -425,7 +410,6 @@ virgilio.it##.newboxIs
 virgilio.it##.newboxIsOrizz
 ilpiccolo.net##.nocornice_banner
 everyeye.it##.nome_gioco_amazon_destra
-risultati.it##.odds-detail
 casaeclima.com##.page-wrapper
 puntocellulare.it##.panel-offers
 ragusanews.com##.partner
@@ -441,7 +425,6 @@ assopoker.com##.prbox-table-container
 webnews.it##.product__info
 comingsoon.it,pneusnews.it,stiledimoda.it,vanityfair.it##.promo
 voglioporno.com##.promo-462x66
-cremonaoggi.it##.promo_slider_wrapper
 motori.it##.promobox
 proiezionidiborsa.it##.promoboxplus
 italiapokerclub.com##.promotion
@@ -473,13 +456,11 @@ quattroruote.it##.salone-sponsor
 genova24.it,ivg.it,lacnews24.it##.sb-banner
 flashgames.it##.scheda_ppc
 puntocellulare.it##.schlnk
-risultati.it##.scrolling-box-over-content
 tantasalute.it##.sectCntGoogle3
 guidamonaci.it##.separatorFooter
 excite.it##.serp-item
 bloopers.it##.shop
 style.it##.side-gallery
-youreporter.it##.sidebar_menu_virgilio
 cosedicasa.com##.sidespot-wrapper
 newnotizie.it##.single_sidebar300x250
 ilmomento.eu##.site-commerc
@@ -607,7 +588,6 @@ amazon.it##div[id^="sp_detail"]
 ioleggoletichetta.it##div[style="background-color: #FFFFFF; width: 1200px; height: 100px; vertical-align: top"]
 autobelle.it##div[style="background: #ccc; height:100px; display:block; margin:10px 0; color:#fff;font-size:16px;"]
 petizioni24.com##div[style="border: solid #95bce2 1px;  padding: 1em 0; margin: 0; margin-right: 6px; width: 200px; height: 600px; background-color: #fff; text-align: center; margin-bottom: 1em;"]
-radioromacapitale.it##div[style="border:solid 1px #000000; width: 298px; height: 78px;"]
 affaritaliani.it##div[style="box-sizing: content-box;padding: 9px; border: 1px solid #ccc; zoom:1;overflow:hidden;height:80px;width:280px;font: normal 12px/14px arial, sans-serif;text-align:left;margin-bottom:10px;"]
 affaritaliani.it##div[style="box-sizing: content-box;padding: 9px; border: 1px solid #ccc; zoom:1;overflow:hidden;height:80px;width:280px;font: normal 12px/14px arial, sans-serif;text-align:left;margin-bottom:10px;background:#fff;"]
 torinoggi.it##div[style="box-sizing: content-box;padding: 9px; border: 1px solid #ccc; zoom:1;overflow:hidden;height:80px;width:280px;font:normal 12px/14px arial, sans-serif;text-align:left;"]
@@ -653,10 +633,6 @@ freeones.it##div[style="padding: 0px; margin: 10px 0px; height: 100px; width: 89
 puntosicuro.it##div[style="padding: 5px; font-family: Verdana, Arial; font-size: 10px;"]
 radioradio.it##div[style="position: absolute; overflow: hidden; left: 0px; top: 0px; width: 696px; height: 182px; margin: 0px; padding: 0px; transform-style: flat; z-index: 0;"]
 corriere.it##div[style="position: fixed; margin-right: 20px; margin-left: 20px; top: 405px; display: block; z-index: 10001; cursor: pointer; left: 34%;"]
-lametino.it##div[style="position: relative; width: 300px; height: 250px; overflow: hidden;"]
-lametino.it##div[style="position: relative; width: 300px; height: 250px;"]
-motorinolimits.com##div[style="position: relative; z-index: 0; width: 160px; height: 160px;"]
-motorinolimits.com##div[style="position: relative; z-index: 0; width: 300px; height: 250px;"]
 gamesource.it##div[style="position:relative; width:300px; height:250px; margin-top:15px;"]
 romadailynews.it##div[style="position:relative;box-sizing:content-box;padding:10px 10px 10px 10px;border:2px solid #0A5ED6;zoom:1;overflow:hidden;height:80px;width:280px;text-align:left;"]
 ilquotidianocalabria.it##div[style="position:relative;width:234px; height:90px;float:right;"]
@@ -672,7 +648,6 @@ sardegnaoggi.it##div[style="width: 300px; height: 250px; margin: 1em 1em 1em 0; 
 libero.it,tp24.it##div[style="width: 300px; height: 250px;"]
 incircolo.altervista.org##div[style="width: 300px; height: 260px; margin-top: 10px;"]
 blogo.it##div[style="width: 300px;height: 250px;"]
-regginacalcio.com##div[style="width: 702px; height:300px; border: 4px solid #fff; margin-bottom: 0px;"]
 videohifi.com##div[style="width: 740px;height: 110px;"]
 videohifi.com##div[style="width: 830px;height: 110px;"]
 polesine24.it##div[style="width: 948px;height: 90px;margin-top:15px;margin-bottom:7px;border:1px solid #888;"]
@@ -681,7 +656,6 @@ vercellioggi.it##div[style="width: 987px; height: 148px; overflow:hidden; margin
 autobelle.it##div[style="width:100%; text-align:center; height:280px; margin-top:15px;"]
 trnews.it##div[style="width:194px; height:85px; float:left; margin-left:20px;"]
 trnews.it##div[style="width:194px; height:85px; margin-right:20px; float:right;"]
-orgoglionerd.it##div[style="width:227px;height:315px"]
 hwupgrade.it##div[style="width:300px; height:250px; "]
 siciliainformazioni.com##div[style="width:300px; height:250px;"]
 outune.net##div[style="width:300px;height:180px; background:#fff;"]
