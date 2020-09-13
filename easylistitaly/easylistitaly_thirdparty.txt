@@ -58,6 +58,7 @@
 ||enoleggioauto.it/affiliatexmlstylesheets/
 ||fantagenius.com^*/banner/
 ||favolefantasia.com/banner/
+||files.iqoption.com^$domain=borsainside.com
 ||free.netsons.com^
 ||gaggioso.it^$subdocument,third-party
 ||gbtcdn.com^$domain=lantidiplomatico.it
@@ -111,6 +112,7 @@
 ||plug.it//banners/
 ||plug.it/banners/
 ||plug.it/oas/
+||plus500.com^$domain=borsainside.com
 ||pokerstars.it/it/ad/
 ||pop.virgilio.us^
 ||popspace.virgilio.us^

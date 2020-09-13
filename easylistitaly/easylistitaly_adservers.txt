@@ -90,6 +90,7 @@
 ||scambiobanner.tv^$third-party
 ||scambiositi.com^$third-party
 ||seolabadv.it^$third-party
+||seowebbs.com^$third-party
 ||simpleview.it^$third-party
 ||softwareplanet.net^$third-party
 ||soluzionibio.it^$third-party

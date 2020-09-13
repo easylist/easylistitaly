@@ -56,6 +56,7 @@
 ||bordighera.net/banner/
 ||bordighera.net/banner_
 ||bordighera.net/images/banner_
+||borsainside.com/foto-articoli/eToro-pratica.png
 ||buongiornoalghero.it^*/banner_
 ||caffe.ch/media/STATICHE/ilcaffe/ADV/
 ||campaniameteo.it/CMS/Upload/GalleriaUtente/Image/
