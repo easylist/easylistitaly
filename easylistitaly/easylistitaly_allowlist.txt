@@ -16,10 +16,9 @@
 @@||dincontri.com/ads/galleries/crops/$image,~third-party
 @@||dotandad.com/TiscaliAds.js$domain=ansa.it
 @@||foolbite.com/foolbite/*_pubblicita_$~third-party
-@@||forads.iltrovatore.it/geoip/json/|$xmlhttprequest,domain=la7.it
 @@||forebase.com/plugin/*/images/ads/$image
 @@||forebase.com/plugin/ads.htm?$subdocument
-@@||g.doubleclick.net/gpt/pubads_impl_$script,domain=agi.it|la7.it
+@@||g.doubleclick.net/gpt/pubads_impl_$script,domain=agi.it
 @@||gelocal.it/adimages/
 @@||google.com/adsense/$subdocument,domain=sedo.ch|sedo.it
 @@||ilparking-moto.it/images/flag/gif/ad.gif
