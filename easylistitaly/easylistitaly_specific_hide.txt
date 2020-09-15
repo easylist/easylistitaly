@@ -282,6 +282,7 @@ centrometeoitaliano.it##.box-adv
 tempoitalia.it##.box-banner
 cucchiaio.it##.box-banner-hp-dx
 trend-online.com##.box-special
+flashscore.it##.boxOverContent__banner
 cuneodice.it,genovadice.it,italiadice.it,torinodice.it##.box_oikia
 subito.it##.box_sponsor
 pneusnews.it##.boxes
@@ -310,6 +311,7 @@ automoto.it,moto.it##.crm-unit-bx4
 automoto.it,moto.it##.crm-unit-mh
 radionorba.it##.custom_banners_big_link
 fiorentinanews.com##.destra_banner
+flashscore.it##.detail-bonus-match-summary-content-inner
 blastingnews.com##.dfp-mobile-leadeboard
 quotidiano.net##.discount-block
 cuneodice.it,genovadice.it,italiadice.it,torinodice.it##.div_banner
