@@ -451,6 +451,7 @@
 ||reggioemiliameteo.it^*-sponsor/
 ||reggioemiliameteo.it^*/banner/
 ||reggiotv.it/immagini/banner/
+||reportmotori.it^*/Banner_
 ||repubblica.it/ad/
 ||repubblica.it/javascript/mjx.js
 ||repubblica.it^*/adagiorep.js
