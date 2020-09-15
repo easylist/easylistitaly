@@ -658,6 +658,7 @@
 ||wp.com^*Banner300x600.$domain=milanodabere.it
 ||yachtonline.it/be/servizi/ajax_banner.php?
 ||yimg.com^*/Expedia-Dubai-YahooIT-$domain=yahoo.com
+||youtg.net^*/cornice_
 ! Citynews
 /traffico//banner/*
 /~vda/*/*.php/*
