@@ -376,6 +376,7 @@
 ||qdpnews.it/images/banners/
 ||quellidellelica.com/images/banners/
 ||quicosenza.it^*/pirro300x407.gif
+||quinewsvaldera.it^*/skin/
 ||quotidianocanavese.it/img/skyscraper/
 ||radioamore.it^*/banners/
 ||radiocantu.com^*-260x260-

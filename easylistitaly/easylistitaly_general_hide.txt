@@ -27,6 +27,7 @@
 ###adv_ManchetteDx
 ###adv_ManchetteSx
 ###adv_annuncio_promo_1
+###adv_click
 ###adv_gda
 ###adv_in_post
 ###adv_nativ_sopracartina
