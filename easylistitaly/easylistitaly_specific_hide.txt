@@ -378,6 +378,7 @@ virgilio.it##.newboxIs
 virgilio.it##.newboxIsOrizz
 ilpiccolo.net##.nocornice_banner
 everyeye.it##.nome_gioco_amazon_destra
+techzilla.it##.offerta-img-box
 casaeclima.com##.page-wrapper
 puntocellulare.it##.panel-offers
 ragusanews.com##.partner
