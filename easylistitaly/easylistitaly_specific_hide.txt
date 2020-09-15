@@ -588,6 +588,7 @@ fcinternews.it,interdipendenza.net##div[style="overflow: hidden; height: 60px; w
 fcinternews.it##div[style="overflow: hidden; height: 90px; width: 160px; margin: auto;"]
 freeones.it##div[style="padding: 0px; margin: 10px 0px; height: 100px; width: 898px; background-color: #4C89F9; border: 1px solid #4C89F9"]
 puntosicuro.it##div[style="padding: 5px; font-family: Verdana, Arial; font-size: 10px;"]
+radioradio.it##div[style="position: absolute; display: block; top: 0px; left: 0px; width: 696px; height: 182px; transform: scale(1.001);"]
 radioradio.it##div[style="position: absolute; overflow: hidden; left: 0px; top: 0px; width: 696px; height: 182px; margin: 0px; padding: 0px; transform-style: flat; z-index: 0;"]
 corriere.it##div[style="position: fixed; margin-right: 20px; margin-left: 20px; top: 405px; display: block; z-index: 10001; cursor: pointer; left: 34%;"]
 gamesource.it##div[style="position:relative; width:300px; height:250px; margin-top:15px;"]
