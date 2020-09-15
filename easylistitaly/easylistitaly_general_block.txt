@@ -45,6 +45,7 @@
 /tiscali_ads.
 /tiscaliAds/*
 /TiscaliADV_
+_pubblicit%C3%A0_
 _pubblicita-
 _pubblicita.
 _pubblicita/
