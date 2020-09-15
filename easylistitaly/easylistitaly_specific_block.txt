@@ -488,6 +488,7 @@
 ||sassarinotizie.com^*-banner125x125.gif
 ||sassuolo2000.it/bnrs/
 ||savonanews.it^*/banner/
+||savonanews.it^*/box/
 ||scopateitaliane.it/nb/
 ||senigallianotizie.it/banner/
 ||sexyguidaitalia.com/images/899/
