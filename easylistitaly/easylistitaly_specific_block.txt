@@ -196,6 +196,9 @@
 ||ilfattonisseno.it^*/350x350_
 ||ilfattonisseno.it^*/gif-china.gif
 ||ilfoglio.it/js/bannerInterstitial.js
+||ilgeniodellostreaming.cam^*/bnnr
+||ilgeniodellostreaming.cam^*/ooBE1HG.png
+||ilgeniodellostreaming.cam^*/YcijKef.png
 ||ilgiornaledabruzzo.it/wp-content/uploads/2013/05/Ai-Viali-Lanciano.png
 ||ilgiornaledellaprotezionecivile.it^*_banners/
 ||ilgiornaledelmolise.it/img/bannerlungo/
