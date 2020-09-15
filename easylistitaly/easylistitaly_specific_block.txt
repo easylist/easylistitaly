@@ -523,6 +523,7 @@
 ||tantifilm.rest^*/wsxhQH2QyPxFBhiByjd1hQ.gif
 ||teleborsa.it/FrameResources/4WTV/
 ||telecaprisport.it/banner/
+||telecaprisport.it^*Banner-290x400.
 ||telefonino.net^*/justearntn.js
 ||telestense.it/wp-content/banners/
 ||tempoitalia.it/banner/
