@@ -376,6 +376,7 @@ eurogamer.it,foodnetwork.it,gioco.it##.mpu
 affaritaliani.it##.mutui
 virgilio.it##.newboxIs
 virgilio.it##.newboxIsOrizz
+obiettivonews.it##.nivo-imageLink
 ilpiccolo.net##.nocornice_banner
 everyeye.it##.nome_gioco_amazon_destra
 techzilla.it##.offerta-img-box

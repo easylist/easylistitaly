@@ -362,6 +362,9 @@
 ||nuovosud.it^*/banner/
 ||nursetimes.org^*/Simulatore-Concorso-566-Infermieri-Puglia.png
 ||oas.repubblica.it^
+||obiettivonews.it^*/bannercortinalungo2.
+||obiettivonews.it^*/fuorirottabanner1050-
+||obiettivonews.it^*/Urbanlogohomenuovo-
 ||occhionotizie.it^*_banner_
 ||oggiroma.it/public/banner/
 ||oipamagazine.it^*/euroservice.gif
