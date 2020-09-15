@@ -218,7 +218,7 @@ oggitreviso.it##.ban
 lacnews24.it##.ban_1000x45
 lacnews24.it##.ban_300x250
 ascolinotizie.it,fermonotizie.info,maceratanotizie.it,marchenotizie.info,pesarourbinonotizie.it,senigallianotizie.it,valmisa.com##.ban_box
-agi.it,america24.com,casateonline.it,cronacheancona.it,cronachemaceratesi.it,cuneocronaca.it,dagospia.com,designmag.it,diretta.it,euroregionalpmed.eu,foodweb.it,globalist.it,gossip.it,html.it,ilfriuli.it,informacalcio.quotidiano.net,lavoripubblici.it,lipari.biz,merateonline.it,meteoweb.eu,oggitreviso.it,rockit.it,sassarinotizie.com,secoloditalia.it,sostariffe.it,strettoweb.com,teatronaturale.it,telejato.it,tenews.it,tg24.info,traniviva.it,ultimouomo.com,varesenews.it,vocenuova.tv##.banner
+agi.it,america24.com,casateonline.it,cremonaoggi.it,cronacheancona.it,cronachemaceratesi.it,cuneocronaca.it,dagospia.com,designmag.it,diretta.it,euroregionalpmed.eu,foodweb.it,globalist.it,gossip.it,html.it,ilfriuli.it,informacalcio.quotidiano.net,lavoripubblici.it,lipari.biz,merateonline.it,meteoweb.eu,oggitreviso.it,rockit.it,sassarinotizie.com,secoloditalia.it,sostariffe.it,strettoweb.com,teatronaturale.it,telejato.it,tenews.it,tg24.info,traniviva.it,ultimouomo.com,varesenews.it,vocenuova.tv##.banner
 m100.it##.banner-1
 welfarenetwork.it##.banner-468-hp
 parmareport.it##.banner-big

@@ -108,6 +108,7 @@
 ||nexths.it/widget/$third-party
 ||nohup.it^*_110x40_
 ||oasjs.kataweb.it^
+||oro24ksrl.it/widget/$third-party
 ||overlays.fr/js/launcher.js
 ||percorsidigitali.com/consulting300.gif
 ||pezzotto.net/banners/
