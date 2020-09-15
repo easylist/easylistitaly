@@ -460,6 +460,7 @@ volleyball.it##.su-carousel
 emmelle.it##.supermag-ainfo-widget
 mbnews.it##.swiper-container
 luinonotizie.it##.swiper-wrapper
+diventaretrader.com##.table-alm
 ilpost.it##.tag-sponsored
 ilprimatonazionale.it##.td-banner-bg
 ilgiornaledeltermoidraulico.it##.td-footer-wrapper
@@ -510,6 +511,7 @@ altadefinizione.coach,cb01.events,cb01.online,cb01.run,cineblog01.love,filmsenza
 piratestreaming.movie##a[href*="/Guarda4K/"]
 altadefinizione01.green##a[href*="/UHD/"]
 ilquotidianodellazio.it,romait.it##a[href*="/ad/click/"]
+diventaretrader.com##a[href*="/banner/redirect/"]
 everyeye.it##a[href*="/click.asp?"]
 gazzetta.it##a[href*="/codici-sconto/"]
 eurostreaming.fyi##a[href*="/eurostreaming-hd.php"]
@@ -537,8 +539,10 @@ classifichemusica.com##a[href^="http://www.viagogo.it/Biglietti-Concerti?affilia
 hynerd.it,ilsoftware.it,infotelematico.com,juzaphoto.com,mio-ip.eu,nokioteca.net,tivusat.tv##a[href^="https://amzn.to/"]
 campaniameteo.it##a[href^="https://clk.tradedoubler.com/"]
 animeemanga.it,autobusweb.com,corrieredellacalabria.it##a[href^="https://goo.gl/"]
+diventaretrader.com##a[href^="https://iqbroker.com/"]
 gnoccatravels.com##a[href^="https://wellcum.at/"]
 alfemminile.com,badcomics.it,badgames.it,badtaste.it,badtv.it,beppegrillo.it,cityrumors.it,comingsoon.it,consigli.it,donnamoderna.com,eurogamer.it,everyeye.it,facciabuco.com,frasicelebri.it,game-experience.it,giardinaggio.it,giardinaggio.net,giardiniblog.it,gizchina.it,hdblog.it,hwupgrade.it,mangaforever.net,nerdmovieproductions.it,newsly.it,nientepopcorn.it,notebookcheck.it,punto-informatico.it,ridble.com,rifaidate.it,spaziogames.it,telefonino.net,topdigamma.it,tuttotek.it,vuemmetv.it,webnews.it##a[href^="https://www.amazon."][href*="tag="]
+diventaretrader.com##a[href^="https://www.plus500.com/"]
 animeemanga.it##a[href^="https://www.primevideo.com/"][href*="tag="]
 notebookcheck.it##div[id][class] > div[id] > img:first-child
 alvolante.it##div[id^="dfp-alv-slot"]
