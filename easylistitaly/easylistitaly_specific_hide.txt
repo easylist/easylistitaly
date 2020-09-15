@@ -482,6 +482,8 @@ bresciaoggi.it,larena.it##.v2_banner-wrapper
 ilgiornaledivicenza.it,larena.it##.v3_horz-banner
 bresciaoggi.it,ilgiornaledivicenza.it,larena.it##.v4_section-redazionale-home
 larivieraonline.com##.view-Banners
+vitatrentina.it##.vitat-testata-dx
+vitatrentina.it##.vitat-testata-sx
 algheroeco.com##.wallpaper-link
 transfermarkt.it##.werbung
 transfermarkt.it##.werbung-skyscraper

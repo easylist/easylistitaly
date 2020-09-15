@@ -631,6 +631,8 @@
 ||vigamusmagazine.com^*/Standard_Banner
 ||virgilio.it/bottomchat/bottom234x60.html
 ||virgilio.it/src_tag_sponsor_
+||vitatrentina.it^*-banner.
+||vitatrentina.it^*_150x90px_
 ||viterbonews24.it/gesBanner/
 ||viterbooggi.eu/gesBanner/
 ||viterbopost.it^*-1000X50-
