@@ -193,6 +193,7 @@
 ||icnradio.com/images/banners/
 ||ilcalcioillustrato.it^*/banner-
 ||ilcambiamento.it/data/banner/
+||ilcorriere.net^*-banner.
 ||ilcorrieredelgiorno.it^*/720x300_
 ||ilcorrieredelgiorno.it^*_SKIN_
 ||ilcorrieredellacitta.com^*/casino-italiani.jpg
