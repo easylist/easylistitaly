@@ -137,6 +137,8 @@
 ||eunews.it^*/Banner-300x300_
 ||euroregionalpmed.eu/img/banner/
 ||euroregionalpmed.eu/js/clickBanner_
+||eurostreaming.fyi/hd-
+||eurostreaming.fyi/sc.png
 ||farevela.net^*/Banner_
 ||farevela.net^*/QIcompositesFV.jpg
 ||farevela.net^*/unnamed-1.gif
