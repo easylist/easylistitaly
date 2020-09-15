@@ -193,6 +193,8 @@
 ||icnradio.com/images/banners/
 ||ilcalcioillustrato.it^*/banner-
 ||ilcambiamento.it/data/banner/
+||ilcorrieredelgiorno.it^*/720x300_
+||ilcorrieredelgiorno.it^*_SKIN_
 ||ilcorrieredellacitta.com^*/casino-italiani.jpg
 ||ilcorrieredellacitta.com^*/cinecitta-world.jpg
 ||ilcorrieredellacitta.com^*/la-migrazione-onoranze-funebri-pomezia.jpg
