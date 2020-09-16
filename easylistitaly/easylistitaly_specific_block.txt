@@ -216,6 +216,7 @@
 ||ilgiornaleoff.ilgiornale.it^*/Banner-
 ||ilgiornaleoff.ilgiornale.it^*/Banner_
 ||ilgiornaleoff.ilgiornale.it^*/side_banner.
+||ilmartino.it^*/xbanner-
 ||ilmessaggero.it/img/banner_
 ||ilmetapontino.it^*/banner-
 ||ilmioip.it/img/banner
