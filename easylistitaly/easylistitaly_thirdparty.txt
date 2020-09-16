@@ -74,13 +74,14 @@
 ||iads.iltrovatore.it^
 ||ilpelonelluovo.net/banner/
 ||iltelaiodipenelope.it/banner_exchange/
-||imgbox.com^$domain=marcheingol.it
+||imgbox.com^$domain=funoanalisitecnica.com|marcheingol.it
 ||immobiliagest.it^$subdocument,third-party
 ||immobiliare.it/widget/$third-party
 ||immobilmente.com/Banner/$third-party
 ||immobz.it^*/banner.aspx?
 ||incontripersesso.com/banner/
 ||incontriticino.com/promo/
+||info.manpower.it^$domain=funoanalisitecnica.com
 ||insicilia.com/banner/
 ||investimenti.bnpparibas.it^$domain=trend-online.com
 ||ipercast.net/uploads/sponsors/
@@ -121,7 +122,7 @@
 ||pop.virgilio.us^
 ||popspace.virgilio.us^
 ||pornotizie.com/image/banner/
-||postimg.cc^$domain=napolimagazine.com
+||postimg.cc^$domain=funoanalisitecnica.com|napolimagazine.com
 ||promo.easy-dating.org^
 ||promo.ezstatic.com^
 ||pronostitalia.com/banner/
