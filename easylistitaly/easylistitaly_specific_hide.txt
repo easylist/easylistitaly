@@ -110,7 +110,7 @@ eurogamer.it###mobile-leaderboard
 eurogamer.it###mobile-mpu
 mondoplay.it,mondoxbox.com###offersbox
 mondoplay.it,mondoxbox.com###offersbox_wide
-ship2shore.it###partners
+sassuolocalcio.it,ship2shore.it###partners
 lafeltrinelli.it###partners-slider
 amazon.it###pdagMwebCarousel
 flashgames.it###pub_sotto
