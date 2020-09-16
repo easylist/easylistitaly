@@ -39,6 +39,7 @@
 /pubblicitamobile/*
 /pubblicitasx.
 /pubblicitatratopic/*
+/Publicita%CC%80-
 /repubblicaad.
 /separatore-pub.
 /sponsorizzate.

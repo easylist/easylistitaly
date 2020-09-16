@@ -536,8 +536,9 @@
 ||telestense.it/wp-content/banners/
 ||tempoitalia.it/banner/
 ||tenews.it/banner/
-||terninrete.it/banner/
-||terninrete.it/skins/terninrete2/images/headings/head_ha_suggerimenti_da_google.gif
+||terninrete.it^*/450x450_
+||terninrete.it^*/euroufficio-
+||terninrete.it^*/euroufficio.
 ||terranauta.it/banner/
 ||terranuova.it^*/ad$xmlhttprequest
 ||terranuova.it^*/banner/
