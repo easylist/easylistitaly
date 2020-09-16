@@ -509,6 +509,9 @@
 ||sportpaper.it^*/PayFan-
 ||sportpaper.it^*/PayFan.
 ||spotmix.libero.it^
+||sscnapoli.it/shared/bannerbinary/
+||sscnapoli.it/web/img/Banner_
+||sscnapoli.it/web/img/filmauro_
 ||sslazio.it/images/banners/
 ||sslazio.it^*/banner_
 ||stabiachannel.it^*/banner/
