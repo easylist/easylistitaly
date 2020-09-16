@@ -549,7 +549,7 @@ campaniameteo.it##a[href^="https://clk.tradedoubler.com/"]
 animeemanga.it,autobusweb.com,corrieredellacalabria.it##a[href^="https://goo.gl/"]
 diventaretrader.com##a[href^="https://iqbroker.com/"]
 gnoccatravels.com##a[href^="https://wellcum.at/"]
-alfemminile.com,badcomics.it,badgames.it,badtaste.it,badtv.it,beppegrillo.it,cityrumors.it,comingsoon.it,consigli.it,donnamoderna.com,eurogamer.it,everyeye.it,facciabuco.com,frasicelebri.it,game-experience.it,giardinaggio.it,giardinaggio.net,giardiniblog.it,gizchina.it,hdblog.it,hwupgrade.it,mangaforever.net,nerdmovieproductions.it,newsly.it,nientepopcorn.it,notebookcheck.it,punto-informatico.it,ridble.com,rifaidate.it,spaziogames.it,telefonino.net,topdigamma.it,tuttotek.it,vuemmetv.it,webnews.it##a[href^="https://www.amazon."][href*="tag="]
+alfemminile.com,badcomics.it,badgames.it,badtaste.it,badtv.it,beppegrillo.it,bora.la,cityrumors.it,comingsoon.it,consigli.it,donnamoderna.com,eurogamer.it,everyeye.it,facciabuco.com,frasicelebri.it,game-experience.it,giardinaggio.it,giardinaggio.net,giardiniblog.it,gizchina.it,hdblog.it,hwupgrade.it,mangaforever.net,nerdmovieproductions.it,newsly.it,nientepopcorn.it,notebookcheck.it,punto-informatico.it,ridble.com,rifaidate.it,spaziogames.it,telefonino.net,topdigamma.it,tuttotek.it,vuemmetv.it,webnews.it##a[href^="https://www.amazon."][href*="tag="]
 diventaretrader.com##a[href^="https://www.plus500.com/"]
 animeemanga.it##a[href^="https://www.primevideo.com/"][href*="tag="]
 notebookcheck.it##div[id][class] > div[id] > img:first-child
