@@ -453,6 +453,7 @@
 ||radionostalgia.fm^*/ROISTYLE.jpg
 ||radioradio.it^*/banner-
 ||radioradio.it^*/banner_
+||ragusah24.it^*/cornice-
 ||ragusanews.com//immagini_banner/
 ||ragusanews.com/images_banner/
 ||ravennatoday.it/images/skin/
