@@ -494,6 +494,7 @@
 ||savonanews.it^*/box/
 ||scopateitaliane.it/nb/
 ||senigallianotizie.it/banner/
+||settecalcio.it^*/File_banner/
 ||sexyguidaitalia.com/images/899/
 ||ship2shore.it^*/colonna/
 ||ship2shore.it^*/manchette/

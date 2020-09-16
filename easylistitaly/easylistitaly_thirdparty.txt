@@ -61,7 +61,7 @@
 ||favolefantasia.com/banner/
 ||files.iqoption.com^$domain=borsainside.com
 ||free.netsons.com^
-||funkyimg.com^$domain=marcheingol.it
+||funkyimg.com^$domain=marcheingol.it|settecalcio.it
 ||gaggioso.it^$subdocument,third-party
 ||gbtcdn.com^$domain=lantidiplomatico.it
 ||gelestatic.it^*/adv/
