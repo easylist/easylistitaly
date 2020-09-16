@@ -528,6 +528,7 @@
 ||superscommesse.it^*/bannerquadrati/
 ||tantifilm.rest^*/bannersca.png
 ||tantifilm.rest^*/wsxhQH2QyPxFBhiByjd1hQ.gif
+||technologyreview.it/_media/_adv/
 ||teleborsa.it/FrameResources/4WTV/
 ||telecaprisport.it/banner/
 ||telecaprisport.it^*Banner-290x400.
