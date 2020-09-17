@@ -74,6 +74,7 @@
 ||ilpelonelluovo.net/banner/
 ||iltelaiodipenelope.it/banner_exchange/
 ||imgbox.com^$domain=funoanalisitecnica.com|marcheingol.it
+||imgur.com^$domain=ilgeniodellostreaming.gy
 ||immobiliagest.it^$subdocument,third-party
 ||immobiliare.it/widget/$third-party
 ||immobilmente.com/Banner/$third-party
