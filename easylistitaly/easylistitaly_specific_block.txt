@@ -646,7 +646,7 @@
 ||volleyball.it^*/banner-
 ||vuemmetv.it^*/banner-
 ||vvvvid.it/vast/
-||weboggi.it/banners/
+||weboggi.it/zen/
 ||welfarenetwork.it/media/banner/
 ||wikilao.com^*/banners/
 ||windows.net/banner/$domain=lavocedimanduria.it
