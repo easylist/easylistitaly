@@ -568,11 +568,14 @@
 ||tusciaweb.eu^*/Carrozzeria-fiorillo-
 ||tusciaweb.eu^*/cassa-edile-progetto.gif
 ||tusciaweb.eu^*/Centroauto-
+||tusciaweb.eu^*/CIA-agricoltori-istituzionale-
 ||tusciaweb.eu^*/Cna-2017-Banner
 ||tusciaweb.eu^*/Coldiretti-gennaio-
 ||tusciaweb.eu^*/confartigianato.jpg
 ||tusciaweb.eu^*/Ferri-Ford
 ||tusciaweb.eu^*/Ist.-J.J.Rousseau-
+||tusciaweb.eu^*/Next-settembre-
+||tusciaweb.eu^*/Sindacato-USB-
 ||tusciaweb.eu^*/sistemaediliziaviterbo.gif
 ||tusciaweb.eu^*100x30
 ||tusciaweb.eu^*200x250
@@ -585,7 +588,7 @@
 ||tusciaweb.eu^*336x100
 ||tusciaweb.eu^*336x200
 ||tusciaweb.eu^*336x300
-||tusciaweb.eu^*336x400
+||tusciaweb.eu^*336x40
 ||tusciaweb.eu^*336x45
 ||tusciaweb.eu^*336x457
 ||tusciaweb.eu^*336x600
