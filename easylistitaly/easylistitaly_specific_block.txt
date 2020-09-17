@@ -288,7 +288,6 @@
 ||leccesette.it/banner/
 ||lecconotizie.com/wp-content/banners/
 ||left.it/wp-content/uploads/banners/
-||leggioggi.it^*/banner/
 ||libero.it/_ad/
 ||libero.it/static/generated_external/shopping/
 ||libero.it/static/upll/234x/
@@ -652,13 +651,10 @@
 ||windows.net/banner/$domain=lavocedimanduria.it
 ||windows.net/banners/$domain=freshplaza.it
 ||windows.net/specialeelezioni/$domain=altamuralive.it|barilive.it|barlettalive.it|bitontolive.it|cassanolive.it|coratolive.it|giovinazzolive.it|lavocedimanduria.it|ruvolive.it|santeramolive.it|terlizzilive.it
-||wintersport-news.it/banners/
 ||wp.com^*/banner/$domain=cronacaflegrea.it
 ||wp.com^*/banners/$domain=proiezionidiborsa.it
 ||wp.com^*/p500-$domain=proiezionidiborsa.it
 ||wp.com^*Banner300x600.$domain=milanodabere.it
-||yachtonline.it/be/servizi/ajax_banner.php?
-||yimg.com^*/Expedia-Dubai-YahooIT-$domain=yahoo.com
 ||youtg.net^*/cornice_
 ! Citynews
 /traffico//banner/*
@@ -682,4 +678,4 @@
 ! (/sw.js)
 /^https?:\/\/.*\/.*sw[0-9._].*/$script,domain=dundi.it|pornototale.com
 ! webrtc ads
-$webrtc,domain=hentaisaturn.com|leggenditalia.com|leggenditaly.com
+$webrtc,domain=hentaisaturn.com|leggenditalia.com

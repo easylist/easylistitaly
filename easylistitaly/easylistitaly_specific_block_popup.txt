@@ -1,4 +1,3 @@
 ||altadefinizione.coach/4k/$popup
 ||avmagazine.it/advertise/$popup
-||goo.gl^$popup,domain=mondopallone.it
 ||guardaserie.store/4k/$popup
