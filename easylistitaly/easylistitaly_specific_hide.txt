@@ -167,7 +167,7 @@ lacnews24.it##.FPB_six
 viterbonews24.it##.SepBanner
 theitaliantimes.it##.Side_DX
 telestense.it##.StandardBanner
-100ideeperristrutturare.it,quattrozampe.online,villeecasali.com##._ning_outer
+100ideeperristrutturare.it,casa-naturale.com,quattrozampe.online,villeecasali.com##._ning_outer
 rietinvetrina.it##.a-single
 badcomics.it,badgames.it,badtaste.it,badtv.it##.aalb-880-product-carousel-unit
 repubblica.it##.aas_whole_wrapper
@@ -385,9 +385,9 @@ techzilla.it##.offerta-img-box
 casaeclima.com##.page-wrapper
 puntocellulare.it##.panel-offers
 ragusanews.com##.partner
-100ideeperristrutturare.it,quattrozampe.online,villeecasali.com##.partner-item-wrapper
+100ideeperristrutturare.it,casa-naturale.com,quattrozampe.online,villeecasali.com##.partner-item-wrapper
 andreagaleazzi.com##.partner_box
-100ideeperristrutturare.it,quattrozampe.online,villeecasali.com##.partners-wrapper
+100ideeperristrutturare.it,casa-naturale.com,quattrozampe.online,villeecasali.com##.partners-wrapper
 assopoker.com##.poker-room-list
 assopoker.com##.prbox-table-container
 webnews.it##.product__info
@@ -446,7 +446,7 @@ mostraip.com##.spot1
 occhionotizie.it##.sticky_bar_container
 webnews.it##.sticky_wrapper
 andreagaleazzi.com##.store-box
-100ideeperristrutturare.it,primopianomolise.it,quattrozampe.online,radioradio.it,vendingnews.it,villeecasali.com##.strack_cli
+100ideeperristrutturare.it,casa-naturale.com,primopianomolise.it,quattrozampe.online,radioradio.it,vendingnews.it,villeecasali.com##.strack_cli
 ilcorriere.net##.stream-item-top-wrapper
 affaritaliani.it##.strillo-speciale3
 ship2shore.it,trend-online.com##.strip
