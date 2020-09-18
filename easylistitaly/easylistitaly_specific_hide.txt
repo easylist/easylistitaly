@@ -202,6 +202,7 @@ vgnetwork.it##.amazon_similarity
 hwupgrade.it##.amz-wrapper
 voglioporno.com##.analytics-event
 ansa.it##.ansacom-box
+oraridiapertura24.it##.anzeigenlabel
 insideevs.it,omnifurgone.it,omnimoto.it##.ap
 ridble.com##.api-box
 radiocuore.it##.areaclick
