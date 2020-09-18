@@ -99,6 +99,7 @@
 ##.adv-cnt
 ##.adv-footer-kauppa
 ##.adv-iframe-sx
+##.adv-sponsor__content
 ##.adv-strip-container
 ##.adv300eni
 ##.advPostLibri
