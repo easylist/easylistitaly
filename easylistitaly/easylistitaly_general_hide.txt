@@ -161,6 +161,7 @@
 ##.pubblitalocaleaddpiccola
 ##.qtr-bacheca-adv
 ##.sb-box-pubbliredazionale
+##.sidebar__adv
 ##.sponsor160x600Dx
 ##.sponsor300x250Sx
 ##.sponsorizzati

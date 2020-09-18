@@ -167,6 +167,7 @@ lacnews24.it##.FPB_six
 viterbonews24.it##.SepBanner
 theitaliantimes.it##.Side_DX
 telestense.it##.StandardBanner
+villeecasali.com##._ning_outer
 rietinvetrina.it##.a-single
 badcomics.it,badgames.it,badtaste.it,badtv.it##.aalb-880-product-carousel-unit
 repubblica.it##.aas_whole_wrapper
@@ -384,8 +385,9 @@ techzilla.it##.offerta-img-box
 casaeclima.com##.page-wrapper
 puntocellulare.it##.panel-offers
 ragusanews.com##.partner
-quattrozampe.online##.partner-item-wrapper
+quattrozampe.online,villeecasali.com##.partner-item-wrapper
 andreagaleazzi.com##.partner_box
+villeecasali.com##.partners-wrapper
 assopoker.com##.poker-room-list
 assopoker.com##.prbox-table-container
 webnews.it##.product__info
@@ -444,7 +446,7 @@ mostraip.com##.spot1
 occhionotizie.it##.sticky_bar_container
 webnews.it##.sticky_wrapper
 andreagaleazzi.com##.store-box
-primopianomolise.it,radioradio.it,vendingnews.it##.strack_cli
+primopianomolise.it,radioradio.it,vendingnews.it,villeecasali.com##.strack_cli
 ilcorriere.net##.stream-item-top-wrapper
 affaritaliani.it##.strillo-speciale3
 ship2shore.it,trend-online.com##.strip
