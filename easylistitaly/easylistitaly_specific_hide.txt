@@ -255,9 +255,11 @@ everyeye.it##.banner_destra
 finanza.com##.banner_dx
 ragusanews.com##.banner_dx_google
 ilcittadinomb.it,laprovinciadicomo.it,laprovinciadivarese.it##.banner_footer
+villaggiomusicale.com##.banner_footerboard
 quotidianodiragusa.it##.banner_full_cc
 condominioweb.com##.banner_home
 italpress.com##.banner_img_widget
+villaggiomusicale.com##.banner_leaderboard
 ragusanews.com##.banner_top
 mercuriomagazine.com##.banner_top_left
 mercuriomagazine.com##.banner_top_right
