@@ -246,6 +246,7 @@ erbanotizie.com##.banner234x60-right
 fotografidigitali.it,hwupgrade.it,tvtech.it##.banner300x250
 milleunadonna.it##.banner320x250
 djmagitalia.com##.bannerExtra
+puntosicuro.it##.bannerLeader
 edilportale.com,ilmessaggero.it##.bannerTop
 professionecalcio.net,professionemotori.it##.banner_after_feat
 fidelityhouse.eu##.banner_box
