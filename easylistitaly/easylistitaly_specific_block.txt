@@ -149,6 +149,9 @@
 ||filmsenzalimiti.love^*/b1.png
 ||filmsenzalimiti.love^*/b2.png
 ||filmstreaming.page/sc.png
+||finaria.it^*/842ITTRADEstocks300x250_
+||finaria.it^*/broker-regolamentato.gif
+||finaria.it^*/trading-online-comprare-azioni-
 ||fiorentinanews.com^*/Banner
 ||firenzespettacolo.it/media/banner/
 ||firstonline.info^*/300x600.
