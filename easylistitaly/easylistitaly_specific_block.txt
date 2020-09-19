@@ -185,6 +185,8 @@
 ||gnoccatravels.com/files/pbblct
 ||goblins.net^*/banner/
 ||gocity.it/library/banner/
+||gommeblog.it^*/Gommadiretto-
+||gommeblog.it^*/Gommadiretto.
 ||gonews.it^*_Banner-
 ||gratisfree.it/cgi-bin/bannergest$script
 ||greenews.info/wp-content/banners/
