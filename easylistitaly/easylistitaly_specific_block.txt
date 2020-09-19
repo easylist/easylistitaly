@@ -272,6 +272,7 @@
 ||lametino.it/images/banners/
 ||lantidiplomatico.it/img/coupon.png
 ||lapressa.it/sponsors/
+||laprimapagina.it^*/banner729x90.
 ||laprovinciakr.it/images/banners/
 ||laprovinciakr.it^*/banner-
 ||larionews.com^*-MANCHETTE-
