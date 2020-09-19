@@ -483,6 +483,7 @@ bresciaoggi.it,ilgiornaledivicenza.it,larena.it##.v4_section-redazionale-home
 larivieraonline.com##.view-Banners
 vitatrentina.it##.vitat-testata-dx
 vitatrentina.it##.vitat-testata-sx
+lavorincasa.it##.wallpaper-1
 algheroeco.com##.wallpaper-link
 transfermarkt.it##.werbung
 transfermarkt.it##.werbung-skyscraper
@@ -522,7 +523,7 @@ filmstreaming.page##a[href*="/scaricare-film.php"]
 altadefinizione4k.stream,piratestreaming.page##a[href*="/streaming-gratis.php"]
 altadefinizione01.green,cb01.run,filmsenzalimiti.love,ilgeniodellostreaming.cam##a[href*="/vedo4k.php"]
 birramoriamoci.it##a[href*="?affiliates="]
-gnoccatravels.com,juzaphoto.com,mangaforever.net##a[href*="?utm_"]
+gnoccatravels.com,juzaphoto.com,lavorincasa.it,mangaforever.net##a[href*="?utm_"]
 voglioporno.com##a[href*="?utm_campaign="]
 comprovendolibri.it##a[href^="/conta.asp?"]
 facciabuco.com##a[href^="/sprclick/"]
