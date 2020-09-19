@@ -279,6 +279,8 @@
 ||larivieraonline.com^*/takeover/
 ||latina24ore.it^*/banner-
 ||latina24ore.it^*_Skin_
+||latinaquotidiano.it^*/AQL-ModelloTariffario_Web_
+||latinaquotidiano.it^*/banner-
 ||latitudeslife.com/magazine/adv/
 ||latitudeslife.com^*/banners/
 ||lausc.it/images/banners/
