@@ -45,6 +45,8 @@
 ||annuariodelcinema.it^*/banner_
 ||annuariodelcinema.it^*/banners/
 ||ansa.it^*/banner_
+||autobusweb.com^*-Banner-
+||autobusweb.com^*/banner300x250_
 ||autoline24.it/img/atlads1/
 ||autoseller.it/banner%5c
 ||autoseller.it/banner/
