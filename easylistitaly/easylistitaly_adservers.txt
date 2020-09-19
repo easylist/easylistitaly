@@ -68,6 +68,7 @@
 ||newclick.com^$third-party
 ||noddus.com^$third-party
 ||novadv.com^$third-party
+||overbrowser.com^$third-party
 ||ovoadv.com^$third-party
 ||panea.it^$third-party
 ||partypartners.it^$third-party
