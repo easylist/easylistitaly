@@ -193,7 +193,7 @@ liberoquotidiano.it,pharmastar.it##.advertisement
 sienafree.it##.advs
 alfemminile.com##.affi-button
 agi.it##.agi-ad-wrap
-cityrumors.it##.ai-viewport-1
+cityrumors.it,tantasalute.it##.ai-viewport-1
 gamemag.it,nientepopcorn.it,videogame.it##.amazon
 ridble.com##.amazon-product
 animeclick.it##.amazon-row
