@@ -145,6 +145,7 @@ certificatejournal.it,finanza.com###top-banner
 hwupgrade.it###top300x250-background
 hwupgrade.it###top300x250-container
 corriere.it###topXcoupon
+notiziarioattrezzature.com,notiziariomotoristico.com###top_bann
 corrieredellacalabria.it###top_banner
 finanza.com###top_content
 goblins.net###top_header
