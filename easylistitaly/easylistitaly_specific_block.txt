@@ -303,6 +303,7 @@
 ||leccesette.it/banner/
 ||lecconotizie.com/wp-content/banners/
 ||left.it/wp-content/uploads/banners/
+||legab.it^*/sponsor/
 ||libero.it/_ad/
 ||libero.it/static/generated_external/shopping/
 ||libero.it/static/upll/234x/
