@@ -127,6 +127,8 @@
 ||cronachedibirra.it^*/banner_
 ||cuneocronaca.it/img/banner/
 ||cuneocronaca.it/js/clickBanner.js
+||cuneooggi.it^*/banner-
+||cuneooggi.it^*/banner/
 ||digisesso.com/nb/
 ||diretta.it/res/image/bookmaker-list.png
 ||diretta.it^*/banner/
