@@ -356,6 +356,10 @@
 ||money.it^*/etoro/
 ||montecarlonews.it^*/banner/
 ||montecarlonews.it^*/box/
+||motori360.it^*-300-x-150-px.
+||motori360.it^*/300x150.
+||motori360.it^*/enjoy-eni.gif
+||motori360.it^*_370x150
 ||napolicittasolidale.it^*/banner/
 ||napolimagazine.com^*/banner-
 ||nba24.it^*/banner-
