@@ -232,6 +232,7 @@
 ||ilmetapontino.it^*/banner-
 ||ilmioip.it/img/banner
 ||ilmioip.it/img/infermieri
+||ilmomento.org^*-300x250.
 ||ilpaesenuovo.it^*/perhospital-01.jpg
 ||ilpost.it^*/newAdv.js?
 ||ilquotidiano.it/userdata/banner/
