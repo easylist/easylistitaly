@@ -56,6 +56,8 @@
 ||bazar.it^*/banner/
 ||bergamoesport.it^*/BANNER-
 ||bergamoesport.it^*/planetel.jpg
+||biellaoggi.it^*/banner-
+||biellaoggi.it^*/banner/
 ||bikeracing.it/bannersbk.jpg
 ||bloopers.it/images/sponsor/
 ||bolli.it/images/banner/
