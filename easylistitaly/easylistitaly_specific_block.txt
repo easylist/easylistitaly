@@ -665,6 +665,7 @@
 ||viterbopost.it^*-250x90-
 ||viterbopost.it^*-banner-
 ||viterbopost.it^*/Partner.
+||vivafm.it^*/banner-
 ||vivere.biz/images/banners_
 ||vivere.news/images/banners_
 ||vivereancona.it/images/banners_
