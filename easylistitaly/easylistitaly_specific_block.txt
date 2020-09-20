@@ -409,6 +409,8 @@
 ||pharmastar.it^*/banner/
 ||pharmastar.it^*/skins/
 ||piemonteoggi.it/banner/
+||piemonteoggi.it^*/banner-
+||piemonteoggi.it^*/banner/
 ||piratestreaming.eu/vip/img/tad
 ||poliziamunicipale.it/script/getbnr.aspx?
 ||primapaginamolise.it/banner/

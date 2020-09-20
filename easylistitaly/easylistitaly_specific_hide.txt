@@ -128,8 +128,8 @@ bisceglielive.it,eurogamer.it###skyscraper
 3bmeteo.com###sole24_banner
 casateonline.it,merateonline.it###sottotestata
 lnd.it###sp-sponsor
-vercellioggi.it###sponsor_dx
-vercellioggi.it###sponsor_sx
+piemonteoggi.it,vercellioggi.it###sponsor_dx
+piemonteoggi.it,vercellioggi.it###sponsor_sx
 zeusnews.it###spotEsterno
 animeclick.it###stile_link
 valsassinanews.com###stripbanner
