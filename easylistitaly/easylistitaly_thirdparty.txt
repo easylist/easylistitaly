@@ -15,6 +15,7 @@
 ||aimon.it/banner_
 ||andreafranzoso.com/banner/
 ||artera.it/banners.php?
+||atomikecn.nohup.it^$third-party
 ||autocrocetta.com^$domain=quotidianocanavese.it
 ||autostima.net/partner/
 ||banner-madai-com.s3.amazonaws.com^
