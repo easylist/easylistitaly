@@ -195,6 +195,7 @@
 ||gonews.it^*_Banner-
 ||gratisfree.it/cgi-bin/bannergest$script
 ||greenews.info/wp-content/banners/
+||greenretail.it^*/LAND-
 ||guidaviaggi.it/banners/
 ||guidaviaggi.it/public/banners/
 ||historychannel.it^*/swissre.
