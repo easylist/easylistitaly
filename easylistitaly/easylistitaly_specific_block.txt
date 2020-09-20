@@ -655,6 +655,8 @@
 ||viterbooggi.eu/gesBanner/
 ||viterbopost.it^*-1000X50-
 ||viterbopost.it^*-180x100-
+||viterbopost.it^*-250x90-
+||viterbopost.it^*-banner-
 ||viterbopost.it^*/Partner.
 ||vivere.biz/images/banners_
 ||vivere.news/images/banners_
