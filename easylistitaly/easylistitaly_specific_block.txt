@@ -408,6 +408,7 @@
 ||perotorino.it/images/banners/
 ||pharmastar.it^*/banner/
 ||pharmastar.it^*/skins/
+||piemonteoggi.it/banner/
 ||piratestreaming.eu/vip/img/tad
 ||poliziamunicipale.it/script/getbnr.aspx?
 ||primapaginamolise.it/banner/
@@ -651,6 +652,7 @@
 ||venetogol.it//immagini/File_banner/
 ||venetouno.it/media/imgbanners/
 ||vercellioggi.it/immagini/banner/
+||vercellioggi.it^*/banner-
 ||videogame.it/arturo/vast/eas?
 ||videogame.it^*/adv/
 ||videomakers.net/wp-content/banners/
