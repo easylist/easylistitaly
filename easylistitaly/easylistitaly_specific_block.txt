@@ -577,6 +577,11 @@
 ||trend-online.com^*/button
 ||trentinotv.it/images/social/banner
 ||trentotoday.it/images/skin/
+||triesteallnews.it^*-300x300-
+||triesteallnews.it^*-banner300x300.
+||triesteallnews.it^*/Banner_
+||triesteallnews.it^*/quiconvienecom-
+||triesteallnews.it^*_970x250_
 ||tusciaweb.eu^*/Camperteam-
 ||tusciaweb.eu^*/Carrozzeria-fiorillo-
 ||tusciaweb.eu^*/cassa-edile-progetto.gif
