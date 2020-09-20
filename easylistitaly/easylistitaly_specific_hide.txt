@@ -170,6 +170,7 @@ lacnews24.it##.FPB_six
 viterbonews24.it##.SepBanner
 theitaliantimes.it##.Side_DX
 telestense.it##.StandardBanner
+uominietrasporti.it##._ning_inner
 100ideeperristrutturare.it,casa-naturale.com,quattrozampe.online,villeecasali.com##._ning_outer
 rietinvetrina.it##.a-single
 badcomics.it,badgames.it,badtaste.it,badtv.it##.aalb-880-product-carousel-unit
@@ -458,7 +459,7 @@ mostraip.com##.spot1
 occhionotizie.it##.sticky_bar_container
 webnews.it##.sticky_wrapper
 andreagaleazzi.com##.store-box
-100ideeperristrutturare.it,casa-naturale.com,primopianomolise.it,quattrozampe.online,radioradio.it,vendingnews.it,villeecasali.com##.strack_cli
+100ideeperristrutturare.it,casa-naturale.com,primopianomolise.it,quattrozampe.online,radioradio.it,uominietrasporti.it,vendingnews.it,villeecasali.com##.strack_cli
 ilcorriere.net##.stream-item-top-wrapper
 affaritaliani.it##.strillo-speciale3
 ship2shore.it,trend-online.com##.strip
