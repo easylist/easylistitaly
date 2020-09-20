@@ -639,6 +639,7 @@
 ||tuttocampo.it/Web/Images/Banners/
 ||tuttogratis.it/imgbanner/
 ||tuttogratis.it/js/tgsense_
+||tuttotrasporti.it^*/notizieSponsorizzate/
 ||tv2000.it^*/banner.
 ||tv2000.it^*/banner/
 ||tv2000.it^*/skin/

@@ -392,6 +392,7 @@ virgilio.it##.newboxIsOrizz
 obiettivonews.it##.nivo-imageLink
 ilpiccolo.net##.nocornice_banner
 everyeye.it##.nome_gioco_amazon_destra
+tuttotrasporti.it##.notizieSponsorizzate
 techzilla.it##.offerta-img-box
 casaeclima.com##.page-wrapper
 puntocellulare.it##.panel-offers

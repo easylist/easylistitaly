@@ -1,6 +1,12 @@
 ###ADVrettangolo
 ###ADVrettangolopiede
 ###ADVstriscia
+###HALFPAGE2_advadagio
+###HALFPAGE3_advadagio
+###HALFPAGE_BOTTOM_advadagio
+###HALFPAGE_advadagio
+###MID_RECTANGLE1_advadagio
+###MID_RECTANGLE2_advadagio
 ###MediamondAd_bp
 ###MediamondAd_bp_1
 ###MediamondAd_rn_2
@@ -8,6 +14,8 @@
 ###MediamondAd_sn_u
 ###Sponsor728x90Top
 ###UNITIS_ads_300250
+###WIDELEADERBOARD2_advadagio
+###WIDELEADERBOARD_BOTTOM_advadagio
 ###ad_testa_foto
 ###adbanner-laterale
 ###adbanner-stampa
