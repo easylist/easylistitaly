@@ -478,6 +478,7 @@ bluerating.com##.the_big_banner
 allsongs.tv,dica33.it##.top-banner
 positanonews.it##.top-testata
 bluerating.com##.top_funders
+dtti.it##.topad
 everyeye.it##.topskin
 notebookitalia.it##.uk-height-medium
 turistipercaso.it##.utilink
