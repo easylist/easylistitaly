@@ -79,6 +79,8 @@
 ||casaeclima.com^*/banner/
 ||casaeclima.com^*/manchette/
 ||casaeclima.com^*/skins/
+||casaleoggi.it^*/banner-
+||casaleoggi.it^*/banner/
 ||casateonline.it/public/banner/
 ||cb01.events/imgc/b_
 ||cb01.events/imgc/side/s_
