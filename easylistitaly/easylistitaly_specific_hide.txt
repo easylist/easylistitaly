@@ -18,6 +18,7 @@ bazar.it###background
 beverfood.com###backy
 ilmioip.it,superwheels.net###banner
 bresciaoggi.it,ilgiornaledivicenza.it,larena.it###banner-autodoc
+veneziafc.it###banner-box-up
 canavesenews.it###banner-left-bottom
 canavesenews.it###banner-left-top
 cuneocronaca.it,larivieraonline.com,oggitreviso.it,piccolenote.ilgiornale.it###banner-top
