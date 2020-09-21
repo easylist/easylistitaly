@@ -57,6 +57,7 @@ virgilio.it###box_solo_promozioni
 masterviaggi.it###box_sponsor
 subito.it###bs_textlinks
 gamesvillage.it###buy_amazon
+ascolicalcio1898.it###carousel
 virgilio.it###cht_banner
 libero.it###chunnel-affari-300x170
 corrieredellacalabria.it###click_dxa
