@@ -93,6 +93,7 @@
 ||mediatickets.ch/widgets/$third-party
 ||meteosuper.it/public/adv_script.js
 ||mmvid.s3.amazonaws.com^
+||mwd.cloud^*_banner_$domain=hellasverona.it
 ||mytrend.it/gifs/banner/
 ||napolimagazine.blob.core.windows.net/banner-
 ||napolimagazine.blob.core.windows.net/skin-
