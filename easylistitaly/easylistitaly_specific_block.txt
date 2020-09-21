@@ -667,6 +667,7 @@
 ||umbriajournal.com^*_banner_
 ||uominietrasporti.it^*/Auto-doc.
 ||uscatanzaro.net^*/motordoctor.
+||uscremonese.it^*/sponsor/
 ||valenza.it/banner/
 ||valledaostaglocal.it^*/box/
 ||vallesabbianews.it/files/Image/Banner/
