@@ -9,6 +9,7 @@
 ||abruzzoweb.it^*/banner-
 ||acquariofilia.biz/banner/
 ||acquariofilia.biz/images/banner/
+||acspezia.com^*/sponsors/
 ||adginforma.it/images/banner_
 ||adginforma.it/images/banners/
 ||adnkronos.com^*/banner/
