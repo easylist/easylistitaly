@@ -542,6 +542,7 @@
 ||sscnapoli.it/web/img/Banner_
 ||sscnapoli.it/web/img/filmauro_
 ||sslazio.it/images/banners/
+||sslazio.it/images/sponsors/
 ||sslazio.it^*/banner_
 ||stabiachannel.it^*/banner/
 ||stadiotardini.it^*/comeser_

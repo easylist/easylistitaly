@@ -290,6 +290,7 @@ stateofmind.it##.bnn-fullwidth
 meteovalmorea.it##.bnr-row
 staffettaonline.com##.bnrZonaLati
 livescore.it##.bookmaker
+sslazio.it##.box-79
 centrometeoitaliano.it##.box-adv
 tempoitalia.it##.box-banner
 cucchiaio.it##.box-banner-hp-dx
