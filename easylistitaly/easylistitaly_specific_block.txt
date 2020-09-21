@@ -591,6 +591,8 @@
 ||tiscali.it/planner/
 ||tiscali.it^*/comparasemplice.
 ||torinoerotica.com/banner/
+||torinofc.it^*/header_loghi/
+||torinofc.it^*/sponsor/
 ||torinotoday.it/images/skin/
 ||toscanagol.it/immagini/File_banner/
 ||toscanamedianews.it^*/skin/
