@@ -46,6 +46,7 @@
 ||annuariodelcinema.it^*/banner_
 ||annuariodelcinema.it^*/banners/
 ||ansa.it^*/banner_
+||ascittadella.it^*/sponsor/
 ||ascolicalcio1898.it^*/sponsor/
 ||atalanta.it^*/Banner-
 ||atalanta.it^*_banner_

@@ -77,7 +77,7 @@ amazon.it###detailILM_feature_div
 mymovies.it###div_topleft
 ecodicaserta.it###down
 tipiace.it###externalbanner
-violachannel.tv###footer-sponsor
+ascittadella.it,violachannel.tv###footer-sponsor
 ilcap.it###gadsense
 mondoplay.it,mondoxbox.com###gameBlock_amazon
 mondoplay.it,mondoxbox.com###gameBlock_amazon_noboxart
