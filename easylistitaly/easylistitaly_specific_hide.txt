@@ -39,6 +39,7 @@ frasimania.it###bannerpop
 siracusanews.it###banners-top
 linguee.it###banners_right
 linguee.it###banners_top
+entella.it###barra_click_top
 bergamoesport.it###billboard
 siracusanews.it###billboard1
 giornaledellamusica.it###block-adv
