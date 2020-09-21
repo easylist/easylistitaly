@@ -405,6 +405,7 @@ techzilla.it##.offerta-img-box
 casaeclima.com##.page-wrapper
 puntocellulare.it##.panel-offers
 ragusanews.com##.partner
+bolognafc.it##.partner-footer
 100ideeperristrutturare.it,casa-naturale.com,quattrozampe.online,villeecasali.com##.partner-item-wrapper
 andreagaleazzi.com##.partner_box
 100ideeperristrutturare.it,casa-naturale.com,quattrozampe.online,villeecasali.com##.partners-wrapper
