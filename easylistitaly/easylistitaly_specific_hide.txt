@@ -295,6 +295,7 @@ staffettaonline.com##.bnrZonaLati
 livescore.it##.bookmaker
 sslazio.it##.box-79
 centrometeoitaliano.it##.box-adv
+pordenonecalcio.com##.box-assiteca
 tempoitalia.it##.box-banner
 cucchiaio.it##.box-banner-hp-dx
 trend-online.com##.box-special
