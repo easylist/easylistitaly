@@ -491,7 +491,7 @@ luinonotizie.it##.swiper-wrapper
 diventaretrader.com##.table-alm
 ilpost.it##.tag-sponsored
 ilprimatonazionale.it##.td-banner-bg
-ilgiornaledeltermoidraulico.it##.td-footer-wrapper
+ilgiornaledeltermoidraulico.it,pescaracalcio.com##.td-footer-wrapper
 laspia.it,ragusah24.it##.td-header-sp-recs
 gdoweek.it##.td-leaderboard-wrap-full
 positanonews.it##.testata
