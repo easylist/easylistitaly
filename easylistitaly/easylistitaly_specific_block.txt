@@ -271,6 +271,7 @@
 ||italpress.com^*/gif_talpress_def.
 ||italpress.com^*/VolospeechGif_
 ||italpress.com^*_300X250MYACEA-
+||juventus.com^*/sponsors/
 ||juzaphoto.com^*/rce/
 ||kisskiss.it/images/banners/
 ||kisskissnapoli.it/images/banners/

@@ -358,6 +358,8 @@ ispazio.net##.ispaz-adlabel
 informazioneonline.it##.it-box-mainsponsor
 informazioneonline.it##.it-box-manchette-DX
 informazioneonline.it##.it-box-manchette-SX
+juventus.com##.jcom-o-footer__corporate
+juventus.com##.jcom-o-sponsors-nav__child
 superscommesse.it##.js_tracking_gtm
 nientepopcorn.it##.justwatch
 bluerating.com##.large_home_adv
