@@ -102,6 +102,7 @@
 ||tagvideo.eu^$third-party
 ||tgadv.it^$third-party
 ||tgadvcdn.it^$third-party
+||tjekscores.dk^$third-party
 ||upstory.it^$third-party
 ||viralbeat.com^$third-party
 ||wailay.com^$third-party
