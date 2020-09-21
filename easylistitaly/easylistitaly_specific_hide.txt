@@ -131,6 +131,7 @@ bisceglielive.it,eurogamer.it###skyscraper
 3bmeteo.com###sole24_banner
 casateonline.it,merateonline.it###sottotestata
 lnd.it###sp-sponsor
+reggina1914.it###sponsor
 biellaoggi.it,casaleoggi.it,cuneooggi.it,piemonteoggi.it,vercellioggi.it###sponsor_dx
 biellaoggi.it,casaleoggi.it,cuneooggi.it,piemonteoggi.it,vercellioggi.it###sponsor_sx
 zeusnews.it###spotEsterno

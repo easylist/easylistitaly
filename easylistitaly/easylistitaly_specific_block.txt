@@ -503,6 +503,7 @@
 ||ragusanews.com/images_banner/
 ||ravennatoday.it/images/skin/
 ||rcrevolution.net^*/banners/
+||reggina1914.it^*/sponsor-
 ||reggioemiliameteo.it^*-sponsor/
 ||reggioemiliameteo.it^*/banner/
 ||reggiotv.it/immagini/banner/
