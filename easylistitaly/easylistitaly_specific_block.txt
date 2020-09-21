@@ -433,6 +433,7 @@
 ||piemonteoggi.it^*/banner-
 ||piemonteoggi.it^*/banner/
 ||piratestreaming.eu/vip/img/tad
+||pisachannel.tv^*/Toscana-Aeroporti-
 ||poliziamunicipale.it/script/getbnr.aspx?
 ||primapaginamolise.it/banner/
 ||professionemotori.it/wp-content/uploads/williamHillbox.png

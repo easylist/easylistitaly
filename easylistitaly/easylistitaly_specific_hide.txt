@@ -418,6 +418,7 @@ andreagaleazzi.com##.partner_box
 assopoker.com##.poker-room-list
 assopoker.com##.prbox-table-container
 eurogamer.it##.pre-article
+pisachannel.tv##.pre_footer
 webnews.it##.product__info
 comingsoon.it,pneusnews.it##.promo
 voglioporno.com##.promo-462x66
