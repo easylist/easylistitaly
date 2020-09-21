@@ -185,6 +185,9 @@
 ||gazzettaregionale.it/assets/Auto-doc.
 ||gazzettinodelchianti.it^*/banner-
 ||gazzettinodelchianti.it^*/sfondo-
+||genoacfc.it^*/1110x95_
+||genoacfc.it^*/banner-
+||genoacfc.it^*/NOBERASCO_LOGO-
 ||genova24.it^*/banner_
 ||giochixl.it/bfb/
 ||giornale.it^*/300x250px.
