@@ -364,6 +364,7 @@ transfermarkt.it##.hide-for-small[style="height: 273px; text-align: center; over
 altamuralife.it,andriaviva.it,bariviva.it,barlettaviva.it,bisceglieviva.it,bitontoviva.it,canosaviva.it,cerignolaviva.it,coratoviva.it,giovinazzoviva.it,gravinalife.it,margheritaviva.it,materalife.it,minervinoviva.it,modugnoviva.it,molfettaviva.it,ruvoviva.it,sanferdinandoviva.it,spinazzolaviva.it,terlizziviva.it,traniviva.it,trinitapoliviva.it##.home-election-wrapper
 corriere.ca##.horizontal_banner
 iodonna.it##.id-vda-article
+sportytrader.it##.ilo
 repubblica.it##.is-marketing
 ispazio.net##.ispaz-adlabel
 informazioneonline.it##.it-box-mainsponsor
@@ -453,6 +454,7 @@ puntocellulare.it##.schlnk
 atalanta.it##.section_sponsor
 excite.it##.serp-item
 bloopers.it##.shop
+sportytrader.it##.sidebar_grid
 cosedicasa.com##.sidespot-wrapper
 andreagaleazzi.com,animeclick.it##.skin
 leccesette.it##.skin-desktop
@@ -481,6 +483,7 @@ agrifoodtoday.it,agrigentonotizie.it,anconatoday.it,avellinotoday.it,baritoday.i
 acfontemeravigliosa.it,alfamasera.it,asdcmozzo.it,asdeasytennis.it,asdfrentania.it,belmontecalcio.it,cestisticasavonese.it,delfinosalento.it,excelsiorcalcio.it,falcoalbino.it,franzinvalnocebasket.it,nuovafrontiera.it,pallacanestroalassio.it,podisticasannicandro.it,robur1905macerata.it,scanzorosciatebasket.it,uscremonese.it,virtusapriliabasket.it##.sponsors
 avvenire.it##.spot
 mostraip.com##.spot1
+sportytrader.it##.sticky-header_banner_first
 occhionotizie.it##.sticky_bar_container
 webnews.it##.sticky_wrapper
 andreagaleazzi.com##.store-box
