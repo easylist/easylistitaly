@@ -338,6 +338,7 @@ luinonotizie.it##.fixed-sponsor
 udinese.it##.foobar-sponsor
 lega-pro.com##.footer-partner
 genoacfc.it##.footer-partner-link
+cagliaricalcio.com##.footer-sponsors
 quattroruote.it##.four-box-sponsor
 quattroruote.it##.fullBanner
 bolognaindiretta.it,buttanissima.it,corrieresalentino.it,gazzettadasti.it,ilfattonisseno.it,ilsicilia.it,informazioneonline.it,latina24ore.it,lavalsusa.it,lavocedeltrentino.it,modenaindiretta.it,qds.it,quicosenza.it,reggionline.com,reportmotori.it,rietinvetrina.it,rivistastudio.com,ticinonotizie.it##.g
@@ -487,6 +488,7 @@ gdoweek.it##.td-leaderboard-wrap-full
 positanonews.it##.testata
 bluerating.com##.the_big_banner
 allsongs.tv,dica33.it##.top-banner
+cagliaricalcio.com##.top-sponsor-hp
 positanonews.it##.top-testata
 bluerating.com##.top_funders
 dtti.it##.topad

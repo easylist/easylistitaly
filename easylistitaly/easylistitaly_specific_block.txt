@@ -70,6 +70,7 @@
 ||business24tv.it^*/Banner_
 ||business24tv.it^*/skin_
 ||caffe.ch/media/STATICHE/ilcaffe/ADV/
+||cagliaricalcio.com^*/image-sponsor-
 ||campaniameteo.it/CMS/Upload/GalleriaUtente/Image/
 ||camperonline.it/b-top/
 ||camperonline.it/b/
