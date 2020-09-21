@@ -405,6 +405,7 @@ obiettivonews.it##.nivo-imageLink
 ilpiccolo.net##.nocornice_banner
 everyeye.it##.nome_gioco_amazon_destra
 tuttotrasporti.it##.notizieSponsorizzate
+empolifc.com##.o-section--promo
 techzilla.it##.offerta-img-box
 casaeclima.com##.page-wrapper
 puntocellulare.it##.panel-offers
