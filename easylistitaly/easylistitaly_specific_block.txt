@@ -377,6 +377,7 @@
 ||money.it^*/etoro/
 ||montecarlonews.it^*/banner/
 ||montecarlonews.it^*/box/
+||monzacalcio.com/images/sponsors/
 ||motori360.it^*-300-x-150-px.
 ||motori360.it^*/300x150.
 ||motori360.it^*/enjoy-eni.gif
