@@ -456,6 +456,7 @@ primopianomolise.it##.skin_bg_right
 iovivoaroma.org##.skin_link_top
 tiscali.it##.sky-n
 gioco.it##.skyscraper
+uslecce.it##.slick-track
 radioradio.it##.slide
 livornolive.it##.slidelink
 oipamagazine.it##.slider
