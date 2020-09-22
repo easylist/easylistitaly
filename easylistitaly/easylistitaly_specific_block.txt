@@ -688,6 +688,7 @@
 ||vendingnews.it/wp-content/uploads/angwp/items/
 ||venetogol.it//immagini/File_banner/
 ||venetouno.it/media/imgbanners/
+||veneziaradiotv.it^*/scott-informatica.jpg
 ||vercellioggi.it/immagini/banner/
 ||vercellioggi.it^*/banner-
 ||videogame.it/arturo/vast/eas?
