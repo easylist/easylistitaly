@@ -415,6 +415,7 @@
 ||oggiroma.it/public/banner/
 ||oipamagazine.it^*/euroservice.gif
 ||oktennis.it^*/skin/
+||olimpiamilano.com^*/sponsors/
 ||ondarock.it/skin/
 ||ostiatv.it/upl/banner
 ||pablitoescort.com/images/banner/
