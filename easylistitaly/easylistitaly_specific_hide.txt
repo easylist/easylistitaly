@@ -322,6 +322,7 @@ quattroruote.it##.commercial-article
 tiscali.it##.compare-box-cnt
 fuoritraiettoria.com##.computer
 edilportale.com##.cont-leaderBoard
+brindisisera.it##.cont_banner
 tiscali.it##.container_b_1
 frasimania.it##.content-banner
 fanpage.it##.content-leaderboard
