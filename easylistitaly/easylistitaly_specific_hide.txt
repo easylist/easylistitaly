@@ -493,6 +493,7 @@ affaritaliani.it##.strillo-speciale3
 ship2shore.it,trend-online.com##.strip
 ilmessaggero.it##.strip-guidalloshopping
 volleyball.it##.su-carousel
+pianetabasket.com##.sub
 emmelle.it##.supermag-ainfo-widget
 mbnews.it##.swiper-container
 luinonotizie.it##.swiper-wrapper
@@ -597,7 +598,7 @@ fcinternews.it,pianetabasket.com,tuttopotenza.com##div[style="overflow: hidden; 
 interdipendenza.net##div[style="overflow: hidden; height: 280px; width: 336px; margin: auto;"]
 fcinternews.it,tuttopotenza.com##div[style="overflow: hidden; height: 600px; width: 160px; margin: auto;"]
 pianetabasket.com##div[style="overflow: hidden; height: 600px; width: 300px; margin: auto;"]
-fcinternews.it,interdipendenza.net##div[style="overflow: hidden; height: 60px; width: 468px; margin: auto;"]
+fcinternews.it,interdipendenza.net,pianetabasket.com##div[style="overflow: hidden; height: 60px; width: 468px; margin: auto;"]
 fcinternews.it##div[style="overflow: hidden; height: 90px; width: 160px; margin: auto;"]
 radioradio.it##div[style="position: absolute; display: block; top: 0px; left: 0px; width: 696px; height: 182px; transform: scale(1.001);"]
 radioradio.it##div[style="position: absolute; overflow: hidden; left: 0px; top: 0px; width: 696px; height: 182px; margin: 0px; padding: 0px; transform-style: flat; z-index: 0;"]
