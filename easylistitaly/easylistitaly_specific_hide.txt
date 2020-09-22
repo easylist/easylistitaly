@@ -134,6 +134,7 @@ bisceglielive.it,eurogamer.it###skyscraper
 casateonline.it,merateonline.it###sottotestata
 lnd.it###sp-sponsor
 reggina1914.it###sponsor
+victorialibertas.it###sponsor-footer
 biellaoggi.it,casaleoggi.it,cuneooggi.it,piemonteoggi.it,vercellioggi.it###sponsor_dx
 biellaoggi.it,casaleoggi.it,cuneooggi.it,piemonteoggi.it,vercellioggi.it###sponsor_sx
 zeusnews.it###spotEsterno
@@ -476,6 +477,7 @@ lifegate.it##.special-contents
 europages.it,ilmonferrato.it,legab.it,olimpiamilano.com,repubblica.it,stickmangames.altervista.org##.sponsor
 luinonotizie.it##.sponsor-background-big
 pallacanestrotrieste.it##.sponsor-carousel
+victorialibertas.it##.sponsor-header
 erbanotizie.com##.sponsor-rubrica
 viterbopost.it##.sponsorA
 facciabuco.com##.sponsor_box
