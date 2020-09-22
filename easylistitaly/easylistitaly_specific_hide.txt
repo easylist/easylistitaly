@@ -632,6 +632,7 @@ adessoin.tv##div[style="width:970px; height:250px; margin:20px auto; float:left;
 thegamesmachine.it##div[style="width:970px;height:250px;margin: 0 auto 5px;"]
 polesine24.it##div[style="width:auto;height:371px;margin-top:15px;margin-bottom: 15px;border:solid 1px #CCC"]
 mbnews.it##div[style^="width: 300px; height: 250px;"]
+gelocal.it##div[style^="width: 300px;height: 80px;border:"]
 liguriaoggi.it##img[alt="ad"]
 cinematografo.it##img[alt="banner"]
 corrieresalentino.it##img[height="100"][width="1000"]
