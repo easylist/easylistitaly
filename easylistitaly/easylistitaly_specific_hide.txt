@@ -475,6 +475,7 @@ corriere.ca##.small_banner
 lifegate.it##.special-contents
 europages.it,ilmonferrato.it,legab.it,repubblica.it,stickmangames.altervista.org##.sponsor
 luinonotizie.it##.sponsor-background-big
+pallacanestrotrieste.it##.sponsor-carousel
 erbanotizie.com##.sponsor-rubrica
 viterbopost.it##.sponsorA
 facciabuco.com##.sponsor_box
