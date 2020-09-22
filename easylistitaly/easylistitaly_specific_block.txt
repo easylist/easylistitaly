@@ -423,6 +423,7 @@
 ||palermomania.com/images/banner/
 ||palermomania.it/images/banner_
 ||palermomania.it/public/banner/
+||pallacanestrovarese.it^*/loghi-top/
 ||papaboys.org^*/banner-
 ||parmareport.it^*/320x250_
 ||parmareport.it^*/320x267-
