@@ -73,6 +73,7 @@
 ||bordighera.net/images/banner_
 ||borsainside.com/foto-articoli/eToro-pratica.png
 ||brindisisera.it/img/banner/
+||brindisitime.it^*/BANNER-
 ||buongiornoalghero.it^*/banner_
 ||business24tv.it^*/Banner_
 ||business24tv.it^*/skin_
