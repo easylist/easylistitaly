@@ -681,6 +681,7 @@
 ||umbriajournal.com^*/banner-
 ||umbriajournal.com^*/banner.
 ||umbriajournal.com^*_banner_
+||umbriasettegiorni.it^*/skin-
 ||uominietrasporti.it^*/Auto-doc.
 ||uscatanzaro.net^*/motordoctor.
 ||uscremonese.it^*/sponsor/
