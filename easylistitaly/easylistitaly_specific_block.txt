@@ -694,6 +694,7 @@
 ||veneziaradiotv.it^*/scott-informatica.jpg
 ||vercellioggi.it/immagini/banner/
 ||vercellioggi.it^*/banner-
+||vicenzapiu.com^*/banner-
 ||videogame.it/arturo/vast/eas?
 ||videogame.it^*/adv/
 ||videomakers.net/wp-content/banners/
