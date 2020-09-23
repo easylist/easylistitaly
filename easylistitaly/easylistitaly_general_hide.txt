@@ -107,6 +107,7 @@
 ##.adv-cnt
 ##.adv-footer-kauppa
 ##.adv-iframe-sx
+##.adv-masthead
 ##.adv-sponsor__content
 ##.adv-strip-container
 ##.adv300eni
