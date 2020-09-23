@@ -482,6 +482,10 @@
 ||quinewsversilia.it^*/skin/
 ||quinewsvolterra.it^*/skin/
 ||quotidianocanavese.it/img/skyscraper/
+||quotidianodellumbria.it^*/banner-
+||quotidianodellumbria.it^*/manchette-
+||quotidianodellumbria.it^*/skin-
+||quotidianodellumbria.it^*_300x250px-
 ||radioamore.it^*/banners/
 ||radiocantu.com^*-260x260-
 ||radiogold.it/images/banners/

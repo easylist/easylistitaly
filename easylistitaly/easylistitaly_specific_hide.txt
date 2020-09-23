@@ -231,6 +231,7 @@ amazon.it##.aw-campaigns
 gnoccatravels.com##.b-nner-desktop-block
 virgilio.it##.b300x250
 gnoccatravels.com##.bacheca-incontri-b-nner
+quotidianodellumbria.it##.back
 strill.it##.background-cover
 avmagazine.it##.background-link
 oggitreviso.it##.ban
