@@ -193,6 +193,7 @@
 ||freeonline.it/img/newskin-
 ||freeonline.org/img/banner/
 ||freshplaza.it/b/
+||game-experience.it^*/BANNER-
 ||gamesoul.it^*/skin-
 ||gamesvillage.it/ajax.php?do=gv_amazon_page&
 ||garedepoca.com/grafica/banner_
