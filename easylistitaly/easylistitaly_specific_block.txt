@@ -53,6 +53,7 @@
 ||autobusweb.com^*-Banner-
 ||autobusweb.com^*/banner300x250_
 ||autoline24.it/img/atlads1/
+||automania.it/varie/sponsor/
 ||automotorinews.it^*/banner-
 ||autoseller.it/banner%5c
 ||autoseller.it/banner/
