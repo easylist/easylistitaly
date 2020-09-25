@@ -427,6 +427,7 @@ bolognafc.it##.partner-footer
 100ideeperristrutturare.it,casa-naturale.com,quattrozampe.online,villeecasali.com##.partner-item-wrapper
 andreagaleazzi.com##.partner_box
 100ideeperristrutturare.it,casa-naturale.com,quattrozampe.online,villeecasali.com##.partners-wrapper
+wondernetmag.com##.penci-promo-link
 assopoker.com##.poker-room-list
 assopoker.com##.prbox-table-container
 eurogamer.it##.pre-article
