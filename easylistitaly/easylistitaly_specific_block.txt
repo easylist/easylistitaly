@@ -449,6 +449,7 @@
 ||piratestreaming.eu/vip/img/tad
 ||pisachannel.tv^*/Toscana-Aeroporti-
 ||poliziamunicipale.it/script/getbnr.aspx?
+||prealpina.it/js/manzoni_interna.js
 ||primapaginamolise.it/banner/
 ||professionemotori.it/wp-content/uploads/williamHillbox.png
 ||pyrosonline.it/site/public/image/20200131153026.jpg
