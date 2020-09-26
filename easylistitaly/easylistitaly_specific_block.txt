@@ -219,6 +219,7 @@
 ||gnoccatravels.com/files/pbblct
 ||goblins.net^*/banner/
 ||gocity.it/library/banner/
+||gommadiretto.it/simg/schaufenster_rechts/
 ||gommeblog.it^*/Gommadiretto-
 ||gommeblog.it^*/Gommadiretto.
 ||gonews.it^*_Banner-

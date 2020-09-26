@@ -130,7 +130,7 @@ iovivoaroma.org###skin_link_sx
 cronacheancona.it,cronachemaceratesi.it###skinabove
 emiliagol.it###skinclick
 buongiornoalghero.it,freeonline.org,lospiffero.com,salernonotizie.it###skinlink
-bisceglielive.it,eurogamer.it###skyscraper
+bisceglielive.it,eurogamer.it,gommadiretto.it###skyscraper
 3bmeteo.com###sole24_banner
 casateonline.it,merateonline.it###sottotestata
 lnd.it###sp-sponsor
