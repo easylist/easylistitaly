@@ -549,6 +549,7 @@ hwupgrade.it##.wrapper-xyz
 rivistanatura.com##.zcx
 rivistanatura.com##.zcx-img
 eurosat-online.it##.zedo
+zingarate.com##.zg-malta
 nursetimes.org##AMP-IMG[width="320"][height="50"]
 djmagitalia.com##[href^="http://www.djpoint.net/"]
 blog.libero.it##a[href*=".clickbank.net/"]
