@@ -17,8 +17,10 @@
 ||affaritaliani.it/includes/files/affari/
 ||affaritaliani.it/mutuionline/imgmol/
 ||affaritaliani.it^*/dott/
+||affaritaliani.it^*/eni-/
 ||affaritaliani.it^*/fogl/
 ||affaritaliani.it^*/immo/
+||affaritaliani.it^*/immobiliare/
 ||affaritaliani.it^*/luxu/
 ||affaritaliani.it^*/pron/
 ||agrigentonotizie.it/images/skin/
