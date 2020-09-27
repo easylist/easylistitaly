@@ -677,6 +677,7 @@
 ||tusciaweb.eu^*560x60
 ||tusciaweb.eu^*628x45
 ||tusciaweb.eu^*pushbar
+||tuttasalute.net^*/adv/
 ||tuttobasket.net^*/skin-
 ||tuttocampo.it/Web/Images/Banners/
 ||tuttogratis.it/imgbanner/
