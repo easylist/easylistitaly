@@ -226,6 +226,8 @@
 ||gratisfree.it/cgi-bin/bannergest$script
 ||greenews.info/wp-content/banners/
 ||greenretail.it^*/LAND-
+||guardaserie.cam^*/btn_guarda
+||guardaserie.cam^*/button
 ||guidaviaggi.it/banners/
 ||guidaviaggi.it/public/banners/
 ||historychannel.it^*/swissre.
