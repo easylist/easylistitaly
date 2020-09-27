@@ -379,6 +379,7 @@
 ||meteoaquilano.it/Sponsor/
 ||meteovalmorea.it^*/banners/
 ||milanodabere.it/images/archivio/2000x1000/
+||milanofinanza.it^*/activtrades.gif
 ||mio-ip.eu^*/offerte-amazon-
 ||miotv.it/public/componenti/
 ||mobimart.it/ban.
