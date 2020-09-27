@@ -70,7 +70,7 @@ acquariofilia.biz###collapseobj_sidebar_google
 affaritaliani.it###consigliati-giochi2
 virgilio.it###cont-leaderboard
 virgilio.it###cont-manchette
-dilei.it,quifinanza.it,supereva.it,virgilio.it###cont-wallpaper
+dilei.it,quifinanza.it,siviaggia.it,supereva.it,virgilio.it###cont-wallpaper
 autoseller.it###ctl00_ContentCentraleBanner
 teleborsa.it###ctl00_if4WTV300x250
 birramoriamoci.it###custom_html-2
