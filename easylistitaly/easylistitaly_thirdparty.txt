@@ -145,6 +145,7 @@
 ||spox.com/daznpic/$third-party
 ||static.plista.com^*/resized/$third-party
 ||staticroot.com/nl/affiliati/
+||staticroot.com^$domain=zingarate.com
 ||stats.betradar.com^$third-party
 ||stbm.it/img/banner/300x100_
 ||stgy.it/images/banner-
