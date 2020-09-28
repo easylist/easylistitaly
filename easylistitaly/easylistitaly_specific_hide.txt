@@ -1,4 +1,8 @@
+nauticareport.it###BanBG
+nauticareport.it###BanCenter
+nauticareport.it###BanLeft
 lantidiplomatico.it###BanRight
+nauticareport.it###BanTop
 staffettaonline.com###BnrSolidarieta
 mymovies.it###Middle3_hp
 chimerarevo.com###TopWidgetArea
