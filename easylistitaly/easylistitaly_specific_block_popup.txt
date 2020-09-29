@@ -1,3 +1,5 @@
 ||altadefinizione.coach/4k/$popup
 ||avmagazine.it/advertise/$popup
 ||guardaserie.store/4k/$popup
+! about:blank popups
+/about:blank.*/$popup,domain=leggenditaloi.com
