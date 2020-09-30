@@ -88,6 +88,7 @@ ascittadella.it,violachannel.tv###footer-sponsor
 ilcap.it###gadsense
 mondoplay.it,mondoxbox.com###gameBlock_amazon
 mondoplay.it,mondoxbox.com###gameBlock_amazon_noboxart
+videogiocare.it###gp-affiliate-button
 mercatinomusicale.com###hdr_leaderboard
 cronachemaceratesi.it###head_sponsor
 beverfood.com###headbanner
@@ -195,12 +196,12 @@ cityrumors.it##.aawp
 topdigamma.it,tuttotek.it##.aawp-product
 ilsole24ore.com##.abox
 radioitalia.it##.acquista
-jugo.it,lacrocequotidiano.it,liberatv.ch,lonelyplanetitalia.it,mondoplay.it,mondoxbox.com,smartbuildingitalia.it,trend-online.com,tripadvisor.it##.ad
+jugo.it,lacrocequotidiano.it,liberatv.ch,lonelyplanetitalia.it,mondoplay.it,mondoxbox.com,serietvu.link,smartbuildingitalia.it,trend-online.com,tripadvisor.it##.ad
 tusciaweb.eu##.ad-article
 laltrapagina.it##.ad1
 laltrapagina.it##.ad5
 theitaliantimes.it##.adb
-24emilia.com,autoscout24.ch,brocardi.it,cb01.online,gamemag.it,hdblog.it,ilikepuglia.it,teleborsa.it,viamichelin.ch,viamichelin.it##.ads
+24emilia.com,autoscout24.ch,brocardi.it,cb01.online,gamemag.it,hdblog.it,ilgeniodellostreaming.rest,ilikepuglia.it,teleborsa.it,viamichelin.ch,viamichelin.it##.ads
 ildolomiti.it##.adsB
 chistachiamando.it,pcprofessionale.it##.adsense
 adessoin.tv,allaguida.it,amica.it,ansa.it,buttalapasta.it,calciomercato.com,curioctopus.it,dissapore.com,forbes.it,gelocal.it,gianlucadimarzio.com,gta-expert.it,ilfattoquotidiano.it,ilpost.it,ilsole24ore.com,latina24ore.it,mediaset.it,movieplayer.it,multiplayer.it,nanopress.it,pourfemme.it,prealpina.it,radioindiretta.fm,repubblica.it,salepepe.it,skuola.net,staffettaonline.com,stylosophy.it,supereva.it,virgilio.it,vocenuova.tv##.adv
@@ -319,6 +320,7 @@ pneusnews.it##.boxes
 sscnapoli.it##.brand
 donnamoderna.com##.btn-offerte-amazon
 game-game.it##.btn-play
+piratestreaming.network##.btnaaa
 empolifc.com##.c-footer__sponsors-container
 radioinblu.it,tv2000.it##.cei-skin-side
 edilportale.com##.click-Skin
@@ -366,6 +368,9 @@ agendadigitale.eu##.gallery-container-home
 3bmeteo.com##.gpt_top
 fanta.soccer,fiscomania.com,money.it##.gptslot
 altadefinizione.coach,guardaserie.store##.guarda_hd
+ilgeniodellostreaming.rest,ilgeniodellostreaming.to##.guardasingle
+ilgeniodellostreaming.rest,ilgeniodellostreaming.to,ilgeniodellostreamings.it##.guardasingleserie1
+ilgeniodellostreaming.rest,ilgeniodellostreaming.to,ilgeniodellostreamings.it##.guardasingleserie2
 quattroruote.it##.halfPageBanner2
 emmelle.it##.header-ainfo
 nuovosud.it##.header-banner-wrapper
@@ -415,6 +420,7 @@ altamuralive.it,barilive.it,barlettalive.it,bisceglielive.it,bitontolive.it,cass
 bisceglielive.it##.mkt-editorial
 eurogamer.it,foodnetwork.it,gioco.it##.mpu
 affaritaliani.it##.mutui
+cb001.xyz##.mvic-btn
 virgilio.it##.newboxIs
 virgilio.it##.newboxIsOrizz
 ansa.it##.news-special-box
@@ -511,13 +517,14 @@ affaritaliani.it##.strillo-speciale3
 ship2shore.it,trend-online.com##.strip
 ilmessaggero.it##.strip-guidalloshopping
 volleyball.it##.su-carousel
-pianetabasket.com,tuttoveneziasport.it##.sub
+notiziariocalcio.com,pianetabasket.com,tuttoveneziasport.it##.sub
 emmelle.it##.supermag-ainfo-widget
 mbnews.it##.swiper-container
 luinonotizie.it##.swiper-wrapper
 diventaretrader.com##.table-alm
 ilpost.it##.tag-sponsored
 ilprimatonazionale.it##.td-banner-bg
+romagiallorossa.it##.td-container-header
 ilgiornaledeltermoidraulico.it,pescaracalcio.com##.td-footer-wrapper
 laspia.it,ragusah24.it##.td-header-sp-recs
 gdoweek.it##.td-leaderboard-wrap-full
@@ -564,8 +571,9 @@ blog.libero.it##a[href*=".hop.clickbank.net/"]
 videopornoitalia.it##a[href*=".rivcash.com/"]
 amalfinotizie.it,birramoriamoci.it,corrieredellacalabria.it,freeonline.org,hwupgrade.it,rivistanatura.com,tusciaweb.eu##a[href*="//bit.ly/"]
 altadefinizione.coach,cb01.events,cb01.online,cb01.run,cineblog01.love,filmsenzalimiti.love,guardaserie.cam,speedvideo.net##a[href*="/4k/"]
+cineblog01.love##a[href*="/FULLHD/"]
 piratestreaming.movie##a[href*="/Guarda4K/"]
-altadefinizione01.green##a[href*="/UHD/"]
+altadefinizione01.green,guardaserie.cam##a[href*="/UHD/"]
 ilquotidianodellazio.it,romait.it##a[href*="/ad/click/"]
 diventaretrader.com##a[href*="/banner/redirect/"]
 everyeye.it##a[href*="/click.asp?"]
@@ -586,7 +594,8 @@ filmstreaming.page##a[href*="/scaricare-film.php"]
 altadefinizione4k.stream,piratestreaming.page##a[href*="/streaming-gratis.php"]
 pallacanestrocantu.com##a[href*="/trackingsponsor.aspx?"]
 cartaricaricabile.net##a[href*="/vai/"]
-altadefinizione01.green,cb01.run,filmsenzalimiti.love,guardaserie.cam,ilgeniodellostreaming.cam##a[href*="/vedo4k.php"]
+altadefinizione01.green,cb01.run,cineblog01.love,filmsenzalimiti.love,guardaserie.cam,ilgeniodellostreaming.cam##a[href*="/vedo4k.php"]
+altadefinizione.sh##a[href*="/view.php?"]
 birramoriamoci.it##a[href*="?affiliates="]
 gnoccatravels.com,juzaphoto.com,lavorincasa.it,mangaforever.net,milanofinanza.it##a[href*="?utm_"]
 voglioporno.com##a[href*="?utm_campaign="]
@@ -599,7 +608,7 @@ mangaforever.net,outcast.it,serialclick.it,tivusat.tv##a[href^="http://www.amazo
 corrierenazionale.it##a[href^="http://www.herobet.it/"]
 rietilife.com##a[href^="http://www.rietilife.com?pasID="]
 outcast.it##a[href^="http://www.tostadora.it/t-shirt-nerd.php?"]
-birramoriamoci.it,hynerd.it,ilsoftware.it,infotelematico.com,juzaphoto.com,mio-ip.eu,nokioteca.net,tivusat.tv##a[href^="https://amzn.to/"]
+birramoriamoci.it,hynerd.it,ilsoftware.it,infotelematico.com,juzaphoto.com,mio-ip.eu,nokioteca.net,tivusat.tv,videogiocare.it##a[href^="https://amzn.to/"]
 campaniameteo.it##a[href^="https://clk.tradedoubler.com/"]
 animeemanga.it,comprovendodischi.it,comprovendolibri.it,corrieredellacalabria.it##a[href^="https://goo.gl/"]
 diventaretrader.com##a[href^="https://iqbroker.com/"]
@@ -622,10 +631,10 @@ stadionews.it##div[style="margin-top:0px;display:block;min-height:90px;"]
 affaritaliani.it##div[style="margin-top:10px;height:90px"]
 stadionews.it##div[style="margin-top:20px; margin-bottom:10px; float:left; margin-right:10px; width: 300px; height: 250px;"]
 affaritaliani.it##div[style="margin-top:6px;margin-bottom:10px;padding: 9px; border: 1px solid #ccc; zoom:1;overflow:hidden;height:80px;width:280px;font: normal 12px/14px arial, sans-serif"]
-tuttoveneziasport.it##div[style="min-height: 250px; max-height: 600px; overflow: hidden; width: 300px; margin: auto;"]
+notiziariocalcio.com,tuttoveneziasport.it##div[style="min-height: 250px; max-height: 600px; overflow: hidden; width: 300px; margin: auto;"]
 fcinternews.it,pianetabasket.com,tuttopotenza.com,tuttoveneziasport.it##div[style="overflow: hidden; height: 250px; width: 300px; margin: auto;"]
 fcinternews.it,pianetabasket.com,tuttopotenza.com##div[style="overflow: hidden; height: 250px; width: 970px; margin: auto;"]
-interdipendenza.net##div[style="overflow: hidden; height: 280px; width: 336px; margin: auto;"]
+interdipendenza.net,notiziariocalcio.com##div[style="overflow: hidden; height: 280px; width: 336px; margin: auto;"]
 fcinternews.it,tuttopotenza.com##div[style="overflow: hidden; height: 600px; width: 160px; margin: auto;"]
 pianetabasket.com##div[style="overflow: hidden; height: 600px; width: 300px; margin: auto;"]
 fcinternews.it,interdipendenza.net,pianetabasket.com,tuttoveneziasport.it##div[style="overflow: hidden; height: 60px; width: 468px; margin: auto;"]

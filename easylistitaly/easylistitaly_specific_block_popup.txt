@@ -1,5 +1,6 @@
 ||altadefinizione.coach/4k/$popup
 ||avmagazine.it/advertise/$popup
 ||guardaserie.store/4k/$popup
+||ilgeniodellostreaming.cam/fake2/$popup
 ! about:blank popups
-/about:blank.*/$popup,domain=leggenditaloi.com
+/about:blank.*/$popup,domain=casacinema.work|guardaserie.biz|guardaserie.cam|ilgeniodellostreaming.cam|leggenditaloi.com

@@ -31,6 +31,7 @@
 ||algheroeco.com^*/BANNER960X30.
 ||algheroeco.com^*/SC-Costruzioni.
 ||alqamah.it/banners/
+||altadefinizione01.green^*/btn4k.
 ||altadefinizione01.green^*/btntorrent.png
 ||altadefinizione4k.stream/c.png
 ||altarimini.it/bannerBoxCatalog.php
@@ -98,6 +99,7 @@
 ||casaleoggi.it^*/banner-
 ||casaleoggi.it^*/banner/
 ||casateonline.it/public/banner/
+||cb001.xyz/iframe/
 ||cb01.events/imgc/b_
 ||cb01.events/imgc/side/s_
 ||cb01.run^*/button_
@@ -229,6 +231,7 @@
 ||gratisfree.it/cgi-bin/bannergest$script
 ||greenews.info/wp-content/banners/
 ||greenretail.it^*/LAND-
+||guardaserie.cam^*/bottone
 ||guardaserie.cam^*/btn_guarda
 ||guardaserie.cam^*/button
 ||guidaviaggi.it/banners/
@@ -252,7 +255,10 @@
 ||ilfattonisseno.it^*/gif-china.gif
 ||ilfoglio.it/js/bannerInterstitial.js
 ||ilgeniodellostreaming.cam^*/bnnr
+||ilgeniodellostreaming.cam^*/guarda.
+||ilgeniodellostreaming.cam^*/lato
 ||ilgeniodellostreaming.cam^*/ooBE1HG.png
+||ilgeniodellostreaming.cam^*/scarica.
 ||ilgeniodellostreaming.cam^*/YcijKef.png
 ||ilgiornaledabruzzo.it/wp-content/uploads/2013/05/Ai-Viali-Lanciano.png
 ||ilgiornaledellaprotezionecivile.it^*_banners/
@@ -598,8 +604,10 @@
 ||studio93.it^*798x90
 ||submission.it/banner/
 ||superscommesse.it^*/bannerquadrati/
+||tantifilm.guru^*/wsxhQH2QyPxFBhiByjd1hQ.gif
 ||tantifilm.rest^*/bannersca.png
 ||tantifilm.rest^*/wsxhQH2QyPxFBhiByjd1hQ.gif
+||tantifilmhd.com^*/player.jpg
 ||technologyreview.it/_media/_adv/
 ||teleborsa.it/FrameResources/4WTV/
 ||telecaprisport.it/banner/
@@ -749,6 +757,7 @@
 ||windows.net/specialeelezioni/$domain=altamuralive.it|barilive.it|barlettalive.it|bitontolive.it|cassanolive.it|coratolive.it|giovinazzolive.it|lavocedimanduria.it|ruvolive.it|santeramolive.it|terlizzilive.it
 ||wp.com^*/banner/$domain=cronacaflegrea.it
 ||wp.com^*/banners/$domain=proiezionidiborsa.it
+||wp.com^*/mahindra.png$domain=catanista.eu
 ||wp.com^*/p500-$domain=proiezionidiborsa.it
 ||wp.com^*Banner300x600.$domain=milanodabere.it
 ||youtg.net^*/cornice_
@@ -772,6 +781,6 @@
 @@||disquscdn.com^$script,domain=guardaserie.fit
 |https://$script,third-party,domain=guardaserie.fit
 ! (/sw.js)
-/^https?:\/\/.*\/.*sw[0-9._].*/$script,domain=dundi.it|pornototale.com
+/^https?:\/\/.*\/.*sw[0-9._].*/$script,domain=dundi.it|pornototale.com|skip.li
 ! webrtc ads
 $webrtc,domain=hentaisaturn.com|leggenditalia.com|leggenditaloi.com
