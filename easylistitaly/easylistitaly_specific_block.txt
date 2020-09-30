@@ -716,6 +716,7 @@
 ||valsassinanews.com^*-ANNUNCIO-
 ||valsassinanews.com^*-banner
 ||valsassinanews.com^*-MANCHETTE-
+||vanityfair.it^*/cn-banner.min.js?
 ||varesenews.it^*/banner/
 ||vendingnews.it/wp-content/uploads/angwp/items/
 ||venetogol.it//immagini/File_banner/
