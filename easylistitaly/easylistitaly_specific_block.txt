@@ -195,6 +195,7 @@
 ||focus-online.it/files/img_banner/
 ||fordfiestaitalia.com^*/sponsor/
 ||fortuneita.com^*/Banner
+||fortuneita.com^*300x250
 ||fortuneita.com^*900x90
 ||frasicelebri.it^*/amazonbuy.
 ||freeonline.it/img/newskin-
