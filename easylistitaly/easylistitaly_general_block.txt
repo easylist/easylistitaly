@@ -42,6 +42,7 @@
 /Publicita%CC%80-
 /repubblicaad.
 /separatore-pub.
+/Sfondopubbli_
 /sponsorizzate.
 /tiscali_ads.
 /tiscaliAds/*

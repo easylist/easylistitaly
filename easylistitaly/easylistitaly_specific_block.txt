@@ -219,6 +219,8 @@
 ||giornale.it^*/600x200px.
 ||giornaledimontesilvano.com/images/banners/
 ||giornalisti.vivere.srl^
+||giornalistitalia.it^*-banner-
+||giornalistitalia.it^*/banner_
 ||gnoccaforum.com^*/banners/
 ||gnoccatravels.com/files/banner
 ||gnoccatravels.com/files/pbblct
