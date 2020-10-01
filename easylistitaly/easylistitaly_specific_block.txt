@@ -695,6 +695,7 @@
 ||tuttocampo.it/Web/Images/Banners/
 ||tuttogratis.it/imgbanner/
 ||tuttogratis.it/js/tgsense_
+||tuttotone.app/assets/img/banner/
 ||tuttotrasporti.it^*/notizieSponsorizzate/
 ||tv2000.it^*/banner.
 ||tv2000.it^*/banner/
