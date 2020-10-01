@@ -6,6 +6,11 @@
 @@||adv.mediamond.it^*/tag_adv_mediamond.js$domain=105.net|r101.it|radiomontecarlo.net|virginradio.it
 @@||ansa.it^*/ad-gallery/$image
 @@||antonioranesi.it/cache/Lavori/Pubblicita/$~third-party
+@@||assets.evolutionadv.it/quantcast-fix.css$domain=money.it
+@@||assets.evolutionadv.it/violations/*.violations.js$domain=money.it
+@@||assets.evolutionadv.it^*/gpt.min.js$domain=money.it
+@@||assets.evolutionadv.it^*/optiload.min.js$domain=money.it
+@@||assets.evolutionadv.it^*/prebid.min.js$domain=money.it
 @@||carloneworld.it^*/tastixhumpp_b12_Pubblicita_Taroccate.png
 @@||carrozzeriabertazzoni.it/immagini/PUBBLICITA.gif
 @@||carrozzeriabertazzoni.it/pubblicita/
