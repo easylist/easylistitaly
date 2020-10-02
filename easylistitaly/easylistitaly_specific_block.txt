@@ -444,6 +444,7 @@
 ||occhionotizie.it^*_banner_
 ||oggiroma.it/public/banner/
 ||oipamagazine.it^*/euroservice.gif
+||oksiena.it/banner/
 ||oktennis.it^*/skin/
 ||olimpiamilano.com^*/sponsors/
 ||ondarock.it/skin/
