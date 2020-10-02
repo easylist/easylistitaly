@@ -452,7 +452,9 @@
 ||pablitoescort.com/images/banner/
 ||padovanews.it/images/banners/
 ||palermomania.com/images/banner/
+||palermomania.it/images/banner/
 ||palermomania.it/images/banner_
+||palermomania.it/images/informaticanetizen-formazione.jpg
 ||palermomania.it/public/banner/
 ||pallacanestrovarese.it^*/loghi-top/
 ||papaboys.org^*/banner-
