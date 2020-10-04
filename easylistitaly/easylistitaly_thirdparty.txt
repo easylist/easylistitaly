@@ -60,6 +60,7 @@
 ||gbtcdn.com^$domain=lantidiplomatico.it
 ||gelestatic.it^*/adv/
 ||gigacenter.it^$image,third-party
+||giphy.com^$domain=salernitananews.it
 ||gratislandia.net/banners/
 ||groupon.it/content-assembly/render/$subdocument,third-party
 ||guugol.it^*/banner/
