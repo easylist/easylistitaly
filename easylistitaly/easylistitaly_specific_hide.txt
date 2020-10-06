@@ -365,6 +365,7 @@ cuneodice.it,genovadice.it,italiadice.it,torinodice.it##.div_banner
 laleggepertutti.it##.div_topbanner
 ridble.com##.dn
 cronachedibirra.it##.e3lan125
+ilpaesenuovo.it##.e3lanat-layout-rotator
 affaritaliani.it##.eni
 masterviaggi.it##.fieldset_sponsor
 luinonotizie.it##.fixed-sponsor
