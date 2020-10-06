@@ -422,6 +422,7 @@
 ||napolicittasolidale.it^*/banner/
 ||napolimagazine.com^*/banner-
 ||nba24.it^*/banner-
+||nbnotizie.it^*/LoghiPUBBL/
 ||nerdplanet.it^*/banner.
 ||nerdplanet.it^*/batmanultimo2017.
 ||newscatania.com^*_Petrol-Company.
