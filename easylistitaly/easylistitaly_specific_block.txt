@@ -292,6 +292,7 @@
 ||ilsalvagente.it^*_Banner320x320-
 ||ilsalvagente.it^*_Banner320x320.
 ||ilsicilia.it/wp-content/banners/
+||ilsudonline.it^*/Jooble_
 ||ilvolo.it/images/banners/
 ||ilwebmaster21.it/script1.js
 ||imgpress.it^*/banner1bis
