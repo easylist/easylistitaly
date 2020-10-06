@@ -260,6 +260,7 @@
 ||ilfattonisseno.it^*/350x350_
 ||ilfattonisseno.it^*/gif-china.gif
 ||ilfoglio.it/js/bannerInterstitial.js
+||ilformat.info^*/banner_
 ||ilgeniodellostreaming.cam^*/bnnr
 ||ilgeniodellostreaming.cam^*/guarda.
 ||ilgeniodellostreaming.cam^*/lato
