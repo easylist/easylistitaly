@@ -599,6 +599,10 @@
 ||ship2shore.it^*/stripmobile/
 ||ship2shore.it^*_banner/
 ||sibarinet.it/images/banners/
+||siciliaoggi.com^*/banner-
+||siciliaoggi.com^*/pegaso-
+||siciliaoggi.com^*/pegaso.
+||siciliaoggi.com^*/pesch1.
 ||sienafree.it/images/banners/
 ||spoletonline.com/banner/
 ||sportpaper.it^*/PayFan-
