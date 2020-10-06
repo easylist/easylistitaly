@@ -66,6 +66,9 @@
 ||badtaste.it/file/amazon/
 ||balarm.it/attachment-web/
 ||bazar.it^*/banner/
+||bellunopress.it^*/Caaf-Cgil_
+||bellunopress.it^*/pub_
+||bellunopress.it^*/tecnosport-
 ||beneventocalcio.club/partners/
 ||bergamoesport.it^*/BANNER-
 ||bergamoesport.it^*/planetel.jpg
