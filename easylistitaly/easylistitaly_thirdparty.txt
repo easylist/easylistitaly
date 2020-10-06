@@ -86,6 +86,8 @@
 ||kataweb.it^*/negozi/$third-party
 ||kuko.it/banner.
 ||lacasadiriposo.it/images/banner/
+||lamescolanza.com^*/Logo_american_express-300x204.jpg
+||lamescolanza.com^*/unnamed.gif
 ||libreriadelsanto.it/banners/$third-party
 ||libreriauniversitaria.it/iframe_aff_$third-party
 ||linearadio.it/bnrs/
