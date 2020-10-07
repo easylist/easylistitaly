@@ -539,6 +539,8 @@ luinonotizie.it##.swiper-wrapper
 diventaretrader.com##.table-alm
 ilpost.it##.tag-sponsored
 ilprimatonazionale.it##.td-banner-bg
+edagricole.it##.td-banner-footer
+edagricole.it##.td-banner-wrap-full
 romagiallorossa.it##.td-container-header
 ilgiornaledeltermoidraulico.it,pescaracalcio.com##.td-footer-wrapper
 laspia.it,ragusah24.it##.td-header-sp-recs
