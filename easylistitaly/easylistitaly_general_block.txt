@@ -18,6 +18,7 @@
 /ajax/adv/?
 /altro/adv/*
 /annunciogoogle.
+/banners/ADV-
 /gfx/adv/*
 /immagini/adv_
 /inclusioni/adv/*
