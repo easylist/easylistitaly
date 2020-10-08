@@ -571,6 +571,8 @@
 ||romait.it/img/banners/
 ||romatoday.it/images/skin/
 ||rosalio.it^*/adv/
+||rovigooggi.it^*-300x600px.
+||rovigooggi.it^*/adv-
 ||salernonotizie.it/wp-content/banner/
 ||salernonotizie.it/wp-content/banner_
 ||salernonotizie.it/wp-content/skin/

@@ -91,6 +91,7 @@ mondoplay.it,mondoxbox.com###gameBlock_amazon
 mondoplay.it,mondoxbox.com###gameBlock_amazon_noboxart
 videogiocare.it###gp-affiliate-button
 mercatinomusicale.com###hdr_leaderboard
+rovigooggi.it###head-space
 cronachemaceratesi.it###head_sponsor
 beverfood.com###headbanner
 andriaviva.it,bariviva.it,barlettaviva.it,bisceglieviva.it,bitontoviva.it,canosaviva.it,cerignolaviva.it,coratoviva.it,giovinazzoviva.it,gravinalife.it,margheritaviva.it,minervinoviva.it,modugnoviva.it,molfettaviva.it,ruvoviva.it,sanferdinandoviva.it,spinazzolaviva.it,terlizziviva.it,traniviva.it,trinitapoliviva.it###header-banner
@@ -99,7 +100,10 @@ tempoitalia.it###headerBanner
 torinofc.it###headerSpazioSponsorLoghi
 dirittoegiustizia.it###header_giu_banner_dx
 sienafree.it###headerbanner
+rovigooggi.it###home-closeup-space
+rovigooggi.it###home-pbreak-space
 transfermarkt.it###home-rectangle-spotlight
+rovigooggi.it###home-super-space
 affaritaliani.it###immo-300x250
 cronacheancona.it,cronachemaceratesi.it###infooter
 sienafree.it###ja-banner300x250
@@ -126,6 +130,9 @@ mymovies.it###middle1_companion
 tusciaweb.eu###miesSPLASH
 eurogamer.it###mobile-leaderboard
 eurogamer.it###mobile-mpu
+rovigooggi.it###news-left-box
+rovigooggi.it###news-pretext-box
+rovigooggi.it###news-top-space
 mondoplay.it,mondoxbox.com###offersbox
 mondoplay.it,mondoxbox.com###offersbox_wide
 sassuolocalcio.it,ship2shore.it###partners
@@ -485,6 +492,7 @@ wikihow.it##.rr_container
 genova24.it,ivg.it,lacnews24.it##.sb-banner
 flashgames.it##.scheda_ppc
 puntocellulare.it##.schlnk
+rovigooggi.it##.sect-list-space
 atalanta.it##.section_sponsor
 excite.it##.serp-item
 bloopers.it##.shop
