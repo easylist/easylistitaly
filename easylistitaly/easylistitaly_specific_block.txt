@@ -682,6 +682,8 @@
 ||trend-online.com^*/button
 ||trentinotv.it/images/social/banner
 ||trentotoday.it/images/skin/
+||tribunapoliticaweb.sm^*_banner.
+||tribunapoliticaweb.sm^*_skin_
 ||triesteallnews.it^*-300x300-
 ||triesteallnews.it^*-banner300x300.
 ||triesteallnews.it^*/Banner_
