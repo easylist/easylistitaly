@@ -342,6 +342,7 @@ sscnapoli.it##.brand
 donnamoderna.com##.btn-offerte-amazon
 game-game.it##.btn-play
 piratestreaming.network##.btnaaa
+scaricarelibri.net##.button
 empolifc.com##.c-footer__sponsors-container
 radioinblu.it,tv2000.it##.cei-skin-side
 edilportale.com##.click-Skin
