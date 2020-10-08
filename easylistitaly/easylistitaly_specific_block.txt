@@ -707,9 +707,11 @@
 ||tusciaweb.eu^*/Cna-2017-Banner
 ||tusciaweb.eu^*/Coldiretti-gennaio-
 ||tusciaweb.eu^*/confartigianato.jpg
+||tusciaweb.eu^*/Digital-Fon-
 ||tusciaweb.eu^*/Ferri-Ford
 ||tusciaweb.eu^*/Ist.-J.J.Rousseau-
 ||tusciaweb.eu^*/Next-settembre-
+||tusciaweb.eu^*/Osteria-basilico-
 ||tusciaweb.eu^*/Regie-auto-
 ||tusciaweb.eu^*/Sindacato-USB-
 ||tusciaweb.eu^*/sistemaediliziaviterbo.gif
@@ -720,14 +722,7 @@
 ||tusciaweb.eu^*240x72
 ||tusciaweb.eu^*300x90
 ||tusciaweb.eu^*310x72
-||tusciaweb.eu^*336x-107
-||tusciaweb.eu^*336x100
-||tusciaweb.eu^*336x200
-||tusciaweb.eu^*336x300
-||tusciaweb.eu^*336x40
-||tusciaweb.eu^*336x45
-||tusciaweb.eu^*336x457
-||tusciaweb.eu^*336x600
+||tusciaweb.eu^*336x
 ||tusciaweb.eu^*45x415
 ||tusciaweb.eu^*480x150
 ||tusciaweb.eu^*480x200
