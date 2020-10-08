@@ -463,6 +463,8 @@
 ||ondanovara.it^*_banner_
 ||ondarock.it/skin/
 ||ostiatv.it/upl/banner
+||ottofm.com^*/banner-
+||ottofm.com^*_banner.
 ||pablitoescort.com/images/banner/
 ||padovanews.it/images/banners/
 ||palermomania.com/images/banner/
