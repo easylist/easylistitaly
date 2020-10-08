@@ -549,8 +549,13 @@
 ||radioluna.it^*/simeone-24-
 ||radiomarte.it/site/images/sponsor/
 ||radiomarte.it^*_Banner_
+||radiomillennium.it/images/divanova-
+||radiomillennium.it/images/miauto.
+||radiomillennium.it/images/multisala-
+||radiomillennium.it/images/rexboit
+||radiomillennium.it/images/tirloni-
 ||radiomillennium.it^*-banner-
-||radiomillennium.it^*/banner-
+||radiomillennium.it^*/banner
 ||radiomillennium.it^*/tuttiautopezzi_
 ||radionorba.it/sp/flash/banner-
 ||radionostalgia.fm^*/emmerent_
