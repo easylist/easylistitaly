@@ -460,6 +460,7 @@
 ||oksiena.it/banner/
 ||oktennis.it^*/skin/
 ||olimpiamilano.com^*/sponsors/
+||ondanovara.it^*_banner_
 ||ondarock.it/skin/
 ||ostiatv.it/upl/banner
 ||pablitoescort.com/images/banner/
