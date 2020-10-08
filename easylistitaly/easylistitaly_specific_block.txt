@@ -228,6 +228,7 @@
 ||giornale.it^*/300x250px.
 ||giornale.it^*/600x200px.
 ||giornaledimontesilvano.com/images/banners/
+||giornaleradio.fm^*/320x25_
 ||giornalisti.vivere.srl^
 ||giornalistitalia.it^*-banner-
 ||giornalistitalia.it^*/banner_
