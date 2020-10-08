@@ -643,6 +643,7 @@
 ||telecaprisport.it^*Banner-290x400.
 ||telefonino.net^*/justearntn.js
 ||teleromagna24.it/public/banners/
+||teleromagna24.it^*/skin_
 ||telestense.it/wp-content/banners/
 ||tempoitalia.it/banner/
 ||tenews.it/banner/
