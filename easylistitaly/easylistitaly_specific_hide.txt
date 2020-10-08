@@ -191,6 +191,7 @@ tipiace.it###vetrina
 altarimini.it###videoRedazionale
 nerdplanet.it###wallpaper
 transfermarkt.it###werbung_superbanner
+sscalciobari.it###wl-sponsor
 animeclick.it###wrapper
 corriere.it###yoodeal
 corriere.it###yoodeal2
