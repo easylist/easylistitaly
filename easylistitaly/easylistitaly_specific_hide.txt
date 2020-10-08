@@ -221,7 +221,7 @@ tusciaweb.eu##.ad-article
 laltrapagina.it##.ad1
 laltrapagina.it##.ad5
 theitaliantimes.it##.adb
-24emilia.com,autoscout24.ch,brocardi.it,cb01.online,gamemag.it,hdblog.it,ilgeniodellostreaming.rest,ilikepuglia.it,teleborsa.it,viamichelin.ch,viamichelin.it##.ads
+24emilia.com,autoscout24.ch,brocardi.it,cb01.online,filmpertutti.onl,gamemag.it,hdblog.it,ilgeniodellostreaming.rest,ilikepuglia.it,teleborsa.it,viamichelin.ch,viamichelin.it##.ads
 ildolomiti.it##.adsB
 chistachiamando.it,pcprofessionale.it##.adsense
 adessoin.tv,allaguida.it,amica.it,ansa.it,buttalapasta.it,calciomercato.com,curioctopus.it,dissapore.com,forbes.it,gelocal.it,gianlucadimarzio.com,gta-expert.it,ilfattoquotidiano.it,ilpost.it,ilsole24ore.com,latina24ore.it,mediaset.it,movieplayer.it,multiplayer.it,nanopress.it,pourfemme.it,prealpina.it,radioindiretta.fm,repubblica.it,salepepe.it,skuola.net,staffettaonline.com,stylosophy.it,supereva.it,virgilio.it,vocenuova.tv##.adv
@@ -451,6 +451,7 @@ virgilio.it##.newboxIs
 virgilio.it##.newboxIsOrizz
 ansa.it##.news-special-box
 obiettivonews.it##.nivo-imageLink
+filmpertutti.onl##.no_pop
 ilpiccolo.net##.nocornice_banner
 everyeye.it##.nome_gioco_amazon_destra
 tuttotrasporti.it##.notizieSponsorizzate
@@ -627,6 +628,7 @@ pallacanestrocantu.com##a[href*="/trackingsponsor.aspx?"]
 cartaricaricabile.net##a[href*="/vai/"]
 altadefinizione01.green,cb01.run,cineblog01.love,filmsenzalimiti.love,guardaserie.cam,ilgeniodellostreaming.cam##a[href*="/vedo4k.php"]
 altadefinizione.sh##a[href*="/view.php?"]
+filmpertutti.onl##a[href*="/vss/"]
 birramoriamoci.it##a[href*="?affiliates="]
 gnoccatravels.com,juzaphoto.com,lavorincasa.it,mangaforever.net,milanofinanza.it##a[href*="?utm_"]
 voglioporno.com##a[href*="?utm_campaign="]
