@@ -171,7 +171,7 @@ giornalistitalia.it###text-30
 giornalistitalia.it,viterbopost.it###text-34
 viterbopost.it###text-35
 giornalistitalia.it###text-36
-giornalistitalia.it###text-38
+giornalistitalia.it,ilgiornaledeiveronesi.it###text-38
 birramoriamoci.it,vigamusmagazine.com###text-4
 giornalistitalia.it###text-40
 giornalistitalia.it###text-41
