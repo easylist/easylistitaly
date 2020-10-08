@@ -431,7 +431,7 @@ erbanotizie.com,noinotizie.it##.manchette-sx
 24emilia.com##.marquee0
 ecoo.it##.masterhead-container-column
 sportivissimo.com##.menu4
-newslinet.com,tvcity.it##.metaslider
+ecoaltomolise.net,newslinet.com,tvcity.it##.metaslider
 automoto.it,moto.it##.mit-skin-spacer
 altamuralive.it,barilive.it,barlettalive.it,bisceglielive.it,bitontolive.it,cassanolive.it,coratolive.it,giovinazzolive.it,lavocedimanduria.it,okfirenze.com,okmugello.it,okvaldisieve.it,ruvolive.it,santeramolive.it,terlizzilive.it,termolionline.it,unicosettimanale.it##.mkt-300x250
 altamuralive.it,barilive.it,barlettalive.it,bisceglielive.it,bitontolive.it,cassanolive.it,coratolive.it,giovinazzolive.it,lavocedimanduria.it,okfirenze.com,okmugello.it,okvaldisieve.it,ruvolive.it,santeramolive.it,terlizzilive.it,termolionline.it,unicosettimanale.it##.mkt-300x60

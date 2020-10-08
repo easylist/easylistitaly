@@ -162,6 +162,8 @@
 ||djmagitalia.com^*_skin_
 ||earone.it/themes/banner/
 ||earone.it/themes/images/btn_itunes.png
+||ecoaltomolise.net^*/Banner-
+||ecoaltomolise.net^*/xbanner-
 ||ecodallecitta.it/immagini/banners/
 ||edilportale.com/Banner/
 ||edilportale.com/immagini/velux_manchette
