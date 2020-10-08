@@ -590,6 +590,7 @@
 ||sanmarinofixing.com/smfixing/images/banners/
 ||sanremonews.it^*/banner/
 ||sanremonews.it^*/box/
+||sardegnareporter.it^*/Sea-Lounge-Club-Cala-Spinosa-
 ||sassarinotizie.com^*-banner125x125.gif
 ||sassuolo2000.it/bnrs/
 ||sassuolocalcio.it^*/partners/
