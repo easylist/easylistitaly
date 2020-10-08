@@ -9,6 +9,7 @@
 .it/adv/
 .it/adv_
 /adagioadv_
+/ads-fissi/*
 /adv/codice_
 /adv_s_pirchio.
 /advpirchio.
