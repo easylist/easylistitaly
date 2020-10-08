@@ -385,7 +385,7 @@ chievoverona.it,hellasverona.it##.footer-sponsor
 acspezia.com,bresciacalcio.it,cagliaricalcio.com##.footer-sponsors
 quattroruote.it##.four-box-sponsor
 quattroruote.it##.fullBanner
-bolognaindiretta.it,buttanissima.it,corrieresalentino.it,gazzettadasti.it,ilfattonisseno.it,ilsicilia.it,informazioneonline.it,latina24ore.it,lavalsusa.it,lavocedeltrentino.it,modenaindiretta.it,qds.it,quicosenza.it,reggionline.com,reportmotori.it,rietinvetrina.it,rivistastudio.com,ticinonotizie.it##.g
+bolognaindiretta.it,buttanissima.it,corrieresalentino.it,gazzettadasti.it,ilfattonisseno.it,ilsicilia.it,informazioneonline.it,latina24ore.it,lavalsusa.it,lavocedeltrentino.it,modenaindiretta.it,qds.it,quicosenza.it,reggionline.com,reportmotori.it,rietinvetrina.it,rivistastudio.com,telebari.it,ticinonotizie.it##.g
 agendadigitale.eu##.gallery-container-home
 3bmeteo.com##.gpt_top
 fanta.soccer,fiscomania.com,money.it##.gptslot
