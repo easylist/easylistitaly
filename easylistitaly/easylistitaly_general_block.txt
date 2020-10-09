@@ -20,6 +20,7 @@
 /altro/adv/*
 /annunciogoogle.
 /banners/ADV-
+/generici/ads-
 /gfx/adv/*
 /immagini/adv_
 /inclusioni/adv/*
