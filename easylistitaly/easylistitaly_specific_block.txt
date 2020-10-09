@@ -546,6 +546,7 @@
 ||radiogold.it/images/banners/
 ||radiogold.it^*/Banner-
 ||radiogold.it^*/banner/
+||radiogold.it^*/foral-
 ||radioinblu.it^*/skin/
 ||radiolaquila1.it^*/asimar-
 ||radiolaquila1.it^*/mei-
