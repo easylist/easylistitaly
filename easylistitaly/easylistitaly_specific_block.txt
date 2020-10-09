@@ -768,6 +768,7 @@
 ||uominietrasporti.it^*/Auto-doc.
 ||uscatanzaro.net^*/motordoctor.
 ||uscremonese.it^*/sponsor/
+||usercontent.one/wp/www.immaginevalsassina.com/*/FARMACIA-F.G.S.
 ||ussalernitana1919.it^*-banner-
 ||valenza.it/banner/
 ||valledaostaglocal.it^*/box/
