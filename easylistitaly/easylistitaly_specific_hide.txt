@@ -36,7 +36,6 @@ cronachedibirra.it###banner_in-article
 cronachedibirra.it###banner_in-article_adv
 subito.it###banner_leaderboard
 notiziediprato.it###banner_strip
-salernonotizie.it###banner_testa
 gruppovideomedia.it###banner_top
 fiorentinanews.com###banneralto
 frasimania.it###bannerpop
@@ -76,6 +75,10 @@ virgilio.it###cont-leaderboard
 virgilio.it###cont-manchette
 dilei.it,quifinanza.it,siviaggia.it,supereva.it,virgilio.it###cont-wallpaper
 autoseller.it###ctl00_ContentCentraleBanner
+tefchannel.it###ctl00_cphBody_mcsBannerShortBottom_pnlSlot
+tefchannel.it###ctl00_cphBody_mcsBannerShortTop_pnlSlot
+tefchannel.it###ctl00_cphBody_mcsSlotBannerBottom_rptGallery_ctl00_lnkLink
+tefchannel.it###ctl00_cphBody_mcsSlotBannerTop_rptGallery_ctl01_lnkLink
 teleborsa.it###ctl00_if4WTV300x250
 birramoriamoci.it###custom_html-2
 strill.it###custom_html-25
