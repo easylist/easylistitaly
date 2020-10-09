@@ -658,6 +658,8 @@
 ||teleborsa.it/FrameResources/4WTV/
 ||telecaprisport.it/banner/
 ||telecaprisport.it^*Banner-290x400.
+||telecitynews24.it^*/AMARO-PERUZZO-
+||telecitynews24.it^*/telecity-ad-platform/
 ||telefonino.net^*/justearntn.js
 ||teleromagna24.it/public/banners/
 ||teleromagna24.it^*/skin_
