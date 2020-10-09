@@ -491,6 +491,7 @@
 ||piemonteoggi.it^*/banner/
 ||piratestreaming.eu/vip/img/tad
 ||pisachannel.tv^*/Toscana-Aeroporti-
+||piuvallitv.it^*/sponsors/
 ||poliziamunicipale.it/script/getbnr.aspx?
 ||prealpina.it/js/manzoni_interna.js
 ||primapaginamolise.it/banner/
