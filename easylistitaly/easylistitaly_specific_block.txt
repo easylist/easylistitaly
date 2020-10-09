@@ -670,6 +670,11 @@
 ||telecitynews24.it^*/AMARO-PERUZZO-
 ||telecitynews24.it^*/telecity-ad-platform/
 ||telefonino.net^*/justearntn.js
+||telegenova.net/a.png
+||telegenova.net/banner_
+||telegenova.net/gruppo_spinelli.jpg
+||telegenova.net/images/unnamed.png
+||telegenova.net/unige.gif
 ||teleromagna24.it/public/banners/
 ||teleromagna24.it^*/skin_
 ||telesettelaghi.com^*/finestre-e-finestre.
