@@ -1,6 +1,8 @@
 ||0-100.it^*/banner-
 ||24emilia.com^*banner
 ||3bmeteo.com^*/promo/
+||51news.it/images/banners/
+||51news.it/images/banners_
 ||7per24.it^*/sponsor/
 ||a.trend-online.it^
 ||abruzzolive.it^*/1300x200.gif
