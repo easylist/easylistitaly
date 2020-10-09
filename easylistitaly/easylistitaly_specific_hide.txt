@@ -370,7 +370,7 @@ automoto.it,moto.it##.crm-unit-bx2
 automoto.it,moto.it##.crm-unit-bx3
 automoto.it,moto.it##.crm-unit-bx4
 automoto.it,moto.it##.crm-unit-mh
-radionorba.it##.custom_banners_big_link
+piacenza24.eu,radionorba.it##.custom_banners_big_link
 fiorentinanews.com##.destra_banner
 flashscore.it##.detail-bonus-match-summary-content-inner
 blastingnews.com##.dfp-mobile-leadeboard
