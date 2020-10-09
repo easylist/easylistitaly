@@ -542,6 +542,7 @@
 ||quotidianodellumbria.it^*/skin-
 ||quotidianodellumbria.it^*_300x250px-
 ||radioamore.it^*/banners/
+||radioautmarche.it^*/banner_
 ||radiocantu.com^*-260x260-
 ||radiogold.it/images/banners/
 ||radiogold.it^*/Banner-
