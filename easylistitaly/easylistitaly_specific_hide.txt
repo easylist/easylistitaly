@@ -270,6 +270,7 @@ welfarenetwork.it##.banner-468-hp
 parmareport.it##.banner-big
 cuneocronaca.it,giochixl.it,lacrocequotidiano.it,mtv.it##.banner-container
 genova24.it##.banner-elezioni
+bluvolleyverona.it##.banner-fading
 algheroeco.com##.banner-header-dx
 algheroeco.com##.banner-header-sx
 ebikecult.it,mtbcult.it##.banner-homepage-slider-728-90
@@ -285,6 +286,7 @@ frasimania.it##.banner-top
 edilportale.com##.banner-velux
 milanofinanza.it##.banner-video
 telegranducato.it##.banner-wrap
+bluvolleyverona.it##.banner-wrapper
 affaritaliani.it##.banner234Eni
 erbanotizie.com##.banner234x60-right
 fotografidigitali.it,hwupgrade.it,tvtech.it##.banner300x250
@@ -384,7 +386,7 @@ luinonotizie.it##.fixed-sponsor
 udinese.it##.foobar-sponsor
 lega-pro.com##.footer-partner
 genoacfc.it##.footer-partner-link
-chievoverona.it,hellasverona.it##.footer-sponsor
+bluvolleyverona.it,chievoverona.it,hellasverona.it##.footer-sponsor
 acspezia.com,bresciacalcio.it,cagliaricalcio.com##.footer-sponsors
 palermofc.com##.footer_int
 quattroruote.it##.four-box-sponsor
