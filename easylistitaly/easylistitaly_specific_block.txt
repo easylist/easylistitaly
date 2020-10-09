@@ -379,6 +379,7 @@
 ||lospiffero.com/utils/add_popup_functions.js
 ||lostrillone.tv/foto-banner/
 ||lultimaribattuta.it^*/franca.jpg
+||macitynet.it^*/macitybig
 ||maidireborsa.it^*/image004-
 ||mail.tiscali.it^*/advlib.js
 ||mammedomani.it/images/banners/

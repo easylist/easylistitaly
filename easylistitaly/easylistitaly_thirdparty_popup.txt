@@ -16,3 +16,4 @@
 ||tracking.style24.it^$popup,third-party
 ||tracking.tuobenessere.it^$popup,third-party
 ||tracking.viaggiamo.it^$popup,third-party
+||trendevice.com/?utm_$popup,domain=macitynet.it
