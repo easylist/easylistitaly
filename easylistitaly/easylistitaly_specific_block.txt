@@ -1,5 +1,7 @@
 ||0-100.it^*/banner-
 ||24emilia.com^*banner
+||2duerighe.com^*-Vanilla-Notes.
+||2duerighe.com^*/ALTEA-
 ||3bmeteo.com^*/promo/
 ||51news.it/images/banners/
 ||51news.it/images/banners_
