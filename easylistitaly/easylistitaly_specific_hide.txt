@@ -274,6 +274,7 @@ algheroeco.com##.banner-header-dx
 algheroeco.com##.banner-header-sx
 ebikecult.it,mtbcult.it##.banner-homepage-slider-728-90
 italiafruit.net##.banner-i
+cremona1.it##.banner-inner
 italiafruit.net##.banner-m
 umbria24.it##.banner-show-desktop
 leccesette.it##.banner-side
