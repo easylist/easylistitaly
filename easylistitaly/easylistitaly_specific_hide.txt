@@ -281,6 +281,7 @@ ebikecult.it,mtbcult.it##.banner-homepage-slider-728-90
 italiafruit.net##.banner-i
 cremona1.it##.banner-inner
 italiafruit.net##.banner-m
+radiotoscana.it##.banner-radio
 umbria24.it##.banner-show-desktop
 leccesette.it##.banner-side
 digital-news.it##.banner-sidebar

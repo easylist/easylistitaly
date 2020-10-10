@@ -614,6 +614,10 @@
 ||radiosportiva.com/foto/grandi/20-1.jpg
 ||radiosportiva.com/foto/grandi/banner_
 ||radiosportiva.com/foto/grandi/Elsynet-
+||radiotoscana.it^*-banner-
+||radiotoscana.it^*/Banner-
+||radiotoscana.it^*/Bernina-
+||radiotoscana.it^*_banner_
 ||ragusah24.it^*/cornice-
 ||ragusanews.com//immagini_banner/
 ||ragusanews.com/images_banner/
