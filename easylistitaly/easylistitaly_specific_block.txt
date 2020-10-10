@@ -379,6 +379,8 @@
 ||ligurianautica.com^*-300x250px.
 ||ligurianautica.com^*-728x90px.
 ||ligurianautica.com^*/bn-
+||lineauno.it^*/300x300_
+||lineauno.it^*/estrawebluce_
 ||lipari.biz/banners/
 ||livorno24.com^*/carrozzeria-Marsili.png
 ||livorno24.com^*/CG-infissi.bmp
