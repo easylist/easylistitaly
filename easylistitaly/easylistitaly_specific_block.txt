@@ -619,6 +619,7 @@
 ||rosalio.it^*/adv/
 ||rovigooggi.it^*-300x600px.
 ||rovigooggi.it^*/adv-
+||rsd.it/wp-content/banners/
 ||salernonotizie.it/wp-content/banner/
 ||salernonotizie.it/wp-content/banner_
 ||salernonotizie.it/wp-content/skin/

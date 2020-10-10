@@ -393,6 +393,7 @@ lega-pro.com##.footer-partner
 genoacfc.it##.footer-partner-link
 bluvolleyverona.it,chievoverona.it,hellasverona.it##.footer-sponsor
 acspezia.com,bresciacalcio.it,cagliaricalcio.com##.footer-sponsors
+rsd.it##.footer__widgets
 palermofc.com##.footer_int
 quattroruote.it##.four-box-sponsor
 quattroruote.it##.fullBanner
