@@ -874,6 +874,7 @@
 ||windows.net/banner/$domain=lavocedimanduria.it
 ||windows.net/banners/$domain=freshplaza.it
 ||windows.net/specialeelezioni/$domain=altamuralive.it|barilive.it|barlettalive.it|bitontolive.it|cassanolive.it|coratolive.it|giovinazzolive.it|lavocedimanduria.it|ruvolive.it|santeramolive.it|terlizzilive.it
+||wp.com/www.1web.tv/*/VISITA-IL-SITO-
 ||wp.com^*/banner-$domain=ilgiornaledeiveronesi.it
 ||wp.com^*/banner/$domain=cronacaflegrea.it
 ||wp.com^*/banners/$domain=proiezionidiborsa.it
