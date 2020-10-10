@@ -484,6 +484,7 @@
 ||notiziediprato.it/caricaBannerIframe/
 ||notiziediprato.it/uploads/banner/
 ||notizieoggi.com^*_banner.
+||ntimedia.it^*_banner_
 ||nuovosud.it/sites/default/files/box-
 ||nuovosud.it/sites/default/files/skin-
 ||nuovosud.it^*/banner/
