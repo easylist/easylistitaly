@@ -104,6 +104,7 @@
 ##.ads_topsx
 ##.adsbyawcloud
 ##.adv-articolo
+##.adv-banner-wrap
 ##.adv-cnt
 ##.adv-footer-kauppa
 ##.adv-iframe-sx
