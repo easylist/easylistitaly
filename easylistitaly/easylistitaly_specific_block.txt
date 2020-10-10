@@ -380,6 +380,17 @@
 ||ligurianautica.com^*-728x90px.
 ||ligurianautica.com^*/bn-
 ||lipari.biz/banners/
+||livorno24.com^*/carrozzeria-Marsili.png
+||livorno24.com^*/CG-infissi.bmp
+||livorno24.com^*/CRAS.jpg
+||livorno24.com^*/Donkey-Kong.png
+||livorno24.com^*/Farmacia-Pierini-
+||livorno24.com^*/I-Faraoni.png
+||livorno24.com^*/IMG-20170301-
+||livorno24.com^*/Leon.png
+||livorno24.com^*/logo-carr-Roma-
+||livorno24.com^*/Pausa-Caff%C3%A8-Livorno.jpg
+||livorno24.com^*/Pierini-Farmacia.jpg
 ||livornolive.it^*/slider.
 ||livornopress.it^*/banner-
 ||livornopress.it^*/SCOPRI-DI-PIU-IES-
