@@ -502,6 +502,7 @@
 ||pisachannel.tv^*/Toscana-Aeroporti-
 ||piuvallitv.it^*/sponsors/
 ||poliziamunicipale.it/script/getbnr.aspx?
+||portaledelverde.it/upload/banner/
 ||prealpina.it/js/manzoni_interna.js
 ||primapaginamolise.it/banner/
 ||professionemotori.it/wp-content/uploads/williamHillbox.png
