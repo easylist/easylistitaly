@@ -748,6 +748,7 @@
 ||torinotoday.it/images/skin/
 ||toscanagol.it/immagini/File_banner/
 ||toscanamedianews.it^*/skin/
+||toscanatv.it^*/BANNER-
 ||tp24.it/immagini_banner/
 ||tp24.it/library/_popup_banner.php
 ||trapaniok.it/public/banner/
