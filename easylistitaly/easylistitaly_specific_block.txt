@@ -671,6 +671,8 @@
 ||tantifilm.rest^*/wsxhQH2QyPxFBhiByjd1hQ.gif
 ||tantifilmhd.com^*/player.jpg
 ||technologyreview.it/_media/_adv/
+||teleambiente.it^*/Banner-
+||teleambiente.it^*/gamadi.jpg
 ||telebari.it^*/diablocks-
 ||teleborsa.it/FrameResources/4WTV/
 ||telecaprisport.it/banner/
