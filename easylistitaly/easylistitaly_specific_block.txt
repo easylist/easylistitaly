@@ -523,6 +523,13 @@
 ||piemonteoggi.it^*/banner-
 ||piemonteoggi.it^*/banner/
 ||piratestreaming.eu/vip/img/tad
+||pisa24.info^*/baffo-matto.jpg
+||pisa24.info^*/emmepi-auto.jpg
+||pisa24.info^*/Farmacia-Pierini.jpg
+||pisa24.info^*/logo-newstemat.jpg
+||pisa24.info^*/Made-in-Canapa.png
+||pisa24.info^*/NEWSTEMAT.jpg
+||pisa24.info^*/pausa-caff%C3%A8.jpg
 ||pisachannel.tv^*/Toscana-Aeroporti-
 ||piuvallitv.it^*/sponsors/
 ||poliziamunicipale.it/script/getbnr.aspx?
