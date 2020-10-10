@@ -517,6 +517,7 @@ leccesette.it##.skin-desktop
 primopianomolise.it##.skin_bg_left
 primopianomolise.it##.skin_bg_right
 iovivoaroma.org##.skin_link_top
+atvreport.it##.skinlink
 tiscali.it##.sky-n
 gioco.it##.skyscraper
 uslecce.it##.slick-track
