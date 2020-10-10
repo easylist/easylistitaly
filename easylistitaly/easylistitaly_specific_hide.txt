@@ -367,6 +367,7 @@ frasimania.it##.content-banner
 cookist.it,fanpage.it##.content-leaderboard
 salernonotizie.it##.contskin
 ilpiccolo.net##.cornice_banner
+cineblog01.love##.cover-button
 giochi.it##.cpx-content
 ilmeteo.net##.creatividad
 automoto.it,moto.it##.crm-unit-bx1
