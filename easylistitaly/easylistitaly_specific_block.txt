@@ -586,6 +586,7 @@
 ||radioautmarche.it^*/banner_
 ||radioblu.com/img/colonna_dx/
 ||radiocantu.com^*-260x260-
+||radiofly.cloud^*/Estra_
 ||radiogold.it/images/banners/
 ||radiogold.it^*/Banner-
 ||radiogold.it^*/banner/
