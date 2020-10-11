@@ -168,6 +168,7 @@
 ||djmagitalia.com^*-banner-
 ||djmagitalia.com^*/BANNER_
 ||djmagitalia.com^*_skin_
+||e-tv.it^*/banner-
 ||earone.it/themes/banner/
 ||earone.it/themes/images/btn_itunes.png
 ||ecoaltomolise.net^*/Banner-
