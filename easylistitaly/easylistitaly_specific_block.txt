@@ -753,6 +753,7 @@
 ||tiscali.it/amazon/
 ||tiscali.it/planner/
 ||tiscali.it^*/comparasemplice.
+||tmwradio.com^*/banner/
 ||torinoerotica.com/banner/
 ||torinofc.it^*/header_loghi/
 ||torinofc.it^*/sponsor/
