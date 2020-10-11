@@ -89,6 +89,7 @@ ecodicaserta.it###down
 tipiace.it###externalbanner
 calciomercato.com###float-sidebar-inner
 ascittadella.it,violachannel.tv###footer-sponsor
+gogoterme.com###frm
 ilcap.it###gadsense
 mondoplay.it,mondoxbox.com###gameBlock_amazon
 mondoplay.it,mondoxbox.com###gameBlock_amazon_noboxart
