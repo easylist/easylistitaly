@@ -231,6 +231,7 @@ ildolomiti.it##.adsB
 chistachiamando.it,pcprofessionale.it##.adsense
 adessoin.tv,allaguida.it,amica.it,ansa.it,buttalapasta.it,calciomercato.com,curioctopus.it,dissapore.com,forbes.it,gelocal.it,gianlucadimarzio.com,gta-expert.it,ilfattoquotidiano.it,ilpost.it,ilsole24ore.com,latina24ore.it,mediaset.it,movieplayer.it,multiplayer.it,nanopress.it,pourfemme.it,prealpina.it,radioindiretta.fm,repubblica.it,salepepe.it,skuola.net,staffettaonline.com,stylosophy.it,supereva.it,virgilio.it,vocenuova.tv##.adv
 rbe.it##.adv-section
+radiocittadelcapo.it##.adv-space
 quattroruote.it##.adv-wrap
 virgilio.it##.advTuning
 corrierecomunicazioni.it,ilsussidiario.net##.adv_container
