@@ -453,6 +453,7 @@
 ||mio-ip.eu^*/offerte-amazon-
 ||miotv.it/public/componenti/
 ||mobimart.it/ban.
+||modenaindiretta.it/yb-modenaindirettait.js
 ||mole24.it^*-skin-
 ||mole24.it^*/skin-
 ||momentosera.it/bannerupload/
