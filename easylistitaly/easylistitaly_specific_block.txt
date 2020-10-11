@@ -635,6 +635,7 @@
 ||reggina1914.it^*/sponsor-
 ||reggioemiliameteo.it^*-sponsor/
 ||reggioemiliameteo.it^*/banner/
+||reggionline.com/yb-reggionlinecom.js
 ||reggiotv.it/immagini/banner/
 ||reportmotori.it^*/Banner_
 ||repubblica.it/ad/
