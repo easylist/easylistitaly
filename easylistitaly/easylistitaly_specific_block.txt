@@ -735,6 +735,7 @@
 ||telegenova.net/gruppo_spinelli.jpg
 ||telegenova.net/images/unnamed.png
 ||telegenova.net/unige.gif
+||telenord.it/img/uploads/banners/
 ||teleromagna24.it/public/banners/
 ||teleromagna24.it^*/skin_
 ||telesettelaghi.com^*/finestre-e-finestre.
