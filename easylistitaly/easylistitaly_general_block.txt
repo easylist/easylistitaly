@@ -30,6 +30,7 @@
 /mediamondads.
 /pubbl_vert.
 /pubblicit%c3%a0/*
+/pubblicita%CC%80-
 /pubblicita-
 /pubblicita.
 /pubblicita/*
