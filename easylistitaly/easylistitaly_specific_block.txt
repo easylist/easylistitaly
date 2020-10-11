@@ -590,6 +590,7 @@
 ||radiogold.it^*/banner/
 ||radiogold.it^*/foral-
 ||radioinblu.it^*/skin/
+||radioitaliacina.com/images/banners/
 ||radiolaquila1.it^*/asimar-
 ||radiolaquila1.it^*/mei-
 ||radioluna.it/news/banner/
