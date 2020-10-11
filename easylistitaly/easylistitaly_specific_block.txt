@@ -892,6 +892,7 @@
 ||wp.com/www.giornaledicalabria.it/*/Affidato-orafo-
 ||wp.com/www.giornaledicalabria.it/*/Sorical.gif
 ||wp.com/www.tsdtv.it/*/300x300-
+||wp.com/www.zerosette.it/*/bella-venezia.png
 ||wp.com^*/675x238-$domain=tv9italia.it
 ||wp.com^*/banner-$domain=giornaledicalabria.it|ilgiornaledeiveronesi.it
 ||wp.com^*/banner/$domain=cronacaflegrea.it
@@ -900,6 +901,8 @@
 ||wp.com^*/p500-$domain=proiezionidiborsa.it
 ||wp.com^*Banner300x600.$domain=milanodabere.it
 ||youtg.net^*/cornice_
+||zerosette.it^*/zero_davighi.
+||zerosette.it^*_banner_
 ! Citynews
 /traffico//banner/*
 /~vda/*/*.php/*
