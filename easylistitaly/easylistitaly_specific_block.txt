@@ -317,6 +317,7 @@
 ||imgpress.it^*/banner2
 ||imgpress.it^*/banner3
 ||imgpress.it^*/Pubbl-
+||informa-press.it^*/banner-
 ||informacalcio.it/banner/
 ||informazioneonline.it/wp-content/banners/
 ||inside.bz.it/images/banners/
