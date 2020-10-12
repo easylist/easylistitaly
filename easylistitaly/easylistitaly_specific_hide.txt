@@ -36,7 +36,7 @@ cronachedibirra.it###banner_in-article
 cronachedibirra.it###banner_in-article_adv
 subito.it###banner_leaderboard
 notiziediprato.it###banner_strip
-gruppovideomedia.it###banner_top
+gruppovideomedia.it,radiovalbelluna.it###banner_top
 fiorentinanews.com###banneralto
 frasimania.it###bannerpop
 siracusanews.it###banners-top
