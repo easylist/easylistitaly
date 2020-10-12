@@ -592,6 +592,8 @@
 ||quotidianodellumbria.it^*/skin-
 ||quotidianodellumbria.it^*_300x250px-
 ||radioamore.it^*/banners/
+||radioanaunia.it^*/beauty_ninfea_
+||radioanaunia.it^*/final-
 ||radioautmarche.it^*/banner_
 ||radioblu.com/img/colonna_dx/
 ||radiocantu.com^*-260x260-
