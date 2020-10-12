@@ -258,6 +258,7 @@
 ||greenews.info/wp-content/banners/
 ||greenretail.it^*/LAND-
 ||gruppotv7.com/img/banner/
+||gruppovideomedia.it/banners/
 ||guardaserie.cam^*/bottone
 ||guardaserie.cam^*/btn_guarda
 ||guardaserie.cam^*/button
