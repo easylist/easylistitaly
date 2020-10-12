@@ -214,6 +214,7 @@
 ||fmtv.live^*-banner-
 ||focus-online.it/files/banner/
 ||focus-online.it/files/img_banner/
+||foggiacittaaperta.it/images/banner/
 ||fordfiestaitalia.com^*/sponsor/
 ||fortuneita.com^*/Banner
 ||fortuneita.com^*300x250
