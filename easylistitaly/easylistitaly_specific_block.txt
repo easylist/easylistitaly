@@ -732,6 +732,8 @@
 ||telecitynews24.it^*/AMARO-PERUZZO-
 ||telecitynews24.it^*/telecity-ad-platform/
 ||telefonino.net^*/justearntn.js
+||telefriuli.it/writable/images/Maracaiba_
+||telefriuli.it/writable/images/Pet_Solution_
 ||telegenova.net/a.png
 ||telegenova.net/banner_
 ||telegenova.net/gruppo_spinelli.jpg
