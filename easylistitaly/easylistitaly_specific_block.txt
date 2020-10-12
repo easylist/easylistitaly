@@ -740,6 +740,9 @@
 ||telegenova.net/images/unnamed.png
 ||telegenova.net/unige.gif
 ||telenord.it/img/uploads/banners/
+||telepordenone.tv/writable/images/trivio.gif
+||telepordenone.tv^*/banner_
+||telepordenone.tv^*_BANNER.
 ||teleromagna24.it/public/banners/
 ||teleromagna24.it^*/skin_
 ||telesettelaghi.com^*/finestre-e-finestre.
