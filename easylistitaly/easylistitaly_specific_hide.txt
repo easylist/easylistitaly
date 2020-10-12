@@ -582,6 +582,7 @@ bluerating.com##.top_funders
 dtti.it##.topad
 everyeye.it##.topskin
 noinotizie.it##.tre-spazi
+radiocompany.com##.trend-banner
 notebookitalia.it##.uk-height-medium
 turistipercaso.it##.utilink
 bresciaoggi.it,larena.it##.v2_banner-wrapper
