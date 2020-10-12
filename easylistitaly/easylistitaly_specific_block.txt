@@ -727,6 +727,7 @@
 ||technologyreview.it/_media/_adv/
 ||teleambiente.it^*/Banner-
 ||teleambiente.it^*/gamadi.jpg
+||teleantenna.it/banner/
 ||telebari.it^*/diablocks-
 ||teleborsa.it/FrameResources/4WTV/
 ||telecaprisport.it/banner/
