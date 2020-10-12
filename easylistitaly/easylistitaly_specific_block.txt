@@ -869,6 +869,8 @@
 ||veneziaradiotv.it^*/scott-informatica.jpg
 ||vercellioggi.it/immagini/banner/
 ||vercellioggi.it^*/banner-
+||veronanetwork.it^*/banner-
+||veronanetwork.it^*/PANTHEON_ADV_
 ||vicenzapiu.com^*/banner-
 ||videogame.it/arturo/vast/eas?
 ||videogame.it^*/adv/
