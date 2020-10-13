@@ -633,6 +633,11 @@
 ||radiosportiva.com/foto/grandi/20-1.jpg
 ||radiosportiva.com/foto/grandi/banner_
 ||radiosportiva.com/foto/grandi/Elsynet-
+||radiostudio2000.it^*/banner-
+||radiostudio2000.it^*/computer-planet-
+||radiostudio2000.it^*/cooperativa-produttori.png
+||radiostudio2000.it^*/logo-jservice-
+||radiostudio2000.it^*/rosina-
 ||radiotoscana.it^*-banner-
 ||radiotoscana.it^*/Banner-
 ||radiotoscana.it^*/Bernina-
