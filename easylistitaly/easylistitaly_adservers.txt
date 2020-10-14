@@ -33,6 +33,7 @@
 ||break-even.it^$third-party
 ||brznetwork.com^$third-party
 ||buyon.it^$third-party
+||casino-sicuro.it^$third-party
 ||clacson24.com^$third-party
 ||clickadv.it^$third-party
 ||clickpoint.it^$third-party
@@ -51,6 +52,7 @@
 ||firebanner.com^$third-party
 ||gbucket.ch^$third-party
 ||hbagency.it^$third-party
+||hubaffiliations.net^$third-party
 ||inaffiliago.it^$third-party
 ||ioladv.it^$third-party
 ||iperbanner.com^$third-party
@@ -103,6 +105,7 @@
 ||tagvideo.eu^$third-party
 ||tgadv.it^$third-party
 ||tgadvcdn.it^$third-party
+||tipster.space^$third-party
 ||tjekscores.dk^$third-party
 ||upstory.it^$third-party
 ||viralbeat.com^$third-party
