@@ -513,6 +513,9 @@
 ||oksiena.it/banner/
 ||oktennis.it^*/skin/
 ||olbia.it^*/spesati-promo-
+||olbianotizie.it^*/banner-
+||olbianotizie.it^*/golfoaranci/
+||olbianotizie.it^*/siddura/
 ||olimpiamilano.com^*/sponsors/
 ||ondanovara.it^*_banner_
 ||ondarock.it/skin/
