@@ -125,7 +125,7 @@ qdpnews.it,viterbopost.it###manchette-dx
 qdpnews.it,viterbopost.it###manchette-sx
 stadionews.it###manchette_dx_container
 stadionews.it###manchette_sx_container
-dailybest.it###masthead
+dailybest.it,politicanews.it###masthead
 ondarock.it###masthead_or
 giornalistitalia.it###media_image-5
 giornalistitalia.it###media_image-6
@@ -685,6 +685,7 @@ affaritaliani.it##div[style="margin-top:10px;height:90px"]
 stadionews.it##div[style="margin-top:20px; margin-bottom:10px; float:left; margin-right:10px; width: 300px; height: 250px;"]
 affaritaliani.it##div[style="margin-top:6px;margin-bottom:10px;padding: 9px; border: 1px solid #ccc; zoom:1;overflow:hidden;height:80px;width:280px;font: normal 12px/14px arial, sans-serif"]
 notiziariocalcio.com,tuttoveneziasport.it##div[style="min-height: 250px; max-height: 600px; overflow: hidden; width: 300px; margin: auto;"]
+politicanews.it##div[style="min-height: 250px;"]
 tuttosalernitana.com##div[style="min-height: 280px; max-height: 600px; overflow: hidden; width: 336px; margin: auto;"]
 fcinternews.it,pianetabasket.com,tuttopotenza.com,tuttoveneziasport.it##div[style="overflow: hidden; height: 250px; width: 300px; margin: auto;"]
 fcinternews.it,pianetabasket.com,tuttopotenza.com##div[style="overflow: hidden; height: 250px; width: 970px; margin: auto;"]
