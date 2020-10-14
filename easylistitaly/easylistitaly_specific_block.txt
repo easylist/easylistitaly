@@ -512,6 +512,7 @@
 ||oipamagazine.it^*/euroservice.gif
 ||oksiena.it/banner/
 ||oktennis.it^*/skin/
+||olbia.it^*/spesati-promo-
 ||olimpiamilano.com^*/sponsors/
 ||ondanovara.it^*_banner_
 ||ondarock.it/skin/
