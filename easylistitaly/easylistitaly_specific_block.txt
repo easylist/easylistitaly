@@ -101,6 +101,7 @@
 ||camperonline.it/b/
 ||camperonline.it/banner/
 ||camperonline.it/sfondo/
+||canale12.it^*/banner-
 ||casaeclima.com/js/banner.js
 ||casaeclima.com/js/manchette.js
 ||casaeclima.com/js/skin.js
