@@ -149,6 +149,7 @@
 ##.home-rubriche-adv
 ##.inews_adv_top
 ##.jadv_leoadv_pd
+##.leaderboard-adv
 ##.lg-titolo-ads
 ##.lg-titolo-ads-dx
 ##.lg-titolo-ads-sx
@@ -156,6 +157,7 @@
 ##.listatonativeadv
 ##.modPubblicita
 ##.netd_300x600adv
+##.newtekadv
 ##.post_pubblicita
 ##.promo_sp
 ##.pub_text
