@@ -516,6 +516,8 @@
 ||olbianotizie.it^*/banner-
 ||olbianotizie.it^*/golfoaranci/
 ||olbianotizie.it^*/siddura/
+||olbianova.it^*/Dettori_
+||olbianova.it^*/JE_SUIS_
 ||olimpiamilano.com^*/sponsors/
 ||ondanovara.it^*_banner_
 ||ondarock.it/skin/

@@ -208,6 +208,7 @@ viterbonews24.it,viterbooggi.eu##.CON-fascia-alto-banner
 lacnews24.it##.FPB_dex
 lacnews24.it##.FPB_header
 lacnews24.it##.FPB_six
+olbianova.it##.HYPE_element
 viterbonews24.it##.SepBanner
 theitaliantimes.it##.Side_DX
 telestense.it##.StandardBanner
