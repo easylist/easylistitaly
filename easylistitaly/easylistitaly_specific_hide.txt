@@ -300,6 +300,7 @@ fotografidigitali.it,hwupgrade.it,tvtech.it##.banner300x250
 milleunadonna.it##.banner320x250
 djmagitalia.com##.bannerExtra
 puntosicuro.it##.bannerLeader
+filmtv.it##.bannerRight
 edilportale.com,ilmessaggero.it##.bannerTop
 teleponte.it##.banner_6
 professionecalcio.net,professionemotori.it##.banner_after_feat
