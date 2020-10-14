@@ -648,6 +648,9 @@
 ||radiostudio2000.it^*/cooperativa-produttori.png
 ||radiostudio2000.it^*/logo-jservice-
 ||radiostudio2000.it^*/rosina-
+||radiotelegallura.it^*/43184.jpg
+||radiotelegallura.it^*/Banner-
+||radiotelegallura.it^*/Partner-
 ||radiotoscana.it^*-banner-
 ||radiotoscana.it^*/Banner-
 ||radiotoscana.it^*/Bernina-
