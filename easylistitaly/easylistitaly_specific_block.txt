@@ -533,6 +533,7 @@
 ||palermomania.it/images/banner_
 ||palermomania.it/images/informaticanetizen-formazione.jpg
 ||palermomania.it/public/banner/
+||palermoparla.news^*/banner_
 ||pallacanestrovarese.it^*/loghi-top/
 ||papaboys.org^*/banner-
 ||parmareport.it^*/320x250_
