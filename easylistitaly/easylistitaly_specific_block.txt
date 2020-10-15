@@ -785,6 +785,7 @@
 ||terranuova.it^*/ad$xmlhttprequest
 ||terranuova.it^*/banner/
 ||tg24.info^*/banners/
+||tgcal24.it^*-banner-
 ||theitaliantimes.it/js/gpt.plus.min.js
 ||tiburno.tv^*/Dott-house-2-.gif
 ||tiburno.tv^*/Lube-nuovo.jpg
