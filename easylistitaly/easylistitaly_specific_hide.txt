@@ -450,6 +450,7 @@ erbanotizie.com,noinotizie.it##.manchette-dx
 erbanotizie.com,noinotizie.it##.manchette-sx
 24emilia.com##.marquee0
 ecoo.it##.masterhead-container-column
+medicalexcellencetv.it##.medic-widget
 sportivissimo.com##.menu4
 ecoaltomolise.net,newslinet.com,radiodeltainternational.it,tvcity.it##.metaslider
 automoto.it,moto.it##.mit-skin-spacer

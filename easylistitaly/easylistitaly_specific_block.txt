@@ -927,6 +927,8 @@
 ||wp.com/www.1web.tv/*/VISITA-IL-SITO-
 ||wp.com/www.giornaledicalabria.it/*/Affidato-orafo-
 ||wp.com/www.giornaledicalabria.it/*/Sorical.gif
+||wp.com/www.medicalexcellencetv.it/*_300x100.
+||wp.com/www.medicalexcellencetv.it/*_600x500.
 ||wp.com/www.tsdtv.it/*/300x300-
 ||wp.com/www.zerosette.it/*/bella-venezia.png
 ||wp.com^*/675x238-$domain=tv9italia.it
