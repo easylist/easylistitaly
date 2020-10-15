@@ -237,6 +237,7 @@ radiocittadelcapo.it##.adv-space
 quattroruote.it##.adv-wrap
 virgilio.it##.advTuning
 corrierecomunicazioni.it,ilsussidiario.net##.adv_container
+calabria7.it##.advanced_floating_content
 addicted2play.com,eurogamer.it,gioco.it,lausc.it,morningstar.it##.advert
 liberoquotidiano.it,pharmastar.it##.advertisement
 sienafree.it##.advs
@@ -486,7 +487,7 @@ bolognafc.it##.partner-footer
 radiogardena.it##.partner-wrapper
 andreagaleazzi.com##.partner_box
 100ideeperristrutturare.it,casa-naturale.com,quattrozampe.online,villeecasali.com##.partners-wrapper
-wondernetmag.com##.penci-promo-link
+calabria7.it,wondernetmag.com##.penci-promo-link
 assopoker.com##.poker-room-list
 assopoker.com##.prbox-table-container
 eurogamer.it##.pre-article
@@ -562,7 +563,7 @@ sportytrader.it##.sticky-header_banner_first
 occhionotizie.it##.sticky_bar_container
 webnews.it##.sticky_wrapper
 andreagaleazzi.com##.store-box
-100ideeperristrutturare.it,casa-naturale.com,primopianomolise.it,quattrozampe.online,radioradio.it,uominietrasporti.it,vendingnews.it,villeecasali.com##.strack_cli
+100ideeperristrutturare.it,calabria7.it,casa-naturale.com,primopianomolise.it,quattrozampe.online,radioradio.it,uominietrasporti.it,vendingnews.it,villeecasali.com##.strack_cli
 ilcorriere.net##.stream-item-top-wrapper
 affaritaliani.it##.strillo-speciale3
 ship2shore.it,trend-online.com##.strip
