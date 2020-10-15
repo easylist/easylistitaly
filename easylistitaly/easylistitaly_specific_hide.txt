@@ -100,6 +100,7 @@ cronachemaceratesi.it###head_sponsor
 beverfood.com###headbanner
 andriaviva.it,bariviva.it,barlettaviva.it,bisceglieviva.it,bitontoviva.it,canosaviva.it,cerignolaviva.it,coratoviva.it,giovinazzoviva.it,gravinalife.it,margheritaviva.it,minervinoviva.it,modugnoviva.it,molfettaviva.it,ruvoviva.it,sanferdinandoviva.it,spinazzolaviva.it,terlizziviva.it,traniviva.it,trinitapoliviva.it###header-banner
 f1sport.it###header-right-section
+telestarsr.it###header-slider
 tempoitalia.it###headerBanner
 torinofc.it###headerSpazioSponsorLoghi
 dirittoegiustizia.it###header_giu_banner_dx
