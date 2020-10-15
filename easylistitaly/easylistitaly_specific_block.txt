@@ -166,6 +166,7 @@
 ||cremonaoggi.it^*/BANNERINO-
 ||cronacaqui.it^*/banner-
 ||cronachedibirra.it^*/banner_
+||crotone24news.it/images/banners/
 ||cuneocronaca.it/img/banner/
 ||cuneocronaca.it/js/clickBanner.js
 ||cuneooggi.it^*/banner-
