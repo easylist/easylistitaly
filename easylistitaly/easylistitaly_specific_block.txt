@@ -97,6 +97,7 @@
 ||caffe.ch/media/STATICHE/ilcaffe/ADV/
 ||cagliaricalcio.com^*/image-sponsor-
 ||calabria7.it^*/banner_
+||calabrianews24.com^*/Banner_
 ||campaniameteo.it/CMS/Upload/GalleriaUtente/Image/
 ||camperonline.it/b-top/
 ||camperonline.it/b/

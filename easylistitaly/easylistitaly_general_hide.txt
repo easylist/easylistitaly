@@ -113,6 +113,7 @@
 ##.adv-promobox
 ##.adv-sponsor__content
 ##.adv-strip-container
+##.adv-wpz
 ##.adv300eni
 ##.advPostLibri
 ##.adv_articolo
