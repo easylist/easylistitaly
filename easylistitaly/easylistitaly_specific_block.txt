@@ -828,6 +828,7 @@
 ||triesteallnews.it^*/Banner_
 ||triesteallnews.it^*/quiconvienecom-
 ||triesteallnews.it^*_970x250_
+||trmweb.it^*/banner-
 ||tusciaweb.eu^*/Camperteam-
 ||tusciaweb.eu^*/Carrozzeria-fiorillo-
 ||tusciaweb.eu^*/cassa-edile-progetto.gif
