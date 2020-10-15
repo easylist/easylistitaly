@@ -880,6 +880,7 @@
 ||umbriajournal.com^*/banner.
 ||umbriajournal.com^*_banner_
 ||umbriasettegiorni.it^*/skin-
+||unicasport.it^*-Banner-
 ||uominietrasporti.it^*/Auto-doc.
 ||uscatanzaro.net^*/motordoctor.
 ||uscremonese.it^*/sponsor/
