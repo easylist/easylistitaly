@@ -580,6 +580,7 @@ romagiallorossa.it##.td-container-header
 ilgiornaledeltermoidraulico.it,pescaracalcio.com##.td-footer-wrapper
 laspia.it,ragusah24.it,romanews.eu##.td-header-sp-recs
 gdoweek.it##.td-leaderboard-wrap-full
+telesudweb.it##.td_single_image_bg
 positanonews.it##.testata
 bluerating.com##.the_big_banner
 allsongs.tv,dica33.it##.top-banner
