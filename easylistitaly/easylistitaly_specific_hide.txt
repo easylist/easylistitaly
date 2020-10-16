@@ -89,6 +89,7 @@ ecodicaserta.it###down
 tipiace.it###externalbanner
 calciomercato.com###float-sidebar-inner
 ascittadella.it,violachannel.tv###footer-sponsor
+tvrxenon.it###footer-widgets
 gogoterme.com###frm
 ilcap.it###gadsense
 mondoplay.it,mondoxbox.com###gameBlock_amazon
@@ -393,6 +394,7 @@ laleggepertutti.it##.div_topbanner
 ridble.com##.dn
 cronachedibirra.it##.e3lan125
 ilpaesenuovo.it##.e3lanat-layout-rotator
+tvrxenon.it##.elementor-image-carousel-wrapper
 affaritaliani.it##.eni
 masterviaggi.it##.fieldset_sponsor
 luinonotizie.it##.fixed-sponsor
