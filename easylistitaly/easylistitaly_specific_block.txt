@@ -775,6 +775,7 @@
 ||telegenova.net/gruppo_spinelli.jpg
 ||telegenova.net/images/unnamed.png
 ||telegenova.net/unige.gif
+||telemontekronio.it/images/BANNER/
 ||telenord.it/img/uploads/banners/
 ||telepordenone.tv/writable/images/trivio.gif
 ||telepordenone.tv^*/banner_
