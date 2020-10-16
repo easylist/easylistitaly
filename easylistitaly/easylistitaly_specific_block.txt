@@ -778,6 +778,7 @@
 ||telegenova.net/gruppo_spinelli.jpg
 ||telegenova.net/images/unnamed.png
 ||telegenova.net/unige.gif
+||telejonio.com^*/banner_
 ||telemia.it^*-BANNER-
 ||telemia.it^*/banner-
 ||telemia.it^*/EURONICS-
