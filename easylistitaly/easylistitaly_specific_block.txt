@@ -103,6 +103,7 @@
 ||calabriamagnifica.it^*/Mercedes-benz-
 ||calabrianews24.com^*/Banner_
 ||calabriareportage.it^+-Banner-
+||calabriatv.it^*/BANNER-
 ||campaniameteo.it/CMS/Upload/GalleriaUtente/Image/
 ||camperonline.it/b-top/
 ||camperonline.it/b/
