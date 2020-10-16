@@ -795,6 +795,9 @@
 ||terranauta.it/banner/
 ||terranuova.it^*/ad$xmlhttprequest
 ||terranuova.it^*/banner/
+||tfnweb.it^*/BANNERDX-
+||tfnweb.it^*/centro-oculistico-logo-
+||tfnweb.it^*/COSAT.jpg
 ||tg24.info^*/banners/
 ||tgcal24.it^*-banner-
 ||theitaliantimes.it/js/gpt.plus.min.js
