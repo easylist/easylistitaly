@@ -492,7 +492,7 @@ bolognafc.it##.partner-footer
 radiogardena.it##.partner-wrapper
 andreagaleazzi.com##.partner_box
 100ideeperristrutturare.it,casa-naturale.com,quattrozampe.online,villeecasali.com##.partners-wrapper
-calabria7.it,wondernetmag.com##.penci-promo-link
+calabria7.it,esperia.tv,wondernetmag.com##.penci-promo-link
 assopoker.com##.poker-room-list
 assopoker.com##.prbox-table-container
 eurogamer.it##.pre-article
