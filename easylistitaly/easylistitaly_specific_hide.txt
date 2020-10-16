@@ -568,7 +568,7 @@ sportytrader.it##.sticky-header_banner_first
 occhionotizie.it##.sticky_bar_container
 webnews.it##.sticky_wrapper
 andreagaleazzi.com##.store-box
-100ideeperristrutturare.it,calabria7.it,casa-naturale.com,primopianomolise.it,quattrozampe.online,radioradio.it,uominietrasporti.it,vendingnews.it,villeecasali.com##.strack_cli
+100ideeperristrutturare.it,calabria7.it,casa-naturale.com,primopianomolise.it,quattrozampe.online,radiomovida.net,radioradio.it,uominietrasporti.it,vendingnews.it,villeecasali.com##.strack_cli
 ilcorriere.net##.stream-item-top-wrapper
 affaritaliani.it##.strillo-speciale3
 ship2shore.it,trend-online.com##.strip
