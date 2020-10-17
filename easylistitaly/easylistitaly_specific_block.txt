@@ -904,6 +904,7 @@
 ||tv2000.it^*/skin/
 ||tv2000.it^*_300x200.
 ||tvcentromarche.it^*/ESTRA300x250-
+||udineseblog.it^*_160x90.
 ||ultimissimemantova.it/banner/
 ||umbriaingol.it//immagini/File_banner/
 ||umbriajournal.com^*/banner-
