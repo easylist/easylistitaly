@@ -833,6 +833,9 @@
 ||trapaniok.it/public/banner/
 ||trasporti-italia.com^*/banner/
 ||travelnostop.com/banner/
+||travelnostop.com^*-300x250px.
+||travelnostop.com^*-968x50px.
+||travelnostop.com^*_968x60.
 ||trend-online.com^*/Banner/
 ||trend-online.com^*/button
 ||trentinotv.it/images/social/banner
