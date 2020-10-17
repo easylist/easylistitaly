@@ -58,6 +58,7 @@
 ||ehiweb.it/banner/
 ||emotiko.com^*/banners/
 ||enoleggioauto.it/affiliatexmlstylesheets/
+||entiredigital.com^*/yb-$script
 ||fantagenius.com^*/banner/
 ||favolefantasia.com/banner/
 ||files.iqoption.com^$domain=borsainside.com
