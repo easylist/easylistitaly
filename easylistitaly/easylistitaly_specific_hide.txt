@@ -130,6 +130,7 @@ stadionews.it###manchette_dx_container
 stadionews.it###manchette_sx_container
 dailybest.it,politicanews.it###masthead
 ondarock.it###masthead_or
+staynerd.com###media_image-40
 giornalistitalia.it###media_image-5
 giornalistitalia.it###media_image-6
 giornalistitalia.it###media_image-8
