@@ -871,6 +871,7 @@
 ||triesteallnews.it^*/Banner_
 ||triesteallnews.it^*/quiconvienecom-
 ||triesteallnews.it^*_970x250_
+||trmtv.it^*/banner_
 ||trmweb.it^*/banner-
 ||trs98.it^*/82651-
 ||trs98.it^*/medical-leader-
