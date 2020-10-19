@@ -516,6 +516,7 @@ lostrillone.tv##.pull-right
 money.it##.pulsantiplus
 telestense.it##.pushbar
 quotidianosanita.it##.qs_n_interno_basso
+italiana.fm##.qt-sponsors
 vivafm.it##.qt-widget-sponsor
 html.it##.rail-800
 giardinaggio.it##.reattiva_x_90
