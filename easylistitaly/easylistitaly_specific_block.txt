@@ -789,6 +789,8 @@
 ||teleambiente.it^*/gamadi.jpg
 ||teleantenna.it/banner/
 ||telebari.it^*/diablocks-
+||teleblu.tv^*/banner-
+||teleblutv.it^*/logo-Gruppo-Salatto-
 ||teleborsa.it/FrameResources/4WTV/
 ||telecaprisport.it/banner/
 ||telecaprisport.it^*Banner-290x400.
