@@ -123,7 +123,7 @@ business.it###logoYobee
 eurogamer.it###low-leaderboard
 salernonotizie.it###machette_left
 salernonotizie.it###machette_right
-fcinternews.it,tuttopotenza.com###main-slim
+fcinternews.it,tuttoatalanta.com,tuttopotenza.com###main-slim
 qdpnews.it,viterbopost.it###manchette-dx
 qdpnews.it,viterbopost.it###manchette-sx
 stadionews.it###manchette_dx_container
@@ -703,14 +703,15 @@ affaritaliani.it##div[style="margin-top:6px;margin-bottom:10px;padding: 9px; bor
 notiziariocalcio.com,tuttoveneziasport.it##div[style="min-height: 250px; max-height: 600px; overflow: hidden; width: 300px; margin: auto;"]
 politicanews.it##div[style="min-height: 250px;"]
 tuttosalernitana.com##div[style="min-height: 280px; max-height: 600px; overflow: hidden; width: 336px; margin: auto;"]
-fcinternews.it,pianetabasket.com,tuttopotenza.com,tuttoveneziasport.it##div[style="overflow: hidden; height: 250px; width: 300px; margin: auto;"]
-fcinternews.it,pianetabasket.com,tuttopotenza.com##div[style="overflow: hidden; height: 250px; width: 970px; margin: auto;"]
+fcinternews.it,pianetabasket.com,tuttoatalanta.com,tuttopotenza.com,tuttoveneziasport.it##div[style="overflow: hidden; height: 250px; width: 300px; margin: auto;"]
+fcinternews.it,pianetabasket.com,tuttoatalanta.com,tuttopotenza.com##div[style="overflow: hidden; height: 250px; width: 970px; margin: auto;"]
 interdipendenza.net,notiziariocalcio.com,tuttobenevento.it##div[style="overflow: hidden; height: 280px; width: 336px; margin: auto;"]
-fcinternews.it,tuttopotenza.com##div[style="overflow: hidden; height: 600px; width: 160px; margin: auto;"]
+fcinternews.it,tuttoatalanta.com,tuttopotenza.com##div[style="overflow: hidden; height: 600px; width: 160px; margin: auto;"]
 pianetabasket.com##div[style="overflow: hidden; height: 600px; width: 300px; margin: auto;"]
-tuttosalernitana.com##div[style="overflow: hidden; height: 60px; width: 160px; margin: auto;"]
-fcinternews.it,interdipendenza.net,pianetabasket.com,tuttosalernitana.com,tuttoveneziasport.it##div[style="overflow: hidden; height: 60px; width: 468px; margin: auto;"]
+tuttoatalanta.com,tuttosalernitana.com##div[style="overflow: hidden; height: 60px; width: 160px; margin: auto;"]
+fcinternews.it,interdipendenza.net,pianetabasket.com,tuttoatalanta.com,tuttosalernitana.com,tuttoveneziasport.it##div[style="overflow: hidden; height: 60px; width: 468px; margin: auto;"]
 fcinternews.it##div[style="overflow: hidden; height: 90px; width: 160px; margin: auto;"]
+tuttoatalanta.com##div[style="overflow: hidden; height: 90px; width: 728px; margin: auto;"]
 tuttosalernitana.com##div[style="padding: 0px 0px 3px 0px; min-height: 600px;"]
 vocegiallorossa.it##div[style="padding: 3px 0px 3px 0px; min-height: 280px;"]
 vocegiallorossa.it##div[style="padding: 3px 3px 3px 3px; min-height: 600px;"]
@@ -718,7 +719,7 @@ radioradio.it##div[style="position: absolute; display: block; top: 0px; left: 0p
 radioradio.it##div[style="position: absolute; overflow: hidden; left: 0px; top: 0px; width: 696px; height: 182px; margin: 0px; padding: 0px; transform-style: flat; z-index: 0;"]
 tuttocagliari.net##div[style="text-align: center; width: 160px; height: 600px; padding: 0px 0px 3px 0px;"]
 tuttojuve.com##div[style="text-align: center; width: 160px; height: 600px; padding: 3px 0; margin: 0 auto;"]
-tuttoveneziasport.it##div[style="text-align: center; width: 300px; height: 250px; padding: 3px 0px 3px 0px;"]
+tuttoatalanta.com,tuttoveneziasport.it##div[style="text-align: center; width: 300px; height: 250px; padding: 3px 0px 3px 0px;"]
 tuttocagliari.net,tuttopotenza.com,vocegiallorossa.it##div[style="text-align: center; width: 300px; height: 250px;"]
 tuttojuve.com##div[style="text-align: center; width: 336px; height: 280px; padding: 3px 0; margin: 0 auto;"]
 pianetabasket.com,tuttocagliari.net,tuttosalernitana.com##div[style="text-align: center; width: 336px; height: 280px; padding: 3px 0px 3px 0px;"]
