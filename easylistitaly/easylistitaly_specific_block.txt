@@ -135,6 +135,8 @@
 ||centotrentuno.com/wp-content/banners/
 ||chievoverona.it^*/sponsor/
 ||chimerarevo.com^*/banner-
+||ciccioriccio.it/images/feel.png
+||ciccioriccio.it/images/feelbeauty.png
 ||ciclonline.com/images/banners/
 ||cinafoniaci.com/images/banners/
 ||cineblog01.love/templates/CB01/img/bottone
