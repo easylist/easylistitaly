@@ -706,6 +706,8 @@
 ||sangavinomonreale.net^*/Genesis.jpg
 ||sangavinomonreale.net^*/HotelCrocus.jpg
 ||sanmarinofixing.com/smfixing/images/banners/
+||sannicandro.org/data/farmacie/
+||sannicandro.org/data/sponsor/
 ||sanremonews.it^*/banner/
 ||sanremonews.it^*/box/
 ||sardegnareporter.it^*/Sea-Lounge-Club-Cala-Spinosa-
