@@ -401,6 +401,7 @@ cronachedibirra.it##.e3lan125
 ilpaesenuovo.it##.e3lanat-layout-rotator
 tvrxenon.it##.elementor-image-carousel-wrapper
 affaritaliani.it##.eni
+garganotv.com##.erzodfm-container
 masterviaggi.it##.fieldset_sponsor
 luinonotizie.it##.fixed-sponsor
 udinese.it##.foobar-sponsor
