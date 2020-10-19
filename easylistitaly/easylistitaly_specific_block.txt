@@ -370,6 +370,7 @@
 ||ladigetto.it/files/banners/
 ||ladiscussione.com^*/Banner-
 ||ladiscussione.com^*/banner_
+||ladriatico.info^*-300x69.
 ||lafeltrinelli.it^*/Partner/
 ||lagazzetta.info^*/banner/
 ||lagazzettadilucca.it^*/inserzioni/
