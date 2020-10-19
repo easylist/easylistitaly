@@ -104,6 +104,7 @@
 ||calabrianews24.com^*/Banner_
 ||calabriareportage.it^+-Banner-
 ||calabriatv.it^*/BANNER-
+||calciostyle.it^*/bonusscommesse-
 ||campaniameteo.it/CMS/Upload/GalleriaUtente/Image/
 ||camperonline.it/b-top/
 ||camperonline.it/b/
