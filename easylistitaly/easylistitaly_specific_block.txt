@@ -781,6 +781,7 @@
 ||telecaprisport.it^*Banner-290x400.
 ||telecitynews24.it^*/AMARO-PERUZZO-
 ||telecitynews24.it^*/telecity-ad-platform/
+||telediogene.it/images/banner/
 ||telefonino.net^*/justearntn.js
 ||telefriuli.it/writable/images/Maracaiba_
 ||telefriuli.it/writable/images/Pet_Solution_
