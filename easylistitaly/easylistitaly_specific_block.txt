@@ -661,6 +661,7 @@
 ||radiomillennium.it^*/banner
 ||radiomillennium.it^*/tuttiautopezzi_
 ||radionorba.it/sp/flash/banner-
+||radionorba.it^*-Banner1205x130.
 ||radionostalgia.fm^*/emmerent_
 ||radionostalgia.fm^*/ROISTYLE.jpg
 ||radioprimiero.it^*/banners/
