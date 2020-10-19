@@ -55,6 +55,9 @@
 ||annuariodelcinema.it^*/banner_
 ||annuariodelcinema.it^*/banners/
 ||ansa.it^*/banner_
+||antennasud.com^*/d-pay.jpg
+||antennasud.com^*/fadi.jpg
+||antennasud.com^*/nuovarredo.jpg
 ||ascittadella.it^*/sponsor/
 ||ascolicalcio1898.it^*/sponsor/
 ||atalanta.it^*/Banner-
