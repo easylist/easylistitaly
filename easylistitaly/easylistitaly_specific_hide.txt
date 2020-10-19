@@ -403,6 +403,7 @@ affaritaliani.it##.eni
 masterviaggi.it##.fieldset_sponsor
 luinonotizie.it##.fixed-sponsor
 udinese.it##.foobar-sponsor
+ilmiostiledivita.it##.footer-columns
 lega-pro.com##.footer-partner
 genoacfc.it##.footer-partner-link
 bluvolleyverona.it,chievoverona.it,hellasverona.it##.footer-sponsor
