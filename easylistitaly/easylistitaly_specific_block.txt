@@ -112,6 +112,7 @@
 ||camperonline.it/sfondo/
 ||canale12.it^*/banner-
 ||canale2.com^*/IMG_20200216_0001-1.jpg
+||carinatv.it/images/bn_
 ||casaeclima.com/js/banner.js
 ||casaeclima.com/js/manchette.js
 ||casaeclima.com/js/skin.js
