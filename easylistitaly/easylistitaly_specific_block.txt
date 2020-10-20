@@ -130,6 +130,9 @@
 ||casaleoggi.it^*/banner/
 ||casateonline.it/public/banner/
 ||cb001.xyz/iframe/
+||cb01.dev/fake2/
+||cb01.dev/templates/CB01_bid/images/btn_
+||cb01.dev/templates/CB01_bid/images/button_
 ||cb01.events/imgc/b_
 ||cb01.events/imgc/side/s_
 ||cb01.run^*/button_
