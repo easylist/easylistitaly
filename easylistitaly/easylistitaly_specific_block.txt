@@ -284,6 +284,7 @@
 ||greenretail.it^*/LAND-
 ||gruppotv7.com/img/banner/
 ||gruppovideomedia.it/banners/
+||guardarefilm.vin/templates/italiafilm/images/btn
 ||guardaserie.cam^*/bottone
 ||guardaserie.cam^*/btn_guarda
 ||guardaserie.cam^*/button
