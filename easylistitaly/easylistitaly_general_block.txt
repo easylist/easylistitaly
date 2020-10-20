@@ -19,6 +19,7 @@
 /ajax/adv/?
 /altro/adv/*
 /annunciogoogle.
+/banner/adv-
 /banners/ADV-
 /generici/ads-
 /gfx/adv/*
