@@ -725,6 +725,8 @@
 ||rovigooggi.it^*-300x600px.
 ||rovigooggi.it^*/adv-
 ||rsd.it/wp-content/banners/
+||rtalive.it^*/BANNER-
+||rtalive.it^*/spot-
 ||salernonotizie.it/wp-content/banner/
 ||salernonotizie.it/wp-content/banner_
 ||salernonotizie.it/wp-content/skin/

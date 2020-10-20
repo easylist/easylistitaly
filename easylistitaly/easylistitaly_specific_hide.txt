@@ -200,6 +200,7 @@ everyeye.it###topskin_clicktag
 tipiace.it###vetrina
 altarimini.it###videoRedazionale
 nerdplanet.it###wallpaper
+rtalive.it###wdslider-5
 transfermarkt.it###werbung_superbanner
 sscalciobari.it###wl-sponsor
 animeclick.it###wrapper
