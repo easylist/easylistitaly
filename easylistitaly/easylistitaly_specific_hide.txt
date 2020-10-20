@@ -332,7 +332,7 @@ corriereal.info##.banner_wrapper
 treccani.it##.bannercontainer
 105tv.it,giornaledimontesilvano.com,kisskiss.it,kisskissnapoli.it,lametino.it,maremmanews.it,qdpnews.it,sienafree.it,videomediterraneo.it,youtg.net##.bannergroup
 radiogold.it##.bannergroupskin-banner-module
-qualenergia.it,vivafm.it##.banners
+liratv.it,positanonotizie.it,qualenergia.it,vivafm.it##.banners
 voglioporno.com##.banners-footer
 quotidianodiragusa.it##.bannertesto
 album-mmt.it,gossip.it##.bannertop
