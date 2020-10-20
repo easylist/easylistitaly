@@ -421,6 +421,7 @@ telepegaso.it##.gallery-item
 3bmeteo.com##.gpt_top
 fanta.soccer,fiscomania.com,money.it##.gptslot
 altadefinizione.coach,guardaserie.store##.guarda_hd
+toonitalia.org##.guarda_in_hd
 ilgeniodellostreaming.rest,ilgeniodellostreaming.to##.guardasingle
 ilgeniodellostreaming.rest,ilgeniodellostreaming.to,ilgeniodellostreamings.it##.guardasingleserie1
 ilgeniodellostreaming.rest,ilgeniodellostreaming.to,ilgeniodellostreamings.it##.guardasingleserie2
