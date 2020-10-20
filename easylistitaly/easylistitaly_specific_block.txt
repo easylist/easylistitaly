@@ -38,6 +38,7 @@
 ||algheroeco.com^*/SC-Costruzioni.
 ||alqamah.it/banners/
 ||altadefinizione01.green^*/btn4k.
+||altadefinizione01.green^*/btn_dwn.
 ||altadefinizione01.green^*/btntorrent.png
 ||altadefinizione4k.stream/c.png
 ||altarimini.it/bannerBoxCatalog.php
