@@ -136,6 +136,8 @@
 ||cb01.events/imgc/b_
 ||cb01.events/imgc/side/s_
 ||cb01.run^*/button_
+||cb01.solutions/imgc/b_
+||cb01.solutions/imgc/side/s_
 ||centotrentuno.com/wp-content/banners/
 ||chievoverona.it^*/sponsor/
 ||chimerarevo.com^*/banner-
