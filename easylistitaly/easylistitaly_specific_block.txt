@@ -431,6 +431,7 @@
 ||lineauno.it^*/300x300_
 ||lineauno.it^*/estrawebluce_
 ||lipari.biz/banners/
+||liratv.it^*/banner/
 ||livorno24.com^*/carrozzeria-Marsili.png
 ||livorno24.com^*/CG-infissi.bmp
 ||livorno24.com^*/CRAS.jpg
