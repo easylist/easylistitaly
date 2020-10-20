@@ -944,6 +944,12 @@
 ||tv2000.it^*/skin/
 ||tv2000.it^*_300x200.
 ||tvcentromarche.it^*/ESTRA300x250-
+||tvoggisalerno.it^*/300x160-
+||tvoggisalerno.it^*/centro-musica-
+||tvoggisalerno.it^*/DE-FILIPPIS.
+||tvoggisalerno.it^*/ipoo.
+||tvoggisalerno.it^*/renzullo.
+||tvoggisalerno.it^*/teconscuola_
 ||tvsette.net^*-300x250.
 ||tvsette.net^*/IUORIO-
 ||udineseblog.it^*_160x90.
