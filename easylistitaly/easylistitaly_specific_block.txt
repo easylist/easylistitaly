@@ -1,5 +1,6 @@
 ||0-100.it^*/banner-
 ||100x100napoli.it^*/gs.png
+||105tv.it^*/banners/
 ||24emilia.com^*banner
 ||2duerighe.com^*-Vanilla-Notes.
 ||2duerighe.com^*/ALTEA-

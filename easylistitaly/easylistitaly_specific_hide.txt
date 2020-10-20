@@ -330,7 +330,7 @@ mercuriomagazine.com##.banner_top_left
 mercuriomagazine.com##.banner_top_right
 corriereal.info##.banner_wrapper
 treccani.it##.bannercontainer
-giornaledimontesilvano.com,kisskiss.it,kisskissnapoli.it,lametino.it,maremmanews.it,qdpnews.it,sienafree.it,videomediterraneo.it,youtg.net##.bannergroup
+105tv.it,giornaledimontesilvano.com,kisskiss.it,kisskissnapoli.it,lametino.it,maremmanews.it,qdpnews.it,sienafree.it,videomediterraneo.it,youtg.net##.bannergroup
 radiogold.it##.bannergroupskin-banner-module
 qualenergia.it,vivafm.it##.banners
 voglioporno.com##.banners-footer
