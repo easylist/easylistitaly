@@ -355,6 +355,7 @@
 ||ilsudonline.it^*/Jooble_
 ||iltredici.it^*/banner_
 ||iltredici.it^*/partners/
+||ilvescovado.it^*/banner/
 ||ilvolo.it/images/banners/
 ||ilwebmaster21.it/script1.js
 ||imgpress.it^*/banner1bis
