@@ -140,6 +140,7 @@
 ||ciccioriccio.it/images/feelbeauty.png
 ||ciclonline.com/images/banners/
 ||cinafoniaci.com/images/banners/
+||cineblog01.green/HD/
 ||cineblog01.love/templates/CB01/img/bottone
 ||cineblog01.love/templates/CB01/img/button_
 ||cineblog01.love/templates/CB01/img/cover4k.png
