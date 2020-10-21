@@ -113,6 +113,7 @@ rovigooggi.it###home-closeup-space
 rovigooggi.it###home-pbreak-space
 transfermarkt.it###home-rectangle-spotlight
 rovigooggi.it###home-super-space
+telegolfo.com###html_javascript_adder-16
 affaritaliani.it###immo-300x250
 cronacheancona.it,cronachemaceratesi.it###infooter
 sienafree.it###ja-banner300x250
@@ -170,6 +171,9 @@ animeclick.it###stile_link
 valsassinanews.com###stripbanner
 qualenergia.it###stripbar
 erbanotizie.com###striprotator
+telegolfo.com###super_rss_reader-5
+telegolfo.com###super_rss_reader-6
+telegolfo.com###super_rss_reader-7
 diretta.it###tab-bonus-offers
 diretta.it###tab-odds
 gamesvillage.it###takeover_gv
