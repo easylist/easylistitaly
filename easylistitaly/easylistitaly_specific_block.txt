@@ -126,6 +126,7 @@
 ||canale85.it^*/d-pay.jpg
 ||canale85.it^*/logofadi.jpg
 ||canale85.it^*/nuovarredo.jpg
+||caprievent.it^*/gillini.jpg
 ||carinatv.it/images/bn_
 ||casaeclima.com/js/banner.js
 ||casaeclima.com/js/manchette.js
