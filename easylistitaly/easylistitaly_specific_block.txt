@@ -391,6 +391,7 @@
 ||juventus.com^*/sponsors/
 ||juzaphoto.com^*/rce/
 ||kisskiss.it/images/banners/
+||kisskissitalia.it/images/banners/
 ||kisskissnapoli.it/images/banners/
 ||labtv.net^*/banner_
 ||lacnews24.it/filemanager/skinz/
