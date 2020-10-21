@@ -216,6 +216,8 @@
 ||edilportale.com/immagini/velux_manchette
 ||elaborare.com^*/banner
 ||elivebrescia.tv^*/banner-
+||elletvweb.it^*/89647628_2525170104423784_4449633659648999424_
+||elletvweb.it^*/image-100.png
 ||emiliagol.it/js/allinone_bannerRotator.js
 ||emiliagol.it^*/File_banner/
 ||empolifc.com^*-sponsor.

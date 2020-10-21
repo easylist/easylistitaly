@@ -12,6 +12,7 @@
 ||advx.esprimo.com^
 ||affiliatetxt.nextmediaweb.com^
 ||affiliati.bet2bet.it^
+||affiliation.majeeko.com^$third-party
 ||affiliation.sostariffe.it^$third-party
 ||affiliazioni.misterdomain.eu^$third-party
 ||aimon.it/banner_
