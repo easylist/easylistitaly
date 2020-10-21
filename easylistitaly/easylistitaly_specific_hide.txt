@@ -291,7 +291,7 @@ agi.it,america24.com,casateonline.it,cremonaoggi.it,cronacheancona.it,cronachema
 m100.it##.banner-1
 welfarenetwork.it##.banner-468-hp
 parmareport.it##.banner-big
-cuneocronaca.it,giochixl.it,lacrocequotidiano.it,mtv.it##.banner-container
+cuneocronaca.it,divinafm.it,giochixl.it,lacrocequotidiano.it,mtv.it##.banner-container
 genova24.it##.banner-elezioni
 bluvolleyverona.it##.banner-fading
 algheroeco.com##.banner-header-dx
@@ -413,6 +413,7 @@ ilpaesenuovo.it##.e3lanat-layout-rotator
 tvrxenon.it##.elementor-image-carousel-wrapper
 affaritaliani.it##.eni
 garganotv.com##.erzodfm-container
+divinafm.it##.fdc-widget-sponsor
 masterviaggi.it##.fieldset_sponsor
 luinonotizie.it##.fixed-sponsor
 udinese.it##.foobar-sponsor
