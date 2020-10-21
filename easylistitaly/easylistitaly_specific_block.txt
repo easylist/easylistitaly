@@ -603,6 +603,7 @@
 ||palermoparla.news^*/banner_
 ||pallacanestrovarese.it^*/loghi-top/
 ||papaboys.org^*/banner-
+||paradisetv.eu/paradisetvloghiok2019.jpg
 ||parmareport.it^*/320x250_
 ||parmareport.it^*/320x267-
 ||parmareport.it^*/Banner-
