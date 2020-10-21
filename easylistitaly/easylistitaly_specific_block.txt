@@ -559,6 +559,8 @@
 ||nuovosud.it/sites/default/files/skin-
 ||nuovosud.it^*/banner/
 ||nursetimes.org^*/Simulatore-Concorso-566-Infermieri-Puglia.png
+||nuvola.tv^*-700x700-
+||nuvola.tv^*/banner-
 ||oas.repubblica.it^
 ||obiettivonews.it^*/bannercortinalungo2.
 ||obiettivonews.it^*/fuorirottabanner1050-
