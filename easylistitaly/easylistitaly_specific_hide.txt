@@ -482,7 +482,7 @@ bisceglielive.it##.mkt-editorial
 eurogamer.it,foodnetwork.it,gioco.it##.mpu
 affaritaliani.it##.mutui
 cb001.xyz##.mvic-btn
-calciocasteddu.it##.mvp-wall-link
+calciocasteddu.it,qdmnotizie.it##.mvp-wall-link
 virgilio.it##.newboxIs
 virgilio.it##.newboxIsOrizz
 ansa.it##.news-special-box

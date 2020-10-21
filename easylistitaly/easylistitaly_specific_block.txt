@@ -611,6 +611,8 @@
 ||professionemotori.it/wp-content/uploads/williamHillbox.png
 ||pyrosonline.it/site/public/image/20200131153026.jpg
 ||qcanavese.it/banner/
+||qdmnotizie.it^*-Skin_
+||qdmnotizie.it^*_banner-
 ||qdpnews.it/images/banners/
 ||quellidellelica.com/images/banners/
 ||quicosenza.it^*/pirro300x407.gif
