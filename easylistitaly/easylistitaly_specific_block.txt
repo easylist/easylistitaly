@@ -390,6 +390,14 @@
 ||italpress.com^*/gif_talpress_def.
 ||italpress.com^*/VolospeechGif_
 ||italpress.com^*_300X250MYACEA-
+||itvonline.news^*-300x250.
+||itvonline.news^*-300x250px-
+||itvonline.news^*/4698d099-
+||itvonline.news^*/9a6de89a-
+||itvonline.news^*/compri-vendi-
+||itvonline.news^*/Schermata-2020-07-07-alle-12.27.14.png
+||itvonline.news^*/skin-
+||itvonline.news^*_banner-
 ||juventus.com^*/sponsors/
 ||juzaphoto.com^*/rce/
 ||kisskiss.it/images/banners/
