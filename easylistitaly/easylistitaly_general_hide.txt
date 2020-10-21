@@ -139,6 +139,8 @@
 ##.box_adv_speciali_hp
 ##.boxpubblicita
 ##.boxpubblicitasx
+##.center-adv
+##.center-adv-news
 ##.cmt_bgadv
 ##.edSponsor
 ##.ed_Related_Record_Div_Sponsor
