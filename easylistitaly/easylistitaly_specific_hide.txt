@@ -236,6 +236,7 @@ tusciaweb.eu##.ad-article
 laltrapagina.it##.ad1
 laltrapagina.it##.ad5
 theitaliantimes.it##.adb
+lamilano.it##.adcontainer
 24emilia.com,autoscout24.ch,brocardi.it,cb01.online,filmpertutti.onl,gamemag.it,hdblog.it,ilgeniodellostreaming.rest,ilikepuglia.it,teleborsa.it,viamichelin.ch,viamichelin.it##.ads
 ildolomiti.it##.adsB
 chistachiamando.it,pcprofessionale.it##.adsense
@@ -495,6 +496,7 @@ everyeye.it##.nome_gioco_amazon_destra
 tuttotrasporti.it##.notizieSponsorizzate
 empolifc.com##.o-section--promo
 techzilla.it##.offerta-img-box
+lamilano.it##.olvu
 casaeclima.com##.page-wrapper
 puntocellulare.it##.panel-offers
 nostrofiglio.it##.par-listing-collab
