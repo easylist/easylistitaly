@@ -905,6 +905,7 @@
 ||telestense.it/wp-content/banners/
 ||teletruria.it^*/CHIMET-
 ||tempoitalia.it/banner/
+||temporeale.info^*/Banner-
 ||tenews.it/banner/
 ||terninrete.it^*/450x450_
 ||terninrete.it^*/euroufficio-
@@ -1086,7 +1087,7 @@
 ||wp.com/www.tsdtv.it/*/300x300-
 ||wp.com/www.zerosette.it/*/bella-venezia.png
 ||wp.com^*/675x238-$domain=tv9italia.it
-||wp.com^*/banner-$domain=giornaledicalabria.it|ilgiornaledeiveronesi.it
+||wp.com^*/banner-$domain=giornaledicalabria.it|ilgiornaledeiveronesi.it|temporeale.info
 ||wp.com^*/banner/$domain=cronacaflegrea.it
 ||wp.com^*/banners/$domain=proiezionidiborsa.it
 ||wp.com^*/mahindra.png$domain=catanista.eu
