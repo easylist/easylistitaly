@@ -392,6 +392,7 @@
 ||juzaphoto.com^*/rce/
 ||kisskiss.it/images/banners/
 ||kisskissnapoli.it/images/banners/
+||labtv.net^*/banner_
 ||lacnews24.it/filemanager/skinz/
 ||ladigetto.it/files/banners/
 ||ladiscussione.com^*/Banner-
