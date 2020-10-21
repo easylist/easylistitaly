@@ -152,6 +152,9 @@
 ||ciccioriccio.it/images/feel.png
 ||ciccioriccio.it/images/feelbeauty.png
 ||ciclonline.com/images/banners/
+||cilentochannel.com^*/Bcc_
+||cilentochannel.com^*/Elysium-
+||cilentochannel.com^*/Villa-Franca.jpg
 ||cinafoniaci.com/images/banners/
 ||cineblog01.green/HD/
 ||cineblog01.love/templates/CB01/img/bottone
