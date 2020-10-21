@@ -741,6 +741,12 @@
 ||repubblica.it^*/neorep.js
 ||repubblica.it^*/sponsors.png
 ||repubblica.it^*_contentsense_
+||retesei.com^*/depam.png
+||retesei.com^*/EMANUELE-LA-RUSSA.jpg
+||retesei.com^*/fibra.gif
+||retesei.com^*/formec.jpg
+||retesei.com^*/ips.jpg
+||retesei.com^*/pincios-
 ||romachampionsleague.com^*/Logo-motto-
 ||romachampionsleague.com^*/Pubblicit%C3%A0-
 ||romait.it/img/banners/
