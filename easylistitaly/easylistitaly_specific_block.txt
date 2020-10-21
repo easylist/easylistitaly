@@ -812,6 +812,15 @@
 ||siciliaoggi.com^*/pesch1.
 ||sienafree.it/images/banners/
 ||spoletonline.com/banner/
+||sportchannel214.it^*/bannerfonia1.jpg
+||sportchannel214.it^*/beatrice-sito.jpg
+||sportchannel214.it^*/DACIERNO.jpg
+||sportchannel214.it^*/fia.jpg
+||sportchannel214.it^*/fusco.jpg
+||sportchannel214.it^*/genetic.jpg
+||sportchannel214.it^*/Intrusione-netp.jpg
+||sportchannel214.it^*/noteblu.jpg
+||sportchannel214.it^*/rdrink.jpg
 ||sportpaper.it^*/PayFan-
 ||sportpaper.it^*/PayFan.
 ||spotmix.libero.it^
