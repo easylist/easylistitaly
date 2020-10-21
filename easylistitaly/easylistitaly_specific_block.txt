@@ -63,6 +63,7 @@
 ||antennasud.com^*/d-pay.jpg
 ||antennasud.com^*/fadi.jpg
 ||antennasud.com^*/nuovarredo.jpg
+||aostaoggi.it/images/banners/
 ||ascittadella.it^*/sponsor/
 ||ascolicalcio1898.it^*/sponsor/
 ||atalanta.it^*/Banner-
