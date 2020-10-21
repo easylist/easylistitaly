@@ -347,6 +347,8 @@
 ||ilmomento.org^*-300x250.
 ||ilpaesenuovo.it^*/perhospital-01.jpg
 ||ilpost.it^*/newAdv.js?
+||ilpuntonotizie.it^*-Leaderboard.
+||ilpuntonotizie.it^*/IRANA-TAPPETI.
 ||ilquotidiano.it/userdata/banner/
 ||ilroma.net^*-banner_
 ||ilroma.net^*/Dial_WEB.png
