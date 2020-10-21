@@ -165,6 +165,7 @@
 ##.modPubblicita
 ##.netd_300x600adv
 ##.newtekadv
+##.nk-adv
 ##.post_pubblicita
 ##.promo_sp
 ##.pub_text
