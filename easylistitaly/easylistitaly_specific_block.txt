@@ -504,6 +504,7 @@
 ||meteovalmorea.it^*/banners/
 ||milanodabere.it/images/archivio/2000x1000/
 ||milanofinanza.it^*/activtrades.gif
+||minews.it^*/OROLOGI.gif
 ||mio-ip.eu^*/offerte-amazon-
 ||miotv.it/public/componenti/
 ||mobimart.it/ban.
