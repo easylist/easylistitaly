@@ -685,6 +685,8 @@
 ||radioluna.it^*/Manchette_
 ||radioluna.it^*/simeone-24-
 ||radiomarte.it/site/images/sponsor/
+||radiomarte.it^*/autoscala_
+||radiomarte.it^*/Ln_Rm.
 ||radiomarte.it^*_Banner_
 ||radiomillennium.it/images/divanova-
 ||radiomillennium.it/images/miauto.
