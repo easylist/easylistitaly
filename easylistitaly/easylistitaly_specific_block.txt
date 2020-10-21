@@ -672,6 +672,7 @@
 ||radiogold.it^*/Banner-
 ||radiogold.it^*/banner/
 ||radiogold.it^*/foral-
+||radioibiza.it/images/banners/
 ||radioinblu.it^*/skin/
 ||radioitaliacina.com/images/banners/
 ||radiolaquila1.it^*/asimar-
