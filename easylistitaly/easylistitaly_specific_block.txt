@@ -682,6 +682,8 @@
 ||radioamore.it^*/banners/
 ||radioanaunia.it^*/beauty_ninfea_
 ||radioanaunia.it^*/final-
+||radioantennaverde.it^*/ippodromodelgarigliano.
+||radioantennaverde.it^*/zoomarine.
 ||radioautmarche.it^*/banner_
 ||radioblu.com/img/colonna_dx/
 ||radiocantu.com^*-260x260-
