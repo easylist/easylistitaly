@@ -29,6 +29,7 @@
 ||affaritaliani.it^*/immobiliare/
 ||affaritaliani.it^*/luxu/
 ||affaritaliani.it^*/pron/
+||agensir.it^*/skin_
 ||agrigentonotizie.it/images/skin/
 ||albengacorsara.it/libri/
 ||albengacorsara.it/promo/
