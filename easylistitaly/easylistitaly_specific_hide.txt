@@ -613,6 +613,7 @@ telesudweb.it##.td_single_image_bg
 telesud.it##.teles-header-banner
 positanonews.it##.testata
 bluerating.com##.the_big_banner
+87tv.it##.theiaStickySidebar
 allsongs.tv,dica33.it##.top-banner
 bresciacalcio.it,cagliaricalcio.com##.top-sponsor-hp
 positanonews.it##.top-testata

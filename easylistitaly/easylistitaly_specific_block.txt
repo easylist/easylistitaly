@@ -1069,6 +1069,7 @@
 ||windows.net/banners/$domain=freshplaza.it
 ||windows.net/specialeelezioni/$domain=altamuralive.it|barilive.it|barlettalive.it|bitontolive.it|cassanolive.it|coratolive.it|giovinazzolive.it|lavocedimanduria.it|ruvolive.it|santeramolive.it|terlizzilive.it
 ||wp.com/www.1web.tv/*/VISITA-IL-SITO-
+||wp.com/www.87tv.it/*/87tv-uniimpresa.
 ||wp.com/www.giornaledicalabria.it/*/Affidato-orafo-
 ||wp.com/www.giornaledicalabria.it/*/GIF-REGIONE.
 ||wp.com/www.giornaledicalabria.it/*/Sorical.gif
