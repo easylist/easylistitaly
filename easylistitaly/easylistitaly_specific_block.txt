@@ -345,6 +345,7 @@
 ||ilmioip.it/img/banner
 ||ilmioip.it/img/infermieri
 ||ilmomento.org^*-300x250.
+||ilombardia.it^*/all4cycling-
 ||ilpaesenuovo.it^*/perhospital-01.jpg
 ||ilpost.it^*/newAdv.js?
 ||ilpuntonotizie.it^*-Leaderboard.
