@@ -89,6 +89,7 @@ amazon.it###detailILM_feature_div
 mymovies.it###div_topleft
 ecodicaserta.it###down
 tipiace.it###externalbanner
+notizielombardia.it###fixedban
 calciomercato.com###float-sidebar-inner
 ascittadella.it,violachannel.tv###footer-sponsor
 tvrxenon.it###footer-widgets
