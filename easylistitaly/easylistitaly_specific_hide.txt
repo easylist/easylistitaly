@@ -178,6 +178,7 @@ telegolfo.com###super_rss_reader-7
 diretta.it###tab-bonus-offers
 diretta.it###tab-odds
 gamesvillage.it###takeover_gv
+studio5fm.com###text-13
 giornalistitalia.it,noinotizie.it###text-19
 noinotizie.it###text-20
 nerdplanet.it###text-24

@@ -861,6 +861,7 @@
 ||staynerd.com^*/nostalgia-
 ||stradeonline.it/images/banners/
 ||strill.it/images/banners/
+||studio5fm.com^*/Progetto-senza-titolo39.png
 ||studio93.it^*/firma.jpg
 ||studio93.it^*160x738
 ||studio93.it^*225x100
