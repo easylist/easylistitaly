@@ -784,6 +784,7 @@
 ||rtalive.it^*/spot-
 ||rtcquartarete.it^*/dantonio.png
 ||rtcquartarete.it^*/fatture-01-
+||rtinradio.com^*/banner/
 ||salernonotizie.it/wp-content/banner/
 ||salernonotizie.it/wp-content/banner_
 ||salernonotizie.it/wp-content/skin/
