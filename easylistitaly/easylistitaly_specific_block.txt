@@ -696,6 +696,9 @@
 ||radioblu.com/img/colonna_dx/
 ||radiocantu.com^*-260x260-
 ||radiocarina.it/images/bn_sponsor_
+||radiodigitalenergy.com/images/acweb.jpg
+||radiodigitalenergy.com/images/canastri.jpg
+||radiodigitalenergy.com/images/radio.net.jpg
 ||radiofly.cloud^*/Estra_
 ||radiogold.it/images/banners/
 ||radiogold.it^*/Banner-
