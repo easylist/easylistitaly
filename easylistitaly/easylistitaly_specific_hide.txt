@@ -372,6 +372,7 @@ cuneodice.it,genovadice.it,italiadice.it,torinodice.it##.box_oikia
 subito.it##.box_sponsor
 pneusnews.it##.boxes
 sscnapoli.it##.brand
+infomedianews.com##.bsaProContainerNew
 donnamoderna.com##.btn-offerte-amazon
 game-game.it##.btn-play
 piratestreaming.network##.btnaaa
