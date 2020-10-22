@@ -431,7 +431,7 @@ rsd.it##.footer__widgets
 palermofc.com##.footer_int
 quattroruote.it##.four-box-sponsor
 quattroruote.it##.fullBanner
-anteprima24.it,bolognaindiretta.it,buttanissima.it,corrieresalentino.it,gazzettadasti.it,ilfattonisseno.it,ilsicilia.it,informazioneonline.it,labtv.net,latina24ore.it,lavalsusa.it,lavocedeltrentino.it,lineauno.it,milanosud.it,modenaindiretta.it,qds.it,quicosenza.it,radioibiza.it,reggionline.com,reportmotori.it,rietinvetrina.it,rivistastudio.com,telebari.it,ticinonotizie.it,travelnostop.com##.g
+anteprima24.it,bolognaindiretta.it,buttanissima.it,corrieresalentino.it,gazzettadasti.it,ilfattonisseno.it,ilsicilia.it,informazioneonline.it,labtv.net,latina24ore.it,lavalsusa.it,lavocedeltrentino.it,lineauno.it,milanosud.it,modenaindiretta.it,qds.it,quicosenza.it,radioibiza.it,reggionline.com,reportmotori.it,rietinvetrina.it,rivistastudio.com,superj.it,telebari.it,ticinonotizie.it,travelnostop.com##.g
 agendadigitale.eu##.gallery-container-home
 telepegaso.it##.gallery-item
 3bmeteo.com##.gpt_top
