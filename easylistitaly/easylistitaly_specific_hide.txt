@@ -352,6 +352,7 @@ libero.it##.big
 foodnetwork.it##.billboard
 ludomedia.it##.blocchiPbi
 ladige.it##.block--dfp
+california.it##.block-13
 mediaworld.it##.block-mw-external-banner
 ilroma.net##.block-rotating-banner
 punto-informatico.it,telefonino.net##.blz-url
