@@ -915,6 +915,7 @@
 ||teleromagna24.it^*/skin_
 ||telesettelaghi.com^*/finestre-e-finestre.
 ||telesettelaghi.com^*/maxottica-
+||telesirio.it/images/banners/
 ||telestense.it/wp-content/banners/
 ||teletruria.it^*/CHIMET-
 ||tempoitalia.it/banner/
