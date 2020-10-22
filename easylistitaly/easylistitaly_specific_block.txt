@@ -936,6 +936,7 @@
 ||tfnweb.it^*/COSAT.jpg
 ||tg24.info^*/banners/
 ||tgcal24.it^*-banner-
+||tgmax.it/wp-content/uploads/2018/05/1.png
 ||theitaliantimes.it/js/gpt.plus.min.js
 ||tiburno.tv^*/Dott-house-2-.gif
 ||tiburno.tv^*/Lube-nuovo.jpg
