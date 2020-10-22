@@ -442,6 +442,7 @@ ilgeniodellostreaming.rest,ilgeniodellostreaming.to,ilgeniodellostreamings.it##.
 ilgeniodellostreaming.rest,ilgeniodellostreaming.to,ilgeniodellostreamings.it##.guardasingleserie2
 quattroruote.it##.halfPageBanner2
 emmelle.it##.header-ainfo
+ondatv.tv##.header-banner
 nuovosud.it##.header-banner-wrapper
 calciomercato.com##.header-banner__container
 lanuovacalabria.it##.headerBanner
@@ -778,7 +779,7 @@ polesine24.it##div[style="width:auto;height:371px;margin-top:15px;margin-bottom:
 mbnews.it##div[style^="width: 300px; height: 250px;"]
 gelocal.it##div[style^="width: 300px;height: 80px;border:"]
 liguriaoggi.it##img[alt="ad"]
-cinematografo.it##img[alt="banner"]
+cinematografo.it,ondatv.tv##img[alt="banner"]
 hellaslive.it##img[class="partner"]
 corrieresalentino.it##img[height="100"][width="1000"]
 latinaquotidiano.it,liguriaoggi.it,staffettaonline.com,startmag.it##img[height="250"][width="300"]

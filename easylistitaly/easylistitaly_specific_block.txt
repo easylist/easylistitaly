@@ -594,6 +594,7 @@
 ||olimpiamilano.com^*/sponsors/
 ||ondanovara.it^*_banner_
 ||ondarock.it/skin/
+||ondatv.tv^*/banner-
 ||ostiatv.it/upl/banner
 ||ottofm.com^*/banner-
 ||ottofm.com^*_banner.
@@ -847,6 +848,8 @@
 ||sslazio.it/images/sponsors/
 ||sslazio.it^*/banner_
 ||stabiachannel.it^*/banner/
+||stackpathcdn.com^*-banner.$domain=ondatv.tv
+||stackpathcdn.com^*/banner_$domain=ondatv.tv
 ||stadiotardini.it^*/comeser_
 ||staffettaonline.com/fcomuniBanner/
 ||stamptoscana.it^*/sponsor/
