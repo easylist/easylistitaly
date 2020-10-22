@@ -738,6 +738,7 @@
 ||radiorcn.it^*/banners-
 ||radioreporter.it/foto/grandi/iwm.jpg
 ||radiosieve.it^*/bannerbcc.png
+||radiosonica.it^*/banner_
 ||radiosportiva.com/foto/grandi/20-1.jpg
 ||radiosportiva.com/foto/grandi/banner_
 ||radiosportiva.com/foto/grandi/Elsynet-
