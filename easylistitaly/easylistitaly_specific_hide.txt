@@ -76,6 +76,7 @@ affaritaliani.it###consigliati-giochi2
 virgilio.it###cont-leaderboard
 virgilio.it###cont-manchette
 dilei.it,quifinanza.it,siviaggia.it,supereva.it,virgilio.it###cont-wallpaper
+tltonline.it###content-footer-section
 autoseller.it###ctl00_ContentCentraleBanner
 tefchannel.it###ctl00_cphBody_mcsBannerShortBottom_pnlSlot
 tefchannel.it###ctl00_cphBody_mcsBannerShortTop_pnlSlot
