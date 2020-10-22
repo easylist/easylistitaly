@@ -842,6 +842,9 @@
 ||stadiotardini.it^*/comeser_
 ||staffettaonline.com/fcomuniBanner/
 ||stamptoscana.it^*/sponsor/
+||startmag.it^*/banner_
+||startmag.it^*_skin-
+||startmag.it^*_Skin_
 ||staynerd.com^*/106684007_3079248798861784_4040991284107120681_o-
 ||staynerd.com^*/diavolo-
 ||staynerd.com^*/five-
