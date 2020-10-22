@@ -635,6 +635,13 @@
 ||positanonotizie.it^*/banner/
 ||prealpina.it/js/manzoni_interna.js
 ||primapaginamolise.it/banner/
+||primopianomolise.it^*/banner
+||primopianomolise.it^*/issan
+||primopianomolise.it^*/Logo%20RTUBI
+||primopianomolise.it^*/Mancini-Store-
+||primopianomolise.it^*/megamark%20banner
+||primopianomolise.it^*/peccia
+||primopianomolise.it^*/tunnel%20ok.jpg
 ||professionemotori.it/wp-content/uploads/williamHillbox.png
 ||pyrosonline.it/site/public/image/20200131153026.jpg
 ||qcanavese.it/banner/
