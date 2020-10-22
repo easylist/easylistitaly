@@ -978,6 +978,9 @@
 ||trs98.it^*/82651-
 ||trs98.it^*/medical-leader-
 ||trs98.it^*/mediterranea-servizi.
+||trsp.tv^*/banner_
+||trsp.tv^*/logo_tv-
+||trsp.tv^*/mondolavoro.jpg
 ||tusciaweb.eu^*/Camperteam-
 ||tusciaweb.eu^*/Carrozzeria-fiorillo-
 ||tusciaweb.eu^*/cassa-edile-progetto.gif
