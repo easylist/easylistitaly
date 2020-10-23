@@ -388,6 +388,7 @@
 ||informazioneonline.it/wp-content/banners/
 ||inside.bz.it/images/banners/
 ||inter.it^*/partners/
+||iocaccio.it^*/Mygra-
 ||iovivoaroma.org/images/new/bg.jpg
 ||iovivoaroma.org/public/banners/
 ||itacanotizie.it^*/37-striscia-
