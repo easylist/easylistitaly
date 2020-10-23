@@ -825,6 +825,9 @@
 ||scopateitaliane.it/nb/
 ||senigallianotizie.it/banner/
 ||settecalcio.it^*/File_banner/
+||sevenpress.com^*/autodoc.jpg
+||sevenpress.com^*/banner/
+||sevenpress.com^*/bannerQ/
 ||sexyguidaitalia.com/images/899/
 ||ship2shore.it^*/colonna/
 ||ship2shore.it^*/manchette/
