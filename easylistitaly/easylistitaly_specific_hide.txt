@@ -375,6 +375,7 @@ subito.it##.box_sponsor
 pneusnews.it##.boxes
 sscnapoli.it##.brand
 infomedianews.com##.bsaProContainerNew
+filmitalianostreaming.com##.btn-danger
 donnamoderna.com##.btn-offerte-amazon
 game-game.it##.btn-play
 piratestreaming.network##.btnaaa
