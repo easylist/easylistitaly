@@ -29,6 +29,8 @@
 /manzoni_hp.js
 /materiali_adv/*
 /mediamondads.
+/novcom_ads-
+/novcom_ads.
 /pubbl_vert.
 /pubblicit%c3%a0/*
 /pubblicita%CC%80-
