@@ -258,6 +258,7 @@ calabria7.it##.advanced_floating_content
 addicted2play.com,eurogamer.it,gioco.it,lausc.it,morningstar.it##.advert
 liberoquotidiano.it,pharmastar.it##.advertisement
 sienafree.it##.advs
+soldionline.it##.afc_boxcontent_taglist
 alfemminile.com##.affi-button
 agi.it##.agi-ad-wrap
 cityrumors.it,tantasalute.it##.ai-viewport-1
