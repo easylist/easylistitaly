@@ -520,6 +520,7 @@ andreagaleazzi.com##.partner_box
 rtinradio.com##.partners
 100ideeperristrutturare.it,casa-naturale.com,quattrozampe.online,villeecasali.com##.partners-wrapper
 calabria7.it,esperia.tv,wondernetmag.com##.penci-promo-link
+cb01.in##.playex
 assopoker.com##.poker-room-list
 assopoker.com##.prbox-table-container
 eurogamer.it##.pre-article
