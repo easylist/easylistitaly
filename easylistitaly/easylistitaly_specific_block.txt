@@ -520,6 +520,7 @@
 ||mentelocale.it/devmktg/
 ||merateonline.it/public/banner/
 ||mercuriomagazine.com^*/banner_
+||meridiananotizie.it^*/123.jpg
 ||messinaoggi.it^*/esemep
 ||messinaweb.tv^*/ricambi-24-
 ||metallized.it/banner/
