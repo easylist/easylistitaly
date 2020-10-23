@@ -349,6 +349,7 @@ ilvescovado.it,liratv.it,positanonotizie.it,qualenergia.it,vivafm.it##.banners
 voglioporno.com##.banners-footer
 quotidianodiragusa.it##.bannertesto
 album-mmt.it,gossip.it##.bannertop
+travel365.it##.bannertopright
 notizialocale.it##.bc_random_banner
 corriere.it##.bck-media-list-sponsor
 nuovosud.it##.bg_skin
