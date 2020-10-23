@@ -545,6 +545,7 @@
 ||motori360.it^*/300x150.
 ||motori360.it^*/enjoy-eni.gif
 ||motori360.it^*_370x150
+||mymovies.it/primevideo/
 ||myvalley.it/wp-content/banners/
 ||myvalley.it^*/wpsite_clickable.
 ||napolicittasolidale.it^*/banner/
