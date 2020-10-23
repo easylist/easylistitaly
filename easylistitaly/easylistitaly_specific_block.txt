@@ -792,6 +792,8 @@
 ||retesei.com^*/pincios-
 ||romachampionsleague.com^*/Logo-motto-
 ||romachampionsleague.com^*/Pubblicit%C3%A0-
+||romagnasport.com//public/banner/
+||romagnasport.com/public/dim_banner/
 ||romait.it/img/banners/
 ||romatoday.it/images/skin/
 ||rosalio.it^*/adv/
