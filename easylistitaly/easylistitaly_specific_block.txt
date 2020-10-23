@@ -1140,6 +1140,12 @@
 ||wp.com^*/p500-$domain=proiezionidiborsa.it
 ||wp.com^*Banner300x600.$domain=milanodabere.it
 ||youtg.net^*/cornice_
+||zerocinquantuno.it^*-banner-
+||zerocinquantuno.it^*-la-bologna-ferramenta.png
+||zerocinquantuno.it^*-la-fotocromo-emiliana.jpg
+||zerocinquantuno.it^*/banner-
+||zerocinquantuno.it^*/BTAO.png
+||zerocinquantuno.it^*/coop-reno-
 ||zerosette.it^*/zero_davighi.
 ||zerosette.it^*_banner_
 ! Citynews
