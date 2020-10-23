@@ -450,6 +450,7 @@
 ||lavocedeltrentino.it^*600x600
 ||lavorincasa.it/adb/
 ||lavoripubblici.it/banner/
+||lazioingol.it^*/baked.jpg
 ||leccenews24.it/upload/banner/
 ||leccesette.it/banner/
 ||lecconotizie.com/wp-content/banners/
