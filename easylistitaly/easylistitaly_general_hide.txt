@@ -142,6 +142,7 @@
 ##.center-adv
 ##.center-adv-news
 ##.cmt_bgadv
+##.dads-lk
 ##.edSponsor
 ##.ed_Related_Record_Div_Sponsor
 ##.ed_Related_Sponsor

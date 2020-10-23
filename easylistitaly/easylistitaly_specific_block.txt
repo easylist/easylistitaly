@@ -340,6 +340,9 @@
 ||ilgeniodellostreaming.cam^*/ooBE1HG.png
 ||ilgeniodellostreaming.cam^*/scarica.
 ||ilgeniodellostreaming.cam^*/YcijKef.png
+||ilgeniodellostreaming.tel/templates/GdTheme/images/guarda
+||ilgeniodellostreaming.tel/templates/GdTheme/images/lato
+||ilgeniodellostreaming.tel/templates/GdTheme/images/scarica
 ||ilgiornaledabruzzo.it/wp-content/uploads/2013/05/Ai-Viali-Lanciano.png
 ||ilgiornaledellaprotezionecivile.it^*_banners/
 ||ilgiornaledelmolise.it/img/bannerlungo/
