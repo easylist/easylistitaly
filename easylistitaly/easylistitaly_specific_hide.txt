@@ -524,6 +524,7 @@ assopoker.com##.poker-room-list
 assopoker.com##.prbox-table-container
 eurogamer.it##.pre-article
 pisachannel.tv##.pre_footer
+comingsoon.it##.primeTrack
 webnews.it##.product__info
 comingsoon.it,pneusnews.it##.promo
 voglioporno.com##.promo-462x66
@@ -580,6 +581,7 @@ siciliaoggi.com##.sow-image-container
 tvoggisalerno.it##.sow-slider-image-container
 calciocasteddu.it,calciohellas.it,virtus.it##.sp-sponsors
 lifegate.it##.special-contents
+comingsoon.it##.sponPro
 europages.it,ilmonferrato.it,legab.it,olimpiamilano.com,repubblica.it,stickmangames.altervista.org##.sponsor
 luinonotizie.it##.sponsor-background-big
 pallacanestrotrieste.it##.sponsor-carousel
@@ -718,7 +720,7 @@ rockol.it##a[href^="https://rover.ebay.com/"]
 gnoccatravels.com##a[href^="https://wellcum.at/"]
 alfemminile.com,badcomics.it,badgames.it,badtaste.it,badtv.it,beppegrillo.it,birramoriamoci.it,bora.la,bsnews.it,cityrumors.it,comingsoon.it,comprovendodischi.it,comprovendolibri.it,consigli.it,donnamoderna.com,eurogamer.it,everyeye.it,facciabuco.com,frasicelebri.it,game-experience.it,gamerclick.it,giardinaggio.it,giardinaggio.net,giardiniblog.it,gizchina.it,hdblog.it,hwupgrade.it,inter.it,mangaforever.net,nerdmovieproductions.it,newsly.it,nientepopcorn.it,notebookcheck.it,orologipertutti.it,punto-informatico.it,ridble.com,rifaidate.it,rockol.it,spaziogames.it,telefonino.net,topdigamma.it,tuttotek.it,vuemmetv.it,webnews.it##a[href^="https://www.amazon."][href*="tag="]
 atalanta.it,diventaretrader.com##a[href^="https://www.plus500.com/"]
-animeemanga.it,trovacinema.repubblica.it##a[href^="https://www.primevideo.com/"][href*="tag="]
+animeemanga.it,comingsoon.it,trovacinema.repubblica.it##a[href^="https://www.primevideo.com/"][href*="tag="]
 genoanews1893.it##div[astyle="text-align: center; width: 336px; height: 280px; padding: 3px 0px 3px 0px;"]
 acmilan.com##div[class^="Partners_"]
 alvolante.it##div[id^="dfp-alv-slot"]
