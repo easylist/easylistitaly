@@ -1066,6 +1066,7 @@
 ||umbriajournal.com^*_banner_
 ||umbriasettegiorni.it^*/skin-
 ||unicasport.it^*-Banner-
+||unonotizie.it/immagini/banner/
 ||uominietrasporti.it^*/Auto-doc.
 ||uscatanzaro.net^*/motordoctor.
 ||uscremonese.it^*/sponsor/
