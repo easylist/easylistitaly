@@ -550,6 +550,7 @@ italiana.fm,radiobussola.it##.qt-sponsors
 vivafm.it##.qt-widget-sponsor
 html.it##.rail-800
 giardinaggio.it##.reattiva_x_90
+sportytrader.it##.redirectou
 mobimart.it##.resp-container
 lacnews24.it##.right-side
 ilroma.net##.rotating-banner
