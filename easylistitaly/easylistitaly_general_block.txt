@@ -21,6 +21,7 @@
 /annunciogoogle.
 /banner/adv-
 /banners/ADV-
+/banners/pubb/*
 /generici/ads-
 /gfx/adv/*
 /immagini/adv_
