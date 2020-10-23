@@ -314,6 +314,7 @@
 ||guidaviaggi.it/public/banners/
 ||gwendalina.tv^*/stickybar_script-
 ||historychannel.it^*/swissre.
+||hovogliadidolce.it^*/banner-
 ||html.it^*/banner/
 ||hwupgrade.it/js/hwu_adv.js
 ||icnradio.com/images/banners/
