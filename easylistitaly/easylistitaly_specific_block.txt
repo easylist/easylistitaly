@@ -63,6 +63,8 @@
 ||annuariodelcinema.it^*/banner_
 ||annuariodelcinema.it^*/banners/
 ||ansa.it^*/banner_
+||ansamed.info/ansamed/banner/
+||ansamed.info/ansamed/images/banner_
 ||antennasud.com^*/d-pay.jpg
 ||antennasud.com^*/fadi.jpg
 ||antennasud.com^*/nuovarredo.jpg
