@@ -943,6 +943,7 @@
 ||tantifilm.rest^*/bannersca.png
 ||tantifilm.rest^*/wsxhQH2QyPxFBhiByjd1hQ.gif
 ||tantifilmhd.com^*/player.jpg
+||targatocn.it^*/banner/
 ||technologyreview.it/_media/_adv/
 ||tele8tv.it^*/tariii.jpg
 ||teleambiente.it^*/Banner-
