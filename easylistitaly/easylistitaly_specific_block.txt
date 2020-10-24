@@ -7,6 +7,9 @@
 ||3bmeteo.com^*/promo/
 ||51news.it/images/banners/
 ||51news.it/images/banners_
+||7per24.it^*/Banco_Alimentare.
+||7per24.it^*/legacoop.
+||7per24.it^*/logoBoorea2-
 ||7per24.it^*/sponsor/
 ||a.trend-online.it^
 ||abruzzolive.it^*/1300x200.gif
