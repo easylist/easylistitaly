@@ -584,7 +584,7 @@ tiscali.it##.sky-n
 gioco.it##.skyscraper
 uslecce.it##.slick-track
 radioradio.it##.slide
-livornolive.it##.slidelink
+livornolive.it,toscana.live##.slidelink
 oipamagazine.it##.slider
 radiobudrio.it##.sliderloghi
 alpauno.com,business24tv.it,legavolleyfemminile.it,teleoccidente.it##.slides
