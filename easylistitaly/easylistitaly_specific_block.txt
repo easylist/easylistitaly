@@ -616,6 +616,7 @@
 ||newsfood.com^*_banner_
 ||newsly.it^*/aawp/
 ||nokioteca.net/_immagini/Nokia2720-2.
+||normanno.com^*/motordoctor-
 ||notiziarioeolie.it/images/banners/
 ||notiziediprato.it/caricaBannerIframe/
 ||notiziediprato.it/uploads/banner/
