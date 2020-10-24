@@ -988,6 +988,7 @@
 ||tp24.it/library/_popup_banner.php
 ||trapaniok.it/public/banner/
 ||trasporti-italia.com^*/banner/
+||travelgay.it/images/fade_OK.gif
 ||travelnostop.com/banner/
 ||travelnostop.com^*-300x250px.
 ||travelnostop.com^*-968x50px.
