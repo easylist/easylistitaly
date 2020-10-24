@@ -514,6 +514,7 @@
 ||livornopress.it^*/banner-
 ||livornopress.it^*/SCOPRI-DI-PIU-IES-
 ||lnd.it/images/sponsor/
+||lopinionista.it^*/tuttiautopezzi.
 ||lospiffero.com/banner/
 ||lospiffero.com/images/graphics/skin
 ||lospiffero.com/utils/add_popup_functions.js
