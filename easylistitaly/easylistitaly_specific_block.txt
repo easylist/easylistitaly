@@ -162,6 +162,7 @@
 ||chimerarevo.com^*/banner-
 ||ciccioriccio.it/images/feel.png
 ||ciccioriccio.it/images/feelbeauty.png
+||ciclonews.it/media/imgbanners/
 ||ciclonline.com/images/banners/
 ||cilentochannel.com^*/Bcc_
 ||cilentochannel.com^*/Elysium-
