@@ -761,6 +761,8 @@
 ||radioradio.it^*/banner_
 ||radiorcn.it^*/banners-
 ||radioreporter.it/foto/grandi/iwm.jpg
+||radiorobinson.it^*/Logo-Cassa-di-Risparmio-
+||radiorobinson.it^*/Magazzini-Mangini.
 ||radiosieve.it^*/bannerbcc.png
 ||radiosonica.it^*/banner_
 ||radiosportiva.com/foto/grandi/20-1.jpg
