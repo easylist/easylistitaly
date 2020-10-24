@@ -394,6 +394,7 @@
 ||informazioneonline.it/wp-content/banners/
 ||inside.bz.it/images/banners/
 ||inter.it^*/partners/
+||internapoli.it^*/banner-
 ||iocaccio.it^*/Mygra-
 ||iovivoaroma.org/images/new/bg.jpg
 ||iovivoaroma.org/public/banners/
