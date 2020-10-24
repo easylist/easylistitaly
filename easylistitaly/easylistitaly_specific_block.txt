@@ -305,6 +305,8 @@
 ||giochixl.it/bfb/
 ||giornale.it^*/300x250px.
 ||giornale.it^*/600x200px.
+||giornaledellavela.com^*1000x80
+||giornaledellavela.com^*_Banner_
 ||giornaledimontesilvano.com/images/banners/
 ||giornaleradio.fm^*/320x25_
 ||giornalisti.vivere.srl^
