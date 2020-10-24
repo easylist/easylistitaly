@@ -373,6 +373,11 @@
 ||ilgiornaledellarte.com/allegati/BANNER
 ||ilgiornaledelmolise.it/img/bannerlungo/
 ||ilgiornaledelmolise.it/img/lamolisana_
+||ilgiornaledelticino.ch^*/ADV-
+||ilgiornaledelticino.ch^*/bfa9272d-
+||ilgiornaledelticino.ch^*/cambio-valute-
+||ilgiornaledelticino.ch^*/logo-italydress_
+||ilgiornaledelticino.ch^*/pizza-ticino-
 ||ilgiornaleoff.ilgiornale.it^*-300x250mm.
 ||ilgiornaleoff.ilgiornale.it^*/Banner-
 ||ilgiornaleoff.ilgiornale.it^*/Banner_
