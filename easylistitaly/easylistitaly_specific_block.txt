@@ -881,6 +881,9 @@
 ||stackpathcdn.com^*/banner_$domain=ondatv.tv
 ||stadiotardini.it^*/comeser_
 ||staffettaonline.com/fcomuniBanner/
+||stamptoscana.it^*/autodoc_
+||stamptoscana.it^*/diretta-tre-delitti_
+||stamptoscana.it^*/diretta_penelope_
 ||stamptoscana.it^*/sponsor/
 ||startmag.it^*/banner_
 ||startmag.it^*_skin-
