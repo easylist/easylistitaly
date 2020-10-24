@@ -530,7 +530,11 @@
 ||mangialibri.com^*300x250
 ||maremmanews.it/images/banners/
 ||marigliano.net/upload/banner/
+||marsicalive.it^*-banner.
 ||marsicalive.it^*/banner-
+||marsicalive.it^*/Lancia-
+||marsicalive.it^*/medila-
+||marsicalive.it^*/VERTICALE
 ||masterviaggi.it/banner/
 ||mattinonline.ch^*/banner_
 ||maxradio.it/images/55382.jpg
