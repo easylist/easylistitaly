@@ -390,6 +390,7 @@ cinemalibero.cloud##.btnaaahd
 scaricarelibri.net##.button
 empolifc.com##.c-footer__sponsors-container
 radioinblu.it,tv2000.it##.cei-skin-side
+lineapress.it##.cfxi-container
 edilportale.com##.click-Skin
 puntocellulare.it##.clklnk
 ilcorrieredelgiorno.it##.col-banner
