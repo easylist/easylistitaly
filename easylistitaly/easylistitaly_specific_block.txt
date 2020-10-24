@@ -157,9 +157,12 @@
 ||cilentochannel.com^*/Villa-Franca.jpg
 ||cinafoniaci.com/images/banners/
 ||cineblog01.green/HD/
+||cineblog01.love/fake2/$popup
+||cineblog01.love/templates/CB01/img/battane
 ||cineblog01.love/templates/CB01/img/bottone
 ||cineblog01.love/templates/CB01/img/button_
 ||cineblog01.love/templates/CB01/img/cover4k.png
+||cineblog01.love/templates/CB01/img/img_uhd.png
 ||cineblog01.place/scarica
 ||cinemadelsilenzio.it/banner4.js
 ||cinemaitaliano.info^*/banner/
