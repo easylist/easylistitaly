@@ -442,7 +442,7 @@ rsd.it##.footer__widgets
 palermofc.com##.footer_int
 quattroruote.it##.four-box-sponsor
 quattroruote.it##.fullBanner
-anteprima24.it,bolognaindiretta.it,buttanissima.it,centropagina.it,corrieresalentino.it,gazzettadasti.it,giornaledellavela.com,ilfattonisseno.it,ilsicilia.it,informazioneonline.it,labtv.net,latina24ore.it,lavalsusa.it,lavocedeltrentino.it,lineauno.it,milanosud.it,modenaindiretta.it,qds.it,quicosenza.it,radioibiza.it,reggionline.com,reportmotori.it,rietinvetrina.it,rivistastudio.com,superj.it,telebari.it,ticinonotizie.it,travelnostop.com##.g
+anteprima24.it,bolognaindiretta.it,buttanissima.it,centropagina.it,corrieresalentino.it,gazzettadasti.it,giornaledellabirra.it,giornaledellavela.com,ilfattonisseno.it,ilsicilia.it,informazioneonline.it,labtv.net,latina24ore.it,lavalsusa.it,lavocedeltrentino.it,lineauno.it,milanosud.it,modenaindiretta.it,qds.it,quicosenza.it,radioibiza.it,reggionline.com,reportmotori.it,rietinvetrina.it,rivistastudio.com,superj.it,telebari.it,ticinonotizie.it,travelnostop.com##.g
 agendadigitale.eu##.gallery-container-home
 telepegaso.it##.gallery-item
 zerocinquantuno.it##.gdlr-logo
@@ -735,7 +735,7 @@ animeemanga.it,comprovendodischi.it,comprovendolibri.it,corrieredellacalabria.it
 diventaretrader.com##a[href^="https://iqbroker.com/"]
 rockol.it##a[href^="https://rover.ebay.com/"]
 gnoccatravels.com##a[href^="https://wellcum.at/"]
-alfemminile.com,badcomics.it,badgames.it,badtaste.it,badtv.it,beppegrillo.it,birramoriamoci.it,bora.la,bsnews.it,cityrumors.it,comingsoon.it,comprovendodischi.it,comprovendolibri.it,consigli.it,donnamoderna.com,eurogamer.it,everyeye.it,facciabuco.com,frasicelebri.it,game-experience.it,gamerclick.it,giardinaggio.it,giardinaggio.net,giardiniblog.it,gizchina.it,hdblog.it,hwupgrade.it,inter.it,mangaforever.net,nerdmovieproductions.it,newsly.it,nientepopcorn.it,notebookcheck.it,orologipertutti.it,punto-informatico.it,ridble.com,rifaidate.it,rockol.it,spaziogames.it,telefonino.net,termometropolitico.it,topdigamma.it,tuttotek.it,vuemmetv.it,webnews.it##a[href^="https://www.amazon."][href*="tag="]
+alfemminile.com,badcomics.it,badgames.it,badtaste.it,badtv.it,beppegrillo.it,birramoriamoci.it,bora.la,bsnews.it,cityrumors.it,comingsoon.it,comprovendodischi.it,comprovendolibri.it,consigli.it,donnamoderna.com,eurogamer.it,everyeye.it,facciabuco.com,frasicelebri.it,game-experience.it,gamerclick.it,giardinaggio.it,giardinaggio.net,giardiniblog.it,giornaledellabirra.it,gizchina.it,hdblog.it,hwupgrade.it,inter.it,mangaforever.net,nerdmovieproductions.it,newsly.it,nientepopcorn.it,notebookcheck.it,orologipertutti.it,punto-informatico.it,ridble.com,rifaidate.it,rockol.it,spaziogames.it,telefonino.net,termometropolitico.it,topdigamma.it,tuttotek.it,vuemmetv.it,webnews.it##a[href^="https://www.amazon."][href*="tag="]
 atalanta.it,diventaretrader.com##a[href^="https://www.plus500.com/"]
 animeemanga.it,comingsoon.it,trovacinema.repubblica.it##a[href^="https://www.primevideo.com/"][href*="tag="]
 genoanews1893.it##div[astyle="text-align: center; width: 336px; height: 280px; padding: 3px 0px 3px 0px;"]
