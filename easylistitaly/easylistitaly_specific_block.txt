@@ -365,6 +365,7 @@
 ||ilgeniodellostreaming.tel/templates/GdTheme/images/scarica
 ||ilgiornaledabruzzo.it/wp-content/uploads/2013/05/Ai-Viali-Lanciano.png
 ||ilgiornaledellaprotezionecivile.it^*_banners/
+||ilgiornaledellarte.com/allegati/BANNER
 ||ilgiornaledelmolise.it/img/bannerlungo/
 ||ilgiornaledelmolise.it/img/lamolisana_
 ||ilgiornaleoff.ilgiornale.it^*-300x250mm.
