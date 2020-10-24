@@ -152,6 +152,12 @@
 ||cb01.solutions/imgc/b_
 ||cb01.solutions/imgc/side/s_
 ||centotrentuno.com/wp-content/banners/
+||centropagina.it^*-BANNER-
+||centropagina.it^*-LEAD-
+||centropagina.it^*-MANCHETTE-
+||centropagina.it^*-MEDIUM-
+||centropagina.it^*-SKIN-
+||centropagina.it^*-SMALL-
 ||chievoverona.it^*/sponsor/
 ||chimerarevo.com^*/banner-
 ||ciccioriccio.it/images/feel.png
