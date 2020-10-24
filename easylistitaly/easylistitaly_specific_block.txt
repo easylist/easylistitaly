@@ -144,6 +144,7 @@
 ||casaleoggi.it^*/banner-
 ||casaleoggi.it^*/banner/
 ||casateonline.it/public/banner/
+||casertaweb.com^*/sfondo-
 ||cb001.xyz/iframe/
 ||cb01.dev/fake2/
 ||cb01.dev/templates/CB01_bid/images/btn_
