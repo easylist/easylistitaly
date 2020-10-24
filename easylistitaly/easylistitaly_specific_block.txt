@@ -929,6 +929,7 @@
 ||staynerd.com^*/nostalgia-
 ||stradeonline.it/images/banners/
 ||strill.it/images/banners/
+||strumentiemusica.com^*-125x125.
 ||studio5fm.com^*/Progetto-senza-titolo39.png
 ||studio93.it^*/Banner
 ||studio93.it^*/firma.jpg
