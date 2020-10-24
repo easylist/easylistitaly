@@ -97,6 +97,7 @@
 ##.ADVFLEX_250_Content
 ##.Banner_VideoAd_Interno
 ##.Pubblicita
+##.actio-adlabel
 ##.ad-fisso
 ##.ad_pedice
 ##.adagiowritebanner_dmtag

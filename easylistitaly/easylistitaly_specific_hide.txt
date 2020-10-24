@@ -142,6 +142,7 @@ mymovies.it###middle1_companion
 tusciaweb.eu###miesSPLASH
 eurogamer.it###mobile-leaderboard
 eurogamer.it###mobile-mpu
+4actionsport.it###myads
 rovigooggi.it###news-left-box
 rovigooggi.it###news-pretext-box
 rovigooggi.it###news-top-space
@@ -633,6 +634,7 @@ edagricole.it##.td-banner-footer
 edagricole.it##.td-banner-wrap-full
 romagiallorossa.it##.td-container-header
 ilgiornaledeltermoidraulico.it,pescaracalcio.com##.td-footer-wrapper
+4actionsport.it##.td-header-rec-wrap
 laspia.it,ragusah24.it,romanews.eu##.td-header-sp-recs
 gdoweek.it##.td-leaderboard-wrap-full
 telesudweb.it##.td_single_image_bg
