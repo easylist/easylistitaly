@@ -303,6 +303,8 @@
 ||gay.it/js/brightcove/adonly.js
 ||gazzettabenevento.it/Sito2009/image/banner/
 ||gazzettadilivorno.it^*/skin/
+||gazzettadisalerno.it^*/KYNETICSOCIAL.jpg
+||gazzettadisalerno.it^*/Zainetto-promo-
 ||gazzettajonica.it/banner/
 ||gazzettaregionale.it/assets/Auto-doc.
 ||gazzettinodelchianti.it^*/banner-
@@ -1241,6 +1243,14 @@
 ||windows.net/specialeelezioni/$domain=altamuralive.it|barilive.it|barlettalive.it|bitontolive.it|cassanolive.it|coratolive.it|giovinazzolive.it|lavocedimanduria.it|ruvolive.it|santeramolive.it|terlizzilive.it
 ||wp.com/www.1web.tv/*/VISITA-IL-SITO-
 ||wp.com/www.87tv.it/*/87tv-uniimpresa.
+||wp.com/www.gazzettadiavellino.it/*/MeravigliosaCampania-
+||wp.com/www.gazzettadiavellino.it/*/nuova-elite-
+||wp.com/www.gazzettadimilano.it/*/cartolibreriashop.it_
+||wp.com/www.gazzettadimilano.it/*/ecommerce-kynetic-
+||wp.com/www.gazzettadisalerno.it/*/FACILEFAREWEB1.jpg
+||wp.com/www.gazzettadisalerno.it/*/FUNSHOPPING-
+||wp.com/www.gazzettadisalerno.it/*/GRILLHOUSESA.jpg
+||wp.com/www.gazzettadisalerno.it/*/unicusanopagani-
 ||wp.com/www.giornaledicalabria.it/*/Affidato-orafo-
 ||wp.com/www.giornaledicalabria.it/*/GIF-REGIONE.
 ||wp.com/www.giornaledicalabria.it/*/Sorical.gif
@@ -1252,6 +1262,8 @@
 ||wp.com/www.medicalexcellencetv.it/*_600x500.
 ||wp.com/www.tsdtv.it/*/300x300-
 ||wp.com/www.zerosette.it/*/bella-venezia.png
+||wp.com^*-banner-$domain=gazzettadisalerno.it
+||wp.com^*-banner.$domain=gazzettadisalerno.it
 ||wp.com^*/675x238-$domain=tv9italia.it
 ||wp.com^*/banner-$domain=giornaledicalabria.it|ilgiornaledeiveronesi.it|infocilento.it|temporeale.info
 ||wp.com^*/banner/$domain=cronacaflegrea.it
