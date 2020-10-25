@@ -1245,6 +1245,7 @@
 ||wp.com/www.87tv.it/*/87tv-uniimpresa.
 ||wp.com/www.gazzettadiavellino.it/*/MeravigliosaCampania-
 ||wp.com/www.gazzettadiavellino.it/*/nuova-elite-
+||wp.com/www.gazzettadimilano.it/*/airpure-
 ||wp.com/www.gazzettadimilano.it/*/cartolibreriashop.it_
 ||wp.com/www.gazzettadimilano.it/*/ecommerce-kynetic-
 ||wp.com/www.gazzettadisalerno.it/*/FACILEFAREWEB1.jpg
@@ -1262,8 +1263,8 @@
 ||wp.com/www.medicalexcellencetv.it/*_600x500.
 ||wp.com/www.tsdtv.it/*/300x300-
 ||wp.com/www.zerosette.it/*/bella-venezia.png
-||wp.com^*-banner-$domain=gazzettadisalerno.it
-||wp.com^*-banner.$domain=gazzettadisalerno.it
+||wp.com^*-banner-$domain=gazzettadiavellino.it|gazzettadisalerno.it
+||wp.com^*-banner.$domain=gazzettadiavellino.it|gazzettadisalerno.it
 ||wp.com^*/675x238-$domain=tv9italia.it
 ||wp.com^*/banner-$domain=giornaledicalabria.it|ilgiornaledeiveronesi.it|infocilento.it|temporeale.info
 ||wp.com^*/banner/$domain=cronacaflegrea.it
