@@ -508,6 +508,7 @@
 ||iocaccio.it^*/Mygra-
 ||iovivoaroma.org/images/new/bg.jpg
 ||iovivoaroma.org/public/banners/
+||irnonotizie.it^*/logo_territorio_sostenibile-
 ||itacanotizie.it^*/37-striscia-
 ||itacanotizie.it^*/banner-
 ||itacanotizie.it^*/banner_
