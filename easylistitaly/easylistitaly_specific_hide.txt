@@ -173,9 +173,11 @@ animeclick.it###stile_link
 valsassinanews.com###stripbanner
 qualenergia.it###stripbar
 erbanotizie.com###striprotator
+mondodelgusto.it###super_dx
 telegolfo.com###super_rss_reader-5
 telegolfo.com###super_rss_reader-6
 telegolfo.com###super_rss_reader-7
+mondodelgusto.it###super_sx
 diretta.it###tab-bonus-offers
 diretta.it###tab-odds
 gamesvillage.it###takeover_gv

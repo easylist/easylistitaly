@@ -668,6 +668,7 @@
 ||mole24.it^*/skin-
 ||momentosera.it/bannerupload/
 ||mondoclassica.it^*/banner/
+||mondodelgusto.it^*/arch/
 ||money.it/box-amazon/
 ||money.it^*/box-amazon.js
 ||money.it^*/etoro/
