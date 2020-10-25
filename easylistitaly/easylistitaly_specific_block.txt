@@ -302,7 +302,15 @@
 ||garedepoca.com/grafica/banner_
 ||gay.it/js/brightcove/adonly.js
 ||gazzettabenevento.it/Sito2009/image/banner/
+||gazzettadiavellino.it^*-banner.jpg
 ||gazzettadilivorno.it^*/skin/
+||gazzettadimilano.it^*/art-space.jpg
+||gazzettadimilano.it^*/CH-
+||gazzettadimilano.it^*/CHARME-
+||gazzettadimilano.it^*/KYNETICSOCIAL-
+||gazzettadimilano.it^*/lesalonedelamode.jpeg
+||gazzettadimilano.it^*/mi3-
+||gazzettadimilano.it^*/WhatsApp-Image-2020-02-13-at-16.02.56.jpeg
 ||gazzettadisalerno.it^*/KYNETICSOCIAL.jpg
 ||gazzettadisalerno.it^*/Zainetto-promo-
 ||gazzettajonica.it/banner/
