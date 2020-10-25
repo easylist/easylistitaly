@@ -417,6 +417,15 @@
 ||ilgiornaledelticino.ch^*/cambio-valute-
 ||ilgiornaledelticino.ch^*/logo-italydress_
 ||ilgiornaledelticino.ch^*/pizza-ticino-
+||ilgiornaledisalerno.it^*/alden.gif
+||ilgiornaledisalerno.it^*/bobopost.jpg
+||ilgiornaledisalerno.it^*/crocebianca.jpg
+||ilgiornaledisalerno.it^*/easyway-
+||ilgiornaledisalerno.it^*/guariglia.jpg
+||ilgiornaledisalerno.it^*/mascehrina-carpino.jpg
+||ilgiornaledisalerno.it^*/mediblue.gif
+||ilgiornaledisalerno.it^*/Pop_up_Damico_
+||ilgiornaledisalerno.it^*/scatolificio-quadrato.jpg
 ||ilgiornaleoff.ilgiornale.it^*-300x250mm.
 ||ilgiornaleoff.ilgiornale.it^*/Banner-
 ||ilgiornaleoff.ilgiornale.it^*/Banner_
