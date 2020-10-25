@@ -616,6 +616,8 @@
 ||miotv.it/public/componenti/
 ||mobimart.it/ban.
 ||modellismo.net/banner/
+||modellismopiu.it/images/partners/
+||modellismopiu.it/modules/banners/
 ||modenaindiretta.it/yb-modenaindirettait.js
 ||mole24.it^*-skin-
 ||mole24.it^*/skin-
