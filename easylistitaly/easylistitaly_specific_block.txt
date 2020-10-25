@@ -126,6 +126,8 @@
 ||calabriatv.it^*/BANNER-
 ||calciostyle.it^*/bonusscommesse-
 ||campaniameteo.it/CMS/Upload/GalleriaUtente/Image/
+||campanianotizie.com^*/bann_
+||campanianotizie.com^*/banner-
 ||camperonline.it/b-top/
 ||camperonline.it/b/
 ||camperonline.it/banner/
