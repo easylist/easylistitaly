@@ -89,6 +89,11 @@
 ||avmagazine.it/js/common-tag.js
 ||badtaste.it/file/amazon/
 ||balarm.it/attachment-web/
+||battipaglianews.it^*/Banner_
+||battipaglianews.it^*/gioiellina.gif
+||battipaglianews.it^*/hsweb-
+||battipaglianews.it^*/senza-lattosio.jpg
+||battipaglianews.it^*/zizzona.jpg
 ||bazar.it^*/banner/
 ||bellunopress.it^*/Caaf-Cgil_
 ||bellunopress.it^*/pub_
