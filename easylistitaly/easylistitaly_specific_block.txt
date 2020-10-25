@@ -310,6 +310,16 @@
 ||giochixl.it/bfb/
 ||giornale.it^*/300x250px.
 ||giornale.it^*/600x200px.
+||giornaleadige.it^*-960x250-
+||giornaleadige.it^*-banner-
+||giornaleadige.it^*/928x250-
+||giornaleadige.it^*/928X300-
+||giornaleadige.it^*/banner-
+||giornaleadige.it^*/Banner_
+||giornaleadige.it^*_300x250px-
+||giornaleadige.it^*_300x300.
+||giornaleadige.it^*_300x300_
+||giornaleadige.it^*_banner_
 ||giornaledellabirra.it^*/Banner-
 ||giornaledellabirra.it^*_banner_
 ||giornaledellavela.com^*1000x80
