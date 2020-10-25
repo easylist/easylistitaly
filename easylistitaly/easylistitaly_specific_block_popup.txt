@@ -1,6 +1,7 @@
 ||altadefinizione.coach/4k/$popup
 ||avmagazine.it/advertise/$popup
 ||cineblog01.love/fake2/$popup
+||guardaserie.host/4k/$popup
 ||guardaserie.store/4k/$popup
 ||ilgeniodellostreaming.cam/fake2/$popup
 ||ilgeniodellostreaming.to/stream/$popup
