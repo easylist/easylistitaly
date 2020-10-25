@@ -724,6 +724,7 @@
 ||pisachannel.tv^*/Toscana-Aeroporti-
 ||piuvallitv.it^*/sponsors/
 ||poliziamunicipale.it/script/getbnr.aspx?
+||pordenoneoggi.it^*/banner-
 ||portaledelverde.it/upload/banner/
 ||positanonotizie.it^*/banner/
 ||prealpina.it/js/manzoni_interna.js
