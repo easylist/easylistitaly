@@ -1036,6 +1036,12 @@
 ||staynerd.com^*/locandina-senza-data-
 ||staynerd.com^*/logo-ydn-
 ||staynerd.com^*/nostalgia-
+||stiletv.it/banner/
+||stiletv.it^*-banner.
+||stiletv.it^*/Banner_
+||stiletv.it^*/papera.gif
+||stiletv.it^*/Russo.png
+||stiletv.it^*_banner.
 ||stradeonline.it/images/banners/
 ||strill.it/images/banners/
 ||strumentiemusica.com^*-125x125.

@@ -649,6 +649,7 @@ positanonews.it##.testata
 bluerating.com##.the_big_banner
 87tv.it##.theiaStickySidebar
 allsongs.tv,dica33.it##.top-banner
+stiletv.it##.top-banner-container
 bresciacalcio.it,cagliaricalcio.com##.top-sponsor-hp
 positanonews.it##.top-testata
 bluerating.com##.top_funders
@@ -691,6 +692,7 @@ voglioporno.com##a[href*=".com/track/"]
 blog.libero.it##a[href*=".hop.clickbank.net/"]
 videopornoitalia.it##a[href*=".rivcash.com/"]
 amalfinotizie.it,birramoriamoci.it,canale3.tv,centotrentuno.com,corrieredellacalabria.it,cremaoggi.it,cremonaoggi.it,cremonasport.it,freeonline.org,hwupgrade.it,oglioponews.it,ricettedellanonna.net,rivistanatura.com,tusciaweb.eu,tvadrano.com##a[href*="//bit.ly/"]
+animeemanga.it,comprovendodischi.it,comprovendolibri.it,corrieredellacalabria.it,stiletv.it##a[href*="//goo.gl/"]
 cb01.live##a[href*="/4K/"]
 altadefinizione.coach,cb01.events,cb01.online,cb01.run,cb01.solutions,cineblog01.love,filmsenzalimiti.love,guardarefilm.vin,guardaserie.cam,speedvideo.net##a[href*="/4k/"]
 cb01.dev,cineblog01.love##a[href*="/FULLHD/"]
@@ -740,7 +742,6 @@ outcast.it##a[href^="http://www.tostadora.it/t-shirt-nerd.php?"]
 birramoriamoci.it,hovogliadidolce.it,hwupgrade.it,hynerd.it,ilsoftware.it,infotelematico.com,juzaphoto.com,macitynet.it,mio-ip.eu,nokioteca.net,tivusat.tv,videogiocare.it##a[href^="https://amzn.to/"]
 albengacorsara.it,campaniameteo.it##a[href^="https://clk.tradedoubler.com/"]
 mymovies.it##a[href^="https://disneyplus.bn5x.net/"]
-animeemanga.it,comprovendodischi.it,comprovendolibri.it,corrieredellacalabria.it##a[href^="https://goo.gl/"]
 diventaretrader.com##a[href^="https://iqbroker.com/"]
 rockol.it##a[href^="https://rover.ebay.com/"]
 gnoccatravels.com##a[href^="https://wellcum.at/"]
