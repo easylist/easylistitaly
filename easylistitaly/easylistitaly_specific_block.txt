@@ -717,6 +717,7 @@
 ||obiettivonews.it^*/fuorirottabanner1050-
 ||obiettivonews.it^*/Urbanlogohomenuovo-
 ||occhionotizie.it^*_banner_
+||occhisusalerno.it^*/banner/
 ||ogginotizie.it^*/666.jpg
 ||ogginotizie.it^*/MULTI_page-0001-
 ||oggiroma.it/public/banner/
