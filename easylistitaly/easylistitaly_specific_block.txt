@@ -234,6 +234,9 @@
 ||cuneocronaca.it/js/clickBanner.js
 ||cuneooggi.it^*/banner-
 ||cuneooggi.it^*/banner/
+||dentrosalerno.it^*/banner/
+||dentrosalerno.it^*/sidelmed.png
+||dentrosalerno.it^*/Verrengia.png
 ||digisesso.com/nb/
 ||diretta.it/res/image/bookmaker-list.png
 ||diretta.it^*/banner/
