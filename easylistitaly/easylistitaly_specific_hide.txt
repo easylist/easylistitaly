@@ -522,6 +522,7 @@ tuttotrasporti.it##.notizieSponsorizzate
 empolifc.com##.o-section--promo
 techzilla.it##.offerta-img-box
 lamilano.it##.olvu
+altadefinizione.coach##.overplayer
 casaeclima.com##.page-wrapper
 puntocellulare.it##.panel-offers
 nostrofiglio.it##.par-listing-collab
