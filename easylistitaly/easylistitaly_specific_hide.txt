@@ -163,6 +163,7 @@ buongiornoalghero.it,freeonline.org,itvonline.news,lospiffero.com,salernonotizie
 bisceglielive.it,eurogamer.it,gommadiretto.it###skyscraper
 3bmeteo.com###sole24_banner
 casateonline.it,merateonline.it###sottotestata
+agendapolitica.it###sow-editor-3
 lnd.it###sp-sponsor
 reggina1914.it###sponsor
 victorialibertas.it###sponsor-footer

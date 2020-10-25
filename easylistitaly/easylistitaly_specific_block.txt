@@ -37,6 +37,12 @@
 ||affaritaliani.it^*/immobiliare/
 ||affaritaliani.it^*/luxu/
 ||affaritaliani.it^*/pron/
+||agendapolitica.it^*/500xagenda.jpg
+||agendapolitica.it^*/Alfa-Romeo-interno-articolo-
+||agendapolitica.it^*/cedim-
+||agendapolitica.it^*/croce-bianca-300x75.png
+||agendapolitica.it^*/orakom.png
+||agendapolitica.it^*/villa-400x228.png
 ||agensir.it^*/skin_
 ||agrigentonotizie.it/images/skin/
 ||albengacorsara.it/libri/
