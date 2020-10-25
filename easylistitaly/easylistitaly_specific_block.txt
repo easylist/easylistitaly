@@ -540,6 +540,7 @@
 ||lecconotizie.com/wp-content/banners/
 ||left.it/wp-content/uploads/banners/
 ||legab.it^*/sponsor/
+||leganavalenews.it^*/banners/
 ||legavolleyfemminile.it^*/MGS_
 ||libero.it/_ad/
 ||libero.it/static/generated_external/shopping/
