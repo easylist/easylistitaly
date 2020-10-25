@@ -917,6 +917,10 @@
 ||sanremonews.it^*/banner/
 ||sanremonews.it^*/box/
 ||sardegnareporter.it^*/Sea-Lounge-Club-Cala-Spinosa-
+||sarnonotizie.it^*/630x90.
+||sarnonotizie.it^*/conada-
+||sarnonotizie.it^*/NUTRIZIONISTA-1.
+||sarnonotizie.it^*/ok2.
 ||sassarinotizie.com^*-banner125x125.gif
 ||sassuolo2000.it/bnrs/
 ||sassuolocalcio.it^*/partners/
@@ -936,6 +940,9 @@
 ||ship2shore.it^*/strip/
 ||ship2shore.it^*/stripmobile/
 ||ship2shore.it^*_banner/
+||shortpixel.ai^*-300x250.$domain=sarnonotizie.it
+||shortpixel.ai^*/banner-$domain=sarnonotizie.it
+||shortpixel.ai^*/conad-$domain=sarnonotizie.it
 ||sibarinet.it/images/banners/
 ||siciliainternazionale.com^*-banner-
 ||siciliainternazionale.com^*/banner-
