@@ -254,6 +254,7 @@ unonotizie.it##.add
 ildolomiti.it##.adsB
 chistachiamando.it,pcprofessionale.it##.adsense
 adessoin.tv,allaguida.it,amica.it,ansa.it,buttalapasta.it,calciomercato.com,curioctopus.it,dissapore.com,forbes.it,gelocal.it,gianlucadimarzio.com,gta-expert.it,ilfattoquotidiano.it,ilpost.it,ilsole24ore.com,latina24ore.it,mediaset.it,movieplayer.it,multiplayer.it,nanopress.it,notiziemilan.it,pourfemme.it,prealpina.it,radioindiretta.fm,repubblica.it,salepepe.it,skuola.net,staffettaonline.com,stylosophy.it,supereva.it,virgilio.it,vocenuova.tv##.adv
+teleunica.com##.adv-body
 animatamente.net##.adv-link
 rbe.it##.adv-section
 radiocittadelcapo.it##.adv-space
@@ -680,6 +681,7 @@ wired.it##.wia
 newsly.it##.widget_aawp_widget_box
 dilei.it##.widget_promo_box_widget
 nursetimes.org##.widget_realty_widget
+teleunica.com##.wrap-adv-body
 lavorincasa.it##.wrapper-banner-footerbanner
 lavorincasa.it##.wrapper-banner-medium-rectangle
 lavorincasa.it##.wrapper-sider-bacheca-aziende
