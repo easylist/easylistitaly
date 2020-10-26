@@ -999,6 +999,7 @@
 ||siciliaoggi.com^*/pegaso.
 ||siciliaoggi.com^*/pesch1.
 ||sienafree.it/images/banners/
+||skuola.net/assets/js/mm-banner-manager.js?
 ||spoletonline.com/banner/
 ||sportchannel214.it^*/bannerfonia1.jpg
 ||sportchannel214.it^*/beatrice-sito.jpg
