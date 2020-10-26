@@ -210,6 +210,7 @@
 ||cn24tv.it/images/banners/
 ||comingsoon.it/img/PrimeVideoColorBtn.png
 ||comingsoon.it/imgdb/banner/
+||comolive.it^*-AVIS-logo-
 ||comprovendodischi.it/images/AMZ-
 ||comprovendolibri.it/sponsor/
 ||condominioitalia.biz^*/banner/
