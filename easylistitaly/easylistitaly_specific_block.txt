@@ -1196,6 +1196,7 @@
 ||triesteallnews.it^*_970x250_
 ||trmtv.it^*/banner_
 ||trmweb.it^*/banner-
+||trnews.it^*/Banner-
 ||trs98.it^*/82651-
 ||trs98.it^*/medical-leader-
 ||trs98.it^*/mediterranea-servizi.
