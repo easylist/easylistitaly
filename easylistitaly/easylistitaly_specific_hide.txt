@@ -605,7 +605,7 @@ agrifoodtoday.it,agrigentonotizie.it,anconatoday.it,avellinotoday.it,baritoday.i
 corriere.ca##.small_banner
 siciliaoggi.com##.sow-image-container
 tvoggisalerno.it##.sow-slider-image-container
-calciocasteddu.it,calciohellas.it,virtus.it##.sp-sponsors
+calciocasteddu.it,calciohellas.it,forzamonza.it,virtus.it##.sp-sponsors
 lifegate.it##.special-contents
 comingsoon.it##.sponPro
 europages.it,ilmonferrato.it,legab.it,olimpiamilano.com,repubblica.it,stickmangames.altervista.org##.sponsor
