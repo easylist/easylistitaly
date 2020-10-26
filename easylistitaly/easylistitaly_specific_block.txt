@@ -1168,6 +1168,7 @@
 ||trsp.tv^*/banner_
 ||trsp.tv^*/logo_tv-
 ||trsp.tv^*/mondolavoro.jpg
+||turistadimestiere.com^*/banner-
 ||tusciaweb.eu^*/Camperteam-
 ||tusciaweb.eu^*/Carrozzeria-fiorillo-
 ||tusciaweb.eu^*/cassa-edile-progetto.gif
