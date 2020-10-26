@@ -511,7 +511,7 @@ altamuralive.it,barilive.it,barlettalive.it,bisceglielive.it,bitontolive.it,cass
 altamuralive.it,barilive.it,barlettalive.it,bisceglielive.it,bitontolive.it,cassanolive.it,coratolive.it,giovinazzolive.it,lavocedimanduria.it,okfirenze.com,okmugello.it,okvaldisieve.it,ruvolive.it,santeramolive.it,terlizzilive.it,termolionline.it,unicosettimanale.it##.mkt-728x90
 altamuralive.it,barilive.it,barlettalive.it,bisceglielive.it,bitontolive.it,cassanolive.it,coratolive.it,giovinazzolive.it,lavocedimanduria.it,okfirenze.com,okmugello.it,okvaldisieve.it,ruvolive.it,santeramolive.it,terlizzilive.it,termolionline.it,unicosettimanale.it##.mkt-970x250
 bisceglielive.it##.mkt-editorial
-eurogamer.it,foodnetwork.it,gioco.it##.mpu
+boingtv.it,eurogamer.it,foodnetwork.it,gioco.it##.mpu
 affaritaliani.it##.mutui
 cb001.xyz##.mvic-btn
 calciocasteddu.it,qdmnotizie.it##.mvp-wall-link
