@@ -563,6 +563,7 @@ telestense.it##.pushbar
 quotidianosanita.it##.qs_n_interno_basso
 italiana.fm,radiobussola.it##.qt-sponsors
 vivafm.it##.qt-widget-sponsor
+quizammissione.it##.quiza-prima
 html.it##.rail-800
 giardinaggio.it##.reattiva_x_90
 sportytrader.it##.redirectou
