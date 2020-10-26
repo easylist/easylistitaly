@@ -37,6 +37,7 @@
 ||affaritaliani.it^*/immobiliare/
 ||affaritaliani.it^*/luxu/
 ||affaritaliani.it^*/pron/
+||agcult.it/files/banner/
 ||agendapolitica.it^*/500xagenda.jpg
 ||agendapolitica.it^*/Alfa-Romeo-interno-articolo-
 ||agendapolitica.it^*/cedim-
