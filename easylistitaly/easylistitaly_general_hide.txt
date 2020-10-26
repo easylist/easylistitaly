@@ -121,6 +121,7 @@
 ##.adv300eni
 ##.advPostLibri
 ##.adv_articolo
+##.adv_block__text
 ##.adv_esterno
 ##.adv_margin
 ##.adv_oriz
