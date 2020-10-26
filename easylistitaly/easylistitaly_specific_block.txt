@@ -686,6 +686,11 @@
 ||money.it^*/etoro/
 ||montecarlonews.it^*/banner/
 ||montecarlonews.it^*/box/
+||monza-news.it^*/BeExtreme.jpg
+||monza-news.it^*/binario7.jpg
+||monza-news.it^*/MBhub-
+||monza-news.it^*/perego.jpg
+||monza-news.it^*/termotecnica-
 ||monzacalcio.com/images/sponsors/
 ||motori360.it^*-300-x-150-px.
 ||motori360.it^*/300x150.
