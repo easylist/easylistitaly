@@ -364,6 +364,7 @@ notizialocale.it##.bc_random_banner
 corriere.it##.bck-media-list-sponsor
 nuovosud.it##.bg_skin
 libero.it##.big
+ilcaffe.tv##.big_box
 foodnetwork.it##.billboard
 ludomedia.it##.blocchiPbi
 ladige.it##.block--dfp
