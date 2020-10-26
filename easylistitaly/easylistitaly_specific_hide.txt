@@ -256,7 +256,7 @@ adessoin.tv,allaguida.it,amica.it,ansa.it,buttalapasta.it,calciomercato.com,curi
 animatamente.net##.adv-link
 rbe.it##.adv-section
 radiocittadelcapo.it##.adv-space
-diredonna.it##.adv-style
+diredonna.it,robadadonne.it##.adv-style
 quattroruote.it##.adv-wrap
 virgilio.it##.advTuning
 corrierecomunicazioni.it,ilsussidiario.net##.adv_container
