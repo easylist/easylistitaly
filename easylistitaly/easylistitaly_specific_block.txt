@@ -628,6 +628,8 @@
 ||maidireborsa.it^*/image004-
 ||mail.tiscali.it^*/advlib.js
 ||mammedomani.it/images/banners/
+||manduriaoggi.it/html/banner/
+||manduriaoggi.it/img_new/848x280_
 ||mangaforever.net^*/fumetti-am.
 ||mangaforever.net^*/sconti-online.jpg
 ||mangialibri.com^*/BANNER_
