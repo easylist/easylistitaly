@@ -434,6 +434,7 @@
 ||ideawebtv.it^*_350x250px-
 ||ilcalcioillustrato.it^*/banner-
 ||ilcambiamento.it/data/banner/
+||ilclandestinogiornale.italiasera.it^*/Oktoberfest-nettuno-
 ||ilcorriere.net^*-banner.
 ||ilcorrieredelgiorno.it^*/720x300_
 ||ilcorrieredelgiorno.it^*_SKIN_
@@ -1333,6 +1334,8 @@
 ||windows.net/banners/$domain=freshplaza.it
 ||windows.net/specialeelezioni/$domain=altamuralive.it|barilive.it|barlettalive.it|bitontolive.it|cassanolive.it|coratolive.it|giovinazzolive.it|lavocedimanduria.it|ruvolive.it|santeramolive.it|terlizzilive.it
 ||winxclub.com^*/dfp.js?
+||wp.com/ilclandestinogiornale.italiasera.it/*/autofficina-nettuno.gif
+||wp.com/ilclandestinogiornale.italiasera.it/*/mastro-arrosticino-
 ||wp.com/www.1web.tv/*/VISITA-IL-SITO-
 ||wp.com/www.87tv.it/*/87tv-uniimpresa.
 ||wp.com/www.gazzettadiavellino.it/*/MeravigliosaCampania-
