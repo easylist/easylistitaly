@@ -723,6 +723,10 @@
 ||notiziediprato.it/uploads/banner/
 ||notizieoggi.com^*_banner.
 ||ntimedia.it^*_banner_
+||nuovabrianza.it^*/468x901.
+||nuovabrianza.it^*/600x1601-
+||nuovabrianza.it^*/header-def-
+||nuovabrianza.it^*_banner_
 ||nuovosud.it/sites/default/files/box-
 ||nuovosud.it/sites/default/files/skin-
 ||nuovosud.it^*/banner/
