@@ -669,6 +669,7 @@ ilgiornaledivicenza.it,larena.it##.v3_horz-banner
 bresciaoggi.it,ilgiornaledivicenza.it,larena.it##.v4_section-redazionale-home
 uscatanzaro.net##.vce-featured-header-background
 larivieraonline.com##.view-Banners
+sportsondrio.it##.view-inserzioni-sponsorizzate
 vitatrentina.it##.vitat-testata-dx
 vitatrentina.it##.vitat-testata-sx
 lavorincasa.it##.wallpaper-1
