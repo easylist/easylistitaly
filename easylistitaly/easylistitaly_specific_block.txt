@@ -62,6 +62,7 @@
 ||altarimini.it/bannerBoxCatalog.php
 ||altoadigegol.it//immagini/File_banner/
 ||altoadigetv.it/images/social/banner
+||altomantovanonews.it^*/banner-
 ||amalfinotizie.it^*/omenu.one_
 ||ambientequotidiano.it/banner/
 ||ammirati.org/immagini/sponsor/
