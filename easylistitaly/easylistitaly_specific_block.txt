@@ -202,6 +202,7 @@
 ||cinemadelsilenzio.it/banner4.js
 ||cinemaitaliano.info^*/banner/
 ||cinestreaming.uno/img/b_
+||cittadimassacarrara.com/banner/
 ||cityrumors.it/images/banners/
 ||cityrumors.it/modules/mod_flexbanner/
 ||cityrumors.it^*/banner-
