@@ -785,6 +785,12 @@
 ||perotorino.it/images/banners/
 ||pharmastar.it^*/banner/
 ||pharmastar.it^*/skins/
+||piacenza24.eu^*-banner-
+||piacenza24.eu^*/aSvep.jpg
+||piacenza24.eu^*/Autorel-
+||piacenza24.eu^*/Consorzio-di-Bonifica-
+||piacenza24.eu^*/gif-pc24LQ-
+||piacenza24.eu^*/PiacenzaCalcio-
 ||piemonteoggi.it/banner/
 ||piemonteoggi.it^*/banner-
 ||piemonteoggi.it^*/banner/
