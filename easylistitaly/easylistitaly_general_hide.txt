@@ -99,6 +99,7 @@
 ##.Pubblicita
 ##.actio-adlabel
 ##.ad-fisso
+##.adSenseLaterale
 ##.ad_pedice
 ##.adagiowritebanner_dmtag
 ##.ads-dx

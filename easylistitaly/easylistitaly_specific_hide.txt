@@ -218,6 +218,7 @@ sscalciobari.it###wl-sponsor
 animeclick.it###wrapper
 corriere.it###yoodeal
 corriere.it###yoodeal2
+valtellinanews.it##.Banner
 cinemaitaliano.info##.Banner01
 cinemaitaliano.info##.Banner430x45
 cinemaitaliano.info##.Banner970x250
