@@ -625,6 +625,7 @@
 ||mangialibri.com^*/BANNER_
 ||mangialibri.com^*300x250
 ||mantovanotizie.com^*/amazon-
+||mantovauno.it^*/banner-
 ||maremmanews.it/images/banners/
 ||marigliano.net/upload/banner/
 ||marsicalive.it^*-banner.
