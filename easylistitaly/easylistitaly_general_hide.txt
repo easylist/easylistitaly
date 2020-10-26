@@ -102,6 +102,7 @@
 ##.adSenseLaterale
 ##.ad_pedice
 ##.adagiowritebanner_dmtag
+##.adivi-infeed
 ##.ads-dx
 ##.ads-sx
 ##.ads_dx

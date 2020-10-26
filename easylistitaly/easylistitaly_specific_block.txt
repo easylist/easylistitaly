@@ -624,6 +624,7 @@
 ||mangaforever.net^*/sconti-online.jpg
 ||mangialibri.com^*/BANNER_
 ||mangialibri.com^*300x250
+||mantovanotizie.com^*/amazon-
 ||maremmanews.it/images/banners/
 ||marigliano.net/upload/banner/
 ||marsicalive.it^*-banner.
