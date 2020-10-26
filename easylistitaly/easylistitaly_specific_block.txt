@@ -754,6 +754,7 @@
 ||olbianova.it^*/Dettori_
 ||olbianova.it^*/JE_SUIS_
 ||olimpiamilano.com^*/sponsors/
+||oltrepomantovanonews.it^*/banner-
 ||ondanovara.it^*_banner_
 ||ondarock.it/skin/
 ||ondatv.tv^*/banner-
