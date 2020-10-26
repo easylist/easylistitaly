@@ -182,6 +182,7 @@ mondodelgusto.it###super_sx
 diretta.it###tab-bonus-offers
 diretta.it###tab-odds
 gamesvillage.it###takeover_gv
+radioluna.it###testata
 studio5fm.com###text-13
 giornalistitalia.it,noinotizie.it###text-19
 noinotizie.it###text-20
@@ -678,7 +679,7 @@ sportsondrio.it##.view-inserzioni-sponsorizzate
 vitatrentina.it##.vitat-testata-dx
 vitatrentina.it##.vitat-testata-sx
 lavorincasa.it##.wallpaper-1
-algheroeco.com##.wallpaper-link
+algheroeco.com,radioluna.it##.wallpaper-link
 notiziarioeolie.it##.well
 transfermarkt.it##.werbung
 transfermarkt.it##.werbung-skyscraper

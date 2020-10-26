@@ -902,10 +902,13 @@
 ||radiolaquila1.it^*/mei-
 ||radioluna.it/news/banner/
 ||radioluna.it/news/header/
+||radioluna.it^*-200X110.
+||radioluna.it^*/banner/
 ||radioluna.it^*/banner3.
 ||radioluna.it^*/Fedra-lat.jpg
 ||radioluna.it^*/Manchette_
 ||radioluna.it^*/simeone-24-
+||radioluna.it^*_BANNER-
 ||radiomarte.it/site/images/sponsor/
 ||radiomarte.it^*/autoscala_
 ||radiomarte.it^*/Ln_Rm.
