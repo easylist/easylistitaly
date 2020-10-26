@@ -725,6 +725,7 @@
 ||nbnotizie.it^*/LoghiPUBBL/
 ||nerdplanet.it^*/banner.
 ||nerdplanet.it^*/batmanultimo2017.
+||news-24.it^*/skin-
 ||newscatania.com^*_Petrol-Company.
 ||newsf1.it^*/promozione-libro-
 ||newsfood.com^*-Banner-
