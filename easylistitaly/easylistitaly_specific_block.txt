@@ -260,6 +260,8 @@
 ||ecoaltomolise.net^*/Banner-
 ||ecoaltomolise.net^*/xbanner-
 ||ecodallecitta.it/immagini/banners/
+||ecovicentino.it/wp-admin/get_img.php?*banner
+||ecovicentino.it^*/banner-
 ||edilportale.com/Banner/
 ||edilportale.com/immagini/velux_manchette
 ||elaborare.com^*/banner
