@@ -924,6 +924,7 @@
 ||repubblica.it^*/neorep.js
 ||repubblica.it^*/sponsors.png
 ||repubblica.it^*_contentsense_
+||resegoneonline.it^*-larioreti-
 ||rete8.it^*/banner_
 ||retesei.com^*/depam.png
 ||retesei.com^*/EMANUELE-LA-RUSSA.jpg
