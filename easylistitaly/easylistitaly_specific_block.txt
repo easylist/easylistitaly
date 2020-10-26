@@ -399,6 +399,7 @@
 ||guidaviaggi.it/banners/
 ||guidaviaggi.it/public/banners/
 ||gwendalina.tv^*/stickybar_script-
+||h24notizie.com^*/AQL-
 ||historychannel.it^*/swissre.
 ||hovogliadidolce.it^*/banner-
 ||html.it^*/banner/
