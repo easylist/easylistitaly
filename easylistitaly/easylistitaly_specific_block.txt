@@ -23,6 +23,7 @@
 ||abruzzoweb.it^*/banner-
 ||acquariofilia.biz/banner/
 ||acquariofilia.biz/images/banner/
+||acrenate.it^*/sponsor_
 ||acspezia.com^*/sponsors/
 ||adginforma.it/images/banner_
 ||adginforma.it/images/banners/
