@@ -460,7 +460,7 @@ agendadigitale.eu##.gallery-container-home
 telepegaso.it##.gallery-item
 zerocinquantuno.it##.gdlr-logo
 3bmeteo.com##.gpt_top
-fanta.soccer,fiscomania.com,money.it##.gptslot
+fanta.soccer,fiscomania.com,money.it,tuttogratis.it##.gptslot
 altadefinizione.coach,guardaserie.store##.guarda_hd
 toonitalia.org##.guarda_in_hd
 ilgeniodellostreaming.rest,ilgeniodellostreaming.to##.guardasingle
