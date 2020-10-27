@@ -89,6 +89,7 @@
 ||ascittadella.it^*/sponsor/
 ||ascolicalcio1898.it^*/sponsor/
 ||ascolinews.it^*/GUIDALUSSO2000.gif
+||asgiana.com^*/banner-
 ||atalanta.it^*/Banner-
 ||atalanta.it^*_banner_
 ||autobusweb.com^*-Banner-
