@@ -1297,6 +1297,7 @@
 ||umbriajournal.com^*_banner_
 ||umbriasettegiorni.it^*/skin-
 ||unicasport.it^*-Banner-
+||unicoebello.it^*-380x380
 ||unonotizie.it/immagini/banner/
 ||uominietrasporti.it^*/Auto-doc.
 ||uscatanzaro.net^*/motordoctor.
