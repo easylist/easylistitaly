@@ -145,6 +145,8 @@
 ||calabrianews24.com^*/Banner_
 ||calabriareportage.it^+-Banner-
 ||calabriatv.it^*/BANNER-
+||calciolecco1912.com^*/sp-
+||calciolecco1912.com^*/sponsorini-
 ||calciostyle.it^*/bonusscommesse-
 ||campaniameteo.it/CMS/Upload/GalleriaUtente/Image/
 ||campanianotizie.com^*/bann_
