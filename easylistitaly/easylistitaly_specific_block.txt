@@ -633,6 +633,10 @@
 ||livorno24.com^*/logo-carr-Roma-
 ||livorno24.com^*/Pausa-Caff%C3%A8-Livorno.jpg
 ||livorno24.com^*/Pierini-Farmacia.jpg
+||livornocalcio.it^*/gruppo-spinelli-
+||livornocalcio.it^*/legea-logo-
+||livornocalcio.it^*/Pediatrica-
+||livornocalcio.it^*/solo-livorno-
 ||livornolive.it^*/slider.
 ||livornopress.it^*/banner-
 ||livornopress.it^*/SCOPRI-DI-PIU-IES-
