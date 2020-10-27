@@ -789,6 +789,8 @@
 ||ottofm.com^*/banner-
 ||ottofm.com^*_banner.
 ||pablitoescort.com/images/banner/
+||padovacalcio.it^*/320X130_
+||padovacalcio.it^*_990x30.
 ||padovanews.it/images/banners/
 ||palermomania.com/images/banner/
 ||palermomania.it/images/banner/
