@@ -229,6 +229,7 @@ comolive.it,resegoneonline.it,valtellinanews.it##.Banner
 cinemaitaliano.info##.Banner01
 cinemaitaliano.info##.Banner430x45
 cinemaitaliano.info##.Banner970x250
+fc-suedtirol.com##.BannerContainer
 cinemaitaliano.info##.BannerDx
 edilportale.com##.BigSquare
 viterbonews24.it,viterbooggi.eu##.CON-fascia-alto-banner
@@ -547,7 +548,7 @@ casaeclima.com##.page-wrapper
 puntocellulare.it##.panel-offers
 nostrofiglio.it##.par-listing-collab
 pianetamamma.it##.par-sponsorby-logo
-ragusanews.com##.partner
+fc-suedtirol.com,ragusanews.com##.partner
 bolognafc.it##.partner-footer
 100ideeperristrutturare.it,casa-naturale.com,quattrozampe.online,villeecasali.com##.partner-item-wrapper
 radiogardena.it##.partner-wrapper
