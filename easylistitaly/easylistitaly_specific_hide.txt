@@ -316,6 +316,7 @@ algheroeco.com##.banner-header-dx
 algheroeco.com##.banner-header-sx
 ebikecult.it,mtbcult.it##.banner-homepage-slider-728-90
 italiafruit.net##.banner-i
+picenonews24.it##.banner-img
 cremona1.it##.banner-inner
 italiafruit.net##.banner-m
 radiotoscana.it##.banner-radio
