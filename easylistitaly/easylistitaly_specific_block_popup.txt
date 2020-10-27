@@ -1,6 +1,7 @@
 ||altadefinizione.coach/4k/$popup
 ||avmagazine.it/advertise/$popup
 ||cineblog01.love/fake2/$popup
+||eurostreaming.movie/serie-tv-streaming.php$popup
 ||guardaserie.host/4k/$popup
 ||guardaserie.store/4k/$popup
 ||ilgeniodellostreaming.cam/fake2/$popup
@@ -8,4 +9,4 @@
 ! about:blank popups
 /about:blank.*/$popup,domain=casacinema.work|guardaserie.biz|guardaserie.cam|ilgeniodellostreaming.cam|leggenditaloi.com
 ! html/image popups
-/^https?:\/\/.*\.(jpg|png|html|svg|ico)/$popup,domain=cinefun.co
+/^https?:\/\/.*\.(jpg|png|html|svg|ico)/$popup,domain=cinefun.co|eurostreaming.movie

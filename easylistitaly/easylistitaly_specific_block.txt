@@ -282,6 +282,7 @@
 ||euroregionalpmed.eu/js/clickBanner_
 ||eurostreaming.fyi/hd-
 ||eurostreaming.fyi/sc.png
+||eurostreaming.movie^*/hostfullhd.png
 ||farevela.net^*/Banner_
 ||farevela.net^*/QIcompositesFV.jpg
 ||farevela.net^*/unnamed-1.gif
