@@ -994,6 +994,7 @@
 ||ragusah24.it^*/cornice-
 ||ragusanews.com//immagini_banner/
 ||ragusanews.com/images_banner/
+||ravennafc.it^*/sponsor-
 ||ravennatoday.it/images/skin/
 ||rcrevolution.net^*/banners/
 ||reggina1914.it^*/sponsor-
