@@ -925,6 +925,7 @@
 ||radioantennaverde.it^*/ippodromodelgarigliano.
 ||radioantennaverde.it^*/zoomarine.
 ||radioautmarche.it^*/banner_
+||radioazzurra.it^*/banner/
 ||radioblu.com/img/colonna_dx/
 ||radiocantu.com^*-260x260-
 ||radiocarina.it/images/bn_sponsor_
