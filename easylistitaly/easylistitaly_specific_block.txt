@@ -165,6 +165,8 @@
 ||canale85.it^*/nuovarredo.jpg
 ||caprievent.it^*/gillini.jpg
 ||carinatv.it/images/bn_
+||carpifc.com^*/Givova_logo.png
+||carpifc.com^*/Logo_Bper.png
 ||carraresecalcio.it^*-sponsor-
 ||casaeclima.com/js/banner.js
 ||casaeclima.com/js/manchette.js
