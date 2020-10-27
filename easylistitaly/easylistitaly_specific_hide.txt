@@ -154,6 +154,7 @@ mondoplay.it,mondoxbox.com###offersbox_wide
 sassuolocalcio.it,ship2shore.it###partners
 lafeltrinelli.it###partners-slider
 amazon.it###pdagMwebCarousel
+acprosesto.it###prefooter
 flashgames.it###pub_sotto
 nuovosud.it###sfondo
 eurogamer.it###sidebar_amazon
