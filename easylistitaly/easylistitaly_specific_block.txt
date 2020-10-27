@@ -49,6 +49,7 @@
 ||albengacorsara.it/libri/
 ||albengacorsara.it/promo/
 ||albinoleffe.com/images/banners/
+||alessandriacalcio.it^*/banner_
 ||alfamitoclub.it/images/banner/
 ||alfamitoclub.it/images/sponsor/
 ||algheroeco.com^*-banner-
