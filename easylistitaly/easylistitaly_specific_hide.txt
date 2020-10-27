@@ -452,7 +452,7 @@ ilmiostiledivita.it##.footer-columns
 lega-pro.com##.footer-partner
 genoacfc.it##.footer-partner-link
 bluvolleyverona.it,chievoverona.it,hellasverona.it##.footer-sponsor
-acspezia.com,bresciacalcio.it,cagliaricalcio.com##.footer-sponsors
+acspezia.com,bresciacalcio.it,cagliaricalcio.com,olbiacalcio.com##.footer-sponsors
 iltredici.it##.footer__partners
 rsd.it##.footer__widgets
 palermofc.com##.footer_int
@@ -666,7 +666,7 @@ bluerating.com##.the_big_banner
 87tv.it##.theiaStickySidebar
 allsongs.tv,casamagazine.it,dica33.it,donnemagazine.it,foodblog.it,mammemagazine.it,motorimagazine.it,offerteshopping.it,style24.it,tuobenessere.it,viaggiamo.it##.top-banner
 stiletv.it##.top-banner-container
-bresciacalcio.it,cagliaricalcio.com##.top-sponsor-hp
+bresciacalcio.it,cagliaricalcio.com,olbiacalcio.com##.top-sponsor-hp
 positanonews.it##.top-testata
 bluerating.com##.top_funders
 dtti.it##.topad
