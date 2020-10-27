@@ -161,6 +161,7 @@
 ||canale85.it^*/nuovarredo.jpg
 ||caprievent.it^*/gillini.jpg
 ||carinatv.it/images/bn_
+||carraresecalcio.it^*-sponsor-
 ||casaeclima.com/js/banner.js
 ||casaeclima.com/js/manchette.js
 ||casaeclima.com/js/skin.js
