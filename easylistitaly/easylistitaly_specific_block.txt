@@ -1111,6 +1111,7 @@
 ||sslazio.it/images/banners/
 ||sslazio.it/images/sponsors/
 ||sslazio.it^*/banner_
+||ssmatelicacalcio.com^*/fidea.png
 ||stabiachannel.it^*/banner/
 ||stackpathcdn.com^*-banner.$domain=ondatv.tv
 ||stackpathcdn.com^*/banner_$domain=ondatv.tv
