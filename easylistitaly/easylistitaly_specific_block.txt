@@ -86,6 +86,7 @@
 ||aostaoggi.it/images/banners/
 ||ascittadella.it^*/sponsor/
 ||ascolicalcio1898.it^*/sponsor/
+||ascolinews.it^*/GUIDALUSSO2000.gif
 ||atalanta.it^*/Banner-
 ||atalanta.it^*_banner_
 ||autobusweb.com^*-Banner-
@@ -1354,6 +1355,7 @@
 ||wp.com/ilclandestinogiornale.italiasera.it/*/mastro-arrosticino-
 ||wp.com/www.1web.tv/*/VISITA-IL-SITO-
 ||wp.com/www.87tv.it/*/87tv-uniimpresa.
+||wp.com/www.ascolinews.it/*/ORO.gif
 ||wp.com/www.gazzettadiavellino.it/*/MeravigliosaCampania-
 ||wp.com/www.gazzettadiavellino.it/*/nuova-elite-
 ||wp.com/www.gazzettadimilano.it/*/airpure-
