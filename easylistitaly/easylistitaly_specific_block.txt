@@ -594,6 +594,8 @@
 ||lavocedeltrentino.it^*/NATAM-
 ||lavocedeltrentino.it^*/skin-
 ||lavocedeltrentino.it^*600x600
+||lavocedibolzano.it^*-1920X1280
+||lavocedibolzano.it^*-600X600
 ||lavorincasa.it/adb/
 ||lavoripubblici.it/banner/
 ||lazioingol.it^*/baked.jpg

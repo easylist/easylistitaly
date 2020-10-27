@@ -143,6 +143,8 @@ mymovies.it###middle1_companion
 tusciaweb.eu###miesSPLASH
 eurogamer.it###mobile-leaderboard
 eurogamer.it###mobile-mpu
+lavocedibolzano.it###mvp-site-wall
+lavocedibolzano.it###mvp-wallpaper
 4actionsport.it###myads
 rovigooggi.it###news-left-box
 rovigooggi.it###news-pretext-box
@@ -456,7 +458,7 @@ rsd.it##.footer__widgets
 palermofc.com##.footer_int
 quattroruote.it##.four-box-sponsor
 quattroruote.it##.fullBanner
-anteprima24.it,bolognaindiretta.it,buttanissima.it,centropagina.it,corrieresalentino.it,gazzettadasti.it,giornaledellabirra.it,giornaledellavela.com,ilfattonisseno.it,ilsicilia.it,informazioneonline.it,labtv.net,latina24ore.it,lavalsusa.it,lavocedeltrentino.it,lineauno.it,milanosud.it,modenaindiretta.it,qds.it,quicosenza.it,radioibiza.it,reggionline.com,reportmotori.it,rietinvetrina.it,rivistastudio.com,superj.it,telebari.it,ticinonotizie.it,travelnostop.com##.g
+anteprima24.it,bolognaindiretta.it,buttanissima.it,centropagina.it,corrieresalentino.it,gazzettadasti.it,giornaledellabirra.it,giornaledellavela.com,ilfattonisseno.it,ilsicilia.it,informazioneonline.it,labtv.net,latina24ore.it,lavalsusa.it,lavocedeltrentino.it,lavocedibolzano.it,lineauno.it,milanosud.it,modenaindiretta.it,qds.it,quicosenza.it,radioibiza.it,reggionline.com,reportmotori.it,rietinvetrina.it,rivistastudio.com,superj.it,telebari.it,ticinonotizie.it,travelnostop.com##.g
 agendadigitale.eu##.gallery-container-home
 telepegaso.it##.gallery-item
 zerocinquantuno.it##.gdlr-logo
