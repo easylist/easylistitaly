@@ -133,6 +133,7 @@ qdpnews.it,viterbopost.it###manchette-sx
 stadionews.it###manchette_dx_container
 stadionews.it###manchette_sx_container
 dailybest.it,politicanews.it###masthead
+matematicamente.it###masthead-desktop-wrapper
 ondarock.it###masthead_or
 staynerd.com###media_image-40
 giornalistitalia.it###media_image-5
