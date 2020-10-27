@@ -660,7 +660,7 @@ telesud.it##.teles-header-banner
 positanonews.it##.testata
 bluerating.com##.the_big_banner
 87tv.it##.theiaStickySidebar
-allsongs.tv,dica33.it,viaggiamo.it##.top-banner
+allsongs.tv,dica33.it,donnemagazine.it,viaggiamo.it##.top-banner
 stiletv.it##.top-banner-container
 bresciacalcio.it,cagliaricalcio.com##.top-sponsor-hp
 positanonews.it##.top-testata
