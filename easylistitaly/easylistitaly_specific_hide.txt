@@ -294,6 +294,7 @@ giardiniblog.it##.asa2_fbh
 supercoin.it##.atla-card-link
 radiogold.it##.autobanner
 subito.it##.autopromo
+uspistoiese1921.it##.av-partner-fake-img
 amazon.it##.aw-campaigns
 gnoccatravels.com##.b-nner-desktop-block
 virgilio.it##.b300x250
