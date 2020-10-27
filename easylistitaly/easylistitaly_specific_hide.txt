@@ -606,7 +606,7 @@ iovivoaroma.org##.skin_link_top
 atvreport.it##.skinlink
 tiscali.it##.sky-n
 gioco.it##.skyscraper
-uslecce.it##.slick-track
+fermanafc.com,uslecce.it##.slick-track
 radioradio.it##.slide
 livornolive.it,toscana.live##.slidelink
 oipamagazine.it##.slider
