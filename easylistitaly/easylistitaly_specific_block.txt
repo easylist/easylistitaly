@@ -827,6 +827,9 @@
 ||piacenza24.eu^*/Consorzio-di-Bonifica-
 ||piacenza24.eu^*/gif-pc24LQ-
 ||piacenza24.eu^*/PiacenzaCalcio-
+||piacenzacalcio.it^*/sponsor_
+||piacenzacalcio.it^*_banner_
+||piacenzacalcio.it^*_sponsor_
 ||piazzasalento.it^*/santarita300x250.jpg
 ||picenonews24.it^*/arg_logo.png
 ||picenonews24.it^*/foodrelax4.jpg
