@@ -1041,6 +1041,10 @@
 ||salernonotizie.it^*-300x300px.
 ||salernonotizie.it^*/skin_
 ||salernonotizie.net^*_banner_
+||sambenedettesecalcio.eu^*/cmp-
+||sambenedettesecalcio.eu^*/Copia-di-Senza-titolo-
+||sambenedettesecalcio.eu^*/ideastella-
+||sambenedettesecalcio.eu^*/Progetto-senza-titolo-
 ||sangavinomonreale.net^*/Banner-
 ||sangavinomonreale.net^*/Cardia-
 ||sangavinomonreale.net^*/Casula.jpg
