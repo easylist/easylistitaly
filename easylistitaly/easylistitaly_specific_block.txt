@@ -1093,6 +1093,10 @@
 ||sportpaper.it^*/PayFan-
 ||sportpaper.it^*/PayFan.
 ||spotmix.libero.it^
+||ssarezzo.it^*-sponsor-
+||ssarezzo.it^*/Partner-
+||ssarezzo.it^*/Premium-per-
+||ssarezzo.it^*/Ubi-per-
 ||sscnapoli.it/shared/bannerbinary/
 ||sscnapoli.it/web/img/Banner_
 ||sscnapoli.it/web/img/filmauro_
