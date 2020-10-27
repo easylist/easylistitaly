@@ -882,6 +882,9 @@
 ||quotidianodellumbria.it^*/manchette-
 ||quotidianodellumbria.it^*/skin-
 ||quotidianodellumbria.it^*_300x250px-
+||quotidianosanita.it^*/asma_grave_260.jpg
+||quotidianosanita.it^*/health_serie_
+||quotidianosanita.it^*/roche_differita.jpg
 ||radioamore.it^*/banners/
 ||radioanaunia.it^*/beauty_ninfea_
 ||radioanaunia.it^*/final-
