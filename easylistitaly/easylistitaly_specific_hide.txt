@@ -797,6 +797,7 @@ fcinternews.it##div[style="overflow: hidden; height: 90px; width: 160px; margin:
 tuttoatalanta.com##div[style="overflow: hidden; height: 90px; width: 728px; margin: auto;"]
 sampdorianews.net##div[style="padding: 0px 0px 3px 0px; min-height: 280px;"]
 tuttosalernitana.com##div[style="padding: 0px 0px 3px 0px; min-height: 600px;"]
+tuttob.com##div[style="padding: 3px 0; min-height: 250px; width: 300px; margin: auto;"]
 milannews.it,vocegiallorossa.it##div[style="padding: 3px 0px 3px 0px; min-height: 280px;"]
 milannews.it,sampdorianews.net,vocegiallorossa.it##div[style="padding: 3px 3px 3px 3px; min-height: 600px;"]
 radioradio.it##div[style="position: absolute; display: block; top: 0px; left: 0px; width: 696px; height: 182px; transform: scale(1.001);"]
