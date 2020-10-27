@@ -636,6 +636,8 @@ acfontemeravigliosa.it,alfamasera.it,asdcmozzo.it,asdeasytennis.it,asdfrentania.
 aquilabasket.it##.sponsors-carousel
 avvenire.it##.spot
 mostraip.com##.spot1
+radiorcs.it##.spotaltosottomenutre
+radiorcs.it##.spotcentrato
 sportytrader.it##.sticky-header_banner_first
 occhionotizie.it##.sticky_bar_container
 webnews.it##.sticky_wrapper
