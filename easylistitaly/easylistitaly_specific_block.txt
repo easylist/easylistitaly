@@ -151,6 +151,10 @@
 ||calabrianews24.com^*/Banner_
 ||calabriareportage.it^+-Banner-
 ||calabriatv.it^*/BANNER-
+||calciofoggia1920.net^*/BCC-
+||calciofoggia1920.net^*/macron-
+||calciofoggia1920.net^*/six-
+||calciofoggia1920.net^*/viva-
 ||calciolecco1912.com^*/sp-
 ||calciolecco1912.com^*/sponsorini-
 ||calciostyle.it^*/bonusscommesse-
