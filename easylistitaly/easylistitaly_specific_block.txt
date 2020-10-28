@@ -414,6 +414,8 @@
 ||gratisfree.it/cgi-bin/bannergest$script
 ||greenews.info/wp-content/banners/
 ||greenretail.it^*/LAND-
+||gruppotv7.com/banner/
+||gruppotv7.com/img/Banner
 ||gruppotv7.com/img/banner/
 ||gruppovideomedia.it/banners/
 ||guardarefilm.vin/templates/italiafilm/images/btn
