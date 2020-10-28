@@ -361,6 +361,8 @@ quotidianodiragusa.it##.banner_full_cc
 condominioweb.com##.banner_home
 italpress.com##.banner_img_widget
 villaggiomusicale.com##.banner_leaderboard
+startupitalia.eu##.banner_slick
+startupitalia.eu##.banner_slick_2
 ragusanews.com##.banner_top
 mercuriomagazine.com##.banner_top_left
 mercuriomagazine.com##.banner_top_right
