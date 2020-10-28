@@ -1225,6 +1225,10 @@
 ||telesirio.it/images/banners/
 ||telestense.it/wp-content/banners/
 ||teletruria.it^*/CHIMET-
+||teleuniverso.it^*/banner-
+||teleuniverso.it^*/Come-in-Ciociaria.jpg
+||teleuniverso.it^*/Post-ComunicaCity-
+||teleuniverso.it^*/prenotopa-
 ||tempoitalia.it/banner/
 ||temporeale.info^*/Banner-
 ||tenews.it/banner/
