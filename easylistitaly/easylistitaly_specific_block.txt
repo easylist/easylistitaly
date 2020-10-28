@@ -777,6 +777,8 @@
 ||notiziediprato.it/caricaBannerIframe/
 ||notiziediprato.it/uploads/banner/
 ||notizieoggi.com^*_banner.
+||nslradiotv.it^*/cinecitta-
+||nslradiotv.it^*/roma-world.jpg
 ||ntimedia.it^*_banner_
 ||nuovabrianza.it^*/468x901.
 ||nuovabrianza.it^*/600x1601-
