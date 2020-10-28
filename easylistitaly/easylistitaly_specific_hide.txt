@@ -124,6 +124,7 @@ sienafree.it###ja-leaderboard
 pupia.tv###leader-left2
 espansionetv.it,torrechannel.it###leader-wrapper
 bisceglielive.it,cronachedibirra.it,dissacration.com,eurogamer.it,fiscaleweb.com,gingerandtomato.com,ilcinemaniaco.com,iochiamo.com,lussuosissimo.com,medicinalive.com,mondoreality.com,mrwebmaster.it,musickr.it,skiinfo.ch,skiinfo.it###leaderboard
+diritto.it###libpro
 business.it###logoYobee
 eurogamer.it###low-leaderboard
 salernonotizie.it###machette_left
@@ -393,6 +394,7 @@ ilgeniodellostreaming.tel##.bnnr1
 ilgeniodellostreaming.tel##.bnnr2
 meteovalmorea.it##.bnr-row
 staffettaonline.com##.bnrZonaLati
+diritto.it##.book-container
 livescore.it##.bookmaker
 sslazio.it##.box-79
 centrometeoitaliano.it##.box-adv
