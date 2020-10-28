@@ -256,7 +256,7 @@ topdigamma.it,tuttotek.it##.aawp-product
 tag24.it##.above-footer
 ilsole24ore.com##.abox
 radioitalia.it##.acquista
-jugo.it,lacrocequotidiano.it,liberatv.ch,lonelyplanetitalia.it,mondoplay.it,mondoxbox.com,quotidianoapuano.net,serietvu.link,smartbuildingitalia.it,trend-online.com,tripadvisor.it##.ad
+ilfoglio.it,jugo.it,lacrocequotidiano.it,liberatv.ch,lonelyplanetitalia.it,mondoplay.it,mondoxbox.com,quotidianoapuano.net,serietvu.link,smartbuildingitalia.it,trend-online.com,tripadvisor.it##.ad
 tusciaweb.eu##.ad-article
 laltrapagina.it##.ad1
 laltrapagina.it##.ad5
@@ -278,7 +278,7 @@ virgilio.it##.advTuning
 corrierecomunicazioni.it,ilsussidiario.net##.adv_container
 calabria7.it##.advanced_floating_content
 addicted2play.com,eurogamer.it,gioco.it,lausc.it,morningstar.it##.advert
-liberoquotidiano.it,pharmastar.it##.advertisement
+ilfoglio.it,liberoquotidiano.it,pharmastar.it##.advertisement
 sienafree.it##.advs
 soldionline.it##.afc_boxcontent_taglist
 alfemminile.com##.affi-button
