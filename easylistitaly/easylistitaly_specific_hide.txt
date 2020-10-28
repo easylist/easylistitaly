@@ -451,6 +451,7 @@ affaritaliani.it##.eni
 garganotv.com##.erzodfm-container
 divinafm.it##.fdc-widget-sponsor
 masterviaggi.it##.fieldset_sponsor
+tantifilm.best##.filmad
 luinonotizie.it##.fixed-sponsor
 udinese.it##.foobar-sponsor
 ilmiostiledivita.it##.footer-columns
