@@ -1199,6 +1199,11 @@
 ||telegenova.net/unige.gif
 ||telegolfo.com^*-500X150.
 ||telejonio.com^*/banner_
+||telelazionord.it^*/600x90_
+||telelazionord.it^*/970x90_
+||telelazionord.it^*/Foto-ARMK-
+||telelazionord.it^*/sigma1.png
+||telelazionord.it^*/sigma_
 ||telemia.it^*-BANNER-
 ||telemia.it^*/banner-
 ||telemia.it^*/EURONICS-
