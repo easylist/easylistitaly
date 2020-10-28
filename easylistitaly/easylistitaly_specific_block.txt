@@ -818,6 +818,10 @@
 ||padovacalcio.it^*/320X130_
 ||padovacalcio.it^*_990x30.
 ||padovanews.it/images/banners/
+||paganesecalcio.com^*/agrovo-
+||paganesecalcio.com^*/caiazzo-
+||paganesecalcio.com^*/GIONOVA-
+||paganesecalcio.com^*/Logo-Effezeta-
 ||palermomania.com/images/banner/
 ||palermomania.it/images/banner/
 ||palermomania.it/images/banner_
