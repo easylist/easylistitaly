@@ -175,6 +175,7 @@ reggina1914.it###sponsor
 victorialibertas.it###sponsor-footer
 biellaoggi.it,casaleoggi.it,cuneooggi.it,piemonteoggi.it,vercellioggi.it###sponsor_dx
 biellaoggi.it,casaleoggi.it,cuneooggi.it,piemonteoggi.it,vercellioggi.it###sponsor_sx
+casertanafc.it###sponsors
 zeusnews.it###spotEsterno
 animeclick.it###stile_link
 valsassinanews.com###stripbanner
