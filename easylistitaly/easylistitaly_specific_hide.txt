@@ -670,6 +670,7 @@ volleyball.it##.su-carousel
 notiziariocalcio.com,pianetabasket.com,tuttosalernitana.com,tuttoveneziasport.it##.sub
 emmelle.it##.supermag-ainfo-widget
 mbnews.it##.swiper-container
+yesmagazine.it##.swiper-slide-inner
 luinonotizie.it##.swiper-wrapper
 diventaretrader.com##.table-alm
 ilpost.it##.tag-sponsored

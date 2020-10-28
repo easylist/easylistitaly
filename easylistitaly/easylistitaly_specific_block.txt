@@ -1498,6 +1498,7 @@
 ||wp.com^*/p500-$domain=proiezionidiborsa.it
 ||wp.com^*/skin-$domain=infocilento.it
 ||wp.com^*Banner300x600.$domain=milanodabere.it
+||yesmagazine.it^*_780X90.
 ||youtg.net^*/cornice_
 ||youtvrs.it^*/banner-
 ||zerocinquantuno.it^*-banner-
