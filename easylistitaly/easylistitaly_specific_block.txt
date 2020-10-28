@@ -1120,6 +1120,7 @@
 ||sscnapoli.it/shared/bannerbinary/
 ||sscnapoli.it/web/img/Banner_
 ||sscnapoli.it/web/img/filmauro_
+||ssjuvestabia.it^*-sponsor-
 ||sslazio.it/images/banners/
 ||sslazio.it/images/sponsors/
 ||sslazio.it^*/banner_
