@@ -1253,6 +1253,10 @@
 ||toscanatv.it^*/BANNER-
 ||tp24.it/immagini_banner/
 ||tp24.it/library/_popup_banner.php
+||trapanicalcio.it^*/arena2.jpg
+||trapanicalcio.it^*/libertylines.jpg
+||trapanicalcio.it^*/nuova-sicilauto.jpg
+||trapanicalcio.it^*/superconvieniente.png
 ||trapaniok.it/public/banner/
 ||trasporti-italia.com^*/banner/
 ||travelgay.it/images/fade_OK.gif
