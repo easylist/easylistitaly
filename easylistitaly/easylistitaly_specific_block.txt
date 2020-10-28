@@ -1241,6 +1241,7 @@
 ||tiscali.it/planner/
 ||tiscali.it^*/comparasemplice.
 ||tmwradio.com^*/banner/
+||toplegal.it/upload/banner/
 ||torinoerotica.com/banner/
 ||torinofc.it^*/header_loghi/
 ||torinofc.it^*/sponsor/
