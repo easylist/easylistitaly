@@ -32,6 +32,7 @@
 ###adv-skin-colonnasx
 ###advAutopromo1
 ###advAutopromo2
+###advSwiper_article
 ###adv_ManchetteDx
 ###adv_ManchetteSx
 ###adv_Skin_left
