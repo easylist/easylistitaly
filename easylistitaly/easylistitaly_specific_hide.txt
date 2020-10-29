@@ -365,6 +365,7 @@ edilportale.com,ilmessaggero.it##.bannerTop
 teleponte.it##.banner_6
 professionecalcio.net,professionemotori.it##.banner_after_feat
 fidelityhouse.eu##.banner_box
+winenews.it##.banner_concessionaria
 arte.it##.banner_cont
 volleyball.it##.banner_container
 everyeye.it##.banner_destra
@@ -398,6 +399,7 @@ ilcaffe.tv##.big_box
 virtusverona.it##.bigbanner
 foodnetwork.it##.billboard
 ludomedia.it##.blocchiPbi
+winenews.it##.blocco_banner_top
 ladige.it##.block--dfp
 california.it##.block-13
 mediaworld.it##.block-mw-external-banner
@@ -537,6 +539,7 @@ erbanotizie.com##.leaderboard-bottom
 lacnews24.it##.left-side
 laleggepertutti.it##.lexdo-banner
 business24tv.it##.link-at-body
+winenews.it##.link_skin
 diretta.it##.live-betting-strip
 bisceglielive.it##.live-promo
 omnifurgone.it##.m1-apb
@@ -546,6 +549,8 @@ inter.it##.main-footer-sponsor
 opinione.it,ship2shore.it##.manchette
 erbanotizie.com,noinotizie.it##.manchette-dx
 erbanotizie.com,noinotizie.it##.manchette-sx
+winenews.it##.manchette_l
+winenews.it##.manchette_r
 24emilia.com##.marquee0
 orologipertutti.it##.masonry_grid_fullwidth
 ecoo.it##.masterhead-container-column
