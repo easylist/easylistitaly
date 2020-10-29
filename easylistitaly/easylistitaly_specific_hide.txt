@@ -697,7 +697,7 @@ telesudweb.it##.td_single_image_bg
 telesud.it##.teles-header-banner
 positanonews.it##.testata
 bluerating.com##.the_big_banner
-87tv.it##.theiaStickySidebar
+87tv.it,pianetadonne.blog##.theiaStickySidebar
 allsongs.tv,casamagazine.it,dica33.it,donnemagazine.it,foodblog.it,mammemagazine.it,motorimagazine.it,offerteshopping.it,style24.it,tuobenessere.it,viaggiamo.it##.top-banner
 stiletv.it##.top-banner-container
 bresciacalcio.it,cagliaricalcio.com,olbiacalcio.com##.top-sponsor-hp
