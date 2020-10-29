@@ -485,7 +485,7 @@ telelazionord.it##.footer_top_banner
 quattroruote.it##.four-box-sponsor
 quattroruote.it##.fullBanner
 legnagocalcio.it##.fusion-carousel-holder
-anteprima24.it,bolognaindiretta.it,buttanissima.it,centropagina.it,corrieresalentino.it,gazzettadasti.it,giornaledellabirra.it,giornaledellavela.com,ilfattonisseno.it,ilsicilia.it,informazioneonline.it,labtv.net,latina24ore.it,lavalsusa.it,lavocedeltrentino.it,lavocedibolzano.it,lineauno.it,milanosud.it,modenaindiretta.it,padovacalcio.it,qds.it,quicosenza.it,radioibiza.it,reggionline.com,reportmotori.it,rietinvetrina.it,rivistastudio.com,sportmagazinetrentino.it,superj.it,telebari.it,ticinonotizie.it,travelnostop.com,unicoebello.it##.g
+anteprima24.it,bolognaindiretta.it,buttanissima.it,centropagina.it,corrieresalentino.it,gazzettadasti.it,giornaledellabirra.it,giornaledellavela.com,ilfattonisseno.it,ilsicilia.it,informazioneonline.it,junglam.com,labtv.net,latina24ore.it,lavalsusa.it,lavocedeltrentino.it,lavocedibolzano.it,lineauno.it,milanosud.it,modenaindiretta.it,padovacalcio.it,qds.it,quicosenza.it,radioibiza.it,reggionline.com,reportmotori.it,rietinvetrina.it,rivistastudio.com,sportmagazinetrentino.it,superj.it,telebari.it,ticinonotizie.it,travelnostop.com,unicoebello.it##.g
 agendadigitale.eu##.gallery-container-home
 virtusfrancavilla.it##.gallery-icon
 telepegaso.it##.gallery-item
@@ -805,7 +805,7 @@ mymovies.it##a[href^="https://disneyplus.bn5x.net/"]
 diventaretrader.com##a[href^="https://iqbroker.com/"]
 rockol.it,smartworld.it##a[href^="https://rover.ebay.com/"]
 gnoccatravels.com##a[href^="https://wellcum.at/"]
-2backpack.it,alfemminile.com,badcomics.it,badgames.it,badtaste.it,badtv.it,beppegrillo.it,birramoriamoci.it,bora.la,bsnews.it,cityrumors.it,classifichemusica.it,cliccascienze.it,comingsoon.it,comprovendodischi.it,comprovendolibri.it,consigli.it,donnamoderna.com,eurogamer.it,everyeye.it,facciabuco.com,frasicelebri.it,game-experience.it,gamerclick.it,giardinaggio.it,giardinaggio.net,giardiniblog.it,giornaledellabirra.it,gizchina.it,hdblog.it,hwupgrade.it,inter.it,mangaforever.net,mantovanotizie.com,miglioriofferteweb.com,nerdmovieproductions.it,newsly.it,nientepopcorn.it,notebookcheck.it,orologipertutti.it,pianetamamma.it,punto-informatico.it,ridble.com,rifaidate.it,rockol.it,spaziogames.it,telefonino.net,termometropolitico.it,topdigamma.it,tuttotek.it,vuemmetv.it,webnews.it##a[href^="https://www.amazon."][href*="tag="]
+2backpack.it,alfemminile.com,badcomics.it,badgames.it,badtaste.it,badtv.it,beppegrillo.it,birramoriamoci.it,bora.la,bsnews.it,cityrumors.it,classifichemusica.it,cliccascienze.it,comingsoon.it,comprovendodischi.it,comprovendolibri.it,consigli.it,donnamoderna.com,eurogamer.it,everyeye.it,facciabuco.com,frasicelebri.it,game-experience.it,gamerclick.it,giardinaggio.it,giardinaggio.net,giardiniblog.it,giornaledellabirra.it,gizchina.it,hdblog.it,hwupgrade.it,inter.it,junglam.com,mangaforever.net,mantovanotizie.com,miglioriofferteweb.com,nerdmovieproductions.it,newsly.it,nientepopcorn.it,notebookcheck.it,orologipertutti.it,pianetamamma.it,punto-informatico.it,ridble.com,rifaidate.it,rockol.it,spaziogames.it,telefonino.net,termometropolitico.it,topdigamma.it,tuttotek.it,vuemmetv.it,webnews.it##a[href^="https://www.amazon."][href*="tag="]
 atalanta.it,diventaretrader.com##a[href^="https://www.plus500.com/"]
 animeemanga.it,comingsoon.it,trovacinema.repubblica.it##a[href^="https://www.primevideo.com/"][href*="tag="]
 2backpack.it##a[href^="https://www.worldnomads.com/Turnstile/AffiliateLink?"]
