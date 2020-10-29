@@ -103,6 +103,7 @@ ilcap.it###gadsense
 mondoplay.it,mondoxbox.com###gameBlock_amazon
 mondoplay.it,mondoxbox.com###gameBlock_amazon_noboxart
 videogiocare.it###gp-affiliate-button
+cookaround.com###gpt-300250-container
 mercatinomusicale.com###hdr_leaderboard
 rovigooggi.it###head-space
 cronachemaceratesi.it###head_sponsor
@@ -520,6 +521,7 @@ juventus.com##.jcom-o-footer__corporate
 juventus.com##.jcom-o-sponsors-nav__child
 superscommesse.it##.js_tracking_gtm
 nientepopcorn.it##.justwatch
+cookaround.com##.lancio-speciale-logo
 bluerating.com##.large_home_adv
 ilgallo.it##.leader-board
 close-up.it,foodweb.it,meteovista.it,pneusnews.it,prealpina.it,ridble.com,today.it##.leaderboard
