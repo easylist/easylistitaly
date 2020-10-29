@@ -749,6 +749,7 @@ eurosat-online.it##.zedo
 zingarate.com##.zg-malta
 nursetimes.org##AMP-IMG[width="320"][height="50"]
 djmagitalia.com##[href^="http://www.djpoint.net/"]
+industriaitaliana.it##a[data-track]
 blog.libero.it##a[href*=".clickbank.net/"]
 voglioporno.com##a[href*=".com/track/"]
 blog.libero.it##a[href*=".hop.clickbank.net/"]

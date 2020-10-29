@@ -552,6 +552,9 @@
 ||imgpress.it^*/banner2
 ||imgpress.it^*/banner3
 ||imgpress.it^*/Pubbl-
+||industriaitaliana.it^*/300x250
+||industriaitaliana.it^*/Rettangolo-
+||industriaitaliana.it^*_Banners-
 ||infonewsvietri.it/*/Zainetto-
 ||infonewsvietri.it^*/MAIORI2020.jpeg
 ||informa-press.it^*/banner-
