@@ -425,6 +425,8 @@
 ||gratisfree.it/cgi-bin/bannergest$script
 ||greenews.info/wp-content/banners/
 ||greenretail.it^*/LAND-
+||grossetonotizie.com^*/banner-
+||grossetonotizie.com^*/logo-cpt.jpg
 ||gruppotv7.com/banner/
 ||gruppotv7.com/img/Banner
 ||gruppotv7.com/img/banner/
