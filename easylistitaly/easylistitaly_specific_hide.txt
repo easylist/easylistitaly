@@ -355,6 +355,7 @@ virtusverona.it##.banner1
 ilturista.info##.banner2
 affaritaliani.it##.banner234Eni
 erbanotizie.com##.banner234x60-right
+infocilento.it##.banner300side
 fotografidigitali.it,hwupgrade.it,tvtech.it##.banner300x250
 milleunadonna.it##.banner320x250
 djmagitalia.com##.bannerExtra

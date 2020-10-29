@@ -1488,6 +1488,7 @@
 ||wp.com/www.giornaledicalabria.it/*/GIF-REGIONE.
 ||wp.com/www.giornaledicalabria.it/*/Sorical.gif
 ||wp.com/www.infocilento.it/*/ducas-battipaglia.jpg
+||wp.com/www.infocilento.it/*/maffei
 ||wp.com/www.infocilento.it/*/Majestic-
 ||wp.com/www.infocilento.it/*/maxtris-
 ||wp.com/www.infocilento.it/*/sosimpresa_
