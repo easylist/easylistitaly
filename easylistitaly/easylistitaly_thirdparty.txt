@@ -105,6 +105,7 @@
 ||livenetwork.it/skinoverlay/
 ||locandinebest.net/locandina/$subdocument,third-party
 ||macrolibrarsi.it/banners/
+||macrolibrarsi.it^*/macrolibrarsi.partners.js
 ||macrolibrarsi.org/banner/
 ||macrolibrarsi.s3.amazonaws.com/img/banner_partner/
 ||mediatickets.ch/widgets/$third-party
