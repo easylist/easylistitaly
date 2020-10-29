@@ -383,6 +383,8 @@
 ||gazzettadisalerno.it^*/KYNETICSOCIAL.jpg
 ||gazzettadisalerno.it^*/Zainetto-promo-
 ||gazzettajonica.it/banner/
+||gazzettalucchese.it^*/inserzioni/
+||gazzettalucchese.it^*/supporters/
 ||gazzettaregionale.it/assets/Auto-doc.
 ||gazzettinodelchianti.it^*/banner-
 ||gazzettinodelchianti.it^*/sfondo-
