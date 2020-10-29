@@ -573,7 +573,7 @@ bolognafc.it##.partner-footer
 100ideeperristrutturare.it,casa-naturale.com,quattrozampe.online,villeecasali.com##.partner-item-wrapper
 radiogardena.it##.partner-wrapper
 andreagaleazzi.com##.partner_box
-rtinradio.com##.partners
+dolcidee.it,rtinradio.com##.partners
 100ideeperristrutturare.it,casa-naturale.com,quattrozampe.online,villeecasali.com##.partners-wrapper
 sarnonotizie.it##.penci-container__content
 calabria7.it,esperia.tv,wondernetmag.com##.penci-promo-link
