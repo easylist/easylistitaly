@@ -311,6 +311,10 @@
 ||farevela.net^*/QIcompositesFV.jpg
 ||farevela.net^*/unnamed-1.gif
 ||farevela.net^*_banner_
+||fattoincasadabenedetta.it/images/prenota-
+||fattoincasadabenedetta.it/images/prenota.jpg
+||fattoincasadabenedetta.it^*/footer_
+||fattoincasadabenedetta.it^*/minibox_
 ||federtennis.it^*/Banner/
 ||federtennis.it^*/Sponsor/
 ||feralpisalo.it^*/sponsor/
