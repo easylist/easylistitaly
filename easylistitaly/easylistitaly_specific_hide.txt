@@ -287,6 +287,7 @@ agi.it##.agi-ad-wrap
 cityrumors.it,tantasalute.it##.ai-viewport-1
 gamemag.it,nientepopcorn.it,videogame.it##.amazon
 ridble.com##.amazon-product
+cliccascienze.it##.amazon-products-container-list
 animeclick.it##.amazon-row
 andreagaleazzi.com##.amazon_box
 vgnetwork.it##.amazon_similarity
@@ -422,6 +423,7 @@ scaricarelibri.net##.button
 empolifc.com##.c-footer__sponsors-container
 radioinblu.it,tv2000.it##.cei-skin-side
 lineapress.it##.cfxi-container
+cliccascienze.it##.clicc-prima-del-contenuto
 edilportale.com##.click-Skin
 puntocellulare.it##.clklnk
 ilcorrieredelgiorno.it##.col-banner
@@ -606,6 +608,7 @@ lacnews24.it##.right-side
 ilroma.net##.rotating-banner
 ecodallecitta.it##.rotobanner
 wikihow.it##.rr_container
+cliccascienze.it##.rtecenter
 genova24.it,ivg.it,lacnews24.it##.sb-banner
 flashgames.it##.scheda_ppc
 puntocellulare.it##.schlnk
@@ -791,7 +794,7 @@ mymovies.it##a[href^="https://disneyplus.bn5x.net/"]
 diventaretrader.com##a[href^="https://iqbroker.com/"]
 rockol.it,smartworld.it##a[href^="https://rover.ebay.com/"]
 gnoccatravels.com##a[href^="https://wellcum.at/"]
-alfemminile.com,badcomics.it,badgames.it,badtaste.it,badtv.it,beppegrillo.it,birramoriamoci.it,bora.la,bsnews.it,cityrumors.it,classifichemusica.it,comingsoon.it,comprovendodischi.it,comprovendolibri.it,consigli.it,donnamoderna.com,eurogamer.it,everyeye.it,facciabuco.com,frasicelebri.it,game-experience.it,gamerclick.it,giardinaggio.it,giardinaggio.net,giardiniblog.it,giornaledellabirra.it,gizchina.it,hdblog.it,hwupgrade.it,inter.it,mangaforever.net,mantovanotizie.com,nerdmovieproductions.it,newsly.it,nientepopcorn.it,notebookcheck.it,orologipertutti.it,pianetamamma.it,punto-informatico.it,ridble.com,rifaidate.it,rockol.it,spaziogames.it,telefonino.net,termometropolitico.it,topdigamma.it,tuttotek.it,vuemmetv.it,webnews.it##a[href^="https://www.amazon."][href*="tag="]
+alfemminile.com,badcomics.it,badgames.it,badtaste.it,badtv.it,beppegrillo.it,birramoriamoci.it,bora.la,bsnews.it,cityrumors.it,classifichemusica.it,cliccascienze.it,comingsoon.it,comprovendodischi.it,comprovendolibri.it,consigli.it,donnamoderna.com,eurogamer.it,everyeye.it,facciabuco.com,frasicelebri.it,game-experience.it,gamerclick.it,giardinaggio.it,giardinaggio.net,giardiniblog.it,giornaledellabirra.it,gizchina.it,hdblog.it,hwupgrade.it,inter.it,mangaforever.net,mantovanotizie.com,nerdmovieproductions.it,newsly.it,nientepopcorn.it,notebookcheck.it,orologipertutti.it,pianetamamma.it,punto-informatico.it,ridble.com,rifaidate.it,rockol.it,spaziogames.it,telefonino.net,termometropolitico.it,topdigamma.it,tuttotek.it,vuemmetv.it,webnews.it##a[href^="https://www.amazon."][href*="tag="]
 atalanta.it,diventaretrader.com##a[href^="https://www.plus500.com/"]
 animeemanga.it,comingsoon.it,trovacinema.repubblica.it##a[href^="https://www.primevideo.com/"][href*="tag="]
 genoanews1893.it##div[astyle="text-align: center; width: 336px; height: 280px; padding: 3px 0px 3px 0px;"]
