@@ -668,6 +668,7 @@
 ||macitynet.it^*/macitynettrendeviceborsa.jpg
 ||maidireborsa.it^*/image004-
 ||mail.tiscali.it^*/advlib.js
+||mammaimperfetta.it^*_banner.
 ||mammedomani.it/images/banners/
 ||manduriaoggi.it/html/banner/
 ||manduriaoggi.it/img_new/848x280_
