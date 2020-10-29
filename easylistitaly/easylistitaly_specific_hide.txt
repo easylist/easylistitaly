@@ -317,6 +317,7 @@ oggitreviso.it##.ban1
 lacnews24.it##.ban_1000x45
 lacnews24.it##.ban_300x250
 ascolinotizie.it,fermonotizie.info,maceratanotizie.it,marchenotizie.info,pesarourbinonotizie.it,senigallianotizie.it,valmisa.com##.ban_box
+cottoepostato.it##.bann-300-250
 olbianotizie.it##.bann_square
 agi.it,america24.com,casateonline.it,cremonaoggi.it,cronacheancona.it,cronachemaceratesi.it,cuneocronaca.it,dagospia.com,designmag.it,diretta.it,ejatv.com,euroregionalpmed.eu,foodweb.it,globalist.it,gossip.it,guidaviaggi.it,html.it,ilfriuli.it,ilturista.info,informacalcio.quotidiano.net,irpinianews.it,lavoripubblici.it,legnanonews.com,lipari.biz,merateonline.it,meteoweb.eu,modellismopiu.it,oggitreviso.it,radionorba.it,riassuntini.com,rockit.it,sassarinotizie.com,secoloditalia.it,sostariffe.it,strettoweb.com,teatronaturale.it,technologyreview.it,telejato.it,tenews.it,tg24.info,traniviva.it,varesenews.it,vocenuova.tv##.banner
 m100.it##.banner-1
@@ -432,6 +433,7 @@ lacrocequotidiano.it##.column-banner
 quattroruote.it##.commercial-article
 tiscali.it##.compare-box-cnt
 fuoritraiettoria.com##.computer
+cottoepostato.it##.cont-bann
 edilportale.com##.cont-leaderBoard
 brindisisera.it##.cont_banner
 tiscali.it##.container_b_1
