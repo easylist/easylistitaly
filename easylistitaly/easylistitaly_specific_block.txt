@@ -1113,6 +1113,11 @@
 ||scopateitaliane.it/nb/
 ||senigallianotizie.it/banner/
 ||settecalcio.it^*/File_banner/
+||sevendaysweb.com^*-banner-$domain=dirigentindustria.it
+||sevendaysweb.com^*-mediabanner.$domain=dirigentindustria.it
+||sevendaysweb.com^*-socibanner.$domain=dirigentindustria.it
+||sevendaysweb.com^*/assidaibanner2.$domain=dirigentindustria.it
+||sevendaysweb.com^*/bannerdirigenti.$domain=dirigentindustria.it
 ||sevenpress.com^*/autodoc.jpg
 ||sevenpress.com^*/banner/
 ||sevenpress.com^*/bannerQ/
