@@ -327,6 +327,7 @@ olbianotizie.it##.bann_square
 agi.it,america24.com,casateonline.it,cremonaoggi.it,cronacheancona.it,cronachemaceratesi.it,cuneocronaca.it,dagospia.com,designmag.it,diretta.it,ejatv.com,euroregionalpmed.eu,foodweb.it,globalist.it,gossip.it,guidaviaggi.it,html.it,ilfriuli.it,ilturista.info,informacalcio.quotidiano.net,irpinianews.it,lavoripubblici.it,legnanonews.com,lipari.biz,merateonline.it,meteoweb.eu,modellismopiu.it,oggitreviso.it,radionorba.it,riassuntini.com,rockit.it,sassarinotizie.com,secoloditalia.it,sostariffe.it,strettoweb.com,teatronaturale.it,technologyreview.it,telejato.it,tenews.it,tg24.info,traniviva.it,varesenews.it,vocenuova.tv##.banner
 m100.it##.banner-1
 welfarenetwork.it##.banner-468-hp
+notetralerighe.it##.banner-amazon-music
 parmareport.it##.banner-big
 cuneocronaca.it,divinafm.it,giochixl.it,lacrocequotidiano.it,mtv.it##.banner-container
 genova24.it##.banner-elezioni
@@ -806,7 +807,7 @@ mymovies.it##a[href^="https://disneyplus.bn5x.net/"]
 diventaretrader.com##a[href^="https://iqbroker.com/"]
 rockol.it,smartworld.it##a[href^="https://rover.ebay.com/"]
 gnoccatravels.com##a[href^="https://wellcum.at/"]
-2backpack.it,alfemminile.com,badcomics.it,badgames.it,badtaste.it,badtv.it,beppegrillo.it,birramoriamoci.it,bora.la,bsnews.it,cityrumors.it,classifichemusica.it,cliccascienze.it,comingsoon.it,comprovendodischi.it,comprovendolibri.it,consigli.it,donnamoderna.com,eurogamer.it,everyeye.it,facciabuco.com,frasicelebri.it,game-experience.it,gamerclick.it,giardinaggio.it,giardinaggio.net,giardiniblog.it,giornaledellabirra.it,gizchina.it,hdblog.it,hwupgrade.it,inter.it,junglam.com,mangaforever.net,mantovanotizie.com,miglioriofferteweb.com,nerdmovieproductions.it,newsly.it,nientepopcorn.it,notebookcheck.it,orologipertutti.it,pianetamamma.it,punto-informatico.it,ridble.com,rifaidate.it,rockol.it,spaziogames.it,telefonino.net,termometropolitico.it,topdigamma.it,tuttotek.it,vuemmetv.it,webnews.it##a[href^="https://www.amazon."][href*="tag="]
+2backpack.it,alfemminile.com,badcomics.it,badgames.it,badtaste.it,badtv.it,beppegrillo.it,birramoriamoci.it,bora.la,bsnews.it,cityrumors.it,classifichemusica.it,cliccascienze.it,comingsoon.it,comprovendodischi.it,comprovendolibri.it,consigli.it,donnamoderna.com,eurogamer.it,everyeye.it,facciabuco.com,frasicelebri.it,game-experience.it,gamerclick.it,giardinaggio.it,giardinaggio.net,giardiniblog.it,giornaledellabirra.it,gizchina.it,hdblog.it,hwupgrade.it,inter.it,junglam.com,mangaforever.net,mantovanotizie.com,miglioriofferteweb.com,nerdmovieproductions.it,newsly.it,nientepopcorn.it,notebookcheck.it,notetralerighe.it,orologipertutti.it,pianetamamma.it,punto-informatico.it,ridble.com,rifaidate.it,rockol.it,spaziogames.it,telefonino.net,termometropolitico.it,topdigamma.it,tuttotek.it,vuemmetv.it,webnews.it##a[href^="https://www.amazon."][href*="tag="]
 atalanta.it,diventaretrader.com##a[href^="https://www.plus500.com/"]
 animeemanga.it,comingsoon.it,trovacinema.repubblica.it##a[href^="https://www.primevideo.com/"][href*="tag="]
 2backpack.it##a[href^="https://www.worldnomads.com/Turnstile/AffiliateLink?"]
