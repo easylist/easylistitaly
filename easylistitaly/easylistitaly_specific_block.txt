@@ -1343,6 +1343,7 @@
 ||tusciaweb.eu^*628x45
 ||tusciaweb.eu^*pushbar
 ||tuttasalute.net^*/adv/
+||tutto-gratis.eu/images/sponsor.gif
 ||tuttobasket.net^*/skin-
 ||tuttocampo.it/Web/Images/Banners/
 ||tuttogratis.it/imgbanner/
