@@ -263,6 +263,7 @@ ilsole24ore.com##.abox
 radioitalia.it##.acquista
 ilfoglio.it,jugo.it,lacrocequotidiano.it,liberatv.ch,lonelyplanetitalia.it,mondoplay.it,mondoxbox.com,quotidianoapuano.net,serietvu.link,smartbuildingitalia.it,trend-online.com,tripadvisor.it##.ad
 tusciaweb.eu##.ad-article
+soluzionicodycross.it##.ad-container
 laltrapagina.it##.ad1
 laltrapagina.it##.ad5
 theitaliantimes.it##.adb
