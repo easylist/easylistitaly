@@ -1493,6 +1493,7 @@
 ||wp.com/www.italiasera.it/*/venere-spa.jpg
 ||wp.com/www.medicalexcellencetv.it/*_300x100.
 ||wp.com/www.medicalexcellencetv.it/*_600x500.
+||wp.com/www.proiezionidiborsa.it/*/bnp-
 ||wp.com/www.tsdtv.it/*/300x300-
 ||wp.com/www.zerosette.it/*/bella-venezia.png
 ||wp.com^*-banner-$domain=gazzettadiavellino.it|gazzettadisalerno.it|infonewsvietri.it
