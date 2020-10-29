@@ -143,6 +143,7 @@
 ||business24tv.it^*/skin_
 ||caffe.ch/media/STATICHE/ilcaffe/ADV/
 ||cagliaricalcio.com^*/image-sponsor-
+||cakemania.it^*/bannervoxmail300x100.png
 ||calabria7.it^*/banner_
 ||calabriamagnifica.it^*/Banner-
 ||calabriamagnifica.it^*/freegifmaker.me_
