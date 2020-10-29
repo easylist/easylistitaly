@@ -138,7 +138,7 @@ qdpnews.it,viterbopost.it###manchette-dx
 qdpnews.it,viterbopost.it###manchette-sx
 stadionews.it###manchette_dx_container
 stadionews.it###manchette_sx_container
-dailybest.it,politicanews.it###masthead
+dailybest.it,politicanews.it,ricettedalmondo.it###masthead
 matematicamente.it###masthead-desktop-wrapper
 ondarock.it###masthead_or
 chepreparo.it###media_image-2
@@ -487,7 +487,7 @@ virtusfrancavilla.it##.gallery-icon
 telepegaso.it##.gallery-item
 zerocinquantuno.it##.gdlr-logo
 3bmeteo.com##.gpt_top
-fanta.soccer,fiscomania.com,money.it,tuttogratis.it##.gptslot
+fanta.soccer,fiscomania.com,money.it,ricettedalmondo.it,tuttogratis.it##.gptslot
 altadefinizione.coach,guardaserie.store##.guarda_hd
 toonitalia.org##.guarda_in_hd
 ilgeniodellostreaming.rest,ilgeniodellostreaming.to##.guardasingle
@@ -854,6 +854,7 @@ libero.it##div[style="width: 180px; height: 150px;"]
 libero.it,tp24.it##div[style="width: 300px; height: 250px;"]
 incircolo.altervista.org##div[style="width: 300px; height: 260px; margin-top: 10px;"]
 sardegnaoggi.it##div[style="width: 336px; height: 280px; margin: 1em 1em 1em 0; float: left"]
+ricettedalmondo.it##div[style="width: 760px;height: 500px;display: flex;align-items: center;"]
 corrierinocampaniasport.it##div[style="width: 960px; height: 120px; visibility: visible;"]
 albanesi.it##div[style="width: 970px; height: 250px; margin: 0 auto"]
 footballnews24.it##div[style="width:250px;max-width:100%;margin:16px auto;"]

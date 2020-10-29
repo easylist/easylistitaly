@@ -64,6 +64,7 @@
 ###contPubb
 ###corpo_video_sponsor
 ###divPubblicita
+###evolutionadv
 ###fullAdv-dx
 ###fullAdv-sx
 ###fwnetblocco
