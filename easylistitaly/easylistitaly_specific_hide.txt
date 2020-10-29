@@ -115,6 +115,7 @@ tempoitalia.it###headerBanner
 torinofc.it###headerSpazioSponsorLoghi
 dirittoegiustizia.it###header_giu_banner_dx
 sienafree.it###headerbanner
+blog.ilgiornale.it###headerleader
 rovigooggi.it###home-closeup-space
 rovigooggi.it###home-pbreak-space
 transfermarkt.it###home-rectangle-spotlight
