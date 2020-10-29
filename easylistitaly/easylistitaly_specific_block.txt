@@ -590,6 +590,8 @@
 ||itvonline.news^*/Schermata-2020-07-07-alle-12.27.14.png
 ||itvonline.news^*/skin-
 ||itvonline.news^*_banner-
+||jamma.tv^*/sanremo
+||jamma.tv^*/skin
 ||juventus.com^*/sponsors/
 ||juzaphoto.com^*/rce/
 ||kisskiss.it/images/banners/
