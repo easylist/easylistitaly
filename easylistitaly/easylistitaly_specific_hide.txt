@@ -140,6 +140,7 @@ stadionews.it###manchette_sx_container
 dailybest.it,politicanews.it###masthead
 matematicamente.it###masthead-desktop-wrapper
 ondarock.it###masthead_or
+chepreparo.it###media_image-2
 staynerd.com###media_image-40
 giornalistitalia.it###media_image-5
 giornalistitalia.it###media_image-6
@@ -562,6 +563,7 @@ empolifc.com##.o-section--promo
 techzilla.it##.offerta-img-box
 lamilano.it##.olvu
 altadefinizione.coach##.overplayer
+chepreparo.it##.page-intro-description
 casaeclima.com##.page-wrapper
 puntocellulare.it##.panel-offers
 nostrofiglio.it##.par-listing-collab
