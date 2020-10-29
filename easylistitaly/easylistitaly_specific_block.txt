@@ -1308,9 +1308,11 @@
 ||tusciaweb.eu^*/Cna-2017-Banner
 ||tusciaweb.eu^*/Coldiretti-gennaio-
 ||tusciaweb.eu^*/confartigianato.jpg
+||tusciaweb.eu^*/CVD-
 ||tusciaweb.eu^*/Digital-Fon-
 ||tusciaweb.eu^*/Ferri-Ford
 ||tusciaweb.eu^*/Ist.-J.J.Rousseau-
+||tusciaweb.eu^*/Mobilificio-Oroni-
 ||tusciaweb.eu^*/Next-settembre-
 ||tusciaweb.eu^*/Osteria-basilico-
 ||tusciaweb.eu^*/OVM-
@@ -1327,12 +1329,10 @@
 ||tusciaweb.eu^*310x72
 ||tusciaweb.eu^*336x
 ||tusciaweb.eu^*45x415
-||tusciaweb.eu^*480x150
-||tusciaweb.eu^*480x200
-||tusciaweb.eu^*480x50
+||tusciaweb.eu^*480x
 ||tusciaweb.eu^*519x45
 ||tusciaweb.eu^*520x45
-||tusciaweb.eu^*560x60
+||tusciaweb.eu^*560x
 ||tusciaweb.eu^*628x45
 ||tusciaweb.eu^*pushbar
 ||tuttasalute.net^*/adv/
