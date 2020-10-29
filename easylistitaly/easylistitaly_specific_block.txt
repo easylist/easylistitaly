@@ -204,6 +204,10 @@
 ||centropagina.it^*-MEDIUM-
 ||centropagina.it^*-SKIN-
 ||centropagina.it^*-SMALL-
+||chefperpassione.it^*/astadelmobile.jpg
+||chefperpassione.it^*/compagnia-pesto.jpg
+||chefperpassione.it^*/iren.jpg
+||chefperpassione.it^*/ventura.jpg
 ||chepreparo.it^*/67502996_443756673142028_210202330895745024_
 ||chievoverona.it^*/sponsor/
 ||chimerarevo.com^*/banner-
