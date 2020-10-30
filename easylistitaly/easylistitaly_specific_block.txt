@@ -995,6 +995,7 @@
 ||quotidianodellumbria.it^*/manchette-
 ||quotidianodellumbria.it^*/skin-
 ||quotidianodellumbria.it^*_300x250px-
+||quotidianodiragusa.com/uploads/bannerdef/
 ||quotidianosanita.it^*/asma_grave_260.jpg
 ||quotidianosanita.it^*/health_serie_
 ||quotidianosanita.it^*/roche_differita.jpg
