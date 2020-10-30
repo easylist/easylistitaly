@@ -127,6 +127,8 @@
 ##.adv_articolo
 ##.adv_block__text
 ##.adv_esterno
+##.adv_lateral_dx
+##.adv_lateral_sx
 ##.adv_margin
 ##.adv_oriz
 ##.adv_vert
