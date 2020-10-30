@@ -1524,6 +1524,7 @@
 ||vivereancona.it/images/banners_
 ||viverejesi.it/images/banners_
 ||vocenuova.tv/assets/uploads/banners/
+||vocetempo.it^*/banner-
 ||volleyball.it^*/banner-
 ||vuemmetv.it^*/banner-
 ||vulturenews.net^*-Agrimelfi-
