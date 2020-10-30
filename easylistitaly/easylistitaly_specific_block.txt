@@ -716,6 +716,7 @@
 ||livornopress.it^*/SCOPRI-DI-PIU-IES-
 ||lnd.it/images/sponsor/
 ||lopinionista.it^*/tuttiautopezzi.
+||lopinionistanews.it^*/Adv.
 ||lospiffero.com/banner/
 ||lospiffero.com/images/graphics/skin
 ||lospiffero.com/utils/add_popup_functions.js
@@ -1559,6 +1560,10 @@
 ||wp.com/www.italiasera.it/*/the-king-arrosticino-
 ||wp.com/www.italiasera.it/*/vanity-maison.jpg
 ||wp.com/www.italiasera.it/*/venere-spa.jpg
+||wp.com/www.lopinionistanews.it/*/farmacia-san-bernardo.jpg
+||wp.com/www.lopinionistanews.it/*/Guffanti.jpg
+||wp.com/www.lopinionistanews.it/*/itof-
+||wp.com/www.lopinionistanews.it/*/Orion-
 ||wp.com/www.medicalexcellencetv.it/*_300x100.
 ||wp.com/www.medicalexcellencetv.it/*_600x500.
 ||wp.com/www.proiezionidiborsa.it/*/bnp-
