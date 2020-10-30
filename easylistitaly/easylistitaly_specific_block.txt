@@ -108,6 +108,8 @@
 ||avmagazine.it/js/common-tag.js
 ||badtaste.it/file/amazon/
 ||balarm.it/attachment-web/
+||basilicatanotizie.net/images/banners/
+||basilicatanotizie.net^*/background-
 ||battipaglianews.it^*/Banner_
 ||battipaglianews.it^*/gioiellina.gif
 ||battipaglianews.it^*/hsweb-
