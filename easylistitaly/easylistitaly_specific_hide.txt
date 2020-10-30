@@ -732,6 +732,7 @@ turistipercaso.it##.utilink
 bresciaoggi.it,larena.it##.v2_banner-wrapper
 ilgiornaledivicenza.it,larena.it##.v3_horz-banner
 bresciaoggi.it,ilgiornaledivicenza.it,larena.it##.v4_section-redazionale-home
+pugliapress.org##.vc_carousel-inner
 uscatanzaro.net##.vce-featured-header-background
 larivieraonline.com##.view-Banners
 sportsondrio.it##.view-inserzioni-sponsorizzate
