@@ -1451,6 +1451,7 @@
 ||unadonna.it^*-300x250px-
 ||unicasport.it^*-Banner-
 ||unicoebello.it^*-380x380
+||unimondo.org^*/banner/
 ||unonotizie.it/immagini/banner/
 ||uominietrasporti.it^*/Auto-doc.
 ||usavellino1912.com^*/cosmopol-
