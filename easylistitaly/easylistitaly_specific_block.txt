@@ -663,6 +663,8 @@
 ||larionews.com^*-MANCHETTE-
 ||larivieraonline.com^*/banner/
 ||larivieraonline.com^*/takeover/
+||lasiritide.it/img/agrello
+||lasiritide.it/img/logobuonorgse.jpg
 ||latina24ore.it^*/banner-
 ||latina24ore.it^*_Skin_
 ||latinacorriere.it^*/AQL-
