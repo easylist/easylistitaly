@@ -444,6 +444,11 @@
 ||giornaledellavela.com^*1000x80
 ||giornaledellavela.com^*_Banner_
 ||giornaledimontesilvano.com/images/banners/
+||giornalelavoce.it^*-300x250px.
+||giornalelavoce.it^*/alimentari-stefano.jpg
+||giornalelavoce.it^*/banner.
+||giornalelavoce.it^*/telaporto.gif
+||giornalelavoce.it^*/vanilla.jpg
 ||giornaleradio.fm^*/320x250_
 ||giornaleradio.fm^*/320x25_
 ||giornalerossoblu.it^*/20191211_
