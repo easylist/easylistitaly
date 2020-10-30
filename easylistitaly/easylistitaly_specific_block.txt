@@ -996,6 +996,7 @@
 ||quotidianosanita.it^*/asma_grave_260.jpg
 ||quotidianosanita.it^*/health_serie_
 ||quotidianosanita.it^*/roche_differita.jpg
+||quotidianosicurezza.it^*/bannerino_
 ||radioamore.it^*/banners/
 ||radioanaunia.it^*/beauty_ninfea_
 ||radioanaunia.it^*/final-
