@@ -439,6 +439,8 @@
 ||giornaledimontesilvano.com/images/banners/
 ||giornaleradio.fm^*/320x250_
 ||giornaleradio.fm^*/320x25_
+||giornalerossoblu.it^*/20191211_
+||giornalerossoblu.it^*/locandina-idraulica-
 ||giornalisti.vivere.srl^
 ||giornalistitalia.it^*-banner-
 ||giornalistitalia.it^*/banner_

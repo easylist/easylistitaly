@@ -496,7 +496,7 @@ anteprima24.it,bolognaindiretta.it,buttanissima.it,centropagina.it,corrieresalen
 4yougratis.it##.g-top-text
 agendadigitale.eu##.gallery-container-home
 virtusfrancavilla.it##.gallery-icon
-telepegaso.it##.gallery-item
+giornalerossoblu.it,telepegaso.it##.gallery-item
 zerocinquantuno.it##.gdlr-logo
 3bmeteo.com##.gpt_top
 fanta.soccer,fiscomania.com,money.it,ricettedalmondo.it,tuttogratis.it##.gptslot
