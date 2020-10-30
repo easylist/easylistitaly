@@ -313,6 +313,8 @@
 ||e-tv.it^*/banner-
 ||earone.it/themes/banner/
 ||earone.it/themes/images/btn_itunes.png
+||eclavoro.it^*/ADV_
+||eclavoro.it^*_ADV_
 ||ecoaltomolise.net^*/Banner-
 ||ecoaltomolise.net^*/xbanner-
 ||ecodallecitta.it/immagini/banners/
