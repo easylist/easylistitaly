@@ -1567,6 +1567,7 @@
 ||wp.com/www.italiasera.it/*/the-king-arrosticino-
 ||wp.com/www.italiasera.it/*/vanity-maison.jpg
 ||wp.com/www.italiasera.it/*/venere-spa.jpg
+||wp.com/www.lecronachelucane.it/*/ppp_
 ||wp.com/www.lopinionistanews.it/*/farmacia-san-bernardo.jpg
 ||wp.com/www.lopinionistanews.it/*/Guffanti.jpg
 ||wp.com/www.lopinionistanews.it/*/itof-
