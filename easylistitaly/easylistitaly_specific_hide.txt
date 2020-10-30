@@ -135,7 +135,7 @@ business.it###logoYobee
 eurogamer.it###low-leaderboard
 salernonotizie.it###machette_left
 salernonotizie.it###machette_right
-bolognanews.net,fcinternews.it,tuttoascolicalcio.it,tuttoatalanta.com,tuttopotenza.com,tuttovicenza.it###main-slim
+bolognanews.net,fcinternews.it,tuttoascolicalcio.it,tuttoatalanta.com,tuttocalciopuglia.com,tuttopotenza.com,tuttovicenza.it###main-slim
 qdpnews.it,viterbopost.it###manchette-dx
 qdpnews.it,viterbopost.it###manchette-sx
 stadionews.it###manchette_dx_container
