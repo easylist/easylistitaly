@@ -248,6 +248,7 @@
 ||condominioweb.com/bann/
 ||coni.it/images/banners/*_*.jpg
 ||coni.it/images/banners/sfondi/
+||conquistedellavoro.it^*/SANARTI.jpg
 ||coriglianocalabro.it/images/banners/
 ||coriglianocalabro.it^*/banner/
 ||corriere.ca^*/Banners/
