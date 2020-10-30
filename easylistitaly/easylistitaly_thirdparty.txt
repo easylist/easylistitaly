@@ -4,6 +4,7 @@
 ||6sicuro.it/widgets/$third-party
 ||85.115.8.249^$image,domain=~chunnel.de.ip
 ||abc.sm/banner/
+||abc.sm^*/banner/
 ||ad.jamba.it^
 ||ad.missena.io^
 ||adagiobanner.s3.amazonaws.com^
