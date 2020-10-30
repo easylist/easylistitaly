@@ -542,7 +542,7 @@ laleggepertutti.it##.lexdo-banner
 business24tv.it##.link-at-body
 winenews.it##.link_skin
 diretta.it##.live-betting-strip
-bisceglielive.it##.live-promo
+bisceglielive.it,viviwebtv.it##.live-promo
 omnifurgone.it##.m1-apb
 buttanissima.it##.machette
 gonews.it##.machette-over-logo
@@ -559,12 +559,12 @@ medicalexcellencetv.it##.medic-widget
 sportivissimo.com##.menu4
 ecoaltomolise.net,newslinet.com,radiodeltainternational.it,tvcity.it##.metaslider
 automoto.it,moto.it##.mit-skin-spacer
-altamuralive.it,barilive.it,barlettalive.it,bisceglielive.it,bitontolive.it,cassanolive.it,coratolive.it,giovinazzolive.it,lavocedimanduria.it,okfirenze.com,okmugello.it,okvaldisieve.it,ruvolive.it,santeramolive.it,terlizzilive.it,termolionline.it,unicosettimanale.it##.mkt-300x250
+altamuralive.it,barilive.it,barlettalive.it,bisceglielive.it,bitontolive.it,cassanolive.it,coratolive.it,giovinazzolive.it,lavocedimanduria.it,okfirenze.com,okmugello.it,okvaldisieve.it,ruvolive.it,santeramolive.it,terlizzilive.it,termolionline.it,unicosettimanale.it,viviwebtv.it##.mkt-300x250
 altamuralive.it,barilive.it,barlettalive.it,bisceglielive.it,bitontolive.it,cassanolive.it,coratolive.it,giovinazzolive.it,lavocedimanduria.it,okfirenze.com,okmugello.it,okvaldisieve.it,ruvolive.it,santeramolive.it,terlizzilive.it,termolionline.it,unicosettimanale.it##.mkt-300x60
 altamuralive.it,barilive.it,barlettalive.it,bisceglielive.it,bitontolive.it,cassanolive.it,coratolive.it,giovinazzolive.it,lavocedimanduria.it,okfirenze.com,okmugello.it,okvaldisieve.it,ruvolive.it,santeramolive.it,terlizzilive.it,termolionline.it,unicosettimanale.it##.mkt-300x600
 altamuralive.it,barilive.it,barlettalive.it,bisceglielive.it,bitontolive.it,cassanolive.it,coratolive.it,giovinazzolive.it,lavocedimanduria.it,okfirenze.com,okmugello.it,okvaldisieve.it,ruvolive.it,santeramolive.it,terlizzilive.it,termolionline.it,unicosettimanale.it##.mkt-300x90
-altamuralive.it,barilive.it,barlettalive.it,bisceglielive.it,bitontolive.it,cassanolive.it,coratolive.it,giovinazzolive.it,lavocedimanduria.it,okfirenze.com,okmugello.it,okvaldisieve.it,ruvolive.it,santeramolive.it,terlizzilive.it,termolionline.it,unicosettimanale.it##.mkt-728x90
-altamuralive.it,barilive.it,barlettalive.it,bisceglielive.it,bitontolive.it,cassanolive.it,coratolive.it,giovinazzolive.it,lavocedimanduria.it,okfirenze.com,okmugello.it,okvaldisieve.it,ruvolive.it,santeramolive.it,terlizzilive.it,termolionline.it,unicosettimanale.it##.mkt-970x250
+altamuralive.it,barilive.it,barlettalive.it,bisceglielive.it,bitontolive.it,cassanolive.it,coratolive.it,giovinazzolive.it,lavocedimanduria.it,okfirenze.com,okmugello.it,okvaldisieve.it,ruvolive.it,santeramolive.it,terlizzilive.it,termolionline.it,unicosettimanale.it,viviwebtv.it##.mkt-728x90
+altamuralive.it,barilive.it,barlettalive.it,bisceglielive.it,bitontolive.it,cassanolive.it,coratolive.it,giovinazzolive.it,lavocedimanduria.it,okfirenze.com,okmugello.it,okvaldisieve.it,ruvolive.it,santeramolive.it,terlizzilive.it,termolionline.it,unicosettimanale.it,viviwebtv.it##.mkt-970x250
 bisceglielive.it##.mkt-editorial
 telelazionord.it##.mom-e3lanat-inner
 boingtv.it,eurogamer.it,foodnetwork.it,gioco.it##.mpu
@@ -722,6 +722,7 @@ positanonews.it##.top-testata
 bluerating.com##.top_funders
 dtti.it##.topad
 everyeye.it##.topskin
+viviwebtv.it##.topstriplive
 noinotizie.it##.tre-spazi
 radiocompany.com##.trend-banner
 notebookitalia.it##.uk-height-medium
