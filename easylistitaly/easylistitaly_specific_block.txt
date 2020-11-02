@@ -608,6 +608,7 @@
 ||informacalcio.it/banner/
 ||informazioneonline.it/wp-content/banners/
 ||ingleseprecoce.it^*-400x400.
+||innovami.news^*/banner-
 ||inside.bz.it/images/banners/
 ||inter.it^*/partners/
 ||internapoli.it^*/banner-
