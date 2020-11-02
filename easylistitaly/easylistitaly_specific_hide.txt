@@ -540,6 +540,7 @@ ilgallo.it##.leader-board
 close-up.it,foodweb.it,meteovista.it,pneusnews.it,prealpina.it,ridble.com,today.it##.leaderboard
 blastingnews.com##.leaderboard-article
 erbanotizie.com##.leaderboard-bottom
+simonandthestars.it##.leaderboard-container
 lacnews24.it##.left-side
 laleggepertutti.it##.lexdo-banner
 business24tv.it##.link-at-body
