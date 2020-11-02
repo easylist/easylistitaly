@@ -732,6 +732,7 @@ radiocompany.com##.trend-banner
 notebookitalia.it##.uk-height-medium
 strumentiemusica.com##.ulnqd-container
 turistipercaso.it##.utilink
+sanihelp.it##.v2-header-banner
 bresciaoggi.it,larena.it##.v2_banner-wrapper
 ilgiornaledivicenza.it,larena.it##.v3_horz-banner
 bresciaoggi.it,ilgiornaledivicenza.it,larena.it##.v4_section-redazionale-home

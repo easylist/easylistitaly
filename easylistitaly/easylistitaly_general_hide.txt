@@ -17,6 +17,7 @@
 ###WIDELEADERBOARD2_advadagio
 ###WIDELEADERBOARD_BOTTOM_advadagio
 ###ad_testa_foto
+###adasta_box_ros_2
 ###adbanner-laterale
 ###adbanner-stampa
 ###ads-interno-1
