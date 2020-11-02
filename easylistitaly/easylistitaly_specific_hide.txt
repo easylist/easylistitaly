@@ -642,6 +642,7 @@ flashgames.it##.scheda_ppc
 puntocellulare.it##.schlnk
 rovigooggi.it##.sect-list-space
 atalanta.it##.section_sponsor
+ad-italia.it##.sectionbox
 excite.it##.serp-item
 bloopers.it##.shop
 ilgeniodellostreaming.tel##.show-download
