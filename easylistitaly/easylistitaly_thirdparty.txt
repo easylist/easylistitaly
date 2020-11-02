@@ -31,7 +31,7 @@
 ||blogspot.com^*/ISTITUTI%2BPIETRO%2BPIAZZA%2BGIF.gif$domain=siciliaunonews.com
 ||blogspot.com^*/Regina%2BMargherita%2BBanner%2B2017_$domain=siciliaunonews.com
 ||blogspot.com^*/XXX.jpg$domain=siciliaunonews.com
-||booking.com^$subdocument,domain=iltempo.it|milleunadonna.it|notizie.tiscali.it|quattroruote.it|sport.tiscali.it|tuttobaviera.it
+||booking.com^$subdocument,domain=cosafarei.it|iltempo.it|milleunadonna.it|notizie.tiscali.it|quattroruote.it|sport.tiscali.it|tuttobaviera.it
 ||campingsportmagenta.com/CamperOnline/$third-party
 ||careerjet.it/partners/
 ||casadivita.despar.it^$third-party
@@ -140,6 +140,7 @@
 ||promo.ezstatic.com^
 ||pronostitalia.com/banner/
 ||pronostitalia.com/images/giocaconwilliamhill.png
+||prontoischia.it^*/promo-
 ||ratiolegisweb.it^*/pe728x90bis.
 ||resources.saldiprivati.com^$third-party
 ||riparautonline.com/banner/
