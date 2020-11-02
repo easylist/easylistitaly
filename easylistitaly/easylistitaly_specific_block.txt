@@ -31,6 +31,7 @@
 ||adnkronos.com^*/Promo/
 ||affaritaliani.it/includes/files/affari/
 ||affaritaliani.it/mutuionline/imgmol/
+||affaritaliani.it^*/case/
 ||affaritaliani.it^*/dott/
 ||affaritaliani.it^*/eni-/
 ||affaritaliani.it^*/fogl/

@@ -462,6 +462,7 @@ automoto.it,moto.it##.crm-unit-bx2
 automoto.it,moto.it##.crm-unit-bx3
 automoto.it,moto.it##.crm-unit-bx4
 automoto.it,moto.it##.crm-unit-mh
+affaritaliani.it##.csslider1
 giornaleadige.it,piacenza24.eu,radionorba.it,radioyacht.com##.custom_banners_big_link
 fiorentinanews.com##.destra_banner
 flashscore.it##.detail-bonus-match-summary-content-inner
@@ -846,6 +847,7 @@ gazzettadilivorno.it,quinewsabetone.it,quinewsamiata.it,quinewsarezzo.it,quinews
 gazzettadilivorno.it,quinewsabetone.it,quinewsamiata.it,quinewsarezzo.it,quinewscasentino.it,quinewscecina.it,quinewschianti.it,quinewscuoio.it,quinewselba.it,quinewsempolese.it,quinewsfirenze.it,quinewsgarfagnana.it,quinewsgrosseto.it,quinewslucca.it,quinewslunigiana.it,quinewsmaremma.it,quinewsmassacarrara.it,quinewsmugello.it,quinewspisa.it,quinewspistoia.it,quinewssiena.it,quinewsvalbisenzio.it,quinewsvaldarno.it,quinewsvaldelsa.it,quinewsvaldera.it,quinewsvaldichiana.it,quinewsvaldicornia.it,quinewsvaldinievole.it,quinewsvaldisieve.it,quinewsvaltiberina.it,quinewsversilia.it,quinewsvolterra.it,toscanamedianews.it##div[style="height: 250px !important;margin-bottom: 15px;margin-top: 15px;"]
 foodbloggermania.it##div[style="height:260px;margin-bottom:15px;"]
 stadionews.it##div[style="margin-bottom: 13px; border: 0px solid #000; width: 300px; min-height: 250px;"]
+affaritaliani.it##div[style="margin-bottom:20px;height:80px;"]
 stadionews.it##div[style="margin-top: 3px; border: 0px solid #000; width: 300px; height: 250px;"]
 affaritaliani.it##div[style="margin-top: 5px; margin-bottom: 5px; border: 1px solid rgb(0, 0, 0); margin-right: -2px;height:250px;"]
 stadionews.it##div[style="margin-top:0px;display:block;min-height:90px;"]
