@@ -319,6 +319,7 @@
 ||earone.it/themes/images/btn_itunes.png
 ||eclavoro.it^*/ADV_
 ||eclavoro.it^*_ADV_
+||ecnews.it^*/banner-
 ||ecoaltomolise.net^*/Banner-
 ||ecoaltomolise.net^*/xbanner-
 ||ecodallecitta.it/immagini/banners/
