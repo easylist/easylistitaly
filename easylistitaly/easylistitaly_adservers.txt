@@ -49,7 +49,6 @@
 ||edinetadv.com^$third-party
 ||epeex.io^$third-party
 ||evolutionadv.it^$third-party
-||filesusr.com^$third-party
 ||firebanner.com^$third-party
 ||gbucket.ch^$third-party
 ||hbagency.it^$third-party
