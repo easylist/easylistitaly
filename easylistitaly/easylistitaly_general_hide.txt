@@ -213,6 +213,7 @@
 ##.tccbanner
 ##.textual-adv-text
 ##.view-pubblicita
+##.widget_adv_multi
 ##.widget_n1ad
 ##.wl_WidgetRel_Sponsor
 ##.wl_WidgetRel_Sponsor1
