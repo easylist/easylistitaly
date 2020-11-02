@@ -502,7 +502,7 @@ virtusfrancavilla.it##.gallery-icon
 giornalerossoblu.it,telepegaso.it##.gallery-item
 zerocinquantuno.it##.gdlr-logo
 3bmeteo.com##.gpt_top
-fanta.soccer,fiscomania.com,money.it,ricettedalmondo.it,tuttogratis.it##.gptslot
+fanta.soccer,fiscomania.com,money.it,nuovecanzoni.com,ricettedalmondo.it,tuttogratis.it##.gptslot
 altadefinizione.coach,guardaserie.store##.guarda_hd
 toonitalia.org##.guarda_in_hd
 ilgeniodellostreaming.rest,ilgeniodellostreaming.to##.guardasingle
