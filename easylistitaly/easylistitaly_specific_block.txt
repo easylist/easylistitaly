@@ -1183,7 +1183,7 @@
 ||ship2shore.it^*/stripmobile/
 ||ship2shore.it^*_banner/
 ||shortpixel.ai^*-300x250.$domain=sarnonotizie.it
-||shortpixel.ai^*/banner-$domain=sarnonotizie.it
+||shortpixel.ai^*/banner-$domain=rumors.it|sarnonotizie.it
 ||shortpixel.ai^*/conad-$domain=sarnonotizie.it
 ||sibarinet.it/images/banners/
 ||siciliainternazionale.com^*-banner-
