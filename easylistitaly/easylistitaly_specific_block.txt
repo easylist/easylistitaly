@@ -599,6 +599,12 @@
 ||imgpress.it^*/banner2
 ||imgpress.it^*/banner3
 ||imgpress.it^*/Pubbl-
+||imola.it^*-banner.
+||imola.it^*/ayaki_imola.gif
+||imola.it^*/Banner-
+||imola.it^*/Selice-102.gif
+||imola.it^*/tecnoacustica.gif
+||imola.it^*_banner.
 ||industria-online.com/storage/b-
 ||industriaitaliana.it^*/300x250
 ||industriaitaliana.it^*/Rettangolo-
