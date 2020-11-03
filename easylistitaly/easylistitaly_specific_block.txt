@@ -481,6 +481,7 @@
 ||guardaserie.cam^*/bottone
 ||guardaserie.cam^*/btn_guarda
 ||guardaserie.cam^*/button
+||guardaserie.video^*/guardaorads.png
 ||guidaviaggi.it/banners/
 ||guidaviaggi.it/public/banners/
 ||gwendalina.tv^*/stickybar_script-
