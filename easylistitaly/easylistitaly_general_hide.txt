@@ -124,6 +124,7 @@
 ##.adv-strip-container
 ##.adv-wpz
 ##.adv300eni
+##.advBot
 ##.advPostLibri
 ##.adv_articolo
 ##.adv_banner_ps_13
