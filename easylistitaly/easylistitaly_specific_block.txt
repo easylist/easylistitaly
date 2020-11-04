@@ -242,6 +242,7 @@
 ||classifichemusica.it/img/amazon.jpg
 ||click.html.it^
 ||cn24tv.it/images/banners/
+||comefareorto.it^*/Post-FB-copia.jpg
 ||comingsoon.it/img/PrimeVideoColorBtn.png
 ||comingsoon.it/imgdb/banner/
 ||comolive.it^*-AVIS-logo-
@@ -623,6 +624,7 @@
 ||iovivoaroma.org/images/new/bg.jpg
 ||iovivoaroma.org/public/banners/
 ||irnonotizie.it^*/logo_territorio_sostenibile-
+||irrigazioneagricoltura.it^*/GIF-Garden4us.gif
 ||itacanotizie.it^*/37-striscia-
 ||itacanotizie.it^*/banner-
 ||itacanotizie.it^*/banner_
