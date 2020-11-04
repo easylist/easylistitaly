@@ -163,7 +163,7 @@ lavocedibolzano.it###mvp-wallpaper
 rovigooggi.it###news-left-box
 rovigooggi.it###news-pretext-box
 rovigooggi.it###news-top-space
-flashscore.it###odds-main-wrapper
+diretta.it,flashscore.it###odds-main-wrapper
 mondoplay.it,mondoxbox.com###offersbox
 mondoplay.it,mondoxbox.com###offersbox_wide
 sassuolocalcio.it,ship2shore.it###partners
