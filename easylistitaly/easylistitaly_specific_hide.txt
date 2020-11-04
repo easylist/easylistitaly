@@ -339,6 +339,7 @@ notetralerighe.it##.banner-amazon-music
 parmareport.it##.banner-big
 cuneocronaca.it,divinafm.it,giochixl.it,lacrocequotidiano.it,mtv.it##.banner-container
 genova24.it##.banner-elezioni
+italiani.it##.banner-empty-italiani
 bluvolleyverona.it##.banner-fading
 algheroeco.com##.banner-header-dx
 algheroeco.com##.banner-header-sx

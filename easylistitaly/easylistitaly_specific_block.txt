@@ -633,6 +633,7 @@
 ||italia.fm^*/leaseweb.gif
 ||italiaciclismo.net/images/banner_
 ||italiafruit.net/Public/Upload/Banner/
+||italiani.it^*/compramadeinitaly.jpg
 ||italiasette.it^*-336x280-
 ||italpress.com^*/gif_talpress_def.
 ||italpress.com^*/VolospeechGif_
