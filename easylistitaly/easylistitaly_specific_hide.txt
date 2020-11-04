@@ -89,6 +89,7 @@ tefchannel.it###ctl00_cphBody_mcsSlotBannerTop_rptGallery_ctl01_lnkLink
 teleborsa.it###ctl00_if4WTV300x250
 birramoriamoci.it###custom_html-2
 strill.it###custom_html-25
+melarossa.it###custom_html-5
 strill.it###custom_html-65
 amazon.it###detailILM_feature_div
 mymovies.it###div_topleft
@@ -562,6 +563,7 @@ winenews.it##.manchette_r
 orologipertutti.it##.masonry_grid_fullwidth
 ecoo.it##.masterhead-container-column
 medicalexcellencetv.it##.medic-widget
+melarossa.it##.melar-pos-in-article-multiplo
 sportivissimo.com##.menu4
 ecoaltomolise.net,newslinet.com,radiodeltainternational.it,tvcity.it,vulturenews.net##.metaslider
 automoto.it,moto.it##.mit-skin-spacer
