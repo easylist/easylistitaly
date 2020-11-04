@@ -37,6 +37,8 @@ ondarock.it###banner_300x250_slot4
 contosulconto.it###banner_content
 cronachedibirra.it###banner_in-article
 cronachedibirra.it###banner_in-article_adv
+odontoiatria33.it###banner_lato
+odontoiatria33.it###banner_lato_due
 subito.it###banner_leaderboard
 notiziediprato.it###banner_strip
 gruppovideomedia.it,radiovalbelluna.it###banner_top
@@ -167,6 +169,7 @@ lafeltrinelli.it###partners-slider
 amazon.it###pdagMwebCarousel
 acprosesto.it###prefooter
 flashgames.it###pub_sotto
+odontoiatria33.it###rowHeader
 nuovosud.it###sfondo
 eurogamer.it###sidebar_amazon
 epolisbari.com,marigliano.net###skin
@@ -456,6 +459,7 @@ frasimania.it##.content-banner
 cookist.it,fanpage.it##.content-leaderboard
 salernonotizie.it##.contskin
 ilpiccolo.net##.cornice_banner
+odontoiatria33.it##.corso-box
 cineblog01.love##.cover-button
 giochi.it##.cpx-content
 ilmeteo.net##.creatividad
