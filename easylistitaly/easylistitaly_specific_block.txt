@@ -705,6 +705,7 @@
 ||lavocedibolzano.it^*-1920X1280
 ||lavocedibolzano.it^*-600X600
 ||lavorincasa.it/adb/
+||lavorincasa.it/product/
 ||lavoripubblici.it/banner/
 ||lazioingol.it^*/baked.jpg
 ||leccenews24.it/upload/banner/

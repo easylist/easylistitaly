@@ -296,7 +296,7 @@ soldionline.it##.afc_boxcontent_taglist
 alfemminile.com##.affi-button
 agi.it##.agi-ad-wrap
 cityrumors.it,tantasalute.it##.ai-viewport-1
-gamemag.it,nientepopcorn.it,videogame.it##.amazon
+gamemag.it,lavorincasa.it,nientepopcorn.it,videogame.it##.amazon
 ridble.com##.amazon-product
 cliccascienze.it##.amazon-products-container-list
 animeclick.it##.amazon-row
@@ -767,6 +767,7 @@ newsly.it##.widget_aawp_widget_box
 dilei.it##.widget_promo_box_widget
 nursetimes.org##.widget_realty_widget
 teleunica.com##.wrap-adv-body
+lavorincasa.it##.wrapper-banner-box-wallpaper
 lavorincasa.it##.wrapper-banner-footerbanner
 lavorincasa.it##.wrapper-banner-medium-rectangle
 lavorincasa.it##.wrapper-sider-bacheca-aziende
@@ -782,7 +783,7 @@ blog.libero.it##a[href*=".clickbank.net/"]
 voglioporno.com##a[href*=".com/track/"]
 blog.libero.it##a[href*=".hop.clickbank.net/"]
 videopornoitalia.it##a[href*=".rivcash.com/"]
-amalfinotizie.it,birramoriamoci.it,canale3.tv,centotrentuno.com,corrieredellacalabria.it,cremaoggi.it,cremonaoggi.it,cremonasport.it,freeonline.org,hwupgrade.it,lasiritide.it,oglioponews.it,ricettedellanonna.net,rivistanatura.com,settesere.it,tusciaweb.eu,tvadrano.com##a[href*="//bit.ly/"]
+amalfinotizie.it,birramoriamoci.it,canale3.tv,centotrentuno.com,corrieredellacalabria.it,cremaoggi.it,cremonaoggi.it,cremonasport.it,freeonline.org,hwupgrade.it,lasiritide.it,lavorincasa.it,oglioponews.it,ricettedellanonna.net,rivistanatura.com,settesere.it,tusciaweb.eu,tvadrano.com##a[href*="//bit.ly/"]
 animeemanga.it,comprovendodischi.it,comprovendolibri.it,corrieredellacalabria.it,stiletv.it##a[href*="//goo.gl/"]
 cb01.live##a[href*="/4K/"]
 altadefinizione.coach,cb01.events,cb01.online,cb01.run,cb01.solutions,cineblog01.love,filmsenzalimiti.love,guardarefilm.vin,guardaserie.cam,speedvideo.net##a[href*="/4k/"]
@@ -839,13 +840,18 @@ mymovies.it##a[href^="https://disneyplus.bn5x.net/"]
 diventaretrader.com##a[href^="https://iqbroker.com/"]
 rockol.it,smartworld.it##a[href^="https://rover.ebay.com/"]
 gnoccatravels.com##a[href^="https://wellcum.at/"]
-2backpack.it,alfemminile.com,badcomics.it,badgames.it,badtaste.it,badtv.it,beppegrillo.it,birramoriamoci.it,bora.la,bsnews.it,cityrumors.it,classifichemusica.it,cliccascienze.it,comingsoon.it,comprovendodischi.it,comprovendolibri.it,consigli.it,donnamoderna.com,eurogamer.it,everyeye.it,facciabuco.com,frasicelebri.it,game-experience.it,gamerclick.it,giardinaggio.it,giardinaggio.net,giardiniblog.it,giornaledellabirra.it,gizchina.it,hdblog.it,hwupgrade.it,inter.it,junglam.com,mangaforever.net,mantovanotizie.com,miglioriofferteweb.com,nerdmovieproductions.it,newsly.it,nientepopcorn.it,notebookcheck.it,notetralerighe.it,orologipertutti.it,pensieriparole.it,pianetamamma.it,punto-informatico.it,ridble.com,rifaidate.it,rockol.it,spaziogames.it,tabsernews.it,telefonino.net,termometropolitico.it,topdigamma.it,tuttotek.it,vuemmetv.it,webnews.it##a[href^="https://www.amazon."][href*="tag="]
+2backpack.it,alfemminile.com,badcomics.it,badgames.it,badtaste.it,badtv.it,beppegrillo.it,birramoriamoci.it,bora.la,bsnews.it,cityrumors.it,classifichemusica.it,cliccascienze.it,comingsoon.it,comprovendodischi.it,comprovendolibri.it,consigli.it,donnamoderna.com,eurogamer.it,everyeye.it,facciabuco.com,frasicelebri.it,game-experience.it,gamerclick.it,giardinaggio.it,giardinaggio.net,giardiniblog.it,giornaledellabirra.it,gizchina.it,hdblog.it,hwupgrade.it,inter.it,junglam.com,lavorincasa.it,mangaforever.net,mantovanotizie.com,miglioriofferteweb.com,nerdmovieproductions.it,newsly.it,nientepopcorn.it,notebookcheck.it,notetralerighe.it,orologipertutti.it,pensieriparole.it,pianetamamma.it,punto-informatico.it,ridble.com,rifaidate.it,rockol.it,spaziogames.it,tabsernews.it,telefonino.net,termometropolitico.it,topdigamma.it,tuttotek.it,vuemmetv.it,webnews.it##a[href^="https://www.amazon."][href*="tag="]
 atalanta.it,diventaretrader.com##a[href^="https://www.plus500.com/"]
 animeemanga.it,comingsoon.it,trovacinema.repubblica.it##a[href^="https://www.primevideo.com/"][href*="tag="]
 2backpack.it##a[href^="https://www.worldnomads.com/Turnstile/AffiliateLink?"]
 2backpack.it##a[href^="https://www.worldnomads.it/?affiliate="]
 genoanews1893.it##div[astyle="text-align: center; width: 336px; height: 280px; padding: 3px 0px 3px 0px;"]
 acmilan.com##div[class^="Partners_"]
+lavorincasa.it##div[class^="wrapper-banner-half-page-ad"]
+lavorincasa.it##div[class^="wrapper-banner-infobanner-large"]
+lavorincasa.it##div[class^="wrapper-banner-large-leaderboard"]
+lavorincasa.it##div[class^="wrapper-banner-medium-rectangle"]
+lavorincasa.it##div[class^="wrapper-banner-wallpaper"]
 alvolante.it##div[id^="dfp-alv-slot"]
 ebikecult.it,mtbcult.it##div[id^="id="mtbcu-"]
 amazon.it##div[id^="sp_detail"]
