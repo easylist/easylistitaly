@@ -939,6 +939,7 @@
 ||parmareport.it^*/skin-
 ||parmareport.it^*_banner_
 ||parrocchie.it/banner/
+||passionemaglie.it^*/banner-
 ||perotorino.it/images/banners/
 ||pharmastar.it^*/banner/
 ||pharmastar.it^*/skins/
