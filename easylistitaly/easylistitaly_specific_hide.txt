@@ -71,6 +71,7 @@ gamesvillage.it###buy_amazon
 ascolicalcio1898.it###carousel
 foodbloggermania.it###categories-2
 newsf1.it###cb-bg-to
+cdt.ch###cdt-ads-medium-rectangle
 virgilio.it###cht_banner
 libero.it###chunnel-affari-300x170
 corrieredellacalabria.it###click_dxa
