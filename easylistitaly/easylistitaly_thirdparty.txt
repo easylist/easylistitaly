@@ -31,6 +31,7 @@
 ||blogspot.com^*/ISTITUTI%2BPIETRO%2BPIAZZA%2BGIF.gif$domain=siciliaunonews.com
 ||blogspot.com^*/Regina%2BMargherita%2BBanner%2B2017_$domain=siciliaunonews.com
 ||blogspot.com^*/XXX.jpg$domain=siciliaunonews.com
+||book.terravision.eu^$domain=mylondra.it
 ||booking.com^$subdocument,domain=cosafarei.it|iltempo.it|milleunadonna.it|notizie.tiscali.it|quattroruote.it|sport.tiscali.it|tuttobaviera.it
 ||campingsportmagenta.com/CamperOnline/$third-party
 ||careerjet.it/partners/
@@ -185,6 +186,7 @@
 ||webself.it/banners/
 ||webster.it^*/affiliati/
 ||wecoclub.it^*_banner_
+||widget.getyourguide.com^*&partner_id=$third-party
 ||widget.promoqui.it^
 ||ws.shoppydoo.com^$third-party
 ||yoox.it/view.aspx?$subdocument,third-party
