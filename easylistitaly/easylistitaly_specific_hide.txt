@@ -497,6 +497,7 @@ lega-pro.com##.footer-partner
 genoacfc.it##.footer-partner-link
 bluvolleyverona.it,chievoverona.it,hellasverona.it##.footer-sponsor
 acspezia.com,bresciacalcio.it,cagliaricalcio.com,olbiacalcio.com##.footer-sponsors
+football-magazine.it##.footer-widgets
 iltredici.it##.footer__partners
 rsd.it##.footer__widgets
 palermofc.com##.footer_int
@@ -759,6 +760,7 @@ larivieraonline.com##.view-Banners
 sportsondrio.it##.view-inserzioni-sponsorizzate
 vitatrentina.it##.vitat-testata-dx
 vitatrentina.it##.vitat-testata-sx
+football-magazine.it##.vzasjfip-container
 lavorincasa.it##.wallpaper-1
 algheroeco.com,radioluna.it##.wallpaper-link
 notiziarioeolie.it##.well
