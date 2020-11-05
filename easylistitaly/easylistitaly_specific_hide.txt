@@ -281,7 +281,7 @@ unonotizie.it##.add
 24emilia.com,autoscout24.ch,brocardi.it,cb01.online,filmpertutti.onl,gamemag.it,hdblog.it,hdmotori.it,hdtroll.it,ilgeniodellostreaming.rest,ilikepuglia.it,live-sport-tv.it,teleborsa.it,viamichelin.ch,viamichelin.it##.ads
 ildolomiti.it##.adsB
 chistachiamando.it,pcprofessionale.it##.adsense
-adessoin.tv,allaguida.it,amica.it,ansa.it,buttalapasta.it,calciomercato.com,curioctopus.it,dissapore.com,forbes.it,gelocal.it,gianlucadimarzio.com,gta-expert.it,ilfattoquotidiano.it,ilpost.it,ilsole24ore.com,latina24ore.it,mediaset.it,movieplayer.it,multiplayer.it,nanopress.it,notiziemilan.it,pourfemme.it,prealpina.it,radioindiretta.fm,repubblica.it,salepepe.it,skuola.net,staffettaonline.com,stylosophy.it,supereva.it,virgilio.it,vocenuova.tv##.adv
+adessoin.tv,allaguida.it,amica.it,ansa.it,buttalapasta.it,calciomercato.com,curioctopus.it,dissapore.com,forbes.it,gelocal.it,gianlucadimarzio.com,gta-expert.it,ilfattoquotidiano.it,ilpost.it,ilsole24ore.com,latina24ore.it,libero.it,mediaset.it,movieplayer.it,multiplayer.it,nanopress.it,notiziemilan.it,pourfemme.it,prealpina.it,radioindiretta.fm,repubblica.it,salepepe.it,skuola.net,staffettaonline.com,stylosophy.it,supereva.it,virgilio.it,vocenuova.tv##.adv
 teleunica.com##.adv-body
 animatamente.net##.adv-link
 rbe.it##.adv-section
@@ -547,6 +547,7 @@ juventus.com##.jcom-o-sponsors-nav__child
 superscommesse.it##.js_tracking_gtm
 nientepopcorn.it##.justwatch
 cookaround.com##.lancio-speciale-logo
+libero.it##.lancio_promo
 bluerating.com##.large_home_adv
 pensieriparole.it##.latspot
 ilgallo.it##.leader-board
@@ -846,6 +847,7 @@ birramoriamoci.it,fattoincasadabenedetta.it,hovogliadidolce.it,hwupgrade.it,hyne
 trattamentinaturalibio.it##a[href^="https://c.mtpc.se/"]
 albengacorsara.it,campaniameteo.it##a[href^="https://clk.tradedoubler.com/"]
 mymovies.it##a[href^="https://disneyplus.bn5x.net/"]
+libero.it##a[href^="https://httpslink.com/"]
 diventaretrader.com##a[href^="https://iqbroker.com/"]
 rockol.it,smartworld.it##a[href^="https://rover.ebay.com/"]
 gnoccatravels.com##a[href^="https://wellcum.at/"]
