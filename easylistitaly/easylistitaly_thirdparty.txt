@@ -79,6 +79,7 @@
 ||hrs.de/wizard.aspx?
 ||html.it/banner/
 ||iads.iltrovatore.it^
+||ibb.co^$domain=edicolafree.xp3.biz
 ||ilpelonelluovo.net/banner/
 ||iltelaiodipenelope.it/banner_exchange/
 ||imgbox.com^$domain=funoanalisitecnica.com|marcheingol.it
