@@ -432,6 +432,8 @@
 ||genoacfc.it^*/banner-
 ||genoacfc.it^*/NOBERASCO_LOGO-
 ||genova24.it^*/banner_
+||gingergeneration.it/n/
+||gingergeneration.it^*/banner-
 ||giochixl.it/bfb/
 ||giornale.it^*/300x250px.
 ||giornale.it^*/600x200px.
