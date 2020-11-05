@@ -10,6 +10,7 @@ digital-forum.it,ebaygeneration.com,elaborare.com,esigarettaforum.com,thegamesma
 bordighera.net,corriere.it###ads
 piceno24.it,picenooggi.it,rivieraoggi.it,virgilio.it###adv
 agarymathematics.net###adv1
+catt.ch###advertising
 amazon.it###ape_detail_btf_detail-mWeb_wrapper
 amazon.it###ape_detail_mobile-hero-quick-promo_mweb_wrapper
 amazon.it###ape_search_btf_search-mWeb_wrapper
