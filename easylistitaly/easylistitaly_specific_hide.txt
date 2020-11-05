@@ -522,7 +522,7 @@ ilgeniodellostreaming.rest,ilgeniodellostreaming.to,ilgeniodellostreamings.it##.
 ilgeniodellostreaming.rest,ilgeniodellostreaming.to,ilgeniodellostreamings.it##.guardasingleserie2
 quattroruote.it##.halfPageBanner2
 emmelle.it##.header-ainfo
-ondatv.tv##.header-banner
+ecodelcinema.com,ondatv.tv##.header-banner
 nuovosud.it##.header-banner-wrapper
 calciomercato.com##.header-banner__container
 lanuovacalabria.it##.headerBanner

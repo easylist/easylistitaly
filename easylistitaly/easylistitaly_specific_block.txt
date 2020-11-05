@@ -325,6 +325,7 @@
 ||ecoaltomolise.net^*/Banner-
 ||ecoaltomolise.net^*/xbanner-
 ||ecodallecitta.it/immagini/banners/
+||ecodelcinema.com^*/bnnrdionysus-
 ||ecovicentino.it/wp-admin/get_img.php?*banner
 ||ecovicentino.it^*/banner-
 ||edilportale.com/Banner/
