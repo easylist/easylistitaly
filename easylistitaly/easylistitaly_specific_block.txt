@@ -885,6 +885,7 @@
 ||notiziediprato.it/caricaBannerIframe/
 ||notiziediprato.it/uploads/banner/
 ||notizieoggi.com^*_banner.
+||notizieoggi24.it^*/gel-farmacia.jpg
 ||nslradiotv.it^*/cinecitta-
 ||nslradiotv.it^*/roma-world.jpg
 ||ntimedia.it^*_banner_
