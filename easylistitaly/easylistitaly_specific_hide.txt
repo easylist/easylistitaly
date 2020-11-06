@@ -276,7 +276,7 @@ soluzionicodycross.it##.ad-container
 laltrapagina.it##.ad1
 laltrapagina.it##.ad5
 theitaliantimes.it##.adb
-lamilano.it,marsicalive.it##.adcontainer
+abruzzolive.it,lamilano.it,marsicalive.it##.adcontainer
 unonotizie.it##.add
 24emilia.com,autoscout24.ch,brocardi.it,cb01.online,filmpertutti.onl,gamemag.it,hdblog.it,hdmotori.it,hdtroll.it,ilgeniodellostreaming.rest,ilikepuglia.it,live-sport-tv.it,teleborsa.it,viamichelin.ch,viamichelin.it##.ads
 ildolomiti.it##.adsB
@@ -443,6 +443,7 @@ game-game.it##.btn-play
 piratestreaming.network##.btnaaa
 cinemalibero.cloud##.btnaaa4k
 cinemalibero.cloud##.btnaaahd
+abruzzolive.it##.btxe-container
 scaricarelibri.net##.button
 pensieriparole.it##.buyblock
 empolifc.com##.c-footer__sponsors-container

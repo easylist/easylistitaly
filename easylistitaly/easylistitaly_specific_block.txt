@@ -19,6 +19,8 @@
 ||abc24.it/images/banners/
 ||abruzzolive.it^*/1300x200.gif
 ||abruzzolive.it^*/480X400PX-
+||abruzzolive.it^*/banner-
+||abruzzolive.it^*/VERTICALE
 ||abruzzoweb.it/cache/banners/
 ||abruzzoweb.it^*/banner-
 ||acquariofilia.biz/banner/
