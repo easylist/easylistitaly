@@ -276,7 +276,7 @@ soluzionicodycross.it##.ad-container
 laltrapagina.it##.ad1
 laltrapagina.it##.ad5
 theitaliantimes.it##.adb
-abruzzolive.it,lamilano.it,marsicalive.it,pescaralive.it##.adcontainer
+abruzzolive.it,confinelive.it,lamilano.it,marsicalive.it,pescaralive.it##.adcontainer
 unonotizie.it##.add
 24emilia.com,autoscout24.ch,brocardi.it,cb01.online,filmpertutti.onl,gamemag.it,hdblog.it,hdmotori.it,hdtroll.it,ilgeniodellostreaming.rest,ilikepuglia.it,live-sport-tv.it,teleborsa.it,viamichelin.ch,viamichelin.it##.ads
 ildolomiti.it##.adsB
@@ -738,6 +738,7 @@ telesud.it##.teles-header-banner
 positanonews.it##.testata
 bluerating.com##.the_big_banner
 87tv.it,pianetadonne.blog##.theiaStickySidebar
+confinelive.it##.tmsgfrekab-container
 numeri-di-telefono.it##.top-add
 allsongs.tv,casamagazine.it,dica33.it,donnemagazine.it,foodblog.it,mammemagazine.it,motorimagazine.it,offerteshopping.it,style24.it,tuobenessere.it,viaggiamo.it##.top-banner
 stiletv.it##.top-banner-container
