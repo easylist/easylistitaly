@@ -29,6 +29,7 @@
 ###adv-broker-overlayer
 ###adv-broker-overlayer-background
 ###adv-iframe-sx-home
+###adv-masthead-0
 ###adv-skin-colonnadx
 ###adv-skin-colonnasx
 ###advAutopromo1
@@ -205,6 +206,7 @@
 ##.sal-adv-adsense
 ##.sb-box-pubbliredazionale
 ##.sidebar__adv
+##.sito-adv-sopra-main
 ##.sponsor160x600Dx
 ##.sponsor300x250Sx
 ##.sponsorizzati
