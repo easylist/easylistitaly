@@ -1194,6 +1194,7 @@
 ||savonanews.it^*/banner/
 ||savonanews.it^*/box/
 ||scopateitaliane.it/nb/
+||segretodonna.com^*/720x90-
 ||senigallianotizie.it/banner/
 ||settecalcio.it^*/File_banner/
 ||sevendaysweb.com^*-banner-$domain=dirigentindustria.it
