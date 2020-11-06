@@ -609,7 +609,7 @@ casaeclima.com##.page-wrapper
 puntocellulare.it##.panel-offers
 nostrofiglio.it##.par-listing-collab
 pianetamamma.it##.par-sponsorby-logo
-cure-naturali.it,fc-suedtirol.com,ragusanews.com##.partner
+cure-naturali.it,fc-suedtirol.com,lifegate.it,ragusanews.com##.partner
 bolognafc.it##.partner-footer
 100ideeperristrutturare.it,casa-naturale.com,quattrozampe.online,villeecasali.com##.partner-item-wrapper
 radiogardena.it##.partner-wrapper
