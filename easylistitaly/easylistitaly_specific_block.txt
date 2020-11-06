@@ -777,8 +777,10 @@
 ||mantovauno.it^*/banner-
 ||maremmanews.it/images/banners/
 ||marigliano.net/upload/banner/
+||marsicalive.it^*-480x400_
 ||marsicalive.it^*-banner.
 ||marsicalive.it^*/banner-
+||marsicalive.it^*/Fiat-1300-
 ||marsicalive.it^*/Lancia-
 ||marsicalive.it^*/medila-
 ||marsicalive.it^*/VERTICALE
