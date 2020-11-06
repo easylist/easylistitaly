@@ -99,6 +99,7 @@
 ||ascolinews.it^*/GUIDALUSSO2000.gif
 ||asgiana.com^*/banner-
 ||asgubbio1910.net^*/sponsor_
+||askanews.it/img_diverse/300x100_
 ||atalanta.it^*/Banner-
 ||atalanta.it^*_banner_
 ||autobusweb.com^*-Banner-
