@@ -41,6 +41,7 @@
 ||cdn.plus500.com/media/banners/
 ||ciaotour.com/it/client/hotels/inline.htm?*&promo=$subdocument
 ||city-news.it/do/vast/
+||clickdoc.it/components/ricettainfarmacia2.js
 ||cloudfront.net^$image,script,subdocument,xmlhttprequest,domain=casacinema.work
 ||cloudfront.net^*/sponsor/$domain=violachannel.tv
 ||clubshop.com/banners/
