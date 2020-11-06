@@ -862,6 +862,7 @@
 ||mymovies.it/primevideo/
 ||myvalley.it/wp-content/banners/
 ||myvalley.it^*/wpsite_clickable.
+||mywhere.it^*/310x310.png
 ||napolicittasolidale.it^*/banner/
 ||napolimagazine.com^*/banner-
 ||nba24.it^*/banner-
