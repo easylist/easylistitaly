@@ -1657,6 +1657,7 @@
 ||wp.com/www.lopinionistanews.it/*/Orion-
 ||wp.com/www.medicalexcellencetv.it/*_300x100.
 ||wp.com/www.medicalexcellencetv.it/*_600x500.
+||wp.com/www.meganerd.it/*/MNERD15685.png
 ||wp.com/www.proiezionidiborsa.it/*/bnp-
 ||wp.com/www.tabsernews.it/*/THE-SOUND.png
 ||wp.com/www.tsdtv.it/*/300x300-
