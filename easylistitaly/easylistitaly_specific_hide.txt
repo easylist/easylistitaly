@@ -752,6 +752,7 @@ viviwebtv.it##.topstriplive
 noinotizie.it##.tre-spazi
 radiocompany.com##.trend-banner
 notebookitalia.it##.uk-height-medium
+colonnesonore.net##.uk-panel.uk-panel-header
 strumentiemusica.com##.ulnqd-container
 turistipercaso.it##.utilink
 sanihelp.it##.v2-header-banner
