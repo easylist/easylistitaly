@@ -1530,6 +1530,8 @@
 ||venetogol.it//immagini/File_banner/
 ||venetouno.it/media/imgbanners/
 ||veneziaradiotv.it^*/scott-informatica.jpg
+||venividivici.us^*-280x280.
+||venividivici.us^*-banner_
 ||vercellioggi.it/immagini/banner/
 ||vercellioggi.it^*/banner-
 ||veronanetwork.it^*/banner-
