@@ -948,6 +948,7 @@
 ||parrocchie.it/banner/
 ||passionemaglie.it^*/banner-
 ||perotorino.it/images/banners/
+||pescaralive.it^*/banner-
 ||pharmastar.it^*/banner/
 ||pharmastar.it^*/skins/
 ||piacenza24.eu^*-banner-
