@@ -235,6 +235,7 @@
 ||cineblog01.place/scarica
 ||cinemadelsilenzio.it/banner4.js
 ||cinemaitaliano.info^*/banner/
+||cinemondium.com^*/720x90-
 ||cinestreaming.uno/img/b_
 ||cittadimassacarrara.com/banner/
 ||cityrumors.it/images/banners/
