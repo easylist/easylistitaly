@@ -53,6 +53,9 @@ orizzontescuola.it###bglink
 bergamoesport.it###billboard
 siracusanews.it###billboard1
 giornaledellamusica.it###block-adv
+tuttosuigatti.it###block-bean-banner-content-bottom
+tuttosuigatti.it###block-bean-banner-content-center
+tuttosuigatti.it###block-bean-banner-header
 mediaworld.it###block-footerbanners
 nuovosud.it###block-views-banner-centrale-menu-block
 torinofc.it###block-views-sponsor-block-2
