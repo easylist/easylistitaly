@@ -1481,6 +1481,7 @@
 ||tuttogratis.it/js/tgsense_
 ||tuttotone.app/assets/img/banner/
 ||tuttotrasporti.it^*/notizieSponsorizzate/
+||tuttozampe.com^*/Premium_
 ||tv2000.it^*/banner.
 ||tv2000.it^*/banner/
 ||tv2000.it^*/skin/
