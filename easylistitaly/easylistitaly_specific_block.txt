@@ -1149,6 +1149,7 @@
 ||retesei.com^*/ips.jpg
 ||retesei.com^*/pincios-
 ||risorsedidattiche.net/js/yb-risorsedidattichenet.js
+||robadainformatici.it^*_banner_
 ||romachampionsleague.com^*/Logo-motto-
 ||romachampionsleague.com^*/Pubblicit%C3%A0-
 ||romagnasport.com//public/banner/
