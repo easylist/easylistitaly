@@ -770,7 +770,7 @@
 ||macitynet.it^*/macitybig
 ||macitynet.it^*/macitynettrendeviceborsa.jpg
 ||maidireborsa.it^*/image004-
-||maidirelink.it/wp-content/uploads/2017/02/sconti-amazon.jpg
+||maidirelink.it^*/sconti-amazon.jpg
 ||mail.tiscali.it^*/advlib.js
 ||mammaimperfetta.it^*_banner.
 ||mammedomani.it/images/banners/
