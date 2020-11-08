@@ -453,6 +453,11 @@ lineapress.it##.cfxi-container
 cliccascienze.it##.clicc-prima-del-contenuto
 edilportale.com##.click-Skin
 puntocellulare.it##.clklnk
+pomiglianolive.it##.code-block-11
+pomiglianolive.it##.code-block-12
+pomiglianolive.it##.code-block-5
+pomiglianolive.it##.code-block-8
+pomiglianolive.it##.code-block-9
 ilcorrieredelgiorno.it##.col-banner
 lacrocequotidiano.it##.column-banner
 quattroruote.it##.commercial-article
