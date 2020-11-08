@@ -173,6 +173,7 @@
 ##.google-adx-spalla
 ##.googleAnnunci
 ##.google_adx_corpo
+##.gtv-adv-slot
 ##.header-mobile-mega-adv
 ##.home-rubriche-adv
 ##.inews_adv_top
