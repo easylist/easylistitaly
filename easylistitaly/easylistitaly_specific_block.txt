@@ -1607,6 +1607,7 @@
 ||windows.net/banner/$domain=lavocedimanduria.it
 ||windows.net/banners/$domain=freshplaza.it
 ||windows.net/specialeelezioni/$domain=altamuralive.it|barilive.it|barlettalive.it|bitontolive.it|cassanolive.it|coratolive.it|giovinazzolive.it|lavocedimanduria.it|ruvolive.it|santeramolive.it|terlizzilive.it
+||windowsblogitalia.com^*/sconto-5-euro-amazon.jpg
 ||winxclub.com^*/dfp.js?
 ||wp.com/genovaquotidiana.com/*-320x320-
 ||wp.com/ilclandestinogiornale.italiasera.it/*/autofficina-nettuno.gif
