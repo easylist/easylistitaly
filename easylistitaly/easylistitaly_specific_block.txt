@@ -1608,6 +1608,7 @@
 ||windows.net/banners/$domain=freshplaza.it
 ||windows.net/specialeelezioni/$domain=altamuralive.it|barilive.it|barlettalive.it|bitontolive.it|cassanolive.it|coratolive.it|giovinazzolive.it|lavocedimanduria.it|ruvolive.it|santeramolive.it|terlizzilive.it
 ||winxclub.com^*/dfp.js?
+||wp.com/genovaquotidiana.com/*-320x320-
 ||wp.com/ilclandestinogiornale.italiasera.it/*/autofficina-nettuno.gif
 ||wp.com/ilclandestinogiornale.italiasera.it/*/mastro-arrosticino-
 ||wp.com/www.1web.tv/*/VISITA-IL-SITO-
