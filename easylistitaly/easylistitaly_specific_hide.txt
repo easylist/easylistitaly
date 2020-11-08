@@ -637,7 +637,7 @@ webnews.it##.product__info
 comingsoon.it,pneusnews.it##.promo
 voglioporno.com##.promo-462x66
 eurogamer.it##.promo-banner
-motori.it##.promobox
+ideegreen.it,motori.it##.promobox
 proiezionidiborsa.it##.promoboxplus
 agoravox.it##.pub
 kikapress.com##.pub_container
