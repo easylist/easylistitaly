@@ -81,6 +81,7 @@
 ||ammirati.org/showpopup/
 ||andreagaleazzi.com/wp-content/plugins/ag-partners/
 ||angrinews.com^*/ComentaleOK.jpg
+||animalinelmondo.com/images/banner/
 ||animeclick.it/Banners/
 ||animeemanga.it/banner_
 ||animeemanga.it^*-prime-video-288x360.
