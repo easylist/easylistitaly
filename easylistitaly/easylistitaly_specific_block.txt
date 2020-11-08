@@ -910,6 +910,9 @@
 ||obiettivonews.it^*/bannercortinalungo2.
 ||obiettivonews.it^*/fuorirottabanner1050-
 ||obiettivonews.it^*/Urbanlogohomenuovo-
+||obiettivoscuola.it/images/Articoli/MAD_
+||obiettivoscuola.it/images/banners/
+||obiettivoscuola.it/images/Edises/
 ||occhionotizie.it^*_banner_
 ||occhisusalerno.it^*/banner/
 ||ogginotizie.it^*/666.jpg
