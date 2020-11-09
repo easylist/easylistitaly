@@ -626,6 +626,7 @@
 ||industriaitaliana.it^*_Banners-
 ||infonewsvietri.it/*/Zainetto-
 ||infonewsvietri.it^*/MAIORI2020.jpeg
+||infoperte.it^*/franchising.jpg
 ||informa-press.it^*/banner-
 ||informacalcio.it/banner/
 ||informazioneonline.it/wp-content/banners/
