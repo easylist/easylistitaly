@@ -1437,6 +1437,8 @@
 ||trsp.tv^*/banner_
 ||trsp.tv^*/logo_tv-
 ||trsp.tv^*/mondolavoro.jpg
+||turismoitalianews.it^*/banner/
+||turismoitalianews.it^*/banners/
 ||turistadimestiere.com^*/banner-
 ||tusciaweb.eu^*/Camperteam-
 ||tusciaweb.eu^*/Carrozzeria-fiorillo-
