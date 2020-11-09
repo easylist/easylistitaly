@@ -1154,6 +1154,15 @@
 ||reggioemiliameteo.it^*/banner/
 ||reggionline.com/yb-reggionlinecom.js
 ||reggiotv.it/immagini/banner/
+||reporter.it^*-banner-
+||reporter.it^*-banner.
+||reporter.it^*-Webbanner-
+||reporter.it^*/anigif.gif
+||reporter.it^*/banner-
+||reporter.it^*/IRENFORSU-
+||reporter.it^*/REAnimali.
+||reporter.it^*/ReggioCivitas.jpg
+||reporter.it^*/scubasail.png
 ||reportmotori.it^*/Banner_
 ||repubblica.it/ad/
 ||repubblica.it/javascript/mjx.js
