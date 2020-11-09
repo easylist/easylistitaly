@@ -752,7 +752,7 @@ edagricole.it##.td-banner-footer
 edagricole.it##.td-banner-wrap-full
 romagiallorossa.it##.td-container-header
 amoreaquattrozampe.it##.td-footer-container
-ilgiornaledeltermoidraulico.it,pescaracalcio.com,ternanacalcio.com##.td-footer-wrapper
+ilgiornaledeltermoidraulico.it,pescaracalcio.com,tennispavese.it,ternanacalcio.com##.td-footer-wrapper
 4actionsport.it##.td-header-rec-wrap
 laspia.it,ragusah24.it,romanews.eu##.td-header-sp-recs
 gdoweek.it##.td-leaderboard-wrap-full
@@ -992,6 +992,7 @@ umbriaoggi.news##img[width="300"][height="90"]
 umbriaoggi.news##img[width="315"][height="150"]
 canonclubitalia.com##img[width="632"][height="123"]
 beverfood.com##img[width="650"][height="320"]
+tennispavese.it##img[width="728"]
 larampa.it##img[width="728"][height="90"]
 bloopers.it##table[name="banner.tbl"]
 ! Site Specific filters (used with $generichide)
