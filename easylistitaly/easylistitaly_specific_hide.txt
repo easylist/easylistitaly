@@ -317,6 +317,8 @@ oraridiapertura24.it##.anzeigenlabel
 insideevs.it,omnifurgone.it,omnimoto.it##.ap
 ridble.com##.api-box
 radiocuore.it##.areaclick
+germania.info##.article_buttons_end
+germania.info##.article_hotel_vicino
 ilcittadinomb.it##.artpub
 giardiniblog.it##.asa2_fbh
 supercoin.it##.atla-card-link
@@ -862,7 +864,7 @@ rietilife.com##a[href^="http://www.rietilife.com?pasID="]
 outcast.it##a[href^="http://www.tostadora.it/t-shirt-nerd.php?"]
 birramoriamoci.it,fattoincasadabenedetta.it,guerrestellari.net,hovogliadidolce.it,hwupgrade.it,hynerd.it,ilsoftware.it,infotelematico.com,juzaphoto.com,macitynet.it,maidirelink.it,mio-ip.eu,nokioteca.net,tivusat.tv,trattamentinaturalibio.it,videogiocare.it,windowsblogitalia.com##a[href^="https://amzn.to/"]
 trattamentinaturalibio.it##a[href^="https://c.mtpc.se/"]
-albengacorsara.it,campaniameteo.it##a[href^="https://clk.tradedoubler.com/"]
+albengacorsara.it,campaniameteo.it,germania.info##a[href^="https://clk.tradedoubler.com/"]
 mymovies.it##a[href^="https://disneyplus.bn5x.net/"]
 libero.it##a[href^="https://httpslink.com/"]
 diventaretrader.com##a[href^="https://iqbroker.com/"]
