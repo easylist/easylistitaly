@@ -1548,6 +1548,7 @@
 ||vercellioggi.it^*/banner-
 ||veronanetwork.it^*/banner-
 ||veronanetwork.it^*/PANTHEON_ADV_
+||viaggioingermania.it^*/corso-tedesco-
 ||vicenzapiu.com^*/banner-
 ||videogame.it/arturo/vast/eas?
 ||videogame.it^*/adv/
