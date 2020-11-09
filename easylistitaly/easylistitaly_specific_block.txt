@@ -1400,6 +1400,8 @@
 ||toscanatv.it^*/BANNER-
 ||tp24.it/immagini_banner/
 ||tp24.it/library/_popup_banner.php
+||trainingpedia.it^*/banner-
+||trainingpedia.it^*/corso-personal-trainer.jpg
 ||trapanicalcio.it^*/arena2.jpg
 ||trapanicalcio.it^*/libertylines.jpg
 ||trapanicalcio.it^*/nuova-sicilauto.jpg
