@@ -106,6 +106,7 @@ ecodicaserta.it###down
 tipiace.it###externalbanner
 notizielombardia.it###fixedban
 calciomercato.com###float-sidebar-inner
+varesesport.com###floorsunrise
 ascittadella.it,violachannel.tv###footer-sponsor
 tvrxenon.it###footer-widgets
 videosesso.com###footertop

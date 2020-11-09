@@ -1549,6 +1549,7 @@
 ||valsassinanews.com^*-MANCHETTE-
 ||vanityfair.it^*/cn-banner.min.js?
 ||varesenews.it^*/banner/
+||varesesport.com^*500x300
 ||vcoazzurratv.it/images/banner/
 ||vendingnews.it/wp-content/uploads/angwp/items/
 ||venetogol.it//immagini/File_banner/
