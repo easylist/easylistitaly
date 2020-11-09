@@ -250,6 +250,7 @@ sscalciobari.it###wl-sponsor
 animeclick.it###wrapper
 corriere.it###yoodeal
 corriere.it###yoodeal2
+mangiobenevivobene.it###youtube_responsive-2
 comolive.it,resegoneonline.it,valtellinanews.it##.Banner
 cinemaitaliano.info##.Banner01
 cinemaitaliano.info##.Banner430x45

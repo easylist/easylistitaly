@@ -788,6 +788,7 @@
 ||mangaforever.net^*/sconti-online.jpg
 ||mangialibri.com^*/BANNER_
 ||mangialibri.com^*300x250
+||mangiobenevivobene.it^*/banner-
 ||mantova1911.club/images/sponsor/
 ||mantovanotizie.com^*/amazon-
 ||mantovasport24.it^*/BANNER-
