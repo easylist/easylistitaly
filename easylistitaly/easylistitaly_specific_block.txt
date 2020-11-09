@@ -105,6 +105,7 @@
 ||atalanta.it^*/Banner-
 ||atalanta.it^*_banner_
 ||audirsclub.it/images/misc/Faratech
+||audisportclub.com/banner/
 ||autobusweb.com^*-Banner-
 ||autobusweb.com^*/banner300x250_
 ||autoline24.it/img/atlads1/
