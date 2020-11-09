@@ -259,6 +259,7 @@ lacnews24.it##.FPB_dex
 lacnews24.it##.FPB_header
 lacnews24.it##.FPB_six
 olbianova.it##.HYPE_element
+amazon.it##.MultiBrandCreativeDesktop
 mentelocale.it##.PresentedBy
 viterbonews24.it##.SepBanner
 theitaliantimes.it##.Side_DX
