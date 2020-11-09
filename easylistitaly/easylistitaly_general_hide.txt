@@ -219,6 +219,7 @@
 ##.tcc-banner
 ##.tccbanner
 ##.textual-adv-text
+##.tn_adv
 ##.view-pubblicita
 ##.widget_adv_multi
 ##.widget_n1ad
