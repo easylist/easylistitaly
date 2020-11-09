@@ -887,6 +887,10 @@
 ||newsfood.com^*_banner_
 ||newsly.it^*/aawp/
 ||noinotizie.it^*/halos.jpg
+||noitv.it^*-Banner-
+||noitv.it^*/banner-
+||noitv.it^*/banner_
+||noitv.it^*/clasiss-
 ||nokioteca.net/_immagini/Nokia2720-2.
 ||normanno.com^*/motordoctor-
 ||notiziarioeolie.it/images/banners/
