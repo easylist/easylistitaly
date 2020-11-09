@@ -1627,6 +1627,7 @@
 ||windows.net/specialeelezioni/$domain=altamuralive.it|barilive.it|barlettalive.it|bitontolive.it|cassanolive.it|coratolive.it|giovinazzolive.it|lavocedimanduria.it|ruvolive.it|santeramolive.it|terlizzilive.it
 ||windowsblogitalia.com^*/sconto-5-euro-amazon.jpg
 ||winxclub.com^*/dfp.js?
+||worldofwrestling.it^*/wow.gif
 ||wp.com/genovaquotidiana.com/*-320x320-
 ||wp.com/guerrestellari.net/*/Amazon_
 ||wp.com/ilclandestinogiornale.italiasera.it/*/autofficina-nettuno.gif
@@ -1689,6 +1690,7 @@
 ||wp.com/www.proiezionidiborsa.it/*/bnp-
 ||wp.com/www.tabsernews.it/*/THE-SOUND.png
 ||wp.com/www.tsdtv.it/*/300x300-
+||wp.com/www.worldofwrestling.it/*/wow.gif
 ||wp.com/www.zerosette.it/*/bella-venezia.png
 ||wp.com^*-banner-$domain=gazzettadiavellino.it|gazzettadisalerno.it|infonewsvietri.it
 ||wp.com^*-banner.$domain=gazzettadiavellino.it|gazzettadisalerno.it|infonewsvietri.it
