@@ -104,6 +104,7 @@
 ||askanews.it/img_diverse/300x100_
 ||atalanta.it^*/Banner-
 ||atalanta.it^*_banner_
+||audirsclub.it/images/misc/Faratech
 ||autobusweb.com^*-Banner-
 ||autobusweb.com^*/banner300x250_
 ||autoline24.it/img/atlads1/
