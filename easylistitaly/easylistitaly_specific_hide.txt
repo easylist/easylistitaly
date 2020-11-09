@@ -278,7 +278,7 @@ topdigamma.it,tuttotek.it##.aawp-product
 tag24.it##.above-footer
 ilsole24ore.com##.abox
 radioitalia.it##.acquista
-ilfoglio.it,jugo.it,lacrocequotidiano.it,le-citazioni.it,liberatv.ch,lonelyplanetitalia.it,mondoplay.it,mondoxbox.com,quotidianoapuano.net,serietvu.link,smartbuildingitalia.it,trend-online.com,tripadvisor.it##.ad
+ilfoglio.it,jugo.it,lacrocequotidiano.it,le-citazioni.it,liberatv.ch,lonelyplanetitalia.it,mondoplay.it,mondoxbox.com,motorbox.com,quotidianoapuano.net,serietvu.link,smartbuildingitalia.it,trend-online.com,tripadvisor.it##.ad
 tusciaweb.eu##.ad-article
 soluzionicodycross.it##.ad-container
 laltrapagina.it##.ad1
