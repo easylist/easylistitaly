@@ -1714,6 +1714,7 @@
 ||zerosette.it^*_banner_
 ||zonacalciofaidate.it^*/soccerhosue.jpg
 ||zonacalciofaidate.it^*/WhatsApp-Image-2020-04-09-at-11.35.46.jpeg
+||zonawrestling.net^*-banner.
 ! Citynews
 /traffico//banner/*
 /~vda/*/*.php/*
