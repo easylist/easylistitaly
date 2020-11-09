@@ -348,6 +348,7 @@ m100.it##.banner-1
 welfarenetwork.it##.banner-468-hp
 notetralerighe.it##.banner-amazon-music
 parmareport.it##.banner-big
+universodelgioco.it##.banner-btf-side-rectangle
 cuneocronaca.it,divinafm.it,giochixl.it,lacrocequotidiano.it,mtv.it##.banner-container
 genova24.it##.banner-elezioni
 italiani.it##.banner-empty-italiani
@@ -358,11 +359,13 @@ ebikecult.it,mtbcult.it##.banner-homepage-slider-728-90
 italiafruit.net##.banner-i
 picenonews24.it##.banner-img
 cremona1.it##.banner-inner
+universodelgioco.it##.banner-leaderboard
 italiafruit.net##.banner-m
 radiotoscana.it##.banner-radio
 umbria24.it##.banner-show-desktop
 leccesette.it##.banner-side
 digital-news.it##.banner-sidebar
+universodelgioco.it##.banner-sky
 canavesenews.it##.banner-slider
 qualenergia.it##.banner-space
 frasimania.it##.banner-top
