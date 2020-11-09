@@ -241,6 +241,8 @@
 ||cinemaitaliano.info^*/banner/
 ||cinemondium.com^*/720x90-
 ||cinestreaming.uno/img/b_
+||citroen-club.it/portale/img/banner_
+||citroen-club.it/portale/img/logo_lopez_racing.jpg
 ||cittadimassacarrara.com/banner/
 ||cityrumors.it/images/banners/
 ||cityrumors.it/modules/mod_flexbanner/
