@@ -32,7 +32,7 @@
 ||blogspot.com^*/Regina%2BMargherita%2BBanner%2B2017_$domain=siciliaunonews.com
 ||blogspot.com^*/XXX.jpg$domain=siciliaunonews.com
 ||book.terravision.eu^$domain=mylondra.it
-||booking.com^$subdocument,domain=cosafarei.it|iltempo.it|milleunadonna.it|notizie.tiscali.it|quattroruote.it|sport.tiscali.it|tuttobaviera.it
+||booking.com^$subdocument,domain=cosafarei.it|iltempo.it|milleunadonna.it|notizie.tiscali.it|quattroruote.it|sport.tiscali.it|tuttobaviera.it|viaggi-nel-tempo.com
 ||campingsportmagenta.com/CamperOnline/$third-party
 ||careerjet.it/partners/
 ||casadivita.despar.it^$third-party
