@@ -461,6 +461,11 @@
 ||giornaledellabirra.it^*_banner_
 ||giornaledellavela.com^*1000x80
 ||giornaledellavela.com^*_Banner_
+||giornaledibarga.it^*/banner-
+||giornaledibarga.it^*/bsnner-
+||giornaledibarga.it^*/cmf2020.jpg
+||giornaledibarga.it^*/pensarecasa.
+||giornaledibarga.it^*/PP-
 ||giornaledimontesilvano.com/images/banners/
 ||giornalelavoce.it^*-300x250px.
 ||giornalelavoce.it^*/alimentari-stefano.jpg
