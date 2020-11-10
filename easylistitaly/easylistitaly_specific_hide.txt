@@ -106,6 +106,7 @@ nextpit.it###div-sidebar_right_extra
 mymovies.it###div_topleft
 ecodicaserta.it###down
 tipiace.it###externalbanner
+grecia.info###fh_content
 notizielombardia.it###fixedban
 calciomercato.com###float-sidebar-inner
 varesesport.com###floorsunrise
