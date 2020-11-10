@@ -676,6 +676,7 @@
 ||jamma.tv^*/skin
 ||juventus.com^*/sponsors/
 ||juzaphoto.com^*/rce/
+||key4biz.it^*/req-
 ||kisskiss.it/images/banners/
 ||kisskissitalia.it/images/banners/
 ||kisskissnapoli.it/images/banners/
