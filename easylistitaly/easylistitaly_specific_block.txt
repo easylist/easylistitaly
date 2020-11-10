@@ -1169,7 +1169,9 @@
 ||reporter.it^*-banner.
 ||reporter.it^*-Webbanner-
 ||reporter.it^*/anigif.gif
+||reporter.it^*/ARCOBALENO-copia-
 ||reporter.it^*/banner-
+||reporter.it^*/CUCINE-OGGI.jpg
 ||reporter.it^*/IRENFORSU-
 ||reporter.it^*/REAnimali.
 ||reporter.it^*/ReggioCivitas.jpg
