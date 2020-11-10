@@ -101,6 +101,7 @@ melarossa.it###custom_html-5
 strill.it###custom_html-65
 corrierequotidiano.it###custom_html-8
 amazon.it###detailILM_feature_div
+trueriders.it###div-TRD_MPU_CONT
 nextpit.it###div-header
 nextpit.it###div-sidebar_right_extra
 mymovies.it###div_topleft
