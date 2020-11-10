@@ -32,7 +32,7 @@
 ||blogspot.com^*/Regina%2BMargherita%2BBanner%2B2017_$domain=siciliaunonews.com
 ||blogspot.com^*/XXX.jpg$domain=siciliaunonews.com
 ||book.terravision.eu^$domain=mylondra.it
-||booking.com^$subdocument,domain=cosafarei.it|guidaviaggi.org|iltempo.it|milleunadonna.it|notizie.tiscali.it|quattroruote.it|sport.tiscali.it|tuttobaviera.it|viaggi-nel-tempo.com
+||booking.com^$subdocument,domain=cosafarei.it|guida-polinesia.com|guidaviaggi.org|iltempo.it|milleunadonna.it|notizie.tiscali.it|quattroruote.it|sport.tiscali.it|tuttobaviera.it|viaggi-nel-tempo.com
 ||campingsportmagenta.com/CamperOnline/$third-party
 ||careerjet.it/partners/
 ||casadivita.despar.it^$third-party
@@ -145,7 +145,7 @@
 ||pronostitalia.com/images/giocaconwilliamhill.png
 ||prontoischia.it^*/promo-
 ||ratiolegisweb.it^*/pe728x90bis.
-||rentalcars.com^$script,subdocument,domain=guidaviaggi.org
+||rentalcars.com^$script,subdocument,domain=guida-polinesia.com|guidaviaggi.org
 ||resources.saldiprivati.com^$third-party
 ||riparautonline.com/banner/
 ||rivenditori.aruba.it^$third-party
