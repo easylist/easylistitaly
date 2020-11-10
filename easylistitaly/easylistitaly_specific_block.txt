@@ -614,6 +614,7 @@
 ||ilsalvagente.it^*_Banner320x320-
 ||ilsalvagente.it^*_Banner320x320.
 ||ilsicilia.it/wp-content/banners/
+||ilsoftware.it/images/sezioni/btn_arubacloud.png
 ||ilsudonline.it^*/Jooble_
 ||iltredici.it^*/banner_
 ||iltredici.it^*/partners/
