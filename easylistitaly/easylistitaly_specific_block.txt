@@ -1535,6 +1535,7 @@
 ||tvsei.it^*/uisp
 ||tvsette.net^*-300x250.
 ||tvsette.net^*/IUORIO-
+||uberti.eu^*/guide/
 ||udineseblog.it^*_160x90.
 ||ultimissimemantova.it/banner/
 ||umbriaingol.it//immagini/File_banner/
