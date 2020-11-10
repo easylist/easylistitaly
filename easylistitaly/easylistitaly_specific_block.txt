@@ -1721,7 +1721,7 @@
 ||wp.com^*-banner-$domain=gazzettadiavellino.it|gazzettadisalerno.it|infonewsvietri.it
 ||wp.com^*-banner.$domain=gazzettadiavellino.it|gazzettadisalerno.it|infonewsvietri.it
 ||wp.com^*/675x238-$domain=tv9italia.it
-||wp.com^*/banner-$domain=cinecorriere.it|giornaledicalabria.it|ilgiornaledeiveronesi.it|infocilento.it|temporeale.info
+||wp.com^*/banner-$domain=cinecorriere.it|giornaledicalabria.it|ilgiornaledeiveronesi.it|infocilento.it|nonsoloturisti.it|temporeale.info
 ||wp.com^*/banner/$domain=cronacaflegrea.it
 ||wp.com^*/banners/$domain=proiezionidiborsa.it
 ||wp.com^*/BRIGNOLA20201.jpg$domain=infonewsvietri.it
