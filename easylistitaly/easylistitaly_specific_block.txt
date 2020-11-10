@@ -321,6 +321,7 @@
 ||dentrosalerno.it^*/sidelmed.png
 ||dentrosalerno.it^*/Verrengia.png
 ||digisesso.com/nb/
+||digitalic.it^*/skin_
 ||diretta.it/res/image/bookmaker-list.png
 ||diretta.it^*/banner/
 ||dirittoegiustizia.it^*/downloadFileBanner.
