@@ -274,6 +274,7 @@ uominietrasporti.it##._ning_inner
 100ideeperristrutturare.it,casa-naturale.com,quattrozampe.online,villeecasali.com##._ning_outer
 rietinvetrina.it##.a-single
 badcomics.it,badgames.it,badtaste.it,badtv.it##.aalb-880-product-carousel-unit
+gnius.it##.aalb-product-carousel-unit
 repubblica.it##.aas_whole_wrapper
 cityrumors.it,londranews.com,outofbit.it##.aawp
 topdigamma.it,tuttotek.it##.aawp-product
