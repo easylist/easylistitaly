@@ -684,6 +684,7 @@
 ||kisskiss.it/images/banners/
 ||kisskissitalia.it/images/banners/
 ||kisskissnapoli.it/images/banners/
+||kurdistanonline.net/img/scarica
 ||labtv.net^*/banner_
 ||lacnews24.it/filemanager/skinz/
 ||ladigetto.it/files/banners/
