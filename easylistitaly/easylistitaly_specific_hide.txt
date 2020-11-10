@@ -804,6 +804,7 @@ transfermarkt.it##.werbung-skyscraper
 spettegolando.it##.wf-widget-container
 wired.it##.wia
 it.businessinsider.com##.widget-financialounge
+fashionandroid.com##.widget-header
 repubblica.it##.widget-sponsor--container
 londra.today##.widget_aawp_widget_bestseller
 newsly.it##.widget_aawp_widget_box

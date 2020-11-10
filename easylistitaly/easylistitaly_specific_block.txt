@@ -366,6 +366,7 @@
 ||farevela.net^*/QIcompositesFV.jpg
 ||farevela.net^*/unnamed-1.gif
 ||farevela.net^*_banner_
+||fashionandroid.com^*-banner.
 ||fattoincasadabenedetta.it/images/prenota-
 ||fattoincasadabenedetta.it/images/prenota.jpg
 ||fattoincasadabenedetta.it^*/footer_
