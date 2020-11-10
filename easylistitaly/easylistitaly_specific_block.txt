@@ -967,6 +967,7 @@
 ||padovacalcio.it^*/320X130_
 ||padovacalcio.it^*_990x30.
 ||padovanews.it/images/banners/
+||paesesera.toscana.it^*/Estra_
 ||paganesecalcio.com^*/agrovo-
 ||paganesecalcio.com^*/caiazzo-
 ||paganesecalcio.com^*/GIONOVA-
