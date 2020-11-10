@@ -808,6 +808,7 @@ londra.today##.widget_aawp_widget_bestseller
 newsly.it##.widget_aawp_widget_box
 dilei.it##.widget_promo_box_widget
 nursetimes.org##.widget_realty_widget
+tuttoapp-android.com##.wpmoneyclick_template_simple_button
 teleunica.com##.wrap-adv-body
 lavorincasa.it##.wrapper-banner-box-wallpaper
 lavorincasa.it##.wrapper-banner-footerbanner
