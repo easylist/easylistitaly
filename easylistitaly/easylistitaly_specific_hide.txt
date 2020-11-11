@@ -190,7 +190,7 @@ iovivoaroma.org###skin_link_dx
 iovivoaroma.org###skin_link_sx
 cronacheancona.it,cronachemaceratesi.it###skinabove
 emiliagol.it###skinclick
-buongiornoalghero.it,freeonline.org,itvonline.news,lospiffero.com,salernonotizie.it###skinlink
+buongiornoalghero.it,freeonline.org,itvonline.news,lospiffero.com,planetmountain.com,salernonotizie.it###skinlink
 bisceglielive.it,eurogamer.it,gommadiretto.it###skyscraper
 mail1.libero.it###slink-dx
 mail1.libero.it###slink-sx
