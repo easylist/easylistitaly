@@ -60,6 +60,7 @@ mediaworld.it###block-footerbanners
 nuovosud.it###block-views-banner-centrale-menu-block
 torinofc.it###block-views-sponsor-block-2
 noitv.it###bn-sidebar
+scubaportal.it###bodylink
 diretta.it###bonus-offers
 hwupgrade.it###box-next-container
 diretta.it###box-over-content-a
