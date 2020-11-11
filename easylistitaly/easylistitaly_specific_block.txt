@@ -331,6 +331,7 @@
 ||e-tv.it^*/banner-
 ||earone.it/themes/banner/
 ||earone.it/themes/images/btn_itunes.png
+||eastwest.eu^*/banner/
 ||eclavoro.it^*/ADV_
 ||eclavoro.it^*_ADV_
 ||ecnews.it^*/banner-
