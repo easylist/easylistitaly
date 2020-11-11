@@ -338,6 +338,9 @@
 ||djmagitalia.com^*-banner-
 ||djmagitalia.com^*/BANNER_
 ||djmagitalia.com^*_skin_
+||dronezine.it^*-banner-
+||dronezine.it^*/banner-
+||dronezine.it^*/mavic-
 ||e-tv.it^*/banner-
 ||earone.it/themes/banner/
 ||earone.it/themes/images/btn_itunes.png
