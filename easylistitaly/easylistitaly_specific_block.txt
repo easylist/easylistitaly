@@ -691,6 +691,7 @@
 ||jamma.tv^*/sanremo
 ||jamma.tv^*/skin
 ||juventus.com^*/sponsors/
+||juzaphoto.com^*/imgj_1603286335.jpg
 ||juzaphoto.com^*/rce/
 ||key4biz.it^*/req-
 ||kiaclub.it/kia/banner/
