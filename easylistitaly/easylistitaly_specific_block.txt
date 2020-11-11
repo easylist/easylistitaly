@@ -531,6 +531,7 @@
 ||gwendalina.tv^*/stickybar_script-
 ||h24notizie.com^*/AQL-
 ||historychannel.it^*/swissre.
+||hobbyquotidiano.com^*/amazon_
 ||hovogliadidolce.it^*/banner-
 ||html.it^*/banner/
 ||hwupgrade.it/js/hwu_adv.js
