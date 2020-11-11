@@ -9,6 +9,7 @@
 ||adkaora.space^$third-party
 ||adnext.it^$third-party
 ||adpartner.it^$third-party
+||adresponse.it^$third-party
 ||adsolutions.nl^$third-party
 ||adspro.it^$third-party
 ||adultsadv.com^$third-party
