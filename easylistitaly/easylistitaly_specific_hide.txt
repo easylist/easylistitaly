@@ -826,6 +826,7 @@ rivistanatura.com##.zcx
 rivistanatura.com##.zcx-img
 eurosat-online.it##.zedo
 zingarate.com##.zg-malta
+consigli.it##.zio_
 nursetimes.org##AMP-IMG[width="320"][height="50"]
 djmagitalia.com##[href^="http://www.djpoint.net/"]
 industriaitaliana.it##a[data-track]
