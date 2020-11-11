@@ -733,6 +733,7 @@
 ||latitudeslife.com/magazine/adv/
 ||latitudeslife.com^*/banners/
 ||lausc.it/images/banners/
+||lavocedellevalli.it^*_Banner_
 ||lavocedeltrentino.it^*/banners/
 ||lavocedeltrentino.it^*/calzature-dro-
 ||lavocedeltrentino.it^*/NATAM-

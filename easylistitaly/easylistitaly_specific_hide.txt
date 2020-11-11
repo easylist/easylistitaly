@@ -772,7 +772,7 @@ bluerating.com##.the_big_banner
 87tv.it,pianetadonne.blog##.theiaStickySidebar
 confinelive.it##.tmsgfrekab-container
 numeri-di-telefono.it##.top-add
-allsongs.tv,casamagazine.it,dica33.it,donnemagazine.it,foodblog.it,mammemagazine.it,motorimagazine.it,offerteshopping.it,style24.it,tuobenessere.it,viaggiamo.it##.top-banner
+allsongs.tv,casamagazine.it,dica33.it,donnemagazine.it,foodblog.it,lavocedellevalli.it,mammemagazine.it,motorimagazine.it,offerteshopping.it,style24.it,tuobenessere.it,viaggiamo.it##.top-banner
 stiletv.it##.top-banner-container
 bresciacalcio.it,cagliaricalcio.com,olbiacalcio.com##.top-sponsor-hp
 positanonews.it##.top-testata
@@ -898,6 +898,7 @@ atalanta.it,diventaretrader.com##a[href^="https://www.plus500.com/"]
 animeemanga.it,comingsoon.it,trovacinema.repubblica.it##a[href^="https://www.primevideo.com/"][href*="tag="]
 2backpack.it##a[href^="https://www.worldnomads.com/Turnstile/AffiliateLink?"]
 2backpack.it##a[href^="https://www.worldnomads.it/?affiliate="]
+lavocedellevalli.it##a[onclick^="ga('send', 'event',"]
 genoanews1893.it##div[astyle="text-align: center; width: 336px; height: 280px; padding: 3px 0px 3px 0px;"]
 acmilan.com##div[class^="Partners_"]
 calabria7.it##div[class^="angwp_"]
