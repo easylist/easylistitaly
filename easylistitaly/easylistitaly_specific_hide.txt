@@ -626,6 +626,7 @@ virgilio.it##.newboxIs
 virgilio.it##.newboxIsOrizz
 ansa.it##.news-special-box
 obiettivonews.it##.nivo-imageLink
+goodtrekking.it##.no-one
 filmpertutti.onl,filmpertutti.voto##.no_pop
 ilpiccolo.net##.nocornice_banner
 everyeye.it##.nome_gioco_amazon_destra
