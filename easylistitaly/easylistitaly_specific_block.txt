@@ -244,6 +244,16 @@
 ||citroen-club.it/portale/img/banner_
 ||citroen-club.it/portale/img/logo_lopez_racing.jpg
 ||cittadimassacarrara.com/banner/
+||citynotizie.it^*/adv-
+||citynotizie.it^*/Antey.jpg
+||citynotizie.it^*/Becca.jpg
+||citynotizie.it^*/CRIperTe_SpesaAmica.jpg
+||citynotizie.it^*/DB.jpg
+||citynotizie.it^*/Energym.jpg
+||citynotizie.it^*/Gran-Paradiso.jpg
+||citynotizie.it^*/idillium.jpg
+||citynotizie.it^*/mascognaz.jpg
+||citynotizie.it^*/regina.jpg
 ||cityrumors.it/images/banners/
 ||cityrumors.it/modules/mod_flexbanner/
 ||cityrumors.it^*/banner-
