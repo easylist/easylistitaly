@@ -1273,6 +1273,16 @@
 ||siciliaoggi.com^*/pegaso.
 ||siciliaoggi.com^*/pesch1.
 ||sienafree.it/images/banners/
+||sienanews.it^*/300x250px.
+||sienanews.it^*/6384073f-
+||sienanews.it^*/960x300-
+||sienanews.it^*/banner-
+||sienanews.it^*/banner234.
+||sienanews.it^*/CAPTUR-
+||sienanews.it^*/Composizione-
+||sienanews.it^*/www.termeaq.it_
+||sienanews.it^*/www.vismederi.com_
+||sienanews.it^*_banner_
 ||skuola.net/assets/js/mm-banner-manager.js?
 ||soccermagazine.it^*/CORREVA_TER.jpg
 ||spoletonline.com/banner/
