@@ -456,6 +456,7 @@ trend-online.com##.box-special
 flashscore.it##.boxOverContent__banner
 cuneodice.it,genovadice.it,italiadice.it,torinodice.it##.box_oikia
 subito.it##.box_sponsor
+caneogolf.it##.boxbannerhome
 pneusnews.it##.boxes
 sscnapoli.it##.brand
 infomedianews.com##.bsaProContainerNew

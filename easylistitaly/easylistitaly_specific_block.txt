@@ -183,6 +183,7 @@
 ||canale85.it^*/d-pay.jpg
 ||canale85.it^*/logofadi.jpg
 ||canale85.it^*/nuovarredo.jpg
+||caneogolf.it/img/banner/
 ||caprievent.it^*/gillini.jpg
 ||carinatv.it/images/bn_
 ||carpifc.com^*/Givova_logo.png
