@@ -25,6 +25,7 @@
 /banner/adv-
 /banners/ADV-
 /banners/pubb/*
+/banners/sponsor_
 /generici/ads-
 /gfx/adv/*
 /immagini/adv_

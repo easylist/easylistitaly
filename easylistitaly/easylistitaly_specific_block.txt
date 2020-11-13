@@ -617,6 +617,7 @@
 ||ilgiornaleoff.ilgiornale.it^*/Banner-
 ||ilgiornaleoff.ilgiornale.it^*/Banner_
 ||ilgiornaleoff.ilgiornale.it^*/side_banner.
+||ilgrigioneitaliano.ch/images/banners/
 ||ilmartino.it^*/xbanner-
 ||ilmessaggero.it/img/banner_
 ||ilmetapontino.it^*/banner-
