@@ -1363,6 +1363,8 @@
 ||stiletv.it^*/papera.gif
 ||stiletv.it^*/Russo.png
 ||stiletv.it^*_banner.
+||storiedisport.it^*/biblio.gif
+||storiedisport.it^*/logo5.png
 ||stradeonline.it/images/banners/
 ||strill.it/images/banners/
 ||strumentiemusica.com^*-125x125.
