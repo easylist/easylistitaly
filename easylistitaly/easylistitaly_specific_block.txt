@@ -669,6 +669,7 @@
 ||inside.bz.it/images/banners/
 ||inter.it^*/partners/
 ||internapoli.it^*/banner-
+||ioamolasicilia.com^*/TOUR-PALERMO-
 ||iocaccio.it^*/Mygra-
 ||iovivoaroma.org/images/new/bg.jpg
 ||iovivoaroma.org/public/banners/
