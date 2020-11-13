@@ -270,6 +270,7 @@
 ||comolive.it^*-AVIS-logo-
 ||comprovendodischi.it/images/AMZ-
 ||comprovendolibri.it/sponsor/
+||concorsi-letterari.it^*/rose-stabilizzate-
 ||condominioitalia.biz^*/banner/
 ||condominioweb.com/bann/
 ||confinelive.it^*/banner-
