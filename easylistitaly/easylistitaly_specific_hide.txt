@@ -386,6 +386,7 @@ erbanotizie.com##.banner234x60-right
 infocilento.it##.banner300side
 fotografidigitali.it,hwupgrade.it,tvtech.it##.banner300x250
 milleunadonna.it##.banner320x250
+giochieflash.it##.banner336x280Centered
 doctor33.it##.bannerBot
 djmagitalia.com##.bannerExtra
 puntosicuro.it##.bannerLeader
