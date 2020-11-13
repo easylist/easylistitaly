@@ -538,6 +538,7 @@ iltredici.it##.footer__partners
 rsd.it##.footer__widgets
 palermofc.com##.footer_int
 telelazionord.it##.footer_top_banner
+aeroporto.net##.form_auto_iata
 quattroruote.it##.four-box-sponsor
 quattroruote.it##.fullBanner
 agro24.it##.fullwidthbanner-container
@@ -579,6 +580,7 @@ ispazio.net##.ispaz-adlabel
 informazioneonline.it##.it-box-mainsponsor
 informazioneonline.it##.it-box-manchette-DX
 informazioneonline.it##.it-box-manchette-SX
+aeroporto.net##.items_aff_styles
 juventus.com##.jcom-o-footer__corporate
 juventus.com##.jcom-o-sponsors-nav__child
 superscommesse.it##.js_tracking_gtm
