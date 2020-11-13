@@ -50,6 +50,7 @@
 ||agendapolitica.it^*/orakom.png
 ||agendapolitica.it^*/villa-400x228.png
 ||agensir.it^*/skin_
+||agipronews.it/image/banner/
 ||agrigentonotizie.it/images/skin/
 ||albengacorsara.it/libri/
 ||albengacorsara.it/promo/
