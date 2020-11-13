@@ -741,6 +741,7 @@
 ||larivieraonline.com^*/takeover/
 ||lasiritide.it/img/agrello
 ||lasiritide.it/img/logobuonorgse.jpg
+||latelanera.com^*/banner300x250-
 ||latina24ore.it^*/banner-
 ||latina24ore.it^*_Skin_
 ||latinacorriere.it^*/AQL-
