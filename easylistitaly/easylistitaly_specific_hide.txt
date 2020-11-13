@@ -442,6 +442,7 @@ meteovalmorea.it##.bnr-row
 staffettaonline.com##.bnrZonaLati
 giornaledibarga.it##.bnside
 noitv.it##.bntop
+cosafarei.it##.boo-link
 diritto.it##.book-container
 livescore.it##.bookmaker
 lasiritide.it##.box-1
