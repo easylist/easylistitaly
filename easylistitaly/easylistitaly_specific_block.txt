@@ -1348,6 +1348,7 @@
 ||stamptoscana.it^*/diretta-tre-delitti_
 ||stamptoscana.it^*/diretta_penelope_
 ||stamptoscana.it^*/sponsor/
+||stardust.it^*/banner/
 ||startmag.it^*/banner_
 ||startmag.it^*_skin-
 ||startmag.it^*_Skin_
