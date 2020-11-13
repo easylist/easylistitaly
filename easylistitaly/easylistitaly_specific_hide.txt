@@ -517,6 +517,8 @@ ilpaesenuovo.it##.e3lanat-layout-rotator
 tvrxenon.it##.elementor-image-carousel-wrapper
 affaritaliani.it##.eni
 garganotv.com##.erzodfm-container
+exibart.com##.exibart-footer-partner
+exibart.com##.exibart-footer-partner-title
 giornaledibarga.it##.fascia-banner
 divinafm.it##.fdc-widget-sponsor
 masterviaggi.it##.fieldset_sponsor
