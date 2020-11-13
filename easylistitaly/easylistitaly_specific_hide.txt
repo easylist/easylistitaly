@@ -773,6 +773,7 @@ telesud.it##.teles-header-banner
 positanonews.it##.testata
 bluerating.com##.the_big_banner
 87tv.it,pianetadonne.blog##.theiaStickySidebar
+tiscali.it##.tiscali-shp-dayoff
 confinelive.it##.tmsgfrekab-container
 numeri-di-telefono.it##.top-add
 allsongs.tv,casamagazine.it,dica33.it,donnemagazine.it,foodblog.it,lavocedellevalli.it,mammemagazine.it,motorimagazine.it,offerteshopping.it,style24.it,tuobenessere.it,viaggiamo.it##.top-banner
