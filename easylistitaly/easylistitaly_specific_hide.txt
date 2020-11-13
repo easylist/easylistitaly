@@ -454,12 +454,14 @@ centropagina.it##.box-b
 difesaonline.it,tempoitalia.it##.box-banner
 cucchiaio.it##.box-banner-hp-dx
 trend-online.com##.box-special
+tvserial.it##.box-verticale-home
 flashscore.it##.boxOverContent__banner
 cuneodice.it,genovadice.it,italiadice.it,torinodice.it##.box_oikia
 subito.it##.box_sponsor
 caneogolf.it##.boxbannerhome
 pneusnews.it##.boxes
 sscnapoli.it##.brand
+tvserial.it##.break-adv
 infomedianews.com##.bsaProContainerNew
 filmitalianostreaming.com##.btn-danger
 donnamoderna.com##.btn-offerte-amazon

@@ -103,6 +103,7 @@
 ##.Pubblicita
 ##.actio-adlabel
 ##.ad-fisso
+##.ad-orizzontale
 ##.adSenseLaterale
 ##.ad_pedice
 ##.adagiowritebanner_dmtag
