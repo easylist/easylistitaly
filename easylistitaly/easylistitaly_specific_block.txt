@@ -950,6 +950,7 @@
 ||nslradiotv.it^*/cinecitta-
 ||nslradiotv.it^*/roma-world.jpg
 ||ntimedia.it^*_banner_
+||ntr24.tv^*/skin-
 ||nuovabrianza.it^*/468x901.
 ||nuovabrianza.it^*/600x1601-
 ||nuovabrianza.it^*/header-def-
