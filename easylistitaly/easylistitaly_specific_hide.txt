@@ -25,7 +25,7 @@ libero.it###b468x60bottoms
 bazar.it###background
 brindisisettenews.it###background_body
 beverfood.com###backy
-ilmioip.it,superwheels.net###banner
+daneel59.altervista.org,ilmioip.it,superwheels.net###banner
 bresciaoggi.it,ilgiornaledivicenza.it,larena.it###banner-autodoc
 veneziafc.it###banner-box-up
 canavesenews.it###banner-left-bottom
