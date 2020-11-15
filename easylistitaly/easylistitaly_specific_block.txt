@@ -1582,6 +1582,7 @@
 ||tvoggisalerno.it^*/teconscuola_
 ||tvsei.it^*/uisp
 ||tvsette.net^*-300x250.
+||tvsette.net^*/banner-
 ||tvsette.net^*/IUORIO-
 ||uberti.eu^*/guide/
 ||udineseblog.it^*_160x90.
