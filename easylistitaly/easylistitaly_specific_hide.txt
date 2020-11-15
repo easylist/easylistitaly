@@ -23,6 +23,7 @@ gnoccatravels.com###b-nner-right-list
 libero.it###b468x60bottoms
 10cose.it###b_searchboxInc
 bazar.it###background
+brindisisettenews.it###background_body
 beverfood.com###backy
 ilmioip.it,superwheels.net###banner
 bresciaoggi.it,ilgiornaledivicenza.it,larena.it###banner-autodoc
@@ -492,7 +493,7 @@ tiscali.it##.compare-box-cnt
 fuoritraiettoria.com##.computer
 cottoepostato.it##.cont-bann
 edilportale.com##.cont-leaderBoard
-brindisisera.it##.cont_banner
+brindisisera.it,brindisisettenews.it##.cont_banner
 tiscali.it##.container_b_1
 frasimania.it##.content-banner
 cookist.it,fanpage.it##.content-leaderboard
