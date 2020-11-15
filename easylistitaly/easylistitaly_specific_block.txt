@@ -459,6 +459,8 @@
 ||gazzettadinapoli.it^*/mazzbar.jpg
 ||gazzettadinapoli.it^*/pizzeria-piscopo.jpg
 ||gazzettadinapoli.it^*/sapori-pasticceria-
+||gazzettadiparma.it/static/js/advconfig.js
+||gazzettadiparma.it/static/js/advpopulate.js
 ||gazzettadisalerno.it^*/DIDATO-
 ||gazzettadisalerno.it^*/ecommerce.jpg
 ||gazzettadisalerno.it^*/FACILEFAREWEB1.jpg
