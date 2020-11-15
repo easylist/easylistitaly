@@ -158,6 +158,8 @@
 ||brindisisettenews.it/img/banner/
 ||brindisitime.it^*/BANNER-
 ||brindisitime.it^*_300x250px-
+||brundisium.net/ilnautiluslogo2.jpg
+||brundisium.net^*/728x90
 ||brundisium.net^*/Brundisium_Lanza_
 ||buongiornoalghero.it^*/banner_
 ||business24tv.it^*/Banner_
