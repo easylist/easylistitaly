@@ -337,7 +337,7 @@ subito.it##.autopromo
 uspistoiese1921.it##.av-partner-fake-img
 amazon.it##.aw-campaigns
 gnoccatravels.com##.b-nner-desktop-block
-ilvescovado.it,positanonotizie.it##.b1nn3rs
+ilvescovado.it,liratv.it,positanonotizie.it##.b1nn3rs
 virgilio.it##.b300x250
 gnoccatravels.com##.bacheca-incontri-b-nner
 quotidianodellumbria.it##.back
