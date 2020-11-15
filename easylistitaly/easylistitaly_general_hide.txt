@@ -127,6 +127,7 @@
 ##.adv-wpz
 ##.adv100
 ##.adv300eni
+##.adv300x100vd
 ##.advBot
 ##.advPostLibri
 ##.adv_articolo
