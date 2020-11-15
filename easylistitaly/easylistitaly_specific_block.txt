@@ -76,6 +76,7 @@
 ||altoadigetv.it/images/social/banner
 ||altomantovanonews.it^*/banner-
 ||altramantova.it/images/banners/
+||amalfinews.it^*/b1nn3r/
 ||amalfinotizie.it^*/omenu.one_
 ||ambientequotidiano.it/banner/
 ||ammirati.org/immagini/sponsor/
