@@ -980,6 +980,7 @@
 ||obiettivoscuola.it/images/banners/
 ||obiettivoscuola.it/images/Edises/
 ||occhionotizie.it^*_banner_
+||occhisusalerno.it^*/b1nn3r/
 ||occhisusalerno.it^*/banner/
 ||ogginotizie.it^*/666.jpg
 ||ogginotizie.it^*/MULTI_page-0001-
