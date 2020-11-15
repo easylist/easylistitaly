@@ -612,6 +612,7 @@ winenews.it##.manchette_l
 winenews.it##.manchette_r
 24emilia.com##.marquee0
 orologipertutti.it##.masonry_grid_fullwidth
+irpinianews.it##.master-slider-parent
 ecoo.it##.masterhead-container-column
 medicalexcellencetv.it##.medic-widget
 melarossa.it##.melar-pos-in-article-multiplo
