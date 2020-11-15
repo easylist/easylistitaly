@@ -416,7 +416,7 @@ mercuriomagazine.com##.banner_top_left
 mercuriomagazine.com##.banner_top_right
 corriereal.info##.banner_wrapper
 treccani.it##.bannercontainer
-105tv.it,aostaoggi.it,giornaledimontesilvano.com,ilgrigioneitaliano.ch,kisskiss.it,kisskissitalia.it,kisskissnapoli.it,lametino.it,maremmanews.it,qdpnews.it,sienafree.it,videomediterraneo.it,youtg.net##.bannergroup
+105tv.it,aostaoggi.it,giornaledimontesilvano.com,ilgazzettinobr.it,ilgrigioneitaliano.ch,kisskiss.it,kisskissitalia.it,kisskissnapoli.it,lametino.it,maremmanews.it,qdpnews.it,sienafree.it,videomediterraneo.it,youtg.net##.bannergroup
 radiogold.it##.bannergroupskin-banner-module
 ilvescovado.it,liratv.it,occhisusalerno.it,positanonotizie.it,qualenergia.it,vivafm.it##.banners
 voglioporno.com##.banners-footer

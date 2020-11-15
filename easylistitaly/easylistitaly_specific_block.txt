@@ -597,6 +597,7 @@
 ||ilfattonisseno.it^*/gif-china.gif
 ||ilfoglio.it/js/bannerInterstitial.js
 ||ilformat.info^*/banner_
+||ilgazzettinobr.it^*/banners/
 ||ilgeniodellostreaming.cam^*/bnnr
 ||ilgeniodellostreaming.cam^*/guarda.
 ||ilgeniodellostreaming.cam^*/lato
