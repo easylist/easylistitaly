@@ -414,7 +414,9 @@ startupitalia.eu##.banner_slick_2
 ragusanews.com##.banner_top
 mercuriomagazine.com##.banner_top_left
 mercuriomagazine.com##.banner_top_right
+brindisisera.it##.banner_wide_box
 corriereal.info##.banner_wrapper
+brindisisera.it##.bannerbox
 treccani.it##.bannercontainer
 105tv.it,aostaoggi.it,giornaledimontesilvano.com,ilgazzettinobr.it,ilgrigioneitaliano.ch,kisskiss.it,kisskissitalia.it,kisskissnapoli.it,lametino.it,maremmanews.it,qdpnews.it,sienafree.it,videomediterraneo.it,youtg.net##.bannergroup
 radiogold.it##.bannergroupskin-banner-module
