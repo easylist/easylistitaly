@@ -653,6 +653,7 @@
 ||ilsudonline.it^*/Jooble_
 ||iltredici.it^*/banner_
 ||iltredici.it^*/partners/
+||ilvescovado.it^*/b1nn3r/
 ||ilvescovado.it^*/banner/
 ||ilvolo.it/images/banners/
 ||ilwebmaster21.it/script1.js
@@ -1064,6 +1065,7 @@
 ||poliziamunicipale.it/script/getbnr.aspx?
 ||pordenoneoggi.it^*/banner-
 ||portaledelverde.it/upload/banner/
+||positanonotizie.it^*/b1nn3r/
 ||positanonotizie.it^*/banner/
 ||prealpina.it/js/manzoni_interna.js
 ||primapaginamolise.it/banner/
