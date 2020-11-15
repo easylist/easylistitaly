@@ -1354,6 +1354,7 @@
 ||startmag.it^*_skin-
 ||startmag.it^*_Skin_
 ||stateofmind.it^*-Banner-
+||statoquotidiano.it^*/300x250
 ||staynerd.com^*/106684007_3079248798861784_4040991284107120681_o-
 ||staynerd.com^*/diavolo-
 ||staynerd.com^*/five-
@@ -1760,6 +1761,7 @@
 ||wp.com/www.medicalexcellencetv.it/*_600x500.
 ||wp.com/www.meganerd.it/*/MNERD15685.png
 ||wp.com/www.proiezionidiborsa.it/*/bnp-
+||wp.com/www.statoquotidiano.it/*/727x247-
 ||wp.com/www.tabsernews.it/*/THE-SOUND.png
 ||wp.com/www.tsdtv.it/*/300x300-
 ||wp.com/www.worldofwrestling.it/*/wow.gif
