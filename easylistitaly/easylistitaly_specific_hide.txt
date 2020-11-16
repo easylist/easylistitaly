@@ -146,6 +146,7 @@ sienafree.it###ja-banner300x250
 sienafree.it###ja-bannertop300x250
 sienafree.it###ja-leaderboard
 giornaleradio.fm###layerslider_10
+tellows.it###lb_header
 pupia.tv###leader-left2
 espansionetv.it,torrechannel.it###leader-wrapper
 bisceglielive.it,cronachedibirra.it,dissacration.com,eurogamer.it,fiscaleweb.com,gingerandtomato.com,ilcinemaniaco.com,iochiamo.com,lussuosissimo.com,medicinalive.com,mondoreality.com,mrwebmaster.it,musickr.it,skiinfo.ch,skiinfo.it###leaderboard
