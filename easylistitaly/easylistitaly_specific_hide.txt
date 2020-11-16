@@ -46,6 +46,7 @@ notiziediprato.it###banner_strip
 gruppovideomedia.it,radiovalbelluna.it###banner_top
 fiorentinanews.com###banneralto
 frasimania.it###bannerpop
+saperesalute.it###banners
 siracusanews.it###banners-top
 linguee.it###banners_right
 linguee.it###banners_top
@@ -148,6 +149,7 @@ giornaleradio.fm###layerslider_10
 pupia.tv###leader-left2
 espansionetv.it,torrechannel.it###leader-wrapper
 bisceglielive.it,cronachedibirra.it,dissacration.com,eurogamer.it,fiscaleweb.com,gingerandtomato.com,ilcinemaniaco.com,iochiamo.com,lussuosissimo.com,medicinalive.com,mondoreality.com,mrwebmaster.it,musickr.it,skiinfo.ch,skiinfo.it###leaderboard
+saperesalute.it###leaderboardBox
 diritto.it###libpro
 business.it###logoYobee
 eurogamer.it###low-leaderboard
