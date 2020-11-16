@@ -371,6 +371,7 @@ picenonews24.it##.banner-img
 cremona1.it##.banner-inner
 universodelgioco.it##.banner-leaderboard
 italiafruit.net##.banner-m
+viversano.net##.banner-mid
 radiotoscana.it##.banner-radio
 umbria24.it##.banner-show-desktop
 leccesette.it##.banner-side
