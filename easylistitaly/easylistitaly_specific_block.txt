@@ -1822,6 +1822,7 @@
 ||yesmagazine.it^*_780X90.
 ||youtg.net^*/cornice_
 ||youtvrs.it^*/banner-
+||zenzero.info/images/call-to-action-
 ||zerocinquantuno.it^*-banner-
 ||zerocinquantuno.it^*-la-bologna-ferramenta.png
 ||zerocinquantuno.it^*-la-fotocromo-emiliana.jpg

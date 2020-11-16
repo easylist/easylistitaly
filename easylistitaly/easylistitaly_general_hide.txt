@@ -248,6 +248,7 @@
 ##a[href^="https://affiliazioniads.snai.it/"]
 ##a[href^="https://direct.piuannews.com/aff_"]
 ##a[href^="https://link.offerte2019.info/"]
+##a[href^="https://link.offerte2019.space/"]
 ##a[href^="https://marketing.net.occhiali24.it/"]
 ##a[href^="https://n26-eu.c2nwa3.net/"]
 ##a[href^="https://promonow.shop/offers.php?"]
