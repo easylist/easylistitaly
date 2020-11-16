@@ -996,6 +996,7 @@ ricettedalmondo.it##div[style="width: 760px;height: 500px;display: flex;align-it
 corrierinocampaniasport.it##div[style="width: 960px; height: 120px; visibility: visible;"]
 albanesi.it##div[style="width: 970px; height: 250px; margin: 0 auto"]
 footballnews24.it##div[style="width:250px;max-width:100%;margin:16px auto;"]
+notizieweblive.it##div[style="width:280px;height:260px;"]
 hwupgrade.it##div[style="width:300px; height:250px; "]
 cittadellaspezia.com##div[style="width:300px; height:250px;"]
 poki.it##div[style="width:300px;height:250px;"]
