@@ -662,6 +662,7 @@
 ||ilroma.net^*/Dial_WEB.png
 ||ilroma.net^*/rotating_banner/
 ||ilroma.net^*_skin.
+||ilsalvagente.it^*/ASSOBIO-
 ||ilsalvagente.it^*/Barrer-
 ||ilsalvagente.it^*/COOP_PrezziFermi.jpg
 ||ilsalvagente.it^*_Banner320x320-
