@@ -557,6 +557,7 @@
 ||guidaviaggi.it/public/banners/
 ||gwendalina.tv^*/stickybar_script-
 ||h24notizie.com^*/AQL-
+||hellogreen.it^*600x600
 ||historychannel.it^*/swissre.
 ||hobbyquotidiano.com^*/amazon_
 ||hovogliadidolce.it^*/banner-
