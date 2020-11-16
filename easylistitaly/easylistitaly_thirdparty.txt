@@ -45,6 +45,7 @@
 ||cloudfront.net^$image,script,subdocument,xmlhttprequest,domain=casacinema.work
 ||cloudfront.net^*/sponsor/$domain=violachannel.tv
 ||clubshop.com/banners/
+||croceromacapitale.it^*-696x326.
 ||d1yhzddoi8ev99.cloudfront.net^
 ||d2moz0h55szev9.cloudfront.net^
 ||d3f4nuq5dskrej.cloudfront.net^
