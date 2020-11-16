@@ -121,6 +121,7 @@
 ##.adv-cnt
 ##.adv-footer-kauppa
 ##.adv-iframe-sx
+##.adv-inside-text
 ##.adv-masthead
 ##.adv-promobox
 ##.adv-skin
