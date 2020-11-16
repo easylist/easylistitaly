@@ -1154,6 +1154,7 @@
 ||quotidianosanita.it^*/health_serie_
 ||quotidianosanita.it^*/roche_differita.jpg
 ||quotidianosicurezza.it^*/bannerino_
+||quotidianpost.it^*/banner729x90.
 ||radioamore.it^*/banners/
 ||radioanaunia.it^*/beauty_ninfea_
 ||radioanaunia.it^*/final-
