@@ -851,7 +851,7 @@ consigli.it##.zio_
 nursetimes.org##AMP-IMG[width="320"][height="50"]
 djmagitalia.com##[href^="http://www.djpoint.net/"]
 industriaitaliana.it##a[data-track]
-blog.libero.it##a[href*=".clickbank.net/"]
+blog.libero.it,newscronaca.myblog.it##a[href*=".clickbank.net/"]
 voglioporno.com##a[href*=".com/track/"]
 blog.libero.it##a[href*=".hop.clickbank.net/"]
 videopornoitalia.it##a[href*=".rivcash.com/"]
