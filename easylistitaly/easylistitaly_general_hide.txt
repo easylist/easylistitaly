@@ -123,6 +123,7 @@
 ##.adv-iframe-sx
 ##.adv-masthead
 ##.adv-promobox
+##.adv-skin
 ##.adv-sponsor__content
 ##.adv-strip-container
 ##.adv-wpz
