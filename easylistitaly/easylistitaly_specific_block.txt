@@ -75,6 +75,10 @@
 ||altoadigegol.it//immagini/File_banner/
 ||altoadigetv.it/images/social/banner
 ||altomantovanonews.it^*/banner-
+||altraeta.it^*-910x112.
+||altraeta.it^*/anniazzurri.jpg
+||altraeta.it^*/casasalute.jpg
+||altraeta.it^*/scarica-il-magazine.jpg
 ||altramantova.it/images/banners/
 ||amalfinews.it^*/b1nn3r/
 ||amalfinotizie.it^*/omenu.one_
