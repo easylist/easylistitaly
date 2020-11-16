@@ -115,6 +115,7 @@ notizielombardia.it###fixedban
 calciomercato.com###float-sidebar-inner
 varesesport.com###floorsunrise
 ascittadella.it,violachannel.tv###footer-sponsor
+lanostratv.it###footer-top-wrapper
 tvrxenon.it###footer-widgets
 videosesso.com###footertop
 gogoterme.com###frm
