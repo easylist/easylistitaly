@@ -781,6 +781,7 @@ luinonotizie.it##.swiper-wrapper
 diventaretrader.com##.table-alm
 ilpost.it##.tag-sponsored
 videosesso.com##.tagsection
+gioconews.it##.tcvn-banner-item
 2anews.it##.td-a-rec-id-custom-spot
 ilprimatonazionale.it##.td-banner-bg
 edagricole.it##.td-banner-footer

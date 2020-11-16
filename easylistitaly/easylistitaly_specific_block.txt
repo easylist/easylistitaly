@@ -492,6 +492,7 @@
 ||gingergeneration.it/n/
 ||gingergeneration.it^*/banner-
 ||giochixl.it/bfb/
+||gioconews.it^*/banners/
 ||giornale.it^*/300x250px.
 ||giornale.it^*/600x200px.
 ||giornaleadige.it^*-960x250-
