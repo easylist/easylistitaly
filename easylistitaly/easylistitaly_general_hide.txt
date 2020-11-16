@@ -1,3 +1,5 @@
+###ADV_filter_1
+###ADV_filter_2
 ###ADVrettangolo
 ###ADVrettangolopiede
 ###ADVstriscia
@@ -98,6 +100,7 @@
 ###skinadvsx
 ###syTagContainer
 ###top3-pubbli
+##.ADV300_250_600_Content
 ##.ADVBig_Content
 ##.ADVFLEX_250_Content
 ##.Banner_VideoAd_Interno
