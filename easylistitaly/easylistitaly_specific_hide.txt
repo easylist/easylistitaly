@@ -527,6 +527,7 @@ ridble.com##.dn
 casacinema.work,tantifilm.work##.download-links
 cronachedibirra.it##.e3lan125
 ilpaesenuovo.it##.e3lanat-layout-rotator
+beneficicurcuma.it##.elementor-cta
 tvrxenon.it##.elementor-image-carousel-wrapper
 affaritaliani.it##.eni
 garganotv.com##.erzodfm-container
