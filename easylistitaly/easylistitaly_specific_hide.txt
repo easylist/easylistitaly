@@ -232,7 +232,7 @@ noinotizie.it###text-20
 nerdplanet.it###text-24
 giornalistitalia.it###text-28
 giornalistitalia.it###text-30
-giornalistitalia.it,viterbopost.it###text-34
+contrastotv.it,giornalistitalia.it,viterbopost.it###text-34
 viterbopost.it###text-35
 giornalistitalia.it###text-36
 giornalistitalia.it,ilgiornaledeiveronesi.it###text-38
