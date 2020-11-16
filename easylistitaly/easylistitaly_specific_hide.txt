@@ -208,6 +208,7 @@ victorialibertas.it###sponsor-footer
 biellaoggi.it,casaleoggi.it,cuneooggi.it,piemonteoggi.it,vercellioggi.it###sponsor_dx
 biellaoggi.it,casaleoggi.it,cuneooggi.it,piemonteoggi.it,vercellioggi.it###sponsor_sx
 calciopotenza.eu,casertanafc.it###sponsors
+sassuolooggi.it###spospo
 zeusnews.it###spotEsterno
 animeclick.it###stile_link
 valsassinanews.com###stripbanner
@@ -539,6 +540,7 @@ divinafm.it##.fdc-widget-sponsor
 masterviaggi.it##.fieldset_sponsor
 tantifilm.best##.filmad
 luinonotizie.it##.fixed-sponsor
+sassuolooggi.it##.flexslider
 udinese.it##.foobar-sponsor
 ilmiostiledivita.it##.footer-columns
 lega-pro.com##.footer-partner
