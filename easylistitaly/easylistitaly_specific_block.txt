@@ -668,6 +668,7 @@
 ||ilvescovado.it^*/banner/
 ||ilvolo.it/images/banners/
 ||ilwebmaster21.it/script1.js
+||imgpress.it^*/6b4bb0e6-
 ||imgpress.it^*/banner1bis
 ||imgpress.it^*/banner2
 ||imgpress.it^*/banner3
