@@ -78,6 +78,7 @@
 ||gratislandia.net/banners/
 ||groupon.it/content-assembly/render/$subdocument,third-party
 ||guugol.it^*/banner/
+||hdpass.click/images/fake-player/
 ||hrs.de/wizard.aspx?
 ||html.it/banner/
 ||iads.iltrovatore.it^
