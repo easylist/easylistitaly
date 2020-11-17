@@ -182,6 +182,7 @@
 ||calabrianews24.com^*/Banner_
 ||calabriareportage.it^+-Banner-
 ||calabriatv.it^*/BANNER-
+||calcio.ga/ipTVm.jpg
 ||calciofoggia1920.net^*/BCC-
 ||calciofoggia1920.net^*/macron-
 ||calciofoggia1920.net^*/six-
