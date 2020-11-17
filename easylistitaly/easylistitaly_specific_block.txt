@@ -1021,8 +1021,14 @@
 ||nuvola.tv^*-700x700-
 ||nuvola.tv^*/banner-
 ||oas.repubblica.it^
-||obiettivonews.it^*/bannercortinalungo2.
+||obiettivonews.it^*-BANNER-
+||obiettivonews.it^*/bannercortinalungo2
+||obiettivonews.it^*/cortinalocandmaggioscal.
 ||obiettivonews.it^*/fuorirottabanner1050-
+||obiettivonews.it^*/locandinamassogliarid.
+||obiettivonews.it^*/NuovaLocandinaPaonessa
+||obiettivonews.it^*/nuovoBannerPaonessa.
+||obiettivonews.it^*/originalvenariabanner
 ||obiettivonews.it^*/Urbanlogohomenuovo-
 ||obiettivoscuola.it/images/Articoli/MAD_
 ||obiettivoscuola.it/images/banners/
