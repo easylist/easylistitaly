@@ -386,6 +386,7 @@ digital-news.it##.banner-sidebar
 universodelgioco.it##.banner-sky
 canavesenews.it##.banner-slider
 qualenergia.it##.banner-space
+vienormali.it##.banner-testata
 frasimania.it##.banner-top
 edilportale.com##.banner-velux
 milanofinanza.it##.banner-video
