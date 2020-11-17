@@ -484,11 +484,12 @@ infomedianews.com##.bsaProContainerNew
 filmitalianostreaming.com##.btn-danger
 donnamoderna.com##.btn-offerte-amazon
 game-game.it##.btn-play
-piratestreaming.network##.btnaaa
+parcofaunistico.it,piratestreaming.network##.btnaaa
 cinemalibero.cloud##.btnaaa4k
 cinemalibero.cloud##.btnaaahd
 abruzzolive.it##.btxe-container
 scaricarelibri.net##.button
+parcofaunistico.it##.buttonGuardaOra
 pensieriparole.it##.buyblock
 empolifc.com##.c-footer__sponsors-container
 radioinblu.it,tv2000.it##.cei-skin-side
