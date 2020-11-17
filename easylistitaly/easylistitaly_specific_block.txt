@@ -400,6 +400,7 @@
 ||euroregionalpmed.eu/img/banner/
 ||euroregionalpmed.eu/js/clickBanner_
 ||eurostreaming.fyi/hd-
+||eurostreaming.fyi/playerjs.js
 ||eurostreaming.fyi/sc.png
 ||eurostreaming.movie^*/hostfullhd.png
 ||eurostreaming.vision^*/hostfullhd.png
