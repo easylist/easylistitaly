@@ -548,7 +548,7 @@ exibart.com##.exibart-footer-partner-title
 giornaledibarga.it##.fascia-banner
 divinafm.it##.fdc-widget-sponsor
 masterviaggi.it##.fieldset_sponsor
-tantifilm.best##.filmad
+filmsenzalimiti.ink,tantifilm.best##.filmad
 luinonotizie.it##.fixed-sponsor
 sassuolooggi.it##.flexslider
 udinese.it##.foobar-sponsor
@@ -892,7 +892,7 @@ filmsenzalimiti.li##a[href*="/fdhh/"]
 cb01.dev##a[href*="/film-in-full-hd-ultra.php"]
 abruzzoweb.it##a[href*="/go.php?"]
 migliorisitistreaming-hd.blogspot.com##a[href*="/go/"]
-eurostreaming.ca,filmsenzalimiti.bz,ilgeniodellostreaming.xyz,piratestreaming.eu##a[href*="/hd/"]
+eurostreaming.ca,filmsenzalimiti.bz,filmsenzalimiti.ink,ilgeniodellostreaming.xyz,piratestreaming.eu##a[href*="/hd/"]
 altomantovanonews.it,autobusweb.com,citynow.it,firstonline.info,fortuneita.com,iocaccio.it,latinacorriere.it,latinaquotidiano.it,mantovasport24.it,mantovauno.it,oltrepomantovanonews.it,triesteallnews.it##a[href*="/linkout/"]
 supercoin.it##a[href*="/out/"]
 cineblog01.green##a[href*="/premium-download.php"]
