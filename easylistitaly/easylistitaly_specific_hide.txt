@@ -487,8 +487,8 @@ filmitalianostreaming.com##.btn-danger
 donnamoderna.com##.btn-offerte-amazon
 game-game.it##.btn-play
 parcofaunistico.it,piratestreaming.network##.btnaaa
-cinemalibero.cloud##.btnaaa4k
-cinemalibero.cloud##.btnaaahd
+cinemalibero.cloud,cinemalibero.life##.btnaaa4k
+cinemalibero.cloud,cinemalibero.life##.btnaaahd
 abruzzolive.it##.btxe-container
 scaricarelibri.net##.button
 parcofaunistico.it##.buttonGuardaOra
