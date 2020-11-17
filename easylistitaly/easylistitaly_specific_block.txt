@@ -251,6 +251,7 @@
 ||cilentochannel.com^*/Villa-Franca.jpg
 ||cinafoniaci.com/images/banners/
 ||cineblog01.green/HD/
+||cineblog01.green/templates/CB01/img/btnReg.png
 ||cineblog01.love/fake2/$popup
 ||cineblog01.love/templates/CB01/img/battane
 ||cineblog01.love/templates/CB01/img/bottone

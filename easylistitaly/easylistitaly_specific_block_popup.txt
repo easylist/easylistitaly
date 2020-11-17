@@ -1,5 +1,6 @@
 ||altadefinizione.coach/4k/$popup
 ||avmagazine.it/advertise/$popup
+||cineblog01.green/cineblog01-premium-film.php$popup
 ||cineblog01.love/fake2/$popup
 ||eurostreaming.movie/serie-tv-streaming.php$popup
 ||guardaserie.host/4k/$popup
