@@ -2,6 +2,7 @@
 ||bet365-scommesse.com/?affiliate=$popup,third-party
 ||betclic.it/partner.aspx?$popup
 ||edreams.it/?affiliate=$popup
+||eurostreaming.cam^$popup,third-party
 ||incontripersesso.com/landing/$popup
 ||lupoporno.com^$popup,third-party
 ||okincontri.com^$popup,third-party
