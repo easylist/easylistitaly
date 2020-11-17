@@ -9,4 +9,4 @@
 ! about:blank popups
 /about:blank.*/$popup,domain=casacinema.work|guardaserie.biz|guardaserie.cam|ilgeniodellostreaming.cam|leggenditaloi.com
 ! html/image popups
-/^https?:\/\/.*\.(jpg|png|html|svg|ico)/$popup,domain=cinefun.co|eurostreaming.movie|filmpertutti.voto|ilgeniodellostreaming.tel
+/^https?:\/\/.*\.(jpg|png|html|svg|ico)/$popup,domain=cinefun.co|eurostreaming.movie|eurostreaming.vision|filmpertutti.voto|ilgeniodellostreaming.tel

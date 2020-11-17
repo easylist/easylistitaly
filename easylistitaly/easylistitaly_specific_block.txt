@@ -402,6 +402,7 @@
 ||eurostreaming.fyi/hd-
 ||eurostreaming.fyi/sc.png
 ||eurostreaming.movie^*/hostfullhd.png
+||eurostreaming.vision^*/hostfullhd.png
 ||exibart.com/partner/
 ||fantascientificast.com/partner/
 ||farevela.net^*/Banner_
