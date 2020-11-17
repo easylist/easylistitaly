@@ -573,6 +573,7 @@ zerocinquantuno.it##.gdlr-logo
 nextpit.it##.gptSlot
 3bmeteo.com##.gpt_top
 sorrisi.com##.gtv-trigger-elevator
+eurostreaming.voto##.guarda
 altadefinizione.coach,guardaserie.store##.guarda_hd
 toonitalia.org##.guarda_in_hd
 ilgeniodellostreaming.rest,ilgeniodellostreaming.to##.guardasingle
