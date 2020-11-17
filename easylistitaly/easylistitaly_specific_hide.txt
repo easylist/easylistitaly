@@ -653,6 +653,7 @@ ildolomiti.it##.native
 virgilio.it##.newboxIs
 virgilio.it##.newboxIsOrizz
 ansa.it##.news-special-box
+montagna.tv##.news-sponsorizzate
 obiettivonews.it##.nivo-imageLink
 goodtrekking.it##.no-one
 filmpertutti.onl,filmpertutti.voto##.no_pop
