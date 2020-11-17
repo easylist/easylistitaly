@@ -481,6 +481,8 @@ pneusnews.it##.boxes
 sscnapoli.it##.brand
 tvserial.it##.break-adv
 infomedianews.com##.bsaProContainerNew
+eurostreaming3.pro##.btn-01
+eurostreaming3.pro##.btn-02
 filmitalianostreaming.com##.btn-danger
 donnamoderna.com##.btn-offerte-amazon
 game-game.it##.btn-play
