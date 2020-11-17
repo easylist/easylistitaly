@@ -265,6 +265,8 @@
 ||cinemaitaliano.info^*/banner/
 ||cinemondium.com^*/720x90-
 ||cinestreaming.uno/img/b_
+||circorfei.it/templates/default/images/btn_
+||circorfei.it/templates/default/images/cover4k.png
 ||circusf1.com^*/Amazon_
 ||citroen-club.it/portale/img/banner_
 ||citroen-club.it/portale/img/logo_lopez_racing.jpg

@@ -518,7 +518,7 @@ cookist.it,fanpage.it##.content-leaderboard
 salernonotizie.it##.contskin
 ilpiccolo.net##.cornice_banner
 odontoiatria33.it##.corso-box
-cineblog01.love##.cover-button
+cineblog01.love,circorfei.it##.cover-button
 giochi.it##.cpx-content
 ilmeteo.net##.creatividad
 automoto.it,moto.it##.crm-unit-bx1
