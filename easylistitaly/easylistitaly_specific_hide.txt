@@ -322,6 +322,7 @@ soldionline.it##.afc_boxcontent_taglist
 alfemminile.com##.affi-button
 agi.it##.agi-ad-wrap
 cityrumors.it,tantasalute.it##.ai-viewport-1
+noisiamofuturo.it##.allinone_bannerRotator
 prezzisalute.com##.amaz
 gamemag.it,lavorincasa.it,nientepopcorn.it,videogame.it##.amazon
 ridble.com##.amazon-product
@@ -776,6 +777,7 @@ filmtv.it##.streaming
 affaritaliani.it##.strillo-speciale3
 ship2shore.it,trend-online.com##.strip
 ilmessaggero.it##.strip-guidalloshopping
+noisiamofuturo.it##.stripe
 volleyball.it##.su-carousel
 notiziariocalcio.com,pianetabasket.com,tuttosalernitana.com,tuttoveneziasport.it##.sub
 emmelle.it##.supermag-ainfo-widget
