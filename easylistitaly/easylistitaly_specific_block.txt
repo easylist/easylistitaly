@@ -1921,5 +1921,7 @@
 |https://$script,third-party,domain=guardaserie.fit
 ! (/sw.js)
 /^https?:\/\/.*\/.*sw[0-9._].*/$script,domain=dundi.it|pornototale.com|skip.li
+!
+/^https?:\/\/.*\/[a-z0-9A-Z]{3,15}\.(php|jsx|1ph)/$image,script,subdocument,domain=matureporno.it
 ! webrtc ads
 $webrtc,domain=hentaisaturn.com|leggenditalia.com|leggenditaloi.com
