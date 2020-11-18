@@ -318,6 +318,7 @@ corrierecomunicazioni.it,ilsussidiario.net##.adv_container
 calabria7.it##.advanced_floating_content
 addicted2play.com,eurogamer.it,gioco.it,lausc.it,morningstar.it##.advert
 ilfoglio.it,liberoquotidiano.it,pharmastar.it##.advertisement
+zonalocale.it##.advertising
 sienafree.it##.advs
 soldionline.it##.afc_boxcontent_taglist
 alfemminile.com##.affi-button
