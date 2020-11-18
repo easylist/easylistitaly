@@ -189,7 +189,7 @@ mondoplay.it,mondoxbox.com###offersbox_wide
 sassuolocalcio.it,ship2shore.it###partners
 lafeltrinelli.it###partners-slider
 amazon.it###pdagMwebCarousel
-incesti.xxx,pornopizza.it,videopornoitalia.com###playerOverlay
+incesti.xxx,pornopizza.it,tuboitaliano.it,videopornoitalia.com###playerOverlay
 acprosesto.it###prefooter
 flashgames.it###pub_sotto
 odontoiatria33.it###rowHeader
@@ -322,7 +322,7 @@ ilfoglio.it,liberoquotidiano.it,pharmastar.it##.advertisement
 zonalocale.it##.advertising
 sienafree.it##.advs
 soldionline.it##.afc_boxcontent_taglist
-incesti.xxx,pornopizza.it,videopornoitalia.com##.aff
+incesti.xxx,pornopizza.it,tuboitaliano.it,videopornoitalia.com##.aff
 alfemminile.com##.affi-button
 agi.it##.agi-ad-wrap
 cityrumors.it,tantasalute.it##.ai-viewport-1
