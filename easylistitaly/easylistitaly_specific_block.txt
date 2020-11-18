@@ -1297,6 +1297,14 @@
 ||repubblica.it^*_contentsense_
 ||resegoneonline.it^*-larioreti-
 ||rete8.it^*/banner_
+||reteabruzzo.com^*/20201105101341-
+||reteabruzzo.com^*/Artisanitas-
+||reteabruzzo.com^*/ASCOM-2019.jpg
+||reteabruzzo.com^*/BCC-PRATOLA.jpg
+||reteabruzzo.com^*/CasaFuneraria-
+||reteabruzzo.com^*/ediltoro.jpg
+||reteabruzzo.com^*/LIQUORE1-
+||reteabruzzo.com^*/ottica-ciancarelli-
 ||retesei.com^*/depam.png
 ||retesei.com^*/EMANUELE-LA-RUSSA.jpg
 ||retesei.com^*/fibra.gif
