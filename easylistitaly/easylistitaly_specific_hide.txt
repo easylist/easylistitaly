@@ -82,6 +82,7 @@ newsf1.it###cb-bg-to
 cdt.ch###cdt-ads-medium-rectangle
 virgilio.it###cht_banner
 libero.it###chunnel-affari-300x170
+altadefinizione-site.it###clickToDown
 corrieredellacalabria.it###click_dxa
 corrieredellacalabria.it###click_sxa
 amazon.it###click_withinLazyLoad_tower
@@ -490,6 +491,7 @@ parcofaunistico.it,piratestreaming.network##.btnaaa
 cinemalibero.cloud,cinemalibero.life##.btnaaa4k
 cinemalibero.cloud,cinemalibero.life##.btnaaahd
 abruzzolive.it##.btxe-container
+altadefinizione-site.it##.buttComment
 scaricarelibri.net##.button
 il-genio-dello-streaming.com##.button1
 parcofaunistico.it##.buttonGuardaOra
@@ -686,6 +688,7 @@ dolcidee.it,rtinradio.com##.partners
 100ideeperristrutturare.it,casa-naturale.com,quattrozampe.online,villeecasali.com##.partners-wrapper
 sarnonotizie.it##.penci-container__content
 filmsenzalimiti.love##.playbtn
+altadefinizione-site.it##.player-container
 cb01.world##.playerad
 cb01.in##.playex
 assopoker.com##.poker-room-list
