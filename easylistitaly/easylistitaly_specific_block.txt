@@ -542,8 +542,6 @@
 ||giornalistitalia.it^*-banner-
 ||giornalistitalia.it^*/banner_
 ||gizchina.it^*-gshopper.
-||gizchina.it^*/banggood-
-||gizchina.it^*/geekbuying-
 ||gnoccaforum.com^*/banners/
 ||gnoccatravels.com/files/banner
 ||gnoccatravels.com/files/pbblct
