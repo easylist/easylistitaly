@@ -1,4 +1,5 @@
 ||altadefinizione.coach/4k/$popup
+||altadefinizone.click/HD/$popup
 ||avmagazine.it/advertise/$popup
 ||cineblog01.green/cineblog01-premium-film.php$popup
 ||cineblog01.love/fake2/$popup
@@ -8,6 +9,7 @@
 ||ilgeniodellostreaming.cam/fake2/$popup
 ||ilgeniodellostreaming.gold/fake2/$popup
 ||ilgeniodellostreaming.to/stream/$popup
+||supervideo.tv/vedo4k.php$popup
 ! about:blank popups
 /about:blank.*/$popup,domain=casacinema.work|guardaserie.biz|guardaserie.cam|ilgeniodellostreaming.cam|leggenditaloi.com
 ! html/image popups
