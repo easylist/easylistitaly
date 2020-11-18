@@ -1463,6 +1463,7 @@
 ||tantifilm.guru^*/wsxhQH2QyPxFBhiByjd1hQ.gif
 ||tantifilm.rest^*/bannersca.png
 ||tantifilm.rest^*/wsxhQH2QyPxFBhiByjd1hQ.gif
+||tantifilm.surf^*/wsxhQH2QyPxFBhiByjd1hQ.gif
 ||tantifilmhd.com^*/player.jpg
 ||targatocn.it^*/banner/
 ||technologyreview.it/_media/_adv/
