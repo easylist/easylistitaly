@@ -291,6 +291,7 @@
 ||citynotizie.it^*/regina.jpg
 ||cityrumors.it/images/banners/
 ||cityrumors.it/modules/mod_flexbanner/
+||cityrumors.it^*-banner-
 ||cityrumors.it^*/banner-
 ||cityrumors.it^*/skin-
 ||classificaporno.com/d/
