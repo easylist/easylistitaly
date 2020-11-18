@@ -627,6 +627,9 @@
 ||ilgeniodellostreaming.cam^*/ooBE1HG.png
 ||ilgeniodellostreaming.cam^*/scarica.
 ||ilgeniodellostreaming.cam^*/YcijKef.png
+||ilgeniodellostreaming.gold/fake2/
+||ilgeniodellostreaming.gold/templates/GdTheme/images/scarico-
+||ilgeniodellostreaming.gold/templates/GdTheme/images/vediparte
 ||ilgeniodellostreaming.tel/templates/GdTheme/images/guarda
 ||ilgeniodellostreaming.tel/templates/GdTheme/images/lato
 ||ilgeniodellostreaming.tel/templates/GdTheme/images/scarica

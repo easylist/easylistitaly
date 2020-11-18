@@ -6,6 +6,7 @@
 ||guardaserie.host/4k/$popup
 ||guardaserie.store/4k/$popup
 ||ilgeniodellostreaming.cam/fake2/$popup
+||ilgeniodellostreaming.gold/fake2/$popup
 ||ilgeniodellostreaming.to/stream/$popup
 ! about:blank popups
 /about:blank.*/$popup,domain=casacinema.work|guardaserie.biz|guardaserie.cam|ilgeniodellostreaming.cam|leggenditaloi.com
