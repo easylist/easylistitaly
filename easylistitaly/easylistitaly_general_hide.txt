@@ -248,6 +248,7 @@
 ##a[href^="http://tracking.performoney.it/"]
 ##a[href^="http://www.bet365.it/"][href*="?affiliate="]
 ##a[href^="http://www.sostariffe.it/tracker2.php?"]
+##a[href^="https://4kmovies.online/download/"]
 ##a[href^="https://adserver.html.it/"]
 ##a[href^="https://affiliate.across.it/"]
 ##a[href^="https://affiliazioniads.snai.it/"]

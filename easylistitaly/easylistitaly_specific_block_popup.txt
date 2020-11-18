@@ -1,4 +1,5 @@
 ||altadefinizione.coach/4k/$popup
+||altadefinizione01.store/UHD/$popup
 ||altadefinizone.click/HD/$popup
 ||avmagazine.it/advertise/$popup
 ||cineblog01.green/cineblog01-premium-film.php$popup
@@ -13,4 +14,4 @@
 ! about:blank popups
 /about:blank.*/$popup,domain=casacinema.work|guardaserie.biz|guardaserie.cam|ilgeniodellostreaming.cam|leggenditaloi.com
 ! html/image popups
-/^https?:\/\/.*\.(jpg|png|html|svg|ico)/$popup,domain=cinefun.co|eurostreaming.movie|eurostreaming.vision|filmpertutti.voto|filmsenzalimiti.li|guardaserie.fashion|ilgeniodellostreaming.dance|ilgeniodellostreaming.tel
+/^https?:\/\/.*\.(jpg|png|html|svg|ico)/$popup,domain=altadefinizione01.store|cinefun.co|eurostreaming.movie|eurostreaming.vision|filmpertutti.voto|filmsenzalimiti.li|guardaserie.fashion|ilgeniodellostreaming.dance|ilgeniodellostreaming.tel
