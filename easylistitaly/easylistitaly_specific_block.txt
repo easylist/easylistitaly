@@ -961,6 +961,8 @@
 ||modellismopiu.it/modules/banners/
 ||modenacalcio.com^*/Kerakoll-Logo-
 ||modenaindiretta.it/yb-modenaindirettait.js
+||mogliinmostra.it^*/1017046211.gif
+||mogliinmostra.it^*/1018107841.jpg
 ||mole24.it^*-skin-
 ||mole24.it^*/skin-
 ||momentosera.it/bannerupload/
@@ -1625,6 +1627,7 @@
 ||tse-tse.it^*/1016794421.gif
 ||tse-tse.it^*/1017422901.gif
 ||tse-tse.it^*/1018114891.jpg
+||tse-tse.it^*/pulsante-contattami.png
 ||turismoitalianews.it^*/banner/
 ||turismoitalianews.it^*/banners/
 ||turistadimestiere.com^*/banner-
