@@ -68,6 +68,7 @@
 ||mycookies.it^$third-party
 ||nativery.com^$third-party
 ||netfilia.com^$third-party
+||netszex.com^$third-party
 ||newclick.com^$third-party
 ||noddus.com^$third-party
 ||novadv.com^$third-party
