@@ -748,6 +748,7 @@
 ||itvonline.news^*/Schermata-2020-07-07-alle-12.27.14.png
 ||itvonline.news^*/skin-
 ||itvonline.news^*_banner-
+||iwp.com/abruzzoweb.it/*-400X200.
 ||jamma.tv^*/sanremo
 ||jamma.tv^*/skin
 ||juventus.com^*/sponsors/
@@ -1859,9 +1860,9 @@
 ||wp.com/www.worldofwrestling.it/*/wow.gif
 ||wp.com/www.zerosette.it/*/bella-venezia.png
 ||wp.com^*-banner-$domain=gazzettadiavellino.it|gazzettadisalerno.it|infonewsvietri.it
-||wp.com^*-banner.$domain=gazzettadiavellino.it|gazzettadisalerno.it|infonewsvietri.it
+||wp.com^*-banner.$domain=abruzzoweb.it|gazzettadiavellino.it|gazzettadisalerno.it|infonewsvietri.it
 ||wp.com^*/675x238-$domain=tv9italia.it
-||wp.com^*/banner-$domain=cinecorriere.it|giornaledicalabria.it|ilgiornaledeiveronesi.it|infocilento.it|nonsoloturisti.it|temporeale.info|vesuvianonews.it
+||wp.com^*/banner-$domain=abruzzoweb.it|cinecorriere.it|giornaledicalabria.it|ilgiornaledeiveronesi.it|infocilento.it|nonsoloturisti.it|temporeale.info|vesuvianonews.it
 ||wp.com^*/banner/$domain=cronacaflegrea.it
 ||wp.com^*/banners/$domain=proiezionidiborsa.it
 ||wp.com^*/BRIGNOLA20201.jpg$domain=infonewsvietri.it
