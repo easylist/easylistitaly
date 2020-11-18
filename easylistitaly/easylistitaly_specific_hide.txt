@@ -535,6 +535,7 @@ automoto.it,moto.it##.crm-unit-bx3
 automoto.it,moto.it##.crm-unit-bx4
 automoto.it,moto.it##.crm-unit-mh
 affaritaliani.it##.csslider1
+tse-tse.it##.ctaiscriviti
 giornaleadige.it,piacenza24.eu,radionorba.it,radioyacht.com##.custom_banners_big_link
 fiorentinanews.com##.destra_banner
 flashscore.it##.detail-bonus-match-summary-content-inner

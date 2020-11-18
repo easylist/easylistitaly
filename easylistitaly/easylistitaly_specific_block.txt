@@ -1622,6 +1622,9 @@
 ||trsp.tv^*/banner_
 ||trsp.tv^*/logo_tv-
 ||trsp.tv^*/mondolavoro.jpg
+||tse-tse.it^*/1016794421.gif
+||tse-tse.it^*/1017422901.gif
+||tse-tse.it^*/1018114891.jpg
 ||turismoitalianews.it^*/banner/
 ||turismoitalianews.it^*/banners/
 ||turistadimestiere.com^*/banner-
