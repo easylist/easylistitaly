@@ -581,8 +581,8 @@ eurostreaming.voto##.guarda
 altadefinizione.coach,guardaserie.store##.guarda_hd
 toonitalia.org##.guarda_in_hd
 ilgeniodellostreaming.dance,ilgeniodellostreaming.rest,ilgeniodellostreaming.to##.guardasingle
-ilgeniodellostreaming.dance,ilgeniodellostreaming.rest,ilgeniodellostreaming.to,ilgeniodellostreamings.it##.guardasingleserie1
-ilgeniodellostreaming.dance,ilgeniodellostreaming.rest,ilgeniodellostreaming.to,ilgeniodellostreamings.it##.guardasingleserie2
+ecwgcortina2016.it,ilgeniodellostreaming.dance,ilgeniodellostreaming.rest,ilgeniodellostreaming.to,ilgeniodellostreamings.it##.guardasingleserie1
+ecwgcortina2016.it,ilgeniodellostreaming.dance,ilgeniodellostreaming.rest,ilgeniodellostreaming.to,ilgeniodellostreamings.it##.guardasingleserie2
 quattroruote.it##.halfPageBanner2
 emmelle.it##.header-ainfo
 ecodelcinema.com,ondatv.tv##.header-banner
@@ -893,7 +893,7 @@ ilgeniodellostreaming.tel##a[href*="/fake2/"]
 filmsenzalimiti.li##a[href*="/fddown/"]
 filmsenzalimiti.li##a[href*="/fdhh/"]
 cb01.dev##a[href*="/film-in-full-hd-ultra.php"]
-abruzzoweb.it##a[href*="/go.php?"]
+abruzzoweb.it,ecwgcortina2016.it##a[href*="/go.php?"]
 migliorisitistreaming-hd.blogspot.com##a[href*="/go/"]
 eurostreaming.ca,filmsenzalimiti.bz,filmsenzalimiti.ink,ilgeniodellostreaming.xyz,piratestreaming.eu##a[href*="/hd/"]
 altomantovanonews.it,autobusweb.com,citynow.it,firstonline.info,fortuneita.com,iocaccio.it,latinacorriere.it,latinaquotidiano.it,mantovasport24.it,mantovauno.it,oltrepomantovanonews.it,triesteallnews.it##a[href*="/linkout/"]
