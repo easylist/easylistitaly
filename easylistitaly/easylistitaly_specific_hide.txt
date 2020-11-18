@@ -491,6 +491,7 @@ cinemalibero.cloud,cinemalibero.life##.btnaaa4k
 cinemalibero.cloud,cinemalibero.life##.btnaaahd
 abruzzolive.it##.btxe-container
 scaricarelibri.net##.button
+il-genio-dello-streaming.com##.button1
 parcofaunistico.it##.buttonGuardaOra
 altadefinizione01.army##.buttonbox
 pensieriparole.it##.buyblock
