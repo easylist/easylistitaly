@@ -1805,6 +1805,8 @@
 ||vivere.news/images/banners_
 ||vivereancona.it/images/banners_
 ||viverejesi.it/images/banners_
+||vivitortona.it/image/megaplex.jpg
+||vivitortona.it/image/oasi.jpg
 ||vocenuova.tv/assets/uploads/banners/
 ||vocetempo.it^*/banner-
 ||volleyball.it^*/banner-
@@ -1904,6 +1906,7 @@
 ||wp.com/www.meganerd.it/*/MNERD15685.png
 ||wp.com/www.nerdpool.it/*/bg-vendiloshop-
 ||wp.com/www.oggicronaca.it/*/comune3.jpg
+||wp.com/www.oggicronaca.it/*/divisionismolarge.gif
 ||wp.com/www.proiezionidiborsa.it/*/bnp-
 ||wp.com/www.statoquotidiano.it/*/727x247-
 ||wp.com/www.tabsernews.it/*/THE-SOUND.png
