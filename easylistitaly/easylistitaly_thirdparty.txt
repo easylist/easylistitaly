@@ -177,6 +177,7 @@
 ||stgy.it/images/banner-
 ||stgy.it/images/skin/
 ||tamtamsrl.it/dreamteam/banner/
+||tccstatic.com^*/banner/
 ||tccstatic.com^*/skin/
 ||teetee.eu^$subdocument,third-party
 ||tipster.it^$subdocument,third-party
