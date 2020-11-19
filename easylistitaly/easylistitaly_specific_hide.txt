@@ -702,6 +702,7 @@ altadefinizione-site.it##.player-container
 cb01.world##.playerad
 cb01.in##.playex
 assopoker.com##.poker-room-list
+insuranceup.it##.powered_by_container
 assopoker.com##.prbox-table-container
 eurogamer.it##.pre-article
 pisachannel.tv##.pre_footer
