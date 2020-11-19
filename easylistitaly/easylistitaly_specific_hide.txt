@@ -315,7 +315,7 @@ diredonna.it,gravidanzaonline.it,robadadonne.it##.adv-style
 quattroruote.it##.adv-wrap
 ilgallo.it##.adv4
 virgilio.it##.advTuning
-corrierecomunicazioni.it,energyup.tech,ilsussidiario.net,industry4business.it##.adv_container
+corrierecomunicazioni.it,energyup.tech,ilsussidiario.net,industry4business.it,riskmanagement360.it##.adv_container
 calabria7.it##.advanced_floating_content
 addicted2play.com,eurogamer.it,gioco.it,lausc.it,morningstar.it##.advert
 ilfoglio.it,liberoquotidiano.it,pharmastar.it##.advertisement
