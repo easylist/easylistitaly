@@ -780,7 +780,7 @@ tvoggisalerno.it##.sow-slider-image-container
 calciocasteddu.it,calciohellas.it,forzamonza.it,usavellino1912.com,virtus.it##.sp-sponsors
 lifegate.it##.special-contents
 comingsoon.it##.sponPro
-bebeez.it,europages.it,ilmonferrato.it,legab.it,olimpiamilano.com,repubblica.it,stickmangames.altervista.org##.sponsor
+bebeez.it,europages.it,ilmonferrato.it,imperiatv.it,legab.it,olimpiamilano.com,repubblica.it,stickmangames.altervista.org##.sponsor
 luinonotizie.it##.sponsor-background-big
 pallacanestrotrieste.it##.sponsor-carousel
 victorialibertas.it##.sponsor-header

@@ -724,6 +724,7 @@
 ||imola.it^*_banner.
 ||imperiasport.net^*/BITIM.jpg
 ||imperiasport.net^*/LucaeAlice.jpg
+||imperiatv.it/images/sponsor/
 ||industria-online.com/storage/b-
 ||industriaitaliana.it^*/300x250
 ||industriaitaliana.it^*/Rettangolo-
