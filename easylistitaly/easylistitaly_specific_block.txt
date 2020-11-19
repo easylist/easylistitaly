@@ -1005,6 +1005,7 @@
 ||mywhere.it^*/310x310.png
 ||napolicittasolidale.it^*/banner/
 ||napolimagazine.com^*/banner-
+||naturalmania.it^*/inkanti.png
 ||nba24.it^*/banner-
 ||nbnotizie.it^*/LoghiPUBBL/
 ||nerdplanet.it^*/banner.
