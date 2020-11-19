@@ -878,7 +878,9 @@
 ||livornocalcio.it^*/solo-livorno-
 ||livornolive.it^*/slider.
 ||livornopress.it^*/banner-
+||livornopress.it^*/banner_
 ||livornopress.it^*/SCOPRI-DI-PIU-IES-
+||livornopress.it^*/SCOPRI-DI-PIU-IES.
 ||lnd.it/images/sponsor/
 ||lopinionista.it^*/tuttiautopezzi.
 ||lopinionistanews.it^*/Adv.
