@@ -1081,6 +1081,7 @@ canonclubitalia.com##img[width="632"][height="123"]
 beverfood.com##img[width="650"][height="320"]
 tennispavese.it##img[width="728"]
 larampa.it##img[width="728"][height="90"]
+livornolive.it##rs-mask-wrap[style="width: 100% !important; height: 100% !important; position: absolute; display: block; overflow: visible;"]
 bloopers.it##table[name="banner.tbl"]
 ! Site Specific filters (used with $generichide)
 msn.com##a[href^="https://marketing.net.occhiali24.it/"]

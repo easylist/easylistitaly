@@ -876,7 +876,11 @@
 ||livornocalcio.it^*/legea-logo-
 ||livornocalcio.it^*/Pediatrica-
 ||livornocalcio.it^*/solo-livorno-
+||livornolive.it^*/civili.jpg
+||livornolive.it^*/fotonovi.jpeg
+||livornolive.it^*/Labronica-
 ||livornolive.it^*/slider.
+||livornolive.it^*/World-services-
 ||livornopress.it^*/banner-
 ||livornopress.it^*/banner_
 ||livornopress.it^*/SCOPRI-DI-PIU-IES-
