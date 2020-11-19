@@ -541,7 +541,7 @@ mogliinmostra.it,tse-tse.it##.ctaiscriviti
 giornaleadige.it,piacenza24.eu,radionorba.it,radioyacht.com##.custom_banners_big_link
 fiorentinanews.com##.destra_banner
 flashscore.it##.detail-bonus-match-summary-content-inner
-economyup.it##.dfp
+economyup.it,techcompany360.it##.dfp
 blastingnews.com##.dfp-mobile-leadeboard
 quotidiano.net##.discount-block
 cuneodice.it,genovadice.it,italiadice.it,torinodice.it##.div_banner
