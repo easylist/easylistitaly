@@ -732,6 +732,7 @@ vivafm.it##.qt-widget-sponsor
 quizammissione.it##.quiza-prima
 html.it##.rail-800
 giardinaggio.it##.reattiva_x_90
+ispazio.net##.reclame
 live-sport-tv.it##.rectangles
 sportytrader.it##.redirectou
 mobimart.it##.resp-container
