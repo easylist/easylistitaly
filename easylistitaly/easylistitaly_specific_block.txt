@@ -1482,6 +1482,15 @@
 ||staynerd.com^*/locandina-senza-data-
 ||staynerd.com^*/logo-ydn-
 ||staynerd.com^*/nostalgia-
+||stellenellosport.com/img/gold_sponsor/
+||stellenellosport.com/img/media_partner/
+||stellenellosport.com/img/partner/
+||stellenellosport.com^*/capurro.jpg
+||stellenellosport.com^*/costa.jpg
+||stellenellosport.com^*/gip.jpg
+||stellenellosport.com^*/italmatch.jpg
+||stellenellosport.com^*/Primocanale_
+||stellenellosport.com^*/Valletta-Cambiaso-
 ||stiletv.it/banner/
 ||stiletv.it^*-banner.
 ||stiletv.it^*/Banner_
