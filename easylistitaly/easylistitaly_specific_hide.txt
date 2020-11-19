@@ -717,6 +717,7 @@ voglioporno.com##.promo-462x66
 eurogamer.it##.promo-banner
 ideegreen.it,motori.it##.promobox
 proiezionidiborsa.it##.promoboxplus
+playstationzone.it##.psz_template_prices_comp
 agoravox.it##.pub
 kikapress.com##.pub_container
 agoravox.it##.publarge
