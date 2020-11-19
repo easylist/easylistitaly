@@ -472,6 +472,7 @@
 ||fordfiestaitalia.com^*/sponsor/
 ||fortuneita.com^*/Banner
 ||fortuneita.com^*300x250
+||fortuneita.com^*900x120
 ||fortuneita.com^*900x90
 ||fotoenotizie.it^*/baleari.
 ||fotoenotizie.it^*/bannerAlto.
