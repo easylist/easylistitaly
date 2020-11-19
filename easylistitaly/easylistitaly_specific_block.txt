@@ -1160,6 +1160,7 @@
 ||positanonotizie.it^*/banner/
 ||prealpina.it/js/manzoni_interna.js
 ||primapaginamolise.it/banner/
+||primocanale.it/img/banner/
 ||primopianomolise.it^*/banner
 ||primopianomolise.it^*/issan
 ||primopianomolise.it^*/Logo%20RTUBI
