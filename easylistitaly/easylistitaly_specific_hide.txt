@@ -802,6 +802,7 @@ occhionotizie.it##.sticky_bar_container
 webnews.it##.sticky_wrapper
 andreagaleazzi.com##.store-box
 100ideeperristrutturare.it,calabria7.it,casa-naturale.com,fruitbookmagazine.it,primopianomolise.it,quattrozampe.online,radiomovida.net,radioradio.it,uominietrasporti.it,vendingnews.it,villeecasali.com##.strack_cli
+myreviews.it##.stream-item
 ilcorriere.net##.stream-item-top-wrapper
 filmtv.it##.streaming
 affaritaliani.it##.strillo-speciale3
