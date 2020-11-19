@@ -603,6 +603,7 @@ lanuovacalabria.it##.headerBanner
 calabria7.it##.header__banner
 h24notizie.com##.headerbanner
 quotidianolacitta.it##.headerbanner_autoslides
+pagamentidigitali.it##.helper
 internazionale.it##.hentry--banner
 transfermarkt.it##.hide-for-small[style="height: 273px; text-align: center; overflow: hidden;"]
 altamuralife.it,andriaviva.it,bariviva.it,barlettaviva.it,bisceglieviva.it,bitontoviva.it,canosaviva.it,cerignolaviva.it,coratoviva.it,giovinazzoviva.it,gravinalife.it,margheritaviva.it,materalife.it,minervinoviva.it,modugnoviva.it,molfettaviva.it,ruvoviva.it,sanferdinandoviva.it,spinazzolaviva.it,terlizziviva.it,traniviva.it,trinitapoliviva.it##.home-election-wrapper
