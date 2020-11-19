@@ -102,6 +102,7 @@ teleborsa.it###ctl00_if4WTV300x250
 birramoriamoci.it###custom_html-2
 strill.it###custom_html-25
 melarossa.it###custom_html-5
+pentanewslivorno.it###custom_html-6
 strill.it###custom_html-65
 corrierequotidiano.it###custom_html-8
 amazon.it###detailILM_feature_div
