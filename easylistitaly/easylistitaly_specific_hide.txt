@@ -173,6 +173,7 @@ staynerd.com###media_image-40
 giornalistitalia.it###media_image-5
 giornalistitalia.it###media_image-6
 giornalistitalia.it###media_image-8
+catanzaro7.net###mh_magazine_youtube-3
 mymovies.it###middle1_companion
 tusciaweb.eu###miesSPLASH
 eurogamer.it###mobile-leaderboard
@@ -503,6 +504,7 @@ parcofaunistico.it##.buttonGuardaOra
 altadefinizione01.army##.buttonbox
 pensieriparole.it##.buyblock
 empolifc.com##.c-footer__sponsors-container
+catanzaro7.net##.catan-nellarticolo
 radioinblu.it,tv2000.it##.cei-skin-side
 lineapress.it##.cfxi-container
 cliccascienze.it##.clicc-prima-del-contenuto
@@ -656,6 +658,7 @@ medicalexcellencetv.it##.medic-widget
 melarossa.it##.melar-pos-in-article-multiplo
 sportivissimo.com##.menu4
 altraeta.it,ecoaltomolise.net,lostrillonenews.it,newslinet.com,radiodeltainternational.it,tvcity.it,vulturenews.net##.metaslider
+catanzaro7.net##.mh-header-widget-2
 automoto.it,moto.it##.mit-skin-spacer
 altamuralive.it,barilive.it,barlettalive.it,bisceglielive.it,bitontolive.it,cassanolive.it,coratolive.it,giovinazzolive.it,lavocedimanduria.it,okfirenze.com,okmugello.it,okvaldisieve.it,ruvolive.it,santeramolive.it,terlizzilive.it,termolionline.it,unicosettimanale.it,viviwebtv.it##.mkt-300x250
 altamuralive.it,barilive.it,barlettalive.it,bisceglielive.it,bitontolive.it,cassanolive.it,coratolive.it,giovinazzolive.it,lavocedimanduria.it,okfirenze.com,okmugello.it,okvaldisieve.it,ruvolive.it,santeramolive.it,terlizzilive.it,termolionline.it,unicosettimanale.it##.mkt-300x60
