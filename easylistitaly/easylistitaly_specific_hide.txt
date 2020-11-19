@@ -452,6 +452,7 @@ virtusverona.it##.bigbanner
 foodnetwork.it##.billboard
 ludomedia.it##.blocchiPbi
 winenews.it##.blocco_banner_top
+zerounoweb.it##.blocco_primo_dfp
 ladige.it##.block--dfp
 california.it##.block-13
 mediaworld.it##.block-mw-external-banner
