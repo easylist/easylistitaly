@@ -1607,6 +1607,7 @@
 ||tempoitalia.it/banner/
 ||temporeale.info^*/Banner-
 ||tenews.it/banner/
+||ternieprovincia.com/images/banner/
 ||terninrete.it^*-banner.
 ||terninrete.it^*/450x450_
 ||terninrete.it^*/banner-
