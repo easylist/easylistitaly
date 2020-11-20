@@ -227,6 +227,9 @@
 ||casaleoggi.it^*/banner/
 ||casateonline.it/public/banner/
 ||casertaweb.com^*/sfondo-
+||cataniavip.it^*-500x90-
+||cataniavip.it^*/Banner-
+||cataniavip.it^*/Staycation-
 ||catanzaro7.net^*/BARBALACE_
 ||catanzaro7.net^*/bullitt
 ||catanzaro7.net^*/BYBLOS
