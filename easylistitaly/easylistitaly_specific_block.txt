@@ -1866,6 +1866,7 @@
 ||windowsblogitalia.com^*/sconto-5-euro-amazon.jpg
 ||winxclub.com^*/dfp.js?
 ||worldofwrestling.it^*/wow.gif
+||wp.com/catanista.eu/*/nextopening.png
 ||wp.com/genovaquotidiana.com/*-320x320-
 ||wp.com/guerrestellari.net/*/Amazon_
 ||wp.com/ilclandestinogiornale.italiasera.it/*/autofficina-nettuno.gif
