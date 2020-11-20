@@ -927,6 +927,7 @@
 ||lostrillonenews.it^*_Banner_
 ||lucchese1905.it^*/sponsor-
 ||lultimaribattuta.it^*/franca.jpg
+||lurlo.news^*/squisicily
 ||luxurypretaporter.it^*/banner-
 ||macitynet.it^*/macitybig
 ||macitynet.it^*/macitynettrendeviceborsa.jpg
