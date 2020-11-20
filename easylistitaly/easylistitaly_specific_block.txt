@@ -596,6 +596,9 @@
 ||hobbyquotidiano.com^*/amazon_
 ||hovogliadidolce.it^*/banner-
 ||html.it^*/banner/
+||hwreload.it^*/alphacool.gif
+||hwreload.it^*/orico.gif
+||hwreload.it^*/sharkoon.gif
 ||hwupgrade.it/js/hwu_adv.js
 ||iamnaples.it^*-300x250.
 ||iamnaples.it^*/carni-italia.jpg
