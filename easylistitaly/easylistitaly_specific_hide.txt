@@ -124,6 +124,7 @@ tvrxenon.it###footer-widgets
 videosesso.com###footertop
 gogoterme.com###frm
 ilcap.it###gadsense
+giornalesm.com###gallery-254068-1-slideshow
 mondoplay.it,mondoxbox.com###gameBlock_amazon
 mondoplay.it,mondoxbox.com###gameBlock_amazon_noboxart
 videogiocare.it###gp-affiliate-button
@@ -250,7 +251,7 @@ birramoriamoci.it,vigamusmagazine.com###text-4
 giornalistitalia.it###text-40
 giornalistitalia.it###text-41
 giornalistitalia.it###text-46
-birramoriamoci.it###text-5
+birramoriamoci.it,giornalesm.com###text-5
 incucinaconelena.it###text-7
 telemia.it###text-9
 certificatejournal.it,finanza.com###top-banner
