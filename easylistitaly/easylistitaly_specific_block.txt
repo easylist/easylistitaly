@@ -804,6 +804,7 @@
 ||ladriatico.info^*-300x69.
 ||lafeltrinelli.it^*/Partner/
 ||lagazzetta.info^*/banner/
+||lagazzettaaugustana.it^*-banner-
 ||lagazzettadilucca.it^*/inserzioni/
 ||lagazzettadimassaecarrara.it^*/Banner-
 ||lagazzettadimassaecarrara.it^*/inserzioni/
