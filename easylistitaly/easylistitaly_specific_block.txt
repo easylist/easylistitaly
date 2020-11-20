@@ -538,6 +538,7 @@
 ||gioconews.it^*/banners/
 ||giornale.it^*/300x250px.
 ||giornale.it^*/600x200px.
+||giornale.it^*/skin-
 ||giornaleadige.it^*-960x250-
 ||giornaleadige.it^*-banner-
 ||giornaleadige.it^*/928x250-
