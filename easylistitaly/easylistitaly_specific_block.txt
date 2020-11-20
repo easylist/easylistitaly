@@ -1608,8 +1608,12 @@
 ||temporeale.info^*/Banner-
 ||tenews.it/banner/
 ||terninrete.it^*/450x450_
+||terninrete.it^*/banner-
+||terninrete.it^*/banner_
 ||terninrete.it^*/euroufficio-
 ||terninrete.it^*/euroufficio.
+||terninrete.it^*/McMarins-
+||terninrete.it^*/Profumerie-Sergnese-
 ||terranauta.it/banner/
 ||terranuova.it^*/ad$xmlhttprequest
 ||terranuova.it^*/banner/
