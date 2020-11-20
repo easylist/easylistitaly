@@ -1766,6 +1766,7 @@
 ||umbriajournal.com^*/banner-
 ||umbriajournal.com^*/banner.
 ||umbriajournal.com^*_banner_
+||umbriamagazine.com/images/banner/
 ||umbrianotizieweb.it^*/banner_
 ||umbriasettegiorni.it^*/skin-
 ||umbriatv.com/images/banners/

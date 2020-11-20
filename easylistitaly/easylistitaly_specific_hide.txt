@@ -1064,7 +1064,7 @@ libero.it,mbnews.it,oroscopoastra.com,tp24.it##div[style^="width: 300px; height:
 gelocal.it##div[style^="width: 300px;height: 80px;border:"]
 liguriaoggi.it##img[alt="ad"]
 cinematografo.it,ondatv.tv##img[alt="banner"]
-ternieprovincia.com##img[class="block_banner_img"]
+ternieprovincia.com,umbriamagazine.com##img[class="block_banner_img"]
 hellaslive.it##img[class="partner"]
 corrieresalentino.it##img[height="100"][width="1000"]
 latinaquotidiano.it,liguriaoggi.it,staffettaonline.com,startmag.it##img[height="250"][width="300"]
