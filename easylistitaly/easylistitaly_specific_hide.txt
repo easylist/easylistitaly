@@ -32,6 +32,8 @@ canavesenews.it###banner-left-bottom
 canavesenews.it###banner-left-top
 cuneocronaca.it,larivieraonline.com,oggitreviso.it,piccolenote.ilgiornale.it###banner-top
 canavesenews.it###banner-top-container
+cataniapubblica.tv###banner1
+cataniapubblica.tv###banner2
 ilmeteo.it###banner728x90bottom
 tusciaweb.eu###bannerFondo
 ondarock.it###banner_300x250_slot3
