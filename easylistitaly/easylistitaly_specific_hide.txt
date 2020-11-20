@@ -53,7 +53,7 @@ linguee.it###banners_top
 entella.it###barra_click_top
 orizzontescuola.it###bglink
 bergamoesport.it###billboard
-avolanews.it,catanianews.it,ibleinews.it,notonews.it,siracusanews.it###billboard1
+augustanews.it,avolanews.it,catanianews.it,ibleinews.it,notonews.it,siracusanews.it###billboard1
 giornaledellamusica.it###block-adv
 tuttosuigatti.it###block-bean-banner-content-bottom
 tuttosuigatti.it###block-bean-banner-content-center
