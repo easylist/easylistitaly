@@ -820,6 +820,7 @@
 ||laltrapagina.it^*/pe4681.
 ||lametino.it/images/banners/
 ||lanotiziaquotidiana.it^*/Senza-nome.jpg
+||lanotiziaquotidiana.it^*banner
 ||lantidiplomatico.it/img/coupon.png
 ||lanuova.net^*/sansone-_
 ||lanuovacalabria.it^*/banner/
