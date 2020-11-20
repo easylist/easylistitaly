@@ -1607,13 +1607,16 @@
 ||tempoitalia.it/banner/
 ||temporeale.info^*/Banner-
 ||tenews.it/banner/
+||terninrete.it^*-banner.
 ||terninrete.it^*/450x450_
 ||terninrete.it^*/banner-
 ||terninrete.it^*/banner_
+||terninrete.it^*/BELLAFANTE-
 ||terninrete.it^*/euroufficio-
 ||terninrete.it^*/euroufficio.
 ||terninrete.it^*/McMarins-
 ||terninrete.it^*/Profumerie-Sergnese-
+||terninrete.it^*/Villaggio-di-Babbo-Natale-
 ||terranauta.it/banner/
 ||terranuova.it^*/ad$xmlhttprequest
 ||terranuova.it^*/banner/
