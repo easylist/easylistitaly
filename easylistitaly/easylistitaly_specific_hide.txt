@@ -173,6 +173,7 @@ chepreparo.it###media_image-2
 staynerd.com###media_image-40
 giornalistitalia.it###media_image-5
 giornalistitalia.it###media_image-6
+cataniaunafede.it###media_image-7
 giornalistitalia.it###media_image-8
 catanzaro7.net###mh_magazine_youtube-3
 mymovies.it###middle1_companion
