@@ -175,6 +175,7 @@ giornalistitalia.it###media_image-5
 giornalistitalia.it###media_image-6
 cataniaunafede.it###media_image-7
 giornalistitalia.it###media_image-8
+umbriajournal.com###mh_magazine_custom_posts-17
 catanzaro7.net###mh_magazine_youtube-3
 mymovies.it###middle1_companion
 tusciaweb.eu###miesSPLASH
