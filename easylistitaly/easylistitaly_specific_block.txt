@@ -796,6 +796,11 @@
 ||kisskissitalia.it/images/banners/
 ||kisskissnapoli.it/images/banners/
 ||kurdistanonline.net/img/scarica
+||la-notizia.net^*/BBLegno.jpg
+||la-notizia.net^*/Ottuccia.jpg
+||la-notizia.net^*/Pane-e-Vino.jpg
+||la-notizia.net^*/Ristorante-Da-Fabrizio.jpg
+||la-notizia.net^*/Ristorante-Papillon.jpg
 ||labtv.net^*/banner_
 ||lacnews24.it/filemanager/skinz/
 ||ladigetto.it/files/banners/
