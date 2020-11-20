@@ -688,6 +688,10 @@
 ||ilmioip.it/img/banner
 ||ilmioip.it/img/infermieri
 ||ilmomento.org^*-300x250.
+||ilmonito.it^*/allocca.jpg
+||ilmonito.it^*/bloggif_5eea29db54ef8.gif
+||ilmonito.it^*/logo-confetti-maxtris-
+||ilmonito.it^*/mfp.jpg
 ||ilombardia.it^*/all4cycling-
 ||ilpaesenuovo.it^*/perhospital-01.jpg
 ||ilpost.it^*/newAdv.js?
