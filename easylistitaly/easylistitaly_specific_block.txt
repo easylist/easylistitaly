@@ -1766,6 +1766,7 @@
 ||umbriajournal.com^*/banner.
 ||umbriajournal.com^*_banner_
 ||umbriasettegiorni.it^*/skin-
+||umbriatv.com/images/banners/
 ||unadonna.it^*-300x250px-
 ||unicasport.it^*-Banner-
 ||unicoebello.it^*-380x380
