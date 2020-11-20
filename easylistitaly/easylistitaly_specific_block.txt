@@ -839,6 +839,8 @@
 ||latitudeslife.com^*/banners/
 ||lausc.it/images/banners/
 ||lavocedellevalli.it^*_Banner_
+||lavocedellisola.it^*/Banco-Alimentare-Sicilia.jpg
+||lavocedellisola.it^*/WhatsApp-Image-2020-07-16-at-11.35.13.jpeg
 ||lavocedeltrentino.it^*/banners/
 ||lavocedeltrentino.it^*/calzature-dro-
 ||lavocedeltrentino.it^*/NATAM-
@@ -1916,6 +1918,7 @@
 ||wp.com/www.italiasera.it/*/the-king-arrosticino-
 ||wp.com/www.italiasera.it/*/vanity-maison.jpg
 ||wp.com/www.italiasera.it/*/venere-spa.jpg
+||wp.com/www.lavocedellisola.it/*/WhatsApp-Image-2020-07-16-at-11.35.13-
 ||wp.com/www.lecronachelucane.it/*/ppp_
 ||wp.com/www.lopinionistanews.it/*/farmacia-san-bernardo.jpg
 ||wp.com/www.lopinionistanews.it/*/Guffanti.jpg
