@@ -632,6 +632,7 @@ cookaround.com##.lancio-speciale-logo
 libero.it##.lancio_promo
 bluerating.com##.large_home_adv
 pensieriparole.it##.latspot
+blog.virgilio.it##.lb_hook1
 ilgallo.it##.leader-board
 close-up.it,foodweb.it,meteovista.it,pneusnews.it,prealpina.it,ridble.com,today.it,ultimenotizieflash.com##.leaderboard
 blastingnews.com##.leaderboard-article
