@@ -1528,6 +1528,7 @@
 ||storiedisport.it^*/logo5.png
 ||stradeonline.it/images/banners/
 ||strill.it/images/banners/
+||strill.it^*/rigan
 ||strumentiemusica.com^*-125x125.
 ||studio5fm.com^*/Progetto-senza-titolo39.png
 ||studio93.it^*/Banner
