@@ -1163,6 +1163,7 @@
 ||piacenzacalcio.it^*/sponsor_
 ||piacenzacalcio.it^*_banner_
 ||piacenzacalcio.it^*_sponsor_
+||piacenzaonline.info^*/Banner-
 ||piazzasalento.it^*/santarita300x250.jpg
 ||picenonews24.it^*/arg_logo.png
 ||picenonews24.it^*/foodrelax4.jpg
