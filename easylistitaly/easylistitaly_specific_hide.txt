@@ -201,6 +201,7 @@ catanista.eu###pg-w5f882c5709967-0
 incesti.xxx,pornopizza.it,tuboitaliano.it,videopornoitalia.com###playerOverlay
 acprosesto.it###prefooter
 eurogamer.it###prod-buy
+estrazionedellotto.it###promobanner
 flashgames.it###pub_sotto
 odontoiatria33.it###rowHeader
 nuovosud.it###sfondo
@@ -750,6 +751,7 @@ ispazio.net##.reclame
 live-sport-tv.it##.rectangles
 sportytrader.it##.redirectou
 mobimart.it##.resp-container
+estrazionedellotto.it##.right
 lacnews24.it##.right-side
 ilroma.net##.rotating-banner
 ecodallecitta.it##.rotobanner

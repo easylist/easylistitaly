@@ -432,6 +432,8 @@
 ||epolisbari.com/banner/
 ||erbanotizie.com^*/banner_
 ||erbanotizie.com^*_multibanner_
+||estrazionedellotto.it/images/gioco-del-lotto.gif
+||estrazionedellotto.it/images/logos/
 ||eunews.it^*/Banner-300x300_
 ||euroregionalpmed.eu/img/banner/
 ||euroregionalpmed.eu/js/clickBanner_
