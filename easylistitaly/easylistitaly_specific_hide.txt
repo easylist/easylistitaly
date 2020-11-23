@@ -656,6 +656,7 @@ laleggepertutti.it##.lexdo-banner
 business24tv.it##.link-at-body
 winenews.it##.link_skin
 diretta.it##.live-betting-strip
+sorrisi.com##.live-news-advbox
 bisceglielive.it,viviwebtv.it##.live-promo
 omnifurgone.it##.m1-apb
 buttanissima.it##.machette
