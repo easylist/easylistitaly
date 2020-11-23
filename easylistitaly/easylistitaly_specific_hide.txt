@@ -10,6 +10,7 @@ digital-forum.it,ebaygeneration.com,elaborare.com,esigarettaforum.com,thegamesma
 bordighera.net,corriere.it###ads
 piceno24.it,picenooggi.it,rivieraoggi.it,virgilio.it###adv
 agarymathematics.net###adv1
+libero.it###adv_topper
 catt.ch###advertising
 amazon.it###ape_detail_btf_detail-mWeb_wrapper
 amazon.it###ape_detail_mobile-hero-quick-promo_mweb_wrapper
@@ -620,6 +621,8 @@ transfermarkt.it##.hide-for-small[style="height: 273px; text-align: center; over
 altamuralife.it,andriaviva.it,bariviva.it,barlettaviva.it,bisceglieviva.it,bitontoviva.it,canosaviva.it,cerignolaviva.it,coratoviva.it,giovinazzoviva.it,gravinalife.it,margheritaviva.it,materalife.it,minervinoviva.it,modugnoviva.it,molfettaviva.it,ruvoviva.it,sanferdinandoviva.it,spinazzolaviva.it,terlizziviva.it,traniviva.it,trinitapoliviva.it##.home-election-wrapper
 corriere.ca##.horizontal_banner
 ilturista.info##.hotel-form
+libero.it##.hp_300x1
+libero.it##.hp_970x90
 iodonna.it##.id-vda-article
 sportytrader.it##.ilo
 oroscopi.info##.img_oroscopo_personalizzato
