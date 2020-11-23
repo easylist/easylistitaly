@@ -35,6 +35,7 @@ cuneocronaca.it,larivieraonline.com,oggitreviso.it,piccolenote.ilgiornale.it###b
 canavesenews.it###banner-top-container
 cataniapubblica.tv###banner1
 cataniapubblica.tv###banner2
+hdblog.it###banner3_300600
 ilmeteo.it###banner728x90bottom
 tusciaweb.eu###bannerFondo
 ondarock.it###banner_300x250_slot3
@@ -494,6 +495,7 @@ cucchiaio.it##.box-banner-hp-dx
 trend-online.com##.box-special
 tvserial.it##.box-verticale-home
 flashscore.it##.boxOverContent__banner
+hdblog.it##.box_highlight_hot
 cuneodice.it,genovadice.it,italiadice.it,torinodice.it##.box_oikia
 subito.it##.box_sponsor
 caneogolf.it##.boxbannerhome
