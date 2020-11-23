@@ -838,6 +838,7 @@ ilprimatonazionale.it##.td-banner-bg
 edagricole.it##.td-banner-footer
 edagricole.it##.td-banner-wrap-full
 romagiallorossa.it##.td-container-header
+radioradio.it##.td-fix-index
 amoreaquattrozampe.it##.td-footer-container
 ilgiornaledeltermoidraulico.it,pescaracalcio.com,tennispavese.it,ternanacalcio.com##.td-footer-wrapper
 4actionsport.it##.td-header-rec-wrap
@@ -1036,6 +1037,8 @@ tuttob.com##div[style="padding: 3px 0; min-height: 250px; width: 300px; margin: 
 milannews.it,parmalive.com,vocegiallorossa.it##div[style="padding: 3px 0px 3px 0px; min-height: 280px;"]
 milannews.it,parmalive.com,sampdorianews.net,vocegiallorossa.it##div[style="padding: 3px 3px 3px 3px; min-height: 600px;"]
 radioradio.it##div[style="position: absolute; display: block; top: 0px; left: 0px; width: 696px; height: 182px; transform: scale(1.001);"]
+radioradio.it##div[style="position: absolute; display: block; top: 0px; left: 0px; width: 696px; height: 182px;"]
+radioradio.it##div[style="position: absolute; overflow: hidden; left: 0px; top: 0px; width: 324px; height: 400px; margin: 0px; padding: 0px; transform-style: flat; z-index: 0;"]
 radioradio.it##div[style="position: absolute; overflow: hidden; left: 0px; top: 0px; width: 696px; height: 182px; margin: 0px; padding: 0px; transform-style: flat; z-index: 0;"]
 lalaziosiamonoi.it,tuttocagliari.net##div[style="text-align: center; width: 160px; height: 600px; padding: 0px 0px 3px 0px;"]
 tuttojuve.com##div[style="text-align: center; width: 160px; height: 600px; padding: 3px 0; margin: 0 auto;"]
