@@ -256,6 +256,7 @@ birramoriamoci.it,giornalesm.com###text-5
 incucinaconelena.it###text-7
 telemia.it###text-9
 certificatejournal.it,finanza.com###top-banner
+calciomercato.com###top-banner-container
 hwupgrade.it###top300x250-background
 hwupgrade.it###top300x250-container
 corriere.it###topXcoupon
