@@ -773,7 +773,8 @@ iovivoaroma.org##.skin_link_top
 atvreport.it##.skinlink
 tiscali.it##.sky-n
 gioco.it##.skyscraper
-fermanafc.com,settesere.it,uslecce.it,ustriestinacalcio1918.it##.slick-track
+netflixlovers.it##.slick-dots
+fermanafc.com,netflixlovers.it,settesere.it,uslecce.it,ustriestinacalcio1918.it##.slick-track
 radioradio.it##.slide
 livornolive.it,toscana.live##.slidelink
 oipamagazine.it##.slider
