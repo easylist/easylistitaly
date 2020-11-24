@@ -465,6 +465,8 @@
 ||filmstreaming.page/sc.png
 ||finanziamenti.it^*/banner-
 ||finaria.it^*/842ITTRADEstocks300x250_
+||finaria.it^*/banner-
+||finaria.it^*/broker-migliore.jpg
 ||finaria.it^*/broker-regolamentato.gif
 ||finaria.it^*/trading-online-comprare-azioni-
 ||fiorentinanews.com^*/Banner

@@ -241,6 +241,9 @@ diretta.it###tab-odds
 gamesvillage.it###takeover_gv
 radioluna.it###testata
 studio5fm.com###text-13
+finaria.it###text-14
+finaria.it###text-15
+finaria.it###text-16
 giornalistitalia.it,noinotizie.it###text-19
 noinotizie.it###text-20
 nerdplanet.it###text-24
@@ -250,7 +253,7 @@ contrastotv.it,giornalistitalia.it,viterbopost.it###text-34
 viterbopost.it###text-35
 giornalistitalia.it###text-36
 giornalistitalia.it,ilgiornaledeiveronesi.it###text-38
-birramoriamoci.it,vigamusmagazine.com###text-4
+birramoriamoci.it,finaria.it,vigamusmagazine.com###text-4
 giornalistitalia.it###text-40
 giornalistitalia.it###text-41
 giornalistitalia.it###text-46
