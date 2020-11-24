@@ -781,6 +781,7 @@ ad-italia.it##.sectionbox
 excite.it##.serp-item
 bloopers.it##.shop
 ilgeniodellostreaming.tel##.show-download
+tiscali.it##.shp-prd-ed-day
 quotidianolacitta.it##.sidebar-banner
 sportytrader.it##.sidebar_grid
 cosedicasa.com##.sidespot-wrapper
