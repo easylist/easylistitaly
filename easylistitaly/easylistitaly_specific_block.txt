@@ -539,6 +539,13 @@
 ||gazzettaregionale.it/assets/Auto-doc.
 ||gazzettinodelchianti.it^*/banner-
 ||gazzettinodelchianti.it^*/sfondo-
+||gazzettinodelgolfo.it/sponsor/
+||gazzettinodelgolfo.it^*-300x250.
+||gazzettinodelgolfo.it^*/bar_platani.png
+||gazzettinodelgolfo.it^*/ciccariello_gaeta.jpeg
+||gazzettinodelgolfo.it^*/copacabana-sosta-camper-gaeta-
+||gazzettinodelgolfo.it^*/intel_solution-
+||gazzettinodelgolfo.it^*/veneziano_racing-
 ||genoacfc.it^*/1110x95_
 ||genoacfc.it^*/banner-
 ||genoacfc.it^*/NOBERASCO_LOGO-
