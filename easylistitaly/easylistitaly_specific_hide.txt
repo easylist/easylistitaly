@@ -840,7 +840,7 @@ ilcorriere.net##.stream-item-top-wrapper
 filmtv.it##.streaming
 affaritaliani.it##.strillo-speciale3
 ship2shore.it,trend-online.com##.strip
-ilmessaggero.it##.strip-guidalloshopping
+ilmessaggero.it,leggo.it##.strip-guidalloshopping
 noisiamofuturo.it##.stripe
 volleyball.it##.su-carousel
 notiziariocalcio.com,pianetabasket.com,tuttosalernitana.com,tuttoveneziasport.it##.sub
