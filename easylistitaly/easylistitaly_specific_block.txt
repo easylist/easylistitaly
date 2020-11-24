@@ -766,6 +766,8 @@
 ||imperiasport.net^*/BITIM.jpg
 ||imperiasport.net^*/LucaeAlice.jpg
 ||imperiatv.it/images/sponsor/
+||imperoland.it^*/billboard
+||imperoland.it^*/mpu
 ||industria-online.com/storage/b-
 ||industriaitaliana.it^*/300x250
 ||industriaitaliana.it^*/Rettangolo-
