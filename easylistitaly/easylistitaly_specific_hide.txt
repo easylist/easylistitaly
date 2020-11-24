@@ -847,6 +847,8 @@ mbnews.it##.swiper-container
 yesmagazine.it##.swiper-slide-inner
 luinonotizie.it##.swiper-wrapper
 diventaretrader.com##.table-alm
+bottadiculo.it##.table3bonus
+bottadiculo.it##.table3bonus-side
 ilpost.it##.tag-sponsored
 videosesso.com##.tagsection
 gioconews.it##.tcvn-banner-item
@@ -1019,6 +1021,11 @@ manduriaoggi.it##div[style="background-color:#FFF; border:#FC0 1px solid; paddin
 people24.myblog.it##div[style="background-color:#FFF;height:250px;margin:0 0 .6em;"]
 people24.myblog.it##div[style="background-color:#FFF;height:280px;margin:0 0 .6em;clear:both;"]
 people24.myblog.it##div[style="background-color:#FFF;height:90px;margin:0 auto .6em;"]
+bottadiculo.it##div[style="background: #141b4d; box-shadow: 0 5px 10px 0 #bdbdbd; padding: 15px 30px 40px 30px; border-radius: 10px; margin: 30px 0px 40px 0px; text-align: center;"]
+bottadiculo.it##div[style="background: #212529; box-shadow: 0 5px 10px 0 #bdbdbd; padding: 15px 30px 40px 30px; border-radius: 10px; margin: 30px 0px 40px 0px; text-align: center;"]
+bottadiculo.it##div[style="background: #ca242b; box-shadow: 0 5px 10px 0 #bdbdbd; padding: 15px 30px 40px 30px; border-radius: 10px; margin: 30px 0px 40px 0px; text-align: center;"]
+bottadiculo.it##div[style="background:#f7f7f7;border:1px solid #e2e2e2;text-align:center;border-radius:35px;padding:20px;font-weight:bold;margin-bottom:40px;color:#69be28;"]
+bottadiculo.it##div[style="border-bottom: 3px solid #f0f0f0;margin: 40px 0px 40px 0px;text-align:center;"]
 sienanews.it##div[style="border: #1e7ebc 1px solid; background: #ffffff url(https://jooble.org/images/logo_48x61.gif) no-repeat 5px 10px; width: 250px; height: 53px; text-align: right; padding: 5px; line-height: 14px;"]
 affaritaliani.it##div[style="box-sizing: content-box;padding: 9px; border: 1px solid #ccc; zoom:1;overflow:hidden;height:80px;width:280px;font: normal 12px/14px arial, sans-serif;text-align:left;margin-bottom:10px;"]
 affaritaliani.it##div[style="box-sizing: content-box;padding: 9px; border: 1px solid #ccc; zoom:1;overflow:hidden;height:80px;width:280px;font: normal 12px/14px arial, sans-serif;text-align:left;margin-bottom:10px;background:#fff;"]
