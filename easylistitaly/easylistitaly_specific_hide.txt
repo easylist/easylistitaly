@@ -398,8 +398,8 @@ italiani.it##.banner-empty-italiani
 bluvolleyverona.it##.banner-fading
 algheroeco.com##.banner-header-dx
 algheroeco.com##.banner-header-sx
-mtbcult.it##.banner-homepage-inside-1
-mtbcult.it##.banner-homepage-inside-2
+ebikecult.it,mtbcult.it##.banner-homepage-inside-1
+ebikecult.it,mtbcult.it##.banner-homepage-inside-2
 ebikecult.it,mtbcult.it##.banner-homepage-slider-728-90
 italiafruit.net##.banner-i
 picenonews24.it##.banner-img
