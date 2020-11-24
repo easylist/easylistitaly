@@ -136,7 +136,7 @@ rovigooggi.it###head-space
 cronachemaceratesi.it###head_sponsor
 beverfood.com###headbanner
 andriaviva.it,bariviva.it,barlettaviva.it,bisceglieviva.it,bitontoviva.it,canosaviva.it,cerignolaviva.it,coratoviva.it,giovinazzoviva.it,gravinalife.it,margheritaviva.it,minervinoviva.it,modugnoviva.it,molfettaviva.it,ruvoviva.it,sanferdinandoviva.it,spinazzolaviva.it,terlizziviva.it,traniviva.it,trinitapoliviva.it###header-banner
-f1sport.it###header-right-section
+f1sport.it,informarea.it###header-right-section
 telestarsr.it###header-slider
 tempoitalia.it###headerBanner
 torinofc.it###headerSpazioSponsorLoghi
@@ -538,7 +538,7 @@ puntocellulare.it##.clklnk
 pornototale.com##.co_sponsor
 pomiglianolive.it##.code-block-11
 pomiglianolive.it##.code-block-12
-pomiglianolive.it##.code-block-5
+informarea.it,pomiglianolive.it##.code-block-5
 pomiglianolive.it##.code-block-8
 pomiglianolive.it##.code-block-9
 ilcorrieredelgiorno.it##.col-banner
