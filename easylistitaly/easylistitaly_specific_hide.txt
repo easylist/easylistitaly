@@ -859,6 +859,7 @@ telesud.it##.teles-header-banner
 positanonews.it##.testata
 bluerating.com##.the_big_banner
 87tv.it,pianetadonne.blog##.theiaStickySidebar
+amazon.it##.threepsl-creatives
 tiscali.it##.tiscali-shp-dayoff
 confinelive.it##.tmsgfrekab-container
 numeri-di-telefono.it##.top-add
