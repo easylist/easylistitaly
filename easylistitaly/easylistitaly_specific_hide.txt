@@ -398,6 +398,8 @@ italiani.it##.banner-empty-italiani
 bluvolleyverona.it##.banner-fading
 algheroeco.com##.banner-header-dx
 algheroeco.com##.banner-header-sx
+mtbcult.it##.banner-homepage-inside-1
+mtbcult.it##.banner-homepage-inside-2
 ebikecult.it,mtbcult.it##.banner-homepage-slider-728-90
 italiafruit.net##.banner-i
 picenonews24.it##.banner-img
@@ -1008,7 +1010,7 @@ lavorincasa.it##div[class^="wrapper-banner-medium-rectangle"]
 lavorincasa.it##div[class^="wrapper-banner-wallpaper"]
 alvolante.it##div[id^="dfp-alv-slot"]
 nationalgeographic.it##div[id^="gpt-"]
-ebikecult.it,mtbcult.it##div[id^="id="mtbcu-"]
+ebikecult.it,mtbcult.it##div[id^="mtbcu-"]
 amazon.it##div[id^="sp_detail"]
 sicilianews24.it,stadionews.it##div[style*="width: 300px; min-height: 250px;"]
 lasiritide.it##div[style="background-color: #f0fff0; width: 310px; height:710px; overflow: auto; text-align: justify; font-family:arial,sans-serif; color:#000; border-top-color:inherit"]
