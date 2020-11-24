@@ -494,6 +494,7 @@ pordenonecalcio.com##.box-assiteca
 centropagina.it##.box-b
 difesaonline.it,tempoitalia.it##.box-banner
 cucchiaio.it##.box-banner-hp-dx
+meteogiornale.it##.box-sn
 trend-online.com##.box-special
 tvserial.it##.box-verticale-home
 flashscore.it##.boxOverContent__banner
