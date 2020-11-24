@@ -1146,6 +1146,7 @@
 ||ondanovara.it^*_banner_
 ||ondarock.it/skin/
 ||ondatv.tv^*/banner-
+||optimalb.de^*/rechte-seite-$domain=deutscheskonto.org
 ||oracolidivini.it/mondocartomante.jpg
 ||oroscopogiorno.it/mondo300.jpg
 ||ostiatv.it/upl/banner
