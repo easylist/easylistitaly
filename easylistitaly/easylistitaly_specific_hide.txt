@@ -667,6 +667,7 @@ lacnews24.it##.left-side
 laleggepertutti.it##.lexdo-banner
 business24tv.it##.link-at-body
 winenews.it##.link_skin
+skillandbet.com##.list-unstyled
 diretta.it##.live-betting-strip
 sorrisi.com##.live-news-advbox
 bisceglielive.it,viviwebtv.it##.live-promo
