@@ -523,6 +523,7 @@ parcofaunistico.it##.buttonGuardaOra
 altadefinizione01.army##.buttonbox
 pensieriparole.it##.buyblock
 empolifc.com##.c-footer__sponsors-container
+meteo.tiscali.it##.c1c3
 catanzaro7.net##.catan-nellarticolo
 radioinblu.it,tv2000.it##.cei-skin-side
 lineapress.it##.cfxi-container
