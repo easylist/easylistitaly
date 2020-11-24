@@ -325,6 +325,7 @@
 ||condominioitalia.biz^*/banner/
 ||condominioweb.com/bann/
 ||confinelive.it^*/banner-
+||confrontaconti.it/image/banner/
 ||coni.it/images/banners/*_*.jpg
 ||coni.it/images/banners/sfondi/
 ||conquistedellavoro.it^*/SANARTI.jpg
