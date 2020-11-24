@@ -1136,6 +1136,7 @@
 ||ogginotizie.it^*/MULTI_page-0001-
 ||oggiroma.it/public/banner/
 ||oipamagazine.it^*/euroservice.gif
+||okpronostico.it^*/comparazione-bonus.jpg
 ||oksiena.it/banner/
 ||oktennis.it^*/skin/
 ||olbia.it^*/spesati-promo-
