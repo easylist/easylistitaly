@@ -1787,6 +1787,7 @@
 ||tuttozampe.com^*/Premium_
 ||tv2000.it^*/banner.
 ||tv2000.it^*/banner/
+||tv2000.it^*/banner_
 ||tv2000.it^*/skin/
 ||tv2000.it^*_300x200.
 ||tvcentromarche.it^*/ESTRA300x250-
