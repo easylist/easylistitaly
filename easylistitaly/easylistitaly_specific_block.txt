@@ -1507,6 +1507,7 @@
 ||sora24.it/banner/
 ||sora24.it^*/amazon-prime-
 ||spoletonline.com/banner/
+||sportando.basketball^*/espn-player.jpg
 ||sportchannel214.it^*/bannerfonia1.jpg
 ||sportchannel214.it^*/beatrice-sito.jpg
 ||sportchannel214.it^*/DACIERNO.jpg
