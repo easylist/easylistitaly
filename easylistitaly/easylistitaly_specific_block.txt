@@ -884,6 +884,8 @@
 ||lavorincasa.it/product/
 ||lavoripubblici.it/banner/
 ||lazioingol.it^*/baked.jpg
+||laziopress.it^*/banner_
+||laziopress.it^*/unipolsai_
 ||leccenews24.it/upload/banner/
 ||leccesette.it/banner/
 ||lecconotizie.com/wp-content/banners/
