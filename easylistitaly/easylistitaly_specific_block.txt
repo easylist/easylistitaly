@@ -1069,6 +1069,7 @@
 ||nbnotizie.it^*/LoghiPUBBL/
 ||nerdplanet.it^*/banner.
 ||nerdplanet.it^*/batmanultimo2017.
+||netdna-ssl.com^*/lazio-europa.gif$domain=radiocolonna.it
 ||news-24.it^*/skin-
 ||newscatania.com^*_Petrol-Company.
 ||newsf1.it^*/promozione-libro-
