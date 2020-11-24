@@ -357,6 +357,7 @@ oraridiapertura24.it##.anzeigenlabel
 insideevs.it,omnifurgone.it,omnimoto.it##.ap
 ridble.com##.api-box
 radiocuore.it##.areaclick
+pensionioggi.it##.article-banner-left
 germania.info##.article_buttons_end
 germania.info##.article_hotel_vicino
 ilcittadinomb.it##.artpub
