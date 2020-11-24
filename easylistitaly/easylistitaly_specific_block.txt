@@ -467,6 +467,8 @@
 ||filmsenzalimiti.love^*/b1.png
 ||filmsenzalimiti.love^*/b2.png
 ||filmstreaming.page/sc.png
+||finanzareport.it^*/box_unicredit.jpg
+||finanzareport.it^*/leaderboard.jpg
 ||finanziamenti.it^*/banner-
 ||finaria.it^*/842ITTRADEstocks300x250_
 ||finaria.it^*/banner-
