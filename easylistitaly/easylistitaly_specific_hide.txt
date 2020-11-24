@@ -684,6 +684,7 @@ winenews.it##.manchette_r
 orologipertutti.it##.masonry_grid_fullwidth
 irpinianews.it##.master-slider-parent
 ecoo.it##.masterhead-container-column
+eurochampions.it##.masthead
 medicalexcellencetv.it##.medic-widget
 melarossa.it##.melar-pos-in-article-multiplo
 sportivissimo.com##.menu4
@@ -1049,13 +1050,13 @@ politicanews.it##div[style="min-height: 250px;"]
 tuttosalernitana.com##div[style="min-height: 280px; max-height: 600px; overflow: hidden; width: 336px; margin: auto;"]
 amaranta.it,parmalive.com##div[style="min-height: 40px;"]
 voglioviverecosi.com##div[style="min-height: 90px; margin-top: 20px; margin-bottom: 20px"]
-fcinternews.it,genoanews1893.it,lalaziosiamonoi.it,pianetabasket.com,ternananews.it,tuttoascolicalcio.it,tuttoatalanta.com,tuttocalciopuglia.com,tuttohellasverona.it,tuttopotenza.com,tuttoveneziasport.it,tuttovicenza.it##div[style="overflow: hidden; height: 250px; width: 300px; margin: auto;"]
+eurochampions.it,fcinternews.it,genoanews1893.it,lalaziosiamonoi.it,pianetabasket.com,ternananews.it,tuttoascolicalcio.it,tuttoatalanta.com,tuttocalciopuglia.com,tuttohellasverona.it,tuttopotenza.com,tuttoveneziasport.it,tuttovicenza.it##div[style="overflow: hidden; height: 250px; width: 300px; margin: auto;"]
 fcinternews.it,genoanews1893.it,lalaziosiamonoi.it,pianetabasket.com,ternananews.it,tuttoascolicalcio.it,tuttoatalanta.com,tuttocalciopuglia.com,tuttohellasverona.it,tuttopotenza.com,tuttovicenza.it##div[style="overflow: hidden; height: 250px; width: 970px; margin: auto;"]
 interdipendenza.net,notiziariocalcio.com,tuttobenevento.it##div[style="overflow: hidden; height: 280px; width: 336px; margin: auto;"]
-fcinternews.it,genoanews1893.it,tuttoatalanta.com,tuttocalciopuglia.com,tuttohellasverona.it,tuttopotenza.com,tuttovicenza.it##div[style="overflow: hidden; height: 600px; width: 160px; margin: auto;"]
+eurochampions.it,fcinternews.it,genoanews1893.it,tuttoatalanta.com,tuttocalciopuglia.com,tuttohellasverona.it,tuttopotenza.com,tuttovicenza.it##div[style="overflow: hidden; height: 600px; width: 160px; margin: auto;"]
 pianetabasket.com##div[style="overflow: hidden; height: 600px; width: 300px; margin: auto;"]
 bolognanews.net,tuttoascolicalcio.it,tuttoatalanta.com,tuttosalernitana.com##div[style="overflow: hidden; height: 60px; width: 160px; margin: auto;"]
-amaranta.it,fcinternews.it,genoanews1893.it,interdipendenza.net,pianetabasket.com,tuttoatalanta.com,tuttocalciopuglia.com,tuttosalernitana.com,tuttoveneziasport.it##div[style="overflow: hidden; height: 60px; width: 468px; margin: auto;"]
+amaranta.it,eurochampions.it,fcinternews.it,genoanews1893.it,interdipendenza.net,pianetabasket.com,tuttoatalanta.com,tuttocalciopuglia.com,tuttosalernitana.com,tuttoveneziasport.it##div[style="overflow: hidden; height: 60px; width: 468px; margin: auto;"]
 fcinternews.it##div[style="overflow: hidden; height: 90px; width: 160px; margin: auto;"]
 tuttoatalanta.com##div[style="overflow: hidden; height: 90px; width: 728px; margin: auto;"]
 sampdorianews.net##div[style="padding: 0px 0px 3px 0px; min-height: 280px;"]
