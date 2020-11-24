@@ -966,6 +966,7 @@
 ||luxurypretaporter.it^*/banner-
 ||macitynet.it^*/macitybig
 ||macitynet.it^*/macitynettrendeviceborsa.jpg
+||magodelpronostico.com^*/banner-
 ||maidireborsa.it^*/image004-
 ||maidirelink.it^*/sconti-amazon.jpg
 ||mail.tiscali.it^*/advlib.js

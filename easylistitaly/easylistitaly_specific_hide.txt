@@ -535,6 +535,7 @@ lineapress.it##.cfxi-container
 cliccascienze.it##.clicc-prima-del-contenuto
 edilportale.com##.click-Skin
 puntocellulare.it##.clklnk
+magodelpronostico.com##.cntBonusHome
 pornototale.com##.co_sponsor
 pomiglianolive.it##.code-block-11
 pomiglianolive.it##.code-block-12
@@ -771,6 +772,7 @@ estrazionedellotto.it##.right
 lacnews24.it##.right-side
 ilroma.net##.rotating-banner
 ecodallecitta.it##.rotobanner
+magodelpronostico.com##.row-info-bonus
 wikihow.it##.rr_container
 cliccascienze.it##.rtecenter
 genova24.it,ivg.it,lacnews24.it##.sb-banner
