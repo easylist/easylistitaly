@@ -904,7 +904,7 @@ spettegolando.it##.wf-widget-container
 wired.it##.wia
 it.businessinsider.com##.widget-financialounge
 fashionandroid.com##.widget-header
-lastampa.it,repubblica.it##.widget-sponsor--container
+ilsecoloxix.it,lastampa.it,repubblica.it##.widget-sponsor--container
 londra.today##.widget_aawp_widget_bestseller
 newsly.it##.widget_aawp_widget_box
 dilei.it##.widget_promo_box_widget
