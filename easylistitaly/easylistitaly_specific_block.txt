@@ -1297,6 +1297,7 @@
 ||radiodigitalenergy.com/images/acweb.jpg
 ||radiodigitalenergy.com/images/canastri.jpg
 ||radiodigitalenergy.com/images/radio.net.jpg
+||radiodimensionemusica.it^*/Logo-Pigini.jpg
 ||radiofly.cloud^*/Estra_
 ||radiogold.it/images/banners/
 ||radiogold.it^*/Banner-
