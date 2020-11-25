@@ -853,6 +853,7 @@
 ||kisskiss.it/images/banners/
 ||kisskissitalia.it/images/banners/
 ||kisskissnapoli.it/images/banners/
+||kongnews.it^*/BANNER-
 ||kurdistanonline.net/img/scarica
 ||la-notizia.net^*/BBLegno.jpg
 ||la-notizia.net^*/Ottuccia.jpg
