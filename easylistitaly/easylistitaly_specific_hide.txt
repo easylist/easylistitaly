@@ -672,6 +672,7 @@ skillandbet.com##.list-unstyled
 diretta.it##.live-betting-strip
 sorrisi.com##.live-news-advbox
 bisceglielive.it,viviwebtv.it##.live-promo
+lattemiele.com##.lp-link
 omnifurgone.it##.m1-apb
 buttanissima.it##.machette
 gonews.it##.machette-over-logo

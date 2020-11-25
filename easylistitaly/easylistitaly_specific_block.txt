@@ -886,6 +886,7 @@
 ||latinaquotidiano.it^*/banner-
 ||latitudeslife.com/magazine/adv/
 ||latitudeslife.com^*/banners/
+||lattemiele.com/wp-content/plugins/fv-wordpress-flowplayer/flowplayer/fv-flowplayer.min.js
 ||lausc.it/images/banners/
 ||lavocedellevalli.it^*_Banner_
 ||lavocedellisola.it^*/Banco-Alimentare-Sicilia.jpg
