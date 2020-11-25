@@ -1524,6 +1524,8 @@
 ||sora24.it^*/amazon-prime-
 ||spoletonline.com/banner/
 ||sportando.basketball^*/espn-player.jpg
+||sportcasertano.it^*-768x322.
+||sportcasertano.it^*/Banner-
 ||sportchannel214.it^*/bannerfonia1.jpg
 ||sportchannel214.it^*/beatrice-sito.jpg
 ||sportchannel214.it^*/DACIERNO.jpg
