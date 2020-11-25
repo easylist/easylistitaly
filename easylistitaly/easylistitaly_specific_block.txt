@@ -1911,6 +1911,12 @@
 ||vivere.news/images/banners_
 ||vivereancona.it/images/banners_
 ||viverejesi.it/images/banners_
+||vivienna.it^*/3-Codi.jpg
+||vivienna.it^*/Barbagallo-
+||vivienna.it^*/dibella-
+||vivienna.it^*/sciabbe
+||vivienna.it^*/sicilia-outlet-village-
+||vivienna.it^*/trinacria-enna-
 ||vivitortona.it/image/megaplex.jpg
 ||vivitortona.it/image/oasi.jpg
 ||vocenuova.tv/assets/uploads/banners/
