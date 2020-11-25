@@ -1484,6 +1484,10 @@
 ||savonanews.it^*/box/
 ||scopateitaliane.com/nb/
 ||scopateitaliane.it/nb/
+||scrivolibero.it^*/banner_
+||scrivolibero.it^*/campagna-
+||scrivolibero.it^*/piccioaccura.jpg
+||scrivolibero.it^*_banner.
 ||scubaportal.it^*/skin-
 ||segretodonna.com^*/720x90-
 ||senigallianotizie.it/banner/
