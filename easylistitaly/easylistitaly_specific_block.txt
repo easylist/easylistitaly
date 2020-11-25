@@ -1226,6 +1226,7 @@
 ||piemonteoggi.it/banner/
 ||piemonteoggi.it^*/banner-
 ||piemonteoggi.it^*/banner/
+||pimpmytrip.it^*/ISTITUTO-CULTURALE-IRAN.jpg
 ||piratestreaming.eu/vip/img/tad
 ||pisa24.info^*/baffo-matto.jpg
 ||pisa24.info^*/emmepi-auto.jpg
