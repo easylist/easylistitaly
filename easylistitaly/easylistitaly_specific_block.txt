@@ -733,6 +733,11 @@
 ||ilmetapontino.it^*/banner-
 ||ilmioip.it/img/banner
 ||ilmioip.it/img/infermieri
+||ilmoderatore.it^*-banner.
+||ilmoderatore.it^*/banner-
+||ilmoderatore.it^*/blog-TV.jpg
+||ilmoderatore.it^*/tinnirello_
+||ilmoderatore.it^*/UIL-Trasporti-1280x502.jpeg
 ||ilmomento.org^*-300x250.
 ||ilmonito.it^*/allocca.jpg
 ||ilmonito.it^*/bloggif_5eea29db54ef8.gif
