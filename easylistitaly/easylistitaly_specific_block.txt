@@ -787,6 +787,9 @@
 ||industriaitaliana.it^*/300x250
 ||industriaitaliana.it^*/Rettangolo-
 ||industriaitaliana.it^*_Banners-
+||infoagrigento.it^*-Geoservice-Laboratori2.jpg
+||infoagrigento.it^*/aproform2020-
+||infoagrigento.it^*/viaggi-di-cicerone.jpg
 ||infonewsvietri.it/*/Zainetto-
 ||infonewsvietri.it^*/MAIORI2020.jpeg
 ||infoperte.it^*/franchising.jpg
