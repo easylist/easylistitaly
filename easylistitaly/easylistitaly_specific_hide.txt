@@ -258,6 +258,7 @@ giornalistitalia.it,ilgiornaledeiveronesi.it###text-38
 birramoriamoci.it,finaria.it,vigamusmagazine.com###text-4
 giornalistitalia.it###text-40
 giornalistitalia.it###text-41
+grossetosport.com###text-44
 giornalistitalia.it###text-46
 birramoriamoci.it,giornalesm.com###text-5
 incucinaconelena.it###text-7
@@ -543,8 +544,8 @@ magodelpronostico.com##.cntBonusHome
 pornototale.com##.co_sponsor
 pomiglianolive.it##.code-block-11
 pomiglianolive.it##.code-block-12
-informarea.it,pomiglianolive.it##.code-block-5
-pomiglianolive.it##.code-block-8
+grossetosport.com,informarea.it,pomiglianolive.it##.code-block-5
+grossetosport.com,pomiglianolive.it##.code-block-8
 pomiglianolive.it##.code-block-9
 ilcorrieredelgiorno.it##.col-banner
 lacrocequotidiano.it##.column-banner

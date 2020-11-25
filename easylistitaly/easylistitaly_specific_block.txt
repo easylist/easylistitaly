@@ -623,6 +623,14 @@
 ||greenretail.it^*/LAND-
 ||grossetonotizie.com^*/banner-
 ||grossetonotizie.com^*/logo-cpt.jpg
+||grossetosport.com^*/110288686_1861381787329582_1396595708202267172_n.jpg
+||grossetosport.com^*/300.png
+||grossetosport.com^*/Banner-
+||grossetosport.com^*/Schermata-2016-03-11-alle-22.16.34.png
+||grossetosport.com^*/Schermata-2018-03-01-alle-09.04.10.png
+||grossetosport.com^*/solcaffe-
+||grossetosport.com^*_300x300.
+||grossetosport.com^*_banner_
 ||gruppotv7.com/banner/
 ||gruppotv7.com/img/Banner
 ||gruppotv7.com/img/banner/
