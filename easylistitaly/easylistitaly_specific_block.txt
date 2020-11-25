@@ -913,6 +913,7 @@
 ||lavocedellevalli.it^*_Banner_
 ||lavocedellisola.it^*/Banco-Alimentare-Sicilia.jpg
 ||lavocedellisola.it^*/WhatsApp-Image-2020-07-16-at-11.35.13.jpeg
+||lavocedelquartiere.it^*/banner_
 ||lavocedeltrentino.it^*/banners/
 ||lavocedeltrentino.it^*/calzature-dro-
 ||lavocedeltrentino.it^*/NATAM-
