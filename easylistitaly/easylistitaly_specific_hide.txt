@@ -535,6 +535,7 @@ pensieriparole.it##.buyblock
 empolifc.com##.c-footer__sponsors-container
 meteo.tiscali.it##.c1c3
 catanzaro7.net##.catan-nellarticolo
+leggere-facile.it##.cb-large
 radioinblu.it,tv2000.it##.cei-skin-side
 lineapress.it##.cfxi-container
 cliccascienze.it##.clicc-prima-del-contenuto
