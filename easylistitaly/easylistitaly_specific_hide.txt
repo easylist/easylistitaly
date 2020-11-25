@@ -776,6 +776,7 @@ ecodallecitta.it##.rotobanner
 magodelpronostico.com##.row-info-bonus
 wikihow.it##.rr_container
 cliccascienze.it##.rtecenter
+ilsole24ore.com##.s24-abox
 genova24.it,ivg.it,lacnews24.it##.sb-banner
 flashgames.it##.scheda_ppc
 puntocellulare.it##.schlnk
