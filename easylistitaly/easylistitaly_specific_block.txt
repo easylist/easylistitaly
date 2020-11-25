@@ -324,6 +324,7 @@
 ||comolive.it^*-AVIS-logo-
 ||comprovendodischi.it/images/AMZ-
 ||comprovendolibri.it/sponsor/
+||computer-acquisti.com^*/carlenzoli-yuri.png
 ||concorsi-letterari.it^*/rose-stabilizzate-
 ||condominioitalia.biz^*/banner/
 ||condominioweb.com/bann/
