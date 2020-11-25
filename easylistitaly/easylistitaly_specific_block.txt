@@ -839,6 +839,9 @@
 ||la-notizia.net^*/Ristorante-Da-Fabrizio.jpg
 ||la-notizia.net^*/Ristorante-Papillon.jpg
 ||labtv.net^*/banner_
+||lacitta.eu/images/banners/
+||lacitta.eu/images/c4/18-3-assofrutti.jpg
+||lacitta.eu/images/salus-
 ||lacnews24.it/filemanager/skinz/
 ||ladigetto.it/files/banners/
 ||ladiscussione.com^*/Banner-
