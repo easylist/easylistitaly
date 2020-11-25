@@ -489,6 +489,7 @@ meteovalmorea.it##.bnr-row
 staffettaonline.com##.bnrZonaLati
 giornaledibarga.it##.bnside
 noitv.it##.bntop
+corriereirpinia.it##.body-link-padding
 cosafarei.it##.boo-link
 diritto.it##.book-container
 livescore.it##.bookmaker

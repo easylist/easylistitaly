@@ -346,6 +346,8 @@
 ||corrieredellacalabria.it^*/banner-
 ||corrieredellacalabria.it^*/banner_
 ||corrieredellacalabria.it^*/FinCalabra-20.
+||corriereirpinia.it^*/BANNER_
+||corriereirpinia.it^*/sole300.jpg
 ||corriereobjects.it^*/adv/
 ||corriereobjects.it^*/banner_dizionario_iphone.gif
 ||corriereobjects.it^*/sponsor/
