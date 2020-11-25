@@ -1766,6 +1766,10 @@
 ||turismoitalianews.it^*/banner/
 ||turismoitalianews.it^*/banners/
 ||turistadimestiere.com^*/banner-
+||tusciaup.com^*-160x90.
+||tusciaup.com^*-300x250.
+||tusciaup.com^*-730X90-
+||tusciaup.com^*-730x90.
 ||tusciaweb.eu^*/Camperteam-
 ||tusciaweb.eu^*/Carrozzeria-fiorillo-
 ||tusciaweb.eu^*/cassa-edile-progetto.gif
