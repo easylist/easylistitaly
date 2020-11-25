@@ -797,6 +797,7 @@ tiscali.it##.shp-prd-ed-day
 quotidianolacitta.it##.sidebar-banner
 sportytrader.it##.sidebar_grid
 cosedicasa.com##.sidespot-wrapper
+manfredonianews.it##.single-box
 andreagaleazzi.com,animeclick.it##.skin
 leccesette.it##.skin-desktop
 digitalic.it##.skin_a_dx

@@ -25,6 +25,7 @@
 ||banner-madai-com.s3.amazonaws.com^
 ||bazarcoupon.com/images/$third-party
 ||beruby.com/images/banner/
+||bit.ly^$domain=manfredonianews.it
 ||blogspot.com^$image,domain=blog.libero.it|newscronaca.myblog.it
 ||blogspot.com^*/banner_$domain=siciliaunonews.com
 ||blogspot.com^*/GM-COMPUTER-LOGO.gif$domain=siciliaunonews.com
