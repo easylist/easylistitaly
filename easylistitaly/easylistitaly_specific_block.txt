@@ -356,7 +356,10 @@
 ||corriereobjects.it^*/banner_dizionario_iphone.gif
 ||corriereobjects.it^*/sponsor/
 ||corrierepievese.it^*_275x115.
+||corriereromagna.it^*-300x600-
 ||corriereromagna.it^*/banner-
+||corriereromagna.it^*/noci300x250.jpg
+||corriereromagna.it^*/uniport.jpg
 ||corrieresalentino.it^*/banner_
 ||corrierinocampaniasport.it^*/banner_
 ||corrierinocampaniasport.it^*/menna.jpg
