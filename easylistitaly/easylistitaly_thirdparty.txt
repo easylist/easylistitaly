@@ -57,6 +57,7 @@
 ||djsoldi.com^$image,third-party
 ||djsuonerie.it/pic/$third-party
 ||dodiblog.it/banner_diretti/
+||dohop.com/widget/$third-party
 ||duke.it/images/banners/
 ||dynamic.rcefoto.com^domain=juzaphoto.com
 ||dzt1km7tv28ex.cloudfront.net^
