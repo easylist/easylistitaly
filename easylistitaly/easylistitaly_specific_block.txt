@@ -1763,6 +1763,7 @@
 ||toscanatv.it^*/BANNER-
 ||tp24.it/immagini_banner/
 ||tp24.it/library/_popup_banner.php
+||traderlink.it/dbar/banner_
 ||trainingpedia.it^*/banner-
 ||trainingpedia.it^*/corso-personal-trainer.jpg
 ||trapanicalcio.it^*/arena2.jpg
