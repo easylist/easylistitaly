@@ -1603,6 +1603,7 @@
 ||stamptoscana.it^*/diretta_penelope_
 ||stamptoscana.it^*/sponsor/
 ||stardust.it^*/banner/
+||stardust.it^*/masthead/
 ||startmag.it^*/banner_
 ||startmag.it^*_skin-
 ||startmag.it^*_Skin_

@@ -367,6 +367,7 @@ ansa.it##.ansacom-box
 oraridiapertura24.it##.anzeigenlabel
 insideevs.it,omnifurgone.it,omnimoto.it##.ap
 ridble.com##.api-box
+stardust.it##.app-masthead
 radiocuore.it##.areaclick
 pensionioggi.it##.article-banner-left
 germania.info##.article_buttons_end
