@@ -810,6 +810,7 @@
 ||infoperte.it^*/franchising.jpg
 ||informa-press.it^*/banner-
 ||informacalcio.it/banner/
+||informare.it/images/shipstore
 ||informazioneonline.it/wp-content/banners/
 ||ingleseprecoce.it^*-400x400.
 ||innovami.news^*/banner-
@@ -1533,6 +1534,8 @@
 ||ship2shore.it^*/strip/
 ||ship2shore.it^*/stripmobile/
 ||ship2shore.it^*_banner/
+||shipstore.it/images/vetrina
+||shipstore.it/unspsc/catalog/images/*-starservice80x80.gif
 ||shortpixel.ai^*-300x250.$domain=sarnonotizie.it
 ||shortpixel.ai^*/banner-$domain=rumors.it|sarnonotizie.it
 ||shortpixel.ai^*/conad-$domain=sarnonotizie.it
