@@ -18,6 +18,7 @@
 @@||centrosangiorgio.com^*_pubblicita.
 @@||centrosangiorgio.com^*_pubblicita/
 @@||cheapnet.it/adv/$~third-party
+@@||digitaleterrestrefacile.it/detroitchicago/dayton.js?
 @@||dincontri.com/ads/galleries/crops/$image,~third-party
 @@||dotandad.com/TiscaliAds.js$domain=ansa.it
 @@||foolbite.com/foolbite/*_pubblicita_$~third-party
