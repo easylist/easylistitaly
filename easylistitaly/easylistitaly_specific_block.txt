@@ -367,6 +367,7 @@
 ||corrieresalentino.it^*/banner_
 ||corrierinocampaniasport.it^*/banner_
 ||corrierinocampaniasport.it^*/menna.jpg
+||corrispondenzaromana.it^*-Banner-
 ||cosedicasa.com^*/sidespot/
 ||cralistruzione.it/images/banners/
 ||cremonaoggi.it^*/BANNERINO-
