@@ -398,6 +398,7 @@
 ||cuneocronaca.it/js/clickBanner.js
 ||cuneooggi.it^*/banner-
 ||cuneooggi.it^*/banner/
+||daninseries.it^*/clicca_qui.png
 ||dentrosalerno.it^*/banner/
 ||dentrosalerno.it^*/sidelmed.png
 ||dentrosalerno.it^*/Verrengia.png
