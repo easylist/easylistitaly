@@ -26,6 +26,7 @@ libero.it###b468x60bottoms
 bazar.it###background
 brindisisettenews.it###background_body
 beverfood.com###backy
+rimini.com###bann-top-dx
 daneel59.altervista.org,ilmioip.it,superwheels.net###banner
 bresciaoggi.it,ilgiornaledivicenza.it,larena.it###banner-autodoc
 veneziafc.it###banner-box-up
@@ -431,6 +432,8 @@ edilportale.com##.banner-velux
 milanofinanza.it##.banner-video
 telegranducato.it##.banner-wrap
 bluvolleyverona.it##.banner-wrapper
+rimini.com##.banner-zona1
+rimini.com##.banner-zona1dx
 virtusverona.it##.banner1
 ilturista.info##.banner2
 affaritaliani.it##.banner234Eni
@@ -795,6 +798,7 @@ estrazionedellotto.it##.right
 lacnews24.it##.right-side
 ilroma.net##.rotating-banner
 ecodallecitta.it##.rotobanner
+rimini.com##.row-bann-home-mobile
 magodelpronostico.com##.row-info-bonus
 wikihow.it##.rr_container
 cliccascienze.it##.rtecenter

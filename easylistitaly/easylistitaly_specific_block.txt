@@ -1463,6 +1463,7 @@
 ||retesei.com^*/formec.jpg
 ||retesei.com^*/ips.jpg
 ||retesei.com^*/pincios-
+||rimini.com^*_banner_
 ||rimininews24.it^*/la-pulce-logo.png
 ||risorsedidattiche.net/js/yb-risorsedidattichenet.js
 ||robadainformatici.it^*_banner_
