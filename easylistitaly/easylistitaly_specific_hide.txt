@@ -55,6 +55,7 @@ siracusanews.it###banners-top
 linguee.it###banners_right
 linguee.it###banners_top
 entella.it###barra_click_top
+forum.tomshw.it###belowfirstpost
 orizzontescuola.it###bglink
 bergamoesport.it###billboard
 augustanews.it,avolanews.it,catanianews.it,ibleinews.it,notonews.it,pachinonews.it,siracusanews.it###billboard1
@@ -160,6 +161,7 @@ pupia.tv###leader-left2
 espansionetv.it,torrechannel.it###leader-wrapper
 bisceglielive.it,cronachedibirra.it,dissacration.com,eurogamer.it,fiscaleweb.com,gingerandtomato.com,ilcinemaniaco.com,iochiamo.com,lussuosissimo.com,medicinalive.com,mondoreality.com,mrwebmaster.it,musickr.it,skiinfo.ch,skiinfo.it###leaderboard
 altreconomia.it###leaderboard-top
+forum.tomshw.it###leaderboard1
 saperesalute.it###leaderboardBox
 diritto.it###libpro
 business.it###logoYobee
@@ -173,7 +175,7 @@ qdpnews.it,viterbopost.it###manchette-dx
 qdpnews.it,viterbopost.it###manchette-sx
 stadionews.it###manchette_dx_container
 stadionews.it###manchette_sx_container
-dailybest.it,politicanews.it,ricettedalmondo.it###masthead
+dailybest.it,forum.tomshw.it,politicanews.it,ricettedalmondo.it###masthead
 matematicamente.it###masthead-desktop-wrapper
 ondarock.it###masthead_or
 chepreparo.it###media_image-2
@@ -188,6 +190,7 @@ mymovies.it###middle1_companion
 tusciaweb.eu###miesSPLASH
 eurogamer.it###mobile-leaderboard
 eurogamer.it###mobile-mpu
+forum.tomshw.it###mpudesk
 lavocedibolzano.it,sportmagazinetrentino.it###mvp-site-wall
 lavocedibolzano.it###mvp-wallpaper
 4actionsport.it###myads
