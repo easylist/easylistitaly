@@ -492,6 +492,7 @@ winenews.it##.blocco_banner_top
 zerounoweb.it##.blocco_primo_dfp
 ladige.it##.block--dfp
 california.it##.block-13
+lavitacattolica.it##.block-banners
 mediaworld.it##.block-mw-external-banner
 ilroma.net##.block-rotating-banner
 punto-informatico.it,telefonino.net##.blz-url

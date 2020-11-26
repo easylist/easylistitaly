@@ -925,6 +925,7 @@
 ||latitudeslife.com^*/banners/
 ||lattemiele.com/wp-content/plugins/fv-wordpress-flowplayer/flowplayer/fv-flowplayer.min.js
 ||lausc.it/images/banners/
+||lavitacattolica.it^*/banner/
 ||lavocedellevalli.it^*_Banner_
 ||lavocedellisola.it^*/Banco-Alimentare-Sicilia.jpg
 ||lavocedellisola.it^*/WhatsApp-Image-2020-07-16-at-11.35.13.jpeg
