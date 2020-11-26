@@ -2027,6 +2027,11 @@
 ||wp.com/secolo-trentino.com/*/Schermata-2019-01-20-alle-15.16.43.png
 ||wp.com/www.1web.tv/*/VISITA-IL-SITO-
 ||wp.com/www.87tv.it/*/87tv-uniimpresa.
+||wp.com/www.agropolinews.it/*/12597e17-489e-4e5f-aed5-57e4c9562708.jpg
+||wp.com/www.agropolinews.it/*/49452273_1934460676862805_3235297434129137664_n.png
+||wp.com/www.agropolinews.it/*/9c686a71-8bb0-423e-ab10-969e756e02bd.jpg
+||wp.com/www.agropolinews.it/*/noname_2.png
+||wp.com/www.agropolinews.it/*/wind_agropoli_store.jpg
 ||wp.com/www.ascolinews.it/*/ORO.gif
 ||wp.com/www.cataniaunafede.it/*/schillaci_bianco.jpg
 ||wp.com/www.gazzettadiavellino.it/*/MeravigliosaCampania-
@@ -2099,6 +2104,7 @@
 ||wp.com^*/675x238-$domain=tv9italia.it
 ||wp.com^*/banner-$domain=abruzzoweb.it|cinecorriere.it|giornaledicalabria.it|ilgiornaledeiveronesi.it|infocilento.it|nonsoloturisti.it|oggicronaca.it|temporeale.info|vesuvianonews.it
 ||wp.com^*/banner/$domain=cronacaflegrea.it
+||wp.com^*/banner_$domain=agropolinews.it
 ||wp.com^*/banners/$domain=proiezionidiborsa.it
 ||wp.com^*/BRIGNOLA20201.jpg$domain=infonewsvietri.it
 ||wp.com^*/mahindra.png$domain=catanista.eu
