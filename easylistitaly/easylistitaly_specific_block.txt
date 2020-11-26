@@ -1024,6 +1024,7 @@
 ||mantovasport24.it^*/BANNER-
 ||mantovauno.it^*/banner-
 ||maremmanews.it/images/banners/
+||maremmanews.it/images/euautopezzi_
 ||marigliano.net/upload/banner/
 ||marsicalive.it^*-480x400_
 ||marsicalive.it^*-banner.
