@@ -136,6 +136,8 @@
 ||autoseller.it/banner%5c
 ||autoseller.it/banner/
 ||avmagazine.it/js/common-tag.js
+||b-cdn.net^*/GetResponse-sidebar.jpg$domain=assistenzawponline.it
+||b-cdn.net^*/sg_69.jpg$domain=assistenzawponline.it
 ||badtaste.it/file/amazon/
 ||balarm.it/attachment-web/
 ||basilicatanotizie.net/images/banners/
