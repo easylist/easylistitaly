@@ -500,6 +500,7 @@
 ||fortuneita.com^*300x250
 ||fortuneita.com^*900x120
 ||fortuneita.com^*900x90
+||forum.clubalfa.it/images/banner/
 ||fotoenotizie.it^*/baleari.
 ||fotoenotizie.it^*/bannerAlto.
 ||frasicelebri.it^*/amazonbuy.
