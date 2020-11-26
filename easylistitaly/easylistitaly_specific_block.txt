@@ -329,6 +329,9 @@
 ||comprovendodischi.it/images/AMZ-
 ||comprovendolibri.it/sponsor/
 ||computer-acquisti.com^*/carlenzoli-yuri.png
+||comunicalo.it^*-banner.
+||comunicalo.it^*/acuoreaperto.gif
+||comunicalo.it^*/banner-
 ||concorsi-letterari.it^*/rose-stabilizzate-
 ||condominioitalia.biz^*/banner/
 ||condominioweb.com/bann/
