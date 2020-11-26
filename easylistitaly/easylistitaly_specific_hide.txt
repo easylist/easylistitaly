@@ -443,6 +443,7 @@ doctor33.it##.bannerBot
 torinofc.it##.bannerColDxStd
 djmagitalia.com##.bannerExtra
 puntosicuro.it##.bannerLeader
+cattolica.info##.bannerRandomSingolo
 filmtv.it##.bannerRight
 edilportale.com,ilmessaggero.it##.bannerTop
 teleponte.it##.banner_6
@@ -880,6 +881,7 @@ bottadiculo.it##.table3bonus
 bottadiculo.it##.table3bonus-side
 ilpost.it##.tag-sponsored
 videosesso.com##.tagsection
+cattolica.info##.tc_adm
 gioconews.it##.tcvn-banner-item
 2anews.it##.td-a-rec-id-custom-spot
 ilprimatonazionale.it##.td-banner-bg
