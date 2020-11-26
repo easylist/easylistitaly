@@ -1055,6 +1055,7 @@
 ||meglioviaggiare.it^*/banner
 ||meglioviaggiare.it^*/logo-standard-reporter-
 ||melarossa.it^*/350x250-
+||melarumors.com^*/banner-
 ||mensenjoy.com^*/720x90-
 ||mentelocale.com/devmktg/
 ||mentelocale.it/devmktg/
