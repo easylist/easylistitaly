@@ -34,6 +34,8 @@
 ###adv-masthead-0
 ###adv-skin-colonnadx
 ###adv-skin-colonnasx
+###adv00
+###adv02
 ###advAutopromo1
 ###advAutopromo2
 ###advSwiper_article
