@@ -207,6 +207,7 @@ eurogamer.it###prod-buy
 estrazionedellotto.it###promobanner
 flashgames.it###pub_sotto
 odontoiatria33.it###rowHeader
+it.notizie.yahoo.com###sda-MAST
 nuovosud.it###sfondo
 eurogamer.it###sidebar_amazon
 epolisbari.com,marigliano.net###skin
