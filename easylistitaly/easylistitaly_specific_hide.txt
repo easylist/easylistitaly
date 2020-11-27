@@ -314,7 +314,7 @@ rietinvetrina.it,ultimenotizieflash.com##.a-single
 badcomics.it,badgames.it,badtaste.it,badtv.it##.aalb-880-product-carousel-unit
 gnius.it##.aalb-product-carousel-unit
 repubblica.it##.aas_whole_wrapper
-cityrumors.it,londranews.com,menteinformatica.it,migliorigiochi.eu,outofbit.it,techprincess.it##.aawp
+cityrumors.it,londranews.com,menteinformatica.it,migliorigiochi.eu,outofbit.it,techprincess.it,wordsmart.it##.aawp
 topdigamma.it,tuttotek.it##.aawp-product
 tag24.it##.above-footer
 ilsole24ore.com##.abox
