@@ -891,7 +891,7 @@ gioconews.it##.tcvn-banner-item
 2anews.it##.td-a-rec-id-custom-spot
 ilprimatonazionale.it##.td-banner-bg
 edagricole.it##.td-banner-footer
-edagricole.it##.td-banner-wrap-full
+01net.it,edagricole.it##.td-banner-wrap-full
 romagiallorossa.it##.td-container-header
 radioradio.it##.td-fix-index
 amoreaquattrozampe.it##.td-footer-container
