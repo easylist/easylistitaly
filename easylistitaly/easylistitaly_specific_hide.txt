@@ -902,6 +902,7 @@ ilgiornaledeltermoidraulico.it,pescaracalcio.com,tennispavese.it,ternanacalcio.c
 laspia.it,ragusah24.it,romanews.eu##.td-header-sp-recs
 gdoweek.it##.td-leaderboard-wrap-full
 telesudweb.it##.td_single_image_bg
+romanews.eu##.td_uid_7_5fc0c934d6e11_rand
 tomshw.it##.teetee-embed
 telesud.it##.teles-header-banner
 positanonews.it##.testata
