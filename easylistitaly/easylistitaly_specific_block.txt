@@ -556,6 +556,7 @@
 ||gazzettalucchese.it^*/inserzioni/
 ||gazzettalucchese.it^*/supporters/
 ||gazzettaregionale.it/assets/Auto-doc.
+||gazzettarossonera.it^*/eadv.html
 ||gazzettinodelchianti.it^*/banner-
 ||gazzettinodelchianti.it^*/sfondo-
 ||gazzettinodelgolfo.it/sponsor/
