@@ -39,6 +39,7 @@ cataniapubblica.tv###banner2
 hdblog.it,hdmotori.it###banner3_300600
 ilmeteo.it###banner728x90bottom
 tusciaweb.eu###bannerFondo
+ondarock.it###banner_300x250
 ondarock.it###banner_300x250_slot3
 ondarock.it###banner_300x250_slot4
 contosulconto.it###banner_content
@@ -50,6 +51,8 @@ subito.it###banner_leaderboard
 notiziediprato.it###banner_strip
 gruppovideomedia.it,radiovalbelluna.it###banner_top
 fiorentinanews.com###banneralto
+ondarock.it###bannerhomebottom
+ondarock.it###bannerhometop
 frasimania.it###bannerpop
 saperesalute.it###banners
 siracusanews.it###banners-top
