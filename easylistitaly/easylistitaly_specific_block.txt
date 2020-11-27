@@ -1908,6 +1908,7 @@
 ||unicasport.it^*-Banner-
 ||unicoebello.it^*-380x380
 ||unimondo.org^*/banner/
+||universoinformatico24.it^*/banner-
 ||unonotizie.it/immagini/banner/
 ||uominietrasporti.it^*/Auto-doc.
 ||usavellino1912.com^*/cosmopol-
