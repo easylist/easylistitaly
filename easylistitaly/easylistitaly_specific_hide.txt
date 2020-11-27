@@ -819,6 +819,7 @@ bloopers.it##.shop
 ilgeniodellostreaming.tel##.show-download
 tiscali.it##.shp-prd-ed-day
 quotidianolacitta.it##.sidebar-banner
+mitindo.it##.sidebar-right-bottomleft
 sportytrader.it##.sidebar_grid
 cosedicasa.com##.sidespot-wrapper
 manfredonianews.it##.single-box
