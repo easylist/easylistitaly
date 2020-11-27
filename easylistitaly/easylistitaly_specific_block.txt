@@ -1540,6 +1540,8 @@
 ||secolo-trentino.com^*/hormann-runner.jpg
 ||segretodonna.com^*/720x90-
 ||senigallianotizie.it/banner/
+||sentireascoltare.com^*/auto-doc.it-
+||sentireascoltare.com^*/motordoctor.gif
 ||settecalcio.it^*/File_banner/
 ||sevendaysweb.com^*-banner-$domain=dirigentindustria.it
 ||sevendaysweb.com^*-mediabanner.$domain=dirigentindustria.it
