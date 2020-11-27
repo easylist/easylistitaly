@@ -158,8 +158,10 @@
 ||berlinomagazine.com^*/schule-banner.jpg
 ||berlinomagazine.com^*/world_pasta.jpg
 ||biancavillaoggi.it^*/tutto-per-edilizia-
+||biellaoggi.it/immagini/valenzano.gif
 ||biellaoggi.it^*/banner-
 ||biellaoggi.it^*/banner/
+||biellaoggi.it^*_banner_
 ||bikeracing.it/bannersbk.jpg
 ||bloopers.it/images/sponsor/
 ||bluvolleyverona.it/img/sponsor-
