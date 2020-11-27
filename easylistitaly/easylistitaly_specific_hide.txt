@@ -690,6 +690,7 @@ erbanotizie.com##.leaderboard-bottom
 simonandthestars.it##.leaderboard-container
 lacnews24.it##.left-side
 laleggepertutti.it##.lexdo-banner
+laleggepertutti.it##.lexdo-llpt
 business24tv.it##.link-at-body
 winenews.it##.link_skin
 skillandbet.com##.list-unstyled
