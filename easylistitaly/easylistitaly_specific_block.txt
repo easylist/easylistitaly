@@ -234,6 +234,7 @@
 ||casaeclima.com^*/skins/
 ||casaleoggi.it^*/banner-
 ||casaleoggi.it^*/banner/
+||casaleoggi.it^*_banner_
 ||casateonline.it/public/banner/
 ||casertaweb.com^*/sfondo-
 ||cataniavip.it^*-500x90-
