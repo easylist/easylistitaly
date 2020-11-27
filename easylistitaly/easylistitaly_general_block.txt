@@ -57,6 +57,7 @@
 /repubblicaad.
 /separatore-pub.
 /Sfondopubbli_
+/sponsor/banner_
 /sponsorizzate.
 /tiscali_ads.
 /tiscaliAds/*

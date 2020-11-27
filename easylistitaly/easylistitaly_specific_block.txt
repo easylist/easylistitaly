@@ -221,6 +221,7 @@
 ||canale85.it^*/d-pay.jpg
 ||canale85.it^*/logofadi.jpg
 ||canale85.it^*/nuovarredo.jpg
+||canalecinquetv.it^*/sponsor/
 ||caneogolf.it/img/banner/
 ||canicattiweb.com/bgeni.jpg
 ||caprievent.it^*/gillini.jpg
