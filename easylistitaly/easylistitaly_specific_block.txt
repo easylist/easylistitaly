@@ -406,6 +406,8 @@
 ||crotone24news.it/images/banners/
 ||cuneocronaca.it/img/banner/
 ||cuneocronaca.it/js/clickBanner.js
+||cuneooggi.it^*-300x320_
+||cuneooggi.it^*-300x470_
 ||cuneooggi.it^*/banner-
 ||cuneooggi.it^*/banner/
 ||daninseries.it^*/clicca_qui.png
