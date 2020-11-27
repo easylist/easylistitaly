@@ -164,6 +164,7 @@ bisceglielive.it,cronachedibirra.it,dissacration.com,eurogamer.it,fiscaleweb.com
 altreconomia.it###leaderboard-top
 forum.tomshw.it###leaderboard1
 saperesalute.it###leaderboardBox
+casa.it###leaderboard_footer
 diritto.it###libpro
 business.it###logoYobee
 eurogamer.it###low-leaderboard
