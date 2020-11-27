@@ -1761,6 +1761,7 @@
 ||tiburno.tv^*/Olivieri-2.gif
 ||tiburno.tv^*/Studio-diagnostico-Tiberino.gif
 ||ticinofinanza.ch/banner/
+||timgate.it^*/masthead_
 ||tiscali.it/amazon/
 ||tiscali.it/planner/
 ||tiscali.it^*/comparasemplice.

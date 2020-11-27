@@ -9,7 +9,7 @@ chimerarevo.com###TopWidgetArea
 digital-forum.it,ebaygeneration.com,elaborare.com,esigarettaforum.com,thegamesmachine.it###ad_global_below_navbar
 bordighera.net,corriere.it###ads
 piceno24.it,picenooggi.it,rivieraoggi.it,virgilio.it###adv
-agarymathematics.net###adv1
+agarymathematics.net,timgate.it###adv1
 libero.it###adv_topper
 catt.ch###advertising
 amazon.it###ape_detail_btf_detail-mWeb_wrapper
