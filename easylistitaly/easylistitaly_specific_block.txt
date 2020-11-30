@@ -128,6 +128,7 @@
 ||askanews.it/img_diverse/300x100_
 ||atalanta.it^*/Banner-
 ||atalanta.it^*_banner_
+||atleticamentefoto.it/images/banners/
 ||audirsclub.it/images/misc/Faratech
 ||audisportclub.com/banner/
 ||autobusweb.com^*-Banner-
