@@ -1427,9 +1427,13 @@
 ||radiorobinson.it^*/Magazzini-Mangini.
 ||radiosieve.it^*/bannerbcc.png
 ||radiosonica.it^*/banner_
+||radiosportiva.com/foto/grandi/20-1-1-1.jpg
 ||radiosportiva.com/foto/grandi/20-1.jpg
+||radiosportiva.com/foto/grandi/banner-
 ||radiosportiva.com/foto/grandi/banner_
+||radiosportiva.com/foto/grandi/deliburger.jpg
 ||radiosportiva.com/foto/grandi/Elsynet-
+||radiosportiva.com/foto/grandi/Elsynet.gif
 ||radiostudio2000.it^*/banner-
 ||radiostudio2000.it^*/computer-planet-
 ||radiostudio2000.it^*/cooperativa-produttori.png
