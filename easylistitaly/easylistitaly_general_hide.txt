@@ -238,6 +238,7 @@
 ##.widget_n1ad
 ##.wl_WidgetRel_Sponsor
 ##.wl_WidgetRel_Sponsor1
+##a[href*=".offerteonline2017.com/"]
 ##a[href^="//edintorni.net/related/service/sponsor/redirect/?"]
 ##a[href^="//native.booster3d.com/related/service/sponsor/redirect/?"]
 ##a[href^="//native.publy.com/related/service/sponsor/redirect/?"]
