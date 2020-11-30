@@ -215,6 +215,7 @@ eurogamer.it###prod-buy
 estrazionedellotto.it###promobanner
 flashgames.it###pub_sotto
 odontoiatria33.it###rowHeader
+alwaysonboard.it###sab_content
 it.notizie.yahoo.com###sda-MAST
 nuovosud.it###sfondo
 eurogamer.it###sidebar_amazon
@@ -256,6 +257,7 @@ finaria.it###text-14
 finaria.it###text-15
 finaria.it###text-16
 giornalistitalia.it,noinotizie.it###text-19
+alwaysonboard.it###text-2
 noinotizie.it###text-20
 nerdplanet.it###text-24
 giornalistitalia.it###text-28
@@ -1036,7 +1038,7 @@ leggenditaloi.com##a[href^="http://www.easybytez.com/free"]
 corrierenazionale.it##a[href^="http://www.herobet.it/"]
 rietilife.com##a[href^="http://www.rietilife.com?pasID="]
 outcast.it##a[href^="http://www.tostadora.it/t-shirt-nerd.php?"]
-birramoriamoci.it,circusf1.com,fattoincasadabenedetta.it,guerrestellari.net,hellogreen.it,hovogliadidolce.it,hwupgrade.it,hynerd.it,ilsoftware.it,infotelematico.com,juzaphoto.com,macitynet.it,maidirelink.it,mio-ip.eu,mr-loto.it,murkymask.com,nokioteca.net,tivusat.tv,trattamentinaturalibio.it,uberti.eu,ubud.it,videogiocare.it,windowsblogitalia.com##a[href^="https://amzn.to/"]
+alwaysonboard.it,birramoriamoci.it,circusf1.com,fattoincasadabenedetta.it,guerrestellari.net,hellogreen.it,hovogliadidolce.it,hwupgrade.it,hynerd.it,ilsoftware.it,infotelematico.com,juzaphoto.com,macitynet.it,maidirelink.it,mio-ip.eu,mr-loto.it,murkymask.com,nokioteca.net,tivusat.tv,trattamentinaturalibio.it,uberti.eu,ubud.it,videogiocare.it,windowsblogitalia.com##a[href^="https://amzn.to/"]
 trattamentinaturalibio.it##a[href^="https://c.mtpc.se/"]
 albengacorsara.it,campaniameteo.it,germania.info##a[href^="https://clk.tradedoubler.com/"]
 mymovies.it,teamworld.it##a[href^="https://disneyplus.bn5x.net/"]
