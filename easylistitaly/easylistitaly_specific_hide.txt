@@ -380,8 +380,9 @@ ridble.com##.api-box
 stardust.it##.app-masthead
 radiocuore.it##.areaclick
 pensionioggi.it##.article-banner-left
+scozia.net##.article_amazon_end
 germania.info##.article_buttons_end
-germania.info##.article_hotel_vicino
+germania.info,scozia.net##.article_hotel_vicino
 ilcittadinomb.it##.artpub
 giardiniblog.it##.asa2_fbh
 supercoin.it##.atla-card-link
@@ -473,6 +474,7 @@ italpress.com##.banner_img_widget
 villaggiomusicale.com##.banner_leaderboard
 startupitalia.eu##.banner_slick
 startupitalia.eu##.banner_slick_2
+scozia.net##.banner_sponsor
 ragusanews.com##.banner_top
 mercuriomagazine.com##.banner_top_left
 mercuriomagazine.com##.banner_top_right
