@@ -676,10 +676,12 @@ ilturista.info##.hotel-form
 libero.it##.hp_300x1
 libero.it##.hp_970x90
 iodonna.it##.id-vda-article
+milanofinanza.it##.igturboboxnews
 sportytrader.it##.ilo
 oroscopi.info##.img_oroscopo_personalizzato
 mrw.it##.inadv
 mrw.it##.inadv-label
+milanofinanza.it##.intesahead
 dailybest.it##.intextbanner
 repubblica.it##.is-marketing
 ispazio.net##.ispaz-adlabel
@@ -788,6 +790,7 @@ assopoker.com##.prbox-table-container
 eurogamer.it##.pre-article
 pisachannel.tv##.pre_footer
 comingsoon.it##.primeTrack
+milanofinanza.it##.primo-piano
 orologi-subacquei.it##.product-listing
 webnews.it##.product__info
 comingsoon.it,pneusnews.it##.promo

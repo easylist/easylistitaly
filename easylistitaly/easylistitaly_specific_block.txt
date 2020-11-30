@@ -1109,6 +1109,8 @@
 ||meteovalmorea.it^*/banners/
 ||milanodabere.it/images/archivio/2000x1000/
 ||milanofinanza.it^*/activtrades.gif
+||milanofinanza.it^*/sponsor2.png
+||milanofinanza.it^*/turbo24-head-new.jpg
 ||milanosud.it^*-banner.
 ||milanosud.it^*/banner-
 ||milanosud.it^*/BANNER_
