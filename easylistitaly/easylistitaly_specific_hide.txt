@@ -831,7 +831,7 @@ quotidianolacitta.it##.sidebar-banner
 mitindo.it##.sidebar-right-bottomleft
 sportytrader.it##.sidebar_grid
 cosedicasa.com##.sidespot-wrapper
-calcioatalanta.it,calciocremonese.it,forzamonza.it##.sihappy
+calcioatalanta.it,calciocremonese.it,calciospezia.it,forzamonza.it##.sihappy
 manfredonianews.it##.single-box
 andreagaleazzi.com,animeclick.it##.skin
 leccesette.it##.skin-desktop
