@@ -1229,6 +1229,8 @@
 ||ondarock.it/banners/
 ||ondarock.it/skin/
 ||ondatv.tv^*/banner-
+||onedance.fm^*/430-x-350-
+||onedance.fm^*/728-x-90-
 ||optimalb.de^*/rechte-seite-$domain=deutscheskonto.org
 ||oracolidivini.it/mondocartomante.jpg
 ||oroscopogiorno.it/mondo300.jpg
