@@ -377,6 +377,9 @@
 ||corrierinocampaniasport.it^*/menna.jpg
 ||corrispondenzaromana.it^*-Banner-
 ||cosedicasa.com^*/sidespot/
+||cosenzachannel.it^*/banner_
+||cosenzachannel.it^*/bcc.jpg
+||cosenzachannel.it^*/Masthead-
 ||cralistruzione.it/images/banners/
 ||cremonaoggi.it^*/BANNERINO-
 ||cronacaqui.it^*/banner-
