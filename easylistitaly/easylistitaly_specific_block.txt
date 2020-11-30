@@ -535,6 +535,7 @@
 ||game-experience.it^*/BANNER-
 ||gamesoul.it^*/skin-
 ||gamesvillage.it/ajax.php?do=gv_amazon_page&
+||gammaradio.it/iwm.gif
 ||garedepoca.com/grafica/banner_
 ||gay.it/js/brightcove/adonly.js
 ||gazzettabenevento.it/Sito2009/image/banner/
