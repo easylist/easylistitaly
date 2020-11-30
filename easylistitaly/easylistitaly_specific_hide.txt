@@ -727,6 +727,7 @@ medicalexcellencetv.it##.medic-widget
 melarossa.it##.melar-pos-in-article-multiplo
 sportivissimo.com##.menu4
 altraeta.it,ecoaltomolise.net,lostrillonenews.it,newslinet.com,radiodeltainternational.it,tvcity.it,vulturenews.net##.metaslider
+orologi.forumfree.it##.mgbox
 catanzaro7.net##.mh-header-widget-2
 automoto.it,moto.it##.mit-skin-spacer
 acquavivalive.it,altamuralive.it,andrialive.it,barilive.it,barlettalive.it,bisceglielive.it,bitontolive.it,canosalive.com,cassanolive.it,coratolive.it,fasanolive.com,gioialive.it,giovinazzolive.it,gravinalive.it,lavocedimanduria.it,margheritalive.it,minervinolive.it,molfettalive.it,okfirenze.com,okmugello.it,okvaldisieve.it,ruvolive.it,santeramolive.it,terlizzilive.it,termolionline.it,tranilive.it,unicosettimanale.it,viviwebtv.it##.mkt-300x250
@@ -992,6 +993,7 @@ cb01.dev,cineblog01.love##a[href*="/FULLHD/"]
 piratestreaming.movie##a[href*="/Guarda4K/"]
 altadefinizione01.green,altadefinizione01.store,cineblog01.love,guardaserie.cam##a[href*="/UHD/"]
 ilquotidianodellazio.it,romait.it##a[href*="/ad/click/"]
+orologi.forumfree.it##a[href*="/ad_click.php?"]
 telecitynews24.it##a[href*="/ads/"]
 diventaretrader.com##a[href*="/banner/redirect/"]
 everyeye.it##a[href*="/click.asp?"]
