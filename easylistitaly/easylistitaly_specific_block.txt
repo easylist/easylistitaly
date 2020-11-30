@@ -2056,6 +2056,8 @@
 ||wp.com/www.agropolinews.it/*/noname_2.png
 ||wp.com/www.agropolinews.it/*/wind_agropoli_store.jpg
 ||wp.com/www.ascolinews.it/*/ORO.gif
+||wp.com/www.calciogoal.it/*/119054606_350406236368302_7591478443508881500_n.png
+||wp.com/www.calciogoal.it/*/12597e17-489e-4e5f-aed5-57e4c9562708.jpg
 ||wp.com/www.cataniaunafede.it/*/schillaci_bianco.jpg
 ||wp.com/www.gazzettadiavellino.it/*/MeravigliosaCampania-
 ||wp.com/www.gazzettadiavellino.it/*/nuova-elite-
