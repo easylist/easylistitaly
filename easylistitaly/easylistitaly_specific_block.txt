@@ -165,6 +165,9 @@
 ||biellaoggi.it^*/banner-
 ||biellaoggi.it^*/banner/
 ||biellaoggi.it^*_banner_
+||bierredue.it/banner.gif
+||bierredue.it/estensione.gif
+||bierredue.it/images/450x75.jpg
 ||bikeracing.it/bannersbk.jpg
 ||bloopers.it/images/sponsor/
 ||bluvolleyverona.it/img/sponsor-
