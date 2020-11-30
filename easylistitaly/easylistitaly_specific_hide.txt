@@ -408,7 +408,7 @@ notetralerighe.it##.banner-amazon-music
 parmareport.it##.banner-big
 universodelgioco.it##.banner-btf-side-rectangle
 mrw.it##.banner-center
-cuneocronaca.it,divinafm.it,giochixl.it,lacrocequotidiano.it,mtv.it##.banner-container
+1001giochi.it,cuneocronaca.it,divinafm.it,giochixl.it,lacrocequotidiano.it,mtv.it##.banner-container
 genova24.it##.banner-elezioni
 italiani.it##.banner-empty-italiani
 bluvolleyverona.it##.banner-fading
@@ -639,7 +639,9 @@ anteprima24.it,bolognaindiretta.it,buttanissima.it,centropagina.it,corrieresalen
 agendadigitale.eu##.gallery-container-home
 virtusfrancavilla.it##.gallery-icon
 giornalerossoblu.it,telepegaso.it##.gallery-item
+1001giochi.it##.game-leaderboard
 zerocinquantuno.it##.gdlr-logo
+1001giochi.it##.general-leaderboard
 nextpit.it##.gptSlot
 3bmeteo.com##.gpt_top
 sorrisi.com##.gtv-trigger-elevator

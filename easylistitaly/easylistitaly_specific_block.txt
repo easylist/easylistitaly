@@ -1,4 +1,5 @@
 ||0-100.it^*/banner-
+||1001giochi.it/bfb/
 ||100x100napoli.it^*/gs.png
 ||105tv.it^*/banners/
 ||24emilia.com^*banner
