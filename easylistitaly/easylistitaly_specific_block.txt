@@ -480,6 +480,7 @@
 ||eurostreaming.movie^*/hostfullhd.png
 ||eurostreaming.vision^*/hostfullhd.png
 ||exibart.com/partner/
+||extra.treddi.com^
 ||fantascientificast.com/partner/
 ||fantastica.it/iwm.gif
 ||farevela.net^*/Banner_
