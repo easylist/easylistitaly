@@ -596,6 +596,7 @@ automoto.it,moto.it##.crm-unit-bx3
 automoto.it,moto.it##.crm-unit-bx4
 automoto.it,moto.it##.crm-unit-mh
 affaritaliani.it##.csslider1
+orologi-subacquei.it##.cta-button
 mogliinmostra.it,tse-tse.it##.ctaiscriviti
 giornaleadige.it,piacenza24.eu,radionorba.it,radioyacht.com##.custom_banners_big_link
 fiorentinanews.com##.destra_banner
@@ -714,6 +715,7 @@ lattemiele.com##.lp-link
 omnifurgone.it##.m1-apb
 buttanissima.it##.machette
 gonews.it##.machette-over-logo
+orologi-subacquei.it##.main-cta-banner
 inter.it##.main-footer-sponsor
 opinione.it,ship2shore.it##.manchette
 erbanotizie.com,noinotizie.it##.manchette-dx
@@ -785,6 +787,7 @@ assopoker.com##.prbox-table-container
 eurogamer.it##.pre-article
 pisachannel.tv##.pre_footer
 comingsoon.it##.primeTrack
+orologi-subacquei.it##.product-listing
 webnews.it##.product__info
 comingsoon.it,pneusnews.it##.promo
 voglioporno.com##.promo-462x66
