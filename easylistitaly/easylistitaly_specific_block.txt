@@ -873,6 +873,8 @@
 ||iwp.com/abruzzoweb.it/*-400X200.
 ||jamma.tv^*/sanremo
 ||jamma.tv^*/skin
+||justfashionmagazine.com^*-300x300.
+||justfashionmagazine.com^*/amaz-
 ||juventus.com^*/sponsors/
 ||juzaphoto.com^*/banner_
 ||juzaphoto.com^*/imgj_1603286335.jpg
