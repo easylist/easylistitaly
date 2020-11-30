@@ -228,6 +228,7 @@ buongiornoalghero.it,freeonline.org,itvonline.news,lospiffero.com,planetmountain
 bisceglielive.it,eurogamer.it,gommadiretto.it###skyscraper
 mail1.libero.it###slink-dx
 mail1.libero.it###slink-sx
+meteofinanza.com###snp-pop-20588-overlay
 3bmeteo.com###sole24_banner
 casateonline.it,merateonline.it###sottotestata
 agendapolitica.it###sow-editor-3
@@ -766,6 +767,8 @@ tuttotrasporti.it##.notizieSponsorizzate
 empolifc.com##.o-section--promo
 techzilla.it##.offerta-img-box
 lamilano.it##.olvu
+meteofinanza.com##.overlay-buttons
+meteofinanza.com##.overlay-text
 altadefinizione.coach##.overplayer
 chepreparo.it##.page-intro-description
 casaeclima.com##.page-wrapper
@@ -813,6 +816,7 @@ italiana.fm,radiobussola.it##.qt-sponsors
 vivafm.it##.qt-widget-sponsor
 quizammissione.it##.quiza-prima
 html.it##.rail-800
+meteofinanza.com##.reading-box
 giardinaggio.it##.reattiva_x_90
 ispazio.net##.reclame
 live-sport-tv.it##.rectangles
@@ -867,6 +871,7 @@ agrifoodtoday.it,agrigentonotizie.it,anconatoday.it,avellinotoday.it,baritoday.i
 agrifoodtoday.it,agrigentonotizie.it,anconatoday.it,avellinotoday.it,baritoday.it,bolognatoday.it,bresciatoday.it,brindisireport.it,casertanews.it,cataniatoday.it,cesenatoday.it,chietitoday.it,firenzetoday.it,foggiatoday.it,forlitoday.it,genovatoday.it,ilpescara.it,ilpiacenza.it,latinatoday.it,lecceprima.it,leccotoday.it,milanotoday.it,modenatoday.it,monzatoday.it,napolitoday.it,novaratoday.it,padovaoggi.it,palermotoday.it,parmatoday.it,perugiatoday.it,pisatoday.it,quicomo.it,ravennatoday.it,riminitoday.it,romagnaoggi.it,romatoday.it,salernotoday.it,sondriotoday.it,sportpiacenza.it,today.it,torinotoday.it,trentotoday.it,trevisotoday.it,triesteprima.it,udinetoday.it,veneziatoday.it,veronasera.it,vicenzatoday.it##.slots
 ilgallo.it##.small-banner-1
 corriere.ca##.small_banner
+meteofinanza.com##.snp-overlay
 siciliaoggi.com##.sow-image-container
 tvoggisalerno.it##.sow-slider-image-container
 calciocasteddu.it,calciohellas.it,forzamonza.it,usavellino1912.com,virtus.it##.sp-sponsors
