@@ -362,6 +362,7 @@ agi.it##.agi-ad-wrap
 cityrumors.it,tantasalute.it##.ai-viewport-1
 noisiamofuturo.it##.allinone_bannerRotator
 prezzisalute.com##.amaz
+cronotop.it##.amaz-product
 gamemag.it,lavorincasa.it,nientepopcorn.it,videogame.it##.amazon
 icrewplay.com##.amazon-auto-links
 screenweek.it##.amazon-btn
