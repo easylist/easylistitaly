@@ -477,6 +477,7 @@
 ||eurostreaming.vision^*/hostfullhd.png
 ||exibart.com/partner/
 ||fantascientificast.com/partner/
+||fantastica.it/iwm.gif
 ||farevela.net^*/Banner_
 ||farevela.net^*/QIcompositesFV.jpg
 ||farevela.net^*/unnamed-1.gif
