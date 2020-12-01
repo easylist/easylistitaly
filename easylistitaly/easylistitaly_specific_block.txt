@@ -1427,10 +1427,17 @@
 ||radiomarte.it^*/autoscala_
 ||radiomarte.it^*/Ln_Rm.
 ||radiomarte.it^*_Banner_
+||radiomillennium.it/images/animal-food.png
+||radiomillennium.it/images/BMC.png
 ||radiomillennium.it/images/divanova-
+||radiomillennium.it/images/mandelli.png
 ||radiomillennium.it/images/miauto.
 ||radiomillennium.it/images/multisala-
+||radiomillennium.it/images/Pompeii.jpg
+||radiomillennium.it/images/rexbo.it-
 ||radiomillennium.it/images/rexboit
+||radiomillennium.it/images/Risorsa-1.png
+||radiomillennium.it/images/soulpack.png
 ||radiomillennium.it/images/tirloni-
 ||radiomillennium.it^*-banner-
 ||radiomillennium.it^*/banner

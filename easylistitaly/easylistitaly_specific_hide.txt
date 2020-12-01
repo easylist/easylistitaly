@@ -837,6 +837,7 @@ genova24.it,ivg.it,lacnews24.it##.sb-banner
 flashgames.it##.scheda_ppc
 puntocellulare.it##.schlnk
 rovigooggi.it##.sect-list-space
+radiomillennium.it##.section-26
 atalanta.it##.section_sponsor
 ad-italia.it##.sectionbox
 excite.it##.serp-item
