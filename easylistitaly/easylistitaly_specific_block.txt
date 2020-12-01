@@ -2012,6 +2012,7 @@
 ||venividivici.us^*-280x280.
 ||venividivici.us^*-banner_
 ||verbano24.it/images/banner/
+||vercellese24.it/images/banner/
 ||vercellioggi.it/immagini/banner/
 ||vercellioggi.it^*/banner-
 ||veronanetwork.it^*/banner-
