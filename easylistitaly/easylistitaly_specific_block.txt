@@ -167,6 +167,7 @@
 ||biellaoggi.it^*/banner-
 ||biellaoggi.it^*/banner/
 ||biellaoggi.it^*_banner_
+||biellese24.it/images/banner/
 ||bierredue.it/banner.gif
 ||bierredue.it/estensione.gif
 ||bierredue.it/images/450x75.jpg
