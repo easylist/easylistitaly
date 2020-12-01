@@ -1389,6 +1389,9 @@
 ||radioblu.com/img/colonna_dx/
 ||radiocantu.com^*-260x260-
 ||radiocarina.it/images/bn_sponsor_
+||radiocentraleweb.it/public/audio/campoDelSole.jpg
+||radiocentraleweb.it/public/audio/LOGO-SALUS-DREAM.jpg
+||radiocentraleweb.it/public/audio/sarsina.jpg
 ||radiociao.com/img/acqua.gif
 ||radiodigitalenergy.com/images/acweb.jpg
 ||radiodigitalenergy.com/images/canastri.jpg
