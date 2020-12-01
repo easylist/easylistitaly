@@ -1994,6 +1994,9 @@
 ||valsassinanews.com^*-MANCHETTE-
 ||vanityfair.it^*/cn-banner.min.js?
 ||varesenews.it^*/banner/
+||varesesport.com^*/banner-
+||varesesport.com^*/euromed728x90_
+||varesesport.com^*/polverini-729x85-
 ||varesesport.com^*500x300
 ||vcoazzurratv.it/images/banner/
 ||vendingnews.it/wp-content/uploads/angwp/items/
