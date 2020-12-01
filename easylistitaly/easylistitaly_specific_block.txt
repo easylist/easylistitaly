@@ -1394,6 +1394,9 @@
 ||radiocentraleweb.it/public/audio/LOGO-SALUS-DREAM.jpg
 ||radiocentraleweb.it/public/audio/sarsina.jpg
 ||radiociao.com/img/acqua.gif
+||radiocircuito29.it/images/atelier.jpg
+||radiocircuito29.it/images/belleli.jpg
+||radiocircuito29.it/images/DFZ-logo.jpg
 ||radiodigitalenergy.com/images/acweb.jpg
 ||radiodigitalenergy.com/images/canastri.jpg
 ||radiodigitalenergy.com/images/radio.net.jpg
