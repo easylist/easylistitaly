@@ -105,6 +105,7 @@
 ||ansa.it^*/banner_
 ||ansamed.info/ansamed/banner/
 ||ansamed.info/ansamed/images/banner_
+||antenna1.fm^*/post_KINTO-ONE_
 ||antennasud.com^*/d-pay.jpg
 ||antennasud.com^*/fadi.jpg
 ||antennasud.com^*/nuovarredo.jpg
