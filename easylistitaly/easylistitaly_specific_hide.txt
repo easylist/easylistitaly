@@ -915,6 +915,7 @@ emmelle.it##.supermag-ainfo-widget
 mbnews.it##.swiper-container
 yesmagazine.it##.swiper-slide-inner
 luinonotizie.it##.swiper-wrapper
+radioblutoscana.it##.tab03
 diventaretrader.com##.table-alm
 bottadiculo.it##.table3bonus
 bottadiculo.it##.table3bonus-side

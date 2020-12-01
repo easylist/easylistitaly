@@ -1402,6 +1402,12 @@
 ||radioautmarche.it^*/banner_
 ||radioazzurra.it^*/banner/
 ||radioblu.com/img/colonna_dx/
+||radioblutoscana.it/foto/grandi/1-1.jpg
+||radioblutoscana.it/foto/grandi/2.jpg
+||radioblutoscana.it/foto/grandi/3.jpg
+||radioblutoscana.it/foto/grandi/4.jpg
+||radioblutoscana.it/foto/grandi/5.jpg
+||radioblutoscana.it/foto/grandi/7.jpg
 ||radiocantu.com^*-260x260-
 ||radiocarina.it/images/bn_sponsor_
 ||radiocentraleweb.it/public/audio/campoDelSole.jpg
