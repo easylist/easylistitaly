@@ -451,6 +451,7 @@
 ||earone.it/themes/banner/
 ||earone.it/themes/images/btn_itunes.png
 ||eastwest.eu^*/banner/
+||easynetwork.fm^*/4683547878837667114.gif
 ||eclavoro.it^*/ADV_
 ||eclavoro.it^*_ADV_
 ||ecnews.it^*/banner-
