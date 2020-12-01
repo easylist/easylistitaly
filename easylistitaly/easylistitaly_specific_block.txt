@@ -1424,6 +1424,7 @@
 ||radiodigitalenergy.com/images/radio.net.jpg
 ||radiodimensionemusica.it^*/Logo-Pigini.jpg
 ||radiofly.cloud^*/Estra_
+||radiogelosa.it^*/caneva.gif
 ||radiogold.it/images/banners/
 ||radiogold.it^*/Banner-
 ||radiogold.it^*/banner/
