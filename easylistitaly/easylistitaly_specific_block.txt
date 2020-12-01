@@ -122,6 +122,8 @@
 ||aostaoggi.it/images/banners/
 ||arcatliguria.it/templates/cloud/img/tad2.png
 ||arona24.it/images/banner/
+||art-news.it^*-banner-
+||art-news.it^*/banner-
 ||artemagazine.it/images/160x142-
 ||artemagazine.it/images/300X300-
 ||ascittadella.it^*/sponsor/
