@@ -2139,6 +2139,7 @@
 ||wp.com/www.oggicronaca.it/*/comune3.jpg
 ||wp.com/www.oggicronaca.it/*/divisionismolarge.gif
 ||wp.com/www.proiezionidiborsa.it/*/bnp-
+||wp.com/www.spaziotennis.it/*/dhs.jpg
 ||wp.com/www.statoquotidiano.it/*/727x247-
 ||wp.com/www.tabsernews.it/*/THE-SOUND.png
 ||wp.com/www.tsdtv.it/*/300x300-
