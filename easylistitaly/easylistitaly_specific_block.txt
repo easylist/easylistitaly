@@ -1333,6 +1333,7 @@
 ||positanonotizie.it^*/banner/
 ||prealpina.it/js/manzoni_interna.js
 ||primapaginamolise.it/banner/
+||primaradio.net^*/LaTorre.gif
 ||primocanale.it/img/banner/
 ||primopianomolise.it^*/banner
 ||primopianomolise.it^*/issan
