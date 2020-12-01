@@ -1646,6 +1646,7 @@
 ||sscnapoli.it/web/img/filmauro_
 ||ssjuvestabia.it^*-sponsor-
 ||sslazio.it/images/banners/
+||sslazio.it/images/marketing/
 ||sslazio.it/images/sponsors/
 ||sslazio.it^*/banner_
 ||ssmatelicacalcio.com^*/fidea.png
