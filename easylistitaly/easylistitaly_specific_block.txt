@@ -1757,6 +1757,7 @@
 ||telepordenone.tv^*/banner_
 ||telepordenone.tv^*_BANNER.
 ||teleradiosciacca.it^*/banner-
+||teleradiostereo.it/images/banner/
 ||teleromagna24.it/public/banners/
 ||teleromagna24.it^*/skin_
 ||telesettelaghi.com^*/finestre-e-finestre.
