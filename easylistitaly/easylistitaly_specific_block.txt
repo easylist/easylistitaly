@@ -1411,6 +1411,9 @@
 ||radioitaliacina.com/images/banners/
 ||radiolaquila1.it^*/asimar-
 ||radiolaquila1.it^*/mei-
+||radiolombardia.it^*/325x50-
+||radiolombardia.it^*/banner-
+||radiolombardia.it^*/ilpl.png
 ||radioluna.it/news/banner/
 ||radioluna.it/news/header/
 ||radioluna.it^*-200X110.
