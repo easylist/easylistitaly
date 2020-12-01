@@ -1487,6 +1487,7 @@
 ||radiotelegallura.it^*/43184.jpg
 ||radiotelegallura.it^*/Banner-
 ||radiotelegallura.it^*/Partner-
+||radiotime.it^*/banner-
 ||radiotoscana.it^*-banner-
 ||radiotoscana.it^*/Banner-
 ||radiotoscana.it^*/Bernina-
