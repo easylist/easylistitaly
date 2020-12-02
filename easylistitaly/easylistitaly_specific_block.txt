@@ -2048,6 +2048,10 @@
 ||venividivici.us^*-banner_
 ||verbano24.it/images/banner/
 ||vercellese24.it/images/banner/
+||vercellinotizie.it^*/5x1000-768x543.jpg
+||vercellinotizie.it^*/Banner-
+||vercellinotizie.it^*/letto-e-poltrona-pagina-intera-
+||vercellinotizie.it^*/Villani.png
 ||vercellioggi.it/immagini/banner/
 ||vercellioggi.it^*/banner-
 ||veronanetwork.it^*/banner-
