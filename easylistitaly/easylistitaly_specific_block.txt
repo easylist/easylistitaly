@@ -1182,6 +1182,7 @@
 ||naturalmania.it^*/inkanti.png
 ||nba24.it^*/banner-
 ||nbnotizie.it^*/LoghiPUBBL/
+||necrologivercelli.it/images/promo-
 ||nerdplanet.it^*/banner.
 ||nerdplanet.it^*/batmanultimo2017.
 ||netdna-ssl.com^*/lazio-europa.gif$domain=radiocolonna.it
