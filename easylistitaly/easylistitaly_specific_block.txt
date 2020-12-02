@@ -1411,6 +1411,8 @@
 ||quotidianosanita.it^*/roche_differita.jpg
 ||quotidianosicurezza.it^*/bannerino_
 ||quotidianpost.it^*/banner729x90.
+||radio-city.it^*-banner-
+||radio-city.it^*_partner.
 ||radio-reporter.it^*-690x690.
 ||radioamore.it^*/banners/
 ||radioanaunia.it^*/beauty_ninfea_
