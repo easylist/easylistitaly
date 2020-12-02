@@ -151,6 +151,8 @@
 ||balarm.it/attachment-web/
 ||basilicatanotizie.net/images/banners/
 ||basilicatanotizie.net^*/background-
+||basketfemminilebiellese.altervista.org^*/Sponsor/
+||basketfemminilebiellese.altervista.org^*/Sponsors/
 ||battipaglianews.it^*/Banner_
 ||battipaglianews.it^*/gioiellina.gif
 ||battipaglianews.it^*/hsweb-
