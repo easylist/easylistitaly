@@ -513,6 +513,7 @@
 ||fattoincasadabenedetta.it/images/prenota.jpg
 ||fattoincasadabenedetta.it^*/footer_
 ||fattoincasadabenedetta.it^*/minibox_
+||fcprovercelli.it^*/banner/
 ||federtennis.it^*/Banner/
 ||federtennis.it^*/Sponsor/
 ||feralpisalo.it^*/sponsor/
