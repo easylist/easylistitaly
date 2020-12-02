@@ -587,6 +587,7 @@ tiscali.it##.container_b_1
 frasimania.it##.content-banner
 cookist.it,fanpage.it##.content-leaderboard
 salernonotizie.it##.contskin
+lasesia.vercelli.it##.copy_banner
 ilpiccolo.net##.cornice_banner
 corriereromagna.it##.corri-sidebar-desktop
 odontoiatria33.it##.corso-box

@@ -957,6 +957,7 @@
 ||larionews.com^*-MANCHETTE-
 ||larivieraonline.com^*/banner/
 ||larivieraonline.com^*/takeover/
+||lasesia.vercelli.it^*/ADV/
 ||lasiritide.it/img/agrello
 ||lasiritide.it/img/logobuonorgse.jpg
 ||latelanera.com^*/banner300x250-
