@@ -1384,6 +1384,7 @@
 ||quinewsvaltiberina.it^*/skin/
 ||quinewsversilia.it^*/skin/
 ||quinewsvolterra.it^*/skin/
+||qumran2.net/sponsor/
 ||quotidianocanavese.it/img/skyscraper/
 ||quotidianodellumbria.it^*/banner-
 ||quotidianodellumbria.it^*/manchette-
