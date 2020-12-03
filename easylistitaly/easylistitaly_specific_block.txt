@@ -1267,6 +1267,7 @@
 ||ogginotizie.it^*/666.jpg
 ||ogginotizie.it^*/MULTI_page-0001-
 ||oggiroma.it/public/banner/
+||oggitreviso.it^*/390x90.jpg
 ||oipamagazine.it^*/euroservice.gif
 ||okpronostico.it^*/comparazione-bonus.jpg
 ||oksiena.it/banner/
