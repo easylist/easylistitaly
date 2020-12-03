@@ -549,6 +549,7 @@ infomedianews.com##.bsaProContainerNew
 filmitalianostreaming.com##.btn-danger
 donnamoderna.com##.btn-offerte-amazon
 game-game.it##.btn-play
+teatroborgatti.it##.btn1
 parcofaunistico.it,piratestreaming.network##.btnaaa
 cinemalibero.cloud,cinemalibero.life##.btnaaa4k
 cinemalibero.cloud,cinemalibero.life##.btnaaahd
