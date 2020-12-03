@@ -1007,6 +1007,9 @@
 ||leccenews24.it/upload/banner/
 ||leccesette.it/banner/
 ||lecconotizie.com/wp-content/banners/
+||lecconotizie.com^*/clerici_domination_
+||lecconotizie.com^*/LN_easynet-
+||lecconotizie.com^*/LN_elettrasystem-
 ||left.it/wp-content/uploads/banners/
 ||legab.it^*/sponsor/
 ||leganavalenews.it^*/banners/
