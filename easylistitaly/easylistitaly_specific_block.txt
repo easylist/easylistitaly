@@ -122,6 +122,10 @@
 ||aostaoggi.it/images/banners/
 ||arcatliguria.it/templates/cloud/img/tad2.png
 ||arona24.it/images/banner/
+||arona24.it/images/IMMOBILIARE_PIEMONTE_
+||arona24.it/images/mc_drive_
+||arona24.it/images/rampolina_
+||arona24.it/images/ristorante_posta_baveno.jpg
 ||art-news.it^*-banner-
 ||art-news.it^*/banner-
 ||artemagazine.it/images/160x142-
