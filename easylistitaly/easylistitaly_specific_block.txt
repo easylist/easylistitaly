@@ -1215,7 +1215,11 @@
 ||notizieoggi.com^*_banner.
 ||notizieoggi24.it^*/gel-farmacia.jpg
 ||novabbe.com^*/guardalo-su-amazon-
+||novara24news.it/images/*_banner_
 ||novara24news.it/images/banner/
+||novara24news.it/images/IMMOBILIARE_PIEMONTE_
+||novara24news.it/images/mc_drive_
+||novara24news.it/images/rampolina_
 ||novaravive.it^*/novara-elettronica-
 ||novaravive.it^*/nuova-santa-lucia-
 ||novarese24.it/images/banner/
