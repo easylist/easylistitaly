@@ -1219,6 +1219,10 @@
 ||novaravive.it^*/novara-elettronica-
 ||novaravive.it^*/nuova-santa-lucia-
 ||novarese24.it/images/banner/
+||novarese24.it/images/IMMOBILIARE_PIEMONTE_
+||novarese24.it/images/mc_crispy_
+||novarese24.it/images/mc_drive_
+||novarese24.it/images/rampolina_
 ||nslradiotv.it^*/cinecitta-
 ||nslradiotv.it^*/roma-world.jpg
 ||ntimedia.it^*_banner_
