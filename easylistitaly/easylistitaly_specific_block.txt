@@ -455,6 +455,9 @@
 ||digitalic.it^*/skin_
 ||diretta.it/res/image/bookmaker-list.png
 ||diretta.it^*/banner/
+||diritto.it^*/Banner_
+||diritto.it^*/download-1-2.jpg
+||diritto.it^*/untitled-3.png
 ||dirittoegiustizia.it^*/downloadFileBanner.
 ||djmagitalia.com^*-banner-
 ||djmagitalia.com^*/BANNER_
