@@ -2124,7 +2124,9 @@
 ||vocedinapoli.it^*-Banner-
 ||vocenuova.tv/assets/uploads/banners/
 ||vocetempo.it^*/banner-
+||volleyball.it^*-Banner-
 ||volleyball.it^*/banner-
+||volleyball.it^*/Mikasa-Palloni.jpg
 ||vos.it^*/mondocartomante.jpg
 ||vuemmetv.it^*/banner-
 ||vulturenews.net^*-Agrimelfi-
