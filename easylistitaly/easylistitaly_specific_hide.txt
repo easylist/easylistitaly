@@ -921,7 +921,7 @@ mbnews.it##.swiper-container
 magentanostra.it,yesmagazine.it##.swiper-slide-inner
 luinonotizie.it##.swiper-wrapper
 radioblutoscana.it##.tab03
-diventaretrader.com##.table-alm
+criptovalute24.com,diventaretrader.com##.table-alm
 bottadiculo.it##.table3bonus
 bottadiculo.it##.table3bonus-side
 ilpost.it##.tag-sponsored
