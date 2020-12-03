@@ -1780,6 +1780,7 @@
 ||targatocn.it^*/banner/
 ||tcinformatica.net/1/173x173/$domain=cattolica.info
 ||technologyreview.it/_media/_adv/
+||techprincess.it^*/300x600_
 ||techprincess.it^*/Forbes-
 ||tele8tv.it^*/tariii.jpg
 ||teleambiente.it^*/Banner-
