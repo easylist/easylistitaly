@@ -476,6 +476,7 @@
 ||ecodelcinema.com^*/bnnrdionysus-
 ||econote.it^*800x800
 ||econote.it^*banner
+||ecorisveglio.it/images/banner_
 ||ecovicentino.it/wp-admin/get_img.php?*banner
 ||ecovicentino.it^*/banner-
 ||edilportale.com/Banner/
