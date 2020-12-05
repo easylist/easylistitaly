@@ -626,6 +626,7 @@ exibart.com##.exibart-footer-partner
 exibart.com##.exibart-footer-partner-title
 giornaledibarga.it##.fascia-banner
 divinafm.it##.fdc-widget-sponsor
+brindisisettenews.it##.featured_banner
 masterviaggi.it##.fieldset_sponsor
 cb01.world,filmsenzalimiti.ink,tantifilm.best##.filmad
 luinonotizie.it##.fixed-sponsor
