@@ -143,6 +143,7 @@
 ||annuncisalerno.it/banner/
 ||annuncisiracusa.it/banner/
 ||annuncitaranto.it/banner/
+||annunciteramo.it/banner/
 ||annuncitrapani.it/banner/
 ||annuncivibovalentia.it/banner/
 ||ansa.it^*/banner_
