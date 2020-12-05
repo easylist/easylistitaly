@@ -120,6 +120,7 @@
 ||annuncinazionali.it/banner/
 ||annuncinazionali.it^*/banner-
 ||annuncinazionali.it^*/banner_
+||annuncipalermo.it/banner/
 ||annuncipotenza.it/banner/
 ||annuncipuglia.it/banner/
 ||annuncireggiocalabria.it/banner/
