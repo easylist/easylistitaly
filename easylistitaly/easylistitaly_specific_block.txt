@@ -1402,6 +1402,7 @@
 ||piacenzacalcio.it^*_sponsor_
 ||piacenzaonline.info^*/Banner-
 ||piazzasalento.it^*/santarita300x250.jpg
+||piccoletrasgressioni.it/img/banner-
 ||picenonews24.it^*/arg_logo.png
 ||picenonews24.it^*/foodrelax4.jpg
 ||picenonews24.it^*/jpg_arg_

@@ -960,6 +960,7 @@ bresciacalcio.it,cagliaricalcio.com,olbiacalcio.com##.top-sponsor-hp
 positanonews.it##.top-testata
 bluerating.com##.top_funders
 dtti.it##.topad
+piccoletrasgressioni.it##.topbar-banner
 blunote.it##.topbar-below
 everyeye.it##.topskin
 viviwebtv.it##.topstriplive
