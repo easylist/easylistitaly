@@ -105,6 +105,7 @@
 ||annuariodelcinema.it^*/banner-
 ||annuariodelcinema.it^*/banner_
 ||annuariodelcinema.it^*/banners/
+||annuncibari.it/banner/
 ||annuncibarlettaandriatrani.it/banner/
 ||annuncifoggia.it/banner/
 ||annuncinazionali.it/banner/
