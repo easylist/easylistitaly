@@ -110,6 +110,7 @@
 ||annuncibrindisi.it/banner/
 ||annuncifoggia.it/banner/
 ||annuncilecce.it/banner/
+||annuncimatera.it/banner/
 ||annuncinazionali.it/banner/
 ||annuncinazionali.it^*/banner-
 ||annuncinazionali.it^*/banner_
