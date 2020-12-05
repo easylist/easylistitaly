@@ -121,6 +121,7 @@
 ||annuncinazionali.it^*/banner_
 ||annuncipotenza.it/banner/
 ||annuncitaranto.it/banner/
+||annuncivibovalentia.it/banner/
 ||ansa.it^*/banner_
 ||ansamed.info/ansamed/banner/
 ||ansamed.info/ansamed/images/banner_
