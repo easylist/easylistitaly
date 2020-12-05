@@ -120,6 +120,7 @@
 ||annuncinazionali.it^*/banner-
 ||annuncinazionali.it^*/banner_
 ||annuncipotenza.it/banner/
+||annuncipuglia.it/banner/
 ||annuncireggiocalabria.it/banner/
 ||annuncitaranto.it/banner/
 ||annuncivibovalentia.it/banner/
