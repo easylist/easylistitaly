@@ -137,6 +137,7 @@
 ||annuncinazionali.it/banner/
 ||annuncinazionali.it^*/banner-
 ||annuncinazionali.it^*/banner_
+||annunciolbiatempio.it/banner/
 ||annuncipalermo.it/banner/
 ||annuncipescara.it/banner/
 ||annuncipotenza.it/banner/
