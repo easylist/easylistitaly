@@ -58,7 +58,7 @@ saperesalute.it###banners
 siracusanews.it###banners-top
 linguee.it###banners_right
 linguee.it###banners_top
-annuncibari.it,annuncibarlettaandriatrani.it,annuncibasilicata.it,annuncibrindisi.it,annuncicalabria.com,annuncicatanzaro.it,annuncicosenza.it,annuncicrotone.it,annuncifoggia.it,annuncilecce.it,annuncimatera.it,annuncinazionali.it,annuncipotenza.it,annuncitaranto.it,annuncivibovalentia.it###bannertop
+annuncibari.it,annuncibarlettaandriatrani.it,annuncibasilicata.it,annuncibrindisi.it,annuncicalabria.com,annuncicatanzaro.it,annuncicosenza.it,annuncicrotone.it,annuncifoggia.it,annuncilecce.it,annuncimatera.it,annuncinazionali.it,annuncipotenza.it,annuncireggiocalabria.it,annuncitaranto.it,annuncivibovalentia.it###bannertop
 entella.it###barra_click_top
 forum.tomshw.it###belowfirstpost
 orizzontescuola.it###bglink
