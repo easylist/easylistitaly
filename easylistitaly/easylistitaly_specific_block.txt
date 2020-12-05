@@ -105,6 +105,9 @@
 ||annuariodelcinema.it^*/banner-
 ||annuariodelcinema.it^*/banner_
 ||annuariodelcinema.it^*/banners/
+||annuncinazionali.it/banner/
+||annuncinazionali.it^*/banner-
+||annuncinazionali.it^*/banner_
 ||ansa.it^*/banner_
 ||ansamed.info/ansamed/banner/
 ||ansamed.info/ansamed/images/banner_

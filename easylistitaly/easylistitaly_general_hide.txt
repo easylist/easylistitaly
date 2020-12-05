@@ -58,6 +58,7 @@
 ###advcolonnasx
 ###advdivbp1
 ###advertisingStriscia
+###advsfondo
 ###altervista_banner-3
 ###altervista_googleadsense-2
 ###annunciGoogle
