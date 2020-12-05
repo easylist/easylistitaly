@@ -136,6 +136,7 @@
 ||annuncinazionali.it^*/banner-
 ||annuncinazionali.it^*/banner_
 ||annuncipalermo.it/banner/
+||annuncipescara.it/banner/
 ||annuncipotenza.it/banner/
 ||annuncipuglia.it/banner/
 ||annunciragusa.it/banner/
