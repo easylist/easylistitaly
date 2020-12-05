@@ -139,6 +139,7 @@
 ||annuncinazionali.it^*/banner-
 ||annuncinazionali.it^*/banner_
 ||annuncinuoro.it/banner/
+||annunciogliastra.eu/banner/
 ||annunciolbiatempio.it/banner/
 ||annuncioristano.it/banner/
 ||annuncipalermo.it/banner/
