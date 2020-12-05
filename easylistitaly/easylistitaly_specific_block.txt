@@ -109,6 +109,7 @@
 ||annuncibarlettaandriatrani.it/banner/
 ||annuncibrindisi.it/banner/
 ||annuncifoggia.it/banner/
+||annuncilecce.it/banner/
 ||annuncinazionali.it/banner/
 ||annuncinazionali.it^*/banner-
 ||annuncinazionali.it^*/banner_
