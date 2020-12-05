@@ -106,6 +106,7 @@
 ||annuariodelcinema.it^*/banner_
 ||annuariodelcinema.it^*/banners/
 ||annunci-sicilia.it/banner/
+||annunciagrigento.it/banner/
 ||annuncibari.it/banner/
 ||annuncibarlettaandriatrani.it/banner/
 ||annuncibasilicata.it/banner/
