@@ -107,6 +107,7 @@
 ||annuariodelcinema.it^*/banners/
 ||annuncibari.it/banner/
 ||annuncibarlettaandriatrani.it/banner/
+||annuncibasilicata.it/banner/
 ||annuncibrindisi.it/banner/
 ||annuncifoggia.it/banner/
 ||annuncilecce.it/banner/
