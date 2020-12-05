@@ -58,7 +58,7 @@ saperesalute.it###banners
 siracusanews.it###banners-top
 linguee.it###banners_right
 linguee.it###banners_top
-annunci-sicilia.it,annunciagrigento.it,annuncibari.it,annuncibarlettaandriatrani.it,annuncibasilicata.it,annuncibrindisi.it,annuncicalabria.com,annuncicaltanissetta.it,annuncicampobasso.it,annuncicatania.it,annuncicatanzaro.it,annuncicosenza.it,annuncicrotone.it,annuncienna.it,annuncifoggia.it,annunciisernia.it,annuncilecce.it,annuncimatera.it,annuncimessina.it,annuncimolise.it,annuncinazionali.it,annuncipalermo.it,annuncipotenza.it,annuncipuglia.it,annunciragusa.it,annuncireggiocalabria.it,annuncisiracusa.it,annuncitaranto.it,annuncitrapani.it,annuncivibovalentia.it###bannertop
+annunci-sicilia.it,annunciagrigento.it,annuncibari.it,annuncibarlettaandriatrani.it,annuncibasilicata.it,annuncibrindisi.it,annuncicalabria.com,annuncicaltanissetta.it,annuncicampania.com,annuncicampobasso.it,annuncicatania.it,annuncicatanzaro.it,annuncicosenza.it,annuncicrotone.it,annuncienna.it,annuncifoggia.it,annunciisernia.it,annuncilecce.it,annuncimatera.it,annuncimessina.it,annuncimolise.it,annuncinazionali.it,annuncipalermo.it,annuncipotenza.it,annuncipuglia.it,annunciragusa.it,annuncireggiocalabria.it,annuncisiracusa.it,annuncitaranto.it,annuncitrapani.it,annuncivibovalentia.it###bannertop
 entella.it###barra_click_top
 forum.tomshw.it###belowfirstpost
 orizzontescuola.it###bglink
