@@ -122,6 +122,7 @@
 ||annuncilecce.it/banner/
 ||annuncimatera.it/banner/
 ||annuncimessina.it/banner/
+||annuncimolise.it/banner/
 ||annuncinazionali.it/banner/
 ||annuncinazionali.it^*/banner-
 ||annuncinazionali.it^*/banner_
