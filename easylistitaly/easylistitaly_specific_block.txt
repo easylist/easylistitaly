@@ -113,6 +113,7 @@
 ||annuncinazionali.it/banner/
 ||annuncinazionali.it^*/banner-
 ||annuncinazionali.it^*/banner_
+||annuncipotenza.it/banner/
 ||annuncitaranto.it/banner/
 ||ansa.it^*/banner_
 ||ansamed.info/ansamed/banner/
