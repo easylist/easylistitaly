@@ -124,6 +124,7 @@
 ||annuncipuglia.it/banner/
 ||annuncireggiocalabria.it/banner/
 ||annuncitaranto.it/banner/
+||annuncitrapani.it/banner/
 ||annuncivibovalentia.it/banner/
 ||ansa.it^*/banner_
 ||ansamed.info/ansamed/banner/
