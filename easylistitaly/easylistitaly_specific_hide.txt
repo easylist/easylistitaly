@@ -665,8 +665,8 @@ eurostreaming.voto##.guarda
 altadefinizione.coach,guardaserie.store##.guarda_hd
 toonitalia.org##.guarda_in_hd
 ilgeniodellostreaming.dance,ilgeniodellostreaming.rest,ilgeniodellostreaming.to##.guardasingle
-ecwgcortina2016.it,ilgeniodellostreaming.dance,ilgeniodellostreaming.rest,ilgeniodellostreaming.to,ilgeniodellostreamings.it##.guardasingleserie1
-ecwgcortina2016.it,ilgeniodellostreaming.dance,ilgeniodellostreaming.rest,ilgeniodellostreaming.to,ilgeniodellostreamings.it##.guardasingleserie2
+ecwgcortina2016.it,ilgeniodellostreaming.dance,ilgeniodellostreaming.rest,ilgeniodellostreaming.to,ilgeniodellostreamings.com,ilgeniodellostreamings.it##.guardasingleserie1
+ecwgcortina2016.it,ilgeniodellostreaming.dance,ilgeniodellostreaming.rest,ilgeniodellostreaming.to,ilgeniodellostreamings.com,ilgeniodellostreamings.it##.guardasingleserie2
 quattroruote.it##.halfPageBanner2
 emmelle.it##.header-ainfo
 ecodelcinema.com,ondatv.tv##.header-banner
