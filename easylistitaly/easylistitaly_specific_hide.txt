@@ -554,8 +554,8 @@ donnamoderna.com##.btn-offerte-amazon
 game-game.it##.btn-play
 teatroborgatti.it##.btn1
 parcofaunistico.it,piratestreaming.network##.btnaaa
-cinemalibero.cloud,cinemalibero.life##.btnaaa4k
-cinemalibero.cloud,cinemalibero.life##.btnaaahd
+cinemalibero.cloud,cinemalibero.life,cinemalibero.store##.btnaaa4k
+cinemalibero.cloud,cinemalibero.life,cinemalibero.store##.btnaaahd
 abruzzolive.it##.btxe-container
 altadefinizione-site.it##.buttComment
 scaricarelibri.net##.button
