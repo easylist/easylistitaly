@@ -528,6 +528,7 @@ sslazio.it##.box-79
 centrometeoitaliano.it##.box-adv
 iphoneitalia.com##.box-amazon
 pordenonecalcio.com##.box-assiteca
+tvserial.it##.box-atf
 centropagina.it##.box-b
 difesaonline.it,tempoitalia.it##.box-banner
 cucchiaio.it##.box-banner-hp-dx
@@ -1084,7 +1085,7 @@ outcast.it##a[href^="http://www.tostadora.it/t-shirt-nerd.php?"]
 alwaysonboard.it,birramoriamoci.it,circusf1.com,fattoincasadabenedetta.it,guerrestellari.net,hellogreen.it,hovogliadidolce.it,hwupgrade.it,hynerd.it,ilsoftware.it,infotelematico.com,justfashionmagazine.com,juzaphoto.com,macitynet.it,maidirelink.it,mio-ip.eu,mr-loto.it,murkymask.com,nokioteca.net,tivusat.tv,trattamentinaturalibio.it,uberti.eu,ubud.it,videogiocare.it,windowsblogitalia.com##a[href^="https://amzn.to/"]
 trattamentinaturalibio.it##a[href^="https://c.mtpc.se/"]
 albengacorsara.it,campaniameteo.it,germania.info##a[href^="https://clk.tradedoubler.com/"]
-mymovies.it,teamworld.it##a[href^="https://disneyplus.bn5x.net/"]
+mymovies.it,teamworld.it,tvserial.it##a[href^="https://disneyplus.bn5x.net/"]
 libero.it##a[href^="https://httpslink.com/"]
 diventaretrader.com##a[href^="https://iqbroker.com/"]
 gizchina.it##a[href^="https://it.banggood.com/marketing-"]

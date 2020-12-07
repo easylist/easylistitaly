@@ -2093,6 +2093,7 @@
 ||tvoggisalerno.it^*/renzullo.
 ||tvoggisalerno.it^*/teconscuola_
 ||tvsei.it^*/uisp
+||tvserial.it^*/300x50_
 ||tvsette.net^*-300x250.
 ||tvsette.net^*/banner-
 ||tvsette.net^*/IUORIO-
