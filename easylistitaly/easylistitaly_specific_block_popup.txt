@@ -2,6 +2,7 @@
 ||altadefinizione01.store/UHD/$popup
 ||altadefinizone.click/HD/$popup
 ||avmagazine.it/advertise/$popup
+||cb01.li/vip/4K/$popup
 ||cineblog01.green/cineblog01-premium-film.php$popup
 ||cineblog01.love/fake2/$popup
 ||eurostreaming.movie/serie-tv-streaming.php$popup
