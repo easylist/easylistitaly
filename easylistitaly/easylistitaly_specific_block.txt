@@ -82,6 +82,7 @@
 ||altadefinizione01.works/templates/Dark/img/btn
 ||altadefinizione01.works/templates/Dark/img/but
 ||altadefinizione4k.stream/c.png
+||altadefinizione4k.tv/c.png
 ||altarimini.it/bannerBoxCatalog.php
 ||altoadigegol.it//immagini/File_banner/
 ||altoadigetv.it/images/social/banner
