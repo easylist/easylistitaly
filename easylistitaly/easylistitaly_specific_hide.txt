@@ -999,6 +999,7 @@ fashionandroid.com##.widget-header
 gelocal.it,ilsecoloxix.it,lastampa.it,repubblica.it##.widget-sponsor--container
 londra.today##.widget_aawp_widget_bestseller
 newsly.it##.widget_aawp_widget_box
+scambiaricette.it##.widget_boodo_wp_300px
 dilei.it##.widget_promo_box_widget
 nursetimes.org##.widget_realty_widget
 radiodigione.net##.widget_ubm-banners-rotation
