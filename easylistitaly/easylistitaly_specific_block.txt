@@ -964,6 +964,7 @@
 ||itacanotizie.it^*/bj-3_
 ||itacanotizie.it^*/e4dv-
 ||italia.fm^*/leaseweb.gif
+||italiaatavola.net/images/banners/
 ||italiachecambia.org^*-768x116-
 ||italiaciclismo.net/images/banner_
 ||italiafruit.net/Public/Upload/Banner/
