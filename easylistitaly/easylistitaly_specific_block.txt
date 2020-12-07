@@ -79,6 +79,8 @@
 ||altadefinizione01.green^*/btntorrent.png
 ||altadefinizione01.store^*/btn_dwn.png
 ||altadefinizione01.store^*/btntorrent.png
+||altadefinizione01.works/templates/Dark/img/btn
+||altadefinizione01.works/templates/Dark/img/but
 ||altadefinizione4k.stream/c.png
 ||altarimini.it/bannerBoxCatalog.php
 ||altoadigegol.it//immagini/File_banner/
