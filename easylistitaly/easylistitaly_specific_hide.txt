@@ -616,7 +616,7 @@ quotidiano.net##.discount-block
 cuneodice.it,genovadice.it,italiadice.it,torinodice.it##.div_banner
 laleggepertutti.it##.div_topbanner
 ridble.com##.dn
-casacinema.work,casacinema01.club,ilgeniodellostreaming.icu,italiafilm.casa,tantifilm-ita.it,tantifilm.surf,tantifilm.work##.download-links
+casacinema.work,casacinema01.club,ilgeniodellostreaming.icu,italiafilm.casa,tantifilm-ita.it,tantifilm.cool,tantifilm.surf,tantifilm.work##.download-links
 cronachedibirra.it##.e3lan125
 ilpaesenuovo.it##.e3lanat-layout-rotator
 stile.it##.egg-container
