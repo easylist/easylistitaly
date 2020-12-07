@@ -1828,13 +1828,16 @@
 ||startmag.it^*_Skin_
 ||stateofmind.it^*-Banner-
 ||statoquotidiano.it^*/300x250
-||staynerd.com^*/106684007_3079248798861784_4040991284107120681_o-
+||staynerd.com^*/106684007_3079248798861784_4040991284107120681_
 ||staynerd.com^*/diavolo-
+||staynerd.com^*/diavolo.jpg
 ||staynerd.com^*/five-
+||staynerd.com^*/five.jpg
 ||staynerd.com^*/granduomo-
 ||staynerd.com^*/locandina-senza-data-
 ||staynerd.com^*/logo-ydn-
 ||staynerd.com^*/nostalgia-
+||staynerd.com^*/nostalgia.jpg
 ||stellenellosport.com/img/gold_sponsor/
 ||stellenellosport.com/img/media_partner/
 ||stellenellosport.com/img/partner/
