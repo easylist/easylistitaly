@@ -833,6 +833,7 @@ live-sport-tv.it##.rectangles
 sportytrader.it##.redirectou
 passioneorologio.it##.rehub_feat_block
 mobimart.it##.resp-container
+ilclubdellericette.it##.ricetta-amazon
 estrazionedellotto.it##.right
 lacnews24.it##.right-side
 ilroma.net##.rotating-banner
