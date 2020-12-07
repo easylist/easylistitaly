@@ -332,6 +332,7 @@
 ||casaleoggi.it^*_banner_
 ||casateonline.it/public/banner/
 ||casertaweb.com^*/sfondo-
+||castingeprovini.com^*/banner-
 ||cataniavip.it^*-500x90-
 ||cataniavip.it^*/Banner-
 ||cataniavip.it^*/Staycation-
