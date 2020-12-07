@@ -574,6 +574,7 @@ edilportale.com##.click-Skin
 puntocellulare.it##.clklnk
 magodelpronostico.com##.cntBonusHome
 pornototale.com##.co_sponsor
+cb01.business##.codalo
 pomiglianolive.it##.code-block-11
 pomiglianolive.it##.code-block-12
 grossetosport.com,informarea.it,pomiglianolive.it##.code-block-5

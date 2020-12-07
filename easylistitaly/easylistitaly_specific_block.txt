@@ -339,6 +339,7 @@
 ||catanzaro7.net^*/TAG-
 ||catanzaro7.net^*728x90
 ||cb001.xyz/iframe/
+||cb01.business/download/registrati.png
 ||cb01.dev/fake2/
 ||cb01.dev/templates/CB01_bid/images/btn_
 ||cb01.dev/templates/CB01_bid/images/button_
