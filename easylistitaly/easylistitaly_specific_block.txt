@@ -373,6 +373,7 @@
 ||cinafoniaci.com/images/banners/
 ||cineblog01.bid/templates/CB01/img/immagine-4k.png
 ||cineblog01.green/HD/
+||cineblog01.green/player/img/but
 ||cineblog01.green/templates/CB01/img/btnReg.png
 ||cineblog01.love/fake2/$popup
 ||cineblog01.love/templates/CB01/img/battane
