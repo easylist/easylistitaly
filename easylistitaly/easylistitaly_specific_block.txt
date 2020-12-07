@@ -164,6 +164,7 @@
 ||annunciteramo.it/banner/
 ||annuncitrapani.it/banner/
 ||annuncivibovalentia.it/banner/
+||annunciviterbo.it/banner/
 ||ansa.it^*/banner_
 ||ansamed.info/ansamed/banner/
 ||ansamed.info/ansamed/images/banner_
