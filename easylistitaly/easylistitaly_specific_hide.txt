@@ -730,6 +730,7 @@ buttanissima.it##.machette
 gonews.it##.machette-over-logo
 orologi-subacquei.it##.main-cta-banner
 inter.it##.main-footer-sponsor
+filmaltadefinizione.me##.main-news-more
 opinione.it,ship2shore.it##.manchette
 erbanotizie.com,noinotizie.it##.manchette-dx
 erbanotizie.com,noinotizie.it##.manchette-sx
@@ -1051,7 +1052,7 @@ supercoin.it##a[href*="/out/"]
 cineblog01.green##a[href*="/premium-download.php"]
 cineblog01.place##a[href*="/scar-hd.php"]
 altadefinizione4k.stream,altadefinizione4k.tv##a[href*="/scar.php"]
-piratestreaming.page##a[href*="/scarica-4k.php"]
+filmaltadefinizione.me,piratestreaming.page##a[href*="/scarica-4k.php"]
 altadefinizione01.works,cineblog01.green##a[href*="/scarica4k.php"]
 filmstreaming.page##a[href*="/scaricare-film.php"]
 ,eurostreaming.movie,eurostreaming.vision##a[href*="/serie-tv-streaming.php"]
