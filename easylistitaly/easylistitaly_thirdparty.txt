@@ -24,7 +24,7 @@
 ||autostima.net/partner/
 ||banner-madai-com.s3.amazonaws.com^
 ||bazarcoupon.com/images/$third-party
-||bellicapelliforum.com^$domain=orologi.forumfree.it
+||bellicapelliforum.com^$domain=forumfree.it
 ||beruby.com/images/banner/
 ||bit.ly^$domain=manfredonianews.it
 ||blogspot.com^$image,domain=blog.libero.it|newscronaca.myblog.it
