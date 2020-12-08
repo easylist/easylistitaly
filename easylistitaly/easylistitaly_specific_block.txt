@@ -1724,6 +1724,7 @@
 ||sassuolooggi.it/public/slides/
 ||savonanews.it^*/banner/
 ||savonanews.it^*/box/
+||scaccoweb.it/images/banners/
 ||scopateitaliane.com/nb/
 ||scopateitaliane.it/nb/
 ||scrivolibero.it^*/banner_
