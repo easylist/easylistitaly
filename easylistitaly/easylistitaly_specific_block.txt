@@ -1582,6 +1582,11 @@
 ||radiogold.it^*/foral-
 ||radioibiza.it/images/banners/
 ||radioinblu.it^*/skin/
+||radioincontro.com^*/Abita-poltrone.jpg
+||radioincontro.com^*/banner
+||radioincontro.com^*/enaip-corsi-formazione-urbino.jpg
+||radioincontro.com^*/LOGO_bcc-768x185.jpg
+||radioincontro.com^*/vgs-investiment.jpg
 ||radioitaliacina.com/images/banners/
 ||radiolaquila1.it^*/asimar-
 ||radiolaquila1.it^*/mei-
