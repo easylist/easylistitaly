@@ -2170,6 +2170,9 @@
 ||veronanetwork.it^*/banner-
 ||veronanetwork.it^*/PANTHEON_ADV_
 ||viaggioingermania.it^*/corso-tedesco-
+||vicenzanews.it/banners/
+||vicenzanews.it/javascript/banner.js
+||vicenzanews.it/javascript/banner2.js
 ||vicenzapiu.com^*/banner-
 ||videogame.it/arturo/vast/eas?
 ||videogame.it^*/adv/

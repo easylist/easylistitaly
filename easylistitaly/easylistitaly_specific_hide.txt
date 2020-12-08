@@ -492,8 +492,10 @@ ilvescovado.it,liratv.it,occhisusalerno.it,positanonotizie.it,qualenergia.it,viv
 voglioporno.com##.banners-footer
 radio-reporter.it##.bannerswidget
 quotidianodiragusa.it##.bannertesto
-album-mmt.it,gossip.it##.bannertop
+album-mmt.it,gossip.it,vicenzanews.it##.bannertop
 travel365.it##.bannertopright
+vicenzanews.it##.bannexDX
+vicenzanews.it##.bannexSX
 notizialocale.it##.bc_random_banner
 corriere.it##.bck-media-list-sponsor
 magentanostra.it##.bdt-logo-carousel-figure
@@ -1004,6 +1006,7 @@ scambiaricette.it##.widget_boodo_wp_300px
 dilei.it##.widget_promo_box_widget
 nursetimes.org##.widget_realty_widget
 radiodigione.net##.widget_ubm-banners-rotation
+vicenzanews.it##.wifiplaza
 tuttoapp-android.com##.wpmoneyclick_template_simple_button
 teleunica.com##.wrap-adv-body
 lavorincasa.it##.wrapper-banner-box-wallpaper
