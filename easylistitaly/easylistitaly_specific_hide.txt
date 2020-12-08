@@ -489,6 +489,7 @@ brindisisera.it##.bannerbox
 treccani.it##.bannercontainer
 105tv.it,aostaoggi.it,giornaledimontesilvano.com,ilgazzettinobr.it,ilgrigioneitaliano.ch,kisskiss.it,kisskissitalia.it,kisskissnapoli.it,lametino.it,maremmanews.it,qdpnews.it,sienafree.it,umbriatv.com,videomediterraneo.it,youtg.net##.bannergroup
 radiogold.it##.bannergroupskin-banner-module
+saturnonotizie.it##.bannerheader
 ilvescovado.it,liratv.it,occhisusalerno.it,positanonotizie.it,qualenergia.it,vivafm.it##.banners
 voglioporno.com##.banners-footer
 radio-reporter.it##.bannerswidget
