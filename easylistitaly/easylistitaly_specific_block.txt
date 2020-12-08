@@ -2226,6 +2226,9 @@
 ||vivere.news/images/banners_
 ||vivereancona.it/images/banners_
 ||viverejesi.it/images/banners_
+||vivicentro.it^*-Pubb.
+||vivicentro.it^*/autoparti.it_
+||vivicentro.it^*/Jooble-
 ||vivienna.it^*/3-Codi.jpg
 ||vivienna.it^*/Barbagallo-
 ||vivienna.it^*/dibella-
