@@ -646,7 +646,6 @@
 ||gay.it/js/brightcove/adonly.js
 ||gazzettabenevento.it/Sito2009/image/banner/
 ||gazzettadiavellino.it^*-banner.
-||gazzettadiavellino.it^*-banner.jpg
 ||gazzettadilivorno.it^*/skin/
 ||gazzettadimilano.it^*-banner-
 ||gazzettadimilano.it^*/art-space.jpg
@@ -771,8 +770,7 @@
 ||grossetosport.com^*_300x300.
 ||grossetosport.com^*_banner_
 ||gruppotv7.com/banner/
-||gruppotv7.com/img/Banner
-||gruppotv7.com/img/banner/
+||gruppotv7.com/img/banner
 ||gruppovideomedia.it/banners/
 ||guardarefilm.vin/templates/italiafilm/images/btn
 ||guardaserie.cam^*/bottone
@@ -1556,7 +1554,6 @@
 ||radiolombardia.it^*/325x50-
 ||radiolombardia.it^*/banner-
 ||radiolombardia.it^*/ilpl.png
-||radioluna.it/news/banner/
 ||radioluna.it/news/header/
 ||radioluna.it^*-200X110.
 ||radioluna.it^*/banner/
@@ -1671,7 +1668,6 @@
 ||risorsedidattiche.net/js/yb-risorsedidattichenet.js
 ||robadainformatici.it^*_banner_
 ||romachampionsleague.com^*/Logo-motto-
-||romachampionsleague.com^*/Pubblicit%C3%A0-
 ||romagnasport.com//public/banner/
 ||romagnasport.com/public/dim_banner/
 ||romait.it/img/banners/
@@ -1879,7 +1875,6 @@
 ||targatocn.it^*/banner/
 ||tcinformatica.net/1/173x173/$domain=cattolica.info
 ||technologyreview.it/_media/_adv/
-||techprincess.it^*/300x600_
 ||techprincess.it^*/Forbes-
 ||tele8tv.it^*/tariii.jpg
 ||teleambiente.it^*/Banner-

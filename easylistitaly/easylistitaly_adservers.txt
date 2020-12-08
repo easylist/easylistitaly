@@ -43,7 +43,6 @@
 ||crmpilot.it^$third-party
 ||delosnetwork.it^$third-party
 ||digitalbees.it^$third-party
-||divascam.com^$third-party
 ||eadv.it^$third-party
 ||easymarketcrs.it^$third-party
 ||ebuzzing.it^$third-party
@@ -85,7 +84,6 @@
 ||prontocampaign.com^$third-party
 ||publy.net^$third-party
 ||radxcomm.com^$third-party
-||ragazzeinvendita.com^$third-party
 ||rcsadv.it^$third-party
 ||reachadv.it^$third-party
 ||rizzonelli.it^$third-party

@@ -170,11 +170,9 @@
 ||sk1.it/images/banners/
 ||sk1.it/images/promo/
 ||slotmachinesgratisonline.com/image/$third-party
-||smartclip.net^$~object,third-party
 ||smscellulari.it/pic/banner/$third-party
 ||sostariffe.it/sosWidget3/$third-party
 ||spox.com/daznpic/$third-party
-||static.plista.com^*/resized/$third-party
 ||staticroot.com/nl/affiliati/
 ||staticroot.com^$domain=zingarate.com
 ||stats.betradar.com^$third-party
