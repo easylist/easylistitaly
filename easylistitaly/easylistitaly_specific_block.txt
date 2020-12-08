@@ -1736,6 +1736,11 @@
 ||savonanews.it^*/banner/
 ||savonanews.it^*/box/
 ||scaccoweb.it/images/banners/
+||sciscianonotizie.it^*/ALLOCCALEGALE.jpg
+||sciscianonotizie.it^*/LAVILLETTA.jpg
+||sciscianonotizie.it^*/LAVILLETTABB-1-300x191.jpg
+||sciscianonotizie.it^*/logo-1-1.png
+||sciscianonotizie.it^*/quote-maggiorate-com.png
 ||scopateitaliane.com/nb/
 ||scopateitaliane.it/nb/
 ||scrivolibero.it^*/banner_
