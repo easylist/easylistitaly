@@ -2151,6 +2151,9 @@
 ||varesesport.com^*500x300
 ||vcoazzurratv.it/images/banner/
 ||vendingnews.it/wp-content/uploads/angwp/items/
+||venetoeconomia.it^*/Banner-
+||venetoeconomia.it^*/noonic-
+||venetoeconomia.it^*/unnamed-1-1.png
 ||venetogol.it//immagini/File_banner/
 ||venetouno.it/media/imgbanners/
 ||veneziaradiotv.it^*/scott-informatica.jpg
