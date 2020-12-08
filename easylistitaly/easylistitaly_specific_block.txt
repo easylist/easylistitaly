@@ -2186,6 +2186,7 @@
 ||veronanetwork.it^*/banner-
 ||veronanetwork.it^*/PANTHEON_ADV_
 ||viaggioingermania.it^*/corso-tedesco-
+||vicenzae.org/images/prenota.gif
 ||vicenzanews.it/banners/
 ||vicenzanews.it/javascript/banner.js
 ||vicenzanews.it/javascript/banner2.js
