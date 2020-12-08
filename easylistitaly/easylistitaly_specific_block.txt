@@ -1264,6 +1264,7 @@
 ||motori360.it^*/enjoy-eni.gif
 ||motori360.it^*_370x150
 ||mylondra.it^*/BANNER300X600.jpg
+||mymilitaria.it^*_banner_
 ||mymovies.it/img/logo-disneypiu.png
 ||mymovies.it/primevideo/
 ||myvalley.it/wp-content/banners/
