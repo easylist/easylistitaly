@@ -591,6 +591,7 @@
 ||eurostreaming.vision^*/hostfullhd.png
 ||exibart.com/partner/
 ||extra.treddi.com^
+||fanoinforma.it^*/aset1.jpg
 ||fantascientificast.com/partner/
 ||fantastica.it/iwm.gif
 ||farevela.net^*/Banner_
