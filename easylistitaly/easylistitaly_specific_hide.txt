@@ -123,6 +123,7 @@ nextpit.it###div-header
 nextpit.it###div-sidebar_right_extra
 mymovies.it###div_topleft
 ecodicaserta.it###down
+news.mtv.it###execphp-2
 tipiace.it###externalbanner
 grecia.info###fh_content
 notizielombardia.it###fixedban
