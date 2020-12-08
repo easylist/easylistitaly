@@ -199,6 +199,8 @@
 ||asgiana.com^*/banner-
 ||asgubbio1910.net^*/sponsor_
 ||askanews.it/img_diverse/300x100_
+||asvicenza.it^*/Laerrevieffe.jpg
+||asvicenza.it^*_sponsor_
 ||atalanta.it^*/Banner-
 ||atalanta.it^*_banner_
 ||atleticamentefoto.it/images/banners/
