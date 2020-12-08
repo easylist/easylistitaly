@@ -961,6 +961,9 @@ bluerating.com##.the_big_banner
 caleno24ore.it##.themequote
 amazon.it##.threepsl-creatives
 tiscali.it##.tiscali-shp-dayoff
+tmnotizie.com##.tmnot-dopo-il-contenuto
+tmnotizie.com##.tmnot-inserito-nel-contenuto
+tmnotizie.com##.tmnot-widget
 confinelive.it##.tmsgfrekab-container
 numeri-di-telefono.it##.top-add
 finanzareport.it##.top-add-banner-img-header
@@ -1099,7 +1102,7 @@ blog.libero.it##a[href^="https://nplink.net/"]
 blog.libero.it##a[href^="https://preferredby.me/"]
 rockol.it,smartworld.it##a[href^="https://rover.ebay.com/"]
 gnoccatravels.com##a[href^="https://wellcum.at/"]
-2backpack.it,alfemminile.com,badcomics.it,badgames.it,badtaste.it,badtv.it,beppegrillo.it,birramoriamoci.it,bora.la,bsnews.it,cityrumors.it,classifichemusica.it,cliccascienze.it,comingsoon.it,comprovendodischi.it,comprovendolibri.it,consigli.it,donnamoderna.com,epubdownload.it,eurogamer.it,everyeye.it,facciabuco.com,frasicelebri.it,game-experience.it,gamerclick.it,giardinaggio.it,giardinaggio.net,giardiniblog.it,giornaledellabirra.it,gizchina.it,hdblog.it,hobbyquotidiano.com,hwupgrade.it,icrewplay.com,inter.it,iphoneitalia.com,italianiinguerra.com,junglam.com,lasiciliaweb.it,lavorincasa.it,londra.today,londranews.com,luxwatch.it,mangaforever.net,mantovanotizie.com,migliorigiochi.eu,miglioriofferteweb.com,nerdmovieproductions.it,newsly.it,nientepopcorn.it,nonsprecare.it,notebookcheck.it,notetralerighe.it,novabbe.com,orologipertutti.it,outofbit.it,pensieriparole.it,pianetamamma.it,prezzisalute.com,punto-informatico.it,ridble.com,rifaidate.it,rockol.it,screenweek.it,sora24.it,spaziogames.it,stile.it,tabsernews.it,techprincess.it,telefonino.net,termometropolitico.it,topdigamma.it,tuttotek.it,viaggioingermania.it,vuemmetv.it,webnews.it##a[href^="https://www.amazon."][href*="tag="]
+2backpack.it,alfemminile.com,badcomics.it,badgames.it,badtaste.it,badtv.it,beppegrillo.it,birramoriamoci.it,bora.la,bsnews.it,cityrumors.it,classifichemusica.it,cliccascienze.it,comingsoon.it,comprovendodischi.it,comprovendolibri.it,consigli.it,donnamoderna.com,epubdownload.it,eurogamer.it,everyeye.it,facciabuco.com,frasicelebri.it,game-experience.it,gamerclick.it,giardinaggio.it,giardinaggio.net,giardiniblog.it,giornaledellabirra.it,gizchina.it,hdblog.it,hobbyquotidiano.com,hwupgrade.it,icrewplay.com,inter.it,iphoneitalia.com,italianiinguerra.com,junglam.com,lasiciliaweb.it,lavorincasa.it,londra.today,londranews.com,luxwatch.it,mangaforever.net,mantovanotizie.com,migliorigiochi.eu,miglioriofferteweb.com,nerdmovieproductions.it,newsly.it,nientepopcorn.it,nonsprecare.it,notebookcheck.it,notetralerighe.it,novabbe.com,orologipertutti.it,outofbit.it,pensieriparole.it,pianetamamma.it,prezzisalute.com,punto-informatico.it,ridble.com,rifaidate.it,rockol.it,screenweek.it,sora24.it,spaziogames.it,stile.it,tabsernews.it,techprincess.it,telefonino.net,termometropolitico.it,tmnotizie.com,topdigamma.it,tuttotek.it,viaggioingermania.it,vuemmetv.it,webnews.it##a[href^="https://www.amazon."][href*="tag="]
 atalanta.it,diventaretrader.com##a[href^="https://www.plus500.com/"]
 animeemanga.it,comingsoon.it,trovacinema.repubblica.it##a[href^="https://www.primevideo.com/"][href*="tag="]
 2backpack.it##a[href^="https://www.worldnomads.com/Turnstile/AffiliateLink?"]
