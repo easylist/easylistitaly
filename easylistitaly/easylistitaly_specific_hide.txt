@@ -742,7 +742,7 @@ gonews.it##.machette-over-logo
 orologi-subacquei.it##.main-cta-banner
 inter.it##.main-footer-sponsor
 filmaltadefinizione.me##.main-news-more
-opinione.it,ship2shore.it##.manchette
+opinione.it,ship2shore.it,tuttomercatoweb.com##.manchette
 erbanotizie.com,noinotizie.it##.manchette-dx
 erbanotizie.com,noinotizie.it##.manchette-sx
 winenews.it##.manchette_l
