@@ -778,6 +778,7 @@
 ||giornalistitalia.it^*/Casagit-
 ||giornalistitalia.it^*/Cons_Reg_Calabria.jpg
 ||giornalistitalia.it^*/Corecom.jpg
+||girovagandointrentino.it^*-bannerIlDolomiti.
 ||gizchina.it^*-gshopper.
 ||gnoccaforum.com^*/banners/
 ||gnoccatravels.com/files/banner

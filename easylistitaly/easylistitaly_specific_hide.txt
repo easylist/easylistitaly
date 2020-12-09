@@ -341,7 +341,7 @@ unonotizie.it##.add
 24emilia.com,autoscout24.ch,brocardi.it,cb01.online,filmpertutti.lol,filmpertutti.onl,filmpertutti.voto,gamemag.it,hdblog.it,hdmotori.it,hdtroll.it,ilgeniodellostreaming.dance,ilgeniodellostreaming.rest,ilikepuglia.it,live-sport-tv.it,teleborsa.it,viamichelin.ch,viamichelin.it##.ads
 ildolomiti.it##.adsB
 chistachiamando.it,pcprofessionale.it##.adsense
-adessoin.tv,allaguida.it,altreconomia.it,amica.it,ansa.it,buttalapasta.it,calciomercato.com,curioctopus.it,dissapore.com,forbes.it,gelocal.it,gianlucadimarzio.com,gta-expert.it,ilfattoquotidiano.it,ilpost.it,ilsole24ore.com,latina24ore.it,libero.it,mediaset.it,movieplayer.it,multiplayer.it,nanopress.it,notiziemilan.it,pourfemme.it,prealpina.it,radioindiretta.fm,repubblica.it,salepepe.it,skuola.net,staffettaonline.com,stylosophy.it,supereva.it,virgilio.it,vocenuova.tv##.adv
+adessoin.tv,allaguida.it,altreconomia.it,amica.it,ansa.it,buttalapasta.it,calciomercato.com,curioctopus.it,dissapore.com,forbes.it,gelocal.it,gianlucadimarzio.com,girovagandointrentino.it,gta-expert.it,ilfattoquotidiano.it,ilpost.it,ilsole24ore.com,latina24ore.it,libero.it,mediaset.it,movieplayer.it,multiplayer.it,nanopress.it,notiziemilan.it,pourfemme.it,prealpina.it,radioindiretta.fm,repubblica.it,salepepe.it,skuola.net,staffettaonline.com,stylosophy.it,supereva.it,virgilio.it,vocenuova.tv##.adv
 teleunica.com##.adv-body
 centrometeoitaliano.it##.adv-cmi
 animatamente.net##.adv-link
@@ -896,7 +896,7 @@ tvoggisalerno.it##.sow-slider-image-container
 calciocasteddu.it,calciohellas.it,forzamonza.it,usavellino1912.com,virtus.it##.sp-sponsors
 lifegate.it##.special-contents
 comingsoon.it##.sponPro
-bebeez.it,europages.it,ilmonferrato.it,imperiatv.it,legab.it,olimpiamilano.com,repubblica.it,stickmangames.altervista.org##.sponsor
+bebeez.it,europages.it,girovagandointrentino.it,ilmonferrato.it,imperiatv.it,legab.it,olimpiamilano.com,repubblica.it,stickmangames.altervista.org##.sponsor
 luinonotizie.it##.sponsor-background-big
 pallacanestrotrieste.it##.sponsor-carousel
 victorialibertas.it##.sponsor-header
