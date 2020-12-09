@@ -719,6 +719,10 @@
 ||gazzettinodelgolfo.it^*/copacabana-sosta-camper-gaeta-
 ||gazzettinodelgolfo.it^*/intel_solution-
 ||gazzettinodelgolfo.it^*/veneziano_racing-
+||gdonews.it^*/agrisicilia.gif
+||gdonews.it^*/milmil.gif
+||gdonews.it^*/montali.jpg
+||gdonews.it^*/spesapro.png
 ||genoacfc.it^*/1110x95_
 ||genoacfc.it^*/banner-
 ||genoacfc.it^*/NOBERASCO_LOGO-
