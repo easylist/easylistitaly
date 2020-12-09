@@ -757,6 +757,7 @@ sportivissimo.com##.menu4
 altraeta.it,ecoaltomolise.net,lostrillonenews.it,newslinet.com,radiodeltainternational.it,tvcity.it,vulturenews.net##.metaslider
 forumfree.it##.mgbox
 catanzaro7.net##.mh-header-widget-2
+meteoeradar.it##.min-height
 automoto.it,moto.it##.mit-skin-spacer
 acquavivalive.it,altamuralive.it,andrialive.it,barilive.it,barlettalive.it,bisceglielive.it,bitontolive.it,canosalive.com,cassanolive.it,coratolive.it,fasanolive.com,gioialive.it,giovinazzolive.it,gravinalive.it,lavocedimanduria.it,margheritalive.it,minervinolive.it,molfettalive.it,okfirenze.com,okmugello.it,okvaldisieve.it,ruvolive.it,santeramolive.it,terlizzilive.it,termolionline.it,tranilive.it,unicosettimanale.it,viviwebtv.it##.mkt-300x250
 acquavivalive.it,altamuralive.it,andrialive.it,barilive.it,barlettalive.it,bisceglielive.it,bitontolive.it,canosalive.com,cassanolive.it,coratolive.it,fasanolive.com,gioialive.it,giovinazzolive.it,gravinalive.it,lavocedimanduria.it,margheritalive.it,minervinolive.it,molfettalive.it,okfirenze.com,okmugello.it,okvaldisieve.it,ruvolive.it,santeramolive.it,terlizzilive.it,termolionline.it,tranilive.it,unicosettimanale.it##.mkt-300x60
