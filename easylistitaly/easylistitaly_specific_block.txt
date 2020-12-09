@@ -461,6 +461,9 @@
 ||comingsoon.it/imgdb/banner/
 ||comolive.it^*-AVIS-logo-
 ||comprovendodischi.it/images/AMZ-
+||comprovendolibri.it/images/ico-mondadori.jpg
+||comprovendolibri.it/images/ico_FELT.jpg
+||comprovendolibri.it/images/libraccio.jpg
 ||comprovendolibri.it/sponsor/
 ||computer-acquisti.com^*/carlenzoli-yuri.png
 ||comunicalo.it^*-banner.
