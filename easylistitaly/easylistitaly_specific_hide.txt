@@ -1047,7 +1047,7 @@ altadefinizione.coach,altadefinizione.legal,altadefinizione01.army,cb01.director
 cb01.dev,cineblog01.love##a[href*="/FULLHD/"]
 piratestreaming.movie##a[href*="/Guarda4K/"]
 altadefinizione01.green,altadefinizione01.store,cineblog01.love,guardaserie.cam##a[href*="/UHD/"]
-paolociraci.it##a[href*="/ad-click.php"]
+paolociraci.com,paolociraci.it##a[href*="/ad-click.php"]
 ilquotidianodellazio.it,romait.it##a[href*="/ad/click/"]
 forumfree.it##a[href*="/ad_click.php?"]
 telecitynews24.it##a[href*="/ads/"]
