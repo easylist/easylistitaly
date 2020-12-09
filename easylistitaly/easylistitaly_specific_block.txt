@@ -1455,6 +1455,7 @@
 ||parrocchie.it/banner/
 ||passionemaglie.it^*/banner-
 ||perotorino.it/images/banners/
+||pescaralive.it^*/480x400-
 ||pescaralive.it^*/banner-
 ||pharmastar.it^*/banner/
 ||pharmastar.it^*/skins/
