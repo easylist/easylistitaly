@@ -645,6 +645,7 @@ masterviaggi.it##.fieldset_sponsor
 cb01.li,cb01.world,filmsenzalimiti.ink,tantifilm.best,tantifilm.link##.filmad
 luinonotizie.it##.fixed-sponsor
 sassuolooggi.it##.flexslider
+marsicalive.it##.fmhb-container
 udinese.it##.foobar-sponsor
 ilmiostiledivita.it##.footer-columns
 lega-pro.com##.footer-partner
