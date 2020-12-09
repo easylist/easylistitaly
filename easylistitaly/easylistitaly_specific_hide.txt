@@ -964,6 +964,8 @@ romanews.eu##.td_uid_7_5fc0c934d6e11_rand
 tomshw.it##.teetee-embed
 telesud.it##.teles-header-banner
 positanonews.it##.testata
+teleaesse.it##.text-left
+teleaesse.it##.text-right
 bluerating.com##.the_big_banner
 87tv.it,pianetadonne.blog##.theiaStickySidebar
 caleno24ore.it##.themequote
