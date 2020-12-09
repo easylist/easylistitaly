@@ -236,6 +236,7 @@ casateonline.it,merateonline.it###sottotestata
 agendapolitica.it###sow-editor-3
 lnd.it###sp-sponsor
 reggina1914.it###sponsor
+paolociraci.it###sponsor-clima-160x160
 victorialibertas.it###sponsor-footer
 biellaoggi.it,casaleoggi.it,cuneooggi.it,piemonteoggi.it,vercellioggi.it###sponsor_dx
 biellaoggi.it,casaleoggi.it,cuneooggi.it,piemonteoggi.it,vercellioggi.it###sponsor_sx
@@ -286,6 +287,7 @@ notiziarioattrezzature.com,notiziariomotoristico.com###top_bann
 corrieredellacalabria.it###top_banner
 finanza.com###top_content
 goblins.net###top_header
+paolociraci.it###top_sponsor
 tusciaweb.eu###topalto
 everyeye.it###topskin_clicktag
 ilturista.info###tours-tickets-banner
@@ -1045,6 +1047,7 @@ altadefinizione.coach,altadefinizione.legal,altadefinizione01.army,cb01.director
 cb01.dev,cineblog01.love##a[href*="/FULLHD/"]
 piratestreaming.movie##a[href*="/Guarda4K/"]
 altadefinizione01.green,altadefinizione01.store,cineblog01.love,guardaserie.cam##a[href*="/UHD/"]
+paolociraci.it##a[href*="/ad-click.php"]
 ilquotidianodellazio.it,romait.it##a[href*="/ad/click/"]
 forumfree.it##a[href*="/ad_click.php?"]
 telecitynews24.it##a[href*="/ads/"]

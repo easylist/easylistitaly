@@ -1435,6 +1435,8 @@
 ||palermoparla.news^*/banner_
 ||pallacanestrobiella.it/images/edilnol-
 ||pallacanestrovarese.it^*/loghi-top/
+||paolociraci.com/sponsor/
+||paolociraci.it/media/coico-
 ||papaboys.org^*/banner-
 ||paradisetv.eu/paradisetvloghiok2019.jpg
 ||parmareport.it^*/320x250_
