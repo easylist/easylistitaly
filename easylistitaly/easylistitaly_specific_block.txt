@@ -2221,6 +2221,8 @@
 ||unicasport.it^*-Banner-
 ||unicoebello.it^*-380x380
 ||unimondo.org^*/banner/
+||unitremilano.it^*/compro-rame-
+||unitremilano.it^*/Wall-Specialist-
 ||universoinformatico24.it^*/banner-
 ||unonotizie.it/immagini/banner/
 ||uominietrasporti.it^*/Auto-doc.
