@@ -633,6 +633,7 @@ ilpaesenuovo.it##.e3lanat-layout-rotator
 stile.it##.egg-container
 beneficicurcuma.it##.elementor-cta
 menteinformatica.it##.elementor-element-df7936e
+ekuonews.it##.elementor-element-ffc0651
 tvrxenon.it##.elementor-image-carousel-wrapper
 affaritaliani.it##.eni
 garganotv.com##.erzodfm-container

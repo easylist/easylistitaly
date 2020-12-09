@@ -588,6 +588,16 @@
 ||edilportale.com/Banner/
 ||edilportale.com/immagini/velux_manchette
 ||efficacemente.com^*/banner-
+||ekuonews.it^*-banner.
+||ekuonews.it^*/4095ABA0-B212-4280-98F3-91DC384E5A9A.jpeg
+||ekuonews.it^*/AE9AA2FB-A433-498A-99B3-FA9A9E17426C-2048x1808.jpeg
+||ekuonews.it^*/banner-
+||ekuonews.it^*/banner_
+||ekuonews.it^*/bbc-basciano.jpg
+||ekuonews.it^*/D5473559-2D8F-4BF5-A9FB-04CD8916D24C.gif
+||ekuonews.it^*/logo-vettoriale-Moretti-solo-logo-300.jpg
+||ekuonews.it^*/test-covid.gif
+||ekuonews.it^*/zonacottura.gif
 ||elaborare.com^*/banner
 ||elivebrescia.tv^*/banner-
 ||elletvweb.it^*/89647628_2525170104423784_4449633659648999424_
