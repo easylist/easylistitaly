@@ -1254,6 +1254,8 @@
 ||metallized.it/banner/
 ||meteoaquilano.it/images/Banner
 ||meteoaquilano.it/images/logo_
+||meteoaquilano.it/images/Nuovo_Banner_
+||meteoaquilano.it/images/pianeta_ciclo_
 ||meteoaquilano.it/Sponsor/
 ||meteofinanza.com^*/1920x1080_
 ||meteofinanza.com^*/eToro.png
