@@ -1823,6 +1823,8 @@
 ||sienanews.it^*_banner_
 ||skuola.net/assets/js/mm-banner-manager.js?
 ||soccermagazine.it^*/CORREVA_TER.jpg
+||sololibri.net/amazon.png
+||sololibri.net/ibs.png
 ||sora24.it/banner/
 ||sora24.it^*/amazon-prime-
 ||spoletonline.com/banner/
