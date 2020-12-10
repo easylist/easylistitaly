@@ -2408,6 +2408,7 @@
 ||wordpress.com^*_reclame_$domain=biella24.com
 ||worldofwrestling.it^*/wow.gif
 ||wp.com/catanista.eu/*/nextopening.png
+||wp.com/esportsitalia.com/*/corsi-coaching-esports.png
 ||wp.com/genovaquotidiana.com/*-320x320-
 ||wp.com/guerrestellari.net/*/Amazon_
 ||wp.com/ilclandestinogiornale.italiasera.it/*/autofficina-nettuno.gif

@@ -277,6 +277,7 @@ grossetosport.com###text-44
 giornalistitalia.it###text-46
 birramoriamoci.it,giornalesm.com###text-5
 incucinaconelena.it###text-7
+esportsitalia.com###text-8
 telemia.it###text-9
 certificatejournal.it,finanza.com###top-banner
 calciomercato.com###top-banner-container
