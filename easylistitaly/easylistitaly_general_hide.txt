@@ -44,6 +44,7 @@
 ###adv_Skin_left
 ###adv_Skin_right
 ###adv_Skin_top
+###adv_adagio
 ###adv_annuncio_promo_1
 ###adv_click
 ###adv_gda
