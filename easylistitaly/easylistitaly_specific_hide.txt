@@ -671,6 +671,7 @@ giornalerossoblu.it,telepegaso.it##.gallery-item
 1001giochi.it##.game-leaderboard
 zerocinquantuno.it##.gdlr-logo
 1001giochi.it##.general-leaderboard
+sportytrader.it##.go-to-bonus
 nextpit.it##.gptSlot
 3bmeteo.com##.gpt_top
 sorrisi.com##.gtv-trigger-elevator
