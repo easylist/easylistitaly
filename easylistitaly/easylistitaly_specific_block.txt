@@ -1069,6 +1069,8 @@
 ||lagazzettadilucca.it^*/inserzioni/
 ||lagazzettadimassaecarrara.it^*/Banner-
 ||lagazzettadimassaecarrara.it^*/inserzioni/
+||lagenziadiviaggi.it^*-300x600-
+||lagenziadiviaggi.it^*/okSKIN-
 ||lagomaggiore24.it/images/banner/
 ||lagone.it^*-300x150-
 ||lagone.it^*-e1577613770348.

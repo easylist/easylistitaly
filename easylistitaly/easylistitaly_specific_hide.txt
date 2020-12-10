@@ -683,7 +683,7 @@ ecwgcortina2016.it,ilgeniodellostreaming.dance,ilgeniodellostreaming.rest,ilgeni
 ecwgcortina2016.it,ilgeniodellostreaming.dance,ilgeniodellostreaming.rest,ilgeniodellostreaming.to,ilgeniodellostreamings.com,ilgeniodellostreamings.it##.guardasingleserie2
 quattroruote.it##.halfPageBanner2
 emmelle.it##.header-ainfo
-ecodelcinema.com,ondatv.tv##.header-banner
+ecodelcinema.com,lagenziadiviaggi.it,ondatv.tv##.header-banner
 nuovosud.it##.header-banner-wrapper
 calciomercato.com##.header-banner__container
 lanuovacalabria.it##.headerBanner
@@ -720,6 +720,7 @@ juventus.com##.jcom-o-sponsors-nav__child
 superscommesse.it##.js_tracking_gtm
 pornototale.com##.js_webcam_models_container
 nientepopcorn.it##.justwatch
+lagenziadiviaggi.it##.lagen-skin
 cookaround.com##.lancio-speciale-logo
 libero.it##.lancio_promo
 bluerating.com##.large_home_adv
@@ -1076,7 +1077,7 @@ migliorisitistreaming-hd.blogspot.com,vivasicilia.com##a[href*="/go/"]
 ilgeniodellostreaming.gold##a[href*="/guarda-hd.php"]
 cineblog01.bid##a[href*="/guarda4k.php"]
 eurostreaming.ca,filmsenzalimiti.bz,filmsenzalimiti.ink,ilgeniodellostreaming.xyz,piratestreaming.eu,tantifilm.link##a[href*="/hd/"]
-altomantovanonews.it,autobusweb.com,citynow.it,corriereromagna.it,firstonline.info,fortuneita.com,iocaccio.it,latinacorriere.it,latinaquotidiano.it,mantovasport24.it,mantovauno.it,oltrepomantovanonews.it,triesteallnews.it##a[href*="/linkout/"]
+altomantovanonews.it,autobusweb.com,citynow.it,corriereromagna.it,firstonline.info,fortuneita.com,iocaccio.it,lagenziadiviaggi.it,latinacorriere.it,latinaquotidiano.it,mantovasport24.it,mantovauno.it,oltrepomantovanonews.it,triesteallnews.it##a[href*="/linkout/"]
 supercoin.it##a[href*="/out/"]
 cineblog01.green##a[href*="/premium-download.php"]
 cineblog01.place##a[href*="/scar-hd.php"]
