@@ -463,6 +463,7 @@ cineblog01.green##.banner4k
 doctor33.it##.bannerBot
 torinofc.it##.bannerColDxStd
 djmagitalia.com##.bannerExtra
+pressgiochi.it##.bannerFila
 puntosicuro.it##.bannerLeader
 cattolica.info##.bannerRandomSingolo
 filmtv.it##.bannerRight
@@ -662,6 +663,7 @@ telelazionord.it##.footer_top_banner
 aeroporto.net##.form_auto_iata
 quattroruote.it##.four-box-sponsor
 quattroruote.it##.fullBanner
+pressgiochi.it##.full_width_banner
 agro24.it##.fullwidthbanner-container
 legnagocalcio.it##.fusion-carousel-holder
 anteprima24.it,bitquotidiano.it,bolognaindiretta.it,buttanissima.it,centropagina.it,corrieresalentino.it,gazzettadasti.it,gdonews.it,giornaledellabirra.it,giornaledellavela.com,ilfattonisseno.it,ilsicilia.it,informazioneonline.it,junglam.com,labtv.net,latina24ore.it,lavalsusa.it,lavocedeltrentino.it,lavocedibolzano.it,lineauno.it,milanosud.it,modenaindiretta.it,oltrefano.it,padovacalcio.it,qds.it,quicosenza.it,radioibiza.it,reggionline.com,reportmotori.it,reteabruzzo.com,rietinvetrina.it,rivistastudio.com,sportmagazinetrentino.it,statoquotidiano.it,superj.it,tarantobuonasera.it,telebari.it,ticinonotizie.it,travelnostop.com,unicoebello.it##.g

@@ -1522,6 +1522,12 @@
 ||positanonotizie.it^*/b1nn3r/
 ||positanonotizie.it^*/banner/
 ||prealpina.it/js/manzoni_interna.js
+||pressgiochi.it^*-300-x-90.
+||pressgiochi.it^*/acme-1.gif
+||pressgiochi.it^*/NovomaticBOX_
+||pressgiochi.it^*1200x80
+||pressgiochi.it^*300x90
+||pressgiochi.it^*_banner_
 ||primapaginamolise.it/banner/
 ||primaradio.net^*/LaTorre.gif
 ||primocanale.it/img/banner/
