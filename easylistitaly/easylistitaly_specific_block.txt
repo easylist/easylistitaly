@@ -611,6 +611,8 @@
 ||epolisbari.com/banner/
 ||erbanotizie.com^*/banner_
 ||erbanotizie.com^*_multibanner_
+||esportsactivity.com^*-300-x-300.
+||esportsactivity.com^*/processed.jpeg
 ||estrazionedellotto.it/images/gioco-del-lotto.gif
 ||estrazionedellotto.it/images/logos/
 ||eunews.it^*/Banner-300x300_
