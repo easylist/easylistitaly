@@ -257,7 +257,7 @@ diretta.it###tab-odds
 gamesvillage.it###takeover_gv
 radioluna.it###testata
 studio5fm.com###text-13
-finaria.it###text-14
+esportsonline.it,finaria.it###text-14
 finaria.it###text-15
 finaria.it###text-16
 giornalistitalia.it,noinotizie.it###text-19
@@ -1020,6 +1020,7 @@ transfermarkt.it##.werbung
 transfermarkt.it##.werbung-skyscraper
 spettegolando.it##.wf-widget-container
 wired.it##.wia
+esportsonline.it##.widget-above-header
 it.businessinsider.com##.widget-financialounge
 fashionandroid.com##.widget-header
 gelocal.it,ilsecoloxix.it,lastampa.it,repubblica.it##.widget-sponsor--container
