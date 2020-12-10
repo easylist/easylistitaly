@@ -788,7 +788,7 @@ virgilio.it##.newboxIs
 virgilio.it##.newboxIsOrizz
 ansa.it##.news-special-box
 montagna.tv##.news-sponsorizzate
-lagazzettaaugustana.it,obiettivonews.it##.nivo-imageLink
+lagazzettaaugustana.it,obiettivonews.it,plaffo.com##.nivo-imageLink
 goodtrekking.it##.no-one
 filmpertutti.lol,filmpertutti.onl,filmpertutti.voto##.no_pop
 ilpiccolo.net##.nocornice_banner
@@ -1171,6 +1171,7 @@ affaritaliani.it##div[style="margin-top:10px;height:90px"]
 stadionews.it##div[style="margin-top:20px; margin-bottom:10px; float:left; margin-right:10px; width: 300px; height: 250px;"]
 sicilianews24.it##div[style="margin-top:20px; margin-bottom:10px; float:left; margin-right:10px; width: 300px; height: 540px !important;"]
 affaritaliani.it##div[style="margin-top:6px;margin-bottom:10px;padding: 9px; border: 1px solid #ccc; zoom:1;overflow:hidden;height:80px;width:280px;font: normal 12px/14px arial, sans-serif"]
+plaffo.com##div[style="margin: 30px 0 0 0; line-height: 1.5em; "]
 milannews.it,parmalive.com,sampdorianews.net,torinogranata.it,tuttonapoli.net##div[style="min-height: 120px;"]
 lalaziosiamonoi.it,notiziariocalcio.com,tuttoveneziasport.it##div[style="min-height: 250px; max-height: 600px; overflow: hidden; width: 300px; margin: auto;"]
 politicanews.it##div[style="min-height: 250px;"]
