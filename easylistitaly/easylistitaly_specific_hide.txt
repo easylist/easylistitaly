@@ -959,7 +959,7 @@ romagiallorossa.it##.td-container-header
 radioradio.it##.td-fix-index
 amoreaquattrozampe.it##.td-footer-container
 ilgiornaledeltermoidraulico.it,pescaracalcio.com,tennispavese.it,ternanacalcio.com##.td-footer-wrapper
-4actionsport.it##.td-header-rec-wrap
+4actionsport.it,okpronostico.it##.td-header-rec-wrap
 laspia.it,ragusah24.it,romanews.eu##.td-header-sp-recs
 gdoweek.it##.td-leaderboard-wrap-full
 guidalloshopping.com##.td_btn
