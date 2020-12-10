@@ -1274,6 +1274,8 @@
 ||mercuriomagazine.com^*/banner_
 ||meridiananotizie.it^*/123.jpg
 ||messinaoggi.it^*/esemep
+||messinasportiva.it^*/Banner-
+||messinasportiva.it^*/tuttiautopezzi_
 ||messinaweb.tv^*/ricambi-24-
 ||metallized.it/banner/
 ||meteoaquilano.it/images/Banner
