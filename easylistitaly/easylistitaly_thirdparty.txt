@@ -180,6 +180,7 @@
 ||stbm.it/img/banner/300x100_
 ||stgy.it/images/banner-
 ||stgy.it/images/skin/
+||supercalcioextra.com^$domain=laprevisione.it
 ||tamtamsrl.it/dreamteam/banner/
 ||tccstatic.com^*/banner/
 ||tccstatic.com^*/skin/
