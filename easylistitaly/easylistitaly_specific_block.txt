@@ -1354,6 +1354,7 @@
 ||newsfood.com^*/Webbanner_
 ||newsfood.com^*_banner_
 ||newsly.it^*/aawp/
+||nintendari.it^*/instagaming.jpg
 ||noinotizie.it^*/halos.jpg
 ||noitv.it^*-Banner-
 ||noitv.it^*/banner-

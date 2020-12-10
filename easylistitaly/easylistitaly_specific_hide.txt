@@ -110,6 +110,7 @@ tefchannel.it###ctl00_cphBody_mcsBannerShortTop_pnlSlot
 tefchannel.it###ctl00_cphBody_mcsSlotBannerBottom_rptGallery_ctl00_lnkLink
 tefchannel.it###ctl00_cphBody_mcsSlotBannerTop_rptGallery_ctl01_lnkLink
 teleborsa.it###ctl00_if4WTV300x250
+nintendari.it###custom_html-17
 birramoriamoci.it###custom_html-2
 strill.it###custom_html-25
 melarossa.it###custom_html-5
