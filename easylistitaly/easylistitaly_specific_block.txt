@@ -2138,6 +2138,16 @@
 ||trmtv.it^*/banner_
 ||trmweb.it^*/banner-
 ||trnews.it^*/Banner-
+||tropeaedintorni.it^*/BanneBBLibertinoTropea.jpg
+||tropeaedintorni.it^*/BannerLibertino2018-300X150.jpg
+||tropeaedintorni.it^*/barrittamassimo.jpg
+||tropeaedintorni.it^*/Gelateria-del-Borgo.jpg
+||tropeaedintorni.it^*/GommistaLaTorre.jpg
+||tropeaedintorni.it^*/Idroclima-815x235.jpg
+||tropeaedintorni.it^*/LaPraiaZambrone.jpg
+||tropeaedintorni.it^*/NoleggioLaTorre.jpg
+||tropeaedintorni.it^*/Primigi-Igico.jpg
+||tropeaedintorni.it^*/RosticceriaParghelia.jpg
 ||trs98.it^*/82651-
 ||trs98.it^*/medical-leader-
 ||trs98.it^*/mediterranea-servizi.
