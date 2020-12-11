@@ -135,6 +135,7 @@
 ##.adv-skin
 ##.adv-sponsor__content
 ##.adv-strip-container
+##.adv-testata
 ##.adv-wpz
 ##.adv100
 ##.adv300eni
