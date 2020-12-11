@@ -71,6 +71,7 @@
 ||newclick.com^$third-party
 ||noddus.com^$third-party
 ||novadv.com^$third-party
+||open-up.it^$third-party
 ||overbrowser.com^$third-party
 ||ovoadv.com^$third-party
 ||pagetvu.com^$third-party
