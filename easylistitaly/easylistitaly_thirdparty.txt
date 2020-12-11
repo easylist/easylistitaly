@@ -201,5 +201,6 @@
 ||wecoclub.it^*_banner_
 ||widget.getyourguide.com^*&partner_id=$third-party
 ||widget.promoqui.it^
+||wp.com/it.jooble.org/css/images/logos/jooble_135x110.png
 ||ws.shoppydoo.com^$third-party
 ||yoox.it/view.aspx?$subdocument,third-party
