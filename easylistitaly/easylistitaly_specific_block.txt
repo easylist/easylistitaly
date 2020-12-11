@@ -811,6 +811,7 @@
 ||gommadiretto.it/simg/schaufenster_rechts/
 ||gommeblog.it^*/Gommadiretto-
 ||gommeblog.it^*/Gommadiretto.
+||gomorraweb.com^*/granvesuvio-
 ||gonews.it^*_Banner-
 ||gratisfree.it/cgi-bin/bannergest$script
 ||greenews.info/wp-content/banners/
