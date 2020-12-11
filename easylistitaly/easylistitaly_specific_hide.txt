@@ -604,6 +604,7 @@ brindisisera.it,brindisisettenews.it##.cont_banner
 tiscali.it##.container_b_1
 frasimania.it##.content-banner
 cookist.it,fanpage.it##.content-leaderboard
+lookdavip.tgcom24.it##.conteprodotto > a[target="_blank"]
 salernonotizie.it##.contskin
 lasesia.vercelli.it##.copy_banner
 ilpiccolo.net##.cornice_banner
