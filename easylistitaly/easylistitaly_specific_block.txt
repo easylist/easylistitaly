@@ -933,6 +933,7 @@
 ||ilgiornaledisalerno.it^*/mediblue.gif
 ||ilgiornaledisalerno.it^*/Pop_up_Damico_
 ||ilgiornaledisalerno.it^*/scatolificio-quadrato.jpg
+||ilgiornaleditalia.it^*/CAMBIAGESTO.gif
 ||ilgiornaleoff.ilgiornale.it^*-300x250mm.
 ||ilgiornaleoff.ilgiornale.it^*/Banner-
 ||ilgiornaleoff.ilgiornale.it^*/Banner_
