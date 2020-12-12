@@ -2095,6 +2095,7 @@
 ||torinofc.it^*/header_loghi/
 ||torinofc.it^*/sponsor/
 ||torinotoday.it/images/skin/
+||torresette.news/img/banner/
 ||toscana.live^*/Auxilium-Vitae-
 ||toscana.live^*/partners
 ||toscanagol.it/immagini/File_banner/

@@ -229,7 +229,7 @@ iovivoaroma.org###skin_link_dx
 iovivoaroma.org###skin_link_sx
 cronacheancona.it,cronachefermane.it,cronachemaceratesi.it###skinabove
 emiliagol.it###skinclick
-buongiornoalghero.it,freeonline.org,itvonline.news,lospiffero.com,planetmountain.com,salernonotizie.it###skinlink
+buongiornoalghero.it,freeonline.org,itvonline.news,lospiffero.com,planetmountain.com,salernonotizie.it,torresette.news###skinlink
 bisceglielive.it,eurogamer.it,gommadiretto.it###skyscraper
 mail1.libero.it###slink-dx
 mail1.libero.it###slink-sx
@@ -448,6 +448,8 @@ canavesenews.it##.banner-slider
 qualenergia.it##.banner-space
 vienormali.it##.banner-testata
 frasimania.it##.banner-top
+torresette.news##.banner-top-left
+torresette.news##.banner-top-right
 edilportale.com##.banner-velux
 milanofinanza.it##.banner-video
 telegranducato.it##.banner-wrap
@@ -605,6 +607,7 @@ edilportale.com##.cont-leaderBoard
 brindisisera.it,brindisisettenews.it##.cont_banner
 tiscali.it##.container_b_1
 frasimania.it##.content-banner
+torresette.news##.content-banner-right
 cookist.it,fanpage.it##.content-leaderboard
 lookdavip.tgcom24.it##.conteprodotto > a[target="_blank"]
 salernonotizie.it##.contskin
