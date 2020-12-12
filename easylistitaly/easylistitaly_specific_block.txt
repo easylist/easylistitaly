@@ -14,7 +14,6 @@
 ||4actionsport.it^*/skin-
 ||51news.it/images/banners/
 ||51news.it/images/banners_
-||macplas.it/archivioFiles/Banner/
 ||7per24.it^*/Banco_Alimentare.
 ||7per24.it^*/legacoop.
 ||7per24.it^*/logoBoorea2-
@@ -1222,6 +1221,7 @@
 ||lyricsmusica.it/img/offerte-sconti.png
 ||macitynet.it^*/macitybig
 ||macitynet.it^*/macitynettrendeviceborsa.jpg
+||macplas.it/archivioFiles/Banner/
 ||magicapro.it^*-600x100.
 ||magodelpronostico.com^*/banner-
 ||maidireborsa.it^*/image004-

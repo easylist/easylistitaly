@@ -18,7 +18,6 @@ amazon.it###ape_search_btf_search-mWeb_wrapper
 palermomania.com###area_banner_top
 toplegal.it###askin1
 toplegal.it###askin2
-macplas.it##.banner-2-img
 altarimini.it###attivitaEvidenza
 eurogamer.it###auto-amazon-link
 gnoccatravels.com###b-nner-right-list
@@ -31,6 +30,7 @@ rimini.com###bann-top-dx
 daneel59.altervista.org,ilmioip.it,superwheels.net###banner
 bresciaoggi.it,ilgiornaledivicenza.it,larena.it###banner-autodoc
 veneziafc.it###banner-box-up
+quotidianocanavese.it###banner-column
 canavesenews.it###banner-left-bottom
 canavesenews.it###banner-left-top
 cuneocronaca.it,larivieraonline.com,oggitreviso.it,piccolenote.ilgiornale.it###banner-top
@@ -420,6 +420,7 @@ cottoepostato.it##.bann-300-250
 olbianotizie.it##.bann_square
 agi.it,america24.com,casateonline.it,ciaocomo.it,cremonaoggi.it,cronacheancona.it,cronachefermane.it,cronachemaceratesi.it,cuneocronaca.it,dagospia.com,designmag.it,difesaonline.it,diretta.it,ejatv.com,euroregionalpmed.eu,foodweb.it,globalist.it,gossip.it,guidaviaggi.it,html.it,ilfriuli.it,ilturista.info,informacalcio.quotidiano.net,irpinianews.it,key4biz.it,lavoripubblici.it,legnanonews.com,lipari.biz,merateonline.it,meteoweb.eu,modellismopiu.it,oggitreviso.it,radionorba.it,riassuntini.com,rockit.it,sassarinotizie.com,secoloditalia.it,sostariffe.it,sportevai.it,strettoweb.com,teatronaturale.it,technologyreview.it,telejato.it,tenews.it,tg24.info,traniviva.it,varesenews.it,vconews.it,verbanonews.it,vocenuova.tv##.banner
 m100.it##.banner-1
+macplas.it##.banner-2-img
 welfarenetwork.it##.banner-468-hp
 notetralerighe.it##.banner-amazon-music
 parmareport.it##.banner-big
@@ -695,7 +696,7 @@ ecwgcortina2016.it,ilgeniodellostreaming.dance,ilgeniodellostreaming.rest,ilgeni
 ecwgcortina2016.it,ilgeniodellostreaming.dance,ilgeniodellostreaming.rest,ilgeniodellostreaming.to,ilgeniodellostreamings.com,ilgeniodellostreamings.it##.guardasingleserie2
 quattroruote.it##.halfPageBanner2
 emmelle.it##.header-ainfo
-ecodelcinema.com,lagenziadiviaggi.it,ondatv.tv##.header-banner
+ecodelcinema.com,lagenziadiviaggi.it,ondatv.tv,quotidianocanavese.it##.header-banner
 nuovosud.it##.header-banner-wrapper
 calciomercato.com##.header-banner__container
 lanuovacalabria.it##.headerBanner
