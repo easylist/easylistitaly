@@ -18,6 +18,7 @@ amazon.it###ape_search_btf_search-mWeb_wrapper
 palermomania.com###area_banner_top
 toplegal.it###askin1
 toplegal.it###askin2
+macplas.it##.banner-2-img
 altarimini.it###attivitaEvidenza
 eurogamer.it###auto-amazon-link
 gnoccatravels.com###b-nner-right-list
@@ -49,7 +50,7 @@ odontoiatria33.it###banner_lato
 odontoiatria33.it###banner_lato_due
 subito.it###banner_leaderboard
 notiziediprato.it###banner_strip
-gruppovideomedia.it,radiovalbelluna.it###banner_top
+gruppovideomedia.it,monitorimmobiliare.it,radiovalbelluna.it###banner_top
 fiorentinanews.com###banneralto
 ondarock.it###bannerhomebottom
 ondarock.it###bannerhometop
@@ -747,7 +748,7 @@ lacnews24.it##.left-side
 laleggepertutti.it##.lexdo-banner
 laleggepertutti.it##.lexdo-llpt
 business24tv.it##.link-at-body
-winenews.it##.link_skin
+monitorimmobiliare.it,winenews.it##.link_skin
 skillandbet.com##.list-unstyled
 diretta.it##.live-betting-strip
 sorrisi.com##.live-news-advbox

@@ -14,6 +14,7 @@
 ||4actionsport.it^*/skin-
 ||51news.it/images/banners/
 ||51news.it/images/banners_
+||macplas.it/archivioFiles/Banner/
 ||7per24.it^*/Banco_Alimentare.
 ||7per24.it^*/legacoop.
 ||7per24.it^*/logoBoorea2-
@@ -1324,6 +1325,9 @@
 ||money.it/box-amazon/
 ||money.it^*/box-amazon.js
 ||money.it^*/etoro/
+||monitorimmobiliare.it^*-skin-
+||monitorimmobiliare.it^*_970x70_
+||monitorimmobiliare.it^*_skin_
 ||montecarlonews.it^*/banner/
 ||montecarlonews.it^*/box/
 ||monza-news.it^*/BeExtreme.jpg
