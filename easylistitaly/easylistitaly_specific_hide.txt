@@ -160,6 +160,7 @@ transfermarkt.it###home-rectangle-spotlight
 rovigooggi.it###home-super-space
 telegolfo.com###html_javascript_adder-16
 affaritaliani.it###immo-300x250
+ilfattoquotidiano.it###immo-form-container-300x350
 cronacheancona.it,cronachefermane.it,cronachemaceratesi.it###infooter
 sienafree.it###ja-banner300x250
 sienafree.it###ja-bannertop300x250
