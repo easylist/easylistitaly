@@ -44,6 +44,7 @@ ondarock.it###banner_300x250
 ondarock.it###banner_300x250_slot3
 ondarock.it###banner_300x250_slot4
 contosulconto.it###banner_content
+vocidicitta.it###banner_footer_728
 cronachedibirra.it###banner_in-article
 cronachedibirra.it###banner_in-article_adv
 odontoiatria33.it###banner_lato
