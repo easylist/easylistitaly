@@ -60,6 +60,13 @@
 ||albengacorsara.it/libri/
 ||albengacorsara.it/promo/
 ||albinoleffe.com/images/banners/
+||alessandria24.com^*-300x300px-
+||alessandria24.com^*-banner-
+||alessandria24.com^*/Banner300x300_
+||alessandria24.com^*/centralcar.jpg
+||alessandria24.com^*/Davide.jpg
+||alessandria24.com^*/SNEP_web.gif
+||alessandria24.com^*/via-san-lorenzo.jpg
 ||alessandriacalcio.it^*/banner_
 ||alfamitoclub.it/images/banner/
 ||alfamitoclub.it/images/sponsor/
