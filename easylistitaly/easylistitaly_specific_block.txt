@@ -1910,6 +1910,9 @@
 ||sportpaper.it^*/PayFan-
 ||sportpaper.it^*/PayFan.
 ||spotmix.libero.it^
+||sprintesport.it^*/PRENOTAMI24-
+||sprintesport.it^*/xGARANZIA-GIOVANI-
+||sprintesport.it^*_970x250-
 ||ssarezzo.it^*-sponsor-
 ||ssarezzo.it^*/Partner-
 ||ssarezzo.it^*/Premium-per-
