@@ -411,6 +411,7 @@ subito.it##.autopromo
 uspistoiese1921.it##.av-partner-fake-img
 ciaoporno.it##.aviso
 amazon.it##.aw-campaigns
+gamelegends.it##.awac-wrapper
 gnoccatravels.com##.b-nner-desktop-block
 amalfinews.it,ilvescovado.it,liratv.it,occhisusalerno.it,positanonotizie.it##.b1nn3rs
 virgilio.it##.b300x250
