@@ -162,6 +162,7 @@
 ##.advhead
 ##.advnext_correlati
 ##.advricaricamediamond
+##.alp-advert
 ##.av-banner-728X90
 ##.avadvslot
 ##.barraSipra
