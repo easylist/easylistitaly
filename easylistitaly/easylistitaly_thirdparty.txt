@@ -91,6 +91,7 @@
 ||ilpelonelluovo.net/banner/
 ||iltelaiodipenelope.it/banner_exchange/
 ||imgbox.com^$domain=funoanalisitecnica.com|marcheingol.it|venetogol.it
+||imgix.net/715335a0c32a3a51fd84da3af3c399853fe31204.jpg$domain=videogamezone.eu
 ||imgur.com^$domain=ilgeniodellostreaming.gy|venetogol.it
 ||immagineweb.net^$domain=zerosette.it
 ||immobiliagest.it^$subdocument,third-party
