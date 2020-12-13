@@ -1584,6 +1584,7 @@
 ||qdmnotizie.it^*-Skin_
 ||qdmnotizie.it^*_banner-
 ||qdpnews.it/images/banners/
+||quattroruote.it^*/box-eni-
 ||quellidellelica.com/images/banners/
 ||quicosenza.it^*/pirro300x407.gif
 ||quinewsabetone.it^/skin/

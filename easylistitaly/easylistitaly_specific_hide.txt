@@ -951,6 +951,7 @@ radiorcs.it##.spotaltosottomenutre
 radiorcs.it##.spotcentrato
 pmi.it##.sticky-banner
 sportytrader.it##.sticky-header_banner_first
+quattroruote.it##.sticky-sponsor
 occhionotizie.it##.sticky_bar_container
 webnews.it##.sticky_wrapper
 andreagaleazzi.com##.store-box
