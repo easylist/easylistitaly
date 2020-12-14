@@ -1411,6 +1411,7 @@
 ||noitv.it^*/banner_
 ||noitv.it^*/clasiss-
 ||nokioteca.net/_immagini/Nokia2720-2.
+||nonsolomodanews.it^*-768x494.
 ||normanno.com^*/motordoctor-
 ||notiziarioeolie.it/images/banners/
 ||notiziediprato.it/caricaBannerIframe/
