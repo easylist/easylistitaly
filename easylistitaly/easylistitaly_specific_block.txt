@@ -1035,6 +1035,7 @@
 ||itacanotizie.it^*/e4dv-
 ||italia.fm^*/leaseweb.gif
 ||italiaatavola.net/images/banners/
+||italiaatavola.net/show_banner.aspx
 ||italiachecambia.org^*-768x116-
 ||italiaciclismo.net/images/banner_
 ||italiafruit.net/Public/Upload/Banner/
