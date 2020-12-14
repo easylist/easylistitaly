@@ -1036,7 +1036,10 @@
 ||italia.fm^*/leaseweb.gif
 ||italiaatavola.net/images/banners/
 ||italiaatavola.net/show_banner.aspx
+||italiachecambia.org^*-1024x155.
 ||italiachecambia.org^*-768x116-
+||italiachecambia.org^*-banner-
+||italiachecambia.org^*/banner-
 ||italiaciclismo.net/images/banner_
 ||italiafruit.net/Public/Upload/Banner/
 ||italiani.it^*/compramadeinitaly.jpg
