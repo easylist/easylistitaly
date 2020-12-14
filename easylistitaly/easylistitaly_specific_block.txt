@@ -1388,7 +1388,11 @@
 ||necrologivercelli.it/images/promo-
 ||nerdplanet.it^*/banner.
 ||nerdplanet.it^*/batmanultimo2017.
+||netdna-ssl.com^*-banner-$domain=reggionline.com
+||netdna-ssl.com^*/banner-$domain=reggionline.com
+||netdna-ssl.com^*/banner_$domain=reggionline.com
 ||netdna-ssl.com^*/lazio-europa.gif$domain=radiocolonna.it
+||netdna-ssl.com^*/skin-$domain=reggionline.com
 ||news-24.it^*/skin-
 ||newscatania.com^*_Petrol-Company.
 ||newsf1.it^*/promozione-libro-
