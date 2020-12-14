@@ -1031,10 +1031,12 @@
 ||iovivoaroma.org/public/banners/
 ||irnonotizie.it^*/logo_territorio_sostenibile-
 ||irrigazioneagricoltura.it^*/GIF-Garden4us.gif
+||itacanotizie.it^*/300x300-
 ||itacanotizie.it^*/37-striscia-
 ||itacanotizie.it^*/banner-
 ||itacanotizie.it^*/banner_
 ||itacanotizie.it^*/bj-3_
+||itacanotizie.it^*/casano-
 ||itacanotizie.it^*/e4dv-
 ||italia.fm^*/leaseweb.gif
 ||italiaatavola.net/images/banners/
