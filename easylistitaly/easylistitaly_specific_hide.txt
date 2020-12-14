@@ -1305,6 +1305,8 @@ sportevai.it##p[style="margin-top: 30px; border: 1px solid #0D8600; padding: 10p
 sportevai.it##p[style="margin-top: 30px; border: 1px solid #0D8600; padding: 10px; font-weight: bold; text-align: center;"]
 livornolive.it##rs-mask-wrap[style="width: 100% !important; height: 100% !important; position: absolute; display: block; overflow: visible;"]
 bloopers.it##table[name="banner.tbl"]
+! Advanced element hiding rules for Adblock Plus
+innaturale.com#?#.ruby-block-wrap:-abp-has(a:-abp-contains(SPONSORED))
 ! Site Specific filters (used with $generichide)
 msn.com##a[href^="https://marketing.net.occhiali24.it/"]
 msn.com##a[href^="https://prf.hn/"]
