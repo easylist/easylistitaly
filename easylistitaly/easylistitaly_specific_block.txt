@@ -1020,6 +1020,7 @@
 ||informare.it/images/shipstore
 ||informazioneonline.it/wp-content/banners/
 ||ingleseprecoce.it^*-400x400.
+||innaturale.com^*/banner-
 ||innovami.news^*/banner-
 ||inside.bz.it/images/banners/
 ||inter.it^*/partners/

@@ -728,6 +728,7 @@ sportytrader.it##.ilo
 oroscopi.info##.img_oroscopo_personalizzato
 mrw.it##.inadv
 mrw.it##.inadv-label
+innaturale.com##.innat-widget
 tomshw.it##.instant-gaming-widget
 milanofinanza.it##.intesahead
 dailybest.it##.intextbanner
