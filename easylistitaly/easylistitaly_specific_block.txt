@@ -851,6 +851,7 @@
 ||guidaviaggi.it/public/banners/
 ||gwendalina.tv^*/stickybar_script-
 ||h24notizie.com^*/AQL-
+||hellogreen.it^*/libro-del-mese-
 ||hellogreen.it^*600x600
 ||historychannel.it^*/swissre.
 ||hobbyquotidiano.com^*/amazon_
