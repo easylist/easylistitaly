@@ -132,6 +132,7 @@
 ##.adv-inside-text
 ##.adv-masthead
 ##.adv-promobox
+##.adv-region
 ##.adv-skin
 ##.adv-sponsor__content
 ##.adv-strip-container
