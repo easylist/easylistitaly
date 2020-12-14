@@ -348,6 +348,7 @@ tusciaweb.eu##.ad-article
 tvdream.net##.ad-box
 soluzionicodycross.it,supertv.it##.ad-container
 laltrapagina.it##.ad1
+laltrapagina.it##.ad2
 laltrapagina.it##.ad5
 theitaliantimes.it##.adb
 movietele.it##.adbox
