@@ -1027,6 +1027,7 @@
 ||innovami.news^*/banner-
 ||inside.bz.it/images/banners/
 ||inter.it^*/partners/
+||internapoli.it^*-banner-
 ||internapoli.it^*/banner-
 ||ioamolasicilia.com^*/TOUR-PALERMO-
 ||iocaccio.it^*/Mygra-
