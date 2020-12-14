@@ -1276,6 +1276,7 @@
 ||marsicalive.it^*_banner_
 ||masterviaggi.it/banner/
 ||mattinonline.ch^*/banner_
+||mauxa.com/storage/banner/
 ||maxradio.it/images/55382.jpg
 ||maxradio.it/images/avis_
 ||maxradio.it/images/castello_delle_regine_
