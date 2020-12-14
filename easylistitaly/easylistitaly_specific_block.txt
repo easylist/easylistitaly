@@ -1157,6 +1157,15 @@
 ||legab.it^*/sponsor/
 ||leganavalenews.it^*/banners/
 ||legavolleyfemminile.it^*/MGS_
+||lemillebolleblog.it^*/32BF2A43-6DB9-449A-9E90-7EAA28E2B677.jpeg
+||lemillebolleblog.it^*/37CECC05-6E89-4195-B27E-20F9CE71C332.jpeg
+||lemillebolleblog.it^*/79101B02-8048-48B5-9998-59E0DC76466A.jpeg
+||lemillebolleblog.it^*/9013F046-020B-4872-8BB6-AFD6E5695D1A.jpeg
+||lemillebolleblog.it^*/9A47E3CC-D44E-41CF-A8FD-809A1EA0CD53.jpeg
+||lemillebolleblog.it^*/B93D3D30-D7AB-43BB-9155-48C046F24564.jpeg
+||lemillebolleblog.it^*/LE-MILLE-BOLLE-BLOG_1.gif
+||lemillebolleblog.it^*_320x320_
+||lemillebolleblog.it^*_Banner_
 ||libero.it/_ad/
 ||libero.it/static/generated_external/shopping/
 ||libero.it/static/upll/234x/
