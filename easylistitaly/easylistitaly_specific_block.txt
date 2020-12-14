@@ -773,6 +773,8 @@
 ||giornaleadige.it^*_300x300.
 ||giornaleadige.it^*_300x300_
 ||giornaleadige.it^*_banner_
+||giornaledelcilento.it^*/assitur.jpg
+||giornaledelcilento.it^*/banner_
 ||giornaledellabirra.it^*/Banner-
 ||giornaledellabirra.it^*_banner_
 ||giornaledellavela.com^*1000x80

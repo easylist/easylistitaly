@@ -694,6 +694,8 @@ giornalerossoblu.it,telepegaso.it##.gallery-item
 1001giochi.it##.game-leaderboard
 zerocinquantuno.it##.gdlr-logo
 1001giochi.it##.general-leaderboard
+giornaledelcilento.it##.giorn-prima-del-contenuto
+giornaledelcilento.it##.giorn-widget
 sportytrader.it##.go-to-bonus
 nextpit.it##.gptSlot
 3bmeteo.com##.gpt_top
@@ -1110,7 +1112,7 @@ migliorisitistreaming-hd.blogspot.com,vivasicilia.com##a[href*="/go/"]
 ilgeniodellostreaming.gold##a[href*="/guarda-hd.php"]
 cineblog01.bid##a[href*="/guarda4k.php"]
 eurostreaming.ca,filmsenzalimiti.bz,filmsenzalimiti.ink,ilgeniodellostreaming.xyz,piratestreaming.eu,tantifilm.link##a[href*="/hd/"]
-altomantovanonews.it,autobusweb.com,citynow.it,corriereromagna.it,firstonline.info,fortuneita.com,iocaccio.it,lagenziadiviaggi.it,latinacorriere.it,latinaquotidiano.it,mantovasport24.it,mantovauno.it,oltrepomantovanonews.it,sprintesport.it,triesteallnews.it##a[href*="/linkout/"]
+altomantovanonews.it,autobusweb.com,citynow.it,corriereromagna.it,firstonline.info,fortuneita.com,giornaledelcilento.it,iocaccio.it,lagenziadiviaggi.it,latinacorriere.it,latinaquotidiano.it,mantovasport24.it,mantovauno.it,oltrepomantovanonews.it,sprintesport.it,triesteallnews.it##a[href*="/linkout/"]
 supercoin.it##a[href*="/out/"]
 cineblog01.green##a[href*="/premium-download.php"]
 cineblog01.place##a[href*="/scar-hd.php"]
