@@ -105,6 +105,7 @@
 ||altraeta.it^*/scarica-il-magazine.jpg
 ||altramantova.it/images/banners/
 ||alwaysonboard.it/amazon_
+||amalfinews.it^*/11ce01533bcffb6c0e26ca172c3c149b/
 ||amalfinews.it^*/b1nn3r/
 ||amalfinotizie.it^*/omenu.one_
 ||amazonaws.com^*/5d24b87899c84085287515.jpg$domain=primocomunicazione.it
