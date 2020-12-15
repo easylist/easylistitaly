@@ -1199,6 +1199,7 @@
 ||lineauno.it^*/300x300_
 ||lineauno.it^*/estrawebluce_
 ||lipari.biz/banners/
+||liratv.it^*/11ce01533bcffb6c0e26ca172c3c149b/
 ||liratv.it^*/b1nn3r/
 ||liratv.it^*/banner/
 ||liveuniversity.it^*/970x280-
