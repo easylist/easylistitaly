@@ -16,6 +16,7 @@ amazon.it###ape_detail_btf_detail-mWeb_wrapper
 amazon.it###ape_detail_mobile-hero-quick-promo_mweb_wrapper
 amazon.it###ape_search_btf_search-mWeb_wrapper
 palermomania.com###area_banner_top
+skylinewebcams.com###ask2
 toplegal.it###askin1
 toplegal.it###askin2
 altarimini.it###attivitaEvidenza
@@ -228,6 +229,7 @@ eurogamer.it###prod-buy
 estrazionedellotto.it###promobanner
 flashgames.it###pub_sotto
 odontoiatria33.it###rowHeader
+skylinewebcams.com###rpc
 alwaysonboard.it###sab_content
 nuovosud.it###sfondo
 eurogamer.it###sidebar_amazon
