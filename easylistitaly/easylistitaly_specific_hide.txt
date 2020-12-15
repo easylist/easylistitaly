@@ -884,6 +884,7 @@ giardinaggio.it##.reattiva_x_90
 ispazio.net##.reclame
 live-sport-tv.it##.rectangles
 sportytrader.it##.redirectou
+viversano.net##.referral-small
 passioneorologio.it##.rehub_feat_block
 mobimart.it##.resp-container
 ilclubdellericette.it##.ricetta-amazon
