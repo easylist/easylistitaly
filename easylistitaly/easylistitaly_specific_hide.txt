@@ -662,6 +662,7 @@ stile.it##.egg-container
 beneficicurcuma.it##.elementor-cta
 coronavirusroma.com##.elementor-element-3579018
 menteinformatica.it##.elementor-element-df7936e
+corrieredicomo.it##.elementor-element-f76437b
 ekuonews.it##.elementor-element-ffc0651
 tvrxenon.it##.elementor-image-carousel-wrapper
 affaritaliani.it##.eni
