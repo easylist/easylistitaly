@@ -263,6 +263,7 @@
 ##a[href^="https://4kmovies.online/download/"]
 ##a[href^="https://adserver.html.it/"]
 ##a[href^="https://affiliate.across.it/"]
+##a[href^="https://affiliation.software/"]
 ##a[href^="https://affiliazioniads.snai.it/"]
 ##a[href^="https://direct.piuannews.com/aff_"]
 ##a[href^="https://ic.aff-handler.com/"]
