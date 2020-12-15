@@ -1670,6 +1670,9 @@
 ||quotidianosanita.it^*/health_serie_
 ||quotidianosanita.it^*/roche_differita.jpg
 ||quotidianosicurezza.it^*/bannerino_
+||quotidianosostenibile.it^*/banner-
+||quotidianosostenibile.it^*/home-exchange.gif
+||quotidianosostenibile.it^*/tappetino-yoga.jpg
 ||quotidianpost.it^*/banner729x90.
 ||radio-city.it^*-banner-
 ||radio-city.it^*_partner.
