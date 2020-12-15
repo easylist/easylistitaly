@@ -844,6 +844,7 @@ andreagaleazzi.com##.partner_box
 dolcidee.it,rtinradio.com##.partners
 100ideeperristrutturare.it,casa-naturale.com,quattrozampe.online,villeecasali.com##.partners-wrapper
 sarnonotizie.it##.penci-container__content
+coltivazionebiologica.it##.penci-header-signup-form
 filmsenzalimiti.love##.playbtn
 altadefinizione-site.it##.player-container
 cb01.world##.playerad
