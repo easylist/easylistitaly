@@ -165,6 +165,7 @@ rovigooggi.it###home-pbreak-space
 transfermarkt.it###home-rectangle-spotlight
 rovigooggi.it###home-super-space
 telegolfo.com###html_javascript_adder-16
+4yougratis.it###img-60x60
 affaritaliani.it###immo-300x250
 ilfattoquotidiano.it###immo-form-container-300x350
 cronacheancona.it,cronachefermane.it,cronachemaceratesi.it###infooter
