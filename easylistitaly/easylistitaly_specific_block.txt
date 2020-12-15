@@ -564,6 +564,8 @@
 ||cuneooggi.it^*/banner/
 ||cusio24.it/images/banner/
 ||daninseries.it^*/clicca_qui.png
+||dazebaonews.it/images/ITC.jpg
+||dazebaonews.it/images/LAB.jpg
 ||dentrosalerno.it^*/banner/
 ||dentrosalerno.it^*/sidelmed.png
 ||dentrosalerno.it^*/Verrengia.png
