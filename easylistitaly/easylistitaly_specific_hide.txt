@@ -722,6 +722,7 @@ lanuovacalabria.it##.headerBanner
 calabria7.it##.header__banner
 h24notizie.com##.headerbanner
 quotidianolacitta.it##.headerbanner_autoslides
+mammafelice.it##.headerright
 pagamentidigitali.it##.helper
 internazionale.it##.hentry--banner
 transfermarkt.it##.hide-for-small[style="height: 273px; text-align: center; overflow: hidden;"]
