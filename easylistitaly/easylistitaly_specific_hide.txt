@@ -1168,6 +1168,7 @@ animeemanga.it,comingsoon.it,trovacinema.repubblica.it##a[href^="https://www.pri
 2backpack.it##a[href^="https://www.worldnomads.com/Turnstile/AffiliateLink?"]
 2backpack.it##a[href^="https://www.worldnomads.it/?affiliate="]
 lavocedellevalli.it##a[onclick^="ga('send', 'event',"]
+amica.it##a[style="width: 300px;display: block;z-index: 999999;height: 268px;position: absolute;top: 0;left: 0;"]
 genoanews1893.it##div[astyle="text-align: center; width: 336px; height: 280px; padding: 3px 0px 3px 0px;"]
 acmilan.com##div[class^="Partners_"]
 calabria7.it##div[class^="angwp_"]
