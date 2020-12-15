@@ -192,6 +192,8 @@ bolognanews.net,fcinternews.it,tuttoascolicalcio.it,tuttoatalanta.com,tuttocalci
 brindisifc.it###main-sponsor
 qdpnews.it,viterbopost.it###manchette-dx
 qdpnews.it,viterbopost.it###manchette-sx
+sienafree.it###manchetteDX
+sienafree.it###manchetteSX
 stadionews.it###manchette_dx_container
 stadionews.it###manchette_sx_container
 dailybest.it,forum.tomshw.it,leonardo.it,politicanews.it,ricettedalmondo.it###masthead
