@@ -511,7 +511,7 @@ villaggiomusicale.com##.banner_leaderboard
 startupitalia.eu##.banner_slick
 startupitalia.eu##.banner_slick_2
 scozia.net##.banner_sponsor
-ragusanews.com##.banner_top
+ragusanews.com,stellafm.it##.banner_top
 mercuriomagazine.com##.banner_top_left
 mercuriomagazine.com##.banner_top_right
 brindisisera.it##.banner_wide_box
@@ -819,6 +819,7 @@ acquavivalive.it,altamuralive.it,andrialive.it,barilive.it,barlettalive.it,bisce
 telelazionord.it##.mom-e3lanat-inner
 nospoiler.it##.movie__intro-channels
 boingtv.it,eurogamer.it,foodnetwork.it,gioco.it##.mpu
+stellafm.it##.ms-slide-link
 affaritaliani.it##.mutui
 cb001.xyz##.mvic-btn
 calciocasteddu.it,qdmnotizie.it##.mvp-wall-link
