@@ -1312,6 +1312,7 @@ livornolive.it##rs-mask-wrap[style="width: 100% !important; height: 100% !import
 bloopers.it##table[name="banner.tbl"]
 ! Advanced element hiding rules for Adblock Plus
 innaturale.com#?#.ruby-block-wrap:-abp-has(a:-abp-contains(SPONSORED))
+tgcom24.mediaset.it#?#.right.es.large:-abp-has(span:-abp-contains(contenuto sponsorizzato))
 ! Site Specific filters (used with $generichide)
 msn.com##a[href^="https://marketing.net.occhiali24.it/"]
 msn.com##a[href^="https://prf.hn/"]
