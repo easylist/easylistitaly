@@ -666,7 +666,7 @@ ridble.com##.dn
 casacinema.work,casacinema01.club,filmsenzalimiti01.online,ilgeniodellostreaming.icu,italiafilm.casa,tantifilm-ita.it,tantifilm.cool,tantifilm.surf,tantifilm.work##.download-links
 cronachedibirra.it##.e3lan125
 ilpaesenuovo.it##.e3lanat-layout-rotator
-stile.it##.egg-container
+pc-gaming.it,stile.it##.egg-container
 beneficicurcuma.it##.elementor-cta
 coronavirusroma.com##.elementor-element-3579018
 menteinformatica.it##.elementor-element-df7936e
@@ -778,7 +778,7 @@ close-up.it,foodweb.it,meteovista.it,pneusnews.it,prealpina.it,ridble.com,today.
 blastingnews.com##.leaderboard-article
 erbanotizie.com##.leaderboard-bottom
 simonandthestars.it##.leaderboard-container
-lacnews24.it##.left-side
+lacnews24.it,pc-gaming.it##.left-side
 laleggepertutti.it##.lexdo-banner
 laleggepertutti.it##.lexdo-llpt
 business24tv.it##.link-at-body
@@ -908,7 +908,7 @@ passioneorologio.it##.rehub_feat_block
 mobimart.it##.resp-container
 ilclubdellericette.it##.ricetta-amazon
 estrazionedellotto.it##.right
-lacnews24.it##.right-side
+lacnews24.it,pc-gaming.it##.right-side
 ilroma.net##.rotating-banner
 ecodallecitta.it##.rotobanner
 rimini.com##.row-bann-home-mobile
