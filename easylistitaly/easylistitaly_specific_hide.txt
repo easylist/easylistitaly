@@ -118,7 +118,7 @@ tefchannel.it###ctl00_cphBody_mcsSlotBannerTop_rptGallery_ctl01_lnkLink
 teleborsa.it###ctl00_if4WTV300x250
 pistoiasport.com###custom_html-13
 giochi.com,nintendari.it###custom_html-17
-birramoriamoci.it###custom_html-2
+birramoriamoci.it,card.it###custom_html-2
 strill.it###custom_html-25
 melarossa.it###custom_html-5
 it-casinoonline.com,pentanewslivorno.it###custom_html-6
