@@ -1469,6 +1469,7 @@
 ||nuvola.tv^*-700x700-
 ||nuvola.tv^*/banner-
 ||oas.repubblica.it^
+||oasport.it^*/banner-
 ||obiettivonews.it^*-BANNER-
 ||obiettivonews.it^*/bannercortinalungo2
 ||obiettivonews.it^*/cortinalocandmaggioscal.
