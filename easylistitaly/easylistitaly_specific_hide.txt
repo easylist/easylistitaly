@@ -753,6 +753,7 @@ sportytrader.it##.ilo
 oroscopi.info##.img_oroscopo_personalizzato
 mrw.it##.inadv
 mrw.it##.inadv-label
+giochigratis.net##.inici
 innaturale.com##.innat-widget
 tomshw.it##.instant-gaming-widget
 milanofinanza.it##.intesahead
@@ -890,6 +891,7 @@ playstationzone.it##.psz_template_prices_comp
 agoravox.it##.pub
 kikapress.com##.pub_container
 agoravox.it##.publarge
+giochigratis.net##.publi
 camperonline.it##.publink
 prendiporno.tv##.publis-bottom
 risvegliopopolare.it##.pubr
