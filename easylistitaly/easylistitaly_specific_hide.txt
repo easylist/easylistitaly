@@ -248,6 +248,7 @@ iovivoaroma.org###skin_link_sx
 cronacheancona.it,cronachefermane.it,cronachemaceratesi.it###skinabove
 emiliagol.it###skinclick
 buongiornoalghero.it,freeonline.org,itvonline.news,lospiffero.com,planetmountain.com,primapress.it,salernonotizie.it,torresette.news###skinlink
+gamereactor.it###sky
 bisceglielive.it,eurogamer.it,gommadiretto.it###skyscraper
 amaranta.it,grigionline.com###slimbanner
 mail1.libero.it###slink-dx
@@ -1241,6 +1242,7 @@ lalaziosiamonoi.it,notiziariocalcio.com,tuttoveneziasport.it##div[style="min-hei
 politicanews.it##div[style="min-height: 250px;"]
 tuttosalernitana.com##div[style="min-height: 280px; max-height: 600px; overflow: hidden; width: 336px; margin: auto;"]
 amaranta.it,parmalive.com,torinogranata.it,tuttojuve.com,tuttonapoli.net,tuttonovara.it##div[style="min-height: 40px;"]
+gamereactor.it##div[style="min-height: 600px; margin-bottom: 20px;"]
 voglioviverecosi.com##div[style="min-height: 90px; margin-top: 20px; margin-bottom: 20px"]
 tuttonapoli.net##div[style="min-height: 90px;"]
 eurochampions.it,fcinternews.it,genoanews1893.it,lalaziosiamonoi.it,pianetabasket.com,ternananews.it,tuttoascolicalcio.it,tuttoatalanta.com,tuttocalciopuglia.com,tuttohellasverona.it,tuttopotenza.com,tuttoveneziasport.it,tuttovicenza.it##div[style="overflow: hidden; height: 250px; width: 300px; margin: auto;"]
