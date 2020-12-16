@@ -67,6 +67,8 @@ forum.tomshw.it###belowfirstpost
 orizzontescuola.it###bglink
 bergamoesport.it###billboard
 augustanews.it,avolanews.it,catanianews.it,ibleinews.it,notonews.it,pachinonews.it,siracusanews.it###billboard1
+esportsmobile.it###black-studio-tinymce-6
+esportsmobile.it###black-studio-tinymce-7
 liberliber.it###blocco_banner
 giornaledellamusica.it###block-adv
 tuttosuigatti.it###block-bean-banner-content-bottom
