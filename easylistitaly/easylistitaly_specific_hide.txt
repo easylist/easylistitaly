@@ -283,8 +283,8 @@ lol-esports.it###text-11
 golbym.com###text-12
 studio5fm.com###text-13
 esportsonline.it,finaria.it###text-14
-finaria.it,hellogreen.it###text-15
-finaria.it###text-16
+finaria.it,hellogreen.it,internetto.it###text-15
+finaria.it,internetto.it###text-16
 giornalistitalia.it,noinotizie.it###text-19
 alwaysonboard.it###text-2
 noinotizie.it###text-20
