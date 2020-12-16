@@ -147,6 +147,8 @@
 ||annuncibarlettaandriatrani.it/banner/
 ||annuncibasilicata.it/banner/
 ||annuncibenevento.it/banner/
+||annuncibologna.it/banner/
+||annuncibologna.it/img/banner_
 ||annuncibrindisi.it/banner/
 ||annuncicagliari.it/banner/
 ||annuncicalabria.com/banner/
