@@ -718,6 +718,7 @@ giornaledelcilento.it##.giorn-prima-del-contenuto
 giornaledelcilento.it##.giorn-widget
 sportytrader.it##.go-to-bonus
 nextpit.it##.gptSlot
+nextpit.it##.gptSlot__sticky-footer
 3bmeteo.com##.gpt_top
 sorrisi.com##.gtv-trigger-elevator
 eurostreaming.voto##.guarda
