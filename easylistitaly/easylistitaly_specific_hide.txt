@@ -657,6 +657,7 @@ orologi-subacquei.it##.cta-button
 mogliinmostra.it,tse-tse.it##.ctaiscriviti
 youtvrs.it##.custom-background-css
 giornaleadige.it,piacenza24.eu,radionorba.it,radioyacht.com,risvegliopopolare.it##.custom_banners_big_link
+gioco-pc-scaricare.it##.dashicons-download
 fiorentinanews.com##.destra_banner
 flashscore.it##.detail-bonus-match-summary-content-inner
 economyup.it,techcompany360.it##.dfp
