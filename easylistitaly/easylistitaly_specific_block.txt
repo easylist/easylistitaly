@@ -769,6 +769,7 @@
 ||genova24.it^*/banner_
 ||gingergeneration.it/n/
 ||gingergeneration.it^*/banner-
+||giochi-gratis.eu/card-banner.png
 ||giochixl.it/bfb/
 ||gioconews.it^*/banners/
 ||giornale.it^*/300x250px.
