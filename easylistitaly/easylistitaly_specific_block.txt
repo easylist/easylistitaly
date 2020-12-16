@@ -585,6 +585,7 @@
 ||djmagitalia.com^*-banner-
 ||djmagitalia.com^*/BANNER_
 ||djmagitalia.com^*_skin_
+||dossier.net^*/rettangolo_
 ||dronezine.it^*-banner-
 ||dronezine.it^*/banner-
 ||dronezine.it^*/mavic-
