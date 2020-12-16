@@ -277,6 +277,7 @@ diretta.it###tab-bonus-offers
 diretta.it###tab-odds
 gamesvillage.it###takeover_gv
 radioluna.it###testata
+lol-esports.it###text-11
 studio5fm.com###text-13
 esportsonline.it,finaria.it###text-14
 finaria.it,hellogreen.it###text-15
