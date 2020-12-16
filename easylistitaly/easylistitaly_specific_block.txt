@@ -629,6 +629,7 @@
 ||erbanotizie.com^*_multibanner_
 ||esportsactivity.com^*-300-x-300.
 ||esportsactivity.com^*/processed.jpeg
+||esportsitalia.com^*/corsi-coaching-esports.png
 ||esportsmobile.it^*/amazonprime-
 ||esportsmobile.it^*/Kinguin-
 ||estrazionedellotto.it/images/gioco-del-lotto.gif
