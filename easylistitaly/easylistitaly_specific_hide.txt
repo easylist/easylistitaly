@@ -288,6 +288,7 @@ alwaysonboard.it###text-2
 noinotizie.it###text-20
 nerdplanet.it###text-24
 giornalistitalia.it###text-28
+top10scommesse.it###text-3
 giornalistitalia.it###text-30
 contrastotv.it,giornalistitalia.it,viterbopost.it###text-34
 viterbopost.it###text-35
