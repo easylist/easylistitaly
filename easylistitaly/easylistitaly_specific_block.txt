@@ -190,6 +190,7 @@
 ||annunciolbiatempio.it/banner/
 ||annuncioristano.it/banner/
 ||annuncipalermo.it/banner/
+||annunciparma.it/banner/
 ||annunciperugia.it/banner/
 ||annuncipesarourbino.it/banner/
 ||annuncipescara.it/banner/
