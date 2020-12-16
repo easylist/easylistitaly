@@ -603,6 +603,7 @@ il-genio-dello-streaming.com##.button1
 parcofaunistico.it##.buttonGuardaOra
 altadefinizione01.army,altadefinizione01.works##.buttonbox
 pensieriparole.it##.buyblock
+sitiscommesse.com##.bwin
 empolifc.com##.c-footer__sponsors-container
 meteo.tiscali.it##.c1c3
 catanzaro7.net##.catan-nellarticolo
