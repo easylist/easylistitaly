@@ -275,3 +275,4 @@
 ##a[href^="https://marketing.net.occhiali24.it/"]
 ##a[href^="https://n26-eu.c2nwa3.net/"]
 ##a[href^="https://promonow.shop/offers.php?"]
+##a[href^="https://www.nigiara.it/scripts/redir.php?url=https://amzn.to/"]

@@ -132,7 +132,6 @@
 ||neonisi.com^*/items.external?$third-party
 ||netrefer-a.akamaihd.net^
 ||nexths.it/widget/$third-party
-||nigiara.it^*/sh-nig-3-6-offerte-a-tempo.gif
 ||nohup.it^*_110x40_
 ||oasjs.kataweb.it^
 ||oro24ksrl.it/widget/$third-party

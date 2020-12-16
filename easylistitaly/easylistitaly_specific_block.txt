@@ -1414,6 +1414,7 @@
 ||newsfood.com^*/Webbanner_
 ||newsfood.com^*_banner_
 ||newsly.it^*/aawp/
+||nigiara.it/data/nigiara/sh-nig-
 ||nintendari.it^*/instagaming.jpg
 ||noinotizie.it^*/halos.jpg
 ||noitv.it^*-Banner-
