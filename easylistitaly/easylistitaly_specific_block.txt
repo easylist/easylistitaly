@@ -163,6 +163,8 @@
 ||annunciemiliaromagna.it/banner/
 ||annuncienna.it/banner/
 ||annuncifermo.it/banner/
+||annunciferrara.it/banner/
+||annunciferrara.it/img/banner_
 ||annuncifirenze.it/banner/
 ||annuncifoggia.it/banner/
 ||annuncifrosinone.it/banner/
