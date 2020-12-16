@@ -838,6 +838,7 @@ ilpiccolo.net##.nocornice_banner
 everyeye.it##.nome_gioco_amazon_destra
 tuttotrasporti.it##.notizieSponsorizzate
 empolifc.com##.o-section--promo
+esportsonline.it##.oe-wrapper
 techzilla.it##.offerta-img-box
 lamilano.it##.olvu
 meteofinanza.com##.overlay-buttons
