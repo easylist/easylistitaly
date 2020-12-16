@@ -197,6 +197,7 @@
 ||annuncitaranto.it/banner/
 ||annunciteramo.it/banner/
 ||annuncitrapani.it/banner/
+||annunciumbria.it/banner/
 ||annuncivibovalentia.it/banner/
 ||annunciviterbo.it/banner/
 ||ansa.it^*/banner_
