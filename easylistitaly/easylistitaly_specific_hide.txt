@@ -109,6 +109,8 @@ affaritaliani.it###consigliati-giochi2
 virgilio.it###cont-leaderboard
 virgilio.it###cont-manchette
 dilei.it,quifinanza.it,siviaggia.it,supereva.it,virgilio.it###cont-wallpaper
+news.cinecitta.com###content-banner1
+news.cinecitta.com###content-banner2
 tltonline.it###content-footer-section
 autoseller.it###ctl00_ContentCentraleBanner
 tefchannel.it###ctl00_cphBody_mcsBannerShortBottom_pnlSlot
