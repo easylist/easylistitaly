@@ -688,7 +688,7 @@ giornaledibarga.it##.fascia-banner
 divinafm.it##.fdc-widget-sponsor
 brindisisettenews.it##.featured_banner
 masterviaggi.it##.fieldset_sponsor
-cb01.li,cb01.world,filmsenzalimiti.ink,tantifilm.best,tantifilm.link##.filmad
+cb01.li,cb01.world,eurostreaming.cam,filmsenzalimiti.ink,tantifilm.best,tantifilm.link##.filmad
 luinonotizie.it##.fixed-sponsor
 sassuolooggi.it##.flexslider
 marsicalive.it##.fmhb-container
@@ -875,7 +875,7 @@ sarnonotizie.it##.penci-container__content
 coltivazionebiologica.it##.penci-header-signup-form
 filmsenzalimiti.love##.playbtn
 altadefinizione-site.it##.player-container
-cb01.world##.playerad
+cb01.world,eurostreaming.cam##.playerad
 cb01.in##.playex
 assopoker.com##.poker-room-list
 nospoiler.it##.post__shopping
@@ -1148,7 +1148,7 @@ abruzzoweb.it,ecwgcortina2016.it##a[href*="/go.php?"]
 migliorisitistreaming-hd.blogspot.com,vivasicilia.com##a[href*="/go/"]
 ilgeniodellostreaming.gold##a[href*="/guarda-hd.php"]
 cineblog01.bid##a[href*="/guarda4k.php"]
-eurostreaming.ca,filmsenzalimiti.bz,filmsenzalimiti.ink,ilgeniodellostreaming.xyz,piratestreaming.eu,tantifilm.link##a[href*="/hd/"]
+eurostreaming.ca,eurostreaming.cam,filmsenzalimiti.bz,filmsenzalimiti.ink,ilgeniodellostreaming.xyz,piratestreaming.eu,tantifilm.link##a[href*="/hd/"]
 altomantovanonews.it,autobusweb.com,citynow.it,corriereromagna.it,firstonline.info,fortuneita.com,giornaledelcilento.it,iocaccio.it,lagenziadiviaggi.it,latinacorriere.it,latinaquotidiano.it,mantovasport24.it,mantovauno.it,oltrepomantovanonews.it,sprintesport.it,triesteallnews.it##a[href*="/linkout/"]
 supercoin.it##a[href*="/out/"]
 cineblog01.green##a[href*="/premium-download.php"]
