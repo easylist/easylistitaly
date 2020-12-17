@@ -680,6 +680,7 @@ menteinformatica.it##.elementor-element-df7936e
 corrieredicomo.it##.elementor-element-f76437b
 ekuonews.it##.elementor-element-ffc0651
 tvrxenon.it##.elementor-image-carousel-wrapper
+twebnews.it##.elementor-main-swiper
 affaritaliani.it##.eni
 garganotv.com##.erzodfm-container
 exibart.com##.exibart-footer-partner
@@ -1183,7 +1184,7 @@ markos.it##a[href^="http://www.bookings.net/"]
 leggenditaloi.com##a[href^="http://www.easybytez.com/free"]
 rietilife.com##a[href^="http://www.rietilife.com?pasID="]
 outcast.it##a[href^="http://www.tostadora.it/t-shirt-nerd.php?"]
-alwaysonboard.it,birramoriamoci.it,circusf1.com,fattoincasadabenedetta.it,guerrestellari.net,hellogreen.it,hovogliadidolce.it,hwupgrade.it,hynerd.it,ilsoftware.it,imlestar.com,infotelematico.com,justfashionmagazine.com,juzaphoto.com,losport24.com,macitynet.it,maidirelink.it,mio-ip.eu,mr-loto.it,murkymask.com,nokioteca.net,tivusat.tv,trattamentinaturalibio.it,uberti.eu,ubud.it,videogiocare.it,windowsblogitalia.com##a[href^="https://amzn.to/"]
+alwaysonboard.it,birramoriamoci.it,circusf1.com,fattoincasadabenedetta.it,guerrestellari.net,hellogreen.it,hovogliadidolce.it,hwupgrade.it,hynerd.it,ilsoftware.it,imlestar.com,infotelematico.com,justfashionmagazine.com,juzaphoto.com,losport24.com,macitynet.it,maidirelink.it,mio-ip.eu,mr-loto.it,murkymask.com,nokioteca.net,tivusat.tv,trattamentinaturalibio.it,twebnews.it,uberti.eu,ubud.it,videogiocare.it,windowsblogitalia.com##a[href^="https://amzn.to/"]
 trattamentinaturalibio.it##a[href^="https://c.mtpc.se/"]
 golbym.com##a[href^="https://casinostudio3000.com/"]
 albengacorsara.it,campaniameteo.it,germania.info##a[href^="https://clk.tradedoubler.com/"]

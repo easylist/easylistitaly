@@ -2388,6 +2388,8 @@
 ||tvsette.net^*-300x250.
 ||tvsette.net^*/banner-
 ||tvsette.net^*/IUORIO-
+||twebnews.it/immagini/amz
+||twebnews.it^*/amz.
 ||uberti.eu^*/guide/
 ||ubud.it^*/81i7FcioR-L-659x1024.jpg
 ||udineseblog.it^*_160x90.
