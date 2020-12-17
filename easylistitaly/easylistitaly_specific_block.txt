@@ -1401,6 +1401,9 @@
 ||momentosera.it/bannerupload/
 ||mondoclassica.it^*/banner/
 ||mondodelgusto.it^*/arch/
+||mondoraro.org^*/achille-lauro.jpg
+||mondoraro.org^*/mjfsignedbook.jpg
+||mondoraro.org^*/stratton-
 ||money.it/box-amazon/
 ||money.it^*/box-amazon.js
 ||money.it^*/etoro/
