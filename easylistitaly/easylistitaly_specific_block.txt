@@ -1279,6 +1279,8 @@
 ||livornopress.it^*/SCOPRI-DI-PIU-IES-
 ||livornopress.it^*/SCOPRI-DI-PIU-IES.
 ||lnd.it/images/sponsor/
+||lodiedintorni.com^*-banner-
+||lodiedintorni.com^*/Banner-
 ||lopinionista.it^*/tuttiautopezzi.
 ||lopinionistanews.it^*/Adv.
 ||lospiffero.com/banner/
