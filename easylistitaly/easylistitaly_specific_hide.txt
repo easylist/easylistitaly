@@ -1094,6 +1094,7 @@ gelocal.it,ilsecoloxix.it,lastampa.it,repubblica.it##.widget-sponsor--container
 ciaogreen.it,londra.today##.widget_aawp_widget_bestseller
 newsly.it##.widget_aawp_widget_box
 scambiaricette.it##.widget_boodo_wp_300px
+wesud.it##.widget_idemedia_banner_widget
 dilei.it##.widget_promo_box_widget
 nursetimes.org##.widget_realty_widget
 radiodigione.net##.widget_ubm-banners-rotation
@@ -1130,7 +1131,7 @@ altadefinizione01.green,altadefinizione01.store,cineblog01.love,guardaserie.cam#
 paolociraci.com,paolociraci.it##a[href*="/ad-click.php"]
 ilquotidianodellazio.it,romait.it##a[href*="/ad/click/"]
 forumfree.it##a[href*="/ad_click.php?"]
-telecitynews24.it##a[href*="/ads/"]
+telecitynews24.it,wesud.it##a[href*="/ads/"]
 diventaretrader.com##a[href*="/banner/redirect/"]
 cineblog01.bid##a[href*="/cb01-premium-gratis.php"]
 everyeye.it##a[href*="/click.asp?"]
