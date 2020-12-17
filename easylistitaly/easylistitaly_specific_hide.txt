@@ -329,6 +329,8 @@ transfermarkt.it###werbung_superbanner
 lostrillonenews.it###wideSidebar
 sscalciobari.it###wl-sponsor
 animeclick.it###wrapper
+italia.fm###xbtm
+italia.fm###xttm
 corriere.it###yoodeal
 corriere.it###yoodeal2
 mangiobenevivobene.it###youtube_responsive-2
