@@ -120,9 +120,9 @@ tefchannel.it###ctl00_cphBody_mcsSlotBannerTop_rptGallery_ctl01_lnkLink
 teleborsa.it###ctl00_if4WTV300x250
 pistoiasport.com###custom_html-13
 giochi.com,nintendari.it###custom_html-17
-birramoriamoci.it,card.it###custom_html-2
+birramoriamoci.it,card.it,italiaonline.news###custom_html-2
 strill.it###custom_html-25
-melarossa.it###custom_html-5
+italiaonline.news,melarossa.it###custom_html-5
 it-casinoonline.com,pentanewslivorno.it###custom_html-6
 strill.it###custom_html-65
 pistoiasport.com###custom_html-7
@@ -205,12 +205,12 @@ dailybest.it,forum.tomshw.it,leonardo.it,politicanews.it,ricettedalmondo.it###ma
 matematicamente.it###masthead-desktop-wrapper
 ondarock.it###masthead_or
 chepreparo.it,it-casinoonline.com###media_image-2
-it-casinoonline.com###media_image-4
+it-casinoonline.com,italiaonline.news###media_image-4
 staynerd.com###media_image-40
 giornalistitalia.it,it-casinoonline.com###media_image-5
 giornalistitalia.it###media_image-6
 cataniaunafede.it###media_image-7
-giornalistitalia.it###media_image-8
+giornalistitalia.it,italiaonline.news###media_image-8
 umbriajournal.com###mh_magazine_custom_posts-17
 catanzaro7.net###mh_magazine_youtube-3
 mymovies.it###middle1_companion
@@ -735,7 +735,7 @@ ecwgcortina2016.it,ilgeniodellostreaming.dance,ilgeniodellostreaming.rest,ilgeni
 ecwgcortina2016.it,ilgeniodellostreaming.dance,ilgeniodellostreaming.rest,ilgeniodellostreaming.to,ilgeniodellostreamings.com,ilgeniodellostreamings.it##.guardasingleserie2
 quattroruote.it##.halfPageBanner2
 emmelle.it##.header-ainfo
-ecodelcinema.com,lagenziadiviaggi.it,ondatv.tv,quotidianocanavese.it##.header-banner
+ecodelcinema.com,italiaonline.news,lagenziadiviaggi.it,ondatv.tv,quotidianocanavese.it##.header-banner
 nuovosud.it##.header-banner-wrapper
 calciomercato.com##.header-banner__container
 lanuovacalabria.it##.headerBanner
