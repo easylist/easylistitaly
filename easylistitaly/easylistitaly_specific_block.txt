@@ -497,6 +497,7 @@
 ||cityrumors.it^*-banner-
 ||cityrumors.it^*/banner-
 ||cityrumors.it^*/skin-
+||civatenews.com^*/Tuttoautoricambiit.png
 ||classificaporno.com/d/
 ||classifichemusica.it/img/amazon.jpg
 ||click.html.it^
