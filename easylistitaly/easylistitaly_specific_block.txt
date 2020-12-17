@@ -592,6 +592,8 @@
 ||cronachetarantine.it^*/virnav.jpg
 ||cronachetarantine.it^*_banner.
 ||crotone24news.it/images/banners/
+||crotoneok.it^*/banner-
+||crotoneok.it^*/Rlm-header.jpg
 ||cuneocronaca.it/img/banner/
 ||cuneocronaca.it/js/clickBanner.js
 ||cuneooggi.it^*-300x320_

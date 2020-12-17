@@ -820,6 +820,7 @@ irpinianews.it##.master-slider-parent
 ecoo.it##.masterhead-container-column
 eurochampions.it##.masthead
 screenweek.it##.matches-container
+crotoneok.it##.mdl_content
 medicalexcellencetv.it##.medic-widget
 melarossa.it##.melar-pos-in-article-multiplo
 pistoiasport.com##.menu-banner-wrapper
@@ -952,6 +953,7 @@ andreagaleazzi.com,animeclick.it##.skin
 leccesette.it##.skin-desktop
 digitalic.it##.skin_a_dx
 digitalic.it##.skin_a_sx
+crotoneok.it##.skin_bg
 primopianomolise.it##.skin_bg_left
 primopianomolise.it##.skin_bg_right
 iovivoaroma.org##.skin_link_top
@@ -1331,7 +1333,9 @@ volleyball.it##img[height="81"][width="700"]
 stabiachannel.it##img[height="85px"][width="170px"]
 volleyball.it##img[height="886"][width="886"]
 liguriaoggi.it##img[height="90"][width="728"]
+crotoneok.it##img[width="1280"][height="384"]
 katablog.it##img[width="160"][height="600"]
+crotoneok.it##img[width="1600"][height="480"]
 sulpanaro.net##img[width="250"][height="250"]
 radioinblu.it,tv2000.it##img[width="300"][height="200"]
 0-100.it,beverfood.com,finanzareport.it,larampa.it,radioinblu.it##img[width="300"][height="250"]
