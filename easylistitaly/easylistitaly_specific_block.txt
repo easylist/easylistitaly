@@ -2442,6 +2442,7 @@
 ||valsassinanews.com^*-ANNUNCIO-
 ||valsassinanews.com^*-banner
 ||valsassinanews.com^*-MANCHETTE-
+||valsassinanews.com^*/banner-
 ||vanityfair.it^*/cn-banner.min.js?
 ||varesenews.it^*/banner/
 ||varesesport.com^*/banner-
