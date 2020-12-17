@@ -168,6 +168,7 @@ rovigooggi.it###home-pbreak-space
 transfermarkt.it###home-rectangle-spotlight
 rovigooggi.it###home-super-space
 telegolfo.com###html_javascript_adder-16
+corrierenazionale.it###image-3
 4yougratis.it###img-60x60
 affaritaliani.it###immo-300x250
 ilfattoquotidiano.it###immo-form-container-300x350
@@ -1165,6 +1166,7 @@ altadefinizione.sh##a[href*="/view.php?"]
 filmpertutti.lol,filmpertutti.onl,ilgeniodellostreaming.dance##a[href*="/vss/"]
 birramoriamoci.it##a[href*="?affiliates="]
 anteprima24.it,gnoccatravels.com,juzaphoto.com,lavorincasa.it,mangaforever.net,milanofinanza.it,voglioporno.com##a[href*="?utm_"]
+corrierenazionale.it##a[href="http://www.herobet.it/"]
 comprovendolibri.it##a[href^="/conta.asp?"]
 facciabuco.com##a[href^="/sprclick/"]
 milanodabere.it##a[href^="http://ib.adnxs.com/clktrb?id="]
@@ -1175,7 +1177,6 @@ comprovendolibri.it##a[href^="http://tracker.tradedoubler.com/"]
 mangaforever.net,outcast.it,serialclick.it,tivusat.tv##a[href^="http://www.amazon."][href*="tag="]
 markos.it##a[href^="http://www.bookings.net/"]
 leggenditaloi.com##a[href^="http://www.easybytez.com/free"]
-corrierenazionale.it##a[href^="http://www.herobet.it/"]
 rietilife.com##a[href^="http://www.rietilife.com?pasID="]
 outcast.it##a[href^="http://www.tostadora.it/t-shirt-nerd.php?"]
 alwaysonboard.it,birramoriamoci.it,circusf1.com,fattoincasadabenedetta.it,guerrestellari.net,hellogreen.it,hovogliadidolce.it,hwupgrade.it,hynerd.it,ilsoftware.it,imlestar.com,infotelematico.com,justfashionmagazine.com,juzaphoto.com,losport24.com,macitynet.it,maidirelink.it,mio-ip.eu,mr-loto.it,murkymask.com,nokioteca.net,tivusat.tv,trattamentinaturalibio.it,uberti.eu,ubud.it,videogiocare.it,windowsblogitalia.com##a[href^="https://amzn.to/"]
