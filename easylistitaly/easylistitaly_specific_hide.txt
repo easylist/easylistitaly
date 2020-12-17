@@ -1039,6 +1039,7 @@ laspia.it,ragusah24.it,romanews.eu##.td-header-sp-recs
 gdoweek.it##.td-leaderboard-wrap-full
 guidalloshopping.com##.td_btn
 biancorossi.net,immaginevalsassina.com,moondo.info,notizialocale.it,radiolombardia.it,telesudweb.it##.td_single_image_bg
+agimeg.it##.td_uid_18_5fdb9a4e3037a_rand
 romanews.eu##.td_uid_7_5fc0c934d6e11_rand
 tomshw.it##.teetee-embed
 telesud.it##.teles-header-banner

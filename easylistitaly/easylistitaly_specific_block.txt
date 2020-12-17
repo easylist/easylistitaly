@@ -55,6 +55,8 @@
 ||agendapolitica.it^*/orakom.png
 ||agendapolitica.it^*/villa-400x228.png
 ||agensir.it^*/skin_
+||agimeg.it^*/Logo-Global-Gaming-Digital-Expo-440x315.jpg
+||agimeg.it^*/ugw-440x330.jpg
 ||agipronews.it/image/banner/
 ||agraria.org/immagini/banner/
 ||agrigentonotizie.it/images/skin/
