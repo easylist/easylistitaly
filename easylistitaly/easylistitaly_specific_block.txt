@@ -421,6 +421,7 @@
 ||catanzaro7.net^*/stirparo
 ||catanzaro7.net^*/TAG-
 ||catanzaro7.net^*728x90
+||catanzaroinforma.it^*/box-venditegiudiziarie.php
 ||cb001.xyz/iframe/
 ||cb01.business/download/registrati.png
 ||cb01.dev/fake2/
@@ -1102,6 +1103,7 @@
 ||italpress.com^*/gif_talpress_def.
 ||italpress.com^*/VolospeechGif_
 ||italpress.com^*_300X250MYACEA-
+||italynews.it^*/logo5.jpg
 ||itvonline.news^*-300x250.
 ||itvonline.news^*-300x250px-
 ||itvonline.news^*/4698d099-
