@@ -112,6 +112,7 @@
 ##.ADVFLEX_250_Content
 ##.Banner_VideoAd_Interno
 ##.Pubblicita
+##.ab-box-adv-cn
 ##.actio-adlabel
 ##.ad-fisso
 ##.ad-orizzontale
