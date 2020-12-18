@@ -1694,6 +1694,7 @@
 ||positanonotizie.it^*/b1nn3r/
 ||positanonotizie.it^*/banner/
 ||prealpina.it/js/manzoni_interna.js
+||presepio.it^*/BANNER-
 ||pressgiochi.it^*-300-x-90.
 ||pressgiochi.it^*/acme-1.gif
 ||pressgiochi.it^*/NovomaticBOX_
