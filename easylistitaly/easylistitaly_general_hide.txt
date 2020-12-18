@@ -110,6 +110,7 @@
 ##.ADV300_250_600_Content
 ##.ADVBig_Content
 ##.ADVFLEX_250_Content
+##.AlterVista_GoogleAdsense
 ##.Banner_VideoAd_Interno
 ##.Pubblicita
 ##.ab-box-adv-cn
