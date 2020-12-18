@@ -1460,6 +1460,7 @@
 ||minews.it^*/OROLOGI.gif
 ||mio-ip.eu^*/offerte-amazon-
 ||miotv.it/public/componenti/
+||mobileworld.it^*/black_friday.js
 ||mobimart.it/ban.
 ||modellismo.net/banner/
 ||modellismopiu.it/images/partners/
