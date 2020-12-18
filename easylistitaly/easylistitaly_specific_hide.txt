@@ -270,6 +270,8 @@ calciopotenza.eu,casertanafc.it###sponsors
 sassuolooggi.it###spospo
 zeusnews.it###spotEsterno
 animeclick.it###stile_link
+dragonballforever.it###stream-item-widget-3
+dragonballforever.it###stream-item-widget-4
 valsassinanews.com###stripbanner
 qualenergia.it###stripbar
 erbanotizie.com###striprotator
