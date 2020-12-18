@@ -740,7 +740,7 @@ ecwgcortina2016.it,ilgeniodellostreaming.dance,ilgeniodellostreaming.rest,ilgeni
 ecwgcortina2016.it,ilgeniodellostreaming.dance,ilgeniodellostreaming.rest,ilgeniodellostreaming.to,ilgeniodellostreamings.com,ilgeniodellostreamings.it##.guardasingleserie2
 quattroruote.it##.halfPageBanner2
 emmelle.it##.header-ainfo
-ecodelcinema.com,italiaonline.news,lagenziadiviaggi.it,ondatv.tv,quotidianocanavese.it##.header-banner
+ecodelcinema.com,italiaonline.news,lagenziadiviaggi.it,oltreilfatto.it,ondatv.tv,quotidianocanavese.it##.header-banner
 nuovosud.it##.header-banner-wrapper
 calciomercato.com##.header-banner__container
 lanuovacalabria.it##.headerBanner

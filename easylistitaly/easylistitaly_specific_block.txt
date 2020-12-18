@@ -1568,6 +1568,8 @@
 ||oltrefano.it^*/banner-
 ||oltrefano.it^*/BANNER_
 ||oltrefano.it^*/SKIN_
+||oltreilfatto.it^*/banner/
+||oltreilfatto.it^*/logo-nuovo-sito-lextel.png
 ||oltrepomantovanonews.it^*/banner-
 ||ondanovara.it^*_banner_
 ||ondarock.it/banners/
