@@ -1434,6 +1434,7 @@
 ||merateonline.it/public/banner/
 ||mercuriomagazine.com^*/banner_
 ||meridiananotizie.it^*/123.jpg
+||messinamagazine.it^*/leretico.jpg
 ||messinaoggi.it^*/esemep
 ||messinasportiva.it^*/Banner-
 ||messinasportiva.it^*/tuttiautopezzi_
