@@ -951,6 +951,7 @@ sportytrader.it##.sidebar_grid
 cosedicasa.com##.sidespot-wrapper
 calcioatalanta.it,calciocremonese.it,calciospezia.it,forzamonza.it##.sihappy
 manfredonianews.it##.single-box
+fattoalatina.it##.site-heading-sidebar
 andreagaleazzi.com,animeclick.it##.skin
 leccesette.it##.skin-desktop
 digitalic.it##.skin_a_dx
