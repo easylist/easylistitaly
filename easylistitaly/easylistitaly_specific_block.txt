@@ -2595,6 +2595,7 @@
 ||windows.net/specialeelezioni/$domain=altamuralive.it|barilive.it|barlettalive.it|bitontolive.it|cassanolive.it|coratolive.it|giovinazzolive.it|lavocedimanduria.it|ruvolive.it|santeramolive.it|terlizzilive.it
 ||windowsblogitalia.com^*/sconto-5-euro-amazon.jpg
 ||winxclub.com^*/dfp.js?
+||wordpress.com^*-amazon-$domain=medicinaonline.co
 ||wordpress.com^*-banner-$domain=biella24.com
 ||wordpress.com^*-reclame.$domain=biella24.com
 ||wordpress.com^*/banner-$domain=biella24.com
