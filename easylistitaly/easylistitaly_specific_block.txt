@@ -1855,12 +1855,15 @@
 ||radiolombardia.it^*/ilpl.png
 ||radioluna.it/news/header/
 ||radioluna.it^*-200X110.
+||radioluna.it^*-Banner-
 ||radioluna.it^*/banner/
 ||radioluna.it^*/banner3.
 ||radioluna.it^*/Fedra-lat.jpg
+||radioluna.it^*/La-Prateria-Natale.gif
 ||radioluna.it^*/Manchette_
 ||radioluna.it^*/simeone-24-
 ||radioluna.it^*_BANNER-
+||radioluna.it^*_Banner_
 ||radiomarte.it/site/images/sponsor/
 ||radiomarte.it^*/autoscala_
 ||radiomarte.it^*/Ln_Rm.
