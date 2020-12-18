@@ -1256,6 +1256,14 @@
 ||legab.it^*/sponsor/
 ||leganavalenews.it^*/banners/
 ||legavolleyfemminile.it^*/MGS_
+||leggilanotizia.it^*-banner-
+||leggilanotizia.it^*/300x170TrentinoBookingEstate2020.jpg
+||leggilanotizia.it^*/banner3.png
+||leggilanotizia.it^*/banner_
+||leggilanotizia.it^*/Leggilanotizia-fare-finta-niente.jpg
+||leggilanotizia.it^*/Logo_300.jpg
+||leggilanotizia.it^*_banner1-
+||leggilanotizia.it^*_Banner_
 ||lemillebolleblog.it^*/32BF2A43-6DB9-449A-9E90-7EAA28E2B677.jpeg
 ||lemillebolleblog.it^*/37CECC05-6E89-4195-B27E-20F9CE71C332.jpeg
 ||lemillebolleblog.it^*/79101B02-8048-48B5-9998-59E0DC76466A.jpeg
