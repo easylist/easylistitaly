@@ -2239,6 +2239,9 @@
 ||telepordenone.tv/writable/images/trivio.gif
 ||telepordenone.tv^*/banner_
 ||telepordenone.tv^*_BANNER.
+||teleradio-news.it^*-615x188.
+||teleradio-news.it^*-615x300-
+||teleradio-news.it^*-615x410.
 ||teleradiosciacca.it^*/banner-
 ||teleradiostereo.it/images/banner/
 ||teleromagna24.it/public/banners/
@@ -2746,6 +2749,7 @@
 ||wp.com/www.spaziotennis.it/*/dhs.jpg
 ||wp.com/www.statoquotidiano.it/*/727x247-
 ||wp.com/www.tabsernews.it/*/THE-SOUND.png
+||wp.com/www.teleradio-news.it/*-490x147-
 ||wp.com/www.tsdtv.it/*/300x300-
 ||wp.com/www.tuttojuve.net/*/119054606_350406236368302_7591478443508881500_n.png
 ||wp.com/www.tuttojuve.net/*/12597e17-489e-4e5f-aed5-57e4c9562708-1.jpg

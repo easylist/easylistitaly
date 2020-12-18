@@ -189,6 +189,7 @@ forum.tomshw.it###leaderboard1
 saperesalute.it###leaderboardBox
 casa.it###leaderboard_footer
 diritto.it###libpro
+teleradio-news.it###linkcat-12
 business.it###logoYobee
 eurogamer.it###low-leaderboard
 nonsoloturisti.it###lshowcase_widget-2
