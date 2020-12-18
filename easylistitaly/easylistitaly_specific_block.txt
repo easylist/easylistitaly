@@ -1063,6 +1063,7 @@
 ||ilmonito.it^*/mfp.jpg
 ||ilombardia.it^*/all4cycling-
 ||ilpaesenuovo.it^*/perhospital-01.jpg
+||ilpost.it^*/banner_
 ||ilpost.it^*/newAdv.js?
 ||ilpuntonotizie.it^*-Leaderboard.
 ||ilpuntonotizie.it^*/IRANA-TAPPETI.

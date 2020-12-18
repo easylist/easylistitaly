@@ -295,7 +295,8 @@ finaria.it,hellogreen.it,internetto.it###text-15
 finaria.it,internetto.it###text-16
 giornalistitalia.it,noinotizie.it###text-19
 alwaysonboard.it###text-2
-noinotizie.it###text-20
+ilpost.it,noinotizie.it###text-20
+ilpost.it###text-23
 nerdplanet.it###text-24
 giornalistitalia.it###text-28
 top10scommesse.it###text-3
