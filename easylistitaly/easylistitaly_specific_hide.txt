@@ -858,6 +858,7 @@ lagazzettaaugustana.it,obiettivonews.it,plaffo.com##.nivo-imageLink
 goodtrekking.it##.no-one
 filmpertutti.lol,filmpertutti.onl,filmpertutti.voto##.no_pop
 ilpiccolo.net##.nocornice_banner
+prospettivegeometri.it##.node-banner-simple
 everyeye.it##.nome_gioco_amazon_destra
 tuttotrasporti.it##.notizieSponsorizzate
 empolifc.com##.o-section--promo
@@ -1171,7 +1172,7 @@ altadefinizione01.works,cineblog01.green##a[href*="/scarica4k.php"]
 cineblog01.bid##a[href*="/scaricafilm.php"]
 filmstreaming.page##a[href*="/scaricare-film.php"]
 eurostreaming.movie,eurostreaming.vision##a[href*="/serie-tv-streaming.php"]
-cittaceleste.it##a[href*="/sponsor/"]
+cittaceleste.it,prospettivegeometri.it##a[href*="/sponsor/"]
 cineblog01.place##a[href*="/streaming-full-hd.php"]
 altadefinizione4k.stream,altadefinizione4k.tv,piratestreaming.page##a[href*="/streaming-gratis.php"]
 pallacanestrocantu.com##a[href*="/trackingsponsor.aspx?"]
