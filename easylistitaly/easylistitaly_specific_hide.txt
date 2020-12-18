@@ -396,6 +396,7 @@ calabria7.it##.advanced_floating_content
 addicted2play.com,eurogamer.it,gioco.it,lausc.it,morningstar.it##.advert
 ilfoglio.it,liberoquotidiano.it,pharmastar.it##.advertisement
 film-review.it,nanopress.it,zonalocale.it##.advertising
+altalex.com##.adviceBox
 sienafree.it##.advs
 soldionline.it##.afc_boxcontent_taglist
 incesti.xxx,pornopizza.it,tuboitaliano.it,videopornoitalia.com##.aff
@@ -1286,6 +1287,7 @@ radioradio.it##div[style="position: absolute; display: block; top: 0px; left: 0p
 radioradio.it##div[style="position: absolute; display: block; top: 0px; left: 0px; width: 696px; height: 182px;"]
 radioradio.it##div[style="position: absolute; overflow: hidden; left: 0px; top: 0px; width: 324px; height: 400px; margin: 0px; padding: 0px; transform-style: flat; z-index: 0;"]
 radioradio.it##div[style="position: absolute; overflow: hidden; left: 0px; top: 0px; width: 696px; height: 182px; margin: 0px; padding: 0px; transform-style: flat; z-index: 0;"]
+altalex.com##div[style="position:relative; display: block; margin-bottom: 25px; background-color: #F5F5F5; padding: 20px 60px 85px 20px;"]
 lalaziosiamonoi.it,tuttocagliari.net##div[style="text-align: center; width: 160px; height: 600px; padding: 0px 0px 3px 0px;"]
 tuttojuve.com##div[style="text-align: center; width: 160px; height: 600px; padding: 3px 0; margin: 0 auto;"]
 lalaziosiamonoi.it##div[style="text-align: center; width: 300px; height: 250px; padding: 0px 0px 3px 0px;"]
