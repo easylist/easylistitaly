@@ -40,6 +40,7 @@ cataniapubblica.tv###banner1
 cataniapubblica.tv###banner2
 hdblog.it,hdmotori.it###banner3_300600
 ilmeteo.it###banner728x90bottom
+araberara.it###bannerA
 tusciaweb.eu###bannerFondo
 ondarock.it###banner_300x250
 ondarock.it###banner_300x250_slot3
