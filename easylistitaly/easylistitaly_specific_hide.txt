@@ -254,7 +254,7 @@ emiliagol.it###skinclick
 buongiornoalghero.it,freeonline.org,itvonline.news,lospiffero.com,planetmountain.com,primapress.it,salernonotizie.it,torresette.news###skinlink
 gamereactor.it###sky
 bisceglielive.it,eurogamer.it,gommadiretto.it###skyscraper
-amaranta.it,grigionline.com###slimbanner
+amaranta.it,grigionline.com,lalaziosiamonoi.it###slimbanner
 mail1.libero.it###slink-dx
 mail1.libero.it###slink-sx
 meteofinanza.com###snp-pop-20588-overlay
@@ -823,7 +823,7 @@ winenews.it##.manchette_r
 orologipertutti.it##.masonry_grid_fullwidth
 irpinianews.it##.master-slider-parent
 ecoo.it##.masterhead-container-column
-eurochampions.it##.masthead
+eurochampions.it,lalaziosiamonoi.it##.masthead
 screenweek.it##.matches-container
 crotoneok.it##.mdl_content
 medicalexcellencetv.it##.medic-widget
