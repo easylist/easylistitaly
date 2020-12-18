@@ -1467,7 +1467,9 @@
 ||mogliinmostra.it^*/1017046211.gif
 ||mogliinmostra.it^*/1018107841.jpg
 ||mole24.it^*-skin-
+||mole24.it^*/802x300.
 ||mole24.it^*/skin-
+||mole24.it^*_600x600.
 ||momentosera.it/bannerupload/
 ||mondoclassica.it^*/banner/
 ||mondodelgusto.it^*/arch/
