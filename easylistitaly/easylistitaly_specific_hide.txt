@@ -624,6 +624,7 @@ sitiscommesse.com##.bwin
 empolifc.com##.c-footer__sponsors-container
 meteo.tiscali.it##.c1c3
 catanzaro7.net##.catan-nellarticolo
+quotidianopiemontese.it##.category-redazionale
 leggere-facile.it##.cb-large
 radioinblu.it,tv2000.it##.cei-skin-side
 lineapress.it##.cfxi-container
