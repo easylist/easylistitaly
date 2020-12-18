@@ -2083,6 +2083,7 @@
 ||stardust.it^*/banner/
 ||stardust.it^*/masthead/
 ||startmag.it^*/banner_
+||startmag.it^*/Formati_distribuzione300x600.jpg
 ||startmag.it^*_skin-
 ||startmag.it^*_Skin_
 ||stateofmind.it^*-Banner-
