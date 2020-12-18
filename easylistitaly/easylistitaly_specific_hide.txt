@@ -1010,7 +1010,7 @@ affaritaliani.it##.strillo-speciale3
 ship2shore.it,trend-online.com##.strip
 corriereadriatico.it,ilgazzettino.it,ilmattino.it,ilmessaggero.it,leggo.it,quotidianodipuglia.it##.strip-guidalloshopping
 noisiamofuturo.it##.stripe
-volleyball.it##.su-carousel
+simplybiz.eu,volleyball.it##.su-carousel
 casa-domotica24.it##.su-tabs
 notiziariocalcio.com,pianetabasket.com,tuttosalernitana.com,tuttoveneziasport.it##.sub
 emmelle.it##.supermag-ainfo-widget

@@ -2023,6 +2023,7 @@
 ||sienanews.it^*/www.termeaq.it_
 ||sienanews.it^*/www.vismederi.com_
 ||sienanews.it^*_banner_
+||simplybiz.eu^*/Banner_
 ||skillandbet.com^*-banner.
 ||skillandbet.com^*/william-hill-bonus-scommesse.jpg
 ||skuola.net/assets/js/mm-banner-manager.js?
