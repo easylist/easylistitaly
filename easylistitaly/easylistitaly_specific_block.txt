@@ -1032,6 +1032,7 @@
 ||ilgiornaledelticino.ch^*/cambio-valute-
 ||ilgiornaledelticino.ch^*/logo-italydress_
 ||ilgiornaledelticino.ch^*/pizza-ticino-
+||ilgiornaledirieti.it/css/sfondo.jpg
 ||ilgiornaledisalerno.it^*/alden.gif
 ||ilgiornaledisalerno.it^*/bobopost.jpg
 ||ilgiornaledisalerno.it^*/crocebianca.jpg
