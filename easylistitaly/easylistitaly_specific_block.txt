@@ -1538,6 +1538,8 @@
 ||noitv.it^*/banner_
 ||noitv.it^*/clasiss-
 ||nokioteca.net/_immagini/Nokia2720-2.
+||nonapritequestoblog.it^*-banner.
+||nonapritequestoblog.it^*/banner_
 ||nonsolobenessere.it^*/bio-aloe-ferox-bioness-promo-
 ||nonsolomodanews.it^*-768x494.
 ||normanno.com^*/motordoctor-
