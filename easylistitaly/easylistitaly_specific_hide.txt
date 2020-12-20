@@ -12,6 +12,9 @@ piceno24.it,picenooggi.it,rivieraoggi.it,virgilio.it###adv
 agarymathematics.net,timgate.it###adv1
 libero.it###adv_topper
 catt.ch###advertising
+casasuper.it###ai_widget-11
+casasuper.it###ai_widget-5
+casasuper.it###ai_widget-7
 amazon.it###ape_detail_btf_detail-mWeb_wrapper
 amazon.it###ape_detail_mobile-hero-quick-promo_mweb_wrapper
 amazon.it###ape_search_btf_search-mWeb_wrapper
@@ -635,9 +638,12 @@ puntocellulare.it##.clklnk
 magodelpronostico.com##.cntBonusHome
 pornototale.com##.co_sponsor
 cb01.business##.codalo
+casasuper.it##.code-block-1
 pomiglianolive.it##.code-block-11
 pomiglianolive.it##.code-block-12
+casasuper.it##.code-block-16
 grossetosport.com,informarea.it,pomiglianolive.it##.code-block-5
+casasuper.it##.code-block-7
 grossetosport.com,pomiglianolive.it##.code-block-8
 pomiglianolive.it##.code-block-9
 ilcorrieredelgiorno.it##.col-banner
