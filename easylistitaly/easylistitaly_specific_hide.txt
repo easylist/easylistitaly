@@ -385,6 +385,7 @@ theitaliantimes.it##.adb
 movietele.it##.adbox
 abruzzolive.it,confinelive.it,lamilano.it,marsicalive.it,pescaralive.it##.adcontainer
 unonotizie.it##.add
+offertevolantini.it##.add_w2_h1
 24emilia.com,autoscout24.ch,brocardi.it,cb01.online,filmpertutti.lol,filmpertutti.onl,filmpertutti.voto,gamemag.it,hdblog.it,hdmotori.it,hdtroll.it,ilgeniodellostreaming.dance,ilgeniodellostreaming.rest,ilikepuglia.it,live-sport-tv.it,sitigiochi.it,teleborsa.it,viamichelin.ch,viamichelin.it##.ads
 ildolomiti.it##.adsB
 chistachiamando.it,pcprofessionale.it##.adsense
