@@ -775,6 +775,7 @@ libero.it,virgilio.it##.hp_970x90
 iodonna.it##.id-vda-article
 milanofinanza.it##.igturboboxnews
 sportytrader.it##.ilo
+forum.ilsoftware.it##.ilsw_forum_leaderboard
 oroscopi.info##.img_oroscopo_personalizzato
 mrw.it##.inadv
 mrw.it##.inadv-label
