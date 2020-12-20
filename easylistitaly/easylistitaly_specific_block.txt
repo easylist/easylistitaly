@@ -2455,6 +2455,7 @@
 ||tusciaweb.eu^*628x45
 ||tusciaweb.eu^*pushbar
 ||tuttasalute.net^*/adv/
+||tuttiprezzi.it/SPONSOR/
 ||tutto-gratis.eu/images/sponsor.gif
 ||tuttobasket.net^*/skin-
 ||tuttocalciopiemonte.com//immagini/File_banner/

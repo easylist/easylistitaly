@@ -659,6 +659,7 @@ cottoepostato.it##.cont-bann
 edilportale.com##.cont-leaderBoard
 televisionando.it##.contBannDiv
 brindisisera.it,brindisisettenews.it##.cont_banner
+tuttiprezzi.it##.container.basso
 tiscali.it##.container_b_1
 frasimania.it##.content-banner
 torresette.news##.content-banner-right
