@@ -38,6 +38,7 @@
 ||casino-sicuro.it^$third-party
 ||clacson24.com^$third-party
 ||clickadv.it^$third-party
+||clickcount.pw^$third-party
 ||clickpoint.it^$third-party
 ||consigli.it^$third-party
 ||coreg-feed.com^$third-party

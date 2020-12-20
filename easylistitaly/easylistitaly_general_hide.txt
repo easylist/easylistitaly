@@ -260,6 +260,7 @@
 ##a[href^="http://affiliazioniads.snai.it/"]
 ##a[href^="http://crazylead.com/video/"]
 ##a[href^="http://direct.juiceadv.com/aff_"]
+##a[href^="http://display.tracksafe.click/"]
 ##a[href^="http://edintorni.net/related/service/sponsor/redirect/?"]
 ##a[href^="http://native.publy.com/related/service/sponsor/redirect/?"]
 ##a[href^="http://tracking.performoney.it/"]
