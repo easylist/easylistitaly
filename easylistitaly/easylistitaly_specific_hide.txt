@@ -245,6 +245,7 @@ ansa.it###pressRelease
 eurogamer.it###prod-buy
 estrazionedellotto.it###promobanner
 flashgames.it###pub_sotto
+tuttitalia.it###qh
 odontoiatria33.it###rowHeader
 skylinewebcams.com###rpc
 alwaysonboard.it###sab_content
@@ -701,6 +702,7 @@ ekuonews.it##.elementor-element-ffc0651
 tvrxenon.it##.elementor-image-carousel-wrapper
 twebnews.it##.elementor-main-swiper
 affaritaliani.it##.eni
+tuttitalia.it##.eo
 garganotv.com##.erzodfm-container
 exibart.com##.exibart-footer-partner
 exibart.com##.exibart-footer-partner-title
@@ -820,6 +822,7 @@ diretta.it##.live-betting-strip
 sorrisi.com##.live-news-advbox
 acquavivalive.it,altamuralive.it,andrialive.it,barilive.it,barlettalive.it,bisceglielive.it,bitontolive.it,canosalive.com,cassanolive.it,coratolive.it,fasanolive.com,gioialive.it,giovinazzolive.it,gravinalive.it,margheritalive.it,minervinolive.it,molfettalive.it,ruvolive.it,santeramolive.it,terlizzilive.it,tranilive.it,viviwebtv.it##.live-promo
 lattemiele.com##.lp-link
+tuttitalia.it##.lt
 omnifurgone.it##.m1-apb
 buttanissima.it##.machette
 gonews.it##.machette-over-logo
