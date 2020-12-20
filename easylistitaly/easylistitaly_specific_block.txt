@@ -2792,12 +2792,12 @@
 ||wp.com/www.vesuvianonews.it/*/pekit-lim1.jpg
 ||wp.com/www.worldofwrestling.it/*/wow.gif
 ||wp.com/www.zerosette.it/*/bella-venezia.png
-||wp.com^*-banner-$domain=blogdellamusica.eu|gazzettadiavellino.it|gazzettadisalerno.it|infonewsvietri.it|libringioco.blog|nerdpool.it
+||wp.com^*-banner-$domain=blogdellamusica.eu|fisco7.it|gazzettadiavellino.it|gazzettadisalerno.it|infonewsvietri.it|libringioco.blog|nerdpool.it
 ||wp.com^*-banner.$domain=abruzzoweb.it|blogdellamusica.eu|gazzettadiavellino.it|gazzettadisalerno.it|infonewsvietri.it
 ||wp.com^*/675x238-$domain=tv9italia.it
 ||wp.com^*/banner-$domain=abruzzoweb.it|bsnews.it|cinecorriere.it|giornaledicalabria.it|ilgiornaledeiveronesi.it|infocilento.it|nonsoloturisti.it|oggicronaca.it|temporeale.info|vesuvianonews.it
 ||wp.com^*/banner/$domain=cronacaflegrea.it
-||wp.com^*/banner_$domain=agropolinews.it
+||wp.com^*/banner_$domain=agropolinews.it|fisco7.it
 ||wp.com^*/banners/$domain=proiezionidiborsa.it
 ||wp.com^*/BRIGNOLA20201.jpg$domain=infonewsvietri.it
 ||wp.com^*/mahindra.png$domain=catanista.eu

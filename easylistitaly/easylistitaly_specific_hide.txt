@@ -642,6 +642,7 @@ casasuper.it##.code-block-1
 pomiglianolive.it##.code-block-11
 pomiglianolive.it##.code-block-12
 casasuper.it##.code-block-16
+fisco7.it##.code-block-29
 grossetosport.com,informarea.it,pomiglianolive.it##.code-block-5
 casasuper.it##.code-block-7
 grossetosport.com,pomiglianolive.it##.code-block-8
