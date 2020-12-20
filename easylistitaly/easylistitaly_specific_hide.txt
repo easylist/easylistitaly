@@ -292,7 +292,7 @@ gamesvillage.it###takeover_gv
 radioluna.it###testata
 lol-esports.it###text-11
 golbym.com###text-12
-studio5fm.com###text-13
+clientiesperti.it,studio5fm.com###text-13
 esportsonline.it,finaria.it###text-14
 finaria.it,hellogreen.it,internetto.it###text-15
 finaria.it,internetto.it###text-16
@@ -302,7 +302,7 @@ ilpost.it,noinotizie.it###text-20
 ilpost.it###text-23
 nerdplanet.it###text-24
 giornalistitalia.it###text-28
-top10scommesse.it###text-3
+clientiesperti.it,top10scommesse.it###text-3
 giornalistitalia.it###text-30
 contrastotv.it,giornalistitalia.it,viterbopost.it###text-34
 viterbopost.it###text-35
