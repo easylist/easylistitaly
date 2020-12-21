@@ -886,6 +886,7 @@ affaritaliani.it##.mutui
 cb001.xyz##.mvic-btn
 calciocasteddu.it,qdmnotizie.it##.mvp-wall-link
 passioneorologio.it##.my_best-price-btn
+donnaclick.it##.myadv
 ildolomiti.it##.native
 virgilio.it##.newboxIs
 virgilio.it##.newboxIsOrizz
