@@ -1732,6 +1732,8 @@
 ||pistoiasport.com^*/spagnesi.gif
 ||pistoiasport.com^*/tana-coniglio.gif
 ||pistoiasport.com^*/traversari512x100.png
+||piuchepuoi.it/assets/uploads/desktop-Heisenberg.png
+||piuchepuoi.it/assets/uploads/homeLTMPT_desktop.jpg
 ||piuvallitv.it^*/sponsors/
 ||plateamajor.com/img/banner/
 ||plateamajor.com/img/BC_
