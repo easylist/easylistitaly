@@ -238,6 +238,7 @@ rovigooggi.it###news-top-space
 diretta.it,flashscore.it###odds-main-wrapper
 mondoplay.it,mondoxbox.com###offersbox
 mondoplay.it,mondoxbox.com###offersbox_wide
+sposa.it###partner-content
 sassuolocalcio.it,ship2shore.it###partners
 lafeltrinelli.it###partners-slider
 amazon.it###pdagMwebCarousel
@@ -327,7 +328,7 @@ esportsitalia.com,plusrew.com###text-8
 telemia.it###text-9
 faidatecasa.com###tm-main-top
 certificatejournal.it,finanza.com###top-banner
-calciomercato.com###top-banner-container
+calciomercato.com,sposa.it###top-banner-container
 hwupgrade.it###top300x250-background
 hwupgrade.it###top300x250-container
 corriere.it###topXcoupon
@@ -340,6 +341,7 @@ tusciaweb.eu###topalto
 everyeye.it###topskin_clicktag
 ilturista.info###tours-tickets-banner
 tipiace.it###vetrina
+sposa.it###vetrina-content
 altarimini.it###videoRedazionale
 nerdplanet.it###wallpaper
 rtalive.it###wdslider-5
@@ -483,7 +485,7 @@ notetralerighe.it##.banner-amazon-music
 parmareport.it##.banner-big
 universodelgioco.it##.banner-btf-side-rectangle
 mrw.it##.banner-center
-1001giochi.it,cuneocronaca.it,divinafm.it,giochixl.it,lacrocequotidiano.it,mtv.it##.banner-container
+1001giochi.it,cuneocronaca.it,divinafm.it,giochixl.it,lacrocequotidiano.it,mtv.it,sposa.it##.banner-container
 genova24.it##.banner-elezioni
 italiani.it##.banner-empty-italiani
 bluvolleyverona.it##.banner-fading
