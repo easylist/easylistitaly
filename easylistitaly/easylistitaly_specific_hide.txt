@@ -345,6 +345,10 @@ nerdplanet.it###wallpaper
 rtalive.it###wdslider-5
 transfermarkt.it###werbung_superbanner
 lostrillonenews.it###wideSidebar
+ambientebio.it###widget-custom_html-18
+ambientebio.it###widget-custom_html-25
+ambientebio.it###widget-custom_html-27
+ambientebio.it###widget-custom_html-28
 sscalciobari.it###wl-sponsor
 animeclick.it###wrapper
 italia.fm###xbtm

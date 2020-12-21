@@ -125,6 +125,7 @@
 ||amazonaws.com^*/5f9c3015869e7030208168.png$domain=primocomunicazione.it
 ||amazonaws.com^*/5fbfe4e69a41e105507124.jpg$domain=primocomunicazione.it
 ||amazonaws.com^*/5fc0cbe370a6d918522944.png$domain=primocomunicazione.it
+||ambientebio.it^*/WhatsApp-Image-2020-09-02-at-15.16.54.jpeg
 ||ambientequotidiano.it/banner/
 ||ammirati.org/immagini/sponsor/
 ||ammirati.org/showpopup/
