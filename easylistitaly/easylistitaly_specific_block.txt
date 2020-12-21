@@ -2810,7 +2810,7 @@
 ||wp.com^*/675x238-$domain=tv9italia.it
 ||wp.com^*/banner-$domain=abruzzoweb.it|bsnews.it|cinecorriere.it|giornaledicalabria.it|ilgiornaledeiveronesi.it|infocilento.it|nonsoloturisti.it|oggicronaca.it|temporeale.info|vesuvianonews.it
 ||wp.com^*/banner/$domain=cronacaflegrea.it
-||wp.com^*/banner_$domain=agropolinews.it|fisco7.it
+||wp.com^*/banner_$domain=agropolinews.it|bimbonaturale.org|fisco7.it
 ||wp.com^*/banners/$domain=proiezionidiborsa.it
 ||wp.com^*/BRIGNOLA20201.jpg$domain=infonewsvietri.it
 ||wp.com^*/mahindra.png$domain=catanista.eu
