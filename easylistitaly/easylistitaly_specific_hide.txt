@@ -28,6 +28,7 @@ gnoccatravels.com###b-nner-right-list
 libero.it###b468x60bottoms
 10cose.it###b_searchboxInc
 bazar.it###background
+brocardi.it###background-head-spacer
 brindisisettenews.it###background_body
 beverfood.com###backy
 rimini.com###bann-top-dx
@@ -197,6 +198,7 @@ altreconomia.it###leaderboard-top
 forum.tomshw.it###leaderboard1
 saperesalute.it###leaderboardBox
 casa.it###leaderboard_footer
+brocardi.it###libgiurista
 diritto.it###libpro
 teleradio-news.it###linkcat-12
 business.it###logoYobee
