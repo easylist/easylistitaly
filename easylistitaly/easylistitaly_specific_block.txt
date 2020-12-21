@@ -2203,6 +2203,7 @@
 ||stellenellosport.com^*/italmatch.jpg
 ||stellenellosport.com^*/Primocanale_
 ||stellenellosport.com^*/Valletta-Cambiaso-
+||stilenaturale.com^*/BannerHOME_
 ||stiletv.it/banner/
 ||stiletv.it^*-banner.
 ||stiletv.it^*/Banner_

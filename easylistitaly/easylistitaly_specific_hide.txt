@@ -714,6 +714,7 @@ regaliperfetti.it##.egg_grid
 regaliperfetti.it##.egg_sort_list
 beneficicurcuma.it##.elementor-cta
 coronavirusroma.com##.elementor-element-3579018
+stilenaturale.com##.elementor-element-a143866
 menteinformatica.it##.elementor-element-df7936e
 corrieredicomo.it##.elementor-element-f76437b
 ekuonews.it##.elementor-element-ffc0651
