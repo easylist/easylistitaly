@@ -1416,6 +1416,8 @@
 ||marsicalive.it^*_banner_
 ||masterviaggi.it/banner/
 ||matrimonio.com^*/banners/
+||matrimoniosolidale.it/img/b-
+||matrimoniosolidale.it/img/un-buon-invito.png
 ||matrimony.it^*/professionisti.jpg
 ||mattinonline.ch^*/banner_
 ||mauxa.com/storage/banner/

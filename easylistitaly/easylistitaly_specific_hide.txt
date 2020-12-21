@@ -113,6 +113,7 @@ corrieredellacalabria.it###click_sxa
 amazon.it###click_withinLazyLoad_tower
 aquilabasket.it###clickit
 acquariofilia.biz###collapseobj_sidebar_google
+matrimoniosolidale.it###confetti-bomb
 affaritaliani.it###consigliati-giochi2
 virgilio.it###cont-leaderboard
 virgilio.it###cont-manchette
@@ -462,6 +463,7 @@ uspistoiese1921.it##.av-partner-fake-img
 ciaoporno.it##.aviso
 amazon.it##.aw-campaigns
 gamelegends.it##.awac-wrapper
+matrimoniosolidale.it##.b-invito-b
 gnoccatravels.com##.b-nner-desktop-block
 amalfinews.it,ilvescovado.it,liratv.it,occhisusalerno.it,positanonotizie.it##.b1nn3rs
 virgilio.it##.b300x250
@@ -980,6 +982,7 @@ wikihow.it##.rr_container
 cliccascienze.it##.rtecenter
 ilsole24ore.com##.s24-abox
 genova24.it,ivg.it,lacnews24.it##.sb-banner
+matrimoniosolidale.it##.scegli-bomb-dx
 flashgames.it##.scheda_ppc
 puntocellulare.it##.schlnk
 rovigooggi.it##.sect-list-space
