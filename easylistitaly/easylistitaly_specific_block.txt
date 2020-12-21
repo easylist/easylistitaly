@@ -392,6 +392,7 @@
 ||campanianotizie.com^*/banner-
 ||campanianotizie.com^*/raggiodisole.gif
 ||camperlife.it^*/banner/
+||camperonline.it//b/
 ||camperonline.it/b-top/
 ||camperonline.it/b/
 ||camperonline.it/banner/
