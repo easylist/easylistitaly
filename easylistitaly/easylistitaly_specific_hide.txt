@@ -653,6 +653,7 @@ meteo.tiscali.it##.c1c3
 catanzaro7.net##.catan-nellarticolo
 quotidianopiemontese.it##.category-redazionale
 leggere-facile.it##.cb-large
+magazinedelledonne.it##.ccm_pugoo__sponso
 radioinblu.it,tv2000.it##.cei-skin-side
 lineapress.it##.cfxi-container
 cliccascienze.it##.clicc-prima-del-contenuto
