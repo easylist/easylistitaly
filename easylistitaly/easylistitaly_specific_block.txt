@@ -1416,6 +1416,7 @@
 ||marsicalive.it^*_banner_
 ||masterviaggi.it/banner/
 ||matrimonio.com^*/banners/
+||matrimony.it^*/professionisti.jpg
 ||mattinonline.ch^*/banner_
 ||mauxa.com/storage/banner/
 ||maxradio.it/images/55382.jpg
