@@ -948,6 +948,7 @@ live-sport-tv.it##.rectangles
 sportytrader.it##.redirectou
 viversano.net##.referral-small
 passioneorologio.it##.rehub_feat_block
+microgiochi.com##.relacionados
 mobimart.it##.resp-container
 ilclubdellericette.it##.ricetta-amazon
 estrazionedellotto.it##.right
