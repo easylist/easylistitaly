@@ -980,6 +980,9 @@
 ||ideawebtv.it^*_350x250px-
 ||ideefesta.it^*/lista-nascita.jpg
 ||ideefesta.it^*/lista-nozze-
+||ideeregaloper.it^*/bf.jpg
+||ideeregaloper.it^*/mm300x600.gif
+||ideeregaloper.it^*/rs.jpg
 ||igds.pro/wp-content/themes/movies/iframe/
 ||il-genio-dello-streaming.com/play/
 ||ilcalcioillustrato.it^*/banner-
