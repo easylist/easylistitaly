@@ -312,7 +312,7 @@ contrastotv.it,giornalistitalia.it,viterbopost.it###text-34
 viterbopost.it###text-35
 giornalistitalia.it###text-36
 giornalistitalia.it,ilgiornaledeiveronesi.it###text-38
-birramoriamoci.it,finaria.it,vigamusmagazine.com###text-4
+birramoriamoci.it,faidatecreativo.com,finaria.it,vigamusmagazine.com###text-4
 giornalistitalia.it###text-40
 giornalistitalia.it###text-41
 grossetosport.com###text-44
