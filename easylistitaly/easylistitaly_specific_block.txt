@@ -992,6 +992,7 @@
 ||ilcalcioillustrato.it^*/banner-
 ||ilcambiamento.it/data/banner/
 ||ilcapoluogo.it^*/zurich.jpg
+||ilcaso.it/immagini/gioiavivereanimato2.gif
 ||ilcentroabruzzo.it/immagine-profilo-.jpg
 ||ilclandestinogiornale.italiasera.it^*/Oktoberfest-nettuno-
 ||ilcorriere.net^*-banner.
