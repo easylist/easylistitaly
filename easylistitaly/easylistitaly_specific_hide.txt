@@ -1142,6 +1142,7 @@ lavorincasa.it##.wrapper-banner-box-wallpaper
 lavorincasa.it##.wrapper-banner-footerbanner
 lavorincasa.it##.wrapper-banner-medium-rectangle
 lavorincasa.it##.wrapper-sider-bacheca-aziende
+lavorincasa.it##.wrapper-widget-box-prodotti-sider
 hwupgrade.it##.wrapper-xyz
 rivistanatura.com##.zcx
 rivistanatura.com##.zcx-img
@@ -1244,9 +1245,12 @@ amica.it##a[style="width: 300px;display: block;z-index: 999999;height: 268px;pos
 genoanews1893.it##div[astyle="text-align: center; width: 336px; height: 280px; padding: 3px 0px 3px 0px;"]
 acmilan.com##div[class^="Partners_"]
 calabria7.it##div[class^="angwp_"]
+lavorincasa.it##div[class^="large-leaderboard"]
 lavorincasa.it##div[class^="medium-rectangle"]
 lavorincasa.it##div[class^="wb-bacheca-aziende"]
+lavorincasa.it##div[class^="wb-box-wallpaper"]
 lavorincasa.it##div[class^="wb-half-page-ad"]
+lavorincasa.it##div[class^="wb-infobanner"]
 lavorincasa.it##div[class^="wrapper-banner-half-page-ad"]
 lavorincasa.it##div[class^="wrapper-banner-infobanner-large"]
 lavorincasa.it##div[class^="wrapper-banner-large-leaderboard"]
