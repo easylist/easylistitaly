@@ -444,6 +444,7 @@ ansa.it##.ansacom-box
 oraridiapertura24.it##.anzeigenlabel
 insideevs.it,omnifurgone.it,omnimoto.it##.ap
 ridble.com##.api-box
+matrimonio.com##.app-DFP
 stardust.it##.app-masthead
 radiocuore.it##.areaclick
 pensionioggi.it##.article-banner-left
@@ -505,7 +506,7 @@ universodelgioco.it##.banner-sky
 canavesenews.it##.banner-slider
 qualenergia.it##.banner-space
 vienormali.it##.banner-testata
-frasimania.it##.banner-top
+frasimania.it,matrimonio.com##.banner-top
 torresette.news##.banner-top-left
 torresette.news##.banner-top-right
 edilportale.com##.banner-velux
