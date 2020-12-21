@@ -706,6 +706,8 @@ casacinema.work,casacinema01.club,filmsenzalimiti01.online,ilgeniodellostreaming
 cronachedibirra.it##.e3lan125
 ilpaesenuovo.it##.e3lanat-layout-rotator
 pc-gaming.it,stile.it##.egg-container
+regaliperfetti.it##.egg_grid
+regaliperfetti.it##.egg_sort_list
 beneficicurcuma.it##.elementor-cta
 coronavirusroma.com##.elementor-element-3579018
 menteinformatica.it##.elementor-element-df7936e
@@ -955,6 +957,7 @@ live-sport-tv.it##.rectangles
 sportytrader.it##.redirectou
 viversano.net##.referral-small
 passioneorologio.it##.rehub_feat_block
+regaliperfetti.it##.rehub_woo_review
 microgiochi.com##.relacionados
 mobimart.it##.resp-container
 ilclubdellericette.it##.ricetta-amazon
