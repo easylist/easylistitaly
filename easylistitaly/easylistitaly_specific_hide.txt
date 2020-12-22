@@ -1132,6 +1132,7 @@ radiocompany.com##.trend-banner
 notebookitalia.it##.uk-height-medium
 colonnesonore.net##.uk-panel.uk-panel-header
 strumentiemusica.com##.ulnqd-container
+connessionivpn.it##.universal-cta__inner
 turistipercaso.it##.utilink
 sanihelp.it##.v2-header-banner
 bresciaoggi.it,larena.it##.v2_banner-wrapper
@@ -1214,7 +1215,7 @@ filmsenzalimiti.li##a[href*="/fddown/"]
 filmsenzalimiti.li##a[href*="/fdhh/"]
 cb01.dev##a[href*="/film-in-full-hd-ultra.php"]
 abruzzoweb.it,ecwgcortina2016.it##a[href*="/go.php?"]
-cartedipagamento.com,migliorisitistreaming-hd.blogspot.com,vivasicilia.com##a[href*="/go/"]
+cartedipagamento.com,connessionivpn.it,migliorisitistreaming-hd.blogspot.com,vivasicilia.com##a[href*="/go/"]
 ilgeniodellostreaming.gold##a[href*="/guarda-hd.php"]
 cineblog01.bid##a[href*="/guarda4k.php"]
 eurostreaming.ca,eurostreaming.cam,filmsenzalimiti.bz,filmsenzalimiti.ink,ilgeniodellostreaming.xyz,piratestreaming.eu,tantifilm.link##a[href*="/hd/"]
