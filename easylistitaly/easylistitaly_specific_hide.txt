@@ -390,7 +390,7 @@ rietinvetrina.it,ultimenotizieflash.com##.a-single
 badcomics.it,badgames.it,badtaste.it,badtv.it##.aalb-880-product-carousel-unit
 gnius.it##.aalb-product-carousel-unit
 repubblica.it##.aas_whole_wrapper
-androidplanet.it,casa-domotica24.it,ciaogreen.it,cityrumors.it,comelofaccio.it,depurarsi.com,gamerbrain.net,gufo.it,infotelematico.com,londranews.com,menteinformatica.it,migliorigiochi.eu,orologidapolso.org,outofbit.it,recensioniorologi.it,simonemaestri.com,solorecensioni.com,soluzionecomputer.it,stampante-3d.net,techprincess.it,tecnofacile.com,wordsmart.it##.aawp
+androidplanet.it,casa-domotica24.it,ciaogreen.it,cityrumors.it,comelofaccio.it,depurarsi.com,gamerbrain.net,gufo.it,infotelematico.com,londranews.com,menteinformatica.it,migliorigiochi.eu,orologidapolso.org,outofbit.it,phonetoday.it,recensioniorologi.it,simonemaestri.com,solorecensioni.com,soluzionecomputer.it,stampante-3d.net,techprincess.it,tecnofacile.com,wordsmart.it##.aawp
 tecnofacile.com##.aawp-button
 topdigamma.it,tuttotek.it##.aawp-product
 tag24.it##.above-footer
@@ -1102,7 +1102,7 @@ gioconews.it##.tcvn-banner-item
 ilprimatonazionale.it##.td-banner-bg
 edagricole.it##.td-banner-footer
 01net.it,edagricole.it##.td-banner-wrap-full
-romagiallorossa.it,tecnoandroid.it##.td-container-header
+phonetoday.it,romagiallorossa.it,tecnoandroid.it##.td-container-header
 radioradio.it##.td-fix-index
 amoreaquattrozampe.it##.td-footer-container
 ilgiornaledeltermoidraulico.it,pescaracalcio.com,tennispavese.it,ternanacalcio.com##.td-footer-wrapper
