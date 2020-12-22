@@ -663,6 +663,15 @@
 ||djmagitalia.com^*/BANNER_
 ||djmagitalia.com^*_skin_
 ||dossier.net^*/rettangolo_
+||dozenblogs.com^*/awesomesupport.png
+||dozenblogs.com^*/channel-bookingcom.png
+||dozenblogs.com^*/download-1.jpg
+||dozenblogs.com^*/download.jpg
+||dozenblogs.com^*/logo_yith.png
+||dozenblogs.com^*/maxresdefault-1.jpg
+||dozenblogs.com^*/maxresdefault.jpg
+||dozenblogs.com^*/Screen-Shot-2017-05-17-at-9.25.22-AM.png
+||dozenblogs.com^*/white_lime_logo.png
 ||dronezine.it^*-banner-
 ||dronezine.it^*/banner-
 ||dronezine.it^*/mavic-
