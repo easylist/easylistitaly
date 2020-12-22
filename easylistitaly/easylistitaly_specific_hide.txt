@@ -1169,6 +1169,7 @@ nursetimes.org##.widget_realty_widget
 radiodigione.net##.widget_ubm-banners-rotation
 vicenzanews.it##.wifiplaza
 lapappadolce.net##.wpmc_inject_wrapper
+tuttoapp-android.com##.wpmoneyclick_amazon_box
 tuttoapp-android.com##.wpmoneyclick_template_simple_button
 teleunica.com##.wrap-adv-body
 lavorincasa.it##.wrapper-banner-box-wallpaper
