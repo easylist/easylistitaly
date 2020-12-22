@@ -1060,6 +1060,7 @@ sportytrader.it##.sticky-header_banner_first
 quattroruote.it##.sticky-sponsor
 occhionotizie.it##.sticky_bar_container
 webnews.it##.sticky_wrapper
+androidworld.it##.store-affiliation
 andreagaleazzi.com##.store-box
 100ideeperristrutturare.it,calabria7.it,casa-naturale.com,fruitbookmagazine.it,primopianomolise.it,quattrozampe.online,radiomovida.net,radioradio.it,uominietrasporti.it,vendingnews.it,villeecasali.com##.strack_cli
 myreviews.it##.stream-item
@@ -1275,6 +1276,7 @@ animeemanga.it,comingsoon.it,trovacinema.repubblica.it##a[href^="https://www.pri
 2backpack.it##a[href^="https://www.worldnomads.com/Turnstile/AffiliateLink?"]
 2backpack.it##a[href^="https://www.worldnomads.it/?affiliate="]
 lavocedellevalli.it##a[onclick^="ga('send', 'event',"]
+androidworld.it##a[style="background-color: #ff9900; padding: 10px; border: none; text-align: center; text-decoration: none; font-size: 18px; width: 200px; font-weight: bold; border-radius: 10px; color: white;"]
 amica.it##a[style="width: 300px;display: block;z-index: 999999;height: 268px;position: absolute;top: 0;left: 0;"]
 genoanews1893.it##div[astyle="text-align: center; width: 336px; height: 280px; padding: 3px 0px 3px 0px;"]
 acmilan.com##div[class^="Partners_"]
