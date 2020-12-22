@@ -556,6 +556,7 @@ condominioweb.com##.banner_home
 italpress.com##.banner_img_widget
 villaggiomusicale.com##.banner_leaderboard
 archzine.it##.banner_sidebar
+tutto.tv##.banner_single_top
 startupitalia.eu##.banner_slick
 startupitalia.eu##.banner_slick_2
 scozia.net##.banner_sponsor
