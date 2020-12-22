@@ -1190,6 +1190,7 @@
 ||katablog.it/images/e-commerce-carrello.jpg
 ||key4biz.it^*/req-
 ||kiaclub.it/kia/banner/
+||kinstacdn.com^*/musica-gratis-amazon.jpg$domain=advister.it
 ||kisskiss.it/images/banners/
 ||kisskissitalia.it/images/banners/
 ||kisskissnapoli.it/images/banners/

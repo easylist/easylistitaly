@@ -220,6 +220,7 @@ ondarock.it###masthead_or
 chepreparo.it,it-casinoonline.com###media_image-2
 it-casinoonline.com,italiaonline.news###media_image-4
 staynerd.com###media_image-40
+advister.it###media_image-44
 giornalistitalia.it,it-casinoonline.com###media_image-5
 giornalistitalia.it###media_image-6
 cataniaunafede.it###media_image-7
@@ -1178,6 +1179,7 @@ radiodigione.net##.widget_ubm-banners-rotation
 vicenzanews.it##.wifiplaza
 lapappadolce.net##.wpmc_inject_wrapper
 tuttoapp-android.com##.wpmoneyclick_amazon_box
+advister.it##.wpmoneyclick_template_prices_comp
 tuttoapp-android.com##.wpmoneyclick_template_simple_button
 simonemaestri.com##.wpmoneyclick_template_single-product
 teleunica.com##.wrap-adv-body
