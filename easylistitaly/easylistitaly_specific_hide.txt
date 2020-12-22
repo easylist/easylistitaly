@@ -654,6 +654,7 @@ pensieriparole.it##.buyblock
 sitiscommesse.com##.bwin
 empolifc.com##.c-footer__sponsors-container
 meteo.tiscali.it##.c1c3
+tuttoandroid.net##.card
 catanzaro7.net##.catan-nellarticolo
 quotidianopiemontese.it##.category-redazionale
 leggere-facile.it##.cb-large
