@@ -834,7 +834,7 @@ bluerating.com##.large_home_adv
 pensieriparole.it##.latspot
 flashscore.it##.lb-strip-9
 blog.libero.it,blog.virgilio.it##.lb_hook1
-blog.libero.it##.lb_hook2
+blog.libero.it,blog.virgilio.it##.lb_hook2
 ilgallo.it##.leader-board
 close-up.it,foodweb.it,meteovista.it,pneusnews.it,prealpina.it,ridble.com,today.it,ultimenotizieflash.com##.leaderboard
 blastingnews.com##.leaderboard-article
