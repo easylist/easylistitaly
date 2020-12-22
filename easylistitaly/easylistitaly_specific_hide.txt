@@ -386,7 +386,7 @@ rietinvetrina.it,ultimenotizieflash.com##.a-single
 badcomics.it,badgames.it,badtaste.it,badtv.it##.aalb-880-product-carousel-unit
 gnius.it##.aalb-product-carousel-unit
 repubblica.it##.aas_whole_wrapper
-androidplanet.it,casa-domotica24.it,ciaogreen.it,cityrumors.it,comelofaccio.it,depurarsi.com,gamerbrain.net,infotelematico.com,londranews.com,menteinformatica.it,migliorigiochi.eu,orologidapolso.org,outofbit.it,recensioniorologi.it,soluzionecomputer.it,stampante-3d.net,techprincess.it,wordsmart.it##.aawp
+androidplanet.it,casa-domotica24.it,ciaogreen.it,cityrumors.it,comelofaccio.it,depurarsi.com,gamerbrain.net,infotelematico.com,londranews.com,menteinformatica.it,migliorigiochi.eu,orologidapolso.org,outofbit.it,recensioniorologi.it,simonemaestri.com,soluzionecomputer.it,stampante-3d.net,techprincess.it,wordsmart.it##.aawp
 topdigamma.it,tuttotek.it##.aawp-product
 tag24.it##.above-footer
 ilsole24ore.com##.abox
@@ -1007,6 +1007,7 @@ mitindo.it##.sidebar-right-bottomleft
 sportytrader.it##.sidebar_grid
 cosedicasa.com##.sidespot-wrapper
 calcioatalanta.it,calciocremonese.it,calciospezia.it,forzamonza.it##.sihappy
+simonemaestri.com##.simone-grid-item
 manfredonianews.it##.single-box
 fattoalatina.it##.site-heading-sidebar
 andreagaleazzi.com,animeclick.it##.skin
@@ -1173,6 +1174,7 @@ vicenzanews.it##.wifiplaza
 lapappadolce.net##.wpmc_inject_wrapper
 tuttoapp-android.com##.wpmoneyclick_amazon_box
 tuttoapp-android.com##.wpmoneyclick_template_simple_button
+simonemaestri.com##.wpmoneyclick_template_single-product
 teleunica.com##.wrap-adv-body
 lavorincasa.it##.wrapper-banner-box-wallpaper
 lavorincasa.it##.wrapper-banner-footerbanner
