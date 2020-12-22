@@ -333,7 +333,7 @@ giornalistitalia.it###text-46
 birramoriamoci.it,giornalesm.com###text-5
 incucinaconelena.it###text-7
 esportsitalia.com,plusrew.com###text-8
-telemia.it###text-9
+solorecensioni.com,telemia.it###text-9
 faidatecasa.com###tm-main-top
 certificatejournal.it,finanza.com###top-banner
 calciomercato.com,sposa.it###top-banner-container
@@ -390,7 +390,7 @@ rietinvetrina.it,ultimenotizieflash.com##.a-single
 badcomics.it,badgames.it,badtaste.it,badtv.it##.aalb-880-product-carousel-unit
 gnius.it##.aalb-product-carousel-unit
 repubblica.it##.aas_whole_wrapper
-androidplanet.it,casa-domotica24.it,ciaogreen.it,cityrumors.it,comelofaccio.it,depurarsi.com,gamerbrain.net,gufo.it,infotelematico.com,londranews.com,menteinformatica.it,migliorigiochi.eu,orologidapolso.org,outofbit.it,recensioniorologi.it,simonemaestri.com,soluzionecomputer.it,stampante-3d.net,techprincess.it,tecnofacile.com,wordsmart.it##.aawp
+androidplanet.it,casa-domotica24.it,ciaogreen.it,cityrumors.it,comelofaccio.it,depurarsi.com,gamerbrain.net,gufo.it,infotelematico.com,londranews.com,menteinformatica.it,migliorigiochi.eu,orologidapolso.org,outofbit.it,recensioniorologi.it,simonemaestri.com,solorecensioni.com,soluzionecomputer.it,stampante-3d.net,techprincess.it,tecnofacile.com,wordsmart.it##.aawp
 tecnofacile.com##.aawp-button
 topdigamma.it,tuttotek.it##.aawp-product
 tag24.it##.above-footer

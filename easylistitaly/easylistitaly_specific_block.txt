@@ -2151,6 +2151,8 @@
 ||soccermagazine.it^*/CORREVA_TER.jpg
 ||sololibri.net/amazon.png
 ||sololibri.net/ibs.png
+||solorecensioni.com^*/offerteblack.jpg
+||solorecensioni.com^*/offertenatale.gif
 ||sora24.it/banner/
 ||sora24.it^*/amazon-prime-
 ||spoletonline.com/banner/
