@@ -720,7 +720,7 @@ ridble.com##.dn
 casacinema.work,casacinema01.club,filmsenzalimiti01.online,ilgeniodellostreaming.icu,italiafilm.casa,tantifilm-ita.it,tantifilm.cool,tantifilm.surf,tantifilm.work##.download-links
 cronachedibirra.it##.e3lan125
 ilpaesenuovo.it##.e3lanat-layout-rotator
-pc-gaming.it,stile.it##.egg-container
+evosmart.it,pc-gaming.it,stile.it##.egg-container
 regaliperfetti.it##.egg_grid
 regaliperfetti.it##.egg_sort_list
 beneficicurcuma.it##.elementor-cta
@@ -931,6 +931,7 @@ radiogardena.it##.partner-wrapper
 andreagaleazzi.com##.partner_box
 dolcidee.it,rtinradio.com##.partners
 100ideeperristrutturare.it,casa-naturale.com,quattrozampe.online,villeecasali.com##.partners-wrapper
+evosmart.it##.penci-banner-box
 sarnonotizie.it##.penci-container__content
 coltivazionebiologica.it##.penci-header-signup-form
 filmsenzalimiti.love##.playbtn

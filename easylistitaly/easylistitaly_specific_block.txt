@@ -724,6 +724,7 @@
 ||eurostreaming.fyi/sc.png
 ||eurostreaming.movie^*/hostfullhd.png
 ||eurostreaming.vision^*/hostfullhd.png
+||evosmart.it^*/banner_
 ||exibart.com/partner/
 ||extra.treddi.com^
 ||fanoinforma.it^*/aset1.jpg
