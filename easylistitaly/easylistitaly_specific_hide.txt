@@ -218,6 +218,7 @@ dailybest.it,forum.tomshw.it,leonardo.it,politicanews.it,ricettedalmondo.it###ma
 matematicamente.it###masthead-desktop-wrapper
 ondarock.it###masthead_or
 chepreparo.it,it-casinoonline.com###media_image-2
+tecnofacile.com###media_image-3
 it-casinoonline.com,italiaonline.news###media_image-4
 staynerd.com###media_image-40
 advister.it###media_image-44
@@ -317,13 +318,13 @@ rumors.it###text-22
 ilpost.it###text-23
 nerdplanet.it###text-24
 giornalistitalia.it###text-28
-clientiesperti.it,top10scommesse.it###text-3
+clientiesperti.it,tecnofacile.com,top10scommesse.it###text-3
 giornalistitalia.it###text-30
 contrastotv.it,giornalistitalia.it,viterbopost.it###text-34
 viterbopost.it###text-35
 giornalistitalia.it###text-36
 giornalistitalia.it,ilgiornaledeiveronesi.it###text-38
-birramoriamoci.it,faidatecreativo.com,finaria.it,vigamusmagazine.com###text-4
+birramoriamoci.it,faidatecreativo.com,finaria.it,tecnofacile.com,vigamusmagazine.com###text-4
 giornalistitalia.it###text-40
 giornalistitalia.it###text-41
 grossetosport.com###text-44
@@ -388,7 +389,8 @@ rietinvetrina.it,ultimenotizieflash.com##.a-single
 badcomics.it,badgames.it,badtaste.it,badtv.it##.aalb-880-product-carousel-unit
 gnius.it##.aalb-product-carousel-unit
 repubblica.it##.aas_whole_wrapper
-androidplanet.it,casa-domotica24.it,ciaogreen.it,cityrumors.it,comelofaccio.it,depurarsi.com,gamerbrain.net,infotelematico.com,londranews.com,menteinformatica.it,migliorigiochi.eu,orologidapolso.org,outofbit.it,recensioniorologi.it,simonemaestri.com,soluzionecomputer.it,stampante-3d.net,techprincess.it,wordsmart.it##.aawp
+androidplanet.it,casa-domotica24.it,ciaogreen.it,cityrumors.it,comelofaccio.it,depurarsi.com,gamerbrain.net,infotelematico.com,londranews.com,menteinformatica.it,migliorigiochi.eu,orologidapolso.org,outofbit.it,recensioniorologi.it,simonemaestri.com,soluzionecomputer.it,stampante-3d.net,techprincess.it,tecnofacile.com,wordsmart.it##.aawp
+tecnofacile.com##.aawp-button
 topdigamma.it,tuttotek.it##.aawp-product
 tag24.it##.above-footer
 ilsole24ore.com##.abox
