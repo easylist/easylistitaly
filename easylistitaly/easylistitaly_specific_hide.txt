@@ -1187,6 +1187,7 @@ rivistanatura.com##.zcx-img
 eurosat-online.it##.zedo
 zingarate.com##.zg-malta
 consigli.it##.zio_
+ilmigliore.org##.ziobox
 abruzzolive.it##.znugldvqrk-float-center
 nursetimes.org##AMP-IMG[width="320"][height="50"]
 djmagitalia.com##[href^="http://www.djpoint.net/"]
