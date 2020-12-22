@@ -661,6 +661,7 @@ catanzaro7.net##.catan-nellarticolo
 quotidianopiemontese.it##.category-redazionale
 leggere-facile.it##.cb-large
 magazinedelledonne.it##.ccm_pugoo__sponso
+webpointzero.com##.cegg_widget_products
 radioinblu.it,tv2000.it##.cei-skin-side
 lineapress.it##.cfxi-container
 cliccascienze.it##.clicc-prima-del-contenuto
@@ -983,6 +984,7 @@ passioneorologio.it##.rehub_feat_block
 regaliperfetti.it##.rehub_woo_review
 microgiochi.com##.relacionados
 mobimart.it##.resp-container
+webpointzero.com##.rh_listoffers
 ilclubdellericette.it##.ricetta-amazon
 estrazionedellotto.it##.right
 lacnews24.it,pc-gaming.it##.right-side
