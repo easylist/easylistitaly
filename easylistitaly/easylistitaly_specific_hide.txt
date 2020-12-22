@@ -1060,7 +1060,7 @@ sportytrader.it##.sticky-header_banner_first
 quattroruote.it##.sticky-sponsor
 occhionotizie.it##.sticky_bar_container
 webnews.it##.sticky_wrapper
-androidworld.it##.store-affiliation
+androidworld.it,mobileworld.it##.store-affiliation
 andreagaleazzi.com##.store-box
 100ideeperristrutturare.it,calabria7.it,casa-naturale.com,fruitbookmagazine.it,primopianomolise.it,quattrozampe.online,radiomovida.net,radioradio.it,uominietrasporti.it,vendingnews.it,villeecasali.com##.strack_cli
 myreviews.it##.stream-item
