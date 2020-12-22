@@ -556,6 +556,7 @@
 ||comprovendolibri.it/images/libraccio.jpg
 ||comprovendolibri.it/sponsor/
 ||computer-acquisti.com^*/carlenzoli-yuri.png
+||computermania.org/banners/
 ||comunicalo.it^*-banner.
 ||comunicalo.it^*/acuoreaperto.gif
 ||comunicalo.it^*/banner-
