@@ -759,7 +759,7 @@ lega-pro.com##.footer-partner
 genoacfc.it##.footer-partner-link
 bluvolleyverona.it,chievoverona.it,hellasverona.it##.footer-sponsor
 acspezia.com,bresciacalcio.it,cagliaricalcio.com,olbiacalcio.com##.footer-sponsors
-football-magazine.it##.footer-widgets
+football-magazine.it,lavoraconnoi-italia.it##.footer-widgets
 winemag.it##.footer-wrapper
 iltredici.it##.footer__partners
 rsd.it##.footer__widgets
