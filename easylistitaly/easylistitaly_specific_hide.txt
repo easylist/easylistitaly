@@ -773,6 +773,7 @@ zerocinquantuno.it##.gdlr-logo
 poki.it##.gf.Hd.zc
 giornaledelcilento.it##.giorn-prima-del-contenuto
 giornaledelcilento.it##.giorn-widget
+tvserial.it##.gm-place
 sportytrader.it##.go-to-bonus
 nextpit.it##.gptSlot
 nextpit.it##.gptSlot__sticky-footer
