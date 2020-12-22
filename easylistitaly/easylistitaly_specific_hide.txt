@@ -309,7 +309,7 @@ esportsonline.it,finaria.it,pantareinews.com###text-14
 finaria.it,hellogreen.it,internetto.it###text-15
 finaria.it,internetto.it###text-16
 giornalistitalia.it,noinotizie.it###text-19
-alwaysonboard.it###text-2
+adviceandcommerce.it,alwaysonboard.it###text-2
 ilpost.it,noinotizie.it###text-20
 mbmusic.it###text-21
 rumors.it###text-22
