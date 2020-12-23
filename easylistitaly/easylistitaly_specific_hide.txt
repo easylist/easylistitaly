@@ -1197,6 +1197,7 @@ tuttoapp-android.com##.wpmoneyclick_amazon_box
 advister.it##.wpmoneyclick_template_prices_comp
 tuttoapp-android.com##.wpmoneyclick_template_simple_button
 simonemaestri.com##.wpmoneyclick_template_single-product
+calciomercato.napoli.it##.wptb-cell
 teleunica.com##.wrap-adv-body
 lavorincasa.it##.wrapper-banner-box-wallpaper
 lavorincasa.it##.wrapper-banner-footerbanner
