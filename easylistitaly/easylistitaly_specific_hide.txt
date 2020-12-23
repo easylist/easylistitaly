@@ -537,7 +537,7 @@ infocilento.it##.banner300side
 fotografidigitali.it,hwupgrade.it,tvtech.it##.banner300x250
 milleunadonna.it##.banner320x250
 giochieflash.it##.banner336x280Centered
-cineblog01.green##.banner4k
+cineblog01.care,cineblog01.green##.banner4k
 doctor33.it##.bannerBot
 torinofc.it##.bannerColDxStd
 djmagitalia.com##.bannerExtra
@@ -1246,8 +1246,8 @@ eurostreaming.ca,eurostreaming.cam,filmsenzalimiti.bz,filmsenzalimiti.ink,ilgeni
 altomantovanonews.it,autobusweb.com,citynow.it,corriereromagna.it,firstonline.info,fortuneita.com,giornaledelcilento.it,iocaccio.it,lagenziadiviaggi.it,latinacorriere.it,latinaquotidiano.it,leggilanotizia.it,mantovasport24.it,mantovauno.it,oltrepomantovanonews.it,piuchepuoi.it,sprintesport.it,triesteallnews.it##a[href*="/linkout/"]
 supercoin.it##a[href*="/out/"]
 cineblog01.green,tantifilm.center##a[href*="/premium-download.php"]
-altadefinizione01.works,cineblog01.green##a[href*="/premium-scaricare-film.php"]
-altadefinizione01.works,cineblog01.green##a[href*="/premium-vod-film.php"]
+altadefinizione01.works,cineblog01.care,cineblog01.green##a[href*="/premium-scaricare-film.php"]
+altadefinizione01.works,cineblog01.care,cineblog01.green##a[href*="/premium-vod-film.php"]
 cineblog01.place##a[href*="/scar-hd.php"]
 altadefinizione4k.stream,altadefinizione4k.tv##a[href*="/scar.php"]
 filmaltadefinizione.me,piratestreaming.page##a[href*="/scarica-4k.php"]

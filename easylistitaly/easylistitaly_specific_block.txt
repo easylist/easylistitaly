@@ -504,6 +504,7 @@
 ||cineblog01.bid/templates/CB01/film/logo-film.png
 ||cineblog01.bid/templates/CB01/img/banner
 ||cineblog01.bid/templates/CB01/img/immagine-4k.png
+||cineblog01.care/templates/CB01/img/btnReg.png
 ||cineblog01.green/HD/
 ||cineblog01.green/player/img/but
 ||cineblog01.green/templates/CB01/img/btnReg.png
