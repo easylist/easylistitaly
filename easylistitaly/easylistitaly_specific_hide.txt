@@ -751,7 +751,7 @@ giornaledibarga.it##.fascia-banner
 divinafm.it##.fdc-widget-sponsor
 brindisisettenews.it##.featured_banner
 masterviaggi.it##.fieldset_sponsor
-cb01.li,cb01.world,eurostreaming.cam,filmsenzalimiti.ink,tantifilm.best,tantifilm.link##.filmad
+cb01.li,cb01.world,eurostreaming.cam,filmsenzalimiti.ink,ilgeniodellostreaming.movie,tantifilm.best,tantifilm.link##.filmad
 luinonotizie.it##.fixed-sponsor
 sassuolooggi.it##.flexslider
 marsicalive.it##.fmhb-container
@@ -1242,7 +1242,7 @@ cartedipagamento.com,connessionivpn.it,migliorisitistreaming-hd.blogspot.com,viv
 ilgeniodellostreaming.gold##a[href*="/guarda-hd.php"]
 cineblog01.bid##a[href*="/guarda4k.php"]
 cineblog01.bid##a[href*="/guardafilm/"]
-eurostreaming.ca,eurostreaming.cam,filmsenzalimiti.bz,filmsenzalimiti.ink,ilgeniodellostreaming.xyz,piratestreaming.eu,tantifilm.link##a[href*="/hd/"]
+eurostreaming.ca,eurostreaming.cam,filmsenzalimiti.bz,filmsenzalimiti.ink,ilgeniodellostreaming.movie,ilgeniodellostreaming.xyz,piratestreaming.eu,tantifilm.link##a[href*="/hd/"]
 altomantovanonews.it,autobusweb.com,citynow.it,corriereromagna.it,firstonline.info,fortuneita.com,giornaledelcilento.it,iocaccio.it,lagenziadiviaggi.it,latinacorriere.it,latinaquotidiano.it,leggilanotizia.it,mantovasport24.it,mantovauno.it,oltrepomantovanonews.it,piuchepuoi.it,sprintesport.it,triesteallnews.it##a[href*="/linkout/"]
 supercoin.it##a[href*="/out/"]
 cineblog01.green,tantifilm.center##a[href*="/premium-download.php"]
