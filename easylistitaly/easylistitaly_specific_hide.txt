@@ -924,6 +924,7 @@ filmpertutti.lol,filmpertutti.onl,filmpertutti.voto##.no_pop
 ilpiccolo.net##.nocornice_banner
 prospettivegeometri.it##.node-banner-simple
 everyeye.it##.nome_gioco_amazon_destra
+ilsalottodelcalcio.it##.nostro-banner
 tuttotrasporti.it##.notizieSponsorizzate
 empolifc.com##.o-section--promo
 esportsonline.it##.oe-wrapper
