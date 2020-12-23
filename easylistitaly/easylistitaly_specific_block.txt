@@ -776,6 +776,9 @@
 ||finaria.it^*/broker-regolamentato.gif
 ||finaria.it^*/trading-online-comprare-azioni-
 ||fiorentinanews.com^*/Banner
+||fiorentinanews.com^*/fiorentina_news.jpg
+||fiorentinanews.com^*/received_404151127453365.gif
+||fiorentinanews.com^*/studiomasoni.gif
 ||firenzespettacolo.it/media/banner/
 ||firenzeviolasupersportlive.it^*/VILLORESI-
 ||firstonline.info^*/300x600.
