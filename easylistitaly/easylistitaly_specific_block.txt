@@ -2255,6 +2255,7 @@
 ||submission.it/banner/
 ||superscommesse.it^*/bannerquadrati/
 ||tagmagazine.it^*/sem.jpg
+||tantifilm.center/templates/Tantifilm/images/btn
 ||tantifilm.cool^*/wsxhQH2QyPxFBhiByjd1hQ.gif
 ||tantifilm.guru^*/wsxhQH2QyPxFBhiByjd1hQ.gif
 ||tantifilm.rest^*/bannersca.png
