@@ -132,6 +132,7 @@ gufo.it###custom_html-10
 pistoiasport.com###custom_html-13
 giochi.com,nintendari.it###custom_html-17
 birramoriamoci.it,card.it,italiaonline.news###custom_html-2
+tuttojuve24.it###custom_html-21
 strill.it###custom_html-25
 italiaonline.news,melarossa.it###custom_html-5
 it-casinoonline.com,pentanewslivorno.it###custom_html-6
