@@ -1384,6 +1384,7 @@ amaranta.it,eurochampions.it,fcinternews.it,genoanews1893.it,interdipendenza.net
 fcinternews.it##div[style="overflow: hidden; height: 90px; width: 160px; margin: auto;"]
 fcinternews.it,tuttoatalanta.com,tuttofrosinone.com##div[style="overflow: hidden; height: 90px; width: 728px; margin: auto;"]
 radiocuore.it##div[style="overflow: hidden; width: 305px; height: 255px; position: absolute;"]
+m.firenzeviola.it##div[style="padding-top: 14px; padding-bottom: 4px; color: #cccccc; text-align: center; text-align: -webkit-center; text-align: -moz-center; font-size: 80%;"]
 firenzeviola.it,sampdorianews.net##div[style="padding: 0px 0px 3px 0px; min-height: 280px;"]
 tuttosalernitana.com##div[style="padding: 0px 0px 3px 0px; min-height: 600px;"]
 tuttob.com##div[style="padding: 3px 0; min-height: 250px; width: 300px; margin: auto;"]
