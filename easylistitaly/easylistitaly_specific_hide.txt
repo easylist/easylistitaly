@@ -134,7 +134,7 @@ giochi.com,nintendari.it###custom_html-17
 birramoriamoci.it,card.it,italiaonline.news,sportnews.eu###custom_html-2
 tuttojuve24.it###custom_html-21
 strill.it###custom_html-25
-calciolecce.it,forzaparma.it###custom_html-3
+calciolecce.it,forzaparma.it,sololalazio.it###custom_html-3
 italiaonline.news,melarossa.it###custom_html-5
 it-casinoonline.com,pentanewslivorno.it###custom_html-6
 strill.it###custom_html-65
@@ -915,7 +915,7 @@ boingtv.it,eurogamer.it,foodnetwork.it,gioco.it##.mpu
 stellafm.it##.ms-slide-link
 affaritaliani.it##.mutui
 cb001.xyz##.mvic-btn
-calciocasteddu.it,qdmnotizie.it##.mvp-wall-link
+calciocasteddu.it,calciolecce.it,forzaparma.it,qdmnotizie.it,sololalazio.it##.mvp-wall-link
 passioneorologio.it##.my_best-price-btn
 donnaclick.it##.myadv
 ildolomiti.it##.native
@@ -1026,7 +1026,7 @@ quotidianolacitta.it##.sidebar-banner
 mitindo.it##.sidebar-right-bottomleft
 sportytrader.it##.sidebar_grid
 cosedicasa.com##.sidespot-wrapper
-calcioatalanta.it,calciocremonese.it,calciolecce.it,calciospezia.it,forzamonza.it,forzaparma.it##.sihappy
+calcioatalanta.it,calciocremonese.it,calciolecce.it,calciospezia.it,forzamonza.it,forzaparma.it,sololalazio.it##.sihappy
 simonemaestri.com##.simone-grid-item
 manfredonianews.it##.single-box
 fattoalatina.it##.site-heading-sidebar
