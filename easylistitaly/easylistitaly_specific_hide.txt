@@ -592,6 +592,7 @@ notizialocale.it##.bc_random_banner
 corriere.it##.bck-media-list-sponsor
 magentanostra.it##.bdt-logo-carousel-figure
 reggiosera.it##.betulla-box
+ifood.it##.bg-banner
 nuovosud.it##.bg_skin
 libero.it##.big
 ilcaffe.tv##.big_box
