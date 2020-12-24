@@ -2567,6 +2567,11 @@
 ||umbriajournal.com^*_banner_
 ||umbriamagazine.com/images/banner/
 ||umbrianotizieweb.it^*/banner_
+||umbriaradio.it^*/adottauaffitto-
+||umbriaradio.it^*/E-commerce-facebook1-
+||umbriaradio.it^*/fondazione-cassa-risparmio.jpg
+||umbriaradio.it^*/persichini-piedone-
+||umbriaradio.it^*/Pucciufficio.jpg
 ||umbriasettegiorni.it^*/skin-
 ||umbriatv.com/images/banners/
 ||unadonna.it^*-300x250px-
