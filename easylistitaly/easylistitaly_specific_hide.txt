@@ -134,7 +134,7 @@ giochi.com,nintendari.it###custom_html-17
 birramoriamoci.it,calciohellas.it,calciorosanero.it,card.it,italiaonline.news,sportnews.eu###custom_html-2
 tuttojuve24.it###custom_html-21
 strill.it###custom_html-25
-calciofere.it,calciogrifo.it,calciolecce.it,forzaparma.it,labaricalcio.it,siamolaroma.it,sololalazio.it,tifocosenza.it,trapanigranata.it###custom_html-3
+calcioatalanta.it,calciofere.it,calciogrifo.it,calciolecce.it,forzaparma.it,labaricalcio.it,siamolaroma.it,sololalazio.it,tifocosenza.it,trapanigranata.it###custom_html-3
 calciocasteddu.it###custom_html-4
 italiaonline.news,melarossa.it###custom_html-5
 it-casinoonline.com,pentanewslivorno.it###custom_html-6
@@ -916,7 +916,7 @@ boingtv.it,eurogamer.it,foodnetwork.it,gioco.it##.mpu
 stellafm.it##.ms-slide-link
 affaritaliani.it##.mutui
 cb001.xyz##.mvic-btn
-,calciocasteddu.it,calciofere.it,calciogrifo.it,calciohellas.it,calciolecce.it,calciorosanero.it,forzaparma.it,labaricalcio.it,qdmnotizie.it,siamolaroma.it,sololalazio.it,tifocosenza.it,trapanigranata.it##.mvp-wall-link
+,calcioatalanta.it,calciocasteddu.it,calciofere.it,calciogrifo.it,calciohellas.it,calciolecce.it,calciorosanero.it,forzaparma.it,labaricalcio.it,qdmnotizie.it,siamolaroma.it,sololalazio.it,tifocosenza.it,trapanigranata.it##.mvp-wall-link
 passioneorologio.it##.my_best-price-btn
 donnaclick.it##.myadv
 ildolomiti.it##.native
@@ -1058,7 +1058,7 @@ corriere.ca##.small_banner
 meteofinanza.com##.snp-overlay
 siciliaoggi.com##.sow-image-container
 tvoggisalerno.it##.sow-slider-image-container
-calciocasteddu.it,calciofere.it,calciogrifo.it,calciohellas.it,calciolecce.it,calciorosanero.it,forzamonza.it,forzaparma.it,labaricalcio.it,siamolaroma.it,sololalazio.it,tifocosenza.it,trapanigranata.it,usavellino1912.com,virtus.it##.sp-sponsors
+calcioatalanta.it,calciocasteddu.it,calciofere.it,calciogrifo.it,calciohellas.it,calciolecce.it,calciorosanero.it,forzamonza.it,forzaparma.it,labaricalcio.it,siamolaroma.it,sololalazio.it,tifocosenza.it,trapanigranata.it,usavellino1912.com,virtus.it##.sp-sponsors
 lifegate.it##.special-contents
 comingsoon.it##.sponPro
 bebeez.it,europages.it,girovagandointrentino.it,ilmonferrato.it,imperiatv.it,legab.it,olimpiamilano.com,repubblica.it,stickmangames.altervista.org##.sponsor
