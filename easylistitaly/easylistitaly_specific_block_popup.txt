@@ -7,6 +7,7 @@
 ||cineblog01.green/cineblog01-premium-film.php$popup
 ||cineblog01.love/fake2/$popup
 ||eurostreaming.movie/serie-tv-streaming.php$popup
+||eurostreaming.services/guarda/$popup
 ||guardaserie.host/4k/$popup
 ||guardaserie.store/4k/$popup
 ||ilgeniodellostreaming.cam/fake2/$popup
