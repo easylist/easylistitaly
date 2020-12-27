@@ -1261,6 +1261,9 @@
 ||laltrapagina.it^*/barraagenda.jpg
 ||laltrapagina.it^*/pe4681.
 ||lametino.it/images/banners/
+||lamoneta.it^*/bannertop.
+||lamoneta.it^*/ilforumbanner.jpg
+||lamoneta.it^*/Roma4ubis.jpg
 ||lanotiziaquotidiana.it^*/Senza-nome.jpg
 ||lanotiziaquotidiana.it^*banner
 ||lantidiplomatico.it/img/coupon.png
