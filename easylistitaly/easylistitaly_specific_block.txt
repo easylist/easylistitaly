@@ -1848,6 +1848,7 @@
 ||quinewsvaltiberina.it^*/skin/
 ||quinewsversilia.it^*/skin/
 ||quinewsvolterra.it^*/skin/
+||quizammissione.it^*/Banner-
 ||qumran2.net/sponsor/
 ||quotidianocanavese.it/img/skyscraper/
 ||quotidianodellumbria.it^*/banner-
