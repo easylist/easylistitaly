@@ -2521,6 +2521,10 @@
 ||tuttocampo.it/Web/Images/Banners/
 ||tuttogratis.it/imgbanner/
 ||tuttogratis.it/js/tgsense_
+||tuttoin1.it^*/LOGO-3CASE-GREEN-
+||tuttoin1.it^*/logo-country-school.png
+||tuttoin1.it^*/logo-dadopet-
+||tuttoin1.it^*/logo-pubblimedia-
 ||tuttonatale.it^*/tutto-costumi-
 ||tuttotone.app/assets/img/banner/
 ||tuttotrasporti.it^*/notizieSponsorizzate/
