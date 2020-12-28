@@ -1128,6 +1128,7 @@ biancorossi.net,immaginevalsassina.com,moondo.info,notizialocale.it,radiolombard
 agimeg.it##.td_uid_18_5fdb9a4e3037a_rand
 romanews.eu##.td_uid_7_5fc0c934d6e11_rand
 calcioj.com##.tdi_15_2e7
+borderline24.com##.tdi_47_22b
 tomshw.it##.teetee-embed
 telesud.it##.teles-header-banner
 positanonews.it##.testata
