@@ -695,6 +695,7 @@ lacrocequotidiano.it##.column-banner
 quattroruote.it##.commercial-article
 tiscali.it##.compare-box-cnt
 fuoritraiettoria.com##.computer
+autoscout24.it##.conmon-financeslice-boxes
 cottoepostato.it##.cont-bann
 edilportale.com##.cont-leaderBoard
 televisionando.it##.contBannDiv
@@ -758,6 +759,7 @@ exibart.com##.exibart-footer-partner-title
 giornaledibarga.it##.fascia-banner
 divinafm.it##.fdc-widget-sponsor
 brindisisettenews.it##.featured_banner
+autoscout24.it##.fed-list-rate-fragment-pair
 masterviaggi.it##.fieldset_sponsor
 cb01.li,cb01.world,eurostreaming.cam,filmsenzalimiti.ink,ilgeniodellostreaming.movie,tantifilm.best,tantifilm.link##.filmad
 luinonotizie.it##.fixed-sponsor
