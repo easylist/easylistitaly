@@ -1069,6 +1069,7 @@ luinonotizie.it##.sponsor-background-big
 pallacanestrotrieste.it##.sponsor-carousel
 victorialibertas.it##.sponsor-header
 erbanotizie.com##.sponsor-rubrica
+classicipodcast.it##.sponsor-single
 viterbopost.it##.sponsorA
 facciabuco.com##.sponsor_box
 teramocalcio.it##.sponsor_slide
