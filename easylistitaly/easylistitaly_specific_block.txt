@@ -972,6 +972,14 @@
 ||guidaviaggi.it/public/banners/
 ||gwendalina.tv^*/stickybar_script-
 ||h24notizie.com^*/AQL-
+||hcb.net^*/alto-badge_
+||hcb.net^*/elpo-
+||hcb.net^*/forst-
+||hcb.net^*/knoma-
+||hcb.net^*/messebozen-
+||hcb.net^*/prohockey-
+||hcb.net^*/sparkasse-
+||hcb.net^*/wuerth-
 ||hellogreen.it^*/libro-del-mese-
 ||hellogreen.it^*600x600
 ||historychannel.it^*/swissre.
