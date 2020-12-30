@@ -951,7 +951,7 @@ casaeclima.com##.page-wrapper
 puntocellulare.it##.panel-offers
 nostrofiglio.it##.par-listing-collab
 pianetamamma.it##.par-sponsorby-logo
-cure-naturali.it,fc-suedtirol.com,lifegate.it,ragusanews.com##.partner
+broncos.it,cure-naturali.it,fc-suedtirol.com,lifegate.it,ragusanews.com##.partner
 bolognafc.it##.partner-footer
 100ideeperristrutturare.it,casa-naturale.com,quattrozampe.online,villeecasali.com##.partner-item-wrapper
 radiogardena.it##.partner-wrapper
@@ -1107,6 +1107,7 @@ simplybiz.eu,volleyball.it##.su-carousel
 casa-domotica24.it##.su-tabs
 notiziariocalcio.com,pianetabasket.com,tuttosalernitana.com,tuttoveneziasport.it##.sub
 emmelle.it##.supermag-ainfo-widget
+broncos.it##.supporter
 mbnews.it##.swiper-container
 magentanostra.it,yesmagazine.it##.swiper-slide-inner
 luinonotizie.it##.swiper-wrapper
