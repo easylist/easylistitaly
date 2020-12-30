@@ -982,6 +982,8 @@
 ||hcb.net^*/prohockey-
 ||hcb.net^*/sparkasse-
 ||hcb.net^*/wuerth-
+||hcgherdeina.com/img/db/s/20160422164221.png
+||hcgherdeina.com/img/db/sponsor/
 ||hellogreen.it^*/libro-del-mese-
 ||hellogreen.it^*600x600
 ||historychannel.it^*/swissre.
