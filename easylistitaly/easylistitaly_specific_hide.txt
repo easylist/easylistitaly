@@ -887,6 +887,7 @@ orologi-subacquei.it##.main-cta-banner
 inter.it##.main-footer-sponsor
 filmaltadefinizione.me##.main-news-more
 reggionline.com##.mainBack
+hceppan.it##.mainSponsor
 larionews.com,opinione.it,ship2shore.it,tuttomercatoweb.com##.manchette
 erbanotizie.com,noinotizie.it##.manchette-dx
 erbanotizie.com,noinotizie.it##.manchette-sx
@@ -1081,6 +1082,7 @@ agrifoodtoday.it,agrigentonotizie.it,anconatoday.it,arezzonotizie.it,avellinotod
 nove.firenze.it##.sponsorizzato
 acfontemeravigliosa.it,alfamasera.it,asdcmozzo.it,asdeasytennis.it,asdfrentania.it,belmontecalcio.it,cestisticasavonese.it,delfinosalento.it,excelsiorcalcio.it,falcoalbino.it,franzinvalnocebasket.it,nuovafrontiera.it,pallacanestroalassio.it,podisticasannicandro.it,robur1905macerata.it,scanzorosciatebasket.it,uscremonese.it,virtusapriliabasket.it##.sponsors
 aquilabasket.it##.sponsors-carousel
+hceppan.it##.sportnews
 avvenire.it##.spot
 mostraip.com##.spot1
 radiorcs.it##.spotaltosottomenutre
