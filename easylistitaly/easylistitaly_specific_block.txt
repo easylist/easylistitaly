@@ -1790,6 +1790,10 @@
 ||positanonotizie.it^*/11ce01533bcffb6c0e26ca172c3c149b/
 ||positanonotizie.it^*/b1nn3r/
 ||positanonotizie.it^*/banner/
+||powerhockey.info/images/alto-adige-
+||powerhockey.info/images/golden-star-
+||powerhockey.info/images/punto-hockey70.png
+||powerhockey.info/images/suzuki-
 ||prealpina.it/js/manzoni_interna.js
 ||presepio.it^*/BANNER-
 ||pressgiochi.it^*-300-x-90.
