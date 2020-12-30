@@ -972,6 +972,7 @@
 ||guidaviaggi.it/public/banners/
 ||gwendalina.tv^*/stickybar_script-
 ||h24notizie.com^*/AQL-
+||hc-neumarkt.com/images/partner/
 ||hcb.net^*/alperia-
 ||hcb.net^*/alto-badge_
 ||hcb.net^*/elpo-

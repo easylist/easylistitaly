@@ -351,6 +351,7 @@ paolociraci.it###top_sponsor
 tusciaweb.eu###topalto
 everyeye.it###topskin_clicktag
 ilturista.info###tours-tickets-banner
+hc-neumarkt.com###tr-contentbottom
 tipiace.it###vetrina
 sposa.it###vetrina-content
 altarimini.it###videoRedazionale
@@ -1464,6 +1465,7 @@ stabiachannel.it##img[height="85px"][width="170px"]
 volleyball.it##img[height="886"][width="886"]
 liguriaoggi.it##img[height="90"][width="728"]
 crotoneok.it##img[width="1280"][height="384"]
+hc-neumarkt.com##img[width="140"][height="68"]
 katablog.it##img[width="160"][height="600"]
 crotoneok.it##img[width="1600"][height="480"]
 sulpanaro.net##img[width="250"][height="250"]
