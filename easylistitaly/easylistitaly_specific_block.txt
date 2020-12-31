@@ -1736,6 +1736,8 @@
 ||parmareport.it^*/skin-
 ||parmareport.it^*_banner_
 ||parrocchie.it/banner/
+||passioneauto.it^*/banner-
+||passioneauto.it^*/pezzidiricambio24_
 ||passionemaglie.it^*/banner-
 ||perotorino.it/images/banners/
 ||pescaralive.it^*/480x400-
