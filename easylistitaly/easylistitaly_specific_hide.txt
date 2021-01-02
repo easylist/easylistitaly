@@ -451,7 +451,7 @@ alessandria24.com##.aless-widget
 noisiamofuturo.it##.allinone_bannerRotator
 prezzisalute.com##.amaz
 cronotop.it##.amaz-product
-gamemag.it,lavorincasa.it,nientepopcorn.it,videogame.it##.amazon
+gamemag.it,lavorincasa.it,nientepopcorn.it,robadadonne.it,videogame.it##.amazon
 leggoquandovoglio.it##.amazon-a
 icrewplay.com##.amazon-auto-links
 screenweek.it##.amazon-btn
