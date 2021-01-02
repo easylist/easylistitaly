@@ -206,6 +206,7 @@ casa.it###leaderboard_footer
 brocardi.it###libgiurista
 diritto.it###libpro
 teleradio-news.it###linkcat-12
+benessere.com###logo-bannerino
 business.it###logoYobee
 eurogamer.it###low-leaderboard
 nonsoloturisti.it###lshowcase_widget-2
