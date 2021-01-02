@@ -88,6 +88,7 @@
 ||html.it/banner/
 ||iads.iltrovatore.it^
 ||ibb.co^$domain=edicolafree.xp3.biz
+||ilgiardinodeilibri.it/data/banner_partner/
 ||ilpelonelluovo.net/banner/
 ||iltelaiodipenelope.it/banner_exchange/
 ||imageshack.com^$domain=notiziariocalcio.com

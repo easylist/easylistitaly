@@ -1201,6 +1201,7 @@ fashionandroid.com##.widget-header
 gelocal.it,ilsecoloxix.it,lastampa.it,repubblica.it##.widget-sponsor--container
 ciaogreen.it,gufo.it,londra.today##.widget_aawp_widget_bestseller
 newsly.it,stampante-3d.net##.widget_aawp_widget_box
+yoga-magazine.it##.widget_alobaidirandombannerswidget
 scambiaricette.it##.widget_boodo_wp_300px
 wesud.it##.widget_idemedia_banner_widget
 dilei.it##.widget_promo_box_widget
