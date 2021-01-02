@@ -1037,7 +1037,7 @@ radiomillennium.it##.section-26
 atalanta.it##.section_sponsor
 ad-italia.it##.sectionbox
 excite.it##.serp-item
-bloopers.it##.shop
+aphorism.it,bloopers.it##.shop
 ilgeniodellostreaming.tel##.show-download
 tiscali.it##.shp-prd-ed-day
 quotidianolacitta.it##.sidebar-banner
