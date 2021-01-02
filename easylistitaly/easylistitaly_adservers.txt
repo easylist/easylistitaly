@@ -3,6 +3,7 @@
 ||4strokemedia.com^$third-party
 ||ad4mat.it^$third-party
 ||adagionet.com^$third-party
+||adasta.it^$third-party
 ||adbrawl.com^$third-party
 ||adbreak.ch^$third-party
 ||addyon.com^$third-party
