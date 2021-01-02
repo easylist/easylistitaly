@@ -150,6 +150,7 @@ mymovies.it###div_topleft
 ecodicaserta.it###down
 news.mtv.it###execphp-2
 tipiace.it###externalbanner
+cibo360.it###fascia_banner_bottom
 grecia.info###fh_content
 notizielombardia.it###fixedban
 calciomercato.com###float-sidebar-inner
