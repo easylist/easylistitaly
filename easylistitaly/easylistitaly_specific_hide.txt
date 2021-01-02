@@ -133,7 +133,8 @@ pistoiasport.com###custom_html-13
 giochi.com,nintendari.it###custom_html-17
 birramoriamoci.it,calciohellas.it,calciorosanero.it,card.it,italiaonline.news,sportnews.eu###custom_html-2
 tuttojuve24.it###custom_html-21
-strill.it###custom_html-25
+dimagrireduepuntozero.com,strill.it###custom_html-25
+dimagrireduepuntozero.com###custom_html-27
 calcioatalanta.it,calciofere.it,calciogrifo.it,calciolecce.it,forzaparma.it,labaricalcio.it,siamolaroma.it,sololalazio.it,tifocosenza.it,trapanigranata.it###custom_html-3
 calciocasteddu.it###custom_html-4
 italiaonline.news,melarossa.it###custom_html-5
