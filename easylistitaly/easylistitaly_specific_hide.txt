@@ -992,6 +992,7 @@ proiezionidiborsa.it##.promoboxplus
 playstationzone.it##.psz_template_prices_comp
 agoravox.it##.pub
 kikapress.com##.pub_container
+ilcaffe.tv##.pubbliredazionale
 agoravox.it##.publarge
 giochigratis.net##.publi
 camperonline.it##.publink
