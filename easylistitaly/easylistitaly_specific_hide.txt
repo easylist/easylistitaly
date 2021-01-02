@@ -613,6 +613,7 @@ mediaworld.it##.block-mw-external-banner
 ilroma.net##.block-rotating-banner
 punto-informatico.it,telefonino.net##.blz-url
 stateofmind.it##.bnn-fullwidth
+abcsalute.it##.bnner_container
 ilgeniodellostreaming.gold,ilgeniodellostreaming.tel##.bnnr1
 ilgeniodellostreaming.gold,ilgeniodellostreaming.tel##.bnnr2
 meteovalmorea.it##.bnr-row
