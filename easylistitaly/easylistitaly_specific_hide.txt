@@ -74,6 +74,7 @@ annunci-sardegna.it,annunci-sicilia.it,annunciabruzzo.it,annunciagrigento.it,ann
 entella.it###barra_click_top
 forum.tomshw.it###belowfirstpost
 orizzontescuola.it###bglink
+wuz.it###bigrectangle
 bergamoesport.it###billboard
 augustanews.it,avolanews.it,catanianews.it,ibleinews.it,notonews.it,pachinonews.it,siracusanews.it###billboard1
 esportsmobile.it###black-studio-tinymce-6
