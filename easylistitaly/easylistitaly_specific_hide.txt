@@ -89,6 +89,7 @@ torinofc.it###block-views-sponsor-block-2
 noitv.it###bn-sidebar
 scubaportal.it###bodylink
 diretta.it###bonus-offers
+recensionelibro.it###book-shop
 sslazio.it###bottom
 hwupgrade.it###box-next-container
 diretta.it###box-over-content-a

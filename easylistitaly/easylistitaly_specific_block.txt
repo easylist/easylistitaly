@@ -2015,6 +2015,7 @@
 ||ravennafc.it^*/sponsor-
 ||ravennatoday.it/images/skin/
 ||rcrevolution.net^*/banners/
+||recensionelibro.it/banner/
 ||reggina1914.it^*/sponsor-
 ||reggioemiliameteo.it^*-sponsor/
 ||reggioemiliameteo.it^*/banner/
