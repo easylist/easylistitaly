@@ -1077,6 +1077,7 @@
 ||ilgiornaledelcibo.it^*/conosci-cirfood.
 ||ilgiornaledellaprotezionecivile.it^*_banners/
 ||ilgiornaledellarte.com/allegati/BANNER
+||ilgiornaledelloyoga.it^*/Banner-
 ||ilgiornaledelmolise.it/img/bannerlungo/
 ||ilgiornaledelmolise.it/img/lamolisana_
 ||ilgiornaledelticino.ch^*/ADV-
