@@ -1203,7 +1203,7 @@ larivieraonline.com##.view-Banners
 sportsondrio.it##.view-inserzioni-sponsorizzate
 vitatrentina.it##.vitat-testata-dx
 vitatrentina.it##.vitat-testata-sx
-austria-facile.com,ungheria.tv##.voli
+austria-facile.com,svezia.cc,ungheria.tv##.voli
 football-magazine.it##.vzasjfip-container
 lavorincasa.it##.wallpaper-1
 algheroeco.com,radioluna.it,sora24.it##.wallpaper-link
