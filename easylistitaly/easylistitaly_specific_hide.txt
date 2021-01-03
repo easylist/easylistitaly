@@ -420,6 +420,7 @@ theitaliantimes.it##.adb
 movietele.it##.adbox
 abruzzolive.it,confinelive.it,lamilano.it,marsicalive.it,pescaralive.it##.adcontainer
 unonotizie.it##.add
+informagiovani-italia.com##.add_left
 offertevolantini.it##.add_w2_h1
 24emilia.com,autoscout24.ch,brocardi.it,cb01.online,filmpertutti.lol,filmpertutti.onl,filmpertutti.voto,gamemag.it,hdblog.it,hdmotori.it,hdtroll.it,ilgeniodellostreaming.dance,ilgeniodellostreaming.rest,ilikepuglia.it,live-sport-tv.it,sitigiochi.it,teleborsa.it,viamichelin.ch,viamichelin.it##.ads
 ildolomiti.it##.adsB
@@ -450,6 +451,7 @@ cityrumors.it,noisiamoagricoltura.com,tantasalute.it,velvetgossip.it##.ai-viewpo
 pagare.online##.alert.alert-success
 alessandria24.com##.aless-widget
 noisiamofuturo.it##.allinone_bannerRotator
+informagiovani-italia.com##.alto_add
 prezzisalute.com##.amaz
 cronotop.it##.amaz-product
 gamemag.it,lavorincasa.it,nientepopcorn.it,robadadonne.it,videogame.it##.amazon

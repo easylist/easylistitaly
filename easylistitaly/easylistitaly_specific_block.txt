@@ -1179,6 +1179,8 @@
 ||inforge.net^*.RLiz5G6wAy.gif
 ||informa-press.it^*/banner-
 ||informacalcio.it/banner/
+||informagiovani-italia.com/amazon-
+||informagiovani-italia.com/viaggiare.jpg
 ||informare.it/images/shipstore
 ||informazioneonline.it/wp-content/banners/
 ||ingleseprecoce.it^*-400x400.
