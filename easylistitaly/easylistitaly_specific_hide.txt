@@ -1136,7 +1136,7 @@ ilsussidiario.net##.sub-header
 emmelle.it##.supermag-ainfo-widget
 broncos.it##.supporter
 mbnews.it##.swiper-container
-magentanostra.it,yesmagazine.it##.swiper-slide-inner
+magentanostra.it,onedance.fm,yesmagazine.it##.swiper-slide-inner
 luinonotizie.it##.swiper-wrapper
 radioblutoscana.it##.tab03
 criptovalute24.com,diventaretrader.com##.table-alm
