@@ -245,6 +245,7 @@ tusciaweb.eu###miesSPLASH
 eurogamer.it###mobile-leaderboard
 eurogamer.it###mobile-mpu
 forum.tomshw.it###mpudesk
+sportparma.com###mvp-leader-cont
 pistoiasport.com###mvp-leader-wrap
 lavocedibolzano.it,sportmagazinetrentino.it###mvp-site-wall
 lavocedibolzano.it###mvp-wallpaper
