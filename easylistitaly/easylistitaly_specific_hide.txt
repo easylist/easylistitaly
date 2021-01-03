@@ -886,6 +886,9 @@ diretta.it##.live-betting-strip
 sorrisi.com##.live-news-advbox
 acquavivalive.it,altamuralive.it,andrialive.it,barilive.it,barlettalive.it,bisceglielive.it,bitontolive.it,canosalive.com,cassanolive.it,coratolive.it,fasanolive.com,gioialive.it,giovinazzolive.it,gravinalive.it,margheritalive.it,minervinolive.it,molfettalive.it,ruvolive.it,santeramolive.it,terlizzilive.it,tranilive.it,viviwebtv.it##.live-promo
 hcb.net##.logo
+timinternet.it##.logoAmazon
+timinternet.it##.logoEbay
+timinternet.it##.logoSecretEscapes
 lattemiele.com##.lp-link
 tuttitalia.it##.lt
 omnifurgone.it##.m1-apb
@@ -1049,7 +1052,7 @@ calcioatalanta.it,calciocasteddu.it,calciocremonese.it,calciofere.it,calciogrifo
 simonemaestri.com##.simone-grid-item
 manfredonianews.it##.single-box
 fattoalatina.it##.site-heading-sidebar
-andreagaleazzi.com,animeclick.it##.skin
+andreagaleazzi.com,animeclick.it,timinternet.it##.skin
 leccesette.it##.skin-desktop
 digitalic.it##.skin_a_dx
 digitalic.it##.skin_a_sx
