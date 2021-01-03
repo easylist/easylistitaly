@@ -144,7 +144,7 @@ it-casinoonline.com,pentanewslivorno.it###custom_html-6
 strill.it###custom_html-65
 pistoiasport.com###custom_html-7
 corrierequotidiano.it###custom_html-8
-scrivolibero.it###custom_html-9
+scrivolibero.it,viaggiallafinedelmondo.it###custom_html-9
 amazon.it###detailILM_feature_div
 trueriders.it###div-TRD_MPU_CONT
 nextpit.it###div-header

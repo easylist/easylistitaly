@@ -2896,6 +2896,7 @@
 ||wp.com/www.vesuvianonews.it/*/41356464_
 ||wp.com/www.vesuvianonews.it/*/new-form-academy.jpg
 ||wp.com/www.vesuvianonews.it/*/pekit-lim1.jpg
+||wp.com/www.viaggiallafinedelmondo.it/wp-content/uploads/*/civitatis.jpg
 ||wp.com/www.worldofwrestling.it/*/wow.gif
 ||wp.com/www.zerosette.it/*/bella-venezia.png
 ||wp.com^*-banner-$domain=blogdellamusica.eu|fisco7.it|gazzettadiavellino.it|gazzettadisalerno.it|infonewsvietri.it|libringioco.blog|nerdpool.it
