@@ -89,6 +89,7 @@
 ###lg-spalla-ads01-up
 ###lg-spalla-ads03
 ###libero_header_adv
+###main_360_adv
 ###mmAdDivSkDx
 ###mmAdDivSkLb
 ###mmAdDivSkSx
