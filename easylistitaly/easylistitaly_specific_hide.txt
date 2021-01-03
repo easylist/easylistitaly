@@ -1128,6 +1128,7 @@ noisiamofuturo.it##.stripe
 simplybiz.eu,volleyball.it##.su-carousel
 casa-domotica24.it##.su-tabs
 notiziariocalcio.com,pianetabasket.com,tuttosalernitana.com,tuttoveneziasport.it##.sub
+ilsussidiario.net##.sub-header
 emmelle.it##.supermag-ainfo-widget
 broncos.it##.supporter
 mbnews.it##.swiper-container
