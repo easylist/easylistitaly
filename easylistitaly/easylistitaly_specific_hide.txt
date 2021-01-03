@@ -476,6 +476,7 @@ insideevs.it,omnifurgone.it,omnimoto.it##.ap
 ridble.com##.api-box
 matrimonio.com##.app-DFP
 stardust.it##.app-masthead
+nospoiler.it##.app__leaderboard
 radiocuore.it##.areaclick
 pensionioggi.it##.article-banner-left
 scozia.net##.article_amazon_end
