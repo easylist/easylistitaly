@@ -2466,6 +2466,7 @@
 ||travelquotidiano.com^*/Dem-Malesia-ok-tc.jpg
 ||travelquotidiano.com^*/DEM-webinar-tc.png
 ||travelquotidiano.com^*/tc-singapore.jpg
+||travelstales.it^*/banner-
 ||trend-online.com^*/Banner/
 ||trend-online.com^*/button
 ||trentinolibero.it^*/auto-doc-it_
