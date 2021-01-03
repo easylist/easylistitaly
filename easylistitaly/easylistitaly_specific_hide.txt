@@ -642,7 +642,7 @@ iphoneitalia.com##.box-amazon
 pordenonecalcio.com##.box-assiteca
 tvserial.it##.box-atf
 centropagina.it##.box-b
-difesaonline.it,tempoitalia.it##.box-banner
+archilovers.com,difesaonline.it,tempoitalia.it##.box-banner
 cucchiaio.it##.box-banner-hp-dx
 agrodolce.it##.box-desktop-side-top_container
 meteogiornale.it##.box-sn
@@ -1096,6 +1096,7 @@ victorialibertas.it##.sponsor-header
 erbanotizie.com##.sponsor-rubrica
 rittnerbuam.com##.sponsor-section
 classicipodcast.it##.sponsor-single
+archilovers.com##.sponsor-title
 viterbopost.it##.sponsorA
 facciabuco.com##.sponsor_box
 teramocalcio.it##.sponsor_slide
@@ -1106,6 +1107,7 @@ acfontemeravigliosa.it,alfamasera.it,asdcmozzo.it,asdeasytennis.it,asdfrentania.
 aquilabasket.it##.sponsors-carousel
 hceppan.it##.sportnews
 avvenire.it##.spot
+archilovers.com##.spot-homepage
 mostraip.com##.spot1
 radiorcs.it##.spotaltosottomenutre
 radiorcs.it##.spotcentrato
