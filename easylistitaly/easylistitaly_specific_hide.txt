@@ -451,7 +451,7 @@ cityrumors.it,noisiamoagricoltura.com,tantasalute.it,velvetgossip.it##.ai-viewpo
 pagare.online##.alert.alert-success
 alessandria24.com##.aless-widget
 noisiamofuturo.it##.allinone_bannerRotator
-informagiovani-italia.com##.alto_add
+grecia.cc,informagiovani-italia.com##.alto_add
 prezzisalute.com##.amaz
 cronotop.it##.amaz-product
 gamemag.it,lavorincasa.it,nientepopcorn.it,robadadonne.it,videogame.it##.amazon
