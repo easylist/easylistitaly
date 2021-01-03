@@ -627,6 +627,7 @@ noitv.it##.bntop
 corriereirpinia.it##.body-link-padding
 cosafarei.it##.boo-link
 diritto.it##.book-container
+minube.it##.booking_hotels_block
 livescore.it##.bookmaker
 lasiritide.it##.box-1
 lasiritide.it##.box-2
