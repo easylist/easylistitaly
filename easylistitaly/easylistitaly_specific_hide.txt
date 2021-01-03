@@ -285,7 +285,7 @@ emiliagol.it###skinclick
 buongiornoalghero.it,freeonline.org,itvonline.news,lospiffero.com,planetmountain.com,primapress.it,salernonotizie.it,torresette.news###skinlink
 gamereactor.it###sky
 bisceglielive.it,eurogamer.it,gommadiretto.it###skyscraper
-amaranta.it,firenzeviola.it,grigionline.com,lalaziosiamonoi.it,parmalive.com,torinogranata.it,tuttofrosinone.com,tuttojuvestabia.it###slimbanner
+amaranta.it,firenzeviola.it,grigionline.com,lalaziosiamonoi.it,parmalive.com,torinogranata.it,tuttofrosinone.com,tuttojuvestabia.it,vocegiallorossa.it###slimbanner
 mail1.libero.it###slink-dx
 mail1.libero.it###slink-sx
 meteofinanza.com###snp-pop-20588-overlay
@@ -1414,14 +1414,14 @@ sicilianews24.it##div[style="margin-top:20px; margin-bottom:10px; float:left; ma
 affaritaliani.it##div[style="margin-top:6px;margin-bottom:10px;padding: 9px; border: 1px solid #ccc; zoom:1;overflow:hidden;height:80px;width:280px;font: normal 12px/14px arial, sans-serif"]
 finalsayan.com##div[style="margin: 0 auto; width: 468px; height: 60px;"]
 plaffo.com##div[style="margin: 30px 0 0 0; line-height: 1.5em; "]
-firenzeviola.it,milannews.it,parmalive.com,sampdorianews.net,torinogranata.it,tuttonapoli.net##div[style="min-height: 120px;"]
+firenzeviola.it,milannews.it,parmalive.com,sampdorianews.net,torinogranata.it,tuttonapoli.net,vocegiallorossa.it##div[style="min-height: 120px;"]
 lalaziosiamonoi.it,notiziariocalcio.com,tuttoveneziasport.it##div[style="min-height: 250px; max-height: 600px; overflow: hidden; width: 300px; margin: auto;"]
 fcinternews.it,politicanews.it##div[style="min-height: 250px;"]
 tuttosalernitana.com##div[style="min-height: 280px; max-height: 600px; overflow: hidden; width: 336px; margin: auto;"]
 amaranta.it,parmalive.com,torinogranata.it,tuttojuve.com,tuttonapoli.net,tuttonovara.it##div[style="min-height: 40px;"]
 gamereactor.it##div[style="min-height: 600px; margin-bottom: 20px;"]
 voglioviverecosi.com##div[style="min-height: 90px; margin-top: 20px; margin-bottom: 20px"]
-firenzeviola.it,parmalive.com,torinogranata.it,tuttonapoli.net##div[style="min-height: 90px;"]
+firenzeviola.it,parmalive.com,torinogranata.it,tuttonapoli.net,vocegiallorossa.it##div[style="min-height: 90px;"]
 eurochampions.it,fcinternews.it,genoanews1893.it,lalaziosiamonoi.it,notiziariocalcio.com,pianetabasket.com,ternananews.it,tuttoascolicalcio.it,tuttoatalanta.com,tuttocalciopuglia.com,tuttohellasverona.it,tuttojuvestabia.it,tuttopotenza.com,tuttoveneziasport.it,tuttovicenza.it##div[style="overflow: hidden; height: 250px; width: 300px; margin: auto;"]
 fcinternews.it,genoanews1893.it,lalaziosiamonoi.it,pianetabasket.com,ternananews.it,tuttoascolicalcio.it,tuttoatalanta.com,tuttocalciopuglia.com,tuttohellasverona.it,tuttopotenza.com,tuttovicenza.it##div[style="overflow: hidden; height: 250px; width: 970px; margin: auto;"]
 amaranta.it,interdipendenza.net,notiziariocalcio.com,tuttobenevento.it,tuttojuvestabia.it##div[style="overflow: hidden; height: 280px; width: 336px; margin: auto;"]
