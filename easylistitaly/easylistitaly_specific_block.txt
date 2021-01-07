@@ -2487,6 +2487,8 @@
 ||triesteallnews.it^*/Banner_
 ||triesteallnews.it^*/quiconvienecom-
 ||triesteallnews.it^*_970x250_
+||trivenetogoal.it^*-300-X-250-
+||trivenetogoal.it^*/padova-300.jpg
 ||trmtv.it^*/banner_
 ||trmweb.it^*/banner-
 ||trnews.it^*/Banner-
