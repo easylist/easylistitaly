@@ -943,7 +943,7 @@ boingtv.it,eurogamer.it,foodnetwork.it,gioco.it##.mpu
 stellafm.it##.ms-slide-link
 affaritaliani.it##.mutui
 cb001.xyz##.mvic-btn
-,calcioatalanta.it,calciocasteddu.it,calciocremonese.it,calciofere.it,calciogrifo.it,calciohellas.it,calciolecce.it,calciorosanero.it,calciospezia.it,forzaparma.it,labaricalcio.it,qdmnotizie.it,siamolaroma.it,sololalazio.it,tifocosenza.it,trapanigranata.it##.mvp-wall-link
+calcioatalanta.it,calciocasteddu.it,calciocremonese.it,calciofere.it,calciogrifo.it,calciohellas.it,calciolecce.it,calciorosanero.it,calciospezia.it,forzaparma.it,labaricalcio.it,qdmnotizie.it,siamolaroma.it,sololalazio.it,tifocosenza.it,trapanigranata.it##.mvp-wall-link
 passioneorologio.it##.my_best-price-btn
 donnaclick.it##.myadv
 scuolissima.com##.nascondiads
