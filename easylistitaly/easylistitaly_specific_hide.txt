@@ -1532,6 +1532,7 @@ bloopers.it##table[name="banner.tbl"]
 ilcaso.it##td[style="border-left: 0px solid rgb(192, 192, 192); border-top-width: 1px; border-bottom-width: 1px;"]
 ! Advanced element hiding rules for Adblock Plus
 ebay.it#?#.s-item:-abp-has(span.s-item__title--tagblock__SPONSORED)
+iene.mediaset.it#?#.bx:-abp-has(div:-abp-contains(CONTENUTO SPONSORIZZATO))
 innaturale.com#?#.ruby-block-wrap:-abp-has(a:-abp-contains(SPONSORED))
 open.online#?#.news:-abp-has(div:-abp-contains(in collaborazione con ))
 tgcom24.mediaset.it#?#.right.es.large:-abp-has(span:-abp-contains(contenuto sponsorizzato))
