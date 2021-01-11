@@ -1114,6 +1114,7 @@ archilovers.com##.spot-homepage
 mostraip.com##.spot1
 radiorcs.it##.spotaltosottomenutre
 radiorcs.it##.spotcentrato
+ebay.it##.srp-banner
 pmi.it##.sticky-banner
 sportytrader.it##.sticky-header_banner_first
 quattroruote.it##.sticky-sponsor
@@ -1530,6 +1531,7 @@ livornolive.it##rs-mask-wrap[style="width: 100% !important; height: 100% !import
 bloopers.it##table[name="banner.tbl"]
 ilcaso.it##td[style="border-left: 0px solid rgb(192, 192, 192); border-top-width: 1px; border-bottom-width: 1px;"]
 ! Advanced element hiding rules for Adblock Plus
+ebay.it#?#.s-item:-abp-has(span.s-item__title--tagblock__SPONSORED)
 innaturale.com#?#.ruby-block-wrap:-abp-has(a:-abp-contains(SPONSORED))
 tgcom24.mediaset.it#?#.right.es.large:-abp-has(span:-abp-contains(contenuto sponsorizzato))
 ! Site Specific filters (used with $generichide)
