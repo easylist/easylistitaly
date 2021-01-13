@@ -1,6 +1,7 @@
 ||adserver.incontrierotici.it^$popup
 ||bet365-scommesse.com/?affiliate=$popup,third-party
 ||betclic.it/partner.aspx?$popup
+||campaign.aliexpress.com^$popup,domain=tantifilm.pink
 ||edreams.it/?affiliate=$popup
 ||eurostreaming.cam^$popup,third-party
 ||incontripersesso.com/landing/$popup
