@@ -652,7 +652,7 @@ agrodolce.it##.box-desktop-side-top_container
 meteogiornale.it##.box-sn
 trend-online.com##.box-special
 tvserial.it##.box-verticale-home
-calcioweb.eu##.boxAdv
+calcioweb.eu,comingsoon.it##.boxAdv
 flashscore.it##.boxOverContent__banner
 biellaoggi.it,cuneooggi.it##.box_banner
 hdblog.it,hdmotori.it##.box_highlight_footer
