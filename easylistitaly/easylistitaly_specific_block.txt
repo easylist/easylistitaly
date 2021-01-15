@@ -245,6 +245,7 @@
 ||annuncitoscana.it/banner/
 ||annuncitrapani.it/banner/
 ||annuncitrieste.it/banner/
+||annunciudine.it/banner/
 ||annunciumbria.it/banner/
 ||annuncivibovalentia.it/banner/
 ||annunciviterbo.it/banner/
