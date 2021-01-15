@@ -497,6 +497,7 @@ matrimoniosolidale.it##.b-invito-b
 gnoccatravels.com##.b-nner-desktop-block
 amalfinews.it,ilvescovado.it,liratv.it,occhisusalerno.it,positanonotizie.it##.b1nn3rs
 virgilio.it##.b300x250
+tuttitalia.it##.ba
 gnoccatravels.com##.bacheca-incontri-b-nner
 quotidianodellumbria.it##.back
 strill.it##.background-cover
@@ -962,6 +963,7 @@ everyeye.it##.nome_gioco_amazon_destra
 ilsalottodelcalcio.it##.nostro-banner
 tuttotrasporti.it##.notizieSponsorizzate
 empolifc.com##.o-section--promo
+tuttitalia.it##.oe
 esportsonline.it##.oe-wrapper
 techzilla.it##.offerta-img-box
 lamilano.it##.olvu
@@ -1239,6 +1241,7 @@ dilei.it##.widget_promo_box_widget
 nursetimes.org##.widget_realty_widget
 radiodigione.net##.widget_ubm-banners-rotation
 vicenzanews.it##.wifiplaza
+tuttitalia.it##.wk
 lapappadolce.net##.wpmc_inject_wrapper
 tuttoapp-android.com##.wpmoneyclick_amazon_box
 advister.it##.wpmoneyclick_template_prices_comp
