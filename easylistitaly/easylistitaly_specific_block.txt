@@ -492,6 +492,7 @@
 ||cb01.run^*/button_
 ||cb01.solutions/imgc/b_
 ||cb01.solutions/imgc/side/s_
+||cb01.support/4k/
 ||cb01.wales/imgc/b_
 ||cb01.wales/imgc/side/s_
 ||centotrentuno.com/wp-content/banners/
