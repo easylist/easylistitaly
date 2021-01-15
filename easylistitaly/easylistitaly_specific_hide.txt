@@ -1171,6 +1171,7 @@ borderline24.com##.tdi_47_22b
 tomshw.it##.teetee-embed
 telesud.it##.teles-header-banner
 positanonews.it##.testata
+annunci69.it##.testoracc2
 teleaesse.it##.text-left
 teleaesse.it##.text-right
 bluerating.com##.the_big_banner

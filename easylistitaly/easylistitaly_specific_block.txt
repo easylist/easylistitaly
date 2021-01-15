@@ -146,6 +146,10 @@
 ||annuariodelcinema.it^*/banners/
 ||annunci-sardegna.it/banner/
 ||annunci-sicilia.it/banner/
+||annunci69.it/img/img_pubb/
+||annunci69.it/img/lovelize/
+||annunci69.it/include/ads_ponte.php?
+||annunci69.it/include/sexyshop.php?
 ||annunciabruzzo.it/banner/
 ||annunciagrigento.it/banner/
 ||annunciancona.it/banner/
