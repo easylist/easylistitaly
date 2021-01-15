@@ -79,6 +79,7 @@ bergamoesport.it###billboard
 augustanews.it,avolanews.it,catanianews.it,ibleinews.it,notonews.it,pachinonews.it,siracusanews.it###billboard1
 travelstales.it###bl_html-8
 travelstales.it###bl_html-9
+metalgermania.it###black-studio-tinymce-2
 esportsmobile.it###black-studio-tinymce-6
 esportsmobile.it###black-studio-tinymce-7
 liberliber.it###blocco_banner

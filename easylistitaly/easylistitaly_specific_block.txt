@@ -1524,6 +1524,7 @@
 ||messinasportiva.it^*/Banner-
 ||messinasportiva.it^*/tuttiautopezzi_
 ||messinaweb.tv^*/ricambi-24-
+||metalgermania.it^*/merchandising-
 ||metallized.it/banner/
 ||meteoaquilano.it/images/Banner
 ||meteoaquilano.it/images/logo_
