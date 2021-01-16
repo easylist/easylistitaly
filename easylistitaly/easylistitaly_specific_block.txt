@@ -246,6 +246,7 @@
 ||annuncitoscana.it/banner/
 ||annuncitrapani.it/banner/
 ||annuncitrentinoaltoadige.it/banner/
+||annuncitrento.it/banner/
 ||annuncitrieste.it/banner/
 ||annunciudine.it/banner/
 ||annunciumbria.it/banner/
