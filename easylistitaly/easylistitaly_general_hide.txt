@@ -280,4 +280,5 @@
 ##a[href^="https://n26-eu.c2nwa3.net/"]
 ##a[href^="https://promonow.shop/offers.php?"]
 ##a[href^="https://www.18carati.com/?acc="]
+##a[href^="https://www.centoxcento.net/?track="]
 ##a[href^="https://www.nigiara.it/scripts/redir.php?url=https://amzn.to/"]
