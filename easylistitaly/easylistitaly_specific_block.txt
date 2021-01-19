@@ -253,6 +253,7 @@
 ||annunciudine.it/banner/
 ||annunciumbria.it/banner/
 ||annunciveneto.it/banner/
+||annuncivenezia.it/banner/
 ||annunciverona.it/banner/
 ||annuncivibovalentia.it/banner/
 ||annunciviterbo.it/banner/
