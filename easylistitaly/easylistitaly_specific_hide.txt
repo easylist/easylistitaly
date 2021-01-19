@@ -498,7 +498,7 @@ amazon.it##.aw-campaigns
 gamelegends.it##.awac-wrapper
 matrimoniosolidale.it##.b-invito-b
 gnoccatravels.com##.b-nner-desktop-block
-ilvescovado.it,liratv.it,occhisusalerno.it,positanonotizie.it##.b1nn3rs
+liratv.it,occhisusalerno.it,positanonotizie.it##.b1nn3rs
 virgilio.it##.b300x250
 tuttitalia.it##.ba
 gnoccatravels.com##.bacheca-incontri-b-nner
@@ -1521,7 +1521,7 @@ liguriaoggi.it##img[height="90"][width="728"]
 crotoneok.it##img[width="1280"][height="384"]
 hc-neumarkt.com##img[width="140"][height="68"]
 katablog.it##img[width="160"][height="600"]
-amalfinews.it##img[width="1600"][height="466"]
+amalfinews.it,ilvescovado.it##img[width="1600"][height="466"]
 crotoneok.it##img[width="1600"][height="480"]
 sulpanaro.net##img[width="250"][height="250"]
 forum.passioneauto.it##img[width="300"][height="100"]

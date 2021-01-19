@@ -1162,9 +1162,7 @@
 ||ilsussidiario.net^*/970X125_
 ||iltredici.it^*/banner_
 ||iltredici.it^*/partners/
-||ilvescovado.it^*/11ce01533bcffb6c0e26ca172c3c149b/
-||ilvescovado.it^*/b1nn3r/
-||ilvescovado.it^*/banner/
+||ilvescovado.it^*/1fcde18f59c92660df0192c1272b47bb/
 ||ilvolo.it/images/banners/
 ||ilwebmaster21.it/script1.js
 ||imgpress.it^*/6b4bb0e6-
