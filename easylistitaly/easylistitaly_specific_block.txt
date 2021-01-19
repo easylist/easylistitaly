@@ -257,6 +257,7 @@
 ||annuncivenezia.it/banner/
 ||annunciverona.it/banner/
 ||annuncivibovalentia.it/banner/
+||annuncivicenza.it/banner/
 ||annunciviterbo.it/banner/
 ||ansa.it^*/banner_
 ||ansamed.info/ansamed/banner/
