@@ -2708,6 +2708,7 @@
 ||veronanetwork.it^*/banner-
 ||veronanetwork.it^*/PANTHEON_ADV_
 ||viaggioingermania.it^*/corso-tedesco-
+||viamichelin.it/static/*/adblocker/advertising.js
 ||vicenzae.org/images/prenota.gif
 ||vicenzanews.it/banners/
 ||vicenzanews.it/javascript/banner.js
