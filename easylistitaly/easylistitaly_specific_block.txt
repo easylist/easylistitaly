@@ -857,6 +857,7 @@
 ||garedepoca.com/grafica/banner_
 ||gay.it/js/brightcove/adonly.js
 ||gazzettabenevento.it/Sito2009/image/banner/
+||gazzettadellaspezia.it/images/banners/
 ||gazzettadiavellino.it^*-banner.
 ||gazzettadilivorno.it^*/skin/
 ||gazzettadimilano.it^*-banner-
