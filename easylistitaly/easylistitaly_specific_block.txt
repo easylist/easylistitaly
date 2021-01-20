@@ -849,6 +849,7 @@
 ||game-experience.it^*/BANNER-
 ||gamesoul.it^*/skin-
 ||gamesvillage.it/ajax.php?do=gv_amazon_page&
+||gamingtoday.it^*/logo_scritta.png
 ||gammaradio.it/iwm.gif
 ||garedepoca.com/grafica/banner_
 ||gay.it/js/brightcove/adonly.js

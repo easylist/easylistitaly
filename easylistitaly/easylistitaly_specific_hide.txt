@@ -1164,7 +1164,7 @@ gioconews.it##.tcvn-banner-item
 ilprimatonazionale.it##.td-banner-bg
 edagricole.it##.td-banner-footer
 01net.it,edagricole.it##.td-banner-wrap-full
-calciofemminileitaliano.it,calciomercato.it,phonetoday.it,romagiallorossa.it,tecnoandroid.it##.td-container-header
+calciofemminileitaliano.it,calciomercato.it,gamingtoday.it,phonetoday.it,romagiallorossa.it,tecnoandroid.it##.td-container-header
 radioradio.it##.td-fix-index
 amoreaquattrozampe.it##.td-footer-container
 ilgiornaledeltermoidraulico.it,pescaracalcio.com,tennispavese.it,ternanacalcio.com##.td-footer-wrapper
