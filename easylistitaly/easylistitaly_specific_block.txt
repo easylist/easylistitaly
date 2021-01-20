@@ -849,6 +849,7 @@
 ||game-experience.it^*/BANNER-
 ||gamesoul.it^*/skin-
 ||gamesvillage.it/ajax.php?do=gv_amazon_page&
+||gamingtoday.it^*/Banner-
 ||gamingtoday.it^*/logo_scritta.png
 ||gamingwiki.it^*/Blackwidow-Razer.jpg
 ||gamingwiki.it^*/Razer-Kraken.jpg
