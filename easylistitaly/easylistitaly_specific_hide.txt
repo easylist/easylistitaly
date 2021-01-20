@@ -913,7 +913,9 @@ lattemiele.com##.lp-link
 tuttitalia.it##.lt
 omnifurgone.it##.m1-apb
 buttanissima.it##.machette
+gonews.it##.machette-destra
 gonews.it##.machette-over-logo
+gonews.it##.machette-sinistra
 orologi-subacquei.it##.main-cta-banner
 inter.it##.main-footer-sponsor
 filmaltadefinizione.me##.main-news-more
@@ -1036,6 +1038,7 @@ meteofinanza.com##.reading-box
 giardinaggio.it##.reattiva_x_90
 ispazio.net##.reclame
 live-sport-tv.it##.rectangles
+gonews.it##.redazionale
 sportytrader.it##.redirectou
 viversano.net##.referral-small
 passioneorologio.it##.rehub_feat_block

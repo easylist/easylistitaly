@@ -978,6 +978,8 @@
 ||gommeblog.it^*/Gommadiretto-
 ||gommeblog.it^*/Gommadiretto.
 ||gomorraweb.com^*/granvesuvio-
+||gonews.it^*/Istituto_Tecnico_Cattaneo_
+||gonews.it^*/Servizio_Civile_gen21-
 ||gonews.it^*_Banner-
 ||gratisfree.it/cgi-bin/bannergest$script
 ||greenews.info/wp-content/banners/
