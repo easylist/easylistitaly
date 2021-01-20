@@ -1240,6 +1240,7 @@ transfermarkt.it##.werbung
 transfermarkt.it##.werbung-skyscraper
 spettegolando.it##.wf-widget-container
 wired.it##.wia
+sportando.basketball##.widget > a[rel="noopener"]
 esportsonline.it##.widget-above-header
 ideeregaloper.it##.widget-banner
 it.businessinsider.com##.widget-financialounge
