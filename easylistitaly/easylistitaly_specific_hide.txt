@@ -34,12 +34,13 @@ beverfood.com###backy
 rimini.com###bann-top-dx
 daneel59.altervista.org,ilmioip.it,superwheels.net###banner
 bresciaoggi.it,ilgiornaledivicenza.it,larena.it###banner-autodoc
+torinonews24.it###banner-bottom
 veneziafc.it###banner-box-up
 quotidianocanavese.it###banner-column
 canavesenews.it###banner-left-bottom
 canavesenews.it###banner-left-top
 cuneocronaca.it,larivieraonline.com,oggitreviso.it,piccolenote.ilgiornale.it###banner-top
-canavesenews.it###banner-top-container
+canavesenews.it,torinonews24.it###banner-top-container
 cataniapubblica.tv###banner1
 cataniapubblica.tv###banner2
 hdblog.it,hdmotori.it###banner3_300600
@@ -541,7 +542,7 @@ umbria24.it##.banner-show-desktop
 leccesette.it##.banner-side
 digital-news.it##.banner-sidebar
 universodelgioco.it##.banner-sky
-canavesenews.it##.banner-slider
+canavesenews.it,torinonews24.it##.banner-slider
 qualenergia.it##.banner-space
 vienormali.it##.banner-testata
 frasimania.it,matrimonio.com##.banner-top
