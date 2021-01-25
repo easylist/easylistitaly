@@ -980,6 +980,7 @@ empolifc.com##.o-section--promo
 tuttitalia.it##.oe
 esportsonline.it##.oe-wrapper
 techzilla.it##.offerta-img-box
+prezzisalute.com##.offerte
 lamilano.it##.olvu
 meteofinanza.com##.overlay-buttons
 meteofinanza.com##.overlay-text
