@@ -4,6 +4,7 @@
 ||campaign.aliexpress.com^$popup,domain=tantifilm.pink
 ||edreams.it/?affiliate=$popup
 ||eurostreaming.cam^$popup,third-party
+||igd-4k.click^$popup
 ||incontripersesso.com/landing/$popup
 ||lp.starvegas.it^$popup,third-party
 ||lupoporno.com^$popup,third-party
