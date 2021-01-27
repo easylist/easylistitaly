@@ -335,6 +335,7 @@ rumors.it###text-22
 ilpost.it###text-23
 nerdplanet.it###text-24
 giornalistitalia.it###text-28
+ricettealvolo.it###text-29
 clientiesperti.it,tecnofacile.com,top10scommesse.it###text-3
 giornalistitalia.it###text-30
 contrastotv.it,giornalistitalia.it,viterbopost.it###text-34
