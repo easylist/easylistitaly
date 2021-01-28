@@ -1085,7 +1085,7 @@ andreagaleazzi.com,animeclick.it,timinternet.it##.skin
 leccesette.it##.skin-desktop
 digitalic.it##.skin_a_dx
 digitalic.it##.skin_a_sx
-crotoneok.it##.skin_bg
+cellulare-magazine.it,crotoneok.it##.skin_bg
 primopianomolise.it##.skin_bg_left
 primopianomolise.it##.skin_bg_right
 iovivoaroma.org##.skin_link_top
