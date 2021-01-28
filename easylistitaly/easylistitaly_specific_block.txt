@@ -2283,7 +2283,12 @@
 ||stabiachannel.it^*/banner/
 ||stackpathcdn.com^*-banner.$domain=ondatv.tv
 ||stackpathcdn.com^*/banner_$domain=ondatv.tv
+||stadiotardini.it/banners/
+||stadiotardini.it^*/Banner-
+||stadiotardini.it^*/barbara-ponzi.gif
+||stadiotardini.it^*/cappellini.gif
 ||stadiotardini.it^*/comeser_
+||stadiotardini.it^*/mozzoni.jpg
 ||staffettaonline.com/fcomuniBanner/
 ||stamptoscana.it^*/autodoc_
 ||stamptoscana.it^*/diretta-tre-delitti_
