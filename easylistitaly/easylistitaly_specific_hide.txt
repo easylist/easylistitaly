@@ -367,7 +367,7 @@ tusciaweb.eu###topalto
 everyeye.it###topskin_clicktag
 ilturista.info###tours-tickets-banner
 hc-neumarkt.com###tr-contentbottom
-tipiace.it###vetrina
+qdpnews.it,tipiace.it###vetrina
 sposa.it###vetrina-content
 altarimini.it###videoRedazionale
 nerdplanet.it###wallpaper
