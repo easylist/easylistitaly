@@ -998,6 +998,7 @@
 ||gruppotv7.com/banner/
 ||gruppotv7.com/img/banner
 ||gruppovideomedia.it/banners/
+||gsanews.it^*/Banner-
 ||guardarefilm.vin/templates/italiafilm/images/btn
 ||guardaserie.cam^*/bottone
 ||guardaserie.cam^*/btn_guarda
