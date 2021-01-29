@@ -281,6 +281,8 @@ alwaysonboard.it###sab_content
 ilpost.it###scrolling-container
 nuovosud.it###sfondo
 eurogamer.it###sidebar_amazon
+vienormali.it###site-header-banner
+vienormali.it###site-header-leaderboard
 epolisbari.com,marigliano.net###skin
 iovivoaroma.org###skin_link_dx
 iovivoaroma.org###skin_link_sx
@@ -701,6 +703,7 @@ magazinedelledonne.it##.ccm_pugoo__sponso
 webpointzero.com##.cegg_widget_products
 radioinblu.it,tv2000.it##.cei-skin-side
 lineapress.it##.cfxi-container
+vienormali.it##.cimarandom
 cliccascienze.it##.clicc-prima-del-contenuto
 edilportale.com##.click-Skin
 puntocellulare.it##.clklnk
