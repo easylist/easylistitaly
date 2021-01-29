@@ -140,6 +140,7 @@
 ##.adv-promobox
 ##.adv-region
 ##.adv-skin
+##.adv-son-300x650-page
 ##.adv-sponsor__content
 ##.adv-strip-container
 ##.adv-testata
