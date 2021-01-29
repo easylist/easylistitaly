@@ -29,6 +29,7 @@
 ###adsense-notizia
 ###adsense_lato
 ###adv-Piede
+###adv-box-1
 ###adv-broker-overlayer
 ###adv-broker-overlayer-background
 ###adv-iframe-sx-home
