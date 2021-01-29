@@ -216,6 +216,7 @@
 ##.netd_300x600adv
 ##.newtekadv
 ##.nk-adv
+##.partial-sticky-adv
 ##.post_pubblicita
 ##.promo_sp
 ##.pub_text
