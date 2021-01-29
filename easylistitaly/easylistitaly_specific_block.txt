@@ -1874,6 +1874,8 @@
 ||prospettivegeometri.it^*/380x180_
 ||prospettivegeometri.it^*/gbf-video-geometri.gif
 ||prospettivegeometri.it^*_Banner_
+||psicologianeurolinguistica.net^*/banner-
+||psicologianeurolinguistica.net^*/mindlab.jpg
 ||pyrosonline.it/site/public/image/20200131153026.jpg
 ||qcanavese.it/banner/
 ||qdmnotizie.it^*-Skin_
