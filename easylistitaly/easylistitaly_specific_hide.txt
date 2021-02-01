@@ -1148,7 +1148,7 @@ occhionotizie.it##.sticky_bar_container
 webnews.it##.sticky_wrapper
 androidworld.it,mobileworld.it##.store-affiliation
 andreagaleazzi.com##.store-box
-100ideeperristrutturare.it,calabria7.it,casa-naturale.com,fruitbookmagazine.it,primopianomolise.it,quattrozampe.online,radiomovida.net,radioradio.it,uominietrasporti.it,vendingnews.it,villeecasali.com##.strack_cli
+100ideeperristrutturare.it,bizjournal.it,calabria7.it,casa-naturale.com,fruitbookmagazine.it,primopianomolise.it,quattrozampe.online,radiomovida.net,radioradio.it,uominietrasporti.it,vendingnews.it,villeecasali.com##.strack_cli
 myreviews.it##.stream-item
 mole24.it##.stream-item-above-post-content
 ilcorriere.net,mole24.it##.stream-item-top-wrapper
