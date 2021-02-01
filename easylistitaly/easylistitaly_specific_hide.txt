@@ -680,6 +680,7 @@ filmitalianostreaming.com##.btn-danger
 donnamoderna.com##.btn-offerte-amazon
 tantifilm.center##.btn-p
 game-game.it##.btn-play
+fogliettoillustrativo.net##.btn-success
 teatroborgatti.it##.btn1
 parcofaunistico.it,piratestreaming.network##.btnaaa
 cinemalibero.cloud,cinemalibero.life,cinemalibero.store##.btnaaa4k
