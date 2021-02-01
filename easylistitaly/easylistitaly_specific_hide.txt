@@ -606,6 +606,7 @@ treccani.it##.bannercontainer
 105tv.it,aostaoggi.it,faidatehobby.it,giornaledimontesilvano.com,ilgazzettinobr.it,ilgrigioneitaliano.ch,kisskiss.it,kisskissitalia.it,kisskissnapoli.it,lametino.it,maremmanews.it,qdpnews.it,sienafree.it,umbriatv.com,videomediterraneo.it,youtg.net##.bannergroup
 radiogold.it##.bannergroupskin-banner-module
 saturnonotizie.it##.bannerheader
+prezzifarmaco.it##.bannernativo
 qualenergia.it,vivafm.it##.banners
 voglioporno.com##.banners-footer
 radio-reporter.it##.bannerswidget
@@ -890,6 +891,7 @@ altadefinizione01.works##.js-text
 superscommesse.it##.js_tracking_gtm
 pornototale.com##.js_webcam_models_container
 nientepopcorn.it##.justwatch
+prezzifarmaco.it##.label-sponsorizzata
 lagenziadiviaggi.it##.lagen-skin
 cookaround.com##.lancio-speciale-logo
 libero.it##.lancio_promo
