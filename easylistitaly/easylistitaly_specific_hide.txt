@@ -122,6 +122,7 @@ amazon.it###click_withinLazyLoad_tower
 aquilabasket.it###clickit
 acquariofilia.biz###collapseobj_sidebar_google
 matrimoniosolidale.it###confetti-bomb
+autoscout24.it###conmon-header-stage
 affaritaliani.it###consigliati-giochi2
 virgilio.it###cont-leaderboard
 virgilio.it###cont-manchette
