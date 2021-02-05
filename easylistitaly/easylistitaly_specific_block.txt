@@ -1576,6 +1576,7 @@
 ||meteoaquilano.it/images/Nuovo_Banner_
 ||meteoaquilano.it/images/pianeta_ciclo_
 ||meteoaquilano.it/Sponsor/
+||meteocomo.it/images/banners/
 ||meteofinanza.com^*/1920x1080_
 ||meteofinanza.com^*/eToro.png
 ||meteovalmorea.it^*/banners/
