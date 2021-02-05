@@ -145,11 +145,11 @@ dimagrireduepuntozero.com,strill.it###custom_html-25
 dimagrireduepuntozero.com###custom_html-27
 calcioatalanta.it,calciofere.it,calciogrifo.it,calciolecce.it,forzaparma.it,labaricalcio.it,siamolaroma.it,sololalazio.it,tifocosenza.it,trapanigranata.it###custom_html-3
 calciocasteddu.it###custom_html-4
-italiaonline.news,melarossa.it###custom_html-5
-it-casinoonline.com,pentanewslivorno.it###custom_html-6
+calcioitalia24.it,italiaonline.news,melarossa.it###custom_html-5
+calcioitalia24.it,it-casinoonline.com,pentanewslivorno.it###custom_html-6
 strill.it###custom_html-65
-pistoiasport.com###custom_html-7
-corrierequotidiano.it###custom_html-8
+calcioitalia24.it,pistoiasport.com###custom_html-7
+calcioitalia24.it,corrierequotidiano.it###custom_html-8
 scrivolibero.it,viaggiallafinedelmondo.it###custom_html-9
 amazon.it###detailILM_feature_div
 trueriders.it###div-TRD_MPU_CONT
@@ -543,6 +543,7 @@ cremona1.it##.banner-inner
 universodelgioco.it##.banner-leaderboard
 italiafruit.net##.banner-m
 viversano.net##.banner-mid
+calcioitalia24.it##.banner-promotions-wrapper
 radiotoscana.it##.banner-radio
 umbria24.it##.banner-show-desktop
 leccesette.it##.banner-side
