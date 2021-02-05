@@ -1487,6 +1487,11 @@
 ||macitynet.it^*/macitybig
 ||macitynet.it^*/macitynettrendeviceborsa.jpg
 ||macplas.it/archivioFiles/Banner/
+||magazine-italia.it^*/banner-
+||magazine-italia.it^*/banner_
+||magazine-italia.it^*/HSC-HUMAN-logo-vettoriale-510x420.jpg
+||magazine-italia.it^*/Schermata-2020-10-15-alle-12.28.35-696x391.png
+||magazine-italia.it^*/SmallLogo.jpg
 ||magicapro.it^*-600x100.
 ||magodelpronostico.com^*/banner-
 ||maidireborsa.it^*/image004-
