@@ -1125,6 +1125,7 @@ bebeez.it,bolzano-bozen.it,europages.it,girovagandointrentino.it,ilmonferrato.it
 luinonotizie.it##.sponsor-background-big
 pallacanestrotrieste.it##.sponsor-carousel
 victorialibertas.it##.sponsor-header
+luinonotizie.it##.sponsor-interna
 erbanotizie.com##.sponsor-rubrica
 rittnerbuam.com##.sponsor-section
 classicipodcast.it##.sponsor-single
