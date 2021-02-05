@@ -1272,7 +1272,7 @@ nursetimes.org##.widget_realty_widget
 radiodigione.net##.widget_ubm-banners-rotation
 vicenzanews.it##.wifiplaza
 tuttitalia.it##.wk
-lapappadolce.net##.wpmc_inject_wrapper
+lapappadolce.net,tuttosullapostaelettronica.it##.wpmc_inject_wrapper
 tuttoapp-android.com##.wpmoneyclick_amazon_box
 advister.it##.wpmoneyclick_template_prices_comp
 tuttoapp-android.com##.wpmoneyclick_template_simple_button
