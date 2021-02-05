@@ -236,8 +236,8 @@ dailybest.it,forum.tomshw.it,leonardo.it,politicanews.it,ricettedalmondo.it###ma
 matematicamente.it###masthead-desktop-wrapper
 ondarock.it###masthead_or
 chepreparo.it,it-casinoonline.com###media_image-2
-tecnofacile.com###media_image-3
-it-casinoonline.com,italiaonline.news###media_image-4
+corriereelorino.it,tecnofacile.com###media_image-3
+corriereelorino.it,it-casinoonline.com,italiaonline.news###media_image-4
 staynerd.com###media_image-40
 advister.it###media_image-44
 giornalistitalia.it,it-casinoonline.com###media_image-5
@@ -410,7 +410,7 @@ theitaliantimes.it##.Side_DX
 telestense.it##.StandardBanner
 uominietrasporti.it##._ning_inner
 100ideeperristrutturare.it,casa-naturale.com,quattrozampe.online,villeecasali.com##._ning_outer
-rietinvetrina.it,ultimenotizieflash.com##.a-single
+corriereelorino.it,rietinvetrina.it,ultimenotizieflash.com##.a-single
 badcomics.it,badgames.it,badtaste.it,badtv.it##.aalb-880-product-carousel-unit
 gnius.it##.aalb-product-carousel-unit
 facileporno.com##.aan_fake
@@ -801,6 +801,7 @@ cb01.li,cb01.world,eurostreaming.cam,filmsenzalimiti.ink,ilgeniodellostreaming.m
 luinonotizie.it##.fixed-sponsor
 sassuolooggi.it##.flexslider
 marsicalive.it##.fmhb-container
+corriereelorino.it##.fn-header-banner
 udinese.it##.foobar-sponsor
 ilmiostiledivita.it##.footer-columns
 lega-pro.com##.footer-partner
@@ -819,7 +820,7 @@ quattroruote.it##.fullBanner
 pressgiochi.it##.full_width_banner
 agro24.it##.fullwidthbanner-container
 legnagocalcio.it##.fusion-carousel-holder
-anteprima24.it,bitquotidiano.it,bolognaindiretta.it,buttanissima.it,castellinotizie.it,centropagina.it,corrieresalentino.it,gazzettadasti.it,gdonews.it,giornaledellabirra.it,giornaledellavela.com,ilfattonisseno.it,ilsicilia.it,informazioneonline.it,itacanotizie.it,junglam.com,labtv.net,latina24ore.it,lavalsusa.it,lavocedeltrentino.it,lavocedibolzano.it,lineauno.it,milanosud.it,modenaindiretta.it,nonsolobenessere.it,oltrefano.it,padovacalcio.it,qds.it,quicosenza.it,radioibiza.it,radioluna.it,reggionline.com,reportmotori.it,reteabruzzo.com,rietinvetrina.it,rivistastudio.com,sportmagazinetrentino.it,statoquotidiano.it,superj.it,tarantobuonasera.it,telebari.it,ticinonotizie.it,travelnostop.com,unicoebello.it##.g
+anteprima24.it,bitquotidiano.it,bolognaindiretta.it,buttanissima.it,castellinotizie.it,centropagina.it,corriereelorino.it,corrieresalentino.it,gazzettadasti.it,gdonews.it,giornaledellabirra.it,giornaledellavela.com,ilfattonisseno.it,ilsicilia.it,informazioneonline.it,itacanotizie.it,junglam.com,labtv.net,latina24ore.it,lavalsusa.it,lavocedeltrentino.it,lavocedibolzano.it,lineauno.it,milanosud.it,modenaindiretta.it,nonsolobenessere.it,oltrefano.it,padovacalcio.it,qds.it,quicosenza.it,radioibiza.it,radioluna.it,reggionline.com,reportmotori.it,reteabruzzo.com,rietinvetrina.it,rivistastudio.com,sportmagazinetrentino.it,statoquotidiano.it,superj.it,tarantobuonasera.it,telebari.it,ticinonotizie.it,travelnostop.com,unicoebello.it##.g
 4yougratis.it##.g-top-text
 agendadigitale.eu##.gallery-container-home
 virtusfrancavilla.it##.gallery-icon
@@ -1274,6 +1275,7 @@ tuttoapp-android.com##.wpmoneyclick_amazon_box
 advister.it##.wpmoneyclick_template_prices_comp
 tuttoapp-android.com##.wpmoneyclick_template_simple_button
 simonemaestri.com##.wpmoneyclick_template_single-product
+corriereelorino.it##.wps-bt-background-takeover-id
 calciomercato.napoli.it##.wptb-cell
 teleunica.com##.wrap-adv-body
 lavorincasa.it##.wrapper-banner-box-wallpaper
