@@ -993,6 +993,7 @@ esportsonline.it##.oe-wrapper
 techzilla.it##.offerta-img-box
 prezzisalute.com##.offerte
 lamilano.it##.olvu
+milanocam.it##.overcam_advertising
 meteofinanza.com##.overlay-buttons
 meteofinanza.com##.overlay-text
 altadefinizione.coach##.overplayer
