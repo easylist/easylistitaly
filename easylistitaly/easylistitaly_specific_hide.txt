@@ -1063,6 +1063,7 @@ passioneorologio.it##.rehub_feat_block
 regaliperfetti.it##.rehub_woo_review
 microgiochi.com##.relacionados
 mobimart.it##.resp-container
+router-4g.it##.review-links
 webpointzero.com##.rh_listoffers
 ilclubdellericette.it##.ricetta-amazon
 estrazionedellotto.it##.right
