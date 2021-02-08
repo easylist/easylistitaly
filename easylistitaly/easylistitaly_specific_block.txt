@@ -317,6 +317,7 @@
 ||autoseller.it/banner%5c
 ||autoseller.it/banner/
 ||avmagazine.it/js/common-tag.js
+||aziendabanca.it/images/fintech_tribu_
 ||b-cdn.net^*-728x50-$domain=pc-gaming.it
 ||b-cdn.net^*/840.jpg$domain=pc-gaming.it
 ||b-cdn.net^*/Banner-$domain=pc-gaming.it
