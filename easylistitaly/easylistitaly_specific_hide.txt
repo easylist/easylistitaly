@@ -482,6 +482,7 @@ animeclick.it##.amazon-row
 shopping.tiscali.it##.amazonShopping
 andreagaleazzi.com##.amazon_box
 vgnetwork.it##.amazon_similarity
+uiblog.it##.amazonjs_item
 incucinaconelena.it##.amr_widget
 fotografidigitali.it,hwupgrade.it##.amz-wrapper
 voglioporno.com##.analytics-event
@@ -1378,7 +1379,7 @@ markos.it##a[href^="http://www.bookings.net/"]
 leggenditaloi.com##a[href^="http://www.easybytez.com/free"]
 rietilife.com##a[href^="http://www.rietilife.com?pasID="]
 outcast.it##a[href^="http://www.tostadora.it/t-shirt-nerd.php?"]
-alwaysonboard.it,birramoriamoci.it,circusf1.com,computermania.org,fattoincasadabenedetta.it,futurelements.it,guerrestellari.net,gufo.it,hellogreen.it,hovogliadidolce.it,hwupgrade.it,hynerd.it,ilsoftware.it,imlestar.com,infotelematico.com,justfashionmagazine.com,juzaphoto.com,losport24.com,macitynet.it,maidirelink.it,medicinaonline.co,mio-ip.eu,mr-loto.it,murkymask.com,nokioteca.net,nonapritequestoblog.it,tivusat.tv,trattamentinaturalibio.it,twebnews.it,uberti.eu,ubud.it,unideanellemani.it,videogiocare.it,windowsblogitalia.com##a[href^="https://amzn.to/"]
+alwaysonboard.it,birramoriamoci.it,circusf1.com,computermania.org,fattoincasadabenedetta.it,futurelements.it,guerrestellari.net,gufo.it,hellogreen.it,hovogliadidolce.it,hwupgrade.it,hynerd.it,ilsoftware.it,imlestar.com,infotelematico.com,justfashionmagazine.com,juzaphoto.com,losport24.com,macitynet.it,maidirelink.it,medicinaonline.co,mio-ip.eu,mr-loto.it,murkymask.com,nokioteca.net,nonapritequestoblog.it,tivusat.tv,trattamentinaturalibio.it,twebnews.it,uberti.eu,ubud.it,uiblog.it,unideanellemani.it,videogiocare.it,windowsblogitalia.com##a[href^="https://amzn.to/"]
 trattamentinaturalibio.it##a[href^="https://c.mtpc.se/"]
 golbym.com##a[href^="https://casinostudio3000.com/"]
 albengacorsara.it,campaniameteo.it,germania.info,tuttoamerica.it##a[href^="https://clk.tradedoubler.com/"]
@@ -1390,7 +1391,7 @@ gizchina.it##a[href^="https://it.banggood.com/marketing-"]
 blog.libero.it##a[href^="https://nplink.net/"]
 blog.libero.it##a[href^="https://preferredby.me/"]
 gufo.it##a[href^="https://rcl.ink/"]
-rockol.it,smartworld.it##a[href^="https://rover.ebay.com/"]
+rockol.it,smartworld.it,uiblog.it##a[href^="https://rover.ebay.com/"]
 ortodacoltivare.it##a[href^="https://sfogliabile.stihlmarketing.it/"]
 gnoccatravels.com##a[href^="https://wellcum.at/"]
 padovasport.tv##a[href^="https://www.aliperme.it/"]
