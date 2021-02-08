@@ -137,6 +137,7 @@ tefchannel.it###ctl00_cphBody_mcsSlotBannerBottom_rptGallery_ctl00_lnkLink
 tefchannel.it###ctl00_cphBody_mcsSlotBannerTop_rptGallery_ctl01_lnkLink
 teleborsa.it###ctl00_if4WTV300x250
 gufo.it###custom_html-10
+gufo.it###custom_html-11
 pistoiasport.com###custom_html-13
 giochi.com,nintendari.it###custom_html-17
 birramoriamoci.it,calciohellas.it,calciorosanero.it,card.it,italiaonline.news,sportnews.eu###custom_html-2
@@ -1394,6 +1395,7 @@ gnoccatravels.com##a[href^="https://wellcum.at/"]
 padovasport.tv##a[href^="https://www.aliperme.it/"]
 2backpack.it,alfemminile.com,badcomics.it,badgames.it,badtaste.it,badtv.it,beppegrillo.it,birramoriamoci.it,bora.la,bsnews.it,cibocanigatti.it,cityrumors.it,classifichemusica.it,cliccascienze.it,comingsoon.it,comprovendodischi.it,comprovendolibri.it,consigli.it,donnamoderna.com,epubdownload.it,eurogamer.it,everyeye.it,facciabuco.com,frasicelebri.it,game-experience.it,gamerclick.it,giardinaggio.it,giardinaggio.net,giardinaggio.org,giardiniblog.it,giornaledellabirra.it,gizchina.it,hdblog.it,hobbyquotidiano.com,hwupgrade.it,icrewplay.com,ideefesta.it,ideeregaloper.it,inter.it,iphoneitalia.com,italianiinguerra.com,junglam.com,lasiciliaweb.it,lavorincasa.it,londra.today,londranews.com,luxwatch.it,mangaforever.net,mantovanotizie.com,migliorigiochi.eu,miglioriofferteweb.com,nerdmovieproductions.it,newsly.it,nientepopcorn.it,nonsprecare.it,notebookcheck.it,notetralerighe.it,novabbe.com,orologipertutti.it,outofbit.it,pensieriparole.it,pianetamamma.it,prezzisalute.com,punto-informatico.it,ridble.com,rifaidate.it,rockol.it,screenweek.it,sora24.it,spaziogames.it,stile.it,tabsernews.it,techprincess.it,telefonino.net,termometropolitico.it,tmnotizie.com,topdigamma.it,tuttoboxe.it,tuttotek.it,viaggioingermania.it,vuemmetv.it,webnews.it##a[href^="https://www.amazon."][href*="tag="]
 tuttoamerica.it##a[href^="https://www.anrdoezrs.net/click-"]
+gufo.it,msn.com##a[href^="https://www.awin1.com/"]
 fumettologica.it##a[href^="https://www.catawiki.it"][href*="?utm_"]
 esportsactivity.com##a[href^="https://www.ivacy.com/"]
 atalanta.it,diventaretrader.com##a[href^="https://www.plus500.com/"]
@@ -1585,4 +1587,3 @@ tgcom24.mediaset.it#?#.right.es.large:-abp-has(span:-abp-contains(contenuto spon
 ! Site Specific filters (used with $generichide)
 msn.com##a[href^="https://marketing.net.occhiali24.it/"]
 msn.com##a[href^="https://prf.hn/"]
-msn.com##a[href^="https://www.awin1.com/"]
