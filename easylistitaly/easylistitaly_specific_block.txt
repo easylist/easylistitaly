@@ -2959,6 +2959,7 @@
 ||wp.com/www.oggicronaca.it/*/divisionismolarge.gif
 ||wp.com/www.ostuninotizie.it/*/colazione-con-flavio.jpg
 ||wp.com/www.proiezionidiborsa.it/*/bnp-
+||wp.com/www.proiezionidiborsa.it/*/ig-
 ||wp.com/www.spaziotennis.it/*/dhs.jpg
 ||wp.com/www.statoquotidiano.it/*/727x247-
 ||wp.com/www.tabsernews.it/*/THE-SOUND.png
