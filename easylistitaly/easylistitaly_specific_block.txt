@@ -339,6 +339,9 @@
 ||bellunopress.it^*/Caaf-Cgil_
 ||bellunopress.it^*/pub_
 ||bellunopress.it^*/tecnosport-
+||benesserecorpomente.it^*/324x250_
+||benesserecorpomente.it^*/banner-
+||benesserecorpomente.it^*/banner_
 ||beneventocalcio.club/partners/
 ||bergamoesport.it^*/BANNER-
 ||bergamoesport.it^*/planetel.jpg
