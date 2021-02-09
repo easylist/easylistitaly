@@ -596,6 +596,8 @@
 ||comingsoon.it/img/PrimeVideoColorBtn.png
 ||comingsoon.it/imgdb/banner/
 ||comolive.it^*-AVIS-logo-
+||compagniadellacima.it^*/logo-subianco250.jpg
+||compagniadellacima.it^*/Ronco_banner.jpg
 ||comprovendodischi.it/images/AMZ-
 ||comprovendolibri.it/images/ico-mondadori.jpg
 ||comprovendolibri.it/images/ico_FELT.jpg
