@@ -1982,6 +1982,7 @@
 ||radiocircuito29.it/images/atelier.jpg
 ||radiocircuito29.it/images/belleli.jpg
 ||radiocircuito29.it/images/DFZ-logo.jpg
+||radiocittafutura.it/images/banners/
 ||radiodigitalenergy.com/images/acweb.jpg
 ||radiodigitalenergy.com/images/canastri.jpg
 ||radiodigitalenergy.com/images/radio.net.jpg
