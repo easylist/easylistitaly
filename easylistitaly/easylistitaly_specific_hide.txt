@@ -799,6 +799,7 @@ tuttitalia.it##.eo
 garganotv.com##.erzodfm-container
 exibart.com##.exibart-footer-partner
 exibart.com##.exibart-footer-partner-title
+pornototale.com##.exo_container_wrapper
 giornaledibarga.it##.fascia-banner
 divinafm.it##.fdc-widget-sponsor
 brindisisettenews.it##.featured_banner
@@ -897,6 +898,7 @@ screenweek.it##.itunes-btn
 juventus.com##.jcom-o-footer__corporate
 juventus.com##.jcom-o-sponsors-nav__child
 altadefinizione01.works##.js-text
+pornototale.com##.js_sidebar_webcams
 superscommesse.it##.js_tracking_gtm
 pornototale.com##.js_webcam_models_container
 nientepopcorn.it##.justwatch
