@@ -284,6 +284,7 @@ skylinewebcams.com###rpc
 alwaysonboard.it###sab_content
 ilpost.it###scrolling-container
 nuovosud.it###sfondo
+calabria7.it###sgpb-popup-dialog-main-div
 eurogamer.it###sidebar_amazon
 vienormali.it###site-header-banner
 vienormali.it###site-header-leaderboard
@@ -456,7 +457,6 @@ radioinstreaming.it##.adv2
 ilgallo.it##.adv4
 virgilio.it##.advTuning
 corrierecomunicazioni.it,digital4.biz,energyup.tech,ilsussidiario.net,industry4business.it,newsrimini.it,riskmanagement360.it##.adv_container
-calabria7.it##.advanced_floating_content
 addicted2play.com,eurogamer.it,gioco.it,lausc.it,morningstar.it##.advert
 ilfoglio.it,liberoquotidiano.it,pharmastar.it##.advertisement
 film-review.it,nanopress.it,zonalocale.it##.advertising
@@ -861,7 +861,6 @@ ecodelcinema.com,italiaonline.news,lagenziadiviaggi.it,oltreilfatto.it,ondatv.tv
 nuovosud.it##.header-banner-wrapper
 calciomercato.com##.header-banner__container
 lanuovacalabria.it##.headerBanner
-calabria7.it##.header__banner
 h24notizie.com##.headerbanner
 quotidianolacitta.it##.headerbanner_autoslides
 mammafelice.it##.headerright
@@ -1088,6 +1087,8 @@ radiomillennium.it##.section-26
 atalanta.it##.section_sponsor
 ad-italia.it##.sectionbox
 excite.it##.serp-item
+calabria7.it##.sg-popup-builder-content
+calabria7.it##.sgpb-popup-overlay
 aphorism.it,bloopers.it##.shop
 ilgeniodellostreaming.tel##.show-download
 tiscali.it##.shp-prd-ed-day
@@ -1161,7 +1162,7 @@ occhionotizie.it##.sticky_bar_container
 webnews.it##.sticky_wrapper
 androidworld.it,mobileworld.it##.store-affiliation
 andreagaleazzi.com##.store-box
-100ideeperristrutturare.it,bizjournal.it,calabria7.it,casa-naturale.com,fruitbookmagazine.it,primopianomolise.it,quattrozampe.online,radiomovida.net,radioradio.it,uominietrasporti.it,vendingnews.it,villeecasali.com##.strack_cli
+100ideeperristrutturare.it,bizjournal.it,casa-naturale.com,fruitbookmagazine.it,primopianomolise.it,quattrozampe.online,radiomovida.net,radioradio.it,uominietrasporti.it,vendingnews.it,villeecasali.com##.strack_cli
 myreviews.it##.stream-item
 mole24.it##.stream-item-above-post-content
 ilcorriere.net,mole24.it##.stream-item-top-wrapper
@@ -1176,7 +1177,7 @@ notiziariocalcio.com,pianetabasket.com,tuttosalernitana.com,tuttoveneziasport.it
 ilsussidiario.net##.sub-header
 emmelle.it##.supermag-ainfo-widget
 broncos.it##.supporter
-mbnews.it##.swiper-container
+calabria7.it,mbnews.it##.swiper-container
 magentanostra.it,onedance.fm,yesmagazine.it##.swiper-slide-inner
 luinonotizie.it##.swiper-wrapper
 radioblutoscana.it##.tab03
@@ -1415,7 +1416,6 @@ androidworld.it##a[style="background-color: #ff9900; padding: 10px; border: none
 amica.it##a[style="width: 300px;display: block;z-index: 999999;height: 268px;position: absolute;top: 0;left: 0;"]
 genoanews1893.it##div[astyle="text-align: center; width: 336px; height: 280px; padding: 3px 0px 3px 0px;"]
 acffiorentina.com,acmilan.com##div[class^="Partners_"]
-calabria7.it##div[class^="angwp_"]
 lavorincasa.it##div[class^="large-leaderboard"]
 lavorincasa.it##div[class^="medium-rectangle"]
 lavorincasa.it##div[class^="wb-bacheca-aziende"]
@@ -1563,7 +1563,7 @@ liratv.it##img[width="1600"][height="533"]
 sulpanaro.net##img[width="250"][height="250"]
 forum.passioneauto.it##img[width="300"][height="100"]
 radioinblu.it,tv2000.it##img[width="300"][height="200"]
-0-100.it,beverfood.com,finanzareport.it,fiorentinanews.com,larampa.it,lattemiele.com,radioinblu.it##img[width="300"][height="250"]
+0-100.it,beverfood.com,calabria7.it,finanzareport.it,fiorentinanews.com,larampa.it,lattemiele.com,radioinblu.it##img[width="300"][height="250"]
 umbriaoggi.news##img[width="300"][height="252"]
 umbriaoggi.news##img[width="300"][height="289"]
 it-casinoonline.com,toscanatv.it##img[width="300"][height="300"]
@@ -1571,12 +1571,16 @@ uspontedera.it##img[width="300"][height="60"]
 beverfood.com##img[width="300"][height="600"]
 agraria.org##img[width="300"][height="80"]
 umbriaoggi.news##img[width="300"][height="90"]
+calabria7.it##img[width="301"][height="251"]
 umbriaoggi.news##img[width="315"][height="150"]
+calabria7.it##img[width="320"][height="250"]
 lemillebolleblog.it,vinoalvino.org##img[width="320"][height="320"]
 canonclubitalia.com##img[width="632"][height="123"]
 beverfood.com##img[width="650"][height="320"]
 tennispavese.it##img[width="728"]
 finanzareport.it,larampa.it##img[width="728"][height="90"]
+calabria7.it##img[width="750"][height="250"]
+calabria7.it##img[width="945"][height="150"]
 hotcorn.com##input[class="post-movie-button-chili"]
 news-town.it##li[style="margin: 0 0px 0px 0 !important; height: 220px; width: 300px;"]
 sportevai.it##p[style="margin-top: 30px; border: 1px solid #0D8600; padding: 10px; font-weight: bold; font-size: 12px; text-align: center;"]
