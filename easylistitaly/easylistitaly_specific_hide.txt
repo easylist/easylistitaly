@@ -767,6 +767,7 @@ youtvrs.it##.custom-background-css
 giornaleadige.it,piacenza24.eu,radionorba.it,radioyacht.com,risvegliopopolare.it##.custom_banners_big_link
 gioco-pc-scaricare.it##.dashicons-download
 sportoutdoor24.it##.dazn_leaderboard
+buonaporno.com##.default__interest-block
 fiorentinanews.com##.destra_banner
 flashscore.it##.detail-bonus-match-summary-content-inner
 economyup.it,techcompany360.it##.dfp
