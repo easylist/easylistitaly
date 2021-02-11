@@ -1079,6 +1079,7 @@ wikihow.it##.rr_container
 cliccascienze.it##.rtecenter
 ilsole24ore.com##.s24-abox
 genova24.it,ivg.it,lacnews24.it##.sb-banner
+siracusaoggi.it##.sbottom-wrapper
 matrimoniosolidale.it##.scegli-bomb-dx
 flashgames.it##.scheda_ppc
 puntocellulare.it##.schlnk
@@ -1099,6 +1100,7 @@ cosedicasa.com##.sidespot-wrapper
 calcioatalanta.it,calciocasteddu.it,calciocremonese.it,calciofere.it,calciogrifo.it,calciohellas.it,calciolecce.it,calciorosanero.it,calciospezia.it,forzamonza.it,forzaparma.it,labaricalcio.it,siamolaroma.it,sololalazio.it,tifocosenza.it,trapanigranata.it##.sihappy
 simonemaestri.com##.simone-grid-item
 manfredonianews.it##.single-box
+siracusaoggi.it##.sirac-widget
 fattoalatina.it##.site-heading-sidebar
 andreagaleazzi.com,animeclick.it,timinternet.it##.skin
 leccesette.it##.skin-desktop
@@ -1345,7 +1347,7 @@ ilgeniodellostreaming.gold##a[href*="/guarda-hd.php"]
 cineblog01.bid##a[href*="/guarda4k.php"]
 cineblog01.bid##a[href*="/guardafilm/"]
 eurostreaming.ca,eurostreaming.cam,filmsenzalimiti.bz,filmsenzalimiti.ink,guardaserie.eu,ilgeniodellostreaming.movie,ilgeniodellostreaming.xyz,piratestreaming.eu,tantifilm.link##a[href*="/hd/"]
-altomantovanonews.it,autobusweb.com,citynow.it,corriereromagna.it,firstonline.info,fortuneita.com,giornaledelcilento.it,iocaccio.it,lagenziadiviaggi.it,latinacorriere.it,latinaquotidiano.it,leggilanotizia.it,mantovasport24.it,mantovauno.it,oltrepomantovanonews.it,piuchepuoi.it,sprintesport.it,triesteallnews.it##a[href*="/linkout/"]
+altomantovanonews.it,autobusweb.com,citynow.it,corriereromagna.it,firstonline.info,fortuneita.com,giornaledelcilento.it,iocaccio.it,lagenziadiviaggi.it,latinacorriere.it,latinaquotidiano.it,leggilanotizia.it,mantovasport24.it,mantovauno.it,oltrepomantovanonews.it,piuchepuoi.it,siracusaoggi.it,sprintesport.it,triesteallnews.it##a[href*="/linkout/"]
 supercoin.it##a[href*="/out/"]
 cb01.band##a[href*="/pellicola/"]
 cineblog01.green,tantifilm.center##a[href*="/premium-download.php"]
