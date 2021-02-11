@@ -547,7 +547,7 @@ cremona1.it##.banner-inner
 universodelgioco.it##.banner-leaderboard
 italiafruit.net##.banner-m
 viversano.net##.banner-mid
-calcioitalia24.it##.banner-promotions-wrapper
+calabriareportage.it,calcioitalia24.it##.banner-promotions-wrapper
 radiotoscana.it##.banner-radio
 umbria24.it##.banner-show-desktop
 leccesette.it##.banner-side
@@ -1277,6 +1277,7 @@ scambiaricette.it##.widget_boodo_wp_300px
 wesud.it##.widget_idemedia_banner_widget
 dilei.it##.widget_promo_box_widget
 nursetimes.org##.widget_realty_widget
+calabriareportage.it##.widget_smartslider3
 radiodigione.net##.widget_ubm-banners-rotation
 vicenzanews.it##.wifiplaza
 tuttitalia.it##.wk
