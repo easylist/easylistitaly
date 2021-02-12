@@ -680,7 +680,8 @@ pneusnews.it##.boxes
 sscnapoli.it##.brand
 tvserial.it##.break-adv
 sora24.it##.breakingNews
-infomedianews.com##.bsaProContainerNew
+bznews24.it##.bsaProCarousel
+bznews24.it,infomedianews.com##.bsaProContainerNew
 123eurostreaming.fun,cbo1.dev,cineblog.download,eurostreaming3.pro,igds.pro,ilgeniodellostreaming9.pro##.btn-01
 123eurostreaming.fun,cbo1.dev,cineblog.download,eurostreaming3.pro,igds.pro,ilgeniodellostreaming9.pro##.btn-02
 tantifilm.center##.btn-d
