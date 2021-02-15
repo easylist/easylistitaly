@@ -625,6 +625,7 @@
 ||corr.it^*/140604438-23a465ab-697d-45ea-bf0f-58331110de97.jpg
 ||corr.it^*/170410275-c0437fd3-ff07-417e-9f75-8c3bc73c0f94.gif
 ||corr.it^*/170505433-e29559a8-aacb-4c4d-9437-1283a5223bdf.gif
+||correzioneonline.it/cnc/
 ||corriere.ca^*/Banners/
 ||corriere.it^*/adv/
 ||corriereal.info^*/728x60.gif
