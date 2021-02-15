@@ -631,7 +631,7 @@ nuovosud.it##.bg_skin
 libero.it##.big
 ilcaffe.tv##.big_box
 virtusverona.it##.bigbanner
-foodnetwork.it##.billboard
+foodnetwork.it,money.it##.billboard
 ludomedia.it##.blocchiPbi
 winenews.it##.blocco_banner_top
 zerounoweb.it##.blocco_primo_dfp
