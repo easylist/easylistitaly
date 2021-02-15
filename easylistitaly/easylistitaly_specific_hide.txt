@@ -799,6 +799,7 @@ twebnews.it##.elementor-main-swiper
 affaritaliani.it##.eni
 tuttitalia.it##.eo
 garganotv.com##.erzodfm-container
+meteofinanza.com##.etoro-social-widget
 exibart.com##.exibart-footer-partner
 exibart.com##.exibart-footer-partner-title
 pornototale.com##.exo_container_wrapper
@@ -1108,6 +1109,7 @@ siracusaoggi.it##.sirac-widget
 fattoalatina.it##.site-heading-sidebar
 andreagaleazzi.com,animeclick.it,timinternet.it##.skin
 leccesette.it##.skin-desktop
+meteofinanza.com##.skin-link
 digitalic.it##.skin_a_dx
 digitalic.it##.skin_a_sx
 cellulare-magazine.it,crotoneok.it##.skin_bg
@@ -1187,6 +1189,7 @@ calabria7.it,mbnews.it##.swiper-container
 magentanostra.it,onedance.fm,yesmagazine.it##.swiper-slide-inner
 luinonotizie.it##.swiper-wrapper
 radioblutoscana.it##.tab03
+meteofinanza.com##.tabella-migliori-broker
 criptovalute24.com,diventaretrader.com##.table-alm
 bottadiculo.it##.table3bonus
 bottadiculo.it##.table3bonus-side

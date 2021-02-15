@@ -188,6 +188,7 @@
 ##.center-adv
 ##.center-adv-news
 ##.cmt_bgadv
+##.content-adv-manager
 ##.cp_adv300x250
 ##.dads-lk
 ##.edSponsor
