@@ -1261,6 +1261,7 @@ pugliapress.org##.vc_carousel-inner
 abruzzoweb.it##.vc_column-inner
 uscatanzaro.net##.vce-featured-header-background
 pornoitaliano.com##.video-block-happy-absolute
+diventarehacker.it##.videocourseHeader
 larivieraonline.com##.view-Banners
 sportsondrio.it##.view-inserzioni-sponsorizzate
 vitatrentina.it##.vitat-testata-dx
@@ -1385,6 +1386,7 @@ corrierenazionale.it##a[href="http://www.herobet.it/"]
 comprovendolibri.it##a[href^="/conta.asp?"]
 skiresort.it##a[href^="/outbound/"]
 facciabuco.com##a[href^="/sprclick/"]
+diventarehacker.it##a[href^="http://diventarehackerblog.altervista.org/"]
 milanodabere.it##a[href^="http://ib.adnxs.com/clktrb?id="]
 juzaphoto.com,telefonino.net##a[href^="http://rover.ebay.com/"]
 gizchina.it##a[href^="http://shrsl.com/"]
