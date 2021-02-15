@@ -459,6 +459,9 @@
 ||carpifc.com^*/Givova_logo.png
 ||carpifc.com^*/Logo_Bper.png
 ||carraresecalcio.it^*-sponsor-
+||carteprepagate.org^*-300-animata.gif
+||carteprepagate.org^*/hype-300.png
+||carteprepagate.org^*/N26-300.gif
 ||casaeclima.com/js/banner.js
 ||casaeclima.com/js/manchette.js
 ||casaeclima.com/js/skin.js

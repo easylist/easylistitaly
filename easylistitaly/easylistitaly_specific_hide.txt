@@ -141,12 +141,12 @@ gufo.it###custom_html-10
 gufo.it###custom_html-11
 pistoiasport.com###custom_html-13
 giochi.com,nintendari.it###custom_html-17
-birramoriamoci.it,calciohellas.it,calciorosanero.it,card.it,italiaonline.news,sportnews.eu###custom_html-2
+birramoriamoci.it,calciohellas.it,calciorosanero.it,card.it,carteprepagate.org,italiaonline.news,sportnews.eu###custom_html-2
 tuttojuve24.it###custom_html-21
 dimagrireduepuntozero.com,strill.it###custom_html-25
 dimagrireduepuntozero.com###custom_html-27
 calcioatalanta.it,calciofere.it,calciogrifo.it,calciolecce.it,forzaparma.it,labaricalcio.it,siamolaroma.it,sololalazio.it,tifocosenza.it,trapanigranata.it###custom_html-3
-calciocasteddu.it###custom_html-4
+calciocasteddu.it,carteprepagate.org###custom_html-4
 calcioitalia24.it,italiaonline.news,melarossa.it###custom_html-5
 calcioitalia24.it,it-casinoonline.com,pentanewslivorno.it###custom_html-6
 strill.it###custom_html-65
@@ -706,6 +706,7 @@ sitiscommesse.com##.bwin
 empolifc.com##.c-footer__sponsors-container
 meteo.tiscali.it##.c1c3
 tuttoandroid.net##.card
+carteprepagate.org##.carte-post-1
 catanzaro7.net##.catan-nellarticolo
 quotidianopiemontese.it##.category-redazionale
 leggere-facile.it##.cb-large
@@ -1574,7 +1575,7 @@ liratv.it##img[width="1600"][height="533"]
 sulpanaro.net##img[width="250"][height="250"]
 forum.passioneauto.it##img[width="300"][height="100"]
 radioinblu.it,tv2000.it##img[width="300"][height="200"]
-0-100.it,beverfood.com,calabria7.it,finanzareport.it,fiorentinanews.com,larampa.it,lattemiele.com,radioinblu.it##img[width="300"][height="250"]
+0-100.it,beverfood.com,calabria7.it,carteprepagate.org,finanzareport.it,fiorentinanews.com,larampa.it,lattemiele.com,radioinblu.it##img[width="300"][height="250"]
 umbriaoggi.news##img[width="300"][height="252"]
 umbriaoggi.news##img[width="300"][height="289"]
 it-casinoonline.com,toscanatv.it##img[width="300"][height="300"]
