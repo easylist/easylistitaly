@@ -916,6 +916,7 @@ pensieriparole.it##.latspot
 flashscore.it##.lb-strip-9
 blog.libero.it,blog.virgilio.it##.lb_hook1
 blog.libero.it,blog.virgilio.it##.lb_hook2
+convertire-documenti.it##.lead-responsive
 ilgallo.it##.leader-board
 close-up.it,foodweb.it,meteovista.it,pneusnews.it,prealpina.it,ridble.com,today.it,ultimenotizieflash.com##.leaderboard
 blastingnews.com##.leaderboard-article
@@ -1479,6 +1480,7 @@ stadionews.it##div[style="margin-top: 3px; border: 0px solid #000; width: 300px;
 affaritaliani.it##div[style="margin-top: 5px; margin-bottom: 5px; border: 1px solid rgb(0, 0, 0); margin-right: -2px;height:250px;"]
 stadionews.it##div[style="margin-top:0px;display:block;min-height:90px;"]
 affaritaliani.it##div[style="margin-top:10px;height:90px"]
+convertire-documenti.it##div[style="margin-top:10px;min-height:250px"]
 stadionews.it##div[style="margin-top:20px; margin-bottom:10px; float:left; margin-right:10px; width: 300px; height: 250px;"]
 sicilianews24.it##div[style="margin-top:20px; margin-bottom:10px; float:left; margin-right:10px; width: 300px; height: 540px !important;"]
 affaritaliani.it##div[style="margin-top:6px;margin-bottom:10px;padding: 9px; border: 1px solid #ccc; zoom:1;overflow:hidden;height:80px;width:280px;font: normal 12px/14px arial, sans-serif"]
