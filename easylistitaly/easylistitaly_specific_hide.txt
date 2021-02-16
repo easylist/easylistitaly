@@ -327,6 +327,7 @@ telegolfo.com###super_rss_reader-7
 mondodelgusto.it###super_sx
 diretta.it###tab-bonus-offers
 diretta.it###tab-odds
+geologi.it###table113
 gamesvillage.it###takeover_gv
 radioluna.it###testata
 lol-esports.it###text-11
