@@ -1355,6 +1355,8 @@
 ||lanotiziaquotidiana.it^*/Senza-nome.jpg
 ||lanotiziaquotidiana.it^*banner
 ||lantidiplomatico.it/img/coupon.png
+||lantidiplomatico.it/public/chinabestprices.jpg
+||lantidiplomatico.it/public/Senza%20nome192.png
 ||lanuova.net^*/sansone-_
 ||lanuovacalabria.it^*/banner/
 ||lapressa.it/sponsors/

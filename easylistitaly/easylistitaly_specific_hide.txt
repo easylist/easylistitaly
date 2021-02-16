@@ -641,6 +641,7 @@ california.it##.block-13
 lavitacattolica.it##.block-banners
 mediaworld.it##.block-mw-external-banner
 ilroma.net##.block-rotating-banner
+lantidiplomatico.it##.block-wrapper-banner
 pourfemme.it,punto-informatico.it,telefonino.net##.blz-url
 stateofmind.it##.bnn-fullwidth
 abcsalute.it##.bnner_container
@@ -1279,7 +1280,7 @@ spettegolando.it##.wf-widget-container
 wired.it##.wia
 sportando.basketball##.widget > a[rel="noopener"]
 esportsonline.it##.widget-above-header
-ideeregaloper.it##.widget-banner
+ideeregaloper.it,lantidiplomatico.it##.widget-banner
 it.businessinsider.com##.widget-financialounge
 fashionandroid.com##.widget-header
 gelocal.it,ilsecoloxix.it,lastampa.it,repubblica.it##.widget-sponsor--container
