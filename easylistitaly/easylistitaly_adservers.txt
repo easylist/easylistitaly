@@ -56,6 +56,7 @@
 ||gbucket.ch^$third-party
 ||hbagency.it^$third-party
 ||hubaffiliations.net^$third-party
+||husfly.com^$third-party
 ||inaffiliago.it^$third-party
 ||ioladv.it^$third-party
 ||iperbanner.com^$third-party
