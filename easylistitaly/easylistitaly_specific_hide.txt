@@ -16,6 +16,7 @@ catt.ch###advertising
 casasuper.it###ai_widget-11
 casasuper.it###ai_widget-5
 casasuper.it###ai_widget-7
+amazon.it###ape_Detail_ad-endcap-1_Glance_placement
 amazon.it###ape_detail_btf_detail-mWeb_wrapper
 amazon.it###ape_detail_mobile-hero-quick-promo_mweb_wrapper
 amazon.it###ape_search_btf_search-mWeb_wrapper
@@ -190,6 +191,7 @@ torinofc.it###headerSpazioSponsorLoghi
 dirittoegiustizia.it###header_giu_banner_dx
 sienafree.it###headerbanner
 blog.ilgiornale.it###headerleader
+amazon.it###heroQuickPromo_feature_div
 agriturismo.it###home-banner
 rovigooggi.it###home-closeup-space
 rovigooggi.it###home-pbreak-space
@@ -1089,6 +1091,7 @@ cliccascienze.it##.rtecenter
 ilsole24ore.com##.s24-abox
 genova24.it,ivg.it,lacnews24.it##.sb-banner
 siracusaoggi.it##.sbottom-wrapper
+amazon.it##.sbv-video-single-product
 matrimoniosolidale.it##.scegli-bomb-dx
 flashgames.it##.scheda_ppc
 puntocellulare.it##.schlnk
@@ -1433,6 +1436,9 @@ mobileworld.it##a[style="background-color: #fe8774; padding: 10px; border: none;
 androidworld.it##a[style="background-color: #ff9900; padding: 10px; border: none; text-align: center; text-decoration: none; font-size: 18px; width: 200px; font-weight: bold; border-radius: 10px; color: white;"]
 amica.it##a[style="width: 300px;display: block;z-index: 999999;height: 268px;position: absolute;top: 0;left: 0;"]
 genoanews1893.it##div[astyle="text-align: center; width: 336px; height: 280px; padding: 3px 0px 3px 0px;"]
+amazon.it##div[cel_widget_id*="_SponsoredProducts"]
+amazon.it##div[cel_widget_id*="_ad-placements-"]
+amazon.it##div[cel_widget_id="desktop-dp-sims_sb-dp-id"]
 acffiorentina.com,acmilan.com##div[class^="Partners_"]
 lavorincasa.it##div[class^="large-leaderboard"]
 lavorincasa.it##div[class^="medium-rectangle"]
@@ -1446,6 +1452,7 @@ lavorincasa.it##div[class^="wrapper-banner-infobanner-large"]
 lavorincasa.it##div[class^="wrapper-banner-large-leaderboard"]
 lavorincasa.it##div[class^="wrapper-banner-medium-rectangle"]
 lavorincasa.it##div[class^="wrapper-banner-wallpaper"]
+amazon.it##div[data-ad-id]
 stilenaturale.com##div[id="Banner_BIOOFFERTA"]
 alvolante.it##div[id^="dfp-alv-slot"]
 nationalgeographic.it##div[id^="gpt-"]
@@ -1606,6 +1613,8 @@ news-town.it##li[style="margin: 0 0px 0px 0 !important; height: 220px; width: 30
 sportevai.it##p[style="margin-top: 30px; border: 1px solid #0D8600; padding: 10px; font-weight: bold; font-size: 12px; text-align: center;"]
 sportevai.it##p[style="margin-top: 30px; border: 1px solid #0D8600; padding: 10px; font-weight: bold; text-align: center;"]
 livornolive.it##rs-mask-wrap[style="width: 100% !important; height: 100% !important; position: absolute; display: block; overflow: visible;"]
+amazon.it##span[cel_widget_id="MAIN-CARDS-0"]
+amazon.it##span[class*="widgetId=loom-desktop-brand-footer-slot_hsa-id"]
 bloopers.it##table[name="banner.tbl"]
 ilcaso.it##td[style="border-left: 0px solid rgb(192, 192, 192); border-top-width: 1px; border-bottom-width: 1px;"]
 ! Advanced element hiding rules for Adblock Plus
