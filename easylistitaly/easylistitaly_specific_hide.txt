@@ -290,7 +290,7 @@ calabria7.it###sgpb-popup-dialog-main-div
 eurogamer.it###sidebar_amazon
 vienormali.it###site-header-banner
 vienormali.it###site-header-leaderboard
-epolisbari.com,marigliano.net###skin
+epolisbari.com,marigliano.net,tuttosport.com###skin
 iovivoaroma.org###skin_link_dx
 iovivoaroma.org###skin_link_sx
 cronacheancona.it,cronachefermane.it,cronachemaceratesi.it###skinabove

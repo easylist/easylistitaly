@@ -1,4 +1,5 @@
 @@||adnkronos.com/ign/mediacenter/fotogallery/data_01/img/ad_
+@@||adsafeprotected.com/vans-adapter-google-ima.js$script,domain=tuttosport.com
 @@||adserver.adtech.de/addyn/3.0/1183/3769607/0/170/ADTECH;$script,domain=gioco.it
 @@||adswizz.com/adswizz/js/SynchroClient2.js?$domain=105.net|r101.it|radiomontecarlo.net|virginradio.it
 @@||adultsadv.com/etero/random730_90.php$domain=mrjizz.com|pornotubo.it
@@ -21,10 +22,11 @@
 @@||digitaleterrestrefacile.it/detroitchicago/dayton.js?
 @@||dincontri.com/ads/galleries/crops/$image,~third-party
 @@||dotandad.com/TiscaliAds.js$domain=ansa.it
+@@||doubleclick.net/gpt/pubads_impl_$script,domain=agi.it|tuttosport.com
 @@||foolbite.com/foolbite/*_pubblicita_$~third-party
 @@||forebase.com/plugin/*/images/ads/$image
 @@||forebase.com/plugin/ads.htm?$subdocument
-@@||g.doubleclick.net/gpt/pubads_impl_$script,domain=agi.it
+@@||g.doubleclick.net/tag/js/gpt.js$script,domain=tuttosport.com
 @@||gelocal.it/adimages/
 @@||google.com/adsense/$subdocument,domain=sedo.ch|sedo.it
 @@||ilparking-moto.it/images/flag/gif/ad.gif
