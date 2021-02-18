@@ -34,7 +34,7 @@ brocardi.it###background-head-spacer
 brindisisettenews.it###background_body
 beverfood.com###backy
 rimini.com###bann-top-dx
-daneel59.altervista.org,ilmioip.it,superwheels.net###banner
+daneel59.altervista.org,ilmioip.it,metanogpl.it,superwheels.net###banner
 bresciaoggi.it,ilgiornaledivicenza.it,larena.it###banner-autodoc
 torinonews24.it###banner-bottom
 veneziafc.it###banner-box-up
@@ -613,7 +613,7 @@ brindisisera.it##.banner_wide_box
 corriereal.info##.banner_wrapper
 brindisisera.it##.bannerbox
 treccani.it##.bannercontainer
-105tv.it,aostaoggi.it,faidatehobby.it,giornaledimontesilvano.com,ilgazzettinobr.it,ilgrigioneitaliano.ch,kisskiss.it,kisskissitalia.it,kisskissnapoli.it,lametino.it,maremmanews.it,qdpnews.it,sienafree.it,umbriatv.com,videomediterraneo.it,youtg.net##.bannergroup
+105tv.it,aostaoggi.it,faidatehobby.it,giornaledimontesilvano.com,ilgazzettinobr.it,ilgrigioneitaliano.ch,kisskiss.it,kisskissitalia.it,kisskissnapoli.it,lametino.it,maremmanews.it,metanogpl.it,qdpnews.it,sienafree.it,umbriatv.com,videomediterraneo.it,youtg.net##.bannergroup
 radiogold.it##.bannergroupskin-banner-module
 saturnonotizie.it##.bannerheader
 prezzifarmaco.it##.bannernativo

@@ -1588,6 +1588,7 @@
 ||messinaweb.tv^*/ricambi-24-
 ||metalgermania.it^*/merchandising-
 ||metallized.it/banner/
+||metanogpl.it/images/banners/
 ||meteoaquilano.it/images/Banner
 ||meteoaquilano.it/images/logo_
 ||meteoaquilano.it/images/Nuovo_Banner_
