@@ -2215,6 +2215,8 @@
 ||savonanews.it^*/banner/
 ||savonanews.it^*/box/
 ||scaccoweb.it/images/banners/
+||scattidigusto.it^*/d2-abbigliamento-
+||scattidigusto.it^*/mulino-caputo-
 ||sciscianonotizie.it^*/ALLOCCALEGALE.jpg
 ||sciscianonotizie.it^*/LAVILLETTA.jpg
 ||sciscianonotizie.it^*/LAVILLETTABB-1-300x191.jpg
