@@ -1240,6 +1240,7 @@ bluerating.com##.the_big_banner
 87tv.it,meteogiornale.it,pianetadonne.blog,quizammissione.it##.theiaStickySidebar
 caleno24ore.it##.themequote
 amazon.it##.threepsl-creatives
+tiscali.it##.tiscali-shp-dayblk
 tiscali.it##.tiscali-shp-dayoff
 tmnotizie.com##.tmnot-dopo-il-contenuto
 tmnotizie.com##.tmnot-inserito-nel-contenuto
