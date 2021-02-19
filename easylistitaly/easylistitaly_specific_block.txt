@@ -1409,6 +1409,7 @@
 ||lecconotizie.com^*/LN_elettrasystem-
 ||leccoonline.com/public/banner/
 ||left.it/wp-content/uploads/banners/
+||left.it^*-banners-
 ||legab.it^*/sponsor/
 ||leganavalenews.it^*/banners/
 ||legavolleyfemminile.it^*/MGS_
