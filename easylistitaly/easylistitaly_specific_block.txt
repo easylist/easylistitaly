@@ -2804,6 +2804,7 @@
 ||vispesaro1898.it^*/tommasucci-
 ||vistanet.it^*_BANNER_
 ||vitadamamma.com^*/adv/
+||vitaminanews.it^*-banner-
 ||vitatrentina.it^*-banner.
 ||vitatrentina.it^*_150x90px_
 ||viterbonews24.it/gesBanner/

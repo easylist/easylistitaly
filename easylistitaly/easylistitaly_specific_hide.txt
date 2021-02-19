@@ -154,7 +154,7 @@ calcioitalia24.it,italiaonline.news,mam-e.it,melarossa.it###custom_html-5
 calcioitalia24.it,it-casinoonline.com,pentanewslivorno.it###custom_html-6
 strill.it###custom_html-65
 calcioitalia24.it,pistoiasport.com###custom_html-7
-calcioitalia24.it,corrierequotidiano.it###custom_html-8
+calcioitalia24.it,corrierequotidiano.it,vitaminanews.it###custom_html-8
 scrivolibero.it,viaggiallafinedelmondo.it###custom_html-9
 amazon.it###detailILM_feature_div
 trueriders.it###div-TRD_MPU_CONT
