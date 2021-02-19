@@ -765,6 +765,7 @@ odontoiatria33.it##.corso-box
 cineblog01.love,circorfei.it##.cover-button
 giochi.it##.cpx-content
 ilmeteo.net##.creatividad
+mowmag.com##.crm-sticky-parent
 automoto.it,moto.it##.crm-unit-bx1
 automoto.it,moto.it##.crm-unit-bx2
 automoto.it,moto.it##.crm-unit-bx3
