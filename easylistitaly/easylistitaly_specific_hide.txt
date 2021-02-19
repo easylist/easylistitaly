@@ -308,6 +308,7 @@ meteofinanza.com###snp-pop-20588-overlay
 3bmeteo.com###sole24_banner
 casateonline.it,merateonline.it###sottotestata
 agendapolitica.it###sow-editor-3
+dazebaonews.it###sp-bottom
 lnd.it###sp-sponsor
 aziendabanca.it###sp-top-banner
 reggina1914.it###sponsor
