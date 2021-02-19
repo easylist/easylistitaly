@@ -56,6 +56,8 @@ camperlife.it###banner_3
 ondarock.it###banner_300x250
 ondarock.it###banner_300x250_slot3
 ondarock.it###banner_300x250_slot4
+finestresullarte.info###banner_8_div
+finestresullarte.info###banner_9_div
 contosulconto.it###banner_content
 vocidicitta.it###banner_footer_728
 cronachedibirra.it###banner_in-article
@@ -214,7 +216,8 @@ pupia.tv###leader-left2
 espansionetv.it,torrechannel.it###leader-wrapper
 avmagazine.it,bisceglielive.it,cronachedibirra.it,dissacration.com,eurogamer.it,fiscaleweb.com,gingerandtomato.com,ilcinemaniaco.com,iochiamo.com,lussuosissimo.com,medicinalive.com,mondoreality.com,mrwebmaster.it,musickr.it,skiinfo.ch,skiinfo.it###leaderboard
 altreconomia.it###leaderboard-top
-forum.tomshw.it###leaderboard1
+finestresullarte.info,forum.tomshw.it###leaderboard1
+finestresullarte.info###leaderboard2
 saperesalute.it###leaderboardBox
 casa.it###leaderboard_footer
 corrieredellosport.it,tuttosport.com###leaderboard_top
@@ -295,7 +298,7 @@ iovivoaroma.org###skin_link_dx
 iovivoaroma.org###skin_link_sx
 cronacheancona.it,cronachefermane.it,cronachemaceratesi.it###skinabove
 emiliagol.it###skinclick
-buongiornoalghero.it,freeonline.org,itvonline.news,lospiffero.com,planetmountain.com,primapress.it,salernonotizie.it,torresette.news###skinlink
+buongiornoalghero.it,finestresullarte.info,freeonline.org,itvonline.news,lospiffero.com,planetmountain.com,primapress.it,salernonotizie.it,torresette.news###skinlink
 gamereactor.it###sky
 bisceglielive.it,eurogamer.it,gommadiretto.it###skyscraper
 amaranta.it,firenzeviola.it,grigionline.com,lalaziosiamonoi.it,parmalive.com,sassuolonews.net,torinogranata.it,tuttofrosinone.com,tuttojuvestabia.it,tuttonapoli.net,vocegiallorossa.it###slimbanner
@@ -785,6 +788,7 @@ laleggepertutti.it##.div_topbanner
 ridble.com##.dn
 casacinema.work,casacinema01.club,filmsenzalimiti01.online,ilgeniodellostreaming.icu,italiafilm.casa,tantifilm-ita.com,tantifilm-ita.it,tantifilm.cool,tantifilm.surf,tantifilm.work##.download-links
 bolzano-bozen.it##.dt
+finestresullarte.info##.dx250
 cronachedibirra.it##.e3lan125
 ilpaesenuovo.it##.e3lanat-layout-rotator
 evosmart.it,pc-gaming.it,stile.it##.egg-container

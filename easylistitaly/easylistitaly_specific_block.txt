@@ -526,6 +526,7 @@
 ||cb01.support/4k/
 ||cb01.wales/imgc/b_
 ||cb01.wales/imgc/side/s_
+||cdn77.org/banner/$domain=finestresullarte.info
 ||centotrentuno.com/wp-content/banners/
 ||centropagina.it^*-BANNER-
 ||centropagina.it^*-LEAD-
