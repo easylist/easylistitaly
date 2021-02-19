@@ -150,7 +150,7 @@ dimagrireduepuntozero.com,strill.it###custom_html-25
 dimagrireduepuntozero.com###custom_html-27
 calcioatalanta.it,calciofere.it,calciogrifo.it,calciolecce.it,forzaparma.it,labaricalcio.it,siamolaroma.it,sololalazio.it,tifocosenza.it,trapanigranata.it###custom_html-3
 calciocasteddu.it,carteprepagate.org###custom_html-4
-calcioitalia24.it,italiaonline.news,melarossa.it###custom_html-5
+calcioitalia24.it,italiaonline.news,mam-e.it,melarossa.it###custom_html-5
 calcioitalia24.it,it-casinoonline.com,pentanewslivorno.it###custom_html-6
 strill.it###custom_html-65
 calcioitalia24.it,pistoiasport.com###custom_html-7
@@ -250,7 +250,7 @@ advister.it###media_image-44
 giornalistitalia.it,it-casinoonline.com###media_image-5
 giornalistitalia.it###media_image-6
 cataniaunafede.it###media_image-7
-giornalistitalia.it,italiaonline.news###media_image-8
+giornalistitalia.it,italiaonline.news,mam-e.it###media_image-8
 umbriajournal.com###mh_magazine_custom_posts-17
 catanzaro7.net###mh_magazine_youtube-3
 mymovies.it###middle1_companion
