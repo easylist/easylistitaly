@@ -22,6 +22,7 @@
 ||atomikecn.nohup.it^$third-party
 ||autocrocetta.com^$domain=quotidianocanavese.it
 ||autostima.net/partner/
+||babbano.com^*/babbano.png$third-party
 ||banner-madai-com.s3.amazonaws.com^
 ||bazarcoupon.com/images/$third-party
 ||bellicapelliforum.com^$domain=forumfree.it
