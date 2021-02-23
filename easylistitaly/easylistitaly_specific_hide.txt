@@ -28,7 +28,7 @@ altarimini.it###attivitaEvidenza
 eurogamer.it###auto-amazon-link
 gnoccatravels.com###b-nner-right-list
 libero.it###b468x60bottoms
-10cose.it###b_searchboxInc
+10cose.it,scorcidimondo.it###b_searchboxInc
 bazar.it###background
 brocardi.it###background-head-spacer
 brindisisettenews.it###background_body
