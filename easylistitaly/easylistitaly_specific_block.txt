@@ -1831,6 +1831,7 @@
 ||passioneauto.it^*/banner-
 ||passioneauto.it^*/pezzidiricambio24_
 ||passionemaglie.it^*/banner-
+||pc-gaming.it^*=aa-server-
 ||perotorino.it/images/banners/
 ||pescaralive.it^*/480x400-
 ||pescaralive.it^*/banner-
