@@ -880,6 +880,7 @@
 ||galluratvlive.com^*/dettorimarket.jpg
 ||galluratvlive.com^*/stel-srl-
 ||game-experience.it^*/BANNER-
+||gamelegends.it^*/instant-gaming-
 ||gamesoul.it^*/skin-
 ||gamesvillage.it/ajax.php?do=gv_amazon_page&
 ||gamingtoday.it^*/Banner-
