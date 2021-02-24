@@ -42,6 +42,7 @@
 ||adnkronos.com^*/Promo/
 ||affaritaliani.it/includes/files/affari/
 ||affaritaliani.it/mutuionline/imgmol/
+||affaritaliani.it^*/bann/
 ||affaritaliani.it^*/case/
 ||affaritaliani.it^*/dott/
 ||affaritaliani.it^*/eni-/
@@ -50,6 +51,7 @@
 ||affaritaliani.it^*/immobiliare/
 ||affaritaliani.it^*/luxu/
 ||affaritaliani.it^*/pron/
+||affaritaliani.it^*_banner_
 ||agcult.it/files/banner/
 ||agendapolitica.it^*/500xagenda.jpg
 ||agendapolitica.it^*/Alfa-Romeo-interno-articolo-
