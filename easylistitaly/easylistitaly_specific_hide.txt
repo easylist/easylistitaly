@@ -1241,7 +1241,7 @@ annunci69.it##.testoracc2
 teleaesse.it##.text-left
 teleaesse.it##.text-right
 bluerating.com##.the_big_banner
-87tv.it,meteogiornale.it,pianetadonne.blog,quizammissione.it##.theiaStickySidebar
+87tv.it,ilfattoalimentare.it,meteogiornale.it,pianetadonne.blog,quizammissione.it##.theiaStickySidebar
 caleno24ore.it##.themequote
 amazon.it##.threepsl-creatives
 tiscali.it##.tiscali-shp-dayblk
