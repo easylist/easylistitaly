@@ -2811,6 +2811,7 @@
 ||vispesaro1898.it^*/logo-de-filippis.jpg
 ||vispesaro1898.it^*/tecnoplast-
 ||vispesaro1898.it^*/tommasucci-
+||vistanet.it/*clienti_adv.js$script
 ||vistanet.it^*_BANNER_
 ||vitadamamma.com^*/adv/
 ||vitaminanews.it^*-banner-
