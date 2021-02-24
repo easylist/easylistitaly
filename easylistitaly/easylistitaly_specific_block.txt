@@ -32,6 +32,7 @@
 ||abruzzoweb.it^*/banner-
 ||acquariofilia.biz/banner/
 ||acquariofilia.biz/images/banner/
+||acquariofiliaconsapevole.info^*/banner/
 ||acquariofiliaitalia.it^*/aziende/
 ||acrenate.it^*/sponsor_
 ||acspezia.com^*/sponsors/
