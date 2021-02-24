@@ -148,7 +148,7 @@ birramoriamoci.it,calciohellas.it,calciorosanero.it,card.it,carteprepagate.org,i
 tuttojuve24.it###custom_html-21
 dimagrireduepuntozero.com,strill.it###custom_html-25
 dimagrireduepuntozero.com###custom_html-27
-calcioatalanta.it,calciofere.it,calciogrifo.it,calciolecce.it,forzaparma.it,labaricalcio.it,siamolaroma.it,sololalazio.it,tifocosenza.it,trapanigranata.it###custom_html-3
+calcioatalanta.it,calciofere.it,calciogrifo.it,calciolecce.it,forzaparma.it,labaricalcio.it,quizlab.it,siamolaroma.it,sololalazio.it,tifocosenza.it,trapanigranata.it###custom_html-3
 calciocasteddu.it,carteprepagate.org###custom_html-4
 calcioitalia24.it,italiaonline.news,mam-e.it,melarossa.it###custom_html-5
 calcioitalia24.it,it-casinoonline.com,pentanewslivorno.it###custom_html-6
