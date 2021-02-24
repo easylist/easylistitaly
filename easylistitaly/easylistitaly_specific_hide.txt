@@ -284,6 +284,10 @@ eurogamer.it###prod-buy
 estrazionedellotto.it###promobanner
 flashgames.it###pub_sotto
 tuttitalia.it###qh
+cosenostre-online.it###rev_slider_4_1_wrapper
+cosenostre-online.it###rev_slider_4_5_wrapper
+cosenostre-online.it###rev_slider_4_6_wrapper
+cosenostre-online.it###rev_slider_6_7_wrapper
 odontoiatria33.it###rowHeader
 skylinewebcams.com###rpc
 alwaysonboard.it###sab_content
