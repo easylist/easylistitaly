@@ -370,6 +370,7 @@ solorecensioni.com,telemia.it###text-9
 faidatecasa.com###tm-main-top
 certificatejournal.it,finanza.com###top-banner
 calciomercato.com,sposa.it###top-banner-container
+tastoeffeuno.it###top100
 hwupgrade.it###top300x250-background
 hwupgrade.it###top300x250-container
 corriere.it###topXcoupon
