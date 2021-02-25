@@ -127,6 +127,7 @@ aquilabasket.it###clickit
 acquariofilia.biz###collapseobj_sidebar_google
 matrimoniosolidale.it###confetti-bomb
 autoscout24.it###conmon-header-stage
+tvzap.kataweb.it###consigli
 affaritaliani.it###consigliati-giochi2
 virgilio.it###cont-leaderboard
 virgilio.it###cont-manchette
