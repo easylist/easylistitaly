@@ -998,7 +998,7 @@ acquavivalive.it,altamuralive.it,andrialive.it,barilive.it,barlettalive.it,bisce
 acquavivalive.it,altamuralive.it,andrialive.it,barilive.it,barlettalive.it,bisceglielive.it,bitontolive.it,canosalive.com,cassanolive.it,coratolive.it,fasanolive.com,gioialive.it,giovinazzolive.it,gravinalive.it,margheritalive.it,minervinolive.it,molfettalive.it,ruvolive.it,santeramolive.it,terlizzilive.it,tranilive.it##.mkt-editorial
 telelazionord.it##.mom-e3lanat-inner
 nospoiler.it##.movie__intro-channels
-boingtv.it,eurogamer.it,foodnetwork.it,gioco.it##.mpu
+boingtv.it,eurogamer.it,foodnetwork.it,gioco.it,morningstar.it##.mpu
 stellafm.it##.ms-slide-link
 affaritaliani.it##.mutui
 cb001.xyz##.mvic-btn
