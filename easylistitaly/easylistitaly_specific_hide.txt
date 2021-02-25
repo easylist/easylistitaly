@@ -1311,7 +1311,7 @@ newsly.it,stampante-3d.net##.widget_aawp_widget_box
 yoga-magazine.it##.widget_alobaidirandombannerswidget
 scambiaricette.it##.widget_boodo_wp_300px
 wesud.it##.widget_idemedia_banner_widget
-dilei.it##.widget_promo_box_widget
+dilei.it,quifinanza.it##.widget_promo_box_widget
 nursetimes.org##.widget_realty_widget
 calabriareportage.it##.widget_smartslider3
 radiodigione.net##.widget_ubm-banners-rotation
