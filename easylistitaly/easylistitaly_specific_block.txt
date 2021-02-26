@@ -1019,6 +1019,7 @@
 ||gonews.it^*/Istituto_Tecnico_Cattaneo_
 ||gonews.it^*/Servizio_Civile_gen21-
 ||gonews.it^*_Banner-
+||grandangoloagrigento.it^*/350x350-
 ||gratisfree.it/cgi-bin/bannergest$script
 ||greenews.info/wp-content/banners/
 ||greenretail.it^*/LAND-
