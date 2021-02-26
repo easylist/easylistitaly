@@ -29,7 +29,7 @@ eurogamer.it###auto-amazon-link
 gnoccatravels.com###b-nner-right-list
 libero.it###b468x60bottoms
 10cose.it,scorcidimondo.it###b_searchboxInc
-,bazar.it,ingenio-web.it,pavimenti-web.it###background
+bazar.it,inconcreto.net,ingenio-web.it,pavimenti-web.it###background
 brocardi.it###background-head-spacer
 brindisisettenews.it###background_body
 beverfood.com###backy
@@ -1478,7 +1478,7 @@ lavorincasa.it##div[class^="wrapper-banner-medium-rectangle"]
 lavorincasa.it##div[class^="wrapper-banner-wallpaper"]
 amazon.it##div[data-ad-id]
 stilenaturale.com##div[id="Banner_BIOOFFERTA"]
-ingenio-web.it,pavimenti-web.it##div[id^="Banner"]
+inconcreto.net,ingenio-web.it,pavimenti-web.it##div[id^="Banner"]
 alvolante.it##div[id^="dfp-alv-slot"]
 nationalgeographic.it##div[id^="gpt-"]
 ebikecult.it,mtbcult.it##div[id^="mtbcu-"]
