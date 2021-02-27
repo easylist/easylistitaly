@@ -243,7 +243,7 @@ stadionews.it###manchette_sx_container
 dailybest.it,forum.tomshw.it,leonardo.it,politicanews.it,ricettedalmondo.it###masthead
 matematicamente.it###masthead-desktop-wrapper
 ondarock.it###masthead_or
-chepreparo.it,it-casinoonline.com###media_image-2
+chepreparo.it,ilgazzettinodisicilia.it,it-casinoonline.com###media_image-2
 corriereelorino.it,tecnofacile.com###media_image-3
 altropensiero.net,corriereelorino.it,it-casinoonline.com,italiaonline.news###media_image-4
 staynerd.com###media_image-40
