@@ -1069,6 +1069,11 @@
 ||hobbyquotidiano.com^*/amazon_
 ||hovogliadidolce.it^*/banner-
 ||html.it^*/banner/
+||hwreload.com/img/alphacool_logo.gif
+||hwreload.com/img/arctic_logo.gif
+||hwreload.com/img/icydock_logo.gif
+||hwreload.com/img/orico_logo.gif
+||hwreload.com/img/sharkoon_logo.gif
 ||hwreload.it^*/alphacool.gif
 ||hwreload.it^*/orico.gif
 ||hwreload.it^*/sharkoon.gif
