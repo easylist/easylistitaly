@@ -304,7 +304,7 @@ iovivoaroma.org###skin_link_sx
 cronacheancona.it,cronachefermane.it,cronachemaceratesi.it###skinabove
 emiliagol.it###skinclick
 buongiornoalghero.it,finestresullarte.info,freeonline.org,itvonline.news,lospiffero.com,planetmountain.com,primapress.it,salernonotizie.it,torresette.news###skinlink
-gamereactor.it###sky
+balarm.it,gamereactor.it###sky
 gamereactor.it###sky2_1
 bisceglielive.it,eurogamer.it,gommadiretto.it###skyscraper
 amaranta.it,firenzeviola.it,grigionline.com,lalaziosiamonoi.it,parmalive.com,sassuolonews.net,torinogranata.it,tuttofrosinone.com,tuttojuvestabia.it,tuttonapoli.net,vocegiallorossa.it###slimbanner
@@ -531,6 +531,7 @@ gnoccatravels.com##.bacheca-incontri-b-nner
 quotidianodellumbria.it##.back
 strill.it##.background-cover
 avmagazine.it##.background-link
+balarm.it##.balarm_adv
 oggitreviso.it##.ban
 oggitreviso.it##.ban1
 archzine.it##.banTitle
@@ -682,6 +683,7 @@ centropagina.it##.box-b
 archilovers.com,difesaonline.it,tempoitalia.it##.box-banner
 cucchiaio.it##.box-banner-hp-dx
 agrodolce.it##.box-desktop-side-top_container
+balarm.it##.box-evidenza
 meteogiornale.it##.box-sn
 trend-online.com##.box-special
 tvserial.it##.box-verticale-home
@@ -946,6 +948,7 @@ laleggepertutti.it##.lexdo-banner
 laleggepertutti.it##.lexdo-llpt
 top10cose.it##.link-affiliazione
 business24tv.it##.link-at-body
+balarm.it##.link-skin
 monitorimmobiliare.it,winenews.it##.link_skin
 skillandbet.com##.list-unstyled
 diretta.it##.live-betting-strip

@@ -332,6 +332,7 @@
 ||b-cdn.net^*_300x200.$domain=pc-gaming.it
 ||badtaste.it/file/amazon/
 ||balarm.it/attachment-web/
+||balarm.it^*-skin-
 ||basilicatanotizie.net/images/banners/
 ||basilicatanotizie.net^*/background-
 ||basketfemminilebiellese.altervista.org^*/Sponsor/
