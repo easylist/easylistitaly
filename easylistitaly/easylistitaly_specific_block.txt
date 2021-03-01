@@ -533,6 +533,8 @@
 ||cb01.solutions/imgc/b_
 ||cb01.solutions/imgc/side/s_
 ||cb01.support/4k/
+||cb01.vin/imgc/b_
+||cb01.vin/imgc/side/s_
 ||cb01.wales/imgc/b_
 ||cb01.wales/imgc/side/s_
 ||cdn77.org/banner/$domain=finestresullarte.info
