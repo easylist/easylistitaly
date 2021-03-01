@@ -1031,6 +1031,7 @@ tuttitalia.it##.oe
 esportsonline.it##.oe-wrapper
 techzilla.it##.offerta-img-box
 prezzisalute.com##.offerte
+machineseeker.it##.ofni
 lamilano.it##.olvu
 milanocam.it##.overcam_advertising
 meteofinanza.com##.overlay-buttons
