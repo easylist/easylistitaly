@@ -1781,6 +1781,8 @@
 ||occhisusalerno.it^*/1fcde18f59c92660df0192c1272b47bb/
 ||oggicronaca.it/cinema/xmegaplex.
 ||ogginotizie.it^*/666.jpg
+||ogginotizie.it^*/CASCINA_page-0001-scaled.jpg
+||ogginotizie.it^*/logo-trasparente.png
 ||ogginotizie.it^*/MULTI_page-0001-
 ||oggiroma.it/public/banner/
 ||oggitreviso.it^*/390x90.jpg
