@@ -66,6 +66,7 @@
 ||agraria.org/immagini/banner/
 ||agrigentonotizie.it/images/skin/
 ||agrigentooggi.it^*/unnamed-2.png
+||agronline.it/uploads/fre/
 ||albengacorsara.it/libri/
 ||albengacorsara.it/promo/
 ||albinoleffe.com/images/banners/
