@@ -873,7 +873,7 @@ nextpit.it##.gptSlot__sticky-footer
 sorrisi.com##.gtv-trigger-elevator
 eurostreaming.voto##.guarda
 altadefinizione.coach,guardaserie.store##.guarda_hd
-altadefinizione.energy,toonitalia.org##.guarda_in_hd
+altadefinizione.energy,toonitalia.org,toonitalia.pro##.guarda_in_hd
 ilgeniodellostreaming.dance,ilgeniodellostreaming.rest,ilgeniodellostreaming.to##.guardasingle
 ecwgcortina2016.it,ilgeniodellostreaming.dance,ilgeniodellostreaming.rest,ilgeniodellostreaming.to,ilgeniodellostreamings.com,ilgeniodellostreamings.it##.guardasingleserie1
 ecwgcortina2016.it,ilgeniodellostreaming.dance,ilgeniodellostreaming.rest,ilgeniodellostreaming.to,ilgeniodellostreamings.com,ilgeniodellostreamings.it##.guardasingleserie2
