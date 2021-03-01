@@ -18,6 +18,7 @@
 @@||catchup.acdsolutions.it/jstag/videoplayerFluid/*&adZone=$script,domain=sanmarinortv.sm
 @@||centrosangiorgio.com^*_pubblicita.
 @@||centrosangiorgio.com^*_pubblicita/
+@@||centrovolantini.it/sites/default/files/styles/thumb_copertina/public/conad_$~third-party
 @@||cheapnet.it/adv/$~third-party
 @@||digitaleterrestrefacile.it/detroitchicago/dayton.js?
 @@||dincontri.com/ads/galleries/crops/$image,~third-party
