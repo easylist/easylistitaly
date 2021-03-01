@@ -41,7 +41,7 @@ veneziafc.it###banner-box-up
 quotidianocanavese.it###banner-column
 canavesenews.it###banner-left-bottom
 canavesenews.it###banner-left-top
-cuneocronaca.it,larivieraonline.com,oggitreviso.it,piccolenote.ilgiornale.it###banner-top
+cuneocronaca.it,larivieraonline.com,lemiebollicine.com,oggitreviso.it,piccolenote.ilgiornale.it###banner-top
 canavesenews.it,torinonews24.it###banner-top-container
 cataniapubblica.tv###banner1
 cataniapubblica.tv###banner2
@@ -594,6 +594,7 @@ giochieflash.it##.banner336x280Centered
 cineblog01.care,cineblog01.green##.banner4k
 doctor33.it##.bannerBot
 torinofc.it##.bannerColDxStd
+lemiebollicine.com##.bannerContainer
 djmagitalia.com##.bannerExtra
 pressgiochi.it##.bannerFila
 puntosicuro.it##.bannerLeader
