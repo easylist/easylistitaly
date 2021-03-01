@@ -1707,6 +1707,7 @@
 ||netdna-ssl.com^*/banner_$domain=reggionline.com
 ||netdna-ssl.com^*/lazio-europa.gif$domain=radiocolonna.it
 ||netdna-ssl.com^*/skin-$domain=reggionline.com
+||newlaw.it/banner/
 ||news-24.it^*/skin-
 ||news.cinecitta.com/public/banner/
 ||newscatania.com^*_Petrol-Company.
