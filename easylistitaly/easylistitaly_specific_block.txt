@@ -1303,6 +1303,8 @@
 ||italiachecambia.org^*-banner-
 ||italiachecambia.org^*/banner-
 ||italiaciclismo.net/images/banner_
+||italiadelcalcio.it/bannerc1/
+||italiadelcalcio.it/dailybet/
 ||italiafruit.net/Public/Upload/Banner/
 ||italianewsonline.it^*/libro-andrea.jpeg
 ||italianewsonline.it^*/WhatsApp-Image-2020-10-13-at-10.09.06-
