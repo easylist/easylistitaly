@@ -977,6 +977,7 @@ winenews.it##.manchette_l
 winenews.it##.manchette_r
 24emilia.com##.marquee0
 orologipertutti.it##.masonry_grid_fullwidth
+stellafm.it##.master-slider
 irpinianews.it##.master-slider-parent
 ecoo.it##.masterhead-container-column
 eurochampions.it,lalaziosiamonoi.it,tuttofrosinone.com##.masthead
