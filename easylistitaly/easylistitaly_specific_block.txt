@@ -1116,6 +1116,14 @@
 ||ideeregaloper.it^*/rs.jpg
 ||igds.pro/wp-content/themes/movies/iframe/
 ||il-genio-dello-streaming.com/play/
+||ilbacodaseta.org^*/banner-
+||ilbacodaseta.org^*/banner_
+||ilbacodaseta.org^*/Castellani-banner1.jpg
+||ilbacodaseta.org^*/CONTICORSIVO-WEB.png
+||ilbacodaseta.org^*/fasoli-impianti.jpg
+||ilbacodaseta.org^*/logo-osteria-careta.jpg
+||ilbacodaseta.org^*/menon-sito.jpg
+||ilbacodaseta.org^*/tgv-international-colore-e1608189110260.jpg
 ||ilcalcioillustrato.it^*/banner-
 ||ilcambiamento.it/data/banner/
 ||ilcapoluogo.it^*/zurich.jpg
