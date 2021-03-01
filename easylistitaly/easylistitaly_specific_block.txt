@@ -137,6 +137,9 @@
 ||amazonaws.com^*/5f9c3015869e7030208168.png$domain=primocomunicazione.it
 ||amazonaws.com^*/5fbfe4e69a41e105507124.jpg$domain=primocomunicazione.it
 ||amazonaws.com^*/5fc0cbe370a6d918522944.png$domain=primocomunicazione.it
+||amazonaws.com^*/Banner-$domain=armiusate.it
+||amazonaws.com^*/pix/$domain=armiusate.it
+||amazonaws.com^*_banner_$domain=armiusate.it
 ||ambientebio.it^*/WhatsApp-Image-2020-09-02-at-15.16.54.jpeg
 ||ambientequotidiano.it/banner/
 ||amicodelpopolo.it^*/banner-
@@ -296,6 +299,7 @@
 ||araberara.it^*/small-10-11-
 ||araberara.it^*/th_28-1016.png
 ||arcatliguria.it/templates/cloud/img/tad2.png
+||armiusate.it^*/sponsor/
 ||arona24.it/images/banner/
 ||arona24.it/images/IMMOBILIARE_PIEMONTE_
 ||arona24.it/images/mc_drive_
@@ -607,6 +611,7 @@
 ||classifichemusica.it/img/amazon.jpg
 ||click.html.it^
 ||clientiesperti.it^*-banner.
+||cloudfront.net/pix/$domain=armiusate.it
 ||clubdoria46.it^*/sanbstian.jpg
 ||clubdoria46.it^*/src_logo-300x123.png
 ||cn24tv.it/images/banners/
