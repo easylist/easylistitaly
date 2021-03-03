@@ -2351,6 +2351,7 @@
 ||solorecensioni.com^*/offertenatale.gif
 ||sora24.it/banner/
 ||sora24.it^*/amazon-prime-
+||spaziogames.it^*/logo-instant-gaming.jpg
 ||spoletonline.com/banner/
 ||sport24news.it/images/banner/
 ||sportando.basketball^*/espn-player.jpg
