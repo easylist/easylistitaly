@@ -482,6 +482,7 @@ sienafree.it##.advs
 soldionline.it##.afc_boxcontent_taglist
 incesti.xxx,pornopizza.it,tuboitaliano.it,videopornoitalia.com##.aff
 alfemminile.com##.affi-button
+altadefinizione01.games##.after_player_btn
 agi.it##.agi-ad-wrap
 cityrumors.it,noisiamoagricoltura.com,tantasalute.it,velvetgossip.it##.ai-viewport-1
 pagare.online##.alert.alert-success
@@ -645,6 +646,7 @@ vicenzanews.it##.bannexSX
 notizialocale.it##.bc_random_banner
 corriere.it##.bck-media-list-sponsor
 magentanostra.it##.bdt-logo-carousel-figure
+altadefinizione01.games##.before_player_btn
 reggiosera.it##.betulla-box
 ifood.it##.bg-banner
 nuovosud.it##.bg_skin

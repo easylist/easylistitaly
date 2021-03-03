@@ -93,6 +93,8 @@
 ||altadefinizione.legal/templates/altadef/img/download
 ||altadefinizione.legal/templates/altadef/img/stream
 ||altadefinizione01.army/templates/Dark/img/view
+||altadefinizione01.games^*/bottone-dwn.png
+||altadefinizione01.games^*/bottone-tor.png
 ||altadefinizione01.global/buton
 ||altadefinizione01.green^*/btn4k.
 ||altadefinizione01.green^*/btn_dwn.
