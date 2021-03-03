@@ -2465,6 +2465,7 @@
 ||studio93.it^*225x100
 ||studio93.it^*798x90
 ||submission.it/banner/
+||superenalotto.com/images/banners/
 ||superscommesse.it^*/bannerquadrati/
 ||tagmagazine.it^*/sem.jpg
 ||tantifilm.center/templates/Tantifilm/images/btn
