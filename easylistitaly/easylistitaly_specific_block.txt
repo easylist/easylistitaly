@@ -415,6 +415,9 @@
 ||brundisium.net/ilnautiluslogo2.jpg
 ||brundisium.net^*/728x90
 ||brundisium.net^*/Brundisium_Lanza_
+||buonapesca.it^*/LeaderBoard-
+||buonapesca.it^*/rectangle-
+||buonapesca.it^*/Senza-titolo-1.jpg
 ||buongiornoalghero.it^*/banner_
 ||business24tv.it^*/Banner_
 ||business24tv.it^*/skin_
