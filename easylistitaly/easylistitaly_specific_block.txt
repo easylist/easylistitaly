@@ -1,4 +1,15 @@
 ||0-100.it^*/banner-
+||0766news.it^*/assistenza-domiciliare.png
+||0766news.it^*/Banner_
+||0766news.it^*/DILUZIO.gif
+||0766news.it^*/farmacia-rossiii.png
+||0766news.it^*/farmacia-san-gordiano.jpg
+||0766news.it^*/fotografo.jpg
+||0766news.it^*/IMG-20201027-WA0011.jpg
+||0766news.it^*/ortopedia.jpg
+||0766news.it^*/PESCHERIA-LAMPO-nuova.jpg
+||0766news.it^*/span%C3%B2.jpg
+||0766news.it^*/Stefano-Iacomelli-FISIOKINESITERAPIA.
 ||1001giochi.it/bfb/
 ||100x100napoli.it^*/gs.png
 ||105tv.it^*/banners/
