@@ -1845,6 +1845,7 @@
 ||ostuninotizie.it^*/spazio-conad-
 ||ottofm.com^*/banner-
 ||ottofm.com^*_banner.
+||ottopagine.it/site-images/300x120ivpc
 ||pablitoescort.com/images/banner/
 ||padovacalcio.it^*/320X130_
 ||padovacalcio.it^*_990x30.
