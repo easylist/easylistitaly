@@ -855,6 +855,7 @@
 ||filmsenzalimiti.love^*/b2.png
 ||filmstreaming.page/728.gif
 ||filmstreaming.page/sc.png
+||filmstreaming.page/strem.png
 ||finanzareport.it^*/box_unicredit.jpg
 ||finanzareport.it^*/leaderboard.jpg
 ||finanziamenti.it^*/banner-
