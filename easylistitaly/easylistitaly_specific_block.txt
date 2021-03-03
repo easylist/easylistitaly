@@ -1470,6 +1470,7 @@
 ||left.it^*-banners-
 ||legab.it^*/sponsor/
 ||leganavalenews.it^*/banners/
+||legapallacanestro.com^*/banner/
 ||legavolleyfemminile.it^*/MGS_
 ||leggilanotizia.it^*-banner-
 ||leggilanotizia.it^*/300x170TrentinoBookingEstate2020.jpg
