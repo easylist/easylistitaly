@@ -1073,6 +1073,7 @@
 ||guardaserie.cam^*/bottone
 ||guardaserie.cam^*/btn_guarda
 ||guardaserie.cam^*/button
+||guardaserie.cam^*/pulsante
 ||guardaserie.video^*/guardaorads.png
 ||gufo.it^*/imperdibili-natale-eprice.jpg
 ||gufo.it^*/offerte-natale-amazon.jpg
