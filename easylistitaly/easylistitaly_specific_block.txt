@@ -2000,6 +2000,7 @@
 ||quattroruote.it^*/box-eni-
 ||quellidellelica.com/images/banners/
 ||quicosenza.it^*/pirro300x407.gif
+||quimedia.it^*_rectangle_
 ||quinewsabetone.it^/skin/
 ||quinewsamiata.it^*/skin/
 ||quinewsarezzo.it^*/skin/
