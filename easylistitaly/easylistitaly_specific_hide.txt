@@ -308,7 +308,7 @@ buongiornoalghero.it,finestresullarte.info,freeonline.org,itvonline.news,lospiff
 balarm.it,gamereactor.it###sky
 gamereactor.it###sky2_1
 bisceglielive.it,eurogamer.it,gommadiretto.it###skyscraper
-amaranta.it,firenzeviola.it,grigionline.com,lalaziosiamonoi.it,parmalive.com,sassuolonews.net,torinogranata.it,tuttofrosinone.com,tuttojuvestabia.it,tuttolatina.com,tuttolecce.net,tuttomantova.it,tuttomondiali.it,tuttonapoli.net,tuttonazionali.com,tuttonocerina.com,tuttonovara.it,tuttopalermo.net,tuttopordenone.com,tuttoreggina.com,tuttoseried.com,tuttospal.it,tuttosportimolese.com,tuttostpauli.com,tuttoturris.com,vocegiallorossa.it###slimbanner
+amaranta.it,firenzeviola.it,grigionline.com,lalaziosiamonoi.it,parmalive.com,sassuolonews.net,torinogranata.it,tuttofrosinone.com,tuttofutbolsudamerica.com,tuttojuvestabia.it,tuttolatina.com,tuttolecce.net,tuttomantova.it,tuttomondiali.it,tuttonapoli.net,tuttonazionali.com,tuttonocerina.com,tuttonovara.it,tuttopalermo.net,tuttopordenone.com,tuttoreggina.com,tuttoseried.com,tuttospal.it,tuttosportimolese.com,tuttostpauli.com,tuttoturris.com,vocegiallorossa.it###slimbanner
 mail1.libero.it###slink-dx
 mail1.libero.it###slink-sx
 meteofinanza.com###snp-pop-20588-overlay
@@ -1577,7 +1577,7 @@ tuttoatalanta.com,tuttoveneziasport.it##div[style="text-align: center; width: 30
 bolognanews.net,fcinternews.it,firenzeviola.it,lalaziosiamonoi.it,milannews.it,parmalive.com,politicanews.it,sampdorianews.net,sassuolonews.net,ternananews.it,torinogranata.it,tuttoascolicalcio.it,tuttocagliari.net,tuttocalciopuglia.com,tuttohellasverona.it,tuttojuve.com,tuttomondiali.it,tuttomonza.it,tuttonapoli.net,tuttopalermo.net,tuttopescaracalcio.com,tuttopotenza.com,tuttorunning.net,tuttoudinese.it,tuttovicenza.it,vocegiallorossa.it##div[style="text-align: center; width: 300px; height: 250px;"]
 tuttonazionali.com##div[style="text-align: center; width: 336px; height: 280px; padding: 0px 0px 3px 0px;"]
 tuttojuve.com##div[style="text-align: center; width: 336px; height: 280px; padding: 3px 0; margin: 0 auto;"]
-grigionline.com,pianetabasket.com,tuttocagliari.net,tuttochievoverona.it,tuttofrosinone.com,tuttojuvestabia.it,tuttolatina.com,tuttolecce.net,tuttomantova.it,tuttonovara.it,tuttopordenone.com,tuttosalernitana.com,tuttoseried.com,tuttospal.it,tuttosportimolese.com,tuttostpauli.com##div[style="text-align: center; width: 336px; height: 280px; padding: 3px 0px 3px 0px;"]
+grigionline.com,pianetabasket.com,tuttocagliari.net,tuttochievoverona.it,tuttofrosinone.com,tuttofutbolsudamerica.com,tuttojuvestabia.it,tuttolatina.com,tuttolecce.net,tuttomantova.it,tuttonovara.it,tuttopordenone.com,tuttosalernitana.com,tuttoseried.com,tuttospal.it,tuttosportimolese.com,tuttostpauli.com##div[style="text-align: center; width: 336px; height: 280px; padding: 3px 0px 3px 0px;"]
 tuttocagliari.net,tuttojuve.com##div[style="text-align: center; width: 468px; height: 60px; padding: 3px 0px 3px 0px;"]
 tuttoascolicalcio.it,tuttohellasverona.it,tuttopescaracalcio.com##div[style="text-align: center; width: 468px; height: 60px;"]
 ilgiornaledabruzzo.it##div[style="text-align: left; width: 260px; float: left; margin-bottom: 40px; margin-right: 8px; margin-left: 8px; position: relative; font-size: 9px; font-weight: bold; color: #706e70; border: 2px solid orange;"]
