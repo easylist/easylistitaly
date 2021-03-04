@@ -1007,7 +1007,6 @@ acquavivalive.it,altamuralive.it,andrialive.it,barilive.it,barlettalive.it,bisce
 acquavivalive.it,altamuralive.it,andrialive.it,barilive.it,barlettalive.it,bisceglielive.it,bitontolive.it,canosalive.com,cassanolive.it,coratolive.it,fasanolive.com,gioialive.it,giovinazzolive.it,gravinalive.it,lavocedimanduria.it,margheritalive.it,minervinolive.it,molfettalive.it,okfirenze.com,okmugello.it,okvaldisieve.it,ruvolive.it,santeramolive.it,terlizzilive.it,termolionline.it,tranilive.it,unicosettimanale.it,viviwebtv.it##.mkt-970x250
 acquavivalive.it,altamuralive.it,andrialive.it,barilive.it,barlettalive.it,bisceglielive.it,bitontolive.it,canosalive.com,cassanolive.it,coratolive.it,fasanolive.com,gioialive.it,giovinazzolive.it,gravinalive.it,margheritalive.it,minervinolive.it,molfettalive.it,ruvolive.it,santeramolive.it,terlizzilive.it,tranilive.it##.mkt-editorial
 telelazionord.it##.mom-e3lanat-inner
-nospoiler.it##.movie__intro-channels
 boingtv.it,eurogamer.it,foodnetwork.it,gioco.it,morningstar.it##.mpu
 stellafm.it##.ms-slide-link
 affaritaliani.it##.mutui
@@ -1060,13 +1059,11 @@ altadefinizione-site.it##.player-container
 cb01.world,eurostreaming.cam##.playerad
 cb01.in##.playex
 assopoker.com##.poker-room-list
-nospoiler.it##.post__shopping
 insuranceup.it##.powered_by_container
 assopoker.com##.prbox-table-container
 eurogamer.it##.pre-article
 pisachannel.tv##.pre_footer
 comingsoon.it##.primeTrack
-frasix.it##.product
 orologi-subacquei.it##.product-listing
 webnews.it##.product__info
 comingsoon.it,pneusnews.it##.promo
