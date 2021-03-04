@@ -497,7 +497,7 @@ icrewplay.com##.amazon-auto-links
 screenweek.it##.amazon-btn
 ridble.com##.amazon-product
 cliccascienze.it##.amazon-products-container-list
-animeclick.it##.amazon-row
+animeclick.it,gamerclick.it##.amazon-row
 shopping.tiscali.it##.amazonShopping
 andreagaleazzi.com##.amazon_box
 vgnetwork.it##.amazon_similarity
