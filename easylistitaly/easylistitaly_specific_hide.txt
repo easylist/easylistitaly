@@ -308,7 +308,7 @@ buongiornoalghero.it,finestresullarte.info,freeonline.org,itvonline.news,lospiff
 balarm.it,gamereactor.it###sky
 gamereactor.it###sky2_1
 bisceglielive.it,eurogamer.it,gommadiretto.it###skyscraper
-amaranta.it,firenzeviola.it,grigionline.com,lalaziosiamonoi.it,parmalive.com,sassuolonews.net,torinogranata.it,tuttocasertana.it,tuttocesena.it,tuttoentella.com,tuttoeuropei.com,tuttofrosinone.com,tuttofutbolsudamerica.com,tuttojuvestabia.it,tuttolatina.com,tuttolecce.net,tuttomantova.it,tuttomondiali.it,tuttonapoli.net,tuttonazionali.com,tuttonocerina.com,tuttonovara.it,tuttopalermo.net,tuttopordenone.com,tuttoreggina.com,tuttoseried.com,tuttospal.it,tuttosportimolese.com,tuttostpauli.com,tuttoturris.com,vocegiallorossa.it###slimbanner
+amaranta.it,firenzeviola.it,grigionline.com,lalaziosiamonoi.it,parmalive.com,sassuolonews.net,torinogranata.it,tuttocagliari.net,tuttocasertana.it,tuttocesena.it,tuttoentella.com,tuttoeuropei.com,tuttofrosinone.com,tuttofutbolsudamerica.com,tuttojuvestabia.it,tuttolatina.com,tuttolecce.net,tuttomantova.it,tuttomondiali.it,tuttonapoli.net,tuttonazionali.com,tuttonocerina.com,tuttonovara.it,tuttopalermo.net,tuttopordenone.com,tuttoreggina.com,tuttoseried.com,tuttospal.it,tuttosportimolese.com,tuttostpauli.com,tuttoturris.com,vocegiallorossa.it###slimbanner
 mail1.libero.it###slink-dx
 mail1.libero.it###slink-sx
 meteofinanza.com###snp-pop-20588-overlay
@@ -1548,6 +1548,7 @@ eurochampions.it,fcinternews.it,genoanews1893.it,lalaziosiamonoi.it,notiziarioca
 fcinternews.it,genoanews1893.it,lalaziosiamonoi.it,pianetabasket.com,ternananews.it,tuttoascolicalcio.it,tuttoatalanta.com,tuttocalciopuglia.com,tuttohellasverona.it,tuttopotenza.com,tuttovicenza.it##div[style="overflow: hidden; height: 250px; width: 970px; margin: auto;"]
 amaranta.it,interdipendenza.net,notiziariocalcio.com,tuttobenevento.it,tuttojuvestabia.it,tuttolecce.net,tuttomantova.it,tuttonazionali.com,tuttospal.it,tuttosportimolese.com,tuttostpauli.com##div[style="overflow: hidden; height: 280px; width: 336px; margin: auto;"]
 tuttonapoli.net##div[style="overflow: hidden; height: 40px; width: 336px; margin: auto;"]
+tuttocagliari.net##div[style="overflow: hidden; height: 50px; width: 210px; margin: auto;"]
 tuttocesena.it,tuttonazionali.com,tuttopordenone.com##div[style="overflow: hidden; height: 600px; width: 120px; margin: auto;"]
 amaranta.it,eurochampions.it,fcinternews.it,genoanews1893.it,notiziariocalcio.com,tuttoatalanta.com,tuttocalciopuglia.com,tuttofantacalcio.it,tuttofrosinone.com,tuttohellasverona.it,tuttojuvestabia.it,tuttolecce.net,tuttomantova.it,tuttomondiali.it,tuttomonza.it,tuttonazionali.com,tuttopalermo.net,tuttopescaracalcio.com,tuttopordenone.com,tuttopotenza.com,tuttoreggina.com,tuttospal.it,tuttoudinese.it,tuttovicenza.it##div[style="overflow: hidden; height: 600px; width: 160px; margin: auto;"]
 pianetabasket.com##div[style="overflow: hidden; height: 600px; width: 300px; margin: auto;"]
