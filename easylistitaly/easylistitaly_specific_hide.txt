@@ -308,7 +308,7 @@ buongiornoalghero.it,finestresullarte.info,freeonline.org,itvonline.news,lospiff
 balarm.it,gamereactor.it###sky
 gamereactor.it###sky2_1
 bisceglielive.it,eurogamer.it,gommadiretto.it###skyscraper
-amaranta.it,firenzeviola.it,grigionline.com,lalaziosiamonoi.it,parmalive.com,sassuolonews.net,torinogranata.it,tuttofrosinone.com,tuttofutbolsudamerica.com,tuttojuvestabia.it,tuttolatina.com,tuttolecce.net,tuttomantova.it,tuttomondiali.it,tuttonapoli.net,tuttonazionali.com,tuttonocerina.com,tuttonovara.it,tuttopalermo.net,tuttopordenone.com,tuttoreggina.com,tuttoseried.com,tuttospal.it,tuttosportimolese.com,tuttostpauli.com,tuttoturris.com,vocegiallorossa.it###slimbanner
+amaranta.it,firenzeviola.it,grigionline.com,lalaziosiamonoi.it,parmalive.com,sassuolonews.net,torinogranata.it,tuttoeuropei.com,tuttofrosinone.com,tuttofutbolsudamerica.com,tuttojuvestabia.it,tuttolatina.com,tuttolecce.net,tuttomantova.it,tuttomondiali.it,tuttonapoli.net,tuttonazionali.com,tuttonocerina.com,tuttonovara.it,tuttopalermo.net,tuttopordenone.com,tuttoreggina.com,tuttoseried.com,tuttospal.it,tuttosportimolese.com,tuttostpauli.com,tuttoturris.com,vocegiallorossa.it###slimbanner
 mail1.libero.it###slink-dx
 mail1.libero.it###slink-sx
 meteofinanza.com###snp-pop-20588-overlay
@@ -1543,6 +1543,7 @@ amaranta.it,parmalive.com,torinogranata.it,tuttojuve.com,tuttonapoli.net,tuttono
 gamereactor.it##div[style="min-height: 600px; margin-bottom: 20px;"]
 voglioviverecosi.com##div[style="min-height: 90px; margin-top: 20px; margin-bottom: 20px"]
 firenzeviola.it,parmalive.com,torinogranata.it,tuttonapoli.net,vocegiallorossa.it##div[style="min-height: 90px;"]
+tuttoeuropei.com##div[style="overflow: hidden; height: 240px; width: 160px; margin: auto;"]
 eurochampions.it,fcinternews.it,genoanews1893.it,lalaziosiamonoi.it,notiziariocalcio.com,pianetabasket.com,sassuolonews.net,ternananews.it,tuttoascolicalcio.it,tuttoatalanta.com,tuttocalciopuglia.com,tuttofantacalcio.it,tuttohellasverona.it,tuttojuvestabia.it,tuttolecce.net,tuttomantova.it,tuttopalermo.net,tuttopescaracalcio.com,tuttopordenone.com,tuttopotenza.com,tuttorunning.net,tuttospal.it,tuttostpauli.com,tuttotritiumgiana.com,tuttoudinese.it,tuttoveneziasport.it,tuttovicenza.it##div[style="overflow: hidden; height: 250px; width: 300px; margin: auto;"]
 fcinternews.it,genoanews1893.it,lalaziosiamonoi.it,pianetabasket.com,ternananews.it,tuttoascolicalcio.it,tuttoatalanta.com,tuttocalciopuglia.com,tuttohellasverona.it,tuttopotenza.com,tuttovicenza.it##div[style="overflow: hidden; height: 250px; width: 970px; margin: auto;"]
 amaranta.it,interdipendenza.net,notiziariocalcio.com,tuttobenevento.it,tuttojuvestabia.it,tuttolecce.net,tuttomantova.it,tuttonazionali.com,tuttospal.it,tuttosportimolese.com,tuttostpauli.com##div[style="overflow: hidden; height: 280px; width: 336px; margin: auto;"]
@@ -1560,9 +1561,10 @@ radiocuore.it##div[style="overflow: hidden; width: 305px; height: 255px; positio
 m.firenzeviola.it##div[style="padding-top: 14px; padding-bottom: 4px; color: #cccccc; text-align: center; text-align: -webkit-center; text-align: -moz-center; font-size: 80%;"]
 firenzeviola.it,sampdorianews.net##div[style="padding: 0px 0px 3px 0px; min-height: 280px;"]
 tuttonocerina.com,tuttosalernitana.com##div[style="padding: 0px 0px 3px 0px; min-height: 600px;"]
+tuttoeuropei.com##div[style="padding: 0px 0px 3px 0px; min-height: 90px;"]
 tuttob.com##div[style="padding: 3px 0; min-height: 250px; width: 300px; margin: auto;"]
 tuttonocerina.com##div[style="padding: 3px 0; width: 336px; height: 280px; overflow: hidden;"]
-tuttonocerina.com##div[style="padding: 3px 0px 3px 0px; min-height: 250px;"]
+tuttoeuropei.com,tuttonocerina.com##div[style="padding: 3px 0px 3px 0px; min-height: 250px;"]
 milannews.it,parmalive.com,torinogranata.it,tuttonapoli.net,vocegiallorossa.it##div[style="padding: 3px 0px 3px 0px; min-height: 280px;"]
 firenzeviola.it,milannews.it,parmalive.com,sampdorianews.net,torinogranata.it,tuttonapoli.net,vocegiallorossa.it##div[style="padding: 3px 3px 3px 3px; min-height: 600px;"]
 stabiachannel.it##div[style="padding:5px 0px 10px 0px; color:#858585; background-color:#f0f0f0;"]
