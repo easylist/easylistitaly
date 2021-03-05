@@ -15,7 +15,7 @@
 ||ilgeniodellostreaming.to/stream/$popup
 ||supervideo.tv/vedo4k.php$popup
 ! about:blank popups
-/about:blank.*/$popup,domain=casacinema.work|guardaserie.biz|guardaserie.cam|ilgeniodellostreaming.cam|leggenditaloi.com
+/about:blank.*/$popup,domain=casacinema.work|guardaserie.biz|guardaserie.cam|ilgeniodellostreaming.cam|leggenditaloi.com|tantifilm.works
 ! html/image popups
 /^https?:\/\/.*\.(jpg|png|html|svg|ico)/$popup,domain=altadefinizione01.games|altadefinizione01.store|cineblog01.bid|cinefun.co|eurostreaming.movie|eurostreaming.vision|filmpertutti.lol|filmpertutti.voto|filmsenzalimiti.li|guardaserie.fashion|ilgeniodellostreaming.dance|ilgeniodellostreaming.tel|tantifilm.pink
 ! javascript popups
