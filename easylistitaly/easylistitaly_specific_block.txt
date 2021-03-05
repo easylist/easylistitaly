@@ -255,6 +255,7 @@
 ||annuncinazionali.it/banner/
 ||annuncinazionali.it^*/banner-
 ||annuncinazionali.it^*/banner_
+||annuncinovara.it/banner/
 ||annuncinuoro.it/banner/
 ||annunciogliastra.eu/banner/
 ||annunciolbiatempio.it/banner/
