@@ -243,6 +243,7 @@
 ||annuncimodena.com/banner/
 ||annuncimodena.com/img/banner_
 ||annuncimolise.it/banner/
+||annuncimonzabrianza.it/banner/
 ||annuncinapoli.it/banner/
 ||annuncinazionali.it/banner/
 ||annuncinazionali.it^*/banner-
