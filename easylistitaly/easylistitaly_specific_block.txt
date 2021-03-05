@@ -284,6 +284,7 @@
 ||annuncitrieste.it/banner/
 ||annunciudine.it/banner/
 ||annunciumbria.it/banner/
+||annuncivarese.it/banner/
 ||annunciveneto.it/banner/
 ||annuncivenezia.it/banner/
 ||annunciverona.it/banner/
