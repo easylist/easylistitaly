@@ -228,6 +228,7 @@
 ||annuncilecce.it/banner/
 ||annunciliguria.it/banner/
 ||annuncilivorno.it/banner/
+||annuncilodi.it/banner/
 ||annuncilombardia.it/banner/
 ||annuncilucca.it/banner/
 ||annuncimacerata.it/banner/
