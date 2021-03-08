@@ -716,6 +716,7 @@ donnamoderna.com##.btn-offerte-amazon
 tantifilm.center##.btn-p
 game-game.it##.btn-play
 fogliettoillustrativo.net##.btn-success
+ilcorsaronero-it.cz##.btn-warning
 teatroborgatti.it##.btn1
 parcofaunistico.it,piratestreaming.network##.btnaaa
 cinemalibero.cloud,cinemalibero.life,cinemalibero.store##.btnaaa4k
