@@ -59,6 +59,7 @@ ondarock.it###banner_300x250_slot4
 finestresullarte.info###banner_8_div
 finestresullarte.info###banner_9_div
 contosulconto.it###banner_content
+quizpatenteonline.it###banner_fix
 vocidicitta.it###banner_footer_728
 cronachedibirra.it###banner_in-article
 cronachedibirra.it###banner_in-article_adv
@@ -1220,6 +1221,7 @@ simplybiz.eu,volleyball.it##.su-carousel
 casa-domotica24.it##.su-tabs
 notiziariocalcio.com,pianetabasket.com,tuttofrosinone.com,tuttonocerina.com,tuttosalernitana.com,tuttoseried.com,tuttoveneziasport.it##.sub
 ilsussidiario.net##.sub-header
+quizpatenteonline.it##.subHeader
 emmelle.it##.supermag-ainfo-widget
 broncos.it##.supporter
 calabria7.it,mbnews.it##.swiper-container
