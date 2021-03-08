@@ -2306,6 +2306,7 @@
 ||sangavinomonreale.net^*/Casula.jpg
 ||sangavinomonreale.net^*/Genesis.jpg
 ||sangavinomonreale.net^*/HotelCrocus.jpg
+||sanitainsicilia.it/wp-content/banners/
 ||sanmarinofixing.com/smfixing/images/banners/
 ||sannicandro.org/data/farmacie/
 ||sannicandro.org/data/sponsor/
