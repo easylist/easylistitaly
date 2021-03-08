@@ -571,6 +571,7 @@
 ||cb01.band/templates/CB01_bid/images/bottone
 ||cb01.band/templates/CB01_bid/images/copertina.png
 ||cb01.business/download/registrati.png
+||cb01.computer/4k/
 ||cb01.dev/fake2/
 ||cb01.dev/templates/CB01_bid/images/btn_
 ||cb01.dev/templates/CB01_bid/images/button_
