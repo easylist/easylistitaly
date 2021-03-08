@@ -1173,6 +1173,7 @@ ilgallo.it##.small-banner-1
 corriere.ca##.small_banner
 meteofinanza.com##.snp-overlay
 gas.social##.socia-adlabel
+studiocataldi.it##.sopraarticolo20
 siciliaoggi.com##.sow-image-container
 tvoggisalerno.it##.sow-slider-image-container
 calcioatalanta.it,calciocasteddu.it,calciocremonese.it,calciofere.it,calciogrifo.it,calciohellas.it,calciolecce.it,calciorosanero.it,calciospezia.it,forzamonza.it,forzaparma.it,labaricalcio.it,siamolaroma.it,sololalazio.it,tifocosenza.it,trapanigranata.it,usavellino1912.com,virtus.it##.sp-sponsors
