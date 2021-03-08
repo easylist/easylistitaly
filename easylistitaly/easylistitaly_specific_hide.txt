@@ -343,6 +343,7 @@ diretta.it###tab-bonus-offers
 diretta.it###tab-odds
 geologi.it###table113
 gamesvillage.it###takeover_gv
+ecovicentino.it###td-layer-audio-article-banner
 radioluna.it###testata
 lol-esports.it###text-11
 golbym.com###text-12
