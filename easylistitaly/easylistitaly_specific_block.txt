@@ -1228,6 +1228,7 @@
 ||ilgeniodellostreaming.tel/templates/GdTheme/images/scarica
 ||ilgiornaledabruzzo.it/wp-content/uploads/2013/05/Ai-Viali-Lanciano.png
 ||ilgiornaledelcibo.it^*/conosci-cirfood.
+||ilgiornaledellabellezza.it^*/banner_
 ||ilgiornaledellaprotezionecivile.it^*_banners/
 ||ilgiornaledellarte.com/allegati/BANNER
 ||ilgiornaledelloyoga.it^*/Banner-
