@@ -866,6 +866,7 @@ agendadigitale.eu##.gallery-container-home
 virtusfrancavilla.it##.gallery-icon
 giornalerossoblu.it,telepegaso.it##.gallery-item
 1001giochi.it##.game-leaderboard
+giardiniblog.it##.gbam
 zerocinquantuno.it##.gdlr-logo
 1001giochi.it##.general-leaderboard
 poki.it##.gf.Hd.zc
