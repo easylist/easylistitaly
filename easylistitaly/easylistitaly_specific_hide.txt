@@ -172,6 +172,7 @@ grecia.info###fh_content
 notizielombardia.it###fixedban
 calciomercato.com###float-sidebar-inner
 varesesport.com###floorsunrise
+termolionline.it###flyersHome
 ascittadella.it###footer-sponsor
 lanostratv.it###footer-top-wrapper
 tvrxenon.it###footer-widgets
@@ -963,7 +964,7 @@ monitorimmobiliare.it,winenews.it##.link_skin
 skillandbet.com##.list-unstyled
 diretta.it##.live-betting-strip
 sorrisi.com##.live-news-advbox
-acquavivalive.it,altamuralive.it,andrialive.it,barilive.it,barlettalive.it,bisceglielive.it,bitontolive.it,canosalive.com,cassanolive.it,coratolive.it,fasanolive.com,gioialive.it,giovinazzolive.it,gravinalive.it,margheritalive.it,minervinolive.it,molfettalive.it,ruvolive.it,santeramolive.it,terlizzilive.it,tranilive.it,viviwebtv.it##.live-promo
+acquavivalive.it,altamuralive.it,andrialive.it,barilive.it,barlettalive.it,bisceglielive.it,bitontolive.it,canosalive.com,cassanolive.it,coratolive.it,fasanolive.com,gioialive.it,giovinazzolive.it,gravinalive.it,margheritalive.it,minervinolive.it,molfettalive.it,ruvolive.it,santeramolive.it,terlizzilive.it,termolionline.it,tranilive.it,viviwebtv.it##.live-promo
 hcb.net##.logo
 timinternet.it##.logoAmazon
 timinternet.it##.logoEbay
