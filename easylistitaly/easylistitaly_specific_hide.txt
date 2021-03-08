@@ -1199,6 +1199,7 @@ mostraip.com##.spot1
 radiorcs.it##.spotaltosottomenutre
 radiorcs.it##.spotcentrato
 ebay.it##.srp-banner
+cremonaoggi.it##.standard-inside-text
 pmi.it,we-wealth.com##.sticky-banner
 sportytrader.it##.sticky-header_banner_first
 quattroruote.it##.sticky-sponsor
