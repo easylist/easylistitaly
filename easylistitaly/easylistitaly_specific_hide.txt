@@ -310,7 +310,7 @@ buongiornoalghero.it,finestresullarte.info,freeonline.org,itvonline.news,lospiff
 balarm.it,gamereactor.it###sky
 gamereactor.it###sky2_1
 bisceglielive.it,eurogamer.it,gommadiretto.it###skyscraper
-amaranta.it,firenzeviola.it,footballscout24.it,forzaakragas.it,genoanews1893.it,grigionline.com,interdipendenza.net,lalaziosiamonoi.it,noesolofutbol.com,pallamanonews.it,parmalive.com,perugia24.net,rugbynewsfvg.it,sampdorianews.net,sassuolonews.net,sportakm0.com,sportnewstrapani.it,torinogranata.it,tuttobrescia.it,tuttocagliari.net,tuttocalciopontino.com,tuttocasertana.it,tuttocesena.it,tuttoentella.com,tuttoeuropei.com,tuttofrosinone.com,tuttofutbolsudamerica.com,tuttojuvestabia.it,tuttolatina.com,tuttolecce.net,tuttomantova.it,tuttomondiali.it,tuttonapoli.net,tuttonazionali.com,tuttonocerina.com,tuttonovara.it,tuttopalermo.net,tuttopordenone.com,tuttoreggina.com,tuttoseried.com,tuttospal.it,tuttosportimolese.com,tuttostpauli.com,tuttoturris.com,vocegiallorossa.it###slimbanner
+amaranta.it,firenzeviola.it,footballscout24.it,forzaakragas.it,genoanews1893.it,grigionline.com,interdipendenza.net,lalaziosiamonoi.it,noesolofutbol.com,pallamanonews.it,parmalive.com,perugia24.net,rugbynewsfvg.it,sampdorianews.net,sassuolonews.net,sportakm0.com,sportnewstrapani.it,torinogranata.it,tuttobrescia.it,tuttoc.com,tuttocagliari.net,tuttocalciopontino.com,tuttocasertana.it,tuttocesena.it,tuttoentella.com,tuttoeuropei.com,tuttofrosinone.com,tuttofutbolsudamerica.com,tuttojuvestabia.it,tuttolatina.com,tuttolecce.net,tuttomantova.it,tuttomondiali.it,tuttonapoli.net,tuttonazionali.com,tuttonocerina.com,tuttonovara.it,tuttopalermo.net,tuttopordenone.com,tuttoreggina.com,tuttoseried.com,tuttospal.it,tuttosportimolese.com,tuttostpauli.com,tuttoturris.com,vocegiallorossa.it###slimbanner
 mail1.libero.it###slink-dx
 mail1.libero.it###slink-sx
 meteofinanza.com###snp-pop-20588-overlay
@@ -1580,9 +1580,9 @@ tuttob.com##div[style="padding: 3px 0; min-height: 250px; width: 300px; margin: 
 tuttonocerina.com##div[style="padding: 3px 0; width: 336px; height: 280px; overflow: hidden;"]
 tuttoeuropei.com,tuttonocerina.com##div[style="padding: 3px 0px 3px 0px; min-height: 250px;"]
 milannews.it,parmalive.com,torinogranata.it,tuttonapoli.net,vocegiallorossa.it##div[style="padding: 3px 0px 3px 0px; min-height: 280px;"]
-milannews.it,torinogranata.it##div[style="padding: 3px 0px 3px 0px; width:336px; min-height: 280px;"]
+milannews.it,torinogranata.it,tuttoc.com##div[style="padding: 3px 0px 3px 0px; width:336px; min-height: 280px;"]
 firenzeviola.it,milannews.it,parmalive.com,sampdorianews.net,torinogranata.it,tuttonapoli.net,vocegiallorossa.it##div[style="padding: 3px 3px 3px 3px; min-height: 600px;"]
-firenzeviola.it,milannews.it,torinogranata.it##div[style="padding: 3px 3px 3px 3px; width:160px; min-height: 600px;"]
+firenzeviola.it,milannews.it,torinogranata.it,tuttoc.com##div[style="padding: 3px 3px 3px 3px; width:160px; min-height: 600px;"]
 stabiachannel.it##div[style="padding:5px 0px 10px 0px; color:#858585; background-color:#f0f0f0;"]
 radioradio.it##div[style="position: absolute; display: block; top: 0px; left: 0px; width: 696px; height: 182px; transform: scale(1.001);"]
 radioradio.it##div[style="position: absolute; display: block; top: 0px; left: 0px; width: 696px; height: 182px;"]
@@ -1622,7 +1622,7 @@ reggiotv.it##div[style="width:468px; height:60px; border:1px solid #DDD; margin:
 firenzeviola.it,milannews.it,torinogranata.it##div[style="width:468px; min-height: 120px;"]
 asroma24.com,ilmilanista.it,interistaweb.it##div[style="width:480px; height:72px; padding: 6px; margin-left:auto; margin-right:auto;"]
 blogcagliaricalcio1920.net##div[style="width:680px; height:100px; margin-bottom:20px;"]
-firenzeviola.it,torinogranata.it##div[style="width:728px; min-height: 90px;"]
+firenzeviola.it,torinogranata.it,tuttoc.com##div[style="width:728px; min-height: 90px;"]
 gta-expert.it##div[style="width:732px; height:105px"]
 altoadigetv.it,trentinotv.it##div[style="width:945px; padding:0px 0px 0px 3px;"]
 adessoin.tv##div[style="width:970px; height:250px; margin:20px auto; float:left;"]
