@@ -3018,6 +3018,7 @@
 ||wordpress.com^*_reclame_$domain=biella24.com
 ||worldofwrestling.it^*/wow.gif
 ||wp.com/catanista.eu/*/nextopening.png
+||wp.com/efferadio.it/*/amazon-
 ||wp.com/esportsitalia.com/*/corsi-coaching-esports.png
 ||wp.com/fattoalatina.it/*/ad-
 ||wp.com/genovaquotidiana.com/*-320x320-
