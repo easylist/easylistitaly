@@ -162,6 +162,7 @@ scrivolibero.it,viaggiallafinedelmondo.it###custom_html-9
 amazon.it###detailILM_feature_div
 trueriders.it###div-TRD_MPU_CONT
 nextpit.it###div-header
+tuttomercatoweb.com###div-masthead-top_lazy
 nextpit.it###div-sidebar_right_extra
 mymovies.it###div_topleft
 ecodicaserta.it###down
