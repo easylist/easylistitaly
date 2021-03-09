@@ -1223,7 +1223,6 @@ corriereadriatico.it,ilgazzettino.it,ilmattino.it,ilmessaggero.it,leggo.it,quoti
 noisiamofuturo.it##.stripe
 simplybiz.eu,volleyball.it##.su-carousel
 casa-domotica24.it##.su-tabs
-notiziariocalcio.com,pianetabasket.com,tuttofrosinone.com,tuttonocerina.com,tuttosalernitana.com,tuttoseried.com,tuttoveneziasport.it##.sub
 ilsussidiario.net##.sub-header
 quizpatenteonline.it##.subHeader
 emmelle.it##.supermag-ainfo-widget
