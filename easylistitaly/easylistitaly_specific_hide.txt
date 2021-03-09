@@ -992,7 +992,7 @@ orologipertutti.it##.masonry_grid_fullwidth
 stellafm.it##.master-slider
 irpinianews.it##.master-slider-parent
 ecoo.it##.masterhead-container-column
-eurochampions.it,genoanews1893.it,lalaziosiamonoi.it,tuttofrosinone.com,tuttoturris.com##.masthead
+eurochampions.it,genoanews1893.it,lalaziosiamonoi.it,perugia24.net,tuttofrosinone.com,tuttoturris.com##.masthead
 screenweek.it##.matches-container
 crotoneok.it##.mdl_content
 medicalexcellencetv.it##.medic-widget
