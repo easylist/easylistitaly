@@ -337,6 +337,8 @@ dragonballforever.it###stream-item-widget-4
 valsassinanews.com###stripbanner
 qualenergia.it###stripbar
 erbanotizie.com###striprotator
+garedepoca.com###strisciabanner_destra
+garedepoca.com###strisciabanner_sinistra
 mondodelgusto.it###super_dx
 telegolfo.com###super_rss_reader-5
 telegolfo.com###super_rss_reader-6
