@@ -1422,6 +1422,7 @@
 ||ladiscussione.com^*/Banner-
 ||ladiscussione.com^*/banner_
 ||ladriatico.info^*-300x69.
+||ladyradio.it^*/skin-
 ||lafeltrinelli.it^*/Partner/
 ||lagazzetta.info^*/banner/
 ||lagazzettaaugustana.it^*-banner-
