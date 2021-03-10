@@ -2133,6 +2133,9 @@
 ||radiogold.it^*/banner_
 ||radiogold.it^*/foral-
 ||radioibiza.it/images/banners/
+||radioimmagine.it^*/bannerino_
+||radioimmagine.it^*/ccw_MR.png
+||radioimmagine.it^*/set19aprilia2.png
 ||radioinblu.it^*/skin/
 ||radioincontro.com^*/Abita-poltrone.jpg
 ||radioincontro.com^*/banner
