@@ -1881,6 +1881,7 @@
 ||oltreilfatto.it^*/banner/
 ||oltreilfatto.it^*/logo-nuovo-sito-lextel.png
 ||oltrepomantovanonews.it^*/banner-
+||ondalibera.it/images/banners/
 ||ondanovara.it^*_banner_
 ||ondarock.it/banners/
 ||ondarock.it/skin/
