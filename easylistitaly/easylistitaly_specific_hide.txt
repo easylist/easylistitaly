@@ -838,6 +838,7 @@ iamnaples.it##.elementor-element-faa8a16
 ekuonews.it##.elementor-element-ffc0651
 tvrxenon.it##.elementor-image-carousel-wrapper
 twebnews.it##.elementor-main-swiper
+radiolaquila1.it##.elementor-swiper
 affaritaliani.it##.eni
 tuttitalia.it##.eo
 garganotv.com##.erzodfm-container

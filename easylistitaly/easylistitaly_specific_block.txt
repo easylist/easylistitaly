@@ -2145,6 +2145,7 @@
 ||radioincontro.com^*/vgs-investiment.jpg
 ||radioitaliacina.com/images/banners/
 ||radiolaquila1.it^*/asimar-
+||radiolaquila1.it^*/baiocco-260x260-
 ||radiolaquila1.it^*/mei-
 ||radiolombardia.it^*/325x50-
 ||radiolombardia.it^*/banner-
