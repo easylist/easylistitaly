@@ -71,6 +71,7 @@ gruppovideomedia.it,monitorimmobiliare.it,radiovalbelluna.it###banner_top
 fiorentinanews.com###banneralto
 ondarock.it###bannerhomebottom
 ondarock.it###bannerhometop
+reteradioazzurra.it###bannerini_homepage
 frasimania.it###bannerpop
 saperesalute.it###banners
 siracusanews.it###banners-top
@@ -1089,6 +1090,9 @@ proiezionidiborsa.it##.promoboxplus
 playstationzone.it##.psz_template_prices_comp
 agoravox.it##.pub
 kikapress.com##.pub_container
+reteradioazzurra.it##.pubbli_home_extra_right
+reteradioazzurra.it##.pubbli_home_extra_top
+reteradioazzurra.it##.pubbli_home_extra_video
 ilcaffe.tv##.pubbliredazionale
 agoravox.it##.publarge
 giochigratis.net##.publi
