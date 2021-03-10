@@ -2100,6 +2100,7 @@
 ||radioanaunia.it^*/final-
 ||radioantennaverde.it^*/ippodromodelgarigliano.
 ||radioantennaverde.it^*/zoomarine.
+||radioattivita.com^*/Banner-
 ||radioautmarche.it^*/banner_
 ||radioazzurra.it^*/banner/
 ||radioblu.com/img/colonna_dx/
