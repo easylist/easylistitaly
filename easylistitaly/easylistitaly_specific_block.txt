@@ -2108,6 +2108,7 @@
 ||radioautmarche.it^*/banner_
 ||radioazzurra.it^*/banner/
 ||radioblu.com/img/colonna_dx/
+||radioblutoscana.it/banner-
 ||radioblutoscana.it/foto/grandi/1-1.jpg
 ||radioblutoscana.it/foto/grandi/2.jpg
 ||radioblutoscana.it/foto/grandi/3.jpg
