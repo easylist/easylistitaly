@@ -1901,6 +1901,8 @@
 ||ostuninotizie.it^*/Orari.jpg
 ||ostuninotizie.it^*/spazio-conad-
 ||ottofm.com^*/banner-
+||ottofm.com^*/hambu-logo-banner
+||ottofm.com^*/mainini-logo-banner
 ||ottofm.com^*_banner.
 ||ottopagine.it/site-images/300x120ivpc
 ||pablitoescort.com/images/banner/
