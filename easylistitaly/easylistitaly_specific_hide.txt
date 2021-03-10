@@ -736,6 +736,7 @@ parcofaunistico.it##.buttonGuardaOra
 altadefinizione01.army,altadefinizione01.software,altadefinizione01.works##.buttonbox
 pensieriparole.it##.buyblock
 sitiscommesse.com##.bwin
+asroma.com##.c-feed-card-ad
 empolifc.com##.c-footer__sponsors-container
 meteo.tiscali.it##.c1c3
 tuttoandroid.net##.card
@@ -1124,6 +1125,9 @@ rimini.com##.row-bann-home-mobile
 magodelpronostico.com##.row-info-bonus
 wikihow.it##.rr_container
 cliccascienze.it##.rtecenter
+asroma.com##.s-navigation-tool-sponsors
+asroma.com##.s-primary-sponsors
+asroma.com##.s-secondary-sponsors
 ilsole24ore.com##.s24-abox
 genova24.it,ivg.it,lacnews24.it##.sb-banner
 siracusaoggi.it##.sbottom-wrapper
