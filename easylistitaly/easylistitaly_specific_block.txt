@@ -25,6 +25,7 @@
 ||4actionsport.it^*/skin-
 ||51news.it/images/banners/
 ||51news.it/images/banners_
+||70-80.it^*/MCLbanner-pubblicitario-
 ||7per24.it^*/Banco_Alimentare.
 ||7per24.it^*/legacoop.
 ||7per24.it^*/logoBoorea2-
