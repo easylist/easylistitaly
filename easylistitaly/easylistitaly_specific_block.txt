@@ -2209,6 +2209,7 @@
 ||radiotoscana.it^*/Banner-
 ||radiotoscana.it^*/Bernina-
 ||radiotoscana.it^*_banner_
+||radiowow.com^*/BANNER-
 ||ragusah24.it^*/cornice-
 ||ragusanews.com//immagini_banner/
 ||ragusanews.com/images_banner/
