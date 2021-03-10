@@ -2125,6 +2125,7 @@
 ||radiogold.it/images/banners/
 ||radiogold.it^*/Banner-
 ||radiogold.it^*/banner/
+||radiogold.it^*/banner_
 ||radiogold.it^*/foral-
 ||radioibiza.it/images/banners/
 ||radioinblu.it^*/skin/
