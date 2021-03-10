@@ -932,6 +932,7 @@
 ||football-magazine.it^*/BANNER
 ||football-magazine.it^*/FOOTER
 ||fordfiestaitalia.com^*/sponsor/
+||fortitudobaseball.it/images/sponsor/
 ||fortuneita.com^*/Banner
 ||fortuneita.com^*300x250
 ||fortuneita.com^*900x120
