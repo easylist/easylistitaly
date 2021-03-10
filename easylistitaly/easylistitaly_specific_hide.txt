@@ -105,6 +105,7 @@ sslazio.it###bottom
 hwupgrade.it###box-next-container
 diretta.it###box-over-content-a
 guidaviaggi.it###boxBannerSKIN
+ilpentasport.it###boxSponsor
 lasicilia.it###box_banner
 libero.it###box_expedia_case
 affaritaliani.it###box_immo
@@ -114,6 +115,8 @@ virgilio.it###box_solo_promozioni
 masterviaggi.it###box_sponsor
 subito.it###bs_textlinks
 gamesvillage.it###buy_amazon
+ilpentasport.it###bx-next-sponsor
+ilpentasport.it###bx-prev-sponsor
 ascolicalcio1898.it###carousel
 foodbloggermania.it###categories-2
 newsf1.it###cb-bg-to
