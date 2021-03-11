@@ -2633,6 +2633,11 @@
 ||tg24.info^*/banners/
 ||tgcal24.it^*-banner-
 ||tgcal24.it^*/banner_
+||tgfuneral24.it^*-280x105.
+||tgfuneral24.it^*-300x110-
+||tgfuneral24.it^*-300x110.
+||tgfuneral24.it^*/banner-
+||tgfuneral24.it^*_680x250.
 ||tgmax.it/wp-content/uploads/2018/05/1.png
 ||theitaliantimes.it/js/gpt.plus.min.js
 ||tiburno.tv^*/Dott-house-2-.gif
