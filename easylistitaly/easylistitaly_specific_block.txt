@@ -1716,6 +1716,9 @@
 ||milanosud.it^*/banner-
 ||milanosud.it^*/BANNER_
 ||minews.it^*/OROLOGI.gif
+||minformo.com/img/ipini.png
+||minformo.com/img/ipini2.png
+||minformo.com/img/sicuro.png
 ||mio-ip.eu^*/offerte-amazon-
 ||miotv.it/public/componenti/
 ||mitology.it^*/skin-
