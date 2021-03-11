@@ -251,7 +251,7 @@ stadionews.it###manchette_sx_container
 acspezianews.it,campaniasoccer.com,dailybest.it,f1-news.eu,forum.tomshw.it,leonardo.it,messinanelpallone.it,politicanews.it,ricettedalmondo.it,tuttoavellino.it,tuttobari.com,tuttomonza.it,tuttorunning.net,tuttosalernitana.com,tuttoudinese.it###masthead
 matematicamente.it###masthead-desktop-wrapper
 ondarock.it###masthead_or
-chepreparo.it,ilgazzettinodisicilia.it,it-casinoonline.com###media_image-2
+allasianfootball.com,chepreparo.it,ilgazzettinodisicilia.it,it-casinoonline.com###media_image-2
 corriereelorino.it,tecnofacile.com###media_image-3
 altropensiero.net,corriereelorino.it,it-casinoonline.com,italiaonline.news###media_image-4
 staynerd.com###media_image-40
