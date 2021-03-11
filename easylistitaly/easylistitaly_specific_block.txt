@@ -1054,6 +1054,8 @@
 ||giornaleradio.fm^*/320x25_
 ||giornalerossoblu.it^*/20191211_
 ||giornalerossoblu.it^*/locandina-idraulica-
+||giornalesm.com^*-300x100.
+||giornalesm.com^*-768x256.
 ||giornalesm.com^*/0-1-1.gif
 ||giornalesm.com^*/0.png
 ||giornalesm.com^*/6644_2455.gif
@@ -1068,6 +1070,7 @@
 ||giornalesm.com^*/prova2.jpg
 ||giornalesm.com^*/Schermata-2019-06-13-alle-18.15.21-
 ||giornalesm.com^*_banner-
+||giornalesm.com^*_Banner_
 ||giornalesm.com^*Webp.net-gifmaker-8.gif
 ||giornalesm.com^/Sarangelini_
 ||giornalisti.vivere.srl^
