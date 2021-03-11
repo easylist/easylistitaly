@@ -744,6 +744,7 @@
 ||cronacaqui.it^*/banner-
 ||cronacaqui.it^*/mmotors.jpg
 ||cronachedibirra.it^*/banner_
+||cronachedibirra.it^*/LOGO-EUROSTAR-
 ||cronachetarantine.it/images/banners/
 ||cronachetarantine.it^*/53c487a8-
 ||cronachetarantine.it^*/a321c1cd-
