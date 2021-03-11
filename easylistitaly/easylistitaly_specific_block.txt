@@ -2047,6 +2047,10 @@
 ||prospettivegeometri.it^*_Banner_
 ||psicologianeurolinguistica.net^*/banner-
 ||psicologianeurolinguistica.net^*/mindlab.jpg
+||punterforum.com^*/15fc36bf8c9fe2.jpg
+||punterforum.com^*/15fc8048388efc.jpg
+||punterforum.com^*/16007259554d7a.png
+||punterforum.com^*/16047d626b729e.jpg
 ||pyrosonline.it/site/public/image/20200131153026.jpg
 ||qcanavese.it/banner/
 ||qdmnotizie.it^*-Skin_

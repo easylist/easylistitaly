@@ -1140,6 +1140,7 @@ asroma.com##.s-navigation-tool-sponsors
 asroma.com##.s-primary-sponsors
 asroma.com##.s-secondary-sponsors
 ilsole24ore.com##.s24-abox
+community.punterforum.com##.samItem
 genova24.it,ivg.it,lacnews24.it##.sb-banner
 siracusaoggi.it##.sbottom-wrapper
 amazon.it##.sbv-video-single-product
