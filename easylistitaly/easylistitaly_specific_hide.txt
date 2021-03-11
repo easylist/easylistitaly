@@ -1376,6 +1376,7 @@ hwupgrade.it##.wrapper-xyz
 rivistanatura.com##.zcx
 rivistanatura.com##.zcx-img
 eurosat-online.it##.zedo
+weboggi.it##.zen
 zingarate.com##.zg-malta
 consigli.it##.zio_
 ilmigliore.org##.ziobox
