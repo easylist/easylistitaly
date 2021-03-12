@@ -591,6 +591,8 @@
 ||cb01.solutions/imgc/b_
 ||cb01.solutions/imgc/side/s_
 ||cb01.support/4k/
+||cb01.uno/imgc/b_
+||cb01.uno/imgc/side/s_
 ||cb01.vin/imgc/b_
 ||cb01.vin/imgc/side/s_
 ||cb01.wales/imgc/b_
