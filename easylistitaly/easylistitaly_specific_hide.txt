@@ -107,6 +107,7 @@ hwupgrade.it###box-next-container
 diretta.it###box-over-content-a
 guidaviaggi.it###boxBannerSKIN
 ilpentasport.it###boxSponsor
+subito.it###box_agos
 lasicilia.it###box_banner
 libero.it###box_expedia_case
 affaritaliani.it###box_immo
