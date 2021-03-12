@@ -1,3 +1,4 @@
+/vss/*$popup,domain=filmpertutti.li
 ||altadefinizione.coach/4k/$popup
 ||altadefinizione01.store/UHD/$popup
 ||altadefinizone.click/HD/$popup
