@@ -302,7 +302,7 @@ skylinewebcams.com###rpc
 alwaysonboard.it###sab_content
 ilpost.it###scrolling-container
 nuovosud.it###sfondo
-calabria7.it###sgpb-popup-dialog-main-div
+calabria7.it,gamelegends.it###sgpb-popup-dialog-main-div
 eurogamer.it###sidebar_amazon
 vienormali.it###site-header-banner
 vienormali.it###site-header-leaderboard
@@ -881,6 +881,8 @@ agendadigitale.eu##.gallery-container-home
 virtusfrancavilla.it##.gallery-icon
 giornalerossoblu.it,telepegaso.it##.gallery-item
 1001giochi.it##.game-leaderboard
+gamelegends.it##.gamel-after
+gamelegends.it##.gamel-masthead
 giardiniblog.it##.gbam
 zerocinquantuno.it##.gdlr-logo
 1001giochi.it##.general-leaderboard
@@ -1153,7 +1155,7 @@ atalanta.it##.section_sponsor
 ad-italia.it##.sectionbox
 excite.it##.serp-item
 calabria7.it##.sg-popup-builder-content
-calabria7.it##.sgpb-popup-overlay
+calabria7.it,gamelegends.it##.sgpb-popup-overlay
 aphorism.it,bloopers.it##.shop
 ilgeniodellostreaming.tel##.show-download
 tiscali.it##.shp-prd-ed-day
@@ -1710,7 +1712,7 @@ canonclubitalia.com##img[width="632"][height="123"]
 beverfood.com##img[width="650"][height="320"]
 minformo.com##img[width="720"][height="125"]
 tennispavese.it##img[width="728"]
-finanzareport.it,larampa.it##img[width="728"][height="90"]
+finanzareport.it,gamelegends.it,larampa.it##img[width="728"][height="90"]
 calabria7.it##img[width="750"][height="250"]
 calabria7.it##img[width="945"][height="150"]
 hotcorn.com##input[class="post-movie-button-chili"]

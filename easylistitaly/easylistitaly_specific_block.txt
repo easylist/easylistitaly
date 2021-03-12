@@ -958,6 +958,8 @@
 ||galluratvlive.com^*/stel-srl-
 ||game-experience.it^*/BANNER-
 ||gamelegends.it^*/instant-gaming-
+||gamelegends.it^*_Masthead_780x260_
+||gamelegends.it^*_pop-up_550x480_
 ||gamesoul.it^*/skin-
 ||gamesvillage.it/ajax.php?do=gv_amazon_page&
 ||gamingtoday.it^*/Banner-
