@@ -120,6 +120,7 @@
 ##.actio-adlabel
 ##.ad-fisso
 ##.ad-orizzontale
+##.ad-verticale
 ##.adSenseLaterale
 ##.ad_pedice
 ##.adagiowritebanner_dmtag
