@@ -976,6 +976,7 @@ laleggepertutti.it##.lexdo-llpt
 top10cose.it##.link-affiliazione
 business24tv.it##.link-at-body
 balarm.it##.link-skin
+pressgiochi.it##.linkSkin
 monitorimmobiliare.it,winenews.it##.link_skin
 skillandbet.com##.list-unstyled
 diretta.it##.live-betting-strip
