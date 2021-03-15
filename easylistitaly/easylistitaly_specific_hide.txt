@@ -257,7 +257,7 @@ corriereelorino.it,tecnofacile.com###media_image-3
 altropensiero.net,corriereelorino.it,it-casinoonline.com,italiaonline.news###media_image-4
 staynerd.com###media_image-40
 advister.it###media_image-44
-giornalistitalia.it,it-casinoonline.com###media_image-5
+giornalistitalia.it,it-casinoonline.com,mondo3.com###media_image-5
 altropensiero.net,giornalistitalia.it###media_image-6
 cataniaunafede.it###media_image-7
 giornalistitalia.it,italiaonline.news,mam-e.it###media_image-8
