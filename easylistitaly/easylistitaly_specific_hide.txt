@@ -1519,6 +1519,7 @@ genoanews1893.it##div[astyle="text-align: center; width: 336px; height: 280px; p
 amazon.it##div[cel_widget_id*="_SponsoredProducts"]
 amazon.it##div[cel_widget_id*="_ad-placements-"]
 amazon.it##div[cel_widget_id="desktop-dp-sims_sb-dp-id"]
+homegate.ch##div[class^="AdSlotContainer_"]
 acffiorentina.com,acmilan.com##div[class^="Partners_"]
 lavorincasa.it##div[class^="large-leaderboard"]
 lavorincasa.it##div[class^="medium-rectangle"]
