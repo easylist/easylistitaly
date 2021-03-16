@@ -219,6 +219,7 @@ cronacheancona.it,cronachefermane.it,cronachemaceratesi.it,trivenetogoal.it###in
 sienafree.it###ja-banner300x250
 sienafree.it###ja-bannertop300x250
 sienafree.it###ja-leaderboard
+local.ch###js-banner
 giornaleradio.fm###layerslider_10
 tellows.it###lb_header
 hockeycortina.it###lcs_logo_carousel_wrapper
