@@ -1118,6 +1118,7 @@
 ||gruppotv7.com/img/banner
 ||gruppovideomedia.it/banners/
 ||gsanews.it^*/Banner-
+||guardare.stream/asset/bann.js
 ||guardarefilm.vin/templates/italiafilm/images/btn
 ||guardaserie.cam^*/bottone
 ||guardaserie.cam^*/btn_guarda
