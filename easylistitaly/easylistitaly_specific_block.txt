@@ -2327,6 +2327,14 @@
 ||retesei.com^*/pincios-
 ||rimini.com^*_banner_
 ||rimininews24.it^*/la-pulce-logo.png
+||rinnovabili.it^*/300x80-logo.jpg
+||rinnovabili.it^*/CIRCOILECONOMY-CONOU.jpg
+||rinnovabili.it^*/CONOU-logo100x40-
+||rinnovabili.it^*/earth-day-2020-onepeopleoneplanet-300x.jpg
+||rinnovabili.it^*/logo_cobat.
+||rinnovabili.it^*/next-chem-banner-hp.gif
+||rinnovabili.it^*/rse-ricerca-sistema-energetico.png
+||rinnovabili.it^*/speciale-cobat.png
 ||risorsedidattiche.net/js/yb-risorsedidattichenet.js
 ||rittnerbuam.com/images/sponsor_
 ||robadainformatici.it^*_banner_
