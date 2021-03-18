@@ -1357,6 +1357,8 @@
 ||ingleseprecoce.it^*-400x400.
 ||innaturale.com^*/banner-
 ||innovami.news^*/banner-
+||insic.it/Images/Banners/
+||insic.it/Images/Layout/Banner-
 ||inside.bz.it/images/banners/
 ||inter.it^*/partners/
 ||internapoli.it^*-banner-

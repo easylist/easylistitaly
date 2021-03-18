@@ -5,6 +5,7 @@ nauticareport.it###BanLeft
 lantidiplomatico.it###BanRight
 nauticareport.it###BanTop
 staffettaonline.com###BnrSolidarieta
+insic.it###ContentPlaceHolder1_pnBanners
 mymovies.it###Middle3_hp
 chimerarevo.com###TopWidgetArea
 digital-forum.it,ebaygeneration.com,elaborare.com,esigarettaforum.com,milanworld.net,thegamesmachine.it###ad_global_below_navbar
@@ -29,7 +30,7 @@ eurogamer.it###auto-amazon-link
 gnoccatravels.com###b-nner-right-list
 libero.it###b468x60bottoms
 10cose.it,scorcidimondo.it###b_searchboxInc
-bazar.it,inconcreto.net,ingenio-web.it,pavimenti-web.it###background
+bazar.it,inconcreto.net,ingenio-web.it,insic.it,pavimenti-web.it###background
 brocardi.it###background-head-spacer
 brindisisettenews.it###background_body
 beverfood.com###backy
