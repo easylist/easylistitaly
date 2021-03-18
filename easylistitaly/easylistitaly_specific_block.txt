@@ -1577,6 +1577,7 @@
 ||ligurianautica.com^*/Logo-MNC.gif
 ||ligurianautica.com^*/pagliarini-desk.gif
 ||ligurianautica.com^*300x250
+||lineaedp.it^*/skin_
 ||lineameteo.it^*/banner_
 ||lineauno.it^*/300x300_
 ||lineauno.it^*/estrawebluce_
