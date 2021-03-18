@@ -582,7 +582,7 @@ universodelgioco.it##.banner-leaderboard
 italiafruit.net##.banner-m
 viversano.net##.banner-mid
 mattinonline.ch##.banner-only
-calabriareportage.it,calcioitalia24.it##.banner-promotions-wrapper
+calabriareportage.it,calcioitalia24.it,lameziaterme.it##.banner-promotions-wrapper
 radiotoscana.it##.banner-radio
 umbria24.it##.banner-show-desktop
 leccesette.it##.banner-side
