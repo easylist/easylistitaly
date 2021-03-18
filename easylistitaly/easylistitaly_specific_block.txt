@@ -2981,6 +2981,7 @@
 ||vercellioggi.it^*/banner-
 ||veronanetwork.it^*/banner-
 ||veronanetwork.it^*/PANTHEON_ADV_
+||viaggioff.it^*/okBanner-
 ||viaggioingermania.it^*/corso-tedesco-
 ||viamichelin.ch/static/*/adblocker/advertising.js
 ||viamichelin.it/static/*/adblocker/advertising.js
