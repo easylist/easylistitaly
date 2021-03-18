@@ -2771,6 +2771,7 @@
 ||trivenetogoal.it^*-300-X-250-
 ||trivenetogoal.it^*/padova-300.jpg
 ||trmtv.it^*/banner_
+||trmtv.it^*/banners/
 ||trmweb.it^*/banner-
 ||trnews.it^*/Banner-
 ||tropeaedintorni.it^*/BanneBBLibertinoTropea.jpg
