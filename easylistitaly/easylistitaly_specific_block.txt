@@ -534,7 +534,14 @@
 ||casaleoggi.it^*/banner/
 ||casaleoggi.it^*_banner_
 ||casateonline.it/public/banner/
+||casertaweb.com^*/0001.jpg
+||casertaweb.com^*/009.jpg
+||casertaweb.com^*/banner-
+||casertaweb.com^*/damarco2020.jpg
+||casertaweb.com^*/riccio-1.jpg
 ||casertaweb.com^*/sfondo-
+||casertaweb.com^*/simply-e-comm-
+||casertaweb.com^*/terlizzi-libro.gif
 ||castellinotizie.it^*-banner-
 ||castellinotizie.it^*-Banner_
 ||castellinotizie.it^*-deco%CC%80.
