@@ -980,6 +980,7 @@
 ||gammaradio.it/iwm.gif
 ||garedepoca.com/grafica/banner_
 ||gay.it/js/brightcove/adonly.js
+||gay.it/js/brightcove/inread-standalone.php
 ||gazzettabenevento.it/Sito2009/image/banner/
 ||gazzettadellaspezia.it/images/banners/
 ||gazzettadiavellino.it^*-banner.

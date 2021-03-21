@@ -941,6 +941,7 @@ mrw.it##.inadv
 mrw.it##.inadv-label
 giochigratis.net##.inici
 innaturale.com##.innat-widget
+gay.it##.inread-resp-container
 lecconotizie.com##.insert-adv-venerota
 tomshw.it##.instant-gaming-widget
 milanofinanza.it##.intesahead
