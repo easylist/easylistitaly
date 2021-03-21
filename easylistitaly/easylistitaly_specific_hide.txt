@@ -161,7 +161,7 @@ dimagrireduepuntozero.com###custom_html-27
 birramoriamoci.it,calcioatalanta.it,calciofere.it,calciogrifo.it,calciolecce.it,forzaparma.it,labaricalcio.it,quizlab.it,siamolaroma.it,sololalazio.it,tifocosenza.it,trapanigranata.it###custom_html-3
 calciocasteddu.it,carteprepagate.org###custom_html-4
 calcioitalia24.it,italiaonline.news,mam-e.it,melarossa.it###custom_html-5
-calcioitalia24.it,it-casinoonline.com,pentanewslivorno.it###custom_html-6
+calcioitalia24.it,hynerd.it,it-casinoonline.com,pentanewslivorno.it###custom_html-6
 strill.it,tuttotek.it###custom_html-65
 calcioitalia24.it,pistoiasport.com###custom_html-7
 calcioitalia24.it,corrierequotidiano.it,vitaminanews.it###custom_html-8
@@ -1511,7 +1511,7 @@ iobenessere.it##a[href^="https://www.amazon.it/shop/"]
 tuttoamerica.it##a[href^="https://www.anrdoezrs.net/click-"]
 gufo.it,msn.com##a[href^="https://www.awin1.com/"]
 fumettologica.it##a[href^="https://www.catawiki.it"][href*="?utm_"]
-gamelegends.it,spaziogames.it,tuttotek.it##a[href^="https://www.instant-gaming.com/?igr="]
+gamelegends.it,hynerd.it,spaziogames.it,tuttotek.it##a[href^="https://www.instant-gaming.com/?igr="]
 esportsactivity.com##a[href^="https://www.ivacy.com/"]
 videopornoitalia.it##a[href^="https://www.orgasmi899.com"]
 atalanta.it,diventaretrader.com##a[href^="https://www.plus500.com/"]
