@@ -1816,6 +1816,12 @@
 ||mywhere.it^*/310x310.png
 ||napolicittasolidale.it^*/banner/
 ||napolimagazine.com^*/banner-
+||napolivillage.com^*/banner_
+||napolivillage.com^*/fertunina.jpg
+||napolivillage.com^*/fluffy-water.jpg
+||napolivillage.com^*/gineunina.jpg
+||napolivillage.com^*/gli_armonika_
+||napolivillage.com^*/Skin_
 ||narnionline.com/images2/banner/
 ||naturalmania.it^*/inkanti.png
 ||nba24.it^*/banner-
