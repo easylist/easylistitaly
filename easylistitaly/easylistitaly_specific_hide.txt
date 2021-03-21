@@ -1115,6 +1115,7 @@ agoravox.it##.publarge
 giochigratis.net##.publi
 camperonline.it##.publink
 prendiporno.tv##.publis-bottom
+filmpost.it##.publyBanner
 risvegliopopolare.it##.pubr
 lostrillone.tv##.pull-left
 lostrillone.tv##.pull-right
@@ -1249,6 +1250,7 @@ andreagaleazzi.com##.store-box
 100ideeperristrutturare.it,bizjournal.it,casa-naturale.com,fruitbookmagazine.it,primopianomolise.it,quattrozampe.online,radiomovida.net,radioradio.it,uominietrasporti.it,vendingnews.it,villeecasali.com##.strack_cli
 myreviews.it##.stream-item
 mole24.it##.stream-item-above-post-content
+filmpost.it##.stream-item-top
 ilcorriere.net,mole24.it##.stream-item-top-wrapper
 filmtv.it##.streaming
 affaritaliani.it##.strillo-speciale3
