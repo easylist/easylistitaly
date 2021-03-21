@@ -2870,6 +2870,8 @@
 ||tuttoin1.it^*/logo-dadopet-
 ||tuttoin1.it^*/logo-pubblimedia-
 ||tuttonatale.it^*/tutto-costumi-
+||tuttotek.it^*/Catch.jpg
+||tuttotek.it^*/instant-banner-
 ||tuttotone.app/assets/img/banner/
 ||tuttotrasporti.it^*/notizieSponsorizzate/
 ||tuttozampe.com^*/Premium_
