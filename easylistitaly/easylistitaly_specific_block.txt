@@ -2628,6 +2628,7 @@
 ||targatocn.it^*/banner/
 ||tccstatic.com/template/*/js/p-$script
 ||tcinformatica.net/1/173x173/$domain=cattolica.info
+||teatronaturale.it/media2/partners/
 ||technologyreview.it/_media/_adv/
 ||techprincess.it^*/Forbes-
 ||tecnofacile.com^*/guida-regali-high-tech.jpg
