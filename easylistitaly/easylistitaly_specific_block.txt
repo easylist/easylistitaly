@@ -1158,6 +1158,11 @@
 ||hellogreen.it^*600x600
 ||historychannel.it^*/swissre.
 ||hobbyquotidiano.com^*/amazon_
+||horecanews.it/wp-content/uploads/angwp/
+||horecanews.it^*/Banner-
+||horecanews.it^*/banner_
+||horecanews.it^*_background_
+||horecanews.it^*_Banner_
 ||hovogliadidolce.it^*/banner-
 ||html.it^*/banner/
 ||hwreload.com/img/alphacool_logo.gif
