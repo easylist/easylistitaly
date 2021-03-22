@@ -892,6 +892,7 @@ gamelegends.it##.gamel-after
 gamelegends.it##.gamel-masthead
 giardiniblog.it##.gbam
 zerocinquantuno.it##.gdlr-logo
+ferraraitalia.it##.gdlr-logo-right-banner
 1001giochi.it##.general-leaderboard
 poki.it##.gf.Hd.zc
 giornaledelcilento.it##.giorn-prima-del-contenuto
