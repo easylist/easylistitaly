@@ -1806,6 +1806,7 @@
 ||monza-news.it^*/perego.jpg
 ||monza-news.it^*/termotecnica-
 ||monzacalcio.com/images/sponsors/
+||moondo.info/adv/
 ||motori360.it^*-300-x-150-px.
 ||motori360.it^*/300x150.
 ||motori360.it^*/enjoy-eni.gif
