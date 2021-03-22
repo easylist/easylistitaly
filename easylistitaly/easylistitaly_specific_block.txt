@@ -1549,6 +1549,7 @@
 ||lavorincasa.it/adb/
 ||lavorincasa.it/product/
 ||lavoripubblici.it/banner/
+||lavoroecarriere.it^*/sm-banner.
 ||lazioingol.it^*/baked.jpg
 ||laziopress.it^*/banner_
 ||laziopress.it^*/unipolsai_
