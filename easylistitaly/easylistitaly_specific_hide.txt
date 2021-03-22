@@ -648,7 +648,7 @@ corriereal.info##.banner_wrapper
 brindisisera.it##.bannerbox
 treccani.it##.bannercontainer
 ilgiornaledellabellezza.it##.bannergrid
-105tv.it,aostaoggi.it,faidatehobby.it,giornaledimontesilvano.com,ildispaccio.it,ilgazzettinobr.it,ilgrigioneitaliano.ch,kisskiss.it,kisskissitalia.it,kisskissnapoli.it,lametino.it,maremmanews.it,metanogpl.it,ondalibera.it,qdpnews.it,sienafree.it,umbriatv.com,videomediterraneo.it,youtg.net##.bannergroup
+105tv.it,aostaoggi.it,faidatehobby.it,giornaledimontesilvano.com,ildispaccio.it,ilgazzettinobr.it,ilgrigioneitaliano.ch,kisskiss.it,kisskissitalia.it,kisskissnapoli.it,lametino.it,maremmanews.it,metanogpl.it,ondalibera.it,puntovendita.info,qdpnews.it,sienafree.it,umbriatv.com,videomediterraneo.it,youtg.net##.bannergroup
 radiogold.it##.bannergroupskin-banner-module
 saturnonotizie.it##.bannerheader
 radioitaliacina.com##.banneritem

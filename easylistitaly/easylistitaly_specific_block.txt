@@ -2114,6 +2114,7 @@
 ||punterforum.com^*/15fc8048388efc.jpg
 ||punterforum.com^*/16007259554d7a.png
 ||punterforum.com^*/16047d626b729e.jpg
+||puntovendita.info/images/banners/
 ||pyrosonline.it/site/public/image/20200131153026.jpg
 ||qcanavese.it/banner/
 ||qdmnotizie.it^*-Skin_
