@@ -2769,6 +2769,7 @@
 ||trapanicalcio.it^*/nuova-sicilauto.jpg
 ||trapanicalcio.it^*/superconvieniente.png
 ||trapaniok.it/public/banner/
+||trapanisi.it/wp-content/banners/
 ||trasporti-italia.com^*/banner/
 ||trattamentinaturalibio.it^*-banner.
 ||trattamentinaturalibio.it^*-promozione-
