@@ -7,6 +7,7 @@
 @@||adv.mediamond.it^*/tag_adv_mediamond.js$domain=105.net|r101.it|radiomontecarlo.net|virginradio.it
 @@||ansa.it^*/ad-gallery/$image
 @@||antonioranesi.it/cache/Lavori/Pubblicita/$~third-party
+@@||aperture-supermercati.it/immagini/catena-20/conad.jpg
 @@||assets.evolutionadv.it/quantcast-fix.css$domain=money.it
 @@||assets.evolutionadv.it/violations/*.violations.js$domain=money.it
 @@||assets.evolutionadv.it^*/gpt.min.js$domain=money.it
