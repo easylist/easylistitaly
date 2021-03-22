@@ -1020,6 +1020,7 @@ screenweek.it##.matches-container
 radiogold.it##.max-banner-top
 crotoneok.it##.mdl_content
 medicalexcellencetv.it##.medic-widget
+ilmeteo.net##.megabanner
 melarossa.it##.melar-pos-in-article-multiplo
 pistoiasport.com##.menu-banner-wrapper
 sportivissimo.com##.menu4
