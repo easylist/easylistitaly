@@ -1249,6 +1249,7 @@ occhionotizie.it##.sticky_bar_container
 webnews.it##.sticky_wrapper
 androidworld.it,mobileworld.it##.store-affiliation
 andreagaleazzi.com##.store-box
+fruitbookmagazine.it##.strack_bnr
 100ideeperristrutturare.it,bizjournal.it,casa-naturale.com,fruitbookmagazine.it,horecanews.it,primopianomolise.it,quattrozampe.online,radiomovida.net,radioradio.it,uominietrasporti.it,vendingnews.it,villeecasali.com##.strack_cli
 myreviews.it##.stream-item
 mole24.it##.stream-item-above-post-content
