@@ -1182,10 +1182,15 @@
 ||iamnaples.it^*/giovane_italia.png
 ||iamnaples.it^*/IMG-20201113-WA0115.jpg
 ||icnradio.com/images/banners/
+||ideawebtv.it^*-
+||ideawebtv.it^*-Banner-
 ||ideawebtv.it^*/25-0920-
+||ideawebtv.it^*/ACasaoikos.jpg
+||ideawebtv.it^*/Agri_IdeaWEb310x250_
 ||ideawebtv.it^*/Albatherm-
 ||ideawebtv.it^*/Atelier-grigio_
 ||ideawebtv.it^*/BAM.jpg
+||ideawebtv.it^*/Barberis-impianti.jpg
 ||ideawebtv.it^*/Battuta_Formento-
 ||ideawebtv.it^*/Bus-company_
 ||ideawebtv.it^*/Cappelleria-
@@ -1194,9 +1199,12 @@
 ||ideawebtv.it^*/Compral_
 ||ideawebtv.it^*/Crudo-
 ||ideawebtv.it^*/Ctr_
+||ideawebtv.it^*/Dulcioliva.jpg
 ||ideawebtv.it^*/Galup_
 ||ideawebtv.it^*/Il-materasso_
 ||ideawebtv.it^*/La-maison-
+||ideawebtv.it^*/Marco-Polo.jpg
+||ideawebtv.it^*/Master-security_
 ||ideawebtv.it^*/millone.jpg
 ||ideawebtv.it^*/Pack-Service-
 ||ideawebtv.it^*/Porta-Garibaldi.jpg
@@ -1206,6 +1214,8 @@
 ||ideawebtv.it^*/Vodafone.jpg
 ||ideawebtv.it^*/WK_IdeaWeb-
 ||ideawebtv.it^*_350x250px-
+||ideawebtv.it^*_Banner_
+||ideawebtv.it^/Paneco.jpg
 ||ideefesta.it^*/lista-nascita.jpg
 ||ideefesta.it^*/lista-nozze-
 ||ideeregaloper.it^*/bf.jpg

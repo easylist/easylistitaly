@@ -212,6 +212,7 @@ rovigooggi.it###home-pbreak-space
 transfermarkt.it###home-rectangle-spotlight
 rovigooggi.it###home-super-space
 telegolfo.com###html_javascript_adder-16
+ideawebtv.it###ideaw-slider-45856
 corrierenazionale.it###image-3
 4yougratis.it###img-60x60
 affaritaliani.it###immo-300x250
@@ -581,6 +582,7 @@ ebikecult.it,mtbcult.it##.banner-homepage-slider-728-90
 italiafruit.net##.banner-i
 picenonews24.it##.banner-img
 cremona1.it##.banner-inner
+ideawebtv.it##.banner-laterale-default
 universodelgioco.it##.banner-leaderboard
 italiafruit.net##.banner-m
 viversano.net##.banner-mid
@@ -1481,7 +1483,7 @@ altadefinizione.sh##a[href*="/view.php?"]
 altadefinizione01.software##a[href*="/vod2k.php"]
 altadefinizione.gg,altadefinizione.ph,filmpertutti.li,filmpertutti.lol,filmpertutti.onl,ilgeniodellostreaming.dance##a[href*="/vss/"]
 birramoriamoci.it##a[href*="?affiliates="]
-anteprima24.it,gnoccatravels.com,juzaphoto.com,lavorincasa.it,mangaforever.net,milanofinanza.it,phica.net,voglioporno.com##a[href*="?utm_"]
+anteprima24.it,gnoccatravels.com,ideawebtv.it,juzaphoto.com,lavorincasa.it,mangaforever.net,milanofinanza.it,phica.net,voglioporno.com##a[href*="?utm_"]
 corrierenazionale.it##a[href="http://www.herobet.it/"]
 comprovendolibri.it##a[href^="/conta.asp?"]
 altadefinizione.name##a[href^="/definizione/"]
@@ -1732,6 +1734,9 @@ beverfood.com##img[width="300"][height="600"]
 agraria.org##img[width="300"][height="80"]
 umbriaoggi.news##img[width="300"][height="90"]
 calabria7.it##img[width="301"][height="251"]
+ideawebtv.it##img[width="310"][height="120"]
+ideawebtv.it##img[width="310"][height="250"]
+ideawebtv.it##img[width="310"][height="252"]
 umbriaoggi.news##img[width="315"][height="150"]
 calabria7.it##img[width="320"][height="250"]
 lemillebolleblog.it,vinoalvino.org##img[width="320"][height="320"]
