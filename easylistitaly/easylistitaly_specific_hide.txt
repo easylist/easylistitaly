@@ -1294,7 +1294,7 @@ calciofemminileitaliano.it,calciomercato.it,gametimers.it,gamingtoday.it,phoneto
 radioradio.it##.td-fix-index
 amoreaquattrozampe.it##.td-footer-container
 ilgiornaledeltermoidraulico.it,pescaracalcio.com,tennispavese.it,ternanacalcio.com##.td-footer-wrapper
-4actionsport.it,ilbacodaseta.org,okpronostico.it,scattidigusto.it##.td-header-rec-wrap
+4actionsport.it,fiorentina.news,ilbacodaseta.org,okpronostico.it,scattidigusto.it##.td-header-rec-wrap
 laspia.it,ragusah24.it,romanews.eu##.td-header-sp-recs
 gdoweek.it##.td-leaderboard-wrap-full
 ideeviaggio.it##.td-ss-main-sidebar
@@ -1388,6 +1388,7 @@ vicenzanews.it##.wifiplaza
 tuttitalia.it##.wk
 tuttotek.it##.wpb_wrapper > a[href^="https://www.amazon.it/"]
 palermolive.it##.wpls-logo-showcase
+fiorentina.news##.wpls-logo-showcase-slider-wrp
 androidblog.it,best5.it,lapappadolce.net,tuttosullapostaelettronica.it##.wpmc_inject_wrapper
 tuttoapp-android.com##.wpmoneyclick_amazon_box
 advister.it##.wpmoneyclick_template_prices_comp

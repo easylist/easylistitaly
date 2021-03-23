@@ -933,6 +933,7 @@
 ||finaria.it^*/broker-regolamentato.gif
 ||finaria.it^*/trading-online-comprare-azioni-
 ||fiorentina.news/banner
+||fiorentina.news^*/fbbuste-
 ||fiorentinanews.com^*/Banner
 ||fiorentinanews.com^*/fiorentina_news.jpg
 ||fiorentinanews.com^*/received_404151127453365.gif
