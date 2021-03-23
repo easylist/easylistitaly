@@ -158,7 +158,7 @@ tuttojuve24.it###custom_html-21
 fiorditerra.eu###custom_html-23
 dimagrireduepuntozero.com,strill.it###custom_html-25
 dimagrireduepuntozero.com###custom_html-27
-birramoriamoci.it,calcioatalanta.it,calciofere.it,calciogrifo.it,calciolecce.it,forzaparma.it,labaricalcio.it,quizlab.it,siamolaroma.it,sololalazio.it,tifocosenza.it,trapanigranata.it###custom_html-3
+androidblog.it,birramoriamoci.it,calcioatalanta.it,calciofere.it,calciogrifo.it,calciolecce.it,forzaparma.it,labaricalcio.it,quizlab.it,siamolaroma.it,sololalazio.it,tifocosenza.it,trapanigranata.it###custom_html-3
 calciocasteddu.it,carteprepagate.org###custom_html-4
 calcioitalia24.it,italiaonline.news,mam-e.it,melarossa.it###custom_html-5
 calcioitalia24.it,hynerd.it,it-casinoonline.com,pentanewslivorno.it###custom_html-6
@@ -358,6 +358,7 @@ geologi.it###table113
 gamesvillage.it###takeover_gv
 ecovicentino.it###td-layer-audio-article-banner
 radioluna.it###testata
+androidblog.it###text-10
 lol-esports.it###text-11
 golbym.com###text-12
 clientiesperti.it,studio5fm.com###text-13
@@ -1381,7 +1382,7 @@ vicenzanews.it##.wifiplaza
 tuttitalia.it##.wk
 tuttotek.it##.wpb_wrapper > a[href^="https://www.amazon.it/"]
 palermolive.it##.wpls-logo-showcase
-best5.it,lapappadolce.net,tuttosullapostaelettronica.it##.wpmc_inject_wrapper
+androidblog.it,best5.it,lapappadolce.net,tuttosullapostaelettronica.it##.wpmc_inject_wrapper
 tuttoapp-android.com##.wpmoneyclick_amazon_box
 advister.it##.wpmoneyclick_template_prices_comp
 tuttoapp-android.com##.wpmoneyclick_template_simple_button
