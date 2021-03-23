@@ -125,6 +125,7 @@
 ##.ad_pedice
 ##.adagiowritebanner_dmtag
 ##.adivi-infeed
+##.ads--primo-piano
 ##.ads-dx
 ##.ads-sx
 ##.ads_dx
