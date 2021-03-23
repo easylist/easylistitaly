@@ -2537,6 +2537,7 @@
 ||sportchannel214.it^*/rdrink.jpg
 ||sportevai.it/img/banner/
 ||sportevai.it^*-banner.
+||sportface.it^*-BANNER-
 ||sportface.it^*/Banner-
 ||sportmagazinetrentino.it^*-1980x480
 ||sportmagazinetrentino.it^*-sponsoring
