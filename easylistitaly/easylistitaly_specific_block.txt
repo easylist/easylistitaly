@@ -1293,6 +1293,7 @@
 ||ilgiornaleoff.ilgiornale.it^*/Banner-
 ||ilgiornaleoff.ilgiornale.it^*/Banner_
 ||ilgiornaleoff.ilgiornale.it^*/side_banner.
+||ilgolfo24.it^*/pegaso.jpg
 ||ilgrigioneitaliano.ch/images/banners/
 ||ilmartino.it^*/xbanner-
 ||ilmessaggero.it/img/banner_
