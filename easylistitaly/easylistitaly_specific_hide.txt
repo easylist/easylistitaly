@@ -1750,6 +1750,7 @@ livornolive.it##rs-mask-wrap[style="width: 100% !important; height: 100% !import
 amazon.it##span[cel_widget_id="MAIN-CARDS-0"]
 amazon.it##span[class*="widgetId=loom-desktop-brand-footer-slot_hsa-id"]
 bloopers.it##table[name="banner.tbl"]
+pistoiasport.com##td[align="center"] + a[rel="nofollow"]
 ilcaso.it##td[style="border-left: 0px solid rgb(192, 192, 192); border-top-width: 1px; border-bottom-width: 1px;"]
 ! Advanced element hiding rules for Adblock Plus
 ebay.it#?#.s-item:-abp-has(span.s-item__title--tagblock__SPONSORED)

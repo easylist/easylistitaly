@@ -2054,6 +2054,7 @@
 ||pisachannel.tv^*/Toscana-Aeroporti-
 ||pistoiasport.com^*/2a-sicurezza.gif
 ||pistoiasport.com^*/banner-
+||pistoiasport.com^*/bg-gif.gif
 ||pistoiasport.com^*/capannina2k20.gif
 ||pistoiasport.com^*/cs-gisinti-
 ||pistoiasport.com^*/doppioregalo-mister-wizard-
