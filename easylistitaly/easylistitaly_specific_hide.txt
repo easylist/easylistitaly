@@ -1342,6 +1342,7 @@ sanihelp.it##.v2-header-banner
 bresciaoggi.it,larena.it##.v2_banner-wrapper
 ilgiornaledivicenza.it,larena.it##.v3_horz-banner
 bresciaoggi.it,ilgiornaledivicenza.it,larena.it##.v4_section-redazionale-home
+valseriananews.it##.valse-mie-pubblicita
 radioascoli.it##.vc_carousel
 casertaweb.com,pugliapress.org##.vc_carousel-inner
 abruzzoweb.it##.vc_column-inner
