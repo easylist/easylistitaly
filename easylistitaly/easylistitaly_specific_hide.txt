@@ -1255,10 +1255,11 @@ androidworld.it,mobileworld.it##.store-affiliation
 andreagaleazzi.com##.store-box
 fruitbookmagazine.it##.strack_bnr
 100ideeperristrutturare.it,bizjournal.it,casa-naturale.com,fruitbookmagazine.it,horecanews.it,primopianomolise.it,quattrozampe.online,radiomovida.net,radioradio.it,uominietrasporti.it,vendingnews.it,villeecasali.com##.strack_cli
-myreviews.it##.stream-item
+cblive.it,myreviews.it##.stream-item
 mole24.it##.stream-item-above-post-content
 filmpost.it,ilgolfo24.it##.stream-item-top
 ilcorriere.net,mole24.it##.stream-item-top-wrapper
+cblive.it##.stream-item-widget
 filmtv.it##.streaming
 affaritaliani.it##.strillo-speciale3
 ship2shore.it,trend-online.com##.strip
