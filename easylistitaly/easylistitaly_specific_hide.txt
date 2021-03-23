@@ -371,6 +371,7 @@ mbmusic.it###text-21
 rumors.it###text-22
 ilpost.it###text-23
 nerdplanet.it###text-24
+best5.it###text-26
 giornalistitalia.it###text-28
 ricettealvolo.it###text-29
 clientiesperti.it,tecnofacile.com,top10scommesse.it###text-3
@@ -1380,7 +1381,7 @@ vicenzanews.it##.wifiplaza
 tuttitalia.it##.wk
 tuttotek.it##.wpb_wrapper > a[href^="https://www.amazon.it/"]
 palermolive.it##.wpls-logo-showcase
-lapappadolce.net,tuttosullapostaelettronica.it##.wpmc_inject_wrapper
+best5.it,lapappadolce.net,tuttosullapostaelettronica.it##.wpmc_inject_wrapper
 tuttoapp-android.com##.wpmoneyclick_amazon_box
 advister.it##.wpmoneyclick_template_prices_comp
 tuttoapp-android.com##.wpmoneyclick_template_simple_button
