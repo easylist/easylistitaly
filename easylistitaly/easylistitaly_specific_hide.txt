@@ -266,7 +266,7 @@ staynerd.com###media_image-40
 advister.it###media_image-44
 giornalistitalia.it,it-casinoonline.com,mondo3.com###media_image-5
 altropensiero.net,giornalistitalia.it###media_image-6
-cataniaunafede.it###media_image-7
+cataniaunafede.it,vivoconbenessere.it###media_image-7
 giornalistitalia.it,italiaonline.news,mam-e.it###media_image-8
 umbriajournal.com###mh_magazine_custom_posts-17
 catanzaro7.net###mh_magazine_youtube-3
@@ -674,6 +674,7 @@ magentanostra.it##.bdt-logo-carousel-figure
 altadefinizione01.games##.before_player_btn
 reggiosera.it##.betulla-box
 ifood.it##.bg-banner
+vivoconbenessere.it##.bg.landscape
 nuovosud.it##.bg_skin
 libero.it##.big
 ilcaffe.tv##.big_box
