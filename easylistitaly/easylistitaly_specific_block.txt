@@ -399,6 +399,7 @@
 ||bellunopress.it^*/Caaf-Cgil_
 ||bellunopress.it^*/pub_
 ||bellunopress.it^*/tecnosport-
+||benessere-sport.it^*-banner-
 ||benesserecorpomente.it^*/324x250_
 ||benesserecorpomente.it^*/banner-
 ||benesserecorpomente.it^*/banner_

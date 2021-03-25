@@ -260,7 +260,7 @@ acspezianews.it,campaniasoccer.com,dailybest.it,f1-news.eu,forum.tomshw.it,leona
 matematicamente.it###masthead-desktop-wrapper
 ondarock.it###masthead_or
 allasianfootball.com,chepreparo.it,ilgazzettinodisicilia.it,it-casinoonline.com###media_image-2
-corriereelorino.it,tecnofacile.com###media_image-3
+benessere-sport.it,corriereelorino.it,tecnofacile.com###media_image-3
 altropensiero.net,corriereelorino.it,it-casinoonline.com,italiaonline.news###media_image-4
 staynerd.com###media_image-40
 advister.it###media_image-44
