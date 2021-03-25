@@ -1391,7 +1391,7 @@ palermolive.it##.wpls-logo-showcase
 fiorentina.news##.wpls-logo-showcase-slider-wrp
 androidblog.it,best5.it,lapappadolce.net,tuttosullapostaelettronica.it##.wpmc_inject_wrapper
 tuttoapp-android.com##.wpmoneyclick_amazon_box
-advister.it##.wpmoneyclick_template_prices_comp
+advister.it,vitaminanews.it##.wpmoneyclick_template_prices_comp
 tuttoapp-android.com##.wpmoneyclick_template_simple_button
 simonemaestri.com##.wpmoneyclick_template_single-product
 corriereelorino.it##.wps-bt-background-takeover-id
