@@ -1773,6 +1773,7 @@
 ||meteofinanza.com^*/1920x1080_
 ||meteofinanza.com^*/eToro.png
 ||meteovalmorea.it^*/banners/
+||mialleno.it^*/2020-02-15-2.png
 ||milanodabere.it/images/archivio/2000x1000/
 ||milanofinanza.it^*/activtrades.gif
 ||milanofinanza.it^*/sponsor2.png
