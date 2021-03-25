@@ -15,6 +15,8 @@ agarymathematics.net,timgate.it###adv1
 libero.it###adv_topper
 catt.ch###advertising
 casasuper.it###ai_widget-11
+unadonnasana.it###ai_widget-2
+unadonnasana.it###ai_widget-3
 casasuper.it###ai_widget-5
 casasuper.it###ai_widget-7
 amazon.it###ape_Detail_ad-endcap-1_Glance_placement
