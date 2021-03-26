@@ -2793,6 +2793,7 @@
 ||terranauta.it/banner/
 ||terranuova.it^*/ad$xmlhttprequest
 ||terranuova.it^*/banner/
+||terremarsicane.it^*/banner-
 ||tfnweb.it^*/BANNERDX-
 ||tfnweb.it^*/centro-oculistico-logo-
 ||tfnweb.it^*/COSAT.jpg
