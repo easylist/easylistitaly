@@ -368,6 +368,9 @@
 ||atalanta.it^*/Banner-
 ||atalanta.it^*_banner_
 ||atleticamentefoto.it/images/banners/
+||atripaldanews.it^*/IMG_2627.jpg
+||atripaldanews.it^*/IMG_9633.png
+||atripaldanews.it^*/riq.jpeg
 ||audirsclub.it/images/misc/Faratech
 ||audisportclub.com/banner/
 ||autobusweb.com^*-Banner-
