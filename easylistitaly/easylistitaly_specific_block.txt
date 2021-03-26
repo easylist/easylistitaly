@@ -1399,9 +1399,13 @@
 ||informagiovani-italia.com/viaggiare.jpg
 ||informare.it/images/shipstore
 ||informazionecomunicazione.it^*-banner-
+||informazionecomunicazione.it^*/banner-
 ||informazionecomunicazione.it^*/Banner800x800-
-||informazionecomunicazione.it^*/bANNER_
+||informazionecomunicazione.it^*/BANNER_
+||informazionecomunicazione.it^*/carlomagno.jpg
+||informazionecomunicazione.it^*/hosting-promozione-offerte.png
 ||informazionecomunicazione.it^*/magna-graecia-768x768.jpg
+||informazionecomunicazione.it^*/radio-calabria.png
 ||informazionecomunicazione.it^*/RUSSO-CARIATI-300x300.jpg
 ||informazioneonline.it/wp-content/banners/
 ||ingleseprecoce.it^*-400x400.
