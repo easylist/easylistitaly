@@ -657,6 +657,7 @@ treccani.it##.bannercontainer
 ilgiornaledellabellezza.it##.bannergrid
 105tv.it,aostaoggi.it,faidatehobby.it,giornaledimontesilvano.com,ildispaccio.it,ilgazzettinobr.it,ilgrigioneitaliano.ch,kisskiss.it,kisskissitalia.it,kisskissnapoli.it,lametino.it,maremmanews.it,metanogpl.it,ondalibera.it,puntovendita.info,qdpnews.it,sienafree.it,umbriatv.com,videomediterraneo.it,youtg.net##.bannergroup
 radiogold.it##.bannergroupskin-banner-module
+filmforlife.org##.bannerh
 saturnonotizie.it##.bannerheader
 radioitaliacina.com##.banneritem
 prezzifarmaco.it##.bannernativo
@@ -1037,6 +1038,7 @@ sportivissimo.com##.menu4
 altraeta.it,ecoaltomolise.net,lostrillonenews.it,newslinet.com,radiodeltainternational.it,tvcity.it,vulturenews.net##.metaslider
 ebay.it##.mfe-recos-container
 forumfree.it##.mgbox
+filmforlife.org##.mh-footer
 castellinotizie.it,catanzaro7.net##.mh-header-widget-2
 meteoeradar.it##.min-height
 automoto.it,moto.it##.mit-skin-spacer
