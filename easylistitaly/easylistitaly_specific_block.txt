@@ -2509,6 +2509,8 @@
 ||secolo-trentino.com^*/hormann-runner.jpg
 ||secureservercdn.net^*/bzw.7ad.$domain=it-casinoonline.com
 ||segretodonna.com^*/720x90-
+||seguonews.it^*/banner/
+||seguonews.it^*/banner_
 ||senigallianotizie.it/banner/
 ||sentireascoltare.com^*/auto-doc.it-
 ||sentireascoltare.com^*/motordoctor.gif

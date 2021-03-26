@@ -170,6 +170,7 @@
 ##.adv_margin
 ##.adv_oriz
 ##.adv_vert
+##.adv_video
 ##.advdsk
 ##.advhead
 ##.advnext_correlati
@@ -255,6 +256,8 @@
 ##.tccbanner
 ##.textual-adv-text
 ##.tn_adv
+##.topadv_left
+##.topadv_right
 ##.view-pubblicita
 ##.widget_adv_multi
 ##.widget_n1ad
