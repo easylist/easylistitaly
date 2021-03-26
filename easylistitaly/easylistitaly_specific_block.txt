@@ -2609,7 +2609,7 @@
 ||ssmatelicacalcio.com^*/fidea.png
 ||stabiachannel.it^*/banner/
 ||stackpathcdn.com^*-banner.$domain=ondatv.tv
-||stackpathcdn.com^*/banner_$domain=ondatv.tv
+||stackpathcdn.com^*/banner_$domain=buonenotizie.it|ondatv.tv
 ||stadiotardini.it/banners/
 ||stadiotardini.it^*/Banner-
 ||stadiotardini.it^*/barbara-ponzi.gif
