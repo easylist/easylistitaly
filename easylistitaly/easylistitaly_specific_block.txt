@@ -720,6 +720,7 @@
 ||conquistedellavoro.it^*/SANARTI.jpg
 ||contrastotv.it^*/Antonio-Picca-
 ||coriglianocalabro.it/images/banners/
+||coriglianocalabro.it/images/popup/
 ||coriglianocalabro.it^*/banner/
 ||corr.it^*/115203778-7600a525-e22a-4eea-b16e-7143fa06f30e.jpg
 ||corr.it^*/140604438-23a465ab-697d-45ea-bf0f-58331110de97.jpg
@@ -1397,6 +1398,11 @@
 ||informagiovani-italia.com/amazon-
 ||informagiovani-italia.com/viaggiare.jpg
 ||informare.it/images/shipstore
+||informazionecomunicazione.it^*-banner-
+||informazionecomunicazione.it^*/Banner800x800-
+||informazionecomunicazione.it^*/bANNER_
+||informazionecomunicazione.it^*/magna-graecia-768x768.jpg
+||informazionecomunicazione.it^*/RUSSO-CARIATI-300x300.jpg
 ||informazioneonline.it/wp-content/banners/
 ||ingleseprecoce.it^*-400x400.
 ||innaturale.com^*/banner-
