@@ -2653,6 +2653,7 @@
 ||stabiachannel.it^*/banner/
 ||stackpathcdn.com^*-banner.$domain=ondatv.tv
 ||stackpathcdn.com^*/banner_$domain=buonenotizie.it|ondatv.tv
+||stadiosport.it^*/eurobet-scommesse.jpg
 ||stadiotardini.it/banners/
 ||stadiotardini.it^*/Banner-
 ||stadiotardini.it^*/barbara-ponzi.gif

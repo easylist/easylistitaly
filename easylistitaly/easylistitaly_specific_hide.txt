@@ -710,6 +710,8 @@ cosafarei.it##.boo-link
 diritto.it##.book-container
 minube.it##.booking_hotels_block
 livescore.it##.bookmaker
+stadiosport.it##.bookmakers-table
+stadiosport.it##.bookmakers-title
 livesicilia.it##.bottom-border-widget-promotion
 lasiritide.it##.box-1
 lasiritide.it##.box-2
@@ -1392,6 +1394,7 @@ ciaogreen.it,gufo.it,londra.today##.widget_aawp_widget_bestseller
 newsly.it,stampante-3d.net##.widget_aawp_widget_box
 yoga-magazine.it##.widget_alobaidirandombannerswidget
 scambiaricette.it##.widget_boodo_wp_300px
+stadiosport.it##.widget_encodiabookmakerwidget
 wesud.it##.widget_idemedia_banner_widget
 rinnovabili.it##.widget_links
 dilei.it,quifinanza.it,siviaggia.it##.widget_promo_box_widget
