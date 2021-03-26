@@ -39,6 +39,8 @@
 ||abruzzolive.it^*/480X400PX-
 ||abruzzolive.it^*/banner-
 ||abruzzolive.it^*/VERTICALE
+||abruzzolive.tv/images/banner-
+||abruzzolive.tv/images_client/
 ||abruzzonotizie.com^*/SkinLaserClinic.jpg
 ||abruzzoweb.it/cache/banners/
 ||abruzzoweb.it^*/banner-
