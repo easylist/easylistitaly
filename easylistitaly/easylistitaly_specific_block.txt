@@ -2374,6 +2374,7 @@
 ||reteabruzzo.com^*/ediltoro.jpg
 ||reteabruzzo.com^*/LIQUORE1-
 ||reteabruzzo.com^*/ottica-ciancarelli-
+||retesei.com^*/banner-
 ||retesei.com^*/depam.png
 ||retesei.com^*/EMANUELE-LA-RUSSA.jpg
 ||retesei.com^*/fibra.gif
