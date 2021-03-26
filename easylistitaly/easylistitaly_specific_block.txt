@@ -134,6 +134,8 @@
 ||altoadigetv.it/images/social/banner
 ||altomantovanonews.it^*/banner-
 ||altopiemonte24.it/images/banner/
+||altovicentinonline.it^*-banner-
+||altovicentinonline.it^*/banner-
 ||altraeta.it^*-910x112.
 ||altraeta.it^*/anniazzurri.jpg
 ||altraeta.it^*/casasalute.jpg
