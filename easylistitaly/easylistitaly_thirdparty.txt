@@ -170,6 +170,7 @@
 ||scambiobanner.aruba.it^$third-party
 ||scambiobanner.net-parade.it^$third-party
 ||sda.quinews.net^
+||searchmarketingconnect.it^$image,third-party
 ||secure.emp-online.it^$third-party
 ||secureholiday.net/moteur/v3/camperonline/min_form.aspx?$third-party
 ||sereni.net/images/banner/
