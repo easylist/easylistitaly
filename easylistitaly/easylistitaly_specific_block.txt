@@ -14,6 +14,17 @@
 ||100x100napoli.it^*/gs.png
 ||105tv.it^*/banners/
 ||24emilia.com^*banner
+||24live.it^*/24live_prenota-prima_
+||24live.it^*/bannerNegoziAperti-
+||24live.it^*/eurocash2-
+||24live.it^*/eurocashHome.jpg
+||24live.it^*/flaccomioGIF.gif
+||24live.it^*/giannetto-
+||24live.it^*/maiorana2020feb-
+||24live.it^*/maxbici-
+||24live.it^*/NEW-POINLINE2-
+||24live.it^*/pirrotta2.png
+||24live.it^*/standa2-
 ||24newsonline.it/images/*_banner_
 ||24newsonline.it/images/banner/
 ||2anews.it^*/11593003629722.
