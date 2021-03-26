@@ -301,6 +301,7 @@ ansa.it###pressRelease
 eurogamer.it###prod-buy
 estrazionedellotto.it,superenalotto.com###promobanner
 flashgames.it###pub_sotto
+voce.it###publiredazionale
 tuttitalia.it###qh
 cosenostre-online.it###rev_slider_4_1_wrapper
 cosenostre-online.it###rev_slider_4_5_wrapper
