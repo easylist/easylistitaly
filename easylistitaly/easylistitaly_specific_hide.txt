@@ -464,6 +464,7 @@ repubblica.it##.aas_whole_wrapper
 androidplanet.it,casa-domotica24.it,ciaogreen.it,cityrumors.it,comelofaccio.it,depurarsi.com,gamerbrain.net,gufo.it,ideeregalonatale.biz,imiglioridififa.com,infotelematico.com,londranews.com,meditazionezen.it,melarossa.it,menteinformatica.it,migliorigiochi.eu,nerdmovieproductions.it,orologidapolso.org,outofbit.it,phonetoday.it,recensioniorologi.it,simonemaestri.com,solorecensioni.com,soluzionecomputer.it,stampante-3d.net,tech4d.it,techprincess.it,tecnofacile.com,wordsmart.it##.aawp
 tecnofacile.com##.aawp-button
 topdigamma.it,tuttotek.it##.aawp-product
+ilportaledelcavallo.it##.ab_top_banner
 tag24.it##.above-footer
 ilsole24ore.com##.abox
 radioitalia.it##.acquista
