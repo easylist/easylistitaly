@@ -665,7 +665,7 @@ ilgiornaledellabellezza.it##.bannergrid
 radiogold.it##.bannergroupskin-banner-module
 filmforlife.org##.bannerh
 saturnonotizie.it##.bannerheader
-radioitaliacina.com##.banneritem
+bitsandchips.it,radioitaliacina.com##.banneritem
 prezzifarmaco.it##.bannernativo
 qualenergia.it,vivafm.it##.banners
 voglioporno.com##.banners-footer
@@ -685,6 +685,8 @@ ifood.it##.bg-banner
 vivoconbenessere.it##.bg.landscape
 nuovosud.it##.bg_skin
 libero.it##.big
+bitsandchips.it##.big-g-page
+bitsandchips.it##.big-g-sidebar
 ilcaffe.tv##.big_box
 virtusverona.it##.bigbanner
 foodnetwork.it,money.it##.billboard
