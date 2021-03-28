@@ -484,7 +484,7 @@ unonotizie.it##.add
 informagiovani-italia.com##.add_left
 spagna.cc##.add_top
 offertevolantini.it##.add_w2_h1
-24emilia.com,antennafebea.it,autoscout24.ch,brocardi.it,cb01.online,filmpertutti.li,filmpertutti.lol,filmpertutti.onl,filmpertutti.voto,gamemag.it,hdblog.it,hdmotori.it,hdtroll.it,ilgeniodellostreaming.dance,ilgeniodellostreaming.rest,ilikepuglia.it,liberta.it,live-sport-tv.it,mattinonline.ch,sitigiochi.it,teleborsa.it,viamichelin.ch,viamichelin.it##.ads
+24emilia.com,antennafebea.it,autoscout24.ch,brocardi.it,cb01.online,filmpertutti.li,filmpertutti.lol,filmpertutti.onl,filmpertutti.voto,gamemag.it,hdblog.it,hdmotori.it,hdtroll.it,ilgeniodellostreaming.dance,ilgeniodellostreaming.rest,ilikepuglia.it,liberta.it,live-sport-tv.it,mattinonline.ch,sitigiochi.it,teleborsa.it,viamichelin.ch,viamichelin.it,zazoom.it##.ads
 ildolomiti.it##.adsB
 beatgogo.it,chistachiamando.it,pcprofessionale.it,trova-aperto.it##.adsense
 adessoin.tv,allaguida.it,alpha59.it,altreconomia.it,amica.it,ansa.it,buttalapasta.it,calciomercato.com,curioctopus.it,dissapore.com,forbes.it,gelocal.it,gianlucadimarzio.com,girovagandointrentino.it,gta-expert.it,guardachevideo.it,ilfattoquotidiano.it,ilpost.it,ilsole24ore.com,latina24ore.it,leonardo.it,libero.it,mediaset.it,movieplayer.it,multiplayer.it,nanopress.it,notiziemilan.it,oasport.it,pourfemme.it,prealpina.it,radioindiretta.fm,repubblica.it,salepepe.it,skuola.net,staffettaonline.com,stylosophy.it,supereva.it,virgilio.it,vocenuova.tv##.adv
