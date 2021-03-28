@@ -394,6 +394,11 @@
 ||autoseller.it/banner%5c
 ||autoseller.it/banner/
 ||avmagazine.it/js/common-tag.js
+||avvisatore.com^*/adv_
+||avvisatore.com^*/Logo-UNICEF400x90.jpg
+||avvisatore.com^*/Logo_Ferrovie_Dello_Stato400x90px.jpg
+||avvisatore.com^*/soluzioni_ambientali_400x90px.jpg
+||avvisatore.com^*_adv_
 ||aziendabanca.it/images/fintech_tribu_
 ||b-cdn.net^*-728x50-$domain=pc-gaming.it
 ||b-cdn.net^*/840.jpg$domain=pc-gaming.it

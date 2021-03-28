@@ -64,6 +64,10 @@
 /tiscaliAds/*
 /TiscaliADV_
 /xbanner-pubblicitario-
+_adv300x250.
+_adv300x250_
+_adv400x220.
+_adv400x90.
 _pubblicit%C3%A0_
 _pubblicita-
 _pubblicita.
