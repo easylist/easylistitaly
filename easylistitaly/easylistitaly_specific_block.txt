@@ -1274,6 +1274,7 @@
 ||ilcorrieredelgiorno.it^*_SKIN_
 ||ilcorrieredellacitta.com^*/casino-italiani.jpg
 ||ilcorrieredellacitta.com^*/cinecitta-world.jpg
+||ilcorrieredellacitta.com^*/DHH-shield-medical-solutions.jpg
 ||ilcorrieredellacitta.com^*/la-migrazione-onoranze-funebri-pomezia.jpg
 ||ilcorrieredellacitta.com^*/lite-memories-
 ||ilcorrieredellacitta.com^*/sherasade-
