@@ -818,6 +818,7 @@
 ||cuneooggi.it^*/banner-
 ||cuneooggi.it^*/banner/
 ||cusio24.it/images/banner/
+||daninseries.it/banner-
 ||daninseries.it^*/clicca_qui.png
 ||dazebaonews.it/images/ITC.jpg
 ||dazebaonews.it/images/LAB.jpg
