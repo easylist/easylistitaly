@@ -728,6 +728,7 @@ archilovers.com,difesaonline.it,tempoitalia.it##.box-banner
 cucchiaio.it##.box-banner-hp-dx
 agrodolce.it##.box-desktop-side-top_container
 balarm.it##.box-evidenza
+italiaoggi.it##.box-slot
 meteogiornale.it##.box-sn
 trend-online.com##.box-special
 tvserial.it##.box-verticale-home

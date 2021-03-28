@@ -246,6 +246,7 @@
 ##.sb-box-pubbliredazionale
 ##.sidebar__adv
 ##.sito-adv-sopra-main
+##.slot-adv
 ##.sponsor160x600Dx
 ##.sponsor300x250Sx
 ##.sponsorizzati
