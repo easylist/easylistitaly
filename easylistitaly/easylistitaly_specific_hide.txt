@@ -470,7 +470,7 @@ ilsole24ore.com##.abox
 radioitalia.it##.acquista
 sololibri.net##.acquista-esterno
 selectra.net##.action-box
-ilfoglio.it,jugo.it,lacrocequotidiano.it,le-citazioni.it,liberatv.ch,lonelyplanetitalia.it,mondoplay.it,mondoxbox.com,motorbox.com,quotidianoapuano.net,serietvu.link,smartbuildingitalia.it,trend-online.com,tripadvisor.it##.ad
+gamesource.it,ilfoglio.it,jugo.it,lacrocequotidiano.it,le-citazioni.it,liberatv.ch,lonelyplanetitalia.it,mondoplay.it,mondoxbox.com,motorbox.com,quotidianoapuano.net,serietvu.link,smartbuildingitalia.it,trend-online.com,tripadvisor.it##.ad
 tusciaweb.eu##.ad-article
 tvdream.net##.ad-box
 soluzionicodycross.it,supertv.it##.ad-container
@@ -841,6 +841,7 @@ flashscore.it##.detail-bonus-match-summary-content-inner
 economyup.it,techcompany360.it##.dfp
 blastingnews.com##.dfp-mobile-leadeboard
 quotidiano.net##.discount-block
+gamesource.it##.div-85019
 cuneodice.it,genovadice.it,italiadice.it,torinodice.it##.div_banner
 laleggepertutti.it##.div_topbanner
 ridble.com##.dn
