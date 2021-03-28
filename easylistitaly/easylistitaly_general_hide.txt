@@ -168,6 +168,7 @@
 ##.adv_lateral_dx
 ##.adv_lateral_sx
 ##.adv_margin
+##.adv_news
 ##.adv_oriz
 ##.adv_vert
 ##.adv_video
