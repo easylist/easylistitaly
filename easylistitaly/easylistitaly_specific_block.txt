@@ -678,6 +678,7 @@
 ||cinemaitaliano.info^*/banner/
 ||cinemondium.com^*/720x90-
 ||cinestreaming.uno/img/b_
+||cinquecolonne.it^*/Group-1-4-1.png
 ||circorfei.it/templates/default/images/btn_
 ||circorfei.it/templates/default/images/cover4k.png
 ||circusf1.com^*/Amazon_
