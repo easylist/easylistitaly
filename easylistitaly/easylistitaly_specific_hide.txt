@@ -1097,6 +1097,7 @@ prospettivegeometri.it##.node-banner-simple
 everyeye.it##.nome_gioco_amazon_destra
 ilsalottodelcalcio.it##.nostro-banner
 tuttotrasporti.it##.notizieSponsorizzate
+dailybest.it##.nuovobanner
 empolifc.com##.o-section--promo
 tuttitalia.it##.oe
 esportsonline.it##.oe-wrapper
