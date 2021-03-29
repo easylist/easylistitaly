@@ -826,6 +826,7 @@
 ||daninseries.it/banner-
 ||daninseries.it^*/banner_
 ||daninseries.it^*/clicca_qui.png
+||dasapere.it^*/cinzia-ok.png
 ||dazebaonews.it/images/ITC.jpg
 ||dazebaonews.it/images/LAB.jpg
 ||dentrosalerno.it^*/banner/
