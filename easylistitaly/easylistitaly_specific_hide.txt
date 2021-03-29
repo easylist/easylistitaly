@@ -683,6 +683,7 @@ notizialocale.it##.bc_random_banner
 corriere.it##.bck-media-list-sponsor
 magentanostra.it##.bdt-logo-carousel-figure
 altadefinizione01.games##.before_player_btn
+rockit.it##.bello-container
 reggiosera.it##.betulla-box
 ifood.it##.bg-banner
 vivoconbenessere.it##.bg.landscape
