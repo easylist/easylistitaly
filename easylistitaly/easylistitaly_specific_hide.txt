@@ -887,7 +887,6 @@ divinafm.it##.fdc-widget-sponsor
 brindisisettenews.it##.featured_banner
 autoscout24.it##.fed-list-rate-fragment-pair
 masterviaggi.it##.fieldset_sponsor
-cb01.li,cb01.world,eurostreaming.cam,eurostreaming.land,filmsenzalimiti.ink,ilgeniodellostreaming.movie,tantifilm.best,tantifilm.link##.filmad
 luinonotizie.it##.fixed-sponsor
 sassuolooggi.it##.flexslider
 marsicalive.it##.fmhb-container
