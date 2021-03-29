@@ -377,7 +377,7 @@ finaria.it,internetto.it###text-16
 giornalistitalia.it,noinotizie.it###text-19
 adviceandcommerce.it,alwaysonboard.it###text-2
 ilpost.it,noinotizie.it###text-20
-mbmusic.it###text-21
+mbmusic.it,playersmagazine.it###text-21
 rumors.it###text-22
 ilpost.it###text-23
 nerdplanet.it###text-24
