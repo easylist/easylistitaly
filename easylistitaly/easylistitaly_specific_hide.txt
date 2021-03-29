@@ -382,6 +382,7 @@ rumors.it###text-22
 ilpost.it###text-23
 nerdplanet.it###text-24
 best5.it###text-26
+nerdevil.it###text-27
 giornalistitalia.it###text-28
 ricettealvolo.it###text-29
 clientiesperti.it,tecnofacile.com,top10scommesse.it###text-3
@@ -1063,7 +1064,7 @@ altraeta.it,ecoaltomolise.net,lostrillonenews.it,newslinet.com,potenzanews.net,r
 ebay.it##.mfe-recos-container
 forumfree.it##.mgbox
 filmforlife.org##.mh-footer
-castellinotizie.it,catanzaro7.net##.mh-header-widget-2
+castellinotizie.it,catanzaro7.net,nerdevil.it##.mh-header-widget-2
 meteoeradar.it##.min-height
 automoto.it,moto.it##.mit-skin-spacer
 acquavivalive.it,altamuralive.it,andrialive.it,barilive.it,barlettalive.it,bisceglielive.it,bitontolive.it,canosalive.com,cassanolive.it,coratolive.it,fasanolive.com,gioialive.it,giovinazzolive.it,gravinalive.it,lavocedimanduria.it,margheritalive.it,minervinolive.it,molfettalive.it,okfirenze.com,okmugello.it,okvaldisieve.it,ruvolive.it,santeramolive.it,terlizzilive.it,termolionline.it,tranilive.it,unicosettimanale.it,viviwebtv.it##.mkt-300x250
