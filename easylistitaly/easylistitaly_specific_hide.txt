@@ -99,6 +99,8 @@ giornaledellamusica.it###block-adv
 tuttosuigatti.it###block-bean-banner-content-bottom
 tuttosuigatti.it###block-bean-banner-content-center
 tuttosuigatti.it###block-bean-banner-header
+mangialibri.com###block-block-41
+mangialibri.com###block-block-7
 mediaworld.it###block-footerbanners
 nuovosud.it###block-views-banner-centrale-menu-block
 torinofc.it###block-views-sponsor-block-2
@@ -311,6 +313,7 @@ odontoiatria33.it###rowHeader
 skylinewebcams.com###rpc
 alwaysonboard.it###sab_content
 ilpost.it###scrolling-container
+mangialibri.com###section-extra-bottom-4
 nuovosud.it###sfondo
 calabria7.it,gamelegends.it###sgpb-popup-dialog-main-div
 eurogamer.it###sidebar_amazon
