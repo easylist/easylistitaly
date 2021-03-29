@@ -1572,6 +1572,7 @@ animeemanga.it,comingsoon.it,mymovies.it,trovacinema.repubblica.it##a[href^="htt
 2backpack.it##a[href^="https://www.worldnomads.it/?affiliate="]
 gamingwiki.it##a[href^="https://www2.razer.com/"]
 lavocedellevalli.it##a[onclick^="ga('send', 'event',"]
+sex4u.ch##a[rel^="sponsored"]
 mobileworld.it##a[style="background-color: #fe8774; padding: 10px; border: none; text-align: center; text-decoration: none; font-size: 18px; width: 200px; font-weight: bold; border-radius: 10px; color: white;"]
 androidworld.it##a[style="background-color: #ff9900; padding: 10px; border: none; text-align: center; text-decoration: none; font-size: 18px; width: 200px; font-weight: bold; border-radius: 10px; color: white;"]
 amica.it##a[style="width: 300px;display: block;z-index: 999999;height: 268px;position: absolute;top: 0;left: 0;"]

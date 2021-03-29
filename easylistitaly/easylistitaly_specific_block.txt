@@ -2585,6 +2585,7 @@
 ||sevenpress.com^*/autodoc.jpg
 ||sevenpress.com^*/banner/
 ||sevenpress.com^*/bannerQ/
+||sex4u.ch/img/banner_
 ||sexyguidaitalia.com/images/899/
 ||ship2shore.it^*/colonna/
 ||ship2shore.it^*/manchette/
