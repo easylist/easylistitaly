@@ -862,6 +862,7 @@ bolzano-bozen.it##.dt
 finestresullarte.info##.dx250
 cronachedibirra.it##.e3lan125
 ilpaesenuovo.it##.e3lanat-layout-rotator
+bergamonews.it##.edinews_widget_friends-3
 evosmart.it,pc-gaming.it,stile.it##.egg-container
 regaliperfetti.it##.egg_grid
 regaliperfetti.it##.egg_sort_list
