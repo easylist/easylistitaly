@@ -177,6 +177,7 @@
 ##.advnext_correlati
 ##.advricaricamediamond
 ##.alp-advert
+##.archive-post__adv
 ##.av-banner-728X90
 ##.avadvslot
 ##.banner_300x250_read
