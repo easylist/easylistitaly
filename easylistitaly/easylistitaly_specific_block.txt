@@ -367,6 +367,7 @@
 ||arona24.it/images/ristorante_posta_baveno.jpg
 ||art-news.it^*-banner-
 ||art-news.it^*/banner-
+||arte.go.it^*-Banner-
 ||artemagazine.it/images/160x142-
 ||artemagazine.it/images/300X300-
 ||ascittadella.it^*/sponsor/
