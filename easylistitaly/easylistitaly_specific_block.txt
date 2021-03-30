@@ -2718,6 +2718,9 @@
 ||stellenellosport.com^*/italmatch.jpg
 ||stellenellosport.com^*/Primocanale_
 ||stellenellosport.com^*/Valletta-Cambiaso-
+||stilearte.it^*/a-catawiki-2-
+||stilearte.it^*/CATAWIKI-reg.jpg
+||stilearte.it^*/CATAWIKI.jpg
 ||stilenaturale.com^*/BannerHOME_
 ||stiletv.it/banner/
 ||stiletv.it^*-banner.
