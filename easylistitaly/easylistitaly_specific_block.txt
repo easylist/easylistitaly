@@ -851,6 +851,7 @@
 ||djmagitalia.com^*-banner-
 ||djmagitalia.com^*/BANNER_
 ||djmagitalia.com^*_skin_
+||doppiozero.com^*/banner_
 ||dossier.net^*/rettangolo_
 ||dozenblogs.com^*/awesomesupport.png
 ||dozenblogs.com^*/channel-bookingcom.png
