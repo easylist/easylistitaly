@@ -2027,6 +2027,8 @@
 ||oggiroma.it/public/banner/
 ||oggitreviso.it^*/390x90.jpg
 ||oipamagazine.it^*/euroservice.gif
+||ok-salute.it^*/abiogen.jpg
+||ok-salute.it^*/sticky_OK-SALUTE_Tavola-disegno-1.jpg
 ||okpronostico.it^*/comparazione-bonus.jpg
 ||oksiena.it/banner/
 ||oktennis.it^*/skin/
