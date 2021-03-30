@@ -547,7 +547,7 @@ radiocuore.it##.areaclick
 pensionioggi.it##.article-banner-left
 scozia.net##.article_amazon_end
 germania.info##.article_buttons_end
-germania.info,scozia.net,spagna.info##.article_hotel_vicino
+amsterdam.net,germania.info,scozia.net,spagna.info##.article_hotel_vicino
 ilcittadinomb.it##.artpub
 giardiniblog.it##.asa2_fbh
 supercoin.it##.atla-card-link
