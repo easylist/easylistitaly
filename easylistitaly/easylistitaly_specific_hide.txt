@@ -893,6 +893,7 @@ exibart.com##.exibart-footer-partner
 exibart.com##.exibart-footer-partner-title
 pornototale.com##.exo_container_wrapper
 giornaledibarga.it##.fascia-banner
+fortuneita.com##.fb-banner
 divinafm.it##.fdc-widget-sponsor
 brindisisettenews.it##.featured_banner
 autoscout24.it##.fed-list-rate-fragment-pair
