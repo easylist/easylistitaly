@@ -3196,6 +3196,7 @@
 ||vivienna.it^*/sciabbe
 ||vivienna.it^*/sicilia-outlet-village-
 ||vivienna.it^*/trinacria-enna-
+||viviparigi.it^*/banners/
 ||vivitortona.it/image/megaplex.jpg
 ||vivitortona.it/image/oasi.jpg
 ||vocedinapoli.it^*-Banner-

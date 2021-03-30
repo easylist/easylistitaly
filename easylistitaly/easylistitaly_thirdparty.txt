@@ -215,7 +215,7 @@
 ||webself.it/banners/
 ||webster.it^*/affiliati/
 ||wecoclub.it^*_banner_
-||widget.getyourguide.com^*&partner_id=$third-party
+||widget.getyourguide.com^$third-party
 ||widget.promoqui.it^
 ||widgets.bookaway.com^$third-party
 ||wp.com/docs.macrolibrarsi.it/*/banner_$third-party
