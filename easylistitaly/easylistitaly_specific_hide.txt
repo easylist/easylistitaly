@@ -321,6 +321,7 @@ eurogamer.it###sidebar_amazon
 vienormali.it###site-header-banner
 vienormali.it###site-header-leaderboard
 corrieredellosport.it,epolisbari.com,marigliano.net,tuttosport.com###skin
+movieplayer.it###skin-desktop
 iovivoaroma.org###skin_link_dx
 iovivoaroma.org###skin_link_sx
 cronacheancona.it,cronachefermane.it,cronachemaceratesi.it###skinabove
@@ -854,7 +855,7 @@ buonaporno.com##.default__interest-block
 scienzenotizie.it##.desktop-top-banner
 fiorentinanews.com##.destra_banner
 flashscore.it##.detail-bonus-match-summary-content-inner
-economyup.it,techcompany360.it##.dfp
+economyup.it,movieplayer.it,techcompany360.it##.dfp
 blastingnews.com##.dfp-mobile-leadeboard
 quotidiano.net##.discount-block
 gamesource.it##.div-85019
