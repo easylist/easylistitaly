@@ -76,7 +76,7 @@ fiorentinanews.com###banneralto
 ondarock.it###bannerhomebottom
 ondarock.it###bannerhometop
 reteradioazzurra.it###bannerini_homepage
-frasimania.it,vivaparigi.com###bannerpop
+frasimania.it,staseratv.it,vivaparigi.com###bannerpop
 saperesalute.it###banners
 siracusanews.it###banners-top
 linguee.it###banners_right
