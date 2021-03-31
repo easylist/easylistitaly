@@ -778,6 +778,7 @@ parcofaunistico.it##.buttonGuardaOra
 altadefinizione01.army,altadefinizione01.software,altadefinizione01.works##.buttonbox
 pensieriparole.it##.buyblock
 sitiscommesse.com##.bwin
+domusweb.it##.c-article-prev--sponsored
 asroma.com##.c-feed-card-ad
 empolifc.com##.c-footer__sponsors-container
 meteo.tiscali.it##.c1c3
