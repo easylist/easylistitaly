@@ -3369,6 +3369,8 @@
 ||wp.com/www.playersmagazine.it/*/amazon_logo.jpg
 ||wp.com/www.proiezionidiborsa.it/*/bnp-
 ||wp.com/www.proiezionidiborsa.it/*/ig-
+||wp.com/www.sempredirebanzai.it/*/mesicHD2.jpg
+||wp.com/www.sempredirebanzai.it/*/Schermata-2020-05-16-alle-17.38.22.png
 ||wp.com/www.spaziotennis.it/*/dhs.jpg
 ||wp.com/www.statoquotidiano.it/*/727x247-
 ||wp.com/www.tabsernews.it/*/THE-SOUND.png
