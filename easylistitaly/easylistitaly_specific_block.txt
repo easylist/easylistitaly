@@ -476,6 +476,7 @@
 ||bordighera.net/images/banner_
 ||borgomanero24.it/images/banner/
 ||borsainside.com/foto-articoli/eToro-pratica.png
+||borsainside.com^*/CopyTrader.jpg
 ||bottadiculo.it^*/banner
 ||brindisifc.it/images/sponsor/
 ||brindisisera.it/img/banner/
