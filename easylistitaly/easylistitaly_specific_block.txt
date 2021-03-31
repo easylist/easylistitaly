@@ -1468,6 +1468,9 @@
 ||inter.it^*/partners/
 ||internapoli.it^*-banner-
 ||internapoli.it^*/banner-
+||investomagazine.com^*/comba.jpg
+||investomagazine.com^*/lp.jpg
+||investomagazine.com^*/sito2.jpg
 ||inviaggiodasola.com^*/banner3_
 ||ioamolasicilia.com^*/TOUR-PALERMO-
 ||iocaccio.it^*/Mygra-
