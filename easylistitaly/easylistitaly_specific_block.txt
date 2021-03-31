@@ -1466,6 +1466,7 @@
 ||inter.it^*/partners/
 ||internapoli.it^*-banner-
 ||internapoli.it^*/banner-
+||inviaggiodasola.com^*/banner3_
 ||ioamolasicilia.com^*/TOUR-PALERMO-
 ||iocaccio.it^*/Mygra-
 ||iostudionews.it^*/ripartiamo_di_miceli.gif
