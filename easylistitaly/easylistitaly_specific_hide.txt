@@ -1343,8 +1343,13 @@ guidalloshopping.com##.td_btn
 biancorossi.net,immaginevalsassina.com,moondo.info,notizialocale.it,radiolombardia.it,telesudweb.it##.td_single_image_bg
 agimeg.it##.td_uid_18_5fdb9a4e3037a_rand
 romanews.eu##.td_uid_7_5fc0c934d6e11_rand
+omniagate.com##.tdi_11_784
 calcioj.com##.tdi_15_2e7
+omniagate.com##.tdi_36_816
+omniagate.com##.tdi_45_604
 borderline24.com##.tdi_47_22b
+omniagate.com##.tdi_6_6a9
+omniagate.com##.tdi_6_c68
 tomshw.it##.teetee-embed
 telesud.it##.teles-header-banner
 positanonews.it##.testata

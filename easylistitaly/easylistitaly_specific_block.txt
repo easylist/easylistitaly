@@ -2047,6 +2047,8 @@
 ||oltreilfatto.it^*/banner/
 ||oltreilfatto.it^*/logo-nuovo-sito-lextel.png
 ||oltrepomantovanonews.it^*/banner-
+||omniagate.com^*/canado-tuscany.jpg
+||omniagate.com^*/tabaccheriaclemente.png
 ||ondalibera.it/images/banners/
 ||ondanovara.it^*_banner_
 ||ondarock.it/banners/
