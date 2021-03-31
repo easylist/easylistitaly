@@ -1218,7 +1218,7 @@ calabria7.it##.sg-popup-builder-content
 calabria7.it,gamelegends.it##.sgpb-popup-overlay
 aphorism.it,bloopers.it##.shop
 ilgeniodellostreaming.tel##.show-download
-tiscali.it##.shp-2l-dx
+milleunadonna.it,tiscali.it##.shp-2l-dx
 tiscali.it##.shp-prd-ed-day
 quotidianolacitta.it##.sidebar-banner
 mitindo.it##.sidebar-right-bottomleft
