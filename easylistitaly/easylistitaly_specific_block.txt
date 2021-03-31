@@ -2511,6 +2511,7 @@
 ||rto.it^*/pallacanestro-170x170.png
 ||rto.it^*/parcheggio.png
 ||rumors.it^*/banner-
+||rumorscena.com^*/Banner-
 ||sabiniatv.it^*/agriturismo-saporti-di-altri-tempi.jpg
 ||sabiniatv.it^*/alessandro-e-rita.jpg
 ||sabiniatv.it^*/angelucci-auto2.jpg
