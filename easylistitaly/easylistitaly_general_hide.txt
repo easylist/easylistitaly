@@ -243,6 +243,7 @@
 ##.pubblitalocaleaddADV
 ##.pubblitalocaleaddpiccola
 ##.qtr-bacheca-adv
+##.related-adv
 ##.sal-adv-adsense
 ##.sb-box-pubbliredazionale
 ##.sidebar__adv
