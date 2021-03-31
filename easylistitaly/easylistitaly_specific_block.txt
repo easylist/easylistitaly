@@ -2926,6 +2926,7 @@
 ||travelquotidiano.com^*/DEM-webinar-tc.png
 ||travelquotidiano.com^*/tc-singapore.jpg
 ||travelstales.it^*/banner-
+||traveltik.it^*/ENJOY-YOUR.png
 ||trend-online.com^*/Banner/
 ||trend-online.com^*/button
 ||trentinolibero.it^*/auto-doc-it_
