@@ -2219,6 +2219,7 @@
 ||pressgiochi.it^*1200x80
 ||pressgiochi.it^*300x90
 ||pressgiochi.it^*_banner_
+||primaonline.it^*/Assirm_Campagna-Digital-
 ||primapaginamolise.it/banner/
 ||primapaginaonline.it^*/Banner-
 ||primapress.it^*/banner_
