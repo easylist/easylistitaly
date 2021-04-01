@@ -315,6 +315,7 @@ skylinewebcams.com###rpc
 alwaysonboard.it###sab_content
 ilpost.it###scrolling-container
 mangialibri.com###section-extra-bottom-4
+msmotor.tv###sezpartnercommerciali
 nuovosud.it###sfondo
 calabria7.it,gamelegends.it###sgpb-popup-dialog-main-div
 eurogamer.it###sidebar_amazon
@@ -1127,6 +1128,7 @@ broncos.it,cure-naturali.it,fc-suedtirol.com,lifegate.it,ragusanews.com##.partne
 bolognafc.it##.partner-footer
 100ideeperristrutturare.it,casa-naturale.com,quattrozampe.online,villeecasali.com##.partner-item-wrapper
 radiogardena.it##.partner-wrapper
+msmotor.tv##.partner2
 andreagaleazzi.com##.partner_box
 dolcidee.it,rtinradio.com,teatronaturale.it##.partners
 100ideeperristrutturare.it,casa-naturale.com,quattrozampe.online,villeecasali.com##.partners-wrapper
