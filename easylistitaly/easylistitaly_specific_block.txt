@@ -1520,8 +1520,16 @@
 ||itvonline.news^*/skin-
 ||itvonline.news^*_banner-
 ||iwp.com/abruzzoweb.it/*-400X200.
+||jamma.tv^*/Cristaltec.gif
+||jamma.tv^*/Cristaltec260.gif
+||jamma.tv^*/Nazionale.gif
+||jamma.tv^*/net.gif
 ||jamma.tv^*/sanremo
 ||jamma.tv^*/skin
+||jamma.tv^*/Snai.gif
+||jamma.tv^*_400x200.
+||jamma.tv^*_400x200px_
+||jamma.tv^*_skin_
 ||justfashionmagazine.com^*-300x300.
 ||justfashionmagazine.com^*/amaz-
 ||juventus.com^*/sponsors/
