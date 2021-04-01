@@ -1032,7 +1032,7 @@
 ||gay.it/js/brightcove/adonly.js
 ||gay.it/js/brightcove/inread-standalone.php
 ||gazzettabenevento.it/Sito2009/image/banner/
-||gazzettadellaspezia.it/images/banners/
+||gazzettadellaspezia.it^*/banners/
 ||gazzettadiavellino.it^*-banner.
 ||gazzettadilivorno.it^*/skin/
 ||gazzettadimilano.it^*-banner-
