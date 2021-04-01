@@ -2823,6 +2823,7 @@
 ||telegenova.net/images/unnamed.png
 ||telegenova.net/unige.gif
 ||telegiornaliste.com/banner-
+||teleglobal.tv/images/banners/
 ||telegolfo.com^*-500X150.
 ||telegramdirectory.it^*/discount-
 ||telejonio.com^*/banner_
