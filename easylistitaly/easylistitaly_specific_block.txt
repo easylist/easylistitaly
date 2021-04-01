@@ -1081,6 +1081,7 @@
 ||genoacfc.it^*/banner-
 ||genoacfc.it^*/NOBERASCO_LOGO-
 ||genova24.it^*/banner_
+||genova3000.it/images/banners/
 ||gingergeneration.it/n/
 ||gingergeneration.it^*/banner-
 ||giochi-gratis.eu/card-banner.png
