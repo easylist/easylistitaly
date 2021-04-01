@@ -3040,11 +3040,14 @@
 ||tuttotone.app/assets/img/banner/
 ||tuttotrasporti.it^*/notizieSponsorizzate/
 ||tuttozampe.com^*/Premium_
+||tv2000.it^*-Banner-
+||tv2000.it^*/BANNER-
 ||tv2000.it^*/banner.
 ||tv2000.it^*/banner/
 ||tv2000.it^*/banner_
 ||tv2000.it^*/skin/
 ||tv2000.it^*_300x200.
+||tv2000.it^*_skin_
 ||tvcentromarche.it^*/ESTRA300x250-
 ||tviweb.it^*-banner-
 ||tviweb.it^*/1200X200.jpg
