@@ -350,6 +350,11 @@
 ||anteprima24.it^*/WhatsApp-Image-2020-10-29-at-16.21.021.jpeg
 ||aostaoggi.it/images/banners/
 ||aostasports.it^*/box/
+||aprilianews.it^*-300x250.gif
+||aprilianews.it^*/aprilianews-limoni.jpg
+||aprilianews.it^*/Eurobox-
+||aprilianews.it^*/Kiwi-parlapiano-
+||aprilianews.it^*_Adv10.
 ||araberara.it^*/11.jpg
 ||araberara.it^*/14.jpg
 ||araberara.it^*/17.jpg

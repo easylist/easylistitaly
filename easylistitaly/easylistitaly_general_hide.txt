@@ -195,6 +195,7 @@
 ##.center-adv-news
 ##.cmt_bgadv
 ##.content-adv-manager
+##.contenuto-sponsorizzato
 ##.cp_adv300x250
 ##.dads-lk
 ##.edSponsor
