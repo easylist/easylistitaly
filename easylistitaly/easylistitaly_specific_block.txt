@@ -3122,6 +3122,8 @@
 ||usviterbese.it^*/sponsor-
 ||usviterbese.it^*/TS-LEARNING-
 ||valdelsa.net/banner/
+||valdelsa.net/vetrine1/
+||valdelsa.net/vetrine2/
 ||valdelsa.net/vetrine3/
 ||valenza.it/banner/
 ||valledaostaglocal.it^*/box/

@@ -603,6 +603,7 @@ ideawebtv.it##.banner-laterale-default
 universodelgioco.it##.banner-leaderboard
 italiafruit.net##.banner-m
 viversano.net##.banner-mid
+valdelsa.net##.banner-mobile
 mattinonline.ch##.banner-only
 calabriareportage.it,calcioitalia24.it,lameziaterme.it##.banner-promotions-wrapper
 radiotoscana.it##.banner-radio
