@@ -470,7 +470,7 @@ gnius.it##.aalb-product-carousel-unit
 facileporno.com##.aan_fake
 facileporno.com##.aan_fake__video-units
 repubblica.it##.aas_whole_wrapper
-androidplanet.it,casa-domotica24.it,ciaogreen.it,cityrumors.it,comelofaccio.it,depurarsi.com,gamerbrain.net,gufo.it,ideeregalonatale.biz,imiglioridififa.com,infotelematico.com,londranews.com,meditazionezen.it,melarossa.it,menteinformatica.it,migliorigiochi.eu,nerdmovieproductions.it,orgoglionerd.it,orologidapolso.org,outofbit.it,phonetoday.it,recensioniorologi.it,simonemaestri.com,solorecensioni.com,soluzionecomputer.it,stampante-3d.net,tech4d.it,techprincess.it,tecnofacile.com,wordsmart.it##.aawp
+androidplanet.it,casa-domotica24.it,ciaogreen.it,cityrumors.it,comelofaccio.it,depurarsi.com,gamerbrain.net,gufo.it,ideeregalonatale.biz,imiglioridififa.com,infotelematico.com,londranews.com,meditazionezen.it,melarossa.it,menteinformatica.it,migliorigiochi.eu,nerdmovieproductions.it,orgoglionerd.it,orologidapolso.org,outofbit.it,phonetoday.it,recensioniorologi.it,simonemaestri.com,solorecensioni.com,soluzionecomputer.it,stadiosport.it,stampante-3d.net,tech4d.it,techprincess.it,tecnofacile.com,wordsmart.it##.aawp
 tecnofacile.com##.aawp-button
 topdigamma.it,tuttotek.it##.aawp-product
 ilportaledelcavallo.it##.ab_top_banner
@@ -1533,7 +1533,7 @@ cineblog01.place##a[href*="/streaming-full-hd.php"]
 altadefinizione4k.stream,altadefinizione4k.tv,piratestreaming.page##a[href*="/streaming-gratis.php"]
 altadefinizione.kiwi##a[href*="/streaming-gratuit.php"]
 pallacanestrocantu.com##a[href*="/trackingsponsor.aspx?"]
-borsainside.com,cartaricaricabile.net##a[href*="/vai/"]
+borsainside.com,cartaricaricabile.net,stadiosport.it##a[href*="/vai/"]
 altadefinizione.legal,altadefinizione01.green,altadefinizione01.works,cb01.run,cineblog01.green,cineblog01.love,filmsenzalimiti.love,guardaserie.cam,ilgeniodellostreaming.cam,tantifilm.center##a[href*="/vedo4k.php"]
 altadefinizione.sh##a[href*="/view.php?"]
 altadefinizione01.software##a[href*="/vod2k.php"]
