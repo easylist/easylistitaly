@@ -218,6 +218,7 @@ rovigooggi.it###home-closeup-space
 rovigooggi.it###home-pbreak-space
 transfermarkt.it###home-rectangle-spotlight
 rovigooggi.it###home-super-space
+centrometeoligure.com###hometop
 telegolfo.com###html_javascript_adder-16
 ideawebtv.it###ideaw-slider-45856
 corrierenazionale.it###image-3
