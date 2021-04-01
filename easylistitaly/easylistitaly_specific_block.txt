@@ -2219,6 +2219,7 @@
 ||pressgiochi.it^*300x90
 ||pressgiochi.it^*_banner_
 ||primapaginamolise.it/banner/
+||primapaginaonline.it^*/Banner-
 ||primapress.it^*/banner_
 ||primapress.it^*_336x280.
 ||primaradio.net^*/LaTorre.gif
