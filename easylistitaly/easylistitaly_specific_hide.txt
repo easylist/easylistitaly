@@ -638,6 +638,7 @@ torinofc.it##.bannerColDxStd
 lemiebollicine.com##.bannerContainer
 djmagitalia.com##.bannerExtra
 pressgiochi.it##.bannerFila
+questaseratv.it##.bannerHeader
 puntosicuro.it##.bannerLeader
 cattolica.info##.bannerRandomSingolo
 filmtv.it##.bannerRight
