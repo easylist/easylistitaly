@@ -414,6 +414,8 @@
 ||b-cdn.net^*/sg_69.jpg$domain=assistenzawponline.it
 ||b-cdn.net^*_300x200.$domain=pc-gaming.it
 ||badtaste.it/file/amazon/
+||bagherianews.com/images/banners_
+||bagherianews.com/images/Webp.net-gifmaker-
 ||balarm.it/attachment-web/
 ||balarm.it^*-skin-
 ||basilicatanotizie.net/images/banners/

@@ -682,7 +682,7 @@ ilgiornaledellabellezza.it##.bannergrid
 radiogold.it##.bannergroupskin-banner-module
 filmforlife.org##.bannerh
 saturnonotizie.it##.bannerheader
-bitsandchips.it,radioitaliacina.com##.banneritem
+bagherianews.com,bitsandchips.it,radioitaliacina.com##.banneritem
 prezzifarmaco.it##.bannernativo
 qualenergia.it,vivafm.it##.banners
 voglioporno.com##.banners-footer
