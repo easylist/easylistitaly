@@ -3002,6 +3002,7 @@
 ||tse-tse.it^*/1017422901.gif
 ||tse-tse.it^*/1018114891.jpg
 ||tse-tse.it^*/pulsante-contattami.png
+||tunews24.it^*banner300x250
 ||turismoitalianews.it^*/banner/
 ||turismoitalianews.it^*/banners/
 ||turistadimestiere.com^*/banner-
