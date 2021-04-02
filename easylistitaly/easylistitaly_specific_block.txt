@@ -2736,6 +2736,12 @@
 ||stadiotardini.it^*/comeser_
 ||stadiotardini.it^*/mozzoni.jpg
 ||staffettaonline.com/fcomuniBanner/
+||stampareggiana.it^*/banner-
+||stampareggiana.it^*/EXIM_
+||stampareggiana.it^*/ioribonini.jpg
+||stampareggiana.it^*/RIBONI.jpg
+||stampareggiana.it^*/STUDIO-SLA-
+||stampareggiana.it^*/Tecnoalimenta-
 ||stamptoscana.it^*/autodoc_
 ||stamptoscana.it^*/diretta-tre-delitti_
 ||stamptoscana.it^*/diretta_penelope_
