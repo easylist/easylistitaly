@@ -1641,6 +1641,7 @@
 ||latinacorriere.it^*/banner-
 ||latinacorriere.it^*/output_
 ||latinapress.it^*/armstrong.jpeg
+||latinapress.it^*/banner-
 ||latinaquotidiano.it^*/AQL-ModelloTariffario_Web_
 ||latinaquotidiano.it^*/banner-
 ||latitudeslife.com/magazine/adv/
