@@ -1195,6 +1195,7 @@ sportytrader.it##.redirectou
 viversano.net##.referral-small
 passioneorologio.it##.rehub_feat_block
 regaliperfetti.it##.rehub_woo_review
+ilsole24ore.com##.rel--brandconn
 microgiochi.com##.relacionados
 mobimart.it##.resp-container
 router-4g.it##.review-links
