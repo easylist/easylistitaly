@@ -467,7 +467,7 @@ mentelocale.it##.PresentedBy
 viterbonews24.it##.SepBanner
 theitaliantimes.it##.Side_DX
 telestense.it##.StandardBanner
-uominietrasporti.it##._ning_inner
+radioradio.it,uominietrasporti.it##._ning_inner
 100ideeperristrutturare.it,casa-naturale.com,quattrozampe.online,villeecasali.com##._ning_outer
 corriereelorino.it,grandangoloagrigento.it,rietinvetrina.it,ultimenotizieflash.com##.a-single
 badcomics.it,badgames.it,badtaste.it,badtv.it##.aalb-880-product-carousel-unit
@@ -1347,7 +1347,7 @@ gioconews.it##.tcvn-banner-item
 ilprimatonazionale.it##.td-banner-bg
 edagricole.it##.td-banner-footer
 01net.it,edagricole.it##.td-banner-wrap-full
-calciofemminileitaliano.it,calciomercato.it,gametimers.it,gamingtoday.it,phonetoday.it,romagiallorossa.it,tecnoandroid.it##.td-container-header
+calciofemminileitaliano.it,calciomercato.it,gametimers.it,gamingtoday.it,phonetoday.it,radioradio.it,romagiallorossa.it,tecnoandroid.it##.td-container-header
 radioradio.it##.td-fix-index
 amoreaquattrozampe.it##.td-footer-container
 ilgiornaledeltermoidraulico.it,pescaracalcio.com,tennispavese.it,ternanacalcio.com##.td-footer-wrapper
@@ -1635,6 +1635,7 @@ ebikecult.it,mtbcult.it##div[id^="mtbcu-"]
 amazon.it##div[id^="sp_detail"]
 keblog.it##div[style*="height: 250px !important; max-height: 250px !important;"]
 sicilianews24.it,stadionews.it##div[style*="width: 300px; min-height: 250px;"]
+radioradio.it##div[style*="width: 324px; height: 400px;"]
 plcforum.it##div[style="align:center; width:100%; clear:both; height:270px;"]
 lasiritide.it##div[style="background-color: #f0fff0; width: 310px; height:710px; overflow: auto; text-align: justify; font-family:arial,sans-serif; color:#000; border-top-color:inherit"]
 manduriaoggi.it##div[style="background-color:#FFF; border:#FC0 1px solid; padding:10px"]
