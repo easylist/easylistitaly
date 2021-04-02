@@ -2003,6 +2003,7 @@
 ||notiziarioeolie.it/images/banners/
 ||notiziediprato.it/caricaBannerIframe/
 ||notiziediprato.it/uploads/banner/
+||notizieinunclick.com/wp-content/banners/
 ||notizieoggi.com^*_banner.
 ||notizieoggi24.it^*/gel-farmacia.jpg
 ||novabbe.com^*/guardalo-su-amazon-
