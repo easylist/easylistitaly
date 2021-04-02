@@ -1128,6 +1128,7 @@ meteofinanza.com##.overlay-buttons
 meteofinanza.com##.overlay-text
 altadefinizione.coach##.overplayer
 chepreparo.it##.page-intro-description
+quotidianodiragusa.it##.page-pdmin
 casaeclima.com##.page-wrapper
 puntocellulare.it##.panel-offers
 nostrofiglio.it##.par-listing-collab
