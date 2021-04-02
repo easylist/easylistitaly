@@ -1463,6 +1463,7 @@
 ||informagiovani-italia.com/amazon-
 ||informagiovani-italia.com/viaggiare.jpg
 ||informare.it/images/shipstore
+||informatissimo.net/images/banners/
 ||informazionecomunicazione.it^*-banner-
 ||informazionecomunicazione.it^*/banner-
 ||informazionecomunicazione.it^*/Banner800x800-
