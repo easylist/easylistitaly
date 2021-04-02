@@ -1167,6 +1167,11 @@
 ||gonews.it^*/Istituto_Tecnico_Cattaneo_
 ||gonews.it^*/Servizio_Civile_gen21-
 ||gonews.it^*_Banner-
+||goriziaoggi.news^*-300x300-
+||goriziaoggi.news^*-600x300px-
+||goriziaoggi.news^*-banner-
+||goriziaoggi.news^*/3service-climatizzazione.jpg
+||goriziaoggi.news^*/enaip-innovazione.jpeg
 ||grandangoloagrigento.it^*/350x350-
 ||gratisfree.it/cgi-bin/bannergest$script
 ||greenews.info/wp-content/banners/
