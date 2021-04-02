@@ -1447,6 +1447,7 @@ radiodigione.net##.widget_ubm-banners-rotation
 vicenzanews.it##.wifiplaza
 tuttitalia.it##.wk
 tuttotek.it##.wpb_wrapper > a[href^="https://www.amazon.it/"]
+umbriasud.com##.wpcnt
 palermolive.it##.wpls-logo-showcase
 fiorentina.news##.wpls-logo-showcase-slider-wrp
 androidblog.it,best5.it,lapappadolce.net,tuttosullapostaelettronica.it##.wpmc_inject_wrapper
