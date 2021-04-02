@@ -889,6 +889,7 @@
 ||econote.it^*banner
 ||ecorisveglio.it/images/banner_
 ||ecovicentino.it/wp-admin/get_img.php?*banner
+||ecovicentino.it/wp-admin/get_img.php?*sfondo
 ||ecovicentino.it/wp-content/banner/
 ||ecovicentino.it^*/banner-
 ||edilportale.com/Banner/
