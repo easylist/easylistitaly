@@ -1638,6 +1638,13 @@
 ||larionews.com^*-MANCHETTE-
 ||larivieraonline.com^*/banner/
 ||larivieraonline.com^*/takeover/
+||lasberla.com^*/CoffeeStore_
+||lasberla.com^*/lantillo-
+||lasberla.com^*/magic-dance-
+||lasberla.com^*/ottica-fodale-
+||lasberla.com^*/pattinaggio-sberla-
+||lasberla.com^*/posta-service-
+||lasberla.com^*_ADV_
 ||lasesia.vercelli.it^*/ADV/
 ||lasiritide.it/img/agrello
 ||lasiritide.it/img/logobuonorgse.jpg

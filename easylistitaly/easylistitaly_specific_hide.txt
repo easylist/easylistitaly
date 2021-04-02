@@ -221,6 +221,7 @@ transfermarkt.it###home-rectangle-spotlight
 rovigooggi.it###home-super-space
 centrometeoligure.com###hometop
 telegolfo.com###html_javascript_adder-16
+lasberla.com###huge_it_slideshow_image_container_4
 ideawebtv.it###ideaw-slider-45856
 corrierenazionale.it###image-3
 4yougratis.it###img-60x60
