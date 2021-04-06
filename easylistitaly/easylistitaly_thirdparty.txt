@@ -185,6 +185,7 @@
 ||sk1.it/images/promo/
 ||slotmachinesgratisonline.com/image/$third-party
 ||smscellulari.it/pic/banner/$third-party
+||sonnige-aussichten.ch/_img/ad/$third-party
 ||sorgentenatura.it^*/Banner_$third-party
 ||sostariffe.it/sosWidget3/$third-party
 ||spox.com/daznpic/$third-party
