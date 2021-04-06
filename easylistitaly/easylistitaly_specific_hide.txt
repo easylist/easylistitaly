@@ -8,6 +8,7 @@ staffettaonline.com###BnrSolidarieta
 insic.it###ContentPlaceHolder1_pnBanners
 mymovies.it###Middle3_hp
 chimerarevo.com###TopWidgetArea
+larena.it###_dbx_core
 digital-forum.it,ebaygeneration.com,elaborare.com,esigarettaforum.com,milanworld.net,thegamesmachine.it###ad_global_below_navbar
 bordighera.net,corriere.it###ads
 buonapesca.it,piceno24.it,picenooggi.it,rivieraoggi.it,virgilio.it###adv
