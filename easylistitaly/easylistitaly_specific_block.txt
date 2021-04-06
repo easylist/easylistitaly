@@ -158,6 +158,7 @@
 ||amalfinews.it^*/1fcde18f59c92660df0192c1272b47bb/
 ||amalfinotizie.it^*/omenu.one_
 ||amalfinotizie.it^*_500x500.
+||amantideilibri.it^*/banner-
 ||amazonaws.com^*/5d24b87899c84085287515.jpg$domain=primocomunicazione.it
 ||amazonaws.com^*/5d42b26ab05d0330852918.png$domain=primocomunicazione.it
 ||amazonaws.com^*/5d4c3da34c6cc447335024.png$domain=primocomunicazione.it
