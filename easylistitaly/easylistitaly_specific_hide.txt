@@ -1342,7 +1342,7 @@ bottadiculo.it##.table3bonus-side
 ilpost.it##.tag-sponsored
 videosesso.com##.tagsection
 bitquotidiano.it##.takeover
-agrodolce.it,bebeblog.it,fashionblog.it,gossipblog.it,pinkblog.it##.tbm-code
+agrodolce.it,bebeblog.it,fashionblog.it,gossipblog.it,html.it,pinkblog.it##.tbm-code
 cattolica.info##.tc_adm
 gioconews.it##.tcvn-banner-item
 2anews.it##.td-a-rec-id-custom-spot
