@@ -1864,6 +1864,7 @@
 ||maxradio.it/images/strip-
 ||medialivetv.it^*/banner_
 ||mediashow.cc/scaricare.png
+||medicitalia.it/js/yb-medicitaliait-21a.js
 ||medium.ilcaffe.tv/img_medium/
 ||megaescort.info/felo.js
 ||megaescort.info/sites/default/files/blog/
