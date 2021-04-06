@@ -900,6 +900,7 @@ tvrxenon.it##.elementor-image-carousel-wrapper
 twebnews.it##.elementor-main-swiper
 radiolaquila1.it##.elementor-swiper
 affaritaliani.it##.eni
+huffingtonpost.it##.entry__right-rail-width-placeholder
 tuttitalia.it##.eo
 garganotv.com##.erzodfm-container
 meteofinanza.com##.etoro-social-widget
