@@ -461,6 +461,7 @@
 ||birramoriamoci.it^*/prime-300x140.png
 ||birramoriamoci.it^*/regalli-birra-
 ||bitmat.it^*/skin_
+||bitmat.it^*_Skin-
 ||bitquotidiano.it^*/1fd5de87-f250-4006-8eb7-9b016f387bac.jpeg
 ||bitquotidiano.it^*/banner_
 ||bitquotidiano.it^*/Confesercenti.jpg
