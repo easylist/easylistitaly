@@ -343,6 +343,7 @@
 ||antennasud.com^*/fadi.jpg
 ||antennasud.com^*/nuovarredo.jpg
 ||anteprima24.it^*/6D49DB89-
+||anteprima24.it^*/banner-
 ||anteprima24.it^*/cave-sannite-
 ||anteprima24.it^*/kinertek20.jpg
 ||anteprima24.it^*/lafortezza-
