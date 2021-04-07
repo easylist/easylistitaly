@@ -130,6 +130,7 @@ ilpentasport.it###bx-prev-sponsor
 ascolicalcio1898.it###carousel
 foodbloggermania.it###categories-2
 newsf1.it###cb-bg-to
+sempionenews.it###cboxOverlay
 cdt.ch###cdt-ads-medium-rectangle
 virgilio.it###cht_banner
 libero.it###chunnel-affari-300x170
@@ -1312,6 +1313,7 @@ sanitainsicilia.it##.srur_leaderboard
 cremaoggi.it,cremonaoggi.it,oglioponews.it##.standard-inside-text
 pmi.it,we-wealth.com##.sticky-banner
 sportytrader.it##.sticky-header_banner_first
+sempionenews.it##.sticky-posts__redazionali
 quattroruote.it##.sticky-sponsor
 occhionotizie.it##.sticky_bar_container
 webnews.it##.sticky_wrapper
