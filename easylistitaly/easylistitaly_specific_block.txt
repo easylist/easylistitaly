@@ -3502,6 +3502,7 @@
 ||zaffiromagazine.com^*/futurcasa.png
 ||zaffiromagazine.com^*/hgnews.jpg
 ||zaffiromagazine.com^*/planetconsult-
+||zenazone.it^*/banner-
 ||zenzero.info/images/call-to-action-
 ||zerocinquantuno.it^*-banner-
 ||zerocinquantuno.it^*-la-bologna-ferramenta.png
