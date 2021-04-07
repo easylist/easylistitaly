@@ -1000,6 +1000,7 @@ mrw.it##.inadv
 mrw.it##.inadv-label
 giochigratis.net##.inici
 innaturale.com##.innat-widget
+webnews.it##.innerproduct-affiliation
 gay.it##.inread-resp-container
 lecconotizie.com##.insert-adv-venerota
 spaziogames.it,tomshw.it##.instant-gaming-widget
