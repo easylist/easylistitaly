@@ -1369,6 +1369,7 @@ ideeviaggio.it##.td-ss-main-sidebar
 guidalloshopping.com##.td_btn
 biancorossi.net,immaginevalsassina.com,moondo.info,notizialocale.it,radiolombardia.it,telesudweb.it##.td_single_image_bg
 agimeg.it##.td_uid_18_5fdb9a4e3037a_rand
+agimeg.it##.td_uid_18_606dd54991c0e_rand
 romanews.eu##.td_uid_7_5fc0c934d6e11_rand
 omniagate.com##.tdi_11_784
 calcioj.com##.tdi_15_2e7
