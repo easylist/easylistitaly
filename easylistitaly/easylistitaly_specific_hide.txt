@@ -1130,6 +1130,7 @@ techzilla.it##.offerta-img-box
 prezzisalute.com##.offerte
 machineseeker.it##.ofni
 lamilano.it##.olvu
+architetturaecosostenibile.it##.onetag
 milanocam.it##.overcam_advertising
 meteofinanza.com##.overlay-buttons
 meteofinanza.com##.overlay-text
