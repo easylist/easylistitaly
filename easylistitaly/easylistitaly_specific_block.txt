@@ -2472,6 +2472,7 @@
 ||radiortm.it^*/peugeot2_
 ||radiortm.it^*/san-pietro.gif
 ||radiortm.it^*/Torre-Del-Sud.jpg
+||radioshowitalia.it/public/img/sponsor_
 ||radiosieve.it^*/bannerbcc.png
 ||radiosonica.it^*/banner_
 ||radiosportiva.com/foto/grandi/20-1-1-1.jpg
