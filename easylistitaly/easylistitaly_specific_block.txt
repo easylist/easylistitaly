@@ -922,6 +922,10 @@
 ||emotionrit.it^*/banner1_
 ||emotionrit.it^*/tep-wireless.jpg
 ||empolifc.com^*-sponsor.
+||energiaincomune.com^*/ambiens.jpg
+||energiaincomune.com^*/banner_
+||energiaincomune.com^*/il-professionista-della-detrazione.jpg
+||energiaincomune.com^*/logo-energie-sostenibili.png
 ||entella.it^*/SKIN_
 ||entella.it^*/sponsor-
 ||epolisbari.com/banner/
