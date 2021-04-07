@@ -179,6 +179,7 @@
 ||amazonaws.com^*_banner_$domain=armiusate.it
 ||ambientebio.it^*/WhatsApp-Image-2020-09-02-at-15.16.54.jpeg
 ||ambientequotidiano.it/banner/
+||amicidicasa.it/amb/
 ||amicodelpopolo.it^*/banner-
 ||amicodelpopolo.it^*/banner_
 ||ammirati.org/immagini/sponsor/
