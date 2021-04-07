@@ -1370,6 +1370,8 @@ guidalloshopping.com##.td_btn
 biancorossi.net,immaginevalsassina.com,moondo.info,notizialocale.it,radiolombardia.it,telesudweb.it##.td_single_image_bg
 agimeg.it##.td_uid_18_5fdb9a4e3037a_rand
 agimeg.it##.td_uid_18_606dd54991c0e_rand
+ilparmense.net##.td_uid_18_606dd7c7652fd_rand
+ilparmense.net##.td_uid_2_606dd7c74fb8e_rand
 romanews.eu##.td_uid_7_5fc0c934d6e11_rand
 omniagate.com##.tdi_11_784
 calcioj.com##.tdi_15_2e7
@@ -1644,6 +1646,7 @@ stilenaturale.com##div[id="Banner_BIOOFFERTA"]
 inconcreto.net,ingenio-web.it,pavimenti-web.it##div[id^="Banner"]
 alvolante.it##div[id^="dfp-alv-slot"]
 nationalgeographic.it##div[id^="gpt-"]
+ilparmense.net##div[id^="ilpar-"]
 ebikecult.it,mtbcult.it##div[id^="mtbcu-"]
 amazon.it##div[id^="sp_detail"]
 keblog.it##div[style*="height: 250px !important; max-height: 250px !important;"]
