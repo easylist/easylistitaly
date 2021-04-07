@@ -532,6 +532,7 @@ pagare.online##.alert.alert-success
 alessandria24.com##.aless-widget
 noisiamofuturo.it##.allinone_bannerRotator
 grecia.cc,informagiovani-italia.com##.alto_add
+ludomedia.it##.amBoxGioco
 prezzisalute.com##.amaz
 cronotop.it##.amaz-product
 gamemag.it,lavorincasa.it,nientepopcorn.it,robadadonne.it,videogame.it##.amazon
@@ -960,6 +961,7 @@ goriziaoggi.news##.goriz-widget
 nextpit.it##.gptSlot
 nextpit.it##.gptSlot__sticky-footer
 3bmeteo.com##.gpt_top
+ludomedia.it##.grigliaPbi
 sorrisi.com##.gtv-trigger-elevator
 eurostreaming.voto##.guarda
 altadefinizione.coach,guardaserie.store##.guarda_hd
@@ -1168,6 +1170,7 @@ pisachannel.tv##.pre_footer
 comingsoon.it##.primeTrack
 orologi-subacquei.it##.product-listing
 webnews.it##.product__info
+ludomedia.it##.profiloAdv
 comingsoon.it,pneusnews.it##.promo
 voglioporno.com##.promo-462x66
 eurogamer.it##.promo-banner
