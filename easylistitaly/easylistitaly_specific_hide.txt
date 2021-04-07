@@ -292,6 +292,7 @@ primaonline.it###native_div_home
 rovigooggi.it###news-left-box
 rovigooggi.it###news-pretext-box
 rovigooggi.it###news-top-space
+anteritalia.org###nwg
 puntocellulare.it###o_list
 diretta.it,flashscore.it###odds-main-wrapper
 mondoplay.it,mondoxbox.com###offersbox
