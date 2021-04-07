@@ -2280,6 +2280,7 @@
 ||primopianomolise.it^*/peccia
 ||primopianomolise.it^*/tunnel%20ok.jpg
 ||production-livingdocs-bluewin-ch.imgix.net^*/6f3cdbc0-2a58-4a7e-933f-9077769c899b.png$domain=bluewin.ch
+||professionecamionista.it/amb/
 ||professionemotori.it/wp-content/uploads/williamHillbox.png
 ||pronosticideiguerrieri.it^*/banner-
 ||prospettivegeometri.it^*/380x180_

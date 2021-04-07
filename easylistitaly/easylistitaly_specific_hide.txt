@@ -594,7 +594,7 @@ notetralerighe.it##.banner-amazon-music
 parmareport.it##.banner-big
 universodelgioco.it##.banner-btf-side-rectangle
 mrw.it##.banner-center
-1001giochi.it,amicidicasa.it,cuneocronaca.it,divinafm.it,giochixl.it,lacrocequotidiano.it,livesicilia.it,mtv.it,picchionews.it,sposa.it##.banner-container
+1001giochi.it,amicidicasa.it,cuneocronaca.it,divinafm.it,giochixl.it,lacrocequotidiano.it,livesicilia.it,mtv.it,picchionews.it,professionecamionista.it,sposa.it##.banner-container
 punto-informatico.it##.banner-content
 nove.firenze.it##.banner-desktop
 genova24.it##.banner-elezioni
