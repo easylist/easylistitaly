@@ -3168,6 +3168,7 @@
 ||universoinformatico24.it^*/banner-
 ||unonotizie.it/immagini/banner/
 ||uominietrasporti.it^*/Auto-doc.
+||urbanfile.org^*/banner-
 ||usavellino1912.com^*/cosmopol-
 ||usavellino1912.com^*/cropped-LOGO-PTV-
 ||usavellino1912.com^*/mactrasp.png
