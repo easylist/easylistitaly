@@ -1346,6 +1346,9 @@
 ||ilgeniodellostreaming.gold/fake2/
 ||ilgeniodellostreaming.gold/templates/GdTheme/images/scarico-
 ||ilgeniodellostreaming.gold/templates/GdTheme/images/vediparte
+||ilgeniodellostreaming.photo/templates/GdTheme/images/chevedi
+||ilgeniodellostreaming.photo/templates/GdTheme/images/latodestrofilm.png
+||ilgeniodellostreaming.photo/templates/GdTheme/images/latosinistrofilm.png
 ||ilgeniodellostreaming.tel/templates/GdTheme/images/guarda
 ||ilgeniodellostreaming.tel/templates/GdTheme/images/lato
 ||ilgeniodellostreaming.tel/templates/GdTheme/images/scarica

@@ -502,7 +502,7 @@ unonotizie.it##.add
 informagiovani-italia.com##.add_left
 spagna.cc##.add_top
 offertevolantini.it##.add_w2_h1
-24emilia.com,antennafebea.it,autoscout24.ch,brocardi.it,cb01.online,filmpertutti.kim,filmpertutti.li,filmpertutti.lol,filmpertutti.onl,filmpertutti.voto,gamemag.it,hdblog.it,hdmotori.it,hdtroll.it,ilgeniodellostreaming.dance,ilgeniodellostreaming.rest,ilikepuglia.it,liberta.it,live-sport-tv.it,mattinonline.ch,sitigiochi.it,teleborsa.it,viamichelin.ch,viamichelin.it,zazoom.it##.ads
+24emilia.com,antennafebea.it,autoscout24.ch,brocardi.it,cb01.online,filmpertutti.kim,filmpertutti.li,filmpertutti.lol,filmpertutti.onl,filmpertutti.voto,gamemag.it,hdblog.it,hdmotori.it,hdtroll.it,ilgeniodellostreaming.dance,ilgeniodellostreaming.rest,ilgeniodellostreaming.tube,ilikepuglia.it,liberta.it,live-sport-tv.it,mattinonline.ch,sitigiochi.it,teleborsa.it,viamichelin.ch,viamichelin.it,zazoom.it##.ads
 ildolomiti.it##.adsB
 beatgogo.it,chistachiamando.it,pcprofessionale.it,trova-aperto.it##.adsense
 adessoin.tv,allaguida.it,alpha59.it,altreconomia.it,amica.it,ansa.it,buttalapasta.it,calciomercato.com,curioctopus.it,dissapore.com,forbes.it,gelocal.it,gianlucadimarzio.com,girovagandointrentino.it,gta-expert.it,guardachevideo.it,ilfattoquotidiano.it,ilpost.it,ilsole24ore.com,latina24ore.it,leonardo.it,libero.it,mediaset.it,movieplayer.it,multiplayer.it,nanopress.it,notiziemilan.it,oasport.it,pourfemme.it,prealpina.it,radioindiretta.fm,repubblica.it,salepepe.it,skuola.net,staffettaonline.com,stylosophy.it,supereva.it,virgilio.it,vocenuova.tv##.adv
@@ -724,8 +724,8 @@ lantidiplomatico.it##.block-wrapper-banner
 dissapore.com,pourfemme.it,punto-informatico.it,telefonino.net##.blz-url
 stateofmind.it##.bnn-fullwidth
 abcsalute.it##.bnner_container
-ilgeniodellostreaming.gold,ilgeniodellostreaming.tel##.bnnr1
-ilgeniodellostreaming.gold,ilgeniodellostreaming.tel##.bnnr2
+ilgeniodellostreaming.gold,ilgeniodellostreaming.photo,ilgeniodellostreaming.tel##.bnnr1
+ilgeniodellostreaming.gold,ilgeniodellostreaming.photo,ilgeniodellostreaming.tel##.bnnr2
 meteovalmorea.it##.bnr-row
 staffettaonline.com##.bnrZonaLati
 giornaledibarga.it##.bnside
@@ -966,9 +966,9 @@ sorrisi.com##.gtv-trigger-elevator
 eurostreaming.voto##.guarda
 altadefinizione.coach,guardaserie.store##.guarda_hd
 altadefinizione.energy,toonitalia.org,toonitalia.pro##.guarda_in_hd
-ilgeniodellostreaming.dance,ilgeniodellostreaming.rest,ilgeniodellostreaming.to##.guardasingle
-ecwgcortina2016.it,ilgeniodellostreaming.dance,ilgeniodellostreaming.rest,ilgeniodellostreaming.to,ilgeniodellostreamings.com,ilgeniodellostreamings.it##.guardasingleserie1
-ecwgcortina2016.it,ilgeniodellostreaming.dance,ilgeniodellostreaming.rest,ilgeniodellostreaming.to,ilgeniodellostreamings.com,ilgeniodellostreamings.it##.guardasingleserie2
+ilgeniodellostreaming.dance,ilgeniodellostreaming.rest,ilgeniodellostreaming.to,ilgeniodellostreaming.tube##.guardasingle
+ecwgcortina2016.it,ilgeniodellostreaming.dance,ilgeniodellostreaming.rest,ilgeniodellostreaming.to,ilgeniodellostreaming.tube,ilgeniodellostreamings.com,ilgeniodellostreamings.it##.guardasingleserie1
+ecwgcortina2016.it,ilgeniodellostreaming.dance,ilgeniodellostreaming.rest,ilgeniodellostreaming.to,ilgeniodellostreaming.tube,ilgeniodellostreamings.com,ilgeniodellostreamings.it##.guardasingleserie2
 quattroruote.it##.halfPageBanner2
 pornoamatorialeitaliano.it##.happy-footer
 cuckold.it,pornoamatorialeitaliano.it,solopompini.it##.happy-header
@@ -1545,6 +1545,7 @@ eurostreaming.ca,eurostreaming.cam,eurostreaming.land,filmsenzalimiti.bz,filmsen
 altomantovanonews.it,autobusweb.com,citynow.it,corriereromagna.it,firstonline.info,fortuneita.com,giornaledelcilento.it,ilcarmagnolese.it,ilreventino.it,infocilento.it,iocaccio.it,lagenziadiviaggi.it,latinacorriere.it,latinaquotidiano.it,leggilanotizia.it,mantovasport24.it,mantovauno.it,oltrepomantovanonews.it,pc-gaming.it,piuchepuoi.it,siracusaoggi.it,sprintesport.it,triesteallnews.it,viaggioff.it##a[href*="/linkout/"]
 supercoin.it##a[href*="/out/"]
 cb01.band##a[href*="/pellicola/"]
+ilgeniodellostreaming.photo##a[href*="/playerhd/"]
 cineblog01.green,tantifilm.center##a[href*="/premium-download.php"]
 altadefinizione01.works,cineblog01.care,cineblog01.green##a[href*="/premium-scaricare-film.php"]
 altadefinizione01.works,cineblog01.care,cineblog01.green##a[href*="/premium-vod-film.php"]
@@ -1565,7 +1566,7 @@ borsainside.com,cartaricaricabile.net,stadiosport.it##a[href*="/vai/"]
 altadefinizione.legal,altadefinizione01.green,altadefinizione01.works,cb01.run,cineblog01.green,cineblog01.love,filmsenzalimiti.love,guardaserie.cam,ilgeniodellostreaming.cam,tantifilm.center##a[href*="/vedo4k.php"]
 altadefinizione.sh##a[href*="/view.php?"]
 altadefinizione01.software##a[href*="/vod2k.php"]
-altadefinizione.gg,altadefinizione.ph,filmpertutti.li,filmpertutti.lol,filmpertutti.onl,ilgeniodellostreaming.dance##a[href*="/vss/"]
+altadefinizione.gg,altadefinizione.ph,filmpertutti.li,filmpertutti.lol,filmpertutti.onl,ilgeniodellostreaming.dance,ilgeniodellostreaming.tube##a[href*="/vss/"]
 birramoriamoci.it##a[href*="?affiliates="]
 anteprima24.it,gnoccatravels.com,ideawebtv.it,juzaphoto.com,lavorincasa.it,mangaforever.net,milanofinanza.it,phica.net,voglioporno.com##a[href*="?utm_"]
 corrierenazionale.it##a[href="http://www.herobet.it/"]
