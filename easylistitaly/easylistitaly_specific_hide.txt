@@ -325,6 +325,7 @@ odontoiatria33.it###rowHeader
 skylinewebcams.com###rpc
 alwaysonboard.it###sab_content
 ilpost.it###scrolling-container
+sampdoria.it###section-b-sponsor
 mangialibri.com###section-extra-bottom-4
 msmotor.tv###sezpartnercommerciali
 nuovosud.it###sfondo
@@ -607,6 +608,7 @@ italiani.it##.banner-empty-italiani
 bluvolleyverona.it##.banner-fading
 algheroeco.com##.banner-header-dx
 algheroeco.com##.banner-header-sx
+sampdoria.it##.banner-home
 ebikecult.it,mtbcult.it##.banner-homepage-inside-1
 ebikecult.it,mtbcult.it##.banner-homepage-inside-2
 ebikecult.it,mtbcult.it##.banner-homepage-slider-728-90
