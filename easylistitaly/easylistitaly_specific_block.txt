@@ -509,7 +509,7 @@
 ||business24tv.it^*/Banner_
 ||business24tv.it^*/skin_
 ||caffe.ch/media/STATICHE/ilcaffe/ADV/
-||cagliaricalcio.com^*/image-sponsor-
+||cagliaricalcio.com^*-sponsor-
 ||cakemania.it^*/bannervoxmail300x100.png
 ||calabria7.it^*/bricon.jpeg
 ||calabria7.it^*/dolce-750.png
