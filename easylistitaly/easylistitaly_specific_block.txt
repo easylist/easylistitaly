@@ -2025,6 +2025,9 @@
 ||nigiara.it/data/*/3x6-
 ||nigiara.it/data/nigiara/sh-
 ||nintendari.it^*/instagaming.jpg
+||nitrocdn.com^*/neurobooster-banner.png$domain=ipermind.com
+||nitrocdn.com^*/neurobooster-banner2.png$domain=ipermind.com
+||nitrocdn.com^*/scopri_potere_footer.png$domain=ipermind.com
 ||noinotizie.it^*/halos.jpg
 ||noitv.it^*-Banner-
 ||noitv.it^*/banner-
