@@ -3118,6 +3118,7 @@
 ||tuttoin1.it^*/logo-dadopet-
 ||tuttoin1.it^*/logo-pubblimedia-
 ||tuttointer24.it^*/banner-
+||tuttojuve24.it^*/banner-
 ||tuttonatale.it^*/tutto-costumi-
 ||tuttotek.it^*/Catch.jpg
 ||tuttotek.it^*/instant-banner-

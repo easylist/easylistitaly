@@ -86,6 +86,7 @@
 ||pirchio.com^$third-party
 ||plavid.com^$third-party
 ||preludeadv.it^$third-party
+||pronostici.app^$third-party
 ||prontocampaign.com^$third-party
 ||publy.net^$third-party
 ||radxcomm.com^$third-party
