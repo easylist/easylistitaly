@@ -2964,6 +2964,7 @@
 ||ticino24.it/images/banner/
 ||ticinofinanza.ch/banner/
 ||timgate.it^*/masthead_
+||tipster.space/FOTO/ADV/
 ||tiscali.it/amazon/
 ||tiscali.it/planner/
 ||tiscali.it/sampr/amz.js
