@@ -929,8 +929,11 @@
 ||energiaincomune.com^*/banner_
 ||energiaincomune.com^*/il-professionista-della-detrazione.jpg
 ||energiaincomune.com^*/logo-energie-sostenibili.png
+||entella.it^*-sponsor-
+||entella.it^*/banner-
 ||entella.it^*/SKIN_
 ||entella.it^*/sponsor-
+||entella.it^*_skin_
 ||epolisbari.com/banner/
 ||erbanotizie.com^*/banner_
 ||erbanotizie.com^*_multibanner_
