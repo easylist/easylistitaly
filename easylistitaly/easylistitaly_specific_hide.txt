@@ -1411,7 +1411,7 @@ bluerating.com##.top_funders
 dtti.it##.topad
 trapanioggi.it##.topbanner
 piccoletrasgressioni.it##.topbar-banner
-blunote.it##.topbar-below
+blunote.it,mondoprimavera.com##.topbar-below
 everyeye.it##.topskin
 viviwebtv.it##.topstriplive
 noinotizie.it##.tre-spazi

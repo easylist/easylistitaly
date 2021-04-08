@@ -855,9 +855,11 @@
 ||diaconale.it^*/BannerSSLazio.jpg
 ||digisesso.com/nb/
 ||digitalic.it^*/skin_
+||digitaloceanspaces.com/m0_tml2472477177601_47443104981_1608303737282150.png$domain=mondoprimavera.com
 ||digitaloceanspaces.com/r0_tml3365830375169_128795825365_1605621213839923.png$domain=bolognasportnews.it
 ||digitaloceanspaces.com/r0_tml3365830375169_409579312341_1600874818793921.jpg$domain=bolognasportnews.it
 ||digitaloceanspaces.com/r0_tml3365830375169_547018265813_1600875297674325.jpg$domain=bolognasportnews.it
+||digitaloceanspaces.com^*/banner/$domain=mondoprimavera.com
 ||diretta.it/res/image/bookmaker-list.png
 ||diretta.it^*/banner/
 ||diritto.it^*/Banner_
