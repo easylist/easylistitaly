@@ -655,6 +655,7 @@ edilportale.com,ilmessaggero.it##.bannerTop
 teleponte.it##.banner_6
 professionecalcio.net,professionemotori.it##.banner_after_feat
 fidelityhouse.eu##.banner_box
+bolognafc.it##.banner_btm_page
 casateonline.it,leccoonline.com,merateonline.it##.banner_centro
 winenews.it##.banner_concessionaria
 arte.it##.banner_cont
