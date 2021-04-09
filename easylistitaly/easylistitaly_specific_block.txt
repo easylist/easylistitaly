@@ -1580,6 +1580,8 @@
 ||juzaphoto.com^*/imgj_1603286335.jpg
 ||juzaphoto.com^*/rce/
 ||katablog.it/images/e-commerce-carrello.jpg
+||kc-usercontent.com^*/Banner_$domain=acffiorentina.com
+||kc-usercontent.com^*/Promo-$domain=acffiorentina.com
 ||key4biz.it^*/req-
 ||kiaclub.it/kia/banner/
 ||kinstacdn.com^*/musica-gratis-amazon.jpg$domain=advister.it
