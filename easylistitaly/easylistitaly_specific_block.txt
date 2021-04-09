@@ -2451,7 +2451,9 @@
 ||radioluna.it^*_Banner_
 ||radiomarte.it/site/images/sponsor/
 ||radiomarte.it^*/autoscala_
+||radiomarte.it^*/banner_
 ||radiomarte.it^*/Ln_Rm.
+||radiomarte.it^*/top_02.jpg
 ||radiomarte.it^*_Banner_
 ||radiomillennium.it/images/animal-food.png
 ||radiomillennium.it/images/BMC.png
