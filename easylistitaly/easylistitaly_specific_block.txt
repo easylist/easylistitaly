@@ -1667,6 +1667,15 @@
 ||laprimapagina.it^*/banner729x90.
 ||laprovinciakr.it/images/banners/
 ||laprovinciakr.it^*/banner-
+||laquilablog.it^*-300x300-
+||laquilablog.it^*/affittasi.gif
+||laquilablog.it^*/asm-
+||laquilablog.it^*/ASM.jpeg
+||laquilablog.it^*/capitello.gif
+||laquilablog.it^*/melograno.gif
+||laquilablog.it^*/mondadori-meridiana.png
+||laquilablog.it^*/risana.gif
+||laquilablog.it^*_300x300-
 ||larionews.com^*-MANCHETTE-
 ||larivieraonline.com^*/banner/
 ||larivieraonline.com^*/takeover/

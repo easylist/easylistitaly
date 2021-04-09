@@ -281,6 +281,11 @@ giornalistitalia.it,inviaggiodasola.com,it-casinoonline.com,mondo3.com###media_i
 altropensiero.net,giornalistitalia.it###media_image-6
 cataniaunafede.it,vivoconbenessere.it###media_image-7
 giornalistitalia.it,italiaonline.news,mam-e.it###media_image-8
+laquilablog.it###media_video-10
+laquilablog.it###media_video-12
+laquilablog.it###media_video-4
+laquilablog.it###media_video-8
+laquilablog.it###media_video-9
 umbriajournal.com###mh_magazine_custom_posts-17
 catanzaro7.net###mh_magazine_youtube-3
 mymovies.it###middle1_companion
@@ -951,7 +956,7 @@ quattroruote.it##.fullBanner
 pressgiochi.it##.full_width_banner
 agro24.it##.fullwidthbanner-container
 legnagocalcio.it##.fusion-carousel-holder
-amicodelpopolo.it,anteprima24.it,atripaldanews.it,bitquotidiano.it,bolognaindiretta.it,buttanissima.it,castellinotizie.it,castelvetranoselinunte.it,centropagina.it,corriereelorino.it,corrieresalentino.it,gazzettadasti.it,gdonews.it,giornaledellabirra.it,giornaledellavela.com,ilfattonisseno.it,ilgiornaledellabellezza.it,ilsicilia.it,informazioneonline.it,itacanotizie.it,junglam.com,labtv.net,lagendanews.com,lanuovaecologia.it,latina24ore.it,lavalsusa.it,lavocedeltrentino.it,lavocedibolzano.it,lineauno.it,milanosud.it,modenaindiretta.it,montagneepaesi.com,nonsolobenessere.it,notizieinunclick.com,oltrefano.it,padovacalcio.it,primapaginaonline.it,qds.it,quicosenza.it,radioibiza.it,radioluna.it,radiotime.it,reggionline.com,reportmotori.it,reteabruzzo.com,rietinvetrina.it,rivistastudio.com,sanitainsicilia.it,siciliammare.it,siciliarurale.eu,sportmagazinetrentino.it,statoquotidiano.it,superj.it,tarantobuonasera.it,telebari.it,terranostranews.it,ticinonotizie.it,trapanisi.it,travelnostop.com,unicoebello.it##.g
+amicodelpopolo.it,anteprima24.it,atripaldanews.it,bitquotidiano.it,bolognaindiretta.it,buttanissima.it,castellinotizie.it,castelvetranoselinunte.it,centropagina.it,corriereelorino.it,corrieresalentino.it,gazzettadasti.it,gdonews.it,giornaledellabirra.it,giornaledellavela.com,ilfattonisseno.it,ilgiornaledellabellezza.it,ilsicilia.it,informazioneonline.it,itacanotizie.it,junglam.com,labtv.net,lagendanews.com,lanuovaecologia.it,laquilablog.it,latina24ore.it,lavalsusa.it,lavocedeltrentino.it,lavocedibolzano.it,lineauno.it,milanosud.it,modenaindiretta.it,montagneepaesi.com,nonsolobenessere.it,notizieinunclick.com,oltrefano.it,padovacalcio.it,primapaginaonline.it,qds.it,quicosenza.it,radioibiza.it,radioluna.it,radiotime.it,reggionline.com,reportmotori.it,reteabruzzo.com,rietinvetrina.it,rivistastudio.com,sanitainsicilia.it,siciliammare.it,siciliarurale.eu,sportmagazinetrentino.it,statoquotidiano.it,superj.it,tarantobuonasera.it,telebari.it,terranostranews.it,ticinonotizie.it,trapanisi.it,travelnostop.com,unicoebello.it##.g
 4yougratis.it##.g-top-text
 agendadigitale.eu##.gallery-container-home
 virtusfrancavilla.it##.gallery-icon
