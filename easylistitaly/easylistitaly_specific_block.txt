@@ -1998,6 +1998,7 @@
 ||mymovies.it^*/primevideo/
 ||myvalley.it/wp-content/banners/
 ||myvalley.it^*/wpsite_clickable.
+||mywhere.it^*/160x310.png
 ||mywhere.it^*/310x310.png
 ||napolicittasolidale.it^*/banner/
 ||napolimagazine.com^*/banner-
