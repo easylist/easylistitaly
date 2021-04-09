@@ -416,6 +416,7 @@ giornalistitalia.it###text-41
 grossetosport.com###text-44
 giornalistitalia.it###text-46
 birramoriamoci.it,giornalesm.com###text-5
+teamworld.it###text-51
 radioimmagine.it###text-61
 incucinaconelena.it###text-7
 brindisioggi.it,controcopertina.com,esportsitalia.com,plusrew.com###text-8
@@ -1401,7 +1402,7 @@ annunci69.it##.testoracc2
 teleaesse.it##.text-left
 teleaesse.it##.text-right
 bluerating.com##.the_big_banner
-87tv.it,ilfattoalimentare.it,meteogiornale.it,pianetadonne.blog,quizammissione.it##.theiaStickySidebar
+87tv.it,ilfattoalimentare.it,meteogiornale.it,pianetadonne.blog,quizammissione.it,teamworld.it##.theiaStickySidebar
 caleno24ore.it##.themequote
 amazon.it##.threepsl-creatives
 tiscali.it##.tiscali-shp-dayblk
