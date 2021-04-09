@@ -3509,6 +3509,7 @@
 ||wp.com/www.statoquotidiano.it/*/727x247-
 ||wp.com/www.tabsernews.it/*/THE-SOUND.png
 ||wp.com/www.teleradio-news.it/*-490x147-
+||wp.com/www.thewalkoffame.it/*/myzona.gif
 ||wp.com/www.tsdtv.it/*/300x300-
 ||wp.com/www.tuttoboxe.it/*/amazon-
 ||wp.com/www.tuttojuve.net/*/119054606_350406236368302_7591478443508881500_n.png
@@ -3524,7 +3525,7 @@
 ||wp.com^*/675x238-$domain=tv9italia.it
 ||wp.com^*/banner-$domain=abruzzoweb.it|bsnews.it|cinecorriere.it|giornaledicalabria.it|ilgiornaledeiveronesi.it|infocilento.it|nonsoloturisti.it|oggicronaca.it|temporeale.info|tv9italia.it|vesuvianonews.it
 ||wp.com^*/banner/$domain=cronacaflegrea.it
-||wp.com^*/banner_$domain=agropolinews.it|bimbonaturale.org|fisco7.it
+||wp.com^*/banner_$domain=agropolinews.it|bimbonaturale.org|fisco7.it|thewalkoffame.it
 ||wp.com^*/banners/$domain=proiezionidiborsa.it
 ||wp.com^*/BRIGNOLA20201.jpg$domain=infonewsvietri.it
 ||wp.com^*/mahindra.png$domain=catanista.eu
