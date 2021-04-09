@@ -211,6 +211,7 @@
 ##.googleAnnunci
 ##.google_adx_corpo
 ##.gptslot
+##.gptslot--adv
 ##.gtv-adv-slot
 ##.header-mobile-mega-adv
 ##.home-rubriche-adv
