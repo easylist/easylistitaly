@@ -1125,6 +1125,7 @@ cb001.xyz##.mvic-btn
 calcioatalanta.it,calciocasteddu.it,calciocremonese.it,calciofere.it,calciogrifo.it,calciohellas.it,calciolecce.it,calciorosanero.it,calciospezia.it,forzaparma.it,labaricalcio.it,qdmnotizie.it,siamolaroma.it,sololalazio.it,tifocosenza.it,trapanigranata.it##.mvp-wall-link
 passioneorologio.it##.my_best-price-btn
 donnaclick.it##.myadv
+newsiciliacasa.it##.narrative
 scuolissima.com##.nascondiads
 ildolomiti.it##.native
 virgilio.it##.newboxIs
