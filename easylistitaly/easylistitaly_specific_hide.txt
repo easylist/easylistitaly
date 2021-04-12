@@ -7,6 +7,7 @@ nauticareport.it###BanTop
 staffettaonline.com###BnrSolidarieta
 insic.it###ContentPlaceHolder1_pnBanners
 mymovies.it###Middle3_hp
+meteoweek.com###NMW-Leaderboard
 tuttojuve24.it###SuperClassQuote
 chimerarevo.com###TopWidgetArea
 larena.it###_dbx_core
