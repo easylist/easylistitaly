@@ -1004,6 +1004,7 @@
 ||fiorentinanews.com^*/fiorentina_news.jpg
 ||fiorentinanews.com^*/received_404151127453365.gif
 ||fiorentinanews.com^*/studiomasoni.gif
+||fip.it/images/sponsor/
 ||firenzespettacolo.it/media/banner/
 ||firenzeviolasupersportlive.it^*/VILLORESI-
 ||firstonline.info^*/300x600.
