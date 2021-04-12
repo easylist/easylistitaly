@@ -1330,6 +1330,7 @@
 ||ilcorrierino.com/foto-banner/
 ||ilcorsaronero.pro/js/yespopup.js
 ||ilcrotonese.it^*/banner-
+||ildigitale.it^*-skin-
 ||ilfarosulmondo.it^*/prenota-il-tuo-viaggio-in-iran-
 ||ilfattodicalabria.it^*/PPE.png
 ||ilfattonisseno.it^*/350x350_

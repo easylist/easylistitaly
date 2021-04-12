@@ -1286,8 +1286,8 @@ meteofinanza.com##.skin-link
 digitalic.it##.skin_a_dx
 digitalic.it##.skin_a_sx
 cellulare-magazine.it,crotoneok.it##.skin_bg
-primopianomolise.it##.skin_bg_left
-primopianomolise.it##.skin_bg_right
+ildigitale.it,primopianomolise.it##.skin_bg_left
+ildigitale.it,primopianomolise.it##.skin_bg_right
 iovivoaroma.org##.skin_link_top
 ffboard.forumfree.it##.skin_tbl_width
 atvreport.it##.skinlink
