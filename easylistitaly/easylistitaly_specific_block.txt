@@ -2036,6 +2036,7 @@
 ||newsly.it^*/aawp/
 ||nigiara.it/data/*/3x6-
 ||nigiara.it/data/nigiara/sh-
+||nigiara.it/data/nigiara/sh2-
 ||nintendari.it^*/instagaming.jpg
 ||nitrocdn.com^*/neurobooster-banner.png$domain=ipermind.com
 ||nitrocdn.com^*/neurobooster-banner2.png$domain=ipermind.com
