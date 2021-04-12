@@ -1584,6 +1584,7 @@
 ||kc-usercontent.com^*/Promo-$domain=acffiorentina.com
 ||key4biz.it^*/req-
 ||kiaclub.it/kia/banner/
+||kimchiebasilico.it^*/Spring21_
 ||kinstacdn.com^*/musica-gratis-amazon.jpg$domain=advister.it
 ||kisskiss.it/images/banners/
 ||kisskissitalia.it/images/banners/
