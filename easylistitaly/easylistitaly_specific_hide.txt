@@ -1375,6 +1375,7 @@ meteofinanza.com##.tabella-migliori-broker
 criptovalute24.com,diventaretrader.com##.table-alm
 bottadiculo.it##.table3bonus
 bottadiculo.it##.table3bonus-side
+ilpost.it##.tag-branded
 ilpost.it##.tag-sponsored
 videosesso.com##.tagsection
 bitquotidiano.it##.takeover
