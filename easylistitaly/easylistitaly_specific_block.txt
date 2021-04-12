@@ -3302,6 +3302,7 @@
 ||vercellioggi.it^*/banner-
 ||veronanetwork.it^*/banner-
 ||veronanetwork.it^*/PANTHEON_ADV_
+||vestirsidicorsa.it^*-350x550.
 ||viaggioff.it^*/okBanner-
 ||viaggioingermania.it^*/corso-tedesco-
 ||viamichelin.ch/static/*/adblocker/advertising.js
