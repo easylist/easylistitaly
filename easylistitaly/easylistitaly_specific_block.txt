@@ -2772,6 +2772,8 @@
 ||sora24.it^*/amazon-prime-
 ||spaziogames.it^*/logo-instant-gaming.jpg
 ||spoletonline.com/banner/
+||sport-press.it^*/image001.jpg
+||sport-press.it^*_300x300.
 ||sport24news.it/images/banner/
 ||sportando.basketball^*/espn-player.jpg
 ||sportcasertano.it^*-768x322.

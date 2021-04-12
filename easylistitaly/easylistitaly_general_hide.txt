@@ -213,6 +213,7 @@
 ##.gptslot
 ##.gptslot--adv
 ##.gtv-adv-slot
+##.header-adv-wr
 ##.header-mobile-mega-adv
 ##.home-rubriche-adv
 ##.inews_adv_top
