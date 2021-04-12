@@ -1667,6 +1667,9 @@
 ||laprimapagina.it^*/banner729x90.
 ||laprovinciakr.it/images/banners/
 ||laprovinciakr.it^*/banner-
+||laputa.it^*/amazon_button.png
+||laputa.it^*/brave_support_us.
+||laputa.it^*/kindle_button.png
 ||laquilablog.it^*-300x300-
 ||laquilablog.it^*/affittasi.gif
 ||laquilablog.it^*/asm-

@@ -1103,6 +1103,7 @@ ecoo.it##.masterhead-container-column
 eurochampions.it,genoanews1893.it,lalaziosiamonoi.it,perugia24.net,pianetabasket.com,tuttofrosinone.com,tuttonocerina.com,tuttoturris.com,tuttoveneziasport.it##.masthead
 screenweek.it##.matches-container
 radiogold.it##.max-banner-top
+laputa.it##.mbt-book-buybuttons
 crotoneok.it##.mdl_content
 medicalexcellencetv.it##.medic-widget
 ilmeteo.net##.megabanner
