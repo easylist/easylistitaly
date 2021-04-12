@@ -1509,6 +1509,7 @@ lavorincasa.it##.wrapper-banner-medium-rectangle
 lavorincasa.it##.wrapper-sider-bacheca-aziende
 lavorincasa.it##.wrapper-widget-box-prodotti-sider
 hwupgrade.it##.wrapper-xyz
+autobelle.it##.xdad
 rivistanatura.com##.zcx
 rivistanatura.com##.zcx-img
 eurosat-online.it##.zedo
