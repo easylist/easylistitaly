@@ -2465,6 +2465,7 @@
 ||radiodigitalenergy.com/images/radio.net.jpg
 ||radiodimensionemusica.it^*/Logo-Pigini.jpg
 ||radiofly.cloud^*/Estra_
+||radiofusion.it/images/banners/
 ||radiogelosa.it^*/caneva.gif
 ||radiogold.it/images/banners/
 ||radiogold.it^*/Banner-
