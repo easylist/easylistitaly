@@ -1452,6 +1452,7 @@ radiocompany.com##.trend-banner
 notebookitalia.it##.uk-height-medium
 colonnesonore.net##.uk-panel.uk-panel-header
 cartedicredito24.it##.uk-section-default.uk-section.uk-section-xsmall
+gardapost.it##.uleayjvbqo-container
 strumentiemusica.com##.ulnqd-container
 connessionivpn.it##.universal-cta__inner
 turistipercaso.it##.utilink

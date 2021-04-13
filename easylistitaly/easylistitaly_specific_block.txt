@@ -1058,6 +1058,7 @@
 ||gamingwiki.it^*/Blackwidow-Razer.jpg
 ||gamingwiki.it^*/Razer-Kraken.jpg
 ||gammaradio.it/iwm.gif
+||gardapost.it^*/banner-
 ||garedepoca.com/grafica/banner_
 ||gay.it/js/brightcove/adonly.js
 ||gay.it/js/brightcove/inread-standalone.php
