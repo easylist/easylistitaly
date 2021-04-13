@@ -173,6 +173,7 @@ dimagrireduepuntozero.com,strill.it###custom_html-25
 dimagrireduepuntozero.com###custom_html-27
 alground.com,androidblog.it,birramoriamoci.it,calcioatalanta.it,calciofere.it,calciogrifo.it,calciolecce.it,forzaparma.it,labaricalcio.it,quizlab.it,siamolaroma.it,sololalazio.it,tifocosenza.it,trapanigranata.it###custom_html-3
 calciocasteddu.it,carteprepagate.org,topragazze.it###custom_html-4
+mondomobileweb.it###custom_html-42
 calcioitalia24.it,italiaonline.news,mam-e.it,melarossa.it###custom_html-5
 calcioitalia24.it,hynerd.it,it-casinoonline.com,nonsprecare.it,pentanewslivorno.it###custom_html-6
 strill.it,tuttotek.it###custom_html-65

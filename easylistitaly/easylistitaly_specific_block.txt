@@ -1984,6 +1984,7 @@
 ||mondo3.com^*/offerte-amazon-offerte.jpg
 ||mondoclassica.it^*/banner/
 ||mondodelgusto.it^*/arch/
+||mondomobileweb.it/images/vbsl.png
 ||mondoraro.org^*/achille-lauro.jpg
 ||mondoraro.org^*/mjfsignedbook.jpg
 ||mondoraro.org^*/stratton-
