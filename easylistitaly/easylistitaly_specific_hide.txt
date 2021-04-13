@@ -1515,6 +1515,7 @@ advister.it,vitaminanews.it##.wpmoneyclick_template_prices_comp
 tuttoapp-android.com##.wpmoneyclick_template_simple_button
 simonemaestri.com##.wpmoneyclick_template_single-product
 corriereelorino.it##.wps-bt-background-takeover-id
+allertaprivacy.it##.wpsm_promobox
 calciomercato.napoli.it##.wptb-cell
 teleunica.com##.wrap-adv-body
 lavorincasa.it##.wrapper-banner-box-wallpaper
