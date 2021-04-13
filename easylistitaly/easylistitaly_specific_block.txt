@@ -2698,6 +2698,7 @@
 ||sannicandro.org/data/sponsor/
 ||sanremonews.it^*/banner/
 ||sanremonews.it^*/box/
+||sardanews.it/images/banners/
 ||sardegnareporter.it^*/Sea-Lounge-Club-Cala-Spinosa-
 ||sardiniapost.it^*/mobi.jpg
 ||sarnonotizie.it^*/630x90.
