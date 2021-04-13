@@ -1616,6 +1616,12 @@
 ||lagazzettadilucca.it^*/inserzioni/
 ||lagazzettadimassaecarrara.it^*/Banner-
 ||lagazzettadimassaecarrara.it^*/inserzioni/
+||lagazzettamarittima.it^*-376x60.
+||lagazzettamarittima.it^*-728x90-
+||lagazzettamarittima.it^*-banner_
+||lagazzettamarittima.it^*/banner_
+||lagazzettamarittima.it^*_Background_
+||lagazzettamarittima.it^*_banner_
 ||lagendanews.com^*/alberghina-400.jpg
 ||lagendanews.com^*/ANDRUETTO-400.jpg
 ||lagendanews.com^*/Cascina-Roland-400.gif
