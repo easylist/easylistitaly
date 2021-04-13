@@ -2130,6 +2130,7 @@
 ||obiettivoscuola.it/images/Articoli/MAD_
 ||obiettivoscuola.it/images/banners/
 ||obiettivoscuola.it/images/Edises/
+||occhi.it^*-adv-
 ||occhioallanotizia.it^*/animation.gif
 ||occhionotizie.it^*_banner_
 ||occhisusalerno.it^*/1fcde18f59c92660df0192c1272b47bb/
