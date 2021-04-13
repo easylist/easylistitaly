@@ -1238,6 +1238,7 @@
 ||hcgherdeina.com/img/db/sponsor/
 ||hcgherdeina.com^*_sponsor_
 ||hcpustertal.com^*/sponsors/
+||hdmotori.it/new_files/ajax/bf_new.php?
 ||hellogreen.it^*/libro-del-mese-
 ||hellogreen.it^*600x600
 ||historychannel.it^*/swissre.
