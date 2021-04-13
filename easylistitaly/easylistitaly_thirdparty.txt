@@ -215,6 +215,7 @@
 ||visitbritainshop.com^$image,third-party
 ||vistosulweb.com/almanacco/
 ||vitaquotidiana.com^$third-party
+||vivere.news^*_Alanuova.jpg
 ||webself.it/banners/
 ||webster.it^*/affiliati/
 ||wecoclub.it^*_banner_
