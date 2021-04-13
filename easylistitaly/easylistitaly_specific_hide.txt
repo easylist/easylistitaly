@@ -179,7 +179,7 @@ mondomobileweb.it###custom_html-42
 calcioitalia24.it,italiaonline.news,mam-e.it,melarossa.it###custom_html-5
 calcioitalia24.it,hynerd.it,it-casinoonline.com,nonsprecare.it,pentanewslivorno.it###custom_html-6
 strill.it,tuttotek.it###custom_html-65
-calcioitalia24.it,pistoiasport.com,topragazze.it###custom_html-7
+calcioitalia24.it,melarossa.it,pistoiasport.com,topragazze.it###custom_html-7
 calcioitalia24.it,corrierequotidiano.it,vitaminanews.it###custom_html-8
 scrivolibero.it,viaggiallafinedelmondo.it###custom_html-9
 amazon.it###detailILM_feature_div
