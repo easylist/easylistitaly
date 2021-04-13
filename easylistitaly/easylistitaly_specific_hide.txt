@@ -28,6 +28,7 @@ amazon.it###ape_detail_btf_detail-mWeb_wrapper
 amazon.it###ape_detail_mobile-hero-quick-promo_mweb_wrapper
 amazon.it###ape_search_btf_search-mWeb_wrapper
 palermomania.com###area_banner_top
+excellentmagazine.it###articolo_annunci_slider
 skylinewebcams.com###ask2
 toplegal.it###askin1
 toplegal.it###askin2

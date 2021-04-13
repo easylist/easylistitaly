@@ -13,6 +13,7 @@
 /adagioadv_
 /ads-fissi/*
 /adv-mediumrectangle-
+/ADV-Quadrata_
 /adv/codice_
 /adv_s_pirchio.
 /advpirchio.
