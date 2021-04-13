@@ -643,7 +643,7 @@ calabriareportage.it,calcioitalia24.it,lameziaterme.it##.banner-promotions-wrapp
 radiotoscana.it##.banner-radio
 umbria24.it##.banner-show-desktop
 leccesette.it##.banner-side
-digital-news.it##.banner-sidebar
+digital-news.it,viversano.net##.banner-sidebar
 universodelgioco.it##.banner-sky
 canavesenews.it,torinonews24.it##.banner-slider
 qualenergia.it##.banner-space
