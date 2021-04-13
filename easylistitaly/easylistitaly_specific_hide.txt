@@ -946,6 +946,7 @@ brindisisettenews.it##.featured_banner
 autoscout24.it##.fed-list-rate-fragment-pair
 masterviaggi.it##.fieldset_sponsor
 luinonotizie.it##.fixed-sponsor
+pronosticirisultativincenti.com##.fixedbar
 sassuolooggi.it##.flexslider
 marsicalive.it##.fmhb-container
 corriereelorino.it##.fn-header-banner
