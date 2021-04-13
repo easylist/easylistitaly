@@ -1480,6 +1480,7 @@ austria-facile.com,giappone.cc,statiuniti.cc,svezia.cc,ungheria.tv##.voli
 football-magazine.it##.vzasjfip-container
 lavorincasa.it##.wallpaper-1
 algheroeco.com,radioluna.it,sora24.it##.wallpaper-link
+secerchicasa.it##.weblink_items.grid
 notiziarioeolie.it##.well
 transfermarkt.it##.werbung
 transfermarkt.it##.werbung-skyscraper
