@@ -3468,6 +3468,8 @@
 ||wordpress.com^*_reclame.$domain=biella24.com
 ||wordpress.com^*_reclame_$domain=biella24.com
 ||worldofwrestling.it^*/wow.gif
+||wp.com/1x2-calcio.com/*/comparazione-bonus-Vincitu.png
+||wp.com/1x2-calcio.com/*/EUROBET-compara.png
 ||wp.com/businessandleaders.it/*/bloggif_5a71e5783573c.gif
 ||wp.com/catanista.eu/*/nextopening.png
 ||wp.com/efferadio.it/*/amazon-
