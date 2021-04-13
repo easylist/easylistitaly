@@ -6,6 +6,7 @@ lantidiplomatico.it###BanRight
 nauticareport.it###BanTop
 staffettaonline.com###BnrSolidarieta
 insic.it###ContentPlaceHolder1_pnBanners
+conta-calorie.it###DivCryptoReferral
 mymovies.it###Middle3_hp
 meteoweek.com###NMW-Leaderboard
 tuttojuve24.it###SuperClassQuote
