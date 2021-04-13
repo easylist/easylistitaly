@@ -1375,6 +1375,7 @@ ilsussidiario.net##.sub-header
 quizpatenteonline.it##.subHeader
 emmelle.it##.supermag-ainfo-widget
 broncos.it##.supporter
+prezzisalute.com##.supr
 calabria7.it,mbnews.it##.swiper-container
 magentanostra.it,onedance.fm,yesmagazine.it##.swiper-slide-inner
 luinonotizie.it##.swiper-wrapper
