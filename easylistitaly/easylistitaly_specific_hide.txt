@@ -501,7 +501,7 @@ gnius.it##.aalb-product-carousel-unit
 facileporno.com##.aan_fake
 facileporno.com##.aan_fake__video-units
 repubblica.it##.aas_whole_wrapper
-androidplanet.it,casa-domotica24.it,ciaogreen.it,cityrumors.it,comelofaccio.it,depurarsi.com,gamerbrain.net,gufo.it,ideeregalonatale.biz,imiglioridififa.com,infotelematico.com,londranews.com,meditazionezen.it,melarossa.it,menteinformatica.it,migliorigiochi.eu,nerdmovieproductions.it,orgoglionerd.it,orologidapolso.org,outofbit.it,phonetoday.it,recensioniorologi.it,simonemaestri.com,solorecensioni.com,soluzionecomputer.it,stadiosport.it,stampante-3d.net,tech4d.it,techprincess.it,tecnofacile.com,wordsmart.it##.aawp
+androidplanet.it,casa-domotica24.it,ciaogreen.it,cityrumors.it,comelofaccio.it,depurarsi.com,fut18italia.it,gamerbrain.net,gufo.it,ideeregalonatale.biz,imiglioridififa.com,infotelematico.com,londranews.com,meditazionezen.it,melarossa.it,menteinformatica.it,migliorigiochi.eu,nerdmovieproductions.it,orgoglionerd.it,orologidapolso.org,outofbit.it,phonetoday.it,recensioniorologi.it,simonemaestri.com,solorecensioni.com,soluzionecomputer.it,stadiosport.it,stampante-3d.net,tech4d.it,techprincess.it,tecnofacile.com,wordsmart.it##.aawp
 tecnofacile.com##.aawp-button
 topdigamma.it,tuttotek.it##.aawp-product
 ilportaledelcavallo.it##.ab_top_banner
@@ -1629,7 +1629,7 @@ markos.it##a[href^="http://www.bookings.net/"]
 leggenditaloi.com##a[href^="http://www.easybytez.com/free"]
 rietilife.com##a[href^="http://www.rietilife.com?pasID="]
 outcast.it##a[href^="http://www.tostadora.it/t-shirt-nerd.php?"]
-birramoriamoci.it,circusf1.com,computermania.org,efferadio.it,fattoincasadabenedetta.it,footballscouting.it,futurelements.it,guerrestellari.net,gufo.it,hellogreen.it,hovogliadidolce.it,hwupgrade.it,hynerd.it,ilsoftware.it,imlestar.com,infotelematico.com,justfashionmagazine.com,juzaphoto.com,losport24.com,macitynet.it,maidirelink.it,medicinaonline.co,mio-ip.eu,mr-loto.it,murkymask.com,nokioteca.net,nonapritequestoblog.it,okpedia.it,sempredirebanzai.it,tivusat.tv,trattamentinaturalibio.it,twebnews.it,uberti.eu,ubud.it,uiblog.it,unideanellemani.it,videogiocare.it,windowsblogitalia.com##a[href^="https://amzn.to/"]
+birramoriamoci.it,circusf1.com,computermania.org,efferadio.it,fattoincasadabenedetta.it,footballscouting.it,fut18italia.it,futurelements.it,guerrestellari.net,gufo.it,hellogreen.it,hovogliadidolce.it,hwupgrade.it,hynerd.it,ilsoftware.it,imlestar.com,infotelematico.com,justfashionmagazine.com,juzaphoto.com,losport24.com,macitynet.it,maidirelink.it,medicinaonline.co,mio-ip.eu,mr-loto.it,murkymask.com,nokioteca.net,nonapritequestoblog.it,okpedia.it,sempredirebanzai.it,tivusat.tv,trattamentinaturalibio.it,twebnews.it,uberti.eu,ubud.it,uiblog.it,unideanellemani.it,videogiocare.it,windowsblogitalia.com##a[href^="https://amzn.to/"]
 trattamentinaturalibio.it##a[href^="https://c.mtpc.se/"]
 golbym.com##a[href^="https://casinostudio3000.com/"]
 albengacorsara.it,campaniameteo.it,germania.info,partiteoggi.net,tuttoamerica.it##a[href^="https://clk.tradedoubler.com/"]
