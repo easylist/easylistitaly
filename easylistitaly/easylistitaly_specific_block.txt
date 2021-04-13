@@ -492,7 +492,9 @@
 ||borgomanero24.it/images/banner/
 ||borsainside.com/foto-articoli/eToro-pratica.png
 ||borsainside.com^*/CopyTrader.jpg
+||bottadiculo.it^*/300x600.png
 ||bottadiculo.it^*/banner
+||bottadiculo.it^*/Invictus-
 ||brindisifc.it/images/sponsor/
 ||brindisisera.it/img/banner/
 ||brindisisettenews.it/img/banner/

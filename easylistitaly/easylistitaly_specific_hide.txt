@@ -19,7 +19,7 @@ agarymathematics.net,timgate.it###adv1
 libero.it###adv_topper
 catt.ch###advertising
 casasuper.it###ai_widget-11
-unadonnasana.it###ai_widget-2
+bottadiculo.it,unadonnasana.it###ai_widget-2
 unadonnasana.it###ai_widget-3
 latinapress.it###ai_widget-4
 casasuper.it###ai_widget-5
