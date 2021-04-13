@@ -302,6 +302,9 @@ pistoiasport.com###mvp-leader-wrap
 lavocedibolzano.it,sportmagazinetrentino.it###mvp-site-wall
 lavocedibolzano.it###mvp-wallpaper
 4actionsport.it###myads
+calabrianews.it###n2-ss-3-placeholder
+calabrianews.it###n2-ss-4-placeholder
+calabrianews.it###n2-ss-5-placeholder
 primaonline.it###native_div_home
 rovigooggi.it###news-left-box
 rovigooggi.it###news-pretext-box
