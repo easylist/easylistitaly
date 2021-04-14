@@ -902,6 +902,7 @@ giornaleadige.it,piacenza24.eu,radionorba.it,radioyacht.com,risvegliopopolare.it
 gioco-pc-scaricare.it##.dashicons-download
 sportoutdoor24.it##.dazn_leaderboard
 buonaporno.com##.default__interest-block
+eurogamer.it##.desktop-mpu
 scienzenotizie.it##.desktop-top-banner
 fiorentinanews.com##.destra_banner
 flashscore.it##.detail-bonus-match-summary-content-inner
