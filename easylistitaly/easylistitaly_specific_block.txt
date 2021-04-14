@@ -1959,6 +1959,10 @@
 ||meteofinanza.com/images/1920x1080-
 ||meteofinanza.com^*/1920x1080_
 ||meteofinanza.com^*/eToro.png
+||meteosestola.it/img/audiocar.jpg
+||meteosestola.it/img/bernardi.png
+||meteosestola.it/img/modelmarris.jpg
+||meteosestola.it/img/sevensummit.png
 ||meteovalmorea.it^*/banners/
 ||mialleno.it^*/2020-02-15-2.png
 ||milanodabere.it/images/archivio/2000x1000/
