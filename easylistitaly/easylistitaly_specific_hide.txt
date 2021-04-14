@@ -979,6 +979,7 @@ amicodelpopolo.it,anteprima24.it,atripaldanews.it,bitquotidiano.it,bolognaindire
 agendadigitale.eu##.gallery-container-home
 virtusfrancavilla.it##.gallery-icon
 giornalerossoblu.it,telepegaso.it##.gallery-item
+player.it##.game-buy-container
 1001giochi.it##.game-leaderboard
 gamelegends.it##.gamel-after
 gamelegends.it##.gamel-masthead
