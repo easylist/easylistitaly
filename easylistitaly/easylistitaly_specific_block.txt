@@ -1357,6 +1357,9 @@
 ||ilfoglio.it/js/bannerInterstitial.js
 ||ilformat.info^*/banner_
 ||ilgazzettinobr.it^*/banners/
+||ilgeniodellostreaming.bond/templates/GdTheme/images/chevedi1
+||ilgeniodellostreaming.bond/templates/GdTheme/images/latodestrofilm.png
+||ilgeniodellostreaming.bond/templates/GdTheme/images/latosinistrofilm.png
 ||ilgeniodellostreaming.cam^*/bnnr
 ||ilgeniodellostreaming.cam^*/guarda.
 ||ilgeniodellostreaming.cam^*/lato
