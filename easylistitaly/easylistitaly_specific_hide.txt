@@ -64,6 +64,7 @@ camperlife.it###bannerSx
 camperlife.it###banner_2
 camperlife.it###banner_3
 ondarock.it###banner_300x250
+ondarock.it###banner_300x250_int
 ondarock.it###banner_300x250_slot3
 ondarock.it###banner_300x250_slot4
 finestresullarte.info###banner_8_div
