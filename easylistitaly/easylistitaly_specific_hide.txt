@@ -991,6 +991,7 @@ goriziaoggi.news##.goriz-widget
 nextpit.it##.gptSlot
 nextpit.it##.gptSlot__sticky-footer
 3bmeteo.com##.gpt_top
+studiouniversal.it##.grf-widget
 ludomedia.it##.grigliaPbi
 sorrisi.com##.gtv-trigger-elevator
 eurostreaming.voto##.guarda
