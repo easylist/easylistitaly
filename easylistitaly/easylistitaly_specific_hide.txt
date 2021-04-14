@@ -1909,6 +1909,7 @@ bloopers.it##table[name="banner.tbl"]
 salutarmente.it##table[style="height: 443px;"]
 pistoiasport.com##td[align="center"] + a[rel="nofollow"]
 ilcaso.it##td[style="border-left: 0px solid rgb(192, 192, 192); border-top-width: 1px; border-bottom-width: 1px;"]
+datameteo.com##td[style^="border-top-style: solid; border-top-color:#d3d3d3; border-top-width: 1px"]
 ! Advanced element hiding rules for Adblock Plus
 ebay.it#?#.s-item:-abp-has(span.s-item__title--tagblock__SPONSORED)
 iene.mediaset.it#?#.bx:-abp-has(div:-abp-contains(CONTENUTO SPONSORIZZATO))

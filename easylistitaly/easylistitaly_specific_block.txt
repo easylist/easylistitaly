@@ -852,6 +852,9 @@
 ||daninseries.it^*/banner_
 ||daninseries.it^*/clicca_qui.png
 ||dasapere.it^*/cinzia-ok.png
+||datameteo.com^*/clickday.jpg
+||datameteo.com^*/logo-scamuzzi.png
+||datameteo.com^*/una-mano-per-i-bambini-onlus.png
 ||dazebaonews.it/images/ITC.jpg
 ||dazebaonews.it/images/LAB.jpg
 ||dentrosalerno.it^*/banner/
