@@ -1784,6 +1784,7 @@ calcissimo.com##div[style="padding: 3px 0px 3px 0px; width:336px; min-height: 15
 milannews.it,parmalive.com,torinogranata.it,tuttoc.com,tuttonapoli.net,vocegiallorossa.it##div[style="padding: 3px 0px 3px 0px; width:336px; min-height: 280px;"]
 firenzeviola.it,milannews.it,parmalive.com,sampdorianews.net,torinogranata.it,tuttonapoli.net,vocegiallorossa.it##div[style="padding: 3px 3px 3px 3px; min-height: 600px;"]
 firenzeviola.it,milannews.it,parmalive.com,sampdorianews.net,torinogranata.it,tuttoc.com,vocegiallorossa.it##div[style="padding: 3px 3px 3px 3px; width:160px; min-height: 600px;"]
+firenzemeteo.net##div[style="padding:10px;margin-bottom: 18px;color:#eaeaea;background-color:#494949;text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);"]
 stabiachannel.it##div[style="padding:5px 0px 10px 0px; color:#858585; background-color:#f0f0f0;"]
 radioradio.it##div[style="position: absolute; display: block; top: 0px; left: 0px; width: 696px; height: 182px; transform: scale(1.001);"]
 radioradio.it##div[style="position: absolute; display: block; top: 0px; left: 0px; width: 696px; height: 182px;"]
