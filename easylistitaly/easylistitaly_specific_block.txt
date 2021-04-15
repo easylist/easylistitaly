@@ -1583,6 +1583,7 @@
 ||itvonline.news^*/Schermata-2020-07-07-alle-12.27.14.png
 ||itvonline.news^*/skin-
 ||itvonline.news^*_banner-
+||ivanzazzaroni.it^*_banner300x600.
 ||iwp.com/abruzzoweb.it/*-400X200.
 ||jamma.tv^*/Cristaltec.gif
 ||jamma.tv^*/Cristaltec260.gif
