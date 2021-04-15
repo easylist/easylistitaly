@@ -2379,6 +2379,9 @@
 ||prospettivegeometri.it^*_Banner_
 ||psicologianeurolinguistica.net^*/banner-
 ||psicologianeurolinguistica.net^*/mindlab.jpg
+||pugliain.net^*/amazon_
+||pugliain.net^*/banner_
+||pugliain.net^*/Canale-Youtube-treni.jpg
 ||punterforum.com^*/15fc36bf8c9fe2.jpg
 ||punterforum.com^*/15fc8048388efc.jpg
 ||punterforum.com^*/16007259554d7a.png
