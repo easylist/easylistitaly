@@ -158,6 +158,7 @@ dilei.it,quifinanza.it,siviaggia.it,supereva.it,virgilio.it###cont-wallpaper
 news.cinecitta.com###content-banner1
 news.cinecitta.com###content-banner2
 tltonline.it###content-footer-section
+blablive.com###content_bonus
 autoseller.it###ctl00_ContentCentraleBanner
 tefchannel.it###ctl00_cphBody_mcsBannerShortBottom_pnlSlot
 tefchannel.it###ctl00_cphBody_mcsBannerShortTop_pnlSlot
@@ -1078,6 +1079,7 @@ blog.libero.it,blog.virgilio.it##.lb_hook1
 blog.libero.it,blog.virgilio.it##.lb_hook2
 convertire-documenti.it##.lead-responsive
 ilgallo.it##.leader-board
+blablive.com##.leader-wrap-out
 primapaginaonline.it##.leaderbanner
 close-up.it,foodweb.it,meteovista.it,pneusnews.it,prealpina.it,ridble.com,today.it,ultimenotizieflash.com##.leaderboard
 blastingnews.com##.leaderboard-article
