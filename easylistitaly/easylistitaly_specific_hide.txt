@@ -947,6 +947,7 @@ huffingtonpost.it##.entry__right-rail-width-placeholder
 tuttitalia.it##.eo
 garganotv.com##.erzodfm-container
 meteofinanza.com##.etoro-social-widget
+generationsport.it##.euotmcyxkq
 exibart.com##.exibart-footer-partner
 exibart.com##.exibart-footer-partner-title
 pornototale.com##.exo_container_wrapper
