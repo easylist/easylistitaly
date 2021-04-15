@@ -983,6 +983,7 @@
 ||fcprovercelli.it^*/banner/
 ||federtennis.it^*/Banner/
 ||federtennis.it^*/Sponsor/
+||feelrouge.tv^*/banner_
 ||feralpisalo.it^*/sponsor/
 ||ferraraitalia.it^*/banner-
 ||film-review.it^*/buono-cinema.jpg
