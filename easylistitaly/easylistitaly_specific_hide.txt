@@ -457,6 +457,7 @@ tusciaweb.eu###topalto
 everyeye.it###topskin_clicktag
 ilturista.info###tours-tickets-banner
 hc-neumarkt.com###tr-contentbottom
+tiscali.it###tsSkinAutoPageBgG
 qdpnews.it,tipiace.it###vetrina
 sposa.it###vetrina-content
 altarimini.it###videoRedazionale
@@ -845,6 +846,7 @@ edilportale.com##.click-Skin
 puntocellulare.it##.clklnk
 engage.it##.cnt-banner-top
 magodelpronostico.com##.cntBonusHome
+tiscali.it##.cnt_b_1
 pornototale.com##.co_sponsor
 cb01.business##.codalo
 casasuper.it##.code-block-1
@@ -1293,6 +1295,7 @@ calabria7.it,gamelegends.it##.sgpb-popup-overlay
 aphorism.it,bloopers.it##.shop
 ilgeniodellostreaming.tel##.show-download
 milleunadonna.it,tiscali.it##.shp-2l-dx
+tiscali.it##.shp-2l-dx-v2
 tiscali.it##.shp-prd-ed-day
 quotidianolacitta.it##.sidebar-banner
 mitindo.it##.sidebar-right-bottomleft
@@ -1651,6 +1654,7 @@ golbym.com##a[href^="https://casinostudio3000.com/"]
 albengacorsara.it,campaniameteo.it,germania.info,partiteoggi.net,tuttoamerica.it##a[href^="https://clk.tradedoubler.com/"]
 mymovies.it,teamworld.it,tvserial.it##a[href^="https://disneyplus.bn5x.net/"]
 msn.com##a[href^="https://ebay.it/?mkcid="]
+sport.tiscali.it##a[href^="https://ebay.us/"]
 libero.it,virgilio.it##a[href^="https://httpslink.com/"]
 diventaretrader.com##a[href^="https://iqbroker.com/"]
 lavorincasa.it##a[href^="https://is.gd/"]
