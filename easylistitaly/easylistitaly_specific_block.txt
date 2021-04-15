@@ -1691,6 +1691,7 @@
 ||lanuovaecologia.it^*/SMS-1200x60-
 ||lapressa.it/sponsors/
 ||laprimapagina.it^*/banner729x90.
+||laprovinciadelsulcisiglesiente.com^*/banner-
 ||laprovinciakr.it/images/banners/
 ||laprovinciakr.it^*/banner-
 ||laputa.it^*/amazon_button.png
