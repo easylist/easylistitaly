@@ -1407,7 +1407,7 @@ ilpost.it##.tag-branded
 ilpost.it##.tag-sponsored
 videosesso.com##.tagsection
 bitquotidiano.it##.takeover
-agrodolce.it,autoblog.it,bebeblog.it,calcioblog.it,ecoblog.it,fashionblog.it,finanzaonline.com,gossipblog.it,html.it,motoblog.it,pinkblog.it,tvblog.it##.tbm-code
+agrodolce.it,autoblog.it,bebeblog.it,calcioblog.it,cineblog.it,ecoblog.it,fashionblog.it,finanzaonline.com,gossipblog.it,html.it,motoblog.it,pinkblog.it,tvblog.it##.tbm-code
 cattolica.info##.tc_adm
 gioconews.it##.tcvn-banner-item
 2anews.it##.td-a-rec-id-custom-spot
