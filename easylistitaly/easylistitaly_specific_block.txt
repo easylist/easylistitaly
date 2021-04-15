@@ -1344,6 +1344,7 @@
 ||ilcorrierino.com/foto-banner/
 ||ilcorsaronero.pro/js/yespopup.js
 ||ilcrotonese.it^*/banner-
+||ildenaro.it^*/Con-bannerDef-
 ||ildigitale.it^*-skin-
 ||ilfarosulmondo.it^*/prenota-il-tuo-viaggio-in-iran-
 ||ilfattodicalabria.it^*/PPE.png
