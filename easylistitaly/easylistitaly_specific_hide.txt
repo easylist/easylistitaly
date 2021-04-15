@@ -753,7 +753,7 @@ mediaworld.it##.block-mw-external-banner
 ilroma.net##.block-rotating-banner
 legapallacanestro.com##.block-sponsor-e-partners
 lantidiplomatico.it##.block-wrapper-banner
-dissapore.com,pourfemme.it,punto-informatico.it,telefonino.net##.blz-url
+dissapore.com,pourfemme.it,punto-informatico.it,sportal.it,telefonino.net##.blz-url
 stateofmind.it##.bnn-fullwidth
 abcsalute.it##.bnner_container
 ilgeniodellostreaming.gold,ilgeniodellostreaming.photo,ilgeniodellostreaming.tel##.bnnr1

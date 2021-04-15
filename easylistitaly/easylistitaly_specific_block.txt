@@ -2774,6 +2774,7 @@
 ||ship2shore.it^*_banner/
 ||shipstore.it/images/vetrina
 ||shipstore.it/unspsc/catalog/images/*-starservice80x80.gif
+||shop.sportal.it^
 ||shortpixel.ai^*-300x250.$domain=sarnonotizie.it
 ||shortpixel.ai^*-banner-$domain=nerdevil.it
 ||shortpixel.ai^*/amazon-offerte-di-primavera-$domain=nerdevil.it
