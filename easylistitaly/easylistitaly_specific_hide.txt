@@ -970,6 +970,7 @@ bluvolleyverona.it,chievoverona.it,hellasverona.it##.footer-sponsor
 acspezia.com,bresciacalcio.it,cagliaricalcio.com,olbiacalcio.com##.footer-sponsors
 foodaffairs.it##.footer-widget-area
 football-magazine.it,lavoraconnoi-italia.it##.footer-widgets
+fmtournament.it##.footer-widgets__inner
 winemag.it##.footer-wrapper
 iltredici.it##.footer__partners
 rsd.it##.footer__widgets
