@@ -1079,6 +1079,7 @@ nientepopcorn.it##.justwatch
 bolzanonuoto.it##.kiwi-logo-carousel
 prezzifarmaco.it##.label-sponsorizzata
 lagenziadiviaggi.it##.lagen-skin
+laguida.it##.laguidaadvads-widget
 laluce.news##.laluc-widget
 cookaround.com##.lancio-speciale-logo
 libero.it##.lancio_promo
