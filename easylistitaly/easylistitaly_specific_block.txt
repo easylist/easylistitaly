@@ -1979,6 +1979,7 @@
 ||milanofinanza.it^*/activtrades.gif
 ||milanofinanza.it^*/sponsor2.png
 ||milanofinanza.it^*/turbo24-head-new.jpg
+||milanofinanza.it^*/unicredit-mfiu-small.png
 ||milanosud.it^*-banner.
 ||milanosud.it^*/banner-
 ||milanosud.it^*/BANNER_
