@@ -1836,6 +1836,7 @@
 ||lnd.it/images/sponsor/
 ||lodiedintorni.com^*-banner-
 ||lodiedintorni.com^*/Banner-
+||lombardreport.com^*/banner/
 ||lopinionista.it^*/tuttiautopezzi.
 ||lopinionistanews.it^*/Adv.
 ||lospiffero.com/banner/
