@@ -804,6 +804,7 @@ pneusnews.it##.boxes
 sscnapoli.it##.brand
 tvserial.it##.break-adv
 sora24.it##.breakingNews
+giocareinborsa.com##.broker-table
 bznews24.it##.bsaProCarousel
 bznews24.it,infomedianews.com##.bsaProContainerNew
 diaconale.it##.bt_banner
@@ -1740,6 +1741,7 @@ people24.myblog.it##div[style="background-color:#FFF;height:90px;margin:0 auto .
 livigno.cx##div[style="background-color:#FFFF00; padding:5px; border:thin; border-color:#0000FF; border-style:solid; margin-top:10px;"]
 bottadiculo.it##div[style="background: #141b4d; box-shadow: 0 5px 10px 0 #bdbdbd; padding: 15px 30px 40px 30px; border-radius: 10px; margin: 30px 0px 40px 0px; text-align: center;"]
 bottadiculo.it##div[style="background: #212529; box-shadow: 0 5px 10px 0 #bdbdbd; padding: 15px 30px 40px 30px; border-radius: 10px; margin: 30px 0px 40px 0px; text-align: center;"]
+giocareinborsa.com##div[style="background: #c4eab8; padding: 10px; border: 2px solid green;"]
 bottadiculo.it##div[style="background: #ca242b; box-shadow: 0 5px 10px 0 #bdbdbd; padding: 15px 30px 40px 30px; border-radius: 10px; margin: 30px 0px 40px 0px; text-align: center;"]
 bottadiculo.it##div[style="background:#f7f7f7;border:1px solid #e2e2e2;text-align:center;border-radius:35px;padding:20px;font-weight:bold;margin-bottom:40px;color:#69be28;"]
 bottadiculo.it##div[style="border-bottom: 3px solid #f0f0f0;margin: 40px 0px 40px 0px;text-align:center;"]
