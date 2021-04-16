@@ -546,7 +546,7 @@ radioinstreaming.it##.adv2
 ilgallo.it##.adv4
 virgilio.it##.advTuning
 corrierecomunicazioni.it,digital4.biz,energyup.tech,ilsussidiario.net,industry4business.it,newsrimini.it,riskmanagement360.it##.adv_container
-addicted2play.com,eurogamer.it,gioco.it,lausc.it,morningstar.it##.advert
+addicted2play.com,eurogamer.it,gioco.it,lausc.it,morningstar.it,podisti.net##.advert
 ilfoglio.it,liberoquotidiano.it,pharmastar.it##.advertisement
 film-review.it,nanopress.it,zonalocale.it##.advertising
 altalex.com##.adviceBox
@@ -960,6 +960,7 @@ autoscout24.it##.fed-list-rate-fragment-pair
 masterviaggi.it##.fieldset_sponsor
 luinonotizie.it##.fixed-sponsor
 pronosticirisultativincenti.com##.fixedbar
+podisti.net##.flexbannergroup
 sassuolooggi.it##.flexslider
 marsicalive.it##.fmhb-container
 corriereelorino.it##.fn-header-banner

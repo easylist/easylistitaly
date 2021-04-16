@@ -2306,6 +2306,7 @@
 ||plateamajor.com/img/banner/
 ||plateamajor.com/img/BC_
 ||plusrew.com^*/Guadagna-con-YAP.jpg
+||podisti.net/images/banners/
 ||poliziamunicipale.it/script/getbnr.aspx?
 ||pontilenews.it/immagini/autodoc.gif
 ||pordenoneoggi.it^*/banner-
