@@ -527,6 +527,7 @@ theitaliantimes.it##.adb
 movietele.it##.adbox
 abruzzolive.it,confinelive.it,lamilano.it,marsicalive.it,pescaralive.it##.adcontainer
 unonotizie.it##.add
+fidal.it##.add-logo
 informagiovani-italia.com##.add_left
 spagna.cc##.add_top
 offertevolantini.it##.add_w2_h1
