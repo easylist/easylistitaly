@@ -78,6 +78,7 @@ cronachedibirra.it###banner_in-article_adv
 odontoiatria33.it###banner_lato
 odontoiatria33.it###banner_lato_due
 subito.it###banner_leaderboard
+riuscireinborsa.it###banner_skin
 notiziediprato.it###banner_strip
 gruppovideomedia.it,monitorimmobiliare.it,radiovalbelluna.it###banner_top
 fiorentinanews.com###banneralto

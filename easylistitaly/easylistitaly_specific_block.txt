@@ -2659,6 +2659,7 @@
 ||rinnovabili.it^*/speciale-cobat.png
 ||risorsedidattiche.net/js/yb-risorsedidattichenet.js
 ||rittnerbuam.com/images/sponsor_
+||riuscireinborsa.it^*/skin-
 ||roadtvitalia.it^*/scegli-napoli-logo-
 ||robadainformatici.it^*_banner_
 ||romachampionsleague.com^*/Logo-motto-
