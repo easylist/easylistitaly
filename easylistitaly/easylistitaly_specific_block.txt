@@ -2502,6 +2502,8 @@
 ||radiogold.it^*/banner/
 ||radiogold.it^*/banner_
 ||radiogold.it^*/foral-
+||radiogold.it^*_937x110_
+||radiogold.it^*_970x250_
 ||radiogold.tv^*/banner-
 ||radiogold.tv^*/banner_
 ||radiogold.tv^*/barbanera-

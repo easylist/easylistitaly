@@ -48,6 +48,7 @@ bresciaoggi.it,ilgiornaledivicenza.it,larena.it###banner-autodoc
 torinonews24.it###banner-bottom
 veneziafc.it###banner-box-up
 quotidianocanavese.it###banner-column
+radiogold.it###banner-fixed-top
 italiafruit.net###banner-floating-container
 canavesenews.it###banner-left-bottom
 canavesenews.it###banner-left-top
