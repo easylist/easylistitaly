@@ -2535,6 +2535,7 @@
 ||radioluna.it^*/simeone-24-
 ||radioluna.it^*_BANNER-
 ||radioluna.it^*_Banner_
+||radiomadeinitaly.it^*/sarr50-
 ||radiomarte.it/site/images/sponsor/
 ||radiomarte.it^*/autoscala_
 ||radiomarte.it^*/banner_

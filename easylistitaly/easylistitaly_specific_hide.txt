@@ -1143,7 +1143,7 @@ ilmeteo.net##.megabanner
 melarossa.it##.melar-pos-in-article-multiplo
 pistoiasport.com##.menu-banner-wrapper
 sportivissimo.com##.menu4
-altraeta.it,ecoaltomolise.net,lostrillonenews.it,newslinet.com,potenzanews.net,radiodeltainternational.it,tvcity.it,vulturenews.net##.metaslider
+altraeta.it,ecoaltomolise.net,lostrillonenews.it,newslinet.com,potenzanews.net,radiodeltainternational.it,radiomadeinitaly.it,tvcity.it,vulturenews.net##.metaslider
 ebay.it##.mfe-recos-container
 forumfree.it##.mgbox
 filmforlife.org##.mh-footer
