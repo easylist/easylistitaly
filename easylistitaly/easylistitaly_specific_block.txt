@@ -2502,6 +2502,9 @@
 ||radiogold.it^*/banner/
 ||radiogold.it^*/banner_
 ||radiogold.it^*/foral-
+||radiogold.tv^*/banner-
+||radiogold.tv^*/banner_
+||radiogold.tv^*/barbanera-
 ||radioibiza.it/images/banners/
 ||radioimmagine.it^*/bannerino_
 ||radioimmagine.it^*/ccw_MR.png
