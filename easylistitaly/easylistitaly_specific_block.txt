@@ -2087,6 +2087,7 @@
 ||nitrocdn.com^*/neurobooster-banner2.png$domain=ipermind.com
 ||nitrocdn.com^*/scopri_potere_footer.png$domain=ipermind.com
 ||noinotizie.it^*/halos.jpg
+||noitv.it^*-300x460-
 ||noitv.it^*-Banner-
 ||noitv.it^*/banner-
 ||noitv.it^*/banner_
