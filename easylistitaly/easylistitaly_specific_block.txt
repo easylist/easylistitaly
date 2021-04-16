@@ -934,6 +934,7 @@
 ||emiliaeunanotte.it^*/Banner-
 ||emiliagol.it/js/allinone_bannerRotator.js
 ||emiliagol.it^*/File_banner/
+||emiliotomasini.it/images/banner/
 ||emotionrit.it^*/banner1_
 ||emotionrit.it^*/tep-wireless.jpg
 ||empolifc.com^*-sponsor.

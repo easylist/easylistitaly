@@ -96,7 +96,7 @@ entella.it###barra_click_sx
 entella.it###barra_click_top
 altadefinizione.energy###bbfdgrsfv
 forum.tomshw.it###belowfirstpost
-lombardreport.com###bg_banner
+emiliotomasini.it,lombardreport.com###bg_banner
 orizzontescuola.it###bglink
 wuz.it###bigrectangle
 bergamoesport.it###billboard
