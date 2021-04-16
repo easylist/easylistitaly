@@ -1969,6 +1969,7 @@
 ||meteoaquilano.it/Sponsor/
 ||meteocomo.it/images/banners/
 ||meteofinanza.com/images/1920x1080-
+||meteofinanza.com^*-300x250.
 ||meteofinanza.com^*/1920x1080_
 ||meteofinanza.com^*/eToro.png
 ||meteosestola.it/img/audiocar.jpg
