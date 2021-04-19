@@ -2829,6 +2829,7 @@
 ||skuola.net/assets/js/mm-banner-manager.js?
 ||skylinewebcams.com/as/img/liveincam_
 ||smartworld.it^*/black_friday.js
+||smushcdn.com^*/loghi-partnership/$domain=infobuildenergia.it
 ||soccermagazine.it^*/CORREVA_TER.jpg
 ||socialtp.it^*/Arredall-
 ||socialtp.it^*/Automondo-

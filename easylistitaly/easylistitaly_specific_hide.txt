@@ -690,6 +690,7 @@ edilportale.com,ilmessaggero.it##.bannerTop
 woitalia.it##.banner_200
 teleponte.it##.banner_6
 professionecalcio.net,professionemotori.it##.banner_after_feat
+infobuildenergia.it##.banner_associazioni_wrapper
 fidelityhouse.eu##.banner_box
 bolognafc.it##.banner_btm_page
 casateonline.it,leccoonline.com,merateonline.it##.banner_centro
@@ -1097,6 +1098,7 @@ blastingnews.com##.leaderboard-article
 erbanotizie.com##.leaderboard-bottom
 simonandthestars.it##.leaderboard-container
 huffingtonpost.it##.leaderboard-flex-placeholder
+infobuildenergia.it##.leaderboard_wrapper
 lacnews24.it,pc-gaming.it##.left-side
 laleggepertutti.it##.lexdo-banner
 laleggepertutti.it##.lexdo-llpt
