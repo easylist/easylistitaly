@@ -410,7 +410,7 @@ androidblog.it###text-10
 lol-esports.it###text-11
 golbym.com###text-12
 clientiesperti.it,studio5fm.com###text-13
-esportsonline.it,finaria.it,pantareinews.com###text-14
+esportsonline.it,finaria.it,myfitnessmagazine.it,pantareinews.com###text-14
 finaria.it,hellogreen.it,internetto.it###text-15
 finaria.it,internetto.it###text-16
 libroaudio.it###text-18
