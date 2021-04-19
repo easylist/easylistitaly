@@ -3252,6 +3252,11 @@
 ||tuttointer24.it^*/banner-
 ||tuttojuve24.it^*/banner-
 ||tuttonatale.it^*/tutto-costumi-
+||tuttononprofit.com^*/consulenti-privacy-torino.jpg
+||tuttononprofit.com^*/fabrizio-marchiaro.jpg
+||tuttononprofit.com^*/kamzan-per-blog.jpg
+||tuttononprofit.com^*/M2-informatica-torino-3.jpg
+||tuttononprofit.com^*/RD-safety-2.jpg
 ||tuttotek.it^*/Catch.jpg
 ||tuttotek.it^*/instant-banner-
 ||tuttotone.app/assets/img/banner/
