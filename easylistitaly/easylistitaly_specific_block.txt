@@ -1036,6 +1036,7 @@
 ||football-magazine.it^*/BANNER
 ||football-magazine.it^*/FOOTER
 ||footballnews24.it^*/bnfn24-
+||forbes.it^*-1260x100-
 ||fordfiestaitalia.com^*/sponsor/
 ||fortitudobaseball.it/images/sponsor/
 ||fortuneita.com^*-BANNER-
