@@ -175,6 +175,7 @@ pistoiasport.com###custom_html-13
 giochi.com,nintendari.it###custom_html-17
 birramoriamoci.it,calciohellas.it,calciorosanero.it,card.it,carteprepagate.org,italiaonline.news,sportnews.eu###custom_html-2
 tuttojuve24.it###custom_html-21
+imolaoggi.it###custom_html-22
 fiorditerra.eu###custom_html-23
 dimagrireduepuntozero.com,strill.it###custom_html-25
 dimagrireduepuntozero.com###custom_html-27
