@@ -68,6 +68,9 @@
 ||adnkronos.com^*/Promo/
 ||affaritaliani.it/includes/files/affari/
 ||affaritaliani.it/mutuionline/imgmol/
+||affaritaliani.it^*/234x/
+||affaritaliani.it^*/234x100-
+||affaritaliani.it^*/acsm/
 ||affaritaliani.it^*/bann/
 ||affaritaliani.it^*/case/
 ||affaritaliani.it^*/dott/
@@ -75,6 +78,8 @@
 ||affaritaliani.it^*/fogl/
 ||affaritaliani.it^*/immo/
 ||affaritaliani.it^*/immobiliare/
+||affaritaliani.it^*/impr/
+||affaritaliani.it^*/libr/
 ||affaritaliani.it^*/luxu/
 ||affaritaliani.it^*/pron/
 ||affaritaliani.it^*_banner_
