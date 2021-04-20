@@ -24,6 +24,7 @@ unadonnasana.it###ai_widget-3
 latinapress.it###ai_widget-4
 casasuper.it###ai_widget-5
 casasuper.it###ai_widget-7
+notebookitalia.it###amznbi
 amazon.it###ape_Detail_ad-endcap-1_Glance_placement
 amazon.it###ape_detail_btf_detail-mWeb_wrapper
 amazon.it###ape_detail_mobile-hero-quick-promo_mweb_wrapper
@@ -721,7 +722,7 @@ corriereal.info##.banner_wrapper
 brindisisera.it##.bannerbox
 treccani.it##.bannercontainer
 ilgiornaledellabellezza.it##.bannergrid
-105tv.it,aostaoggi.it,calcionazionale.it,faidatehobby.it,gazzettadellaspezia.it,genova3000.it,giornaledimontesilvano.com,ildispaccio.it,ilgazzettinobr.it,ilgrigioneitaliano.ch,kisskiss.it,kisskissitalia.it,kisskissnapoli.it,lametino.it,maremmanews.it,metanogpl.it,monrealenews.it,ondalibera.it,puntovendita.info,qdpnews.it,sienafree.it,teleglobal.tv,umbriatv.com,videomediterraneo.it,youtg.net##.bannergroup
+105tv.it,aostaoggi.it,calcionazionale.it,faidatehobby.it,gazzettadellaspezia.it,genova3000.it,giornaledimontesilvano.com,ildispaccio.it,ilgazzettinobr.it,ilgrigioneitaliano.ch,kisskiss.it,kisskissitalia.it,kisskissnapoli.it,lametino.it,maremmanews.it,metanogpl.it,monrealenews.it,notebookitalia.it,ondalibera.it,puntovendita.info,qdpnews.it,sienafree.it,teleglobal.tv,umbriatv.com,videomediterraneo.it,youtg.net##.bannergroup
 radiogold.it##.bannergroupskin-banner-module
 filmforlife.org##.bannerh
 saturnonotizie.it##.bannerheader

@@ -2109,6 +2109,7 @@
 ||nonsolomodanews.it^*-768x494.
 ||nonsprecare.it^*_Inspiringirls.jpg
 ||normanno.com^*/motordoctor-
+||notebookitalia.it/images/banners/
 ||notizialocale.it^*/UNIMED.jpg
 ||notiziarioeolie.it/images/banners/
 ||notiziediprato.it/caricaBannerIframe/
