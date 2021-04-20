@@ -211,7 +211,6 @@
 ##.google-adx-spalla
 ##.googleAnnunci
 ##.google_adx_corpo
-##.gptslot
 ##.gptslot--adv
 ##.gtv-adv-slot
 ##.header-adv-wr
