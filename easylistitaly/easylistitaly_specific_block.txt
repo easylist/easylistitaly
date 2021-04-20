@@ -1795,6 +1795,7 @@
 ||left.it/wp-content/uploads/banners/
 ||left.it^*-banners-
 ||legab.it^*/sponsor/
+||legabasketfemminile.it/Images/Sponsor/
 ||leganavalenews.it^*/banners/
 ||legapallacanestro.com^*/banner/
 ||legapallacanestro.com^*_sponsor_
