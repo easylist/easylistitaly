@@ -1321,7 +1321,7 @@ manfredonianews.it##.single-box
 oltrefreepress.com##.singleBannerWidget
 siracusaoggi.it##.sirac-widget
 fattoalatina.it##.site-heading-sidebar
-andreagaleazzi.com,animeclick.it,sanitainsicilia.it,timinternet.it##.skin
+andreagaleazzi.com,animeclick.it,sanitainsicilia.it,startmag.it,timinternet.it##.skin
 leccesette.it##.skin-desktop
 meteofinanza.com##.skin-link
 digitalic.it##.skin_a_dx

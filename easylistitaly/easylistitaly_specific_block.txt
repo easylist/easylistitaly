@@ -2922,8 +2922,10 @@
 ||stamptoscana.it^*/sponsor/
 ||stardust.it^*/banner/
 ||stardust.it^*/masthead/
+||startmag.it^*-SKIN-
 ||startmag.it^*/banner_
 ||startmag.it^*/Formati_distribuzione300x600.jpg
+||startmag.it^*/Skin_
 ||startmag.it^*_skin-
 ||startmag.it^*_Skin_
 ||stateofmind.it^*-Banner-
