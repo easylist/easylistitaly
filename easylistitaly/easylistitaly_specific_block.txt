@@ -1536,6 +1536,9 @@
 ||infodrones.it^*-banner.
 ||infonewsvietri.it/*/Zainetto-
 ||infonewsvietri.it^*/MAIORI2020.jpeg
+||infooggi.it/static/roby_car.jpg
+||infooggi.it/static/universal.jpg
+||infooggi.it^*/5d6581bb92e75775427229.jpg
 ||infoperte.it^*/franchising.jpg
 ||inforge.net^*.d7jARakYav.gif
 ||inforge.net^*.RLiz5G6wAy.gif
