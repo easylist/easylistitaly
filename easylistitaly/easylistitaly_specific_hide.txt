@@ -583,6 +583,7 @@ uiblog.it##.amazonjs_item
 incucinaconelena.it##.amr_widget
 fotografidigitali.it,hwupgrade.it##.amz-wrapper
 voglioporno.com##.analytics-event
+civile.it##.animate__animated
 ansa.it##.ansacom-box
 oraridiapertura24.it##.anzeigenlabel
 insideevs.it,nonsolocap.it,omnifurgone.it,omnimoto.it##.ap
