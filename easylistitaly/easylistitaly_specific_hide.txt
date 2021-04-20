@@ -172,8 +172,9 @@ tefchannel.it###ctl00_cphBody_mcsSlotBannerTop_rptGallery_ctl01_lnkLink
 teleborsa.it###ctl00_if4WTV300x250
 gufo.it###custom_html-10
 gufo.it###custom_html-11
-scienzenotizie.it###custom_html-12
+cucinamamma.it,scienzenotizie.it###custom_html-12
 pistoiasport.com###custom_html-13
+cucinamamma.it###custom_html-14
 giochi.com,nintendari.it###custom_html-17
 birramoriamoci.it,calciohellas.it,calciorosanero.it,card.it,carteprepagate.org,italiaonline.news,sportnews.eu###custom_html-2
 tuttojuve24.it###custom_html-21
@@ -185,7 +186,7 @@ alground.com,androidblog.it,birramoriamoci.it,calcioatalanta.it,calciofere.it,ca
 calciocasteddu.it,carteprepagate.org,guidaconsumatore.com,topragazze.it###custom_html-4
 mondomobileweb.it###custom_html-42
 calcioitalia24.it,italiaonline.news,mam-e.it,melarossa.it###custom_html-5
-1x2-calcio.com,calcioitalia24.it,hynerd.it,it-casinoonline.com,nonsprecare.it,pentanewslivorno.it###custom_html-6
+1x2-calcio.com,calcioitalia24.it,cucinamamma.it,hynerd.it,it-casinoonline.com,nonsprecare.it,pentanewslivorno.it###custom_html-6
 strill.it,tuttotek.it###custom_html-65
 calcioitalia24.it,melarossa.it,pistoiasport.com,topragazze.it###custom_html-7
 calcioitalia24.it,corrierequotidiano.it,vitaminanews.it###custom_html-8
