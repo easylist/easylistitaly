@@ -519,6 +519,7 @@
 ||buongiornoalghero.it^*/banner_
 ||business24tv.it^*/Banner_
 ||business24tv.it^*/skin_
+||bussolafinanziaria.it^*/etoro-copy-trading-sidebar.png
 ||caffe.ch/media/STATICHE/ilcaffe/ADV/
 ||cagliaricalcio.com^*-sponsor-
 ||cakemania.it^*/bannervoxmail300x100.png
