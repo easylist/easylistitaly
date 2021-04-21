@@ -1839,6 +1839,7 @@ radioradio.it##div[style="position: absolute; display: block; top: 0px; left: 0p
 radioradio.it##div[style="position: absolute; overflow: hidden; left: 0px; top: 0px; width: 324px; height: 400px; margin: 0px; padding: 0px; transform-style: flat; z-index: 0;"]
 radioradio.it##div[style="position: absolute; overflow: hidden; left: 0px; top: 0px; width: 696px; height: 182px; margin: 0px; padding: 0px; transform-style: flat; z-index: 0;"]
 altalex.com##div[style="position:relative; display: block; margin-bottom: 25px; background-color: #F5F5F5; padding: 20px 60px 85px 20px;"]
+pokemoncentral.it##div[style="text-align: center; margin-bottom: 15px; height: 90px"]
 lalaziosiamonoi.it,noesolofutbol.com,tuttocagliari.net,tuttoentella.com,tuttopalermo.net##div[style="text-align: center; width: 160px; height: 600px; padding: 0px 0px 3px 0px;"]
 tuttojuve.com##div[style="text-align: center; width: 160px; height: 600px; padding: 3px 0; margin: 0 auto;"]
 eurochampions.it,lalaziosiamonoi.it,tuttoturris.com##div[style="text-align: center; width: 300px; height: 250px; padding: 0px 0px 3px 0px;"]
