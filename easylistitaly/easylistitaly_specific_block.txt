@@ -2075,6 +2075,7 @@
 ||msmotor.tv^*/LOGO_Partner_
 ||museionline.info/images/banners/
 ||museionline.info/images/ticket/
+||mycarteprepagate.it^*/N26-300-
 ||mylondra.it^*/BANNER300X600.jpg
 ||mymilitaria.it^*_banner_
 ||mymovies.it/img/logo-disneypiu.png
