@@ -1449,6 +1449,7 @@ ilparmense.net##.td_uid_18_606dd7c7652fd_rand
 ilparmense.net##.td_uid_2_606dd7c74fb8e_rand
 romanews.eu##.td_uid_7_5fc0c934d6e11_rand
 omniagate.com##.tdi_11_784
+volleynews.it##.tdi_132 + .tdi_136
 calcioj.com##.tdi_15_2e7
 omniagate.com##.tdi_36_816
 omniagate.com##.tdi_45_604
