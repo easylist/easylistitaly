@@ -1990,6 +1990,8 @@
 ||mentelocale.com/devmktg/
 ||mentelocale.it/devmktg/
 ||merateonline.it/public/banner/
+||mercati24.com/grafica/plus500.gif
+||mercati24.com^*/banner.jpg
 ||mercuriomagazine.com^*/banner_
 ||meridiananotizie.it^*/123.jpg
 ||messinamagazine.it^*/leretico.jpg
