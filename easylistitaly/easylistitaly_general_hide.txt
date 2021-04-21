@@ -300,6 +300,7 @@
 ##a[href^="https://marketing.net.occhiali24.it/"]
 ##a[href^="https://media.goldbetpartners.it/redirect.aspx?"]
 ##a[href^="https://n26-eu.c2nwa3.net/"]
+##a[href^="https://offerte2019.space/"]
 ##a[href^="https://promonow.shop/offers.php?"]
 ##a[href^="https://record.betpartners.it/"]
 ##a[href^="https://www.18carati.com/?acc="]

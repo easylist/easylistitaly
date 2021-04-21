@@ -1243,6 +1243,7 @@ voglioporno.com##.promo-462x66
 eurogamer.it##.promo-banner
 ideegreen.it,motori.it##.promobox
 proiezionidiborsa.it##.promoboxblu
+proiezionidiborsa.it##.promoboxorange
 proiezionidiborsa.it##.promoboxplus
 tgfuneral24.it##.psct-banners
 playstationzone.it##.psz_template_prices_comp
