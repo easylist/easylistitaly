@@ -1124,6 +1124,7 @@ timinternet.it##.logoAmazon
 timinternet.it##.logoEbay
 timinternet.it##.logoSecretEscapes
 lattemiele.com##.lp-link
+lapresse.it##.lp-topleft
 tuttitalia.it##.lt
 omnifurgone.it##.m1-apb
 buttanissima.it##.machette
