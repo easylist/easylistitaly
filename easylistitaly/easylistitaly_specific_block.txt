@@ -1381,8 +1381,11 @@
 ||ilformat.info^*/banner_
 ||ilgazzettinobr.it^*/banners/
 ||ilgeniodellostreaming.bond/templates/GdTheme/images/chevedi1
+||ilgeniodellostreaming.bond/templates/GdTheme/images/guardainhd.png
 ||ilgeniodellostreaming.bond/templates/GdTheme/images/latodestrofilm.png
 ||ilgeniodellostreaming.bond/templates/GdTheme/images/latosinistrofilm.png
+||ilgeniodellostreaming.bond/templates/GdTheme/images/postosinistro.png
+||ilgeniodellostreaming.bond/templates/GdTheme/images/scaricainhd.png
 ||ilgeniodellostreaming.cam^*/bnnr
 ||ilgeniodellostreaming.cam^*/guarda.
 ||ilgeniodellostreaming.cam^*/lato
