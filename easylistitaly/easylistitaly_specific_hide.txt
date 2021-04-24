@@ -1553,6 +1553,7 @@ calabriareportage.it##.widget_smartslider3
 radiodigione.net##.widget_ubm-banners-rotation
 vicenzanews.it##.wifiplaza
 tuttitalia.it##.wk
+itvonline.news##.wpb_gallery
 tuttotek.it##.wpb_wrapper > a[href^="https://www.amazon.it/"]
 umbriasud.com##.wpcnt
 palermolive.it##.wpls-logo-showcase
