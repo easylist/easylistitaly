@@ -3683,6 +3683,13 @@
 ||wp.com/www.oggicronaca.it/*/divisionismolarge.gif
 ||wp.com/www.ostuninotizie.it/*/colazione-con-flavio.jpg
 ||wp.com/www.partiture.it/*/logo-amazon_
+||wp.com/www.pisainvideo.it/*/aforisma_
+||wp.com/www.pisainvideo.it/*/Easy-Rider_
+||wp.com/www.pisainvideo.it/*/ff.jpg
+||wp.com/www.pisainvideo.it/*/La-Faeta_
+||wp.com/www.pisainvideo.it/*/Mangini-logo-
+||wp.com/www.pisainvideo.it/*/New-Data-Center.jpg
+||wp.com/www.pisainvideo.it/*/Pisa_carburanti-
 ||wp.com/www.playersmagazine.it/*/amazon_logo.jpg
 ||wp.com/www.proiezionidiborsa.it/*/bnp-
 ||wp.com/www.proiezionidiborsa.it/*/ig-
