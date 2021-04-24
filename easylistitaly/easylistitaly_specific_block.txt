@@ -810,6 +810,8 @@
 ||corriereobjects.it^*/sponsor/
 ||corrierepievese.it^*_275x115.
 ||corriereromagna.it^*-300x600-
+||corriereromagna.it^*-webbanner300x600px-
+||corriereromagna.it^*/300x600pixel-
 ||corriereromagna.it^*/banner-
 ||corriereromagna.it^*/noci300x250.jpg
 ||corriereromagna.it^*/uniport.jpg

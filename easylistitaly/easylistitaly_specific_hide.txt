@@ -553,7 +553,7 @@ beatgogo.it,chistachiamando.it,pcprofessionale.it,trova-aperto.it##.adsense
 adessoin.tv,allaguida.it,alpha59.it,altreconomia.it,amica.it,ansa.it,buttalapasta.it,calciomercato.com,cittaceleste.it,curioctopus.it,dissapore.com,fcinter1908.it,forbes.it,gelocal.it,gianlucadimarzio.com,girovagandointrentino.it,gta-expert.it,guardachevideo.it,ilfattoquotidiano.it,ilpost.it,ilsole24ore.com,latina24ore.it,leonardo.it,libero.it,mediaset.it,movieplayer.it,multiplayer.it,nanopress.it,notiziemilan.it,oasport.it,passioneinter.com,pianetamilan.it,pourfemme.it,prealpina.it,radioindiretta.fm,repubblica.it,salepepe.it,skuola.net,staffettaonline.com,stylosophy.it,supereva.it,toronews.net,virgilio.it,vocenuova.tv##.adv
 teleunica.com##.adv-body
 centrometeoitaliano.it##.adv-cmi
-animatamente.net##.adv-link
+animatamente.net,corriereromagna.it##.adv-link
 rbe.it##.adv-section
 radiocittadelcapo.it##.adv-space
 diredonna.it,gravidanzaonline.it,robadadonne.it##.adv-style
@@ -1755,6 +1755,7 @@ stilenaturale.com##div[id="Banner_BIOOFFERTA"]
 maidirelink.it##div[id="maidi-"]
 inconcreto.net,ingenio-web.it,pavimenti-web.it##div[id^="Banner"]
 lubevolley.it##div[id^="blocco-sponsors-"]
+corriereromagna.it##div[id^="corri-"]
 alvolante.it##div[id^="dfp-alv-slot"]
 nationalgeographic.it##div[id^="gpt-"]
 ilparmense.net##div[id^="ilpar-"]
