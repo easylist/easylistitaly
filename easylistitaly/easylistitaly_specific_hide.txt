@@ -1471,6 +1471,7 @@ caleno24ore.it##.themequote
 amazon.it##.threepsl-creatives
 tiscali.it##.tiscali-shp-dayblk
 milleunadonna.it,tiscali.it##.tiscali-shp-dayblk-v1
+tiscali.it##.tiscali-shp-dayblk-v2
 tiscali.it##.tiscali-shp-dayoff
 tmnotizie.com##.tmnot-dopo-il-contenuto
 tmnotizie.com##.tmnot-inserito-nel-contenuto
@@ -1679,7 +1680,7 @@ golbym.com##a[href^="https://casinostudio3000.com/"]
 albengacorsara.it,campaniameteo.it,germania.info,partiteoggi.net,tuttoamerica.it##a[href^="https://clk.tradedoubler.com/"]
 mymovies.it,teamworld.it,tvserial.it##a[href^="https://disneyplus.bn5x.net/"]
 msn.com##a[href^="https://ebay.it/?mkcid="]
-sport.tiscali.it##a[href^="https://ebay.us/"]
+tiscali.it##a[href^="https://ebay.us/"]
 libero.it,virgilio.it##a[href^="https://httpslink.com/"]
 diventaretrader.com##a[href^="https://iqbroker.com/"]
 lavorincasa.it##a[href^="https://is.gd/"]
