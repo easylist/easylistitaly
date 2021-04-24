@@ -1950,6 +1950,7 @@
 ||mam-e.it^*/mame-gallerie-italia-intesa-san-paolo.jpg
 ||mammaimperfetta.it^*_banner.
 ||mammedomani.it/images/banners/
+||mandamentonotizie.it/animazione/
 ||manduriaoggi.it/html/banner/
 ||manduriaoggi.it/img_new/848x280_
 ||mangaforever.net^*/fumetti-am.

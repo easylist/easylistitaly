@@ -221,6 +221,8 @@ ilcap.it###gadsense
 giornalesm.com###gallery-254068-1-slideshow
 mondoplay.it,mondoxbox.com###gameBlock_amazon
 mondoplay.it,mondoxbox.com###gameBlock_amazon_noboxart
+mandamentonotizie.it###gk-banner-top
+mandamentonotizie.it###gk-banners
 videogiocare.it###gp-affiliate-button
 cookaround.com###gpt-300250-container
 mercatinomusicale.com###hdr_leaderboard
