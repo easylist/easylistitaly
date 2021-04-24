@@ -874,6 +874,7 @@
 ||datameteo.com^*/clickday.jpg
 ||datameteo.com^*/logo-scamuzzi.png
 ||datameteo.com^*/una-mano-per-i-bambini-onlus.png
+||dayitalianews.com^*/campagna_unipol.mp4
 ||dazebaonews.it/images/ITC.jpg
 ||dazebaonews.it/images/LAB.jpg
 ||dentrosalerno.it^*/banner/

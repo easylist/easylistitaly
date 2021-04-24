@@ -194,6 +194,7 @@ calcioitalia24.it,melarossa.it,pistoiasport.com,topragazze.it###custom_html-7
 calcioitalia24.it,corrierequotidiano.it,vitaminanews.it###custom_html-8
 scrivolibero.it,viaggiallafinedelmondo.it###custom_html-9
 amazon.it###detailILM_feature_div
+dayitalianews.com###diretta_video_unipol
 calendario-365.it###dish-top-desktop
 trueriders.it###div-TRD_MPU_CONT
 nextpit.it###div-header
