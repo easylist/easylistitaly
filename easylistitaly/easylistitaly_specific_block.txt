@@ -3707,6 +3707,9 @@
 ||wp.com/www.statoquotidiano.it/*/727x247-
 ||wp.com/www.tabsernews.it/*/THE-SOUND.png
 ||wp.com/www.teleradio-news.it/*-490x147-
+||wp.com/www.tgnewstv.it/*/CARIFANO4.jpg
+||wp.com/www.tgnewstv.it/*/Helios-
+||wp.com/www.tgnewstv.it/*/Tessera-farmacia-del-leopardo-
 ||wp.com/www.thewalkoffame.it/*/myzona.gif
 ||wp.com/www.tsdtv.it/*/300x300-
 ||wp.com/www.tuttoboxe.it/*/amazon-
@@ -3731,6 +3734,7 @@
 ||wp.com^*/skin-$domain=infocilento.it
 ||wp.com^*_ads.gif$domain=lameziaterme.it
 ||wp.com^*_Banner_$domain=gliacchiappafilm.it
+||wp.com^*_sponsor-$domain=tgnewstv.it
 ||wp.com^*Banner300x600.$domain=milanodabere.it
 ||yescalabria.com^*/CaffeMauro300X600-
 ||yescalabria.com^*/caffemauro728x90-
