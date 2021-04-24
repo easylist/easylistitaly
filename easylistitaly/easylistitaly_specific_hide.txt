@@ -1197,6 +1197,7 @@ ilpiccolo.net##.nocornice_banner
 prospettivegeometri.it##.node-banner-simple
 everyeye.it##.nome_gioco_amazon_destra
 ilsalottodelcalcio.it##.nostro-banner
+viaggi-usa.it##.notabene
 tuttotrasporti.it##.notizieSponsorizzate
 dailybest.it##.nuovobanner
 empolifc.com##.o-section--promo
