@@ -1188,6 +1188,7 @@
 ||giornaledibarga.it^*/pensarecasa.
 ||giornaledibarga.it^*/PP-
 ||giornaledimontesilvano.com/images/banners/
+||giornaledirimini.com^*/banner-
 ||giornalelavoce.it^*-300x250px.
 ||giornalelavoce.it^*/alimentari-stefano.jpg
 ||giornalelavoce.it^*/banner.
