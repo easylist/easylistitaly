@@ -2934,6 +2934,7 @@
 ||sprintesport.it^*/PRENOTAMI24-
 ||sprintesport.it^*/xGARANZIA-GIOVANI-
 ||sprintesport.it^*_970x250-
+||squarespace-cdn.com^*+468x60.GIF$domain=roadnroll.it
 ||ssarezzo.it^*-sponsor-
 ||ssarezzo.it^*/Partner-
 ||ssarezzo.it^*/Premium-per-
