@@ -25,6 +25,7 @@ ilgiornaleditrani.net,unadonnasana.it###ai_widget-3
 latinapress.it###ai_widget-4
 casasuper.it###ai_widget-5
 casasuper.it###ai_widget-7
+lospicchiodaglio.it###amazon_apa
 notebookitalia.it###amznbi
 amazon.it###ape_Detail_ad-endcap-1_Glance_placement
 amazon.it###ape_detail_btf_detail-mWeb_wrapper
