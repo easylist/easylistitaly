@@ -771,6 +771,9 @@ ilroma.net##.block-rotating-banner
 legapallacanestro.com##.block-sponsor-e-partners
 lantidiplomatico.it##.block-wrapper-banner
 dissapore.com,pourfemme.it,punto-informatico.it,sportal.it,telefonino.net##.blz-url
+ilquotidianoditalia.it##.bn-lg
+ilquotidianoditalia.it##.bn-md
+ilquotidianoditalia.it##.bn-sm
 stateofmind.it##.bnn-fullwidth
 abcsalute.it##.bnner_container
 ilgeniodellostreaming.bond,ilgeniodellostreaming.gold,ilgeniodellostreaming.photo,ilgeniodellostreaming.tel##.bnnr1

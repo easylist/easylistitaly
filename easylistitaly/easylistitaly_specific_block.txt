@@ -1504,6 +1504,7 @@
 ||ilpuntonotizie.it^*-Leaderboard.
 ||ilpuntonotizie.it^*/IRANA-TAPPETI.
 ||ilquotidiano.it/userdata/banner/
+||ilquotidianoditalia.it/uploads/blocks/block_5f9e40ba3bc03.jpg
 ||ilroma.net^*-banner_
 ||ilroma.net^*/Dial_WEB.png
 ||ilroma.net^*/rotating_banner/
