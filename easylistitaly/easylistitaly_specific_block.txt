@@ -877,6 +877,10 @@
 ||dayitalianews.com^*/campagna_unipol.mp4
 ||dazebaonews.it/images/ITC.jpg
 ||dazebaonews.it/images/LAB.jpg
+||dentrolanotizia.tv^*/banner_
+||dentrolanotizia.tv^*/falegnameriapinoccio.jpg
+||dentrolanotizia.tv^*/franca-esposito-psicoterapeuta.jpg
+||dentrolanotizia.tv^*/mgm-ferramente-
 ||dentrosalerno.it^*/banner/
 ||dentrosalerno.it^*/sidelmed.png
 ||dentrosalerno.it^*/Verrengia.png
@@ -3625,6 +3629,8 @@
 ||wp.com/www.calciogoal.it/*/119054606_350406236368302_7591478443508881500_n.png
 ||wp.com/www.calciogoal.it/*/12597e17-489e-4e5f-aed5-57e4c9562708.jpg
 ||wp.com/www.cataniaunafede.it/*/schillaci_bianco.jpg
+||wp.com/www.dentrolanotizia.tv/*/bannerete.jpg
+||wp.com/www.dentrolanotizia.tv/*/dottoressa-franca-esposito-psicologa-
 ||wp.com/www.gazzettadiavellino.it/*/MeravigliosaCampania-
 ||wp.com/www.gazzettadiavellino.it/*/nuova-elite-
 ||wp.com/www.gazzettadimilano.it/*/airpure-
