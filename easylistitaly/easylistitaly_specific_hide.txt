@@ -161,6 +161,7 @@ affaritaliani.it###consigliati-giochi2
 virgilio.it###cont-leaderboard
 virgilio.it###cont-manchette
 dilei.it,quifinanza.it,siviaggia.it,supereva.it,virgilio.it###cont-wallpaper
+latinaoggi.eu###container-skin-top
 news.cinecitta.com###content-banner1
 news.cinecitta.com###content-banner2
 tltonline.it###content-footer-section
@@ -1729,6 +1730,7 @@ amazon.it##div[cel_widget_id="desktop-dp-sims_sb-dp-id"]
 homegate.ch##div[class^="AdSlotContainer_"]
 corrieredellosport.it,tuttosport.com##div[class^="AdUnit_"]
 acffiorentina.com,acmilan.com##div[class^="Partners_"]
+latinaoggi.eu##div[class^="a-p1-banner-"]
 aprilianews.it##div[class^="april-home-adv10-"]
 fiorentinanews.com##div[class^="extendedwopts-"]
 lavorincasa.it##div[class^="large-leaderboard"]
