@@ -578,6 +578,7 @@ pagare.online##.alert.alert-success
 alessandria24.com##.aless-widget
 noisiamofuturo.it##.allinone_bannerRotator
 grecia.cc,informagiovani-italia.com##.alto_add
+informagiovani-italia.com##.alto_add_host
 ludomedia.it##.amBoxGioco
 prezzisalute.com##.amaz
 cronotop.it##.amaz-product
