@@ -992,6 +992,7 @@
 ||eurostreaming.fyi/playerjs.js
 ||eurostreaming.fyi/sc.png
 ||eurostreaming.movie^*/hostfullhd.png
+||eurostreaming.shop/gcod.js
 ||eurostreaming.team/prem.js
 ||eurostreaming.vision^*/hostfullhd.png
 ||evosmart.it^*/banner_
