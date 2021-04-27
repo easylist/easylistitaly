@@ -1245,6 +1245,8 @@ filmsenzalimiti.love##.playbtn
 altadefinizione-site.it##.player-container
 cb01.world,eurostreaming.cam##.playerad
 cb01.in##.playex
+pressmare.it##.pm-adv
+pressmare.it##.pm-adv-intermediate
 assopoker.com##.poker-room-list
 insuranceup.it##.powered_by_container
 assopoker.com##.prbox-table-container
