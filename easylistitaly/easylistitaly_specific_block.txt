@@ -2955,6 +2955,8 @@
 ||sololibri.net/ibs.png
 ||solorecensioni.com^*/offerteblack.jpg
 ||solorecensioni.com^*/offertenatale.gif
+||solovela.net/imm_ADV?
+||solovela.net/immagini/banner/
 ||sora24.it/banner/
 ||sora24.it^*/amazon-prime-
 ||spaziogames.it^*/logo-instant-gaming.jpg
