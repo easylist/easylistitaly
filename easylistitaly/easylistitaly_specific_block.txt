@@ -3497,6 +3497,7 @@
 ||varesesport.com^*/polverini-729x85-
 ||varesesport.com^*500x300
 ||vcoazzurratv.it/images/banner/
+||velanet.it/lib/bannerArcip.php
 ||vendingnews.it/wp-content/uploads/angwp/items/
 ||venetoeconomia.it^*/Banner-
 ||venetoeconomia.it^*/noonic-
