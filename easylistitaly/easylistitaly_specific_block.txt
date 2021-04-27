@@ -2381,6 +2381,13 @@
 ||picenonews24.it^*/jpg_arg_
 ||picenonews24.it^*/meletti-
 ||picenonews24.it^*/Soluzioni-per-
+||picenotime.it/data/uploads/a/3DA122A4-FDA2-11EA-95B9-F46B12284AA4.jpg
+||picenotime.it/data/uploads/a/456332C6-FC43-11EA-AE0A-A1953022A5EE.gif
+||picenotime.it/data/uploads/a/7843990C-FDAF-11EA-9872-A0B5440DEEDC.jpg
+||picenotime.it/data/uploads/a/80DB20EE-A66A-11EB-B832-B3A23655F3F5.jpg
+||picenotime.it/data/uploads/a/8FBA093C-FDB8-11EA-BC1B-85DFEECDA599.jpg
+||picenotime.it/data/uploads/a/A8CF4496-FC4B-11EA-99CA-E453F22B9E7E.jpg
+||picenotime.it/data/uploads/a/F92C807E-27EE-11EB-B477-4C913655F3F5.jpg
 ||piemonteoggi.it/banner/
 ||piemonteoggi.it^*/banner-
 ||piemonteoggi.it^*/banner/
