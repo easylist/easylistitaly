@@ -432,6 +432,7 @@ mbmusic.it,playersmagazine.it###text-21
 rumors.it###text-22
 ilpost.it###text-23
 nerdplanet.it###text-24
+vacanzeingrecia.eu###text-25
 best5.it###text-26
 nerdevil.it###text-27
 giornalistitalia.it###text-28
