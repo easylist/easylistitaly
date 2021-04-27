@@ -2713,6 +2713,13 @@
 ||ragusanews.com/images_banner/
 ||ravennafc.it^*/sponsor-
 ||ravennatoday.it/images/skin/
+||ravennawebtv.it^*-300x300-
+||ravennawebtv.it^*/300x300_
+||ravennawebtv.it^*/aser.jpg
+||ravennawebtv.it^*/output_LMMVoT.gif
+||ravennawebtv.it^*/portuale.gif
+||ravennawebtv.it^*/Superbonus_bcc.jpg
+||ravennawebtv.it^*_300x300px.
 ||rcrevolution.net^*/banners/
 ||recensionelibro.it/banner/
 ||reggina1914.it^*/sponsor-
