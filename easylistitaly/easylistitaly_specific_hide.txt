@@ -512,6 +512,7 @@ amazon.it##.MultiBrandCreativeDesktop
 mentelocale.it##.PresentedBy
 viterbonews24.it##.SepBanner
 theitaliantimes.it##.Side_DX
+whiteradio.it##.Sp
 telestense.it##.StandardBanner
 ricetta.it##.\37 28-up
 radioradio.it,uominietrasporti.it##._ning_inner

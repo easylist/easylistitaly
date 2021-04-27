@@ -3615,6 +3615,7 @@
 ||weareblog.it^*/OtticaSMADV-
 ||weboggi.it/zen/
 ||welfarenetwork.it/media/banner/
+||whiteradio.it/themes/img/sponsor/
 ||wikilao.com^*/banners/
 ||windows.net/banner/$domain=lavocedimanduria.it
 ||windows.net/banners/$domain=freshplaza.it
