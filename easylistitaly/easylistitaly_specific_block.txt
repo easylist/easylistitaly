@@ -3740,6 +3740,9 @@
 ||wp.com/www.spaziotennis.it/*/dhs.jpg
 ||wp.com/www.statoquotidiano.it/*/727x247-
 ||wp.com/www.tabsernews.it/*/THE-SOUND.png
+||wp.com/www.telebrindisi.tv/*/danesehp.jpg
+||wp.com/www.telebrindisi.tv/*/pasticcioni2.gif
+||wp.com/www.telebrindisi.tv/*/Teatro-verdi-2019.jpg
 ||wp.com/www.teleradio-news.it/*-490x147-
 ||wp.com/www.tgnewstv.it/*/CARIFANO4.jpg
 ||wp.com/www.tgnewstv.it/*/Helios-
