@@ -18,6 +18,7 @@
 ||affiliazioni.misterdomain.eu^$third-party
 ||aimon.it/banner_
 ||andreafranzoso.com/banner/
+||api.vivisail.com^$domain=italiavela.it
 ||artera.it/banners.php?
 ||atomikecn.nohup.it^$third-party
 ||autocrocetta.com^$domain=quotidianocanavese.it

@@ -1661,6 +1661,7 @@
 ||italiaonline.news^*/logo-formadocenti2.jpg
 ||italiaonline.news^*/offertaformativa-
 ||italiasette.it^*-336x280-
+||italiavela.it/banner/
 ||italpress.com^*/gif_talpress_def.
 ||italpress.com^*/VolospeechGif_
 ||italpress.com^*_300X250MYACEA-
