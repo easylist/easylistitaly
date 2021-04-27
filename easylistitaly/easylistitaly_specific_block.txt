@@ -610,6 +610,8 @@
 ||casertaweb.com^*/sfondo-
 ||casertaweb.com^*/simply-e-comm-
 ||casertaweb.com^*/terlizzi-libro.gif
+||casilinanews.it^*/banner-
+||casilinanews.it^*/Gif.gif
 ||castellinotizie.it^*-banner-
 ||castellinotizie.it^*-Banner_
 ||castellinotizie.it^*-deco%CC%80.
