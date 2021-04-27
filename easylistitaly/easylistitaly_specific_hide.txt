@@ -438,6 +438,7 @@ giornalistitalia.it###text-28
 ricettealvolo.it###text-29
 clientiesperti.it,libripiuvenduti.it,tecnofacile.com,top10scommesse.it###text-3
 giornalistitalia.it###text-30
+universo7p.it###text-32
 alground.com###text-33
 contrastotv.it,giornalistitalia.it,viterbopost.it###text-34
 viterbopost.it###text-35
