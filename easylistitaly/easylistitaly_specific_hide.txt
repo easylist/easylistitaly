@@ -1467,6 +1467,7 @@ laspia.it,ragusah24.it,romanews.eu##.td-header-sp-recs
 gdoweek.it##.td-leaderboard-wrap-full
 bussolafinanziaria.it,ideeviaggio.it##.td-ss-main-sidebar
 guidalloshopping.com##.td_btn
+10cose.it##.td_quote_box
 biancorossi.net,immaginevalsassina.com,moondo.info,notizialocale.it,radiolombardia.it,telesudweb.it##.td_single_image_bg
 agimeg.it##.td_uid_18_5fdb9a4e3037a_rand
 agimeg.it##.td_uid_18_606dd54991c0e_rand
