@@ -1681,6 +1681,7 @@ altadefinizione4k.stream,altadefinizione4k.tv,piratestreaming.page##a[href*="/st
 altadefinizione.kiwi##a[href*="/streaming-gratuit.php"]
 pallacanestrocantu.com##a[href*="/trackingsponsor.aspx?"]
 borsainside.com,cartaricaricabile.net,stadiosport.it##a[href*="/vai/"]
+altadefinizionehd.live##a[href*="/vedi4k/"]
 altadefinizione.legal,altadefinizione01.green,altadefinizione01.works,cb01.run,cineblog01.green,cineblog01.love,filmsenzalimiti.love,guardaserie.cam,ilgeniodellostreaming.cam,tantifilm.center##a[href*="/vedo4k.php"]
 altadefinizione.sh##a[href*="/view.php?"]
 altadefinizione01.software##a[href*="/vod2k.php"]
