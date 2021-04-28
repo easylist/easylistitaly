@@ -568,7 +568,7 @@ virgilio.it##.advTuning
 corrierecomunicazioni.it,digital4.biz,energyup.tech,ilsussidiario.net,industry4business.it,newsrimini.it,riskmanagement360.it##.adv_container
 addicted2play.com,eurogamer.it,gioco.it,lausc.it,morningstar.it,podisti.net##.advert
 ilfoglio.it,liberoquotidiano.it,pharmastar.it##.advertisement
-film-review.it,nanopress.it,zonalocale.it##.advertising
+film-review.it,frasicelebri.it,nanopress.it,zonalocale.it##.advertising
 altalex.com##.adviceBox
 sienafree.it##.advs
 soldionline.it##.afc_boxcontent_taglist
