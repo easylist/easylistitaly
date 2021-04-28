@@ -1786,6 +1786,7 @@
 ||laltrapagina.it^*/pe4681.
 ||laluce.news^*/50-off.png
 ||lametino.it/images/banners/
+||lamilano.it^*/MOOD-AGENCY.gif
 ||lamoneta.it^*/bannertop.
 ||lamoneta.it^*/ilforumbanner.jpg
 ||lamoneta.it^*/Roma4ubis.jpg
