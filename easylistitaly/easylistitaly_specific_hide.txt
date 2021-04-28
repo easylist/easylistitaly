@@ -1667,7 +1667,7 @@ altadefinizione01.works,cineblog01.care,cineblog01.green##a[href*="/premium-scar
 altadefinizione01.works,cineblog01.care,cineblog01.green##a[href*="/premium-vod-film.php"]
 altadefinizione01.games##a[href*="/qualita/"]
 nigiara.it##a[href*="/redir.php?id=1"]
-cineblog01.place##a[href*="/scar-hd.php"]
+cineblog01.land,cineblog01.place##a[href*="/scar-hd.php"]
 altadefinizione4k.stream,altadefinizione4k.tv##a[href*="/scar.php"]
 altadefinizione.kiwi,altadefinizioneita.co,cineblog01.bid,cineblog01.games,cineblog01.ninja,filmaltadefinizione.me,piratestreaming.page##a[href*="/scarica-"]
 ilgeniodellostreaming.cloud##a[href*="/scarica.php"]
