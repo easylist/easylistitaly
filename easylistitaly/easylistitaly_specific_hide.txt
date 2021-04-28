@@ -698,7 +698,7 @@ infocilento.it##.banner300side
 fotografidigitali.it,hwupgrade.it,tvtech.it##.banner300x250
 milleunadonna.it,tiscali.it##.banner320x250
 giochieflash.it##.banner336x280Centered
-cineblog01.care,cineblog01.green##.banner4k
+cineblog01.care,cineblog01.green,cineblog01.work##.banner4k
 doctor33.it##.bannerBot
 torinofc.it##.bannerColDxStd
 lemiebollicine.com##.bannerContainer
@@ -1655,7 +1655,7 @@ abruzzoweb.it,ecwgcortina2016.it##a[href*="/go.php?"]
 cartedipagamento.com,connessionivpn.it,migliorisitistreaming-hd.blogspot.com,pronosticideiguerrieri.it,vivasicilia.com##a[href*="/go/"]
 cb01.band,ilgeniodellostreaming.gold##a[href*="/guarda-4k.php"]
 ilgeniodellostreaming.gold##a[href*="/guarda-hd.php"]
-cineblog01.bid,cineblog01.games,cineblog01.ninja##a[href*="/guarda4k.php"]
+cineblog01.bid,cineblog01.games,cineblog01.ninja,cineblog01.work##a[href*="/guarda4k.php"]
 cineblog01.bid##a[href*="/guardafilm/"]
 eurostreaming.ca,eurostreaming.cam,eurostreaming.land,filmsenzalimiti.bz,filmsenzalimiti.ink,guardaserie.eu,ilgeniodellostreaming.movie,ilgeniodellostreaming.xyz,piratestreaming.eu,tantifilm.link##a[href*="/hd/"]
 altomantovanonews.it,autobusweb.com,citynow.it,corriereromagna.it,firstonline.info,fortuneita.com,giornaledelcilento.it,ilcarmagnolese.it,ilreventino.it,infocilento.it,iocaccio.it,lagenziadiviaggi.it,latinacorriere.it,latinaquotidiano.it,leggilanotizia.it,mantovasport24.it,mantovauno.it,oltrepomantovanonews.it,pc-gaming.it,piuchepuoi.it,siracusaoggi.it,sprintesport.it,tecnicadellascuola.it,triesteallnews.it,viaggioff.it##a[href*="/linkout/"]
