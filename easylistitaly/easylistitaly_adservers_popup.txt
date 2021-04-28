@@ -1,2 +1,3 @@
 ||golandwin.it^$popup,third-party
+||guarda4k.online^$popup
 ||heyos.com^$popup,third-party

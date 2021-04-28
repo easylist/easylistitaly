@@ -56,6 +56,7 @@
 ||evolutionadv.it^$third-party
 ||firebanner.com^$third-party
 ||gbucket.ch^$third-party
+||guarda4k.online^$third-party
 ||hbagency.it^$third-party
 ||hubaffiliations.net^$third-party
 ||husfly.com^$third-party
