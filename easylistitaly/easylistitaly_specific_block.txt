@@ -656,6 +656,8 @@
 ||cb01.band/templates/CB01_bid/images/bottone
 ||cb01.band/templates/CB01_bid/images/copertina.png
 ||cb01.business/download/registrati.png
+||cb01.capital/imgc/b_
+||cb01.capital/imgc/side/s_
 ||cb01.computer/4k/
 ||cb01.dev/fake2/
 ||cb01.dev/templates/CB01_bid/images/btn_

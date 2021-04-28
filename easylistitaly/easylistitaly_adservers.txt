@@ -92,6 +92,7 @@
 ||pronostici.app^$third-party
 ||prontocampaign.com^$third-party
 ||publy.net^$third-party
+||raddoppia-bitcoin.pro^$third-party
 ||radxcomm.com^$third-party
 ||rcsadv.it^$third-party
 ||reachadv.it^$third-party

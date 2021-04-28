@@ -1623,7 +1623,7 @@ animeemanga.it,comprovendodischi.it,comprovendolibri.it,corrieredellacalabria.it
 filmstreaming.page##a[href*="//streaming-ita.php"]
 lavorincasa.it##a[href*="//tinyurl.com/"]
 cb01.live##a[href*="/4K/"]
-altadefinizione.coach,altadefinizione.legal,altadefinizione01.army,cb01.computer,cb01.directory,cb01.events,cb01.online,cb01.run,cb01.solutions,cb01.support,cb01.uno,cb01.vin,cb01.wales,cineblog01.love,filmsenzalimiti.love,guardarefilm.vin,guardaserie.cam,speedvideo.net##a[href*="/4k/"]
+altadefinizione.coach,altadefinizione.legal,altadefinizione01.army,cb01.capital,cb01.computer,cb01.directory,cb01.events,cb01.online,cb01.run,cb01.solutions,cb01.support,cb01.uno,cb01.vin,cb01.wales,cineblog01.love,filmsenzalimiti.love,guardarefilm.vin,guardaserie.cam,speedvideo.net##a[href*="/4k/"]
 cb01.dev,cineblog01.love##a[href*="/FULLHD/"]
 piratestreaming.movie##a[href*="/Guarda4K/"]
 ilgeniodellostreaming.vin##a[href*="/HD/"]
