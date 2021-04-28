@@ -20,4 +20,4 @@
 ! html/image popups
 /^https?:\/\/.*\.(jpg|png|html|svg|ico)/$popup,domain=altadefinizione01.games|altadefinizione01.store|cineblog01.bid|cinefun.co|eurostreaming.movie|eurostreaming.vision|filmpertutti.lol|filmpertutti.voto|filmsenzalimiti.li|guardaserie.fashion|ilgeniodellostreaming.dance|ilgeniodellostreaming.tel|streamingita.online|tantifilm.pink
 ! javascript popups
-|javascript^$popup,domain=eurostreaming.camp
+|javascript^$popup,domain=eurostreaming.camp|eurostreaming.review
