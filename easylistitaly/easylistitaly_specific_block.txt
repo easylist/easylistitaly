@@ -1434,6 +1434,8 @@
 ||ilgeniodellostreaming.tel/templates/GdTheme/images/guarda
 ||ilgeniodellostreaming.tel/templates/GdTheme/images/lato
 ||ilgeniodellostreaming.tel/templates/GdTheme/images/scarica
+||ilgeniodellostreaming.today/templates/GdTheme/images/postodestro.png
+||ilgeniodellostreaming.today/templates/GdTheme/images/postosinistro.png
 ||ilgeniodellostreaming.vin/player/
 ||ilgiornaledabruzzo.it/wp-content/uploads/2013/05/Ai-Viali-Lanciano.png
 ||ilgiornaledelcibo.it^*/conosci-cirfood.
