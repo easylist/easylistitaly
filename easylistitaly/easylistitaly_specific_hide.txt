@@ -411,6 +411,7 @@ telegolfo.com###super_rss_reader-5
 telegolfo.com###super_rss_reader-6
 telegolfo.com###super_rss_reader-7
 mondodelgusto.it###super_sx
+amoreperleserietv.com###supplementary
 diretta.it###tab-bonus-offers
 diretta.it###tab-odds
 geologi.it###table113
@@ -1575,6 +1576,7 @@ calabriareportage.it##.widget_smartslider3
 radiodigione.net##.widget_ubm-banners-rotation
 vicenzanews.it##.wifiplaza
 tuttitalia.it##.wk
+amoreperleserietv.com##.wpa
 itvonline.news##.wpb_gallery
 tuttotek.it##.wpb_wrapper > a[href^="https://www.amazon.it/"]
 umbriasud.com##.wpcnt
