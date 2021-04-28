@@ -154,6 +154,7 @@
 ##.adv300eni
 ##.adv300x100vd
 ##.advBot
+##.advCollapse
 ##.advHm-cont-Ape
 ##.advPostLibri
 ##.adv_articolo
