@@ -2856,6 +2856,7 @@
 ||sambenedettesecalcio.eu^*/Progetto-senza-titolo-
 ||sampdoria.it^*/banner-
 ||sampdoria.it^*/Very_logo.jpg
+||sanfrancescopatronoditalia.it/immagini/banner/
 ||sangavinomonreale.net^*/Banner-
 ||sangavinomonreale.net^*/Cardia-
 ||sangavinomonreale.net^*/Casula.jpg
