@@ -1005,6 +1005,8 @@
 ||eurostreaming.shop/gcode.js
 ||eurostreaming.team/prem.js
 ||eurostreaming.vision^*/hostfullhd.png
+||evangelici.net^*/banner-
+||evangelici.net^*/banner_
 ||evosmart.it^*/banner_
 ||exibart.com/partner/
 ||extra.treddi.com^
