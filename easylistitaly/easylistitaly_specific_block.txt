@@ -3750,6 +3750,7 @@
 ||wp.com/www.italiasera.it/*/venere-spa.jpg
 ||wp.com/www.lavocedellisola.it/*/WhatsApp-Image-2020-07-16-at-11.35.13-
 ||wp.com/www.lecronachelucane.it/*/ppp_
+||wp.com/www.lodeate.it/*/logototapulchra.png
 ||wp.com/www.lopinionistanews.it/*/farmacia-san-bernardo.jpg
 ||wp.com/www.lopinionistanews.it/*/Guffanti.jpg
 ||wp.com/www.lopinionistanews.it/*/itof-
