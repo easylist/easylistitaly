@@ -3462,6 +3462,8 @@
 ||umbriasettegiorni.it^*/skin-
 ||umbriatv.com/images/banners/
 ||unadonna.it^*-300x250px-
+||unaparolaperte.org^*/copiawhite-background.png
+||unaparolaperte.org^*/film-sabato.jpg
 ||unicasport.it^*-Banner-
 ||unicoebello.it^*-380x380
 ||unideanellemani.it^*-banner-
