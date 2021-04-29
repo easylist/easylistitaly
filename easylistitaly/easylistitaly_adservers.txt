@@ -118,6 +118,7 @@
 ||tgadvcdn.it^$third-party
 ||tipster.space^$third-party
 ||tjekscores.dk^$third-party
+||topbanner.it^$third-party
 ||upstory.it^$third-party
 ||viralbeat.com^$third-party
 ||wailay.com^$third-party
