@@ -1499,6 +1499,7 @@ amazon.it##.threepsl-creatives
 tiscali.it##.tiscali-shp-dayblk
 milleunadonna.it,tiscali.it##.tiscali-shp-dayblk-v1
 milleunadonna.it,tiscali.it##.tiscali-shp-dayblk-v2
+tiscali.it##.tiscali-shp-dayblk-v3
 tiscali.it##.tiscali-shp-dayoff
 tmnotizie.com##.tmnot-dopo-il-contenuto
 tmnotizie.com##.tmnot-inserito-nel-contenuto
