@@ -1779,6 +1779,8 @@ autoscout24.it##div[data-item-name="finance-and-insurance"]
 stilenaturale.com##div[id="Banner_BIOOFFERTA"]
 inconcreto.net,ingenio-web.it,pavimenti-web.it##div[id^="Banner"]
 romait.it##div[id^="ad"]
+aleteia.org##div[id^="article-desk-after-header-ad_"]
+aleteia.org##div[id^="article-desk-before-footer-ad_"]
 lubevolley.it##div[id^="blocco-sponsors-"]
 corriereromagna.it##div[id^="corri-"]
 alvolante.it##div[id^="dfp-alv-slot"]
@@ -2015,6 +2017,7 @@ lanuovariviera.it##td[style="width: 33%; vertical-align: top; border-color: #000
 lanuovariviera.it##td[style="width: 50%;"]
 datameteo.com##td[style^="border-top-style: solid; border-top-color:#d3d3d3; border-top-width: 1px"]
 ! Advanced element hiding rules for Adblock Plus
+aleteia.org#?#div[class^="css-"]:-abp-has(a:-abp-contains(contenuto sponsorizzato))
 ebay.it#?#.s-item:-abp-has(span.s-item__title--tagblock__SPONSORED)
 iene.mediaset.it#?#.bx:-abp-has(div:-abp-contains(CONTENUTO SPONSORIZZATO))
 innaturale.com#?#.ruby-block-wrap:-abp-has(a:-abp-contains(SPONSORED))
