@@ -1294,6 +1294,7 @@ money.it##.pulsantiplus
 telestense.it##.pushbar
 pescaralive.it##.pwrq-container
 qdpnews.it##.qdpne-target
+romasette.it##.qgbednp
 quotidianosanita.it##.qs_n_interno_basso
 italiana.fm,radiobussola.it##.qt-sponsors
 vivafm.it##.qt-widget-sponsor

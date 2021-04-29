@@ -2805,6 +2805,7 @@
 ||romagnasport.com//public/banner/
 ||romagnasport.com/public/dim_banner/
 ||romait.it/img/banners/
+||romasette.it^*/banner-
 ||romatoday.it/images/skin/
 ||rosalio.it^*/adv/
 ||rosanerolive.it^*/cajozzoregold.jpg
