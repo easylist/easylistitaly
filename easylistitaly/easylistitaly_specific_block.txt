@@ -828,6 +828,7 @@
 ||corrierinocampaniasport.it^*/banner_
 ||corrierinocampaniasport.it^*/menna.jpg
 ||corrispondenzaromana.it^*-Banner-
+||corrispondenzaromana.it^*_Banner_
 ||corsicaoggi.com^*/corsicadaamare-
 ||cosedicasa.com^*/sidespot/
 ||cosenzachannel.it^*/banner_
