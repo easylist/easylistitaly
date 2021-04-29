@@ -1057,7 +1057,7 @@ pornoitaliano.com##.happy-section
 cuckold.it##.happy-sidebar
 cuckold.it,pornoamatorialeitaliano.it##.happy-under-player
 emmelle.it##.header-ainfo
-ecodelcinema.com,italiaonline.news,lagenziadiviaggi.it,oltreilfatto.it,ondatv.tv,palermolive.it,quotidianocanavese.it##.header-banner
+comesifasefaidate.it,ecodelcinema.com,italiaonline.news,lagenziadiviaggi.it,oltreilfatto.it,ondatv.tv,palermolive.it,quotidianocanavese.it##.header-banner
 nuovosud.it##.header-banner-wrapper
 calciomercato.com##.header-banner__container
 lanuovacalabria.it##.headerBanner
@@ -1496,6 +1496,7 @@ bluerating.com##.the_big_banner
 87tv.it,ilfattoalimentare.it,meteogiornale.it,pianetadonne.blog,quizammissione.it,teamworld.it##.theiaStickySidebar
 caleno24ore.it##.themequote
 amazon.it##.threepsl-creatives
+comesifasefaidate.it##.ticker
 tiscali.it##.tiscali-shp-dayblk
 milleunadonna.it,tiscali.it##.tiscali-shp-dayblk-v1
 milleunadonna.it,tiscali.it##.tiscali-shp-dayblk-v2
