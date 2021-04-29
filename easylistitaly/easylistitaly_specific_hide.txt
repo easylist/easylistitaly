@@ -59,6 +59,7 @@ cuneocronaca.it,larivieraonline.com,lemiebollicine.com,oggitreviso.it,piccolenot
 canavesenews.it,torinonews24.it###banner-top-container
 cataniapubblica.tv###banner1
 cataniapubblica.tv###banner2
+gayburg.com###banner300
 hdblog.it,hdmotori.it###banner3_300600
 ilmeteo.it###banner728x90bottom
 araberara.it###bannerA
