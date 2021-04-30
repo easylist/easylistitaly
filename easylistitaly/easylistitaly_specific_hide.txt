@@ -265,7 +265,7 @@ tellows.it###lb_header
 hockeycortina.it###lcs_logo_carousel_wrapper
 pupia.tv###leader-left2
 espansionetv.it,torrechannel.it###leader-wrapper
-avmagazine.it,bisceglielive.it,cronachedibirra.it,dissacration.com,eurogamer.it,fiscaleweb.com,gingerandtomato.com,ilcinemaniaco.com,iochiamo.com,lussuosissimo.com,medicinalive.com,mondoreality.com,mrwebmaster.it,musickr.it,skiinfo.ch,skiinfo.it###leaderboard
+areanapoli.it,avmagazine.it,bisceglielive.it,cronachedibirra.it,dissacration.com,eurogamer.it,fiscaleweb.com,gingerandtomato.com,ilcinemaniaco.com,iochiamo.com,lussuosissimo.com,medicinalive.com,mondoreality.com,mrwebmaster.it,musickr.it,skiinfo.ch,skiinfo.it###leaderboard
 altreconomia.it###leaderboard-top
 finestresullarte.info,forum.tomshw.it###leaderboard1
 finestresullarte.info###leaderboard2
