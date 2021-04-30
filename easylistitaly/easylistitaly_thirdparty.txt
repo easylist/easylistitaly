@@ -146,6 +146,7 @@
 ||nivolare.com/banner-$third-party
 ||nohup.it^*_110x40_
 ||oasjs.kataweb.it^
+||offerte.buste.net^$third-party
 ||oro24ksrl.it/widget/$third-party
 ||overlays.fr/js/launcher.js
 ||percorsidigitali.com/consulting300.gif
