@@ -309,6 +309,7 @@ dentrolanotizia.tv,giornalistitalia.it,italiaonline.news,mam-e.it,pisainvideo.it
 ufficistampanazionali.it###media_image-9
 laquilablog.it###media_video-10
 laquilablog.it###media_video-12
+ultimenotizieoggi.it###media_video-2
 laquilablog.it###media_video-4
 laquilablog.it###media_video-8
 laquilablog.it###media_video-9
@@ -495,6 +496,7 @@ ambientebio.it###widget-custom_html-25
 ambientebio.it###widget-custom_html-27
 ambientebio.it###widget-custom_html-28
 sscalciobari.it###wl-sponsor
+ultimenotizieoggi.it###wpb_widget-2
 animeclick.it###wrapper
 italia.fm###xbtm
 italia.fm###xttm
@@ -1063,7 +1065,7 @@ cuckold.it,pornoamatorialeitaliano.it,solopompini.it##.happy-header
 pornoitaliano.com##.happy-section
 cuckold.it##.happy-sidebar
 cuckold.it,pornoamatorialeitaliano.it##.happy-under-player
-emmelle.it##.header-ainfo
+emmelle.it,ultimenotizieoggi.it##.header-ainfo
 comesifasefaidate.it,ecodelcinema.com,italiaonline.news,lagenziadiviaggi.it,oltreilfatto.it,ondatv.tv,palermolive.it,quotidianocanavese.it##.header-banner
 nuovosud.it##.header-banner-wrapper
 calciomercato.com##.header-banner__container

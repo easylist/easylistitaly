@@ -3467,6 +3467,7 @@
 ||ufficistampanazionali.it^*/TUTTI-DATI-PERFEXIA-
 ||uiblog.it^*/buyfromebay-
 ||ulisseonline.it^*/banner-
+||ultimenotizieoggi.it^*/banner-
 ||ultimissimemantova.it/banner/
 ||umbriaingol.it//immagini/File_banner/
 ||umbriajournal.com^*/banner-
