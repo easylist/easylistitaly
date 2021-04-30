@@ -331,6 +331,12 @@ primaonline.it###native_div_home
 rovigooggi.it###news-left-box
 rovigooggi.it###news-pretext-box
 rovigooggi.it###news-top-space
+lacittanews.it###newsup-image-widget-1
+lacittanews.it###newsup-image-widget-11
+lacittanews.it###newsup-image-widget-15
+lacittanews.it###newsup-image-widget-17
+lacittanews.it###newsup-image-widget-5
+lacittanews.it###newsup-image-widget-9
 anteritalia.org###nwg
 puntocellulare.it###o_list
 diretta.it,flashscore.it###odds-main-wrapper
