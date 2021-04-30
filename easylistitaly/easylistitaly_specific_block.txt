@@ -904,6 +904,9 @@
 ||digitaloceanspaces.com/r0_tml3365830375169_128795825365_1605621213839923.png$domain=bolognasportnews.it
 ||digitaloceanspaces.com/r0_tml3365830375169_409579312341_1600874818793921.jpg$domain=bolognasportnews.it
 ||digitaloceanspaces.com/r0_tml3365830375169_547018265813_1600875297674325.jpg$domain=bolognasportnews.it
+||digitaloceanspaces.com/r0_tml617051305729_219392791765_1610441784203143.jpg$domain=calcioline.com
+||digitaloceanspaces.com/r0_tml617051305729_29189493973_1617647676336804.jpg$domain=calcioline.com
+||digitaloceanspaces.com/r0_tml617051305729_494270698709_1610441768832486.jpg$domain=calcioline.com
 ||digitaloceanspaces.com^*/banner/$domain=mondoprimavera.com
 ||diretta.it/res/image/bookmaker-list.png
 ||diretta.it^*/banner/
