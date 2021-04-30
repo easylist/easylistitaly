@@ -2263,6 +2263,16 @@
 ||nslradiotv.it^*/roma-world.jpg
 ||ntimedia.it^*_banner_
 ||ntr24.tv^*/skin-
+||nuoto.com^*/gestione-controllo-accessi-piscine-TeamSystem.png
+||nuoto.com^*/idroterapia-
+||nuoto.com^*/isostad-
+||nuoto.com^*/LOGOBANNER.png
+||nuoto.com^*/MS.jpg
+||nuoto.com^*/Pangenius.jpg
+||nuoto.com^*/SILVER_
+||nuoto.com^*_bannerone.
+||nuoto.com^*_skin.
+||nuoto.com^*_skin2.
 ||nuovabrianza.it^*/468x901.
 ||nuovabrianza.it^*/600x1601-
 ||nuovabrianza.it^*/header-def-
