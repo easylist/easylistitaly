@@ -366,6 +366,7 @@
 ||aprilianews.it^*/Eurobox-
 ||aprilianews.it^*/Kiwi-parlapiano-
 ||aprilianews.it^*_Adv10.
+||aqarivista.it^*/energon.jpg
 ||araberara.it^*/11.jpg
 ||araberara.it^*/14.jpg
 ||araberara.it^*/17.jpg
