@@ -226,6 +226,7 @@ mandamentonotizie.it###gk-banner-top
 mandamentonotizie.it###gk-banners
 videogiocare.it###gp-affiliate-button
 cookaround.com###gpt-300250-container
+orvietonews.it###gpt-passback
 mercatinomusicale.com###hdr_leaderboard
 rovigooggi.it###head-space
 cronachemaceratesi.it###head_sponsor
@@ -513,6 +514,7 @@ cinemaitaliano.info##.Banner430x45
 cinemaitaliano.info##.Banner970x250
 fc-suedtirol.com##.BannerContainer
 cinemaitaliano.info##.BannerDx
+orvietonews.it##.BannerFissodx
 atripaldanews.it##.BannerTop
 edilportale.com##.BigSquare
 sportoutdoor24.it##.BoxAdv

@@ -169,6 +169,7 @@
 ##.adv_block__text
 ##.adv_bug_float
 ##.adv_esterno
+##.adv_inner_notizia
 ##.adv_lateral_dx
 ##.adv_lateral_sx
 ##.adv_margin
