@@ -2882,6 +2882,8 @@
 ||rto.it^*/bbk-2.png
 ||rto.it^*/pallacanestro-170x170.png
 ||rto.it^*/parcheggio.png
+||ruminantia.it^*/banner-
+||ruminantia.it^*_banner-
 ||rumors.it^*/banner-
 ||rumorscena.com^*/Banner-
 ||sabiniatv.it^*/agriturismo-saporti-di-altri-tempi.jpg
