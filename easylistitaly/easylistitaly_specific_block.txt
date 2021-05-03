@@ -2254,6 +2254,17 @@
 ||nokioteca.net/_immagini/Nokia2720-2.
 ||nonapritequestoblog.it^*-banner.
 ||nonapritequestoblog.it^*/banner_
+||nonelaradio.it^*/Agenzia-Roma-Aurelio-di-Alessandro-Buttinelli.png
+||nonelaradio.it^*/autofficina-bart.jpg
+||nonelaradio.it^*/back.jpg
+||nonelaradio.it^*/banner-
+||nonelaradio.it^*/logo-true.png
+||nonelaradio.it^*/logo_CompagniaOnlus_web.png
+||nonelaradio.it^*/Logo_quadrato_sfondoBianco.jpg
+||nonelaradio.it^*/mad-globa-service.jpg
+||nonelaradio.it^*/mamanero.jpg
+||nonelaradio.it^*/paolocci-costruzioni-3x3.jpg
+||nonelaradio.it^*/planet-servizi.jpeg
 ||nonsolobenessere.it^*/bio-aloe-ferox-bioness-promo-
 ||nonsolomodanews.it^*-768x494.
 ||nonsprecare.it^*_Inspiringirls.jpg
