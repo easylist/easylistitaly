@@ -887,6 +887,7 @@ lineapress.it##.cfxi-container
 vienormali.it##.cimarandom
 cliccascienze.it##.clicc-prima-del-contenuto
 edilportale.com##.click-Skin
+telenord.it##.click-banner
 puntocellulare.it##.clklnk
 engage.it##.cnt-banner-top
 magodelpronostico.com##.cntBonusHome
@@ -1148,6 +1149,7 @@ balarm.it##.link-skin
 pressgiochi.it##.linkSkin
 monitorimmobiliare.it,winenews.it##.link_skin
 skillandbet.com##.list-unstyled
+telenord.it##.lista-banner
 diretta.it##.live-betting-strip
 sorrisi.com##.live-news-advbox
 acquavivalive.it,altamuralive.it,andrialive.it,barilive.it,barlettalive.it,bisceglielive.it,bitontolive.it,canosalive.com,cassanolive.it,coratolive.it,fasanolive.com,gioialive.it,giovinazzolive.it,gravinalive.it,margheritalive.it,minervinolive.it,molfettalive.it,ruvolive.it,santeramolive.it,terlizzilive.it,termolionline.it,tranilive.it,viviwebtv.it##.live-promo
