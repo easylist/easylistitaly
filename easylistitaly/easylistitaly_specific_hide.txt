@@ -483,6 +483,7 @@ everyeye.it###topskin_clicktag
 ilturista.info###tours-tickets-banner
 hc-neumarkt.com###tr-contentbottom
 mymovies.it###trovastreaming + div + table
+milleunadonna.it,tiscali.it###tsSkinAuto
 tiscali.it###tsSkinAutoPageBgG
 qdpnews.it,tipiace.it###vetrina
 sposa.it###vetrina-content
@@ -1356,6 +1357,7 @@ ilgeniodellostreaming.tel##.show-download
 milleunadonna.it,tiscali.it##.shp-2l-dx
 tiscali.it##.shp-2l-dx-v2
 tiscali.it##.shp-prd-ed-day
+tiscali.it##.shpCm
 quotidianolacitta.it##.sidebar-banner
 mitindo.it##.sidebar-right-bottomleft
 sportytrader.it##.sidebar_grid
@@ -1776,6 +1778,7 @@ fiorentinanews.com##div[class^="extendedwopts-"]
 lavorincasa.it##div[class^="large-leaderboard"]
 lavorincasa.it##div[class^="medium-rectangle"]
 lavorincasa.it##div[class^="rapper-banner-footerbanner"]
+milleunadonna.it,tiscali.it##div[class^="shp-"]
 lavorincasa.it##div[class^="wb-bacheca-aziende"]
 lavorincasa.it##div[class^="wb-box-wallpaper"]
 lavorincasa.it##div[class^="wb-half-page-ad"]
