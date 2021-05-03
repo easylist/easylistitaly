@@ -1445,7 +1445,7 @@ unaparolaperte.org##.stream-item-above-footer
 mole24.it##.stream-item-above-post-content
 informazioneoggi.it##.stream-item-below-header
 filmpost.it,ilgolfo24.it##.stream-item-top
-ilcorriere.net,mole24.it,unaparolaperte.org##.stream-item-top-wrapper
+ilcorriere.net,ilmoderatore.it,mole24.it,unaparolaperte.org##.stream-item-top-wrapper
 cblive.it##.stream-item-widget
 filmtv.it##.streaming
 affaritaliani.it##.strillo-speciale3
