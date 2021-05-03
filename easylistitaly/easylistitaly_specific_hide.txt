@@ -1486,12 +1486,13 @@ radioradio.it##.td-fix-index
 amoreaquattrozampe.it##.td-footer-container
 ilgiornaledeltermoidraulico.it,pescaracalcio.com,tennispavese.it,ternanacalcio.com##.td-footer-wrapper
 4actionsport.it,culturaidentita.it,fiorentina.news,ilbacodaseta.org,legavolley.it,okpronostico.it,scattidigusto.it##.td-header-rec-wrap
-laspia.it,ragusah24.it,romanews.eu##.td-header-sp-recs
+laspia.it,ragusah24.it,romanews.eu,varese7press.it##.td-header-sp-recs
 gdoweek.it##.td-leaderboard-wrap-full
 bussolafinanziaria.it,ideeviaggio.it##.td-ss-main-sidebar
 guidalloshopping.com##.td_btn
 10cose.it##.td_quote_box
 biancorossi.net,immaginevalsassina.com,moondo.info,notizialocale.it,radiolombardia.it,telesudweb.it##.td_single_image_bg
+varese7press.it##.td_uid_12_609028db5e06a_rand
 agimeg.it##.td_uid_18_5fdb9a4e3037a_rand
 agimeg.it##.td_uid_18_606dd54991c0e_rand
 ilparmense.net##.td_uid_18_606dd7c7652fd_rand
