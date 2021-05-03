@@ -521,6 +521,7 @@ lacnews24.it##.FPB_dex
 lacnews24.it##.FPB_header
 lacnews24.it##.FPB_six
 olbianova.it##.HYPE_element
+orvietosi.it##.MS_custom_feed_reader
 amazon.it##.MultiBrandCreativeDesktop
 mentelocale.it##.PresentedBy
 viterbonews24.it##.SepBanner
@@ -1561,6 +1562,9 @@ valseriananews.it##.valse-mie-pubblicita
 radioascoli.it##.vc_carousel
 casertaweb.com,pugliapress.org##.vc_carousel-inner
 abruzzoweb.it##.vc_column-inner
+orvietosi.it##.vc_custom_1587719628931
+orvietosi.it##.vc_custom_1588254530218
+orvietosi.it##.vc_custom_1588254538642
 uscatanzaro.net##.vce-featured-header-background
 pornoitaliano.com##.video-block-happy-absolute
 diventarehacker.it##.videocourseHeader
@@ -2016,6 +2020,7 @@ calabria7.it##img[width="320"][height="250"]
 lemillebolleblog.it,vinoalvino.org##img[width="320"][height="320"]
 2duerighe.com##img[width="336"][height="280"]
 roadnroll.it##img[width="468"][height="60"]
+orvietosi.it##img[width="500"][height="400"]
 portolivorno.it##img[width="630"]
 canonclubitalia.com##img[width="632"][height="123"]
 beverfood.com##img[width="650"][height="320"]
