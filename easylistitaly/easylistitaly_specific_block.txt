@@ -529,6 +529,7 @@
 ||buonapesca.it^*/rectangle-
 ||buonapesca.it^*/Senza-titolo-1.jpg
 ||buongiornoalghero.it^*/banner_
+||buongiornoslovacchia.sk/banner/
 ||business24tv.it^*/Banner_
 ||business24tv.it^*/skin_
 ||bussolafinanziaria.it^*/etoro-copy-trading-sidebar.png
@@ -3871,7 +3872,7 @@
 ||wp.com^*-banner.$domain=abruzzoweb.it|blogdellamusica.eu|gazzettadiavellino.it|gazzettadisalerno.it|infonewsvietri.it
 ||wp.com^*/675x238-$domain=tv9italia.it
 ||wp.com^*/banner-$domain=abruzzoweb.it|bsnews.it|cinecorriere.it|giornaledicalabria.it|ilgiornaledeiveronesi.it|infocilento.it|nonsoloturisti.it|nuotounostiledivita.it|oggicronaca.it|temporeale.info|tv9italia.it|vesuvianonews.it
-||wp.com^*/banner/$domain=cronacaflegrea.it
+||wp.com^*/banner/$domain=buongiornoslovacchia.sk|cronacaflegrea.it
 ||wp.com^*/banner_$domain=agropolinews.it|bimbonaturale.org|fisco7.it|nuotounostiledivita.it|thewalkoffame.it
 ||wp.com^*/banners/$domain=proiezionidiborsa.it
 ||wp.com^*/BRIGNOLA20201.jpg$domain=infonewsvietri.it
