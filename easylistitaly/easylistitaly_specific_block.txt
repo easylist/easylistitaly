@@ -3568,6 +3568,11 @@
 ||veronanetwork.it^*/banner-
 ||veronanetwork.it^*/PANTHEON_ADV_
 ||vestirsidicorsa.it^*-350x550.
+||viaggio-in-germania.de/appartamenti-
+||viaggio-in-germania.de/autonoleggio-germania-
+||viaggio-in-germania.de/hotel-pensioni-
+||viaggio-in-germania.de/viaggi-geografia-
+||viaggio-in-germania.de/voli-germania-
 ||viaggioff.it^*/okBanner-
 ||viaggioingermania.it^*/corso-tedesco-
 ||viamichelin.ch/static/*/adblocker/advertising.js
