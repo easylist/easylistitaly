@@ -440,6 +440,11 @@
 ||bagherianews.com/images/Webp.net-gifmaker-
 ||balarm.it/attachment-web/
 ||balarm.it^*-skin-
+||baraondanews.it^*-banner-
+||baraondanews.it^*/350x180-
+||baraondanews.it^*/auto-doc.
+||baraondanews.it^*/gif.gif
+||baraondanews.it^*/SIRCAR-GIF-
 ||basilicatanotizie.net/images/banners/
 ||basilicatanotizie.net^*/background-
 ||basketfemminilebiellese.altervista.org^*/Sponsor/
