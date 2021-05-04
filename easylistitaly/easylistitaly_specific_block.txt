@@ -1114,6 +1114,7 @@
 ||galluratvlive.com^*/dettorimarket.jpg
 ||galluratvlive.com^*/stel-srl-
 ||game-experience.it^*/BANNER-
+||gamebit.it^*/gamebit.jpg
 ||gamelegends.it^*/instant-gaming-
 ||gamelegends.it^*_Masthead_780x260_
 ||gamelegends.it^*_pop-up_550x480_
