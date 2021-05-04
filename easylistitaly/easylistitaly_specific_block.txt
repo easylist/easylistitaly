@@ -1343,6 +1343,8 @@
 ||hwreload.it^*/sharkoon.gif
 ||hwupgrade.it/js/hwu_adv.js
 ||hynerd.it^*/8EAFEADA-C6AC-4A66-A2E6-2A5C95AA6AE0.png
+||i404.it^*/banner_
+||i404.it^*_banner-
 ||iamnaples.it^*-300x250.
 ||iamnaples.it^*/carni-italia.jpg
 ||iamnaples.it^*/giovane_italia.png
