@@ -2858,6 +2858,7 @@
 ||retesei.com^*/formec.jpg
 ||retesei.com^*/ips.jpg
 ||retesei.com^*/pincios-
+||ricettealvolo.it^*/Pressomassaggio-
 ||rimini.com^*_banner_
 ||rimininews24.it^*/la-pulce-logo.png
 ||rinnovabili.it^*/300x80-logo.jpg

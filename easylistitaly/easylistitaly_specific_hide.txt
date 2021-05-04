@@ -579,6 +579,8 @@ radioinstreaming.it##.adv2
 ilgallo.it##.adv4
 virgilio.it##.advTuning
 corrierecomunicazioni.it,digital4.biz,energyup.tech,ilsussidiario.net,industry4business.it,newsrimini.it,riskmanagement360.it##.adv_container
+ricettealvolo.it##.adv_content
+ricettealvolo.it##.adv_side
 addicted2play.com,eurogamer.it,gioco.it,lausc.it,morningstar.it,podisti.net##.advert
 ilfoglio.it,liberoquotidiano.it,pharmastar.it##.advertisement
 film-review.it,frasicelebri.it,nanopress.it,zonalocale.it##.advertising
@@ -1738,7 +1740,7 @@ markos.it##a[href^="http://www.bookings.net/"]
 leggenditaloi.com##a[href^="http://www.easybytez.com/free"]
 rietilife.com##a[href^="http://www.rietilife.com?pasID="]
 outcast.it##a[href^="http://www.tostadora.it/t-shirt-nerd.php?"]
-birramoriamoci.it,circusf1.com,computermania.org,efferadio.it,fattoincasadabenedetta.it,footballscouting.it,fut18italia.it,futurelements.it,guerrestellari.net,gufo.it,hellogreen.it,hovogliadidolce.it,hwupgrade.it,hynerd.it,ilsoftware.it,imlestar.com,infotelematico.com,justfashionmagazine.com,juzaphoto.com,losport24.com,macitynet.it,maidirelink.it,medicinaonline.co,mio-ip.eu,mr-loto.it,murkymask.com,nokioteca.net,nonapritequestoblog.it,okpedia.it,partiture.it,sempredirebanzai.it,tivusat.tv,trattamentinaturalibio.it,twebnews.it,uberti.eu,ubud.it,uiblog.it,unideanellemani.it,viaggio-in-germania.de,videogiocare.it,windowsblogitalia.com##a[href^="https://amzn.to/"]
+birramoriamoci.it,circusf1.com,computermania.org,efferadio.it,fattoincasadabenedetta.it,footballscouting.it,fut18italia.it,futurelements.it,guerrestellari.net,gufo.it,hellogreen.it,hovogliadidolce.it,hwupgrade.it,hynerd.it,ilsoftware.it,imlestar.com,infotelematico.com,justfashionmagazine.com,juzaphoto.com,losport24.com,macitynet.it,maidirelink.it,medicinaonline.co,mio-ip.eu,mr-loto.it,murkymask.com,nokioteca.net,nonapritequestoblog.it,okpedia.it,partiture.it,ricettealvolo.it,sempredirebanzai.it,tivusat.tv,trattamentinaturalibio.it,twebnews.it,uberti.eu,ubud.it,uiblog.it,unideanellemani.it,viaggio-in-germania.de,videogiocare.it,windowsblogitalia.com##a[href^="https://amzn.to/"]
 trattamentinaturalibio.it##a[href^="https://c.mtpc.se/"]
 golbym.com##a[href^="https://casinostudio3000.com/"]
 albengacorsara.it,campaniameteo.it,germania.info,partiteoggi.net,tuttoamerica.it,viaggio-in-germania.de##a[href^="https://clk.tradedoubler.com/"]
