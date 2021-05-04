@@ -299,7 +299,8 @@ ufficistampanazionali.it###media_image-11
 pisainvideo.it###media_image-12
 pisainvideo.it###media_image-14
 allasianfootball.com,buonenotizie.it,chepreparo.it,ilgazzettinodisicilia.it,internapoli.it,it-casinoonline.com,pisainvideo.it###media_image-2
-benessere-sport.it,corriereelorino.it,pisainvideo.it,tecnofacile.com,ufficistampanazionali.it###media_image-3
+natureatblog.com###media_image-23
+benessere-sport.it,corriereelorino.it,natureatblog.com,pisainvideo.it,tecnofacile.com,ufficistampanazionali.it###media_image-3
 altropensiero.net,corriereelorino.it,it-casinoonline.com,italiaonline.news,roadtvitalia.it,ufficistampanazionali.it###media_image-4
 staynerd.com###media_image-40
 advister.it###media_image-44
