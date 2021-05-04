@@ -1274,6 +1274,7 @@
 ||goriziaoggi.news^*-banner-
 ||goriziaoggi.news^*/3service-climatizzazione.jpg
 ||goriziaoggi.news^*/enaip-innovazione.jpeg
+||grae.it^*/headerVILLA-
 ||grandangoloagrigento.it^*/350x350-
 ||gratisfree.it/cgi-bin/bannergest$script
 ||greenews.info/wp-content/banners/

@@ -177,7 +177,7 @@ gufo.it###custom_html-10
 gufo.it###custom_html-11
 cucinamamma.it,scienzenotizie.it###custom_html-12
 pistoiasport.com###custom_html-13
-cucinamamma.it###custom_html-14
+cucinamamma.it,grae.it###custom_html-14
 giochi.com,nintendari.it###custom_html-17
 birramoriamoci.it,calciohellas.it,calciorosanero.it,card.it,carteprepagate.org,italiaonline.news,sportnews.eu###custom_html-2
 tuttojuve24.it###custom_html-21
