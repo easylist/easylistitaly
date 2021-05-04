@@ -451,7 +451,7 @@ clientiesperti.it,libripiuvenduti.it,tecnofacile.com,top10scommesse.it###text-3
 giornalistitalia.it###text-30
 universo7p.it###text-32
 alground.com###text-33
-contrastotv.it,giornalistitalia.it,viterbopost.it###text-34
+contrastotv.it,giornalistitalia.it,ricettevegolose.com,viterbopost.it###text-34
 viterbopost.it###text-35
 giornalistitalia.it###text-36
 giornalistitalia.it,ilgiornaledeiveronesi.it###text-38
