@@ -2878,6 +2878,8 @@
 ||rinnovabili.it^*/next-chem-banner-hp.gif
 ||rinnovabili.it^*/rse-ricerca-sistema-energetico.png
 ||rinnovabili.it^*/speciale-cobat.png
+||riskcompliance.it^*-1600x300px-
+||riskcompliance.it^*/Fintech-Finance-2.jpg
 ||risorsedidattiche.net/js/yb-risorsedidattichenet.js
 ||rittnerbuam.com/images/sponsor_
 ||riuscireinborsa.it^*/skin-
