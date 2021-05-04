@@ -1252,6 +1252,7 @@
 ||giornalistitalia.it^*/Corecom.jpg
 ||girovagandointrentino.it^*-bannerIlDolomiti.
 ||gizchina.it^*-gshopper.
+||glianni80.com^*/anni80.jpg
 ||gnoccaforum.com^*/banners/
 ||gnoccatravels.com/files/banner
 ||gnoccatravels.com/files/pbblct
