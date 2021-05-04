@@ -3171,6 +3171,7 @@
 ||storiedisport.it^*/biblio.gif
 ||storiedisport.it^*/logo5.png
 ||stradeonline.it/images/banners/
+||streamingmagazine.it^*/streamingmagazine.jpg
 ||strill.it^**/banner
 ||strill.it^*/rigan
 ||strumentiemusica.com^*-125x125.
