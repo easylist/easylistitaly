@@ -1009,6 +1009,7 @@
 ||eunews.it^*/Banner-300x300_
 ||euroregionalpmed.eu/img/banner/
 ||euroregionalpmed.eu/js/clickBanner_
+||eurostreaming.click/gcod.js
 ||eurostreaming.fyi/728.gif
 ||eurostreaming.fyi/hd-
 ||eurostreaming.fyi/playerjs.js
