@@ -763,6 +763,7 @@
 ||citynotizie.it^*/idillium.jpg
 ||citynotizie.it^*/mascognaz.jpg
 ||citynotizie.it^*/regina.jpg
+||citynow.it^*/970x250-
 ||cityrumors.it/images/banners/
 ||cityrumors.it/modules/mod_flexbanner/
 ||cityrumors.it^*-banner-
