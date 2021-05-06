@@ -675,6 +675,7 @@ italiani.it##.banner-empty-italiani
 bluvolleyverona.it##.banner-fading
 algheroeco.com##.banner-header-dx
 algheroeco.com##.banner-header-sx
+prewarcar.it##.banner-holder
 sampdoria.it##.banner-home
 ebikecult.it,mtbcult.it##.banner-homepage-inside-1
 ebikecult.it,mtbcult.it##.banner-homepage-inside-2
@@ -2003,6 +2004,7 @@ crotoneok.it##img[width="1280"][height="384"]
 hc-neumarkt.com##img[width="140"][height="68"]
 portolivorno.it##img[width="150"][height="150"]
 katablog.it##img[width="160"][height="600"]
+prewarcar.it##img[width="160"][height="92"]
 crotoneok.it##img[width="1600"][height="480"]
 liratv.it##img[width="1600"][height="533"]
 informatissimo.net##img[width="225"][height="90"]
