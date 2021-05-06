@@ -1712,9 +1712,11 @@
 ||italiaonline.news^*/offertaformativa-
 ||italiasette.it^*-336x280-
 ||italiavela.it/banner/
+||italpress.com^*/BANNER-
 ||italpress.com^*/gif_talpress_def.
 ||italpress.com^*/VolospeechGif_
 ||italpress.com^*_300X250MYACEA-
+||italpress.com^*_SKIN_
 ||italynews.it^*/logo5.jpg
 ||itvonline.news^*-300x250.
 ||itvonline.news^*-300x250px-

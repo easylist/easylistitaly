@@ -2076,6 +2076,7 @@ aleteia.org#?#div[class^="css-"]:-abp-has(a:-abp-contains(contenuto sponsorizzat
 ebay.it#?#.s-item:-abp-has(span.s-item__title--tagblock__SPONSORED)
 iene.mediaset.it#?#.bx:-abp-has(div:-abp-contains(CONTENUTO SPONSORIZZATO))
 innaturale.com#?#.ruby-block-wrap:-abp-has(a:-abp-contains(SPONSORED))
+italpress.com#?#.vc_row_inner:-abp-has(a[href^="https://group.intesasanpaolo.com/"])
 lospiffero.com#?#.article-blog-default:-abp-has(span:-abp-contains(CONTENUTO SPONSORIZZATO))
 open.online#?#.news:-abp-has(div:-abp-contains(in collaborazione con ))
 quattroruote.it#?#.c-post:-abp-has(a:-abp-contains(Sponsored by ))
