@@ -377,6 +377,7 @@
 ||araberara.it^*/small-10-11-
 ||araberara.it^*/th_28-1016.png
 ||arcatliguria.it/templates/cloud/img/tad2.png
+||archi-magazine.it/media/banners/
 ||areamediapress.it^*/107600614_2942646965804088_159715717256824508_n.png
 ||areamediapress.it^*/170290978_1411759462503056_4796858281068240477_n.jpg
 ||areamediapress.it^*/bookstop.jpg
