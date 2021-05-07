@@ -2795,6 +2795,7 @@
 ||radioreporter.it/foto/grandi/iwm.jpg
 ||radiorobinson.it^*/Logo-Cassa-di-Risparmio-
 ||radiorobinson.it^*/Magazzini-Mangini.
+||radiorpl.it/ad_rotation
 ||radiortm.it^*/300x300.gif
 ||radiortm.it^*/formatoquadrato.jpeg
 ||radiortm.it^*/newWebsite.jpg
