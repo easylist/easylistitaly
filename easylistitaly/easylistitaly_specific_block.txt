@@ -3860,7 +3860,9 @@
 ||wp.com/www.gazzettadisalerno.it/*/gusto.jpeg
 ||wp.com/www.gazzettadisalerno.it/*/unicusanopagani-
 ||wp.com/www.giornaledicalabria.it/*/Affidato-orafo-
+||wp.com/www.giornaledicalabria.it/*/ARBITRI-ok.jpg
 ||wp.com/www.giornaledicalabria.it/*/GIF-REGIONE.
+||wp.com/www.giornaledicalabria.it/*/Pub-
 ||wp.com/www.giornaledicalabria.it/*/Sorical.gif
 ||wp.com/www.gliacchiappafilm.it/*/logo-eagle-service-orizzontale-
 ||wp.com/www.ilfattoonline.com/*/IMW.jpg
