@@ -593,6 +593,7 @@ virgilio.it##.advTuning
 corrierecomunicazioni.it,digital4.biz,energyup.tech,ilsussidiario.net,industry4business.it,newsrimini.it,riskmanagement360.it##.adv_container
 ricettealvolo.it##.adv_content
 ricettealvolo.it##.adv_side
+calabria7.it##.advanced_floating_content
 addicted2play.com,eurogamer.it,gioco.it,lausc.it,morningstar.it,podisti.net##.advert
 ilfoglio.it,liberoquotidiano.it,pharmastar.it##.advertisement
 film-review.it,frasicelebri.it,nanopress.it,zonalocale.it##.advertising
@@ -1466,7 +1467,7 @@ webnews.it##.sticky_wrapper
 androidworld.it,mobileworld.it##.store-affiliation
 andreagaleazzi.com##.store-box
 fruitbookmagazine.it##.strack_bnr
-100ideeperristrutturare.it,bizjournal.it,casa-naturale.com,fruitbookmagazine.it,horecanews.it,primopianomolise.it,quattrozampe.online,radiomovida.net,radioradio.it,uominietrasporti.it,vendingnews.it,villeecasali.com##.strack_cli
+100ideeperristrutturare.it,bizjournal.it,calabria7.it,casa-naturale.com,fruitbookmagazine.it,horecanews.it,primopianomolise.it,quattrozampe.online,radiomovida.net,radioradio.it,uominietrasporti.it,vendingnews.it,villeecasali.com##.strack_cli
 cblive.it,myreviews.it##.stream-item
 unaparolaperte.org##.stream-item-above-footer
 mole24.it##.stream-item-above-post-content
