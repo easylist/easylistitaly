@@ -64,6 +64,11 @@
 ||acspezia.com^*/sponsors/
 ||adginforma.it/images/banner_
 ||adginforma.it/images/banners/
+||adginforma.it^*/mediaclic-
+||adginforma.it^*/mine300x250_
+||adginforma.it^*_240x200.
+||adginforma.it^*_banner_
+||adginforma.it^*_skin_
 ||adnkronos.com^*/banner/
 ||adnkronos.com^*/Promo/
 ||affaritaliani.it/includes/files/affari/
