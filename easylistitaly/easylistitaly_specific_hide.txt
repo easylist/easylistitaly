@@ -328,9 +328,6 @@ pistoiasport.com###mvp-leader-wrap
 lavocedibolzano.it,sportmagazinetrentino.it###mvp-site-wall
 lavocedibolzano.it###mvp-wallpaper
 4actionsport.it###myads
-calabrianews.it###n2-ss-3-placeholder
-calabrianews.it###n2-ss-4-placeholder
-calabrianews.it###n2-ss-5-placeholder
 primaonline.it###native_div_home
 rovigooggi.it###news-left-box
 rovigooggi.it###news-pretext-box
@@ -1244,6 +1241,7 @@ cb001.xyz##.mvic-btn
 calcioatalanta.it,calciocasteddu.it,calciocremonese.it,calciofere.it,calciogrifo.it,calciohellas.it,calciolecce.it,calciorosanero.it,calciospezia.it,forzaparma.it,labaricalcio.it,qdmnotizie.it,siamolaroma.it,sololalazio.it,tifocosenza.it,trapanigranata.it##.mvp-wall-link
 passioneorologio.it##.my_best-price-btn
 donnaclick.it##.myadv
+calabrianews.it##.n2-section-smartslider
 newsiciliacasa.it##.narrative
 scuolissima.com##.nascondiads
 ildolomiti.it##.native
@@ -2045,6 +2043,7 @@ calabria7.it##img[width="320"][height="250"]
 lemillebolleblog.it,vinoalvino.org##img[width="320"][height="320"]
 2duerighe.com##img[width="336"][height="280"]
 baraondanews.it##img[width="350"][height="180"]
+calabrianews.it##img[width="371"][height="312"]
 roadnroll.it##img[width="468"][height="60"]
 orvietosi.it##img[width="500"][height="400"]
 portolivorno.it##img[width="630"]
