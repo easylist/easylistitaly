@@ -694,7 +694,7 @@ ebikecult.it,mtbcult.it##.banner-homepage-inside-2
 ebikecult.it,mtbcult.it##.banner-homepage-slider-728-90
 italiafruit.net##.banner-i
 picenonews24.it##.banner-img
-cremona1.it##.banner-inner
+cremona1.it,lacnews24.it##.banner-inner
 ideawebtv.it##.banner-laterale-default
 universodelgioco.it##.banner-leaderboard
 italiafruit.net##.banner-m
