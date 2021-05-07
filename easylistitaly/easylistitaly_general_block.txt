@@ -42,6 +42,7 @@
 /pubbl_vert.
 /pubblicit%C3%A0-
 /pubblicit%c3%a0/*
+/Pubblicita%CC%80-
 /pubblicita%CC%80-
 /pubblicita%CC%80.
 /pubblicita-

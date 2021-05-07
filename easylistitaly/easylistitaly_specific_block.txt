@@ -3727,6 +3727,15 @@
 ||viviparigi.it^*/banners/
 ||vivitortona.it/image/megaplex.jpg
 ||vivitortona.it/image/oasi.jpg
+||voce.com.ve^*/anigif.gif
+||voce.com.ve^*/Appartamenti-Ascoli.jpg
+||voce.com.ve^*/Aviso-Vellisimo.jpg
+||voce.com.ve^*/Casa-Italia-de-Maracay.gif
+||voce.com.ve^*/CIV.gif
+||voce.com.ve^*/FAIV.gif
+||voce.com.ve^*/Hotel-Las-Americas.gif
+||voce.com.ve^*/libro-marisa.gif
+||voce.com.ve^*_banner.
 ||vocedinapoli.it^*-Banner-
 ||vocenuova.tv/assets/uploads/banners/
 ||vocetempo.it^*/banner-
