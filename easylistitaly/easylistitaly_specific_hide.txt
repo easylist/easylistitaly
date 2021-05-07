@@ -1739,7 +1739,7 @@ altadefinizione.sh##a[href*="/view.php?"]
 altadefinizione01.software##a[href*="/vod2k.php"]
 altadefinizione.gg,altadefinizione.ph,filmpertutti.li,filmpertutti.lol,filmpertutti.onl,ilgeniodellostreaming.dance,ilgeniodellostreaming.tube##a[href*="/vss/"]
 birramoriamoci.it##a[href*="?affiliates="]
-anteprima24.it,gnoccatravels.com,ideawebtv.it,juzaphoto.com,lavorincasa.it,mangaforever.net,milanofinanza.it,phica.net,voglioporno.com##a[href*="?utm_"]
+anteprima24.it,gnoccatravels.com,ideawebtv.it,juzaphoto.com,lavorincasa.it,mangaforever.net,phica.net,voglioporno.com##a[href*="?utm_"]
 corrierenazionale.it##a[href="http://www.herobet.it/"]
 comprovendolibri.it##a[href^="/conta.asp?"]
 altadefinizione.name##a[href^="/definizione/"]
@@ -2078,6 +2078,7 @@ iene.mediaset.it#?#.bx:-abp-has(div:-abp-contains(CONTENUTO SPONSORIZZATO))
 innaturale.com#?#.ruby-block-wrap:-abp-has(a:-abp-contains(SPONSORED))
 italpress.com#?#.vc_row_inner:-abp-has(a[href^="https://group.intesasanpaolo.com/"])
 lospiffero.com#?#.article-blog-default:-abp-has(span:-abp-contains(CONTENUTO SPONSORIZZATO))
+milanofinanza.it#?#.col-md-12.intesahead.mb-3 ~ .col-md-4:-abp-has(a[href^="https://group.intesasanpaolo.com/"])
 open.online#?#.news:-abp-has(div:-abp-contains(in collaborazione con ))
 quattroruote.it#?#.c-post:-abp-has(a:-abp-contains(Sponsored by ))
 radioluna.it#?#.feat-widget-wrap:-abp-has(div:-abp-contains(INFORMAZIONE REDAZIONALE))
