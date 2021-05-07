@@ -374,6 +374,7 @@ mangialibri.com###section-extra-bottom-4
 msmotor.tv###sezpartnercommerciali
 nuovosud.it###sfondo
 calabria7.it,gamelegends.it###sgpb-popup-dialog-main-div
+classlife.it###side_home_sx
 eurogamer.it###sidebar_amazon
 vienormali.it###site-header-banner
 vienormali.it###site-header-leaderboard
