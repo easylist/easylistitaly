@@ -43,7 +43,6 @@
 /pubblicit%C3%A0-
 /pubblicit%c3%a0/*
 /pubblicita%CC%80-
-/Pubblicita%CC%80-
 /pubblicita%CC%80.
 /pubblicita-
 /pubblicita.
