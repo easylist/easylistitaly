@@ -619,6 +619,11 @@
 ||casaleoggi.it^*/banner/
 ||casaleoggi.it^*_banner_
 ||casateonline.it/public/banner/
+||cascinanotizie.it^*/banner_
+||cascinanotizie.it^*/m2r2_
+||cascinanotizie.it^*/mondosenzacquabanner900x900.gif
+||cascinanotizie.it^*/whatsapp_image_2020-03-12_at_17.59.01.jpeg
+||cascinanotizie.it^*_400x400.
 ||casertaweb.com^*/0001.jpg
 ||casertaweb.com^*/009.jpg
 ||casertaweb.com^*/banner-

@@ -116,8 +116,15 @@ giornaledellamusica.it###block-adv
 tuttosuigatti.it###block-bean-banner-content-bottom
 tuttosuigatti.it###block-bean-banner-content-center
 tuttosuigatti.it###block-bean-banner-header
+cascinanotizie.it###block-block-15
+cascinanotizie.it###block-block-40
 mangialibri.com###block-block-41
+cascinanotizie.it###block-block-42
+cascinanotizie.it###block-block-53
+cascinanotizie.it###block-block-57
+cascinanotizie.it###block-block-63
 mangialibri.com###block-block-7
+cascinanotizie.it###block-block-70
 mediaworld.it###block-footerbanners
 nuovosud.it###block-views-banner-centrale-menu-block
 torinofc.it###block-views-sponsor-block-2
