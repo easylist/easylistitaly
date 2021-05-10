@@ -760,7 +760,6 @@ finanza.com##.banner_dx
 ragusanews.com##.banner_dx_google
 ilcittadinomb.it,laprovinciadicomo.it,laprovinciadivarese.it##.banner_footer
 villaggiomusicale.com##.banner_footerboard
-quotidianodiragusa.it##.banner_full_cc
 ilgoriziano.it##.banner_header
 condominioweb.com##.banner_home
 italpress.com##.banner_img_widget
@@ -1358,6 +1357,8 @@ passioneorologio.it##.rehub_feat_block
 regaliperfetti.it##.rehub_woo_review
 ilsole24ore.com##.rel--brandconn
 microgiochi.com##.relacionados
+quotidianodiragusa.it##.related-news
+quotidianodiragusa.it##.related-newsc
 mobimart.it##.resp-container
 router-4g.it##.review-links
 webpointzero.com##.rh_listoffers
@@ -1821,6 +1822,7 @@ corrieredellosport.it,tuttosport.com##div[class^="AdUnit_"]
 acffiorentina.com,acmilan.com##div[class^="Partners_"]
 latinaoggi.eu##div[class^="a-p1-banner-"]
 aprilianews.it##div[class^="april-home-adv10-"]
+quotidianodiragusa.it##div[class^="banner_"]
 fiorentinanews.com##div[class^="extendedwopts-"]
 lavorincasa.it##div[class^="large-leaderboard"]
 lavorincasa.it##div[class^="medium-rectangle"]
