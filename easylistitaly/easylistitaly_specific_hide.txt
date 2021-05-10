@@ -298,7 +298,7 @@ pisainvideo.it,ufficistampanazionali.it###media_image-10
 ufficistampanazionali.it###media_image-11
 pisainvideo.it###media_image-12
 pisainvideo.it###media_image-14
-allasianfootball.com,buonenotizie.it,chepreparo.it,ilgazzettinodisicilia.it,internapoli.it,it-casinoonline.com,pisainvideo.it###media_image-2
+allasianfootball.com,buonenotizie.it,chepreparo.it,ilgazzettinodisicilia.it,internapoli.it,it-casinoonline.com,novetv.com,pisainvideo.it###media_image-2
 natureatblog.com###media_image-23
 benessere-sport.it,corriereelorino.it,natureatblog.com,pisainvideo.it,tecnofacile.com,ufficistampanazionali.it###media_image-3
 altropensiero.net,corriereelorino.it,it-casinoonline.com,italiaonline.news,roadtvitalia.it,ufficistampanazionali.it###media_image-4
@@ -510,6 +510,11 @@ ambientebio.it###widget-custom_html-18
 ambientebio.it###widget-custom_html-25
 ambientebio.it###widget-custom_html-27
 ambientebio.it###widget-custom_html-28
+novetv.com###widget_sp_image-37
+novetv.com###widget_sp_image-45
+novetv.com###widget_sp_image-47
+novetv.com###widget_sp_image-66
+novetv.com###widget_sp_image-90
 sscalciobari.it###wl-sponsor
 ultimenotizieoggi.it###wpb_widget-2
 animeclick.it###wrapper
