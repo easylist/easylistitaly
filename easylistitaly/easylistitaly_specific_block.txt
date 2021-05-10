@@ -3105,6 +3105,10 @@
 ||sora24.it/banner/
 ||sora24.it^*/amazon-prime-
 ||spaziogames.it^*/logo-instant-gaming.jpg
+||spaziotennis.com^*-BANNER-
+||spaziotennis.com^*/BANNER0-
+||spaziotennis.com^*/bonusscommessepro.jpg
+||spaziotennis.com^*/RTA-quadrato.jpg
 ||spoletonline.com/banner/
 ||sport-press.it^*/image001.jpg
 ||sport-press.it^*_300x300.

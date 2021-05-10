@@ -759,6 +759,7 @@ ilgoriziano.it##.banner_header
 condominioweb.com##.banner_home
 italpress.com##.banner_img_widget
 villaggiomusicale.com##.banner_leaderboard
+spaziotennis.com##.banner_panorama
 archzine.it##.banner_sidebar
 tutto.tv##.banner_single_top
 startupitalia.eu##.banner_slick
@@ -2026,12 +2027,12 @@ informatissimo.net##img[width="225"][height="90"]
 onemag.it,sulpanaro.net##img[width="250"][height="250"]
 parmacalcio1913.com##img[width="280"][height="135"]
 forum.passioneauto.it##img[width="300"][height="100"]
-newtuscia.it##img[width="300"][height="150"]
+newtuscia.it,spaziotennis.com##img[width="300"][height="150"]
 radioinblu.it,tv2000.it##img[width="300"][height="200"]
-0-100.it,altropensiero.net,beverfood.com,bikeitalia.it,calabria7.it,carteprepagate.org,finanzareport.it,fiorentinanews.com,informatissimo.net,larampa.it,lattemiele.com,radiogammastereo.it,radioinblu.it,sportface.it,tv2000.it##img[width="300"][height="250"]
+0-100.it,altropensiero.net,beverfood.com,bikeitalia.it,calabria7.it,carteprepagate.org,finanzareport.it,fiorentinanews.com,informatissimo.net,larampa.it,lattemiele.com,radiogammastereo.it,radioinblu.it,spaziotennis.com,sportface.it,tv2000.it##img[width="300"][height="250"]
 umbriaoggi.news##img[width="300"][height="252"]
 umbriaoggi.news##img[width="300"][height="289"]
-informatissimo.net,it-casinoonline.com,toscanatv.it##img[width="300"][height="300"]
+informatissimo.net,it-casinoonline.com,spaziotennis.com,toscanatv.it##img[width="300"][height="300"]
 uspontedera.it##img[width="300"][height="60"]
 beverfood.com##img[width="300"][height="600"]
 agraria.org##img[width="300"][height="80"]
@@ -2043,6 +2044,7 @@ ideawebtv.it##img[width="310"][height="252"]
 umbriaoggi.news##img[width="315"][height="150"]
 calabria7.it##img[width="320"][height="250"]
 lemillebolleblog.it,vinoalvino.org##img[width="320"][height="320"]
+spaziotennis.com##img[width="332"][height="100"]
 2duerighe.com##img[width="336"][height="280"]
 baraondanews.it##img[width="350"][height="180"]
 calabrianews.it##img[width="371"][height="312"]
