@@ -322,6 +322,7 @@ mymovies.it###middle1_companion
 tusciaweb.eu###miesSPLASH
 eurogamer.it###mobile-leaderboard
 eurogamer.it###mobile-mpu
+padelmagazine.it###modal
 forum.tomshw.it###mpudesk
 sportparma.com###mvp-leader-cont
 pistoiasport.com###mvp-leader-wrap
@@ -1244,6 +1245,7 @@ calcioatalanta.it,calciocasteddu.it,calciocremonese.it,calciofere.it,calciogrifo
 passioneorologio.it##.my_best-price-btn
 donnaclick.it##.myadv
 calabrianews.it##.n2-section-smartslider
+padelmagazine.it##.n2-ss-slider
 newsiciliacasa.it##.narrative
 scuolissima.com##.nascondiads
 ildolomiti.it##.native
@@ -1817,6 +1819,7 @@ lavorincasa.it##div[class^="large-leaderboard"]
 lavorincasa.it##div[class^="medium-rectangle"]
 lavorincasa.it##div[class^="rapper-banner-footerbanner"]
 milleunadonna.it,tiscali.it##div[class^="shp-"]
+padelmagazine.it##div[class^="uk-background"]
 lavorincasa.it##div[class^="wb-bacheca-aziende"]
 lavorincasa.it##div[class^="wb-box-wallpaper"]
 lavorincasa.it##div[class^="wb-half-page-ad"]
