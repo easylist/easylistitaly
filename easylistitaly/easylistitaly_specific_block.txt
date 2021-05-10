@@ -2805,7 +2805,9 @@
 ||radiorobinson.it^*/Logo-Cassa-di-Risparmio-
 ||radiorobinson.it^*/Magazzini-Mangini.
 ||radiorpl.it/ad_rotation
+||radiortm.it^*/2_1.mp4
 ||radiortm.it^*/300x300.gif
+||radiortm.it^*/Banner-
 ||radiortm.it^*/formatoquadrato.jpeg
 ||radiortm.it^*/newWebsite.jpg
 ||radiortm.it^*/peugeot2_
