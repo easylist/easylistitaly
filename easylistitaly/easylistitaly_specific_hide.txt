@@ -595,7 +595,7 @@ amalfinews.it,beatgogo.it,chistachiamando.it,ilportico.it,ilvescovado.it,liratv.
 adessoin.tv,allaguida.it,alpha59.it,altreconomia.it,amica.it,ansa.it,buttalapasta.it,calciomercato.com,cittaceleste.it,curioctopus.it,dissapore.com,fcinter1908.it,forbes.it,forzaroma.info,gelocal.it,gianlucadimarzio.com,girovagandointrentino.it,gta-expert.it,guardachevideo.it,ilfattoquotidiano.it,ilpost.it,ilsole24ore.com,latina24ore.it,leonardo.it,libero.it,mediaset.it,movieplayer.it,multiplayer.it,nanopress.it,notiziemilan.it,oasport.it,passioneinter.com,pianetamilan.it,pourfemme.it,prealpina.it,radioindiretta.fm,repubblica.it,salepepe.it,skuola.net,staffettaonline.com,stylosophy.it,supereva.it,toronews.net,virgilio.it,vocenuova.tv##.adv
 teleunica.com##.adv-body
 centrometeoitaliano.it##.adv-cmi
-animatamente.net,corriereromagna.it##.adv-link
+animatamente.net,corriereromagna.it,udineoggi.news##.adv-link
 rbe.it##.adv-section
 radiocittadelcapo.it##.adv-space
 diredonna.it,gravidanzaonline.it,robadadonne.it##.adv-style
@@ -2055,7 +2055,7 @@ parmacalcio1913.com##img[width="280"][height="135"]
 forum.passioneauto.it##img[width="300"][height="100"]
 newtuscia.it,spaziotennis.com##img[width="300"][height="150"]
 radioinblu.it,tv2000.it##img[width="300"][height="200"]
-0-100.it,altropensiero.net,beverfood.com,bikeitalia.it,calabria7.it,carteprepagate.org,finanzareport.it,fiorentinanews.com,friulioggi.it,informatissimo.net,larampa.it,lattemiele.com,radiogammastereo.it,radioinblu.it,radiortm.it,sinewsmagazine.it,spaziotennis.com,sportface.it,tv2000.it##img[width="300"][height="250"]
+0-100.it,altropensiero.net,beverfood.com,bikeitalia.it,calabria7.it,carteprepagate.org,finanzareport.it,fiorentinanews.com,friulioggi.it,informatissimo.net,larampa.it,lattemiele.com,radiogammastereo.it,radioinblu.it,radiortm.it,sinewsmagazine.it,spaziotennis.com,sportface.it,tv2000.it,udineoggi.news##img[width="300"][height="250"]
 umbriaoggi.news##img[width="300"][height="252"]
 umbriaoggi.news##img[width="300"][height="289"]
 ilfriuliveneziagiulia.it,informatissimo.net,it-casinoonline.com,spaziotennis.com,toscanatv.it##img[width="300"][height="300"]
