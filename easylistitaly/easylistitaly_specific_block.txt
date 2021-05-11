@@ -1464,6 +1464,9 @@
 ||ilfattoonline.com^*/puro.jpg
 ||ilfoglio.it/js/bannerInterstitial.js
 ||ilformat.info^*/banner_
+||ilfriuliveneziagiulia.it^*-1156x250-
+||ilfriuliveneziagiulia.it^*-banner-
+||ilfriuliveneziagiulia.it^*_1156-x250_
 ||ilgazzettinobr.it^*/banners/
 ||ilgeniodellostreaming.bond/templates/GdTheme/images/chevedi1
 ||ilgeniodellostreaming.bond/templates/GdTheme/images/guardainhd.png
