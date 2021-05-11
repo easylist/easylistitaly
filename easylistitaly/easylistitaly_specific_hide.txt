@@ -1051,6 +1051,7 @@ ilmiostiledivita.it##.footer-columns
 lega-pro.com##.footer-partner
 genoacfc.it##.footer-partner-link
 bluvolleyverona.it,chievoverona.it,hellasverona.it##.footer-sponsor
+nbv-verona.it##.footer-sponsor-line
 acspezia.com,bresciacalcio.it,cagliaricalcio.com,olbiacalcio.com##.footer-sponsors
 foodaffairs.it##.footer-widget-area
 football-magazine.it,lavoraconnoi-italia.it##.footer-widgets
