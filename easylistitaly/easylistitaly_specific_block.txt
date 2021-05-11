@@ -167,7 +167,6 @@
 ||altropensiero.net^*/BigRectangleAnimato.gif
 ||alwaysonboard.it/amazon_
 ||amadeusmagazine.it^*/BANNER-
-||amalfinews.it^*/cus-
 ||amalfinotizie.it^*/omenu.one_
 ||amalfinotizie.it^*_500x500.
 ||amantideilibri.it^*/banner-
@@ -1599,7 +1598,6 @@
 ||ilportaledelcavallo.it^*/nord-piave.jpg
 ||ilportaledelcavallo.it^*/paraxitebio-
 ||ilportaledelcavallo.it^*/zooriz.gif
-||ilportico.it^*/cus-
 ||ilpost.it^*/banner_
 ||ilpost.it^*/newAdv.js?
 ||ilpuntonotizie.it^*-Leaderboard.
@@ -1623,7 +1621,6 @@
 ||ilsussidiario.net^*/970X125_
 ||iltredici.it^*/banner_
 ||iltredici.it^*/partners/
-||ilvescovado.it^*/cus-
 ||ilvolo.it/images/banners/
 ||ilwebmaster21.it/script1.js
 ||imgpress.it^*/6b4bb0e6-
@@ -1984,7 +1981,6 @@
 ||lineauno.it^*/300x300_
 ||lineauno.it^*/estrawebluce_
 ||lipari.biz/banners/
-||liratv.it^*/cus-
 ||liveuniversity.it^*/970x280-
 ||livorno24.com^*/carrozzeria-Marsili.png
 ||livorno24.com^*/CG-infissi.bmp
@@ -2385,7 +2381,6 @@
 ||occhi.it^*-adv-
 ||occhioallanotizia.it^*/animation.gif
 ||occhionotizie.it^*_banner_
-||occhisusalerno.it^*/cus-
 ||oggicronaca.it/cinema/xmegaplex.
 ||ogginotizie.it^*/666.jpg
 ||ogginotizie.it^*/CASCINA_page-0001-scaled.jpg
@@ -2574,7 +2569,6 @@
 ||portolivorno.it^*/nuovologobartoli.jpg
 ||portolivorno.it^*/nuovologofanfani.jpg
 ||portolivorno.it^*/pisaairporttransfer.jpg
-||positanonotizie.it^*/cus-
 ||potenzanews.net^*/1-San-Barbato-
 ||potenzanews.net^*/AUTOBRINDISI-
 ||potenzanews.net^*/Calciano-
@@ -2852,7 +2846,6 @@
 ||ragusah24.it^*/cornice-
 ||ragusanews.com//immagini_banner/
 ||ragusanews.com/images_banner/
-||ravellonotizie.it^*/cus-
 ||ravennafc.it^*/sponsor-
 ||ravennatoday.it/images/skin/
 ||ravennawebtv.it^*-300x300-
