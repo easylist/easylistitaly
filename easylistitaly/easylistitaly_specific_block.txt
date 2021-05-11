@@ -3314,7 +3314,9 @@
 ||telenord.it^*/asef.gif
 ||telenord.it^*/cafuil2.gif
 ||telenord.it^*/razetocasareto_
+||telepordenone.tv/js/banner.js
 ||telepordenone.tv/writable/images/trivio.gif
+||telepordenone.tv^*/banner-
 ||telepordenone.tv^*/banner_
 ||telepordenone.tv^*_BANNER.
 ||teleradio-news.it^*-615x188.
