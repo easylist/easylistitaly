@@ -1303,6 +1303,7 @@
 ||goriziaoggi.news^*-300x300-
 ||goriziaoggi.news^*-600x300px-
 ||goriziaoggi.news^*-banner-
+||goriziaoggi.news^*/1156x250.jpg
 ||goriziaoggi.news^*/3service-climatizzazione.jpg
 ||goriziaoggi.news^*/enaip-innovazione.jpeg
 ||grae.it^*/headerVILLA-
