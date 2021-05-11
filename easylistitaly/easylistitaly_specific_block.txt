@@ -1136,6 +1136,11 @@
 ||fremondoweb.com^*/banner_
 ||fremondoweb.com^*_laterale.
 ||freshplaza.it/b/
+||friulioggi.it^*/airtech-mp4.mp4
+||friulioggi.it^*/banner-
+||friulioggi.it^*/genitori-separati5permillebis.jpg
+||friulioggi.it^*/prontoauto-mp4.mp4
+||friulioggi.it^*/unione-artigiani.gif
 ||fumettologica.it^*/107410583.png
 ||fumettologica.it^*/413907652.jpeg
 ||gallurainformazione.it^*/Delcomar-
