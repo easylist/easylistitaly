@@ -1081,6 +1081,7 @@ player.it##.game-buy-container
 gamelegends.it##.gamel-after
 gamelegends.it##.gamel-masthead
 giardiniblog.it##.gbam
+abruzzolive.it##.gbnmyr
 zerocinquantuno.it##.gdlr-logo
 ferraraitalia.it##.gdlr-logo-right-banner
 1001giochi.it##.general-leaderboard
