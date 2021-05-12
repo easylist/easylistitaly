@@ -476,6 +476,7 @@ birramoriamoci.it,casilinanews.it,faidatecreativo.com,finaria.it,pianetablunews.
 giornalistitalia.it###text-40
 castellinotizie.it###text-400
 giornalistitalia.it###text-41
+vocedelverbopartire.com###text-42
 grossetosport.com###text-44
 castellinotizie.it###text-449
 castellinotizie.it###text-453
