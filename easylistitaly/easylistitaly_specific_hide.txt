@@ -918,7 +918,7 @@ altadefinizione-site.it##.buttComment
 scaricarelibri.net##.button
 il-genio-dello-streaming.com##.button1
 parcofaunistico.it##.buttonGuardaOra
-altadefinizione01.army,altadefinizione01.software,altadefinizione01.works##.buttonbox
+altadefinizione01.army,altadefinizione01.sale,altadefinizione01.software,altadefinizione01.works##.buttonbox
 pensieriparole.it##.buyblock
 sitiscommesse.com##.bwin
 domusweb.it##.c-article-prev--sponsored
@@ -1754,7 +1754,7 @@ abruzzoweb.it,ecwgcortina2016.it##a[href*="/go.php?"]
 cartedipagamento.com,connessionivpn.it,migliorisitistreaming-hd.blogspot.com,pronosticideiguerrieri.it,vivasicilia.com##a[href*="/go/"]
 cb01.band,ilgeniodellostreaming.gold##a[href*="/guarda-4k.php"]
 ilgeniodellostreaming.gold##a[href*="/guarda-hd.php"]
-cineblog01.bid,cineblog01.games,cineblog01.ninja,cineblog01.work##a[href*="/guarda4k.php"]
+altadefinizione01.sale,cineblog01.bid,cineblog01.games,cineblog01.ninja,cineblog01.work##a[href*="/guarda4k.php"]
 cineblog01.bid##a[href*="/guardafilm/"]
 eurostreaming.ca,eurostreaming.cam,eurostreaming.land,filmsenzalimiti.bz,filmsenzalimiti.ink,guardaserie.eu,ilgeniodellostreaming.movie,ilgeniodellostreaming.xyz,piratestreaming.eu,tantifilm.link##a[href*="/hd/"]
 adginforma.it,agricultura.it,altomantovanonews.it,autobusweb.com,citynow.it,corriereromagna.it,firstonline.info,fortuneita.com,friulioggi.it,giornaledelcilento.it,giornalelavoce.it,ilcarmagnolese.it,ilreventino.it,infocilento.it,iocaccio.it,lagenziadiviaggi.it,latinacorriere.it,latinaquotidiano.it,leggilanotizia.it,mantovasport24.it,mantovauno.it,oltrepomantovanonews.it,pc-gaming.it,piuchepuoi.it,siracusaoggi.it,sprintesport.it,tecnicadellascuola.it,triesteallnews.it,viaggioff.it##a[href*="/linkout/"]
@@ -1768,7 +1768,7 @@ altadefinizione01.games##a[href*="/qualita/"]
 nigiara.it##a[href*="/redir.php?id=1"]
 cineblog01.land,cineblog01.place##a[href*="/scar-hd.php"]
 altadefinizione4k.stream,altadefinizione4k.tv##a[href*="/scar.php"]
-altadefinizione.kiwi,altadefinizioneita.co,cineblog01.bid,cineblog01.games,cineblog01.ninja,filmaltadefinizione.me,piratestreaming.page##a[href*="/scarica-"]
+altadefinizione.kiwi,altadefinizione01.sale,altadefinizioneita.co,cineblog01.bid,cineblog01.games,cineblog01.ninja,filmaltadefinizione.me,piratestreaming.page##a[href*="/scarica-"]
 ilgeniodellostreaming.cloud##a[href*="/scarica.php"]
 altadefinizione01.works,cineblog01.green##a[href*="/scarica4k.php"]
 cineblog01.bid##a[href*="/scaricafilm.php"]

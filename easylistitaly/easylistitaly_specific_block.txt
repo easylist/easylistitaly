@@ -142,6 +142,7 @@
 ||altadefinizione01.green^*/btntorrent.png
 ||altadefinizione01.page/300.gif
 ||altadefinizione01.page/stream1.png
+||altadefinizione01.sale/templates/Dark/img/btn_
 ||altadefinizione01.software/templates/Dark/img/btn_
 ||altadefinizione01.store^*/btn_dwn.png
 ||altadefinizione01.store^*/btntorrent.png
