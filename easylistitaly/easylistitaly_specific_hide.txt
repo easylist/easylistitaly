@@ -1425,7 +1425,7 @@ milleunadonna.it,tiscali.it##.shp-2l-dx
 tiscali.it##.shp-2l-dx-v2
 tiscali.it##.shp-prd-ed-day
 tiscali.it##.shpCm
-quotidianolacitta.it##.sidebar-banner
+lavocedinovara.com,quotidianolacitta.it##.sidebar-banner
 mitindo.it##.sidebar-right-bottomleft
 sportytrader.it##.sidebar_grid
 cosedicasa.com##.sidespot-wrapper
@@ -2135,6 +2135,7 @@ ebay.it#?#.s-item:-abp-has(span.s-item__title--tagblock__SPONSORED)
 iene.mediaset.it#?#.bx:-abp-has(div:-abp-contains(CONTENUTO SPONSORIZZATO))
 innaturale.com#?#.ruby-block-wrap:-abp-has(a:-abp-contains(SPONSORED))
 italpress.com#?#.vc_row_inner:-abp-has(a[href^="https://group.intesasanpaolo.com/"])
+lavocedinovara.com#?#.post.type-post.consigliato:-abp-has(a:-abp-contains(Sponsorizzato))
 lospiffero.com#?#.article-blog-default:-abp-has(span:-abp-contains(CONTENUTO SPONSORIZZATO))
 milanofinanza.it#?#.col-md-12.intesahead.mb-3 ~ .col-md-4:-abp-has(a[href^="https://group.intesasanpaolo.com/"])
 open.online#?#.news:-abp-has(div:-abp-contains(in collaborazione con ))
