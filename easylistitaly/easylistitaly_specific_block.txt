@@ -1935,6 +1935,9 @@
 ||lavocedellevalli.it^*_Banner_
 ||lavocedellisola.it^*/Banco-Alimentare-Sicilia.jpg
 ||lavocedellisola.it^*/WhatsApp-Image-2020-07-16-at-11.35.13.jpeg
+||lavocedelpopolo.it^*/banner_
+||lavocedelpopolo.it^*/holyart_
+||lavocedelpopolo.it^*_264x264_
 ||lavocedelquartiere.it^*/banner_
 ||lavocedeltrentino.it^*/banners/
 ||lavocedeltrentino.it^*/calzature-dro-

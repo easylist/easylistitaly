@@ -14,7 +14,7 @@ tuttojuve24.it###SuperClassQuote
 chimerarevo.com###TopWidgetArea
 larena.it###_dbx_core
 digital-forum.it,ebaygeneration.com,elaborare.com,esigarettaforum.com,milanworld.net,thegamesmachine.it###ad_global_below_navbar
-bordighera.net,corriere.it###ads
+bordighera.net,corriere.it,lavocedelpopolo.it###ads
 buonapesca.it,piceno24.it,picenooggi.it,rivieraoggi.it,virgilio.it###adv
 agarymathematics.net,timgate.it###adv1
 libero.it###adv_topper
@@ -1832,6 +1832,7 @@ tuttoamerica.it##a[href^="https://www.anrdoezrs.net/click-"]
 gufo.it,msn.com,partiteoggi.net,salutarmente.it##a[href^="https://www.awin1.com/"]
 viaggio-in-germania.de##a[href^="https://www.booking.com/"]
 fumettologica.it##a[href^="https://www.catawiki.it"][href*="?utm_"]
+lavocedelpopolo.it##a[href^="https://www.holyart.it/"]
 gamelegends.it,hynerd.it,spaziogames.it,tuttotek.it##a[href^="https://www.instant-gaming.com/?igr="]
 esportsactivity.com##a[href^="https://www.ivacy.com/"]
 botteega.it##a[href^="https://www.macrolibrarsi.it/"]
