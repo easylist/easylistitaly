@@ -1300,6 +1300,7 @@
 ||gomorraweb.com^*/granvesuvio-
 ||gonews.it^*/Istituto_Tecnico_Cattaneo_
 ||gonews.it^*/Servizio_Civile_gen21-
+||gonews.it^*_300x250px-
 ||gonews.it^*_Banner-
 ||goriziaoggi.news^*-300x300-
 ||goriziaoggi.news^*-600x300px-
