@@ -3695,6 +3695,8 @@
 ||verovegan.com^*/171214590.png
 ||verovegan.com^*/651733323.jpg
 ||vestirsidicorsa.it^*-350x550.
+||vesuviolive.it^*-advbill.
+||vesuviolive.it^*/banner-
 ||viaggio-in-germania.de/appartamenti-
 ||viaggio-in-germania.de/autonoleggio-germania-
 ||viaggio-in-germania.de/hotel-pensioni-
