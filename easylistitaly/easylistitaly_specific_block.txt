@@ -2033,6 +2033,7 @@
 ||lnd.it/images/sponsor/
 ||lodiedintorni.com^*-banner-
 ||lodiedintorni.com^*/Banner-
+||lombardinelmondo.org^*/Banner-
 ||lombardreport.com^*/banner/
 ||lopinionista.it^*/tuttiautopezzi.
 ||lopinionistanews.it^*/Adv.
