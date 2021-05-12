@@ -2788,6 +2788,7 @@
 ||radiolombardia.it^*/325x50-
 ||radiolombardia.it^*/banner-
 ||radiolombardia.it^*/ilpl.png
+||radioluce.it^*/banner-
 ||radioluna.it/news/header/
 ||radioluna.it^*-200X110.
 ||radioluna.it^*-Banner-
