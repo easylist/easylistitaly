@@ -2107,6 +2107,7 @@ finanzareport.it,gamebit.it,gamelegends.it,glianni80.com,larampa.it,streamingmag
 calabria7.it##img[width="750"][height="250"]
 aprilianews.it##img[width="750"][height="625"]
 ilfriuliveneziagiulia.it##img[width="768"][height="166"]
+ekuonews.it##img[width="800"][height="99"]
 calabria7.it##img[width="945"][height="150"]
 gonews.it##img[width=300px][height=250px]
 hotcorn.com##input[class="post-movie-button-chili"]
