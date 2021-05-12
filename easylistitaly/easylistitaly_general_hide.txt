@@ -209,6 +209,7 @@
 ##.ed_Related_Sponsor_Top_Container
 ##.ed_Sponsor
 ##.edinet_adv_container
+##.edinews_widget_link_sponsorizzati
 ##.epeex_Sas
 ##.foglia-middle-adv
 ##.google-adx-corpo
