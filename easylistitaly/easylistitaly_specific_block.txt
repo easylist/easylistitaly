@@ -1703,6 +1703,7 @@
 ||iovivoaroma.org/images/new/bg.jpg
 ||iovivoaroma.org/public/banners/
 ||irnonotizie.it^*/logo_territorio_sostenibile-
+||irpinia24.it^*/banner_
 ||irrigazioneagricoltura.it^*/GIF-Garden4us.gif
 ||itacanotizie.it^*/300x300-
 ||itacanotizie.it^*/37-striscia-
