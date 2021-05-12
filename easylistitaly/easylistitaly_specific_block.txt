@@ -1252,10 +1252,14 @@
 ||giornaledimontesilvano.com/images/banners/
 ||giornaledirimini.com^*/banner-
 ||giornalelavoce.it^*-300x250px.
+||giornalelavoce.it^*-banner300x600px.
 ||giornalelavoce.it^*/alimentari-stefano.jpg
+||giornalelavoce.it^*/Banner-
 ||giornalelavoce.it^*/banner.
+||giornalelavoce.it^*/banner300x250-
 ||giornalelavoce.it^*/telaporto.gif
 ||giornalelavoce.it^*/vanilla.jpg
+||giornalelavoce.it^*_BANNER_
 ||giornaleradio.fm^*/320x250_
 ||giornaleradio.fm^*/320x25_
 ||giornalerossoblu.it^*/20191211_
