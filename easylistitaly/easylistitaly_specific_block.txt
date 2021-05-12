@@ -3275,6 +3275,7 @@
 ||teleaesse.it^*/coccopalmeri-oro.png
 ||teleaesse.it^*/eni-prezzo-gasolio-giugno-2017-header.jpg
 ||teleaesse.it^*/gentile-autonoleggio-castel-di-sangro.jpg
+||teleaesse.it^*/hera-comm-luce-gas-barrea.jpeg
 ||teleaesse.it^*/hera-offerte-luce-gas-hera-comm.png
 ||teleaesse.it^*/orsini-ipermarket-castel-di-sangro-560x93.png
 ||teleambiente.it^*/Banner-

@@ -484,6 +484,7 @@ castellinotizie.it###text-456
 giornalistitalia.it###text-46
 castellinotizie.it###text-464
 castellinotizie.it###text-465
+teleaesse.it###text-47
 castellinotizie.it###text-470
 castellinotizie.it###text-471
 castellinotizie.it###text-480
@@ -496,6 +497,7 @@ castellinotizie.it###text-494
 castellinotizie.it###text-495
 castellinotizie.it###text-496
 birramoriamoci.it,giornalesm.com###text-5
+teleaesse.it###text-50
 teamworld.it###text-51
 radioimmagine.it###text-61
 incucinaconelena.it###text-7
@@ -1494,6 +1496,8 @@ archilovers.com##.spot-homepage
 mostraip.com##.spot1
 radiorcs.it##.spotaltosottomenutre
 radiorcs.it##.spotcentrato
+teleaesse.it##.spu-bg
+teleaesse.it##.spu-box
 ebay.it##.srp-banner
 sanitainsicilia.it##.srur_leaderboard
 cremaoggi.it,cremonaoggi.it,oglioponews.it##.standard-inside-text
