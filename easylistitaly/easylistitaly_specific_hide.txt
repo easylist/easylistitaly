@@ -201,7 +201,7 @@ strill.it,tuttotek.it###custom_html-65
 calcioitalia24.it,melarossa.it,pistoiasport.com,topragazze.it###custom_html-7
 calcioitalia24.it,corrierequotidiano.it,vitaminanews.it###custom_html-8
 scrivolibero.it,viaggiallafinedelmondo.it###custom_html-9
-donnaglamour.it,newsmondo.it,notiziebenessere.it,notiziemusica.it,primochef.it###delta-mobile-bottom
+dolciveloci.it,donnaglamour.it,newsmondo.it,notiziebenessere.it,notiziemusica.it,primochef.it###delta-mobile-bottom
 amazon.it###detailILM_feature_div
 dayitalianews.com###diretta_video_unipol
 calendario-365.it###dish-top-desktop
