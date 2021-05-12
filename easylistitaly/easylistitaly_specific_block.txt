@@ -1861,6 +1861,11 @@
 ||laltrapagina.it^*/pe4681.
 ||laluce.news^*/50-off.png
 ||lametino.it/images/banners/
+||lamiacittanews.it^*-300x300-
+||lamiacittanews.it^*-banner-
+||lamiacittanews.it^*/banner-
+||lamiacittanews.it^*/banner/
+||lamiacittanews.it^*_300x180.
 ||lamilano.it^*/MOOD-AGENCY.gif
 ||lamoneta.it^*/bannertop.
 ||lamoneta.it^*/ilforumbanner.jpg
