@@ -48,6 +48,7 @@
 ||crmpilot.it^$third-party
 ||delosnetwork.it^$third-party
 ||digitalbees.it^$third-party
+||disploot.com^$third-party
 ||eadv.it^$third-party
 ||easymarketcrs.it^$third-party
 ||ebuzzing.it^$third-party
