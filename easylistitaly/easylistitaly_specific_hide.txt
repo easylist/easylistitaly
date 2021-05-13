@@ -1685,11 +1685,14 @@ tuttotek.it##.wpb_wrapper > a[href^="https://www.amazon.it/"]
 umbriasud.com##.wpcnt
 palermolive.it##.wpls-logo-showcase
 fiorentina.news##.wpls-logo-showcase-slider-wrp
+golfpiu.it##.wpmc_display
 androidblog.it,best5.it,lapappadolce.net,tuttosullapostaelettronica.it##.wpmc_inject_wrapper
+golfpiu.it##.wpmoneyclick-product-box-multiprov
 tuttoapp-android.com##.wpmoneyclick_amazon_box
+golfpiu.it##.wpmoneyclick_template_amz_simil_footer
 advister.it,vitaminanews.it##.wpmoneyclick_template_prices_comp
 tuttoapp-android.com##.wpmoneyclick_template_simple_button
-simonemaestri.com##.wpmoneyclick_template_single-product
+golfpiu.it,simonemaestri.com##.wpmoneyclick_template_single-product
 corriereelorino.it##.wps-bt-background-takeover-id
 allertaprivacy.it##.wpsm_promobox
 calciomercato.napoli.it##.wptb-cell
