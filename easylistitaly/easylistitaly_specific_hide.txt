@@ -181,7 +181,7 @@ tefchannel.it###ctl00_cphBody_mcsSlotBannerBottom_rptGallery_ctl00_lnkLink
 tefchannel.it###ctl00_cphBody_mcsSlotBannerTop_rptGallery_ctl01_lnkLink
 teleborsa.it###ctl00_if4WTV300x250
 gufo.it###custom_html-10
-gufo.it###custom_html-11
+gufo.it,indiscreto.org###custom_html-11
 cucinamamma.it,scienzenotizie.it###custom_html-12
 castellinotizie.it,pistoiasport.com###custom_html-13
 cucinamamma.it,grae.it###custom_html-14
@@ -197,11 +197,11 @@ alground.com,androidblog.it,birramoriamoci.it,calcioatalanta.it,calciofere.it,ca
 calciocasteddu.it,carteprepagate.org,corrieredicomo.it,destinazioneusa.com,guidaconsumatore.com,pianetablunews.it,topragazze.it,tuttogossipnews.it###custom_html-4
 mondomobileweb.it###custom_html-42
 calcioitalia24.it,carteprepagate.org,italiaonline.news,mam-e.it,melarossa.it,tuttogossipnews.it###custom_html-5
-1x2-calcio.com,calcioitalia24.it,corrieredicomo.it,cucinamamma.it,hynerd.it,it-casinoonline.com,nonsprecare.it,pentanewslivorno.it###custom_html-6
+1x2-calcio.com,calcioitalia24.it,corrieredicomo.it,cucinamamma.it,hynerd.it,indiscreto.org,it-casinoonline.com,nonsprecare.it,pentanewslivorno.it###custom_html-6
 strill.it,tuttotek.it###custom_html-65
 calcioitalia24.it,melarossa.it,pistoiasport.com,topragazze.it###custom_html-7
 calcioitalia24.it,corrierequotidiano.it,vitaminanews.it###custom_html-8
-scrivolibero.it,viaggiallafinedelmondo.it###custom_html-9
+indiscreto.org,scrivolibero.it,viaggiallafinedelmondo.it###custom_html-9
 dolciveloci.it,donnaglamour.it,economiafinanzaonline.it,newsmondo.it,notiziebenessere.it,notiziemilan.it,notiziemusica.it,primochef.it###delta-mobile-bottom
 amazon.it###detailILM_feature_div
 dayitalianews.com###diretta_video_unipol
