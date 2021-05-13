@@ -1051,6 +1051,8 @@
 ||evosmart.it^*/banner_
 ||exibart.com/partner/
 ||extra.treddi.com^
+||faidateingiardino.com^*/amazon-
+||faidateingiardino.com^*/gia.gif
 ||fanoinforma.it^*/aset1.jpg
 ||fantascientificast.com/partner/
 ||fantastica.it/iwm.gif

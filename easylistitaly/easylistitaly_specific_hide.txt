@@ -151,7 +151,7 @@ ilpentasport.it###bx-next-sponsor
 ilpentasport.it###bx-prev-sponsor
 ascolicalcio1898.it###carousel
 foodbloggermania.it###categories-2
-newsf1.it###cb-bg-to
+faidateingiardino.com,newsf1.it###cb-bg-to
 sempionenews.it###cboxOverlay
 cdt.ch###cdt-ads-medium-rectangle
 virgilio.it###cht_banner
@@ -650,7 +650,7 @@ prezzisalute.com##.amaz
 cronotop.it##.amaz-product
 gamemag.it,lavorincasa.it,nientepopcorn.it,robadadonne.it,videogame.it##.amazon
 leggoquandovoglio.it##.amazon-a
-icrewplay.com##.amazon-auto-links
+faidateingiardino.com,icrewplay.com##.amazon-auto-links
 screenweek.it##.amazon-btn
 ridble.com##.amazon-product
 cliccascienze.it##.amazon-products-container-list
