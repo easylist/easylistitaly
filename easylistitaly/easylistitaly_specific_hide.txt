@@ -953,6 +953,7 @@ avvisatore.com##.code-block-13
 avvisatore.com##.code-block-14
 avvisatore.com##.code-block-15
 casasuper.it##.code-block-16
+keblog.it##.code-block-2
 fisco7.it##.code-block-29
 avvisatore.com,cinquecolonne.it##.code-block-3
 ok-salute.it##.code-block-43
@@ -960,7 +961,7 @@ grossetosport.com,informarea.it,pomiglianolive.it##.code-block-5
 avvisatore.com##.code-block-6
 casasuper.it,stilearte.it##.code-block-7
 grossetosport.com,pomiglianolive.it##.code-block-8
-pomiglianolive.it##.code-block-9
+keblog.it,pomiglianolive.it##.code-block-9
 ilcorrieredelgiorno.it##.col-banner
 lacrocequotidiano.it##.column-banner
 quattroruote.it##.commercial-article
