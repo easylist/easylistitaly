@@ -2051,6 +2051,7 @@ libero.it,mbnews.it,oroscopoastra.com,tp24.it##div[style^="width: 300px; height:
 gelocal.it##div[style^="width: 300px;height: 80px;border:"]
 ilfogliodellarte.it##div[style^="width:250px; height:250px;"]
 meteosatonline.it##hr[style="height:5px; background: #9EB4FF;"]
+zibaldoneweb.it##iframe[style="width: 120px; height: 240px;"]
 liguriaoggi.it##img[alt="ad"]
 radiogold.it##img[alt="adv-"]
 lamoneta.it##img[alt="advertisement_alt"]
