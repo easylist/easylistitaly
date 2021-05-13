@@ -111,6 +111,7 @@ travelstales.it###bl_html-9
 metalgermania.it###black-studio-tinymce-2
 esportsmobile.it###black-studio-tinymce-6
 esportsmobile.it###black-studio-tinymce-7
+ilgolfonline.it###black-studio-tinymce-8
 liberliber.it###blocco_banner
 giornaledellamusica.it###block-adv
 tuttosuigatti.it###block-bean-banner-content-bottom
@@ -577,7 +578,7 @@ telestense.it##.StandardBanner
 ricetta.it##.\37 28-up
 radioradio.it,uominietrasporti.it##._ning_inner
 100ideeperristrutturare.it,casa-naturale.com,quattrozampe.online,radioluce.it,villeecasali.com##._ning_outer
-corriereelorino.it,grandangoloagrigento.it,lombardinelmondo.org,ravennawebtv.it,rietinvetrina.it,ultimenotizieflash.com##.a-single
+corriereelorino.it,grandangoloagrigento.it,ilgolfonline.it,lombardinelmondo.org,ravennawebtv.it,rietinvetrina.it,ultimenotizieflash.com##.a-single
 badcomics.it,badgames.it,badtaste.it,badtv.it##.aalb-880-product-carousel-unit
 gnius.it##.aalb-product-carousel-unit
 facileporno.com##.aan_fake
