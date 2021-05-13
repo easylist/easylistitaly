@@ -236,6 +236,7 @@
 ##.nk-adv
 ##.nk-adv-in-article-1
 ##.nk-adv-in-article-2
+##.partial-static-adv
 ##.partial-sticky-adv
 ##.post_pubblicita
 ##.promo_sp
