@@ -249,6 +249,7 @@ torinofc.it###headerSpazioSponsorLoghi
 dirittoegiustizia.it###header_giu_banner_dx
 sienafree.it###headerbanner
 blog.ilgiornale.it###headerleader
+animaleamico.com###headsponsor
 amazon.it###heroQuickPromo_feature_div
 agriturismo.it###home-banner
 rovigooggi.it###home-closeup-space
