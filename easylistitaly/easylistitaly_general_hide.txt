@@ -273,6 +273,7 @@
 ##.tn_adv
 ##.topadv_left
 ##.topadv_right
+##.trama_ads
 ##.view-pubblicita
 ##.widget_adv_multi
 ##.widget_n1ad

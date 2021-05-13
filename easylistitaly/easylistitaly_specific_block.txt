@@ -2551,6 +2551,7 @@
 ||piemonteoggi.it^*/banner/
 ||pimpmytrip.it^*/ISTITUTO-CULTURALE-IRAN.jpg
 ||piratestreaming.eu/vip/img/tad
+||piratestreaming.ws/vip/img/tad
 ||pisa24.info^*/baffo-matto.jpg
 ||pisa24.info^*/emmepi-auto.jpg
 ||pisa24.info^*/Farmacia-Pierini.jpg
