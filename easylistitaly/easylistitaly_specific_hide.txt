@@ -1286,6 +1286,7 @@ padelmagazine.it##.n2-ss-slider
 newsiciliacasa.it##.narrative
 scuolissima.com##.nascondiads
 ildolomiti.it##.native
+petpassion.tv##.navbar-purina-red
 virgilio.it##.newboxIs
 virgilio.it##.newboxIsOrizz
 ansa.it##.news-special-box
