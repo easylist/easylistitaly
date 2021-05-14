@@ -816,7 +816,9 @@
 ||comunicalo.it^*/banner-
 ||concorsi-letterari.it^*/rose-stabilizzate-
 ||condominioitalia.biz^*/banner/
+||condominioweb.com/ban/
 ||condominioweb.com/bann/
+||condominioweb.com/img_cdw/cerchi_un_amministratore.jpg
 ||confinelive.it^*/banner-
 ||confrontaconti.it/image/banner/
 ||coni.it/images/banners/*_*.jpg
