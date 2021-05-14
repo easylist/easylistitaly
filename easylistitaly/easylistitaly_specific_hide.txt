@@ -896,6 +896,7 @@ cuneodice.it,genovadice.it,italiadice.it,torinodice.it##.box_oikia
 subito.it##.box_sponsor
 caneogolf.it##.boxbannerhome
 pneusnews.it##.boxes
+ricettedigusto.info##.boxslot
 sscnapoli.it##.brand
 tvserial.it##.break-adv
 sora24.it##.breakingNews
