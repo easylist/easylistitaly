@@ -1926,6 +1926,7 @@ musicaetesti.myblog.it,people24.myblog.it##div[style="background-color:#FFF;heig
 musicaetesti.myblog.it##div[style="background-color:#FFF;height:90px;margin:0 auto .6em; text-align: center;"]
 people24.myblog.it##div[style="background-color:#FFF;height:90px;margin:0 auto .6em;"]
 livigno.cx##div[style="background-color:#FFFF00; padding:5px; border:thin; border-color:#0000FF; border-style:solid; margin-top:10px;"]
+chicucina.it##div[style="background-color:#FFFFFF; width:310px; height:162px; padding: 12px 0px 0px 2px;"]
 bottadiculo.it##div[style="background: #141b4d; box-shadow: 0 5px 10px 0 #bdbdbd; padding: 15px 30px 40px 30px; border-radius: 10px; margin: 30px 0px 40px 0px; text-align: center;"]
 bottadiculo.it##div[style="background: #212529; box-shadow: 0 5px 10px 0 #bdbdbd; padding: 15px 30px 40px 30px; border-radius: 10px; margin: 30px 0px 40px 0px; text-align: center;"]
 giocareinborsa.com##div[style="background: #c4eab8; padding: 10px; border: 2px solid green;"]
