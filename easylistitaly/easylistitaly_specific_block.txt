@@ -2659,6 +2659,7 @@
 ||prospettivegeometri.it^*/380x180_
 ||prospettivegeometri.it^*/gbf-video-geometri.gif
 ||prospettivegeometri.it^*_Banner_
+||psicologi-italia.it^+/banner_
 ||psicologianeurolinguistica.net^*/banner-
 ||psicologianeurolinguistica.net^*/mindlab.jpg
 ||pugliain.net^*/amazon_
