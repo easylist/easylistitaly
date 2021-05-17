@@ -586,7 +586,7 @@ gnius.it##.aalb-product-carousel-unit
 facileporno.com##.aan_fake
 facileporno.com##.aan_fake__video-units
 repubblica.it##.aas_whole_wrapper
-androidplanet.it,casa-domotica24.it,ciaogreen.it,cityrumors.it,comelofaccio.it,depurarsi.com,fut18italia.it,gamerbrain.net,gufo.it,ideeregalonatale.biz,imiglioridififa.com,infotelematico.com,libripiuvenduti.it,londranews.com,meditazionezen.it,melarossa.it,menteinformatica.it,migliorigiochi.eu,nerdmovieproductions.it,notiziarte.com,orgoglionerd.it,orologidapolso.org,outofbit.it,phonetoday.it,recensioniorologi.it,simonemaestri.com,solorecensioni.com,soluzionecomputer.it,stadiosport.it,stampante-3d.net,teamworld.it,tech4d.it,techbusiness.it,techprincess.it,tecnofacile.com,tennisdoo.com,wordsmart.it##.aawp
+androidplanet.it,casa-domotica24.it,ciaogreen.it,cityrumors.it,comelofaccio.it,depurarsi.com,fut18italia.it,gamerbrain.net,gufo.it,ideeregalonatale.biz,imiglioridififa.com,infotelematico.com,libripiuvenduti.it,londranews.com,meditazionezen.it,melarossa.it,menteinformatica.it,migliorigiochi.eu,nerdmovieproductions.it,notiziarte.com,orgoglionerd.it,orologidapolso.org,outofbit.it,phonetoday.it,recensioniorologi.it,salutemoderna.it,simonemaestri.com,solorecensioni.com,soluzionecomputer.it,stadiosport.it,stampante-3d.net,teamworld.it,tech4d.it,techbusiness.it,techprincess.it,tecnofacile.com,tennisdoo.com,wordsmart.it##.aawp
 tecnofacile.com##.aawp-button
 topdigamma.it,tuttotek.it##.aawp-product
 ilportaledelcavallo.it##.ab_top_banner
@@ -1673,7 +1673,7 @@ fashionandroid.com##.widget-header
 agrifoodtoday.it,agrigentonotizie.it,anconatoday.it,arezzonotizie.it,avellinotoday.it,baritoday.it,bolognatoday.it,bresciatoday.it,brindisireport.it,casertanews.it,cataniatoday.it,cesenatoday.it,chietitoday.it,firenzetoday.it,foggiatoday.it,forlitoday.it,genovatoday.it,ilpescara.it,ilpiacenza.it,latinatoday.it,lecceprima.it,leccotoday.it,livornotoday.it,milanotoday.it,modenatoday.it,monzatoday.it,napolitoday.it,novaratoday.it,padovaoggi.it,palermotoday.it,parmatoday.it,perugiatoday.it,pisatoday.it,quicomo.it,ravennatoday.it,riminitoday.it,romagnaoggi.it,romatoday.it,salernotoday.it,sondriotoday.it,sportpiacenza.it,today.it,torinotoday.it,trentotoday.it,trevisotoday.it,triesteprima.it,udinetoday.it,veneziatoday.it,veronasera.it,vicenzatoday.it##.widget-moovit
 gelocal.it,ilsecoloxix.it,lastampa.it,repubblica.it##.widget-sponsor--container
 italiavela.it##.widget.f300x524
-ciaogreen.it,gufo.it,londra.today,notiziarte.com##.widget_aawp_widget_bestseller
+ciaogreen.it,gufo.it,londra.today,notiziarte.com,salutemoderna.it##.widget_aawp_widget_bestseller
 newsly.it,stampante-3d.net##.widget_aawp_widget_box
 yoga-magazine.it##.widget_alobaidirandombannerswidget
 scambiaricette.it##.widget_boodo_wp_300px
