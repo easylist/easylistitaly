@@ -643,6 +643,7 @@ ilgiornaleditrani.net##.ai-rotate-option
 cityrumors.it,noisiamoagricoltura.com,tantasalute.it,velvetgossip.it##.ai-viewport-1
 pagare.online##.alert.alert-success
 alessandria24.com##.aless-widget
+genoacfc.it##.algida
 postidavisitare.com##.alj
 noisiamofuturo.it##.allinone_bannerRotator
 grecia.cc,informagiovani-italia.com##.alto_add
@@ -705,6 +706,7 @@ archzine.it##.banTitle
 lacnews24.it##.ban_1000x45
 lacnews24.it##.ban_300x250
 ascolinotizie.it,fermonotizie.info,maceratanotizie.it,marchenotizie.info,pesarourbinonotizie.it,senigallianotizie.it,valmisa.com##.ban_box
+genoacfc.it##.bancasistema
 cottoepostato.it##.bann-300-250
 olbianotizie.it##.bann_square
 0766news.it,acquariofiliaconsapevole.info,agi.it,america24.com,annuncianimali.it,asteannunci.it,atnews.it,basilicata24.it,bergamonews.it,bikeitalia.it,calabriainforma.it,casateonline.it,centroimpiego.it,cesenanotizie.net,ciaocomo.it,cosenzainforma.it,cremaoggi.it,cremona1.it,cremonaoggi.it,cremonasport.it,cronacheancona.it,cronachefermane.it,cronachemaceratesi.it,cuneo24.it,cuneocronaca.it,dagospia.com,designmag.it,difesaonline.it,diretta.it,ejatv.com,euroregionalpmed.eu,fantacalcio.it,foodweb.it,forlinotizie.net,frasix.it,giornaledicattolica.com,giornaledirimini.com,globalist.it,gossip.it,gsanews.it,guidaviaggi.it,hcb.net,hdblog.it,hdmotori.it,hellotaste.it,html.it,ilcapoluogo.it,ilcuoioindiretta.it,ilfriuli.it,ilgiornaledellabellezza.it,ilgoriziano.it,ilturista.info,informacalcio.quotidiano.net,insidemarketing.it,insurancetrade.it,irpinianews.it,key4biz.it,larionews.com,lavoripubblici.it,legnanonews.com,leovegas.news,lipari.biz,luccaindiretta.it,malpensanews.it,mauxa.com,merateonline.it,meteoweb.eu,metropolitano.it,modellismopiu.it,oggitreviso.it,oglioponews.it,piacenzasera.it,primonumero.it,quibrescia.it,radionorba.it,ravennanotizie.it,reggiosera.it,riassuntini.com,rimininotizie.net,rockit.it,romadailynews.it,romagnanotizie.net,sassarinotizie.com,scuolazoo.com,secoloditalia.it,serchioindiretta.it,siciliarurale.eu,sostariffe.it,sportando.basketball,sportasti.it,sportevai.it,sportlegnano.it,strettoweb.com,teatronaturale.it,technologyreview.it,telejato.it,tenews.it,tg24.info,tgfuneral24.it,traniviva.it,udineseblog.it,varesenews.it,vconews.it,verbanonews.it,voceapuana.com,vocenuova.tv,vocetigullio.com##.banner
@@ -1088,6 +1090,7 @@ palermofc.com##.footer_int
 telelazionord.it##.footer_top_banner
 aeroporto.net##.form_auto_iata
 quattroruote.it##.four-box-sponsor
+genoacfc.it##.fourplusnutrition
 quattroruote.it##.fullBanner
 pressgiochi.it##.full_width_banner
 agro24.it##.fullwidthbanner-container

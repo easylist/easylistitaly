@@ -1226,7 +1226,10 @@
 ||gdonews.it^*/spesapro.png
 ||genoacfc.it^*/1110x95_
 ||genoacfc.it^*/banner-
+||genoacfc.it^*/Logo-statico-1110x95px.jpg
 ||genoacfc.it^*/NOBERASCO_LOGO-
+||genoacfc.it^*/Unknown.gif
+||genoacfc.it^*/unnamed.jpg
 ||genova24.it^*/banner_
 ||genova3000.it/images/banners/
 ||gingergeneration.it/n/
