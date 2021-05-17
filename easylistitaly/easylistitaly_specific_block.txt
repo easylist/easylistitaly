@@ -72,6 +72,7 @@
 ||adginforma.it^*_skin_
 ||adnkronos.com^*/banner/
 ||adnkronos.com^*/Promo/
+||advtraining.it/img/banner_
 ||affaritaliani.it/includes/files/affari/
 ||affaritaliani.it/mutuionline/imgmol/
 ||affaritaliani.it^*/234x/
