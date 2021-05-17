@@ -1459,6 +1459,12 @@
 ||ilcaso.it/immagini/gioiavivereanimato2.gif
 ||ilcentroabruzzo.it/immagine-profilo-.jpg
 ||ilciriaco.it^*/CEDIM-
+||ilcirotano.it^*/banner-
+||ilcirotano.it^*/banner_
+||ilcirotano.it^*/despar-1-480x270.jpg
+||ilcirotano.it^*/logo-secom.jpg
+||ilcirotano.it^*/Registratore-di-Cassa-Telematico.jpg
+||ilcirotano.it^*/trony.jpg
 ||ilclandestinogiornale.italiasera.it^*/Oktoberfest-nettuno-
 ||ilcorriere.net^*-banner.
 ||ilcorrieredelgiorno.it^*/720x300_
