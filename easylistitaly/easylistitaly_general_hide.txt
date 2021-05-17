@@ -106,6 +106,7 @@
 ###pubblicita
 ###pubblicita-libero-top
 ###pubblicita-menu
+###pubblicita-sotto-immagine
 ###pubblicita_blog_post_testa
 ###quattrownet_468x60
 ###rcsad_Frame1
