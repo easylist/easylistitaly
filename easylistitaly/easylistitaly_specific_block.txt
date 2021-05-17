@@ -3874,6 +3874,7 @@
 ||wordpress.com^*/tipografia-spriano-$domain=biella24.com
 ||wordpress.com^*_reclame.$domain=biella24.com
 ||wordpress.com^*_reclame_$domain=biella24.com
+||worldmagazine.it^*/high.jpg
 ||worldofwrestling.it^*/wow.gif
 ||wp.com/1x2-calcio.com/*/comparazione-bonus-Vincitu.png
 ||wp.com/1x2-calcio.com/*/EUROBET-compara.png
