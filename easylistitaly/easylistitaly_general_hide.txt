@@ -23,6 +23,10 @@
 ###adasta_box_ros_2
 ###adbanner-laterale
 ###adbanner-stampa
+###adk_masthead
+###adk_spalla-bottom
+###adk_spalla-middle
+###adk_spalla-top
 ###ads-interno-1
 ###ads-interno-2
 ###ads-laterale
