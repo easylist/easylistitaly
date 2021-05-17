@@ -356,6 +356,7 @@ puntocellulare.it###o_list
 diretta.it,flashscore.it###odds-main-wrapper
 mondoplay.it,mondoxbox.com###offersbox
 mondoplay.it,mondoxbox.com###offersbox_wide
+tgtourism.tv###panel-2-4-3-1
 sposa.it###partner-content
 sassuolocalcio.it,ship2shore.it###partners
 lafeltrinelli.it###partners-slider
