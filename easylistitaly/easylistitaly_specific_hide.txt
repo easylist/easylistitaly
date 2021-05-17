@@ -403,6 +403,7 @@ bisceglielive.it,eurogamer.it,gommadiretto.it###skyscraper
 amaranta.it,atlanticfootball.it,calcioslavo.it,corrierespione.it,eurochampions.it,firenzeviola.it,footballscout24.it,forzaakragas.it,genoanews1893.it,grigionline.com,interdipendenza.net,lalaziosiamonoi.it,noesolofutbol.com,pallamanonews.it,parmalive.com,perugia24.net,pianetabasket.com,rugbynewsfvg.it,sampdorianews.net,sassuolonews.net,sportakm0.com,sportnewstrapani.it,torinogranata.it,tuttobrescia.it,tuttoc.com,tuttocagliari.net,tuttocalciopontino.com,tuttocasertana.it,tuttocesena.it,tuttoentella.com,tuttoeuropei.com,tuttofrosinone.com,tuttofutbolsudamerica.com,tuttojuvestabia.it,tuttolatina.com,tuttolecce.net,tuttomantova.it,tuttomondiali.it,tuttonapoli.net,tuttonazionali.com,tuttonocerina.com,tuttonovara.it,tuttopalermo.net,tuttopordenone.com,tuttoreggina.com,tuttoseried.com,tuttospal.it,tuttosportimolese.com,tuttostpauli.com,tuttoturris.com,tuttoveneziasport.it,vocegiallorossa.it###slimbanner
 mail1.libero.it###slink-dx
 mail1.libero.it###slink-sx
+persemprecalcio.it###smartslider3-3
 meteofinanza.com###snp-pop-20588-overlay
 3bmeteo.com###sole24_banner
 casateonline.it,merateonline.it###sottotestata
