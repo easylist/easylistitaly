@@ -1331,7 +1331,7 @@ bolognafc.it##.partner-footer
 radiogardena.it##.partner-wrapper
 msmotor.tv##.partner2
 andreagaleazzi.com##.partner_box
-dolcidee.it,rtinradio.com,teatronaturale.it##.partners
+dolcidee.it,rtinradio.com,teatronaturale.it,university-esports.it##.partners
 100ideeperristrutturare.it,casa-naturale.com,quattrozampe.online,villeecasali.com##.partners-wrapper
 evosmart.it##.penci-banner-box
 sarnonotizie.it##.penci-container__content
