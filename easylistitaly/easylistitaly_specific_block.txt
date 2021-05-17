@@ -2321,6 +2321,8 @@
 ||nigiara.it/data/nigiara/sh-
 ||nigiara.it/data/nigiara/sh2-
 ||nintendari.it^*/instagaming.jpg
+||nitrocdn.com^*/banner-$domain=esportsitalia.com
+||nitrocdn.com^*/cuffie-esports.png$domain=esportsitalia.com
 ||nitrocdn.com^*/neurobooster-banner.png$domain=ipermind.com
 ||nitrocdn.com^*/neurobooster-banner2.png$domain=ipermind.com
 ||nitrocdn.com^*/scopri_potere_footer.png$domain=ipermind.com
