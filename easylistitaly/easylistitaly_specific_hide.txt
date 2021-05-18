@@ -164,6 +164,7 @@ corrieredellacalabria.it###click_sxa
 amazon.it###click_withinLazyLoad_tower
 aquilabasket.it###clickit
 acquariofilia.biz###collapseobj_sidebar_google
+infobetting.com###comparazione_bonus_tabella
 matrimoniosolidale.it###confetti-bomb
 autoscout24.it###conmon-header-stage
 tvzap.kataweb.it###consigli
@@ -1927,6 +1928,7 @@ thewalkoffame.it##div[id^="thewa-"]
 yescalabria.com##div[id^="yesca-"]
 keblog.it##div[style*="height: 250px !important; max-height: 250px !important;"]
 linterista.it,milannews.it,tuttomercatoweb.com,tuttonapoli.net##div[style*="height:270px;"]
+infobetting.com##div[style*="min-height: 330px; height: 330px;"]
 tuttonapoli.net##div[style*="min-height: 600px;"]
 traderlink.it##div[style*="width: 220px; height: 90px;"]
 sicilianews24.it,stadionews.it##div[style*="width: 300px; min-height: 250px;"]
