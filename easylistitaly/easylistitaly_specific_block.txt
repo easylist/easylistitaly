@@ -2371,6 +2371,10 @@
 ||notiziediprato.it/caricaBannerIframe/
 ||notiziediprato.it/uploads/banner/
 ||notizieinunclick.com/wp-content/banners/
+||notizielazio.it^*-banner.
+||notizielazio.it^*/banner-
+||notizielazio.it^*/banner1-
+||notizielazio.it^*/WhatsApp-Image-2021-01-29-at-10.47.40.jpeg
 ||notizieoggi.com^*_banner.
 ||notizieoggi24.it^*/gel-farmacia.jpg
 ||novabbe.com^*/guardalo-su-amazon-
