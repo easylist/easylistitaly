@@ -2047,6 +2047,7 @@ motorionline.com##div[style="text-align:center;margin-bottom:20px;height:360px;o
 click4soccer.com##div[style="width: 100%; height: 90px; text-align: center; margin: 10px 0px;"]
 click4soccer.com##div[style="width: 100%; height: 90px; text-align: center; margin: auto; margin: 5px 0px;"]
 libero.it##div[style="width: 180px; height: 150px;"]
+m.lalaziosiamonoi.it##div[style="width: 300px; height: 250px; margin: 10px auto;"]
 poki.it##div[style="width: 300px; height: 250px;"]
 studiocataldi.it##div[style="width: 300px; height: 250px;margin-bottom:8px"]
 incircolo.altervista.org##div[style="width: 300px; height: 260px; margin-top: 10px;"]
