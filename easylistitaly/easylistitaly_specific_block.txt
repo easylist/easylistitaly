@@ -1980,6 +1980,7 @@
 ||lazioingol.it^*/baked.jpg
 ||laziopress.it^*/banner_
 ||laziopress.it^*/unipolsai_
+||laziotv.it^*/banner-
 ||leccenews24.it/upload/banner/
 ||leccesette.it/banner/
 ||lecconotizie.com/wp-content/banners/
