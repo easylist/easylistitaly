@@ -189,7 +189,7 @@ cucinamamma.it,scienzenotizie.it###custom_html-12
 castellinotizie.it,pistoiasport.com###custom_html-13
 cucinamamma.it,grae.it###custom_html-14
 giochi.com,nintendari.it###custom_html-17
-birramoriamoci.it,calciohellas.it,calciorosanero.it,card.it,carteprepagate.org,italiaonline.news,sportnews.eu###custom_html-2
+birramoriamoci.it,calciohellas.it,calciorosanero.it,card.it,carteprepagate.org,iopartodasola.it,italiaonline.news,sportnews.eu###custom_html-2
 castellinotizie.it,tuttojuve24.it###custom_html-21
 castellinotizie.it,imolaoggi.it###custom_html-22
 fiorditerra.eu###custom_html-23
