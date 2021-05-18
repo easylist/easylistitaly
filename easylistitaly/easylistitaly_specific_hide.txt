@@ -607,7 +607,7 @@ laltrapagina.it##.ad1
 laltrapagina.it##.ad2
 laltrapagina.it##.ad5
 theitaliantimes.it##.adb
-movietele.it##.adbox
+calcio.com,movietele.it##.adbox
 abruzzolive.it,confinelive.it,lamilano.it,marsicalive.it,pescaralive.it##.adcontainer
 unonotizie.it##.add
 fidal.it##.add-logo
