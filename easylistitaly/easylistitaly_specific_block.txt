@@ -1749,6 +1749,7 @@
 ||italiachecambia.org^*-banner-
 ||italiachecambia.org^*/banner-
 ||italiaciclismo.net/images/banner_
+||italiacostarica.com^*/banner_
 ||italiadelcalcio.it/bannerc1/
 ||italiadelcalcio.it/dailybet/
 ||italiafruit.net/Public/Upload/Banner/
