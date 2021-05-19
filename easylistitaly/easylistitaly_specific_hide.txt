@@ -1221,7 +1221,7 @@ blastingnews.com##.leaderboard-article
 erbanotizie.com##.leaderboard-bottom
 simonandthestars.it##.leaderboard-container
 huffingtonpost.it##.leaderboard-flex-placeholder
-ilgiorno.it,ilrestodelcarlino.it,iltelegrafolivorno.it,lanazione.it##.leaderboard-or-skin-container
+ilgiorno.it,ilrestodelcarlino.it,iltelegrafolivorno.it,lanazione.it,quotidiano.net##.leaderboard-or-skin-container
 infobuildenergia.it##.leaderboard_wrapper
 lacnews24.it,pc-gaming.it##.left-side
 laleggepertutti.it##.lexdo-banner
@@ -1266,7 +1266,7 @@ stellafm.it##.master-slider
 irpinianews.it##.master-slider-parent
 ecoo.it##.masterhead-container-column
 eurochampions.it,genoanews1893.it,lalaziosiamonoi.it,perugia24.net,pianetabasket.com,tuttofrosinone.com,tuttonocerina.com,tuttoturris.com,tuttoveneziasport.it##.masthead
-ilgiorno.it,ilrestodelcarlino.it,iltelegrafolivorno.it,lanazione.it,notizie-inter.it##.masthead-container
+ilgiorno.it,ilrestodelcarlino.it,iltelegrafolivorno.it,lanazione.it,notizie-inter.it,quotidiano.net##.masthead-container
 screenweek.it##.matches-container
 radiogold.it##.max-banner-top
 laputa.it##.mbt-book-buybuttons
