@@ -770,6 +770,7 @@
 ||citroen-club.it/portale/img/banner_
 ||citroen-club.it/portale/img/logo_lopez_racing.jpg
 ||cittadimassacarrara.com/banner/
+||citymilanonews.com^*-945x600.
 ||citynotizie.it^*/adv-
 ||citynotizie.it^*/Antey.jpg
 ||citynotizie.it^*/Becca.jpg
