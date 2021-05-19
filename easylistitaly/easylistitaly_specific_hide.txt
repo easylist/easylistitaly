@@ -730,6 +730,7 @@ ilnuovoterraglio.it,nove.firenze.it##.banner-desktop
 genova24.it##.banner-elezioni
 italiani.it##.banner-empty-italiani
 bluvolleyverona.it##.banner-fading
+fiumicino-online.it##.banner-fissi
 algheroeco.com##.banner-header-dx
 algheroeco.com##.banner-header-sx
 prewarcar.it##.banner-holder
@@ -780,6 +781,7 @@ lemiebollicine.com##.bannerContainer
 djmagitalia.com##.bannerExtra
 pressgiochi.it##.bannerFila
 questaseratv.it##.bannerHeader
+fiumicino-online.it##.bannerHeaderContainer
 puntosicuro.it##.bannerLeader
 cattolica.info##.bannerRandomSingolo
 filmtv.it##.bannerRight
@@ -818,7 +820,7 @@ velanet.it##.bannerarcipelago
 brindisisera.it##.bannerbox
 treccani.it##.bannercontainer
 ilgiornaledellabellezza.it##.bannergrid
-105tv.it,aostaoggi.it,calcionazionale.it,faidatehobby.it,gazzettadellaspezia.it,genova3000.it,giornaledimontesilvano.com,ildispaccio.it,ilgazzettinobr.it,ilgrigioneitaliano.ch,kisskiss.it,kisskissitalia.it,kisskissnapoli.it,lametino.it,maremmanews.it,metanogpl.it,monrealenews.it,notebookitalia.it,ondalibera.it,puntovendita.info,qdpnews.it,sienafree.it,teleglobal.tv,umbriatv.com,videomediterraneo.it,youtg.net##.bannergroup
+105tv.it,aostaoggi.it,calcionazionale.it,faidatehobby.it,fiumicino-online.it,gazzettadellaspezia.it,genova3000.it,giornaledimontesilvano.com,ildispaccio.it,ilgazzettinobr.it,ilgrigioneitaliano.ch,kisskiss.it,kisskissitalia.it,kisskissnapoli.it,lametino.it,maremmanews.it,metanogpl.it,monrealenews.it,notebookitalia.it,ondalibera.it,puntovendita.info,qdpnews.it,sienafree.it,teleglobal.tv,umbriatv.com,videomediterraneo.it,youtg.net##.bannergroup
 comitatoparalimpico.it##.bannergroup-banner
 radiogold.it##.bannergroupskin-banner-module
 filmforlife.org##.bannerh
