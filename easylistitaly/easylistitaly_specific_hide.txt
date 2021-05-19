@@ -1303,6 +1303,7 @@ passioneorologio.it##.my_best-price-btn
 donnaclick.it##.myadv
 calabrianews.it##.n2-section-smartslider
 padelmagazine.it##.n2-ss-slider
+nabbi.it##.nabbi-widget
 newsiciliacasa.it##.narrative
 scuolissima.com##.nascondiads
 ildolomiti.it##.native
