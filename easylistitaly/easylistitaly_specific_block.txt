@@ -3196,6 +3196,8 @@
 ||sienanews.it^*/www.termeaq.it_
 ||sienanews.it^*/www.vismederi.com_
 ||sienanews.it^*_banner_
+||sigmagazine.it^*/474x95_
+||sigmagazine.it^*/Vaporart-Alto-
 ||simplybiz.eu^*/Banner_
 ||sinewsmagazine.it^*-banner-
 ||skillandbet.com^*-banner.
