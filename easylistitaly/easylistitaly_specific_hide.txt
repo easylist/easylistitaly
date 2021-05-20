@@ -1318,6 +1318,7 @@ goodtrekking.it##.no-one
 filmpertutti.lol,filmpertutti.onl,filmpertutti.voto##.no_pop
 ilpiccolo.net##.nocornice_banner
 prospettivegeometri.it##.node-banner-simple
+newsonline.it##.nol-sponsor-cluster
 everyeye.it##.nome_gioco_amazon_destra
 ilsalottodelcalcio.it##.nostro-banner
 viaggi-usa.it##.notabene
