@@ -630,6 +630,7 @@
 ||cascinanotizie.it^*/mondosenzacquabanner900x900.gif
 ||cascinanotizie.it^*/whatsapp_image_2020-03-12_at_17.59.01.jpeg
 ||cascinanotizie.it^*_400x400.
+||casertafocus.net/home/images/banners/
 ||casertaweb.com^*/0001.jpg
 ||casertaweb.com^*/009.jpg
 ||casertaweb.com^*/banner-
