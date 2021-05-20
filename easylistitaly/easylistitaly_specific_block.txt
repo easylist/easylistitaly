@@ -992,6 +992,7 @@
 ||ecoaltomolise.net^*/xbanner-
 ||ecodallecitta.it/immagini/banners/
 ||ecodelcinema.com^*/bnnrdionysus-
+||ecodisicilia.com^*/logo_euroinfortunistica.gif
 ||econote.it^*800x800
 ||econote.it^*banner
 ||ecorisveglio.it/images/banner_
