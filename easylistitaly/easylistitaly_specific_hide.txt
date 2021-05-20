@@ -1702,6 +1702,7 @@ dilei.it,quifinanza.it,siviaggia.it##.widget_promo_box_widget
 nursetimes.org##.widget_realty_widget
 calabriareportage.it##.widget_smartslider3
 radiodigione.net##.widget_ubm-banners-rotation
+apinsieme.it##.widget_wooslider_slideshow_slides
 vicenzanews.it##.wifiplaza
 tuttitalia.it##.wk
 amoreperleserietv.com##.wpa
