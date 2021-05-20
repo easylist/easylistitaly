@@ -3864,6 +3864,8 @@
 ||viterbopost.it^*-250x90-
 ||viterbopost.it^*-banner-
 ||viterbopost.it^*/Partner.
+||vivaboy.com^*-banner-
+||vivaboy.com^*/cosmosclub.jpg
 ||vivafm.it^*/banner-
 ||vivasicilia.com^*/beoxygen.jpg
 ||vivere.biz/images/banners_
