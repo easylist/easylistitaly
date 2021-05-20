@@ -1,4 +1,3 @@
-ilsoftware.it###ADleaderboard\ adtop
 nauticareport.it###BanBG
 nauticareport.it###BanCenter
 nauticareport.it###BanLeft
@@ -2172,6 +2171,7 @@ news-town.it##li[style="margin: 0 0px 0px 0 !important; height: 220px; width: 30
 sportevai.it##p[style="margin-top: 30px; border: 1px solid #0D8600; padding: 10px; font-weight: bold; font-size: 12px; text-align: center;"]
 sportevai.it##p[style="margin-top: 30px; border: 1px solid #0D8600; padding: 10px; font-weight: bold; text-align: center;"]
 livornolive.it##rs-mask-wrap[style="width: 100% !important; height: 100% !important; position: absolute; display: block; overflow: visible;"]
+ilsoftware.it##section[id^="ADleaderboard"]
 amazon.it##span[cel_widget_id="MAIN-CARDS-0"]
 amazon.it##span[class*="widgetId=loom-desktop-brand-footer-slot_hsa-id"]
 mymovies.it##table[class="mm-small mm-letter-spacing mm-padding-8 col-xs-12"]
