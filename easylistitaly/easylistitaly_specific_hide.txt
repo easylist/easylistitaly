@@ -1617,6 +1617,7 @@ bluerating.com##.the_big_banner
 caleno24ore.it##.themequote
 amazon.it##.threepsl-creatives
 comesifasefaidate.it##.ticker
+occhionotizie.it##.tie-slider-widget
 tiscali.it##.tiscali-shp-dayblk
 milleunadonna.it,tiscali.it##.tiscali-shp-dayblk-v1
 milleunadonna.it,tiscali.it##.tiscali-shp-dayblk-v2
