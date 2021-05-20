@@ -4,6 +4,7 @@ nauticareport.it###BanCenter
 nauticareport.it###BanLeft
 lantidiplomatico.it###BanRight
 nauticareport.it###BanTop
+smartworld.it##.amePlaceholderBox
 staffettaonline.com###BnrSolidarieta
 insic.it###ContentPlaceHolder1_pnBanners
 legabasketfemminile.it###DIV_MainSponsorContainer
@@ -670,7 +671,7 @@ shopping.tiscali.it##.amazonShopping
 andreagaleazzi.com##.amazon_box
 vgnetwork.it##.amazon_similarity
 uiblog.it##.amazonjs_item
-androidworld.it,nostrofiglio.it##.amePlaceholderBox
+androidworld.it,mobileworld.it,nostrofiglio.it##.amePlaceholderBox
 amicopediatra.it##.amico-widget
 incucinaconelena.it##.amr_widget
 fotografidigitali.it,hwupgrade.it##.amz-wrapper
