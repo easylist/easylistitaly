@@ -612,6 +612,7 @@ theitaliantimes.it##.adb
 calcio.com,movietele.it##.adbox
 abruzzolive.it,confinelive.it,lamilano.it,marsicalive.it,pescaralive.it##.adcontainer
 unonotizie.it##.add
+computersm.com##.add-inner
 fidal.it##.add-logo
 informagiovani-italia.com##.add_left
 spagna.cc##.add_top
@@ -1152,6 +1153,7 @@ emmelle.it,ultimenotizieoggi.it##.header-ainfo
 comesifasefaidate.it,ecodelcinema.com,fantacalcio.it,italiaonline.news,lagenziadiviaggi.it,oltreilfatto.it,ondatv.tv,palermolive.it,quotidianocanavese.it##.header-banner
 nuovosud.it##.header-banner-wrapper
 calciomercato.com##.header-banner__container
+computersm.com##.header-top
 lanuovacalabria.it##.headerBanner
 h24notizie.com##.headerbanner
 quotidianolacitta.it##.headerbanner_autoslides
