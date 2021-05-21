@@ -3035,6 +3035,10 @@
 ||reteabruzzo.com^*/ediltoro.jpg
 ||reteabruzzo.com^*/LIQUORE1-
 ||reteabruzzo.com^*/ottica-ciancarelli-
+||retegargano.it^*/banne_
+||retegargano.it^*/banner-
+||retegargano.it^*/banner_
+||retegargano.it^*/LUCATELLI-ARREDAMENTI.jpg
 ||retesei.com^*/banner-
 ||retesei.com^*/depam.png
 ||retesei.com^*/EMANUELE-LA-RUSSA.jpg

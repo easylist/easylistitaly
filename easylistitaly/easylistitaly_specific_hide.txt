@@ -1424,6 +1424,7 @@ microgiochi.com##.relacionados
 quotidianodiragusa.it##.related-news
 quotidianodiragusa.it##.related-newsc
 mobimart.it##.resp-container
+retegargano.it##.reteg-slider
 router-4g.it##.review-links
 webpointzero.com##.rh_listoffers
 ilclubdellericette.it##.ricetta-amazon
