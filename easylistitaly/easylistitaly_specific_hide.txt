@@ -1994,6 +1994,7 @@ stadionews.it##div[style="margin-top:20px; margin-bottom:10px; float:left; margi
 sicilianews24.it##div[style="margin-top:20px; margin-bottom:10px; float:left; margin-right:10px; width: 300px; height: 540px !important;"]
 affaritaliani.it##div[style="margin-top:6px;margin-bottom:10px;padding: 9px; border: 1px solid #ccc; zoom:1;overflow:hidden;height:80px;width:280px;font: normal 12px/14px arial, sans-serif"]
 finalsayan.com##div[style="margin: 0 auto; width: 468px; height: 60px;"]
+quizzonline.it##div[style="margin: 1em; max-width: 366px; height: auto; border: 1px solid grey; padding: 25px; font-size: 16px; line-height: 1.4em; font-family: Verdana; background-color: white;"]
 plaffo.com##div[style="margin: 30px 0 0 0; line-height: 1.5em; "]
 tifosibianconeri.com##div[style="max-width:30%; min-height: 150px; padding: 10px 0;"]
 firenzeviola.it,milannews.it,parmalive.com,sampdorianews.net,torinogranata.it,tuttonapoli.net,vocegiallorossa.it##div[style="min-height: 120px;"]
