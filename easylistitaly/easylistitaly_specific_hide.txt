@@ -1406,6 +1406,7 @@ romasette.it##.qgbednp
 quotidianosanita.it##.qs_n_interno_basso
 italiana.fm,radiobussola.it##.qt-sponsors
 vivafm.it##.qt-widget-sponsor
+lattacco.it##.quadrato
 quizammissione.it##.quiza-prima
 html.it##.rail-800
 meteofinanza.com##.reading-box

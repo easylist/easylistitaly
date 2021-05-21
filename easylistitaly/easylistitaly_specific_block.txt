@@ -2018,6 +2018,7 @@
 ||latinaquotidiano.it^*/banner-
 ||latitudeslife.com/magazine/adv/
 ||latitudeslife.com^*/banners/
+||lattacco.it/immagini/immagini_banner/
 ||lattemiele.com/wp-content/plugins/fv-wordpress-flowplayer/flowplayer/fv-flowplayer.min.js
 ||lausc.it/images/banners/
 ||lavitacattolica.it^*/banner/
