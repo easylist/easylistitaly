@@ -3143,6 +3143,7 @@
 ||scrivolibero.it^*/piccioaccura.jpg
 ||scrivolibero.it^*_banner.
 ||scubaportal.it^*/skin-
+||scuolaguida.it/img/public/banner/
 ||secolo-trentino.com^*/hormann-runner.jpg
 ||secureservercdn.net^*/bzw.7ad.$domain=it-casinoonline.com
 ||segretodonna.com^*/720x90-
