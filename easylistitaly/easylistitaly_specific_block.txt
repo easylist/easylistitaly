@@ -740,6 +740,7 @@
 ||cilentochannel.com^*/Elysium-
 ||cilentochannel.com^*/Villa-Franca.jpg
 ||cinafoniaci.com/images/banners/
+||cinainitalia.com^*/Corso-di-cinese-gratis.png
 ||cineblog-cb01.it/image/banner/
 ||cineblog.page/c.png
 ||cineblog.page/g.png
