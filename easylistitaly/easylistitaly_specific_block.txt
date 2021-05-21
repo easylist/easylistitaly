@@ -2803,6 +2803,8 @@
 ||quotidianodellumbria.it^*/manchette-
 ||quotidianodellumbria.it^*/skin-
 ||quotidianodellumbria.it^*_300x250px-
+||quotidianodifoggia.it^*/Campagna-etichettatura.jpg
+||quotidianodifoggia.it^*/sanuvo.jpg
 ||quotidianodiragusa.com/uploads/bannerdef/
 ||quotidianosanita.it^*/asma_grave_260.jpg
 ||quotidianosanita.it^*/differita_scompenso_cardiaco.jpg
