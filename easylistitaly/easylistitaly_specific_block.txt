@@ -4025,6 +4025,8 @@
 ||wp.com/www.cataniaunafede.it/*/schillaci_bianco.jpg
 ||wp.com/www.dentrolanotizia.tv/*/bannerete.jpg
 ||wp.com/www.dentrolanotizia.tv/*/dottoressa-franca-esposito-psicologa-
+||wp.com/www.foggiagol.it/*/ariannaclub-banner1.jpg
+||wp.com/www.foggiagol.it/*/emilio-lannunziata.gif
 ||wp.com/www.gazzettadiavellino.it/*/MeravigliosaCampania-
 ||wp.com/www.gazzettadiavellino.it/*/nuova-elite-
 ||wp.com/www.gazzettadimilano.it/*/airpure-
@@ -4133,7 +4135,7 @@
 ||wp.com^*-banner-$domain=blogdellamusica.eu|fisco7.it|gazzettadiavellino.it|gazzettadisalerno.it|infonewsvietri.it|lagazzettaaeroportuale.it|libringioco.blog|nerdpool.it
 ||wp.com^*-banner.$domain=abruzzoweb.it|blogdellamusica.eu|gazzettadiavellino.it|gazzettadisalerno.it|infonewsvietri.it|orvietosi.it
 ||wp.com^*/675x238-$domain=tv9italia.it
-||wp.com^*/banner-$domain=abruzzoweb.it|bsnews.it|cinecorriere.it|giornaledicalabria.it|ilgiornaledeiveronesi.it|infocilento.it|lagazzettaaeroportuale.it|nonsoloturisti.it|nuotounostiledivita.it|oggicronaca.it|orvietosi.it|teleischia.com|temporeale.info|tv9italia.it|vesuvianonews.it
+||wp.com^*/banner-$domain=abruzzoweb.it|bsnews.it|cinecorriere.it|foggiagol.it|giornaledicalabria.it|ilgiornaledeiveronesi.it|infocilento.it|lagazzettaaeroportuale.it|nonsoloturisti.it|nuotounostiledivita.it|oggicronaca.it|orvietosi.it|teleischia.com|temporeale.info|tv9italia.it|vesuvianonews.it
 ||wp.com^*/banner/$domain=buongiornoslovacchia.sk|cronacaflegrea.it
 ||wp.com^*/banner_$domain=agropolinews.it|bimbonaturale.org|fisco7.it|nuotounostiledivita.it|thewalkoffame.it
 ||wp.com^*/banners/$domain=proiezionidiborsa.it
