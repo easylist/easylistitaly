@@ -2575,6 +2575,13 @@
 ||padelmagazine.it/images/banner/
 ||padovacalcio.it^*/320X130_
 ||padovacalcio.it^*_990x30.
+||padovagoal.it^*-660-X-90-
+||padovagoal.it^*-660-x-90.
+||padovagoal.it^*-660x90.
+||padovagoal.it^*/290X250-
+||padovagoal.it^*/660X90-
+||padovagoal.it^*/argi1.jpg
+||padovagoal.it^*_600x199-
 ||padovanews.it/images/banners/
 ||paesesera.toscana.it^*/banner-
 ||paesesera.toscana.it^*/Estra_
