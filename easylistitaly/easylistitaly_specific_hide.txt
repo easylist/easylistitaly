@@ -1669,6 +1669,7 @@ valseriananews.it##.valse-mie-pubblicita
 radioascoli.it##.vc_carousel
 casertaweb.com,pugliapress.org##.vc_carousel-inner
 abruzzoweb.it##.vc_column-inner
+calciofoggia1920.net##.vc_custom_1537770288568
 orvietosi.it##.vc_custom_1587719628931
 orvietosi.it##.vc_custom_1588254530218
 orvietosi.it##.vc_custom_1588254538642
@@ -2028,6 +2029,7 @@ fcinternews.it##div[style="overflow: hidden; height: 90px; width: 160px; margin:
 tuttomantova.it,tuttospal.it##div[style="overflow: hidden; height: 90px; width: 336px; margin: auto;"]
 fcinternews.it,forzaakragas.it,messinanelpallone.it,perugia24.net,tuttoatalanta.com,tuttobari.com,tuttocesena.it,tuttofantacalcio.it,tuttofrosinone.com,tuttolecce.net,tuttomantova.it,tuttomonza.it,tuttonocerina.com,tuttopalermo.net,tuttopescaracalcio.com,tuttopotenza.com,tuttoreggina.com,tuttospal.it,tuttostpauli.com,tuttoveneziasport.it##div[style="overflow: hidden; height: 90px; width: 728px; margin: auto;"]
 radiocuore.it##div[style="overflow: hidden; width: 305px; height: 255px; position: absolute;"]
+calciofoggia1920.net##div[style="padding-right:16px; padding-top:5px; float:right; height:60px"]
 m.firenzeviola.it##div[style="padding-top: 14px; padding-bottom: 4px; color: #cccccc; text-align: center; text-align: -webkit-center; text-align: -moz-center; font-size: 80%;"]
 basketissimo.com,firenzeviola.it,sampdorianews.net##div[style="padding: 0px 0px 3px 0px; min-height: 280px;"]
 tuttonocerina.com,tuttosalernitana.com##div[style="padding: 0px 0px 3px 0px; min-height: 600px;"]
