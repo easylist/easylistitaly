@@ -554,6 +554,7 @@ novetv.com###widget_sp_image-47
 novetv.com###widget_sp_image-66
 novetv.com###widget_sp_image-90
 sscalciobari.it###wl-sponsor
+guidaviaggi.org###wn-insurance-quote-editor
 ultimenotizieoggi.it###wpb_widget-2
 animeclick.it###wrapper
 italia.fm###xbtm
