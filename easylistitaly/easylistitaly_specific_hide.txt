@@ -1829,6 +1829,7 @@ altadefinizione.gg,altadefinizione.ph,filmpertutti.li,filmpertutti.lol,filmpertu
 birramoriamoci.it##a[href*="?affiliates="]
 anteprima24.it,gnoccatravels.com,ideawebtv.it,juzaphoto.com,lavorincasa.it,mangaforever.net,phica.net,voglioporno.com##a[href*="?utm_"]
 corrierenazionale.it##a[href="http://www.herobet.it/"]
+advtraining.it##a[href^="/ad/banner/"]
 advtraining.it##a[href^="/ad/banner_"]
 comprovendolibri.it##a[href^="/conta.asp?"]
 altadefinizione.name##a[href^="/definizione/"]
