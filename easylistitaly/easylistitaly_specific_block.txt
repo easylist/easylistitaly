@@ -1131,6 +1131,8 @@
 ||focus-online.it/files/banner/
 ||focus-online.it/files/img_banner/
 ||foggiacittaaperta.it/images/banner/
+||foggiatv.it^*/SpotBelviso_
+||foggiatv.it^*/wedding728_
 ||football-magazine.it^*/BANNER
 ||football-magazine.it^*/FOOTER
 ||footballnews24.it^*/bnfn24-
