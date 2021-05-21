@@ -478,7 +478,7 @@ castellinotizie.it###text-315
 universo7p.it###text-32
 alground.com###text-33
 castellinotizie.it###text-335
-contrastotv.it,giornalistitalia.it,ricettevegolose.com,viterbopost.it###text-34
+contrastotv.it,giornalistitalia.it,ricettevegolose.com,trivenetogoal.it,viterbopost.it###text-34
 castellinotizie.it###text-340
 viterbopost.it###text-35
 giornalistitalia.it###text-36

@@ -3592,6 +3592,7 @@
 ||triesteallnews.it^*_970x250_
 ||trivenetogoal.it^*-300-X-250-
 ||trivenetogoal.it^*/padova-300.jpg
+||trivenetogoal.it^*/sentimento-padova-
 ||trmtv.it^*/banner_
 ||trmtv.it^*/banners/
 ||trmweb.it^*/banner-
