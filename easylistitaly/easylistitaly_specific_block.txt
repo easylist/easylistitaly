@@ -3393,6 +3393,7 @@
 ||teleantenna.it/banner/
 ||telebari.it^*/diablocks-
 ||teleblu.tv^*/banner-
+||teleblutv.it^*/banner-
 ||teleblutv.it^*/logo-Gruppo-Salatto-
 ||teleborsa.it/FrameResources/4WTV/
 ||telecaprisport.it/banner/
