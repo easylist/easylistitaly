@@ -195,13 +195,13 @@ fiorditerra.eu###custom_html-23
 dimagrireduepuntozero.com,strill.it###custom_html-25
 castellinotizie.it###custom_html-26
 dimagrireduepuntozero.com###custom_html-27
-alground.com,androidblog.it,birramoriamoci.it,calcioatalanta.it,calciofere.it,calciogrifo.it,calciolecce.it,forzaparma.it,labaricalcio.it,quizlab.it,siamolaroma.it,sololalazio.it,tifocosenza.it,trapanigranata.it###custom_html-3
+alground.com,androidblog.it,birramoriamoci.it,calcioatalanta.it,calciofere.it,calciogrifo.it,calciolecce.it,forzaparma.it,labaricalcio.it,quizlab.it,siamolaroma.it,sololalazio.it,tifocosenza.it,torremaggiore.com,trapanigranata.it###custom_html-3
 calciocasteddu.it,carteprepagate.org,corrieredicomo.it,cucinaresenzamenate.it,destinazioneusa.com,guidaconsumatore.com,laprevisione.it,pianetablunews.it,topragazze.it,tuttogossipnews.it###custom_html-4
 mondomobileweb.it###custom_html-42
 1x2-calcio.com,calcioitalia24.it,carteprepagate.org,italiaonline.news,mam-e.it,melarossa.it,tuttogossipnews.it###custom_html-5
-1x2-calcio.com,calcioitalia24.it,corrieredicomo.it,cucinamamma.it,hynerd.it,indiscreto.org,it-casinoonline.com,nonsprecare.it,pentanewslivorno.it###custom_html-6
+1x2-calcio.com,calcioitalia24.it,corrieredicomo.it,cucinamamma.it,hynerd.it,indiscreto.org,it-casinoonline.com,nonsprecare.it,pentanewslivorno.it,torremaggiore.com###custom_html-6
 strill.it,tuttotek.it###custom_html-65
-calcioitalia24.it,melarossa.it,pistoiasport.com,topragazze.it###custom_html-7
+calcioitalia24.it,melarossa.it,pistoiasport.com,topragazze.it,torremaggiore.com###custom_html-7
 calcioitalia24.it,corrierequotidiano.it,vitaminanews.it###custom_html-8
 indiscreto.org,scrivolibero.it,viaggiallafinedelmondo.it###custom_html-9
 dolciveloci.it,donnaglamour.it,economiafinanzaonline.it,newsmondo.it,notiziebenessere.it,notiziemilan.it,notiziemusica.it,primochef.it###delta-mobile-bottom
@@ -451,7 +451,7 @@ geologi.it###table113
 gamesvillage.it###takeover_gv
 ecovicentino.it###td-layer-audio-article-banner
 radioluna.it###testata
-androidblog.it###text-10
+androidblog.it,torremaggiore.com###text-10
 lol-esports.it###text-11
 golbym.com###text-12
 clientiesperti.it,studio5fm.com###text-13

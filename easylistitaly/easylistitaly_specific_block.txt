@@ -3525,6 +3525,7 @@
 ||torinofc.it^*/sponsor/
 ||torinometeo.org/sponsor/
 ||torinotoday.it/images/skin/
+||torremaggiore.com^*/banner-
 ||torresette.news/img/banner/
 ||toscana.live^*/Auxilium-Vitae-
 ||toscana.live^*/partners
