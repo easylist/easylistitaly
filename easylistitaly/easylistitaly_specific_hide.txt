@@ -239,6 +239,10 @@ mondoplay.it,mondoxbox.com###gameBlock_amazon
 mondoplay.it,mondoxbox.com###gameBlock_amazon_noboxart
 mandamentonotizie.it###gk-banner-top
 mandamentonotizie.it###gk-banners
+tuttoquiz.it###googleLAT1
+tuttoquiz.it###googleLAT2
+tuttoquiz.it###googleLINK
+tuttoquiz.it###googleTOP
 videogiocare.it###gp-affiliate-button
 cookaround.com###gpt-300250-container
 orvietonews.it###gpt-passback
