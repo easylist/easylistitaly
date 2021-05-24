@@ -826,7 +826,7 @@ ragusanews.com,stellafm.it##.banner_top
 mercuriomagazine.com##.banner_top_left
 mercuriomagazine.com##.banner_top_right
 brindisisera.it##.banner_wide_box
-corriereal.info,vivilanotizia.it##.banner_wrapper
+corriereal.info,radionorba.it,vivilanotizia.it##.banner_wrapper
 velanet.it##.bannerarcipelago
 brindisisera.it##.bannerbox
 treccani.it##.bannercontainer
