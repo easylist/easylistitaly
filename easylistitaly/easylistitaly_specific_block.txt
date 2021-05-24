@@ -3895,6 +3895,7 @@
 ||vistanet.it/*clienti_adv.js$script
 ||vistanet.it^*_BANNER_
 ||vitadamamma.com^*/adv/
+||vitaincamper.it^*/Skin-
 ||vitaminanews.it^*-banner-
 ||vitatrentina.it^*-banner.
 ||vitatrentina.it^*_150x90px_

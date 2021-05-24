@@ -1485,7 +1485,7 @@ leccesette.it##.skin-desktop
 meteofinanza.com##.skin-link
 digitalic.it##.skin_a_dx
 digitalic.it##.skin_a_sx
-cellulare-magazine.it,crotoneok.it##.skin_bg
+cellulare-magazine.it,crotoneok.it,vitaincamper.it##.skin_bg
 ildigitale.it,primopianomolise.it##.skin_bg_left
 ildigitale.it,primopianomolise.it##.skin_bg_right
 iovivoaroma.org##.skin_link_top
