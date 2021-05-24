@@ -457,6 +457,7 @@ geologi.it###table113
 gamesvillage.it###takeover_gv
 ecovicentino.it###td-layer-audio-article-banner
 radioluna.it###testata
+irlandaonline.com###text-1
 androidblog.it,torremaggiore.com###text-10
 lol-esports.it###text-11
 golbym.com###text-12
@@ -1643,6 +1644,7 @@ tmnotizie.com##.tmnot-dopo-il-contenuto
 tmnotizie.com##.tmnot-inserito-nel-contenuto
 tmnotizie.com##.tmnot-widget
 confinelive.it##.tmsgfrekab-container
+irlandaonline.com##.togglecontainer
 spaziogames.it,tomshw.it##.tomsconsiglia
 wuz.it##.top
 numeri-di-telefono.it##.top-add
