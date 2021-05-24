@@ -1706,6 +1706,7 @@ transfermarkt.it##.werbung-skyscraper
 spettegolando.it##.wf-widget-container
 wired.it##.wia
 sportando.basketball##.widget > a[rel="noopener"]
+telcoinsider.it##.widget-a-wrap
 esportsonline.it##.widget-above-header
 ideeregaloper.it,lantidiplomatico.it##.widget-banner
 it.businessinsider.com##.widget-financialounge
