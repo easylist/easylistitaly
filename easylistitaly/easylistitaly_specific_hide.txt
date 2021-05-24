@@ -2194,6 +2194,7 @@ sportevai.it##p[style="margin-top: 30px; border: 1px solid #0D8600; padding: 10p
 livornolive.it##rs-mask-wrap[style="width: 100% !important; height: 100% !important; position: absolute; display: block; overflow: visible;"]
 ilsoftware.it##section[id^="ADleaderboard"]
 amazon.it##span[cel_widget_id="MAIN-CARDS-0"]
+amazon.it##span[cel_widget_id^="MAIN-FEATURED_ASINS_LIST-"]
 amazon.it##span[class*="widgetId=loom-desktop-brand-footer-slot_hsa-id"]
 mymovies.it##table[class="mm-small mm-letter-spacing mm-padding-8 col-xs-12"]
 bloopers.it##table[name="banner.tbl"]
