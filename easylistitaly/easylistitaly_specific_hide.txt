@@ -1657,6 +1657,7 @@ positanonews.it##.top-testata
 bluerating.com##.top_funders
 dtti.it##.topad
 trapanioggi.it##.topbanner
+mammainviaggio.it##.topbar
 piccoletrasgressioni.it##.topbar-banner
 blunote.it,mondoprimavera.com##.topbar-below
 everyeye.it##.topskin
