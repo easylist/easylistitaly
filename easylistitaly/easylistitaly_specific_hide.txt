@@ -1135,6 +1135,7 @@ gamelegends.it##.gamel-after
 gamelegends.it##.gamel-masthead
 giardiniblog.it##.gbam
 abruzzolive.it##.gbnmyr
+asdcverbaniacalcio.it##.gdlr-banner-item-wrapper
 zerocinquantuno.it##.gdlr-logo
 ferraraitalia.it##.gdlr-logo-right-banner
 1001giochi.it##.general-leaderboard
