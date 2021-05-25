@@ -1349,6 +1349,8 @@ esportsonline.it##.oe-wrapper
 techzilla.it##.offerta-img-box
 prezzisalute.com##.offerte
 machineseeker.it##.ofni
+bebeez.it##.olo-row-banner-center-hp
+bebeez.it##.olo-row-custom-sponsor
 lamilano.it##.olvu
 architetturaecosostenibile.it##.onetag
 milanocam.it##.overcam_advertising
