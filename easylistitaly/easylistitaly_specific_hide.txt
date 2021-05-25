@@ -1440,6 +1440,7 @@ quotidianodiragusa.it##.related-news
 quotidianodiragusa.it##.related-newsc
 mobimart.it##.resp-container
 retegargano.it##.reteg-slider
+archiportale.com##.rettangolo-dx
 router-4g.it##.review-links
 webpointzero.com##.rh_listoffers
 ilclubdellericette.it##.ricetta-amazon
@@ -1548,6 +1549,7 @@ hceppan.it##.sportnews
 avvenire.it##.spot
 archilovers.com##.spot-homepage
 mostraip.com##.spot1
+archiportale.com##.spotGraficoTestata
 radiorcs.it##.spotaltosottomenutre
 radiorcs.it##.spotcentrato
 teleaesse.it##.spu-bg
@@ -1855,6 +1857,7 @@ anteprima24.it,gnoccatravels.com,ideawebtv.it,juzaphoto.com,lavorincasa.it,manga
 corrierenazionale.it##a[href="http://www.herobet.it/"]
 advtraining.it##a[href^="/ad/banner/"]
 advtraining.it##a[href^="/ad/banner_"]
+archiportale.com##a[href^="/click.asp?Url="]
 comprovendolibri.it##a[href^="/conta.asp?"]
 altadefinizione.name##a[href^="/definizione/"]
 skiresort.it##a[href^="/outbound/"]
