@@ -1682,6 +1682,12 @@
 ||ilsoftware.it/images/sezioni/btn_arubacloud.png
 ||ilsudonline.it^*/Jooble_
 ||ilsussidiario.net^*/970X125_
+||iltamtam.it^*-banner-
+||iltamtam.it^*-banner.
+||iltamtam.it^*/ACI-web.jpg
+||iltamtam.it^*/Coldiretti-mercato-apertura-colonne.jpg
+||iltamtam.it^*/elcom-
+||iltamtam.it^*/Madre-Speranza-
 ||iltredici.it^*/banner_
 ||iltredici.it^*/partners/
 ||ilvaglio.it/P_SKIN1920x1080_
