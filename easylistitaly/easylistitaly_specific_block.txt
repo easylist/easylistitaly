@@ -3026,6 +3026,7 @@
 ||reportpistoia.com^*/sedoni300x250.jpg
 ||reportpistoia.com^*/tredici2-
 ||reportpistoia.com^*/vlts-
+||repstatic.it/cless/common/promo_editoriali/
 ||repubblica.it/ad/
 ||repubblica.it/javascript/mjx.js
 ||repubblica.it^*/adagiorep.js

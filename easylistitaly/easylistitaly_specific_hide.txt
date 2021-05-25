@@ -216,6 +216,7 @@ tuttomercatoweb.com###div-masthead-top_lazy
 nextpit.it###div-sidebar_right_extra
 mymovies.it###div_topleft
 ecodicaserta.it###down
+repubblica.it###editorial-TopLeft
 news.mtv.it###execphp-2
 stilearte.it###execphp-3
 tipiace.it###externalbanner
