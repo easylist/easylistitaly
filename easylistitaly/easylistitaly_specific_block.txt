@@ -4158,6 +4158,13 @@
 ||wp.com/www.medicalexcellencetv.it/*_300x100.
 ||wp.com/www.medicalexcellencetv.it/*_600x500.
 ||wp.com/www.meganerd.it/*/MNERD15685.png
+||wp.com/www.napolisera.it/*/assistenza_infermieristica_anziani.png
+||wp.com/www.napolisera.it/*/basile.jpg
+||wp.com/www.napolisera.it/*/geometra-caiazzo.jpg
+||wp.com/www.napolisera.it/*/kidney.jpg
+||wp.com/www.napolisera.it/*/labriola.jpg
+||wp.com/www.napolisera.it/*/logo.jpg
+||wp.com/www.napolisera.it/*/studio-savoia.jpg
 ||wp.com/www.nerdpool.it/*/bg-vendiloshop-
 ||wp.com/www.oggicronaca.it/*/comune3.jpg
 ||wp.com/www.oggicronaca.it/*/divisionismolarge.gif
