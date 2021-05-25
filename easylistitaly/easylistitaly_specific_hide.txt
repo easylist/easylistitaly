@@ -1489,6 +1489,7 @@ oltrefreepress.com##.singleBannerWidget
 siracusaoggi.it##.sirac-widget
 fattoalatina.it##.site-heading-sidebar
 andreagaleazzi.com,animeclick.it,sanitainsicilia.it,startmag.it,timinternet.it##.skin
+archilovers.com##.skin-banner-link
 leccesette.it##.skin-desktop
 meteofinanza.com##.skin-link
 digitalic.it##.skin_a_dx
