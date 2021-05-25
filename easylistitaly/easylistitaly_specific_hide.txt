@@ -459,8 +459,8 @@ gamesvillage.it###takeover_gv
 ecovicentino.it###td-layer-audio-article-banner
 radioluna.it###testata
 irlandaonline.com###text-1
-androidblog.it,torremaggiore.com###text-10
-lol-esports.it###text-11
+agenziagiornalisticaopinione.it,androidblog.it,torremaggiore.com###text-10
+agenziagiornalisticaopinione.it,lol-esports.it###text-11
 golbym.com###text-12
 clientiesperti.it,studio5fm.com###text-13
 esportsonline.it,finaria.it,myfitnessmagazine.it,pantareinews.com###text-14
@@ -524,7 +524,7 @@ teamworld.it###text-51
 radioimmagine.it###text-61
 incucinaconelena.it###text-7
 brindisioggi.it,controcopertina.com,esportsitalia.com,plusrew.com###text-8
-controcopertina.com,solorecensioni.com,telemia.it###text-9
+agenziagiornalisticaopinione.it,controcopertina.com,solorecensioni.com,telemia.it###text-9
 faidatecasa.com###tm-main-top
 certificatejournal.it,finanza.com###top-banner
 calciomercato.com,sposa.it###top-banner-container
@@ -570,6 +570,7 @@ italia.fm###xttm
 corriere.it###yoodeal
 corriere.it###yoodeal2
 mangiobenevivobene.it###youtube_responsive-2
+agenziagiornalisticaopinione.it###youtube_responsive-6
 avvisatore.ilsecoloxix.it,avvisatoremarittimo.it###zona_266
 informaquiz.it##.ADV_Video
 comprovendolibri.it##.BB14
@@ -1951,6 +1952,7 @@ assocarenews.it##div[id^="assoc-"]
 condominioweb.com##div[id^="ban_"]
 polesine24.it##div[id^="banner_"]
 lubevolley.it##div[id^="blocco-sponsors-"]
+agenziagiornalisticaopinione.it##div[id^="bsa-block-"]
 citynow.it##div[id^="cityn-"]
 corriereromagna.it##div[id^="corri-"]
 alvolante.it##div[id^="dfp-alv-slot"]
