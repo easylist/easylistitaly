@@ -1009,6 +1009,7 @@
 ||ecovicentino.it/wp-admin/get_img.php?*sfondo
 ||ecovicentino.it/wp-content/banner/
 ||ecovicentino.it^*/banner-
+||edilportale.com/adv/
 ||edilportale.com/Banner/
 ||edilportale.com/immagini/velux_manchette
 ||efficacemente.com^*/banner-
