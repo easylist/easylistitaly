@@ -1072,6 +1072,13 @@
 ||evangelici.net^*/banner_
 ||evosmart.it^*/banner_
 ||exibart.com/partner/
+||expartibus.it^*/bannerep-
+||expartibus.it^*/CASA_AMICA.png
+||expartibus.it^*/doppia_DIFESA.png
+||expartibus.it^*/ferrerehouse.jpg
+||expartibus.it^*/LILT.png
+||expartibus.it^*/ortopediacaserta.jpg
+||expartibus.it^*/UNICEF.png
 ||extra.treddi.com^
 ||faidateingiardino.com^*/amazon-
 ||faidateingiardino.com^*/gia.gif
