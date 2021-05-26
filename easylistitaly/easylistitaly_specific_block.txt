@@ -1056,6 +1056,7 @@
 ||esportsactivity.com^*/Gamopo-728-X-90.png
 ||esportsactivity.com^*/processed.jpeg
 ||esportsitalia.com^*/corsi-coaching-esports.png
+||esportsmag.it^*/skin-
 ||esportsmobile.it^*/amazonprime-
 ||esportsmobile.it^*/Kinguin-
 ||estrazionedellotto.it/images/gioco-del-lotto.gif
