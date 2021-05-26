@@ -2711,6 +2711,7 @@
 ||podisti.net/images/banners/
 ||poliziamunicipale.it/script/getbnr.aspx?
 ||pontilenews.it/immagini/autodoc.gif
+||popsci.it^*/BANNER_
 ||pordenoneoggi.it^*/banner-
 ||pornoamatorialeitaliano.it^*/banner-
 ||pornoitaliano.com^*/sign6-
