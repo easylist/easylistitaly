@@ -842,10 +842,11 @@ treccani.it##.bannercontainer
 ilgiornaledellabellezza.it##.bannergrid
 105tv.it,aostaoggi.it,calcionazionale.it,casertafocus.net,faidatehobby.it,fiumicino-online.it,gazzettadellaspezia.it,genova3000.it,giornaledimontesilvano.com,ilcervellone.it,ildispaccio.it,ilgazzettinobr.it,ilgrigioneitaliano.ch,kisskiss.it,kisskissitalia.it,kisskissnapoli.it,lametino.it,maremmanews.it,metanogpl.it,monrealenews.it,notebookitalia.it,ondalibera.it,puntovendita.info,qdpnews.it,sienafree.it,teleglobal.tv,umbriatv.com,videomediterraneo.it,youtg.net##.bannergroup
 comitatoparalimpico.it##.bannergroup-banner
+betitaliaweb.it##.bannergroup_rightBanner
 radiogold.it##.bannergroupskin-banner-module
 filmforlife.org##.bannerh
 saturnonotizie.it##.bannerheader
-bagherianews.com,bitsandchips.it,radioitaliacina.com##.banneritem
+bagherianews.com,betitaliaweb.it,bitsandchips.it,radioitaliacina.com##.banneritem
 prezzifarmaco.it##.bannernativo
 qualenergia.it,vivafm.it##.banners
 voglioporno.com##.banners-footer
@@ -1606,6 +1607,7 @@ bitquotidiano.it##.takeover
 ilsoftware.it##.tb_widget_as300
 superscommesse.it##.tbl-table
 agrodolce.it,autoblog.it,bebeblog.it,blogo.it,borse.it,calcioblog.it,cineblog.it,ecoblog.it,fashionblog.it,finanzaonline.com,gossipblog.it,html.it,motoblog.it,pinkblog.it,soundsblog.it,studentville.it,tvblog.it,wallstreetitalia.com,webnews.it##.tbm-code
+betitaliaweb.it##.tbody + .bonus-background
 cattolica.info##.tc_adm
 gioconews.it##.tcvn-banner-item
 2anews.it##.td-a-rec-id-custom-spot
