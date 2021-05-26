@@ -52,6 +52,7 @@ veneziafc.it###banner-box-up
 quotidianocanavese.it###banner-column
 radiogold.it###banner-fixed-top
 italiafruit.net###banner-floating-container
+toscanalibri.it###banner-home
 mondocalcionews.it###banner-laterale-headerbidding
 canavesenews.it###banner-left-bottom
 canavesenews.it###banner-left-top
@@ -747,10 +748,12 @@ genova24.it##.banner-elezioni
 italiani.it##.banner-empty-italiani
 bluvolleyverona.it##.banner-fading
 fiumicino-online.it##.banner-fissi
+toscanalibri.it##.banner-head
 algheroeco.com##.banner-header-dx
 algheroeco.com##.banner-header-sx
 prewarcar.it##.banner-holder
 sampdoria.it##.banner-home
+toscanalibri.it##.banner-home-2
 ebikecult.it,mtbcult.it##.banner-homepage-inside-1
 ebikecult.it,mtbcult.it##.banner-homepage-inside-2
 ebikecult.it,mtbcult.it##.banner-homepage-slider-728-90

@@ -3578,6 +3578,7 @@
 ||toscana.live^*/Auxilium-Vitae-
 ||toscana.live^*/partners
 ||toscanagol.it/immagini/File_banner/
+||toscanalibri.it/media/img_banner/
 ||toscanamedianews.it^*/skin/
 ||toscanaoggi.it^*/banner/
 ||toscanatv.it^*/BANNER-
