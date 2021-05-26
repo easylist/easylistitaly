@@ -1153,8 +1153,10 @@
 ||foggiacittaaperta.it/images/banner/
 ||foggiatv.it^*/SpotBelviso_
 ||foggiatv.it^*/wedding728_
+||football-magazine.it^*/Advjobsora-
 ||football-magazine.it^*/BANNER
 ||football-magazine.it^*/FOOTER
+||football-magazine.it^*/jooble320X315.jpg
 ||footballnews24.it^*/bnfn24-
 ||forbes.it^*-1260x100-
 ||fordfiestaitalia.com^*/sponsor/
