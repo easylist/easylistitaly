@@ -2182,6 +2182,7 @@
 ||lostrillonenews.it^*_250x100_
 ||lostrillonenews.it^*_991x200.
 ||lostrillonenews.it^*_Banner_
+||loudd.it/public/banner/
 ||lucchese1905.it^*/sponsor-
 ||luinonotizie.it^*/cipriano-home-
 ||lultimaribattuta.it^*/franca.jpg
