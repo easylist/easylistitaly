@@ -1492,6 +1492,7 @@ cosedicasa.com##.sidespot-wrapper
 calcioatalanta.it,calciocasteddu.it,calciocremonese.it,calciofere.it,calciogrifo.it,calciohellas.it,calciolecce.it,calciorosanero.it,calciospezia.it,forzamonza.it,forzaparma.it,labaricalcio.it,siamolaroma.it,sololalazio.it,tifocosenza.it,trapanigranata.it##.sihappy
 simonemaestri.com##.simone-grid-item
 manfredonianews.it##.single-box
+iphoneitalia.com##.single-deals
 oltrefreepress.com##.singleBannerWidget
 siracusaoggi.it##.sirac-widget
 fattoalatina.it##.site-heading-sidebar
