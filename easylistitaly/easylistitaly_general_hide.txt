@@ -264,6 +264,7 @@
 ##.sal-adv-adsense
 ##.sb-box-pubbliredazionale
 ##.sidebar__adv
+##.single-adv
 ##.sito-adv-sopra-main
 ##.slot-adv
 ##.sponsor160x600Dx
