@@ -18,7 +18,7 @@
 @@||carrozzeriabertazzoni.it/immagini/PUBBLICITA.gif
 @@||carrozzeriabertazzoni.it/pubblicita/
 @@||catchup.acdsolutions.it/jstag/videoplayerFluid/*&adZone=$script,domain=sanmarinortv.sm
-@@||cdnb.4strokemedia.com/carousel/$domain=formulapassion.it|gianlucadimarzio.com
+@@||cdnb.4strokemedia.com/carousel/$domain=fantacalcio.it|formulapassion.it|gianlucadimarzio.com
 @@||centrosangiorgio.com^*_pubblicita.
 @@||centrosangiorgio.com^*_pubblicita/
 @@||centrovolantini.it/sites/default/files/styles/thumb_copertina/public/conad_$~third-party
@@ -27,9 +27,9 @@
 @@||dincontri.com/ads/galleries/crops/$image,~third-party
 @@||dotandad.com/TiscaliAds.js$domain=ansa.it
 @@||doubleclick.net/gpt/pubads_impl_$script,domain=agi.it|corrieredellosport.it|tuttosport.com
-@@||feed.4strokemedia.com^$xmlhttprequest,domain=formulapassion.it|gianlucadimarzio.com
-@@||fluid.4strokemedia.com/www/delivery/asyncspc.php?$xmlhttprequest,domain=formulapassion.it|gianlucadimarzio.com
-@@||fluid.4strokemedia.com/www/fluid/player.php|$script,domain=formulapassion.it|gianlucadimarzio.com
+@@||feed.4strokemedia.com^$xmlhttprequest,domain=fantacalcio.it|formulapassion.it|gianlucadimarzio.com
+@@||fluid.4strokemedia.com/www/delivery/asyncspc.php?$xmlhttprequest,domain=fantacalcio.it|formulapassion.it|gianlucadimarzio.com
+@@||fluid.4strokemedia.com/www/fluid/player.php|$script,domain=fantacalcio.it|formulapassion.it|gianlucadimarzio.com
 @@||foolbite.com/foolbite/*_pubblicita_$~third-party
 @@||forebase.com/plugin/*/images/ads/$image
 @@||forebase.com/plugin/ads.htm?$subdocument
