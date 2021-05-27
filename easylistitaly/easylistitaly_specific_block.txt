@@ -2393,6 +2393,7 @@
 ||nbnotizie.it^*/LoghiPUBBL/
 ||nbv-verona.it/img/sponsor-
 ||necrologivercelli.it/images/promo-
+||nerdface.it/images/BannerSponsor/
 ||nerdplanet.it^*/banner.
 ||nerdplanet.it^*/batmanultimo2017.
 ||net-cdn.it/images/skin_$domain=movieplayer.it
