@@ -529,6 +529,7 @@ radioimmagine.it###text-61
 incucinaconelena.it###text-7
 brindisioggi.it,controcopertina.com,esportsitalia.com,plusrew.com###text-8
 agenziagiornalisticaopinione.it,controcopertina.com,solorecensioni.com,telemia.it###text-9
+agemobile.com###text-html-widget-4
 faidatecasa.com###tm-main-top
 certificatejournal.it,finanza.com###top-banner
 calciomercato.com,sposa.it###top-banner-container
@@ -1754,7 +1755,7 @@ umbriasud.com##.wpcnt
 palermolive.it##.wpls-logo-showcase
 fiorentina.news##.wpls-logo-showcase-slider-wrp
 golfpiu.it##.wpmc_display
-androidblog.it,best5.it,lapappadolce.net,tuttosullapostaelettronica.it##.wpmc_inject_wrapper
+agemobile.com,androidblog.it,best5.it,lapappadolce.net,tuttosullapostaelettronica.it##.wpmc_inject_wrapper
 golfpiu.it##.wpmoneyclick-product-box-multiprov
 tuttoapp-android.com##.wpmoneyclick_amazon_box
 golfpiu.it##.wpmoneyclick_template_amz_simil_footer
