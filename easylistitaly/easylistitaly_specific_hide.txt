@@ -1476,6 +1476,7 @@ flashgames.it##.scheda_ppc
 puntocellulare.it##.schlnk
 rovigooggi.it##.sect-list-space
 radiomillennium.it##.section-26
+radiomillennium.it##.section-banner-home
 atalanta.it##.section_sponsor
 ad-italia.it##.sectionbox
 malpensanews.it##.self-banner
@@ -1519,6 +1520,8 @@ fermanafc.com,netflixlovers.it,settesere.it,uslecce.it,ustriestinacalcio1918.it#
 radioradio.it##.slide
 livornolive.it,toscana.live##.slidelink
 oipamagazine.it##.slider
+radiomillennium.it##.slider-banner
+radiomillennium.it##.slider-bollettino
 news-town.it##.slider-container
 fvjob.it##.slider-wrapper-comments
 fremondoweb.com##.sliderclass
@@ -1798,7 +1801,7 @@ blog.libero.it,newscronaca.myblog.it##a[href*=".clickbank.net/"]
 voglioporno.com##a[href*=".com/track/"]
 videopornoitalia.it##a[href*=".rivcash.com/"]
 altadefinizione01.page##a[href*="//altadefinizione-4k-ita.php"]
-24live.it,affaritaliani.it,altraeta.it,amalfinotizie.it,amantideilibri.it,aziendabanca.it,birramoriamoci.it,canale3.tv,centotrentuno.com,concorsi-letterari.it,corrieredellacalabria.it,cremaoggi.it,cremonaoggi.it,cremonasport.it,freeonline.org,gaynews.it,hwupgrade.it,ilsussidiario.net,kimchiebasilico.it,lasiritide.it,latelanera.com,lavorincasa.it,oglioponews.it,pistoiasport.com,ricettedellanonna.net,riskcompliance.it,rivistanatura.com,settesere.it,sportando.basketball,telegramdirectory.it,temponews.it,tiburno.tv,tusciaweb.eu,tuttoandroid.net,tuttowrestling.com,tvadrano.com,umbriaradio.it,volleyball.it##a[href*="//bit.ly/"]
+24live.it,affaritaliani.it,altraeta.it,amalfinotizie.it,amantideilibri.it,aziendabanca.it,birramoriamoci.it,canale3.tv,centotrentuno.com,concorsi-letterari.it,corrieredellacalabria.it,cremaoggi.it,cremonaoggi.it,cremonasport.it,freeonline.org,gaynews.it,hwupgrade.it,ilsussidiario.net,kimchiebasilico.it,lasiritide.it,latelanera.com,lavorincasa.it,oglioponews.it,pistoiasport.com,radiomillennium.it,ricettedellanonna.net,riskcompliance.it,rivistanatura.com,settesere.it,sportando.basketball,telegramdirectory.it,temponews.it,tiburno.tv,tusciaweb.eu,tuttoandroid.net,tuttowrestling.com,tvadrano.com,umbriaradio.it,volleyball.it##a[href*="//bit.ly/"]
 animeemanga.it,comprovendodischi.it,comprovendolibri.it,corrieredellacalabria.it,passionemaglie.it,stiletv.it,verovegan.com,viaggiasenzapensieri.com##a[href*="//goo.gl/"]
 filmstreaming.page##a[href*="//streaming-ita.php"]
 lavorincasa.it##a[href*="//tinyurl.com/"]
