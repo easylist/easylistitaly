@@ -1497,6 +1497,7 @@
 ||ilcirotano.it^*/logo-secom.jpg
 ||ilcirotano.it^*/Registratore-di-Cassa-Telematico.jpg
 ||ilcirotano.it^*/trony.jpg
+||ilcittadinoonline.it^*/wpseo_
 ||ilclandestinogiornale.italiasera.it^*/Oktoberfest-nettuno-
 ||ilcorriere.net^*-banner.
 ||ilcorrieredelgiorno.it^*/720x300_
