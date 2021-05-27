@@ -57,6 +57,7 @@
 ||abruzzonotizie.com^*/SkinLaserClinic.jpg
 ||abruzzoweb.it/cache/banners/
 ||abruzzoweb.it^*/banner-
+||accaddeoggi.it/images/jooble300x85.jpg
 ||acquariofilia.biz/banner/
 ||acquariofilia.biz/images/banner/
 ||acquariofiliaconsapevole.info^*/banner/
