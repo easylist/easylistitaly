@@ -1641,6 +1641,7 @@ ilgiornaledeltermoidraulico.it,pescaracalcio.com,tennispavese.it,ternanacalcio.c
 edagricole.it,laspia.it,ragusah24.it,romanews.eu,varese7press.it##.td-header-sp-recs
 gdoweek.it##.td-leaderboard-wrap-full
 bussolafinanziaria.it,ideeviaggio.it##.td-ss-main-sidebar
+3dprintingcreative.it##.td_block_sponsor
 guidalloshopping.com##.td_btn
 10cose.it##.td_quote_box
 biancorossi.net,immaginevalsassina.com,moondo.info,notizialocale.it,radiolombardia.it,telesudweb.it##.td_single_image_bg
