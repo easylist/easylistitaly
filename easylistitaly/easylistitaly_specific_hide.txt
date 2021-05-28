@@ -1632,7 +1632,7 @@ radioradio.it##.td-fix-index
 amoreaquattrozampe.it##.td-footer-container
 ilgiornaledeltermoidraulico.it,pescaracalcio.com,tennispavese.it,ternanacalcio.com##.td-footer-wrapper
 4actionsport.it,cucina-naturale.it,culturaidentita.it,fiorentina.news,ilbacodaseta.org,legavolley.it,okpronostico.it,scattidigusto.it##.td-header-rec-wrap
-laspia.it,ragusah24.it,romanews.eu,varese7press.it##.td-header-sp-recs
+edagricole.it,laspia.it,ragusah24.it,romanews.eu,varese7press.it##.td-header-sp-recs
 gdoweek.it##.td-leaderboard-wrap-full
 bussolafinanziaria.it,ideeviaggio.it##.td-ss-main-sidebar
 guidalloshopping.com##.td_btn
