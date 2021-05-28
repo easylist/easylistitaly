@@ -2283,6 +2283,7 @@ open.online#?#.news:-abp-has(div:-abp-contains(in collaborazione con ))
 plastix.it#?#.td_block_wrap:-abp-has(span:-abp-contains(Contenuti sponsorizzati))
 quattroruote.it#?#.c-post:-abp-has(a:-abp-contains(Sponsored by ))
 radioluna.it#?#.feat-widget-wrap:-abp-has(div:-abp-contains(INFORMAZIONE REDAZIONALE))
+technofashion.it#?#.td_block_wrap:-abp-has(span:-abp-contains(Advertorial))
 tgcom24.mediaset.it#?#.right.es.large:-abp-has(span:-abp-contains(contenuto sponsorizzato))
 ! Site Specific filters (used with $generichide)
 msn.com##a[href^="https://marketing.net.occhiali24.it/"]
