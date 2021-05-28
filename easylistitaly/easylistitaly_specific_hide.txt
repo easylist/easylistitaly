@@ -326,7 +326,7 @@ pisainvideo.it,ufficistampanazionali.it###media_image-10
 ufficistampanazionali.it###media_image-11
 pisainvideo.it###media_image-12
 pisainvideo.it###media_image-14
-allasianfootball.com,buonenotizie.it,chepreparo.it,ecodisicilia.com,ilgazzettinodisicilia.it,internapoli.it,it-casinoonline.com,novetv.com,pisainvideo.it,quotidianodifoggia.it,viaggiare-low-cost.it###media_image-2
+allasianfootball.com,buonenotizie.it,chepreparo.it,ecodisicilia.com,ilgazzettinodisicilia.it,internapoli.it,it-casinoonline.com,novetv.com,pisainvideo.it,quotidianodifoggia.it,todinforma.it,viaggiare-low-cost.it###media_image-2
 natureatblog.com###media_image-23
 football-magazine.it###media_image-26
 football-magazine.it###media_image-28
@@ -2206,6 +2206,7 @@ vesuviolive.it##img[width="300"]
 forum.passioneauto.it##img[width="300"][height="100"]
 newtuscia.it,spaziotennis.com##img[width="300"][height="150"]
 corcianonline.it,trasimenonline.it##img[width="300"][height="175"]
+todinforma.it##img[width="300"][height="180"]
 radioinblu.it,tv2000.it##img[width="300"][height="200"]
 0-100.it,altropensiero.net,beverfood.com,bikeitalia.it,calabria7.it,carteprepagate.org,ecoseven.net,eurofestivalnews.com,finanzareport.it,fiorentinanews.com,friulioggi.it,informatissimo.net,irpinia24.it,larampa.it,lattemiele.com,radiogammastereo.it,radioinblu.it,radiortm.it,sinewsmagazine.it,spaziotennis.com,sportface.it,tv2000.it,udineoggi.news##img[width="300"][height="250"]
 umbriaoggi.news##img[width="300"][height="252"]
