@@ -2266,6 +2266,7 @@ datameteo.com##td[style^="border-top-style: solid; border-top-color:#d3d3d3; bor
 aleteia.org#?#div[class^="css-"]:-abp-has(a:-abp-contains(contenuto sponsorizzato))
 ebay.it#?#.s-item:-abp-has(span.s-item__title--tagblock__SPONSORED)
 iene.mediaset.it#?#.bx:-abp-has(div:-abp-contains(CONTENUTO SPONSORIZZATO))
+ilprogettistaindustriale.it#?#.td_block_wrap:-abp-has(span:-abp-contains(Contenuti sponsorizzati))
 innaturale.com#?#.ruby-block-wrap:-abp-has(a:-abp-contains(SPONSORED))
 italpress.com#?#.vc_row_inner:-abp-has(a[href^="https://group.intesasanpaolo.com/"])
 lavocedinovara.com#?#.post.type-post.consigliato:-abp-has(a:-abp-contains(Sponsorizzato))
