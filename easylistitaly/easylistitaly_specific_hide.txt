@@ -198,7 +198,7 @@ fiorditerra.eu###custom_html-23
 dimagrireduepuntozero.com,strill.it###custom_html-25
 castellinotizie.it###custom_html-26
 dimagrireduepuntozero.com###custom_html-27
-alground.com,androidblog.it,assisisport.it,birramoriamoci.it,calcioatalanta.it,calciofere.it,calciogrifo.it,calciolecce.it,forzaparma.it,labaricalcio.it,quizlab.it,siamolaroma.it,sololalazio.it,tifocosenza.it,torremaggiore.com,trapanigranata.it###custom_html-3
+alground.com,androidblog.it,assisisport.it,birramoriamoci.it,calcioatalanta.it,calciofere.it,calciogrifo.it,calciolecce.it,forzaparma.it,labaricalcio.it,quizlab.it,siamolaroma.it,sololalazio.it,tifocosenza.it,torremaggiore.com,trapanigranata.it,umbria.webcam###custom_html-3
 immaginaviaggiare.it###custom_html-30
 immaginaviaggiare.it###custom_html-33
 assisisport.it,calciocasteddu.it,carteprepagate.org,corrieredicomo.it,cucinaresenzamenate.it,destinazioneusa.com,guidaconsumatore.com,laprevisione.it,pianetablunews.it,topragazze.it,tuttogossipnews.it###custom_html-4
@@ -987,6 +987,7 @@ vienormali.it##.cimarandom
 cliccascienze.it##.clicc-prima-del-contenuto
 edilportale.com##.click-Skin
 telenord.it##.click-banner
+umbria.webcam##.client_logos
 puntocellulare.it##.clklnk
 engage.it##.cnt-banner-top
 magodelpronostico.com##.cntBonusHome
@@ -1194,6 +1195,7 @@ internazionale.it##.hentry--banner
 transfermarkt.it##.hide-for-small[style="height: 273px; text-align: center; overflow: hidden;"]
 mathadvantage.org##.hijau
 altamuralife.it,andriaviva.it,bariviva.it,barlettaviva.it,bisceglieviva.it,bitontoviva.it,canosaviva.it,cerignolaviva.it,coratoviva.it,giovinazzoviva.it,gravinalife.it,margheritaviva.it,materalife.it,minervinoviva.it,modugnoviva.it,molfettaviva.it,ruvoviva.it,sanferdinandoviva.it,spinazzolaviva.it,terlizziviva.it,traniviva.it,trinitapoliviva.it##.home-election-wrapper
+umbria.webcam##.home_sponsor
 flash---art.it##.homepage__banner--wrapper
 corriere.ca##.horizontal_banner
 ilturista.info##.hotel-form
@@ -1210,6 +1212,7 @@ mrw.it##.inadv
 mrw.it##.inadv-label
 giochigratis.net##.inici
 innaturale.com##.innat-widget
+umbria.webcam##.inner_left_top
 webnews.it##.innerproduct-affiliation
 gay.it##.inread-resp-container
 lecconotizie.com##.insert-adv-venerota
