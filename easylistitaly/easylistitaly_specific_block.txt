@@ -4214,6 +4214,7 @@
 ||wp.com/www.tgnewstv.it/*/Helios-
 ||wp.com/www.tgnewstv.it/*/Tessera-farmacia-del-leopardo-
 ||wp.com/www.thewalkoffame.it/*/myzona.gif
+||wp.com/www.trasimenonline.it/*_500x400.
 ||wp.com/www.tsdtv.it/*/300x300-
 ||wp.com/www.tuttoboxe.it/*/amazon-
 ||wp.com/www.tuttojuve.net/*/119054606_350406236368302_7591478443508881500_n.png
@@ -4227,7 +4228,7 @@
 ||wp.com^*-banner-$domain=blogdellamusica.eu|fisco7.it|gazzettadiavellino.it|gazzettadisalerno.it|infonewsvietri.it|lagazzettaaeroportuale.it|libringioco.blog|nerdpool.it
 ||wp.com^*-banner.$domain=abruzzoweb.it|blogdellamusica.eu|gazzettadiavellino.it|gazzettadisalerno.it|infonewsvietri.it|orvietosi.it
 ||wp.com^*/675x238-$domain=tv9italia.it
-||wp.com^*/banner-$domain=abruzzoweb.it|bsnews.it|cinecorriere.it|foggiagol.it|giornaledicalabria.it|ilgiornaledeiveronesi.it|infocilento.it|lagazzettaaeroportuale.it|nonsoloturisti.it|nuotounostiledivita.it|oggicronaca.it|orvietosi.it|teleischia.com|temporeale.info|tv9italia.it|vesuvianonews.it
+||wp.com^*/banner-$domain=abruzzoweb.it|bsnews.it|cinecorriere.it|foggiagol.it|giornaledicalabria.it|ilgiornaledeiveronesi.it|infocilento.it|lagazzettaaeroportuale.it|nonsoloturisti.it|nuotounostiledivita.it|oggicronaca.it|orvietosi.it|teleischia.com|temporeale.info|trasimenonline.it|tv9italia.it|vesuvianonews.it
 ||wp.com^*/banner/$domain=buongiornoslovacchia.sk|cronacaflegrea.it
 ||wp.com^*/banner_$domain=agropolinews.it|bimbonaturale.org|fisco7.it|nuotounostiledivita.it|thewalkoffame.it
 ||wp.com^*/banners/$domain=proiezionidiborsa.it
