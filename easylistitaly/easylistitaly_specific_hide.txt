@@ -853,7 +853,7 @@ filmforlife.org##.bannerh
 saturnonotizie.it##.bannerheader
 bagherianews.com,betitaliaweb.it,bitsandchips.it,radioitaliacina.com##.banneritem
 prezzifarmaco.it##.bannernativo
-qualenergia.it,vivafm.it##.banners
+metalitalia.com,qualenergia.it,vivafm.it##.banners
 voglioporno.com##.banners-footer
 seguonews.it##.bannerslider_home_quadro
 radio-reporter.it##.bannerswidget
@@ -2259,6 +2259,7 @@ innaturale.com#?#.ruby-block-wrap:-abp-has(a:-abp-contains(SPONSORED))
 italpress.com#?#.vc_row_inner:-abp-has(a[href^="https://group.intesasanpaolo.com/"])
 lavocedinovara.com#?#.post.type-post.consigliato:-abp-has(a:-abp-contains(Sponsorizzato))
 lospiffero.com#?#.article-blog-default:-abp-has(span:-abp-contains(CONTENUTO SPONSORIZZATO))
+metalitalia.com#?#.sidebar-block:-abp-has(a[href^="http://www.emp-online.it/?wt_mc="])
 milanofinanza.it#?#.col-md-12.intesahead.mb-3 ~ .col-md-4:-abp-has(a[href^="https://group.intesasanpaolo.com/"])
 open.online#?#.news:-abp-has(div:-abp-contains(in collaborazione con ))
 quattroruote.it#?#.c-post:-abp-has(a:-abp-contains(Sponsored by ))
