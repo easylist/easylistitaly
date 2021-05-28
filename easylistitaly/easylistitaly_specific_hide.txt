@@ -2263,6 +2263,7 @@ lanuovariviera.it##td[style="width: 33%; vertical-align: top; border-color: #000
 lanuovariviera.it##td[style="width: 50%;"]
 datameteo.com##td[style^="border-top-style: solid; border-top-color:#d3d3d3; border-top-width: 1px"]
 ! Advanced element hiding rules for Adblock Plus
+01health.it#?#.td_block_wrap:-abp-has(.sponsor)
 01net.it#?#.td_block_wrap:-abp-has(.sponsor)
 aleteia.org#?#div[class^="css-"]:-abp-has(a:-abp-contains(contenuto sponsorizzato))
 ebay.it#?#.s-item:-abp-has(span.s-item__title--tagblock__SPONSORED)
