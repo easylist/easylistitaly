@@ -2718,6 +2718,7 @@
 ||plateamajor.com/img/BC_
 ||plusrew.com^*/Guadagna-con-YAP.jpg
 ||podisti.net/images/banners/
+||pointvet.it/web/media/banner/
 ||poliziamunicipale.it/script/getbnr.aspx?
 ||pontilenews.it/immagini/autodoc.gif
 ||popsci.it^*/BANNER_
