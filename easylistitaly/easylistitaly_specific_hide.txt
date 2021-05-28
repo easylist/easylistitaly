@@ -185,7 +185,7 @@ tefchannel.it###ctl00_cphBody_mcsBannerShortTop_pnlSlot
 tefchannel.it###ctl00_cphBody_mcsSlotBannerBottom_rptGallery_ctl00_lnkLink
 tefchannel.it###ctl00_cphBody_mcsSlotBannerTop_rptGallery_ctl01_lnkLink
 teleborsa.it###ctl00_if4WTV300x250
-gufo.it###custom_html-10
+casafacile24.com,gufo.it###custom_html-10
 gufo.it,indiscreto.org###custom_html-11
 cucinamamma.it,scienzenotizie.it###custom_html-12
 castellinotizie.it,pistoiasport.com###custom_html-13

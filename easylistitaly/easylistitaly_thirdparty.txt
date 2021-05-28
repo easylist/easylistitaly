@@ -110,6 +110,7 @@
 ||incontripersesso.com/banner/
 ||incontriticino.com/promo/
 ||info.manpower.it^$domain=funoanalisitecnica.com
+||infomaniak.ch/promotional/$third-party
 ||insicilia.com/banner/
 ||investimenti.bnpparibas.it^$domain=trend-online.com
 ||iolam.it/js/easyBid.js
