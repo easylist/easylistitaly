@@ -2272,6 +2272,7 @@ italpress.com#?#.vc_row_inner:-abp-has(a[href^="https://group.intesasanpaolo.com
 lavocedinovara.com#?#.post.type-post.consigliato:-abp-has(a:-abp-contains(Sponsorizzato))
 logisticanews.it#?#.td_block_wrap:-abp-has(a:-abp-contains(Contenuti sponsorizzati))
 lospiffero.com#?#.article-blog-default:-abp-has(span:-abp-contains(CONTENUTO SPONSORIZZATO))
+meccanicanews.com#?#.td_block_wrap:-abp-has(a:-abp-contains(Contenuti sponsorizzati))
 metalitalia.com#?#.sidebar-block:-abp-has(a[href^="http://www.emp-online.it/?wt_mc="])
 milanofinanza.it#?#.col-md-12.intesahead.mb-3 ~ .col-md-4:-abp-has(a[href^="https://group.intesasanpaolo.com/"])
 open.online#?#.news:-abp-has(div:-abp-contains(in collaborazione con ))
