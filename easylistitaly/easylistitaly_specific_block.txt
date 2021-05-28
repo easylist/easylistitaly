@@ -843,6 +843,8 @@
 ||consigliamidove.it^*-585x585.jpg
 ||conta-calorie.it/images_adv/
 ||contrastotv.it^*/Antonio-Picca-
+||corcianonline.it^*/banner-
+||corcianonline.it^*_500x400.
 ||coriglianocalabro.it/images/banners/
 ||coriglianocalabro.it/images/popup/
 ||coriglianocalabro.it^*/banner/
