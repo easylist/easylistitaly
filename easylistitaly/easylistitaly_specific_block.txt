@@ -630,6 +630,10 @@
 ||carpifc.com^*/Givova_logo.png
 ||carpifc.com^*/Logo_Bper.png
 ||carraresecalcio.it^*-sponsor-
+||cartabiancanews.com^*/ADV-
+||cartabiancanews.com^*/Casa-isabella.jpg
+||cartabiancanews.com^*/manfredi-250x135-
+||cartabiancanews.com^*/mollificio-gr250x135.jpg
 ||carteprepagate.org^*-300-animata.gif
 ||carteprepagate.org^*/hype-300.png
 ||carteprepagate.org^*/N26-300.gif
