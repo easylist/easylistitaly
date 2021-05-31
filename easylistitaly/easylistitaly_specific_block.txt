@@ -1113,6 +1113,7 @@
 ||fattoincasadabenedetta.it^*/minibox_
 ||fcprovercelli.it^*/banner/
 ||federtennis.it^*/Banner/
+||federtennis.it^*/partner/
 ||federtennis.it^*/Sponsor/
 ||feelrouge.tv^*/banner_
 ||feralpisalo.it^*/sponsor/

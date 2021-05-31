@@ -982,6 +982,7 @@ carteprepagate.org##.carte-post-1
 catanzaro7.net##.catan-nellarticolo
 quotidianopiemontese.it##.category-redazionale
 leggere-facile.it##.cb-large
+federtennis.it##.cc-content-sponsor
 magazinedelledonne.it##.ccm_pugoo__sponso
 webpointzero.com##.cegg_widget_products
 radioinblu.it,tv2000.it##.cei-skin-side
