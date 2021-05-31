@@ -674,8 +674,9 @@ alfemminile.com##.affi-button
 altadefinizione01.games##.after_player_btn
 agi.it##.agi-ad-wrap
 edagricole.it##.agriaffaires
+chiamamicitta.it##.ai-rotate
 ilgiornaleditrani.net##.ai-rotate-option
-cityrumors.it,noisiamoagricoltura.com,tantasalute.it,velvetgossip.it##.ai-viewport-1
+chiamamicitta.it,cityrumors.it,noisiamoagricoltura.com,tantasalute.it,velvetgossip.it##.ai-viewport-1
 pagare.online##.alert.alert-success
 alessandria24.com##.aless-widget
 genoacfc.it##.algida
