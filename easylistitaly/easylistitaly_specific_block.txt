@@ -3442,6 +3442,9 @@
 ||studio93.it^*225x100
 ||studio93.it^*798x90
 ||submission.it/banner/
+||superbasket.it^*-750x80px.
+||superbasket.it^*/750x80-
+||superbasket.it^*/banner_
 ||superenalotto.com/images/banners/
 ||superscommesse.it^*/bannerquadrati/
 ||tagmagazine.it^*/sem.jpg
