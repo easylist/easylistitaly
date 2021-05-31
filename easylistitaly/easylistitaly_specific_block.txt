@@ -2840,6 +2840,7 @@
 ||qdmnotizie.it^*_banner-
 ||qdpnews.it/images/banners/
 ||quattroruote.it^*/box-eni-
+||quattroruote.it^*/sponsor/
 ||quellidellelica.com/images/banners/
 ||quicosenza.it^*/pirro300x407.gif
 ||quimedia.it^*_rectangle_

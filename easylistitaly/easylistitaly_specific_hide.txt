@@ -979,6 +979,7 @@ altadefinizione01.army,altadefinizione01.sale,altadefinizione01.software,altadef
 pensieriparole.it##.buyblock
 sitiscommesse.com##.bwin
 domusweb.it##.c-article-prev--sponsored
+quattroruote.it##.c-banner-opening1__sponsor
 asroma.com##.c-feed-card-ad
 empolifc.com##.c-footer__sponsors-container
 meteo.tiscali.it##.c1c3
