@@ -143,6 +143,7 @@
 ||napolimagazine.blob.core.windows.net/skin-
 ||neonisi.com^*/items.external?$third-party
 ||netrefer-a.akamaihd.net^
+||netsons.com/manage/adv/frmbnnr.min.js
 ||newspostx.com^*/newspostx-banner_$third-party
 ||nexths.it/widget/$third-party
 ||nivolare.com/banner-$third-party

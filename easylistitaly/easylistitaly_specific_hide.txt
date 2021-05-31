@@ -240,6 +240,7 @@ tvrxenon.it###footer-widgets
 caneogolf.it###footer_area
 videosesso.com###footertop
 gogoterme.com,luoghidanonperdere.com###frm
+gamingtoday.it###frm_affId_0
 ilcap.it###gadsense
 giornalesm.com###gallery-254068-1-slideshow
 mondoplay.it,mondoxbox.com###gameBlock_amazon
@@ -1949,7 +1950,7 @@ animeemanga.it,comingsoon.it,mymovies.it,trovacinema.repubblica.it##a[href^="htt
 gamingwiki.it##a[href^="https://www2.razer.com/"]
 lavocedellevalli.it##a[onclick^="ga('send', 'event',"]
 controradio.it,hwupgrade.it##a[rel="sponsored"]
-condominioweb.com,sex4u.ch,solovela.net##a[rel^="sponsored"]
+condominioweb.com,gamingtoday.it,sex4u.ch,solovela.net##a[rel^="sponsored"]
 mobileworld.it##a[style="background-color: #fe8774; padding: 10px; border: none; text-align: center; text-decoration: none; font-size: 18px; width: 200px; font-weight: bold; border-radius: 10px; color: white;"]
 androidworld.it##a[style="background-color: #ff9900; padding: 10px; border: none; text-align: center; text-decoration: none; font-size: 18px; width: 200px; font-weight: bold; border-radius: 10px; color: white;"]
 amica.it##a[style="width: 300px;display: block;z-index: 999999;height: 268px;position: absolute;top: 0;left: 0;"]
