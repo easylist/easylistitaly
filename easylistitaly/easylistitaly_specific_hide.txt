@@ -408,6 +408,7 @@ alwaysonboard.it###sab_content
 ilpost.it###scrolling-container
 sampdoria.it###section-b-sponsor
 mangialibri.com###section-extra-bottom-4
+zonalocale.it###sei-per-tre
 msmotor.tv###sezpartnercommerciali
 nuovosud.it###sfondo
 calabria7.it,gamelegends.it###sgpb-popup-dialog-main-div
