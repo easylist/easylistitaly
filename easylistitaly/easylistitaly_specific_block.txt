@@ -2442,6 +2442,7 @@
 ||nigiara.it/data/nigiara/sh-
 ||nigiara.it/data/nigiara/sh2-
 ||nintendari.it^*/instagaming.jpg
+||nintendon.it^*/Amazon-
 ||nitrocdn.com^*/banner-$domain=esportsitalia.com
 ||nitrocdn.com^*/cuffie-esports.png$domain=esportsitalia.com
 ||nitrocdn.com^*/neurobooster-banner.png$domain=ipermind.com
