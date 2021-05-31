@@ -1165,6 +1165,7 @@
 ||footballnews24.it^*/bnfn24-
 ||forbes.it^*-1260x100-
 ||fordfiestaitalia.com^*/sponsor/
+||formiche.net^*/Banner_
 ||fortitudobaseball.it/images/sponsor/
 ||fortuneita.com^*-BANNER-
 ||fortuneita.com^*/Banner
