@@ -1694,6 +1694,7 @@
 ||ilroma.net^*-banner_
 ||ilroma.net^*/Dial_WEB.png
 ||ilroma.net^*/rotating_banner/
+||ilroma.net^*/Skin_
 ||ilroma.net^*_skin.
 ||ilsalottodelcalcio.it^*-banner.
 ||ilsalottodelcalcio.it^*/oliver-camponovo-
