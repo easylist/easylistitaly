@@ -850,7 +850,7 @@ laprovinciadilecco.it##.bannerbase
 brindisisera.it##.bannerbox
 treccani.it##.bannercontainer
 ilgiornaledellabellezza.it##.bannergrid
-105tv.it,aostaoggi.it,calcionazionale.it,casertafocus.net,faidatehobby.it,fiumicino-online.it,gazzettadellaspezia.it,genova3000.it,giornaledimontesilvano.com,ilcervellone.it,ildispaccio.it,ilgazzettinobr.it,ilgrigioneitaliano.ch,kisskiss.it,kisskissitalia.it,kisskissnapoli.it,lametino.it,maremmanews.it,metanogpl.it,monrealenews.it,notebookitalia.it,ondalibera.it,puntovendita.info,qdpnews.it,sienafree.it,teleglobal.tv,umbriatv.com,videomediterraneo.it,youtg.net##.bannergroup
+105tv.it,aostaoggi.it,calcionazionale.it,casertafocus.net,concorezzo.org,faidatehobby.it,fiumicino-online.it,gazzettadellaspezia.it,genova3000.it,giornaledimontesilvano.com,ilcervellone.it,ildispaccio.it,ilgazzettinobr.it,ilgrigioneitaliano.ch,kisskiss.it,kisskissitalia.it,kisskissnapoli.it,lametino.it,maremmanews.it,metanogpl.it,monrealenews.it,notebookitalia.it,ondalibera.it,puntovendita.info,qdpnews.it,sienafree.it,teleglobal.tv,umbriatv.com,videomediterraneo.it,youtg.net##.bannergroup
 comitatoparalimpico.it##.bannergroup-banner
 betitaliaweb.it##.bannergroup_rightBanner
 radiogold.it##.bannergroupskin-banner-module
@@ -1344,7 +1344,7 @@ cb001.xyz##.mvic-btn
 calcioatalanta.it,calciocasteddu.it,calciocremonese.it,calciofere.it,calciogrifo.it,calciohellas.it,calciolecce.it,calciorosanero.it,calciospezia.it,forzaparma.it,labaricalcio.it,qdmnotizie.it,siamolaroma.it,sololalazio.it,tifocosenza.it,trapanigranata.it##.mvp-wall-link
 passioneorologio.it##.my_best-price-btn
 donnaclick.it##.myadv
-calabrianews.it##.n2-section-smartslider
+calabrianews.it,concorezzo.org##.n2-section-smartslider
 padelmagazine.it##.n2-ss-slider
 nabbi.it##.nabbi-widget
 newsiciliacasa.it##.narrative

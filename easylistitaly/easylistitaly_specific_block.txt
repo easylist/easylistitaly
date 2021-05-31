@@ -834,6 +834,9 @@
 ||comunicalo.it^*-banner.
 ||comunicalo.it^*/acuoreaperto.gif
 ||comunicalo.it^*/banner-
+||concorezzo.org/images/banners/
+||concorezzo.org/images/bgmax/
+||concorezzo.org/images/santalfredo-
 ||concorsi-letterari.it^*/rose-stabilizzate-
 ||condominioitalia.biz^*/banner/
 ||condominioweb.com/ban/
