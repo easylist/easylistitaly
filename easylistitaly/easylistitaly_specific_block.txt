@@ -4261,6 +4261,7 @@
 ||wp.com^*_Banner_$domain=gliacchiappafilm.it
 ||wp.com^*_sponsor-$domain=tgnewstv.it
 ||wp.com^*Banner300x600.$domain=milanodabere.it
+||xtremehardware.com/instant-gaming.png
 ||yescalabria.com^*/CaffeMauro300X600-
 ||yescalabria.com^*/caffemauro728x90-
 ||yesmagazine.it^*_780X90.

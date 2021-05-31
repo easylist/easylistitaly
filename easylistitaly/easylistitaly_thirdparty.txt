@@ -58,6 +58,7 @@
 ||d3qrbrazsnzdog.cloudfront.net^
 ||debriditalia.com/images/$third-party
 ||delosstore.it/banner/
+||dhresource.com^$domain=xtremehardware.com
 ||digitaladv.despar.it^
 ||digitalwebbusiness.com^*/banners.$third-party
 ||djsoldi.com^$image,third-party
