@@ -242,3 +242,4 @@
 ||youtube.com/embed/f5YM1v4F32c$domain=investomagazine.com
 ||youtube.com/embed/gELMBDCT8io$domain=foggiacittaaperta.it
 ||youtube.com/embed/p0OuIDbH_sI$domain=ilportaledelcavallo.it
+||youtube.com/embed/POnZiaHLpRA$domain=nuovabrianza.it

@@ -2522,7 +2522,10 @@
 ||nuoto.com^*_skin2.
 ||nuovabrianza.it^*/468x901.
 ||nuovabrianza.it^*/600x1601-
+||nuovabrianza.it^*/600x1601.jpg
+||nuovabrianza.it^*/banner250x250-
 ||nuovabrianza.it^*/header-def-
+||nuovabrianza.it^*/logo-macelleria-villa-reale.jpg
 ||nuovabrianza.it^*_banner_
 ||nuovacosenza.com/spot/
 ||nuovosud.it/sites/default/files/box-
