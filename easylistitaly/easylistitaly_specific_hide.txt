@@ -1087,13 +1087,18 @@ evosmart.it,pc-gaming.it,stile.it##.egg-container
 regaliperfetti.it##.egg_grid
 regaliperfetti.it##.egg_sort_list
 beneficicurcuma.it##.elementor-cta
+giornalesm.com##.elementor-element-1c08281c
 iamnaples.it##.elementor-element-1cc40659
 iamnaples.it##.elementor-element-27c9edcc
+giornalesm.com##.elementor-element-2f4040ea
 coronavirusroma.com##.elementor-element-3579018
+giornalesm.com##.elementor-element-3720cb8a
+giornalesm.com##.elementor-element-3bc9c58
 iamnaples.it##.elementor-element-3ce49e1
 radiortm.it##.elementor-element-4561c5a
 icrewplay.com##.elementor-element-52a6569
 iamnaples.it##.elementor-element-56031cb6
+giornalesm.com##.elementor-element-5b8e1d7
 montagneepaesi.com##.elementor-element-5cdb699d
 iamnaples.it##.elementor-element-62b8dbf2
 icrewplay.com##.elementor-element-6dd9dba
@@ -1103,6 +1108,8 @@ mkers.gg##.elementor-element-9a57430
 stilenaturale.com##.elementor-element-a143866
 radiortm.it##.elementor-element-b3a119d
 tv9italia.it##.elementor-element-bdf53b1
+giornalesm.com##.elementor-element-cfedfc3
+giornalesm.com##.elementor-element-d459522
 iamnaples.it##.elementor-element-d878c7f
 menteinformatica.it##.elementor-element-df7936e
 corrieredicomo.it##.elementor-element-f76437b
@@ -1839,7 +1846,7 @@ blog.libero.it,newscronaca.myblog.it##a[href*=".clickbank.net/"]
 voglioporno.com##a[href*=".com/track/"]
 videopornoitalia.it##a[href*=".rivcash.com/"]
 altadefinizione01.page##a[href*="//altadefinizione-4k-ita.php"]
-24live.it,affaritaliani.it,altraeta.it,amalfinotizie.it,amantideilibri.it,aziendabanca.it,birramoriamoci.it,canale3.tv,centotrentuno.com,concorsi-letterari.it,corrieredellacalabria.it,cremaoggi.it,cremonaoggi.it,cremonasport.it,freeonline.org,gaynews.it,hwupgrade.it,ilsussidiario.net,kimchiebasilico.it,lasiritide.it,latelanera.com,lavorincasa.it,oglioponews.it,pistoiasport.com,radiomillennium.it,ricettedellanonna.net,riskcompliance.it,rivistanatura.com,settesere.it,sportando.basketball,telegramdirectory.it,temponews.it,tiburno.tv,tusciaweb.eu,tuttoandroid.net,tuttowrestling.com,tvadrano.com,umbriaradio.it,volleyball.it##a[href*="//bit.ly/"]
+24live.it,affaritaliani.it,altraeta.it,amalfinotizie.it,amantideilibri.it,aziendabanca.it,birramoriamoci.it,canale3.tv,centotrentuno.com,concorsi-letterari.it,corrieredellacalabria.it,cremaoggi.it,cremonaoggi.it,cremonasport.it,freeonline.org,gaynews.it,giornalesm.com,hwupgrade.it,ilsussidiario.net,kimchiebasilico.it,lasiritide.it,latelanera.com,lavorincasa.it,oglioponews.it,pistoiasport.com,radiomillennium.it,ricettedellanonna.net,riskcompliance.it,rivistanatura.com,settesere.it,sportando.basketball,telegramdirectory.it,temponews.it,tiburno.tv,tusciaweb.eu,tuttoandroid.net,tuttowrestling.com,tvadrano.com,umbriaradio.it,volleyball.it##a[href*="//bit.ly/"]
 animeemanga.it,comprovendodischi.it,comprovendolibri.it,corrieredellacalabria.it,passionemaglie.it,stiletv.it,verovegan.com,viaggiasenzapensieri.com##a[href*="//goo.gl/"]
 filmstreaming.page##a[href*="//streaming-ita.php"]
 lavorincasa.it##a[href*="//tinyurl.com/"]

@@ -1336,6 +1336,7 @@
 ||giornalesm.com^*/0-1-1.gif
 ||giornalesm.com^*/0.png
 ||giornalesm.com^*/6644_2455.gif
+||giornalesm.com^*/770x150_
 ||giornalesm.com^*/Baneer-
 ||giornalesm.com^*/banner-
 ||giornalesm.com^*/c36c22e06f8ce51e882ffc108b85bc8f-
