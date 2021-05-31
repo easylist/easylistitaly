@@ -1410,6 +1410,7 @@ msmotor.tv##.partner2
 andreagaleazzi.com##.partner_box
 dolcidee.it,rtinradio.com,teatronaturale.it,university-esports.it##.partners
 100ideeperristrutturare.it,casa-naturale.com,quattrozampe.online,villeecasali.com##.partners-wrapper
+infobuild.it##.partnersection
 evosmart.it##.penci-banner-box
 sarnonotizie.it##.penci-container__content
 coltivazionebiologica.it##.penci-header-signup-form
