@@ -67,6 +67,8 @@ ilmeteo.it###banner728x90bottom
 araberara.it###bannerA
 camperlife.it###bannerDx
 tusciaweb.eu###bannerFondo
+fip.it###bannerPushBarLG
+fip.it###bannerPushBarXS
 edilportale.com###bannerSkin
 camperlife.it###bannerSx
 camperlife.it###banner_2
