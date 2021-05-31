@@ -1745,6 +1745,13 @@
 ||imperiatv.it/images/sponsor/
 ||imperoland.it^*/billboard
 ||imperoland.it^*/mpu
+||inbici.net^*-290x93px.
+||inbici.net^*/KTM_ROAD_Sonic_728x180px.jpg
+||inbici.net^*/MD-TOP_
+||inbici.net^*/SHIMANO.jpg
+||inbici.net^*/SKIN-
+||inbici.net^*_banner-
+||inbici.net^*_BannerRight_
 ||indiscreto.org^*/bianca00_
 ||indiscreto.org^*/La-Casalinga_
 ||industria-online.com/storage/b-
