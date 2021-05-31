@@ -323,6 +323,8 @@ sienafree.it###manchetteDX
 sienafree.it###manchetteSX
 stadionews.it###manchette_dx_container
 stadionews.it###manchette_sx_container
+quotidianosanita.it###masch_des
+quotidianosanita.it###masch_sin
 acspezianews.it,campaniasoccer.com,dailybest.it,f1-news.eu,forum.tomshw.it,investireoggi.it,leonardo.it,messinanelpallone.it,politicanews.it,ricettedalmondo.it,toro.it,tuttoavellino.it,tuttobari.com,tuttomonza.it,tuttorunning.net,tuttosalernitana.com,tuttoudinese.it###masthead
 familygo.eu###masthead-desktop
 matematicamente.it###masthead-desktop-wrapper

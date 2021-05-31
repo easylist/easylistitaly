@@ -2889,6 +2889,7 @@
 ||quotidianodifoggia.it^*/Campagna-etichettatura.jpg
 ||quotidianodifoggia.it^*/sanuvo.jpg
 ||quotidianodiragusa.com/uploads/bannerdef/
+||quotidianosanita.it/immagini_impag/jns.jpg
 ||quotidianosanita.it^*/asma_grave_260.jpg
 ||quotidianosanita.it^*/differita_scompenso_cardiaco.jpg
 ||quotidianosanita.it^*/health_serie_
