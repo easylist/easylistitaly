@@ -2103,6 +2103,7 @@
 ||left.it/wp-content/uploads/banners/
 ||left.it^*-banners-
 ||legab.it^*/sponsor/
+||legabasket.it/image/league_sponsor_
 ||legabasketfemminile.it/Images/Sponsor/
 ||leganavalenews.it^*/banners/
 ||legapallacanestro.com^*/banner/
