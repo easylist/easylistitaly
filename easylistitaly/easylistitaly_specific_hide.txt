@@ -1119,7 +1119,7 @@ sassuolooggi.it##.flexslider
 marsicalive.it##.fmhb-container
 corriereelorino.it##.fn-header-banner
 udinese.it##.foobar-sponsor
-ilmiostiledivita.it,lamiacasadolcecasa.it,nonsoloautoemoto.it##.footer-columns
+ilmiostiledivita.it,incucinaconnonnaanna.it,lamiacasadolcecasa.it,nonsoloautoemoto.it##.footer-columns
 caleno24ore.it##.footer-firstrow
 lega-pro.com##.footer-partner
 genoacfc.it##.footer-partner-link
