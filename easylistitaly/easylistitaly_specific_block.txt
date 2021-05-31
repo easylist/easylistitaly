@@ -2501,6 +2501,7 @@
 ||nonsolomodanews.it^*-768x494.
 ||nonsprecare.it^*_Inspiringirls.jpg
 ||normanno.com^*/motordoctor-
+||notebookcheck.it/fileadmin/Sonstiges/ama_abn2_$xmlhttprequest
 ||notebookitalia.it/images/banners/
 ||notizialocale.it^*/UNIMED.jpg
 ||notiziarioeolie.it/images/banners/
