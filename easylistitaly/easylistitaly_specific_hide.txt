@@ -891,6 +891,7 @@ zerounoweb.it##.blocco_primo_dfp
 ladige.it##.block--dfp
 california.it##.block-13
 lavitacattolica.it##.block-banners
+legapallacanestro.com##.block-bean-banner
 mediaworld.it##.block-mw-external-banner
 ilroma.net##.block-rotating-banner
 legapallacanestro.com##.block-sponsor-e-partners
