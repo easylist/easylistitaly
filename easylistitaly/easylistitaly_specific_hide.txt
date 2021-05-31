@@ -1676,8 +1676,11 @@ omniagate.com##.tdi_36_816
 omniagate.com##.tdi_45_604
 borderline24.com##.tdi_47_22b
 2anews.it##.tdi_59
+vivitelese.it##.tdi_61
 omniagate.com##.tdi_6_6a9
 omniagate.com##.tdi_6_c68
+vivitelese.it##.tdi_71
+vivitelese.it##.tdi_72
 tomshw.it##.teetee-embed
 telesud.it##.teles-header-banner
 positanonews.it##.testata
