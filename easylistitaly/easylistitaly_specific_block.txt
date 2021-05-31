@@ -613,6 +613,7 @@
 ||canale85.it^*/logofadi.jpg
 ||canale85.it^*/nuovarredo.jpg
 ||canalecinquetv.it^*/sponsor/
+||canaleeuropa.tv/uploads/banner/
 ||caneogolf.it/img/banner/
 ||cani.com/dfp_creatives/
 ||canicattiweb.com/bgeni.jpg
