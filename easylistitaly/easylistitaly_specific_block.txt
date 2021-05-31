@@ -2120,6 +2120,7 @@
 ||leggilanotizia.it^*/300x170TrentinoBookingEstate2020.jpg
 ||leggilanotizia.it^*/banner3.png
 ||leggilanotizia.it^*/banner_
+||leggilanotizia.it^*/jooble-
 ||leggilanotizia.it^*/Leggilanotizia-fare-finta-niente.jpg
 ||leggilanotizia.it^*/Logo_300.jpg
 ||leggilanotizia.it^*_banner1-
