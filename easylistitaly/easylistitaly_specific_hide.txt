@@ -474,7 +474,7 @@ esportsonline.it,finaria.it,myfitnessmagazine.it,pantareinews.com###text-14
 finaria.it,hellogreen.it,internetto.it###text-15
 finaria.it,internetto.it###text-16
 libroaudio.it###text-18
-giornalistitalia.it,noinotizie.it###text-19
+gazzettadellavaldagri.it,giornalistitalia.it,noinotizie.it###text-19
 adviceandcommerce.it,alwaysonboard.it,ufficistampanazionali.it###text-2
 ilpost.it,noinotizie.it###text-20
 mbmusic.it,playersmagazine.it###text-21
@@ -1601,7 +1601,7 @@ unaparolaperte.org##.stream-item-above-footer
 mole24.it##.stream-item-above-post-content
 informazioneoggi.it##.stream-item-below-header
 filmpost.it,ilgolfo24.it##.stream-item-top
-ilcorriere.net,ilmoderatore.it,mole24.it,unaparolaperte.org##.stream-item-top-wrapper
+gazzettadellavaldagri.it,ilcorriere.net,ilmoderatore.it,mole24.it,unaparolaperte.org##.stream-item-top-wrapper
 cblive.it##.stream-item-widget
 filmtv.it##.streaming
 affaritaliani.it##.strillo-speciale3
