@@ -27,6 +27,7 @@
 ||24live.it^*/standa2-
 ||24newsonline.it/images/*_banner_
 ||24newsonline.it/images/banner/
+||2anews.it^*-banner.
 ||2anews.it^*/11593003629722.
 ||2anews.it^*/BIOTEAM-
 ||2anews.it^*/gjordan-
