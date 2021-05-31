@@ -600,6 +600,10 @@
 ||campanianotizie.com^*/bann_
 ||campanianotizie.com^*/banner-
 ||campanianotizie.com^*/raggiodisole.gif
+||campaniapress.it^*/banner-
+||campaniapress.it^*/HSC-HUMAN-logo-vettoriale-768x633.jpg
+||campaniapress.it^*/Schermata-2020-10-15-alle-12.28.35.png
+||campaniapress.it^*/SmallLogo.jpg
 ||camperlife.it^*/banner/
 ||camperonline.it//b/
 ||camperonline.it/b-top/
