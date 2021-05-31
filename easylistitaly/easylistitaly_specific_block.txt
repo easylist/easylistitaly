@@ -2649,6 +2649,8 @@
 ||passioneauto.it^*/pezzidiricambio24_
 ||passionemaglie.it^*/banner-
 ||pc-gaming.it^*=aa-server-
+||peopleforplanet.it/tools/stradaalternativa.html
+||peopleforplanet.it/tools/stradaalternativa_v.html
 ||perotorino.it/images/banners/
 ||pescaralive.it^*/480x400-
 ||pescaralive.it^*/banner-
