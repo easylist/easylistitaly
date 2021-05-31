@@ -1679,7 +1679,10 @@
 ||ilpost.it^*/banner_
 ||ilpost.it^*/newAdv.js?
 ||ilpuntonotizie.it^*-Leaderboard.
+||ilpuntonotizie.it^*/banner-
+||ilpuntonotizie.it^*/banner_
 ||ilpuntonotizie.it^*/IRANA-TAPPETI.
+||ilpuntonotizie.it^*/ted.jpg
 ||ilquotidiano.it/userdata/banner/
 ||ilquotidianoditalia.it/uploads/blocks/block_5f9e40ba3bc03.jpg
 ||ilroma.net^*-banner_

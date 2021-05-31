@@ -1642,7 +1642,7 @@ calciofemminileitaliano.it,calciomercato.it,elettronicanews.it,gametimers.it,gam
 radioradio.it##.td-fix-index
 amoreaquattrozampe.it##.td-footer-container
 ilgiornaledeltermoidraulico.it,pescaracalcio.com,tennispavese.it,ternanacalcio.com##.td-footer-wrapper
-4actionsport.it,cucina-naturale.it,culturaidentita.it,fiorentina.news,ilbacodaseta.org,legavolley.it,okpronostico.it,scattidigusto.it##.td-header-rec-wrap
+4actionsport.it,cucina-naturale.it,culturaidentita.it,fiorentina.news,ilbacodaseta.org,ilpuntonotizie.it,legavolley.it,okpronostico.it,scattidigusto.it##.td-header-rec-wrap
 edagricole.it,laspia.it,ragusah24.it,romanews.eu,varese7press.it##.td-header-sp-recs
 gdoweek.it##.td-leaderboard-wrap-full
 bussolafinanziaria.it,ideeviaggio.it##.td-ss-main-sidebar
@@ -1724,6 +1724,7 @@ valseriananews.it##.valse-mie-pubblicita
 radioascoli.it##.vc_carousel
 casertaweb.com,pugliapress.org##.vc_carousel-inner
 abruzzoweb.it##.vc_column-inner
+ilpuntonotizie.it##.vc_custom_1508767821833
 calciofoggia1920.net##.vc_custom_1537770288568
 orvietosi.it##.vc_custom_1587719628931
 orvietosi.it##.vc_custom_1588254530218
