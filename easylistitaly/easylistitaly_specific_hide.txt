@@ -1560,6 +1560,7 @@ comingsoon.it##.sponPro
 bebeez.it,bolzano-bozen.it,europages.it,fip.it,fortitudobaseball.it,girovagandointrentino.it,ilmonferrato.it,imperiatv.it,legab.it,olimpiamilano.com,repubblica.it,stickmangames.altervista.org,torinometeo.org##.sponsor
 luinonotizie.it##.sponsor-background-big
 pallacanestrotrieste.it##.sponsor-carousel
+assoallenatori.it##.sponsor-container
 victorialibertas.it##.sponsor-header
 luinonotizie.it##.sponsor-interna
 erbanotizie.com##.sponsor-rubrica

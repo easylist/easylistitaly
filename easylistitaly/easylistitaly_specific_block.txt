@@ -421,6 +421,7 @@
 ||asgiana.com^*/banner-
 ||asgubbio1910.net^*/sponsor_
 ||askanews.it/img_diverse/300x100_
+||assoallenatori.it^*/sponsor/
 ||asteannunci.it/default/img/banner/
 ||asvicenza.it^*/Laerrevieffe.jpg
 ||asvicenza.it^*_sponsor_
