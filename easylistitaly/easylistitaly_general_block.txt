@@ -47,6 +47,7 @@
 /pubblicita-
 /pubblicita.
 /pubblicita/*
+/pubblicita2.
 /pubblicita2/*
 /pubblicita_
 /pubblicitadx.
