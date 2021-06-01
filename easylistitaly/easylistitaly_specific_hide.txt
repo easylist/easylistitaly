@@ -1660,7 +1660,7 @@ videosesso.com##.tagsection
 bitquotidiano.it##.takeover
 ilsoftware.it##.tb_widget_as300
 superscommesse.it##.tbl-table
-agrodolce.it,autoblog.it,bebeblog.it,blogo.it,borse.it,calcioblog.it,cineblog.it,ecoblog.it,fashionblog.it,finanzaonline.com,gossipblog.it,html.it,motoblog.it,pinkblog.it,soundsblog.it,studentville.it,tvblog.it,wallstreetitalia.com,webnews.it##.tbm-code
+agrodolce.it,autoblog.it,bebeblog.it,blogo.it,borse.it,calcioblog.it,cineblog.it,ecoblog.it,fashionblog.it,finanzaonline.com,gossipblog.it,html.it,motoblog.it,pinkblog.it,pmi.it,soundsblog.it,studentville.it,tvblog.it,wallstreetitalia.com,webnews.it##.tbm-code
 betitaliaweb.it##.tbody + .bonus-background
 cattolica.info##.tc_adm
 gioconews.it##.tcvn-banner-item
