@@ -2510,6 +2510,7 @@
 ||notiziarioeolie.it/images/banners/
 ||notiziediprato.it/caricaBannerIframe/
 ||notiziediprato.it/uploads/banner/
+||notiziegeopolitiche.net^*/hmedia.jpg
 ||notizieinunclick.com/wp-content/banners/
 ||notizielazio.it^*-banner.
 ||notizielazio.it^*/banner-
