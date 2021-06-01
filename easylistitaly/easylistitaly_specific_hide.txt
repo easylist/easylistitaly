@@ -1371,7 +1371,7 @@ calcioatalanta.it,calciocasteddu.it,calciocremonese.it,calciofere.it,calciogrifo
 passioneorologio.it##.my_best-price-btn
 donnaclick.it##.myadv
 calabrianews.it,concorezzo.org##.n2-section-smartslider
-padelmagazine.it##.n2-ss-slider
+ecodisavona.it,padelmagazine.it##.n2-ss-slider
 nabbi.it##.nabbi-widget
 newsiciliacasa.it##.narrative
 scuolissima.com##.nascondiads
