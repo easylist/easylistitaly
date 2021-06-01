@@ -403,6 +403,7 @@ estrazionedellotto.it,superenalotto.com###promobanner
 flashgames.it###pub_sotto
 voce.it###publiredazionale
 tuttitalia.it###qh
+isnews.it###responsive-banner-slider
 cosenostre-online.it###rev_slider_4_1_wrapper
 cosenostre-online.it###rev_slider_4_5_wrapper
 cosenostre-online.it###rev_slider_4_6_wrapper
@@ -791,7 +792,7 @@ radiotoscana.it##.banner-radio
 solovela.net##.banner-right
 umbria24.it##.banner-show-desktop
 leccesette.it##.banner-side
-digital-news.it,viversano.net##.banner-sidebar
+digital-news.it,isnews.it,viversano.net##.banner-sidebar
 universodelgioco.it##.banner-sky
 canavesenews.it,torinonews24.it##.banner-slider
 qualenergia.it##.banner-space
@@ -861,7 +862,7 @@ laprovinciadilecco.it##.bannerbase
 brindisisera.it##.bannerbox
 treccani.it##.bannercontainer
 ilgiornaledellabellezza.it##.bannergrid
-105tv.it,aostaoggi.it,calcionazionale.it,casertafocus.net,concorezzo.org,faidatehobby.it,fiumicino-online.it,gazzettadellaspezia.it,genova3000.it,giornaledimontesilvano.com,ilcervellone.it,ildispaccio.it,ilgazzettinobr.it,ilgrigioneitaliano.ch,kisskiss.it,kisskissitalia.it,kisskissnapoli.it,lametino.it,maremmanews.it,metanogpl.it,monrealenews.it,notebookitalia.it,ondalibera.it,puntovendita.info,qdpnews.it,sienafree.it,teleglobal.tv,umbriatv.com,videomediterraneo.it,youtg.net##.bannergroup
+105tv.it,aostaoggi.it,calcionazionale.it,casertafocus.net,concorezzo.org,faidatehobby.it,fiumicino-online.it,gazzettadellaspezia.it,genova3000.it,giornaledimontesilvano.com,ilcervellone.it,ildispaccio.it,ilgazzettinobr.it,ilgrigioneitaliano.ch,isnews.it,kisskiss.it,kisskissitalia.it,kisskissnapoli.it,lametino.it,maremmanews.it,metanogpl.it,monrealenews.it,notebookitalia.it,ondalibera.it,puntovendita.info,qdpnews.it,sienafree.it,teleglobal.tv,umbriatv.com,videomediterraneo.it,youtg.net##.bannergroup
 comitatoparalimpico.it##.bannergroup-banner
 betitaliaweb.it##.bannergroup_rightBanner
 radiogold.it##.bannergroupskin-banner-module
