@@ -12,6 +12,7 @@
 ||0766news.it^*/Stefano-Iacomelli-FISIOKINESITERAPIA.
 ||1001giochi.it/bfb/
 ||100x100napoli.it^*/gs.png
+||104news.it^*/BANNER-
 ||105tv.it^*/banners/
 ||24emilia.com^*banner
 ||24live.it^*/24live_prenota-prima_
