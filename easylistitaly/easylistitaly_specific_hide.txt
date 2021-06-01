@@ -1084,6 +1084,7 @@ ridble.com##.dn
 casacinema.work,casacinema01.club,filmsenzalimiti01.online,ilgeniodellostreaming.icu,italiafilm.casa,tantifilm-ita.com,tantifilm-ita.it,tantifilm.cool,tantifilm.monster,tantifilm.surf,tantifilm.work##.download-links
 bolzano-bozen.it##.dt
 finestresullarte.info##.dx250
+notiziemolise.it##.e3lan
 cronachedibirra.it##.e3lan125
 ilpaesenuovo.it##.e3lanat-layout-rotator
 bergamonews.it##.edinews_widget_friends-3
