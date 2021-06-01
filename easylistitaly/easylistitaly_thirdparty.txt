@@ -142,6 +142,7 @@
 ||mytrend.it/gifs/banner/
 ||napolimagazine.blob.core.windows.net/banner-
 ||napolimagazine.blob.core.windows.net/skin-
+||nencinisport.it/scambio/banner_$third-party
 ||neonisi.com^*/items.external?$third-party
 ||netrefer-a.akamaihd.net^
 ||netsons.com/manage/adv/frmbnnr.min.js
