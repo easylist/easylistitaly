@@ -163,6 +163,7 @@
 ||altadefiniziones.cz/templates/cloud/img/tad
 ||altarimini.it/bannerBoxCatalog.php
 ||altoadigegol.it//immagini/File_banner/
+||altoadigetv.it/images/banner/
 ||altoadigetv.it/images/social/banner
 ||altomantovanonews.it^*/banner-
 ||altopiemonte24.it/images/banner/
