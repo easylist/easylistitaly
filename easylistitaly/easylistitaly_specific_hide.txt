@@ -336,9 +336,11 @@ pisainvideo.it###media_image-12
 pisainvideo.it###media_image-14
 allasianfootball.com,buonenotizie.it,chepreparo.it,ecodisicilia.com,ilgazzettinodisicilia.it,internapoli.it,it-casinoonline.com,novetv.com,pisainvideo.it,quotidianodifoggia.it,todinforma.it,viaggiare-low-cost.it###media_image-2
 natureatblog.com###media_image-23
+magnifici7.com###media_image-25
 football-magazine.it###media_image-26
 football-magazine.it###media_image-28
-benessere-sport.it,blograffo.net,corriereelorino.it,natureatblog.com,pisainvideo.it,tecnofacile.com,ufficistampanazionali.it###media_image-3
+magnifici7.com###media_image-29
+benessere-sport.it,blograffo.net,corriereelorino.it,magnifici7.com,natureatblog.com,pisainvideo.it,tecnofacile.com,ufficistampanazionali.it###media_image-3
 altropensiero.net,consigliamidove.it,corriereelorino.it,esportsitalia.com,it-casinoonline.com,italiaonline.news,roadtvitalia.it,ufficistampanazionali.it###media_image-4
 staynerd.com###media_image-40
 bambiniconlavaligia.com###media_image-41

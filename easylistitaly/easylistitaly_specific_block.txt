@@ -2235,6 +2235,9 @@
 ||magazine-italia.it^*/Schermata-2020-10-15-alle-12.28.35-696x391.png
 ||magazine-italia.it^*/SmallLogo.jpg
 ||magicapro.it^*-600x100.
+||magnifici7.com^*-superofferta-amazon-768x680.jpg
+||magnifici7.com^*/amazon-outlet.png
+||magnifici7.com^*/prime.png
 ||magodelpronostico.com^*/banner-
 ||maidireborsa.it^*/image004-
 ||maidirelink.it^*/sconti-amazon.jpg
