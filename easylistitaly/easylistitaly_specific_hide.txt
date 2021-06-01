@@ -202,12 +202,12 @@ fiorditerra.eu###custom_html-23
 dimagrireduepuntozero.com,strill.it###custom_html-25
 castellinotizie.it###custom_html-26
 dimagrireduepuntozero.com###custom_html-27
-alground.com,androidblog.it,assisisport.it,birramoriamoci.it,calcioatalanta.it,calciofere.it,calciogrifo.it,calciolecce.it,forzaparma.it,labaricalcio.it,quizlab.it,siamolaroma.it,sololalazio.it,tifocosenza.it,torremaggiore.com,trapanigranata.it,umbria.webcam###custom_html-3
+alground.com,androidblog.it,assisisport.it,birramoriamoci.it,calcioatalanta.it,calciofere.it,calciogrifo.it,calciolecce.it,corrieredelmolise.com,forzaparma.it,labaricalcio.it,quizlab.it,siamolaroma.it,sololalazio.it,tifocosenza.it,torremaggiore.com,trapanigranata.it,umbria.webcam###custom_html-3
 immaginaviaggiare.it###custom_html-30
 immaginaviaggiare.it###custom_html-33
-assisisport.it,calciocasteddu.it,carteprepagate.org,corrieredicomo.it,cucinaresenzamenate.it,destinazioneusa.com,guidaconsumatore.com,laprevisione.it,peopleforplanet.it,pianetablunews.it,topragazze.it,tuttogossipnews.it###custom_html-4
+assisisport.it,calciocasteddu.it,carteprepagate.org,corrieredelmolise.com,corrieredicomo.it,cucinaresenzamenate.it,destinazioneusa.com,guidaconsumatore.com,laprevisione.it,peopleforplanet.it,pianetablunews.it,topragazze.it,tuttogossipnews.it###custom_html-4
 mondomobileweb.it###custom_html-42
-1x2-calcio.com,calcioitalia24.it,carteprepagate.org,italiaonline.news,mam-e.it,melarossa.it,tuttogossipnews.it###custom_html-5
+1x2-calcio.com,calcioitalia24.it,carteprepagate.org,corrieredelmolise.com,italiaonline.news,mam-e.it,melarossa.it,tuttogossipnews.it###custom_html-5
 1x2-calcio.com,calcioitalia24.it,corrieredicomo.it,cucinamamma.it,hynerd.it,indiscreto.org,it-casinoonline.com,nonsprecare.it,pentanewslivorno.it,torremaggiore.com###custom_html-6
 strill.it,tuttotek.it###custom_html-65
 calcioitalia24.it,melarossa.it,pistoiasport.com,topragazze.it,torremaggiore.com###custom_html-7
