@@ -2826,6 +2826,7 @@
 ||primaradio.net^*/LaTorre.gif
 ||primocanale.it/img/banner/
 ||primopianomolise.it^*/banner
+||primopianomolise.it^*/colacem-ppm.jpg
 ||primopianomolise.it^*/issan
 ||primopianomolise.it^*/Logo%20RTUBI
 ||primopianomolise.it^*/Mancini-Store-
