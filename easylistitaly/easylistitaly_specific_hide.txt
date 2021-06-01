@@ -191,7 +191,7 @@ teleborsa.it###ctl00_if4WTV300x250
 assisisport.it,casafacile24.com,gufo.it###custom_html-10
 assisisport.it,gufo.it,indiscreto.org###custom_html-11
 cucinamamma.it,scienzenotizie.it###custom_html-12
-castellinotizie.it,pistoiasport.com###custom_html-13
+castellinotizie.it,meteogiornale.it,pistoiasport.com###custom_html-13
 cucinamamma.it,grae.it###custom_html-14
 giochi.com,immaginaviaggiare.it,nintendari.it,sportando.basketball###custom_html-17
 assisisport.it,birramoriamoci.it,calciohellas.it,calciorosanero.it,card.it,carteprepagate.org,iopartodasola.it,italiaonline.news,sportnews.eu###custom_html-2
