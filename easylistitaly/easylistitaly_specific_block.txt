@@ -3679,7 +3679,7 @@
 ||trentinolibero.it^*/ditta-online.png
 ||trentinolibero.it^*/protecteasy_
 ||trentinolibero.it^*/tuttoautoricambi.it_
-||trentinotv.it/images/social/banner
+||trentinotv.it/images/banner/
 ||trentotoday.it/images/skin/
 ||tribunapoliticaweb.sm^*_banner.
 ||tribunapoliticaweb.sm^*_skin_
