@@ -351,7 +351,7 @@ altropensiero.net,corrispondenzaromana.it,giornalistitalia.it,pisainvideo.it,tec
 bambiniconlavaligia.com###media_image-65
 bambiniconlavaligia.com###media_image-66
 cataniaunafede.it,dentrolanotizia.tv,ufficistampanazionali.it,vivoconbenessere.it###media_image-7
-dentrolanotizia.tv,giornalistitalia.it,italiaonline.news,mam-e.it,nuotounostiledivita.it,pisainvideo.it,ufficistampanazionali.it###media_image-8
+dentrolanotizia.tv,giornalistitalia.it,italiaonline.news,mam-e.it,nuotounostiledivita.it,pisainvideo.it,teleoccidente.it,ufficistampanazionali.it###media_image-8
 nuotounostiledivita.it,ufficistampanazionali.it###media_image-9
 laquilablog.it###media_video-10
 laquilablog.it###media_video-12
@@ -1455,6 +1455,7 @@ ideegreen.it,motori.it##.promobox
 proiezionidiborsa.it##.promoboxblu
 proiezionidiborsa.it##.promoboxorange
 proiezionidiborsa.it##.promoboxplus
+teleoccidente.it##.promotion-section
 tgfuneral24.it##.psct-banners
 playstationzone.it##.psz_template_prices_comp
 agoravox.it##.pub

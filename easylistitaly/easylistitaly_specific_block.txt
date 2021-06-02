@@ -3555,6 +3555,8 @@
 ||telenord.it^*/asef.gif
 ||telenord.it^*/cafuil2.gif
 ||telenord.it^*/razetocasareto_
+||teleoccidente.it^*/emmeg2.png
+||teleoccidente.it^*/tecnosh.png
 ||telepordenone.tv/js/banner.js
 ||telepordenone.tv/writable/images/trivio.gif
 ||telepordenone.tv^*/banner-
