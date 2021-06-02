@@ -652,7 +652,7 @@ spagna.cc##.add_top
 offertevolantini.it##.add_w2_h1
 24emilia.com,antennafebea.it,autoscout24.ch,brocardi.it,cb01.online,filmpertutti.kim,filmpertutti.li,filmpertutti.lol,filmpertutti.onl,filmpertutti.voto,gamemag.it,hdblog.it,hdmotori.it,hdtroll.it,ilgeniodellostreaming.dance,ilgeniodellostreaming.rest,ilgeniodellostreaming.tube,ilikepuglia.it,liberta.it,live-sport-tv.it,mattinonline.ch,sitigiochi.it,teleborsa.it,viamichelin.ch,viamichelin.it,voce.com.ve,zazoom.it##.ads
 ildolomiti.it##.adsB
-amalfinews.it,beatgogo.it,chistachiamando.it,ilportico.it,ilvescovado.it,liratv.it,occhisusalerno.it,pcprofessionale.it,positanonotizie.it,ravellonotizie.it,trova-aperto.it##.adsense
+amalfinews.it,beatgogo.it,chistachiamando.it,ilportico.it,ilvescovado.it,liratv.it,occhisusalerno.it,pcprofessionale.it,positanonotizie.it,ravellonotizie.it,trova-aperto.it,valtellinamobile.it##.adsense
 animalidacompagnia.it##.adserver
 adessoin.tv,allaguida.it,alpha59.it,altoadigetv.it,altreconomia.it,amica.it,ansa.it,buttalapasta.it,calciatoribrutti.com,calciomercato.com,cittaceleste.it,curioctopus.it,dissapore.com,fcinter1908.it,forbes.it,forzaroma.info,gelocal.it,gianlucadimarzio.com,girovagandointrentino.it,gta-expert.it,guardachevideo.it,ilfattoquotidiano.it,ilpost.it,ilsole24ore.com,itasportpress.it,juvenews.eu,latina24ore.it,leonardo.it,libero.it,mediaset.it,milanofinanza.it,movieplayer.it,multiplayer.it,nanopress.it,notiziemilan.it,oasport.it,passioneinter.com,pianetamilan.it,pourfemme.it,prealpina.it,radioindiretta.fm,repubblica.it,salepepe.it,skuola.net,staffettaonline.com,stylosophy.it,supereva.it,toro.it,toronews.net,trentinotv.it,virgilio.it,vocenuova.tv##.adv
 teleunica.com##.adv-body
