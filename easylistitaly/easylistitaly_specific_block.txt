@@ -2375,6 +2375,7 @@
 ||mole24.it^*/802x300.
 ||mole24.it^*/skin-
 ||mole24.it^*_600x600.
+||molisetabloid.it^*/lamolisana.png
 ||momentosera.it/bannerupload/
 ||mondo3.com^*/offerte-amazon-offerte.jpg
 ||mondoclassica.it^*/banner/
