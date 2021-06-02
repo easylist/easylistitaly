@@ -1614,8 +1614,9 @@ mostraip.com##.spot1
 archiportale.com##.spotGraficoTestata
 radiorcs.it##.spotaltosottomenutre
 radiorcs.it##.spotcentrato
-teleaesse.it##.spu-bg
+ecoaltomolise.net,teleaesse.it##.spu-bg
 teleaesse.it##.spu-box
+ecoaltomolise.net##.spu-container
 assisinews.it##.square_banner
 ebay.it##.srp-banner
 sanitainsicilia.it##.srur_leaderboard

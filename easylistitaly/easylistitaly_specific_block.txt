@@ -1020,6 +1020,7 @@
 ||eclavoro.it^*/ADV_
 ||eclavoro.it^*_ADV_
 ||ecnews.it^*/banner-
+||ecoaltomolise.net^*/5xmille-home.jpg
 ||ecoaltomolise.net^*/Banner-
 ||ecoaltomolise.net^*/xbanner-
 ||ecodallecitta.it/immagini/banners/
