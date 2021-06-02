@@ -1797,6 +1797,7 @@
 ||ingleseprecoce.it^*-400x400.
 ||innaturale.com^*/banner-
 ||innovami.news^*/banner-
+||insanitas.it/wp-content/banners/
 ||insic.it/Images/Banners/
 ||insic.it/Images/Layout/Banner-
 ||inside.bz.it/images/banners/
