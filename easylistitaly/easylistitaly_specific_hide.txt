@@ -330,6 +330,7 @@ acspezianews.it,campaniasoccer.com,dailybest.it,f1-news.eu,forum.tomshw.it,inves
 familygo.eu###masthead-desktop
 matematicamente.it###masthead-desktop-wrapper
 ondarock.it###masthead_or
+trapaniedintorni.it###media_gallery-3
 pisainvideo.it,ufficistampanazionali.it###media_image-10
 ufficistampanazionali.it###media_image-11
 pisainvideo.it###media_image-12
