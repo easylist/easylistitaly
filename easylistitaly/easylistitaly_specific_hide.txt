@@ -1799,6 +1799,7 @@ newsly.it,stampante-3d.net##.widget_aawp_widget_box
 yoga-magazine.it##.widget_alobaidirandombannerswidget
 scambiaricette.it##.widget_boodo_wp_300px
 stadiosport.it##.widget_encodiabookmakerwidget
+lasberla.com##.widget_huge_it_widget
 wesud.it##.widget_idemedia_banner_widget
 riskcompliance.it##.widget_itarget_banners
 rinnovabili.it##.widget_links
