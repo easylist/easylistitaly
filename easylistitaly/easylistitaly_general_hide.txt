@@ -150,6 +150,7 @@
 ##.adv-masthead
 ##.adv-promobox
 ##.adv-region
+##.adv-sfondo
 ##.adv-skin
 ##.adv-skin-weben
 ##.adv-son-300x650-page
