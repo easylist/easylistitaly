@@ -113,6 +113,7 @@
 ||info.manpower.it^$domain=funoanalisitecnica.com
 ||infomaniak.ch/promotional/$third-party
 ||insicilia.com/banner/
+||insicilia.com/modules/psaffiliate/
 ||investimenti.bnpparibas.it^$domain=trend-online.com
 ||iolam.it/js/easyBid.js
 ||ipercast.net/uploads/sponsors/
