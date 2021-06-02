@@ -543,6 +543,7 @@ radioimmagine.it###text-61
 incucinaconelena.it###text-7
 brindisioggi.it,controcopertina.com,esportsitalia.com,plusrew.com###text-8
 agenziagiornalisticaopinione.it,controcopertina.com,solorecensioni.com,telemia.it###text-9
+specchiosesto.it###text-html-widget-2
 agemobile.com###text-html-widget-4
 faidatecasa.com###tm-main-top
 certificatejournal.it,finanza.com###top-banner
@@ -1094,7 +1095,7 @@ ridble.com##.dn
 casacinema.work,casacinema01.club,filmsenzalimiti01.online,ilgeniodellostreaming.icu,italiafilm.casa,tantifilm-ita.com,tantifilm-ita.it,tantifilm.cool,tantifilm.monster,tantifilm.surf,tantifilm.work##.download-links
 bolzano-bozen.it##.dt
 finestresullarte.info##.dx250
-notiziemolise.it##.e3lan
+notiziemolise.it,specchiosesto.it##.e3lan
 cronachedibirra.it##.e3lan125
 ilpaesenuovo.it##.e3lanat-layout-rotator
 bergamonews.it##.edinews_widget_friends-3
