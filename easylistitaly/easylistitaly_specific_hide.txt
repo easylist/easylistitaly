@@ -614,6 +614,7 @@ olbianova.it##.HYPE_element
 orvietosi.it##.MS_custom_feed_reader
 amazon.it##.MultiBrandCreativeDesktop
 mentelocale.it##.PresentedBy
+ilpuntonotizie.it##.SC_TBlock
 viterbonews24.it##.SepBanner
 theitaliantimes.it##.Side_DX
 whiteradio.it##.Sp
