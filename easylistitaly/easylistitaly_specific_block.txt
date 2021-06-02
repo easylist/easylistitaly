@@ -2117,6 +2117,10 @@
 ||laziotv.it^*/banner-
 ||leccenews24.it/upload/banner/
 ||leccesette.it/banner/
+||leccochannelnews.it^*-Large-Rectangle-
+||leccochannelnews.it^*-skin.
+||leccochannelnews.it^*/Medium_Rectangle_
+||leccochannelnews.it^*/Skin-
 ||lecconotizie.com/wp-content/banners/
 ||lecconotizie.com^*/clerici_domination_
 ||lecconotizie.com^*/LN_easynet-
