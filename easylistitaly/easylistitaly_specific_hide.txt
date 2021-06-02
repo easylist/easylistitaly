@@ -574,10 +574,13 @@ ambientebio.it###widget-custom_html-18
 ambientebio.it###widget-custom_html-25
 ambientebio.it###widget-custom_html-27
 ambientebio.it###widget-custom_html-28
+lanotiziatrapanese.it###widget_sp_image-10
+lanotiziatrapanese.it###widget_sp_image-11
 novetv.com###widget_sp_image-37
 novetv.com###widget_sp_image-45
 novetv.com###widget_sp_image-47
 novetv.com###widget_sp_image-66
+lanotiziatrapanese.it###widget_sp_image-9
 novetv.com###widget_sp_image-90
 sscalciobari.it###wl-sponsor
 guidaviaggi.org###wn-insurance-quote-editor
