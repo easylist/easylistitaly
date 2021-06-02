@@ -3427,6 +3427,8 @@
 ||startmag.it^*_skin-
 ||startmag.it^*_Skin_
 ||stateofmind.it^*-Banner-
+||stateofmind.it^*/banner_
+||stateofmind.it^*_skin.
 ||statoquotidiano.it^*/300x250
 ||staynerd.com^*/106684007_3079248798861784_4040991284107120681_
 ||staynerd.com^*/diavolo-
