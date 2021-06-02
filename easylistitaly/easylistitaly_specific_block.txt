@@ -3279,6 +3279,9 @@
 ||sentireascoltare.com^*/auto-doc.it-
 ||sentireascoltare.com^*/motordoctor.gif
 ||serialgamer.it^*/banner_
+||sestonotizie.it^*/BANNER_
+||sestonotizie.it^*/pentola-d-oro-sesto-san-giovanni.jpg
+||sestonotizie.it^*/SESTO_360x210.jpg
 ||settecalcio.it^*/File_banner/
 ||sevendaysweb.com^*-banner-$domain=dirigentindustria.it
 ||sevendaysweb.com^*-mediabanner.$domain=dirigentindustria.it
