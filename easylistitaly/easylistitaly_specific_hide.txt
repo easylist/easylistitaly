@@ -341,7 +341,7 @@ magnifici7.com###media_image-25
 football-magazine.it###media_image-26
 football-magazine.it###media_image-28
 magnifici7.com###media_image-29
-benessere-sport.it,blograffo.net,corriereelorino.it,magnifici7.com,natureatblog.com,pisainvideo.it,tecnofacile.com,ufficistampanazionali.it###media_image-3
+benessere-sport.it,blograffo.net,corriereelorino.it,magnifici7.com,natureatblog.com,pisainvideo.it,tecnofacile.com,tribunapoliticaweb.sm,ufficistampanazionali.it###media_image-3
 altropensiero.net,consigliamidove.it,corriereelorino.it,esportsitalia.com,it-casinoonline.com,italiaonline.news,roadtvitalia.it,ufficistampanazionali.it###media_image-4
 staynerd.com###media_image-40
 bambiniconlavaligia.com###media_image-41
@@ -2062,6 +2062,7 @@ imagelinenetwork.com##div[id^="partner-"]
 amazon.it##div[id^="sp_detail"]
 tecnicadellascuola.it##div[id^="tecni-"]
 thewalkoffame.it##div[id^="thewa-"]
+tribunapoliticaweb.sm##div[id^="tribu-"]
 yescalabria.com##div[id^="yesca-"]
 keblog.it##div[style*="height: 250px !important; max-height: 250px !important;"]
 linterista.it,milannews.it,tuttomercatoweb.com,tuttonapoli.net##div[style*="height:270px;"]
