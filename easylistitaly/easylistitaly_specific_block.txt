@@ -2397,6 +2397,8 @@
 ||monitorimmobiliare.it^*_970x70_
 ||monitorimmobiliare.it^*_skin_
 ||monrealenews.it/images/banners/
+||monrealepress.it^*/banner-
+||monrealepress.it^*/conad-
 ||montecarlonews.it^*/banner/
 ||montecarlonews.it^*/box/
 ||monza-news.it^*/BeExtreme.jpg
