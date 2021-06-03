@@ -546,6 +546,7 @@ agenziagiornalisticaopinione.it,controcopertina.com,solorecensioni.com,telemia.i
 specchiosesto.it###text-html-widget-2
 agemobile.com###text-html-widget-4
 faidatecasa.com###tm-main-top
+popcorntv.it###top
 certificatejournal.it,finanza.com###top-banner
 calciomercato.com,sposa.it###top-banner-container
 tastoeffeuno.it###top100
