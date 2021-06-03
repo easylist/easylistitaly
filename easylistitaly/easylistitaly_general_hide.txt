@@ -165,6 +165,7 @@
 ##.advCollapse
 ##.advHm-cont-Ape
 ##.advPostLibri
+##.advTestuale
 ##.adv_articolo
 ##.adv_banner_ps_13
 ##.adv_banner_ps_2
