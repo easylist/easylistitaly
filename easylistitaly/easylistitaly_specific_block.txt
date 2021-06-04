@@ -3690,6 +3690,8 @@
 ||tp24.it/immagini_banner/
 ||tp24.it/library/_popup_banner.php
 ||traderlink.it/dbar/banner_
+||tradingmania.it^*-Banner-
+||tradingmania.it^*-sidebar.
 ||trainingpedia.it^*/banner-
 ||trainingpedia.it^*/corso-personal-trainer.jpg
 ||trapanicalcio.it^*/arena2.jpg

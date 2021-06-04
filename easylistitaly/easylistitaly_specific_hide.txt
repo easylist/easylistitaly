@@ -905,6 +905,7 @@ ilcaffe.tv##.big_box
 virtusverona.it##.bigbanner
 foodnetwork.it,money.it##.billboard
 palermopost.it##.bjsromgazn-container
+tradingmania.it##.bld-el-cont
 ludomedia.it##.blocchiPbi
 winenews.it##.blocco_banner_top
 zerounoweb.it##.blocco_primo_dfp
@@ -1598,7 +1599,7 @@ agrifoodtoday.it,agrigentonotizie.it,anconatoday.it,arezzonotizie.it,avellinotod
 sluurpy.it##.sluurpy_bdrw
 ilgallo.it##.small-banner-1
 corriere.ca##.small_banner
-meteofinanza.com##.snp-overlay
+meteofinanza.com,tradingmania.it##.snp-overlay
 gas.social##.socia-adlabel
 studiocataldi.it##.sopraarticolo20
 siciliaoggi.com##.sow-image-container
@@ -2289,7 +2290,7 @@ umbriaoggi.news##img[width="300"][height="289"]
 foggiatv.tv,ilfriuliveneziagiulia.it,informatissimo.net,it-casinoonline.com,spaziotennis.com,toscanatv.it,xtremehardware.com##img[width="300"][height="300"]
 giornaledellumbria.it##img[width="300"][height="500"]
 uspontedera.it##img[width="300"][height="60"]
-beverfood.com##img[width="300"][height="600"]
+beverfood.com,tradingmania.it##img[width="300"][height="600"]
 agraria.org##img[width="300"][height="80"]
 umbriaoggi.news##img[width="300"][height="90"]
 gonews.it##img[width="300px"][height="250px"]
