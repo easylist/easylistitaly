@@ -3691,6 +3691,7 @@
 ||torresette.news/img/banner/
 ||toscana.live^*/Auxilium-Vitae-
 ||toscana.live^*/partners
+||toscanaeventinews.it^*/corsi-di-tecnologia-musicale.jpg
 ||toscanafree.it//banner/
 ||toscanafree.it/banner/
 ||toscanagol.it/immagini/File_banner/

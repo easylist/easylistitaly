@@ -583,6 +583,7 @@ ambientebio.it###widget-custom_html-28
 lanotiziatrapanese.it###widget_sp_image-10
 lanotiziatrapanese.it###widget_sp_image-11
 novetv.com###widget_sp_image-37
+toscanaeventinews.it###widget_sp_image-4
 novetv.com###widget_sp_image-45
 novetv.com###widget_sp_image-47
 novetv.com###widget_sp_image-66
