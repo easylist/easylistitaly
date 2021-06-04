@@ -1645,6 +1645,12 @@
 ||ilgolfonline.it^*/shamir.jpg
 ||ilgoriziano.it/public/banner/
 ||ilgrigioneitaliano.ch/images/banners/
+||ilmamilio.it^*/centroEstivo-leColline-ilmamilio.jpg
+||ilmamilio.it^*/fireice-ilmamilio.jpg
+||ilmamilio.it^*/Il_Mamilio_prestito_auto.jpg
+||ilmamilio.it^*/padel69-freeTime-ilmamilio.jpg
+||ilmamilio.it^*/parcoUlivi-pubb3-ilmamilio.jpg
+||ilmamilio.it^*/sportage_pronta_consegna_mamilio_aprile.jpg
 ||ilmartino.it^*/xbanner-
 ||ilmessaggero.it/img/banner_
 ||ilmetapontino.it^*/banner-
