@@ -3060,6 +3060,7 @@
 ||radiortm.it^*/peugeot2_
 ||radiortm.it^*/san-pietro.gif
 ||radiortm.it^*/Torre-Del-Sud.jpg
+||radiosei.it/img/banners/
 ||radioshowitalia.it/public/img/sponsor_
 ||radiosieve.it^*/bannerbcc.png
 ||radiosonica.it^*/banner_
