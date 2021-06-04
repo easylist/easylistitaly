@@ -110,7 +110,7 @@ forum.tomshw.it###belowfirstpost
 emiliotomasini.it,lombardreport.com###bg_banner
 orizzontescuola.it###bglink
 wuz.it###bigrectangle
-bergamoesport.it###billboard
+bergamoesport.it,informazionefiscale.it###billboard
 augustanews.it,avolanews.it,catanianews.it,ibleinews.it,notonews.it,pachinonews.it,siracusanews.it###billboard1
 travelstales.it###bl_html-8
 travelstales.it###bl_html-9
