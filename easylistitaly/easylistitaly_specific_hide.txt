@@ -570,6 +570,7 @@ qdpnews.it,tipiace.it###vetrina
 sposa.it###vetrina-content
 altarimini.it###videoRedazionale
 nerdplanet.it###wallpaper
+easyviaggio.com###wdds_po_middle
 rtalive.it###wdslider-5
 transfermarkt.it###werbung_superbanner
 lostrillonenews.it###wideSidebar
@@ -1141,6 +1142,7 @@ huffingtonpost.it##.entry__right-rail-width-placeholder
 tuttitalia.it##.eo
 filmone.it##.epcl-shortcode
 garganotv.com##.erzodfm-container
+easyviaggio.com##.esv-edito-ctn
 meteofinanza.com##.etoro-social-widget
 generationsport.it##.euotmcyxkq
 exibart.com##.exibart-footer-partner
