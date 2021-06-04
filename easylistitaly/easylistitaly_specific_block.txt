@@ -442,6 +442,7 @@
 ||automotorinews.it^*/banner-
 ||autoseller.it/banner%5c
 ||autoseller.it/banner/
+||avinews.it^*-banner-
 ||avmagazine.it/js/common-tag.js
 ||avvisatore.com^*/adv_
 ||avvisatore.com^*/Logo-UNICEF400x90.jpg
