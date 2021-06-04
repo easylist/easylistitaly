@@ -1922,6 +1922,7 @@
 ||itvonline.news^*/skin-
 ||itvonline.news^*_banner-
 ||ivanzazzaroni.it^*_banner300x600.
+||ivl24.it^*/banner_
 ||iwp.com/abruzzoweb.it/*-400X200.
 ||jamma.tv^*/Cristaltec.gif
 ||jamma.tv^*/Cristaltec260.gif
