@@ -2914,6 +2914,10 @@
 ||quizammissione.it^*/Banner-
 ||qumran2.net/sponsor/
 ||quotidianocanavese.it/img/skyscraper/
+||quotidianodellumbria.it^*-300x250.
+||quotidianodellumbria.it^*-banner-
+||quotidianodellumbria.it^*-banner_
+||quotidianodellumbria.it^*/adotta-una-famiglia.jpg
 ||quotidianodellumbria.it^*/banner-
 ||quotidianodellumbria.it^*/manchette-
 ||quotidianodellumbria.it^*/skin-
