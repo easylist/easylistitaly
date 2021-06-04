@@ -2099,6 +2099,13 @@
 ||lattemiele.com/wp-content/plugins/fv-wordpress-flowplayer/flowplayer/fv-flowplayer.min.js
 ||lausc.it/images/banners/
 ||lavitacattolica.it^*/banner/
+||lavoce.it^*-banner-
+||lavoce.it^*/acli.png
+||lavoce.it^*/adotta-un-affitto.jpg
+||lavoce.it^*/raffaello-in-umbria.jpg
+||lavoce.it^*/UMBRIAOGGI-corti-perugine.jpg
+||lavoce.it^*_640x640-
+||lavoce.it^*_Banner_
 ||lavocedellevalli.it^*_Banner_
 ||lavocedellisola.it^*/Banco-Alimentare-Sicilia.jpg
 ||lavocedellisola.it^*/WhatsApp-Image-2020-07-16-at-11.35.13.jpeg
