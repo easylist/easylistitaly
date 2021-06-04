@@ -1171,7 +1171,7 @@ bluvolleyverona.it,chievoverona.it,hellasverona.it##.footer-sponsor
 nbv-verona.it##.footer-sponsor-line
 acspezia.com,bresciacalcio.it,cagliaricalcio.com,olbiacalcio.com##.footer-sponsors
 foodaffairs.it##.footer-widget-area
-football-magazine.it,lavoraconnoi-italia.it##.footer-widgets
+football-magazine.it,lavoraconnoi-italia.it,maremma.name##.footer-widgets
 fmtournament.it##.footer-widgets__inner
 winemag.it##.footer-wrapper
 imperatoreconsulting.eu##.footerBrand
@@ -1995,7 +1995,7 @@ padovasport.tv##a[href^="https://www.aliperme.it/"]
 iobenessere.it##a[href^="https://www.amazon.it/shop/"]
 tuttoamerica.it##a[href^="https://www.anrdoezrs.net/click-"]
 gufo.it,msn.com,neomag.it,partiteoggi.net,salutarmente.it##a[href^="https://www.awin1.com/"]
-turistadimestiere.com,vacanzeinamerica.eu,viaggio-in-germania.de##a[href^="https://www.booking.com/"]
+maremma.name,turistadimestiere.com,vacanzeinamerica.eu,viaggio-in-germania.de##a[href^="https://www.booking.com/"]
 fumettologica.it##a[href^="https://www.catawiki.it"][href*="?utm_"]
 lavocedelpopolo.it##a[href^="https://www.holyart.it/"]
 gamelegends.it,hynerd.it,spaziogames.it,tuttotek.it,xtremehardware.com##a[href^="https://www.instant-gaming.com/?igr="]
