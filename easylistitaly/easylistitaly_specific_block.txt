@@ -1054,6 +1054,7 @@
 ||ekuonews.it^*/test-covid.gif
 ||ekuonews.it^*/zonacottura.gif
 ||elaborare.com^*/banner
+||elbareport.it/images/banners/
 ||elivebrescia.tv^*/banner-
 ||elletvweb.it^*/89647628_2525170104423784_4449633659648999424_
 ||elletvweb.it^*/image-100.png
