@@ -246,3 +246,4 @@
 ||youtube.com/embed/gELMBDCT8io$domain=foggiacittaaperta.it
 ||youtube.com/embed/p0OuIDbH_sI$domain=ilportaledelcavallo.it
 ||youtube.com/embed/POnZiaHLpRA$domain=nuovabrianza.it
+||youtube.com/embed/XfHzu8taPbc$domain=sienafree.it
