@@ -1011,6 +1011,7 @@ meteo.tiscali.it##.c1c3
 castellinotizie.it##.c1dcf9f90b0a36d90b8fc9001b9eaf75
 trento2018.it##.callExclusive
 tuttoandroid.net##.card
+lavocedelpalio.it##.carousel
 monrealenews.it##.carouselbanner
 carteprepagate.org##.carte-post-1
 catanzaro7.net##.catan-nellarticolo
