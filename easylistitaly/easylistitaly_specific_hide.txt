@@ -1077,6 +1077,7 @@ automoto.it,moto.it##.crm-unit-bx3
 automoto.it,moto.it##.crm-unit-bx4
 automoto.it,moto.it##.crm-unit-mh
 infobuild.it,infobuildenergia.it##.cskin
+techzilla.it##.css_offerte_ajax
 affaritaliani.it##.csslider1
 orologi-subacquei.it##.cta-button
 stateofmind.it##.cta_img
