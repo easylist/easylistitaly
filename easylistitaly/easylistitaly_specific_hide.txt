@@ -1439,6 +1439,7 @@ milanocam.it##.overcam_advertising
 meteofinanza.com##.overlay-buttons
 meteofinanza.com##.overlay-text
 altadefinizione.coach##.overplayer
+livornopress.it##.padding-top.hide-in-wm-xxl
 chepreparo.it##.page-intro-description
 quotidianodiragusa.it##.page-pdmin
 casaeclima.com##.page-wrapper
@@ -2151,6 +2152,7 @@ amaranta.it,parmalive.com,torinogranata.it,tuttojuve.com,tuttonapoli.net,tuttono
 gamereactor.it##div[style="min-height: 600px; margin-bottom: 20px;"]
 voglioviverecosi.com##div[style="min-height: 90px; margin-top: 20px; margin-bottom: 20px"]
 firenzeviola.it,parmalive.com,torinogranata.it,tuttonapoli.net,vocegiallorossa.it##div[style="min-height: 90px;"]
+livornopress.it##div[style="min-height:300px;text-align:center;"]
 secondamanoitalia.it##div[style="min-height:90px;min-width:940px"]
 mangaforever.net##div[style="min-width:300px; min-height:250px;"]
 esportsweb.it,linterista.it##div[style="min-width:300px; width: auto; min-height: 250px;"]
