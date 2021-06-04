@@ -3689,6 +3689,8 @@
 ||torresette.news/img/banner/
 ||toscana.live^*/Auxilium-Vitae-
 ||toscana.live^*/partners
+||toscanafree.it//banner/
+||toscanafree.it/banner/
 ||toscanagol.it/immagini/File_banner/
 ||toscanalibri.it/media/img_banner/
 ||toscanamedianews.it^*/skin/

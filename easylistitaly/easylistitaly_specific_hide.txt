@@ -873,6 +873,7 @@ velanet.it##.bannerarcipelago
 laprovinciadilecco.it##.bannerbase
 brindisisera.it##.bannerbox
 treccani.it##.bannercontainer
+toscanafree.it##.bannerdentro
 ilgiornaledellabellezza.it##.bannergrid
 105tv.it,aostaoggi.it,calcionazionale.it,casertafocus.net,concorezzo.org,faidatehobby.it,fiumicino-online.it,gazzettadellaspezia.it,genova3000.it,giornaledimontesilvano.com,ilcervellone.it,ildispaccio.it,ilgazzettinobr.it,ilgrigioneitaliano.ch,isnews.it,kisskiss.it,kisskissitalia.it,kisskissnapoli.it,lametino.it,maremmanews.it,metanogpl.it,monrealenews.it,notebookitalia.it,ondalibera.it,puntovendita.info,qdpnews.it,sienafree.it,teleglobal.tv,umbriatv.com,videomediterraneo.it,youtg.net##.bannergroup
 comitatoparalimpico.it##.bannergroup-banner
@@ -880,8 +881,11 @@ betitaliaweb.it##.bannergroup_rightBanner
 radiogold.it##.bannergroupskin-banner-module
 filmforlife.org##.bannerh
 saturnonotizie.it##.bannerheader
+toscanafree.it##.bannerinoa
+toscanafree.it##.bannerinob
 bagherianews.com,betitaliaweb.it,bitsandchips.it,radioitaliacina.com##.banneritem
 prezzifarmaco.it##.bannernativo
+toscanafree.it##.bannernews
 assisisport.it,metalitalia.com,qualenergia.it,vivafm.it##.banners
 voglioporno.com##.banners-footer
 seguonews.it##.bannerslider_home_quadro
@@ -1764,7 +1768,7 @@ bresciacalciofemminile.it##.top-sponsor-new
 positanonews.it##.top-testata
 bluerating.com##.top_funders
 dtti.it##.topad
-trapanioggi.it##.topbanner
+toscanafree.it,trapanioggi.it##.topbanner
 mammainviaggio.it##.topbar
 piccoletrasgressioni.it##.topbar-banner
 blunote.it,mondoprimavera.com##.topbar-below
