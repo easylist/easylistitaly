@@ -3955,6 +3955,8 @@
 ||valsassinanews.com^*-banner
 ||valsassinanews.com^*-MANCHETTE-
 ||valsassinanews.com^*/banner-
+||valtiberinaonline.it/ext/banner/
+||valtiberinaonline.it/pub/
 ||valtrompianews.it^*/Banner/
 ||vanityfair.it^*/cn-banner.min.js?
 ||varesenews.it^*/banner/
