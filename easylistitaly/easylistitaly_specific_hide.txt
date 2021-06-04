@@ -947,7 +947,7 @@ iphoneitalia.com##.box-amazon
 pordenonecalcio.com##.box-assiteca
 tvserial.it##.box-atf
 centropagina.it##.box-b
-archilovers.com,difesaonline.it,tempoitalia.it##.box-banner
+archilovers.com,difesaonline.it,spettacolinews.it,tempoitalia.it##.box-banner
 cucchiaio.it##.box-banner-hp-dx
 agrodolce.it##.box-desktop-side-top_container
 balarm.it##.box-evidenza
