@@ -389,6 +389,7 @@ puntocellulare.it###o_list
 diretta.it,flashscore.it###odds-main-wrapper
 mondoplay.it,mondoxbox.com###offersbox
 mondoplay.it,mondoxbox.com###offersbox_wide
+radiogold.it###overlay-bn-wrapper
 tgtourism.tv###panel-2-4-3-1
 sposa.it###partner-content
 sassuolocalcio.it,ship2shore.it###partners
@@ -1474,6 +1475,7 @@ teleoccidente.it##.promotion-section
 tgfuneral24.it##.psct-banners
 playstationzone.it##.psz_template_prices_comp
 agoravox.it##.pub
+radiogold.it##.pub-content
 kikapress.com##.pub_container
 reteradioazzurra.it##.pubbli_home_extra_right
 reteradioazzurra.it##.pubbli_home_extra_top
