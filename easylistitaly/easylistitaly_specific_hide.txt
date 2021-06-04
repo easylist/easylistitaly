@@ -1013,6 +1013,7 @@ webpointzero.com##.cegg_widget_products
 radioinblu.it,tv2000.it##.cei-skin-side
 lineapress.it##.cfxi-container
 vienormali.it##.cimarandom
+autoscout24.it##.cl-billboad-wrapper
 cliccascienze.it##.clicc-prima-del-contenuto
 edilportale.com##.click-Skin
 telenord.it##.click-banner
