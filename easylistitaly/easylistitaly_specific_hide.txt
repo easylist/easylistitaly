@@ -1047,6 +1047,7 @@ casasuper.it##.code-block-16
 keblog.it##.code-block-2
 fisco7.it##.code-block-29
 avvisatore.com,cinquecolonne.it##.code-block-3
+ok-salute.it##.code-block-42
 ok-salute.it##.code-block-43
 grossetosport.com,informarea.it,pomiglianolive.it##.code-block-5
 avvisatore.com##.code-block-6
