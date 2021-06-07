@@ -477,6 +477,8 @@ diretta.it###tab-odds
 geologi.it###table113
 gamesvillage.it###takeover_gv
 ecovicentino.it###td-layer-audio-article-banner
+chedonna.it###tdi_197_d09
+chedonna.it###tdi_201_2ff
 radioluna.it###testata
 irlandaonline.com###text-1
 agenziagiornalisticaopinione.it,androidblog.it,torremaggiore.com###text-10
@@ -1725,6 +1727,7 @@ agimeg.it##.td_uid_18_606dd54991c0e_rand
 ilparmense.net##.td_uid_18_606dd7c7652fd_rand
 ilparmense.net##.td_uid_2_606dd7c74fb8e_rand
 romanews.eu##.td_uid_7_5fc0c934d6e11_rand
+chedonna.it##.tdi_115_ebb
 omniagate.com##.tdi_11_784
 volleynews.it##.tdi_132 + .tdi_136
 calcioj.com##.tdi_15_2e7
@@ -1736,6 +1739,7 @@ vivitelese.it##.tdi_61
 omniagate.com##.tdi_6_6a9
 omniagate.com##.tdi_6_c68
 vivitelese.it##.tdi_71
+chedonna.it##.tdi_71_064
 vivitelese.it##.tdi_72
 tomshw.it##.teetee-embed
 telesud.it##.teles-header-banner
