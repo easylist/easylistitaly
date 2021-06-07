@@ -1728,9 +1728,14 @@
 ||ilroma.net^*_skin.
 ||ilsalottodelcalcio.it^*-banner.
 ||ilsalottodelcalcio.it^*/oliver-camponovo-
+||ilsalvagente.it^*/320x320_
 ||ilsalvagente.it^*/ASSOBIO-
+||ilsalvagente.it^*/banner-
 ||ilsalvagente.it^*/Barrer-
 ||ilsalvagente.it^*/COOP_PrezziFermi.jpg
+||ilsalvagente.it^*/image001.jpg
+||ilsalvagente.it^*_320x320px.
+||ilsalvagente.it^*_banner.
 ||ilsalvagente.it^*_Banner320x320-
 ||ilsalvagente.it^*_Banner320x320.
 ||ilsicilia.it/wp-content/banners/
