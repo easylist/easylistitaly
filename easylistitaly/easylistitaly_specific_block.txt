@@ -472,6 +472,7 @@
 ||baraondanews.it^*/auto-doc.
 ||baraondanews.it^*/gif.gif
 ||baraondanews.it^*/SIRCAR-GIF-
+||barinedita.it/public/banner/
 ||basilicatanotizie.net/images/banners/
 ||basilicatanotizie.net^*/background-
 ||basketfemminilebiellese.altervista.org^*/Sponsor/
