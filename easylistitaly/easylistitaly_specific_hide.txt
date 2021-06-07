@@ -120,6 +120,9 @@ esportsmobile.it###black-studio-tinymce-7
 ilgolfonline.it###black-studio-tinymce-8
 liberliber.it###blocco_banner
 giornaledellamusica.it###block-adv
+mangialibri.com###block-banneramazonprimevideo
+mangialibri.com###block-bannerkindleunlimited
+mangialibri.com###block-bannerlibripagamento
 tuttosuigatti.it###block-bean-banner-content-bottom
 tuttosuigatti.it###block-bean-banner-content-center
 tuttosuigatti.it###block-bean-banner-header
@@ -134,6 +137,7 @@ cascinanotizie.it###block-block-63
 mangialibri.com###block-block-7
 cascinanotizie.it###block-block-70
 mediaworld.it###block-footerbanners
+mangialibri.com###block-sottopiatto
 nuovosud.it###block-views-banner-centrale-menu-block
 torinofc.it###block-views-sponsor-block-2
 noitv.it###bn-sidebar

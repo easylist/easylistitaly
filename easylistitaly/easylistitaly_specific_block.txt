@@ -2295,7 +2295,10 @@
 ||mangaforever.net^*/sconti-online.jpg
 ||mangialibri.com^*/Audio%20Marcos.jpg
 ||mangialibri.com^*/BANNER_
+||mangialibri.com^*/BANNERgiornimaledetti.jpg
+||mangialibri.com^*/BANNERi17%20mondi.jpg
 ||mangialibri.com^*/bannerVelia2.jpg
+||mangialibri.com^*/famigliaSingerBANNER.jpg
 ||mangialibri.com^*/lafabbricadellassolutobanner2.jpg
 ||mangialibri.com^*300x250
 ||mangiobenevivobene.it^*/banner-
