@@ -1438,6 +1438,7 @@ bebeez.it##.olo-row-banner-center-hp
 bebeez.it##.olo-row-custom-sponsor
 lamilano.it##.olvu
 architetturaecosostenibile.it##.onetag
+italiacashback.com##.opt
 milanocam.it##.overcam_advertising
 meteofinanza.com##.overlay-buttons
 meteofinanza.com##.overlay-text
