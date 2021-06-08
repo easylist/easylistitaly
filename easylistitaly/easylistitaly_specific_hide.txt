@@ -1817,6 +1817,7 @@ valseriananews.it##.valse-mie-pubblicita
 radioascoli.it##.vc_carousel
 casertaweb.com,pugliapress.org##.vc_carousel-inner
 abruzzoweb.it##.vc_column-inner
+avvisatoredellevante.com##.vc_cta3-container
 ilpuntonotizie.it##.vc_custom_1508767821833
 calciofoggia1920.net##.vc_custom_1537770288568
 orvietosi.it##.vc_custom_1587719628931
