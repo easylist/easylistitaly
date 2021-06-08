@@ -1665,6 +1665,7 @@ ebay.it##.srp-banner
 sanitainsicilia.it##.srur_leaderboard
 cremaoggi.it,cremonaoggi.it,oglioponews.it##.standard-inside-text
 pmi.it,we-wealth.com##.sticky-banner
+wallstreetitalia.com##.sticky-ele
 sportytrader.it##.sticky-header_banner_first
 sempionenews.it##.sticky-posts__redazionali
 quattroruote.it##.sticky-sponsor
