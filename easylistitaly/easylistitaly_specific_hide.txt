@@ -570,6 +570,8 @@ goblins.net###top_header
 paolociraci.it###top_sponsor
 hcgherdeina.com###top_sponsor_inner
 tusciaweb.eu###topalto
+mareonline.it###toplogo1
+mareonline.it###toplogo2
 everyeye.it###topskin_clicktag
 ilturista.info###tours-tickets-banner
 hc-neumarkt.com###tr-contentbottom
