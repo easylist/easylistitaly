@@ -1406,6 +1406,7 @@
 ||goriziaoggi.news^*/enaip-innovazione.jpeg
 ||grae.it^*/headerVILLA-
 ||grandangoloagrigento.it^*/350x350-
+||grandimagazziniculturali.it^*/banner728x90animato.gif
 ||gratisfree.it/cgi-bin/bannergest$script
 ||greenews.info/wp-content/banners/
 ||greenretail.it^*/LAND-
