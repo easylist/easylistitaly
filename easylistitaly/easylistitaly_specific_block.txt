@@ -571,6 +571,8 @@
 ||buongiornoslovacchia.sk/banner/
 ||business24tv.it^*/Banner_
 ||business24tv.it^*/skin_
+||businessonline.it/_funzioni/modulo.asp?id=50
+||businessonline.it/img/repower/
 ||bussolafinanziaria.it^*/etoro-copy-trading-sidebar.png
 ||caffe.ch/media/STATICHE/ilcaffe/ADV/
 ||cagliaricalcio.com^*-sponsor-
