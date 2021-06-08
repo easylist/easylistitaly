@@ -111,6 +111,8 @@
 ||agrigentonotizie.it/images/skin/
 ||agrigentooggi.it^*/unnamed-2.png
 ||agronline.it/uploads/fre/
+||aia-figc.it^*/legea.png
+||aia-figc.it^*/net-insurance.png
 ||albengacorsara.it/libri/
 ||albengacorsara.it/promo/
 ||albinoleffe.com/images/banners/
