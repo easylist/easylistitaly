@@ -2773,6 +2773,8 @@
 ||piacenzacalcio.it^*_banner_
 ||piacenzacalcio.it^*_sponsor_
 ||piacenzaonline.info^*/Banner-
+||piazzasalento.it^*/Banner-
+||piazzasalento.it^*/dedagroup-1156x250-
 ||piazzasalento.it^*/santarita300x250.jpg
 ||picchio.logico.cloud^*/logopartner/
 ||piccoletrasgressioni.it/img/banner-
