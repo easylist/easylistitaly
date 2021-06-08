@@ -570,6 +570,7 @@
 ||buongiornoalghero.it^*/banner_
 ||buongiornoslovacchia.sk/banner/
 ||business24tv.it^*/Banner_
+||business24tv.it^*/skin-
 ||business24tv.it^*/skin_
 ||businessonline.it/_funzioni/modulo.asp?id=50
 ||businessonline.it/img/repower/
@@ -4182,6 +4183,7 @@
 ||worldofwrestling.it^*/wow.gif
 ||wp.com/1x2-calcio.com/*/comparazione-bonus-Vincitu.png
 ||wp.com/1x2-calcio.com/*/EUROBET-compara.png
+||wp.com/business24tv.it/*/AFRICA6GULF-1000x750-segui-la-diretta.jpg
 ||wp.com/businessandleaders.it/*/bloggif_5a71e5783573c.gif
 ||wp.com/catanista.eu/*/nextopening.png
 ||wp.com/efferadio.it/*/amazon-
