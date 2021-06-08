@@ -1455,6 +1455,7 @@
 ||hdmotori.it/new_files/ajax/bf_new.php?
 ||hellogreen.it^*/libro-del-mese-
 ||hellogreen.it^*600x600
+||helpconsumatori.it^*/annuncio-
 ||historychannel.it^*/swissre.
 ||hobbyquotidiano.com^*/amazon_
 ||horecanews.it/wp-content/uploads/angwp/
