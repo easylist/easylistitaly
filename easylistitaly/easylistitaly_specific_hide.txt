@@ -1015,6 +1015,7 @@ domusweb.it##.c-article-prev--sponsored
 quattroruote.it##.c-banner-opening1__sponsor
 asroma.com##.c-feed-card-ad
 empolifc.com##.c-footer__sponsors-container
+legab.it##.c-sponsors
 meteo.tiscali.it##.c1c3
 castellinotizie.it##.c1dcf9f90b0a36d90b8fc9001b9eaf75
 trento2018.it##.callExclusive
@@ -1333,7 +1334,7 @@ castelvetranonews.it##.liban
 top10cose.it##.link-affiliazione
 business24tv.it##.link-at-body
 balarm.it##.link-skin
-pressgiochi.it##.linkSkin
+legab.it,pressgiochi.it##.linkSkin
 monitorimmobiliare.it,winenews.it##.link_skin
 skillandbet.com##.list-unstyled
 telenord.it##.lista-banner

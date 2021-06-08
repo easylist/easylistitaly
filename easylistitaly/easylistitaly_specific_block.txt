@@ -830,6 +830,9 @@
 ||click.html.it^
 ||clientiesperti.it^*-banner.
 ||cloudfront.net/pix/$domain=armiusate.it
+||cloudfront.net^*.Skin_$domain=legab.it
+||cloudfront.net^*/partner-$domain=legab.it
+||cloudfront.net^*/sponsor-$domain=legab.it
 ||clubdoria46.it^*/sanbstian.jpg
 ||clubdoria46.it^*/src_logo-300x123.png
 ||cn24tv.it/images/banners/
