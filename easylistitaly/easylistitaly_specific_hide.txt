@@ -40,7 +40,7 @@ altarimini.it###attivitaEvidenza
 eurogamer.it###auto-amazon-link
 gnoccatravels.com###b-nner-right-list
 libero.it###b468x60bottoms
-10cose.it,arrivi-partenze.it,scorcidimondo.it,tuttobaviera.it###b_searchboxInc
+10cose.it,arrivi-partenze.it,nelfaro.it,scorcidimondo.it,tuttobaviera.it###b_searchboxInc
 bazar.it,inconcreto.net,ingenio-web.it,insic.it,pavimenti-web.it###background
 brocardi.it###background-head-spacer
 brindisisettenews.it###background_body
@@ -905,6 +905,7 @@ vicenzanews.it##.bannexDX
 vicenzanews.it##.bannexSX
 notizialocale.it##.bc_random_banner
 corriere.it##.bck-media-list-sponsor
+nelfaro.it##.bdotcom_bc_mbe_banner
 magentanostra.it##.bdt-logo-carousel-figure
 altadefinizione01.games##.before_player_btn
 rockit.it##.bello-container
