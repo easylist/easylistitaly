@@ -984,6 +984,8 @@
 ||dayitalianews.com^*/campagna_unipol.mp4
 ||dazebaonews.it/images/ITC.jpg
 ||dazebaonews.it/images/LAB.jpg
+||dedalomultimedia.it/images/banners/
+||dedalomultimedia.it/images/Confartigianato/
 ||dentrolanotizia.tv^*/banner_
 ||dentrolanotizia.tv^*/falegnameriapinoccio.jpg
 ||dentrolanotizia.tv^*/franca-esposito-psicoterapeuta.jpg
