@@ -1755,6 +1755,7 @@ omniagate.com##.tdi_6_c68
 vivitelese.it##.tdi_71
 chedonna.it##.tdi_71_064
 vivitelese.it##.tdi_72
+rinnovabili.it##.tdi_88_884
 tomshw.it##.teetee-embed
 telesud.it##.teles-header-banner
 positanonews.it##.testata
