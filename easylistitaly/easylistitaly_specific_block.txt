@@ -514,6 +514,7 @@
 ||bierredue.it/images/450x75.jpg
 ||bikeitalia.it^*/banner-
 ||bikeracing.it/bannersbk.jpg
+||bioterra.it^*/Tavola-disegno-13-768x1365.png
 ||birramoriamoci.it^*/Fatti-una-birra.gif
 ||birramoriamoci.it^*/prime-300x140.png
 ||birramoriamoci.it^*/regalli-birra-

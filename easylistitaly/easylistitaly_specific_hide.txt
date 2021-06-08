@@ -551,7 +551,7 @@ teleaesse.it###text-50
 teamworld.it###text-51
 radioimmagine.it###text-61
 incucinaconelena.it###text-7
-brindisioggi.it,controcopertina.com,esportsitalia.com,plusrew.com###text-8
+bioterra.it,brindisioggi.it,controcopertina.com,esportsitalia.com,plusrew.com###text-8
 agenziagiornalisticaopinione.it,controcopertina.com,solorecensioni.com,telemia.it###text-9
 specchiosesto.it###text-html-widget-2
 agemobile.com###text-html-widget-4
