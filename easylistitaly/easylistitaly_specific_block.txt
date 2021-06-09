@@ -621,6 +621,7 @@
 ||campaniameteo.it/CMS/Upload/GalleriaUtente/Image/
 ||campanianotizie.com^*/bann_
 ||campanianotizie.com^*/banner-
+||campanianotizie.com^*/ezgif-6-26e867c07d8e.gif
 ||campanianotizie.com^*/raggiodisole.gif
 ||campaniapress.it^*/banner-
 ||campaniapress.it^*/HSC-HUMAN-logo-vettoriale-768x633.jpg
