@@ -407,6 +407,7 @@
 ||areamediapress.it^*/logo-upa-sv.png
 ||areamediapress.it^*/ops-1.jpg
 ||areamediapress.it^*/Schermata-2020-09-17-alle-19.28.30.png
+||arezzo24.net/images/banners/
 ||arezzoweb.it^*/Estra_
 ||arezzoweb.it^*/Evoluzione-Tende_
 ||arezzoweb.it^*/Maggi_
