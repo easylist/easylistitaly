@@ -83,7 +83,7 @@ finestresullarte.info###banner_9_div
 contosulconto.it###banner_content
 quizpatenteonline.it###banner_fix
 vocidicitta.it###banner_footer_728
-entella.it###banner_header
+amarantomagazine.it,entella.it###banner_header
 cronachedibirra.it###banner_in-article
 cronachedibirra.it###banner_in-article_adv
 odontoiatria33.it###banner_lato
@@ -438,7 +438,7 @@ iovivoaroma.org###skin_link_sx
 cronacheancona.it,cronachefermane.it,cronachemaceratesi.it###skinabove
 monrealenews.it###skinbanner
 emiliagol.it###skinclick
-buongiornoalghero.it,finestresullarte.info,freeonline.org,itvonline.news,lospiffero.com,planetmountain.com,primapress.it,salernonotizie.it,torresette.news,verdeazzurronotizie.it###skinlink
+amarantomagazine.it,buongiornoalghero.it,finestresullarte.info,freeonline.org,itvonline.news,lospiffero.com,planetmountain.com,primapress.it,salernonotizie.it,torresette.news,verdeazzurronotizie.it###skinlink
 balarm.it,gamereactor.it###sky
 mondocalcionews.it###sky-sidebar
 gamereactor.it###sky2_1
@@ -855,6 +855,7 @@ professionecalcio.net,professionemotori.it##.banner_after_feat
 infobuildenergia.it##.banner_associazioni_wrapper
 fidelityhouse.eu##.banner_box
 bolognafc.it##.banner_btm_page
+amarantomagazine.it##.banner_centrale
 casateonline.it,leccoonline.com,merateonline.it##.banner_centro
 ilromanista.eu##.banner_cms
 winenews.it##.banner_concessionaria
