@@ -1,8 +1,12 @@
 ||adserver.incontrierotici.it^$popup
+||affiliazioniads.snai.it^$popup,third-party
 ||bet365-scommesse.com/?affiliate=$popup,third-party
 ||betclic.it/partner.aspx?$popup
+||betway.it/bwp/$popup,third-party
 ||bit.ly^$popup,domain=calcioj.com
 ||campaign.aliexpress.com^$popup,domain=tantifilm.pink
+||campaigns.williamhill.it^$popup,third-party
+||codere.it/promoRedirect?$popup,third-party
 ||edreams.it/?affiliate=$popup
 ||eurostreaming.cam^$popup,third-party
 ||goldbetpartners.it/redirect.aspx?$popup,third-party
@@ -10,9 +14,12 @@
 ||incontripersesso.com/landing/$popup
 ||lp.starvegas.it^$popup,third-party
 ||lupoporno.com^$popup,third-party
+||mmwebhandler.aff-online.com^$popup,third-party
 ||okincontri.com^$popup,third-party
 ||partypoker.it/td/$popup
 ||planet49.it/cgi-bin/wingame.pl?$popup
+||record.betpartners.it^$popup,third-party
+||starvegas.it/gmg/refer/$popup,third-party
 ||tracking.donnemagazine.it^$popup
 ||tracking.foodblog.it^$popup
 ||tracking.mammemagazine.it^$popup
@@ -23,3 +30,4 @@
 ||tracking.tuobenessere.it^$popup
 ||tracking.viaggiamo.it^$popup
 ||trendevice.com/?utm_$popup,domain=macitynet.it
+||vincitu.it/C.ashx?$popup,third-party
