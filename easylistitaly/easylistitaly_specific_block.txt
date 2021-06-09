@@ -1427,9 +1427,13 @@
 ||grossetonotizie.com^*/logo-cpt.jpg
 ||grossetosport.com^*/110288686_1861381787329582_1396595708202267172_n.jpg
 ||grossetosport.com^*/300.png
+||grossetosport.com^*/728x90px.gif
 ||grossetosport.com^*/Banner-
 ||grossetosport.com^*/Schermata-2016-03-11-alle-22.16.34.png
 ||grossetosport.com^*/Schermata-2018-03-01-alle-09.04.10.png
+||grossetosport.com^*/Schermata-2020-11-26-alle-21.55.52-2.png
+||grossetosport.com^*/Schermata-2021-02-10-alle-14.12.41.png
+||grossetosport.com^*/Sequenza-02_1.gif
 ||grossetosport.com^*/solcaffe-
 ||grossetosport.com^*_300x300.
 ||grossetosport.com^*_banner_

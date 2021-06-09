@@ -211,9 +211,9 @@ dimagrireduepuntozero.com###custom_html-27
 alground.com,androidblog.it,assisisport.it,birramoriamoci.it,calcioatalanta.it,calciofere.it,calciogrifo.it,calciolecce.it,corrieredelmolise.com,forzaparma.it,labaricalcio.it,quizlab.it,siamolaroma.it,sololalazio.it,tifocosenza.it,torremaggiore.com,trapanigranata.it,umbria.webcam###custom_html-3
 immaginaviaggiare.it###custom_html-30
 immaginaviaggiare.it###custom_html-33
-assisisport.it,calciocasteddu.it,carteprepagate.org,corrieredelmolise.com,corrieredicomo.it,cucinaresenzamenate.it,destinazioneusa.com,guidaconsumatore.com,laprevisione.it,peopleforplanet.it,pianetablunews.it,topragazze.it,tuttogossipnews.it###custom_html-4
+assisisport.it,calciocasteddu.it,carteprepagate.org,corrieredelmolise.com,corrieredicomo.it,cucinaresenzamenate.it,destinazioneusa.com,grossetosport.com,guidaconsumatore.com,laprevisione.it,peopleforplanet.it,pianetablunews.it,topragazze.it,tuttogossipnews.it###custom_html-4
 mondomobileweb.it###custom_html-42
-1x2-calcio.com,calcioitalia24.it,carteprepagate.org,corrieredelmolise.com,italiaonline.news,mam-e.it,melarossa.it,tuttogossipnews.it###custom_html-5
+1x2-calcio.com,calcioitalia24.it,carteprepagate.org,corrieredelmolise.com,grossetosport.com,italiaonline.news,mam-e.it,melarossa.it,tuttogossipnews.it###custom_html-5
 1x2-calcio.com,calcioitalia24.it,corrieredicomo.it,cucinamamma.it,hynerd.it,indiscreto.org,it-casinoonline.com,nonsprecare.it,paladins.it,pentanewslivorno.it,torremaggiore.com###custom_html-6
 strill.it,tuttotek.it###custom_html-65
 calcioitalia24.it,melarossa.it,pistoiasport.com,topragazze.it,torremaggiore.com###custom_html-7
@@ -550,7 +550,11 @@ castellinotizie.it###text-496
 birramoriamoci.it,giornalesm.com###text-5
 teleaesse.it###text-50
 teamworld.it###text-51
-radioimmagine.it###text-61
+grossetosport.com###text-53
+grossetosport.com###text-58
+grossetosport.com###text-60
+grossetosport.com,radioimmagine.it###text-61
+grossetosport.com###text-62
 incucinaconelena.it###text-7
 bioterra.it,brindisioggi.it,controcopertina.com,esportsitalia.com,plusrew.com###text-8
 agenziagiornalisticaopinione.it,controcopertina.com,solorecensioni.com,telemia.it###text-9
