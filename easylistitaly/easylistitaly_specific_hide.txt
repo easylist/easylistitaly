@@ -509,7 +509,7 @@ best5.it###text-26
 nerdevil.it###text-27
 giornalistitalia.it###text-28
 ricettealvolo.it###text-29
-clientiesperti.it,libripiuvenduti.it,tecnofacile.com,top10scommesse.it###text-3
+clientiesperti.it,gstv24.it,libripiuvenduti.it,tecnofacile.com,top10scommesse.it###text-3
 giornalistitalia.it###text-30
 castellinotizie.it###text-315
 universo7p.it###text-32
