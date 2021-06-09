@@ -249,6 +249,7 @@ lanostratv.it###footer-top-wrapper
 tvrxenon.it###footer-widgets
 caneogolf.it###footer_area
 videosesso.com###footertop
+1web.tv###fpub-popup
 gogoterme.com,luoghidanonperdere.com###frm
 gamingtoday.it###frm_affId_0
 ilcap.it###gadsense
@@ -341,7 +342,7 @@ pisainvideo.it,ufficistampanazionali.it###media_image-10
 ufficistampanazionali.it###media_image-11
 pisainvideo.it###media_image-12
 pisainvideo.it###media_image-14
-allasianfootball.com,buonenotizie.it,chepreparo.it,ecodisicilia.com,ilgazzettinodisicilia.it,internapoli.it,it-casinoonline.com,novetv.com,pisainvideo.it,quotidianodifoggia.it,todinforma.it,viaggiare-low-cost.it###media_image-2
+1web.tv,allasianfootball.com,buonenotizie.it,chepreparo.it,ecodisicilia.com,ilgazzettinodisicilia.it,internapoli.it,it-casinoonline.com,novetv.com,pisainvideo.it,quotidianodifoggia.it,todinforma.it,viaggiare-low-cost.it###media_image-2
 natureatblog.com###media_image-23
 magnifici7.com###media_image-25
 football-magazine.it###media_image-26
