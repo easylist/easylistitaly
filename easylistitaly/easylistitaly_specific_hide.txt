@@ -2179,6 +2179,7 @@ voglioviverecosi.com##div[style="min-height: 90px; margin-top: 20px; margin-bott
 firenzeviola.it,parmalive.com,torinogranata.it,tuttonapoli.net,vocegiallorossa.it##div[style="min-height: 90px;"]
 livornopress.it##div[style="min-height:300px;text-align:center;"]
 secondamanoitalia.it##div[style="min-height:90px;min-width:940px"]
+tuttosalernitana.com##div[style="min-width:160px; width: auto; min-height: 600px;"]
 mangaforever.net##div[style="min-width:300px; min-height:250px;"]
 esportsweb.it,linterista.it##div[style="min-width:300px; width: auto; min-height: 250px;"]
 esportsweb.it##div[style="min-width:970px; width: auto; min-height: 250px;"]
