@@ -2398,6 +2398,7 @@ meccanicanews.com#?#.td_block_wrap:-abp-has(a:-abp-contains(Contenuti sponsorizz
 metalitalia.com#?#.sidebar-block:-abp-has(a[href^="http://www.emp-online.it/?wt_mc="])
 milanofinanza.it#?#.col-md-12.intesahead.mb-3 ~ .col-md-4:-abp-has(a[href^="https://group.intesasanpaolo.com/"])
 open.online#?#.news:-abp-has(div:-abp-contains(in collaborazione con ))
+paginegialle.it#?#.list-element.list-element--free:-abp-has(.list-element__label--annuncio)
 plastix.it#?#.td_block_wrap:-abp-has(span:-abp-contains(Contenuti sponsorizzati))
 quattroruote.it#?#.c-post:-abp-has(a:-abp-contains(Sponsored by ))
 radioluna.it#?#.feat-widget-wrap:-abp-has(div:-abp-contains(INFORMAZIONE REDAZIONALE))
