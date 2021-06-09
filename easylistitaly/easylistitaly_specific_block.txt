@@ -1680,6 +1680,12 @@
 ||ilgolfo24.it^*/pegaso.jpg
 ||ilgolfonline.it^*/shamir.jpg
 ||ilgoriziano.it/public/banner/
+||ilgranchio.it^*/banner-
+||ilgranchio.it^*/Banner300x280.gif
+||ilgranchio.it^*/newpointservice_
+||ilgranchio.it^*/villabenedetta.jpg
+||ilgranchio.it^*_banner.
+||ilgranchio.it^*_banner300x397_
 ||ilgrigioneitaliano.ch/images/banners/
 ||ilmamilio.it^*/centroEstivo-leColline-ilmamilio.jpg
 ||ilmamilio.it^*/fireice-ilmamilio.jpg
