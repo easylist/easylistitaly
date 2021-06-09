@@ -1981,6 +1981,7 @@
 ||kisskiss.it/images/banners/
 ||kisskissitalia.it/images/banners/
 ||kisskissnapoli.it/images/banners/
+||kisskissnapoli.it^*/Marino_KKNapoli_
 ||kongnews.it^*/BANNER-
 ||kurdistanonline.net/img/scarica
 ||la-notizia.net^*/BBLegno.jpg
