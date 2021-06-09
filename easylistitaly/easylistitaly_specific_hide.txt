@@ -1727,7 +1727,7 @@ agrodolce.it,autoblog.it,bebeblog.it,blogo.it,borse.it,calcioblog.it,cineblog.it
 betitaliaweb.it##.tbody + .bonus-background
 cattolica.info##.tc_adm
 gioconews.it##.tcvn-banner-item
-toscananotizie.com##.td-a-rec
+ilfattovesuviano.it,toscananotizie.com##.td-a-rec
 2anews.it##.td-a-rec-id-custom-spot
 ivl24.it##.td-all-devices
 ilprimatonazionale.it##.td-banner-bg
