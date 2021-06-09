@@ -1408,6 +1408,7 @@ familygo.eu##.mobile-spot
 scienzenotizie.it##.mobile-top-banner
 alimentibevande.it,professioneallevatore.it,professionesuinicoltore.it##.mod
 telelazionord.it##.mom-e3lanat-inner
+valdichianaoggi.it##.mom-e3lanat-wrap
 boingtv.it,eurogamer.it,foodnetwork.it,gioco.it,morningstar.it##.mpu
 stellafm.it##.ms-slide-link
 nordmilano24.it##.musthead

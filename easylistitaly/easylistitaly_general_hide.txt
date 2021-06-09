@@ -234,6 +234,7 @@
 ##.header-mobile-mega-adv
 ##.home-rubriche-adv
 ##.inews_adv_top
+##.intro-adv
 ##.jadv_leoadv_pd
 ##.lancio_adv
 ##.leaderboard-adv
