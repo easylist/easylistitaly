@@ -79,6 +79,7 @@
 ###box_single_adv_sotto
 ###box_single_adv_sotto_1
 ###box_single_adv_sotto_2
+###cardAdv
 ###contPubb
 ###corpo_video_sponsor
 ###divPubblicita
