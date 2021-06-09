@@ -3025,7 +3025,13 @@
 ||radiodigitalenergy.com/images/canastri.jpg
 ||radiodigitalenergy.com/images/radio.net.jpg
 ||radiodimensionemusica.it^*/Logo-Pigini.jpg
+||radiofly.cloud^*/area-logo-
+||radiofly.cloud^*/astranet-
+||radiofly.cloud^*/banner-
 ||radiofly.cloud^*/Estra_
+||radiofly.cloud^*/foxy-logo.png
+||radiofly.cloud^*/logo_astra_
+||radiofly.cloud^*/radios-online-
 ||radiofusion.it/images/banners/
 ||radiogelosa.it^*/caneva.gif
 ||radiogold.it/images/banners/
