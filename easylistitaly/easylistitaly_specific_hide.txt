@@ -342,6 +342,8 @@ pisainvideo.it,ufficistampanazionali.it###media_image-10
 ufficistampanazionali.it###media_image-11
 pisainvideo.it###media_image-12
 pisainvideo.it###media_image-14
+seitv.it###media_image-15
+seitv.it###media_image-16
 1web.tv,allasianfootball.com,buonenotizie.it,chepreparo.it,ecodisicilia.com,ilgazzettinodisicilia.it,internapoli.it,it-casinoonline.com,novetv.com,pisainvideo.it,quotidianodifoggia.it,todinforma.it,viaggiare-low-cost.it###media_image-2
 natureatblog.com###media_image-23
 magnifici7.com###media_image-25
@@ -2094,6 +2096,7 @@ autoscout24.it##div[data-item-name="finance-and-insurance"]
 stilenaturale.com##div[id="Banner_BIOOFFERTA"]
 inconcreto.net,ingenio-web.it,pavimenti-web.it##div[id^="Banner"]
 romait.it##div[id^="ad"]
+seitv.it##div[id^="admania_"]
 aleteia.org##div[id^="article-desk-after-header-ad_"]
 aleteia.org##div[id^="article-desk-before-footer-ad_"]
 assisinews.it##div[id^="assis-"]

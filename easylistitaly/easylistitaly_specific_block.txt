@@ -3357,7 +3357,9 @@
 ||segretodonna.com^*/720x90-
 ||seguonews.it^*/banner/
 ||seguonews.it^*/banner_
+||seitv.it^*/Banner-
 ||seitv.it^*/PicsArt_03-09-12.17.01-e1546532655750.png
+||seitv.it^*/skin-
 ||seitv.it^*/WhatsApp-Image-2020-10-05-at-16.03.53.jpeg
 ||sempionenews.it^*/delcar-
 ||senigallianotizie.it/banner/
