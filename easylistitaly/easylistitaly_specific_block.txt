@@ -183,6 +183,8 @@
 ||amalfinotizie.it^*/omenu.one_
 ||amalfinotizie.it^*_500x500.
 ||amantideilibri.it^*/banner-
+||amarantomagazine.it/immagini/skin-
+||amarantomagazine.it/upload/banner/
 ||amazonaws.com^*/1920x600_$domain=popeconomy.tv
 ||amazonaws.com^*/5d24b87899c84085287515.jpg$domain=primocomunicazione.it
 ||amazonaws.com^*/5d42b26ab05d0330852918.png$domain=primocomunicazione.it
