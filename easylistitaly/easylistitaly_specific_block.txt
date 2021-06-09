@@ -1425,6 +1425,8 @@
 ||greenretail.it^*/LAND-
 ||grossetonotizie.com^*/banner-
 ||grossetonotizie.com^*/logo-cpt.jpg
+||grossetoonline.com^*-970x90-
+||grossetoonline.com^*-manchette-
 ||grossetosport.com^*/110288686_1861381787329582_1396595708202267172_n.jpg
 ||grossetosport.com^*/300.png
 ||grossetosport.com^*/728x90px.gif
