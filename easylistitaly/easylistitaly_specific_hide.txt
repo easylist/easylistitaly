@@ -1420,6 +1420,8 @@ acquavivalive.it,altamuralive.it,andrialive.it,barilive.it,barlettalive.it,bisce
 familygo.eu##.mobile-spot
 scienzenotizie.it##.mobile-top-banner
 alimentibevande.it,professioneallevatore.it,professionesuinicoltore.it##.mod
+fise.it##.module-sponsor-HP
+fise.it##.module-sponsor-container
 telelazionord.it##.mom-e3lanat-inner
 valdichianaoggi.it##.mom-e3lanat-wrap
 boingtv.it,eurogamer.it,foodnetwork.it,gioco.it,morningstar.it##.mpu
