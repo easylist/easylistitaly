@@ -2099,6 +2099,7 @@
 ||lamoneta.it^*/bannertop.
 ||lamoneta.it^*/ilforumbanner.jpg
 ||lamoneta.it^*/Roma4ubis.jpg
+||lanotiziaoggi.it^*/Banner-
 ||lanotiziaquotidiana.it^*/Senza-nome.jpg
 ||lanotiziaquotidiana.it^*banner
 ||lantidiplomatico.it/img/coupon.png
