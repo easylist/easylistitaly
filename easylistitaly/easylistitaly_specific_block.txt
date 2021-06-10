@@ -1358,6 +1358,8 @@
 ||giornaledibarga.it^*/PP-
 ||giornaledicattolica.com^*/banner-
 ||giornaledimontesilvano.com/images/banners/
+||giornalediriccione.com^*/banner-
+||giornalediriccione.com^*/Unknown.jpeg
 ||giornaledirimini.com^*/banner-
 ||giornalelavoce.it^*-300x250px.
 ||giornalelavoce.it^*-banner300x600px.
