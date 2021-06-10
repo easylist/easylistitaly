@@ -4032,6 +4032,7 @@
 ||varesesport.com^*/euromed728x90_
 ||varesesport.com^*/polverini-729x85-
 ||varesesport.com^*500x300
+||vaticannews.va^*/banner_
 ||vcoazzurratv.it/images/banner/
 ||vdj.it^*/280x200-
 ||vdj.it^*/banner-
