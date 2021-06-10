@@ -1084,6 +1084,7 @@ edilportale.com##.cont-leaderBoard
 televisionando.it##.contBannDiv
 brindisisera.it,brindisisettenews.it##.cont_banner
 tiburno.tv##.container-ads
+portoravennanews.com##.container-banner
 tiburno.tv##.container-skin
 tuttiprezzi.it##.container.basso
 tiscali.it##.container_b_1
@@ -1374,7 +1375,7 @@ inter.it##.main-footer-sponsor
 filmaltadefinizione.me##.main-news-more
 reggionline.com##.mainBack
 hceppan.it##.mainSponsor
-larionews.com,opinione.it,ship2shore.it,tuttomercatoweb.com##.manchette
+larionews.com,opinione.it,portoravennanews.com,ship2shore.it,tuttomercatoweb.com##.manchette
 erbanotizie.com,gazzettadellaspezia.it,noinotizie.it##.manchette-dx
 erbanotizie.com,gazzettadellaspezia.it,noinotizie.it##.manchette-sx
 winenews.it##.manchette_l

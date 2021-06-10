@@ -2883,6 +2883,11 @@
 ||portolivorno.it^*/nuovologobartoli.jpg
 ||portolivorno.it^*/nuovologofanfani.jpg
 ||portolivorno.it^*/pisaairporttransfer.jpg
+||portoravennanews.com/file/banner2/
+||portoravennanews.com/file/banner3/
+||portoravennanews.com/images/autorita.png
+||portoravennanews.com/images/banner-
+||portoravennanews.com/images/gruppo-sapir.png
 ||potenzanews.net^*/1-San-Barbato-
 ||potenzanews.net^*/AUTOBRINDISI-
 ||potenzanews.net^*/Calciano-
