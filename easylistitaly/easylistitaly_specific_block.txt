@@ -4262,6 +4262,7 @@
 ||wp.com/guerrestellari.net/*/Amazon_
 ||wp.com/ilclandestinogiornale.italiasera.it/*/autofficina-nettuno.gif
 ||wp.com/ilclandestinogiornale.italiasera.it/*/mastro-arrosticino-
+||wp.com/ilpiccolo.org/*/Gamberini-
 ||wp.com/images.liveuniversity.it/*300x250
 ||wp.com/irenedisumma.com/*/fari.jpg
 ||wp.com/orvietosi.it/*-500x400-
