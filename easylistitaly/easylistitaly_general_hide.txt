@@ -196,6 +196,7 @@
 ##.av-banner-728X90
 ##.avadvslot
 ##.banner_300x250_read
+##.banner_pubblicita
 ##.barraSipra
 ##.bck-adv-sponsor
 ##.blocco_servizi_sponsor
