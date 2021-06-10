@@ -2033,6 +2033,7 @@
 ||lacittanews.it^*/palazzo-papale-3-1024x481.jpg
 ||lacittanews.it^*/todis-coronavirus-1024x512.jpg
 ||lacnews24.it/filemanager/skinz/
+||lacronacadiravenna.it/file/banner/
 ||ladigetto.it/files/banners/
 ||ladiscussione.com^*/Awelco-logo.jpg
 ||ladiscussione.com^*/Banner-

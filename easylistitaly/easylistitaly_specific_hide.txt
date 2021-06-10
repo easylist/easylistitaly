@@ -856,7 +856,7 @@ fiumicino-online.it##.bannerHeaderContainer
 puntosicuro.it##.bannerLeader
 cattolica.info##.bannerRandomSingolo
 filmtv.it##.bannerRight
-edilportale.com,globalgeografia.com,ilmessaggero.it##.bannerTop
+edilportale.com,globalgeografia.com,ilmessaggero.it,lacronacadiravenna.it##.bannerTop
 woitalia.it##.banner_200
 teleponte.it##.banner_6
 professionecalcio.net,professionemotori.it##.banner_after_feat
