@@ -1736,7 +1736,7 @@ ivl24.it##.td-all-devices
 ilprimatonazionale.it##.td-banner-bg
 edagricole.it##.td-banner-footer
 01net.it,dolcegiornale.it,edagricole.it,ilgiornaledelserramento.it,ristorantiweb.com,sicurezzamagazine.it##.td-banner-wrap-full
-bologna24ore.it,calciofemminileitaliano.it,calciomercato.it,elettronicanews.it,gametimers.it,gamingtoday.it,phonetoday.it,radioradio.it,romagiallorossa.it,tecnoandroid.it##.td-container-header
+bologna24ore.it,calciofemminileitaliano.it,calciomercato.it,elettronicanews.it,ferrara24ore.it,gametimers.it,gamingtoday.it,phonetoday.it,radioradio.it,romagiallorossa.it,tecnoandroid.it##.td-container-header
 radioradio.it##.td-fix-index
 amoreaquattrozampe.it##.td-footer-container
 ilgiornaledeltermoidraulico.it,pescaracalcio.com,tennispavese.it,ternanacalcio.com##.td-footer-wrapper
