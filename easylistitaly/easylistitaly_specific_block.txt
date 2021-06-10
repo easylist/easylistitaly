@@ -578,6 +578,9 @@
 ||buonapesca.it^*/LeaderBoard-
 ||buonapesca.it^*/rectangle-
 ||buonapesca.it^*/Senza-titolo-1.jpg
+||buonenotiziebologna.it/images/banners/
+||buonenotiziebologna.it/images/pub/
+||buonenotiziebologna.it^*-Banner_
 ||buongiornoalghero.it^*/banner_
 ||buongiornoslovacchia.sk/banner/
 ||business24tv.it^*/Banner_
