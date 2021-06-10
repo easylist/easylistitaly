@@ -25,6 +25,7 @@
 /altro/adv/*
 /annunciogoogle.
 /archivio/advertising/*
+/banner-pubblicitari/*
 /banner/adv-
 /bannerpubblicitario.
 /banners/ADV-
