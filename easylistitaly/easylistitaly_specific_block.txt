@@ -2857,6 +2857,15 @@
 ||pistoiasport.com^*/traversari512x100.png
 ||piuchepuoi.it/assets/uploads/desktop-Heisenberg.png
 ||piuchepuoi.it/assets/uploads/homeLTMPT_desktop.jpg
+||piunotizie.it^*/agenti_marittimi.jpg
+||piunotizie.it^*/Banner-
+||piunotizie.it^*/Casadei-Ghinassi.png
+||piunotizie.it^*/CLASSEINFISSI.gif
+||piunotizie.it^*/deco.jpg
+||piunotizie.it^*/libri-2.png
+||piunotizie.it^*/rosetti_marino.jpg
+||piunotizie.it^*/scala.jpg
+||piunotizie.it^*/spedizionieri_marittimi.jpg
 ||piuvallitv.it^*/sponsors/
 ||plateamajor.com/img/banner/
 ||plateamajor.com/img/BC_
