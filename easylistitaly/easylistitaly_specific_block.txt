@@ -1370,6 +1370,8 @@
 ||giornalelavoce.it^*_BANNER_
 ||giornaleradio.fm^*/320x250_
 ||giornaleradio.fm^*/320x25_
+||giornaleravenna.com^*/Banner-
+||giornaleravenna.com^*/Schermata-2020-10-24-alle-11.43.50.png
 ||giornalerossoblu.it^*/20191211_
 ||giornalerossoblu.it^*/locandina-idraulica-
 ||giornalesm.com^*-300x100.

@@ -1146,6 +1146,7 @@ iamnaples.it##.elementor-element-27c9edcc
 giornalesm.com##.elementor-element-2f4040ea
 coronavirusroma.com##.elementor-element-3579018
 giornalesm.com##.elementor-element-3720cb8a
+giornaleravenna.com##.elementor-element-37f5d157
 giornalesm.com##.elementor-element-3bc9c58
 iamnaples.it##.elementor-element-3ce49e1
 radiortm.it##.elementor-element-4561c5a
@@ -1877,6 +1878,7 @@ rinnovabili.it##.widget_links
 dilei.it,quifinanza.it,siviaggia.it##.widget_promo_box_widget
 nursetimes.org##.widget_realty_widget
 calabriareportage.it##.widget_smartslider3
+giornaleravenna.com##.widget_sp_image-image-link
 radiodigione.net##.widget_ubm-banners-rotation
 apinsieme.it##.widget_wooslider_slideshow_slides
 vicenzanews.it##.wifiplaza
