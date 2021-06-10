@@ -4447,7 +4447,7 @@
 ||wp.com^*/banner-$domain=abruzzoweb.it|bsnews.it|cinecorriere.it|foggiagol.it|giornaledicalabria.it|ilgiornaledeiveronesi.it|infocilento.it|lagazzettaaeroportuale.it|nonsoloturisti.it|nuotounostiledivita.it|oggicronaca.it|orvietosi.it|teleischia.com|temporeale.info|trasimenonline.it|tv9italia.it|vesuvianonews.it
 ||wp.com^*/banner/$domain=buongiornoslovacchia.sk|cronacaflegrea.it
 ||wp.com^*/banner_$domain=agropolinews.it|bimbonaturale.org|fisco7.it|nuotounostiledivita.it|thewalkoffame.it
-||wp.com^*/banners/$domain=proiezionidiborsa.it
+||wp.com^*/banners/$domain=proiezionidiborsa.it|risveglioduemila.it
 ||wp.com^*/BRIGNOLA20201.jpg$domain=infonewsvietri.it
 ||wp.com^*/mahindra.png$domain=catanista.eu
 ||wp.com^*/p500-$domain=proiezionidiborsa.it
