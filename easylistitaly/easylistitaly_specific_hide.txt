@@ -1503,6 +1503,7 @@ assopoker.com##.prbox-table-container
 eurogamer.it##.pre-article
 pisachannel.tv##.pre_footer
 comingsoon.it##.primeTrack
+theflightclub.it##.pro_contro
 orologi-subacquei.it##.product-listing
 webnews.it##.product__info
 ludomedia.it##.profiloAdv
@@ -1602,6 +1603,7 @@ sportytrader.it##.sidebar_grid
 cosedicasa.com##.sidespot-wrapper
 calcioatalanta.it,calciocasteddu.it,calciocremonese.it,calciofere.it,calciogrifo.it,calciohellas.it,calciolecce.it,calciorosanero.it,calciospezia.it,forzamonza.it,forzaparma.it,labaricalcio.it,siamolaroma.it,sololalazio.it,tifocosenza.it,trapanigranata.it##.sihappy
 simonemaestri.com##.simone-grid-item
+theflightclub.it##.single-bestseller
 manfredonianews.it##.single-box
 iphoneitalia.com##.single-deals
 oltrefreepress.com##.singleBannerWidget
