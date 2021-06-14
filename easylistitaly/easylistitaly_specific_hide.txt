@@ -2052,6 +2052,7 @@ supercoin.it##a[href^="https://tracking.performoney.it/"] > .td_btn
 eurofestivalnews.com##a[href^="https://universofree.net/"]
 gnoccatravels.com##a[href^="https://wellcum.at/"]
 padovasport.tv##a[href^="https://www.aliperme.it/"]
+gamelegends.it##a[href^="https://www.amazon.it/"] > img
 iobenessere.it##a[href^="https://www.amazon.it/shop/"]
 tuttoamerica.it##a[href^="https://www.anrdoezrs.net/click-"]
 gufo.it,msn.com,neomag.it,partiteoggi.net,salutarmente.it##a[href^="https://www.awin1.com/"]
@@ -2059,6 +2060,7 @@ maremma.name,turistadimestiere.com,vacanzeinamerica.eu,viaggio-in-germania.de##a
 fumettologica.it##a[href^="https://www.catawiki.it"][href*="?utm_"]
 lavocedelpopolo.it##a[href^="https://www.holyart.it/"]
 gamelegends.it,hynerd.it,spaziogames.it,tuttotek.it,xtremehardware.com##a[href^="https://www.instant-gaming.com/?igr="]
+gamelegends.it##a[href^="https://www.instant-gaming.com?igr="]
 esportsactivity.com##a[href^="https://www.ivacy.com/"]
 botteega.it##a[href^="https://www.macrolibrarsi.it/"]
 videopornoitalia.it##a[href^="https://www.orgasmi899.com"]
