@@ -1485,7 +1485,7 @@ radiogardena.it##.partner-wrapper
 msmotor.tv##.partner2
 andreagaleazzi.com##.partner_box
 lifegate.it##.partnered
-dolcidee.it,rtinradio.com,teatronaturale.it,university-esports.it##.partners
+dolcidee.it,luce.lanazione.it,rtinradio.com,teatronaturale.it,university-esports.it##.partners
 100ideeperristrutturare.it,casa-naturale.com,quattrozampe.online,villeecasali.com##.partners-wrapper
 infobuild.it##.partnersection
 evosmart.it##.penci-banner-box
