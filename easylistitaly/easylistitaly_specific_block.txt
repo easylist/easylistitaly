@@ -1989,6 +1989,7 @@
 ||jamma.tv^*/Cristaltec.gif
 ||jamma.tv^*/Cristaltec260.gif
 ||jamma.tv^*/Nazionale.gif
+||jamma.tv^*/NazionaleG621.gif
 ||jamma.tv^*/net.gif
 ||jamma.tv^*/sanremo
 ||jamma.tv^*/skin
