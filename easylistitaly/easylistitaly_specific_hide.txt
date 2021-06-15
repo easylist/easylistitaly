@@ -1215,6 +1215,7 @@ iltredici.it##.footer__partners
 rsd.it##.footer__widgets
 palermofc.com##.footer_int
 telelazionord.it##.footer_top_banner
+forbes.it##.forbes-second-banner
 aeroporto.net##.form_auto_iata
 quattroruote.it##.four-box-sponsor
 genoacfc.it##.fourplusnutrition
