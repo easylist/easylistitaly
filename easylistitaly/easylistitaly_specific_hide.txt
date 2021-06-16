@@ -851,6 +851,7 @@ cineblog01.care,cineblog01.green,cineblog01.work##.banner4k
 doctor33.it##.bannerBot
 torinofc.it##.bannerColDxStd
 lemiebollicine.com##.bannerContainer
+bikerslife.com##.bannerDx
 djmagitalia.com##.bannerExtra
 pressgiochi.it##.bannerFila
 questaseratv.it##.bannerHeader
@@ -858,7 +859,7 @@ fiumicino-online.it##.bannerHeaderContainer
 puntosicuro.it##.bannerLeader
 cattolica.info##.bannerRandomSingolo
 filmtv.it##.bannerRight
-edilportale.com,globalgeografia.com,ilmessaggero.it,lacronacadiravenna.it##.bannerTop
+bikerslife.com,edilportale.com,globalgeografia.com,ilmessaggero.it,lacronacadiravenna.it##.bannerTop
 woitalia.it##.banner_200
 teleponte.it##.banner_6
 professionecalcio.net,professionemotori.it##.banner_after_feat
