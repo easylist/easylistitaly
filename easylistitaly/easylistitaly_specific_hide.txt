@@ -735,7 +735,7 @@ shopping.tiscali.it##.amazonShopping
 andreagaleazzi.com##.amazon_box
 vgnetwork.it##.amazon_similarity
 uiblog.it##.amazonjs_item
-androidworld.it,dmbeauty.it,donnamoderna.com,focus.it,iconmagazine.it,mobileworld.it,nostrofiglio.it,smartworld.it,valorinormali.com##.amePlaceholderBox
+androidworld.it,cookaround.com,dmbeauty.it,donnamoderna.com,focus.it,iconmagazine.it,mobileworld.it,nostrofiglio.it,smartworld.it,valorinormali.com##.amePlaceholderBox
 amicopediatra.it##.amico-widget
 incucinaconelena.it##.amr_widget
 fotografidigitali.it##.amz-wrapper
