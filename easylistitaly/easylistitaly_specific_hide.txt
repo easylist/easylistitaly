@@ -234,6 +234,7 @@ repubblica.it###editorial-TopLeft
 news.mtv.it###execphp-2
 stilearte.it###execphp-3
 tipiace.it###externalbanner
+forum-wranglermania.com###fa_ticker_container
 cibo360.it###fascia_banner_bottom
 grecia.info###fh_content
 notizielombardia.it###fixedban
@@ -976,6 +977,7 @@ tvserial.it##.box-atf
 centropagina.it##.box-b
 archilovers.com,difesaonline.it,spettacolinews.it,tempoitalia.it##.box-banner
 cucchiaio.it##.box-banner-hp-dx
+forum-wranglermania.com##.box-body > img
 agrodolce.it##.box-desktop-side-top_container
 balarm.it##.box-evidenza
 italiaoggi.it##.box-slot
