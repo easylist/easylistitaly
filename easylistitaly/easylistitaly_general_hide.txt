@@ -272,6 +272,7 @@
 ##.related-adv
 ##.sal-adv-adsense
 ##.sb-box-pubbliredazionale
+##.sidebar-adv
 ##.sidebar__adv
 ##.single-adv
 ##.sito-adv-sopra-main
