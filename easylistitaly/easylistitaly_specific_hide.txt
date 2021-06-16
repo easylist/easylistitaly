@@ -1773,6 +1773,7 @@ agimeg.it##.td_uid_18_606dd54991c0e_rand
 ilparmense.net##.td_uid_18_606dd7c7652fd_rand
 ilparmense.net##.td_uid_2_606dd7c74fb8e_rand
 romanews.eu##.td_uid_7_5fc0c934d6e11_rand
+chedonna.it##.tdi_115_a60
 chedonna.it##.tdi_115_ebb
 omniagate.com##.tdi_11_784
 volleynews.it##.tdi_132 + .tdi_136
@@ -1788,6 +1789,7 @@ omniagate.com##.tdi_6_6a9
 omniagate.com##.tdi_6_c68
 vivitelese.it##.tdi_71
 chedonna.it##.tdi_71_064
+chedonna.it##.tdi_71_985
 vivitelese.it##.tdi_72
 rinnovabili.it##.tdi_88_884
 tomshw.it##.teetee-embed
