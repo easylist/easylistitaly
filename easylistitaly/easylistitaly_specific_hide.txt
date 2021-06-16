@@ -1296,6 +1296,7 @@ milanofinanza.it##.igturboboxnews
 sportytrader.it##.ilo
 forum.ilsoftware.it##.ilsw_forum_leaderboard
 oroscopi.info##.img_oroscopo_personalizzato
+internimagazine.it##.in21-adv-mosaico
 mrw.it##.inadv
 mrw.it##.inadv-label
 giochigratis.net##.inici
