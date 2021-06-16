@@ -1137,7 +1137,7 @@ notiziemolise.it,specchiosesto.it##.e3lan
 cronachedibirra.it##.e3lan125
 ilpaesenuovo.it##.e3lanat-layout-rotator
 bergamonews.it##.edinews_widget_friends-3
-evosmart.it,pc-gaming.it,stile.it##.egg-container
+evosmart.it,mialleno.it,pc-gaming.it,stile.it##.egg-container
 regaliperfetti.it##.egg_grid
 regaliperfetti.it##.egg_sort_list
 beneficicurcuma.it##.elementor-cta
