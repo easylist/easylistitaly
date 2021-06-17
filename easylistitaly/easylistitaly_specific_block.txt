@@ -4272,6 +4272,7 @@
 ||wp.com/ilpiccolo.org/*/Gamberini-
 ||wp.com/images.liveuniversity.it/*300x250
 ||wp.com/irenedisumma.com/*/fari.jpg
+||wp.com/notiziescientifiche.it/*/vediamans-min.jpg
 ||wp.com/orvietosi.it/*-500x400-
 ||wp.com/orvietosi.it/*/01-5.gif
 ||wp.com/orvietosi.it/*/2.gif
