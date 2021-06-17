@@ -388,9 +388,9 @@ eurogamer.it###mobile-mpu
 padelmagazine.it###modal
 forum.tomshw.it###mpudesk
 sportparma.com###mvp-leader-cont
-pistoiasport.com###mvp-leader-wrap
+pistoiasport.com,qdmnotizie.it###mvp-leader-wrap
 lavocedibolzano.it,sportmagazinetrentino.it###mvp-site-wall
-lavocedibolzano.it###mvp-wallpaper
+lavocedibolzano.it,qdmnotizie.it###mvp-wallpaper
 4actionsport.it###myads
 primaonline.it###native_div_home
 rovigooggi.it###news-left-box

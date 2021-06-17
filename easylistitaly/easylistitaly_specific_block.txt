@@ -2986,6 +2986,8 @@
 ||pyrosonline.it/site/public/image/20200131153026.jpg
 ||qcanavese.it/banner/
 ||qdmnotizie.it^*-Skin_
+||qdmnotizie.it^*/centro-oceano_
+||qdmnotizie.it^*/skin_
 ||qdmnotizie.it^*_banner-
 ||qdpnews.it/images/banners/
 ||quattroruote.it^*/box-eni-
