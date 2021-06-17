@@ -1407,6 +1407,7 @@ radiogold.it##.max-banner-top
 laputa.it##.mbt-book-buybuttons
 crotoneok.it##.mdl_content
 medicalexcellencetv.it##.medic-widget
+5chat.it##.mediumrectangle
 ilmeteo.net##.megabanner
 terremarsicane.it##.megatop_wrap
 melarossa.it##.melar-pos-in-article-multiplo
