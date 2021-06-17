@@ -128,4 +128,5 @@
 ||worldfilia.net^$third-party
 ||yobee.it^$third-party
 ||zanox-affiliate.de^$third-party
+||zariumhb.com^$third-party
 ||zodiakactive.com^$third-party
