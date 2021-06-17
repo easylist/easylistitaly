@@ -1467,6 +1467,9 @@
 ||gufo.it^*/offerte-natale-amazon.jpg
 ||guidaviaggi.it/banners/
 ||guidaviaggi.it/public/banners/
+||guidaviaggi.it^*/futura_
+||guidaviaggi.it^*/igv_
+||guidaviaggi.it^*/laterale.gif
 ||gwendalina.tv^*/stickybar_script-
 ||h24notizie.com^*/AQL-
 ||hc-neumarkt.com/images/partner/
