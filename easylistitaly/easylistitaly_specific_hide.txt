@@ -1261,8 +1261,6 @@ giornaledelcilento.it##.giorn-widget
 tvserial.it##.gm-place
 sportytrader.it##.go-to-bonus
 goriziaoggi.news##.goriz-widget
-nextpit.it##.gptSlot
-nextpit.it##.gptSlot__sticky-footer
 3bmeteo.com##.gpt_top
 studiouniversal.it##.grf-widget
 ludomedia.it##.grigliaPbi
