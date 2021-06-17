@@ -1688,6 +1688,9 @@
 ||ilgiornaleditrani.net^*/sinedi-
 ||ilgiornaleditrani.net^*/Tecno-center.png
 ||ilgiornaleditrani.net^*/woodcenter.png
+||ilgiornalediudine.com^*-300x300.
+||ilgiornalediudine.com^*/300x300px_
+||ilgiornalediudine.com^*/720x90px_
 ||ilgiornaleoff.ilgiornale.it^*-300x250mm.
 ||ilgiornaleoff.ilgiornale.it^*/Banner-
 ||ilgiornaleoff.ilgiornale.it^*/Banner_
