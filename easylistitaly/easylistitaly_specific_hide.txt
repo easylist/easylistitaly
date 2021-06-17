@@ -236,6 +236,7 @@ mymovies.it###div_topleft
 ecodicaserta.it###down
 repubblica.it###editorial-Middle1
 repubblica.it###editorial-TopLeft
+news.mtv.it###execphp-14
 news.mtv.it###execphp-2
 stilearte.it###execphp-3
 tipiace.it###externalbanner
