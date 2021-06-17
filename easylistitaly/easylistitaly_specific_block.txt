@@ -2700,6 +2700,7 @@
 ||ogginotizie.it^*/logo-trasparente.png
 ||ogginotizie.it^*/MULTI_page-0001-
 ||oggiroma.it/public/banner/
+||oggisalute.it/fitelab.jpg
 ||oggitreviso.it^*/390x90.jpg
 ||oipamagazine.it^*/euroservice.gif
 ||ok-salute.it^*/abiogen.jpg
