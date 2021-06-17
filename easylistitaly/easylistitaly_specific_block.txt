@@ -1980,6 +1980,8 @@
 ||italpress.com^*/VolospeechGif_
 ||italpress.com^*_300X250MYACEA-
 ||italpress.com^*_SKIN_
+||italyandmore.it^*/GreenValleedaoste.jpg
+||italyandmore.it^*/VIA-E.png
 ||italynews.it^*/logo5.jpg
 ||itvonline.news^*-300x250.
 ||itvonline.news^*-300x250px-

@@ -218,7 +218,7 @@ immaginaviaggiare.it###custom_html-30
 immaginaviaggiare.it###custom_html-33
 assisisport.it,calciocasteddu.it,carteprepagate.org,corrieredelmolise.com,corrieredicomo.it,cucinaresenzamenate.it,destinazioneusa.com,grossetosport.com,guidaconsumatore.com,laprevisione.it,peopleforplanet.it,pianetablunews.it,topragazze.it,tuttogossipnews.it###custom_html-4
 mondomobileweb.it###custom_html-42
-1x2-calcio.com,calcioitalia24.it,carteprepagate.org,corrieredelmolise.com,grossetosport.com,italiaonline.news,mam-e.it,melarossa.it,tuttogossipnews.it###custom_html-5
+1x2-calcio.com,calcioitalia24.it,carteprepagate.org,corrieredelmolise.com,grossetosport.com,italiaonline.news,italyandmore.it,mam-e.it,melarossa.it,tuttogossipnews.it###custom_html-5
 1x2-calcio.com,calcioitalia24.it,corrieredicomo.it,cucinamamma.it,hynerd.it,indiscreto.org,it-casinoonline.com,nonsprecare.it,paladins.it,pentanewslivorno.it,torremaggiore.com###custom_html-6
 strill.it,tuttotek.it###custom_html-65
 calcioitalia24.it,melarossa.it,pistoiasport.com,topragazze.it,torremaggiore.com###custom_html-7
@@ -2397,7 +2397,7 @@ portolivorno.it##img[width="630"]
 canonclubitalia.com##img[width="632"][height="123"]
 beverfood.com##img[width="650"][height="320"]
 minformo.com##img[width="720"][height="125"]
-tennispavese.it##img[width="728"]
+italyandmore.it,tennispavese.it##img[width="728"]
 eurofestivalnews.com,finanzareport.it,gamebit.it,gamelegends.it,glianni80.com,ilsalvagente.it,larampa.it,streamingmagazine.it##img[width="728"][height="90"]
 calabria7.it##img[width="750"][height="250"]
 aprilianews.it##img[width="750"][height="625"]
