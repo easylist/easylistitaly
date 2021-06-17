@@ -1024,6 +1024,7 @@ cinemalibero.cloud,cinemalibero.life,cinemalibero.store##.btnaaa4k
 cinemalibero.monster##.btnaaaa4k
 cinemalibero.monster##.btnaaaahd
 cinemalibero.cloud,cinemalibero.life,cinemalibero.store##.btnaaahd
+5chat.it##.btnafterlistchat
 abruzzolive.it##.btxe-container
 androidiani.com##.buchamzn
 altadefinizione-site.it##.buttComment
