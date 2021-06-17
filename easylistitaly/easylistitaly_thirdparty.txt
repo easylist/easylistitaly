@@ -59,6 +59,7 @@
 ||debriditalia.com/images/$third-party
 ||delosstore.it/banner/
 ||dhresource.com^$domain=xtremehardware.com
+||diariodelwebsrl.it/js/web/oasport.js
 ||digitaladv.despar.it^
 ||digitalwebbusiness.com^*/banners.$third-party
 ||djsoldi.com^$image,third-party
