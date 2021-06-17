@@ -2237,6 +2237,7 @@
 ||leggilanotizia.it^*/Logo_300.jpg
 ||leggilanotizia.it^*_banner1-
 ||leggilanotizia.it^*_Banner_
+||leggopassword.it^*/Banner-
 ||legnolab.it^*-banner-
 ||legnolab.it^*/OYKO-
 ||lemiebollicine.com^*/banner-

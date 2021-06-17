@@ -211,6 +211,7 @@ corrierequotidiano.it,sportando.basketball###custom_html-20
 castellinotizie.it,immaginaviaggiare.it,tuttojuve24.it###custom_html-21
 castellinotizie.it,imolaoggi.it###custom_html-22
 fiorditerra.eu###custom_html-23
+leggopassword.it###custom_html-24
 dimagrireduepuntozero.com,pianetaserieb.it,strill.it###custom_html-25
 castellinotizie.it###custom_html-26
 dimagrireduepuntozero.com,pianetaserieb.it###custom_html-27
@@ -438,7 +439,7 @@ mangialibri.com###section-extra-bottom-4
 zonalocale.it###sei-per-tre
 msmotor.tv###sezpartnercommerciali
 nuovosud.it###sfondo
-calabria7.it,gamelegends.it###sgpb-popup-dialog-main-div
+calabria7.it,gamelegends.it,leggopassword.it###sgpb-popup-dialog-main-div
 classlife.it###side_home_sx
 eurogamer.it###sidebar_amazon
 vienormali.it###site-header-banner
@@ -526,7 +527,7 @@ clientiesperti.it,gstv24.it,libripiuvenduti.it,tecnofacile.com,top10scommesse.it
 giornalistitalia.it###text-30
 castellinotizie.it###text-315
 universo7p.it###text-32
-alground.com###text-33
+alground.com,leggopassword.it###text-33
 castellinotizie.it###text-335
 contrastotv.it,giornalistitalia.it,ricettevegolose.com,trivenetogoal.it,viterbopost.it###text-34
 castellinotizie.it###text-340
@@ -1953,7 +1954,7 @@ blog.libero.it,newscronaca.myblog.it##a[href*=".clickbank.net/"]
 voglioporno.com##a[href*=".com/track/"]
 videopornoitalia.it##a[href*=".rivcash.com/"]
 altadefinizione01.page##a[href*="//altadefinizione-4k-ita.php"]
-24live.it,affaritaliani.it,altraeta.it,amalfinotizie.it,amantideilibri.it,aziendabanca.it,birramoriamoci.it,canale3.tv,centotrentuno.com,concorsi-letterari.it,corrieredellacalabria.it,cremaoggi.it,cremonaoggi.it,cremonasport.it,freeonline.org,gaynews.it,giornalesm.com,girofvg.com,hwupgrade.it,ilsussidiario.net,ivl24.it,kimchiebasilico.it,lasiritide.it,latelanera.com,lavorincasa.it,oglioponews.it,pistoiasport.com,popeconomy.tv,radiomillennium.it,ricettedellanonna.net,riskcompliance.it,rivistanatura.com,settesere.it,sportando.basketball,tecnoandroid.it,telegramdirectory.it,temponews.it,tiburno.tv,tusciaweb.eu,tuttoandroid.net,tuttowrestling.com,tvadrano.com,umbriaradio.it,volleyball.it##a[href*="//bit.ly/"]
+24live.it,affaritaliani.it,altraeta.it,amalfinotizie.it,amantideilibri.it,aziendabanca.it,birramoriamoci.it,canale3.tv,centotrentuno.com,concorsi-letterari.it,corrieredellacalabria.it,cremaoggi.it,cremonaoggi.it,cremonasport.it,freeonline.org,gaynews.it,giornalesm.com,girofvg.com,hwupgrade.it,ilsussidiario.net,ivl24.it,kimchiebasilico.it,lasiritide.it,latelanera.com,lavorincasa.it,leggopassword.it,oglioponews.it,pistoiasport.com,popeconomy.tv,radiomillennium.it,ricettedellanonna.net,riskcompliance.it,rivistanatura.com,settesere.it,sportando.basketball,tecnoandroid.it,telegramdirectory.it,temponews.it,tiburno.tv,tusciaweb.eu,tuttoandroid.net,tuttowrestling.com,tvadrano.com,umbriaradio.it,volleyball.it##a[href*="//bit.ly/"]
 animeemanga.it,comprovendodischi.it,comprovendolibri.it,corrieredellacalabria.it,passionemaglie.it,stiletv.it,verovegan.com,viaggiasenzapensieri.com##a[href*="//goo.gl/"]
 filmstreaming.page##a[href*="//streaming-ita.php"]
 lavorincasa.it##a[href*="//tinyurl.com/"]
@@ -2329,6 +2330,7 @@ tvserial.it##div[style^="width:300px;height:100px;"]
 meteosatonline.it##hr[style="height:5px; background: #9EB4FF;"]
 trovacinema.repubblica.it##i-amphtml-sizer[style="padding-top: 25.7732%;"]
 zibaldoneweb.it##iframe[style="width: 120px; height: 240px;"]
+leggopassword.it##img[alt*="Banner"]
 fortuneita.com##img[alt="Advertisement"]
 liguriaoggi.it##img[alt="ad"]
 radiogold.it##img[alt="adv-"]
