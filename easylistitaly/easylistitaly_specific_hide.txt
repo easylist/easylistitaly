@@ -694,6 +694,7 @@ adessoin.tv,allaguida.it,alpha59.it,altoadigetv.it,altreconomia.it,amica.it,ansa
 teleunica.com##.adv-body
 centrometeoitaliano.it##.adv-cmi
 animatamente.net,arezzoweb.it,corriereromagna.it,udineoggi.news##.adv-link
+ortosemplice.it##.adv-links
 rbe.it##.adv-section
 radiocittadelcapo.it##.adv-space
 diredonna.it,gravidanzaonline.it,robadadonne.it##.adv-style
