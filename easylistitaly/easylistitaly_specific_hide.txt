@@ -1754,6 +1754,7 @@ superscommesse.it##.tbl-table
 agrodolce.it,autoblog.it,bebeblog.it,blogo.it,borse.it,calcioblog.it,cineblog.it,ecoblog.it,fashionblog.it,finanzaonline.com,gossipblog.it,html.it,motoblog.it,pinkblog.it,pmi.it,soundsblog.it,studentville.it,tvblog.it,wallstreetitalia.com,webnews.it##.tbm-code
 betitaliaweb.it##.tbody + .bonus-background
 cattolica.info##.tc_adm
+avtrend.it##.tcb-button-link
 gioconews.it##.tcvn-banner-item
 bologna2000.com,ilfattovesuviano.it,ilgranchio.it,toscananotizie.com##.td-a-rec
 2anews.it##.td-a-rec-id-custom-spot
