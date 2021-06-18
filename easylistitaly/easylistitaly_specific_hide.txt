@@ -1521,6 +1521,7 @@ insuranceup.it##.powered_by_container
 assopoker.com##.prbox-table-container
 eurogamer.it##.pre-article
 pisachannel.tv##.pre_footer
+pixeltv.it##.primary-sidebar
 comingsoon.it##.primeTrack
 theflightclub.it##.pro_contro
 orologi-subacquei.it##.product-listing
