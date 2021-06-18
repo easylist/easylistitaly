@@ -938,6 +938,7 @@ altadefinizione01.games##.before_player_btn
 rockit.it##.bello-container
 reggiosera.it##.betulla-box
 ifood.it##.bg-banner
+telenord.it##.bg-link
 vivoconbenessere.it##.bg.landscape
 nuovosud.it##.bg_skin
 libero.it##.big
@@ -1066,6 +1067,7 @@ autoscout24.it##.cl-billboad-wrapper
 cliccascienze.it##.clicc-prima-del-contenuto
 edilportale.com##.click-Skin
 telenord.it##.click-banner
+telenord.it##.click-foto
 umbria.webcam##.client_logos
 puntocellulare.it##.clklnk
 engage.it##.cnt-banner-top
