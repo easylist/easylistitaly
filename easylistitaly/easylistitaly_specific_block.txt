@@ -449,6 +449,7 @@
 ||atripaldanews.it^*/riq.jpeg
 ||audirsclub.it/images/misc/Faratech
 ||audisportclub.com/banner/
+||autoblog.it^*/agos-adv-
 ||autobusweb.com^*-Banner-
 ||autobusweb.com^*/banner300x250_
 ||autoline24.it/img/atlads1/
