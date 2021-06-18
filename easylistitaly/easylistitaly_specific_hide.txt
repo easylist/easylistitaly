@@ -1250,6 +1250,7 @@ giornalerossoblu.it,telepegaso.it##.gallery-item
 player.it##.game-buy
 player.it##.game-buy-container
 1001giochi.it##.game-leaderboard
+101games.it##.game-m-d
 gamelegends.it##.gamel-after
 gamelegends.it##.gamel-masthead
 giardiniblog.it##.gbam
