@@ -222,7 +222,7 @@ immaginaviaggiare.it###custom_html-33
 assisisport.it,calciocasteddu.it,carteprepagate.org,corrieredelmolise.com,corrieredicomo.it,cucinaresenzamenate.it,destinazioneusa.com,grossetosport.com,guidaconsumatore.com,laprevisione.it,peopleforplanet.it,pianetablunews.it,topragazze.it,tuttogossipnews.it###custom_html-4
 mondomobileweb.it###custom_html-42
 1x2-calcio.com,calcioitalia24.it,carteprepagate.org,corrieredelmolise.com,grossetosport.com,italiaonline.news,italyandmore.it,mam-e.it,melarossa.it,tuttogossipnews.it###custom_html-5
-1x2-calcio.com,calcioitalia24.it,corrieredicomo.it,cucinamamma.it,hynerd.it,indiscreto.org,it-casinoonline.com,nonsprecare.it,paladins.it,pentanewslivorno.it,torremaggiore.com###custom_html-6
+1x2-calcio.com,calcioitalia24.it,corrieredicomo.it,cucinamamma.it,hynerd.it,indiscreto.org,it-casinoonline.com,lombardoandrea.com,nonsprecare.it,paladins.it,pentanewslivorno.it,torremaggiore.com###custom_html-6
 strill.it,tuttotek.it###custom_html-65
 calcioitalia24.it,melarossa.it,pistoiasport.com,topragazze.it,torremaggiore.com###custom_html-7
 calcioitalia24.it,corrierequotidiano.it,vitaminanews.it###custom_html-8
@@ -570,8 +570,8 @@ grossetosport.com###text-58
 grossetosport.com###text-60
 grossetosport.com,radioimmagine.it###text-61
 grossetosport.com###text-62
-incucinaconelena.it###text-7
-bioterra.it,brindisioggi.it,controcopertina.com,esportsitalia.com,plusrew.com###text-8
+incucinaconelena.it,lombardoandrea.com###text-7
+bioterra.it,brindisioggi.it,controcopertina.com,esportsitalia.com,lombardoandrea.com,plusrew.com###text-8
 agenziagiornalisticaopinione.it,controcopertina.com,solorecensioni.com,telemia.it###text-9
 specchiosesto.it###text-html-widget-2
 agemobile.com###text-html-widget-4
@@ -739,7 +739,7 @@ prezzisalute.com##.amaz
 cronotop.it##.amaz-product
 gamemag.it,lavorincasa.it,nientepopcorn.it,robadadonne.it,videogame.it##.amazon
 leggoquandovoglio.it##.amazon-a
-faidateingiardino.com,icrewplay.com##.amazon-auto-links
+faidateingiardino.com,icrewplay.com,lombardoandrea.com##.amazon-auto-links
 screenweek.it##.amazon-btn
 ridble.com##.amazon-product
 cliccascienze.it##.amazon-products-container-list
