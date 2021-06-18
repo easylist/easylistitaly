@@ -848,7 +848,7 @@ torresette.news##.banner-top-right
 edilportale.com##.banner-velux
 milanofinanza.it##.banner-video
 telegranducato.it##.banner-wrap
-archiproducts.com,bluvolleyverona.it##.banner-wrapper
+archiproducts.com,bluvolleyverona.it,minigiochi.com##.banner-wrapper
 rimini.com##.banner-zona1
 rimini.com##.banner-zona1dx
 virtusverona.it##.banner1
