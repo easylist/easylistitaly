@@ -975,6 +975,7 @@ noitv.it##.bntop
 corriereirpinia.it##.body-link-padding
 cosafarei.it##.boo-link
 diritto.it##.book-container
+oktoberfest.it##.booking_container
 minube.it##.booking_hotels_block
 livescore.it##.bookmaker
 stadiosport.it##.bookmakers-table
