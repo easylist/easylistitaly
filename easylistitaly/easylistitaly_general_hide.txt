@@ -204,6 +204,7 @@
 ##.box-pubblicita
 ##.box-pubblicita-multimedia
 ##.boxADV
+##.boxAdv
 ##.box_adv_annunci
 ##.box_adv_speciali_hp
 ##.boxpubblicita
