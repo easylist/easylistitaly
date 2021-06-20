@@ -1095,6 +1095,7 @@ keblog.it,pomiglianolive.it##.code-block-9
 ilcorrieredelgiorno.it##.col-banner
 lacrocequotidiano.it##.column-banner
 quattroruote.it##.commercial-article
+dday.it##.company
 tiscali.it##.compare-box-cnt
 fuoritraiettoria.com##.computer
 autoscout24.it##.conmon-financeslice-boxes
