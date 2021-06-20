@@ -2102,6 +2102,7 @@ animeemanga.it,comingsoon.it,mymovies.it,trovacinema.repubblica.it##a[href^="htt
 2backpack.it##a[href^="https://www.worldnomads.com/Turnstile/AffiliateLink?"]
 2backpack.it##a[href^="https://www.worldnomads.it/?affiliate="]
 gamingwiki.it##a[href^="https://www2.razer.com/"]
+juzaphoto.com##a[onclick^="ajax_bannerclicks"]
 lavocedellevalli.it##a[onclick^="ga('send', 'event',"]
 controradio.it##a[rel="sponsored"]
 condominioweb.com,gamingtoday.it,sex4u.ch,solovela.net##a[rel^="sponsored"]
