@@ -3362,6 +3362,7 @@
 ||salernonotizie.it^*/banner_
 ||salernonotizie.it^*/skin_
 ||salernonotizie.net^*_banner_
+||saliinvetta.com/images/banners/
 ||sambenedettesecalcio.eu^*/cmp-
 ||sambenedettesecalcio.eu^*/Copia-di-Senza-titolo-
 ||sambenedettesecalcio.eu^*/ideastella-
