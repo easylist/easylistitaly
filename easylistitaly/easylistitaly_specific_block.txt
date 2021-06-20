@@ -490,6 +490,7 @@
 ||basilicatanotizie.net^*/background-
 ||basketfemminilebiellese.altervista.org^*/Sponsor/
 ||basketfemminilebiellese.altervista.org^*/Sponsors/
+||battipaglianews.it^*/banner-
 ||battipaglianews.it^*/Banner_
 ||battipaglianews.it^*/gioiellina.gif
 ||battipaglianews.it^*/hsweb-
