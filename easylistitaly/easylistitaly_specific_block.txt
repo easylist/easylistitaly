@@ -1035,6 +1035,9 @@
 ||djmagitalia.com^*-banner-
 ||djmagitalia.com^*/BANNER_
 ||djmagitalia.com^*_skin_
+||domanidoveandiamo.it^*/airbnb.png
+||domanidoveandiamo.it^*/Amazon-770x345.png
+||domanidoveandiamo.it^*/ROMA_WORLD.jpg
 ||doppiozero.com^*/banner_
 ||dossier.net^*/rettangolo_
 ||dozenblogs.com^*/awesomesupport.png

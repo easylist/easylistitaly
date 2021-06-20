@@ -206,7 +206,7 @@ castellinotizie.it,meteogiornale.it,pistoiasport.com###custom_html-13
 cucinamamma.it,grae.it###custom_html-14
 giochi.com,immaginaviaggiare.it,nintendari.it,sportando.basketball###custom_html-17
 pianetaserieb.it###custom_html-18
-assisisport.it,birramoriamoci.it,calciohellas.it,calciorosanero.it,card.it,carteprepagate.org,iopartodasola.it,italiaonline.news,sportnews.eu###custom_html-2
+assisisport.it,birramoriamoci.it,calciohellas.it,calciorosanero.it,card.it,carteprepagate.org,domanidoveandiamo.it,iopartodasola.it,italiaonline.news,sportnews.eu###custom_html-2
 corrierequotidiano.it,sportando.basketball###custom_html-20
 castellinotizie.it,immaginaviaggiare.it,tuttojuve24.it###custom_html-21
 castellinotizie.it,imolaoggi.it###custom_html-22
@@ -512,7 +512,7 @@ finaria.it,hellogreen.it,internetto.it###text-15
 finaria.it,internetto.it###text-16
 libroaudio.it###text-18
 gazzettadellavaldagri.it,giornalistitalia.it,noinotizie.it###text-19
-adviceandcommerce.it,alwaysonboard.it,guidaviaggi.it,jotv.it,ufficistampanazionali.it###text-2
+adviceandcommerce.it,alwaysonboard.it,domanidoveandiamo.it,guidaviaggi.it,jotv.it,ufficistampanazionali.it###text-2
 ilpost.it,noinotizie.it###text-20
 mbmusic.it,playersmagazine.it###text-21
 rumors.it###text-22
@@ -2058,7 +2058,7 @@ markos.it##a[href^="http://www.bookings.net/"]
 leggenditaloi.com##a[href^="http://www.easybytez.com/free"]
 rietilife.com##a[href^="http://www.rietilife.com?pasID="]
 outcast.it##a[href^="http://www.tostadora.it/t-shirt-nerd.php?"]
-birramoriamoci.it,bollablu.it,circusf1.com,computermania.org,efferadio.it,fattoincasadabenedetta.it,footballscouting.it,fut18italia.it,futurelements.it,fvjob.it,guerrestellari.net,gufo.it,hellogreen.it,hovogliadidolce.it,hwupgrade.it,hynerd.it,ilsoftware.it,imlestar.com,infotelematico.com,justfashionmagazine.com,juzaphoto.com,losport24.com,macitynet.it,maidirelink.it,medicinaonline.co,mio-ip.eu,mr-loto.it,murkymask.com,nokioteca.net,nonapritequestoblog.it,okpedia.it,partiture.it,ricettealvolo.it,sempredirebanzai.it,tivusat.tv,trattamentinaturalibio.it,twebnews.it,uberti.eu,ubud.it,uiblog.it,unideanellemani.it,unquizalgiorno.com,viaggio-in-germania.de,videogiocare.it,windowsblogitalia.com##a[href^="https://amzn.to/"]
+birramoriamoci.it,bollablu.it,circusf1.com,computermania.org,domanidoveandiamo.it,efferadio.it,fattoincasadabenedetta.it,footballscouting.it,fut18italia.it,futurelements.it,fvjob.it,guerrestellari.net,gufo.it,hellogreen.it,hovogliadidolce.it,hwupgrade.it,hynerd.it,ilsoftware.it,imlestar.com,infotelematico.com,justfashionmagazine.com,juzaphoto.com,losport24.com,macitynet.it,maidirelink.it,medicinaonline.co,mio-ip.eu,mr-loto.it,murkymask.com,nokioteca.net,nonapritequestoblog.it,okpedia.it,partiture.it,ricettealvolo.it,sempredirebanzai.it,tivusat.tv,trattamentinaturalibio.it,twebnews.it,uberti.eu,ubud.it,uiblog.it,unideanellemani.it,unquizalgiorno.com,viaggio-in-germania.de,videogiocare.it,windowsblogitalia.com##a[href^="https://amzn.to/"]
 trattamentinaturalibio.it##a[href^="https://c.mtpc.se/"]
 golbym.com##a[href^="https://casinostudio3000.com/"]
 albengacorsara.it,campaniameteo.it,germania.info,partiteoggi.net,tuttoamerica.it,viaggio-in-germania.de##a[href^="https://clk.tradedoubler.com/"]
