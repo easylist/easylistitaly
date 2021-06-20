@@ -246,7 +246,7 @@ tipiace.it###externalbanner
 forum-wranglermania.com###fa_ticker_container
 cibo360.it###fascia_banner_bottom
 grecia.info###fh_content
-irlandando.it###fh_top
+germania.info,irlandando.it###fh_top
 notizielombardia.it###fixedban
 calciomercato.com###float-sidebar-inner
 varesesport.com###floorsunrise
