@@ -1185,6 +1185,7 @@ mkers.gg##.elementor-element-9a57430
 stilenaturale.com##.elementor-element-a143866
 radiortm.it##.elementor-element-b3a119d
 tv9italia.it##.elementor-element-bdf53b1
+newslinet.com##.elementor-element-c3fb427
 giornalesm.com##.elementor-element-cfedfc3
 giornalesm.com##.elementor-element-d459522
 iamnaples.it##.elementor-element-d878c7f

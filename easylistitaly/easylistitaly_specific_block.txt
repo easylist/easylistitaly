@@ -2572,6 +2572,7 @@
 ||newsfood.com^*/KriKri_Frozen-yogurt_Newsfood1.gif
 ||newsfood.com^*/Webbanner_
 ||newsfood.com^*_banner_
+||newslinet.com^*/MCL-5000x600-
 ||newsly.it^*/aawp/
 ||newtuscia.it^*-300x150-
 ||newtuscia.it^*-300x150.
