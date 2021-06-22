@@ -1189,6 +1189,7 @@
 ||filmstreaming.page/728.gif
 ||filmstreaming.page/sc.png
 ||filmstreaming.page/strem.png
+||financecommunity.it^*_banner_
 ||finanzareport.it^*/box_unicredit.jpg
 ||finanzareport.it^*/leaderboard.jpg
 ||finanziamenti.it^*/banner-
