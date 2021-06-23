@@ -2128,6 +2128,9 @@
 ||lamiacittanews.it^*/banner-
 ||lamiacittanews.it^*/banner/
 ||lamiacittanews.it^*_300x180.
+||lamiavitainvaligia.org^*/airbnb.png
+||lamiavitainvaligia.org^*/hype-min.png
+||lamiavitainvaligia.org^*/N26-carta-min.png
 ||lamilano.it^*/MOOD-AGENCY.gif
 ||lamoneta.it^*/bannertop.
 ||lamoneta.it^*/ilforumbanner.jpg
