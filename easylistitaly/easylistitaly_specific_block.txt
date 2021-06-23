@@ -3592,6 +3592,7 @@
 ||startmag.it^*/Skin_
 ||startmag.it^*_skin-
 ||startmag.it^*_Skin_
+||starwarsnews.it^*/Star-Wars-Amazon-Italia-negozio-acquisti-online.jpg
 ||stateofmind.it^*-Banner-
 ||stateofmind.it^*/banner_
 ||stateofmind.it^*_skin.

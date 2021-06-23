@@ -358,7 +358,7 @@ seitv.it###media_image-16
 1web.tv,allasianfootball.com,buonenotizie.it,chepreparo.it,ecodisicilia.com,ilgazzettinodisicilia.it,internapoli.it,it-casinoonline.com,novetv.com,pisainvideo.it,quotidianodifoggia.it,todinforma.it,viaggiare-low-cost.it###media_image-2
 natureatblog.com###media_image-23
 magnifici7.com###media_image-25
-football-magazine.it###media_image-26
+football-magazine.it,starwarsnews.it###media_image-26
 football-magazine.it###media_image-28
 magnifici7.com###media_image-29
 benessere-sport.it,blograffo.net,corriereelorino.it,magnifici7.com,natureatblog.com,pisainvideo.it,tecnofacile.com,tribunapoliticaweb.sm,ufficistampanazionali.it###media_image-3
