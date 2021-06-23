@@ -698,7 +698,7 @@ offertevolantini.it##.add_w2_h1
 ildolomiti.it##.adsB
 amalfinews.it,beatgogo.it,chistachiamando.it,ilportico.it,ilvescovado.it,liratv.it,occhisusalerno.it,pcprofessionale.it,positanonotizie.it,ravellonotizie.it,trova-aperto.it,valtellinamobile.it##.adsense
 animalidacompagnia.it##.adserver
-adessoin.tv,allaguida.it,alpha59.it,altoadigetv.it,altreconomia.it,amica.it,ansa.it,buttalapasta.it,calciatoribrutti.com,calciomercato.com,cittaceleste.it,curioctopus.it,dissapore.com,dolciveloci.it,donnaglamour.it,economiafinanzaonline.it,fcinter1908.it,forbes.it,forzaroma.info,gelocal.it,gianlucadimarzio.com,girovagandointrentino.it,gta-expert.it,guardachevideo.it,ilfattoquotidiano.it,ilpost.it,ilsole24ore.com,itasportpress.it,juvenews.eu,latina24ore.it,leonardo.it,libero.it,mediaset.it,milanofinanza.it,movieplayer.it,multiplayer.it,nanopress.it,newsmondo.it,notiziebenessere.it,notiziemilan.it,notiziemusica.it,oasport.it,passioneinter.com,pianetamilan.it,pourfemme.it,prealpina.it,primochef.it,radioindiretta.fm,repubblica.it,salepepe.it,skuola.net,staffettaonline.com,stylosophy.it,supereva.it,toro.it,toronews.net,trentinotv.it,virgilio.it,vocenuova.tv##.adv
+adessoin.tv,allaguida.it,alpha59.it,altoadigetv.it,altreconomia.it,amica.it,ansa.it,buttalapasta.it,calciatoribrutti.com,calciomercato.com,cittaceleste.it,curioctopus.it,dissapore.com,dolciveloci.it,donnaglamour.it,economiafinanzaonline.it,fcinter1908.it,forbes.it,forzaroma.info,gay.it,gelocal.it,gianlucadimarzio.com,girovagandointrentino.it,gta-expert.it,guardachevideo.it,ilfattoquotidiano.it,ilpost.it,ilsole24ore.com,itasportpress.it,juvenews.eu,latina24ore.it,leonardo.it,libero.it,mediaset.it,milanofinanza.it,movieplayer.it,multiplayer.it,nanopress.it,newsmondo.it,notiziebenessere.it,notiziemilan.it,notiziemusica.it,oasport.it,passioneinter.com,pianetamilan.it,pourfemme.it,prealpina.it,primochef.it,radioindiretta.fm,repubblica.it,salepepe.it,skuola.net,staffettaonline.com,stylosophy.it,supereva.it,toro.it,toronews.net,trentinotv.it,virgilio.it,vocenuova.tv##.adv
 teleunica.com##.adv-body
 centrometeoitaliano.it##.adv-cmi
 animatamente.net,arezzoweb.it,corriereromagna.it,udineoggi.news##.adv-link
@@ -1686,6 +1686,7 @@ tgnewstv.it##.sp-logo-carousel-pro-section
 calcioatalanta.it,calciocasteddu.it,calciocremonese.it,calciofere.it,calciogrifo.it,calciohellas.it,calciolecce.it,calciorosanero.it,calciospezia.it,fiorentina.it,forzamonza.it,forzaparma.it,labaricalcio.it,siamolaroma.it,sololalazio.it,tifocosenza.it,trapanigranata.it,usavellino1912.com,virtus.it##.sp-sponsors
 radiodiffusionepistoia.com##.spazio_banner
 lifegate.it##.special-contents
+gay.it##.speciale
 comingsoon.it##.sponPro
 acsi.it,bebeez.it,bolzano-bozen.it,europages.it,fip.it,fortitudobaseball.it,girovagandointrentino.it,ilmonferrato.it,imperiatv.it,legab.it,olimpiamilano.com,repubblica.it,stickmangames.altervista.org,torinometeo.org##.sponsor
 luinonotizie.it##.sponsor-background-big
@@ -1725,6 +1726,7 @@ wallstreetitalia.com##.sticky-ele
 sportytrader.it##.sticky-header_banner_first
 sempionenews.it##.sticky-posts__redazionali
 quattroruote.it##.sticky-sponsor
+gay.it##.sticky-top
 occhionotizie.it##.sticky_bar_container
 webnews.it##.sticky_wrapper
 androidworld.it,mobileworld.it##.store-affiliation
