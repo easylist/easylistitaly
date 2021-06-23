@@ -2462,6 +2462,7 @@ datameteo.com##td[style^="border-top-style: solid; border-top-color:#d3d3d3; bor
 01health.it#?#.td_block_wrap:-abp-has(.sponsor)
 01net.it#?#.td_block_wrap:-abp-has(.sponsor)
 aleteia.org#?#div[class^="css-"]:-abp-has(a:-abp-contains(contenuto sponsorizzato))
+borsaitaliana.it#?#.m-relases__result:-abp-has(div:-abp-contains(Contenuto pubblicitario))
 ebay.it#?#.s-item:-abp-has(span.s-item__title--tagblock__SPONSORED)
 freshpointmagazine.it#?#.wpb_wrapper > .td_block_wrap:-abp-has(.sponsor)
 iene.mediaset.it#?#.bx:-abp-has(div:-abp-contains(CONTENUTO SPONSORIZZATO))
