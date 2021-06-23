@@ -389,6 +389,7 @@ tusciaweb.eu###miesSPLASH
 eurogamer.it###mobile-leaderboard
 eurogamer.it###mobile-mpu
 padelmagazine.it###modal
+gamereactor.it###mpu
 forum.tomshw.it###mpudesk
 sportparma.com###mvp-leader-cont
 pistoiasport.com,qdmnotizie.it###mvp-leader-wrap
