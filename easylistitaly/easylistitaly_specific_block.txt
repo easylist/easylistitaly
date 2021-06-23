@@ -1615,6 +1615,8 @@
 ||ilfattoonline.com^*/minibinrental-vaughan.jpg
 ||ilfattoonline.com^*/patrimonio-italiano-tv.jpg
 ||ilfattoonline.com^*/puro.jpg
+||ilfilo.net^*/autoparti-it-
+||ilfilo.net^*/Banner-
 ||ilfoglio.it/js/bannerInterstitial.js
 ||ilformat.info^*/banner_
 ||ilfriuliveneziagiulia.it^*-1156x250-
