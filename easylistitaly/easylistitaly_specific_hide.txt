@@ -1731,7 +1731,7 @@ sempionenews.it##.sticky-posts__redazionali
 quattroruote.it##.sticky-sponsor
 gay.it##.sticky-top
 occhionotizie.it##.sticky_bar_container
-webnews.it##.sticky_wrapper
+finanzaonline.com,webnews.it##.sticky_wrapper
 androidworld.it,mobileworld.it##.store-affiliation
 andreagaleazzi.com##.store-box
 fruitbookmagazine.it##.strack_bnr
