@@ -1005,6 +1005,7 @@ meteogiornale.it##.box-sn
 trend-online.com##.box-special
 tvserial.it##.box-verticale-home
 stilearte.it##.box.shadow
+oggi.it##.boxOpenx
 flashscore.it##.boxOverContent__banner
 biellaoggi.it,cuneooggi.it##.box_banner
 hdblog.it,hdmotori.it##.box_highlight_footer

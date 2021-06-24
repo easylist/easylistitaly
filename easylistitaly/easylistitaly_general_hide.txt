@@ -274,6 +274,7 @@
 ##.sal-adv-adsense
 ##.sb-box-pubbliredazionale
 ##.sidebar-adv
+##.sidebar-item-adv
 ##.sidebar__adv
 ##.single-adv
 ##.sito-adv-sopra-main
