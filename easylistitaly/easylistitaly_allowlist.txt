@@ -14,6 +14,7 @@
 @@||assets.evolutionadv.it^*/gpt.min.js$domain=money.it
 @@||assets.evolutionadv.it^*/optiload.min.js$domain=money.it
 @@||assets.evolutionadv.it^*/prebid.min.js$domain=money.it
+@@||business24tv.it/_static/*/OAsX/$stylesheet,~third-party
 @@||carloneworld.it^*/tastixhumpp_b12_Pubblicita_Taroccate.png
 @@||carrozzeriabertazzoni.it/immagini/PUBBLICITA.gif
 @@||carrozzeriabertazzoni.it/pubblicita/
