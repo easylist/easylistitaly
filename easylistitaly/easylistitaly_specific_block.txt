@@ -1727,6 +1727,7 @@
 ||ilmartino.it^*/xbanner-
 ||ilmessaggero.it/img/banner_
 ||ilmetapontino.it^*/banner-
+||ilmiocaneleggenda.it^*/tasto-amazon.png
 ||ilmiogattoeleggenda.it^*/tasto-amazon-
 ||ilmioip.it/img/banner
 ||ilmioip.it/img/infermieri
