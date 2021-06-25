@@ -595,8 +595,10 @@
 ||caffe.ch/media/STATICHE/ilcaffe/ADV/
 ||cagliaricalcio.com^*-sponsor-
 ||cakemania.it^*/bannervoxmail300x100.png
+||calabria7.it^*/autosala.jpg
 ||calabria7.it^*/bricon.jpeg
 ||calabria7.it^*/dolce-750.png
+||calabria7.it^*/SentoFEB20.jpg
 ||calabria7.it^*_skin_
 ||calabriamagnifica.it^*/Banner-
 ||calabriamagnifica.it^*/freegifmaker.me_

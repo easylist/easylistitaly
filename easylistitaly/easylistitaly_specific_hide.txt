@@ -665,7 +665,7 @@ whiteradio.it##.Sp
 telestense.it##.StandardBanner
 ricetta.it##.\37 28-up
 radioradio.it,uominietrasporti.it##._ning_inner
-100ideeperristrutturare.it,casa-naturale.com,quattrozampe.online,radioluce.it,villeecasali.com##._ning_outer
+100ideeperristrutturare.it,calabria7.it,casa-naturale.com,quattrozampe.online,radioluce.it,villeecasali.com##._ning_outer
 ilsole24ore.com##.a-leaderboard
 corriereelorino.it,erbanotizie.com,grandangoloagrigento.it,ilgolfonline.it,lombardinelmondo.org,monrealepress.it,ravennawebtv.it,rietinvetrina.it,ultimenotizieflash.com##.a-single
 badcomics.it,badgames.it,badtaste.it,badtv.it##.aalb-880-product-carousel-unit
@@ -1305,6 +1305,7 @@ nuovosud.it##.header-banner-wrapper
 calciomercato.com##.header-banner__container
 computersm.com##.header-top
 lanuovacalabria.it##.headerBanner
+calabria7.it##.header__banner
 h24notizie.com##.headerbanner
 quotidianolacitta.it##.headerbanner_autoslides
 mammafelice.it##.headerright
