@@ -323,6 +323,7 @@
 ##a[href^="https://affiliazioniads.snai.it/"]
 ##a[href^="https://campaigns.williamhill.it/C.ashx?"]
 ##a[href^="https://direct.piuannews.com/aff_"]
+##a[href^="https://go.ketchupadv.it/aff_c?"]
 ##a[href^="https://guarda4k.online/"]
 ##a[href^="https://ic.aff-handler.com/"]
 ##a[href^="https://link.offerte2019.info/"]
