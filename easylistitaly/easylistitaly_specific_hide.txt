@@ -1935,6 +1935,7 @@ nursetimes.org##.widget_realty_widget
 calabriareportage.it##.widget_smartslider3
 giornaleravenna.com##.widget_sp_image-image-link
 radiodigione.net##.widget_ubm-banners-rotation
+motoexcape.com##.widget_w2dc_search_widget
 apinsieme.it##.widget_wooslider_slideshow_slides
 vicenzanews.it##.wifiplaza
 tuttitalia.it##.wk
@@ -2183,6 +2184,7 @@ ilparmense.net##div[id^="ilpar-"]
 infocilento.it##div[id^="infoc-"]
 maidirelink.it##div[id^="maidi-"]
 radioluce.it##div[id^="mdl-"]
+motoexcape.com##div[id^="motoe-"]
 ebikecult.it,mtbcult.it##div[id^="mtbcu-"]
 insegreto.com##div[id^="nat_"]
 imagelinenetwork.com##div[id^="partner-"]
