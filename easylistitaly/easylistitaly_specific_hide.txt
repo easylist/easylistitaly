@@ -228,7 +228,7 @@ newsfood.com###custom_html-67
 newsfood.com###custom_html-68
 calcioitalia24.it,melarossa.it,pistoiasport.com,topragazze.it,torremaggiore.com###custom_html-7
 newsfood.com###custom_html-71
-calcioitalia24.it,corrierequotidiano.it,vitaminanews.it###custom_html-8
+calcioitalia24.it,corrierequotidiano.it,trueriders.it,vitaminanews.it###custom_html-8
 indiscreto.org,scrivolibero.it,viaggiallafinedelmondo.it###custom_html-9
 dolciveloci.it,donnaglamour.it,economiafinanzaonline.it,newsmondo.it,notiziebenessere.it,notiziemilan.it,notiziemusica.it,primochef.it###delta-mobile-bottom
 amazon.it###detailILM_feature_div
