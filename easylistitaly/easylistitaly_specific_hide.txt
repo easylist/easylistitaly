@@ -946,6 +946,7 @@ ifood.it##.bg-banner
 telenord.it##.bg-link
 vivoconbenessere.it##.bg.landscape
 nuovosud.it##.bg_skin
+laprovinciacr.it##.bgbanner
 libero.it##.big
 bitsandchips.it##.big-g-page
 bitsandchips.it##.big-g-sidebar
