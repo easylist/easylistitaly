@@ -1930,6 +1930,7 @@ wesud.it##.widget_idemedia_banner_widget
 riskcompliance.it##.widget_itarget_banners
 rinnovabili.it##.widget_links
 dilei.it,quifinanza.it,siviaggia.it##.widget_promo_box_widget
+viaggiadipiu.it##.widget_qjpbhmf
 nursetimes.org##.widget_realty_widget
 calabriareportage.it##.widget_smartslider3
 giornaleravenna.com##.widget_sp_image-image-link
