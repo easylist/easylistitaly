@@ -1169,6 +1169,7 @@ notiziemolise.it,specchiosesto.it##.e3lan
 cronachedibirra.it##.e3lan125
 ilpaesenuovo.it##.e3lanat-layout-rotator
 bergamonews.it##.edinews_widget_friends-3
+genova24.it##.edinews_widget_post_from_terms
 bsnews.it,evosmart.it,mialleno.it,pc-gaming.it,stile.it##.egg-container
 regaliperfetti.it##.egg_grid
 regaliperfetti.it##.egg_sort_list
