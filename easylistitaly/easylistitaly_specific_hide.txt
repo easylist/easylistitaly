@@ -224,7 +224,10 @@ mondomobileweb.it###custom_html-42
 1x2-calcio.com,calcioitalia24.it,carteprepagate.org,corrieredelmolise.com,grossetosport.com,italiaonline.news,italyandmore.it,mam-e.it,melarossa.it,tuttogossipnews.it###custom_html-5
 1x2-calcio.com,calcioitalia24.it,corrieredicomo.it,cucinamamma.it,hynerd.it,indiscreto.org,it-casinoonline.com,lombardoandrea.com,nonsprecare.it,paladins.it,pentanewslivorno.it,torremaggiore.com###custom_html-6
 strill.it,tuttotek.it###custom_html-65
+newsfood.com###custom_html-67
+newsfood.com###custom_html-68
 calcioitalia24.it,melarossa.it,pistoiasport.com,topragazze.it,torremaggiore.com###custom_html-7
+newsfood.com###custom_html-71
 calcioitalia24.it,corrierequotidiano.it,vitaminanews.it###custom_html-8
 indiscreto.org,scrivolibero.it,viaggiallafinedelmondo.it###custom_html-9
 dolciveloci.it,donnaglamour.it,economiafinanzaonline.it,newsmondo.it,notiziebenessere.it,notiziemilan.it,notiziemusica.it,primochef.it###delta-mobile-bottom

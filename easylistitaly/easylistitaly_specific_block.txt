@@ -2573,6 +2573,7 @@
 ||newsfood.com^*-Banner-
 ||newsfood.com^*/banner-
 ||newsfood.com^*/FAO-GIAHS_Soave-firma-mail-1.jpg
+||newsfood.com^*/hotel-orlando.gif
 ||newsfood.com^*/ILPNEWSFOOD.gif
 ||newsfood.com^*/KriKri_Frozen-yogurt_Newsfood1.gif
 ||newsfood.com^*/Webbanner_
