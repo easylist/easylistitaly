@@ -2972,7 +2972,7 @@
 ||pressgiochi.it^*300x90
 ||pressgiochi.it^*_banner_
 ||primaonline.it^*/Assirm_Campagna-Digital-
-||primaonline.it^*/primacomunicazione_leaderboard.jpg
+||primaonline.it^*_leaderboard.
 ||primapaginamolise.it/banner/
 ||primapaginaonline.it^*/Banner-
 ||primapress.it^*/banner_
