@@ -3653,6 +3653,7 @@
 ||studio93.it^*225x100
 ||studio93.it^*798x90
 ||submission.it/banner/
+||sudnews.it^*/banner/
 ||sudnotizie.com^*/Assodemaniali-Campania.jpg
 ||superbasket.it^*-750x80px.
 ||superbasket.it^*/750x80-

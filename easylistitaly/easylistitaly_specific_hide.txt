@@ -240,6 +240,7 @@ tuttomercatoweb.com###div-masthead-top_lazy
 nextpit.it###div-sidebar_right_extra
 mymovies.it###div_topleft
 ecodicaserta.it###down
+sudnews.it###dx-banner
 repubblica.it###editorial-Middle1
 repubblica.it###editorial-TopLeft
 news.mtv.it###execphp-14
