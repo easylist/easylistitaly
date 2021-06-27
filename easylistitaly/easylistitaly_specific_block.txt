@@ -2124,6 +2124,7 @@
 ||lagone.it^*_banner_
 ||laguida.it^*-311x300-
 ||laguida.it^*-Skin.
+||laleggepertutti.it^*/banner/
 ||laltrapagina.it^*/barraagenda.jpg
 ||laltrapagina.it^*/pe4681.
 ||laluce.news^*/50-off.png
