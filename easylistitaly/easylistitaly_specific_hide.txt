@@ -688,7 +688,7 @@ selectra.net##.action-box
 gamesource.it,gqitalia.it,icasa.ch,ilfoglio.it,jugo.it,lacrocequotidiano.it,le-citazioni.it,liberatv.ch,lonelyplanetitalia.it,mondoplay.it,mondoxbox.com,motorbox.com,quotidianoapuano.net,radio-in-diretta.com,serietvu.link,smartbuildingitalia.it,trend-online.com,tripadvisor.it,vogue.it##.ad
 tusciaweb.eu##.ad-article
 tvdream.net##.ad-box
-soluzionicodycross.it,supertv.it##.ad-container
+adotta.me,soluzionicodycross.it,supertv.it##.ad-container
 fantacalcio.it##.ad-video
 laltrapagina.it##.ad1
 laltrapagina.it##.ad2
