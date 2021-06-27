@@ -4176,6 +4176,7 @@
 ||videomakers.net/wp-content/banners/
 ||videomediterraneo.it/images/banners/
 ||videomediterraneo.it/player/dist/ads/ads.min.js
+||videonotizietv.it^*/banner.jpg
 ||videopornoitalia.it/nb/
 ||vienormali.it/images/banner/
 ||vinoalvino.org^*/BANNER-
