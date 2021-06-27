@@ -163,7 +163,9 @@
 ##.adv300eni
 ##.adv300x100vd
 ##.advBot
+##.advBoxDxBis
 ##.advCollapse
+##.advFooter
 ##.advHm-cont-Ape
 ##.advPostLibri
 ##.advTestuale
