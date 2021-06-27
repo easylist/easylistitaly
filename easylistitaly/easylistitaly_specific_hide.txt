@@ -675,7 +675,7 @@ facileporno.com##.aan_fake
 facileporno.com##.aan_fake__video-units
 repubblica.it##.aas_whole_wrapper
 albengacorsara.it,androidplanet.it,casa-domotica24.it,cassesenzafili.com,ciaogreen.it,cityrumors.it,comelofaccio.it,depurarsi.com,domoticafull.it,frasiepensieri.it,fut18italia.it,gamerbrain.net,gufo.it,ideeregalonatale.biz,imiglioridififa.com,infotelematico.com,lamiavitainvaligia.org,libripiuvenduti.it,londranews.com,meditazionezen.it,melarossa.it,menteinformatica.it,migliorecrema.com,migliorigiochi.eu,naturalogico.it,nerdmovieproductions.it,notiziarte.com,orgoglionerd.it,orologidapolso.org,outofbit.it,phonetoday.it,recensioniorologi.it,salutemoderna.it,simonemaestri.com,solorecensioni.com,soluzionecomputer.it,stadiosport.it,stampante-3d.net,teamworld.it,tech4d.it,techbusiness.it,techprincess.it,tecnofacile.com,tennisdoo.com,tuttoesselunga.com,wordsmart.it##.aawp
-tecnofacile.com##.aawp-button
+recensioniorologi.it,tecnofacile.com##.aawp-button
 topdigamma.it,tuttotek.it##.aawp-product
 androidtvbox.it,migliori-tv.it##.aawp-widget
 ilportaledelcavallo.it##.ab_top_banner
