@@ -2541,6 +2541,7 @@
 ||mymovies.it/img/logo-disneypiu.png
 ||mymovies.it/primevideo/
 ||mymovies.it^*/primevideo/
+||mysocialpet.it^*/loghi_sponsor/
 ||myvalley.it/wp-content/banners/
 ||myvalley.it^*-sfondo-
 ||myvalley.it^*-sfondo.
