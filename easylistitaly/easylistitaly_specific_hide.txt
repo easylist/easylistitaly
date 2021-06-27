@@ -1943,6 +1943,7 @@ motoexcape.com##.widget_w2dc_search_widget
 apinsieme.it##.widget_wooslider_slideshow_slides
 vicenzanews.it##.wifiplaza
 tuttitalia.it##.wk
+bresciasat.it##.workspace__block--sponsor
 jotv.it##.wp-caption.alignnone
 amoreperleserietv.com##.wpa
 itvonline.news##.wpb_gallery

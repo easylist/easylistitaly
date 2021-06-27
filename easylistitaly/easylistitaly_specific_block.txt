@@ -568,6 +568,7 @@
 ||bottadiculo.it^*/300x600.png
 ||bottadiculo.it^*/banner
 ||bottadiculo.it^*/Invictus-
+||bresciasat.it^*_banner-
 ||brindisifc.it/images/sponsor/
 ||brindisisera.it/img/banner/
 ||brindisisettenews.it/img/banner/
