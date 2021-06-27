@@ -336,6 +336,7 @@
 ##a[href^="https://online.codere.it/promoRedirect?"]
 ##a[href^="https://promonow.shop/offers.php?"]
 ##a[href^="https://record.betpartners.it/"]
+##a[href^="https://tracking.tgmfraz.com/"]
 ##a[href^="https://www.18carati.com/?acc="]
 ##a[href^="https://www.centoxcento.net/?track="]
 ##a[href^="https://www.nigiara.it/scripts/redir.php?url=https://amzn.to/"]

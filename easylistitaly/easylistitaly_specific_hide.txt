@@ -1813,6 +1813,7 @@ chedonna.it##.tdi_115_ebb
 omniagate.com##.tdi_11_784
 volleynews.it##.tdi_132 + .tdi_136
 imiglioridififa.com##.tdi_134
+tipresentoilcane.com##.tdi_153_158
 calcioj.com##.tdi_15_2e7
 campanianotizie.com##.tdi_16_d61
 omniagate.com##.tdi_36_816
@@ -1949,6 +1950,7 @@ tuttotek.it##.wpb_wrapper > a[href^="https://www.amazon.it/"]
 umbriasud.com##.wpcnt
 palermolive.it##.wpls-logo-showcase
 fiorentina.news##.wpls-logo-showcase-slider-wrp
+tipresentoilcane.com##.wpmc-product-list
 golfpiu.it##.wpmc_display
 agemobile.com,androidblog.it,best5.it,lapappadolce.net,tuttosullapostaelettronica.it##.wpmc_inject_wrapper
 golfpiu.it##.wpmoneyclick-product-box-multiprov
