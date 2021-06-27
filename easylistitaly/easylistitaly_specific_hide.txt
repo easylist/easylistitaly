@@ -179,6 +179,7 @@ corrieredellacalabria.it###click_dxa
 corrieredellacalabria.it###click_sxa
 amazon.it###click_withinLazyLoad_tower
 aquilabasket.it###clickit
+stilearte.it###codewidget-2
 acquariofilia.biz###collapseobj_sidebar_google
 infobetting.com###comparazione_bonus_tabella
 matrimoniosolidale.it###confetti-bomb
@@ -2110,7 +2111,7 @@ iobenessere.it##a[href^="https://www.amazon.it/shop/"]
 tuttoamerica.it##a[href^="https://www.anrdoezrs.net/click-"]
 beautytester.it,gufo.it,msn.com,neomag.it,partiteoggi.net,salutarmente.it##a[href^="https://www.awin1.com/"]
 maremma.name,turistadimestiere.com,tuttobaviera.it,vacanzeinamerica.eu,viaggio-in-germania.de##a[href^="https://www.booking.com/"]
-fumettologica.it##a[href^="https://www.catawiki.it"][href*="?utm_"]
+fumettologica.it,stilearte.it##a[href^="https://www.catawiki.it"][href*="?utm_"]
 lavocedelpopolo.it##a[href^="https://www.holyart.it/"]
 gamelegends.it,hynerd.it,spaziogames.it,tuttotek.it,xtremehardware.com##a[href^="https://www.instant-gaming.com/?igr="]
 gamelegends.it##a[href^="https://www.instant-gaming.com?igr="]
