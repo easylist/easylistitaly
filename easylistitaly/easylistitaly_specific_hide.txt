@@ -268,6 +268,8 @@ videosesso.com###footertop
 1web.tv###fpub-popup
 gogoterme.com,luoghidanonperdere.com###frm
 gamingtoday.it###frm_affId_0
+ilcittadinodirecanati.it###g-slideshow
+ilcittadinodirecanati.it###g-top
 ilcap.it###gadsense
 giornalesm.com###gallery-254068-1-slideshow
 mondoplay.it,mondoxbox.com###gameBlock_amazon
@@ -920,7 +922,7 @@ brindisisera.it##.bannerbox
 treccani.it##.bannercontainer
 toscanafree.it##.bannerdentro
 ilgiornaledellabellezza.it##.bannergrid
-105tv.it,aostaoggi.it,arezzo24.net,arezzotv.net,calcionazionale.it,casertafocus.net,concorezzo.org,elbareport.it,energiamercato.it,faidatehobby.it,fiumicino-online.it,gazzettadellaspezia.it,genova3000.it,giornaledimontesilvano.com,ilcervellone.it,ildispaccio.it,ilgazzettinobr.it,ilgrigioneitaliano.ch,isnews.it,kisskiss.it,kisskissitalia.it,kisskissnapoli.it,lametino.it,maremmanews.it,metanogpl.it,monrealenews.it,notebookitalia.it,ondalibera.it,puntovendita.info,qdpnews.it,sienafree.it,teleglobal.tv,tv1.it,umbriatv.com,videomediterraneo.it,youtg.net##.bannergroup
+105tv.it,aostaoggi.it,arezzo24.net,arezzotv.net,calcionazionale.it,casertafocus.net,concorezzo.org,elbareport.it,energiamercato.it,faidatehobby.it,fiumicino-online.it,gazzettadellaspezia.it,genova3000.it,giornaledimontesilvano.com,ilcervellone.it,ilcittadinodirecanati.it,ildispaccio.it,ilgazzettinobr.it,ilgrigioneitaliano.ch,isnews.it,kisskiss.it,kisskissitalia.it,kisskissnapoli.it,lametino.it,maremmanews.it,metanogpl.it,monrealenews.it,notebookitalia.it,ondalibera.it,puntovendita.info,qdpnews.it,sienafree.it,teleglobal.tv,tv1.it,umbriatv.com,videomediterraneo.it,youtg.net##.bannergroup
 comitatoparalimpico.it##.bannergroup-banner
 betitaliaweb.it##.bannergroup_rightBanner
 radiogold.it##.bannergroupskin-banner-module
