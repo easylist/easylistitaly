@@ -419,6 +419,7 @@ puntocellulare.it###o_list
 diretta.it,flashscore.it###odds-main-wrapper
 mondoplay.it,mondoxbox.com###offersbox
 mondoplay.it,mondoxbox.com###offersbox_wide
+centrometeoitaliano.it###outbrain-wrapper
 radiogold.it###overlay-bn-wrapper
 tgtourism.tv###panel-2-4-3-1
 sposa.it###partner-content
