@@ -2521,6 +2521,7 @@ ilprogettistaindustriale.it#?#.td_block_wrap:-abp-has(span:-abp-contains(Contenu
 innaturale.com#?#.ruby-block-wrap:-abp-has(a:-abp-contains(SPONSORED))
 italpress.com#?#.vc_row_inner:-abp-has(a[href^="https://group.intesasanpaolo.com/"])
 lavocedinovara.com#?#.post.type-post.consigliato:-abp-has(a:-abp-contains(Sponsorizzato))
+linkiesta.it#?#.row-inner:-abp-has(h2:-abp-contains(Branded))
 logisticanews.it#?#.td_block_wrap:-abp-has(a:-abp-contains(Contenuti sponsorizzati))
 lospiffero.com#?#.article-blog-default:-abp-has(span:-abp-contains(CONTENUTO SPONSORIZZATO))
 meccanicanews.com#?#.td_block_wrap:-abp-has(a:-abp-contains(Contenuti sponsorizzati))
