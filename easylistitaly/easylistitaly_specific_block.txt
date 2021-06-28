@@ -1033,6 +1033,7 @@
 ||diritto.it^*/Banner_
 ||diritto.it^*/download-1-2.jpg
 ||diritto.it^*/untitled-3.png
+||dirittodicronaca.it/images/banners/
 ||dirittoegiustizia.it^*/downloadFileBanner.
 ||divisionecalcioa5.it^*/74896C0E-F096-4034-B647-BA549495F905.jpeg
 ||divisionecalcioa5.it^*/banner-
