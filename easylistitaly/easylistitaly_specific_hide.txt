@@ -1555,6 +1555,7 @@ ludomedia.it##.profiloAdv
 comingsoon.it,pneusnews.it##.promo
 voglioporno.com##.promo-462x66
 eurogamer.it##.promo-banner
+sardinias.it##.promo-partner-container
 ideegreen.it,motori.it##.promobox
 proiezionidiborsa.it##.promoboxblu
 proiezionidiborsa.it##.promoboxorange

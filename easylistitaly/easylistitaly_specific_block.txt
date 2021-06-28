@@ -3405,6 +3405,7 @@
 ||sardanews.it/images/banners/
 ||sardegnareporter.it^*/Sea-Lounge-Club-Cala-Spinosa-
 ||sardiniapost.it^*/mobi.jpg
+||sardinias.it/files/partner/
 ||sarnonotizie.it^*/630x90.
 ||sarnonotizie.it^*/conada-
 ||sarnonotizie.it^*/NUTRIZIONISTA-1.
