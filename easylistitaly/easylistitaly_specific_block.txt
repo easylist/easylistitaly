@@ -2081,6 +2081,7 @@
 ||ladriatico.info^*-300x69.
 ||ladyradio.it^*/skin-
 ||lafeltrinelli.it^*/Partner/
+||lafune.eu^*/Banner-
 ||lagazzetta.info^*/banner/
 ||lagazzettaaugustana.it^*-banner-
 ||lagazzettadilucca.it^*/inserzioni/
