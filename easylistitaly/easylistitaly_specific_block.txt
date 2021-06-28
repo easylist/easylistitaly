@@ -43,6 +43,7 @@
 ||7per24.it^*/legacoop.
 ||7per24.it^*/logoBoorea2-
 ||7per24.it^*/sponsor/
+||98zero.com/static/img/banner/
 ||a.trend-online.it^
 ||abc24.it/images/banners/
 ||abcsalute.it/css/pics/banner_
