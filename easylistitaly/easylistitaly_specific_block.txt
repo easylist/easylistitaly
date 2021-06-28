@@ -1791,6 +1791,7 @@
 ||ilportaledelcavallo.it^*/zooriz.gif
 ||ilpost.it^*/banner_
 ||ilpost.it^*/newAdv.js?
+||ilprimatonazionale.it^*/black-brain.png
 ||ilpuntonotizie.it^*-Leaderboard.
 ||ilpuntonotizie.it^*/banner-
 ||ilpuntonotizie.it^*/banner_
