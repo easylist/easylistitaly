@@ -43,6 +43,7 @@
 ||clickadv.it^$third-party
 ||clickcount.pw^$third-party
 ||clickpoint.it^$third-party
+||codesour.com^$third-party
 ||consigli.it^$third-party
 ||coreg-feed.com^$third-party
 ||crmpilot.it^$third-party
