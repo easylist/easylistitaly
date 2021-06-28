@@ -1242,7 +1242,7 @@ pronosticirisultativincenti.com##.fixedbar
 podisti.net##.flexbannergroup
 sassuolooggi.it##.flexslider
 marsicalive.it##.fmhb-container
-corriereelorino.it##.fn-header-banner
+brianzaweb.com,corriereelorino.it##.fn-header-banner
 focus.it##.foc-coupon
 udinese.it##.foobar-sponsor
 ilmiostiledivita.it,incucinaconnonnaanna.it,lamiacasadolcecasa.it,nonsoloautoemoto.it##.footer-columns
