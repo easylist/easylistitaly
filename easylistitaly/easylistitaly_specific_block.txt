@@ -2053,6 +2053,7 @@
 ||la-notizia.net^*/Ristorante-Da-Fabrizio.jpg
 ||la-notizia.net^*/Ristorante-Papillon.jpg
 ||labtv.net^*/banner_
+||lacasainordine.it/wp-content/banners/
 ||lacitta.eu/images/banners/
 ||lacitta.eu/images/c4/18-3-assofrutti.jpg
 ||lacitta.eu/images/salus-
