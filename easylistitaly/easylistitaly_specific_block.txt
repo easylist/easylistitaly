@@ -3030,6 +3030,8 @@
 ||quattroruote.it^*/box-eni-
 ||quattroruote.it^*/sponsor/
 ||quellidellelica.com/images/banners/
+||quibrianzanews.com^*/banner_
+||quibrianzanews.com^*_banner.
 ||quicosenza.it^*/pirro300x407.gif
 ||quimedia.it^*_rectangle_
 ||quinewsabetone.it^/skin/
