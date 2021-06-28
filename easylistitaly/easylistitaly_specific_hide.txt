@@ -674,6 +674,7 @@ radioradio.it,uominietrasporti.it##._ning_inner
 ilsole24ore.com##.a-leaderboard
 corriereelorino.it,erbanotizie.com,grandangoloagrigento.it,ilgolfonline.it,lombardinelmondo.org,monrealepress.it,ravennawebtv.it,rietinvetrina.it,ultimenotizieflash.com##.a-single
 badcomics.it,badgames.it,badtaste.it,badtv.it##.aalb-880-product-carousel-unit
+cookist.it##.aalb-pa-product-container
 gnius.it##.aalb-product-carousel-unit
 facileporno.com##.aan_fake
 facileporno.com##.aan_fake__video-units
