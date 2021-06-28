@@ -216,7 +216,7 @@ leggopassword.it###custom_html-24
 dimagrireduepuntozero.com,pianetaserieb.it,strill.it###custom_html-25
 castellinotizie.it###custom_html-26
 dimagrireduepuntozero.com,pianetaserieb.it###custom_html-27
-pianetaserieb.it###custom_html-28
+pianetaserieb.it,tusciatimes.eu###custom_html-28
 alground.com,androidblog.it,assisisport.it,birramoriamoci.it,calcioatalanta.it,calciofere.it,calciogrifo.it,calciolecce.it,corrieredelmolise.com,forzaparma.it,labaricalcio.it,nonniavventura.it,quizlab.it,siamolaroma.it,sololalazio.it,tifocosenza.it,tifosipalermo.it,torremaggiore.com,trapanigranata.it,umbria.webcam###custom_html-3
 immaginaviaggiare.it###custom_html-30
 immaginaviaggiare.it###custom_html-33

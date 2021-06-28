@@ -3933,6 +3933,7 @@
 ||turismoitalianews.it^*/banner/
 ||turismoitalianews.it^*/banners/
 ||turistadimestiere.com^*/banner-
+||tusciatimes.eu^*/banner-
 ||tusciaup.com^*-160x90.
 ||tusciaup.com^*-300x250.
 ||tusciaup.com^*-730X90-
@@ -4504,6 +4505,16 @@
 ||wp.com/www.thewalkoffame.it/*/myzona.gif
 ||wp.com/www.trasimenonline.it/*_500x400.
 ||wp.com/www.tsdtv.it/*/300x300-
+||wp.com/www.tusciatimes.eu/*/300x500.
+||wp.com/www.tusciatimes.eu/*/Banca-Lazio-Nord.jpg
+||wp.com/www.tusciatimes.eu/*/Confartigianato_ok-min1.jpg
+||wp.com/www.tusciatimes.eu/*/fenix-services.jpeg
+||wp.com/www.tusciatimes.eu/*/Jooblelogo-lavoro-Viterbo.png
+||wp.com/www.tusciatimes.eu/*/laundry-hospital-services.jpeg
+||wp.com/www.tusciatimes.eu/*/logo-confesercenti2.png
+||wp.com/www.tusciatimes.eu/*/Palestra-Magno.jpeg
+||wp.com/www.tusciatimes.eu/*/Tuscia-Food-CamCommVT.gif
+||wp.com/www.tusciatimes.eu/*/VITERBO-ance.gif
 ||wp.com/www.tuttoboxe.it/*/amazon-
 ||wp.com/www.tuttojuve.net/*/119054606_350406236368302_7591478443508881500_n.png
 ||wp.com/www.tuttojuve.net/*/12597e17-489e-4e5f-aed5-57e4c9562708-1.jpg
@@ -4517,9 +4528,9 @@
 ||wp.com^*-banner-$domain=blogdellamusica.eu|fisco7.it|gazzettadiavellino.it|gazzettadisalerno.it|infonewsvietri.it|lagazzettaaeroportuale.it|libringioco.blog|nerdpool.it
 ||wp.com^*-banner.$domain=abruzzoweb.it|blogdellamusica.eu|gazzettadiavellino.it|gazzettadisalerno.it|infonewsvietri.it|orvietosi.it
 ||wp.com^*/675x238-$domain=tv9italia.it
-||wp.com^*/banner-$domain=abruzzoweb.it|bsnews.it|cinecorriere.it|foggiagol.it|giornaledicalabria.it|ilgiornaledeiveronesi.it|infocilento.it|lagazzettaaeroportuale.it|nonsoloturisti.it|nuotounostiledivita.it|oggicronaca.it|orvietosi.it|teleischia.com|temporeale.info|trasimenonline.it|tv9italia.it|vesuvianonews.it
+||wp.com^*/banner-$domain=abruzzoweb.it|bsnews.it|cinecorriere.it|foggiagol.it|giornaledicalabria.it|ilgiornaledeiveronesi.it|infocilento.it|lagazzettaaeroportuale.it|nonsoloturisti.it|nuotounostiledivita.it|oggicronaca.it|orvietosi.it|teleischia.com|temporeale.info|trasimenonline.it|tusciatimes.eu|tv9italia.it|vesuvianonews.it
 ||wp.com^*/banner/$domain=buongiornoslovacchia.sk|cronacaflegrea.it
-||wp.com^*/banner_$domain=agropolinews.it|bimbonaturale.org|fisco7.it|nuotounostiledivita.it|thewalkoffame.it
+||wp.com^*/banner_$domain=agropolinews.it|bimbonaturale.org|fisco7.it|nuotounostiledivita.it|thewalkoffame.it|tusciatimes.eu
 ||wp.com^*/banners/$domain=proiezionidiborsa.it|risveglioduemila.it
 ||wp.com^*/BRIGNOLA20201.jpg$domain=infonewsvietri.it
 ||wp.com^*/mahindra.png$domain=catanista.eu
