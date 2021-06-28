@@ -1683,7 +1683,7 @@ hdgolf.it##.slick-slide
 fermanafc.com,magentanostra.it,netflixlovers.it,settesere.it,uslecce.it,ustriestinacalcio1918.it##.slick-track
 radioradio.it##.slide
 livornolive.it,toscana.live##.slidelink
-oipamagazine.it##.slider
+oipamagazine.it,radiosvolta.it##.slider
 radiomillennium.it##.slider-banner
 radiomillennium.it##.slider-bollettino
 news-town.it##.slider-container
