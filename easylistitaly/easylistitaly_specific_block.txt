@@ -2283,6 +2283,7 @@
 ||lemillebolleblog.it^*/LE-MILLE-BOLLE-BLOG_1.gif
 ||lemillebolleblog.it^*_320x320_
 ||lemillebolleblog.it^*_Banner_
+||letteraemme.it^*/Banner-
 ||libero.it/_ad/
 ||libero.it/static/generated_external/shopping/
 ||libero.it/static/upll/234x/
