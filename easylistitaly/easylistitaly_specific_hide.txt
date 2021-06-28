@@ -1385,6 +1385,7 @@ blog.libero.it,blog.virgilio.it##.lb_hook1
 blog.libero.it,blog.virgilio.it##.lb_hook2
 convertire-documenti.it##.lead-responsive
 ilgallo.it##.leader-board
+lagazzettamessinese.it##.leader-right-wrap
 blablive.com##.leader-wrap-out
 primapaginaonline.it##.leaderbanner
 close-up.it,foodweb.it,meteovista.it,pneusnews.it,prealpina.it,ridble.com,riskcompliance.it,today.it,ultimenotizieflash.com##.leaderboard
@@ -1954,6 +1955,7 @@ calabriareportage.it##.widget_smartslider3
 giornaleravenna.com##.widget_sp_image-image-link
 radiodigione.net##.widget_ubm-banners-rotation
 motoexcape.com##.widget_w2dc_search_widget
+lagazzettamessinese.it##.widget_weptile-image-slider-widget
 apinsieme.it##.widget_wooslider_slideshow_slides
 vicenzanews.it##.wifiplaza
 tuttitalia.it##.wk
