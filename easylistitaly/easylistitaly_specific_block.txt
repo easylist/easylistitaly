@@ -528,6 +528,8 @@
 ||bikeitalia.it^*/banner-
 ||bikeracing.it/bannersbk.jpg
 ||bikerslife.com/contenuti/banners/
+||biologiamarina.org^*/logo-mercatinosport-
+||biologiamarina.org^*/Tribordo_logo.jpg
 ||bioterra.it^*/Tavola-disegno-13-768x1365.png
 ||birramoriamoci.it^*/Fatti-una-birra.gif
 ||birramoriamoci.it^*/prime-300x140.png
