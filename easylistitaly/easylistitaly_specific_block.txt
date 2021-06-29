@@ -2784,6 +2784,7 @@
 ||oroscopogiorno.it/mondo300.jpg
 ||ortodacoltivare.it^*/990x200_
 ||ortodacoltivare.it^*/ortofacile.jpg
+||ortodacoltivare.it^*/solabiol.jpg
 ||ortodacoltivare.it^*/videocorso-orto.jpg
 ||ortofrutta.com^*/promo-
 ||orvietosi.it^*-Banner-
