@@ -1934,6 +1934,7 @@
 ||italia.fm^*/leaseweb.gif
 ||italiaatavola.net/images/banners/
 ||italiaatavola.net/show_banner.aspx
+||italiacattolicaonline.it^*/banner_
 ||italiachecambia.org^*-1024x155.
 ||italiachecambia.org^*-768x116-
 ||italiachecambia.org^*-banner-
