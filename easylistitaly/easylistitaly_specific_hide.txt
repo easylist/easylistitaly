@@ -1186,6 +1186,7 @@ finestresullarte.info##.dx250
 notiziemolise.it,specchiosesto.it##.e3lan
 cronachedibirra.it##.e3lan125
 ilpaesenuovo.it##.e3lanat-layout-rotator
+noisiamoagricoltura.com##.e62-63
 bergamonews.it##.edinews_widget_friends-3
 genova24.it##.edinews_widget_post_from_terms
 bsnews.it,evosmart.it,mialleno.it,pc-gaming.it,stile.it##.egg-container
