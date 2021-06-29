@@ -1760,6 +1760,7 @@ quattroruote.it##.sticky-sponsor
 gay.it##.sticky-top
 occhionotizie.it##.sticky_bar_container
 finanzaonline.com,webnews.it##.sticky_wrapper
+prezzisalute.com##.stickyleft
 androidworld.it,mobileworld.it##.store-affiliation
 andreagaleazzi.com##.store-box
 fruitbookmagazine.it##.strack_bnr
