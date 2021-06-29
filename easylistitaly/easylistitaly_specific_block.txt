@@ -3806,6 +3806,7 @@
 ||tfnweb.it^*/COSAT.jpg
 ||tg24.info^*/banners/
 ||tgcal24.it^*-banner-
+||tgcal24.it^*/BANNER-
 ||tgcal24.it^*/banner_
 ||tgfuneral24.it^*-280x105.
 ||tgfuneral24.it^*-300x110-

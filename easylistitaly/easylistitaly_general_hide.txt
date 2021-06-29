@@ -214,6 +214,7 @@
 ##.box_adv_speciali_hp
 ##.boxpubblicita
 ##.boxpubblicitasx
+##.cellulare-adv
 ##.center-adv
 ##.center-adv-news
 ##.cmt_bgadv
