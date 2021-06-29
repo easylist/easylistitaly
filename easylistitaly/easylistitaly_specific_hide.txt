@@ -729,7 +729,7 @@ corrierecomunicazioni.it,digital4.biz,energyup.tech,ilsussidiario.net,industry4b
 ricettealvolo.it##.adv_content
 ricettealvolo.it##.adv_side
 calabria7.it##.advanced_floating_content
-addicted2play.com,eurogamer.it,gioco.it,lausc.it,morningstar.it,podisti.net##.advert
+addicted2play.com,bimcal.it,eurogamer.it,gioco.it,lausc.it,morningstar.it,podisti.net##.advert
 ilfoglio.it,liberoquotidiano.it,pharmastar.it##.advertisement
 film-review.it,frasicelebri.it,nanopress.it,zonalocale.it##.advertising
 altalex.com##.adviceBox
@@ -1725,6 +1725,7 @@ tvoggisalerno.it##.sow-slider-image-container
 tgnewstv.it##.sp-logo-carousel-pro-section
 calcioatalanta.it,calciocasteddu.it,calciocremonese.it,calciofere.it,calciogrifo.it,calciohellas.it,calciolecce.it,calciorosanero.it,calciospezia.it,fiorentina.it,forzamonza.it,forzaparma.it,labaricalcio.it,siamolaroma.it,sololalazio.it,tifocosenza.it,trapanigranata.it,usavellino1912.com,virtus.it##.sp-sponsors
 radiodiffusionepistoia.com##.spazio_banner
+bimcal.it##.special-calendars-wrap
 lifegate.it##.special-contents
 gay.it##.speciale
 comingsoon.it##.sponPro
