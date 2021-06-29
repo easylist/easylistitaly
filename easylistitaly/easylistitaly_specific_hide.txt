@@ -894,7 +894,9 @@ filmtv.it##.bannerRight
 bikerslife.com,edilportale.com,globalgeografia.com,ilmessaggero.it,lacronacadiravenna.it##.bannerTop
 woitalia.it##.banner_200
 ilcittadinodimessina.it##.banner_250x230
+radiofm1.it##.banner_320x100
 teleponte.it##.banner_6
+radiofm1.it##.banner_970x90
 ilcittadinodimessina.it##.banner_991x90
 professionecalcio.net,professionemotori.it##.banner_after_feat
 lafune.eu##.banner_articolo
