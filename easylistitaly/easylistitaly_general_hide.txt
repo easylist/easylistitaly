@@ -46,6 +46,9 @@
 ###adv02
 ###advAutopromo1
 ###advAutopromo2
+###advBB-left
+###advBB-right
+###advBB-top
 ###advSwiper_article
 ###adv_ManchetteDx
 ###adv_ManchetteSx
