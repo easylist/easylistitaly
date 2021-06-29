@@ -205,6 +205,7 @@ assisisport.it,gufo.it,indiscreto.org###custom_html-11
 cucinamamma.it,scienzenotizie.it###custom_html-12
 castellinotizie.it,meteogiornale.it,pistoiasport.com###custom_html-13
 cucinamamma.it,grae.it###custom_html-14
+mangiabevigodi.it###custom_html-15
 giochi.com,immaginaviaggiare.it,nintendari.it,sportando.basketball###custom_html-17
 pianetaserieb.it###custom_html-18
 assisisport.it,birramoriamoci.it,calciohellas.it,calciorosanero.it,card.it,carteprepagate.org,domanidoveandiamo.it,iopartodasola.it,italiaonline.news,sportnews.eu###custom_html-2
@@ -1102,16 +1103,16 @@ magodelpronostico.com##.cntBonusHome
 tiscali.it##.cnt_b_1
 pornototale.com##.co_sponsor
 cb01.business##.codalo
-casasuper.it##.code-block-1
+casasuper.it,mangiabevigodi.it##.code-block-1
 avvisatore.com,keblog.it,pomiglianolive.it##.code-block-11
 avvisatore.com,pomiglianolive.it##.code-block-12
 avvisatore.com##.code-block-13
 avvisatore.com##.code-block-14
 avvisatore.com##.code-block-15
 casasuper.it##.code-block-16
-keblog.it##.code-block-2
+keblog.it,mangiabevigodi.it##.code-block-2
 fisco7.it##.code-block-29
-avvisatore.com,cinquecolonne.it##.code-block-3
+avvisatore.com,cinquecolonne.it,mangiabevigodi.it##.code-block-3
 ok-salute.it##.code-block-42
 ok-salute.it##.code-block-43
 grossetosport.com,iltorinese.it,informarea.it,pomiglianolive.it##.code-block-5
