@@ -1226,6 +1226,7 @@
 ||fmtv.live^*-banner-
 ||fmtv.live^*/101832706_122868592765034_2097532400958439424_o.jpg
 ||fmtv.live^*/appennino-festival-mmonaco-2018-600x400.jpg
+||fmtv.live^*/banner_
 ||fmtv.live^*/mediapromo1.jpg
 ||focus-online.it/files/banner/
 ||focus-online.it/files/img_banner/
