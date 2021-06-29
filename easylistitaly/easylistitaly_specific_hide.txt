@@ -217,13 +217,13 @@ dimagrireduepuntozero.com,pianetaserieb.it,strill.it###custom_html-25
 castellinotizie.it###custom_html-26
 dimagrireduepuntozero.com,pianetaserieb.it###custom_html-27
 pianetaserieb.it,tusciatimes.eu###custom_html-28
-alground.com,androidblog.it,assisisport.it,birramoriamoci.it,calcioatalanta.it,calciofere.it,calciogrifo.it,calciolecce.it,corrieredelmolise.com,forzaparma.it,labaricalcio.it,nonniavventura.it,quizlab.it,siamolaroma.it,sololalazio.it,tifocosenza.it,tifosipalermo.it,torremaggiore.com,trapanigranata.it,umbria.webcam###custom_html-3
+alground.com,androidblog.it,assisisport.it,birramoriamoci.it,calcioatalanta.it,calciofere.it,calciogrifo.it,calciolecce.it,calciomercatonews.com,corrieredelmolise.com,forzaparma.it,labaricalcio.it,nonniavventura.it,quizlab.it,siamolaroma.it,sololalazio.it,tifocosenza.it,tifosipalermo.it,torremaggiore.com,trapanigranata.it,umbria.webcam###custom_html-3
 immaginaviaggiare.it###custom_html-30
 immaginaviaggiare.it###custom_html-33
 assisisport.it,calciocasteddu.it,carteprepagate.org,corrieredelmolise.com,corrieredicomo.it,cucinaresenzamenate.it,destinazioneusa.com,floinviaggio.com,grossetosport.com,guidaconsumatore.com,laprevisione.it,peopleforplanet.it,pianetablunews.it,topragazze.it,tuttogossipnews.it###custom_html-4
 mondomobileweb.it###custom_html-42
 1x2-calcio.com,calcioitalia24.it,carteprepagate.org,corrieredelmolise.com,grossetosport.com,italiaonline.news,italyandmore.it,mam-e.it,melarossa.it,tuttogossipnews.it###custom_html-5
-1x2-calcio.com,calcioitalia24.it,corrieredicomo.it,cucinamamma.it,hynerd.it,indiscreto.org,it-casinoonline.com,lombardoandrea.com,nonsprecare.it,paladins.it,pentanewslivorno.it,torremaggiore.com###custom_html-6
+1x2-calcio.com,calcioitalia24.it,calciomercatonews.com,corrieredicomo.it,cucinamamma.it,hynerd.it,indiscreto.org,it-casinoonline.com,lombardoandrea.com,nonsprecare.it,paladins.it,pentanewslivorno.it,torremaggiore.com###custom_html-6
 strill.it,tuttotek.it###custom_html-65
 newsfood.com###custom_html-67
 newsfood.com###custom_html-68
