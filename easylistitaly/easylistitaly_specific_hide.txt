@@ -740,6 +740,7 @@ edagricole.it##.agriaffaires
 chiamamicitta.it,filodirettomonreale.it##.ai-rotate
 ilgiornaleditrani.net##.ai-rotate-option
 chiamamicitta.it,cityrumors.it,noisiamoagricoltura.com,tantasalute.it,velvetgossip.it##.ai-viewport-1
+petitchef.it##.akcelo-wrapper
 pagare.online##.alert.alert-success
 alessandria24.com##.aless-widget
 genoacfc.it##.algida
