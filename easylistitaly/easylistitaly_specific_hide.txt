@@ -513,6 +513,7 @@ gamesvillage.it###takeover_gv
 ecovicentino.it###td-layer-audio-article-banner
 chedonna.it###tdi_197_d09
 chedonna.it###tdi_201_2ff
+chedonna.it###tdi_70_667
 newnotizie.it###tdi_8_c64
 radioluna.it###testata
 irlandaonline.com###text-1
