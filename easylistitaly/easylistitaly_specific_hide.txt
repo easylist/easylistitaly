@@ -648,6 +648,7 @@ mangiobenevivobene.it###youtube_responsive-2
 agenziagiornalisticaopinione.it###youtube_responsive-6
 avvisatore.ilsecoloxix.it,avvisatoremarittimo.it###zona_266
 informaquiz.it##.ADV_Video
+focusjunior.it##.ASponsor
 comprovendolibri.it##.BB14
 comolive.it,resegoneonline.it,valtellinanews.it##.Banner
 cinemaitaliano.info##.Banner01
