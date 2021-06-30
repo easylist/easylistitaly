@@ -1188,7 +1188,7 @@ casacinema.work,casacinema01.club,filmsenzalimiti01.online,ilgeniodellostreaming
 bolzano-bozen.it##.dt
 theitaliantimes.it##.dx
 finestresullarte.info##.dx250
-italiacattolicaonline.it,notiziemolise.it,specchiosesto.it##.e3lan
+italiacattolicaonline.it,notiziemolise.it,specchiosesto.it,viaggi-estate.com##.e3lan
 cronachedibirra.it##.e3lan125
 ilpaesenuovo.it##.e3lanat-layout-rotator
 noisiamoagricoltura.com##.e62-63
