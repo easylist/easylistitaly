@@ -3690,6 +3690,7 @@
 ||superbasket.it^*/banner_
 ||superenalotto.com/images/banners/
 ||superscommesse.it^*/bannerquadrati/
+||svizzeranews.ch^*/Angelo-Pomposo-Martinelli.png
 ||tagmagazine.it^*/sem.jpg
 ||tantifilm.center/templates/Tantifilm/images/btn
 ||tantifilm.cool^*/wsxhQH2QyPxFBhiByjd1hQ.gif
