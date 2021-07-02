@@ -583,7 +583,8 @@ castellinotizie.it###text-496
 birramoriamoci.it,giornalesm.com###text-5
 teleaesse.it###text-50
 teamworld.it###text-51
-grossetosport.com###text-53
+grossetosport.com,infotelematico.com###text-53
+infotelematico.com###text-56
 grossetosport.com###text-58
 grossetosport.com###text-60
 grossetosport.com,radioimmagine.it###text-61
@@ -1968,8 +1969,8 @@ fashionandroid.com##.widget-header
 agrifoodtoday.it,agrigentonotizie.it,anconatoday.it,arezzonotizie.it,avellinotoday.it,baritoday.it,bolognatoday.it,bresciatoday.it,brindisireport.it,casertanews.it,cataniatoday.it,cesenatoday.it,chietitoday.it,firenzetoday.it,foggiatoday.it,forlitoday.it,genovatoday.it,ilpescara.it,ilpiacenza.it,latinatoday.it,lecceprima.it,leccotoday.it,livornotoday.it,milanotoday.it,modenatoday.it,monzatoday.it,napolitoday.it,novaratoday.it,padovaoggi.it,palermotoday.it,parmatoday.it,perugiatoday.it,pisatoday.it,quicomo.it,ravennatoday.it,riminitoday.it,romagnaoggi.it,romatoday.it,salernotoday.it,sondriotoday.it,sportpiacenza.it,today.it,torinotoday.it,trentotoday.it,trevisotoday.it,triesteprima.it,udinetoday.it,veneziatoday.it,veronasera.it,vicenzatoday.it##.widget-moovit
 gelocal.it,ilsecoloxix.it,lastampa.it,repubblica.it##.widget-sponsor--container
 italiavela.it##.widget.f300x524
-ciaogreen.it,gufo.it,londra.today,migliorecrema.com,notiziarte.com,salutemoderna.it##.widget_aawp_widget_bestseller
-newsly.it,stampante-3d.net,tuttoesselunga.com##.widget_aawp_widget_box
+ciaogreen.it,gufo.it,infotelematico.com,londra.today,migliorecrema.com,notiziarte.com,salutemoderna.it##.widget_aawp_widget_bestseller
+infotelematico.com,newsly.it,stampante-3d.net,tuttoesselunga.com##.widget_aawp_widget_box
 yoga-magazine.it##.widget_alobaidirandombannerswidget
 scambiaricette.it##.widget_boodo_wp_300px
 stadiosport.it##.widget_encodiabookmakerwidget
