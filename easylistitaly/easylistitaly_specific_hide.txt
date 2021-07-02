@@ -1999,7 +1999,7 @@ fiorentina.news##.wpls-logo-showcase-slider-wrp
 tipresentoilcane.com##.wpmc-product-list
 best5.it##.wpmc-product-table
 golfpiu.it##.wpmc_display
-agemobile.com,androidblog.it,best5.it,lapappadolce.net,tuttosullapostaelettronica.it##.wpmc_inject_wrapper
+agemobile.com,androidblog.it,best5.it,lapappadolce.net,playstationzone.it,tuttosullapostaelettronica.it##.wpmc_inject_wrapper
 golfpiu.it##.wpmoneyclick-product-box-multiprov
 tuttoapp-android.com##.wpmoneyclick_amazon_box
 golfpiu.it##.wpmoneyclick_template_amz_simil_footer
