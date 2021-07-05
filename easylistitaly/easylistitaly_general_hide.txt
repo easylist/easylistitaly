@@ -204,6 +204,7 @@
 ##.banner_pubblicita
 ##.barraSipra
 ##.bck-adv-sponsor
+##.bk-adv
 ##.blocco_servizi_sponsor
 ##.box-pubb
 ##.box-pubblicita
@@ -259,6 +260,9 @@
 ##.nk-adv-in-article-2
 ##.partial-static-adv
 ##.partial-sticky-adv
+##.pat-adv-300x250
+##.pat-adv-box
+##.pat-adv-masthead
 ##.post_pubblicita
 ##.promo_sp
 ##.pub_text
