@@ -256,6 +256,7 @@ cibo360.it###fascia_banner_bottom
 grecia.info###fh_content
 germania.info,irlandando.it###fh_top
 notizielombardia.it###fixedban
+veganiinviaggio.it###flexi_searchbox
 calciomercato.com###float-sidebar-inner
 varesesport.com###floorsunrise
 termolionline.it###flyersHome
