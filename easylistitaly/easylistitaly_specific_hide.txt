@@ -775,7 +775,7 @@ uiblog.it##.amazonjs_item
 androidworld.it,cookaround.com,dmbeauty.it,donnamoderna.com,focus.it,giallozafferano.it,iconmagazine.it,mobileworld.it,nostrofiglio.it,pianetamamma.it,smartworld.it,sorrisi.com,studenti.it,valorinormali.com##.amePlaceholderBox
 amicopediatra.it##.amico-widget
 incucinaconelena.it##.amr_widget
-fotografidigitali.it##.amz-wrapper
+fotografidigitali.it,hwupgrade.it##.amz-wrapper
 voglioporno.com##.analytics-event
 civile.it,ricercagiuridica.com##.animate__animated
 ansa.it##.ansacom-box
@@ -2184,7 +2184,6 @@ condominioweb.com,gamingtoday.it,sex4u.ch,solovela.net##a[rel^="sponsored"]
 mobileworld.it##a[style="background-color: #fe8774; padding: 10px; border: none; text-align: center; text-decoration: none; font-size: 18px; width: 200px; font-weight: bold; border-radius: 10px; color: white;"]
 androidworld.it##a[style="background-color: #ff9900; padding: 10px; border: none; text-align: center; text-decoration: none; font-size: 18px; width: 200px; font-weight: bold; border-radius: 10px; color: white;"]
 amica.it##a[style="width: 300px;display: block;z-index: 999999;height: 268px;position: absolute;top: 0;left: 0;"]
-hwupgrade.it##center > .amz-wrapper > .amz-prodotto
 genoanews1893.it##div[astyle="text-align: center; width: 336px; height: 280px; padding: 3px 0px 3px 0px;"]
 amazon.it##div[cel_widget_id*="_SponsoredProducts"]
 amazon.it##div[cel_widget_id*="_ad-placements-"]
