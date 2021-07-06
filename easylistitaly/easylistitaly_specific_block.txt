@@ -429,7 +429,10 @@
 ||art-news.it^*/banner-
 ||arte.go.it^*-Banner-
 ||artemagazine.it/images/160x142-
+||artemagazine.it/images/160x142_
+||artemagazine.it/images/250x300px.png
 ||artemagazine.it/images/300X300-
+||artemagazine.it/images/300x300_
 ||artuu.it^*/Digital-Art-rights-320.gif
 ||artuu.it^*/digital-art-rigths.gif
 ||ascittadella.it^*/sponsor/
