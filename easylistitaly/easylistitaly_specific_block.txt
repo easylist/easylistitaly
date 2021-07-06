@@ -3460,7 +3460,9 @@
 ||scubaportal.it^*/skin-
 ||scuolaguida.it/img/public/banner/
 ||secolo-trentino.com^*/hormann-runner.jpg
+||secureservercdn.net^*/250X250.jpg$domain=mam-e.it
 ||secureservercdn.net^*/bzw.7ad.$domain=it-casinoonline.com
+||secureservercdn.net^*/mame-gallerie-italia-intesa-san-paolo.jpg$domain=mam-e.it
 ||segretodonna.com^*/720x90-
 ||seguonews.it^*/banner/
 ||seguonews.it^*/banner_

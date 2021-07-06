@@ -211,7 +211,7 @@ giochi.com,immaginaviaggiare.it,nintendari.it,sportando.basketball###custom_html
 pianetaserieb.it###custom_html-18
 elementocreativo.it###custom_html-19
 assisisport.it,birramoriamoci.it,calciohellas.it,calciorosanero.it,card.it,carteprepagate.org,domanidoveandiamo.it,iopartodasola.it,italiaonline.news,sportnews.eu###custom_html-2
-corrierequotidiano.it,sportando.basketball###custom_html-20
+corrierequotidiano.it,mam-e.it,sportando.basketball###custom_html-20
 castellinotizie.it,elementocreativo.it,immaginaviaggiare.it,tuttojuve24.it###custom_html-21
 castellinotizie.it,elementocreativo.it,imolaoggi.it###custom_html-22
 fiorditerra.eu###custom_html-23
@@ -365,7 +365,7 @@ pisainvideo.it,ufficistampanazionali.it###media_image-10
 ufficistampanazionali.it###media_image-11
 pisainvideo.it###media_image-12
 lamiavitainvaligia.org###media_image-13
-lamiavitainvaligia.org,pisainvideo.it###media_image-14
+lamiavitainvaligia.org,mam-e.it,pisainvideo.it###media_image-14
 lamiavitainvaligia.org,seitv.it###media_image-15
 seitv.it###media_image-16
 1web.tv,allasianfootball.com,buonenotizie.it,chepreparo.it,ecodisicilia.com,ilgazzettinodisicilia.it,internapoli.it,it-casinoonline.com,novetv.com,pisainvideo.it,quotidianodifoggia.it,todinforma.it,viaggiare-low-cost.it###media_image-2
