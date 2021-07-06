@@ -1695,9 +1695,9 @@ leccesette.it##.skin-desktop
 meteofinanza.com##.skin-link
 digitalic.it##.skin_a_dx
 digitalic.it##.skin_a_sx
-cellulare-magazine.it,crotoneok.it,vitaincamper.it##.skin_bg
-ildigitale.it,primopianomolise.it##.skin_bg_left
-ildigitale.it,primopianomolise.it##.skin_bg_right
+cellulare-magazine.it,crotoneok.it,nautica.it,vitaincamper.it##.skin_bg
+ildigitale.it,nautica.it,primopianomolise.it##.skin_bg_left
+ildigitale.it,nautica.it,primopianomolise.it##.skin_bg_right
 sempionenews.it##.skin_click
 iovivoaroma.org##.skin_link_top
 ffboard.forumfree.it##.skin_tbl_width
@@ -1785,8 +1785,8 @@ finanzaonline.com,webnews.it##.sticky_wrapper
 prezzisalute.com##.stickyleft
 androidworld.it,mobileworld.it##.store-affiliation
 andreagaleazzi.com##.store-box
-fruitbookmagazine.it##.strack_bnr
-100ideeperristrutturare.it,bizjournal.it,calabria7.it,casa-naturale.com,fruitbookmagazine.it,horecanews.it,primopianomolise.it,quattrozampe.online,radiomovida.net,radioradio.it,uominietrasporti.it,vendingnews.it,villeecasali.com##.strack_cli
+fruitbookmagazine.it,nautica.it##.strack_bnr
+100ideeperristrutturare.it,bizjournal.it,calabria7.it,casa-naturale.com,fruitbookmagazine.it,horecanews.it,nautica.it,primopianomolise.it,quattrozampe.online,radiomovida.net,radioradio.it,uominietrasporti.it,vendingnews.it,villeecasali.com##.strack_cli
 cblive.it,myreviews.it##.stream-item
 metropolitanmagazine.it,unaparolaperte.org##.stream-item-above-footer
 metropolitanmagazine.it##.stream-item-above-post

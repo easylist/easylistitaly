@@ -2579,6 +2579,10 @@
 ||naturalmania.it^*/inkanti.png
 ||natureatblog.com^*/Italian-Blogwww.natureatblog.com-1-copy.jpg
 ||natureatblog.com^*/Screen-Shot-2020-10-06-at-15.57.35-585x585.png
+||nautica.it^*/gif-intesa_new.gif
+||nautica.it^*/NAUTICA-300X250.png
+||nautica.it^*/skin-
+||nautica.it^*_Banner_
 ||nba24.it^*/banner-
 ||nbnotizie.it^*/LoghiPUBBL/
 ||nbv-verona.it/img/sponsor-
