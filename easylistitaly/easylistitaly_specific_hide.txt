@@ -1787,11 +1787,14 @@ andreagaleazzi.com##.store-box
 fruitbookmagazine.it##.strack_bnr
 100ideeperristrutturare.it,bizjournal.it,calabria7.it,casa-naturale.com,fruitbookmagazine.it,horecanews.it,primopianomolise.it,quattrozampe.online,radiomovida.net,radioradio.it,uominietrasporti.it,vendingnews.it,villeecasali.com##.strack_cli
 cblive.it,myreviews.it##.stream-item
-unaparolaperte.org##.stream-item-above-footer
+metropolitanmagazine.it,unaparolaperte.org##.stream-item-above-footer
+metropolitanmagazine.it##.stream-item-above-post
 mole24.it##.stream-item-above-post-content
 informazioneoggi.it##.stream-item-below-header
+metropolitanmagazine.it##.stream-item-below-post-comments
+metropolitanmagazine.it##.stream-item-below-post-content
 filmpost.it,ilgolfo24.it##.stream-item-top
-gazzettadellavaldagri.it,ilcorriere.net,ilmoderatore.it,mole24.it,unaparolaperte.org##.stream-item-top-wrapper
+gazzettadellavaldagri.it,ilcorriere.net,ilmoderatore.it,metropolitanmagazine.it,mole24.it,unaparolaperte.org##.stream-item-top-wrapper
 cblive.it##.stream-item-widget
 filmtv.it##.streaming
 affaritaliani.it##.strillo-speciale3
