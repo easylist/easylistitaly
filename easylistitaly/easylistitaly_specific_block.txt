@@ -3242,10 +3242,12 @@
 ||radiortm.it^*/300x300.gif
 ||radiortm.it^*/Banner-
 ||radiortm.it^*/formatoquadrato.jpeg
+||radiortm.it^*/grupposcar-
 ||radiortm.it^*/newWebsite.jpg
 ||radiortm.it^*/peugeot2_
 ||radiortm.it^*/san-pietro.gif
 ||radiortm.it^*/Torre-Del-Sud.jpg
+||radiortm.it^*/WhatsApp-Image-2021-06-06-at-19.53.48.jpeg
 ||radiosei.it/img/banners/
 ||radioshowitalia.it/public/img/sponsor_
 ||radiosieve.it^*/bannerbcc.png
