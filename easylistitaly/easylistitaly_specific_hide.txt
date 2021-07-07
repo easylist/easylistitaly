@@ -1042,6 +1042,8 @@ hdblog.it,hdmotori.it##.box_highlight_footer
 hdblog.it,hdmotori.it##.box_highlight_hot
 cuneodice.it,genovadice.it,italiadice.it,torinodice.it##.box_oikia
 subito.it##.box_sponsor
+destinioltreconfine.com##.boxbanner
+destinioltreconfine.com##.boxbanner600
 caneogolf.it##.boxbannerhome
 pneusnews.it##.boxes
 ricettedigusto.info##.boxslot
