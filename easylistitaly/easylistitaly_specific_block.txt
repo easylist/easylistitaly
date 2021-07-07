@@ -1066,6 +1066,8 @@
 ||dronezine.it^*-banner-
 ||dronezine.it^*/banner-
 ||dronezine.it^*/mavic-
+||e-turchia.com/img/banner1.jpg
+||e-turchia.com/img/banner_
 ||e-tv.it^*/banner-
 ||earone.it/themes/banner/
 ||earone.it/themes/images/btn_itunes.png
