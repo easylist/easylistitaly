@@ -2635,6 +2635,7 @@
 ||newtuscia.it^*/TLN-jpeg.jpg
 ||newtuscia.it^*_300x150_
 ||newtuscia.it^*_banner_
+||nightlife-cityguide.com^*/sconto-airbnb.png
 ||nigiara.it/data/*/3x6-
 ||nigiara.it/data/nigiara/sh-
 ||nigiara.it/data/nigiara/sh2-
