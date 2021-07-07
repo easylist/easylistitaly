@@ -538,7 +538,7 @@ ilpost.it,lamiavitainvaligia.org,noinotizie.it###text-20
 mbmusic.it,playersmagazine.it###text-21
 rumors.it###text-22
 ilpost.it###text-23
-nerdplanet.it###text-24
+nerdplanet.it,popupmag.it###text-24
 lamiavitainvaligia.org,vacanzeingrecia.eu###text-25
 castellinotizie.it###text-250
 best5.it###text-26
