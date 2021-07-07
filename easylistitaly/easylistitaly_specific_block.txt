@@ -885,6 +885,9 @@
 ||comprovendolibri.it/sponsor/
 ||computer-acquisti.com^*/carlenzoli-yuri.png
 ||computermania.org/banners/
+||comune-info.net^*-Banner-
+||comune-info.net^*/330x330-px-Banner.gif
+||comune-info.net^*/zapatisti.gif
 ||comunicalo.it^*-banner.
 ||comunicalo.it^*/acuoreaperto.gif
 ||comunicalo.it^*/banner-
