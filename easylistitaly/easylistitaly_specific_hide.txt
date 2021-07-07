@@ -4,13 +4,16 @@ nauticareport.it###BanLeft
 lantidiplomatico.it###BanRight
 nauticareport.it###BanTop
 staffettaonline.com###BnrSolidarieta
+tesionline.it###C_1
 insic.it###ContentPlaceHolder1_pnBanners
 legabasketfemminile.it###DIV_MainSponsorContainer
+tesionline.it###D_1
 conta-calorie.it###DivCryptoReferral
 mymovies.it###Middle3_hp
 meteoweek.com###NMW-Leaderboard
 acsi.it###Parteners
 tuttojuve24.it###SuperClassQuote
+tesionline.it###T
 chimerarevo.com###TopWidgetArea
 larena.it###_dbx_core
 digital-forum.it,ebaygeneration.com,elaborare.com,esigarettaforum.com,milanworld.net,thegamesmachine.it###ad_global_below_navbar
