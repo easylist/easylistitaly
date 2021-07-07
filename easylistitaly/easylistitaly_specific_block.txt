@@ -3573,6 +3573,7 @@
 ||spaziotennis.com^*/RTA-quadrato.jpg
 ||specchiosesto.it^*-banner-
 ||specchiosesto.it^*/banner-
+||spiccandoilvolo.com^*-partner-
 ||spoletonline.com/banner/
 ||sport-press.it^*/image001.jpg
 ||sport-press.it^*_300x300.

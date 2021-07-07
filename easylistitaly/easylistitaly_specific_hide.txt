@@ -363,10 +363,10 @@ ondarock.it###masthead_or
 trapaniedintorni.it###media_gallery-3
 pisainvideo.it,ufficistampanazionali.it###media_image-10
 ufficistampanazionali.it###media_image-11
-pisainvideo.it###media_image-12
+pisainvideo.it,spiccandoilvolo.com###media_image-12
 lamiavitainvaligia.org###media_image-13
 lamiavitainvaligia.org,mam-e.it,pisainvideo.it###media_image-14
-lamiavitainvaligia.org,seitv.it###media_image-15
+lamiavitainvaligia.org,seitv.it,spiccandoilvolo.com###media_image-15
 seitv.it###media_image-16
 1web.tv,allasianfootball.com,buonenotizie.it,chepreparo.it,ecodisicilia.com,ilgazzettinodisicilia.it,internapoli.it,it-casinoonline.com,novetv.com,pisainvideo.it,quotidianodifoggia.it,todinforma.it,viaggiare-low-cost.it###media_image-2
 natureatblog.com###media_image-23
@@ -385,7 +385,7 @@ altropensiero.net,corrispondenzaromana.it,giornalistitalia.it,pisainvideo.it,tec
 bambiniconlavaligia.com###media_image-65
 bambiniconlavaligia.com###media_image-66
 cataniaunafede.it,dentrolanotizia.tv,ufficistampanazionali.it,vivoconbenessere.it###media_image-7
-dentrolanotizia.tv,giornalistitalia.it,italiaonline.news,mam-e.it,nuotounostiledivita.it,pisainvideo.it,teleoccidente.it,ufficistampanazionali.it###media_image-8
+dentrolanotizia.tv,giornalistitalia.it,italiaonline.news,mam-e.it,nuotounostiledivita.it,pisainvideo.it,spiccandoilvolo.com,teleoccidente.it,ufficistampanazionali.it###media_image-8
 monetizzando.it,nuotounostiledivita.it,ufficistampanazionali.it###media_image-9
 laquilablog.it###media_video-10
 laquilablog.it###media_video-12
