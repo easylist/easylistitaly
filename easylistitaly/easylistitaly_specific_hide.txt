@@ -1114,7 +1114,7 @@ magodelpronostico.com##.cntBonusHome
 tiscali.it##.cnt_b_1
 pornototale.com##.co_sponsor
 cb01.business##.codalo
-casasuper.it,mangiabevigodi.it##.code-block-1
+casasuper.it,mangiabevigodi.it,viaggi-estate.com##.code-block-1
 avvisatore.com,keblog.it,pomiglianolive.it##.code-block-11
 avvisatore.com,pomiglianolive.it##.code-block-12
 avvisatore.com##.code-block-13
