@@ -525,7 +525,7 @@ agenziagiornalisticaopinione.it,androidblog.it,torremaggiore.com###text-10
 agenziagiornalisticaopinione.it,lol-esports.it###text-11
 golbym.com###text-12
 clientiesperti.it,studio5fm.com###text-13
-esportsonline.it,finaria.it,myfitnessmagazine.it,pantareinews.com###text-14
+cioccolato.org,esportsonline.it,finaria.it,myfitnessmagazine.it,pantareinews.com###text-14
 finaria.it,hellogreen.it,internetto.it###text-15
 finaria.it,internetto.it###text-16
 libroaudio.it###text-18
