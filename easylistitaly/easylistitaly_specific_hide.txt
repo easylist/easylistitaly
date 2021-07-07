@@ -1559,7 +1559,7 @@ puntocellulare.it##.panel-offers
 nostrofiglio.it##.par-listing-collab
 nostrofiglio.it,pianetamamma.it##.par-sponsorby-logo
 broncos.it,crosspertutti.it,cure-naturali.it,fc-suedtirol.com,lifegate.it,radiofly.cloud,ragusanews.com##.partner
-isoladicretavacanze.com,isoladiformentera.com,isoladiibiza.com,isoladilanzarote.com,isoladimaltavacanze.com,isoladirodivacanze.com,listooo.com,vacanzenelmediterraneo.com##.partner-banner
+isoladicretavacanze.com,isoladiformentera.com,isoladifuerteventura.com,isoladiibiza.com,isoladilanzarote.com,isoladimaltavacanze.com,isoladirodivacanze.com,listooo.com,vacanzenelmediterraneo.com##.partner-banner
 bolognafc.it##.partner-footer
 100ideeperristrutturare.it,casa-naturale.com,quattrozampe.online,villeecasali.com##.partner-item-wrapper
 radiogardena.it##.partner-wrapper
