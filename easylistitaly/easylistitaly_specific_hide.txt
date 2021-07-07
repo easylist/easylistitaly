@@ -1557,7 +1557,7 @@ puntocellulare.it##.panel-offers
 nostrofiglio.it##.par-listing-collab
 nostrofiglio.it,pianetamamma.it##.par-sponsorby-logo
 broncos.it,crosspertutti.it,cure-naturali.it,fc-suedtirol.com,lifegate.it,radiofly.cloud,ragusanews.com##.partner
-isoladiformentera.com##.partner-banner
+isoladiformentera.com,isoladilanzarote.com##.partner-banner
 bolognafc.it##.partner-footer
 100ideeperristrutturare.it,casa-naturale.com,quattrozampe.online,villeecasali.com##.partner-item-wrapper
 radiogardena.it##.partner-wrapper
