@@ -2139,6 +2139,8 @@
 ||lagendanews.com^*/zoo-400.gif
 ||lagenziadiviaggi.it^*-300x600-
 ||lagenziadiviaggi.it^*/okSKIN-
+||lagoleada.it^*-300x250.
+||lagoleada.it^*/300-x-250-
 ||lagomaggiore24.it/images/banner/
 ||lagone.it^*-300x150-
 ||lagone.it^*-e1577613770348.
