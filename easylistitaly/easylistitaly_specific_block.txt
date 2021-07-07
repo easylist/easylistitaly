@@ -1176,6 +1176,7 @@
 ||farevela.net^*_banner_
 ||farodiroma.it^*/8x1000.gif
 ||fashionandroid.com^*-banner.
+||fashionaut.it^*/ipm_it-
 ||fattoincasadabenedetta.it/images/prenota-
 ||fattoincasadabenedetta.it/images/prenota.jpg
 ||fattoincasadabenedetta.it^*/footer_
