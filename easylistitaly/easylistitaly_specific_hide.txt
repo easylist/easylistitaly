@@ -1253,7 +1253,7 @@ exibart.com##.exibart-footer-partner
 exibart.com##.exibart-footer-partner-title
 pornototale.com##.exo_container_wrapper
 giornaledibarga.it##.fascia-banner
-guidagrecia.net##.fascione-display__inner
+guidagrecia.net,guidaspagna.net##.fascione-display__inner
 fortuneita.com##.fb-banner
 divinafm.it##.fdc-widget-sponsor
 brindisisettenews.it##.featured_banner
