@@ -768,6 +768,7 @@ gamemag.it,lavorincasa.it,nientepopcorn.it,robadadonne.it,videogame.it##.amazon
 leggoquandovoglio.it##.amazon-a
 faidateingiardino.com,icrewplay.com,lombardoandrea.com##.amazon-auto-links
 screenweek.it##.amazon-btn
+stilearte.it##.amazon-grid-wrapper
 ridble.com##.amazon-product
 cliccascienze.it##.amazon-products-container-list
 animeclick.it,gamerclick.it##.amazon-row
