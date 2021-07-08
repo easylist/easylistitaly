@@ -18,6 +18,7 @@
 ||affiliazioni.misterdomain.eu^$third-party
 ||aimon.it/banner_
 ||allegati.simone.it^$domain=concorsando.it
+||alpitour.it/widget/$third-party
 ||andreafranzoso.com/banner/
 ||api.vivisail.com^$domain=italiavela.it
 ||artera.it/banners.php?
