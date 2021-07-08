@@ -1031,6 +1031,7 @@
 ||diaconale.it^*/BannerSSLazio.jpg
 ||dichesegnosei.it/images/banners/
 ||digisesso.com/nb/
+||digital-news.it/files-admin/Immagini/Banner/
 ||digitalic.it^*/skin_
 ||digitaloceanspaces.com/m0_tml2472477177601_47443104981_1608303737282150.png$domain=mondoprimavera.com
 ||digitaloceanspaces.com/r0_tml3365830375169_128795825365_1605621213839923.png$domain=bolognasportnews.it
