@@ -1914,6 +1914,7 @@ allsongs.tv,casamagazine.it,dica33.it,donnemagazine.it,foodblog.it,lavocedelleva
 stiletv.it##.top-banner-container
 laverita.info##.top-billboard
 nicktv.it##.top-featured-mpu
+ilbellodelcalcio.net##.top-panel__message
 adirai.it##.top-sidebar
 adirai.it##.top-sidebar600
 bresciacalcio.it,cagliaricalcio.com,olbiacalcio.com##.top-sponsor-hp

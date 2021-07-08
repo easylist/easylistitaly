@@ -1596,6 +1596,7 @@
 ||ilbacodaseta.org^*/logo-osteria-careta.jpg
 ||ilbacodaseta.org^*/menon-sito.jpg
 ||ilbacodaseta.org^*/tgv-international-colore-e1608189110260.jpg
+||ilbellodelcalcio.net^*/rs-pr-logo.png
 ||ilcalcioillustrato.it^*/banner-
 ||ilcambiamento.it/data/banner/
 ||ilcapoluogo.it^*/zurich.jpg
