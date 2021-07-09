@@ -941,6 +941,7 @@ mercuriomagazine.com##.banner_top_left
 mercuriomagazine.com##.banner_top_right
 brindisisera.it##.banner_wide_box
 corriereal.info,radionorba.it,vivilanotizia.it##.banner_wrapper
+mi-lorenteggio.com##.banneraboveslider
 velanet.it##.bannerarcipelago
 laprovinciadilecco.it##.bannerbase
 brindisisera.it##.bannerbox
