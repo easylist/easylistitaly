@@ -4237,6 +4237,9 @@
 ||vicenzanews.it/javascript/banner.js
 ||vicenzanews.it/javascript/banner2.js
 ||vicenzapiu.com^*/banner-
+||vicenzareport.it^*/bannaer_
+||vicenzareport.it^*/banner_
+||vicenzareport.it^*/davide-berto-banner-
 ||videogame.it/arturo/vast/eas?
 ||videogame.it^*/adv/
 ||videogamezone.eu^*/DqbtU.jpeg
