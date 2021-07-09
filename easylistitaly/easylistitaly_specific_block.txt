@@ -1322,6 +1322,7 @@
 ||gazzettadimilano.it^*/lesalonedelamode.jpeg
 ||gazzettadimilano.it^*/mi3-
 ||gazzettadimilano.it^*/space-
+||gazzettadimilano.it^*/SURFBOARD-
 ||gazzettadimilano.it^*/WhatsApp-Image-2020-02-13-at-16.02.56.jpeg
 ||gazzettadinapoli.it^*/circuitofelix-
 ||gazzettadinapoli.it^*/KYNETICSOCIAL-
@@ -1330,11 +1331,16 @@
 ||gazzettadinapoli.it^*/sapori-pasticceria-
 ||gazzettadiparma.it/static/js/advconfig.js
 ||gazzettadiparma.it/static/js/advpopulate.js
+||gazzettadiroma.it^*/goldenbeachbig-
+||gazzettadiroma.it^*/goldenbeachquadrato-
 ||gazzettadisalerno.it^*/DIDATO-
 ||gazzettadisalerno.it^*/ecommerce.jpg
 ||gazzettadisalerno.it^*/FACILEFAREWEB1.jpg
 ||gazzettadisalerno.it^*/FUNSHOPPING-
+||gazzettadisalerno.it^*/ghs-
 ||gazzettadisalerno.it^*/KYNETICSOCIAL.jpg
+||gazzettadisalerno.it^*/PORTEMASSELLO.jpg
+||gazzettadisalerno.it^*/spirito-pelletterie.png
 ||gazzettadisalerno.it^*/Zainetto-promo-
 ||gazzettajonica.it/banner/
 ||gazzettalucchese.it^*/inserzioni/
@@ -3452,6 +3458,8 @@
 ||sannicandro.org/data/sponsor/
 ||sanremonews.it^*/banner/
 ||sanremonews.it^*/box/
+||saporicondivisi.com^*-banner.
+||saporicondivisi.com^*/Kynetic-
 ||sardanews.it/images/banners/
 ||sardegnareporter.it^*/Sea-Lounge-Club-Cala-Spinosa-
 ||sardiniapost.it^*/mobi.jpg
