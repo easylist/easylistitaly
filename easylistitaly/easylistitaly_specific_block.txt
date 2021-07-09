@@ -698,10 +698,13 @@
 ||casertaweb.com^*/009.jpg
 ||casertaweb.com^*/banner-
 ||casertaweb.com^*/damarco2020.jpg
+||casertaweb.com^*/mediaservice-
 ||casertaweb.com^*/riccio-1.jpg
 ||casertaweb.com^*/sfondo-
 ||casertaweb.com^*/simply-e-comm-
 ||casertaweb.com^*/terlizzi-libro.gif
+||casertaweb.com^*/usura-336.jpg
+||casertaweb.com^*/voucher-digitale-336.jpg
 ||casilinanews.it^*/banner-
 ||casilinanews.it^*/Gif.gif
 ||castellinotizie.it^*-banner-
