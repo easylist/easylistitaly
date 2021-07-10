@@ -3710,6 +3710,7 @@
 ||stilearte.it^*/CATAWIKI-reg.jpg
 ||stilearte.it^*/CATAWIKI.jpg
 ||stilenaturale.com^*/BannerHOME_
+||stiletv.it/assets/advertising/
 ||stiletv.it/banner/
 ||stiletv.it^*-banner.
 ||stiletv.it^*/Banner_
