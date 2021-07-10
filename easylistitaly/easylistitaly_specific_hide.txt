@@ -605,6 +605,7 @@ calciomercato.com,sposa.it###top-banner-container
 tastoeffeuno.it###top100
 hwupgrade.it###top300x250-background
 hwupgrade.it###top300x250-container
+sardegnalive.net###topBannerCarousel
 corriere.it###topXcoupon
 notiziarioattrezzature.com,notiziariomotoristico.com###top_bann
 corrieredellacalabria.it###top_banner

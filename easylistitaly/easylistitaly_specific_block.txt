@@ -3470,6 +3470,9 @@
 ||saporicondivisi.com^*-banner.
 ||saporicondivisi.com^*/Kynetic-
 ||sardanews.it/images/banners/
+||sardegnalive.net^*/134_tuttiautopezzi350x500_
+||sardegnalive.net^*/_auto-doc.
+||sardegnalive.net^*/banner965x190.png
 ||sardegnareporter.it^*/Sea-Lounge-Club-Cala-Spinosa-
 ||sardiniapost.it^*/mobi.jpg
 ||sardinias.it/files/partner/
