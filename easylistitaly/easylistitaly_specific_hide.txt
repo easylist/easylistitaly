@@ -273,7 +273,7 @@ tvrxenon.it###footer-widgets
 caneogolf.it###footer_area
 videosesso.com###footertop
 1web.tv###fpub-popup
-gogoterme.com,incinqueterre.com,luoghidanonperdere.com###frm
+cinqueterre5.com,gogoterme.com,incinqueterre.com,luoghidanonperdere.com###frm
 gamingtoday.it###frm_affId_0
 ilcittadinodirecanati.it###g-slideshow
 ilcittadinodirecanati.it###g-top
@@ -1336,6 +1336,7 @@ altadefinizione.energy,toonitalia.org,toonitalia.pro##.guarda_in_hd
 ilgeniodellostreaming.dance,ilgeniodellostreaming.rest,ilgeniodellostreaming.to,ilgeniodellostreaming.tube##.guardasingle
 ecwgcortina2016.it,ilgeniodellostreaming.dance,ilgeniodellostreaming.rest,ilgeniodellostreaming.to,ilgeniodellostreaming.tube,ilgeniodellostreamings.com,ilgeniodellostreamings.it##.guardasingleserie1
 ecwgcortina2016.it,ilgeniodellostreaming.dance,ilgeniodellostreaming.rest,ilgeniodellostreaming.to,ilgeniodellostreaming.tube,ilgeniodellostreamings.com,ilgeniodellostreamings.it##.guardasingleserie2
+cinqueterre5.com##.gyg-list
 ricetta.it##.h728-up-home
 quattroruote.it##.halfPageBanner2
 pornoamatorialeitaliano.it##.happy-footer
@@ -1932,7 +1933,7 @@ piccoletrasgressioni.it##.topbar-banner
 blunote.it,mondoprimavera.com##.topbar-below
 everyeye.it##.topskin
 viviwebtv.it##.topstriplive
-incinqueterre.com##.tour-banner
+cinqueterre5.com,incinqueterre.com##.tour-banner
 noinotizie.it##.tre-spazi
 radiocompany.com##.trend-banner
 iltamtam.it##.tt-banner
