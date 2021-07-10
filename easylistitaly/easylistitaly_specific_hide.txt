@@ -273,7 +273,7 @@ tvrxenon.it###footer-widgets
 caneogolf.it###footer_area
 videosesso.com###footertop
 1web.tv###fpub-popup
-gogoterme.com,luoghidanonperdere.com###frm
+gogoterme.com,incinqueterre.com,luoghidanonperdere.com###frm
 gamingtoday.it###frm_affId_0
 ilcittadinodirecanati.it###g-slideshow
 ilcittadinodirecanati.it###g-top
@@ -1932,6 +1932,7 @@ piccoletrasgressioni.it##.topbar-banner
 blunote.it,mondoprimavera.com##.topbar-below
 everyeye.it##.topskin
 viviwebtv.it##.topstriplive
+incinqueterre.com##.tour-banner
 noinotizie.it##.tre-spazi
 radiocompany.com##.trend-banner
 iltamtam.it##.tt-banner
