@@ -1410,7 +1410,6 @@
 ||giornalelavoce.it^*/alimentari-stefano.jpg
 ||giornalelavoce.it^*/Banner-
 ||giornalelavoce.it^*/banner.
-||giornalelavoce.it^*/banner300x250-
 ||giornalelavoce.it^*/telaporto.gif
 ||giornalelavoce.it^*/vanilla.jpg
 ||giornalelavoce.it^*_BANNER_
@@ -2227,7 +2226,6 @@
 ||lasesia.vercelli.it^*/ADV/
 ||lasiritide.it/img/agrello
 ||lasiritide.it/img/logobuonorgse.jpg
-||latelanera.com^*/banner300x250-
 ||latina24ore.it^*/banner-
 ||latina24ore.it^*_Skin_
 ||latinacorriere.it^*/AQL-
@@ -4233,6 +4231,7 @@
 ||viaggio-in-germania.de/voli-germania-
 ||viaggioff.it^*/okBanner-
 ||viaggioingermania.it^*/corso-tedesco-
+||viaggiperfamiglie.it^*-300x250.
 ||viamichelin.ch/static/*/adblocker/advertising.js
 ||viamichelin.it/static/*/adblocker/advertising.js
 ||vicenzae.org/images/prenota.gif
