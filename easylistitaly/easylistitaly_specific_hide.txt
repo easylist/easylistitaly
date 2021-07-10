@@ -1350,6 +1350,7 @@ emmelle.it,ultimenotizieoggi.it##.header-ainfo
 assisisport.it,comesifasefaidate.it,ecodelcinema.com,fantacalcio.it,italiaonline.news,lagenziadiviaggi.it,oltreilfatto.it,ondatv.tv,palermolive.it,quotidianocanavese.it##.header-banner
 nuovosud.it##.header-banner-wrapper
 calciomercato.com##.header-banner__container
+necrologi.ilcorriere.net##.header-right
 computersm.com##.header-top
 lanuovacalabria.it##.headerBanner
 calabria7.it##.header__banner
