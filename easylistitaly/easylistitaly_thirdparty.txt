@@ -177,6 +177,7 @@
 ||pronostitalia.com/banner/
 ||pronostitalia.com/images/giocaconwilliamhill.png
 ||prontoischia.it^*/promo-
+||quotidiano.net/chili_sidebar_widget/
 ||ratiolegisweb.it^*/pe728x90bis.
 ||rentalcars.com^$script,subdocument,domain=guida-polinesia.com|guidaviaggi.org
 ||resources.saldiprivati.com^$third-party
