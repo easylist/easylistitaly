@@ -2614,6 +2614,8 @@
 ||nba24.it^*/banner-
 ||nbnotizie.it^*/LoghiPUBBL/
 ||nbv-verona.it/img/sponsor-
+||necrologi.ilcorriere.net^*/boffanook.jpg
+||necrologi.ilcorriere.net^*/Schermata-2020-02-04-alle-14.43.25.png
 ||necrologivercelli.it/images/promo-
 ||nerdface.it/images/BannerSponsor/
 ||nerdplanet.it^*/banner.
