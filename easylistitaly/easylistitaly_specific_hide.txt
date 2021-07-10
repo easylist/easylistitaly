@@ -1432,6 +1432,7 @@ ilgiorno.it,ilrestodelcarlino.it,iltelegrafolivorno.it,lanazione.it,quotidiano.n
 infobuildenergia.it##.leaderboard_wrapper
 lafune.eu##.left-banner-block
 lacnews24.it,pc-gaming.it##.left-side
+lerosa.it##.leros-widget
 laleggepertutti.it##.lexdo-banner
 laleggepertutti.it##.lexdo-llpt
 castelvetranonews.it##.liban

@@ -2316,6 +2316,8 @@
 ||lemillebolleblog.it^*/LE-MILLE-BOLLE-BLOG_1.gif
 ||lemillebolleblog.it^*_320x320_
 ||lemillebolleblog.it^*_Banner_
+||lerosa.it^*-banner.
+||lerosa.it^*/banner-
 ||letteraemme.it^*/Banner-
 ||libero.it/_ad/
 ||libero.it/static/generated_external/shopping/
