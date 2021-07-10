@@ -2777,7 +2777,12 @@
 ||occhioallanotizia.it^*/animation.gif
 ||occhionotizie.it^*_banner_
 ||occhioviterbese.it/gestionalebanner/
+||oggicronaca.it/cinema/megaplex.jpg
 ||oggicronaca.it/cinema/xmegaplex.
+||oggicronaca.it^*/banner-
+||oggicronaca.it^*/Banner760x150-
+||oggicronaca.it^*/comune3.jpg
+||oggicronaca.it^*/divisionismolarge.gif
 ||ogginotizie.it^*/666.jpg
 ||ogginotizie.it^*/CASCINA_page-0001-scaled.jpg
 ||ogginotizie.it^*/logo-trasparente.png
