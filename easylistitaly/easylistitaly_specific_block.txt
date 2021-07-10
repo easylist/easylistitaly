@@ -3881,6 +3881,7 @@
 ||tiscali.it/sampr/amz.js
 ||tiscali.it^*/comparasemplice.
 ||tiscali.it^*/eby3x4.jpg
+||tmnotizie.com^*-banner-
 ||tmnotizie.com^*/ballone-andrea-impermeabilizzazione-casa.jpg
 ||tmnotizie.com^*/banner-
 ||tmnotizie.com^*/country-hotel-offida.jpg
