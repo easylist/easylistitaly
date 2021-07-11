@@ -1268,6 +1268,7 @@ masterviaggi.it##.fieldset_sponsor
 castelvetranonews.it##.fixbottom
 luinonotizie.it##.fixed-sponsor
 pronosticirisultativincenti.com##.fixedbar
+rockol.it##.flex.\-mx-2.items-start.p-4
 podisti.net##.flexbannergroup
 sassuolooggi.it##.flexslider
 marsicalive.it##.fmhb-container
