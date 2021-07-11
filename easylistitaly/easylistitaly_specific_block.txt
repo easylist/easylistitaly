@@ -1557,6 +1557,7 @@
 ||iamnaples.it^*/giovane_italia.png
 ||iamnaples.it^*/IMG-20201113-WA0115.jpg
 ||ibizaa.it^*/banner-
+||icani.it/immagini/allevamento-white-noblesse.png
 ||icnradio.com/images/banners/
 ||ideawebtv.it^*-Banner-
 ||ideawebtv.it^*/25-0920-
