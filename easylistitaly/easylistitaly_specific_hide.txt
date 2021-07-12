@@ -835,6 +835,7 @@ macplas.it##.banner-2-img
 welfarenetwork.it##.banner-468-hp
 notetralerighe.it##.banner-amazon-music
 parmareport.it##.banner-big
+ligurianautica.com##.banner-box
 universodelgioco.it##.banner-btf-side-rectangle
 mrw.it##.banner-center
 toscanaoggi.it##.banner-code
@@ -866,6 +867,7 @@ mattinonline.ch##.banner-only
 calabriareportage.it,calcioitalia24.it,lameziaterme.it##.banner-promotions-wrapper
 radiotoscana.it##.banner-radio
 solovela.net##.banner-right
+ligurianautica.com##.banner-row
 umbria24.it##.banner-show-desktop
 leccesette.it##.banner-side
 digital-news.it,isnews.it,viversano.net##.banner-sidebar
