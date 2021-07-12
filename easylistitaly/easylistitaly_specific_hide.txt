@@ -1828,6 +1828,7 @@ emmelle.it##.supermag-ainfo-widget
 broncos.it##.supporter
 prezzisalute.com##.supr
 calabria7.it,mbnews.it##.swiper-container
+syntoradio.it##.swiper-slide
 magentanostra.it,onedance.fm,yesmagazine.it##.swiper-slide-inner
 luinonotizie.it##.swiper-wrapper
 radioblutoscana.it##.tab03
