@@ -3872,6 +3872,7 @@
 ||tgfuneral24.it^*_680x250.
 ||tgmax.it/wp-content/uploads/2018/05/1.png
 ||theitaliantimes.it/js/gpt.plus.min.js
+||thelostavocado.com^*/Booking_Com_
 ||themaxmoda.files.wordpress.com/^*/img_4930-3.png$domain=themaxmagazineedizioneitalia.com
 ||themaxmoda.files.wordpress.com^*/img_4929-5.gif$domain=themaxmagazineedizioneitalia.com
 ||tiburno.tv^*/Dott-house-2-.gif
