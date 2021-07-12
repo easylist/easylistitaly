@@ -3548,8 +3548,9 @@
 ||shortpixel.ai^*-300x250.$domain=sarnonotizie.it
 ||shortpixel.ai^*-banner-$domain=nerdevil.it
 ||shortpixel.ai^*/amazon-offerte-di-primavera-$domain=nerdevil.it
-||shortpixel.ai^*/banner-$domain=rumors.it|sarnonotizie.it
+||shortpixel.ai^*/banner-$domain=buongiornosuedtirol.it|rumors.it|sarnonotizie.it
 ||shortpixel.ai^*/conad-$domain=sarnonotizie.it
+||shortpixel.ai^*/NEW-logo-consulente.jpg$domain=buongiornosuedtirol.it
 ||sibarinet.it/images/banners/
 ||siciliainternazionale.com^*-banner-
 ||siciliainternazionale.com^*/banner-
