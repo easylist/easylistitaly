@@ -23,6 +23,8 @@
 ###adasta_box_ros_2
 ###adbanner-laterale
 ###adbanner-stampa
+###adk_article-middle
+###adk_article-top
 ###adk_masthead
 ###adk_spalla-bottom
 ###adk_spalla-middle
