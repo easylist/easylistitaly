@@ -741,7 +741,7 @@ ricettealvolo.it##.adv_side
 calabria7.it##.advanced_floating_content
 addicted2play.com,bimcal.it,eurogamer.it,gioco.it,lausc.it,morningstar.it,podisti.net##.advert
 ilfoglio.it,liberoquotidiano.it,pharmastar.it##.advertisement
-film-review.it,frasicelebri.it,nanopress.it,zonalocale.it##.advertising
+film-review.it,frasicelebri.it,helloworld.it,nanopress.it,zonalocale.it##.advertising
 altalex.com##.adviceBox
 sienafree.it##.advs
 soldionline.it##.afc_boxcontent_taglist
