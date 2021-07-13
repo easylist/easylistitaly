@@ -2236,6 +2236,7 @@
 ||latinacorriere.it^*/AQL-
 ||latinacorriere.it^*/banner-
 ||latinacorriere.it^*/output_
+||latinapress.it^*-banner-
 ||latinapress.it^*/armstrong.jpeg
 ||latinapress.it^*/banner-
 ||latinaquotidiano.it^*/AQL-ModelloTariffario_Web_

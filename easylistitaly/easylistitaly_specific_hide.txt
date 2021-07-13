@@ -1139,7 +1139,7 @@ ok-salute.it##.code-block-43
 grossetosport.com,iltorinese.it,informarea.it,pomiglianolive.it##.code-block-5
 avvisatore.com##.code-block-6
 casasuper.it,stilearte.it##.code-block-7
-grossetosport.com,pomiglianolive.it##.code-block-8
+grossetosport.com,latinapress.it,pomiglianolive.it##.code-block-8
 keblog.it,pomiglianolive.it##.code-block-9
 ilcorrieredelgiorno.it##.col-banner
 lacrocequotidiano.it##.column-banner
@@ -2210,7 +2210,7 @@ animeemanga.it,comingsoon.it,mymovies.it,trovacinema.repubblica.it##a[href^="htt
 gamingwiki.it##a[href^="https://www2.razer.com/"]
 juzaphoto.com##a[onclick^="ajax_bannerclicks"]
 lavocedellevalli.it##a[onclick^="ga('send', 'event',"]
-controradio.it##a[rel="sponsored"]
+controradio.it,latinapress.it##a[rel*="sponsored"]
 condominioweb.com,gamingtoday.it,sex4u.ch,solovela.net##a[rel^="sponsored"]
 mobileworld.it##a[style="background-color: #fe8774; padding: 10px; border: none; text-align: center; text-decoration: none; font-size: 18px; width: 200px; font-weight: bold; border-radius: 10px; color: white;"]
 androidworld.it##a[style="background-color: #ff9900; padding: 10px; border: none; text-align: center; text-decoration: none; font-size: 18px; width: 200px; font-weight: bold; border-radius: 10px; color: white;"]
