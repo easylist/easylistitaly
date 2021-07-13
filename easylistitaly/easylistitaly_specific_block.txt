@@ -4367,6 +4367,12 @@
 ||webhostingmagazine.it^*/keliweb-
 ||webhostingmagazine.it^*/kinsta-
 ||weboggi.it/zen/
+||weekendpremium.it^*/310x205-1.png
+||weekendpremium.it^*/bz_weekend_310x310_b.gif
+||weekendpremium.it^*/OP_GLXHybrid_310x205_
+||weekendpremium.it^*/sportabili.jpg
+||weekendpremium.it^*/Unknown-1.
+||weekendpremium.it^*/Unknown.png
 ||welfarenetwork.it/media/banner/
 ||whiteradio.it/themes/img/sponsor/
 ||wikilao.com^*/banners/
