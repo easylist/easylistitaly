@@ -9,6 +9,8 @@ insic.it###ContentPlaceHolder1_pnBanners
 legabasketfemminile.it###DIV_MainSponsorContainer
 tesionline.it###D_1
 conta-calorie.it###DivCryptoReferral
+unapennainviaggio.it###Image1
+unapennainviaggio.it###Image2
 mymovies.it###Middle3_hp
 meteoweek.com###NMW-Leaderboard
 acsi.it###Parteners
