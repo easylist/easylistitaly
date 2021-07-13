@@ -2355,6 +2355,7 @@ amaranta.it,parmalive.com,torinogranata.it,tuttojuve.com,tuttonapoli.net,tuttono
 gamereactor.it##div[style="min-height: 600px; margin-bottom: 20px;"]
 voglioviverecosi.com##div[style="min-height: 90px; margin-top: 20px; margin-bottom: 20px"]
 firenzeviola.it,parmalive.com,torinogranata.it,tuttonapoli.net,vocegiallorossa.it##div[style="min-height: 90px;"]
+vitadamamma.com##div[style="min-height:250px"]
 livornopress.it##div[style="min-height:300px;text-align:center;"]
 secondamanoitalia.it##div[style="min-height:90px;min-width:940px"]
 tuttosalernitana.com##div[style="min-width:160px; width: auto; min-height: 600px;"]

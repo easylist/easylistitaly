@@ -87,6 +87,7 @@
 ###cardAdv
 ###contPubb
 ###corpo_video_sponsor
+###deaAdvTop
 ###divPubblicita
 ###evolutionadv
 ###fullAdv-dx
