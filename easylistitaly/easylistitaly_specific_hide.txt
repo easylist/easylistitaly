@@ -32,6 +32,7 @@ casasuper.it###ai_widget-5
 casasuper.it###ai_widget-7
 lospicchiodaglio.it###amazon_apa
 notebookitalia.it###amznbi
+direttafacile.it###annuncidiv
 amazon.it###ape_Detail_ad-endcap-1_Glance_placement
 amazon.it###ape_detail_btf_detail-mWeb_wrapper
 amazon.it###ape_detail_mobile-hero-quick-promo_mweb_wrapper
@@ -324,6 +325,7 @@ affaritaliani.it###immo-300x250
 ilfattoquotidiano.it###immo-300x350
 ilfattoquotidiano.it###immo-form-container-300x350
 adirai.it###index_blog2
+direttafacile.it###indirettadalgo
 cronacheancona.it,cronachefermane.it,cronachemaceratesi.it,cronachepicene.it,trivenetogoal.it###infooter
 sienafree.it###ja-banner300x250
 sienafree.it###ja-bannertop300x250
@@ -2223,6 +2225,7 @@ condominioweb.com,gamingtoday.it,sex4u.ch,solovela.net##a[rel^="sponsored"]
 mobileworld.it##a[style="background-color: #fe8774; padding: 10px; border: none; text-align: center; text-decoration: none; font-size: 18px; width: 200px; font-weight: bold; border-radius: 10px; color: white;"]
 androidworld.it##a[style="background-color: #ff9900; padding: 10px; border: none; text-align: center; text-decoration: none; font-size: 18px; width: 200px; font-weight: bold; border-radius: 10px; color: white;"]
 amica.it##a[style="width: 300px;display: block;z-index: 999999;height: 268px;position: absolute;top: 0;left: 0;"]
+direttafacile.it##a[target="pubblicita.php"]
 genoanews1893.it##div[astyle="text-align: center; width: 336px; height: 280px; padding: 3px 0px 3px 0px;"]
 amazon.it##div[cel_widget_id*="_SponsoredProducts"]
 amazon.it##div[cel_widget_id*="_ad-placements-"]
