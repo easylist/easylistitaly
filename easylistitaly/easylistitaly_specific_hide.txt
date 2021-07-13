@@ -999,6 +999,7 @@ ladige.it##.block--dfp
 california.it##.block-13
 corrierecesenate.it,lavitacattolica.it##.block-banners
 legapallacanestro.com##.block-bean-banner
+soldionline.it##.block-etoro-wg
 mediaworld.it##.block-mw-external-banner
 ilroma.net##.block-rotating-banner
 legapallacanestro.com##.block-sponsor-e-partners
