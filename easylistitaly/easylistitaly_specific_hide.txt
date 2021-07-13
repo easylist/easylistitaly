@@ -43,7 +43,7 @@ altarimini.it###attivitaEvidenza
 eurogamer.it###auto-amazon-link
 gnoccatravels.com###b-nner-right-list
 libero.it###b468x60bottoms
-10cose.it,arrivi-partenze.it,ilportalediibiza.it,menevojoanna.it,nelfaro.it,scorcidimondo.it,tuttobaviera.it,viaggieuropa.com###b_searchboxInc
+10cose.it,arrivi-partenze.it,ilportalediibiza.it,lazionascosto.it,menevojoanna.it,nelfaro.it,scorcidimondo.it,tuttobaviera.it,viaggieuropa.com###b_searchboxInc
 bazar.it,inconcreto.net,ingenio-web.it,insic.it,pavimenti-web.it###background
 brocardi.it###background-head-spacer
 brindisisettenews.it###background_body
