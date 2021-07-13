@@ -934,6 +934,7 @@ ilgoriziano.it##.banner_header
 condominioweb.com##.banner_home
 italpress.com##.banner_img_widget
 villaggiomusicale.com##.banner_leaderboard
+mareinitalia.it##.banner_mi
 spaziotennis.com##.banner_panorama
 archzine.it##.banner_sidebar
 tutto.tv##.banner_single_top

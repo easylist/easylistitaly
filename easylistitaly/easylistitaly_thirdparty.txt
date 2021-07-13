@@ -150,6 +150,7 @@
 ||neonisi.com^*/items.external?$third-party
 ||netrefer-a.akamaihd.net^
 ||netsons.com/manage/adv/frmbnnr.min.js
+||networkturismo.it/banners/
 ||newspostx.com^*/newspostx-banner_$third-party
 ||nexths.it/widget/$third-party
 ||nivolare.com/banner-$third-party
