@@ -1629,6 +1629,8 @@
 ||ilcorriere.net^*-banner.
 ||ilcorrieredelgiorno.it^*/720x300_
 ||ilcorrieredelgiorno.it^*_SKIN_
+||ilcorrieredellacitta.com^*/AMA-Cassonetti.png
+||ilcorrieredellacitta.com^*/AMA-Riciclacasa.gif
 ||ilcorrieredellacitta.com^*/casino-italiani.jpg
 ||ilcorrieredellacitta.com^*/cinecitta-world.jpg
 ||ilcorrieredellacitta.com^*/DHH-shield-medical-solutions.jpg
