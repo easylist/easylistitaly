@@ -853,6 +853,7 @@ toscanaoggi.it##.banner-code
 1001giochi.it,amicidicasa.it,cuneocronaca.it,divinafm.it,giochixl.it,lacrocequotidiano.it,livesicilia.it,mtv.it,picchionews.it,professionecamionista.it,sposa.it##.banner-container
 punto-informatico.it##.banner-content
 ilnuovoterraglio.it,nove.firenze.it##.banner-desktop
+tuttomaremma.com##.banner-dex
 genova24.it##.banner-elezioni
 italiani.it##.banner-empty-italiani
 bluvolleyverona.it##.banner-fading
