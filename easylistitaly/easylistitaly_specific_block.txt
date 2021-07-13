@@ -649,6 +649,7 @@
 ||camperonline.it/b/
 ||camperonline.it/banner/
 ||camperonline.it/sfondo/
+||camping.it/xbDispatcher/
 ||canale12.it^*/banner-
 ||canale2.com^*/IMG_20200216_0001-1.jpg
 ||canale58.com/imgs/banner/
