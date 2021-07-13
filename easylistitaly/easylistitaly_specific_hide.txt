@@ -702,7 +702,7 @@ radioitalia.it##.acquista
 sololibri.net##.acquista-esterno
 tomshw.it##.acquista_button_group
 selectra.net##.action-box
-buongiornosuedtirol.it,gamesource.it,gqitalia.it,icasa.ch,ilfoglio.it,jugo.it,lacrocequotidiano.it,le-citazioni.it,liberatv.ch,lonelyplanetitalia.it,mondoplay.it,mondoxbox.com,motorbox.com,quotidianoapuano.net,radio-in-diretta.com,serietvu.link,smartbuildingitalia.it,trend-online.com,tripadvisor.it,vogue.it##.ad
+buongiornosuedtirol.it,gamesource.it,gqitalia.it,icasa.ch,ilfoglio.it,jugo.it,lacrocequotidiano.it,laregione.ch,le-citazioni.it,liberatv.ch,lonelyplanetitalia.it,mondoplay.it,mondoxbox.com,motorbox.com,quotidianoapuano.net,radio-in-diretta.com,serietvu.link,smartbuildingitalia.it,trend-online.com,tripadvisor.it,vogue.it##.ad
 tusciaweb.eu##.ad-article
 tvdream.net##.ad-box
 adotta.me,soluzionicodycross.it,supertv.it##.ad-container
