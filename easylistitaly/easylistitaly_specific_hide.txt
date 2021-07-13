@@ -524,6 +524,7 @@ diretta.it###tab-bonus-offers
 diretta.it###tab-odds
 geologi.it###table113
 grossetoonline.com###takeOver
+villaggi.it###take_over
 gamesvillage.it###takeover_gv
 ecovicentino.it###td-layer-audio-article-banner
 chedonna.it###tdi_197_d09
@@ -2564,6 +2565,7 @@ sentireascoltare.com##img[width="700"][height="300"]
 minformo.com##img[width="720"][height="125"]
 faretennis.com,italyandmore.it,tennispavese.it##img[width="728"]
 eurofestivalnews.com,finanzareport.it,gamebit.it,gamelegends.it,glianni80.com,ilgiornalediudine.com,ilsalvagente.it,larampa.it,pagineazzurre.com,streamingmagazine.it##img[width="728"][height="90"]
+villaggi.it##img[width="746"][height="127"]
 calabria7.it##img[width="750"][height="250"]
 aprilianews.it##img[width="750"][height="625"]
 superbasket.it##img[width="750"][height="80"]
