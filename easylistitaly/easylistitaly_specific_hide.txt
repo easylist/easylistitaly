@@ -1727,6 +1727,7 @@ netflixlovers.it##.slick-dots
 hdgolf.it##.slick-slide
 fermanafc.com,magentanostra.it,netflixlovers.it,settesere.it,uslecce.it,ustriestinacalcio1918.it##.slick-track
 radioradio.it##.slide
+unimondo.org##.slide-image
 livornolive.it,toscana.live##.slidelink
 oipamagazine.it,radiosvolta.it##.slider
 radiomillennium.it##.slider-banner
