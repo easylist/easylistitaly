@@ -2654,6 +2654,7 @@
 ||newtuscia.it^*/300x150px.
 ||newtuscia.it^*/acustica-bruno-
 ||newtuscia.it^*/amzn-
+||newtuscia.it^*/banner-
 ||newtuscia.it^*/bcc-roma-logo.png
 ||newtuscia.it^*/fenix-service.jpg
 ||newtuscia.it^*/laundry-hospital.jpg
