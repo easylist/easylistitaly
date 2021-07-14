@@ -1479,6 +1479,7 @@ buttanissima.it##.machette
 gonews.it##.machette-destra
 gonews.it##.machette-over-logo
 gonews.it##.machette-sinistra
+magazinepragma.com##.magaz-slider
 cycletteprezzi.it,orologi-subacquei.it##.main-cta-banner
 inter.it##.main-footer-sponsor
 filmaltadefinizione.me##.main-news-more
