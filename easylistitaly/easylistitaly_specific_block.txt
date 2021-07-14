@@ -1537,6 +1537,7 @@
 ||horecanews.it/wp-content/uploads/angwp/
 ||horecanews.it^*/Banner-
 ||horecanews.it^*/banner_
+||horecanews.it^*/RIGEL_
 ||horecanews.it^*_background_
 ||horecanews.it^*_Banner_
 ||hovogliadidolce.it^*/banner-
