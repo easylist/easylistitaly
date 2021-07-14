@@ -2872,6 +2872,7 @@
 ||padovanews.it/images/banners/
 ||paesesera.toscana.it^*/banner-
 ||paesesera.toscana.it^*/Estra_
+||paesesera.toscana.it^*/unnamed.jpg
 ||paganesecalcio.com^*/agrovo-
 ||paganesecalcio.com^*/caiazzo-
 ||paganesecalcio.com^*/GIONOVA-
