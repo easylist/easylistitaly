@@ -2105,6 +2105,7 @@
 ||lacittanews.it^*/conferenza-terapia-domiciliare.jpg
 ||lacittanews.it^*/Editions1.jpeg
 ||lacittanews.it^*/IMG_7230.jpeg
+||lacittanews.it^*/laundry.jpg
 ||lacittanews.it^*/laundry.png
 ||lacittanews.it^*/locandina-nuova.jpeg
 ||lacittanews.it^*/LOGO-MIMOSA-
