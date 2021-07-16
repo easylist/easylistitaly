@@ -1246,6 +1246,7 @@ giornaleravenna.com##.elementor-element-37f5d157
 giornalesm.com##.elementor-element-3bc9c58
 iamnaples.it##.elementor-element-3ce49e1
 radiortm.it##.elementor-element-4561c5a
+mondobalneare.com##.elementor-element-4baf56e
 icrewplay.com##.elementor-element-52a6569
 iamnaples.it##.elementor-element-56031cb6
 giornalesm.com##.elementor-element-5b8e1d7
@@ -1541,6 +1542,7 @@ fise.it##.module-sponsor-HP
 fise.it##.module-sponsor-container
 telelazionord.it##.mom-e3lanat-inner
 valdichianaoggi.it##.mom-e3lanat-wrap
+mondobalneare.com##.mondobalneare-banner
 boingtv.it,eurogamer.it,foodnetwork.it,gioco.it,morningstar.it##.mpu
 stellafm.it##.ms-slide-link
 nordmilano24.it##.musthead
