@@ -1755,6 +1755,9 @@
 ||ilgiornaleoff.ilgiornale.it^*/Banner-
 ||ilgiornaleoff.ilgiornale.it^*/Banner_
 ||ilgiornaleoff.ilgiornale.it^*/side_banner.
+||ilgiornaleoff.it^*/Banner-
+||ilgiornaleoff.it^*/Banner_
+||ilgiornaleoff.it^*_banner.
 ||ilgolfo24.it^*/pegaso.jpg
 ||ilgolfonline.it^*/shamir.jpg
 ||ilgoriziano.it/public/banner/
