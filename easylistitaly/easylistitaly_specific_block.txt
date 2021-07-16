@@ -4631,7 +4631,7 @@
 ||wp.com^*/675x238-$domain=tv9italia.it
 ||wp.com^*/banner-$domain=abruzzoweb.it|bsnews.it|cinecorriere.it|foggiagol.it|giornaledicalabria.it|ilgiornaledeiveronesi.it|infocilento.it|lagazzettaaeroportuale.it|libringioco.blog|nonsoloturisti.it|nuotounostiledivita.it|oggicronaca.it|orvietosi.it|teleischia.com|temporeale.info|trasimenonline.it|tusciatimes.eu|tv9italia.it|vesuvianonews.it
 ||wp.com^*/banner/$domain=buongiornoslovacchia.sk|cronacaflegrea.it
-||wp.com^*/banner_$domain=agropolinews.it|bimbonaturale.org|fisco7.it|nuotounostiledivita.it|thewalkoffame.it|tusciatimes.eu
+||wp.com^*/banner_$domain=agropolinews.it|bimbonaturale.org|brescia2.it|fisco7.it|nuotounostiledivita.it|thewalkoffame.it|tusciatimes.eu
 ||wp.com^*/banners/$domain=proiezionidiborsa.it|risveglioduemila.it
 ||wp.com^*/BRIGNOLA20201.jpg$domain=infonewsvietri.it
 ||wp.com^*/mahindra.png$domain=catanista.eu

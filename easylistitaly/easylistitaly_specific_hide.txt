@@ -536,7 +536,7 @@ irlandaonline.com###text-1
 agenziagiornalisticaopinione.it,androidblog.it,torremaggiore.com###text-10
 agenziagiornalisticaopinione.it,lol-esports.it###text-11
 golbym.com###text-12
-clientiesperti.it,studio5fm.com###text-13
+brescia2.it,clientiesperti.it,studio5fm.com###text-13
 cioccolato.org,esportsonline.it,finaria.it,myfitnessmagazine.it,pantareinews.com###text-14
 finaria.it,hellogreen.it,internetto.it###text-15
 finaria.it,internetto.it###text-16
@@ -593,7 +593,7 @@ castellinotizie.it###text-493
 castellinotizie.it###text-494
 castellinotizie.it###text-495
 castellinotizie.it###text-496
-birramoriamoci.it,giornalesm.com###text-5
+birramoriamoci.it,brescia2.it,giornalesm.com###text-5
 teleaesse.it###text-50
 teamworld.it###text-51
 grossetosport.com,infotelematico.com###text-53
