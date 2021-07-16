@@ -194,6 +194,7 @@
 ##.adv_oriz
 ##.adv_vert
 ##.adv_video
+##.advborder
 ##.advdsk
 ##.advhead
 ##.advnext_correlati
