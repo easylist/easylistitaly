@@ -491,6 +491,7 @@ mail1.libero.it###slink-sx
 persemprecalcio.it###smartslider3-3
 meteofinanza.com###snp-pop-20588-overlay
 3bmeteo.com###sole24_banner
+vallesabbianews.it###sostegno-box
 casateonline.it,merateonline.it###sottotestata
 agendapolitica.it###sow-editor-3
 dazebaonews.it###sp-bottom
