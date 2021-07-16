@@ -1361,6 +1361,7 @@ ecwgcortina2016.it,ilgeniodellostreaming.dance,ilgeniodellostreaming.rest,ilgeni
 ecwgcortina2016.it,ilgeniodellostreaming.dance,ilgeniodellostreaming.rest,ilgeniodellostreaming.to,ilgeniodellostreaming.tube,ilgeniodellostreamings.com,ilgeniodellostreamings.it##.guardasingleserie2
 cinqueterre5.com##.gyg-list
 ricetta.it##.h728-up-home
+boatindustry.it##.habillage
 quattroruote.it##.halfPageBanner2
 pornoamatorialeitaliano.it##.happy-footer
 cuckold.it,pornoamatorialeitaliano.it,solopompini.it##.happy-header
@@ -1636,7 +1637,7 @@ proiezionidiborsa.it##.promoboxplus
 teleoccidente.it##.promotion-section
 tgfuneral24.it##.psct-banners
 playstationzone.it##.psz_template_prices_comp
-agoravox.it##.pub
+agoravox.it,boatindustry.it##.pub
 radiogold.it##.pub-content
 kikapress.com##.pub_container
 reteradioazzurra.it##.pubbli_home_extra_right
