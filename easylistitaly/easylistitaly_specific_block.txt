@@ -1240,6 +1240,7 @@
 ||firstonline.info^*/Auto-Doc.
 ||fiscal-focus.it/bin/FOOTER_
 ||fiscal-focus.it/bin/new-banner-
+||fishingboatmagazine.it^*/Banner-
 ||fiumicino-online.it/images/banner
 ||flash---art.it^*/HANGAR_XL.jpg
 ||fmtv.live^*-banner-
