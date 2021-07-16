@@ -499,6 +499,7 @@ lnd.it###sp-sponsor
 aziendabanca.it###sp-top-banner
 radioshowitalia.it,reggina1914.it###sponsor
 buonapesca.it###sponsor-bottom
+federcanoa.it###sponsor-bottom-wrapper
 paolociraci.it###sponsor-clima-160x160
 victorialibertas.it###sponsor-footer
 biellaoggi.it,casaleoggi.it,cuneooggi.it,piemonteoggi.it,vercellioggi.it###sponsor_dx
