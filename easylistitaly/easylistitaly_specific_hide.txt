@@ -1746,6 +1746,7 @@ cellulare-magazine.it,crotoneok.it,nautica.it,vitaincamper.it##.skin_bg
 ildigitale.it,nautica.it,primopianomolise.it##.skin_bg_left
 ildigitale.it,nautica.it,primopianomolise.it##.skin_bg_right
 sempionenews.it##.skin_click
+nautica.it##.skin_inner
 iovivoaroma.org##.skin_link_top
 ffboard.forumfree.it##.skin_tbl_width
 atvreport.it##.skinlink
