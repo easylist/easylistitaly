@@ -929,6 +929,7 @@ lafune.eu##.banner_articolo
 lafune.eu##.banner_articolo_dx
 lafune.eu##.banner_articolo_sx
 infobuildenergia.it##.banner_associazioni_wrapper
+bolina.it##.banner_bottom
 fidelityhouse.eu##.banner_box
 bolognafc.it##.banner_btm_page
 amarantomagazine.it##.banner_centrale
@@ -953,7 +954,7 @@ tutto.tv##.banner_single_top
 startupitalia.eu##.banner_slick
 startupitalia.eu##.banner_slick_2
 scozia.net##.banner_sponsor
-ornews.it,ragusanews.com,stellafm.it##.banner_top
+bolina.it,ornews.it,ragusanews.com,stellafm.it##.banner_top
 mercuriomagazine.com##.banner_top_left
 mercuriomagazine.com##.banner_top_right
 brindisisera.it##.banner_wide_box
