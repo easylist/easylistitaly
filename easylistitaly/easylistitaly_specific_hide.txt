@@ -1204,6 +1204,7 @@ stateofmind.it##.cta_img
 mogliinmostra.it,tse-tse.it##.ctaiscriviti
 youtvrs.it##.custom-background-css
 radionorba.it##.custom-banners-cycle-slideshow
+fitri.it##.custom-cont-banner
 giornaleadige.it,piacenza24.eu,radionorba.it,radioyacht.com,risvegliopopolare.it,tvqui.it,vivilanotizia.it##.custom_banners_big_link
 cucina-naturale.it##.dalle-aziende
 gioco-pc-scaricare.it##.dashicons-download
@@ -1540,6 +1541,7 @@ scienzenotizie.it##.mobile-top-banner
 alimentibevande.it,professioneallevatore.it,professionesuinicoltore.it##.mod
 fise.it##.module-sponsor-HP
 fise.it##.module-sponsor-container
+fitri.it##.moduletable-sponsor
 telelazionord.it##.mom-e3lanat-inner
 valdichianaoggi.it##.mom-e3lanat-wrap
 mondobalneare.com##.mondobalneare-banner
