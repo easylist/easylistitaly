@@ -1135,6 +1135,7 @@ edilportale.com##.click-Skin
 telenord.it##.click-banner
 telenord.it##.click-foto
 umbria.webcam##.client_logos
+stile-magazine.it##.clients-logos
 puntocellulare.it##.clklnk
 engage.it##.cnt-banner-top
 magodelpronostico.com##.cntBonusHome
