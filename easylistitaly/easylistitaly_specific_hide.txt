@@ -725,7 +725,7 @@ laltrapagina.it##.ad5
 theitaliantimes.it##.adb
 calcio.com,movietele.it##.adbox
 abruzzolive.it,confinelive.it,lamilano.it,marsicalive.it,pescaralive.it##.adcontainer
-unonotizie.it##.add
+mondobarcamarket.it,unonotizie.it##.add
 computersm.com##.add-inner
 fidal.it##.add-logo
 informagiovani-italia.com##.add_left
@@ -850,6 +850,7 @@ notetralerighe.it##.banner-amazon-music
 parmareport.it##.banner-big
 ligurianautica.com##.banner-box
 universodelgioco.it##.banner-btf-side-rectangle
+mondobarcamarket.it##.banner-carousel
 mrw.it##.banner-center
 toscanaoggi.it##.banner-code
 1001giochi.it,amicidicasa.it,cuneocronaca.it,divinafm.it,giochixl.it,lacrocequotidiano.it,livesicilia.it,mtv.it,picchionews.it,professionecamionista.it,sposa.it##.banner-container
@@ -1553,6 +1554,7 @@ newsiciliacasa.it##.narrative
 scuolissima.com##.nascondiads
 ildolomiti.it##.native
 petpassion.tv##.navbar-purina-red
+mondobarcamarket.it##.navbar-right
 virgilio.it##.newboxIs
 virgilio.it##.newboxIsOrizz
 ansa.it##.news-special-box
