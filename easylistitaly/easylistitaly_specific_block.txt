@@ -2561,6 +2561,10 @@
 ||molisetabloid.it^*/lamolisana.png
 ||momentosera.it/bannerupload/
 ||mondo3.com^*/offerte-amazon-offerte.jpg
+||mondobarcamarket.it^*-banner-
+||mondobarcamarket.it^*-banner.
+||mondobarcamarket.it^*/LABRUNA-BENNER-FTP-
+||mondobarcamarket.it^*/Mondo_Barca.gif
 ||mondoclassica.it^*/banner/
 ||mondodelgusto.it^*/arch/
 ||mondomobileweb.it/images/vbsl.png
