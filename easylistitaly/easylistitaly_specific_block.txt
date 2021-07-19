@@ -2665,6 +2665,9 @@
 ||newsfood.com^*/KriKri_Frozen-yogurt_Newsfood1.gif
 ||newsfood.com^*/Webbanner_
 ||newsfood.com^*_banner_
+||newsinquota.it^*/BANNER_
+||newsinquota.it^*/colorificio_paulin.jpg
+||newsinquota.it^*/Springo_
 ||newslinet.com^*/MCL-5000x600-
 ||newsly.it^*/aawp/
 ||newtuscia.it^*-300x150-
