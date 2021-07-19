@@ -880,6 +880,7 @@ italiafruit.net##.banner-m
 viversano.net##.banner-mid
 ilnuovoterraglio.it,valdelsa.net##.banner-mobile
 mattinonline.ch##.banner-only
+monzanet.it##.banner-promo
 calabriareportage.it,calcioitalia24.it,lameziaterme.it##.banner-promotions-wrapper
 radiotoscana.it##.banner-radio
 solovela.net##.banner-right
@@ -2230,7 +2231,7 @@ gamelegends.it##a[href^="https://www.amazon.it/"] > img
 iobenessere.it##a[href^="https://www.amazon.it/shop/"]
 tuttoamerica.it##a[href^="https://www.anrdoezrs.net/click-"]
 beautytester.it,digital-news.it,gufo.it,msn.com,neomag.it,partiteoggi.net,salutarmente.it,terrazzofacile.it##a[href^="https://www.awin1.com/"]
-ideeviaggio.it,maremma.name,turistadimestiere.com,tuttobaviera.it,vacanzeinamerica.eu,viaggio-in-germania.de##a[href^="https://www.booking.com/"]
+ideeviaggio.it,maremma.name,monzanet.it,turistadimestiere.com,tuttobaviera.it,vacanzeinamerica.eu,viaggio-in-germania.de##a[href^="https://www.booking.com/"]
 fumettologica.it,stilearte.it##a[href^="https://www.catawiki.it"][href*="?utm_"]
 lavocedelpopolo.it##a[href^="https://www.holyart.it/"]
 gamelegends.it,hynerd.it,spaziogames.it,tuttotek.it,xtremehardware.com##a[href^="https://www.instant-gaming.com/?igr="]
@@ -2239,7 +2240,7 @@ esportsactivity.com##a[href^="https://www.ivacy.com/"]
 botteega.it##a[href^="https://www.macrolibrarsi.it/"]
 videopornoitalia.it##a[href^="https://www.orgasmi899.com"]
 atalanta.it,diventaretrader.com,mercati24.com##a[href^="https://www.plus500.com/"]
-animeemanga.it,comingsoon.it,mymovies.it,trovacinema.repubblica.it##a[href^="https://www.primevideo.com/"][href*="tag="]
+animeemanga.it,comingsoon.it,monzanet.it,mymovies.it,trovacinema.repubblica.it##a[href^="https://www.primevideo.com/"][href*="tag="]
 2backpack.it##a[href^="https://www.worldnomads.com/Turnstile/AffiliateLink?"]
 2backpack.it##a[href^="https://www.worldnomads.it/?affiliate="]
 gamingwiki.it##a[href^="https://www2.razer.com/"]

@@ -2599,6 +2599,9 @@
 ||monza-news.it^*/perego.jpg
 ||monza-news.it^*/termotecnica-
 ||monzacalcio.com/images/sponsors/
+||monzanet.it/images/banner/
+||monzanet.it/images/inpage_banners/
+||monzanet.it/images/sponsors/
 ||moondo.info/adv/
 ||motoexcape.com^*-Skin-
 ||motori360.it^*-300-x-150-px.
