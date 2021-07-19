@@ -1909,6 +1909,7 @@ agimeg.it##.td_uid_18_606dd54991c0e_rand
 ilparmense.net##.td_uid_18_606dd7c7652fd_rand
 ilparmense.net##.td_uid_2_606dd7c74fb8e_rand
 romanews.eu##.td_uid_7_5fc0c934d6e11_rand
+ilprimatonazionale.it##.tdi_10
 chedonna.it##.tdi_115_a60
 chedonna.it##.tdi_115_ebb
 omniagate.com##.tdi_11_784
