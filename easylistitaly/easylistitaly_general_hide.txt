@@ -25,6 +25,7 @@
 ###adbanner-stampa
 ###adk_article-middle
 ###adk_article-top
+###adk_interstitial
 ###adk_masthead
 ###adk_spalla-bottom
 ###adk_spalla-middle
@@ -139,6 +140,7 @@
 ##.ad_pedice
 ##.adagiowritebanner_dmtag
 ##.adivi-infeed
+##.adk-slot
 ##.ads--primo-piano
 ##.ads-dx
 ##.ads-sx
