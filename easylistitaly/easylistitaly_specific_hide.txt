@@ -2086,6 +2086,7 @@ lavorincasa.it##.wrapper-banner-footerbanner
 lavorincasa.it##.wrapper-banner-medium-rectangle
 lavorincasa.it##.wrapper-sider-bacheca-aziende
 lavorincasa.it##.wrapper-widget-box-prodotti-sider
+hwupgrade.it##.wrapper-xyz
 autobelle.it##.xdad
 ornews.it##.youtube_adv_alert
 rivistanatura.com##.zcx
