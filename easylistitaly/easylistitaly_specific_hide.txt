@@ -309,6 +309,7 @@ sienafree.it###headerbanner
 blog.ilgiornale.it###headerleader
 animaleamico.com###headsponsor
 amazon.it###heroQuickPromo_feature_div
+vivinewyork.com###hm-rsp-txt-desk
 agriturismo.it###home-banner
 rovigooggi.it###home-closeup-space
 rovigooggi.it###home-pbreak-space
