@@ -272,7 +272,7 @@ mondocalcionews.it###footer-banner-mobile
 lamiacittanews.it###footer-fixed
 ascittadella.it###footer-sponsor
 lanostratv.it###footer-top-wrapper
-tvrxenon.it###footer-widgets
+americaurlaub.de,tvrxenon.it###footer-widgets
 caneogolf.it###footer_area
 videosesso.com###footertop
 1web.tv###fpub-popup
@@ -539,7 +539,7 @@ agenziagiornalisticaopinione.it,androidblog.it,torremaggiore.com###text-10
 agenziagiornalisticaopinione.it,lol-esports.it###text-11
 golbym.com###text-12
 brescia2.it,clientiesperti.it,studio5fm.com###text-13
-cioccolato.org,esportsonline.it,finaria.it,myfitnessmagazine.it,pantareinews.com###text-14
+americaurlaub.de,cioccolato.org,esportsonline.it,finaria.it,myfitnessmagazine.it,pantareinews.com###text-14
 finaria.it,hellogreen.it,internetto.it###text-15
 finaria.it,internetto.it###text-16
 libroaudio.it###text-18
