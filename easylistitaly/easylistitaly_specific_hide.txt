@@ -730,6 +730,7 @@ theitaliantimes.it##.adb
 calcio.com,movietele.it##.adbox
 abruzzolive.it,confinelive.it,lamilano.it,marsicalive.it,pescaralive.it##.adcontainer
 mondobarcamarket.it,unonotizie.it##.add
+foodnrock.com##.add-btn[href^="https://amzn.to/"]
 computersm.com##.add-inner
 fidal.it##.add-logo
 informagiovani-italia.com##.add_left
