@@ -4,10 +4,11 @@ nauticareport.it###BanLeft
 lantidiplomatico.it###BanRight
 nauticareport.it###BanTop
 staffettaonline.com###BnrSolidarieta
-tesionline.it###C_1
+flashgames.it,tesionline.it###C_1
+flashgames.it###C_2
 insic.it###ContentPlaceHolder1_pnBanners
 legabasketfemminile.it###DIV_MainSponsorContainer
-tesionline.it###D_1
+flashgames.it,tesionline.it###D_1
 conta-calorie.it###DivCryptoReferral
 unapennainviaggio.it###Image1
 unapennainviaggio.it###Image2
@@ -16,6 +17,7 @@ meteoweek.com###NMW-Leaderboard
 acsi.it###Parteners
 tuttojuve24.it###SuperClassQuote
 tesionline.it###T
+flashgames.it###T_1
 chimerarevo.com###TopWidgetArea
 larena.it###_dbx_core
 digital-forum.it,ebaygeneration.com,elaborare.com,esigarettaforum.com,milanworld.net,thegamesmachine.it###ad_global_below_navbar
