@@ -1959,6 +1959,7 @@
 ||investomagazine.com^*/sito2.jpg
 ||inviaggiodasola.com^*/banner3_
 ||ioamolasicilia.com^*/TOUR-PALERMO-
+||ioarte.org/img/banner/
 ||iocaccio.it^*/Mygra-
 ||iostudionews.it^*/ripartiamo_di_miceli.gif
 ||iovivoaroma.org/images/new/bg.jpg
