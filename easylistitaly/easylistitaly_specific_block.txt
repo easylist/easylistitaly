@@ -4523,6 +4523,7 @@
 ||wp.com/www.ilfattoonline.com/*/IMW.jpg
 ||wp.com/www.ilgazzettinodisicilia.it/*/AD-5X1000-Ediga-verde.jpg
 ||wp.com/www.ilgazzettinodisicilia.it/*/logo-YooRoom-
+||wp.com/www.iltecnoblog.com/*/hype-10-euro-omaggio.jpg
 ||wp.com/www.infocilento.it/*/ducas-battipaglia.jpg
 ||wp.com/www.infocilento.it/*/maffei
 ||wp.com/www.infocilento.it/*/Majestic-
