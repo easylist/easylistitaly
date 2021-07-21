@@ -814,6 +814,7 @@ amsterdam.net,germania.info,scozia.net,spagna.info##.article_hotel_vicino
 ilcittadinomb.it##.artpub
 giardiniblog.it##.asa2_fbh
 assisisport.it##.assis-widget
+giochinet.com##.ast-below-header
 supercoin.it##.atla-card-link
 radiogold.it##.autobanner
 subito.it##.autopromo
