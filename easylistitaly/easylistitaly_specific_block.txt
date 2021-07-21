@@ -2650,6 +2650,7 @@
 ||nerdface.it/images/BannerSponsor/
 ||nerdplanet.it^*/banner.
 ||nerdplanet.it^*/batmanultimo2017.
+||nerdpool.it^*/vendilo-
 ||net-cdn.it/images/skin_$domain=movieplayer.it
 ||netdna-ssl.com^*-banner-$domain=reggionline.com
 ||netdna-ssl.com^*/banner-$domain=reggionline.com
