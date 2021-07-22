@@ -3513,6 +3513,7 @@
 ||sardegnalive.net^*/134_tuttiautopezzi350x500_
 ||sardegnalive.net^*/_auto-doc.
 ||sardegnalive.net^*/banner965x190.png
+||sardegnareporter.it^*/sardegna-fotocopiatrice.png
 ||sardegnareporter.it^*/Sea-Lounge-Club-Cala-Spinosa-
 ||sardiniapost.it^*/mobi.jpg
 ||sardinias.it/files/partner/
