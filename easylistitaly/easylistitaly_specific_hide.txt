@@ -366,7 +366,7 @@ stadionews.it###manchette_dx_container
 stadionews.it###manchette_sx_container
 quotidianosanita.it###masch_des
 quotidianosanita.it###masch_sin
-acspezianews.it,campaniasoccer.com,dailybest.it,dolciveloci.it,donnaglamour.it,economiafinanzaonline.it,f1-news.eu,forum.tomshw.it,investireoggi.it,leonardo.it,messinanelpallone.it,newsmondo.it,notiziebenessere.it,notiziemusica.it,politicanews.it,primochef.it,ricettedalmondo.it,toro.it,tuttoavellino.it,tuttobari.com,tuttomonza.it,tuttorunning.net,tuttosalernitana.com,tuttoudinese.it###masthead
+acspezianews.it,campaniasoccer.com,dailybest.it,dolciveloci.it,donnaglamour.it,economiafinanzaonline.it,f1-news.eu,forum.tomshw.it,investireoggi.it,leonardo.it,messinanelpallone.it,newsmondo.it,notiziebenessere.it,notiziemusica.it,politicanews.it,primochef.it,ricettedalmondo.it,toro.it,toscanadaily.com,tuttoavellino.it,tuttobari.com,tuttomonza.it,tuttorunning.net,tuttosalernitana.com,tuttoudinese.it###masthead
 familygo.eu###masthead-desktop
 matematicamente.it###masthead-desktop-wrapper
 ondarock.it###masthead_or
@@ -741,7 +741,7 @@ offertevolantini.it##.add_w2_h1
 ildolomiti.it##.adsB
 amalfinews.it,beatgogo.it,chistachiamando.it,ilportico.it,ilvescovado.it,liratv.it,occhisusalerno.it,pcprofessionale.it,positanonotizie.it,ravellonotizie.it,trova-aperto.it,valtellinamobile.it##.adsense
 animalidacompagnia.it##.adserver
-adessoin.tv,allaguida.it,alpha59.it,altoadigetv.it,altreconomia.it,amica.it,ansa.it,buttalapasta.it,calciatoribrutti.com,calciomercato.com,cittaceleste.it,curioctopus.it,dissapore.com,dolciveloci.it,donnaglamour.it,economiafinanzaonline.it,fcinter1908.it,forbes.it,forzaroma.info,gay.it,gelocal.it,gianlucadimarzio.com,girovagandointrentino.it,gta-expert.it,guardachevideo.it,ilfattoquotidiano.it,ilpost.it,ilsole24ore.com,itasportpress.it,juvenews.eu,latina24ore.it,leonardo.it,libero.it,mediaset.it,milanofinanza.it,movieplayer.it,multiplayer.it,nanopress.it,newsmondo.it,notiziebenessere.it,notiziemilan.it,notiziemusica.it,oasport.it,passioneinter.com,pianetamilan.it,pourfemme.it,prealpina.it,primochef.it,radioindiretta.fm,repubblica.it,riza.it,salepepe.it,skuola.net,staffettaonline.com,stylosophy.it,supereva.it,toro.it,toronews.net,trentinotv.it,virgilio.it,vocenuova.tv,weekendpremium.it##.adv
+adessoin.tv,allaguida.it,alpha59.it,altoadigetv.it,altreconomia.it,amica.it,ansa.it,buttalapasta.it,calciatoribrutti.com,calciomercato.com,cittaceleste.it,curioctopus.it,dissapore.com,dolciveloci.it,donnaglamour.it,economiafinanzaonline.it,fcinter1908.it,forbes.it,forzaroma.info,gay.it,gelocal.it,gianlucadimarzio.com,girovagandointrentino.it,gta-expert.it,guardachevideo.it,ilfattoquotidiano.it,ilpost.it,ilsole24ore.com,itasportpress.it,juvenews.eu,latina24ore.it,leonardo.it,libero.it,mediaset.it,milanofinanza.it,movieplayer.it,multiplayer.it,nanopress.it,newsmondo.it,notiziebenessere.it,notiziemilan.it,notiziemusica.it,oasport.it,passioneinter.com,pianetamilan.it,pourfemme.it,prealpina.it,primochef.it,radioindiretta.fm,repubblica.it,riza.it,salepepe.it,skuola.net,staffettaonline.com,stylosophy.it,supereva.it,toro.it,toronews.net,toscanadaily.com,trentinotv.it,virgilio.it,vocenuova.tv,weekendpremium.it##.adv
 teleunica.com##.adv-body
 centrometeoitaliano.it##.adv-cmi
 animatamente.net,arezzoweb.it,bici.pro,corriereromagna.it,udineoggi.news##.adv-link
