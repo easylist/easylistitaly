@@ -543,11 +543,11 @@ agenziagiornalisticaopinione.it,androidblog.it,torremaggiore.com###text-10
 agenziagiornalisticaopinione.it,lol-esports.it###text-11
 golbym.com###text-12
 brescia2.it,clientiesperti.it,studio5fm.com###text-13
-americaurlaub.de,cioccolato.org,esportsonline.it,finaria.it,myfitnessmagazine.it,pantareinews.com###text-14
+americaurlaub.de,cioccolato.org,esportsonline.it,finaria.it,myfitnessmagazine.it,p2p-italia.com,pantareinews.com###text-14
 finaria.it,hellogreen.it,internetto.it###text-15
 finaria.it,internetto.it###text-16
 libroaudio.it###text-18
-gazzettadellavaldagri.it,giornalistitalia.it,noinotizie.it###text-19
+gazzettadellavaldagri.it,giornalistitalia.it,noinotizie.it,p2p-italia.com###text-19
 adviceandcommerce.it,alwaysonboard.it,domanidoveandiamo.it,guidaviaggi.it,jotv.it,ufficistampanazionali.it###text-2
 ilpost.it,lamiavitainvaligia.org,noinotizie.it###text-20
 mbmusic.it,playersmagazine.it###text-21
@@ -611,7 +611,7 @@ grossetosport.com,radioimmagine.it###text-61
 grossetosport.com###text-62
 incucinaconelena.it,lombardoandrea.com,pitchinvasion.net###text-7
 bioterra.it,brindisioggi.it,controcopertina.com,esportsitalia.com,lombardoandrea.com,plusrew.com###text-8
-agenziagiornalisticaopinione.it,controcopertina.com,nightlife-cityguide.com,solorecensioni.com,telemia.it###text-9
+agenziagiornalisticaopinione.it,controcopertina.com,nightlife-cityguide.com,p2p-italia.com,solorecensioni.com,telemia.it###text-9
 specchiosesto.it###text-html-widget-2
 agemobile.com###text-html-widget-4
 faidatecasa.com###tm-main-top
