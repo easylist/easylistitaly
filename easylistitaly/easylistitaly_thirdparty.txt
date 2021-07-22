@@ -207,6 +207,7 @@
 ||sorgentenatura.it^*/Banner_$third-party
 ||sostariffe.it/sosWidget3/$third-party
 ||spox.com/daznpic/$third-party
+||stampa3dstore.com^*/banner-$third-party
 ||staticflickr.com/65535/50344759948_d497f3502a_o.jpg$domain=pantareinews.com
 ||staticroot.com/nl/affiliati/
 ||staticroot.com^$domain=zingarate.com
