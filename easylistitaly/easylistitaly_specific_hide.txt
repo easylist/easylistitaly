@@ -1239,7 +1239,7 @@ ilpaesenuovo.it##.e3lanat-layout-rotator
 noisiamoagricoltura.com##.e62-63
 bergamonews.it##.edinews_widget_friends-3
 genova24.it##.edinews_widget_post_from_terms
-bsnews.it,evosmart.it,mialleno.it,pc-gaming.it,stile.it,ufficiospettacoli.it##.egg-container
+bsnews.it,evosmart.it,ilvideogamepost.blog,mialleno.it,pc-gaming.it,stile.it,ufficiospettacoli.it##.egg-container
 regaliperfetti.it##.egg_grid
 regaliperfetti.it##.egg_sort_list
 beneficicurcuma.it##.elementor-cta
