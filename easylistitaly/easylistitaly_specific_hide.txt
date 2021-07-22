@@ -1862,6 +1862,7 @@ affaritaliani.it##.strillo-speciale3
 ship2shore.it,trend-online.com##.strip
 corriereadriatico.it,ilgazzettino.it,ilmattino.it,ilmessaggero.it,leggo.it,quotidianodipuglia.it##.strip-guidalloshopping
 noisiamofuturo.it##.stripe
+diconews.com##.su-button-center
 simplybiz.eu,volleyball.it##.su-carousel
 casa-domotica24.it##.su-tabs
 ilsussidiario.net##.sub-header
