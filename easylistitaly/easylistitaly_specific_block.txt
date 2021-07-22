@@ -665,6 +665,7 @@
 ||canale85.it^*/nuovarredo.jpg
 ||canalecinquetv.it^*/sponsor/
 ||canaleeuropa.tv/uploads/banner/
+||canavesetoday.it/banners/
 ||caneogolf.it/img/banner/
 ||cani.com/dfp_creatives/
 ||cani.it/banners/
