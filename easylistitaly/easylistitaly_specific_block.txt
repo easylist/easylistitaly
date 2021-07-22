@@ -4608,6 +4608,7 @@
 ||wp.com/www.napolisera.it/*/kidney.jpg
 ||wp.com/www.napolisera.it/*/labriola.jpg
 ||wp.com/www.napolisera.it/*/logo.jpg
+||wp.com/www.napolisera.it/*/malasanita2.jpg
 ||wp.com/www.napolisera.it/*/studio-savoia.jpg
 ||wp.com/www.nerdpool.it/*/bg-vendiloshop-
 ||wp.com/www.oggicronaca.it/*/comune3.jpg
