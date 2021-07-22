@@ -598,7 +598,7 @@ castellinotizie.it###text-493
 castellinotizie.it###text-494
 castellinotizie.it###text-495
 castellinotizie.it###text-496
-birramoriamoci.it,brescia2.it,giornalesm.com###text-5
+birramoriamoci.it,brescia2.it,giornalesm.com,mousedagaming.com###text-5
 teleaesse.it###text-50
 teamworld.it###text-51
 grossetosport.com,infotelematico.com###text-53
