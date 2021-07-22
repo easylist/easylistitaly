@@ -3681,6 +3681,7 @@
 ||sportmagazinetrentino.it^*-sponsoring
 ||sportpaper.it^*/PayFan-
 ||sportpaper.it^*/PayFan.
+||sportwebsicilia.it^*/SWS_Box_
 ||spotmix.libero.it^
 ||sprintesport.it^*/PRENOTAMI24-
 ||sprintesport.it^*/xGARANZIA-GIOVANI-
