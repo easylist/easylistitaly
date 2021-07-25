@@ -923,12 +923,14 @@ lemiebollicine.com##.bannerContainer
 bikerslife.com##.bannerDx
 djmagitalia.com##.bannerExtra
 pressgiochi.it##.bannerFila
+sportdaily.it##.bannerGoogle
 questaseratv.it##.bannerHeader
 fiumicino-online.it##.bannerHeaderContainer
 puntosicuro.it##.bannerLeader
 cattolica.info##.bannerRandomSingolo
 filmtv.it##.bannerRight
 adcgroup.it,bikerslife.com,edilportale.com,globalgeografia.com,ilmessaggero.it,lacronacadiravenna.it##.bannerTop
+sportdaily.it##.bannerTopPage
 woitalia.it##.banner_200
 ilcittadinodimessina.it##.banner_250x230
 radiofm1.it##.banner_320x100
