@@ -547,7 +547,7 @@ agenziagiornalisticaopinione.it,lol-esports.it###text-11
 golbym.com###text-12
 brescia2.it,clientiesperti.it,studio5fm.com###text-13
 americaurlaub.de,cioccolato.org,esportsonline.it,finaria.it,myfitnessmagazine.it,p2p-italia.com,pantareinews.com###text-14
-finaria.it,hellogreen.it,internetto.it###text-15
+atleticanotizie.myblog.it,finaria.it,hellogreen.it,internetto.it###text-15
 finaria.it,internetto.it###text-16
 libroaudio.it###text-18
 gazzettadellavaldagri.it,giornalistitalia.it,noinotizie.it,p2p-italia.com###text-19
@@ -555,7 +555,7 @@ adviceandcommerce.it,alwaysonboard.it,domanidoveandiamo.it,guidaviaggi.it,jotv.i
 ilpost.it,lamiavitainvaligia.org,noinotizie.it###text-20
 mbmusic.it,playersmagazine.it###text-21
 rumors.it###text-22
-ilpost.it###text-23
+atleticanotizie.myblog.it,ilpost.it###text-23
 nerdplanet.it,popupmag.it###text-24
 lamiavitainvaligia.org,vacanzeingrecia.eu###text-25
 castellinotizie.it###text-250
