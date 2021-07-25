@@ -2462,6 +2462,7 @@
 ||mantovanotizie.com^*/amazon-
 ||mantovasport24.it^*/BANNER-
 ||mantovauno.it^*/banner-
+||marathonworld.it/images/adsense/
 ||maremmanews.it/images/banners/
 ||maremmanews.it/images/euautopezzi_
 ||mareonline.it^*/banners/
