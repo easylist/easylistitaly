@@ -498,8 +498,9 @@ meteofinanza.com###snp-pop-20588-overlay
 vallesabbianews.it###sostegno-box
 casateonline.it,merateonline.it###sottotestata
 agendapolitica.it###sow-editor-3
-dazebaonews.it###sp-bottom
+dazebaonews.it,lnd.it###sp-bottom
 lnd.it###sp-sponsor
+lnd.it###sp-sponsorbeach
 aziendabanca.it###sp-top-banner
 radioshowitalia.it,reggina1914.it###sponsor
 buonapesca.it###sponsor-bottom
