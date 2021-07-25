@@ -1986,6 +1986,7 @@ adirai.it##.top-sidebar600
 bresciacalcio.it,cagliaricalcio.com,olbiacalcio.com##.top-sponsor-hp
 bresciacalciofemminile.it##.top-sponsor-new
 positanonews.it##.top-testata
+radio.it##.topASp
 fmtv.live##.top_banner
 bluerating.com##.top_funders
 dtti.it##.topad
