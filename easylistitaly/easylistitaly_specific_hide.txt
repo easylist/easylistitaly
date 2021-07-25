@@ -1658,8 +1658,8 @@ proiezionidiborsa.it##.promoboxplus
 teleoccidente.it##.promotion-section
 tgfuneral24.it##.psct-banners
 playstationzone.it##.psz_template_prices_comp
-agoravox.it,boatindustry.it,boatsnews.it##.pub
-radiogold.it##.pub-content
+agoravox.it,boatindustry.it,boatsnews.it,europa-agri.it##.pub
+europa-agri.it,radiogold.it##.pub-content
 kikapress.com##.pub_container
 reteradioazzurra.it##.pubbli_home_extra_right
 reteradioazzurra.it##.pubbli_home_extra_top
