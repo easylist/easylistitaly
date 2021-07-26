@@ -1286,9 +1286,8 @@ menteinformatica.it##.elementor-element-df7936e
 corrieredicomo.it##.elementor-element-f76437b
 iamnaples.it##.elementor-element-faa8a16
 ekuonews.it##.elementor-element-ffc0651
-tvrxenon.it##.elementor-image-carousel-wrapper
+radiolaquila1.it,tvrxenon.it##.elementor-image-carousel-wrapper
 twebnews.it##.elementor-main-swiper
-radiolaquila1.it##.elementor-swiper
 affaritaliani.it##.eni
 huffingtonpost.it##.entry__right-rail-width-placeholder
 tuttitalia.it##.eo
@@ -2591,7 +2590,7 @@ newtuscia.it,spaziotennis.com##img[width="300"][height="150"]
 radioinblu.it##img[width="300"][height="171"]
 corcianonline.it,trasimenonline.it##img[width="300"][height="175"]
 todinforma.it##img[width="300"][height="180"]
-radioinblu.it,tv2000.it##img[width="300"][height="200"]
+radioinblu.it,radiolaquila1.it,tv2000.it##img[width="300"][height="200"]
 0-100.it,altropensiero.net,beverfood.com,bikeitalia.it,calabria7.it,carteprepagate.org,casertaweb.com,ecoseven.net,eurofestivalnews.com,finanzareport.it,fiorentinanews.com,friulioggi.it,ilcorrieredellacitta.com,ilgiorno.it,ilrestodelcarlino.it,informatissimo.net,irpinia24.it,lagoleada.it,lanazione.it,larampa.it,lattemiele.com,metallirari.com,nintendon.it,oasport.it,quotidiano.net,radiogammastereo.it,radioinblu.it,radiortm.it,sienanews.it,sinewsmagazine.it,spaziotennis.com,sportface.it,techprincess.it,terrazzofacile.it,tv2000.it,udineoggi.news,viaggiperfamiglie.it,webhostingmagazine.it##img[width="300"][height="250"]
 umbriaoggi.news##img[width="300"][height="252"]
 umbriaoggi.news##img[width="300"][height="289"]
