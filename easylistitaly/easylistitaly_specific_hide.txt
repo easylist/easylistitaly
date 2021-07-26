@@ -1172,6 +1172,7 @@ ok-salute.it##.code-block-43
 grossetosport.com,iltorinese.it,informarea.it,pomiglianolive.it##.code-block-5
 avvisatore.com##.code-block-6
 casasuper.it,stilearte.it##.code-block-7
+chiamamicitta.it##.code-block-76
 grossetosport.com,latinapress.it,pomiglianolive.it##.code-block-8
 keblog.it,pomiglianolive.it##.code-block-9
 ilcorrieredelgiorno.it##.col-banner
