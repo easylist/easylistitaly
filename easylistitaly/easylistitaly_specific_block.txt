@@ -936,6 +936,7 @@
 ||corriere.ca^*/Banners/
 ||corriere.it^*/adv/
 ||corriereal.info^*/728x60.gif
+||corriereannunci.it/images/banners/
 ||corrieredellacalabria.it^*/banner-
 ||corrieredellacalabria.it^*/banner_
 ||corrieredellacalabria.it^*/FinCalabra-20.
