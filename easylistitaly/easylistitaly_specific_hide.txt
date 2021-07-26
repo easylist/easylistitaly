@@ -641,6 +641,7 @@ hc-neumarkt.com###tr-contentbottom
 mymovies.it###trovastreaming + div + table
 milleunadonna.it,tiscali.it###tsSkinAuto
 tiscali.it###tsSkinAutoPageBgG
+cia.it###unipol
 qdpnews.it,tipiace.it###vetrina
 sposa.it###vetrina-content
 altarimini.it###videoRedazionale
