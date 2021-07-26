@@ -443,6 +443,7 @@ centrometeoitaliano.it###outbrain-wrapper
 radiogold.it###overlay-bn-wrapper
 tgtourism.tv###panel-2-4-3-1
 tgtourism.tv###panel-2-4-3-3
+greenreport.it###partner-ambiente
 sposa.it###partner-content
 sassuolocalcio.it,ship2shore.it###partners
 lafeltrinelli.it###partners-slider
