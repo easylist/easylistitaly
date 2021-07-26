@@ -3100,6 +3100,8 @@
 ||primopianomolise.it^*/megamark%20banner
 ||primopianomolise.it^*/peccia
 ||primopianomolise.it^*/tunnel%20ok.jpg
+||primopianomolise.it^*/wellness-generico.jpg
+||primopianomolise.it^*/zampetti%20banner%20luglio.gif
 ||production-livingdocs-bluewin-ch.imgix.net^*/6f3cdbc0-2a58-4a7e-933f-9077769c899b.png$domain=bluewin.ch
 ||professionecamionista.it/amb/
 ||professionemotori.it/wp-content/uploads/williamHillbox.png
