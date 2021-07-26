@@ -1405,6 +1405,8 @@ mammafelice.it##.headerright
 helpconsumatori.it##.helpc-widget
 pagamentidigitali.it##.helper
 internazionale.it##.hentry--banner
+vocedistrada.it##.hh-cubo-wrap
+vocedistrada.it##.hh-sponsor-wrap
 transfermarkt.it##.hide-for-small[style="height: 273px; text-align: center; overflow: hidden;"]
 mathadvantage.org##.hijau
 valdarnopost.it##.home-centra-spot-300

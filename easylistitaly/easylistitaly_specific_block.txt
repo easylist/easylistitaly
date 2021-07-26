@@ -4378,6 +4378,9 @@
 ||voce.com.ve^*/libro-marisa.gif
 ||voce.com.ve^*_banner.
 ||vocedinapoli.it^*-Banner-
+||vocedistrada.it^*/banner-
+||vocedistrada.it^*/banner_
+||vocedistrada.it^*/gif-
 ||vocenuova.tv/assets/uploads/banners/
 ||vocetempo.it^*/banner-
 ||volleyball.it^*-Banner-
