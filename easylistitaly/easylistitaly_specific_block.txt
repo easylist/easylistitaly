@@ -3517,6 +3517,7 @@
 ||saporicondivisi.com^*-banner.
 ||saporicondivisi.com^*/Kynetic-
 ||sardanews.it/images/banners/
+||sardegnaierioggidomani.com^*_banner.
 ||sardegnalive.net^*/134_tuttiautopezzi350x500_
 ||sardegnalive.net^*/_auto-doc.
 ||sardegnalive.net^*/banner965x190.png

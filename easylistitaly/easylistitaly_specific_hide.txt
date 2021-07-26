@@ -579,7 +579,7 @@ giornalistitalia.it###text-36
 castellinotizie.it###text-367
 giornalistitalia.it,ilgiornaledeiveronesi.it###text-38
 castellinotizie.it###text-380
-antennaradioesse.it,birramoriamoci.it,casilinanews.it,faidatecreativo.com,finaria.it,fionline.it,kisskissnapoli.it,pianetablunews.it,pordenonecalcio.com,tecnofacile.com,vigamusmagazine.com###text-4
+antennaradioesse.it,birramoriamoci.it,casilinanews.it,faidatecreativo.com,finaria.it,fionline.it,kisskissnapoli.it,pianetablunews.it,pordenonecalcio.com,sardegnaierioggidomani.com,tecnofacile.com,vigamusmagazine.com###text-4
 giornalistitalia.it###text-40
 castellinotizie.it###text-400
 giornalistitalia.it###text-41
@@ -604,7 +604,7 @@ castellinotizie.it###text-493
 castellinotizie.it###text-494
 castellinotizie.it###text-495
 castellinotizie.it###text-496
-birramoriamoci.it,brescia2.it,giornalesm.com,mousedagaming.com###text-5
+birramoriamoci.it,brescia2.it,giornalesm.com,mousedagaming.com,sardegnaierioggidomani.com###text-5
 teleaesse.it###text-50
 teamworld.it###text-51
 grossetosport.com,infotelematico.com###text-53
