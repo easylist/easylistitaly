@@ -958,6 +958,7 @@
 ||corriereobjects.it^*/banner_dizionario_iphone.gif
 ||corriereobjects.it^*/sponsor/
 ||corrierepievese.it^*_275x115.
+||corriereproposte.it/images/banners/
 ||corriereromagna.it^*-300x600-
 ||corriereromagna.it^*-webbanner300x600px-
 ||corriereromagna.it^*/300x600pixel-

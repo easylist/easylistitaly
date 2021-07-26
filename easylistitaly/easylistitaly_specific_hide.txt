@@ -992,7 +992,7 @@ filmforlife.org##.bannerh
 saturnonotizie.it##.bannerheader
 toscanafree.it##.bannerinoa
 toscanafree.it##.bannerinob
-bagherianews.com,betitaliaweb.it,bitsandchips.it,corrierenews.it,dedalomultimedia.it,radioitaliacina.com##.banneritem
+bagherianews.com,betitaliaweb.it,bitsandchips.it,corrierenews.it,corriereproposte.it,dedalomultimedia.it,radioitaliacina.com##.banneritem
 prezzifarmaco.it##.bannernativo
 toscanafree.it##.bannernews
 assisisport.it,metalitalia.com,qualenergia.it,vivafm.it##.banners
@@ -1296,6 +1296,7 @@ garganotv.com##.erzodfm-container
 easyviaggio.com##.esv-edito-ctn
 meteofinanza.com##.etoro-social-widget
 generationsport.it##.euotmcyxkq
+corriereproposte.it##.eventi_associati
 exibart.com##.exibart-footer-partner
 exibart.com##.exibart-footer-partner-title
 pornototale.com##.exo_container_wrapper
