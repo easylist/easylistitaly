@@ -2872,7 +2872,12 @@
 ||opinione.it/media/*/winover2-
 ||optimalb.de^*/rechte-seite-$domain=deutscheskonto.org
 ||oracolidivini.it/mondocartomante.jpg
+||ornews.it^*-250x250-
 ||ornews.it^*-banner-
+||ornews.it^*/banner-
+||ornews.it^*/banner.
+||ornews.it^*/BCC-
+||ornews.it^*_BANNER_
 ||oroscopogiorno.it/mondo300.jpg
 ||ortodacoltivare.it^*/990x200_
 ||ortodacoltivare.it^*/ortofacile.jpg
