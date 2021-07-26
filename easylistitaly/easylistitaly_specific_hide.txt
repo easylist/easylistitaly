@@ -1072,6 +1072,7 @@ balarm.it##.box-evidenza
 italiaoggi.it##.box-slot
 meteogiornale.it##.box-sn
 trend-online.com##.box-special
+montagna.tv##.box-tva
 tvserial.it##.box-verticale-home
 stilearte.it##.box.shadow
 portaledelverde.it##.boxContainerBanner
