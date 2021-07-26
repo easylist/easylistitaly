@@ -9,6 +9,7 @@
 @@||ansa.it^*/ad-gallery/$image
 @@||antonioranesi.it/cache/Lavori/Pubblicita/$~third-party
 @@||aperture-supermercati.it/immagini/catena-20/conad.jpg
+@@||api.everli.com/sm/api/*&adgroupid=$~third-party,xmlhttprequest
 @@||assets.evolutionadv.it/quantcast-fix.css$domain=money.it
 @@||assets.evolutionadv.it/violations/*.violations.js$domain=money.it
 @@||assets.evolutionadv.it^*/gpt.min.js$domain=money.it
