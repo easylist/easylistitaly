@@ -992,7 +992,7 @@ filmforlife.org##.bannerh
 saturnonotizie.it##.bannerheader
 toscanafree.it##.bannerinoa
 toscanafree.it##.bannerinob
-bagherianews.com,betitaliaweb.it,bitsandchips.it,dedalomultimedia.it,radioitaliacina.com##.banneritem
+bagherianews.com,betitaliaweb.it,bitsandchips.it,corrierenews.it,dedalomultimedia.it,radioitaliacina.com##.banneritem
 prezzifarmaco.it##.bannernativo
 toscanafree.it##.bannernews
 assisisport.it,metalitalia.com,qualenergia.it,vivafm.it##.banners
