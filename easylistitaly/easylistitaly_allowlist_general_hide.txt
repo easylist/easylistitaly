@@ -4,6 +4,7 @@ repubblica.it#@##advtop
 subito.it#@##body_ad
 kijiji.it#@##post-ad
 corrierediragusa.it#@##pubblicita
+direttasicilia.it#@#.ad-header
 bakeca-incontri.net#@#.ad_bottom
 bakeca-incontri.net#@#.ad_center
 subito.it#@#.ad_links
