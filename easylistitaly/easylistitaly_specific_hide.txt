@@ -169,6 +169,7 @@ masterviaggi.it###box_link_sponsor
 ricettedelmondo.it###box_pub2
 virgilio.it###box_solo_promozioni
 masterviaggi.it###box_sponsor
+pensieriparole.it###boxbelow
 subito.it###bs_textlinks
 gamesvillage.it###buy_amazon
 ilpentasport.it###bx-next-sponsor
