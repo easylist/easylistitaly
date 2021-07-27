@@ -707,6 +707,7 @@ camping.it##.XBPos
 ricetta.it##.\37 28-up
 radioradio.it,uominietrasporti.it##._ning_inner
 100ideeperristrutturare.it,calabria7.it,casa-naturale.com,quattrozampe.online,radioluce.it,villeecasali.com##._ning_outer
+comunicaffe.it##._ningzone_grid
 ilsole24ore.com##.a-leaderboard
 corriereelorino.it,erbanotizie.com,fishingboatmagazine.it,grandangoloagrigento.it,ilgolfonline.it,lombardinelmondo.org,monrealepress.it,ravennawebtv.it,restoalsud.it,rietinvetrina.it,ultimenotizieflash.com##.a-single
 badcomics.it,badgames.it,badtaste.it,badtv.it##.aalb-880-product-carousel-unit
@@ -1865,7 +1866,7 @@ prezzisalute.com##.stickyleft
 androidworld.it,mobileworld.it##.store-affiliation
 andreagaleazzi.com##.store-box
 fruitbookmagazine.it,nautica.it##.strack_bnr
-100ideeperristrutturare.it,bizjournal.it,calabria7.it,casa-naturale.com,fruitbookmagazine.it,horecanews.it,nautica.it,primopianomolise.it,quattrozampe.online,radiomovida.net,radioradio.it,uominietrasporti.it,vendingnews.it,villeecasali.com##.strack_cli
+100ideeperristrutturare.it,bizjournal.it,calabria7.it,casa-naturale.com,comunicaffe.it,fruitbookmagazine.it,horecanews.it,nautica.it,primopianomolise.it,quattrozampe.online,radiomovida.net,radioradio.it,uominietrasporti.it,vendingnews.it,villeecasali.com##.strack_cli
 cblive.it,myreviews.it##.stream-item
 metropolitanmagazine.it,unaparolaperte.org##.stream-item-above-footer
 metropolitanmagazine.it##.stream-item-above-post

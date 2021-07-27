@@ -904,6 +904,12 @@
 ||comune-info.net^*-Banner-
 ||comune-info.net^*/330x330-px-Banner.gif
 ||comune-info.net^*/zapatisti.gif
+||comunicaffe.it/wp-content/uploads/angwp/items/
+||comunicaffe.it^*-ADV-
+||comunicaffe.it^*-skin.
+||comunicaffe.it^*/demus150518.gif
+||comunicaffe.it^*/SDR-TRADIND-
+||comunicaffe.it^*_260x240.
 ||comunicalo.it^*-banner.
 ||comunicalo.it^*/acuoreaperto.gif
 ||comunicalo.it^*/banner-
