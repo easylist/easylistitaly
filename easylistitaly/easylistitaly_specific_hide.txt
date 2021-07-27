@@ -1572,6 +1572,7 @@ valdichianaoggi.it##.mom-e3lanat-wrap
 mondobalneare.com##.mondobalneare-banner
 boingtv.it,eurogamer.it,foodnetwork.it,gioco.it,morningstar.it##.mpu
 stellafm.it##.ms-slide-link
+amorethailandia.com##.mtsnb
 nordmilano24.it##.musthead
 affaritaliani.it##.mutui
 cb001.xyz##.mvic-btn
