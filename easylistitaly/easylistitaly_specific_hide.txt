@@ -565,7 +565,7 @@ best5.it###text-26
 lamiavitainvaligia.org,nerdevil.it###text-27
 giornalistitalia.it,lamiavitainvaligia.org###text-28
 lamiavitainvaligia.org,ricettealvolo.it###text-29
-clientiesperti.it,gstv24.it,libripiuvenduti.it,tecnofacile.com,top10scommesse.it###text-3
+amorethailandia.com,clientiesperti.it,gstv24.it,libripiuvenduti.it,tecnofacile.com,top10scommesse.it###text-3
 giornalistitalia.it,lamiavitainvaligia.org###text-30
 lamiavitainvaligia.org###text-31
 castellinotizie.it###text-315
@@ -615,7 +615,7 @@ grossetosport.com###text-60
 grossetosport.com,radioimmagine.it###text-61
 grossetosport.com###text-62
 incucinaconelena.it,lombardoandrea.com,pitchinvasion.net###text-7
-bioterra.it,brindisioggi.it,controcopertina.com,esportsitalia.com,lombardoandrea.com,plusrew.com###text-8
+amorethailandia.com,bioterra.it,brindisioggi.it,controcopertina.com,esportsitalia.com,lombardoandrea.com,plusrew.com###text-8
 agenziagiornalisticaopinione.it,controcopertina.com,nightlife-cityguide.com,p2p-italia.com,solorecensioni.com,telemia.it###text-9
 specchiosesto.it###text-html-widget-2
 agemobile.com###text-html-widget-4
@@ -1685,6 +1685,7 @@ lostrillone.tv##.pull-right
 money.it##.pulsantiplus
 telestense.it##.pushbar
 pescaralive.it##.pwrq-container
+amorethailandia.com##.qAduM1TI
 qdpnews.it##.qdpne-target
 romasette.it##.qgbednp
 quotidianosanita.it##.qs_n_interno_basso
@@ -2260,9 +2261,9 @@ gamelegends.it##a[href^="https://www.amazon.it/"] > img
 iobenessere.it##a[href^="https://www.amazon.it/shop/"]
 tuttoamerica.it##a[href^="https://www.anrdoezrs.net/click-"]
 beautytester.it,digital-news.it,gufo.it,msn.com,neomag.it,partiteoggi.net,salutarmente.it,terrazzofacile.it##a[href^="https://www.awin1.com/"]
-ideeviaggio.it,maremma.name,monzanet.it,turistadimestiere.com,tuttobaviera.it,vacanzeinamerica.eu,viaggio-in-germania.de##a[href^="https://www.booking.com/"]
+amorethailandia.com,ideeviaggio.it,maremma.name,monzanet.it,turistadimestiere.com,tuttobaviera.it,vacanzeinamerica.eu,viaggio-in-germania.de##a[href^="https://www.booking.com/"]
 fumettologica.it,stilearte.it##a[href^="https://www.catawiki.it"][href*="?utm_"]
-vacanzeinamerica.eu,voyagetips.com##a[href^="https://www.getyourguide.it/"][href*="&partner_id="]
+amorethailandia.com,vacanzeinamerica.eu,voyagetips.com##a[href^="https://www.getyourguide.it/"][href*="&partner_id="]
 lavocedelpopolo.it##a[href^="https://www.holyart.it/"]
 gamelegends.it,hynerd.it,spaziogames.it,tuttotek.it,xtremehardware.com##a[href^="https://www.instant-gaming.com/?igr="]
 gamelegends.it##a[href^="https://www.instant-gaming.com?igr="]
