@@ -535,6 +535,7 @@ amoreperleserietv.com###supplementary
 diretta.it###tab-bonus-offers
 diretta.it###tab-odds
 geologi.it###table113
+invaligia.com###table3
 grossetoonline.com###takeOver
 villaggi.it###take_over
 gamesvillage.it###takeover_gv

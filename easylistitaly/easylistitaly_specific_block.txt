@@ -1970,6 +1970,8 @@
 ||inter.it^*/partners/
 ||internapoli.it^*-banner-
 ||internapoli.it^*/banner-
+||invaligia.com/images/ani1_MV.gif
+||invaligia.com/images/YousosBanner.png
 ||investomagazine.com^*/comba.jpg
 ||investomagazine.com^*/lp.jpg
 ||investomagazine.com^*/sito2.jpg
