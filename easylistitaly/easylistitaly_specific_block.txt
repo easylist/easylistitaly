@@ -1677,6 +1677,7 @@
 ||ilfattodicalabria.it^*/PPE.png
 ||ilfattonisseno.it^*/350x350_
 ||ilfattonisseno.it^*/5x1000-grafica-
+||ilfattonisseno.it^*/6x3_MR18.jpg
 ||ilfattonisseno.it^*/gif-china.gif
 ||ilfattonisseno.it^*/q5-meridiano.gif
 ||ilfattoonline.com^*/cataldi-fresh-market1.jpg
