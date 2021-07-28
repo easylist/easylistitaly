@@ -1796,6 +1796,8 @@
 ||ilmamilio.it^*/parcoUlivi-pubb3-ilmamilio.jpg
 ||ilmamilio.it^*/sportage_pronta_consegna_mamilio_aprile.jpg
 ||ilmartino.it^*/xbanner-
+||ilmeridianonews.it^*/fontamanchette.png
+||ilmeridianonews.it^*/RESTA2.jpg
 ||ilmessaggero.it/img/banner_
 ||ilmetapontino.it^*/banner-
 ||ilmiocaneleggenda.it^*/tasto-amazon.png
