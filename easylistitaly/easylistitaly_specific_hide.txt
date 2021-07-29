@@ -1172,13 +1172,16 @@ avvisatore.com##.code-block-14
 avvisatore.com##.code-block-15
 casasuper.it##.code-block-16
 keblog.it,mangiabevigodi.it##.code-block-2
-fisco7.it##.code-block-29
+fisco7.it,ok-salute.it##.code-block-29
 avvisatore.com,cinquecolonne.it,mangiabevigodi.it##.code-block-3
+ok-salute.it##.code-block-33
+ok-salute.it##.code-block-34
 ok-salute.it##.code-block-42
 ok-salute.it##.code-block-43
 grossetosport.com,iltorinese.it,informarea.it,pomiglianolive.it##.code-block-5
 avvisatore.com##.code-block-6
 casasuper.it,stilearte.it##.code-block-7
+ok-salute.it##.code-block-70
 chiamamicitta.it##.code-block-76
 grossetosport.com,latinapress.it,pomiglianolive.it##.code-block-8
 keblog.it,pomiglianolive.it##.code-block-9

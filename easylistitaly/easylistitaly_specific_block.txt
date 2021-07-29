@@ -2855,7 +2855,9 @@
 ||oggitreviso.it^*/390x90.jpg
 ||oipamagazine.it^*/euroservice.gif
 ||ok-salute.it^*/abiogen.jpg
+||ok-salute.it^*/Banner-
 ||ok-salute.it^*/kos-stick.jpg
+||ok-salute.it^*/OkSalute_970x150.png
 ||ok-salute.it^*/sticky_OK-SALUTE_Tavola-disegno-1.jpg
 ||okpronostico.it^*/comparazione-bonus.jpg
 ||oksiena.it/banner/
