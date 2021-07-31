@@ -3780,10 +3780,12 @@
 ||staynerd.com^*/five-
 ||staynerd.com^*/five.jpg
 ||staynerd.com^*/granduomo-
+||staynerd.com^*/granduomo.jpg
 ||staynerd.com^*/locandina-senza-data-
 ||staynerd.com^*/logo-ydn-
 ||staynerd.com^*/nostalgia-
 ||staynerd.com^*/nostalgia.jpg
+||staynerd.com^*/uncle-catania.jpg
 ||stellenellosport.com/img/gold_sponsor/
 ||stellenellosport.com/img/media_partner/
 ||stellenellosport.com/img/partner/
