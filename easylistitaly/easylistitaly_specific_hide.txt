@@ -255,6 +255,10 @@ tuttomercatoweb.com###div-masthead-top_lazy
 nextpit.it###div-sidebar_right_extra
 mymovies.it###div_topleft
 ecodicaserta.it###down
+clickcase.it###dvBoxDxBanner250x250
+clickcase.it###dvBoxDxSponsor1_250x100
+clickcase.it###dvBoxDxSponsor3_250x100
+clickcase.it###dvBoxSxBanner160x600
 sudnews.it###dx-banner
 repubblica.it###editorial-Middle1
 repubblica.it###editorial-TopLeft
