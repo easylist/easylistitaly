@@ -1956,6 +1956,9 @@ radiocl1.it##.tdi_14
 tipresentoilcane.com##.tdi_153_158
 calcioj.com##.tdi_15_2e7
 campanianotizie.com##.tdi_16_d61
+runlovers.it##.tdi_240
+runlovers.it##.tdi_301
+runlovers.it##.tdi_357
 omniagate.com##.tdi_36_816
 omniagate.com##.tdi_45_604
 borderline24.com##.tdi_47_22b
