@@ -373,6 +373,7 @@ acspezianews.it,campaniasoccer.com,dailybest.it,dolciveloci.it,donnaglamour.it,e
 familygo.eu###masthead-desktop
 matematicamente.it###masthead-desktop-wrapper
 ondarock.it###masthead_or
+gazzettinonline.it###masthead_wrapper
 trapaniedintorni.it###media_gallery-3
 pisainvideo.it,ufficistampanazionali.it###media_image-10
 ufficistampanazionali.it###media_image-11
