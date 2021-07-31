@@ -177,6 +177,9 @@
 ##.advHm-cont-Ape
 ##.advPostLibri
 ##.advTestuale
+##.adv_120x600_categoria
+##.adv_160x600_categoria
+##.adv_468x60_categoria
 ##.adv_articolo
 ##.adv_banner_ps_13
 ##.adv_banner_ps_2
