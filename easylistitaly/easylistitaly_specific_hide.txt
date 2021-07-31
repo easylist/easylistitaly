@@ -873,6 +873,7 @@ parmareport.it##.banner-big
 ligurianautica.com##.banner-box
 universodelgioco.it##.banner-btf-side-rectangle
 mondobarcamarket.it##.banner-carousel
+nuovovolantino.it##.banner-cat
 mrw.it##.banner-center
 toscanaoggi.it##.banner-code
 1001giochi.it,amicidicasa.it,canavesetoday.it,cuneocronaca.it,divinafm.it,giochixl.it,lacrocequotidiano.it,livesicilia.it,mtv.it,picchionews.it,professionecamionista.it,sposa.it##.banner-container
