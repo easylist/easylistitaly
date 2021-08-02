@@ -1735,6 +1735,7 @@ estrazionedellotto.it##.right
 lacnews24.it,pc-gaming.it##.right-side
 ilroma.net##.rotating-banner
 ecodallecitta.it##.rotobanner
+formula1.it##.row > a[href^="https://casinohex.it/"]
 rimini.com##.row-bann-home-mobile
 magodelpronostico.com##.row-info-bonus
 wikihow.it##.rr_container
