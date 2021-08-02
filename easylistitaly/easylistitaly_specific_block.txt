@@ -855,6 +855,10 @@
 ||circorfei.it/templates/default/images/btn_
 ||circorfei.it/templates/default/images/cover4k.png
 ||circusf1.com^*/Amazon_
+||circusf1.com^*/auto-doc.it-
+||circusf1.com^*/autoparti_
+||circusf1.com^*/Brembo_300x95-
+||circusf1.com^*/tuttiautopezzi_
 ||citroen-club.it/portale/img/banner_
 ||citroen-club.it/portale/img/logo_lopez_racing.jpg
 ||cittadimassacarrara.com/banner/
