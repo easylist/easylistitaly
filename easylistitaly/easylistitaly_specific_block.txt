@@ -2235,6 +2235,7 @@
 ||lamoneta.it^*/bannertop.
 ||lamoneta.it^*/ilforumbanner.jpg
 ||lamoneta.it^*/Roma4ubis.jpg
+||lanotiziagiornale.it/wp-content/plugins/ele-custom-skin/
 ||lanotiziaoggi.it^*/Banner-
 ||lanotiziaquotidiana.it^*/Senza-nome.jpg
 ||lanotiziaquotidiana.it^*banner
