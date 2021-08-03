@@ -651,6 +651,7 @@ mymovies.it###trovastreaming + div + table
 milleunadonna.it,tiscali.it###tsSkinAuto
 tiscali.it###tsSkinAutoPageBgG
 cia.it###unipol
+tuttotrasporti.it###van4fun-home
 qdpnews.it,tipiace.it###vetrina
 sposa.it###vetrina-content
 altarimini.it###videoRedazionale
