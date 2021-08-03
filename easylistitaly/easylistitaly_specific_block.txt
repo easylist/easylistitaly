@@ -3642,10 +3642,13 @@
 ||siciliaoggi.com^*/pesch1.
 ||siciliarurale.eu/wp-content/banners/
 ||sienafree.it/images/banners/
+||sienanews.it^*-Banner-
 ||sienanews.it^*/300x250px.
 ||sienanews.it^*/6384073f-
+||sienanews.it^*/950x150-
 ||sienanews.it^*/960x300-
 ||sienanews.it^*/960x300_
+||sienanews.it^*/970x250_
 ||sienanews.it^*/banner-
 ||sienanews.it^*/banner234.
 ||sienanews.it^*/CAPTUR-
