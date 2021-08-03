@@ -461,6 +461,7 @@
 ||autoblog.it^*/agos-adv-
 ||autobusweb.com^*-Banner-
 ||autobusweb.com^*/banner300x250_
+||autobusweb.com^*/banner_
 ||autoline24.it/img/atlads1/
 ||automania.it/varie/sponsor/
 ||automotorinews.it^*/banner-
