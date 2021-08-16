@@ -1123,8 +1123,8 @@ ilcorsaronero-it.cz##.btn-warning
 teatroborgatti.it##.btn1
 parcofaunistico.it,piratestreaming.network##.btnaaa
 cinemalibero.cloud,cinemalibero.life,cinemalibero.store##.btnaaa4k
-cinemalibero.monster##.btnaaaa4k
-cinemalibero.monster##.btnaaaahd
+cinemalibero.bar,cinemalibero.monster##.btnaaaa4k
+cinemalibero.bar,cinemalibero.monster##.btnaaaahd
 cinemalibero.cloud,cinemalibero.life,cinemalibero.store##.btnaaahd
 5chat.it##.btnafterlistchat
 abruzzolive.it##.btxe-container
