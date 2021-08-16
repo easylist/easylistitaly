@@ -1931,7 +1931,7 @@ cattolica.info##.tc_adm
 avtrend.it##.tcb-button-link
 gioconews.it##.tcvn-banner-item
 bologna2000.com,ilfattovesuviano.it,ilgranchio.it,messinaora.it,toscananotizie.com,vaielettrico.it##.td-a-rec
-2anews.it,lavocedivenezia.it,valbrembanaweb.com##.td-a-rec-id-custom-spot
+2anews.it,apsicilia.it,lavocedivenezia.it,valbrembanaweb.com##.td-a-rec-id-custom-spot
 agimeg.it##.td-a-rec-id-footer_top
 stylo24.it##.td-a-rec-id-header
 ivl24.it##.td-all-devices
