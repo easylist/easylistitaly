@@ -147,6 +147,7 @@ cascinanotizie.it###block-block-57
 cascinanotizie.it###block-block-63
 mangialibri.com###block-block-7
 cascinanotizie.it###block-block-70
+radio-in-diretta.com###block-block-9
 mediaworld.it###block-footerbanners
 mangialibri.com###block-sottopiatto
 nuovosud.it###block-views-banner-centrale-menu-block
