@@ -2457,6 +2457,7 @@
 ||luxurypretaporter.it^*/banner-
 ||luxwatch.it/watches_250x250_
 ||lyricsmusica.it/img/offerte-sconti.png
+||macitynet.it^*/amazon-banner.
 ||macitynet.it^*/macity-big-
 ||macitynet.it^*/macitybig
 ||macitynet.it^*/macitynettrendeviceborsa.jpg
