@@ -1018,7 +1018,7 @@ travel365.it##.bannertopright
 vicenzanews.it##.bannexDX
 vicenzanews.it##.bannexSX
 notizialocale.it##.bc_random_banner
-corriere.it##.bck-media-list-sponsor
+corriere.it,gazzetta.it##.bck-media-list-sponsor
 nelfaro.it##.bdotcom_bc_mbe_banner
 magentanostra.it##.bdt-logo-carousel-figure
 altadefinizione01.games##.before_player_btn
