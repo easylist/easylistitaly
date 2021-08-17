@@ -510,6 +510,7 @@ vallesabbianews.it###sostegno-box
 casateonline.it,merateonline.it###sottotestata
 agendapolitica.it###sow-editor-3
 dazebaonews.it,lnd.it###sp-bottom
+portadimare.it###sp-pub-sup-1
 lnd.it###sp-sponsor
 lnd.it###sp-sponsorbeach
 aziendabanca.it###sp-top-banner
@@ -1255,7 +1256,7 @@ quotidiano.net##.discount-block
 gamesource.it##.div-85019
 cuneodice.it,genovadice.it,italiadice.it,torinodice.it##.div_banner
 laleggepertutti.it##.div_topbanner
-saliinvetta.com##.djslider
+portadimare.it,saliinvetta.com##.djslider
 ridble.com##.dn
 casacinema.work,casacinema01.club,filmsenzalimiti01.online,ilgeniodellostreaming.icu,italiafilm.casa,tantifilm-ita.com,tantifilm-ita.it,tantifilm.cool,tantifilm.in,tantifilm.monster,tantifilm.surf,tantifilm.work##.download-links
 bolzano-bozen.it##.dt
@@ -2045,6 +2046,7 @@ cartedicredito24.it##.uk-section-default.uk-section.uk-section-xsmall
 gardapost.it##.uleayjvbqo-container
 strumentiemusica.com##.ulnqd-container
 alfemminile.com##.unfyas
+portadimare.it##.unite-carousel-wrapper
 connessionivpn.it##.universal-cta__inner
 turistipercaso.it##.utilink
 sanihelp.it##.v2-header-banner
