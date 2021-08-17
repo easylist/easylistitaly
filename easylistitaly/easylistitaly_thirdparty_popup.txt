@@ -1,5 +1,6 @@
 ||adserver.incontrierotici.it^$popup
 ||affiliazioniads.snai.it^$popup,third-party
+||amzn.to^$popup,domain=tecnofun.eu
 ||bet365-scommesse.com/?affiliate=$popup,third-party
 ||betclic.it/partner.aspx?$popup
 ||betway.it/bwp/$popup,third-party
