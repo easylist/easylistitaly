@@ -1486,6 +1486,10 @@
 ||giornalistitalia.it^*/Cons_Reg_Calabria.jpg
 ||giornalistitalia.it^*/Corecom.jpg
 ||girovagandointrentino.it^*-bannerIlDolomiti.
+||gizchina.it/wp-content/uploads/2021/06/proscenic-promo.jpeg
+||gizchina.it/wp-content/uploads/2021/08/dreame.jpg
+||gizchina.it/wp-content/uploads/2021/08/gshooper-1.jpeg
+||gizchina.it/wp-content/uploads/2021/08/gshopper-2.jpeg
 ||gizchina.it^*-gshopper.
 ||glianni80.com^*/anni80.jpg
 ||gnoccaforum.com^*/banners/
