@@ -2645,6 +2645,7 @@
 ||motori360.it^*/300x150.
 ||motori360.it^*/enjoy-eni.gif
 ||motori360.it^*_370x150
+||movieplayer.it/static/images/cinecitta-
 ||msmotor.tv^*/LOGO_Partner_
 ||museionline.info/images/banners/
 ||museionline.info/images/ticket/
