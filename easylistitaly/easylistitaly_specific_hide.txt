@@ -675,6 +675,7 @@ novetv.com###widget_sp_image-47
 novetv.com###widget_sp_image-66
 lanotiziatrapanese.it###widget_sp_image-9
 novetv.com###widget_sp_image-90
+cinafoniaci.com###wk-grid11f
 sscalciobari.it###wl-sponsor
 guidaviaggi.org###wn-insurance-quote-editor
 ultimenotizieoggi.it###wpb_widget-2

@@ -825,6 +825,8 @@
 ||cilentochannel.com^*/Elysium-
 ||cilentochannel.com^*/Villa-Franca.jpg
 ||cinafoniaci.com/images/banners/
+||cinafoniaci.com/images/gearbest.jpg
+||cinafoniaci.com/images/hi9-air-250.jpg
 ||cinainitalia.com^*/Corso-di-cinese-gratis.png
 ||cineblog-cb01.it/image/banner/
 ||cineblog.page/c.png
