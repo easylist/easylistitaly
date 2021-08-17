@@ -117,6 +117,7 @@
 ###pubblicita-sotto-immagine
 ###pubblicita_blog_post_testa
 ###quattrownet_468x60
+###rcsad_BottomLeft_1
 ###rcsad_Frame1
 ###rcsad_TopLeft
 ###ripBoxAdvCentroSX2
@@ -291,6 +292,7 @@
 ##.pubblitalocaleaddADV
 ##.pubblitalocaleaddpiccola
 ##.qtr-bacheca-adv
+##.rcsad_BottomLeft_x_content
 ##.related-adv
 ##.sal-adv-adsense
 ##.sb-box-pubbliredazionale
