@@ -588,6 +588,7 @@
 ||bresciasat.it^*_banner-
 ||brindisifc.it/images/sponsor/
 ||brindisisera.it/img/banner/
+||brindisisera.it/img/banner_
 ||brindisisettenews.it/img/banner/
 ||brindisitime.it^*/BANNER-
 ||brindisitime.it^*_300x250px-
