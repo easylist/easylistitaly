@@ -1937,7 +1937,7 @@ betitaliaweb.it##.tbody + .bonus-background
 cattolica.info##.tc_adm
 avtrend.it##.tcb-button-link
 gioconews.it##.tcvn-banner-item
-bologna2000.com,ilfattovesuviano.it,ilgranchio.it,messinaora.it,toscananotizie.com,vaielettrico.it##.td-a-rec
+bologna2000.com,ilfattovesuviano.it,ilgranchio.it,messinaora.it,paisemiu.com,toscananotizie.com,vaielettrico.it##.td-a-rec
 2anews.it,apsicilia.it,lavocedivenezia.it,valbrembanaweb.com##.td-a-rec-id-custom-spot
 agimeg.it##.td-a-rec-id-footer_top
 stylo24.it##.td-a-rec-id-header
@@ -2656,6 +2656,7 @@ ideawebtv.it##img[width="310"][height="120"]
 ideawebtv.it##img[width="310"][height="250"]
 ideawebtv.it##img[width="310"][height="252"]
 umbriaoggi.news##img[width="315"][height="150"]
+paisemiu.com##img[width="320"]
 calabria7.it##img[width="320"][height="250"]
 ilsalvagente.it,lemillebolleblog.it,vinoalvino.org##img[width="320"][height="320"]
 spaziotennis.com##img[width="332"][height="100"]
