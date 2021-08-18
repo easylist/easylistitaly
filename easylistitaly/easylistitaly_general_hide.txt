@@ -123,6 +123,7 @@
 ###ripBoxAdvCentroSX2
 ###skinadvdx
 ###skinadvsx
+###sp-adv-header
 ###syTagContainer
 ###tccAdPlayer
 ###top3-pubbli
