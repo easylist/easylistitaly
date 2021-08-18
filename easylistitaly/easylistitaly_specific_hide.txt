@@ -583,7 +583,7 @@ alground.com,leggopassword.it###text-33
 castellinotizie.it###text-335
 contrastotv.it,giornalistitalia.it,ricettevegolose.com,trivenetogoal.it,viterbopost.it###text-34
 castellinotizie.it###text-340
-viterbopost.it###text-35
+frequentflyeritalia.com,viterbopost.it###text-35
 giornalistitalia.it###text-36
 castellinotizie.it###text-367
 giornalistitalia.it,ilgiornaledeiveronesi.it###text-38
@@ -1330,6 +1330,7 @@ fortuneita.com##.fb-banner
 divinafm.it##.fdc-widget-sponsor
 brindisisettenews.it##.featured_banner
 autoscout24.it##.fed-list-rate-fragment-pair
+frequentflyeritalia.com##.ffi_az_box
 masterviaggi.it##.fieldset_sponsor
 castelvetranonews.it##.fixbottom
 luinonotizie.it##.fixed-sponsor
@@ -2639,7 +2640,7 @@ acquariocomefare.com,radioinblu.it##img[width="300"][height="171"]
 corcianonline.it,trasimenonline.it##img[width="300"][height="175"]
 todinforma.it##img[width="300"][height="180"]
 radioinblu.it,radiolaquila1.it,tv2000.it##img[width="300"][height="200"]
-0-100.it,altropensiero.net,amoresepariamoci.com,beverfood.com,bikeitalia.it,calabria7.it,carteprepagate.org,casertaweb.com,ecoseven.net,eurofestivalnews.com,finanzareport.it,fiorentinanews.com,friulioggi.it,ilcorrieredellacitta.com,ilgiorno.it,ilrestodelcarlino.it,informatissimo.net,irpinia24.it,lagoleada.it,lanazione.it,larampa.it,lattemiele.com,metallirari.com,nintendon.it,oasport.it,quotidiano.net,radiogammastereo.it,radioinblu.it,radiortm.it,sienanews.it,sinewsmagazine.it,spaziotennis.com,sportface.it,techprincess.it,terrazzofacile.it,tv2000.it,udineoggi.news,viaggiperfamiglie.it,webhostingmagazine.it##img[width="300"][height="250"]
+0-100.it,altropensiero.net,amoresepariamoci.com,beverfood.com,bikeitalia.it,calabria7.it,carteprepagate.org,casertaweb.com,ecoseven.net,eurofestivalnews.com,finanzareport.it,fiorentinanews.com,frequentflyeritalia.com,friulioggi.it,ilcorrieredellacitta.com,ilgiorno.it,ilrestodelcarlino.it,informatissimo.net,irpinia24.it,lagoleada.it,lanazione.it,larampa.it,lattemiele.com,metallirari.com,nintendon.it,oasport.it,quotidiano.net,radiogammastereo.it,radioinblu.it,radiortm.it,sienanews.it,sinewsmagazine.it,spaziotennis.com,sportface.it,techprincess.it,terrazzofacile.it,tv2000.it,udineoggi.news,viaggiperfamiglie.it,webhostingmagazine.it##img[width="300"][height="250"]
 umbriaoggi.news##img[width="300"][height="252"]
 umbriaoggi.news##img[width="300"][height="289"]
 artemagazine.it,foggiatv.tv,ilfriuliveneziagiulia.it,ilgiornalediudine.com,informatissimo.net,it-casinoonline.com,spaziotennis.com,toscanatv.it,xtremehardware.com##img[width="300"][height="300"]

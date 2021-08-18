@@ -58,6 +58,7 @@
 ||evolutionadv.it^$third-party
 ||firebanner.com^$third-party
 ||gbucket.ch^$third-party
+||go2speed.org^$third-party
 ||guarda4k.online^$third-party
 ||hbagency.it^$third-party
 ||hubaffiliations.net^$third-party
