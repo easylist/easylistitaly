@@ -914,7 +914,7 @@ radiotoscana.it##.banner-radio
 solovela.net##.banner-right
 ligurianautica.com##.banner-row
 umbria24.it##.banner-show-desktop
-leccesette.it##.banner-side
+brindisisettenews.it,leccesette.it##.banner-side
 digital-news.it,isnews.it,viversano.net##.banner-sidebar
 universodelgioco.it##.banner-sky
 canavesenews.it,torinonews24.it##.banner-slider
@@ -1793,7 +1793,7 @@ siracusaoggi.it##.sirac-widget
 fattoalatina.it##.site-heading-sidebar
 andreagaleazzi.com,animeclick.it,sanitainsicilia.it,startmag.it,timinternet.it##.skin
 archilovers.com##.skin-banner-link
-leccesette.it##.skin-desktop
+brindisisettenews.it,leccesette.it##.skin-desktop
 meteofinanza.com##.skin-link
 digitalic.it##.skin_a_dx
 digitalic.it##.skin_a_sx
