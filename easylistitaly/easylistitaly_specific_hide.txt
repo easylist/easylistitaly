@@ -1328,7 +1328,7 @@ giornaledibarga.it##.fascia-banner
 guidagrecia.net,guidaspagna.net##.fascione-display__inner
 fortuneita.com##.fb-banner
 divinafm.it##.fdc-widget-sponsor
-brindisisettenews.it##.featured_banner
+brindisisera.it,brindisisettenews.it##.featured_banner
 autoscout24.it##.fed-list-rate-fragment-pair
 frequentflyeritalia.com##.ffi_az_box
 masterviaggi.it##.fieldset_sponsor
