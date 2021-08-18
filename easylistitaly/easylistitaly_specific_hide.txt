@@ -626,7 +626,7 @@ grossetosport.com,radioimmagine.it###text-61
 grossetosport.com###text-62
 incucinaconelena.it,lombardoandrea.com,pitchinvasion.net###text-7
 amorethailandia.com,bioterra.it,brindisioggi.it,controcopertina.com,esportsitalia.com,ilpost.it,lombardoandrea.com,plusrew.com###text-8
-agenziagiornalisticaopinione.it,controcopertina.com,nightlife-cityguide.com,p2p-italia.com,solorecensioni.com,telemia.it###text-9
+agenziagiornalisticaopinione.it,brindisioggi.it,controcopertina.com,nightlife-cityguide.com,p2p-italia.com,solorecensioni.com,telemia.it###text-9
 specchiosesto.it###text-html-widget-2
 agemobile.com###text-html-widget-4
 faidatecasa.com###tm-main-top
