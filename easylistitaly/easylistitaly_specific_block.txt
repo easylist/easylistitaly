@@ -3534,6 +3534,7 @@
 ||sabiniatv.it^*/tecnologie-e-impianti-centro-italia.jpg
 ||sabiniatv.it^*/tendart.jpg
 ||sabiniatv.it^*/ti-amo-gioielli.jpg
+||salernoinweb.it/o/sponsor/
 ||salernonotizie.it/wp-content/banner/
 ||salernonotizie.it/wp-content/banner_
 ||salernonotizie.it/wp-content/skin/
