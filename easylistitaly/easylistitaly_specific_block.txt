@@ -1752,6 +1752,7 @@
 ||ilgiornaledirieti.it/css/sfondo.jpg
 ||ilgiornaledisalerno.it^*-manchette.jpg
 ||ilgiornaledisalerno.it^*/alden.gif
+||ilgiornaledisalerno.it^*/b-cardine.jpg
 ||ilgiornaledisalerno.it^*/b-carpino-tondo.jpg
 ||ilgiornaledisalerno.it^*/bobopost-
 ||ilgiornaledisalerno.it^*/bobopost.jpg
