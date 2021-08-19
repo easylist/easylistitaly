@@ -3539,6 +3539,7 @@
 ||salernonotizie.it^*-300x300px.
 ||salernonotizie.it^*/banner_
 ||salernonotizie.it^*/skin_
+||salernonotizie.it^*_skin_
 ||salernonotizie.net^*_banner_
 ||saliinvetta.com/images/banners/
 ||sambenedettesecalcio.eu^*/cmp-
