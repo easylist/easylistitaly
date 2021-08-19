@@ -3543,6 +3543,8 @@
 ||salernonotizie.it^*/banner_
 ||salernonotizie.it^*/skin_
 ||salernonotizie.it^*_skin_
+||salernonotizie.net^*/pizzeria-battipaglia.jpg
+||salernonotizie.net^*/siero-antieta.jpg
 ||salernonotizie.net^*_banner_
 ||saliinvetta.com/images/banners/
 ||sambenedettesecalcio.eu^*/cmp-
