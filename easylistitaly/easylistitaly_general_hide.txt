@@ -267,6 +267,7 @@
 ##.linksponsorizzati
 ##.listatonativeadv
 ##.modPubblicita
+##.nativeadv
 ##.netd_300x600adv
 ##.newtekadv
 ##.nk-adv
