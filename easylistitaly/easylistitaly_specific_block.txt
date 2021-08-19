@@ -171,6 +171,7 @@
 ||altoadigetv.it/images/banner/
 ||altoadigetv.it/images/social/banner
 ||altomantovanonews.it^*/banner-
+||altomantovanonews.it^*/SKIN-
 ||altopiemonte24.it/images/banner/
 ||altovicentinonline.it^*-banner-
 ||altovicentinonline.it^*/banner-
@@ -2504,7 +2505,9 @@
 ||mantova1911.club/images/sponsor/
 ||mantovanotizie.com^*/amazon-
 ||mantovasport24.it^*/BANNER-
+||mantovasport24.it^*/SKIN-
 ||mantovauno.it^*/banner-
+||mantovauno.it^*/SKIN-
 ||marathonworld.it/images/adsense/
 ||maremmanews.it/images/banners/
 ||maremmanews.it/images/euautopezzi_
@@ -2900,6 +2903,7 @@
 ||oltreilfatto.it^*/banner/
 ||oltreilfatto.it^*/logo-nuovo-sito-lextel.png
 ||oltrepomantovanonews.it^*/banner-
+||oltrepomantovanonews.it^*/SKIN-
 ||omniagate.com^*/canado-tuscany.jpg
 ||omniagate.com^*/tabaccheriaclemente.png
 ||ondalibera.it/images/banners/
