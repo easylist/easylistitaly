@@ -638,6 +638,8 @@
 ||calciofoggia1920.net^*/macron-
 ||calciofoggia1920.net^*/six-
 ||calciofoggia1920.net^*/viva-
+||calciofvg.live^*/banner-
+||calciofvg.live^*/Banner_
 ||calciofvg.live^*/Despar_logo_def.jpg
 ||calciofvg.live^*/friuli-testata-homepage-01-1-2048x572.png
 ||calcioitalia24.it^*-banner_
