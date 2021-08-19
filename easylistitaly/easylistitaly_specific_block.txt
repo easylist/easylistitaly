@@ -183,6 +183,7 @@
 ||alwaysonboard.it/amazon_
 ||amadeusmagazine.it^*/BANNER-
 ||amalfinotizie.it^*/omenu.one_
+||amalfinotizie.it^*/Ravello-Festival-2021.jpg
 ||amalfinotizie.it^*_500x500.
 ||amantideilibri.it^*/banner-
 ||amarantomagazine.it/immagini/skin-
