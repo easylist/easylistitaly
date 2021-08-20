@@ -784,6 +784,7 @@ ilfoglio.it,liberoquotidiano.it,pharmastar.it##.advertisement
 film-review.it,frasicelebri.it,helloworld.it,nanopress.it,zonalocale.it##.advertising
 altalex.com##.adviceBox
 sienafree.it##.advs
+sscnapoli.it##.advspace
 soldionline.it##.afc_boxcontent_taglist
 incesti.xxx,pornopizza.it,tuboitaliano.it,videopornoitalia.com##.aff
 alfemminile.com##.affi-button
