@@ -1588,6 +1588,7 @@
 ||horecanews.it^*/RIGEL_
 ||horecanews.it^*_background_
 ||horecanews.it^*_Banner_
+||hotelmag.it^*_banner980x200_
 ||hovogliadidolce.it^*/banner-
 ||html.it^*/banner/
 ||hwreload.com/img/alphacool_logo.gif
