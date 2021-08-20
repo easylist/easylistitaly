@@ -382,10 +382,10 @@ gazzettinonline.it###masthead_wrapper
 trapaniedintorni.it###media_gallery-3
 pisainvideo.it,ufficistampanazionali.it###media_image-10
 ufficistampanazionali.it###media_image-11
-pisainvideo.it,spiccandoilvolo.com###media_image-12
+casanapoli.net,pisainvideo.it,spiccandoilvolo.com###media_image-12
 lamiavitainvaligia.org,weekendpremium.it###media_image-13
 lamiavitainvaligia.org,mam-e.it,pisainvideo.it###media_image-14
-gustoh24.it,lamiavitainvaligia.org,seitv.it,spiccandoilvolo.com###media_image-15
+casanapoli.net,gustoh24.it,lamiavitainvaligia.org,seitv.it,spiccandoilvolo.com###media_image-15
 seitv.it###media_image-16
 1web.tv,allasianfootball.com,buonenotizie.it,chepreparo.it,ecodisicilia.com,ilgazzettinodisicilia.it,iltecnoblog.com,internapoli.it,it-casinoonline.com,novetv.com,pisainvideo.it,quotidianodifoggia.it,todinforma.it,viaggiare-low-cost.it###media_image-2
 galluralive.it###media_image-20
@@ -1146,6 +1146,7 @@ altadefinizione01.army,altadefinizione01.sale,altadefinizione01.software,altadef
 frescopesce.it##.buyaltacucina
 pensieriparole.it##.buyblock
 sitiscommesse.com##.bwin
+casanapoli.net##.bwp_gallery_slideshow
 domusweb.it##.c-article-prev--sponsored
 quattroruote.it##.c-banner-opening1__sponsor
 asroma.com##.c-feed-card-ad
