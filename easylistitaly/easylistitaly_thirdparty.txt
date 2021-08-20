@@ -100,7 +100,7 @@
 ||hrs.de/wizard.aspx?
 ||html.it/banner/
 ||iads.iltrovatore.it^
-||ibb.co^$domain=edicolafree.xp3.biz
+||ibb.co^$domain=edicolafree.xp3.biz|salernitananews.it
 ||ilgiardinodeilibri.it/data/banner_partner/
 ||ilpelonelluovo.net/banner/
 ||iltelaiodipenelope.it/banner_exchange/
