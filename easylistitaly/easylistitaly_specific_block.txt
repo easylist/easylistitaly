@@ -2690,6 +2690,7 @@
 ||mywhere.it^*/160x310.png
 ||mywhere.it^*/310x310.png
 ||napolicittasolidale.it^*/banner/
+||napolimagazine.biz^
 ||napolimagazine.com^*/banner-
 ||napolivillage.com^*/banner_
 ||napolivillage.com^*/fertunina.jpg
