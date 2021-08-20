@@ -244,6 +244,7 @@
 ##.edinews_widget_link_sponsorizzati
 ##.epeex_Sas
 ##.evolve-adv
+##.extra--adv
 ##.flexi-pubblicita
 ##.foc-adv-slot
 ##.foglia-middle-adv
