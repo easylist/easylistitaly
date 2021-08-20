@@ -1384,6 +1384,9 @@
 ||gazzettadisalerno.it^*/PORTEMASSELLO.jpg
 ||gazzettadisalerno.it^*/spirito-pelletterie.png
 ||gazzettadisalerno.it^*/Zainetto-promo-
+||gazzettagranata.com/static/data/pages/toro/optima.html
+||gazzettagranata.com/static/data/pages/toro/themonetizer.html
+||gazzettagranata.com/static/data/pages/toro/viralize.html
 ||gazzettajonica.it/banner/
 ||gazzettalucchese.it^*/inserzioni/
 ||gazzettalucchese.it^*/supporters/
