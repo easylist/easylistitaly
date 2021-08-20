@@ -3508,6 +3508,7 @@
 ||rocketcdn.me/wp-content/uploads/Banner-$domain=vedetta.org
 ||rocketcdn.me/wp-content/uploads/dna300x125.gif$domain=vedetta.org
 ||romachampionsleague.com^*/Logo-motto-
+||romagiallorossa.it^*-banner.
 ||romagnasport.com//public/banner/
 ||romagnasport.com/public/dim_banner/
 ||romait.it/img/banners/
