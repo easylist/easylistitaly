@@ -1349,7 +1349,7 @@ ilmiostiledivita.it,incucinaconnonnaanna.it,lamiacasadolcecasa.it,nonsoloautoemo
 caleno24ore.it##.footer-firstrow
 lega-pro.com##.footer-partner
 genoacfc.it##.footer-partner-link
-bluvolleyverona.it,chievoverona.it,hellasverona.it##.footer-sponsor
+bluvolleyverona.it,chievoverona.it,hellasverona.it,hellasveronawomen.it##.footer-sponsor
 nbv-verona.it##.footer-sponsor-line
 acspezia.com,bresciacalcio.it,cagliaricalcio.com,olbiacalcio.com##.footer-sponsors
 foodaffairs.it##.footer-widget-area
@@ -1867,7 +1867,7 @@ dday.it,lifegate.it,tomshw.it##.sponsored
 agrifoodtoday.it,agrigentonotizie.it,anconatoday.it,arezzonotizie.it,avellinotoday.it,baritoday.it,bolognatoday.it,bresciatoday.it,brindisireport.it,casertanews.it,cataniatoday.it,cesenatoday.it,chietitoday.it,firenzetoday.it,foggiatoday.it,forlitoday.it,genovatoday.it,ilpescara.it,ilpiacenza.it,latinatoday.it,lecceprima.it,leccotoday.it,livornotoday.it,milanotoday.it,modenatoday.it,monzatoday.it,napolitoday.it,novaratoday.it,padovaoggi.it,palermotoday.it,parmatoday.it,perugiatoday.it,pisatoday.it,quicomo.it,ravennatoday.it,riminitoday.it,romagnaoggi.it,romatoday.it,salernotoday.it,sondriotoday.it,sportpiacenza.it,today.it,torinotoday.it,trentotoday.it,trevisotoday.it,triesteprima.it,udinetoday.it,veneziatoday.it,veronasera.it,vicenzatoday.it##.sponsored-story
 techgaming.it##.sponsored-texts
 nove.firenze.it##.sponsorizzato
-acfontemeravigliosa.it,alfamasera.it,asdcmozzo.it,asdeasytennis.it,asdfrentania.it,belmontecalcio.it,cestisticasavonese.it,delfinosalento.it,excelsiorcalcio.it,falcoalbino.it,franzinvalnocebasket.it,hcpustertal.com,hellasverona.it,nuovafrontiera.it,pallacanestroalassio.it,podisticasannicandro.it,robur1905macerata.it,scanzorosciatebasket.it,uscremonese.it,virtusapriliabasket.it##.sponsors
+acfontemeravigliosa.it,alfamasera.it,asdcmozzo.it,asdeasytennis.it,asdfrentania.it,belmontecalcio.it,cestisticasavonese.it,delfinosalento.it,excelsiorcalcio.it,falcoalbino.it,franzinvalnocebasket.it,hcpustertal.com,hellasverona.it,hellasveronawomen.it,nuovafrontiera.it,pallacanestroalassio.it,podisticasannicandro.it,robur1905macerata.it,scanzorosciatebasket.it,uscremonese.it,virtusapriliabasket.it##.sponsors
 aquilabasket.it##.sponsors-carousel
 legabasket.it##.sponsors-cont
 hceppan.it##.sportnews
