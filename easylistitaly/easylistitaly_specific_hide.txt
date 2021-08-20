@@ -1217,6 +1217,7 @@ tiburno.tv##.container-ads
 portoravennanews.com##.container-banner
 tiburno.tv##.container-skin
 tuttiprezzi.it##.container.basso
+salernogranata.it##.container.text-center
 tiscali.it##.container_b_1
 frasimania.it##.content-banner
 torresette.news##.content-banner-right
@@ -1834,6 +1835,7 @@ agrifoodtoday.it,agrigentonotizie.it,anconatoday.it,arezzonotizie.it,avellinotod
 infojobs.it##.slotbanner-top
 agrifoodtoday.it,agrigentonotizie.it,anconatoday.it,arezzonotizie.it,avellinotoday.it,baritoday.it,bolognatoday.it,bresciatoday.it,brindisireport.it,casertanews.it,cataniatoday.it,cesenatoday.it,chietitoday.it,firenzetoday.it,foggiatoday.it,forlitoday.it,genovatoday.it,ilpescara.it,ilpiacenza.it,latinatoday.it,lecceprima.it,leccotoday.it,livornotoday.it,milanotoday.it,modenatoday.it,monzatoday.it,napolitoday.it,novaratoday.it,padovaoggi.it,palermotoday.it,parmatoday.it,perugiatoday.it,pisatoday.it,quicomo.it,ravennatoday.it,riminitoday.it,romagnaoggi.it,romatoday.it,salernotoday.it,sondriotoday.it,sportpiacenza.it,today.it,torinotoday.it,trentotoday.it,trevisotoday.it,triesteprima.it,udinetoday.it,veneziatoday.it,veronasera.it,vicenzatoday.it##.slots
 sluurpy.it##.sluurpy_bdrw
+salernogranata.it##.slywdg-box
 ilgallo.it##.small-banner-1
 corriere.ca##.small_banner
 meteofinanza.com,tradingmania.it##.snp-overlay
