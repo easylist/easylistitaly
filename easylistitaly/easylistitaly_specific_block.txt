@@ -2519,6 +2519,7 @@
 ||maremmanews.it/images/euautopezzi_
 ||mareonline.it^*/banners/
 ||marigliano.net/upload/banner/
+||marione.net/prog-sponsor-
 ||marsicalive.it^*-480x400_
 ||marsicalive.it^*-banner.
 ||marsicalive.it^*/480x400-
