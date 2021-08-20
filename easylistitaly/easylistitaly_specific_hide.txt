@@ -232,10 +232,10 @@ dimagrireduepuntozero.com,pianetaserieb.it,strill.it###custom_html-25
 castellinotizie.it###custom_html-26
 dimagrireduepuntozero.com,pianetaserieb.it###custom_html-27
 pianetaserieb.it,tusciatimes.eu###custom_html-28
-alground.com,androidblog.it,assisisport.it,biologiamarina.org,birramoriamoci.it,calcioatalanta.it,calciofere.it,calciogrifo.it,calciolecce.it,calciomercatonews.com,corrieredelmolise.com,forzaparma.it,labaricalcio.it,nonniavventura.it,nonsolonautica.it,quizlab.it,siamolaroma.it,sololalazio.it,tifocosenza.it,tifosipalermo.it,torremaggiore.com,trapanigranata.it,umbria.webcam###custom_html-3
+alground.com,androidblog.it,assisisport.it,biologiamarina.org,birramoriamoci.it,calcioatalanta.it,calciofere.it,calciogrifo.it,calciolecce.it,calciomercatonews.com,canalesassuolo.it,corrieredelmolise.com,forzaparma.it,labaricalcio.it,nonniavventura.it,nonsolonautica.it,quizlab.it,siamolaroma.it,sololalazio.it,tifocosenza.it,tifosipalermo.it,torremaggiore.com,trapanigranata.it,umbria.webcam###custom_html-3
 immaginaviaggiare.it###custom_html-30
 immaginaviaggiare.it###custom_html-33
-assisisport.it,calciocasteddu.it,carteprepagate.org,corrieredelmolise.com,corrieredicomo.it,cucinaresenzamenate.it,destinazioneusa.com,floinviaggio.com,grossetosport.com,guidaconsumatore.com,laprevisione.it,nonsolonautica.it,peopleforplanet.it,pianetablunews.it,topragazze.it,travelwithbrothers.com,tuttogossipnews.it###custom_html-4
+assisisport.it,calciocasteddu.it,canalesassuolo.it,carteprepagate.org,corrieredelmolise.com,corrieredicomo.it,cucinaresenzamenate.it,destinazioneusa.com,floinviaggio.com,grossetosport.com,guidaconsumatore.com,laprevisione.it,nonsolonautica.it,peopleforplanet.it,pianetablunews.it,topragazze.it,travelwithbrothers.com,tuttogossipnews.it###custom_html-4
 mondomobileweb.it###custom_html-42
 1x2-calcio.com,calcioitalia24.it,carteprepagate.org,corrieredelmolise.com,grossetosport.com,innaturale.com,italiaonline.news,italyandmore.it,mam-e.it,melarossa.it,thailandiapertutti.it,travelwithbrothers.com,tuttogossipnews.it###custom_html-5
 1x2-calcio.com,calcioitalia24.it,calciomercatonews.com,corrieredicomo.it,cucinamamma.it,hynerd.it,indiscreto.org,it-casinoonline.com,lombardoandrea.com,nonsprecare.it,paladins.it,pentanewslivorno.it,thailandiapertutti.it,torremaggiore.com###custom_html-6
