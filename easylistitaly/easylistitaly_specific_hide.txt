@@ -1571,7 +1571,7 @@ terremarsicane.it##.megatop_wrap
 melarossa.it##.melar-pos-in-article-multiplo
 pistoiasport.com##.menu-banner-wrapper
 sportivissimo.com##.menu4
-altraeta.it,ecoaltomolise.net,lamiacittanews.it,lostrillonenews.it,newslinet.com,potenzanews.net,radiodeltainternational.it,radiomadeinitaly.it,teleischia.com,tvcity.it,vulturenews.net##.metaslider
+altraeta.it,ecoaltomolise.net,lamiacittanews.it,lostrillonenews.it,momentidicalcio.com,newslinet.com,potenzanews.net,radiodeltainternational.it,radiomadeinitaly.it,teleischia.com,tvcity.it,vulturenews.net##.metaslider
 ebay.it##.mfe-recos-container
 forumfree.it##.mgbox
 sestonotizie.it##.mh-banner

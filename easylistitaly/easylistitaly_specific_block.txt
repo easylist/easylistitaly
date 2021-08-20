@@ -2627,6 +2627,10 @@
 ||mole24.it^*/skin-
 ||mole24.it^*_600x600.
 ||molisetabloid.it^*/lamolisana.png
+||momentidicalcio.com^*/hotel-turner-roma-004-820x298.jpg
+||momentidicalcio.com^*/img_2423-797x290.jpg
+||momentidicalcio.com^*/img_4897-1100x400.jpg
+||momentidicalcio.com^*/img_9408.jpg
 ||momentosera.it/bannerupload/
 ||mondo3.com^*/offerte-amazon-offerte.jpg
 ||mondobalneare.com^*/banner_
@@ -4561,6 +4565,8 @@
 ||wp.com/ilpiccolo.org/*/Gamberini-
 ||wp.com/images.liveuniversity.it/*300x250
 ||wp.com/irenedisumma.com/*/fari.jpg
+||wp.com/momentidicalcio.com/*/2.jpg
+||wp.com/momentidicalcio.com/*/img_4895.jpg
 ||wp.com/nonsoloturisti.it/*/heymondo-
 ||wp.com/notiziescientifiche.it/*/vediamans-min.jpg
 ||wp.com/orvietosi.it/*-500x400-
