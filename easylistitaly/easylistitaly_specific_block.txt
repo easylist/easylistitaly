@@ -3593,6 +3593,7 @@
 ||sarnonotizie.it^*/ok2.
 ||sassarinotizie.com^*-banner125x125.gif
 ||sassuolo2000.it/bnrs/
+||sassuolocalcio.it/wp-content/uploads/adv/
 ||sassuolocalcio.it^*/partners/
 ||sassuolooggi.it/public/images/ban_
 ||sassuolooggi.it/public/slides/
