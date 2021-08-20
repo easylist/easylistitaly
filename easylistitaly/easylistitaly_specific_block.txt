@@ -3512,6 +3512,7 @@
 ||romagnasport.com//public/banner/
 ||romagnasport.com/public/dim_banner/
 ||romait.it/img/banners/
+||romanews.eu^*-BANNER-
 ||romasette.it^*/banner-
 ||romatoday.it/images/skin/
 ||rosalio.it^*/adv/
