@@ -2730,6 +2730,7 @@ lanuovariviera.it##td[style="width: 33%; vertical-align: top; border-color: #000
 lanuovariviera.it##td[style="width: 50%;"]
 datameteo.com##td[style^="border-top-style: solid; border-top-color:#d3d3d3; border-top-width: 1px"]
 astrologiainlinea.it##td[width="728"][height="90"]
+acmilan.com##ul[class*="TopHeader__SponsorsSection-"]
 ! Advanced element hiding rules for Adblock Plus
 01health.it#?#.td_block_wrap:-abp-has(.sponsor)
 01net.it#?#.td_block_wrap:-abp-has(.sponsor)
