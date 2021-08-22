@@ -3178,6 +3178,7 @@
 ||production-livingdocs-bluewin-ch.imgix.net^*/6f3cdbc0-2a58-4a7e-933f-9077769c899b.png$domain=bluewin.ch
 ||professionecamionista.it/amb/
 ||professionemotori.it/wp-content/uploads/williamHillbox.png
+||pronostici-oggi.it/images/banners/
 ||pronosticideiguerrieri.it^*/banner-
 ||pronosticirisultativincenti.com^*/970x40.jpg
 ||prospettivegeometri.it^*/380x180_
