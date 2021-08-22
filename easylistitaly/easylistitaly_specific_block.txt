@@ -603,6 +603,7 @@
 ||buonapesca.it^*/LeaderBoard-
 ||buonapesca.it^*/rectangle-
 ||buonapesca.it^*/Senza-titolo-1.jpg
+||buoncalcioatutti.it/wp-content/banners/
 ||buonenotiziebologna.it/images/banners/
 ||buonenotiziebologna.it/images/pub/
 ||buonenotiziebologna.it^*-Banner_
