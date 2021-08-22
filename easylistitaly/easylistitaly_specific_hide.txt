@@ -275,6 +275,7 @@ creta.info,germania.info,irlandando.it,provenzafrancia.it###fh_top
 notizielombardia.it###fixedban
 veganiinviaggio.it###flexi_searchbox
 calciomercato.com###float-sidebar-inner
+finaria.it###floatingbanner
 varesesport.com###floorsunrise
 termolionline.it###flyersHome
 vivilanotizia.it###fondosito
