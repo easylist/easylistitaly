@@ -85,6 +85,7 @@
 ###box_single_adv_sotto
 ###box_single_adv_sotto_1
 ###box_single_adv_sotto_2
+###bt_adv_div
 ###cardAdv
 ###contPubb
 ###corpo_video_sponsor
@@ -227,6 +228,8 @@
 ##.box_adv_speciali_hp
 ##.boxpubblicita
 ##.boxpubblicitasx
+##.bt_adv1
+##.bt_sub_adv1
 ##.cellulare-adv
 ##.center-adv
 ##.center-adv-news

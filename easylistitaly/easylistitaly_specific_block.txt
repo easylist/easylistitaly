@@ -2348,6 +2348,7 @@
 ||lazioingol.it^*/baked.jpg
 ||laziopress.it^*/banner_
 ||laziopress.it^*/unipolsai_
+||laziorugby.it/images/sponsors/
 ||laziotv.it^*/banner-
 ||leccenews24.it/upload/banner/
 ||leccesette.it/banner/
