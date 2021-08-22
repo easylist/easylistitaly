@@ -1680,6 +1680,7 @@ cb01.in##.playex
 pressmare.it##.pm-adv
 pressmare.it##.pm-adv-intermediate
 assopoker.com##.poker-room-list
+sslazio.org##.post-div-banner-sp-medium
 insuranceup.it##.powered_by_container
 fishingboatmagazine.it##.pps-popup
 assopoker.com##.prbox-table-container
