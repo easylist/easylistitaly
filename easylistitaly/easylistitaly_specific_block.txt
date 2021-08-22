@@ -3791,6 +3791,7 @@
 ||sslazio.it/images/sponsors/
 ||sslazio.it^*/banner_
 ||sslaziofans.it/images/sponsor/
+||sslazionuoto.it/images/bt-shortcode/bt-carousel-
 ||ssmatelicacalcio.com^*/fidea.png
 ||stabiachannel.it^*/banner/
 ||stackpathcdn.com^*-banner.$domain=ondatv.tv
