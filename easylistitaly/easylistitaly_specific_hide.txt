@@ -104,6 +104,7 @@ chiechiera.it###banner_sotto_header
 notiziediprato.it###banner_strip
 gruppovideomedia.it,monitorimmobiliare.it,radiovalbelluna.it###banner_top
 fiorentinanews.com###banneralto
+ss.lazio.it###bannerheader
 ondarock.it###bannerhomebottom
 ondarock.it###bannerhometop
 reteradioazzurra.it###bannerini_homepage
