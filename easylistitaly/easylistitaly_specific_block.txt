@@ -3789,6 +3789,7 @@
 ||sslazio.it/images/marketing/
 ||sslazio.it/images/sponsors/
 ||sslazio.it^*/banner_
+||sslaziofans.it/images/sponsor/
 ||ssmatelicacalcio.com^*/fidea.png
 ||stabiachannel.it^*/banner/
 ||stackpathcdn.com^*-banner.$domain=ondatv.tv
