@@ -1951,7 +1951,7 @@ betitaliaweb.it##.tbody + .bonus-background
 cattolica.info##.tc_adm
 avtrend.it##.tcb-button-link
 gioconews.it##.tcvn-banner-item
-2anews.it,agimeg.it,apsicilia.it,bologna2000.com,ilfattovesuviano.it,ilgranchio.it,lavocedivenezia.it,messinaora.it,paisemiu.com,romanews.eu,stylo24.it,toscananotizie.com,vaielettrico.it,valbrembanaweb.com##.td-a-rec
+2anews.it,agimeg.it,apsicilia.it,bologna2000.com,ilfattovesuviano.it,ilgranchio.it,lavocedivenezia.it,messinaora.it,paisemiu.com,realtagenoana.it,romanews.eu,stylo24.it,toscananotizie.com,vaielettrico.it,valbrembanaweb.com##.td-a-rec
 ivl24.it##.td-all-devices
 ilprimatonazionale.it##.td-banner-bg
 edagricole.it##.td-banner-footer
