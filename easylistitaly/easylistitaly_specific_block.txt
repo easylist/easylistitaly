@@ -3869,6 +3869,7 @@
 ||stiletv.it^*/papera.gif
 ||stiletv.it^*/Russo.png
 ||stiletv.it^*_banner.
+||stopandgoal.net^*-Banner-
 ||storiedisport.it^*/biblio.gif
 ||storiedisport.it^*/logo5.png
 ||stradeonline.it/images/banners/
