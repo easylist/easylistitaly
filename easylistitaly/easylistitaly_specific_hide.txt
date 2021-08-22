@@ -1760,6 +1760,7 @@ formula1.it##.row > a[href^="https://casinohex.it/"]
 rimini.com##.row-bann-home-mobile
 magodelpronostico.com##.row-info-bonus
 wikihow.it##.rr_container
+newsnow.it##.rs-banner-strip
 cliccascienze.it##.rtecenter
 asroma.com##.s-navigation-tool-sponsors
 asroma.com##.s-primary-sponsors
