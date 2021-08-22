@@ -1412,6 +1412,7 @@
 ||gdonews.it^*/spesapro.png
 ||genoacfc.it^*/1110x95_
 ||genoacfc.it^*/banner-
+||genoacfc.it^*/BANNER_
 ||genoacfc.it^*/Logo-statico-1110x95px.jpg
 ||genoacfc.it^*/NOBERASCO_LOGO-
 ||genoacfc.it^*/Unknown.gif
