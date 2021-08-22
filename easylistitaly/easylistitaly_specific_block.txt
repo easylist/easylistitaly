@@ -1193,6 +1193,8 @@
 ||estrazionedellotto.it/images/gioco-del-lotto.gif
 ||estrazionedellotto.it/images/logos/
 ||eunews.it^*/Banner-300x300_
+||europacalcio.it^*/nuovicasino-bonus-senza-deposito.png
+||europacalcio.it^*/slotjava-slot-machine.png
 ||euroregionalpmed.eu/img/banner/
 ||euroregionalpmed.eu/js/clickBanner_
 ||eurostreaming.click/gcod.js
