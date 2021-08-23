@@ -1371,6 +1371,9 @@ aeroporto.net##.form_auto_iata
 quattroruote.it##.four-box-sponsor
 boatmag.it##.four.columns.hide-for-small
 genoacfc.it##.fourplusnutrition
+cataniaoggi.it##.fredx
+cataniaoggi.it##.fredxmob
+cataniaoggi.it##.fretop
 quattroruote.it##.fullBanner
 pressgiochi.it##.full_width_banner
 agro24.it##.fullwidthbanner-container
