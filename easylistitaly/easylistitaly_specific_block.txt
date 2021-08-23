@@ -4262,6 +4262,7 @@
 ||tvsette.net^*-300x250.
 ||tvsette.net^*/banner-
 ||tvsette.net^*/IUORIO-
+||tvsette.net^*/non-abbiamo-bisogno-di-lui-tv7-
 ||twebnews.it/immagini/amz
 ||twebnews.it^*/amz.
 ||uberti.eu^*/guide/
