@@ -390,6 +390,7 @@
 ||anteritalia.org^*/energia-1.png
 ||aostaoggi.it/images/banners/
 ||aostasports.it^*/box/
+||aplombardia.eu^*/banner-
 ||aprilianews.it^*-300x250.gif
 ||aprilianews.it^*/aprilianews-limoni.jpg
 ||aprilianews.it^*/Eurobox-
