@@ -474,6 +474,7 @@ voce.it###publiredazionale
 tuttitalia.it###qh
 isnews.it###responsive-banner-slider
 cosenostre-online.it###rev_slider_4_1_wrapper
+zerocinquantuno.it###rev_slider_4_2_wrapper
 cosenostre-online.it###rev_slider_4_5_wrapper
 cosenostre-online.it###rev_slider_4_6_wrapper
 cosenostre-online.it###rev_slider_6_7_wrapper
