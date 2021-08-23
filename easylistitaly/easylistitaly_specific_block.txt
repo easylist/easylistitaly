@@ -2736,6 +2736,7 @@
 ||newlaw.it/banner/
 ||news-24.it^*/skin-
 ||news.cinecitta.com/public/banner/
+||newscatania.com^*/banner_
 ||newscatania.com^*_Petrol-Company.
 ||newsf1.it^*/promozione-libro-
 ||newsfood.com^*-Banner-
