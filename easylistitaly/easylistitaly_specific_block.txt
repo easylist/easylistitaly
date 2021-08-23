@@ -1934,6 +1934,7 @@
 ||iltredici.it^*/banner_
 ||iltredici.it^*/partners/
 ||ilvaglio.it/P_SKIN1920x1080_
+||ilvaglio.it/SKIN_
 ||ilvimercate.org/images/banners/
 ||ilvolo.it/images/banners/
 ||ilwebmaster21.it/script1.js
