@@ -1274,6 +1274,7 @@
 ||finaria.it^*/trading-online-comprare-azioni-
 ||fiorentina.news/banner
 ||fiorentina.news^*/fbbuste-
+||fiorentinabaseball.it/assets/images/Partner/
 ||fiorentinanews.com^*/Banner
 ||fiorentinanews.com^*/fiorentina_news.jpg
 ||fiorentinanews.com^*/received_404151127453365.gif
