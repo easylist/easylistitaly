@@ -216,6 +216,7 @@
 ||stgy.it/images/skin/
 ||supercalcioextra.com^$domain=laprevisione.it
 ||tamtamsrl.it/dreamteam/banner/
+||tcccdn.com^*/banner/
 ||tccstatic.com^*/banner/
 ||tccstatic.com^*/skin/
 ||teetee.eu^$subdocument,third-party
