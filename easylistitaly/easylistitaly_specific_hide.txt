@@ -462,6 +462,7 @@ amazon.it###pdagMwebCarousel
 ladiscussione.com###penci_text-block__41766321
 ladiscussione.com###penci_text-block__48733284
 catanista.eu###pg-w5f882c5709967-0
+catanista.eu###pg-w60a16d0a40882-6
 incesti.xxx,pornopizza.it,tuboitaliano.it,videopornoitalia.com###playerOverlay
 notizieflash.net###post-adv
 acprosesto.it###prefooter
@@ -2648,7 +2649,7 @@ salernitananews.it##img[style^="width: 315px;"]
 arte.go.it##img[width="1024"][height="256"]
 crotoneok.it##img[width="1280"][height="384"]
 hc-neumarkt.com##img[width="140"][height="68"]
-friulioggi.it,portolivorno.it##img[width="150"][height="150"]
+catanista.eu,friulioggi.it,portolivorno.it##img[width="150"][height="150"]
 ussalernitana1919.it##img[width="150"][height="56"]
 artemagazine.it##img[width="160"][height="142"]
 katablog.it,napolimagazine.com##img[width="160"][height="600"]
@@ -2662,9 +2663,11 @@ abruzzoweb.it##img[width="240"][height="240"]
 cartabiancanews.com##img[width="250"][height="135"]
 cartabiancanews.com,mantovasport24.it,onemag.it,pugliapress.org,sulpanaro.net,toscanatv.it##img[width="250"][height="250"]
 artemagazine.it##img[width="250"][height="300"]
+catanista.eu##img[width="270"][height="150"]
+catanista.eu##img[width="271"][height="179"]
 parmacalcio1913.com##img[width="280"][height="135"]
 iamnaples.it##img[width="280"][height="280"]
-abruzzoweb.it,campaniapress.it,circusf1.com,dentrosalerno.it,gamersarsenal.it,lafune.eu,larampa.it,mantovauno.it,nocerinalive.it,startmag.it,tvoggisalerno.it,vesuviolive.it##img[width="300"]
+abruzzoweb.it,campaniapress.it,catanista.eu,circusf1.com,dentrosalerno.it,gamersarsenal.it,lafune.eu,larampa.it,mantovauno.it,nocerinalive.it,startmag.it,tvoggisalerno.it,vesuviolive.it##img[width="300"]
 forum.passioneauto.it,ilmiocaneleggenda.it,ilmiogattoeleggenda.it,vocedimantova.it##img[width="300"][height="100"]
 newtuscia.it,spaziotennis.com##img[width="300"][height="150"]
 acquariocomefare.com,radioinblu.it##img[width="300"][height="171"]
@@ -2704,6 +2707,7 @@ tusciaweb.it##img[width="520"][height="100"]
 abruzzoweb.it##img[width="600"][height="200"]
 portolivorno.it##img[width="630"]
 canonclubitalia.com##img[width="632"][height="123"]
+catanista.eu##img[width="640"]
 tvoggisalerno.it##img[width="640"][height="360"]
 beverfood.com##img[width="650"][height="320"]
 sentireascoltare.com##img[width="700"][height="300"]
