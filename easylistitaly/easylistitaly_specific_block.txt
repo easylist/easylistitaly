@@ -2870,6 +2870,7 @@
 ||nuovabrianza.it^*_banner_
 ||nuovacosenza.com/spot/
 ||nuovosud.it/sites/default/files/box-
+||nuovosud.it/sites/default/files/raggioverde.jpg
 ||nuovosud.it/sites/default/files/skin-
 ||nuovosud.it^*/banner/
 ||nursetimes.org^*/Simulatore-Concorso-566-Infermieri-Puglia.png
