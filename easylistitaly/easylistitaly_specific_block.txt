@@ -1279,6 +1279,7 @@
 ||fiorentinanews.com^*/fiorentina_news.jpg
 ||fiorentinanews.com^*/received_404151127453365.gif
 ||fiorentinanews.com^*/studiomasoni.gif
+||fiorentinaweb.com/banner_
 ||fip.it/images/sponsor/
 ||fip.it/public/BannerTop/
 ||firenzespettacolo.it/media/banner/
