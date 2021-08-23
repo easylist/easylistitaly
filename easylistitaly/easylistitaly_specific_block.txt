@@ -1275,6 +1275,7 @@
 ||fiorentina.news/banner
 ||fiorentina.news^*/fbbuste-
 ||fiorentinabaseball.it/assets/images/Partner/
+||fiorentinabasket.it/writable/public/tbl_sponsor/
 ||fiorentinanews.com^*/Banner
 ||fiorentinanews.com^*/fiorentina_news.jpg
 ||fiorentinanews.com^*/received_404151127453365.gif
