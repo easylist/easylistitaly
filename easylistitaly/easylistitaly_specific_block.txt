@@ -503,6 +503,7 @@
 ||basilicatanotizie.net^*/background-
 ||basketfemminilebiellese.altervista.org^*/Sponsor/
 ||basketfemminilebiellese.altervista.org^*/Sponsors/
+||battipaglia1929.it/wp-content/banners/
 ||battipaglianews.it^*/banner-
 ||battipaglianews.it^*/Banner_
 ||battipaglianews.it^*/gioiellina.gif
