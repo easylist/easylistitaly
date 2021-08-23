@@ -4234,6 +4234,7 @@
 ||tv2000.it^*_300x200.
 ||tv2000.it^*_skin_
 ||tvcentromarche.it^*/ESTRA300x250-
+||tvcity.it^*/400x300_
 ||tviweb.it^*-banner-
 ||tviweb.it^*/1200X200.jpg
 ||tviweb.it^*/3Cbanner.jpg
