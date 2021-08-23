@@ -2505,6 +2505,7 @@
 ||mail.tiscali.it^*/advlib.js
 ||malindikenya.net^*/sponsors/
 ||malpensa24.it^*/background-
+||malpensa24.it^*/BANNER_
 ||mam-e.it^*/mame-gallerie-italia-intesa-san-paolo.jpg
 ||mammaimperfetta.it^*_banner.
 ||mammedomani.it/images/banners/
