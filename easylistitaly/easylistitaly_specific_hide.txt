@@ -1637,7 +1637,7 @@ ilpiccolo.net##.nocornice_banner
 prospettivegeometri.it##.node-banner-simple
 newsonline.it##.nol-sponsor-cluster
 everyeye.it##.nome_gioco_amazon_destra
-gazzaviola.it,ilsalottodelcalcio.it##.nostro-banner
+atalantalive.it,gazzaviola.it,ilsalottodelcalcio.it,junews.it,lazionews.eu,magiconapoli.it,nerazzurrisiamonoi.it,romanistaweb.it,rossonerisiamonoi.it##.nostro-banner
 viaggi-usa.it##.notabene
 tuttotrasporti.it##.notizieSponsorizzate
 dailybest.it##.nuovobanner
