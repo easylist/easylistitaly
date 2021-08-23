@@ -80,6 +80,7 @@
 ||adnkronos.com^*/Promo/
 ||advtraining.it/img/banner/
 ||advtraining.it/img/banner_
+||affarienews.it/admin/public/banner/
 ||affaritaliani.it/includes/files/affari/
 ||affaritaliani.it/mutuionline/imgmol/
 ||affaritaliani.it^*/234x/
