@@ -2003,6 +2003,7 @@
 ||informazionecomunicazione.it^*/radio-calabria.png
 ||informazionecomunicazione.it^*/RUSSO-CARIATI-300x300.jpg
 ||informazioneonline.it/wp-content/banners/
+||infovizzini.it/layout/banners/
 ||ingleseprecoce.it^*-400x400.
 ||innaturale.com^*/banner-
 ||innovami.news^*/banner-
