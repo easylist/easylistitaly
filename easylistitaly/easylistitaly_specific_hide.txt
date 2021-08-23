@@ -2179,6 +2179,7 @@ consigli.it##.zio_
 ilmigliore.org##.ziobox
 abruzzolive.it##.znugldvqrk-float-center
 fip.it##.zonafornitori
+radiotorremacauda.it##.ùubm_rotation_widget
 nursetimes.org##AMP-IMG[width="320"][height="50"]
 djmagitalia.com##[href^="http://www.djpoint.net/"]
 narnionline.com,ternieprovincia.com##a[class="banner_174"]
