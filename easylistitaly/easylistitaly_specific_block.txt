@@ -3939,6 +3939,7 @@
 ||teleborsa.it/FrameResources/4WTV/
 ||telecaprisport.it/banner/
 ||telecaprisport.it^*Banner-290x400.
+||telecitynews24.it^*-1600x678-
 ||telecitynews24.it^*/AMARO-PERUZZO-
 ||telecitynews24.it^*/telecity-ad-platform/
 ||telediogene.it/images/banner/
