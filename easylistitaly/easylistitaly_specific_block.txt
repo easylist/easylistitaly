@@ -3698,6 +3698,7 @@
 ||siciliaoggi.com^*/pegaso-
 ||siciliaoggi.com^*/pegaso.
 ||siciliaoggi.com^*/pesch1.
+||siciliareport.it^*/baner-
 ||siciliarurale.eu/wp-content/banners/
 ||sienafree.it/images/banners/
 ||sienanews.it^*-Banner-
