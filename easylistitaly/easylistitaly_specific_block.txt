@@ -3072,6 +3072,7 @@
 ||picenotime.it/data/uploads/a/A8CF4496-FC4B-11EA-99CA-E453F22B9E7E.jpg
 ||picenotime.it/data/uploads/a/F92C807E-27EE-11EB-B477-4C913655F3F5.jpg
 ||piemonteoggi.it/banner/
+||piemonteoggi.it/immagini/valenzano.gif
 ||piemonteoggi.it^*/banner-
 ||piemonteoggi.it^*/banner/
 ||pimpmytrip.it^*/ISTITUTO-CULTURALE-IRAN.jpg
