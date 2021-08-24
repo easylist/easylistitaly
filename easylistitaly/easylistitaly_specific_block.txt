@@ -2310,6 +2310,7 @@
 ||laquilablog.it^*/risana.gif
 ||laquilablog.it^*_300x300-
 ||larionews.com^*-MANCHETTE-
+||larionews.com^*/banner-
 ||larivieraonline.com^*/banner/
 ||larivieraonline.com^*/takeover/
 ||lasberla.com^*/CoffeeStore_
