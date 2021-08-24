@@ -3739,6 +3739,7 @@
 ||skillandbet.com^*/bonus-eurobet-scommesse.jpg
 ||skillandbet.com^*/william-hill-bonus-scommesse.jpg
 ||skuola.net/assets/js/mm-banner-manager.js?
+||skylinewebcams.com/as.php?
 ||skylinewebcams.com/as/img/liveincam_
 ||smartworld.it^*/black_friday.js
 ||smushcdn.com^*/loghi-partnership/$domain=infobuildenergia.it
