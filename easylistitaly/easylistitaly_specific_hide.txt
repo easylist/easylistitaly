@@ -2526,6 +2526,7 @@ acspezianews.it,amaranta.it,campaniasoccer.com,eurochampions.it,f1-news.eu,fcint
 fcinternews.it##div[style="overflow: hidden; height: 90px; width: 160px; margin: auto;"]
 tuttomantova.it,tuttospal.it##div[style="overflow: hidden; height: 90px; width: 336px; margin: auto;"]
 fcinternews.it,forzaakragas.it,messinanelpallone.it,palermo24.net,perugia24.net,tuttoatalanta.com,tuttobari.com,tuttocesena.it,tuttofantacalcio.it,tuttofrosinone.com,tuttolecce.net,tuttomantova.it,tuttomonza.it,tuttonocerina.com,tuttopalermo.net,tuttopescaracalcio.com,tuttopotenza.com,tuttoreggina.com,tuttospal.it,tuttostpauli.com,tuttoveneziasport.it##div[style="overflow: hidden; height: 90px; width: 728px; margin: auto;"]
+tuttoatalanta.com##div[style="overflow: hidden; height: auto; width: 300px; margin: auto; min-height: 250px;"]
 radiocuore.it##div[style="overflow: hidden; width: 305px; height: 255px; position: absolute;"]
 epertutti.com##div[style="overflow:auto; width:100%; height:300px; box-sizing: border-box; display: block;"]
 epertutti.com##div[style="overflow:auto; width:740px; height:340px; box-sizing: border-box; display: block;"]
