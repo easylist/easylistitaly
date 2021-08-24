@@ -158,6 +158,7 @@ scubaportal.it###bodylink
 diretta.it###bonus-offers
 recensionelibro.it###book-shop
 sslazio.it###bottom
+erbanotizie.com###box
 corriere.it###box-codici-sconto
 hwupgrade.it###box-next-container
 diretta.it###box-over-content-a
@@ -451,6 +452,7 @@ diretta.it,flashscore.it###odds-main-wrapper
 mondoplay.it,mondoxbox.com###offersbox
 mondoplay.it,mondoxbox.com###offersbox_wide
 centrometeoitaliano.it###outbrain-wrapper
+erbanotizie.com###overlay
 radiogold.it###overlay-bn-wrapper
 tgtourism.tv###panel-2-4-3-1
 tgtourism.tv###panel-2-4-3-3
