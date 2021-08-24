@@ -919,10 +919,14 @@
 ||compagniadellacima.it^*/logo-subianco250.jpg
 ||compagniadellacima.it^*/Ronco_banner.jpg
 ||comprovendodischi.it/images/AMZ-
+||comprovendolibri.it/images/BNexnovo.gif
+||comprovendolibri.it/images/BNlibrifolli.jpg
+||comprovendolibri.it/images/FdL_Cagli-160X133.jpg
 ||comprovendolibri.it/images/ico-mondadori.jpg
 ||comprovendolibri.it/images/ico_FELT.jpg
 ||comprovendolibri.it/images/libraccio.jpg
 ||comprovendolibri.it/images/MAN2021_cvl_336x280.gif
+||comprovendolibri.it/images/MLA2021_160x133.jpg
 ||comprovendolibri.it/sponsor/
 ||computer-acquisti.com^*/carlenzoli-yuri.png
 ||computermania.org/banners/
