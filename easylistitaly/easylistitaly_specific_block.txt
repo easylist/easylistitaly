@@ -4079,6 +4079,7 @@
 ||tmnotizie.com^*/Webp.net-gifmaker-
 ||tmwradio.com^*/banner/
 ||todinforma.it^*-300x180.
+||tomshw.it^*/390x250-Affiliate-
 ||tomshw.it^*/logo-instant-gaming.jpg
 ||top10cose.it^*/Offerte-Amazon-
 ||toplegal.it/upload/banner/
