@@ -883,6 +883,7 @@ olbianotizie.it##.bann_square
 m100.it##.banner-1
 macplas.it##.banner-2-img
 welfarenetwork.it##.banner-468-hp
+movieforkids.bestmovie.it##.banner-660x90
 notetralerighe.it##.banner-amazon-music
 parmareport.it##.banner-big
 ligurianautica.com##.banner-box
