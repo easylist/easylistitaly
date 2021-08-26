@@ -1101,6 +1101,7 @@ balarm.it##.box-evidenza
 italiaoggi.it##.box-slot
 meteogiornale.it##.box-sn
 trend-online.com##.box-special
+donnesulweb.it##.box-top-widget
 montagna.tv##.box-tva
 tvserial.it##.box-verticale-home
 stilearte.it##.box.shadow
