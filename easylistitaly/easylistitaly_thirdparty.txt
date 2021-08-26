@@ -83,6 +83,7 @@
 ||evaneos.it/widget/$third-party
 ||expoitalyadv.it^$image,third-party
 ||fantagenius.com^*/banner/
+||fattoremamma.com/fmn.js
 ||favolefantasia.com/banner/
 ||files.iqoption.com^$domain=borsainside.com
 ||free.netsons.com^

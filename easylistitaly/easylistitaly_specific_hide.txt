@@ -451,6 +451,7 @@ puntocellulare.it###o_list
 diretta.it,flashscore.it###odds-main-wrapper
 mondoplay.it,mondoxbox.com###offersbox
 mondoplay.it,mondoxbox.com###offersbox_wide
+mammecreative.it###open_up
 centrometeoitaliano.it###outbrain-wrapper
 erbanotizie.com###overlay
 radiogold.it###overlay-bn-wrapper
