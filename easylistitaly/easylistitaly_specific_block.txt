@@ -4496,6 +4496,7 @@
 ||vivicentro.it^*-Pubb.
 ||vivicentro.it^*/autoparti.it_
 ||vivicentro.it^*/Jooble-
+||vivicentro.it^*_1200x90-
 ||vivienna.it^*/3-Codi.jpg
 ||vivienna.it^*/Barbagallo-
 ||vivienna.it^*/Campagna-Compass_
