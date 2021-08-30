@@ -1597,6 +1597,7 @@ sestonotizie.it##.mh-banner
 filmforlife.org##.mh-footer
 castellinotizie.it,catanzaro7.net,nerdevil.it##.mh-header-widget-2
 meteoeradar.it##.min-height
+tvdigitaldivide.it##.mioadv
 automoto.it,moto.it##.mit-skin-spacer
 laprovinciadelsulcisiglesiente.com##.mkdf-header-banner-widget
 acquavivalive.it,altamuralive.it,andrialive.it,barilive.it,barlettalive.it,bisceglielive.it,bitontolive.it,canosalive.com,cassanolive.it,coratolive.it,fasanolive.com,gioialive.it,giovinazzolive.it,gravinalive.it,lavocedimanduria.it,margheritalive.it,minervinolive.it,molfettalive.it,okfirenze.com,okmugello.it,okvaldisieve.it,ruvolive.it,santeramolive.it,terlizzilive.it,termolionline.it,tranilive.it,unicosettimanale.it,vastoweb.com,viviwebtv.it##.mkt-300x250
@@ -2637,6 +2638,7 @@ liguriaoggi.it##img[alt="ad"]
 radiogold.it##img[alt="adv-"]
 lamoneta.it##img[alt="advertisement_alt"]
 cinematografo.it,ondatv.tv##img[alt="banner"]
+tvdigitaldivide.it##img[alt="seo sito web adv"]
 narnionline.com,ternieprovincia.com,umbriamagazine.com##img[class="block_banner_img"]
 legnolab.it##img[class="legnolab-banner"]
 hellaslive.it##img[class="partner"]

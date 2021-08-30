@@ -4264,6 +4264,9 @@
 ||tv2000.it^*_skin_
 ||tvcentromarche.it^*/ESTRA300x250-
 ||tvcity.it^*/400x300_
+||tvdigitaldivide.it/seo-adv.jpg
+||tvdigitaldivide.it^*/Ottimizzazione-Siti-Web-GIF-downsized_large.gif
+||tvdigitaldivide.it^*/seositowebadv.jpg
 ||tviweb.it^*-banner-
 ||tviweb.it^*/1200X200.jpg
 ||tviweb.it^*/3Cbanner.jpg
