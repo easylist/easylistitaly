@@ -1970,7 +1970,7 @@ ivl24.it##.td-all-devices
 ilprimatonazionale.it##.td-banner-bg
 edagricole.it##.td-banner-footer
 01net.it,dolcegiornale.it,edagricole.it,ilgiornaledelserramento.it,ristorantiweb.com,sicurezzamagazine.it##.td-banner-wrap-full
-bologna24ore.it,calciofemminileitaliano.it,calciomercato.it,elettronicanews.it,ferrara24ore.it,forli24ore.it,gametimers.it,gamingtoday.it,phonetoday.it,radioradio.it,ravenna24ore.it,rimininews24.it,romagiallorossa.it,romagna24economia.it,rovigo24ore.it,secondamanoitalia.it,tecnoandroid.it##.td-container-header
+bologna24ore.it,calciofemminileitaliano.it,calciomercato.it,cronacadiverona.com,elettronicanews.it,ferrara24ore.it,forli24ore.it,gametimers.it,gamingtoday.it,phonetoday.it,radioradio.it,ravenna24ore.it,rimininews24.it,romagiallorossa.it,romagna24economia.it,rovigo24ore.it,secondamanoitalia.it,tecnoandroid.it##.td-container-header
 radioradio.it##.td-fix-index
 amoreaquattrozampe.it##.td-footer-container
 ilgiornaledeltermoidraulico.it,pescaracalcio.com,tennispavese.it,ternanacalcio.com##.td-footer-wrapper
@@ -1985,6 +1985,8 @@ guidalloshopping.com##.td_btn
 biancorossi.net,immaginevalsassina.com,moondo.info,notizialocale.it,radiolombardia.it,telesudweb.it##.td_single_image_bg
 staynerd.com##.td_spot_img_all
 varese7press.it##.td_uid_12_609028db5e06a_rand
+cronacadiverona.com##.td_uid_12_612cef72a749a_rand
+cronacadiverona.com##.td_uid_15_612cef72ae785_rand
 agimeg.it##.td_uid_18_5fdb9a4e3037a_rand
 agimeg.it##.td_uid_18_606dd54991c0e_rand
 ilparmense.net##.td_uid_18_606dd7c7652fd_rand

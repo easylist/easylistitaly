@@ -1015,6 +1015,9 @@
 ||cosenzachannel.it^*/Masthead-
 ||cralistruzione.it/images/banners/
 ||cremonaoggi.it^*/BANNERINO-
+||cronacadiverona.com^*/Banner-
+||cronacadiverona.com^*/banner.
+||cronacadiverona.com^*_banner_
 ||cronacaqui.it^*/banner-
 ||cronacaqui.it^*/mmotors.jpg
 ||cronachedellacampania.it^*/longobardi.jpg
