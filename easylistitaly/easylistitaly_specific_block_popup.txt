@@ -1,23 +1,9 @@
-/vss/*$popup,domain=filmpertutti.li
-||altadefinizione.coach/4k/$popup
-||altadefinizione01.store/UHD/$popup
-||altadefinizone.click/HD/$popup
 ||avmagazine.it/advertise/$popup
 ||cb01.li/vip/4K/$popup
 ||cineblog01.bid/fake2/$popup
-||cineblog01.green/cineblog01-premium-film.php$popup
-||cineblog01.love/fake2/$popup
-||eurostreaming.movie/serie-tv-streaming.php$popup
-||eurostreaming.services/guarda/$popup
-||guardaserie.host/4k/$popup
-||guardaserie.store/4k/$popup
-||ilgeniodellostreaming.cam/fake2/$popup
-||ilgeniodellostreaming.gold/fake2/$popup
 ||ilgeniodellostreaming.to/stream/$popup
 ||supervideo.tv/vedo4k.php$popup
 ! about:blank popups
-/about:blank.*/$popup,domain=casacinema.work|guardaserie.biz|guardaserie.cam|ilgeniodellostreaming.cam|leggenditaloi.com|tantifilm.works
+/about:blank.*/$popup,domain=guardaserie.cam
 ! html/image popups
-/^https?:\/\/.*\.(jpg|png|html|svg|ico)/$popup,domain=altadefinizione01.games|altadefinizione01.store|animeworld.tv|cineblog01.bid|cinefun.co|eurostreaming.movie|eurostreaming.vision|filmpertutti.lol|filmpertutti.voto|filmsenzalimiti.li|guardaserie.fashion|ilgeniodellostreaming.dance|ilgeniodellostreaming.tel|ilgeniodellostreaming.tube|streamingita.online|tantifilm.pink
-! javascript popups
-|javascript^$popup,domain=eurostreaming.camp|eurostreaming.review|piratestreaming.bar
+/^https?:\/\/.*\.(jpg|png|html|svg|ico)/$popup,domain=animeworld.tv|cineblog01.bid|streamingita.online

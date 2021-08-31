@@ -5,7 +5,6 @@
 ||betclic.it/partner.aspx?$popup
 ||betway.it/bwp/$popup,third-party
 ||bit.ly^$popup,domain=calcioj.com
-||campaign.aliexpress.com^$popup,domain=tantifilm.pink
 ||campaigns.williamhill.it^$popup,third-party
 ||codere.it/promoRedirect?$popup,third-party
 ||edreams.it/?affiliate=$popup
