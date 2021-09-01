@@ -2285,7 +2285,7 @@ gamelegends.it##a[href^="https://www.amazon.it/"] > img
 iobenessere.it##a[href^="https://www.amazon.it/shop/"]
 tuttoamerica.it##a[href^="https://www.anrdoezrs.net/click-"]
 beautytester.it,digital-news.it,gufo.it,msn.com,neomag.it,partiteoggi.net,salutarmente.it,terrazzofacile.it##a[href^="https://www.awin1.com/"]
-amorethailandia.com,ideeviaggio.it,maremma.name,monzanet.it,turistadimestiere.com,tuttobaviera.it,vacanzeinamerica.eu,viaggio-in-germania.de##a[href^="https://www.booking.com/"]
+amorethailandia.com,ideeviaggio.it,maremma.name,monzanet.it,turistadimestiere.com,tuttobaviera.it,vacanzeinamerica.eu,viaggi-lowcost.info,viaggio-in-germania.de##a[href^="https://www.booking.com/"]
 fumettologica.it,stilearte.it##a[href^="https://www.catawiki.it"][href*="?utm_"]
 amorethailandia.com,vacanzeinamerica.eu,voyagetips.com##a[href^="https://www.getyourguide.it/"][href*="&partner_id="]
 lavocedelpopolo.it##a[href^="https://www.holyart.it/"]
