@@ -1016,6 +1016,7 @@ betitaliaweb.it##.bannergroup_rightBanner
 radiogold.it##.bannergroupskin-banner-module
 filmforlife.org##.bannerh
 saturnonotizie.it##.bannerheader
+edicolaamica.it##.bannerhome
 toscanafree.it##.bannerinoa
 toscanafree.it##.bannerinob
 bagherianews.com,betitaliaweb.it,bitsandchips.it,corriereannunci.it,corrierenews.it,corriereproposte.it,dedalomultimedia.it,radioitaliacina.com##.banneritem
