@@ -3453,6 +3453,7 @@
 ||risorsedidattiche.net/js/yb-risorsedidattichenet.js
 ||rittnerbuam.com/images/sponsor_
 ||riuscireinborsa.it^*/skin-
+||rmastri.it/42/webpatente/ban
 ||roadtvitalia.it^*/scegli-napoli-logo-
 ||robadainformatici.it^*_banner_
 ||rocketcdn.me/wp-content/uploads/Banner-$domain=vedetta.org
