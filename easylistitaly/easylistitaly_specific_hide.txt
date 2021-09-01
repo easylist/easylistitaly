@@ -636,6 +636,7 @@ amorethailandia.com,bioterra.it,brindisioggi.it,controcopertina.com,esportsitali
 agenziagiornalisticaopinione.it,brindisioggi.it,controcopertina.com,nightlife-cityguide.com,p2p-italia.com,solorecensioni.com,telemia.it###text-9
 specchiosesto.it###text-html-widget-2
 agemobile.com###text-html-widget-4
+bellaumbria.net###title-search-all + #booking-search-all
 faidatecasa.com###tm-main-top
 popcorntv.it###top
 certificatejournal.it,finanza.com###top-banner
