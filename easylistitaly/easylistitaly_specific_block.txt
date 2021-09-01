@@ -820,6 +820,7 @@
 ||cinemaitaliano.info^*/banner/
 ||cinemondium.com^*/720x90-
 ||cinquecolonne.it^*/Group-1-4-1.png
+||circuitoturismo.it^*_banner_
 ||circusf1.com^*/Amazon_
 ||circusf1.com^*/auto-doc.it-
 ||circusf1.com^*/autoparti_
