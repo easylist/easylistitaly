@@ -3940,6 +3940,8 @@
 ||terranuova.it^*/banner/
 ||terremarsicane.it^*-banner-
 ||terremarsicane.it^*/banner-
+||testuniversitari.it/files/admin/immagini/2021banner
+||testuniversitari.it/files/admin/immagini/banner
 ||tfnweb.it^*/BANNERDX-
 ||tfnweb.it^*/centro-oculistico-logo-
 ||tfnweb.it^*/COSAT.jpg
