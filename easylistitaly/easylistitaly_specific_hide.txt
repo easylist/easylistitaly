@@ -1924,6 +1924,7 @@ luinonotizie.it##.swiper-wrapper
 radioblutoscana.it##.tab03
 meteofinanza.com##.tabella-migliori-broker
 criptovalute24.com,diventaretrader.com,mercati24.com##.table-alm
+molecularlab.it##.table-riq > a[href^="http://tracker.tradedoubler.com/"]
 bottadiculo.it##.table3bonus
 bottadiculo.it##.table3bonus-side
 ilpost.it##.tag-branded
