@@ -4100,6 +4100,7 @@
 ||turismoitalianews.it^*/banners/
 ||turistadimestiere.com^*/banner-
 ||tusciatimes.eu^*/banner-
+||tusciaup.com^*-160x90-
 ||tusciaup.com^*-160x90.
 ||tusciaup.com^*-300x250.
 ||tusciaup.com^*-730X90-
