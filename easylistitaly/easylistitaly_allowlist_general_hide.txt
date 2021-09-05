@@ -13,6 +13,7 @@ newscrawler.it#@#.ad_wrapper
 filmeter.net#@#.adbanner
 subito.it#@#.adcont
 bakeca-incontri.net#@#.adtitle
+abilitychannel.tv#@#.adv-skin
 altervista.org#@#.adv_esterno
 ilbaratto.com#@#.jquery-script-ads
 tuttoaffari.com#@#.top-ad
