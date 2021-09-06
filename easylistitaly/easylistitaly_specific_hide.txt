@@ -974,6 +974,7 @@ lafune.eu##.banner_articolo
 lafune.eu##.banner_articolo_dx
 lafune.eu##.banner_articolo_sx
 infobuildenergia.it##.banner_associazioni_wrapper
+fantacalciopedia.com##.banner_blog
 bolina.it##.banner_bottom
 fidelityhouse.eu##.banner_box
 bolognafc.it##.banner_btm_page

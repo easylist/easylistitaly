@@ -1190,6 +1190,7 @@
 ||faidateingiardino.com^*/amazon-
 ||faidateingiardino.com^*/gia.gif
 ||fanoinforma.it^*/aset1.jpg
+||fantacalciopedia.com/img/banner_
 ||fantascientificast.com/partner/
 ||fantastica.it/iwm.gif
 ||farevela.net^*/Banner_
