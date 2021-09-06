@@ -1,3 +1,4 @@
 ||golandwin.it^$popup,third-party
 ||guarda4k.online^$popup
 ||heyos.com^$popup,third-party
+||scaricare-2.buzz^$popup
