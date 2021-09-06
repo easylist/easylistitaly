@@ -1653,6 +1653,7 @@
 ||ilcittadinodirecanati.it^*/banner/
 ||ilcittadinoonline.it^*/wpseo_
 ||ilclandestinogiornale.italiasera.it^*/Oktoberfest-nettuno-
+||ilclandestinogiornale.italiasera.it^*/verat-nuovo-shop.jpg
 ||ilcorriere.net^*-banner.
 ||ilcorrieredelgiorno.it^*/720x300_
 ||ilcorrieredelgiorno.it^*_SKIN_
