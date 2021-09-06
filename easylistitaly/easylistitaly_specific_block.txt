@@ -59,6 +59,7 @@
 ||abruzzolive.it^*_480x400pix.
 ||abruzzolive.tv/images/banner-
 ||abruzzolive.tv/images_client/
+||abruzzonews.eu^*/banner-
 ||abruzzonotizie.com^*/SkinLaserClinic.jpg
 ||abruzzoweb.it/cache/banners/
 ||abruzzoweb.it^*/banner-
