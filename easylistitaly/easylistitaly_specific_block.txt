@@ -1052,6 +1052,7 @@
 ||digitaloceanspaces.com/r0_tml617051305729_219392791765_1610441784203143.jpg$domain=calcioline.com
 ||digitaloceanspaces.com/r0_tml617051305729_29189493973_1617647676336804.jpg$domain=calcioline.com
 ||digitaloceanspaces.com/r0_tml617051305729_494270698709_1610441768832486.jpg$domain=calcioline.com
+||digitaloceanspaces.com/r39815364808_tml1617778685697_296639288533_1613297030482421.jpg$domain=blunote.it
 ||digitaloceanspaces.com^*/banner/$domain=mondoprimavera.com
 ||diretta.it/res/image/bookmaker-list.png
 ||diretta.it^*/banner/
