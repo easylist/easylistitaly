@@ -2295,6 +2295,7 @@
 ||lavoripubblici.it/banner/
 ||lavoroecarriere.it^*/sm-banner.
 ||lazioingol.it^*/baked.jpg
+||laziopress.it^*/banner.
 ||laziopress.it^*/banner_
 ||laziopress.it^*/unipolsai_
 ||laziorugby.it/images/sponsors/
