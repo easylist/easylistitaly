@@ -2057,6 +2057,7 @@ cinqueterre5.com,incinqueterre.com##.tour-banner
 noinotizie.it##.tre-spazi
 radiocompany.com##.trend-banner
 iltamtam.it##.tt-banner
+viaggioincoppia.com##.uagb-buttons__wrap
 notebookitalia.it##.uk-height-medium
 colonnesonore.net##.uk-panel.uk-panel-header
 cartedicredito24.it##.uk-section-default.uk-section.uk-section-xsmall
