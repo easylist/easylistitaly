@@ -436,6 +436,7 @@ lavocedibolzano.it,sportmagazinetrentino.it###mvp-site-wall
 lavocedibolzano.it,qdmnotizie.it###mvp-wallpaper
 4actionsport.it###myads
 primaonline.it###native_div_home
+amazon.it###nav-swmslot
 rovigooggi.it###news-left-box
 rovigooggi.it###news-pretext-box
 rovigooggi.it###news-top-space
@@ -530,6 +531,7 @@ paolociraci.it###sponsor-clima-160x160
 victorialibertas.it###sponsor-footer
 biellaoggi.it,casaleoggi.it,cuneooggi.it,piemonteoggi.it,vercellioggi.it###sponsor_dx
 biellaoggi.it,casaleoggi.it,cuneooggi.it,piemonteoggi.it,vercellioggi.it###sponsor_sx
+amazon.it###sponsoredProducts2_feature_div
 calciopotenza.eu,casertanafc.it###sponsors
 bolognasportnews.it###sponsors-wrapper
 sassuolooggi.it###spospo
@@ -731,6 +733,7 @@ radioradio.it,uominietrasporti.it##._ning_inner
 100ideeperristrutturare.it,calabria7.it,casa-naturale.com,quattrozampe.online,radioluce.it,villeecasali.com##._ning_outer
 comunicaffe.it##._ningzone_grid
 ilsole24ore.com##.a-leaderboard
+amazon.it##.a-link-normal[href*="&adId="]
 anteprima24.it,centotrentuno.com,corriereelorino.it,erbanotizie.com,fishingboatmagazine.it,grandangoloagrigento.it,ilfattonisseno.it,ilgolfonline.it,lombardinelmondo.org,monrealepress.it,newscatania.com,ravennawebtv.it,restoalsud.it,rietinvetrina.it,ultimenotizieflash.com,vivicentro.it##.a-single
 badcomics.it,badgames.it,badtaste.it,badtv.it##.aalb-880-product-carousel-unit
 cookist.it##.aalb-pa-product-container
@@ -1757,6 +1760,7 @@ newsnow.it##.rs-banner-strip
 cliccascienze.it##.rtecenter
 asroma.com##.s-navigation-tool-sponsors
 asroma.com##.s-primary-sponsors
+amazon.it##.s-result-item > span[cel_widget_id^="MAIN-CARDS-"]
 asroma.com##.s-secondary-sponsors
 ilsole24ore.com##.s24-abox
 my-personaltrainer.it##.sal-list-sponsored
@@ -2176,6 +2180,7 @@ abruzzolive.it##.znugldvqrk-float-center
 fip.it##.zonafornitori
 radiotorremacauda.it##.ùubm_rotation_widget
 nursetimes.org##AMP-IMG[width="320"][height="50"]
+amazon.it##[cel_widget_id="multi-brand-creative-desktop_loom-desktop-brand-footer-slot_40"]
 djmagitalia.com##[href^="http://www.djpoint.net/"]
 narnionline.com,ternieprovincia.com##a[class="banner_174"]
 narnionline.com,ternieprovincia.com##a[class="banner_392"]
@@ -2320,6 +2325,9 @@ genoanews1893.it##div[astyle="text-align: center; width: 336px; height: 280px; p
 amazon.it##div[cel_widget_id*="_SponsoredProducts"]
 amazon.it##div[cel_widget_id*="_ad-placements-"]
 amazon.it##div[cel_widget_id="desktop-dp-sims_sb-dp-id"]
+amazon.it##div[cel_widget_id="dpx-sponsored-products-detail_csm_instrumentation_wrapper"]
+amazon.it##div[cel_widget_id="sp-rhf-desktop-carousel_desktop-rhf_0"]
+amazon.it##div[cel_widget_id^="adplacements:"]
 tiscali.it##div[class*="shp-dayblk"]
 homegate.ch##div[class^="AdSlotContainer_"]
 corrieredellosport.it,tuttosport.com##div[class^="AdUnit_"]
@@ -2717,7 +2725,6 @@ sportevai.it##p[style="margin-top: 30px; border: 1px solid #0D8600; padding: 10p
 livornolive.it##rs-mask-wrap[style="width: 100% !important; height: 100% !important; position: absolute; display: block; overflow: visible;"]
 acffiorentina.com##section[class^="Partners_"]
 ilsoftware.it##section[id^="ADleaderboard"]
-amazon.it##span[cel_widget_id="MAIN-CARDS-0"]
 amazon.it##span[cel_widget_id^="MAIN-FEATURED_ASINS_LIST-"]
 amazon.it##span[class*="widgetId=loom-desktop-brand-footer-slot_hsa-id"]
 mymovies.it##table[class="mm-small mm-letter-spacing mm-padding-8 col-xs-12"]
