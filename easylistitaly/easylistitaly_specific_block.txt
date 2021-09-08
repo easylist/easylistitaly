@@ -3449,6 +3449,9 @@
 ||retesei.com^*/pincios-
 ||retesport.it/wp-content/uploads/2021/03/3.jpg
 ||ricettealvolo.it^*/Pressomassaggio-
+||rid.it^*-Banner_
+||rid.it^*_(720_x_88)_
+||rid.it^*_banner_
 ||rimini.com^*_banner_
 ||rimininews24.it^*/la-pulce-logo.png
 ||rinnovabili.it^*/300x80-logo.jpg
