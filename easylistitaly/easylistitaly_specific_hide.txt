@@ -1711,6 +1711,7 @@ reteradioazzurra.it##.pubbli_home_extra_video
 ilcaffe.tv##.pubbliredazionale
 agoravox.it##.publarge
 giochigratis.net##.publi
+solitario.it##.public1
 camperonline.it##.publink
 prendiporno.tv##.publis-bottom
 filmpost.it##.publyBanner
