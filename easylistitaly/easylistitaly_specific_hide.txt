@@ -1785,6 +1785,7 @@ greenstyle.it##.section-sticky-rail
 atalanta.it##.section_sponsor
 ad-italia.it##.sectionbox
 malpensanews.it##.self-banner
+trovaprezzi.it##.sell_on_ebay_wrapper
 excite.it##.serp-item
 calabria7.it##.sg-popup-builder-content
 calabria7.it,gamelegends.it##.sgpb-popup-overlay
