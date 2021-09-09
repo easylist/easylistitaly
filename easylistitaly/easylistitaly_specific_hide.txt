@@ -1043,6 +1043,7 @@ corriere.it,gazzetta.it##.bck-media-list-sponsor
 nelfaro.it##.bdotcom_bc_mbe_banner
 magentanostra.it##.bdt-logo-carousel-figure
 rockit.it##.bello-container
+mahjong.it##.benvenuto_pub
 reggiosera.it##.betulla-box
 ifood.it##.bg-banner
 telenord.it##.bg-link
