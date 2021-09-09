@@ -862,7 +862,7 @@ gamelegends.it##.awac-wrapper
 reggionline.com##.ays-pb-modal
 matrimoniosolidale.it##.b-invito-b
 fishingboatmagazine.it##.b-modal
-androidworld.it,mobileworld.it##.b-native
+androidworld.it,mobileworld.it,smartworld.it##.b-native
 gnoccatravels.com##.b-nner-desktop-block
 virgilio.it##.b300x250
 lecalorie.it##.b_728
