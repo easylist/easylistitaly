@@ -2172,6 +2172,7 @@ lavorincasa.it##.wrapper-sider-bacheca-aziende
 lavorincasa.it##.wrapper-widget-box-prodotti-sider
 hwupgrade.it##.wrapper-xyz
 autobelle.it##.xdad
+giochimahjong.it##.ympb_target_banner
 ornews.it##.youtube_adv_alert
 rivistanatura.com##.zcx
 rivistanatura.com##.zcx-img
