@@ -1401,6 +1401,7 @@ zerocinquantuno.it##.gdlr-logo
 ferraraitalia.it##.gdlr-logo-right-banner
 1001giochi.it##.general-leaderboard
 poki.it##.gf.Hd.zc
+mahjong.it##.giochi_h
 solitario.it##.gioco_public1
 giornaledelcilento.it##.giorn-prima-del-contenuto
 giornaledelcilento.it##.giorn-widget
