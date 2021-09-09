@@ -2062,6 +2062,7 @@ toscanafree.it,trapanioggi.it##.topbanner
 mammainviaggio.it##.topbar
 piccoletrasgressioni.it##.topbar-banner
 blunote.it,mondoprimavera.com##.topbar-below
+millecanali.it##.topheader
 everyeye.it##.topskin
 viviwebtv.it##.topstriplive
 cinqueterre5.com,incinqueterre.com##.tour-banner
