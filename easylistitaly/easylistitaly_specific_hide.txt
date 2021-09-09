@@ -2143,6 +2143,7 @@ apinsieme.it##.widget_wooslider_slideshow_slides
 vicenzanews.it##.wifiplaza
 tuttitalia.it##.wk
 bresciasat.it##.workspace__block--sponsor
+reflex-mania.com##.wp-block-buttons
 jotv.it##.wp-caption.alignnone
 amoreperleserietv.com##.wpa
 itvonline.news##.wpb_gallery
