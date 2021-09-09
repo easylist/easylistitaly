@@ -1520,6 +1520,8 @@ ilgiorno.it,ilrestodelcarlino.it,iltelegrafolivorno.it,lanazione.it,quotidiano.n
 infobuildenergia.it##.leaderboard_wrapper
 lafune.eu##.left-banner-block
 lacnews24.it,pc-gaming.it##.left-side
+fotografareindigitale.com##.lepopup-element
+fotografareindigitale.com##.lepopup-popup-overlay
 lerosa.it##.leros-widget
 laleggepertutti.it##.lexdo-banner
 laleggepertutti.it##.lexdo-llpt
