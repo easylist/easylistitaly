@@ -214,7 +214,7 @@ tefchannel.it###ctl00_cphBody_mcsSlotBannerBottom_rptGallery_ctl00_lnkLink
 tefchannel.it###ctl00_cphBody_mcsSlotBannerTop_rptGallery_ctl01_lnkLink
 teleborsa.it###ctl00_if4WTV300x250
 assisisport.it,casafacile24.com,gufo.it###custom_html-10
-assisisport.it,gufo.it,indiscreto.org,trnews.it###custom_html-11
+assisisport.it,fotonerd.it,gufo.it,indiscreto.org,trnews.it###custom_html-11
 cucinamamma.it,scienzenotizie.it###custom_html-12
 castellinotizie.it,meteogiornale.it,pistoiasport.com###custom_html-13
 cucinamamma.it,grae.it###custom_html-14
