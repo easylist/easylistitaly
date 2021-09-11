@@ -150,6 +150,7 @@
 ##.ads-sx
 ##.ads_dx
 ##.ads_pagineprof
+##.ads_singolo
 ##.ads_topdx
 ##.ads_topsx
 ##.adsbyawcloud
@@ -234,6 +235,7 @@
 ##.center-adv
 ##.center-adv-news
 ##.cmt_bgadv
+##.contenitore_ad_top
 ##.content-adv-manager
 ##.contenuto-sponsorizzato
 ##.cp_adv300x250
