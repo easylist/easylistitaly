@@ -1140,7 +1140,7 @@ donnamoderna.com##.btn-offerte-amazon
 tantifilm.center##.btn-p
 game-game.it##.btn-play
 fogliettoillustrativo.net,forextradingitalia.it##.btn-success
-ilcorsaronero-it.cz##.btn-warning
+ilcorsaronero-it.cz,vooila.com##.btn-warning
 cinemalibero.bar##.btnaaaa4k
 cinemalibero.bar##.btnaaaahd
 5chat.it##.btnafterlistchat
