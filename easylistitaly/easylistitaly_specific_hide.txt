@@ -585,7 +585,7 @@ best5.it###text-26
 lamiavitainvaligia.org,nerdevil.it###text-27
 giornalistitalia.it,lamiavitainvaligia.org###text-28
 lamiavitainvaligia.org,ricettealvolo.it###text-29
-amorethailandia.com,clientiesperti.it,gstv24.it,libripiuvenduti.it,tecnofacile.com,top10scommesse.it###text-3
+amorethailandia.com,clientiesperti.it,gstv24.it,libripiuvenduti.it,stile.it,tecnofacile.com,top10scommesse.it###text-3
 giornalistitalia.it,lamiavitainvaligia.org###text-30
 lamiavitainvaligia.org###text-31
 castellinotizie.it###text-315
