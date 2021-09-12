@@ -786,6 +786,7 @@ diredonna.it,gravidanzaonline.it,robadadonne.it##.adv-style
 quattroruote.it##.adv-wrap
 radioinstreaming.it##.adv2
 ilgallo.it##.adv4
+formulapassion.it##.advFP
 virgilio.it##.advTuning
 corrierecomunicazioni.it,digital4.biz,energyup.tech,ilsussidiario.net,industry4business.it,newsrimini.it,riskmanagement360.it##.adv_container
 ricettealvolo.it##.adv_content
