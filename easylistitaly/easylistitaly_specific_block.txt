@@ -2556,6 +2556,7 @@
 ||meteovalmorea.it^*/banners/
 ||mi-lorenteggio.com^*/bannerbasso.gif
 ||mialleno.it^*/2020-02-15-2.png
+||microgiochi.com/img/gdesire.jpg
 ||milanodabere.it/images/archivio/2000x1000/
 ||milanofinanza.it^*/activtrades.gif
 ||milanofinanza.it^*/sponsor2.png
