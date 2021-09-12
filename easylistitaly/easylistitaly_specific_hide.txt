@@ -137,6 +137,7 @@ mangialibri.com###block-bannerlibripagamento
 tuttosuigatti.it###block-bean-banner-content-bottom
 tuttosuigatti.it###block-bean-banner-content-center
 tuttosuigatti.it###block-bean-banner-header
+gpone.com###block-block-100
 cascinanotizie.it###block-block-15
 cascinanotizie.it###block-block-40
 mangialibri.com###block-block-41
