@@ -3398,6 +3398,8 @@
 ||rcrevolution.net^*/banners/
 ||realtagenoana.it^*/600x600.gif
 ||recensionelibro.it/banner/
+||redacon.it^*-banner.
+||redacon.it^*/bannerino_
 ||reggina1914.it^*/sponsor-
 ||reggioemiliameteo.it^*-sponsor/
 ||reggioemiliameteo.it^*/banner/
