@@ -49,7 +49,6 @@
 @@||oasjs.kataweb.it/cookielex/$domain=capital.it|huffingtonpost.it|m2o.it|video.deejay.it|video.espresso.repubblica.it|video.ilsecoloxix.it|video.lanuovasardegna.it|video.lastampa.it|video.rep.repubblica.it|video.repubblica.it
 @@||online-retail.unicredit.it/adv/$~third-party
 @@||repubblica.it/adimages/
-@@||services.brid.tv/player/build/plugins/adunit.js$domain=fidelityhouse.eu|laroma24.it
 @@||stats.betradar.com^$subdocument,domain=sisal.it
 @@||synchrobox.adswizz.com/register2.php$script,domain=105.net|r101.it|radiomontecarlo.net|virginradio.it
 @@||terradidelizie.s3.amazonaws.com/banners/$image,domain=terradidelizie.it
