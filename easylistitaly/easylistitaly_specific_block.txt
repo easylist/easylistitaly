@@ -1223,6 +1223,7 @@
 ||filmforlife.org^*/visual2.jpg
 ||filmscoop.it/image/webngo_
 ||filmstreaming.page/728.gif
+||filmstreaming.page/it.gif
 ||filmstreaming.page/sc.png
 ||filmstreaming.page/strem.png
 ||financecommunity.it^*_banner_
