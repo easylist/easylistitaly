@@ -757,6 +757,7 @@ cucinamoree.it,recensioniorologi.it,tecnofacile.com##.aawp-button
 topdigamma.it,tuttotek.it##.aawp-product
 androidtvbox.it,migliori-tv.it##.aawp-widget
 ilportaledelcavallo.it##.ab_top_banner
+facileporno.com##.abcnn_
 tag24.it##.above-footer
 ilsole24ore.com##.abox
 radioitalia.it##.acquista
@@ -1504,6 +1505,7 @@ screenweek.it##.itunes-btn
 gioconews.it##.jbar
 juventus.com##.jcom-o-footer__corporate
 juventus.com##.jcom-o-sponsors-nav__child
+facileporno.com##.js-sticky-banner
 pornototale.com##.js_sidebar_webcams
 superscommesse.it##.js_tracking_gtm
 pornototale.com##.js_webcam_models_container
@@ -1547,6 +1549,7 @@ business24tv.it##.link-at-body
 balarm.it##.link-skin
 legab.it,pressgiochi.it##.linkSkin
 monitorimmobiliare.it,winenews.it##.link_skin
+facileporno.com##.links-out
 skillandbet.com##.list-unstyled
 telenord.it##.lista-banner
 diretta.it##.live-betting-strip
