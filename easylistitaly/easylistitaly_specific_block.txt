@@ -3916,6 +3916,7 @@
 ||telemolise.com/banner/
 ||telemontekronio.it/images/BANNER/
 ||telenord.it/img/uploads/banners/
+||telenord.it/img/uploads/video/*.mp4
 ||telenord.it^*/asef.gif
 ||telenord.it^*/cafuil2.gif
 ||telenord.it^*/razetocasareto_
