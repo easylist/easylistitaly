@@ -227,6 +227,7 @@
 ##.box-pubb
 ##.box-pubblicita
 ##.box-pubblicita-multimedia
+##.box-pubbliredazionale
 ##.boxADV
 ##.boxAdv
 ##.box_adv_annunci
