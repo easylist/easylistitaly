@@ -161,6 +161,7 @@
 ##.adv-footer-kauppa
 ##.adv-iframe-sx
 ##.adv-inside-text
+##.adv-margin
 ##.adv-masthead
 ##.adv-promobox
 ##.adv-region
@@ -171,6 +172,7 @@
 ##.adv-sponsor__content
 ##.adv-strip-container
 ##.adv-testata
+##.adv-width-box
 ##.adv-wpz
 ##.adv100
 ##.adv300eni
