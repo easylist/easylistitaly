@@ -178,6 +178,7 @@
 ##.adv100
 ##.adv300eni
 ##.adv300x100vd
+##.advArt
 ##.advBot
 ##.advBoxDxBis
 ##.advCollapse
@@ -241,6 +242,7 @@
 ##.contenitore_ad_top
 ##.content-adv-manager
 ##.contenuto-sponsorizzato
+##.cp_adv-box
 ##.cp_adv300x250
 ##.dads-lk
 ##.edSponsor
