@@ -121,6 +121,7 @@
 ###quattrownet_468x60
 ###rcsad_BottomLeft_1
 ###rcsad_Frame1
+###rcsad_Frame2
 ###rcsad_TopLeft
 ###ripBoxAdvCentroSX2
 ###skinadvdx
