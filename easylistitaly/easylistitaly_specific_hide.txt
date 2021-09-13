@@ -712,6 +712,7 @@ agenziagiornalisticaopinione.it###youtube_responsive-6
 avvisatore.ilsecoloxix.it,avvisatoremarittimo.it###zona_266
 informaquiz.it##.ADV_Video
 focusjunior.it##.ASponsor
+chimerarevo.com##.AbovePostPlacementSlot
 comprovendolibri.it##.BB14
 comolive.it,resegoneonline.it,valtellinanews.it##.Banner
 cinemaitaliano.info##.Banner01
@@ -721,6 +722,7 @@ fc-suedtirol.com##.BannerContainer
 cinemaitaliano.info##.BannerDx
 orvietonews.it##.BannerFissodx
 atripaldanews.it##.BannerTop
+chimerarevo.com##.BelowPostPlacementSlot
 edilportale.com##.BigSquare
 sportoutdoor24.it##.BoxAdv
 viterbonews24.it,viterbooggi.eu##.CON-fascia-alto-banner
@@ -1244,6 +1246,7 @@ ilpiccolo.net##.cornice_banner
 corriereromagna.it##.corri-sidebar-desktop
 odontoiatria33.it##.corso-box
 giochi.it##.cpx-content
+chimerarevo.com##.cr-info-box
 ilmeteo.net##.creatividad
 mowmag.com##.crm-article-cut
 mowmag.com##.crm-layout-sidebar
