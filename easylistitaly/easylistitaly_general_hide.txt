@@ -310,6 +310,7 @@
 ##.rcsad_BottomLeft_x_content
 ##.related-adv
 ##.sal-adv-adsense
+##.sal-adv-slot
 ##.sb-box-pubbliredazionale
 ##.sidebar-adv
 ##.sidebar-item-adv
