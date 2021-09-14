@@ -1540,6 +1540,7 @@ laluce.news##.laluc-widget
 cookaround.com##.lancio-speciale-logo
 libero.it##.lancio_promo
 bluerating.com##.large_home_adv
+oggitreviso.it##.larghezza-banner
 pensieriparole.it##.latspot
 flashscore.it##.lb-strip-9
 blog.libero.it,blog.virgilio.it##.lb_hook1
