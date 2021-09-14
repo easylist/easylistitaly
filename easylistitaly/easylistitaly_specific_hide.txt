@@ -1239,6 +1239,7 @@ tiscali.it##.compare-box-cnt
 fuoritraiettoria.com##.computer
 autoscout24.it##.conmon-financeslice-boxes
 portaledelverde.it##.consigliaProd
+adnkronos.com##.cont-adv
 cottoepostato.it##.cont-bann
 edilportale.com##.cont-leaderBoard
 televisionando.it##.contBannDiv
