@@ -1047,7 +1047,7 @@ toscanafree.it##.bannerinob
 bagherianews.com,betitaliaweb.it,bitsandchips.it,corriereannunci.it,corrierenews.it,corriereproposte.it,dedalomultimedia.it,radioitaliacina.com##.banneritem
 prezzifarmaco.it##.bannernativo
 toscanafree.it##.bannernews
-assisisport.it,metalitalia.com,qualenergia.it,vivafm.it##.banners
+assisisport.it,geronimo.news,metalitalia.com,qualenergia.it,vivafm.it##.banners
 voglioporno.com##.banners-footer
 seguonews.it##.bannerslider_home_quadro
 radio-reporter.it##.bannerswidget

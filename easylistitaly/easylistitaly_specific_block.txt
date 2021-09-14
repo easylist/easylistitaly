@@ -1393,6 +1393,7 @@
 ||genoacfc.it^*/unnamed.jpg
 ||genova24.it^*/banner_
 ||genova3000.it/images/banners/
+||geronimo.news/media/banners/
 ||giglionews.it/images/banner_
 ||giglionews.it/images/minicrociere-giglio-giannutri.jpg
 ||gingergeneration.it/n/
