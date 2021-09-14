@@ -3417,6 +3417,7 @@
 ||reporter.it^*/ReggioCivitas.jpg
 ||reporter.it^*/scubasail.png
 ||reportmotori.it^*/Banner_
+||reportpistoia.com^*-bnr-
 ||reportpistoia.com^*.banner_
 ||reportpistoia.com^*/anmil-
 ||reportpistoia.com^*/banca-alta-
@@ -3425,6 +3426,7 @@
 ||reportpistoia.com^*/sedoni300x250.jpg
 ||reportpistoia.com^*/tredici2-
 ||reportpistoia.com^*/vlts-
+||reportpistoia.com^*_banner_
 ||repstatic.it/cless/common/promo_editoriali/
 ||repubblica.it/ad/
 ||repubblica.it/javascript/mjx.js
