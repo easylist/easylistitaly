@@ -691,8 +691,15 @@ ambientebio.it###widget-custom_html-25
 ambientebio.it###widget-custom_html-27
 ambientebio.it###widget-custom_html-28
 lanotiziatrapanese.it###widget_sp_image-10
+0766news.it###widget_sp_image-109
 lanotiziatrapanese.it###widget_sp_image-11
 unviaggioinfiniteemozioni.it###widget_sp_image-110
+0766news.it###widget_sp_image-119
+0766news.it###widget_sp_image-122
+0766news.it###widget_sp_image-131
+0766news.it###widget_sp_image-133
+0766news.it###widget_sp_image-16
+0766news.it###widget_sp_image-36
 novetv.com###widget_sp_image-37
 toscanaeventinews.it###widget_sp_image-4
 novetv.com###widget_sp_image-45
