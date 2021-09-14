@@ -155,6 +155,8 @@
 ##.ads_topdx
 ##.ads_topsx
 ##.adsbyawcloud
+##.adv--lg
+##.adv--sq
 ##.adv-100x100
 ##.adv-articolo
 ##.adv-banner-wrap
