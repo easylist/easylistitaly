@@ -2089,6 +2089,7 @@ millecanali.it##.topheader
 everyeye.it##.topskin
 viviwebtv.it##.topstriplive
 cinqueterre5.com,incinqueterre.com##.tour-banner
+tvprato.it##.tp-banner-bar
 noinotizie.it##.tre-spazi
 radiocompany.com##.trend-banner
 iltamtam.it##.tt-banner
