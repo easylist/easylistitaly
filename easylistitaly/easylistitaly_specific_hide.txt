@@ -1652,7 +1652,7 @@ leccochannelnews.it##.mvp-wallpaper
 passioneorologio.it##.my_best-price-btn
 donnaclick.it##.myadv
 calabrianews.it,concorezzo.org##.n2-section-smartslider
-ecodisavona.it,padelmagazine.it##.n2-ss-slider
+ecodisavona.it,padelmagazine.it,persemprecalcio.it##.n2-ss-slider
 nabbi.it##.nabbi-widget
 newsiciliacasa.it##.narrative
 scuolissima.com##.nascondiads
