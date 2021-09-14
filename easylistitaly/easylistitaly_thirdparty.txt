@@ -174,7 +174,7 @@
 ||pop.virgilio.us^
 ||popspace.virgilio.us^
 ||pornotizie.com/image/banner/
-||postimg.cc^$domain=funoanalisitecnica.com|napolimagazine.com
+||postimg.cc^$domain=funoanalisitecnica.com|napolimagazine.com|toscanagol.it
 ||pratoverdecagliari.it/images/banners/$third-party
 ||promo.easy-dating.org^
 ||promo.ezstatic.com^
