@@ -6,4 +6,4 @@
 ! about:blank popups
 /about:blank.*/$popup,domain=guardaserie.cam
 ! html/image popups
-/^https?:\/\/.*\.(jpg|png|html|svg|ico)/$popup,domain=altadefinizione.team|animeworld.tv|cineblog01.bid|streamingita.online
+/^https?:\/\/.*\.(jpg|png|html|svg|ico)/$popup,domain=altadefinizione.team|animeworld.tv|cineblog01.bid|guardaserie.cam|streamingita.online
