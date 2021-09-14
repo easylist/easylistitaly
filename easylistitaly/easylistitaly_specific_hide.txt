@@ -503,6 +503,8 @@ nuovosud.it###sfondo
 calabria7.it,gamelegends.it,leggopassword.it###sgpb-popup-dialog-main-div
 classlife.it###side_home_sx
 eurogamer.it###sidebar_amazon
+notiziediprato.it###simplemodal-container
+notiziediprato.it###simplemodal-overlay
 vienormali.it###site-header-banner
 vienormali.it###site-header-leaderboard
 corrieredellosport.it,epolisbari.com,familygo.eu,marigliano.net,tuttosport.com###skin
