@@ -3405,6 +3405,7 @@
 ||reggioemiliameteo.it^*/banner/
 ||reggionline.com/yb-reggionlinecom.js
 ||reggiotv.it/immagini/banner/
+||reportageonline.it^*/banner-
 ||reporter.it^*-banner-
 ||reporter.it^*-banner.
 ||reporter.it^*-Webbanner-

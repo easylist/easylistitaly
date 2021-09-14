@@ -1688,7 +1688,7 @@ italiacashback.com##.opt
 milanocam.it##.overcam_advertising
 meteofinanza.com##.overlay-buttons
 meteofinanza.com##.overlay-text
-ilgiornaleoff.it,sslazionuoto.it##.owl-carousel
+ilgiornaleoff.it,reportageonline.it,sslazionuoto.it##.owl-carousel
 livornopress.it##.padding-top.hide-in-wm-xxl
 chepreparo.it##.page-intro-description
 quotidianodiragusa.it##.page-pdmin
