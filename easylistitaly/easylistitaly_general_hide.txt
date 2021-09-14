@@ -160,6 +160,7 @@
 ##.adv-banner-wrap
 ##.adv-cnt
 ##.adv-footer-kauppa
+##.adv-h-100
 ##.adv-iframe-sx
 ##.adv-inside-text
 ##.adv-margin
