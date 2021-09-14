@@ -71,7 +71,7 @@ toscanalibri.it###banner-home
 mondocalcionews.it###banner-laterale-headerbidding
 canavesenews.it###banner-left-bottom
 canavesenews.it###banner-left-top
-cuneocronaca.it,larivieraonline.com,lemiebollicine.com,oggitreviso.it,piccolenote.ilgiornale.it###banner-top
+cuneocronaca.it,larivieraonline.com,oggitreviso.it,piccolenote.ilgiornale.it###banner-top
 canavesenews.it,torinonews24.it###banner-top-container
 cataniapubblica.tv,rid.it###banner1
 cataniapubblica.tv###banner2
@@ -979,7 +979,7 @@ milleunadonna.it,tiscali.it##.banner320x250
 giochieflash.it##.banner336x280Centered
 doctor33.it##.bannerBot
 torinofc.it##.bannerColDxStd
-lamiachampagne.com,lemiebollicine.com##.bannerContainer
+lamiachampagne.com##.bannerContainer
 bikerslife.com##.bannerDx
 djmagitalia.com##.bannerExtra
 pressgiochi.it##.bannerFila
