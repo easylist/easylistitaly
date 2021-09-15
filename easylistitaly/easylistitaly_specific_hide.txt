@@ -595,7 +595,7 @@ nerdplanet.it,popupmag.it###text-24
 lamiavitainvaligia.org,vacanzeingrecia.eu###text-25
 castellinotizie.it###text-250
 best5.it###text-26
-lamiavitainvaligia.org,nerdevil.it###text-27
+lamiavitainvaligia.org,nerdevil.it,pisanews.net###text-27
 giornalistitalia.it,lamiavitainvaligia.org###text-28
 lamiavitainvaligia.org,ricettealvolo.it###text-29
 amorethailandia.com,clientiesperti.it,gstv24.it,libripiuvenduti.it,stile.it,tecnofacile.com,top10scommesse.it###text-3
@@ -964,6 +964,7 @@ qualenergia.it##.banner-space
 vienormali.it##.banner-testata
 forum.telefonino.net,frasimania.it,giornaledibarga.it,matrimonio.com,superenalotto.com##.banner-top
 torresette.news##.banner-top-left
+pisanews.net##.banner-top-mobile
 torresette.news##.banner-top-right
 edilportale.com##.banner-velux
 milanofinanza.it##.banner-video
@@ -1137,6 +1138,8 @@ donnesulweb.it##.box-top-widget
 montagna.tv##.box-tva
 tvserial.it##.box-verticale-home
 stilearte.it##.box.shadow
+pisanews.net##.box1
+pisanews.net##.box2
 portaledelverde.it##.boxContainerBanner
 oggi.it##.boxOpenx
 flashscore.it##.boxOverContent__banner
