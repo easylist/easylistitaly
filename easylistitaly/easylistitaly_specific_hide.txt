@@ -1838,6 +1838,7 @@ rovigooggi.it##.sect-list-space
 radiomillennium.it##.section-26
 radiomillennium.it##.section-banner-home
 greenstyle.it##.section-sticky-rail
+acperugiacalcio.com##.section__sponsor-row
 atalanta.it##.section_sponsor
 ad-italia.it##.sectionbox
 malpensanews.it##.self-banner
