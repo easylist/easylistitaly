@@ -2974,6 +2974,8 @@
 ||peopleforplanet.it/tools/stradaalternativa.html
 ||peopleforplanet.it/tools/stradaalternativa_v.html
 ||perotorino.it/images/banners/
+||perugiaonline.net^*-300x250.
+||perugiaonline.net^*/banner-
 ||pescaralive.it^*/480x400-
 ||pescaralive.it^*/banner-
 ||pharmastar.it^*/banner/
