@@ -4265,6 +4265,8 @@
 ||umbriajournal.com^*_banner_
 ||umbriamagazine.com/images/banner/
 ||umbrianotizieweb.it^*/banner_
+||umbrianotizieweb.it^*/Logo_Pernazza.JPG
+||umbrianotizieweb.it^*_Banner_
 ||umbriaradio.it^*/adottauaffitto-
 ||umbriaradio.it^*/E-commerce-facebook1-
 ||umbriaradio.it^*/fondazione-cassa-risparmio.jpg
