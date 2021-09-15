@@ -869,6 +869,8 @@ stardust.it##.app-masthead
 nospoiler.it##.app__leaderboard
 radiocuore.it##.areaclick
 pensionioggi.it##.article-banner-left
+spoletonline.com##.articleBannerDX
+spoletonline.com##.articleBannerSX
 scozia.net##.article_amazon_end
 germania.info##.article_buttons_end
 amsterdam.net,germania.info,scozia.net,spagna.info##.article_hotel_vicino
@@ -1082,6 +1084,7 @@ laprovinciacr.it##.bgbanner
 libero.it##.big
 bitsandchips.it##.big-g-page
 bitsandchips.it##.big-g-sidebar
+spoletonline.com##.bigBanner
 ilcaffe.tv##.big_box
 virtusverona.it##.bigbanner
 foodnetwork.it,money.it##.billboard
@@ -1383,6 +1386,7 @@ frequentflyeritalia.com##.ffi_az_box
 masterviaggi.it##.fieldset_sponsor
 castelvetranonews.it##.fixbottom
 luinonotizie.it##.fixed-sponsor
+spoletonline.com##.fixedBanner
 pronosticirisultativincenti.com##.fixedbar
 rockol.it##.flex.\-mx-2.items-start.p-4
 podisti.net##.flexbannergroup
@@ -1589,6 +1593,7 @@ hcb.net##.logo
 timinternet.it##.logoAmazon
 timinternet.it##.logoEbay
 timinternet.it##.logoSecretEscapes
+spoletonline.com##.longBanner
 lattemiele.com##.lp-link
 lapresse.it##.lp-topleft
 viaggiperfamiglie.it##.lsp_main_slider
@@ -1897,6 +1902,7 @@ agrifoodtoday.it,agrigentonotizie.it,anconatoday.it,arezzonotizie.it,avellinotod
 sluurpy.it##.sluurpy_bdrw
 salernogranata.it##.slywdg-box
 ilgallo.it##.small-banner-1
+spoletonline.com##.smallBanner
 corriere.ca##.small_banner
 meteofinanza.com,tradingmania.it##.snp-overlay
 gas.social##.socia-adlabel
