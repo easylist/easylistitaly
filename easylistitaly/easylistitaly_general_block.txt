@@ -1,6 +1,7 @@
 -000Pubblicita-
 -000pubblicita.
 -adv-300.
+-adv-728.
 -banner-pubblicitario-
 -dx/adv_
 -Pubblicit%C3%A0-
@@ -16,6 +17,7 @@
 /000Pubblicita/*
 /adagioadv_
 /ads-fissi/*
+/adv-300x300-
 /adv-mediumrectangle-
 /ADV-Quadrata_
 /adv/codice_

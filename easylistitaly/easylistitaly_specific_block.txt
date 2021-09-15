@@ -3618,6 +3618,8 @@
 ||sentireascoltare.com^*/motordoctor.gif
 ||sentireascoltare.com^*/whisperin-sons2_3.gif
 ||serialgamer.it^*/banner_
+||sestaporta.news^*_300x300.
+||sestaporta.news^*_BANNER_
 ||sestonotizie.it^*/BANNER_
 ||sestonotizie.it^*/pentola-d-oro-sesto-san-giovanni.jpg
 ||sestonotizie.it^*/SESTO_360x210.jpg
