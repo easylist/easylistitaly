@@ -1535,6 +1535,7 @@ pornototale.com##.js_webcam_models_container
 nientepopcorn.it##.justwatch
 kisskissnapoli.it##.kissk-slider
 bolzanonuoto.it##.kiwi-logo-carousel
+tuttopisa.com##.kl-icarousel
 prezzifarmaco.it##.label-sponsorizzata
 lagenziadiviaggi.it##.lagen-skin
 laguida.it##.laguidaadvads-widget
@@ -2693,6 +2694,7 @@ radiortm.it##img[img width="600"][height="500"]
 salernitananews.it##img[style="width: 300px;"]
 tunews24.it##img[style="width:300px; height:250px"]
 salernitananews.it##img[style^="width: 315px;"]
+tuttopisa.com##img[title^="banner"]
 arte.go.it##img[width="1024"][height="256"]
 crotoneok.it##img[width="1280"][height="384"]
 hc-neumarkt.com##img[width="140"][height="68"]
