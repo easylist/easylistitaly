@@ -1819,6 +1819,7 @@
 ||ilombardia.it^*/all4cycling-
 ||ilpaesenuovo.it^*/perhospital-01.jpg
 ||ilpaesenuovo.it^*/perhospital.jpg
+||ilpisasiamonoi.it/public/banner-
 ||ilportaledelcavallo.it^*/BANNER-
 ||ilportaledelcavallo.it^*/bianchi-carrozze.jpg
 ||ilportaledelcavallo.it^*/biorama_
