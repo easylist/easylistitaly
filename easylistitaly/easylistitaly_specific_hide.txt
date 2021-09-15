@@ -147,6 +147,7 @@ cascinanotizie.it###block-block-15
 cascinanotizie.it###block-block-40
 mangialibri.com###block-block-41
 cascinanotizie.it###block-block-42
+cascinanotizie.it###block-block-43
 quotidianodellumbria.it###block-block-5
 cascinanotizie.it###block-block-53
 cascinanotizie.it###block-block-57
