@@ -504,6 +504,7 @@ nuovosud.it###sfondo
 calabria7.it,gamelegends.it,leggopassword.it###sgpb-popup-dialog-main-div
 classlife.it###side_home_sx
 eurogamer.it###sidebar_amazon
+104news.it###simpleimage-40
 notiziediprato.it###simplemodal-container
 notiziediprato.it###simplemodal-overlay
 vienormali.it###site-header-banner
@@ -2750,7 +2751,7 @@ tvcity.it##img[width="400"][height="300"]
 ilcorrieredellacitta.com##img[width="400"][height="333"]
 roadnroll.it##img[width="468"][height="60"]
 corcianonline.it,orvietosi.it,trasimenonline.it##img[width="500"][height="400"]
-radiortm.it##img[width="500"][height="500"]
+104news.it,radiortm.it##img[width="500"][height="500"]
 tusciaweb.it##img[width="520"][height="100"]
 abruzzoweb.it,arteworld.it##img[width="600"][height="200"]
 portolivorno.it##img[width="630"]
@@ -2760,7 +2761,7 @@ tvoggisalerno.it##img[width="640"][height="360"]
 beverfood.com##img[width="650"][height="320"]
 sentireascoltare.com##img[width="700"][height="300"]
 minformo.com##img[width="720"][height="125"]
-faretennis.com,italyandmore.it,tennispavese.it##img[width="728"]
+104news.it,faretennis.com,italyandmore.it,tennispavese.it##img[width="728"]
 acquariocomefare.com,eurofestivalnews.com,finanzareport.it,gamebit.it,gamelegends.it,gizchina.it,glianni80.com,ilgiornalediudine.com,ilsalvagente.it,larampa.it,pagineazzurre.com,streamingmagazine.it##img[width="728"][height="90"]
 villaggi.it##img[width="746"][height="127"]
 mondobalneare.com##img[width="750"][height="100"]
@@ -2769,6 +2770,7 @@ aprilianews.it##img[width="750"][height="625"]
 superbasket.it##img[width="750"][height="80"]
 ilfriuliveneziagiulia.it##img[width="768"][height="166"]
 travelforbusiness.it##img[width="795"][height="100"]
+104news.it##img[width="800"]
 pugliasanita.it##img[width="800"][height="400"]
 sienanews.it##img[width="800"][height="500"]
 ekuonews.it##img[width="800"][height="99"]
