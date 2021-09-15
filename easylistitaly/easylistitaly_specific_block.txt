@@ -3752,6 +3752,15 @@
 ||sportmagazinetrentino.it^*-sponsoring
 ||sportpaper.it^*/PayFan-
 ||sportpaper.it^*/PayFan.
+||sportperugia.it^*/acaciagroup2.png
+||sportperugia.it^*/AS-Comunicazione.png
+||sportperugia.it^*/assist_informatica.png
+||sportperugia.it^*/Automigliorgas_960x400.png
+||sportperugia.it^*/cerguty2020.jpg
+||sportperugia.it^*/La-Voce_VERTICALE.png
+||sportperugia.it^*/Morganti_banner-verticale.png
+||sportperugia.it^*/saet960-x-400-pixel.jpg
+||sportperugia.it^*/VolleyUmbria_VERTICALE.png
 ||sportwebsicilia.it^*/SWS_Box_
 ||spotmix.libero.it^
 ||sprintesport.it^*/PRENOTAMI24-
