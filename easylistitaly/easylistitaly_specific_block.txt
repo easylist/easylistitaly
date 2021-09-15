@@ -2358,6 +2358,7 @@
 ||libroaudio.it^*/banner_
 ||lifegate.it^*/LogoGuna_
 ||ligurianautica.com^*-728x90px.
+||ligurianautica.com^*-skin-
 ||ligurianautica.com^*/banner
 ||ligurianautica.com^*/bn-
 ||ligurianautica.com^*/Logo-MNC.gif

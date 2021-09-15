@@ -956,6 +956,7 @@ ligurianautica.com##.banner-row
 umbria24.it##.banner-show-desktop
 brindisisettenews.it,leccesette.it##.banner-side
 digital-news.it,isnews.it,viversano.net##.banner-sidebar
+ligurianautica.com##.banner-skin-link
 universodelgioco.it##.banner-sky
 canavesenews.it,torinonews24.it##.banner-slider
 qualenergia.it##.banner-space
