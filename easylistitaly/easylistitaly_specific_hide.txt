@@ -1701,6 +1701,7 @@ esportsonline.it##.oe-wrapper
 techzilla.it##.offerta-img-box
 prezzisalute.com##.offerte
 machineseeker.it##.ofni
+spoletonline.com##.oldBanner
 bebeez.it##.olo-row-banner-center-hp
 bebeez.it##.olo-row-custom-sponsor
 lamilano.it##.olvu
@@ -1832,6 +1833,7 @@ amazon.it##.sbv-video-single-product
 matrimoniosolidale.it##.scegli-bomb-dx
 flashgames.it##.scheda_ppc
 puntocellulare.it##.schlnk
+spoletonline.com##.scoopBanner
 rovigooggi.it##.sect-list-space
 radiomillennium.it##.section-26
 radiomillennium.it##.section-banner-home
