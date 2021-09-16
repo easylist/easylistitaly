@@ -63,6 +63,7 @@
 ||abruzzonotizie.com^*/SkinLaserClinic.jpg
 ||abruzzoweb.it/cache/banners/
 ||abruzzoweb.it^*/banner-
+||acao.it/wp-content/logo_sponsor/
 ||accaddeoggi.it/images/jooble300x85.jpg
 ||acquariofilia.biz/banner/
 ||acquariofilia.biz/images/banner/

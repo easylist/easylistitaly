@@ -1953,6 +1953,7 @@ ecoaltomolise.net,teleaesse.it##.spu-bg
 teleaesse.it##.spu-box
 ecoaltomolise.net##.spu-container
 assisinews.it##.square_banner
+acao.it##.squarebanner2
 ebay.it##.srp-banner
 sanitainsicilia.it##.srur_leaderboard
 cremaoggi.it,cremonaoggi.it,oglioponews.it##.standard-inside-text
