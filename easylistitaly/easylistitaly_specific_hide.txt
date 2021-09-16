@@ -578,7 +578,7 @@ chedonna.it###tdi_70_667
 newnotizie.it###tdi_8_c64
 radioluna.it###testata
 irlandaonline.com###text-1
-agenziagiornalisticaopinione.it,androidblog.it,esportsitalia.com,torremaggiore.com###text-10
+agenziagiornalisticaopinione.it,androidblog.it,esportsitalia.com,techboom.net,torremaggiore.com###text-10
 agenziagiornalisticaopinione.it,lol-esports.it###text-11
 golbym.com###text-12
 brescia2.it,clientiesperti.it,studio5fm.com###text-13
