@@ -229,7 +229,7 @@ mangiabevigodi.it###custom_html-15
 giochi.com,immaginaviaggiare.it,nintendari.it,sportando.basketball###custom_html-17
 ilgiornaledeiveronesi.it,nonsoloturisti.it,pianetaserieb.it###custom_html-18
 elementocreativo.it###custom_html-19
-assisisport.it,auguri.gratis,birramoriamoci.it,calciohellas.it,calciorosanero.it,card.it,carteprepagate.org,domanidoveandiamo.it,ilgiornaledeimarinai.it,iopartodasola.it,italiaonline.news,nautica.it,sportnews.eu,thailandiapertutti.it###custom_html-2
+assisisport.it,auguri.gratis,birramoriamoci.it,calciohellas.it,calciorosanero.it,card.it,carteprepagate.org,domanidoveandiamo.it,ilgiornaledeimarinai.it,iopartodasola.it,italiaonline.news,metallus.it,nautica.it,sportnews.eu,thailandiapertutti.it###custom_html-2
 corrierequotidiano.it,mam-e.it,sportando.basketball###custom_html-20
 castellinotizie.it,corrierequotidiano.it,elementocreativo.it,immaginaviaggiare.it,tuttojuve24.it###custom_html-21
 castellinotizie.it,elementocreativo.it,imolaoggi.it###custom_html-22
@@ -270,6 +270,7 @@ clickcase.it###dvBoxSxBanner160x600
 sudnews.it###dx-banner
 repubblica.it###editorial-Middle1
 repubblica.it###editorial-TopLeft
+metallus.it###emp_box
 news.mtv.it###execphp-14
 news.mtv.it###execphp-2
 stilearte.it###execphp-3
