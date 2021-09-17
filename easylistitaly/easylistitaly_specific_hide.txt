@@ -1515,6 +1515,7 @@ oroscopi.info##.img_oroscopo_personalizzato
 internimagazine.it##.in21-adv-mosaico
 mrw.it##.inadv
 mrw.it##.inadv-label
+inforge.net##.infernetadBannerUnit
 giochigratis.net##.inici
 innaturale.com##.innat-widget
 umbria.webcam##.inner_left_top

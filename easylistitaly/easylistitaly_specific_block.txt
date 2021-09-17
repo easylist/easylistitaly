@@ -1930,6 +1930,7 @@
 ||infooggi.it/static/universal.jpg
 ||infooggi.it^*/5d6581bb92e75775427229.jpg
 ||infoperte.it^*/franchising.jpg
+||inforge.net/forum/data/siropu/
 ||inforge.net^*.d7jARakYav.gif
 ||inforge.net^*.RLiz5G6wAy.gif
 ||informa-press.it^*/banner-
