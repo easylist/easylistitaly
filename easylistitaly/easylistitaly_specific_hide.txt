@@ -498,6 +498,7 @@ odontoiatria33.it###rowHeader
 skylinewebcams.com###rpc
 alwaysonboard.it###sab_content
 ilpost.it###scrolling-container
+allmusicitalia.it###second-masterhead
 sampdoria.it###section-b-sponsor
 mangialibri.com###section-extra-bottom-4
 zonalocale.it###sei-per-tre
@@ -511,7 +512,7 @@ notiziediprato.it###simplemodal-container
 notiziediprato.it###simplemodal-overlay
 vienormali.it###site-header-banner
 vienormali.it###site-header-leaderboard
-corrieredellosport.it,epolisbari.com,familygo.eu,marigliano.net,tuttosport.com###skin
+allmusicitalia.it,corrieredellosport.it,epolisbari.com,familygo.eu,marigliano.net,tuttosport.com###skin
 movieplayer.it###skin-desktop
 iovivoaroma.org###skin_link_dx
 iovivoaroma.org###skin_link_sx
