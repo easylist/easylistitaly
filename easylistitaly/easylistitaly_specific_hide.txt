@@ -1449,6 +1449,7 @@ zerocinquantuno.it##.gdlr-logo
 ferraraitalia.it##.gdlr-logo-right-banner
 1001giochi.it##.general-leaderboard
 poki.it##.gf.Hd.zc
+354353.com##.gggsadad21
 mahjong.it##.giochi_h
 solitario.it##.gioco_public1
 giornaledelcilento.it##.giorn-prima-del-contenuto
@@ -1460,6 +1461,7 @@ goriziaoggi.news##.goriz-widget
 studiouniversal.it##.grf-widget
 ludomedia.it##.grigliaPbi
 sorrisi.com##.gtv-trigger-elevator
+354353.com##.guanggadsadswqew
 eurostreaming.voto##.guarda
 ilgeniodellostreaming.to##.guardasingle
 ilgeniodellostreaming.to,ilgeniodellostreamings.com##.guardasingleserie1
