@@ -439,6 +439,7 @@ mymovies.it###middle1_companion
 tusciaweb.eu###miesSPLASH
 eurogamer.it###mobile-leaderboard
 eurogamer.it###mobile-mpu
+ricettedalmondo.it###mobile-primo-scroll
 padelmagazine.it###modal
 gamereactor.it###mpu
 forum.tomshw.it###mpudesk
