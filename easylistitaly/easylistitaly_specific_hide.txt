@@ -1182,6 +1182,7 @@ cinemalibero.bar##.btnaaaahd
 abruzzolive.it##.btxe-container
 androidiani.com##.buchamzn
 scaricarelibri.net##.button
+libro.cafe##.buy
 frescopesce.it##.buyaltacucina
 pensieriparole.it##.buyblock
 sitiscommesse.com##.bwin
