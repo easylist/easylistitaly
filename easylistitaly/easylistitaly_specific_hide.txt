@@ -1321,7 +1321,7 @@ cuneodice.it,genovadice.it,italiadice.it,torinodice.it##.div_banner
 laleggepertutti.it##.div_topbanner
 portadimare.it,saliinvetta.com##.djslider
 ridble.com##.dn
-ilgeniodellostreaming.icu##.download-links
+ilgeniodellostreaming.icu,tantifilm.stream##.download-links
 bolzano-bozen.it##.dt
 theitaliantimes.it##.dx
 finestresullarte.info##.dx250
