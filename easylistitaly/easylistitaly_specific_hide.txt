@@ -869,7 +869,8 @@ voglioporno.com##.analytics-event
 civile.it,ricercagiuridica.com##.animate__animated
 ansa.it##.ansacom-box
 oraridiapertura24.it##.anzeigenlabel
-insideevs.it,nonsolocap.it,omnifurgone.it,omnimoto.it##.ap
+insideevs.it,nonsolocap.it,omnifurgone.it,omnimoto.it,omnitrattore.it##.ap
+omnitrattore.it##.apb
 ridble.com##.api-box
 matrimonio.com##.app-DFP
 stardust.it##.app-masthead
@@ -1388,6 +1389,7 @@ giornaledibarga.it##.fascia-banner
 guidagrecia.net,guidaspagna.net##.fascione-display__inner
 fortuneita.com##.fb-banner
 divinafm.it##.fdc-widget-sponsor
+omnitrattore.it##.featured__apb
 brindisisera.it,brindisisettenews.it##.featured_banner
 autoscout24.it##.fed-list-rate-fragment-pair
 frequentflyeritalia.com##.ffi_az_box
@@ -1610,6 +1612,7 @@ lapresse.it##.lp-topleft
 viaggiperfamiglie.it##.lsp_main_slider
 tuttitalia.it##.lt
 omnifurgone.it##.m1-apb
+omnitrattore.it##.m1-gapb-topside
 buttanissima.it##.machette
 gonews.it##.machette-destra
 gonews.it##.machette-over-logo
