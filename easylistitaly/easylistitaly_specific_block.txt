@@ -523,6 +523,8 @@
 ||bianconerinews.eu^*/5x1000-Caburlotto-
 ||biancorossi.net^*-sportex-
 ||biancorossi.net^*/banner
+||bicimagazine.it//images/banners/
+||bicimagazine.it/images/sponsor_
 ||bicisupermarket.it/images/vintage.jpg
 ||biellaoggi.it/immagini/valenzano.gif
 ||biellaoggi.it^*/banner-

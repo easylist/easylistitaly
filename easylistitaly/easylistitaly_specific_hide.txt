@@ -822,7 +822,7 @@ corrierecomunicazioni.it,digital4.biz,energyup.tech,ilsussidiario.net,industry4b
 ricettealvolo.it##.adv_content
 ricettealvolo.it##.adv_side
 calabria7.it##.advanced_floating_content
-addicted2play.com,bimcal.it,eurogamer.it,gioco.it,lausc.it,morningstar.it,podisti.net##.advert
+addicted2play.com,bicimagazine.it,bimcal.it,eurogamer.it,gioco.it,lausc.it,morningstar.it,podisti.net##.advert
 ilfoglio.it,liberoquotidiano.it,pharmastar.it##.advertisement
 film-review.it,frasicelebri.it,helloworld.it,nanopress.it,zonalocale.it##.advertising
 altalex.com##.adviceBox
@@ -1056,7 +1056,7 @@ brindisisera.it##.bannerbox
 treccani.it##.bannercontainer
 toscanafree.it##.bannerdentro
 ilgiornaledellabellezza.it##.bannergrid
-105tv.it,almanaccocalciotoscano.it,aostaoggi.it,arezzo24.net,arezzotv.net,calcionazionale.it,casertafocus.net,concorezzo.org,dichesegnosei.it,elbareport.it,energiamercato.it,faidatehobby.it,fiumicino-online.it,gazzettadellaspezia.it,genova3000.it,giornaledimontesilvano.com,ilcervellone.it,ilcittadinodirecanati.it,ildispaccio.it,ilgazzettinobr.it,ilgrigioneitaliano.ch,ilvimercate.org,infermieriattivi.it,informatissimo.net,isnews.it,kisskiss.it,kisskissitalia.it,kisskissnapoli.it,lametino.it,maremmanews.it,metanogpl.it,monrealenews.it,notebookitalia.it,ondalibera.it,puntovendita.info,qdpnews.it,sienafree.it,teleglobal.tv,tgnordsalento.it,tv1.it,umbriatv.com,videomediterraneo.it,youtg.net##.bannergroup
+105tv.it,almanaccocalciotoscano.it,aostaoggi.it,arezzo24.net,arezzotv.net,bicimagazine.it,calcionazionale.it,casertafocus.net,concorezzo.org,dichesegnosei.it,elbareport.it,energiamercato.it,faidatehobby.it,fiumicino-online.it,gazzettadellaspezia.it,genova3000.it,giornaledimontesilvano.com,ilcervellone.it,ilcittadinodirecanati.it,ildispaccio.it,ilgazzettinobr.it,ilgrigioneitaliano.ch,ilvimercate.org,infermieriattivi.it,informatissimo.net,isnews.it,kisskiss.it,kisskissitalia.it,kisskissnapoli.it,lametino.it,maremmanews.it,metanogpl.it,monrealenews.it,notebookitalia.it,ondalibera.it,puntovendita.info,qdpnews.it,sienafree.it,teleglobal.tv,tgnordsalento.it,tv1.it,umbriatv.com,videomediterraneo.it,youtg.net##.bannergroup
 comitatoparalimpico.it##.bannergroup-banner
 betitaliaweb.it##.bannergroup_rightBanner
 radiogold.it##.bannergroupskin-banner-module
@@ -1832,6 +1832,7 @@ rimini.com##.row-bann-home-mobile
 magodelpronostico.com##.row-info-bonus
 wikihow.it##.rr_container
 newsnow.it##.rs-banner-strip
+bicimagazine.it##.rstbox
 cliccascienze.it##.rtecenter
 asroma.com##.s-navigation-tool-sponsors
 asroma.com##.s-primary-sponsors
