@@ -1213,6 +1213,7 @@
 ||fattoincasadabenedetta.it^*/footer_
 ||fattoincasadabenedetta.it^*/minibox_
 ||fcprovercelli.it^*/banner/
+||federgolf.it^*/sponsor/
 ||federtennis.it^*/Banner/
 ||federtennis.it^*/partner/
 ||federtennis.it^*/Sponsor/

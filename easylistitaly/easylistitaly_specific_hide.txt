@@ -498,6 +498,7 @@ cosenostre-online.it###rev_slider_6_7_wrapper
 ricettedalmondo.it###ricetta-box1
 ricettedalmondo.it###ricetta-box2
 rid.it###right-banners
+federgolf.it###rolex
 odontoiatria33.it###rowHeader
 skylinewebcams.com###rpc
 alwaysonboard.it###sab_content
@@ -1602,6 +1603,7 @@ diretta.it##.live-betting-strip
 sorrisi.com##.live-news-advbox
 acquavivalive.it,altamuralive.it,andrialive.it,barilive.it,barlettalive.it,bisceglielive.it,bitontolive.it,canosalive.com,cassanolive.it,coratolive.it,fasanolive.com,gioialive.it,giovinazzolive.it,gravinalive.it,margheritalive.it,minervinolive.it,molfettalive.it,okmugello.it,ruvolive.it,santeramolive.it,terlizzilive.it,termolionline.it,tranilive.it,vastoweb.com,viviwebtv.it##.live-promo
 lodeate.it##.lodea-widget
+federgolf.it##.loghi
 hcb.net##.logo
 timinternet.it##.logoAmazon
 timinternet.it##.logoEbay
