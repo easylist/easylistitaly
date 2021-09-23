@@ -2579,6 +2579,7 @@
 ||milanosud.it^*-banner.
 ||milanosud.it^*/banner-
 ||milanosud.it^*/BANNER_
+||millionaire.it^*/banner_
 ||minews.it^*/OROLOGI.gif
 ||minformo.com/img/ipini.png
 ||minformo.com/img/ipini2.png
