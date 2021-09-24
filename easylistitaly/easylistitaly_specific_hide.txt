@@ -1621,7 +1621,7 @@ gonews.it##.machette-over-logo
 gonews.it##.machette-sinistra
 magazinepragma.com##.magaz-slider
 lifegate.it##.magazine-lifegate
-cycletteprezzi.it,orologi-subacquei.it##.main-cta-banner
+cycletteprezzi.it,orologi-subacquei.it,pesipalestra.it##.main-cta-banner
 inter.it##.main-footer-sponsor
 filmaltadefinizione.me##.main-news-more
 reggionline.com##.mainBack
