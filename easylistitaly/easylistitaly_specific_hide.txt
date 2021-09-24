@@ -2561,6 +2561,7 @@ affaritaliani.it##div[style="margin-top:6px;margin-bottom:10px;padding: 9px; bor
 finalsayan.com##div[style="margin: 0 auto; width: 468px; height: 60px;"]
 quizzonline.it##div[style="margin: 1em; max-width: 366px; height: auto; border: 1px solid grey; padding: 25px; font-size: 16px; line-height: 1.4em; font-family: Verdana; background-color: white;"]
 plaffo.com##div[style="margin: 30px 0 0 0; line-height: 1.5em; "]
+psicocultura.it##div[style="max-width:290px;text-align:center;border:2px solid orangered;padding:12px 18px;box-shadow:0px 0px 1px;"]
 tifosibianconeri.com##div[style="max-width:30%; min-height: 150px; padding: 10px 0;"]
 firenzeviola.it,milannews.it,parmalive.com,sampdorianews.net,torinogranata.it,tuttonapoli.net,vocegiallorossa.it##div[style="min-height: 120px;"]
 basketissimo.com##div[style="min-height: 150px;"]
