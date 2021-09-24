@@ -83,6 +83,7 @@ camperlife.it###bannerDx
 tusciaweb.eu###bannerFondo
 fip.it###bannerPushBarLG
 fip.it###bannerPushBarXS
+generacodice.com###bannerRight
 edilportale.com###bannerSkin
 camperlife.it###bannerSx
 camperlife.it###banner_2
