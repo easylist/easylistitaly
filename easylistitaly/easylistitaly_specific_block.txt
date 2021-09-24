@@ -3886,6 +3886,7 @@
 ||superbasket.it^*/750x80-
 ||superbasket.it^*/banner_
 ||superenalotto.com/images/banners/
+||superinformati.com^*/Banner-
 ||superscommesse.it^*/bannerquadrati/
 ||svizzeranews.ch^*/Angelo-Pomposo-Martinelli.png
 ||tagmagazine.it^*/sem.jpg
