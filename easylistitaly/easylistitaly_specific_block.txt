@@ -1174,6 +1174,7 @@
 ||europacalcio.it^*/slotjava-slot-machine.png
 ||euroregionalpmed.eu/img/banner/
 ||euroregionalpmed.eu/js/clickBanner_
+||eurostreaming.bar/gcode.js
 ||eurostreaming.click/gcod.js
 ||eurostreaming.fyi/300.gif
 ||eurostreaming.fyi/728.gif
