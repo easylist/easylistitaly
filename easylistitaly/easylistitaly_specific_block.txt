@@ -1284,6 +1284,7 @@
 ||forbes.it^*-1260x100-
 ||fordfiestaitalia.com^*/sponsor/
 ||formiche.net^*/Banner_
+||formula1news.it/banner/
 ||fortitudobaseball.it/images/sponsor/
 ||fortuneita.com^*-BANNER-
 ||fortuneita.com^*/Banner
