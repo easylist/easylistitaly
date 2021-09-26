@@ -1552,6 +1552,7 @@ screenweek.it##.itunes-btn
 gioconews.it##.jbar
 juventus.com##.jcom-o-footer__corporate
 juventus.com##.jcom-o-sponsors-nav__child
+tempoitalia.it##.jeg_footer_primary
 facileporno.com##.js-sticky-banner
 pornototale.com##.js_sidebar_webcams
 superscommesse.it##.js_tracking_gtm
