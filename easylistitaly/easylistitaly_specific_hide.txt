@@ -2063,6 +2063,7 @@ romanews.eu##.td_uid_7_5fc0c934d6e11_rand
 ilprimatonazionale.it##.tdi_10
 infocilento.it##.tdi_100
 fiorentina.news##.tdi_108_886
+p300.it##.tdi_111
 chedonna.it##.tdi_115_a60
 chedonna.it##.tdi_115_ebb
 omniagate.com##.tdi_11_784
