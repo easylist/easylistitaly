@@ -386,3 +386,4 @@
 ##a[href^="https://www.centoxcento.net/?track="]
 ##a[href^="https://www.dazn.com/"][href*="?utm_source=affiliate"]
 ##a[href^="https://www.nigiara.it/scripts/redir.php?url=https://amzn.to/"]
+##div[id^="rtbuzz_"]
