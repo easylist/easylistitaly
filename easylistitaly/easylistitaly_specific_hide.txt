@@ -1367,6 +1367,7 @@ iamnaples.it##.elementor-element-62b8dbf2
 icrewplay.com##.elementor-element-6dd9dba
 icrewplay.com##.elementor-element-7577ee5
 icrewplay.com##.elementor-element-7826d5f
+crotoneok.it##.elementor-element-80e080f
 mkers.gg##.elementor-element-9a57430
 stilenaturale.com##.elementor-element-a143866
 radiortm.it##.elementor-element-b3a119d
@@ -1652,7 +1653,6 @@ ilgiorno.it,ilrestodelcarlino.it,iltelegrafolivorno.it,lanazione.it,notizie-inte
 screenweek.it##.matches-container
 radiogold.it##.max-banner-top
 laputa.it##.mbt-book-buybuttons
-crotoneok.it##.mdl_content
 medicalexcellencetv.it##.medic-widget
 powned.it##.medium-5 + .medium-7
 5chat.it##.mediumrectangle
