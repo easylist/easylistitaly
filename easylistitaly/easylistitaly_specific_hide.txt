@@ -522,6 +522,7 @@ vienormali.it###site-header-banner
 vienormali.it###site-header-leaderboard
 allmusicitalia.it,corrieredellosport.it,epolisbari.com,familygo.eu,marigliano.net,tuttosport.com###skin
 movieplayer.it###skin-desktop
+crotoneok.it###skin_container
 iovivoaroma.org###skin_link_dx
 iovivoaroma.org###skin_link_sx
 cronacheancona.it,cronachefermane.it,cronachemaceratesi.it###skinabove
@@ -1300,6 +1301,8 @@ automoto.it,moto.it##.crm-unit-bx2
 automoto.it,moto.it##.crm-unit-bx3
 automoto.it,moto.it##.crm-unit-bx4
 automoto.it,moto.it##.crm-unit-mh
+crotoneok.it##.croto-slider
+crotoneok.it##.croto-widget
 infobuild.it,infobuildenergia.it##.cskin
 techzilla.it##.css_offerte_ajax
 affaritaliani.it##.csslider1
@@ -2489,7 +2492,7 @@ ilprimatonazionale.it##div[id^="ilpri-"]
 infocilento.it##div[id^="infoc-"]
 innaturale.com##div[id^="innat-"]
 maidirelink.it##div[id^="maidi-"]
-radioluce.it##div[id^="mdl-"]
+crotoneok.it,radioluce.it##div[id^="mdl-"]
 monkeybit.it##div[id^="monke-"]
 motoexcape.com##div[id^="motoe-"]
 ebikecult.it,mtbcult.it##div[id^="mtbcu-"]
@@ -2720,7 +2723,7 @@ legnolab.it##img[class="legnolab-banner"]
 hellaslive.it##img[class="partner"]
 corrieresalentino.it##img[height="100"][width="1000"]
 pronostici-oggi.it##img[height="200"][width="250"]
-sienanews.it,vesuviolive.it##img[height="250"]
+crotoneok.it,sienanews.it,vesuviolive.it##img[height="250"]
 latinaquotidiano.it,liguriaoggi.it,staffettaonline.com,startmag.it##img[height="250"][width="300"]
 materanews.net##img[height="280"][width="336"]
 nursetimes.org##img[height="300"][width="250"]
