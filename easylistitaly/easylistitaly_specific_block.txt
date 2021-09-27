@@ -4155,6 +4155,7 @@
 ||tunews24.it^*banner300x250
 ||turismoitalianews.it^*/banner/
 ||turismoitalianews.it^*/banners/
+||turismovacanza.net^*/banner-
 ||turistadimestiere.com^*/banner-
 ||tusciatimes.eu^*/banner-
 ||tusciaup.com^*-160x90-
