@@ -1241,7 +1241,7 @@ reportpistoia.com##.code-block-18
 reportpistoia.com##.code-block-19
 keblog.it,mangiabevigodi.it##.code-block-2
 fisco7.it,ok-salute.it##.code-block-29
-avvisatore.com,cinquecolonne.it,mangiabevigodi.it,reportpistoia.com##.code-block-3
+avvisatore.com,cinquecolonne.it,mangiabevigodi.it,milanocittastato.it,reportpistoia.com##.code-block-3
 ok-salute.it##.code-block-33
 ok-salute.it##.code-block-34
 passionemamma.it,reportpistoia.com##.code-block-4
