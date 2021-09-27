@@ -1522,6 +1522,7 @@ libero.it,virgilio.it##.hp_970x90
 vaticannews.va##.hp__banner
 moto.it##.hpblock.linkedimage
 amoresepariamoci.com##.huge_it_video_player_player
+mercatini-natale.com##.hyvqg-container
 iodonna.it##.id-vda-article
 idealista.it##.idealista-banner
 milanofinanza.it##.igturboboxnews
@@ -2555,6 +2556,7 @@ foodbloggermania.it##div[style="height:260px;margin-bottom:15px;"]
 milannews.it##div[style="height:270px; padding: 10px 0;"]
 repubblica.it##div[style="height:300px; clear:both;"]
 lavorincasa.it##div[style="height:300px;"]
+mercatini-natale.com##div[style="height:350px;"]
 firenzeviola.it,milannews.it,sampdorianews.net,torinogranata.it,tuttoc.com,tuttonapoli.net##div[style="height:600px;"]
 affaritaliani.it##div[style="margin-bottom:20px;height:80px;"]
 live-sport-tv.it##div[style="margin-bottom:5px;width:300px;height:250px !important"]
