@@ -1239,7 +1239,7 @@ casasuper.it,reportpistoia.com##.code-block-16
 reportpistoia.com##.code-block-17
 reportpistoia.com##.code-block-18
 reportpistoia.com##.code-block-19
-keblog.it,mangiabevigodi.it##.code-block-2
+keblog.it,mangiabevigodi.it,milanocittastato.it##.code-block-2
 fisco7.it,ok-salute.it##.code-block-29
 avvisatore.com,cinquecolonne.it,mangiabevigodi.it,milanocittastato.it,reportpistoia.com##.code-block-3
 ok-salute.it##.code-block-33
@@ -2278,7 +2278,7 @@ narnionline.com,ternieprovincia.com##a[class="banner_174"]
 narnionline.com,ternieprovincia.com##a[class="banner_392"]
 cineblog01.bid##a[class="imm"]
 primocomunicazione.it##a[data-banner]
-industriaitaliana.it##a[data-track]
+industriaitaliana.it,milanocittastato.it##a[data-track]
 blog.libero.it,newscronaca.myblog.it##a[href*=".clickbank.net/"]
 voglioporno.com##a[href*=".com/track/"]
 videopornoitalia.it##a[href*=".rivcash.com/"]
