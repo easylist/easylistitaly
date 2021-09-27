@@ -909,7 +909,7 @@ lecalorie.it##.b_728
 tuttitalia.it##.ba
 gnoccatravels.com##.bacheca-incontri-b-nner
 quotidianodellumbria.it##.back
-strill.it##.background-cover
+canalearte.tv,strill.it##.background-cover
 avmagazine.it##.background-link
 balarm.it##.balarm_adv
 oggitreviso.it##.ban
