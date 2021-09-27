@@ -1514,6 +1514,7 @@ umbria.webcam##.home_sponsor
 flash---art.it##.homepage__banner--wrapper
 corriere.ca##.horizontal_banner
 ilturista.info##.hotel-form
+livingcesenatico.it##.hover-wrap
 libero.it##.hp_300x1
 virgilio.it##.hp_300x250
 libero.it,virgilio.it##.hp_970x90
@@ -1700,6 +1701,7 @@ scuolissima.com##.nascondiads
 ildolomiti.it##.native
 petpassion.tv##.navbar-purina-red
 mondobarcamarket.it##.navbar-right
+livingcesenatico.it##.nectar-slider-wrap
 virgilio.it##.newboxIs
 virgilio.it##.newboxIsOrizz
 ansa.it##.news-special-box
