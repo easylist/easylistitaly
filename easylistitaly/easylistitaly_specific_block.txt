@@ -2931,6 +2931,7 @@
 ||ortodacoltivare.it^*/solabiol.jpg
 ||ortodacoltivare.it^*/videocorso-orto.jpg
 ||ortofrutta.com^*/promo-
+||orvieto24.it^*-Banner_
 ||orvietosi.it^*-Banner-
 ||orvietosi.it^*/achilli.gif
 ||orvietosi.it^*/OMAR.gif
