@@ -108,6 +108,7 @@ ornews.it,riuscireinborsa.it###banner_skin
 ornews.it###banner_skin_mobile
 chiechiera.it###banner_sotto_header
 notiziediprato.it###banner_strip
+salernonotizie.it###banner_testa
 gruppovideomedia.it,monitorimmobiliare.it,radiovalbelluna.it###banner_top
 fiorentinanews.com###banneralto
 ss.lazio.it###bannerheader
