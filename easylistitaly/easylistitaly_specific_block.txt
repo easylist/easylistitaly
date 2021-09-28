@@ -4319,6 +4319,7 @@
 ||unitremilano.it^*/Wall-Specialist-
 ||universoinformatico24.it^*/banner-
 ||unonotizie.it/immagini/banner/
+||unotvweb.it^*/banners/
 ||uominietrasporti.it^*/Auto-doc.
 ||urbanfile.org^*/banner-
 ||usavellino1912.com^*/cosmopol-
