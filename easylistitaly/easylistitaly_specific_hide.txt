@@ -398,7 +398,7 @@ ondarock.it###masthead_or
 gazzettinonline.it###masthead_wrapper
 trapaniedintorni.it###media_gallery-3
 pisainvideo.it,ufficistampanazionali.it###media_image-10
-notiziariofinanziario.com,ufficistampanazionali.it###media_image-11
+esportsonline.it,notiziariofinanziario.com,ufficistampanazionali.it###media_image-11
 casanapoli.net,pisainvideo.it,spiccandoilvolo.com###media_image-12
 lamiavitainvaligia.org,weekendpremium.it###media_image-13
 lamiavitainvaligia.org,mam-e.it,pisainvideo.it###media_image-14
