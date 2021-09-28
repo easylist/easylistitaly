@@ -957,7 +957,7 @@ ebikecult.it,mtbcult.it##.banner-homepage-inside-1
 ebikecult.it,mtbcult.it##.banner-homepage-inside-2
 ebikecult.it,mtbcult.it##.banner-homepage-slider-728-90
 italiafruit.net##.banner-i
-picenonews24.it##.banner-img
+picenonews24.it,triestecafe.it##.banner-img
 cremona1.it,lacnews24.it##.banner-inner
 finanzaonline.com##.banner-inside-content
 ideawebtv.it##.banner-laterale-default
