@@ -656,7 +656,7 @@ teamworld.it###text-51
 grossetosport.com,infotelematico.com###text-53
 infotelematico.com###text-56
 grossetosport.com###text-58
-ilpost.it###text-6
+ilpost.it,whatesport.com###text-6
 grossetosport.com###text-60
 grossetosport.com,radioimmagine.it###text-61
 grossetosport.com###text-62
@@ -1693,7 +1693,7 @@ valdichianaoggi.it##.mom-e3lanat-wrap
 mondobalneare.com##.mondobalneare-banner
 boingtv.it,eurogamer.it,foodnetwork.it,gioco.it,morningstar.it##.mpu
 stellafm.it##.ms-slide-link
-amorethailandia.com##.mtsnb
+amorethailandia.com,whatesport.com##.mtsnb
 nordmilano24.it##.musthead
 affaritaliani.it##.mutui
 calcioatalanta.it,calciocasteddu.it,calciocremonese.it,calciofere.it,calciogrifo.it,calciohellas.it,calciolecce.it,calciorosanero.it,calciospezia.it,forzaparma.it,labaricalcio.it,qdmnotizie.it,siamolaroma.it,sololalazio.it,tifocosenza.it,trapanigranata.it##.mvp-wall-link
