@@ -397,7 +397,7 @@ ondarock.it###masthead_or
 gazzettinonline.it###masthead_wrapper
 trapaniedintorni.it###media_gallery-3
 pisainvideo.it,ufficistampanazionali.it###media_image-10
-ufficistampanazionali.it###media_image-11
+notiziariofinanziario.com,ufficistampanazionali.it###media_image-11
 casanapoli.net,pisainvideo.it,spiccandoilvolo.com###media_image-12
 lamiavitainvaligia.org,weekendpremium.it###media_image-13
 lamiavitainvaligia.org,mam-e.it,pisainvideo.it###media_image-14
@@ -427,8 +427,8 @@ altropensiero.net,corrispondenzaromana.it,giornalistitalia.it,pisainvideo.it,tec
 bambiniconlavaligia.com###media_image-65
 bambiniconlavaligia.com###media_image-66
 cataniaunafede.it,dentrolanotizia.tv,ufficistampanazionali.it,vivoconbenessere.it###media_image-7
-dentrolanotizia.tv,giornalistitalia.it,italiaonline.news,mam-e.it,nuotounostiledivita.it,pisainvideo.it,spiccandoilvolo.com,teleoccidente.it,ufficistampanazionali.it###media_image-8
-monetizzando.it,nuotounostiledivita.it,romaedintorninotizie.it,ufficistampanazionali.it###media_image-9
+dentrolanotizia.tv,giornalistitalia.it,italiaonline.news,mam-e.it,notiziariofinanziario.com,nuotounostiledivita.it,pisainvideo.it,spiccandoilvolo.com,teleoccidente.it,ufficistampanazionali.it###media_image-8
+monetizzando.it,notiziariofinanziario.com,nuotounostiledivita.it,romaedintorninotizie.it,ufficistampanazionali.it###media_image-9
 laquilablog.it###media_video-10
 laquilablog.it###media_video-12
 ultimenotizieoggi.it###media_video-2
