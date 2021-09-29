@@ -1234,7 +1234,7 @@ magodelpronostico.com##.cntBonusHome
 tiscali.it##.cnt_b_1
 pornototale.com##.co_sponsor
 casasuper.it,clubdoria46.it,mangiabevigodi.it,viaggi-estate.com##.code-block-1
-avvisatore.com,keblog.it,pomiglianolive.it##.code-block-11
+avvisatore.com,bottadiculo.it,keblog.it,pomiglianolive.it##.code-block-11
 avvisatore.com,pomiglianolive.it,reportpistoia.com##.code-block-12
 avvisatore.com,reportpistoia.com##.code-block-13
 avvisatore.com,reportpistoia.com##.code-block-14
@@ -2186,8 +2186,10 @@ calciofoggia1920.net##.vc_custom_1537770288568
 orvietosi.it##.vc_custom_1587719628931
 orvietosi.it##.vc_custom_1588254530218
 orvietosi.it##.vc_custom_1588254538642
+bottadiculo.it##.vc_custom_1614882187003
 pangea.news##.vc_custom_1621492912685
 londononeradio.com##.vc_custom_1625055430306
+bottadiculo.it##.vc_custom_1628242995618
 uscatanzaro.net##.vce-featured-header-background
 pornoitaliano.com##.video-block-happy-absolute
 diventarehacker.it##.videocourseHeader
