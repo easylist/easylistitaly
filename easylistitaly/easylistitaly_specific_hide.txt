@@ -561,6 +561,7 @@ amazon.it###sponsoredProducts2_feature_div
 calciopotenza.eu,casertanafc.it###sponsors
 bolognasportnews.it###sponsors-wrapper
 sassuolooggi.it###spospo
+stabiachannel.it###spot
 zeusnews.it###spotEsterno
 animeclick.it###stile_link
 dragonballforever.it###stream-item-widget-3
@@ -690,8 +691,10 @@ hc-neumarkt.com###tr-contentbottom
 mymovies.it###trovastreaming + div + table
 milleunadonna.it,tiscali.it###tsSkinAuto
 tiscali.it###tsSkinAutoPageBgG
+stabiachannel.it###underLogoBanner
 cia.it###unipol
 tuttotrasporti.it###van4fun-home
+stabiachannel.it###vertical-right-banner
 qdpnews.it,tipiace.it###vetrina
 sposa.it###vetrina-content
 altarimini.it###videoRedazionale

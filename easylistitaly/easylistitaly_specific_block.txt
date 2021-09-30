@@ -3805,6 +3805,7 @@
 ||sslazionuoto.it/images/bt-shortcode/bt-carousel-
 ||ssmatelicacalcio.com^*/fidea.png
 ||stabiachannel.it^*/banner/
+||stabiachannel.it^*/banners/
 ||stackpathcdn.com^*-banner.$domain=ondatv.tv
 ||stackpathcdn.com^*/banner_$domain=buonenotizie.it|ondatv.tv
 ||stadiosport.it^*/eurobet-bonus-benvenuto-scommesse-
