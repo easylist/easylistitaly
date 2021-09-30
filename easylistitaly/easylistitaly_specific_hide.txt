@@ -226,7 +226,7 @@ tefchannel.it###ctl00_cphBody_mcsSlotBannerTop_rptGallery_ctl01_lnkLink
 teleborsa.it###ctl00_if4WTV300x250
 assisisport.it,casafacile24.com,gufo.it###custom_html-10
 assisisport.it,fotonerd.it,gufo.it,indiscreto.org,trnews.it###custom_html-11
-cucinamamma.it,scienzenotizie.it###custom_html-12
+cucinamamma.it,momentidicalcio.com,scienzenotizie.it###custom_html-12
 castellinotizie.it,meteogiornale.it,pistoiasport.com###custom_html-13
 cucinamamma.it,grae.it###custom_html-14
 mangiabevigodi.it###custom_html-15
@@ -239,7 +239,7 @@ castellinotizie.it,corrierequotidiano.it,elementocreativo.it,immaginaviaggiare.i
 castellinotizie.it,elementocreativo.it,imolaoggi.it###custom_html-22
 fiorditerra.eu###custom_html-23
 leggopassword.it###custom_html-24
-dimagrireduepuntozero.com,pianetaserieb.it,strill.it###custom_html-25
+dimagrireduepuntozero.com,momentidicalcio.com,pianetaserieb.it,strill.it###custom_html-25
 castellinotizie.it###custom_html-26
 dimagrireduepuntozero.com,pianetaserieb.it###custom_html-27
 pianetaserieb.it,tusciatimes.eu###custom_html-28
