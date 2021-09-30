@@ -2296,6 +2296,7 @@ fip.it##.zonafornitori
 radiotorremacauda.it##.ùubm_rotation_widget
 nursetimes.org##AMP-IMG[width="320"][height="50"]
 amazon.it##[cel_widget_id="multi-brand-creative-desktop_loom-desktop-brand-footer-slot_40"]
+lacnews24.it##[data-src^="https://ads.pubbliemme-adv.net/"]
 djmagitalia.com##[href^="http://www.djpoint.net/"]
 narnionline.com,ternieprovincia.com##a[class="banner_174"]
 narnionline.com,ternieprovincia.com##a[class="banner_392"]
