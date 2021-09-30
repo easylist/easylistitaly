@@ -1728,6 +1728,7 @@ viaggi-usa.it##.notabene
 tuttotrasporti.it##.notizieSponsorizzate
 dailybest.it##.nuovobanner
 empolifc.com##.o-section--promo
+diretta.it##.odds
 tuttitalia.it##.oe
 esportsonline.it##.oe-wrapper
 techzilla.it##.offerta-img-box
