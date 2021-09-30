@@ -1864,6 +1864,7 @@
 ||ilpuntonotizie.it^*/ted.jpg
 ||ilquotidiano.it/userdata/banner/
 ||ilquotidianoditalia.it/uploads/blocks/block_5f9e40ba3bc03.jpg
+||ilreggino.it^*/Lega-Ski-ilV_
 ||ilroma.net^*-banner_
 ||ilroma.net^*/Dial_WEB.png
 ||ilroma.net^*/rotating_banner/
@@ -1897,6 +1898,7 @@
 ||iltredici.it^*/partners/
 ||ilvaglio.it/P_SKIN1920x1080_
 ||ilvaglio.it/SKIN_
+||ilvibonese.it^*/Lega-Ski-ilV_
 ||ilvimercate.org/images/banners/
 ||ilvolo.it/images/banners/
 ||ilwebmaster21.it/script1.js
