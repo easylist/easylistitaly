@@ -2596,7 +2596,7 @@ firenzeviola.it,milannews.it,parmalive.com,sampdorianews.net,torinogranata.it,tu
 basketissimo.com##div[style="min-height: 150px;"]
 siciliafan.it##div[style="min-height: 250px!important"]
 f1-news.eu,lalaziosiamonoi.it,notiziariocalcio.com,tuttobari.com,tuttosalernitana.com,tuttoveneziasport.it##div[style="min-height: 250px; max-height: 600px; overflow: hidden; width: 300px; margin: auto;"]
-fcinternews.it,filmup.com,politicanews.it##div[style="min-height: 250px;"]
+corrieredellosport.it,fcinternews.it,filmup.com,politicanews.it##div[style="min-height: 250px;"]
 tuttosalernitana.com##div[style="min-height: 280px; max-height: 600px; overflow: hidden; width: 336px; margin: auto;"]
 amaranta.it,parmalive.com,torinogranata.it,tuttojuve.com,tuttonapoli.net,tuttonovara.it##div[style="min-height: 40px;"]
 gamereactor.it##div[style="min-height: 600px; margin-bottom: 20px;"]
