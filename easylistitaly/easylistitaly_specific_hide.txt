@@ -997,6 +997,7 @@ ilturista.info##.banner2
 affaritaliani.it##.banner234Eni
 erbanotizie.com##.banner234x60-right
 infocilento.it##.banner300side
+sosfanta.calciomercato.com##.banner300widget
 fotografidigitali.it,hwupgrade.it,tvtech.it##.banner300x250
 milleunadonna.it,tiscali.it##.banner320x250
 giochieflash.it##.banner336x280Centered
