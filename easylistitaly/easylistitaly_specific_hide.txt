@@ -2171,6 +2171,7 @@ tvprato.it##.tp-banner-bar
 noinotizie.it##.tre-spazi
 radiocompany.com##.trend-banner
 iltamtam.it##.tt-banner
+tvsportiva.it##.tvg-manager-box
 smartworld.it##.tw-carousel
 viaggioincoppia.com##.uagb-buttons__wrap
 notebookitalia.it##.uk-height-medium
