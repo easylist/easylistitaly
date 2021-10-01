@@ -1794,6 +1794,7 @@ fishingboatmagazine.it##.pps-popup
 assopoker.com##.prbox-table-container
 eurogamer.it##.pre-article
 pisachannel.tv##.pre_footer
+senigallianotizie.it##.premium-banner
 pixeltv.it##.primary-sidebar
 comingsoon.it##.primeTrack
 theflightclub.it##.pro_contro
