@@ -2283,6 +2283,7 @@
 ||latina24ore.it^*_Skin_
 ||latinacorriere.it^*/AQL-
 ||latinacorriere.it^*/banner-
+||latinacorriere.it^*/BANNER_
 ||latinacorriere.it^*/output_
 ||latinapress.it^*-banner-
 ||latinapress.it^*/armstrong.jpeg
