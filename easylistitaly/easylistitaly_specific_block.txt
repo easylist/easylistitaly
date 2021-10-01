@@ -3911,6 +3911,7 @@
 ||teatrionline.com^*/banner.
 ||teatronaturale.it/media2/partners/
 ||technologyreview.it/_media/_adv/
+||technoven.com^*/Buy-Button.jpg
 ||techprincess.it^*/Forbes-
 ||tecnofacile.com^*/guida-regali-high-tech.jpg
 ||tecnofun.eu^*/pip5.jpg
