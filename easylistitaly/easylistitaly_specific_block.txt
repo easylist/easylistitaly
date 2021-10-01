@@ -3421,6 +3421,7 @@
 ||ragusah24.it^*/cornice-
 ||ragusanews.com//immagini_banner/
 ||ragusanews.com/images_banner/
+||ravennaeventi.net/file/banner1/
 ||ravennafc.it^*/sponsor-
 ||ravennatoday.it/images/skin/
 ||ravennawebtv.it^*-300x300-
