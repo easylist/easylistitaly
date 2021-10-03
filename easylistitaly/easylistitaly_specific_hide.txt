@@ -2068,7 +2068,7 @@ cattolica.info##.tc_adm
 avtrend.it##.tcb-button-link
 cronachedellacampania.it##.tcf-container
 gioconews.it##.tcvn-banner-item
-2anews.it,agimeg.it,aplombardia.eu,apsicilia.it,artuu.it,bologna2000.com,ilfattovesuviano.it,ilgranchio.it,lavocedivenezia.it,mattinodiverona.it,messinaora.it,paisemiu.com,ravennawebtv.it,realtagenoana.it,romanews.eu,stylo24.it,toscananotizie.com,tusciaup.com,vaielettrico.it,valbrembanaweb.com##.td-a-rec
+2anews.it,agimeg.it,aplombardia.eu,apsicilia.it,artuu.it,bologna2000.com,cronacadelveneto.com,ilfattovesuviano.it,ilgranchio.it,lavocedivenezia.it,mattinodiverona.it,messinaora.it,paisemiu.com,ravennawebtv.it,realtagenoana.it,romanews.eu,stylo24.it,toscananotizie.com,tusciaup.com,vaielettrico.it,valbrembanaweb.com##.td-a-rec
 ivl24.it##.td-all-devices
 ilprimatonazionale.it##.td-banner-bg
 edagricole.it##.td-banner-footer
@@ -2094,6 +2094,7 @@ cronacadiverona.com##.td_uid_15_612cef72ae785_rand
 agimeg.it##.td_uid_18_5fdb9a4e3037a_rand
 agimeg.it##.td_uid_18_606dd54991c0e_rand
 ilparmense.net##.td_uid_18_606dd7c7652fd_rand
+cronacadelveneto.com##.td_uid_25_6159d23837660_rand
 ilparmense.net##.td_uid_2_606dd7c74fb8e_rand
 romanews.eu##.td_uid_7_5fc0c934d6e11_rand
 ilprimatonazionale.it##.tdi_10
