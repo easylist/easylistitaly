@@ -2089,6 +2089,7 @@ biancorossi.net,immaginevalsassina.com,moondo.info,notizialocale.it,radiolombard
 staynerd.com##.td_spot_img_all
 varese7press.it##.td_uid_12_609028db5e06a_rand
 cronacadiverona.com##.td_uid_12_612cef72a749a_rand
+cronacadiverona.com##.td_uid_12_6159d20cc21c3_rand
 cronacadiverona.com##.td_uid_15_612cef72ae785_rand
 agimeg.it##.td_uid_18_5fdb9a4e3037a_rand
 agimeg.it##.td_uid_18_606dd54991c0e_rand
