@@ -504,6 +504,8 @@ notizieflash.net###post-adv
 lanotiziapontina.it###post-sidebar-wrap
 acprosesto.it###prefooter
 ansa.it###pressRelease
+occhionotizie.it###prj_300x250_sidebar_atf
+occhionotizie.it###prj_728x90_atf
 eurogamer.it###prod-buy
 estrazionedellotto.it,superenalotto.com###promobanner
 flashgames.it###pub_sotto
