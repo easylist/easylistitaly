@@ -1268,9 +1268,12 @@ fisco7.it,ok-salute.it##.code-block-29
 avvisatore.com,cinquecolonne.it,mangiabevigodi.it,milanocittastato.it,reportpistoia.com##.code-block-3
 ok-salute.it##.code-block-33
 ok-salute.it##.code-block-34
+ok-salute.it##.code-block-35
+ok-salute.it##.code-block-36
 passionemamma.it,reportpistoia.com##.code-block-4
 ok-salute.it##.code-block-42
 ok-salute.it##.code-block-43
+ok-salute.it##.code-block-48
 grossetosport.com,iltorinese.it,informarea.it,pomiglianolive.it##.code-block-5
 reportpistoia.com##.code-block-53
 reportpistoia.com##.code-block-54
