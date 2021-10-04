@@ -1436,6 +1436,7 @@ marsicalive.it##.fmhb-container
 brianzaweb.com,corriereelorino.it##.fn-header-banner
 focus.it##.foc-coupon
 udinese.it##.foobar-sponsor
+animaliconla.it##.footer-banner
 ilmiostiledivita.it,incucinaconnonnaanna.it,lamiacasadolcecasa.it,nonsoloautoemoto.it##.footer-columns
 caleno24ore.it##.footer-firstrow
 lega-pro.com##.footer-partner
