@@ -2248,7 +2248,7 @@ fashionandroid.com##.widget-header
 agrifoodtoday.it,agrigentonotizie.it,anconatoday.it,arezzonotizie.it,avellinotoday.it,baritoday.it,bolognatoday.it,bresciatoday.it,brindisireport.it,casertanews.it,cataniatoday.it,cesenatoday.it,chietitoday.it,firenzetoday.it,foggiatoday.it,forlitoday.it,genovatoday.it,ilpescara.it,ilpiacenza.it,latinatoday.it,lecceprima.it,leccotoday.it,livornotoday.it,milanotoday.it,modenatoday.it,monzatoday.it,napolitoday.it,novaratoday.it,padovaoggi.it,palermotoday.it,parmatoday.it,perugiatoday.it,pisatoday.it,quicomo.it,ravennatoday.it,riminitoday.it,romagnaoggi.it,romatoday.it,salernotoday.it,sondriotoday.it,sportpiacenza.it,today.it,torinotoday.it,trentotoday.it,trevisotoday.it,triesteprima.it,udinetoday.it,veneziatoday.it,veronasera.it,vicenzatoday.it##.widget-moovit
 gelocal.it,ilsecoloxix.it,lastampa.it,repubblica.it##.widget-sponsor--container
 italiavela.it##.widget.f300x524
-bici-pieghevole.info,ciaogreen.it,gufo.it,infotelematico.com,londra.today,migliorecrema.com,miglioripc.it,notiziarte.com,salutemoderna.it##.widget_aawp_widget_bestseller
+bici-pieghevole.info,caniegatti.info,ciaogreen.it,gufo.it,infotelematico.com,londra.today,migliorecrema.com,miglioripc.it,notiziarte.com,salutemoderna.it##.widget_aawp_widget_bestseller
 bici-pieghevole.info,infotelematico.com,newsly.it,stampante-3d.net,tuttoesselunga.com##.widget_aawp_widget_box
 yoga-magazine.it##.widget_alobaidirandombannerswidget
 scambiaricette.it##.widget_boodo_wp_300px
