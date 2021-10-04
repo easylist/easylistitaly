@@ -1116,6 +1116,7 @@
 ||ecovicentino.it/wp-admin/get_img.php?*sfondo
 ||ecovicentino.it/wp-content/banner/
 ||ecovicentino.it^*/banner-
+||edicoladigitale.info/app-data/banner_
 ||edilizia.com^*-skin-
 ||edilportale.com/adv/
 ||edilportale.com/Banner/

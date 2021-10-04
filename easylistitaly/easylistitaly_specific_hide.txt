@@ -958,7 +958,7 @@ mondobarcamarket.it##.banner-carousel
 nuovovolantino.it##.banner-cat
 mrw.it##.banner-center
 toscanaoggi.it##.banner-code
-1001giochi.it,amicidicasa.it,canavesetoday.it,cuneocronaca.it,divinafm.it,giochixl.it,lacrocequotidiano.it,livesicilia.it,mtv.it,picchionews.it,professionecamionista.it,sposa.it##.banner-container
+1001giochi.it,amicidicasa.it,canavesetoday.it,cuneocronaca.it,divinafm.it,edicoladigitale.info,giochixl.it,lacrocequotidiano.it,livesicilia.it,mtv.it,picchionews.it,professionecamionista.it,sposa.it##.banner-container
 punto-informatico.it##.banner-content
 ilnuovoterraglio.it,nove.firenze.it##.banner-desktop
 tuttomaremma.com##.banner-dex
@@ -998,7 +998,7 @@ universodelgioco.it##.banner-sky
 canavesenews.it,torinonews24.it##.banner-slider
 qualenergia.it##.banner-space
 vienormali.it##.banner-testata
-forum.telefonino.net,frasimania.it,giornaledibarga.it,matrimonio.com,superenalotto.com##.banner-top
+edicoladigitale.info,forum.telefonino.net,frasimania.it,giornaledibarga.it,matrimonio.com,superenalotto.com##.banner-top
 torresette.news##.banner-top-left
 pisanews.net##.banner-top-mobile
 torresette.news##.banner-top-right
