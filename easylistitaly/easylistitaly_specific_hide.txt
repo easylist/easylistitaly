@@ -1593,6 +1593,7 @@ nientepopcorn.it##.justwatch
 kisskissnapoli.it##.kissk-slider
 bolzanonuoto.it##.kiwi-logo-carousel
 tuttopisa.com##.kl-icarousel
+adcgroup.it##.l-box-partner
 prezzifarmaco.it##.label-sponsorizzata
 lagenziadiviaggi.it##.lagen-skin
 laguida.it##.laguidaadvads-widget
