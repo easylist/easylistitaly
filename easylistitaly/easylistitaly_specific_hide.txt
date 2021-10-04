@@ -374,6 +374,7 @@ finestresullarte.info###leaderboard2
 saperesalute.it###leaderboardBox
 casa.it###leaderboard_footer
 corrieredellosport.it,tuttosport.com###leaderboard_top
+concorsi.it###leaderbord
 brocardi.it###libgiurista
 diritto.it###libpro
 gazzettadellaspezia.it###linkbg
