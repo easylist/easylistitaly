@@ -2246,6 +2246,7 @@ sportando.basketball##.widget > a[rel="noopener"]
 telcoinsider.it##.widget-a-wrap
 domoticafull.it##.widget-aawp-widget-bestseller
 esportsonline.it##.widget-above-header
+montecarloliving.com##.widget-asd
 ideeregaloper.it,lantidiplomatico.it##.widget-banner
 it.businessinsider.com##.widget-financialounge
 fashionandroid.com##.widget-header
