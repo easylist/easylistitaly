@@ -4826,7 +4826,7 @@
 ||wp.com^*-banner-$domain=blogdellamusica.eu|fisco7.it|gazzettadiavellino.it|gazzettadisalerno.it|infonewsvietri.it|lagazzettaaeroportuale.it|libringioco.blog|nerdpool.it|radiocassinostereo.com
 ||wp.com^*-banner.$domain=abruzzoweb.it|blogdellamusica.eu|gazzettadiavellino.it|gazzettadisalerno.it|infonewsvietri.it|orvietosi.it|radiocassinostereo.com
 ||wp.com^*/675x238-$domain=tv9italia.it
-||wp.com^*/banner-$domain=abruzzoweb.it|bsnews.it|cinecorriere.it|foggiagol.it|giornaledicalabria.it|ilgiornaledeiveronesi.it|infocilento.it|lagazzettaaeroportuale.it|libringioco.blog|nonsoloturisti.it|nuotounostiledivita.it|oggicronaca.it|orvietosi.it|radiocassinostereo.com|teleischia.com|temporeale.info|trasimenonline.it|tusciatimes.eu|tv9italia.it|vesuvianonews.it
+||wp.com^*/banner-$domain=abruzzoweb.it|bsnews.it|cinecorriere.it|foggiagol.it|giornaledicalabria.it|ilgiornaledeiveronesi.it|infocilento.it|lagazzettaaeroportuale.it|libringioco.blog|nonsoloturisti.it|nuotounostiledivita.it|oggicronaca.it|orvietosi.it|radiocassinostereo.com|teleischia.com|temporeale.info|teverepost.it|trasimenonline.it|tusciatimes.eu|tv9italia.it|vesuvianonews.it
 ||wp.com^*/banner/$domain=buongiornoslovacchia.sk|cronacaflegrea.it
 ||wp.com^*/banner_$domain=agropolinews.it|bimbonaturale.org|brescia2.it|fisco7.it|nuotounostiledivita.it|thewalkoffame.it|tusciatimes.eu
 ||wp.com^*/banners/$domain=proiezionidiborsa.it|risveglioduemila.it
