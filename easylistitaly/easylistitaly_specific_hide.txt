@@ -612,7 +612,7 @@ newnotizie.it###tdi_8_c64
 radioluna.it###testata
 irlandaonline.com###text-1
 agenziagiornalisticaopinione.it,androidblog.it,esportsitalia.com,techboom.net,torremaggiore.com###text-10
-agenziagiornalisticaopinione.it,brand-news.it,lol-esports.it###text-11
+agenziagiornalisticaopinione.it,brand-news.it,lol-esports.it,tuttoancona.com###text-11
 esportsitalia.com,golbym.com###text-12
 brescia2.it,clientiesperti.it,studio5fm.com###text-13
 americaurlaub.de,cioccolato.org,esportsonline.it,finaria.it,myfitnessmagazine.it,p2p-italia.com,pantareinews.com###text-14
