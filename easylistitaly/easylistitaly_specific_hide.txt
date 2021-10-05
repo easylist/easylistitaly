@@ -1944,7 +1944,7 @@ tiscali.it##.sky-n
 gioco.it##.skyscraper
 netflixlovers.it##.slick-dots
 hdgolf.it##.slick-slide
-fermanafc.com,magentanostra.it,netflixlovers.it,settesere.it,uslecce.it,ustriestinacalcio1918.it##.slick-track
+etvmarche.it,fermanafc.com,magentanostra.it,netflixlovers.it,settesere.it,uslecce.it,ustriestinacalcio1918.it##.slick-track
 radioradio.it##.slide
 unimondo.org##.slide-image
 livornolive.it,toscana.live##.slidelink
@@ -2114,6 +2114,7 @@ chedonna.it##.tdi_115_a60
 chedonna.it##.tdi_115_ebb
 omniagate.com##.tdi_11_784
 radiocl1.it##.tdi_12
+etvmarche.it##.tdi_121
 volleynews.it##.tdi_132 + .tdi_136
 imiglioridififa.com##.tdi_134
 radiocl1.it##.tdi_14
