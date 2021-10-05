@@ -129,6 +129,7 @@ emiliotomasini.it,lombardreport.com###bg_banner
 orizzontescuola.it###bglink
 wuz.it###bigrectangle
 bergamoesport.it,informazionefiscale.it###billboard
+sassarioggi.it###billboard-container
 augustanews.it,avolanews.it,catanianews.it,ibleinews.it,notonews.it,pachinonews.it,siracusanews.it###billboard1
 travelstales.it###bl_html-8
 travelstales.it###bl_html-9
@@ -230,7 +231,7 @@ teleborsa.it###ctl00_if4WTV300x250
 assisisport.it,casafacile24.com,casanapoli.net,gufo.it###custom_html-10
 assisisport.it,fotonerd.it,gufo.it,indiscreto.org,trnews.it###custom_html-11
 cucinamamma.it,momentidicalcio.com,scienzenotizie.it###custom_html-12
-castellinotizie.it,meteogiornale.it,pistoiasport.com###custom_html-13
+castellinotizie.it,meteogiornale.it,pistoiasport.com,sassarioggi.it###custom_html-13
 cucinamamma.it,grae.it###custom_html-14
 mangiabevigodi.it###custom_html-15
 giochi.com,immaginaviaggiare.it,nintendari.it,sportando.basketball###custom_html-17
