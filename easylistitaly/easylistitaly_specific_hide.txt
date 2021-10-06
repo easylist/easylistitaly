@@ -140,7 +140,7 @@ ilgolfonline.it###black-studio-tinymce-8
 liberliber.it###blocco_banner
 dinamobasket.com###block-106
 meridiananotizie.it###block-11
-meridiananotizie.it###block-3
+meridiananotizie.it,trileggo.it###block-3
 meridiananotizie.it###block-9
 giornaledellamusica.it###block-adv
 mangialibri.com###block-banneramazonprimevideo
