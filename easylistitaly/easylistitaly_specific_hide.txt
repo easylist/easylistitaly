@@ -1126,6 +1126,7 @@ telenord.it##.bg-link
 vivoconbenessere.it##.bg.landscape
 nuovosud.it##.bg_skin
 laprovinciacr.it##.bgbanner
+ilsicilia.it##.bibo
 libero.it##.big
 bitsandchips.it##.big-g-page
 bitsandchips.it##.big-g-sidebar
