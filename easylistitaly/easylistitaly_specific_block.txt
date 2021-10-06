@@ -4132,6 +4132,9 @@
 ||trentinolibero.it^*/protecteasy_
 ||trentinolibero.it^*/tuttoautoricambi.it_
 ||trentinotv.it/images/banner/
+||trentinovolley.it/images/banners/
+||trentinovolley.it/images/simboli/diatec.svg
+||trentinovolley.it/images/simboli/trentino-foot.svg
 ||trentotoday.it/images/skin/
 ||tribunapoliticaweb.sm^*/sumsquadrato1-
 ||tribunapoliticaweb.sm^*_banner.
