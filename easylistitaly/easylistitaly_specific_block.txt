@@ -2985,7 +2985,7 @@
 ||palermomania.com/images/banner/
 ||palermomania.it/images/banner/
 ||palermomania.it/images/banner_
-||palermomania.it/images/informaticanetizen-formazione.jpg
+||palermomania.it/images/informaticanetizen-
 ||palermomania.it/public/banner/
 ||palermoparla.news^*/banner_
 ||palermopost.it^*/1622491142927.jpg
