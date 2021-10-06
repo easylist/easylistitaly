@@ -1300,6 +1300,7 @@
 ||fotoenotizie.it^*/baleari.
 ||fotoenotizie.it^*/bannerAlto.
 ||fotonerd.it^*/offerte-fotografiche.jpg
+||fpi.it/images/banners/
 ||frankmerenda.com^*/l7l-libri.jpg
 ||frankmerenda.com^*/quiz.jpg
 ||frasicelebri.it^*/amazonbuy.

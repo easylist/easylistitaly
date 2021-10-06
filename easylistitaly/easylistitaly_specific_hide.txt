@@ -1721,7 +1721,7 @@ alimentibevande.it,professioneallevatore.it,professionesuinicoltore.it##.mod
 federscherma.it##.module-bannerContainer
 fise.it##.module-sponsor-HP
 fise.it##.module-sponsor-container
-fitri.it##.moduletable-sponsor
+fitri.it,fpi.it##.moduletable-sponsor
 telelazionord.it##.mom-e3lanat-inner
 valdichianaoggi.it##.mom-e3lanat-wrap
 mondobalneare.com##.mondobalneare-banner
