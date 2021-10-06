@@ -586,6 +586,7 @@ sassuolooggi.it###spospo
 stabiachannel.it###spot
 zeusnews.it###spotEsterno
 animeclick.it###stile_link
+sportrentino.it###stit-link-sponsor
 dragonballforever.it###stream-item-widget-3
 dragonballforever.it###stream-item-widget-4
 valsassinanews.com###stripbanner
