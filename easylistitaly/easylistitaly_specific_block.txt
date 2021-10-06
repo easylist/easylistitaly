@@ -2608,6 +2608,7 @@
 ||mio-ip.eu^*/offerte-amazon-
 ||miotv.it/public/componenti/
 ||mitology.it^*/skin-
+||mmawiki.org^*/adv-
 ||mobileworld.it^*/black_friday.js
 ||mobimart.it/ban.
 ||modellismo.net/banner/
