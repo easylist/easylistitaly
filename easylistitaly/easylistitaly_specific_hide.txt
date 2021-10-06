@@ -381,6 +381,7 @@ brocardi.it###libgiurista
 diritto.it###libpro
 gazzettadellaspezia.it###linkbg
 teleradio-news.it###linkcat-12
+grandangoloagrigento.it###linkwrap
 benessere.com###logo-bannerino
 business.it###logoYobee
 eurogamer.it###low-leaderboard
