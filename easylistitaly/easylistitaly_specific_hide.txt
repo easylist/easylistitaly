@@ -211,6 +211,8 @@ amazon.it###click_withinLazyLoad_tower
 aquilabasket.it###clickit
 stilearte.it###codewidget-2
 autodromoimola.it###col-1332644838
+liricamente.it###colheader2
+liricamente.it###colheader3
 acquariofilia.biz###collapseobj_sidebar_google
 infobetting.com###comparazione_bonus_tabella
 matrimoniosolidale.it###confetti-bomb
