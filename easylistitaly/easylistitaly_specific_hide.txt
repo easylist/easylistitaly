@@ -797,7 +797,7 @@ radioradio.it,uominietrasporti.it##._ning_inner
 comunicaffe.it##._ningzone_grid
 ilsole24ore.com##.a-leaderboard
 amazon.it##.a-link-normal[href*="&adId="]
-anteprima24.it,centotrentuno.com,corriereelorino.it,erbanotizie.com,fishingboatmagazine.it,grandangoloagrigento.it,ilfattonisseno.it,ilgolfonline.it,lombardinelmondo.org,monrealepress.it,newscatania.com,piunotizie.it,radiocassinostereo.com,ravennawebtv.it,restoalsud.it,rietinvetrina.it,ultimenotizieflash.com,vivicentro.it##.a-single
+anteprima24.it,centotrentuno.com,corriereelorino.it,erbanotizie.com,fishingboatmagazine.it,giornaleibleo.it,grandangoloagrigento.it,ilfattonisseno.it,ilgolfonline.it,lombardinelmondo.org,monrealepress.it,newscatania.com,piunotizie.it,radiocassinostereo.com,ravennawebtv.it,restoalsud.it,rietinvetrina.it,ultimenotizieflash.com,vivicentro.it##.a-single
 badcomics.it,badgames.it,badtaste.it,badtv.it##.aalb-880-product-carousel-unit
 cookist.it##.aalb-pa-product-container
 gnius.it##.aalb-product-carousel-unit
@@ -1597,6 +1597,8 @@ gioconews.it##.jbar
 juventus.com##.jcom-o-footer__corporate
 juventus.com##.jcom-o-sponsors-nav__child
 tempoitalia.it##.jeg_footer_primary
+giornaleibleo.it##.jeg_nav_alignleft
+giornaleibleo.it##.jeg_nav_alignright
 facileporno.com##.js-sticky-banner
 pornototale.com##.js_sidebar_webcams
 superscommesse.it##.js_tracking_gtm
