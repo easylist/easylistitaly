@@ -143,6 +143,8 @@ meridiananotizie.it###block-11
 meridiananotizie.it,trileggo.it###block-3
 meridiananotizie.it###block-9
 giornaledellamusica.it###block-adv
+giornaledellamusica.it###block-adv2
+giornaledellamusica.it###block-adv3
 mangialibri.com###block-banneramazonprimevideo
 mangialibri.com###block-bannerkindleunlimited
 mangialibri.com###block-bannerlibripagamento
