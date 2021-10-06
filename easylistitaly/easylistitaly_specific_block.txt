@@ -1417,6 +1417,8 @@
 ||giochinet.co^*/slot-online-gratis.gif
 ||giochixl.it/bfb/
 ||gioconews.it^*/banners/
+||giocopulito.it^*/skin-
+||giocopulito.it^*_Banner_
 ||giornale.it^*/300x250px.
 ||giornale.it^*/600x200px.
 ||giornale.it^*/skin-
