@@ -2729,6 +2729,7 @@ ternananews.it,tuttoascolicalcio.it,tuttohellasverona.it,tuttopescaracalcio.com#
 noesolofutbol.com##div[style="text-align: center; width: 728px; height: 90px;"]
 ilgiornaledabruzzo.it##div[style="text-align: left; width: 260px; float: left; margin-bottom: 40px; margin-right: 8px; margin-left: 8px; position: relative; font-size: 9px; font-weight: bold; color: #706e70; border: 2px solid orange;"]
 motorionline.com##div[style="text-align:center;margin-bottom:20px;height:360px;overflow:hidden;"]
+grandangoloagrigento.it##div[style="text-align:center;padding-bottom: 10px; min-height: 290px"]
 click4soccer.com##div[style="width: 100%; height: 90px; text-align: center; margin: 10px 0px;"]
 click4soccer.com##div[style="width: 100%; height: 90px; text-align: center; margin: auto; margin: 5px 0px;"]
 libero.it##div[style="width: 180px; height: 150px;"]
