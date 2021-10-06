@@ -604,6 +604,7 @@ diretta.it###tab-bonus-offers
 diretta.it###tab-odds
 geologi.it###table113
 invaligia.com###table3
+altoadige.it###taboola-\ right-rail-thumbnails-2nd
 grossetoonline.com###takeOver
 villaggi.it###take_over
 gamesvillage.it###takeover_gv
