@@ -162,6 +162,7 @@
 ||offerte.buste.net^$third-party
 ||oro24ksrl.it/widget/$third-party
 ||overlays.fr/js/launcher.js
+||pegasomedia.it/public/immaginibnr/
 ||percorsidigitali.com/consulting300.gif
 ||pezzotto.net/banners/
 ||pictures.glashuette-original.com^domain=orologidiclasse.com
