@@ -2118,7 +2118,8 @@ chedonna.it##.tdi_115_ebb
 omniagate.com##.tdi_11_784
 radiocl1.it##.tdi_12
 etvmarche.it##.tdi_121
-volleynews.it##.tdi_132 + .tdi_136
+volleynews.it##.tdi_127
+volleynews.it##.tdi_131
 imiglioridififa.com##.tdi_134
 radiocl1.it##.tdi_14
 tipresentoilcane.com##.tdi_153_158
