@@ -2786,6 +2786,7 @@ narnionline.com,ternieprovincia.com,umbriamagazine.com##img[class="block_banner_
 legnolab.it##img[class="legnolab-banner"]
 hellaslive.it##img[class="partner"]
 corrieresalentino.it##img[height="100"][width="1000"]
+corrierece.it##img[height="200"]
 pronostici-oggi.it##img[height="200"][width="250"]
 crotoneok.it,sienanews.it,startmag.it,vesuviolive.it##img[height="250"]
 latinaquotidiano.it,liguriaoggi.it,staffettaonline.com,startmag.it##img[height="250"][width="300"]
