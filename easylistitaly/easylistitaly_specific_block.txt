@@ -915,6 +915,7 @@
 ||confrontaconti.it/image/banner/
 ||coni.it/images/banners/*_*.jpg
 ||coni.it/images/banners/sfondi/
+||coniugazione.it/img/mosalingua/
 ||conoscounposto.com^*-350x350-
 ||conoscounposto.com^*_350x350.
 ||conquistedellavoro.it^*/SANARTI.jpg
