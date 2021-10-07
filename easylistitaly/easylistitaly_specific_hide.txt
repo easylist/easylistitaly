@@ -620,7 +620,7 @@ chedonna.it###tdi_70_667
 newnotizie.it###tdi_8_c64
 radioluna.it###testata
 irlandaonline.com###text-1
-agenziagiornalisticaopinione.it,androidblog.it,esportsitalia.com,techboom.net,torremaggiore.com###text-10
+agenziagiornalisticaopinione.it,androidblog.it,esportsitalia.com,myfitnessmagazine.it,techboom.net,torremaggiore.com###text-10
 agenziagiornalisticaopinione.it,brand-news.it,lol-esports.it,tuttoancona.com###text-11
 esportsitalia.com,golbym.com###text-12
 brescia2.it,clientiesperti.it,studio5fm.com###text-13
@@ -630,7 +630,7 @@ finaria.it,internetto.it###text-16
 libroaudio.it###text-18
 gazzettadellavaldagri.it,giornalistitalia.it,noinotizie.it,p2p-italia.com,urbancycling.it###text-19
 adviceandcommerce.it,alwaysonboard.it,domanidoveandiamo.it,guidaviaggi.it,jotv.it,ufficistampanazionali.it###text-2
-ilpost.it,lamiavitainvaligia.org,noinotizie.it###text-20
+ilpost.it,lamiavitainvaligia.org,myfitnessmagazine.it,noinotizie.it###text-20
 mbmusic.it,playersmagazine.it###text-21
 rumors.it###text-22
 atleticanotizie.myblog.it,ilpost.it###text-23
