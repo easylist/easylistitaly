@@ -1904,6 +1904,8 @@ amazon.it##.s-result-item > span[cel_widget_id^="MAIN-CARDS-"]
 asroma.com##.s-secondary-sponsors
 ilsole24ore.com##.s24-abox
 my-personaltrainer.it##.sal-list-sponsored
+bmwpassion.com##.samBannerUnit
+bmwpassion.com##.samCodeUnit
 community.punterforum.com##.samItem
 sardiniapost.it##.sardi-widget
 genova24.it,ivg.it,lacnews24.it##.sb-banner
