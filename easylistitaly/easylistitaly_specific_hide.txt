@@ -1437,6 +1437,7 @@ exibart.com##.exibart-footer-partner
 exibart.com##.exibart-footer-partner-title
 pornototale.com##.exo_container_wrapper
 giornaledibarga.it##.fascia-banner
+oroscopissimi.it##.fascione-display
 guidagrecia.net,guidaspagna.net##.fascione-display__inner
 fortuneita.com##.fb-banner
 divinafm.it##.fdc-widget-sponsor
