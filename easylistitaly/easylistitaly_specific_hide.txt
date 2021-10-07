@@ -2961,6 +2961,7 @@ lospiffero.com#?#.article-blog-default:-abp-has(span:-abp-contains(CONTENUTO SPO
 meccanicanews.com#?#.td_block_wrap:-abp-has(a:-abp-contains(Contenuti sponsorizzati))
 metalitalia.com#?#.sidebar-block:-abp-has(a[href^="https://track.webgains.com/click.html"])
 milanofinanza.it#?#.col-md-12.intesahead.mb-3 ~ .col-md-4:-abp-has(a[href^="https://group.intesasanpaolo.com/"])
+money.it#?#.flex.flex-col.space-y-3.relative:-abp-has(.mr-2)
 open.online#?#.news:-abp-has(div:-abp-contains(in collaborazione con ))
 paginegialle.it#?#.list-element.list-element--free:-abp-has(.list-element__label--annuncio)
 plastix.it#?#.td_block_wrap:-abp-has(span:-abp-contains(Contenuti sponsorizzati))
