@@ -58,6 +58,7 @@ bazar.it,inconcreto.net,ingenio-web.it,insic.it,pavimenti-web.it###background
 brocardi.it###background-head-spacer
 brindisisettenews.it###background_body
 beverfood.com###backy
+oroscopodioggi.net###ban_bg
 rimini.com###bann-top-dx
 daneel59.altervista.org,ilmioip.it,metanogpl.it,superwheels.net###banner
 bresciaoggi.it,ilgiornaledivicenza.it,larena.it###banner-autodoc
