@@ -2096,6 +2096,7 @@
 ||italpress.com^*/gif_talpress_def.
 ||italpress.com^*/VolospeechGif_
 ||italpress.com^*_300X250MYACEA-
+||italpress.com^*_Skin-
 ||italpress.com^*_SKIN_
 ||italyandmore.it^*/GreenValleedaoste.jpg
 ||italyandmore.it^*/VIA-E.png
