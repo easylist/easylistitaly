@@ -1352,6 +1352,7 @@
 ||gazzettadimilano.it^*/CH-
 ||gazzettadimilano.it^*/CHARME-
 ||gazzettadimilano.it^*/ecommerce-kynetic-
+||gazzettadimilano.it^*/EDS-
 ||gazzettadimilano.it^*/funshopping.it_
 ||gazzettadimilano.it^*/KYNETICSOCIAL-
 ||gazzettadimilano.it^*/lesalonedelamode.jpeg
@@ -1368,11 +1369,16 @@
 ||gazzettadiparma.it/static/js/advpopulate.js
 ||gazzettadiroma.it^*/goldenbeachbig-
 ||gazzettadiroma.it^*/goldenbeachquadrato-
+||gazzettadisalerno.it^*/banner-
+||gazzettadisalerno.it^*/BEBAMALFICOAST.jpg
 ||gazzettadisalerno.it^*/DIDATO-
 ||gazzettadisalerno.it^*/ecommerce.jpg
 ||gazzettadisalerno.it^*/FACILEFAREWEB1.jpg
+||gazzettadisalerno.it^*/FINMASTER5050.jpg
 ||gazzettadisalerno.it^*/FUNSHOPPING-
 ||gazzettadisalerno.it^*/ghs-
+||gazzettadisalerno.it^*/INFISSIASALERNO-
+||gazzettadisalerno.it^*/infissiasalerno.jpg
 ||gazzettadisalerno.it^*/KYNETICSOCIAL.jpg
 ||gazzettadisalerno.it^*/PORTEMASSELLO.jpg
 ||gazzettadisalerno.it^*/spirito-pelletterie.png
