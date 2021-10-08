@@ -315,6 +315,7 @@
 ##.sal-adv-adsense
 ##.sal-adv-slot
 ##.sb-box-pubbliredazionale
+##.sdbadv
 ##.sidebar-adv
 ##.sidebar-item-adv
 ##.sidebar__adv
