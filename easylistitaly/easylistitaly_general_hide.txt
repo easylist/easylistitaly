@@ -193,13 +193,6 @@
 ##.adv_160x600_categoria
 ##.adv_468x60_categoria
 ##.adv_articolo
-##.adv_banner_ps_13
-##.adv_banner_ps_2
-##.adv_banner_ps_3
-##.adv_banner_ps_4
-##.adv_banner_ps_6
-##.adv_banner_ps_7
-##.adv_banner_ps_8
 ##.adv_block__text
 ##.adv_bug_float
 ##.adv_esterno
