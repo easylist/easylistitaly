@@ -1205,6 +1205,7 @@
 ||fanoinforma.it^*/aset1.jpg
 ||fantacalciopedia.com/img/banner_
 ||fantascientificast.com/partner/
+||fantascienzaitalia.com^*/banner-
 ||fantastica.it/iwm.gif
 ||farevela.net^*/Banner_
 ||farevela.net^*/QIcompositesFV.jpg
