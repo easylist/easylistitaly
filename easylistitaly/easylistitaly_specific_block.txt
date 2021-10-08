@@ -2946,6 +2946,7 @@
 ||ornews.it^*/banner.
 ||ornews.it^*/BCC-
 ||ornews.it^*_BANNER_
+||oroscopo.life/banner
 ||oroscopogiorno.it/mondo300.jpg
 ||ortodacoltivare.it^*/990x200_
 ||ortodacoltivare.it^*/ortofacile.jpg
