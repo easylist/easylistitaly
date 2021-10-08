@@ -456,6 +456,10 @@ lanotiziapontina.it###media_image-91
 lanotiziapontina.it###media_image-94
 laquilablog.it###media_video-10
 laquilablog.it###media_video-12
+laquilablog.it###media_video-13
+laquilablog.it###media_video-14
+laquilablog.it###media_video-15
+laquilablog.it###media_video-16
 ultimenotizieoggi.it###media_video-2
 laquilablog.it###media_video-4
 laquilablog.it###media_video-8
