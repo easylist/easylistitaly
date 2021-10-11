@@ -2807,7 +2807,7 @@
 ||nonsprecare.it^*_Inspiringirls.jpg
 ||nordmilano24.it^*/banner-
 ||normanno.com^*/motordoctor-
-||notebookcheck.it/fileadmin/Sonstiges/am_abv3_$xmlhttprequest
+||notebookcheck.it/fileadmin/Sonstiges/am_$xmlhttprequest
 ||notebookitalia.it/images/banners/
 ||notizialocale.it^*/UNIMED.jpg
 ||notiziarioeolie.it/images/banners/
