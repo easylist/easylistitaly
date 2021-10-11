@@ -4156,6 +4156,8 @@
 ||trentinovolley.it/images/simboli/diatec.svg
 ||trentinovolley.it/images/simboli/trentino-foot.svg
 ||trentotoday.it/images/skin/
+||tribunaliitaliani.it^*/MULTI_page-0001.jpg
+||tribunaliitaliani.it^*/studio-tecnico-bortolotti.jpg
 ||tribunapoliticaweb.sm^*/sumsquadrato1-
 ||tribunapoliticaweb.sm^*_banner.
 ||tribunapoliticaweb.sm^*_skin_
