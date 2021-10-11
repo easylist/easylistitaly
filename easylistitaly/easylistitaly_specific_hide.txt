@@ -1877,7 +1877,7 @@ meteofinanza.com##.reading-box
 giardinaggio.it##.reattiva_x_90
 ispazio.net##.reclame
 live-sport-tv.it##.rectangles
-gonews.it##.redazionale
+gonews.it,prealpina.it##.redazionale
 ilpiccolo.net##.redazionali
 sportytrader.it##.redirectou
 viversano.net##.referral-small
