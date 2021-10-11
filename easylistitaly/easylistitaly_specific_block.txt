@@ -102,6 +102,8 @@
 ||affaritaliani.it^*/luxu/
 ||affaritaliani.it^*/pron/
 ||affaritaliani.it^*_banner_
+||aforismicitazioni.it/images/amazon-A.jpg
+||aforismicitazioni.it/images/amazonBuy.png
 ||agcult.it/files/banner/
 ||agendapolitica.it^*/500xagenda.jpg
 ||agendapolitica.it^*/Alfa-Romeo-interno-articolo-
