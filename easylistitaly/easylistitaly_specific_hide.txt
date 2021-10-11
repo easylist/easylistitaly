@@ -138,6 +138,7 @@ metalgermania.it###black-studio-tinymce-2
 esportsmobile.it###black-studio-tinymce-6
 esportsmobile.it###black-studio-tinymce-7
 ilgolfonline.it###black-studio-tinymce-8
+tusciaweb.eu###bleft
 liberliber.it###blocco_banner
 dinamobasket.com###block-106
 meridiananotizie.it###block-11
@@ -189,7 +190,9 @@ ricettedelmondo.it###box_pub2
 virgilio.it###box_solo_promozioni
 masterviaggi.it###box_sponsor
 pensieriparole.it###boxbelow
+tusciaweb.eu###bright
 subito.it###bs_textlinks
+tusciaweb.eu###btop
 gamesvillage.it###buy_amazon
 ilpentasport.it###bx-next-sponsor
 ilpentasport.it###bx-prev-sponsor
@@ -604,6 +607,7 @@ qualenergia.it###stripbar
 erbanotizie.com###striprotator
 garedepoca.com###strisciabanner_destra
 garedepoca.com###strisciabanner_sinistra
+tusciaweb.eu###submenu-top
 mondodelgusto.it###super_dx
 telegolfo.com###super_rss_reader-5
 telegolfo.com###super_rss_reader-6

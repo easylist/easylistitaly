@@ -4201,6 +4201,7 @@
 ||tusciaup.com^*-730X90-
 ||tusciaup.com^*-730x90.
 ||tusciaweb.eu^*-520x100-
+||tusciaweb.eu^*-SKIN-
 ||tusciaweb.eu^*/Camperteam-
 ||tusciaweb.eu^*/Carrozzeria-fiorillo-
 ||tusciaweb.eu^*/cassa-edile-progetto.gif
@@ -4213,6 +4214,7 @@
 ||tusciaweb.eu^*/Digital-Fon-
 ||tusciaweb.eu^*/Ferri-Ford
 ||tusciaweb.eu^*/Ist.-J.J.Rousseau-
+||tusciaweb.eu^*/LUBE_Viterbo_
 ||tusciaweb.eu^*/Mobilificio-Oroni-
 ||tusciaweb.eu^*/Next-settembre-
 ||tusciaweb.eu^*/Osteria-basilico-
