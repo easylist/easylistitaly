@@ -1186,7 +1186,7 @@ lasiritide.it##.box-2
 avvenire.it##.box-300.Pubblicita
 sslazio.it##.box-79
 centrometeoitaliano.it##.box-adv
-iphoneitalia.com##.box-amazon
+iphoneitalia.com,teeech.it##.box-amazon
 pordenonecalcio.com##.box-assiteca
 tvserial.it##.box-atf
 centropagina.it##.box-b
