@@ -1564,6 +1564,7 @@
 ||guardaserie.video^*/guardaorads.png
 ||gufo.it^*/imperdibili-natale-eprice.jpg
 ||gufo.it^*/offerte-natale-amazon.jpg
+||guida-aziende-italiane.it/img/c015banner.jpg
 ||guidaviaggi.it/banners/
 ||guidaviaggi.it/public/banners/
 ||guidaviaggi.it^*/futura_
