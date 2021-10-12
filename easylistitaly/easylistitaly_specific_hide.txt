@@ -1283,7 +1283,7 @@ tiscali.it##.cnt_b_1
 pornototale.com##.co_sponsor
 casasuper.it,clubdoria46.it,mangiabevigodi.it,viaggi-estate.com##.code-block-1
 avvisatore.com,bottadiculo.it,keblog.it,pomiglianolive.it##.code-block-11
-avvisatore.com,pomiglianolive.it,reportpistoia.com##.code-block-12
+avvisatore.com,giornaledisegrate.it,pomiglianolive.it,reportpistoia.com##.code-block-12
 avvisatore.com,reportpistoia.com##.code-block-13
 avvisatore.com,reportpistoia.com##.code-block-14
 avvisatore.com,reportpistoia.com##.code-block-15
