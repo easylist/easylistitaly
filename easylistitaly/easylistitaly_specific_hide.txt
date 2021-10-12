@@ -2426,6 +2426,7 @@ altadefinizione.legal,cb01.run,guardaserie.cam,tantifilm.center##a[href*="/vedo4
 birramoriamoci.it##a[href*="?affiliates="]
 anteprima24.it,gnoccatravels.com,ideawebtv.it,juzaphoto.com,lavorincasa.it,mangaforever.net,phica.net,voglioporno.com##a[href*="?utm_"]
 corrierenazionale.it##a[href="http://www.herobet.it/"]
+mrpornogratis.it##a[href^="//plx.mrpornogratis.it/"]
 advtraining.it##a[href^="/ad/banner/"]
 advtraining.it##a[href^="/ad/banner_"]
 archiportale.com##a[href^="/click.asp?Url="]
