@@ -825,7 +825,7 @@ cucinamoree.it,recensioniorologi.it,tecnofacile.com##.aawp-button
 topdigamma.it,tuttotek.it##.aawp-product
 androidtvbox.it,migliori-tv.it##.aawp-widget
 ilportaledelcavallo.it##.ab_top_banner
-facileporno.com##.abcnn_
+facileporno.com##.abcnn___video-units
 tag24.it##.above-footer
 ilsole24ore.com##.abox
 radioitalia.it##.acquista
