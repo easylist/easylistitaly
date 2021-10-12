@@ -2226,6 +2226,7 @@ toscanafree.it,trapanioggi.it##.topbanner
 mammainviaggio.it##.topbar
 piccoletrasgressioni.it##.topbar-banner
 blunote.it,mondoprimavera.com##.topbar-below
+sentimentispezzini.cittadellaspezia.com##.topbar-header
 millecanali.it##.topheader
 everyeye.it##.topskin
 viviwebtv.it##.topstriplive
