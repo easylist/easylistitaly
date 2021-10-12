@@ -741,6 +741,7 @@ altarimini.it###videoRedazionale
 nerdplanet.it###wallpaper
 easyviaggio.com###wdds_po_middle
 rtalive.it###wdslider-5
+nanotv.it###wellthemes_video_widget-2
 transfermarkt.it###werbung_superbanner
 lostrillonenews.it###wideSidebar
 ambientebio.it###widget-custom_html-18
@@ -2826,6 +2827,7 @@ pronostici-oggi.it##img[height="200"][width="250"]
 crotoneok.it,sienanews.it,startmag.it,vesuviolive.it##img[height="250"]
 latinaquotidiano.it,liguriaoggi.it,staffettaonline.com,startmag.it##img[height="250"][width="300"]
 materanews.net##img[height="280"][width="336"]
+nanotv.it##img[height="300"]
 nursetimes.org##img[height="300"][width="250"]
 volleyball.it##img[height="300"][width="300"]
 volleyball.it##img[height="490"][width="745"]
