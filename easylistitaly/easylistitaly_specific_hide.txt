@@ -1327,6 +1327,7 @@ cottoepostato.it##.cont-bann
 edilportale.com##.cont-leaderBoard
 televisionando.it##.contBannDiv
 brindisisera.it,brindisisettenews.it##.cont_banner
+provinciagranda.it##.cont_banner_slide
 tiburno.tv##.container-ads
 portoravennanews.com##.container-banner
 tiburno.tv##.container-skin
