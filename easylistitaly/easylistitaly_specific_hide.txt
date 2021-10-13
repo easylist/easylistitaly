@@ -1387,7 +1387,7 @@ ilgeniodellostreaming.icu,tantifilm.stream##.download-links
 bolzano-bozen.it##.dt
 theitaliantimes.it##.dx
 finestresullarte.info##.dx250
-italiacattolicaonline.it,notiziemolise.it,specchiosesto.it,viaggi-estate.com.vicenzareport.it##.e3lan
+900letterario.it,italiacattolicaonline.it,notiziemolise.it,specchiosesto.it,viaggi-estate.com.vicenzareport.it##.e3lan
 cronachedibirra.it##.e3lan125
 ilpaesenuovo.it##.e3lanat-layout-rotator
 noisiamoagricoltura.com##.e62-63
