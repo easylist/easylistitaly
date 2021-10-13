@@ -436,7 +436,7 @@ football-magazine.it###media_image-28
 magnifici7.com###media_image-29
 benessere-sport.it,blograffo.net,corriereelorino.it,magnifici7.com,natureatblog.com,pisainvideo.it,stile.it,tecnofacile.com,tribunapoliticaweb.sm,ufficistampanazionali.it###media_image-3
 weekendpremium.it###media_image-30
-altropensiero.net,cleliamattana.com,consigliamidove.it,corriereelorino.it,esportsitalia.com,it-casinoonline.com,italiaonline.news,roadtvitalia.it,ufficistampanazionali.it###media_image-4
+altropensiero.net,cleliamattana.com,consigliamidove.it,corriereelorino.it,esportsitalia.com,iltaccuvino.com,it-casinoonline.com,italiaonline.news,roadtvitalia.it,ufficistampanazionali.it###media_image-4
 staynerd.com###media_image-40
 bambiniconlavaligia.com###media_image-41
 advister.it###media_image-44
@@ -447,7 +447,7 @@ lanotiziapontina.it,malpensa24.it###media_image-51
 lanotiziapontina.it###media_image-53
 lanotiziapontina.it###media_image-54
 lanotiziapontina.it###media_image-55
-altropensiero.net,corrispondenzaromana.it,giornalistitalia.it,pisainvideo.it,tecnogazzetta.it,ufficistampanazionali.it###media_image-6
+altropensiero.net,corrispondenzaromana.it,giornalistitalia.it,iltaccuvino.com,pisainvideo.it,tecnogazzetta.it,ufficistampanazionali.it###media_image-6
 lanotiziapontina.it###media_image-63
 bambiniconlavaligia.com###media_image-65
 bambiniconlavaligia.com###media_image-66
