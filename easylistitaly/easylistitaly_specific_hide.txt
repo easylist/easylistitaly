@@ -852,7 +852,7 @@ fidal.it##.add-logo
 informagiovani-italia.com##.add_left
 spagna.cc##.add_top
 offertevolantini.it##.add_w2_h1
-24emilia.com,antennafebea.it,autoscout24.ch,brocardi.it,casacinema.media,filmpertutti.bar,filmpertutti.kim,filmpertutti.onl,filmsenzalimiti.blog,gamemag.it,hdblog.it,hdmotori.it,hdtroll.it,ilikepuglia.it,immaginicompleanno.com,liberta.it,live-sport-tv.it,mattinonline.ch,ravennaeventi.net,sitigiochi.it,teleborsa.it,viamichelin.ch,viamichelin.it,voce.com.ve,zazoom.it##.ads
+24emilia.com,antennafebea.it,autoscout24.ch,brocardi.it,casacinema.media,filmpertutti.bar,filmpertutti.kim,filmpertutti.onl,filmsenzalimiti.blog,gamemag.it,hdblog.it,hdmotori.it,hdtroll.it,ilikepuglia.it,immaginicompleanno.com,liberta.it,live-sport-tv.it,mattinonline.ch,radiogold.it,ravennaeventi.net,sitigiochi.it,teleborsa.it,viamichelin.ch,viamichelin.it,voce.com.ve,zazoom.it##.ads
 ildolomiti.it##.adsB
 amalfinews.it,beatgogo.it,chistachiamando.it,ilportico.it,ilvescovado.it,liratv.it,occhisusalerno.it,pcprofessionale.it,positanonotizie.it,ravellonotizie.it,trova-aperto.it,valtellinamobile.it##.adsense
 animalidacompagnia.it##.adserver
@@ -2815,10 +2815,10 @@ floinviaggio.com##iframe[style="width:300px; height:250px; border: none"]
 leggopassword.it##img[alt*="Banner"]
 fortuneita.com##img[alt="Advertisement"]
 altissimoceto.it,liguriaoggi.it##img[alt="ad"]
-radiogold.it##img[alt="adv-"]
 lamoneta.it##img[alt="advertisement_alt"]
 cinematografo.it,ondatv.tv##img[alt="banner"]
 tvdigitaldivide.it##img[alt="seo sito web adv"]
+radiogold.it##img[alt^="adv-"]
 narnionline.com,ternieprovincia.com,umbriamagazine.com##img[class="block_banner_img"]
 legnolab.it##img[class="legnolab-banner"]
 hellaslive.it##img[class="partner"]
