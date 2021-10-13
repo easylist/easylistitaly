@@ -160,6 +160,7 @@
 ||altadefinizioneita.co/strem.png
 ||altadefiniziones.cz/templates/cloud/img/tad
 ||altarimini.it/bannerBoxCatalog.php
+||altissimoceto.it^*_Banners_
 ||altoadigegol.it//immagini/File_banner/
 ||altoadigetv.it/images/banner/
 ||altoadigetv.it/images/social/banner
