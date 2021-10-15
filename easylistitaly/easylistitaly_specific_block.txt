@@ -702,6 +702,7 @@
 ||carteprepagate.org^*-300-animata.gif
 ||carteprepagate.org^*/hype-300.png
 ||carteprepagate.org^*/N26-300.gif
+||casacinema.business/player/
 ||casacinema.business/wp-content/uploads/Banner-
 ||casacinema.business/wp-content/uploads/download-torrent.png
 ||casacinema.business/wp-content/uploads/registrati.png
