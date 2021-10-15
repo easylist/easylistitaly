@@ -1096,6 +1096,7 @@ tutto.tv##.banner_single_top
 startupitalia.eu##.banner_slick
 startupitalia.eu##.banner_slick_2
 scozia.net##.banner_sponsor
+fidaf.org##.banner_tab380
 bolina.it,ornews.it,ragusanews.com,salernoinweb.it,stellafm.it##.banner_top
 mercuriomagazine.com##.banner_top_left
 mercuriomagazine.com##.banner_top_right

@@ -1231,6 +1231,7 @@
 ||feelrouge.tv^*/banner_
 ||feralpisalo.it^*/sponsor/
 ||ferraraitalia.it^*/banner-
+||fidaf.org/public/sponsor/
 ||fidal.it/upload/sponsor/
 ||fif.it/images/sponsor/
 ||fif4x4.it^*-banner-
