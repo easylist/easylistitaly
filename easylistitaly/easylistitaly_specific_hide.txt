@@ -1170,6 +1170,8 @@ ilquotidianoditalia.it##.bn-md
 ilquotidianoditalia.it##.bn-sm
 stateofmind.it##.bnn-fullwidth
 abcsalute.it##.bnner_container
+ilgeniodellostreaming.bar##.bnnr1
+ilgeniodellostreaming.bar##.bnnr2
 meteovalmorea.it##.bnr-row
 staffettaonline.com##.bnrZonaLati
 giornaledibarga.it##.bnside
