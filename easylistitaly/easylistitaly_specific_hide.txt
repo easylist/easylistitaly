@@ -2125,7 +2125,7 @@ cattolica.info##.tc_adm
 avtrend.it##.tcb-button-link
 cronachedellacampania.it##.tcf-container
 gioconews.it##.tcvn-banner-item
-2anews.it,agimeg.it,aplombardia.eu,apsicilia.it,artuu.it,bologna2000.com,cronacadelleconomia.it,cronacadelveneto.com,ilfattovesuviano.it,ilgranchio.it,lavocedivenezia.it,mattinodiverona.it,medicomunicare.it,messinaora.it,motoexcape.com,paisemiu.com,ravennawebtv.it,realtagenoana.it,romanews.eu,stylo24.it,toscananotizie.com,tusciaup.com,vaielettrico.it,valbrembanaweb.com##.td-a-rec
+2anews.it,agimeg.it,aplombardia.eu,apsicilia.it,artuu.it,bologna2000.com,cronacadelleconomia.it,cronacadelveneto.com,europacalcio.it,ilfattovesuviano.it,ilgranchio.it,lavocedivenezia.it,mattinodiverona.it,medicomunicare.it,messinaora.it,motoexcape.com,paisemiu.com,ravennawebtv.it,realtagenoana.it,romanews.eu,stylo24.it,toscananotizie.com,tusciaup.com,vaielettrico.it,valbrembanaweb.com##.td-a-rec
 ivl24.it##.td-all-devices
 ilprimatonazionale.it##.td-banner-bg
 edagricole.it##.td-banner-footer
@@ -2193,6 +2193,7 @@ chedonna.it##.tdi_71_064
 chedonna.it##.tdi_71_985
 chedonna.it##.tdi_71_e6c
 vivitelese.it##.tdi_72
+europacalcio.it##.tdi_75
 infocilento.it##.tdi_76
 rinnovabili.it##.tdi_88_884
 tomshw.it##.teetee-embed
