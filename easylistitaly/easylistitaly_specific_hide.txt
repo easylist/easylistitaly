@@ -438,7 +438,7 @@ football-magazine.it,starwarsnews.it###media_image-26
 weekendpremium.it###media_image-27
 football-magazine.it###media_image-28
 magnifici7.com###media_image-29
-benessere-sport.it,blograffo.net,corriereelorino.it,magnifici7.com,natureatblog.com,pisainvideo.it,stile.it,tecnofacile.com,tribunapoliticaweb.sm,ufficistampanazionali.it###media_image-3
+benessere-sport.it,blograffo.net,corriereelorino.it,magnifici7.com,natureatblog.com,nonsolomac.com,pisainvideo.it,stile.it,tecnofacile.com,tribunapoliticaweb.sm,ufficistampanazionali.it###media_image-3
 weekendpremium.it###media_image-30
 altropensiero.net,cleliamattana.com,consigliamidove.it,corriereelorino.it,esportsitalia.com,iltaccuvino.com,it-casinoonline.com,italiaonline.news,roadtvitalia.it,ufficistampanazionali.it###media_image-4
 staynerd.com###media_image-40
@@ -657,9 +657,9 @@ castellinotizie.it###text-250
 best5.it###text-26
 lamiavitainvaligia.org,nerdevil.it,pisanews.net###text-27
 giornalistitalia.it,lamiavitainvaligia.org###text-28
-lamiavitainvaligia.org,ricettealvolo.it###text-29
+lamiavitainvaligia.org,nonsolomac.com,ricettealvolo.it###text-29
 amorethailandia.com,clientiesperti.it,gstv24.it,libripiuvenduti.it,mmawiki.org,stile.it,tecnofacile.com,top10scommesse.it###text-3
-giornalistitalia.it,lamiavitainvaligia.org###text-30
+giornalistitalia.it,lamiavitainvaligia.org,nonsolomac.com###text-30
 lamiavitainvaligia.org###text-31
 castellinotizie.it###text-315
 universo7p.it###text-32
