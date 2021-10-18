@@ -181,6 +181,8 @@ erbanotizie.com###box
 corriere.it###box-codici-sconto
 hwupgrade.it###box-next-container
 diretta.it###box-over-content-a
+cagliarilivemagazine.it###box321
+cagliarilivemagazine.it###box322
 guidaviaggi.it###boxBannerSKIN
 ilpentasport.it###boxSponsor
 subito.it###box_agos
@@ -2022,6 +2024,7 @@ lifegate.it##.special-contents
 gay.it,pgcasa.it##.speciale
 comingsoon.it##.sponPro
 acsi.it,asinazionale.it,bebeez.it,bolzano-bozen.it,europages.it,fip.it,fortitudobaseball.it,girovagandointrentino.it,ilmonferrato.it,imperiatv.it,ioarte.org,legab.it,olimpiamilano.com,repubblica.it,stickmangames.altervista.org,torinometeo.org##.sponsor
+cagliarilivemagazine.it##.sponsor-associati
 luinonotizie.it##.sponsor-background-big
 pallacanestrotrieste.it##.sponsor-carousel
 assoallenatori.it##.sponsor-container
