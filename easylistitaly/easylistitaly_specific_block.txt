@@ -2645,6 +2645,7 @@
 ||momentidicalcio.com^*/img_4897-1100x400.jpg
 ||momentidicalcio.com^*/img_9408.jpg
 ||momentosera.it/bannerupload/
+||mondo-motori.it^*/banner_
 ||mondo3.com^*/offerte-amazon-offerte.jpg
 ||mondobalneare.com^*/banner_
 ||mondobarcamarket.it^*-banner-
