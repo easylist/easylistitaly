@@ -20,7 +20,7 @@
 @@||carrozzeriabertazzoni.it/immagini/PUBBLICITA.gif
 @@||carrozzeriabertazzoni.it/pubblicita/
 @@||catchup.acdsolutions.it/jstag/videoplayerFluid/*&adZone=$script,domain=sanmarinortv.sm
-@@||cdnb.4strokemedia.com/carousel/$domain=fantacalcio.it|formulapassion.it|gianlucadimarzio.com
+@@||cdnb.4strokemedia.com/carousel/$domain=donnaglamour.it|fantacalcio.it|formulapassion.it|gianlucadimarzio.com
 @@||centrosangiorgio.com^*_pubblicita.
 @@||centrosangiorgio.com^*_pubblicita/
 @@||centrovolantini.it/sites/default/files/styles/thumb_copertina/public/conad_$~third-party
@@ -29,9 +29,9 @@
 @@||dincontri.com/ads/galleries/crops/$image,~third-party
 @@||dotandad.com/TiscaliAds.js$domain=ansa.it
 @@||doubleclick.net/gpt/pubads_impl_$script,domain=agi.it|corrieredellosport.it|tuttosport.com
-@@||feed.4strokemedia.com^$xmlhttprequest,domain=fantacalcio.it|formulapassion.it|gianlucadimarzio.com
-@@||fluid.4strokemedia.com/www/delivery/asyncspc.php?$xmlhttprequest,domain=fantacalcio.it|formulapassion.it|gianlucadimarzio.com
-@@||fluid.4strokemedia.com/www/fluid/player.php|$script,domain=fantacalcio.it|formulapassion.it|gianlucadimarzio.com
+@@||feed.4strokemedia.com^$xmlhttprequest,domain=donnaglamour.it|fantacalcio.it|formulapassion.it|gianlucadimarzio.com
+@@||fluid.4strokemedia.com/www/delivery/asyncspc.php?$xmlhttprequest,domain=donnaglamour.it|fantacalcio.it|formulapassion.it|gianlucadimarzio.com
+@@||fluid.4strokemedia.com/www/fluid/player.php|$script,domain=donnaglamour.it|fantacalcio.it|formulapassion.it|gianlucadimarzio.com
 @@||foolbite.com/foolbite/*_pubblicita_$~third-party
 @@||forebase.com/plugin/*/images/ads/$image
 @@||forebase.com/plugin/ads.htm?$subdocument
@@ -40,7 +40,7 @@
 @@||google.com/adsense/$subdocument,domain=sedo.ch|sedo.it
 @@||google.com/adsense/search/ads.js$script,domain=tutti.ch
 @@||ilparking-moto.it/images/flag/gif/ad.gif
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=3bmeteo.com|agi.it|auto.it|capital.it|corrieredellosport.it|formulapassion.it|gianlucadimarzio.com|guerinsportivo.it|huffingtonpost.it|inmoto.it|la7.it|liveksoft.tv|m2o.it|movieplayer.it|multiplayer.it|radiofreccia.it|radioitalia.it|radiozeta.it|rds.it|rtl.it|tuttosport.com|velvetgossip.it|video.deejay.it|video.espresso.repubblica.it|video.ilsecoloxix.it|video.lanuovasardegna.it|video.lastampa.it|video.rep.repubblica.it|video.repubblica.it|vvvvid.it|youreporter.it
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=3bmeteo.com|agi.it|auto.it|capital.it|corrieredellosport.it|donnaglamour.it|formulapassion.it|gianlucadimarzio.com|guerinsportivo.it|huffingtonpost.it|inmoto.it|la7.it|liveksoft.tv|m2o.it|movieplayer.it|multiplayer.it|radiofreccia.it|radioitalia.it|radiozeta.it|rds.it|rtl.it|tuttosport.com|velvetgossip.it|video.deejay.it|video.espresso.repubblica.it|video.ilsecoloxix.it|video.lanuovasardegna.it|video.lastampa.it|video.rep.repubblica.it|video.repubblica.it|vvvvid.it|youreporter.it
 @@||js.neodatagroup.com/uploads/js/rds.js$domain=rds.it
 @@||labs.ebuzzing.it/blogs/top/getrank?$image
 @@||labs.ebuzzing.it/shared/images/wikiothis/buttons/
