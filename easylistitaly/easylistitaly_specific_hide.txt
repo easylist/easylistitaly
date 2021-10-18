@@ -1678,6 +1678,7 @@ laleggepertutti.it##.lexdo-llpt
 castelvetranonews.it##.liban
 top10cose.it##.link-affiliazione
 business24tv.it##.link-at-body
+calciodangolo.com##.link-light-code
 balarm.it##.link-skin
 legab.it,pressgiochi.it##.linkSkin
 monitorimmobiliare.it,winenews.it##.link_skin
