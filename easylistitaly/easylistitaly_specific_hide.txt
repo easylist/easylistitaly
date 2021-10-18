@@ -923,6 +923,7 @@ androidworld.it,cookaround.com,dmbeauty.it,donnamoderna.com,focus.it,giallozaffe
 amicopediatra.it##.amico-widget
 incucinaconelena.it##.amr_widget
 fotografidigitali.it,hwupgrade.it##.amz-wrapper
+saggiamente.com##.amz_box
 voglioporno.com##.analytics-event
 civile.it,ricercagiuridica.com##.animate__animated
 ansa.it##.ansacom-box
