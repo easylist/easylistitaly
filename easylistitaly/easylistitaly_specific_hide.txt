@@ -2127,7 +2127,7 @@ bologna24ore.it,calciofemminileitaliano.it,calciomercato.it,cronacadiverona.com,
 radioradio.it##.td-fix-index
 amoreaquattrozampe.it##.td-footer-container
 ilgiornaledeltermoidraulico.it,pescaracalcio.com,tennispavese.it,ternanacalcio.com##.td-footer-wrapper
-4actionsport.it,calabriamagnifica.it,cucina-naturale.it,culturaidentita.it,fiorentina.news,gazzettadisalerno.it,ilbacodaseta.org,ilpuntonotizie.it,legavolley.it,meridiananotizie.it,okpronostico.it,oktennis.it,scattidigusto.it##.td-header-rec-wrap
+4actionsport.it,calabriamagnifica.it,cucina-naturale.it,culturaidentita.it,fiorentina.news,gazzettadisalerno.it,ilbacodaseta.org,ilpuntonotizie.it,legavolley.it,meridiananotizie.it,okpronostico.it,oktennis.it,scattidigusto.it,telodicoio.org##.td-header-rec-wrap
 edagricole.it,laspia.it,ragusah24.it,romanews.eu,varese7press.it##.td-header-sp-recs
 gdoweek.it##.td-leaderboard-wrap-full
 bussolafinanziaria.it,ideeviaggio.it##.td-ss-main-sidebar
