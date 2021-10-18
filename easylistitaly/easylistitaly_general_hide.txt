@@ -359,6 +359,7 @@
 ##a[href^="https://ads.sisal.it/"]
 ##a[href^="https://adserver.html.it/"]
 ##a[href^="https://affiliate.across.it/"]
+##a[href^="https://affiliati.gointernet.it/verify/"]
 ##a[href^="https://affiliation.software/"]
 ##a[href^="https://affiliazioniads.snai.it/"]
 ##a[href^="https://campaigns.williamhill.it/C.ashx?"]
