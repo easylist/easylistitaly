@@ -3221,6 +3221,7 @@
 ||qdmnotizie.it^*/skin_
 ||qdmnotizie.it^*_banner-
 ||qdpnews.it/images/banners/
+||quattroruote.it^*/banners/
 ||quattroruote.it^*/box-eni-
 ||quattroruote.it^*/sponsor/
 ||quellidellelica.com/images/banners/
