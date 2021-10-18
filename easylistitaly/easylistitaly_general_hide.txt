@@ -242,6 +242,7 @@
 ##.cp_adv-box
 ##.cp_adv300x250
 ##.dads-lk
+##.dm20-adv-slot
 ##.edSponsor
 ##.ed_Related_Record_Div_Sponsor
 ##.ed_Related_Sponsor
