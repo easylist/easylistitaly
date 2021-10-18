@@ -590,6 +590,7 @@ tgnordsalento.it###sp-header-banner
 portadimare.it###sp-pub-sup-1
 lnd.it###sp-sponsor
 lnd.it###sp-sponsorbeach
+youtg.net###sp-testata
 aziendabanca.it###sp-top-banner
 radioshowitalia.it,reggina1914.it###sponsor
 buonapesca.it###sponsor-bottom
