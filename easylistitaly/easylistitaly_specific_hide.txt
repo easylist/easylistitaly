@@ -2173,6 +2173,7 @@ imiglioridififa.com##.tdi_134
 radiocl1.it##.tdi_14
 tipresentoilcane.com##.tdi_153_158
 calcioj.com##.tdi_15_2e7
+computermagazine.it##.tdi_15_a67
 campanianotizie.com##.tdi_16_558
 campanianotizie.com##.tdi_16_d61
 ilgiornaledelticino.ch##.tdi_20
