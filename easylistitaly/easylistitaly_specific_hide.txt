@@ -2343,6 +2343,7 @@ vicenzanews.it##.wifiplaza
 tuttitalia.it##.wk
 bresciasat.it##.workspace__block--sponsor
 reflex-mania.com##.wp-block-buttons
+fitnesspalestra.org##.wp-block-product-on-sale
 jotv.it##.wp-caption.alignnone
 amoreperleserietv.com##.wpa
 itvonline.news##.wpb_gallery
