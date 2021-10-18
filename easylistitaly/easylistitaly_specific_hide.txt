@@ -181,6 +181,8 @@ erbanotizie.com###box
 corriere.it###box-codici-sconto
 hwupgrade.it###box-next-container
 diretta.it###box-over-content-a
+cagliarilivemagazine.it###box311
+cagliarilivemagazine.it###box320
 cagliarilivemagazine.it###box321
 cagliarilivemagazine.it###box322
 guidaviaggi.it###boxBannerSKIN
@@ -1207,6 +1209,7 @@ balarm.it##.box-evidenza
 italiaoggi.it##.box-slot
 meteogiornale.it##.box-sn
 trend-online.com##.box-special
+cagliarilivemagazine.it##.box-sponsorprimopiano-scorrimento
 donnesulweb.it##.box-top-widget
 montagna.tv##.box-tva
 tvserial.it##.box-verticale-home
