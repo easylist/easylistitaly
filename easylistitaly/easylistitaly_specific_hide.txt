@@ -2088,7 +2088,7 @@ metropolitanmagazine.it##.stream-item-above-post
 mole24.it##.stream-item-above-post-content
 informazioneoggi.it##.stream-item-below-header
 metropolitanmagazine.it##.stream-item-below-post-comments
-metropolitanmagazine.it##.stream-item-below-post-content
+ispazio.net,metropolitanmagazine.it##.stream-item-below-post-content
 filmpost.it,ilgolfo24.it##.stream-item-top
 gazzettadellavaldagri.it,ilcorriere.net,ilmoderatore.it,metropolitanmagazine.it,mole24.it,unaparolaperte.org##.stream-item-top-wrapper
 cblive.it##.stream-item-widget
