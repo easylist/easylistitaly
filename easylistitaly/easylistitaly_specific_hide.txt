@@ -928,6 +928,7 @@ stardust.it##.app-masthead
 nospoiler.it##.app__leaderboard
 radiocuore.it##.areaclick
 pensionioggi.it##.article-banner-left
+quilivorno.it##.article-type-redazionale
 spoletonline.com##.articleBannerDX
 spoletonline.com##.articleBannerSX
 scozia.net##.article_amazon_end
