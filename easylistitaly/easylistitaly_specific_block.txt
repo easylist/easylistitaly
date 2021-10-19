@@ -3020,6 +3020,8 @@
 ||parmareport.it^*/Banner-
 ||parmareport.it^*/skin-
 ||parmareport.it^*_banner_
+||paroladeltifoso.it^*-banner-
+||paroladeltifoso.it^*/0Tavola-disegno-1-100-7.jpg
 ||parrocchie.it/banner/
 ||passioneauto.it^*/banner-
 ||passioneauto.it^*/pezzidiricambio24_

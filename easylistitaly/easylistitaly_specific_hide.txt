@@ -422,11 +422,11 @@ pisainvideo.it,ufficistampanazionali.it###media_image-10
 lanotiziapontina.it###media_image-103
 lanotiziapontina.it###media_image-104
 lanotiziapontina.it###media_image-106
-esportsonline.it,notiziariofinanziario.com,ufficistampanazionali.it###media_image-11
-casanapoli.net,pisainvideo.it,spiccandoilvolo.com###media_image-12
+esportsonline.it,notiziariofinanziario.com,paroladeltifoso.it,ufficistampanazionali.it###media_image-11
+casanapoli.net,paroladeltifoso.it,pisainvideo.it,spiccandoilvolo.com###media_image-12
 lamiavitainvaligia.org,weekendpremium.it###media_image-13
 lamiavitainvaligia.org,mam-e.it,pisainvideo.it###media_image-14
-casanapoli.net,gustoh24.it,lamiavitainvaligia.org,seitv.it,spiccandoilvolo.com###media_image-15
+casanapoli.net,gustoh24.it,lamiavitainvaligia.org,paroladeltifoso.it,seitv.it,spiccandoilvolo.com###media_image-15
 seitv.it###media_image-16
 1web.tv,allasianfootball.com,buonenotizie.it,chepreparo.it,ecodisicilia.com,ilgazzettinodisicilia.it,iltecnoblog.com,internapoli.it,it-casinoonline.com,naturalborngamers.it,novetv.com,pisainvideo.it,quotidianodifoggia.it,stile.it,todinforma.it,viaggiare-low-cost.it###media_image-2
 galluralive.it###media_image-20
@@ -460,7 +460,7 @@ cataniaunafede.it,dentrolanotizia.tv,ufficistampanazionali.it,vivoconbenessere.i
 dentrolanotizia.tv,giornalistitalia.it,italiaonline.news,mam-e.it,notiziariofinanziario.com,nuotounostiledivita.it,pisainvideo.it,spiccandoilvolo.com,teleoccidente.it,ufficistampanazionali.it###media_image-8
 lanotiziapontina.it###media_image-84
 lanotiziapontina.it###media_image-89
-monetizzando.it,notiziariofinanziario.com,nuotounostiledivita.it,romaedintorninotizie.it,ufficistampanazionali.it###media_image-9
+monetizzando.it,notiziariofinanziario.com,nuotounostiledivita.it,paroladeltifoso.it,romaedintorninotizie.it,ufficistampanazionali.it###media_image-9
 lanotiziapontina.it###media_image-91
 lanotiziapontina.it###media_image-94
 laquilablog.it###media_video-10
@@ -866,6 +866,7 @@ animalidacompagnia.it##.adserver
 adessoin.tv,allaguida.it,alpha59.it,altoadigetv.it,altreconomia.it,amica.it,ansa.it,buttalapasta.it,calciatoribrutti.com,calciomercato.com,cittaceleste.it,curioctopus.it,dissapore.com,dolciveloci.it,donnaglamour.it,economiafinanzaonline.it,famigliacristiana.it,fcinter1908.it,forbes.it,forzaroma.info,gay.it,gelocal.it,gianlucadimarzio.com,girovagandointrentino.it,gta-expert.it,guardachevideo.it,ilfattoquotidiano.it,ilpost.it,ilsole24ore.com,itasportpress.it,juvenews.eu,latina24ore.it,leonardo.it,libero.it,marcopolo.tv,mediaset.it,milanofinanza.it,movieplayer.it,multiplayer.it,nanopress.it,newsmondo.it,notiziebenessere.it,notiziemilan.it,notiziemusica.it,oasport.it,passioneinter.com,pianetamilan.it,pourfemme.it,prealpina.it,primochef.it,radioindiretta.fm,repubblica.it,ricettedalmondo.it,riza.it,salepepe.it,sassuolocalcio.it,skuola.net,staffettaonline.com,stylosophy.it,supereva.it,toro.it,toronews.net,toscanadaily.com,trentinotv.it,virgilio.it,vocenuova.tv,weekendpremium.it,winesurf.it##.adv
 teleunica.com##.adv-body
 centrometeoitaliano.it##.adv-cmi
+paroladeltifoso.it##.adv-image
 animatamente.net,arezzoweb.it,bici.pro,corriereromagna.it,udineoggi.news##.adv-link
 ortosemplice.it##.adv-links
 rbe.it##.adv-section
