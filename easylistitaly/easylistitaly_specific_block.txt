@@ -2448,6 +2448,7 @@
 ||lodiedintorni.com^*/Banner-
 ||lombardinelmondo.org^*/Banner-
 ||lombardreport.com^*/banner/
+||londraweb.com/london_pass1.jpg
 ||lopinionista.it^*/tuttiautopezzi.
 ||lopinionistanews.it^*/Adv.
 ||lospiffero.com/banner/
