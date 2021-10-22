@@ -356,6 +356,7 @@ vivinewyork.com###hm-rsp-txt-desk
 agriturismo.it###home-banner
 rovigooggi.it###home-closeup-space
 rovigooggi.it###home-pbreak-space
+transfermarkt.it###home-rectangle-newsticker
 transfermarkt.it###home-rectangle-spotlight
 rovigooggi.it###home-super-space
 adirai.it###home_top
