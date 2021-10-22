@@ -1119,6 +1119,7 @@
 ||ecoaltomolise.net^*/xbanner-
 ||ecodallecitta.it/immagini/banners/
 ||ecodelcinema.com^*/bnnrdionysus-
+||ecodelcinema.com^*/Pianeta-2017.jpg
 ||ecodisicilia.com^*/logo_euroinfortunistica.gif
 ||economiaefinanzaverde.it^*/diretta-bvlg-economia-circolare.jpg
 ||econote.it^*800x800

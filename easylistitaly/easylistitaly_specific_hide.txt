@@ -2334,6 +2334,7 @@ wesud.it##.widget_idemedia_banner_widget
 riskcompliance.it##.widget_itarget_banners
 rinnovabili.it##.widget_links
 ifattinews.it,nanotv.it##.widget_metaslider_widget
+ecodelcinema.com##.widget_mp_banner_widget
 dilei.it,quifinanza.it,siviaggia.it##.widget_promo_box_widget
 viaggiadipiu.it##.widget_qjpbhmf
 nursetimes.org##.widget_realty_widget
