@@ -833,6 +833,8 @@
 ||cineblog01.bid/templates/CB01/img/immagine-4k.png
 ||cineblog01.bid/templates/CB01/img/vedimovie.png
 ||cineblog01.land/scarica
+||cineblog01.vet/300.gif
+||cineblog01.vet/it.gif
 ||cinemadelsilenzio.it/banner4.js
 ||cinemaitaliano.info^*/banner/
 ||cinemondium.com^*/720x90-
