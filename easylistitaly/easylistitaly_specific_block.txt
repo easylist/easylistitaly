@@ -3816,6 +3816,7 @@
 ||sporteconomy.it^*/banner-
 ||sportevai.it/img/banner/
 ||sportevai.it^*-banner.
+||sportextra.it/img/banner_
 ||sportface.it^*-BANNER-
 ||sportface.it^*/Banner-
 ||sportmagazinetrentino.it^*-1980x480
