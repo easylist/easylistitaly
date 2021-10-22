@@ -1297,6 +1297,7 @@ engage.it##.cnt-banner-top
 magodelpronostico.com##.cntBonusHome
 tiscali.it##.cnt_b_1
 pornototale.com##.co_sponsor
+bottadiculo.it##.code-block > div > a[href*="/dazn"]
 casasuper.it,clubdoria46.it,mangiabevigodi.it,viaggi-estate.com##.code-block-1
 avvisatore.com,bottadiculo.it,keblog.it,pomiglianolive.it##.code-block-11
 avvisatore.com,giornaledisegrate.it,pomiglianolive.it,reportpistoia.com##.code-block-12
@@ -2954,7 +2955,7 @@ beverfood.com##img[width="650"][height="320"]
 sentireascoltare.com##img[width="700"][height="300"]
 minformo.com##img[width="720"][height="125"]
 104news.it,faretennis.com,italyandmore.it,tennispavese.it,teverepost.it##img[width="728"]
-acquariocomefare.com,altissimoceto.it,casanapoli.net,eurofestivalnews.com,finanzareport.it,formula1news.it,gamebit.it,gamelegends.it,gizchina.it,glianni80.com,ilgiornalediudine.com,ilsalvagente.it,larampa.it,pagineazzurre.com,streamingmagazine.it##img[width="728"][height="90"]
+acquariocomefare.com,altissimoceto.it,bottadiculo.it,casanapoli.net,eurofestivalnews.com,finanzareport.it,formula1news.it,gamebit.it,gamelegends.it,gizchina.it,glianni80.com,ilgiornalediudine.com,ilsalvagente.it,larampa.it,pagineazzurre.com,streamingmagazine.it##img[width="728"][height="90"]
 brontolodicelasua.it##img[width="730"]
 villaggi.it##img[width="746"][height="127"]
 brontolodicelasua.it##img[width="750"]
@@ -3000,6 +3001,7 @@ acffiorentina.com,acmilan.com##ul[class*="TopHeader__SponsorsSection-"]
 aleteia.org#?#div[class^="css-"]:-abp-has(a:-abp-contains(contenuto sponsorizzato))
 androidplanet.it#?#.wp-block-group__inner-container:-abp-has(a[href^="https://www.appscommesse.com/"])
 borsaitaliana.it#?#.m-relases__result:-abp-has(div:-abp-contains(Contenuto pubblicitario))
+bottadiculo.it#?#p[style="margin-bottom: 30px"]:-abp-has(a[href*="/dazn"])
 ebay.it#?#.s-item:-abp-has(span.s-item__title--tagblock__SPONSORED)
 freshpointmagazine.it#?#.wpb_wrapper > .td_block_wrap:-abp-has(.sponsor)
 iene.mediaset.it#?#.bx:-abp-has(div:-abp-contains(CONTENUTO SPONSORIZZATO))
