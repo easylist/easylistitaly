@@ -2950,7 +2950,7 @@ corcianonline.it,orvietosi.it,radiopiu.net,trasimenonline.it##img[width="500"][h
 tusciaweb.it##img[width="520"][height="100"]
 abruzzoweb.it,arteworld.it##img[width="600"][height="200"]
 frammentidicodice.com##img[width="600"][height="300"]
-filastrocche.it,radiortm.it,tmnotizie.com##img[width="600"][height="500"]
+filastrocche.it,nonapritequestoblog.it,radiortm.it,tmnotizie.com##img[width="600"][height="500"]
 portolivorno.it##img[width="630"]
 canonclubitalia.com##img[width="632"][height="123"]
 catanista.eu##img[width="640"]
