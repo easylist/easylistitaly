@@ -1078,8 +1078,10 @@
 ||diritto.it^*/untitled-3.png
 ||dirittodicronaca.it/images/banners/
 ||dirittoegiustizia.it^*/downloadFileBanner.
+||divisionecalcioa5.it^*/748508-5fb57aeca18d63cd6247add836699047.png
 ||divisionecalcioa5.it^*/74896C0E-F096-4034-B647-BA549495F905.jpeg
 ||divisionecalcioa5.it^*/banner-
+||divisionecalcioa5.it^*/DivisioneCalcio5-1140x150-1-1.gif
 ||djmagitalia.com^*-banner-
 ||djmagitalia.com^*/BANNER_
 ||djmagitalia.com^*_skin_
