@@ -90,6 +90,7 @@
 ||partypartners.it^$third-party
 ||payclick.it^$third-party
 ||paypublicity.it^$third-party
+||pc-on-internet.com^
 ||pirchio.com^$third-party
 ||plavid.com^$third-party
 ||preludeadv.it^$third-party
