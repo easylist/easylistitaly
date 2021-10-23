@@ -1354,6 +1354,7 @@ tiburno.tv##.container-skin
 tuttiprezzi.it##.container.basso
 salernogranata.it##.container.text-center
 tiscali.it##.container_b_1
+esselungaacasa.it##.container_sponsored_product
 frasimania.it##.content-banner
 torresette.news##.content-banner-right
 cookist.it,fanpage.it##.content-leaderboard
