@@ -549,6 +549,7 @@ odontoiatria33.it###rowHeader
 skylinewebcams.com###rpc
 alwaysonboard.it###sab_content
 ilpost.it###scrolling-container
+studenti.it###scrolling_element
 allmusicitalia.it###second-masterhead
 sampdoria.it###section-b-sponsor
 mangialibri.com###section-extra-bottom-4
