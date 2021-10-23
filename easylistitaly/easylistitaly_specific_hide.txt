@@ -315,7 +315,7 @@ mondocalcionews.it###footer-banner-mobile
 lamiacittanews.it###footer-fixed
 ascittadella.it###footer-sponsor
 lanostratv.it###footer-top-wrapper
-americaurlaub.de,tvrxenon.it###footer-widgets
+americaurlaub.de,ilmondodeglianimali.altervista.org,tvrxenon.it###footer-widgets
 caneogolf.it###footer_area
 videosesso.com###footertop
 1web.tv###fpub-popup
