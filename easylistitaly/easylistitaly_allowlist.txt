@@ -57,6 +57,7 @@
 @@||videosynd.kataweb.it/advertising/$xmlhttprequest,domain=videosynd.kataweb.it
 @@||virgilio.it^*?advTile=$subdocument,domain=mailweb.virgilio.it
 @@||vobis.it/ZeusInc/AdFarm/Image/$image,~third-party
+@@||youston.agency/google-ads/$~ping,~third-party
 @@||zincontri.com/ads/galleries/crops/$image,~third-party
 ! Ammadv.it
 @@||admin.ammadv.it/pop-under.it/$~third-party
