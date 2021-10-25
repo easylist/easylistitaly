@@ -2369,7 +2369,7 @@ golfpiu.it##.wpmoneyclick_template_amz_simil_footer
 advister.it,vitaminanews.it##.wpmoneyclick_template_prices_comp
 best5.it##.wpmoneyclick_template_product-card
 tuttoapp-android.com##.wpmoneyclick_template_simple_button
-golfpiu.it,razzedicani.net,simonemaestri.com##.wpmoneyclick_template_single-product
+golfpiu.it,pc-gaming.it,razzedicani.net,simonemaestri.com##.wpmoneyclick_template_single-product
 corriereelorino.it##.wps-bt-background-takeover-id
 allertaprivacy.it##.wpsm_promobox
 calciomercato.napoli.it##.wptb-cell
