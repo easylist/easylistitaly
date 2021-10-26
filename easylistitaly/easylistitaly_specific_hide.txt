@@ -1882,6 +1882,7 @@ playstationzone.it##.psz_template_prices_comp
 agoravox.it,boatindustry.it,boatsnews.it,europa-agri.it##.pub
 europa-agri.it,radiogold.it##.pub-content
 kikapress.com##.pub_container
+barinedita.it##.pubbli
 reteradioazzurra.it##.pubbli_home_extra_right
 reteradioazzurra.it##.pubbli_home_extra_top
 reteradioazzurra.it##.pubbli_home_extra_video
