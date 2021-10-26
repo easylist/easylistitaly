@@ -1301,7 +1301,7 @@ pornototale.com##.co_sponsor
 bottadiculo.it##.code-block > div > a[href*="/dazn"]
 bottadiculo.it##.code-block > div > a[href*="/pokerstars"]
 bottadiculo.it##.code-block > div > a[href*="/vincitu"]
-casasuper.it,clubdoria46.it,mangiabevigodi.it,viaggi-estate.com##.code-block-1
+casasuper.it,clubdoria46.it,mangiabevigodi.it,notiziecatania.it,viaggi-estate.com##.code-block-1
 avvisatore.com,bottadiculo.it,keblog.it,pomiglianolive.it##.code-block-11
 avvisatore.com,giornaledisegrate.it,pomiglianolive.it,reportpistoia.com##.code-block-12
 avvisatore.com,reportpistoia.com##.code-block-13
