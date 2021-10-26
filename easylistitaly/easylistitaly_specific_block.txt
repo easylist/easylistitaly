@@ -18,6 +18,7 @@
 ||12tvparma.it/static/js/advpopulate.js
 ||24emilia.com^*banner
 ||24live.it^*/24live_prenota-prima_
+||24live.it^*/2S2SPORT-
 ||24live.it^*/bannerNegoziAperti-
 ||24live.it^*/eurocash2-
 ||24live.it^*/eurocashHome.jpg
@@ -28,6 +29,7 @@
 ||24live.it^*/NEW-POINLINE2-
 ||24live.it^*/pirrotta2.png
 ||24live.it^*/standa2-
+||24live.it^*/Volantini-condiz.
 ||24newsonline.it/images/*_banner_
 ||24newsonline.it/images/banner/
 ||2anews.it^*-banner.
