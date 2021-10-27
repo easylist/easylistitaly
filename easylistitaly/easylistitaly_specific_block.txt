@@ -4303,6 +4303,7 @@
 ||tuttozampe.com^*/Premium_
 ||tv1.it/images/banner/
 ||tv2000.it^*-Banner-
+||tv2000.it^*-skin.
 ||tv2000.it^*/8permillebanner2.jpg
 ||tv2000.it^*/BANNER-
 ||tv2000.it^*/banner.
