@@ -6,4 +6,4 @@
 ! about:blank popups
 /about:blank.*/$popup,domain=guardaserie.cam
 ! html/image popups
-/^https?:\/\/.*\.(jpg|png|html|svg|ico)/$popup,domain=alta-definizione.stream|altadefinizione.host|altadefinizione.skin|altadefinizione.team|altadefinizione01.plus|altadefinizionehd.live|animeworld.tv|cineblog01.bid|guardaserie.cam|ilgeniodellostreaming.bar|streamingcommunity.live|streamingita.online
+/^https?:\/\/.*\.(jpg|gif|png|php|html|svg|ico|js|txt)/$popup,domain=alta-definizione.stream|altadefinizione.host|altadefinizione.skin|altadefinizione.team|altadefinizione01.plus|altadefinizionehd.live|animeworld.tv|cineblog01.bid|guardaserie.cam|ilgeniodellostreaming.bar|streamingcommunity.live|streamingita.online
