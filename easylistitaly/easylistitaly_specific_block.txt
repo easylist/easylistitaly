@@ -429,6 +429,8 @@
 ||arona24.it/images/mc_drive_
 ||arona24.it/images/rampolina_
 ||arona24.it/images/ristorante_posta_baveno.jpg
+||aroundtheworld.pro^*/airbnb_hotel_sito-
+||aroundtheworld.pro^*/airbnbnew.jpg
 ||art-news.it^*-banner-
 ||art-news.it^*/banner-
 ||arte.go.it^*-Banner-

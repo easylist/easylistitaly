@@ -245,18 +245,18 @@ tefchannel.it###ctl00_cphBody_mcsSlotBannerTop_rptGallery_ctl01_lnkLink
 teleborsa.it###ctl00_if4WTV300x250
 assisisport.it,casafacile24.com,casanapoli.net,gufo.it###custom_html-10
 assisisport.it,fotonerd.it,gufo.it,indiscreto.org,trnews.it###custom_html-11
-cucinamamma.it,momentidicalcio.com,scienzenotizie.it###custom_html-12
+aroundtheworld.pro,cucinamamma.it,momentidicalcio.com,scienzenotizie.it###custom_html-12
 castellinotizie.it,meteogiornale.it,mobileblogger.it,pistoiasport.com,sassarioggi.it###custom_html-13
 cucinamamma.it,grae.it###custom_html-14
 mangiabevigodi.it###custom_html-15
-giochi.com,immaginaviaggiare.it,nintendari.it,sportando.basketball###custom_html-17
+aroundtheworld.pro,giochi.com,immaginaviaggiare.it,nintendari.it,sportando.basketball###custom_html-17
 ilgiornaledeiveronesi.it,nonsoloturisti.it,pianetaserieb.it###custom_html-18
 elementocreativo.it###custom_html-19
 assisisport.it,auguri.gratis,birramoriamoci.it,calciohellas.it,calciorosanero.it,card.it,carteprepagate.org,domanidoveandiamo.it,ilgiornaledeimarinai.it,iopartodasola.it,italiaonline.news,metallus.it,meteogiornale.it,mmawiki.org,nautica.it,sportnews.eu,thailandiapertutti.it###custom_html-2
 corrierequotidiano.it,mam-e.it,sportando.basketball###custom_html-20
 castellinotizie.it,corrierequotidiano.it,elementocreativo.it,immaginaviaggiare.it,tuttojuve24.it###custom_html-21
 castellinotizie.it,elementocreativo.it,imolaoggi.it###custom_html-22
-fiorditerra.eu###custom_html-23
+aroundtheworld.pro,fiorditerra.eu###custom_html-23
 leggopassword.it###custom_html-24
 dimagrireduepuntozero.com,momentidicalcio.com,pianetaserieb.it,strill.it###custom_html-25
 castellinotizie.it###custom_html-26
@@ -268,7 +268,7 @@ scambieuropei.info###custom_html-32
 immaginaviaggiare.it###custom_html-33
 assisisport.it,calciocasteddu.it,canalesassuolo.it,carteprepagate.org,corrieredelmolise.com,corrieredicomo.it,cucinaresenzamenate.it,destinazioneusa.com,eurekaddl.it,floinviaggio.com,grossetosport.com,guidaconsumatore.com,laprevisione.it,meteogiornale.it,nonsolonautica.it,peopleforplanet.it,pianetablunews.it,topragazze.it,travelwithbrothers.com,tuttogossipnews.it###custom_html-4
 mondomobileweb.it###custom_html-42
-1x2-calcio.com,calcioitalia24.it,carteprepagate.org,corrieredelmolise.com,grossetosport.com,innaturale.com,italiaonline.news,italyandmore.it,mam-e.it,melarossa.it,meteogiornale.it,thailandiapertutti.it,travelwithbrothers.com,tuttogossipnews.it###custom_html-5
+1x2-calcio.com,aroundtheworld.pro,calcioitalia24.it,carteprepagate.org,corrieredelmolise.com,grossetosport.com,innaturale.com,italiaonline.news,italyandmore.it,mam-e.it,melarossa.it,meteogiornale.it,thailandiapertutti.it,travelwithbrothers.com,tuttogossipnews.it###custom_html-5
 1x2-calcio.com,calcioitalia24.it,calciomercatonews.com,corrieredicomo.it,cucinamamma.it,hynerd.it,indiscreto.org,it-casinoonline.com,lombardoandrea.com,nonsprecare.it,paladins.it,pentanewslivorno.it,thailandiapertutti.it,torremaggiore.com###custom_html-6
 strill.it,tuttotek.it###custom_html-65
 newsfood.com###custom_html-67
@@ -276,7 +276,7 @@ newsfood.com###custom_html-68
 calcioitalia24.it,luoghidavedere.it,melarossa.it,pistoiasport.com,putignanonews.it,topragazze.it,torremaggiore.com###custom_html-7
 newsfood.com###custom_html-71
 calcioitalia24.it,corrierequotidiano.it,trueriders.it,vitaminanews.it###custom_html-8
-indiscreto.org,scrivolibero.it,viaggiallafinedelmondo.it###custom_html-9
+aroundtheworld.pro,indiscreto.org,scrivolibero.it,viaggiallafinedelmondo.it###custom_html-9
 dolciveloci.it,donnaglamour.it,economiafinanzaonline.it,newsmondo.it,notiziebenessere.it,notiziemilan.it,notiziemusica.it,primochef.it###delta-mobile-bottom
 amazon.it###detailILM_feature_div
 dayitalianews.com###diretta_video_unipol
@@ -430,7 +430,7 @@ lamiavitainvaligia.org,weekendpremium.it###media_image-13
 lamiavitainvaligia.org,mam-e.it,pisainvideo.it###media_image-14
 casanapoli.net,gustoh24.it,lamiavitainvaligia.org,paroladeltifoso.it,seitv.it,spiccandoilvolo.com###media_image-15
 seitv.it###media_image-16
-1web.tv,allasianfootball.com,buonenotizie.it,chepreparo.it,ecodisicilia.com,ilgazzettinodisicilia.it,iltecnoblog.com,internapoli.it,it-casinoonline.com,naturalborngamers.it,novetv.com,pisainvideo.it,quotidianodifoggia.it,stile.it,todinforma.it,viaggiare-low-cost.it###media_image-2
+1web.tv,allasianfootball.com,aroundtheworld.pro,buonenotizie.it,chepreparo.it,ecodisicilia.com,ilgazzettinodisicilia.it,iltecnoblog.com,internapoli.it,it-casinoonline.com,naturalborngamers.it,novetv.com,pisainvideo.it,quotidianodifoggia.it,stile.it,todinforma.it,viaggiare-low-cost.it###media_image-2
 galluralive.it###media_image-20
 weekendpremium.it###media_image-22
 natureatblog.com###media_image-23
@@ -2140,7 +2140,7 @@ cattolica.info##.tc_adm
 avtrend.it##.tcb-button-link
 cronachedellacampania.it##.tcf-container
 gioconews.it##.tcvn-banner-item
-2anews.it,agimeg.it,aplombardia.eu,apsicilia.it,artuu.it,bologna2000.com,cronacadelleconomia.it,cronacadelveneto.com,europacalcio.it,fumettologica.it,hashtagsicilia.it,ilfattovesuviano.it,ilgranchio.it,lavocedivenezia.it,mattinodiverona.it,medicomunicare.it,messinaora.it,motoexcape.com,paisemiu.com,ravennawebtv.it,realtagenoana.it,romanews.eu,stylo24.it,toscananotizie.com,tusciaup.com,vaielettrico.it,valbrembanaweb.com##.td-a-rec
+2anews.it,agimeg.it,aplombardia.eu,apsicilia.it,aroundtheworld.pro,artuu.it,bologna2000.com,cronacadelleconomia.it,cronacadelveneto.com,europacalcio.it,fumettologica.it,hashtagsicilia.it,ilfattovesuviano.it,ilgranchio.it,lavocedivenezia.it,mattinodiverona.it,medicomunicare.it,messinaora.it,motoexcape.com,paisemiu.com,ravennawebtv.it,realtagenoana.it,romanews.eu,stylo24.it,toscananotizie.com,tusciaup.com,vaielettrico.it,valbrembanaweb.com##.td-a-rec
 ivl24.it##.td-all-devices
 ilprimatonazionale.it##.td-banner-bg
 edagricole.it##.td-banner-footer
