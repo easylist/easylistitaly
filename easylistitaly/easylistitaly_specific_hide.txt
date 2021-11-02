@@ -1695,6 +1695,7 @@ calciodangolo.com##.link-light-code
 balarm.it##.link-skin
 legab.it,pressgiochi.it##.linkSkin
 monitorimmobiliare.it,winenews.it##.link_skin
+cosavederein1giorno.it##.links
 facileporno.com##.links-out
 skillandbet.com##.list-unstyled
 telenord.it##.lista-banner
