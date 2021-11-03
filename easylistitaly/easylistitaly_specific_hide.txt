@@ -172,6 +172,7 @@ mediaworld.it###block-footerbanners
 mangialibri.com###block-sottopiatto
 nuovosud.it###block-views-banner-centrale-menu-block
 torinofc.it###block-views-sponsor-block-2
+locchiodelcineasta.com###blocksy_ct_contact_info-3
 noitv.it###bn-sidebar
 scubaportal.it###bodylink
 diretta.it###bonus-offers
