@@ -1566,8 +1566,8 @@ sorrisi.com##.gtv-trigger-elevator
 354353.com##.guanggadsadswqew
 eurostreaming.voto##.guarda
 ilgeniodellostreaming.to##.guardasingle
-ilgeniodellostreaming.to,ilgeniodellostreamings.com##.guardasingleserie1
-ilgeniodellostreaming.to,ilgeniodellostreamings.com##.guardasingleserie2
+ilgeniodellostreaming.to,ilgeniodellostreaming.voto,ilgeniodellostreamings.com##.guardasingleserie1
+ilgeniodellostreaming.to,ilgeniodellostreaming.voto,ilgeniodellostreamings.com##.guardasingleserie2
 cinqueterre5.com##.gyg-list
 ricetta.it##.h728-up-home
 boatindustry.it,boatsnews.it##.habillage
