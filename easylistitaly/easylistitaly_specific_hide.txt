@@ -1337,6 +1337,7 @@ grossetosport.com,latinapress.it,pomiglianolive.it,reportpistoia.com##.code-bloc
 reportpistoia.com##.code-block-85
 keblog.it,pomiglianolive.it##.code-block-9
 ilcorrieredelgiorno.it##.col-banner
+money.it##.col-span-16.tablet\:col-span-6.laptop\:col-span-5
 lacrocequotidiano.it##.column-banner
 quattroruote.it##.commercial-article
 dday.it##.company
