@@ -1207,6 +1207,7 @@
 ||eurostreaming.shop/gcod.js
 ||eurostreaming.shop/gcode.js
 ||eurostreaming.team/prem.js
+||eurostreaming.world/gcode.js
 ||evangelici.net^*/banner-
 ||evangelici.net^*/banner_
 ||evosmart.it^*/banner_
