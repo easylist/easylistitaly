@@ -720,6 +720,7 @@ agemobile.com###text-html-widget-4
 bellaumbria.net###title-search-all + #booking-search-all
 faidatecasa.com###tm-main-top
 popcorntv.it###top
+ufficiovisti.com###top-a
 certificatejournal.it,finanza.com###top-banner
 calciomercato.com,sposa.it###top-banner-container
 tastoeffeuno.it###top100
