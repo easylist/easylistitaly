@@ -1752,6 +1752,7 @@
 ||ilfriuliveneziagiulia.it^*_1156-x250_
 ||ilgazzettinobr.it^*/banners/
 ||ilgeniodellostreaming.cloud/scar.png
+||ilgeniodellostreaming.cloud/veg.gif
 ||ilgeniodellostreaming.vin/player/
 ||ilgiornaledabruzzo.it/wp-content/uploads/2013/05/Ai-Viali-Lanciano.png
 ||ilgiornaledelcibo.it^*/conosci-cirfood.
