@@ -4,11 +4,12 @@ nauticareport.it###BanLeft
 lantidiplomatico.it###BanRight
 nauticareport.it###BanTop
 staffettaonline.com###BnrSolidarieta
+trend-online.com###CONT_T
 flashgames.it,scambieuropei.info,soldioggi.it,tesionline.it###C_1
 flashgames.it###C_2
 insic.it###ContentPlaceHolder1_pnBanners
 legabasketfemminile.it###DIV_MainSponsorContainer
-flashgames.it,scambieuropei.info,tesionline.it###D_1
+flashgames.it,scambieuropei.info,tesionline.it,trend-online.com###D_1
 conta-calorie.it###DivCryptoReferral
 unapennainviaggio.it###Image1
 unapennainviaggio.it###Image2
