@@ -498,6 +498,7 @@ primaonline.it###native_div_home
 amazon.it###nav-swmslot
 rovigooggi.it###news-left-box
 rovigooggi.it###news-pretext-box
+rovigooggi.it###news-right-top-box
 rovigooggi.it###news-top-space
 lacittanews.it###newsup-image-widget-1
 lacittanews.it###newsup-image-widget-11
