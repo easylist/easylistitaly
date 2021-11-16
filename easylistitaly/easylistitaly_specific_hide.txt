@@ -1543,6 +1543,7 @@ amicodelpopolo.it,anteprima24.it,assinews.it,atripaldanews.it,barcheamotore.com,
 messinaoggi.it##.g-1-container
 4yougratis.it##.g-top-text
 gustosaricerca.it,microgiochi.com##.gad
+polesine24.it##.gads_square
 agendadigitale.eu##.gallery-container-home
 virtusfrancavilla.it##.gallery-icon
 giornalerossoblu.it,telepegaso.it##.gallery-item
