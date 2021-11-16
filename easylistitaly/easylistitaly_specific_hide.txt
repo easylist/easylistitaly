@@ -33,7 +33,7 @@ agarymathematics.net,timgate.it###adv1
 libero.it###adv_topper
 catt.ch###advertising
 casasuper.it###ai_widget-11
-bottadiculo.it,ilgiornaleditrani.net,unadonnasana.it###ai_widget-2
+bottadiculo.it,donnaup.it,ilgiornaleditrani.net,unadonnasana.it###ai_widget-2
 ilgiornaleditrani.net,unadonnasana.it###ai_widget-3
 latinapress.it###ai_widget-4
 casasuper.it###ai_widget-5
@@ -1304,7 +1304,7 @@ pornototale.com##.co_sponsor
 bottadiculo.it##.code-block > div > a[href*="/dazn"]
 bottadiculo.it##.code-block > div > a[href*="/pokerstars"]
 bottadiculo.it##.code-block > div > a[href*="/vincitu"]
-casasuper.it,clubdoria46.it,mangiabevigodi.it,notiziecatania.it,viaggi-estate.com##.code-block-1
+casasuper.it,clubdoria46.it,donnaup.it,mangiabevigodi.it,notiziecatania.it,viaggi-estate.com##.code-block-1
 avvisatore.com,bottadiculo.it,keblog.it,pomiglianolive.it##.code-block-11
 avvisatore.com,giornaledisegrate.it,pomiglianolive.it,reportpistoia.com##.code-block-12
 avvisatore.com,reportpistoia.com##.code-block-13
@@ -1321,7 +1321,7 @@ ok-salute.it##.code-block-33
 ok-salute.it##.code-block-34
 ok-salute.it##.code-block-35
 ok-salute.it##.code-block-36
-passionemamma.it,reportpistoia.com##.code-block-4
+donnaup.it,passionemamma.it,reportpistoia.com##.code-block-4
 ok-salute.it##.code-block-42
 ok-salute.it##.code-block-43
 ok-salute.it##.code-block-48
