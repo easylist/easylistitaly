@@ -1330,7 +1330,7 @@ reportpistoia.com##.code-block-53
 reportpistoia.com##.code-block-54
 reportpistoia.com##.code-block-55
 reportpistoia.com##.code-block-56
-avvisatore.com,giornaledisegrate.it,reportpistoia.com##.code-block-6
+avvisatore.com,donnaup.it,giornaledisegrate.it,reportpistoia.com##.code-block-6
 casasuper.it,reportpistoia.com,stilearte.it##.code-block-7
 ok-salute.it##.code-block-70
 chiamamicitta.it##.code-block-76
@@ -2300,6 +2300,7 @@ avvisatoredellevante.com##.vc_cta3-container
 fiammeororugby.it##.vc_custom_1442391520819
 ilpuntonotizie.it##.vc_custom_1508767821833
 calciofoggia1920.net##.vc_custom_1537770288568
+donnaup.it##.vc_custom_1546883180752
 orvietosi.it##.vc_custom_1587719628931
 orvietosi.it##.vc_custom_1588254530218
 orvietosi.it##.vc_custom_1588254538642
