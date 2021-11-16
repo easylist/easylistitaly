@@ -2429,6 +2429,7 @@
 ||lineameteo.it^*/banner_
 ||lineauno.it^*/300x300_
 ||lineauno.it^*/estrawebluce_
+||link24.it^*/banner-
 ||lipari.biz/banners/
 ||livegp.it^*-200x100-
 ||livegp.it^*/RED-BLACK-TRANSP-
