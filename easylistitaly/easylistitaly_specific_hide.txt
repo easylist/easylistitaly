@@ -2356,6 +2356,7 @@ ecodelcinema.com##.widget_mp_banner_widget
 dilei.it,quifinanza.it,siviaggia.it##.widget_promo_box_widget
 viaggiadipiu.it##.widget_qjpbhmf
 nursetimes.org##.widget_realty_widget
+livornolive.it##.widget_revslider
 calabriareportage.it##.widget_smartslider3
 giornaleravenna.com##.widget_sp_image-image-link
 boatmag.it##.widget_sponsor
