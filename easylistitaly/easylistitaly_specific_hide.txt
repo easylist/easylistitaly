@@ -1356,7 +1356,7 @@ cottoepostato.it##.cont-bann
 edilportale.com##.cont-leaderBoard
 televisionando.it##.contBannDiv
 brindisisera.it,brindisisettenews.it##.cont_banner
-provinciagranda.it##.cont_banner_slide
+provinciagranda.it,rovigoindiretta.it##.cont_banner_slide
 tiburno.tv##.container-ads
 portoravennanews.com##.container-banner
 tiburno.tv##.container-skin
@@ -1625,6 +1625,7 @@ sportytrader.it##.ilo
 forum.ilsoftware.it##.ilsw_forum_leaderboard
 oroscopi.info##.img_oroscopo_personalizzato
 internimagazine.it##.in21-adv-mosaico
+rovigoindiretta.it##.in_vetrina_container
 mrw.it##.inadv
 mrw.it##.inadv-label
 inforge.net##.infernetadBannerUnit
@@ -2263,7 +2264,7 @@ bresciacalcio.it,cagliaricalcio.com,olbiacalcio.com##.top-sponsor-hp
 bresciacalciofemminile.it##.top-sponsor-new
 positanonews.it##.top-testata
 radio.it##.topASp
-fmtv.live##.top_banner
+fmtv.live,rovigoindiretta.it##.top_banner
 bluerating.com##.top_funders
 robacinese.it##.top_offers
 dtti.it##.topad
