@@ -894,6 +894,7 @@ altalex.com##.adviceBox
 sienafree.it##.advs
 sscnapoli.it##.advspace
 soldionline.it##.afc_boxcontent_taglist
+ilmiogiornale.net##.afc_popup
 incesti.xxx,pornopizza.it,tuboitaliano.it,videopornoitalia.com##.aff
 alfemminile.com##.affi-button
 agi.it##.agi-ad-wrap
@@ -2968,7 +2969,7 @@ tvcity.it##img[width="400"][height="300"]
 ilcorrieredellacitta.com##img[width="400"][height="333"]
 halloween.it,roadnroll.it##img[width="468"][height="60"]
 corcianonline.it,orvietosi.it,radiopiu.net,trasimenonline.it##img[width="500"][height="400"]
-104news.it,radiortm.it##img[width="500"][height="500"]
+104news.it,ilmiogiornale.net,radiortm.it##img[width="500"][height="500"]
 tusciaweb.it##img[width="520"][height="100"]
 abruzzoweb.it,arteworld.it##img[width="600"][height="200"]
 frammentidicodice.com##img[width="600"][height="300"]
@@ -2977,6 +2978,7 @@ portolivorno.it##img[width="630"]
 canonclubitalia.com##img[width="632"][height="123"]
 catanista.eu##img[width="640"]
 tvoggisalerno.it##img[width="640"][height="360"]
+ilmiogiornale.net##img[width="640"][height="533"]
 verona-in.it##img[width="650"][height="160"]
 beverfood.com##img[width="650"][height="320"]
 sentireascoltare.com##img[width="700"][height="300"]
