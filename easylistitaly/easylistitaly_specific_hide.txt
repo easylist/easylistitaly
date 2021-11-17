@@ -1000,6 +1000,7 @@ notetralerighe.it##.banner-amazon-music
 parmareport.it##.banner-big
 ligurianautica.com##.banner-box
 universodelgioco.it##.banner-btf-side-rectangle
+grandenapoli.it##.banner-btn
 mondobarcamarket.it##.banner-carousel
 nuovovolantino.it##.banner-cat
 mrw.it##.banner-center
