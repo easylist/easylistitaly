@@ -151,6 +151,7 @@
 ||alqamah.it/banners/
 ||altadefinizione.kiwi/g.png
 ||altadefinizione.kiwi/sc.png
+||altadefinizione.legal/templates/altadef/img/btn_
 ||altadefinizione.legal/templates/altadef/img/download
 ||altadefinizione.legal/templates/altadef/img/stream
 ||altadefinizione01.global/buton
