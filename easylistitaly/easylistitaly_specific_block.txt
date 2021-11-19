@@ -149,6 +149,7 @@
 ||almajuventusfano1906.com^*/namirial.jpg
 ||almanaccocalciotoscano.it/images/banners/
 ||alqamah.it/banners/
+||altadefinizione.app/templates/altadef/img/btn_
 ||altadefinizione.kiwi/g.png
 ||altadefinizione.kiwi/sc.png
 ||altadefinizione.legal/templates/altadef/img/btn_
@@ -159,6 +160,7 @@
 ||altadefinizione01.page/stream1.png
 ||altadefinizione4k.tv/c.png
 ||altadefinizioneita.co/7.gif
+||altadefinizioneita.co/it.gif
 ||altadefinizioneita.co/sc.png
 ||altadefinizioneita.co/strem.png
 ||altadefiniziones.cz/templates/cloud/img/tad
