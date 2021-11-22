@@ -4626,6 +4626,7 @@
 ||webhostingmagazine.it^*/keliweb-
 ||webhostingmagazine.it^*/kinsta-
 ||weboggi.it/zen/
+||webradiodesign.it^*/banner-
 ||weekendpremium.it^*/310x205-1.png
 ||weekendpremium.it^*/bz_weekend_310x310_b.gif
 ||weekendpremium.it^*/OP_GLXHybrid_310x205_
