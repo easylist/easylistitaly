@@ -130,6 +130,7 @@
 ||kataweb.it^*/negozi/$third-party
 ||kuko.it/banner.
 ||lacasadiriposo.it/images/banner/
+||lacittasrl.it^*/bannerframe.php?
 ||lamescolanza.com^*/Logo_american_express-300x204.jpg
 ||lamescolanza.com^*/unnamed.gif
 ||libreriadelsanto.it/banners/$third-party
