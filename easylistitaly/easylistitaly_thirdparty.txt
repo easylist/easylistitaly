@@ -109,7 +109,7 @@
 ||imageshack.com^$domain=notiziariocalcio.com
 ||imgbox.com^$domain=funoanalisitecnica.com|marcheingol.it|venetogol.it
 ||imgix.net/715335a0c32a3a51fd84da3af3c399853fe31204.jpg$domain=videogamezone.eu
-||imgur.com^$domain=guardaserie.chat|ilgeniodellostreaming.llc|powned.it|venetogol.it
+||imgur.com^$domain=guardaserie.chat|ilgeniodellostreaming.llc|ilgeniodellostreaming.re|powned.it|venetogol.it
 ||immagineweb.net^$domain=zerosette.it
 ||immobiliagest.it^$subdocument,third-party
 ||immobiliare.it/widget/$third-party
