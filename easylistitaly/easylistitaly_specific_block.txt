@@ -155,6 +155,7 @@
 ||altadefinizione.legal/templates/altadef/img/btn_
 ||altadefinizione.legal/templates/altadef/img/download
 ||altadefinizione.legal/templates/altadef/img/stream
+||altadefinizione.network/templates/Dark/img/btn_
 ||altadefinizione01.global/buton
 ||altadefinizione01.page/300.gif
 ||altadefinizione01.page/stream1.png
