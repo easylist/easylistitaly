@@ -2030,7 +2030,7 @@ news-town.it##.slider-container
 fvjob.it##.slider-wrapper-comments
 fremondoweb.com##.sliderclass
 radiobudrio.it##.sliderloghi
-alpauno.com,asbiscegliecalcio.it,asgiana.com,business24tv.it,legavolleyfemminile.it,teleoccidente.it,venividivici.us##.slides
+alpauno.com,asbiscegliecalcio.it,asgiana.com,business24tv.it,legavolleyfemminile.it,sportbetnews.net,teleoccidente.it,venividivici.us##.slides
 radiosportiva.com##.slideshow
 24newsonline.it,altopiemonte24.it,arona24.it,biellese24.it,borgomanero24.it,cusio24.it,lagomaggiore24.it,novara24news.it,novarese24.it,ossola24.it,sport24news.it,ticino24.it,verbano24.it,vercellese24.it,visitvco.it##.slideshowck
 24newsonline.it,altopiemonte24.it,arona24.it,biellese24.it,borgomanero24.it,cusio24.it,lagomaggiore24.it,novara24news.it,novarese24.it,ossola24.it,sport24news.it,ticino24.it,verbano24.it,vercellese24.it,visitvco.it##.slideshowckborder
