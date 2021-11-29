@@ -3037,6 +3037,7 @@ acffiorentina.com,acmilan.com##ul[class*="TopHeader__SponsorsSection-"]
 ! Advanced element hiding rules for Adblock Plus
 01health.it#?#.td_block_wrap:-abp-has(.sponsor)
 01net.it#?#.td_block_wrap:-abp-has(.sponsor)
+01smartlife.it#?#.td_block_wrap:-abp-has(.sponsor)
 aleteia.org#?#div[class^="css-"]:-abp-has(a:-abp-contains(contenuto sponsorizzato))
 androidplanet.it#?#.wp-block-group__inner-container:-abp-has(a[href^="https://www.appscommesse.com/"])
 borsaitaliana.it#?#.m-relases__result:-abp-has(div:-abp-contains(Contenuto pubblicitario))
