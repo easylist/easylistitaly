@@ -2154,7 +2154,7 @@ cattolica.info##.tc_adm
 avtrend.it##.tcb-button-link
 cronachedellacampania.it##.tcf-container
 gioconews.it##.tcvn-banner-item
-2anews.it,agimeg.it,aplombardia.eu,apsicilia.it,aroundtheworld.pro,artuu.it,bologna2000.com,cronacadelleconomia.it,cronacadelveneto.com,europacalcio.it,fumettologica.it,gazzettacanaria.com,hashtagsicilia.it,ilfattovesuviano.it,ilgranchio.it,lavocedivenezia.it,link24.it,mattinodiverona.it,medicomunicare.it,messinaora.it,motoexcape.com,paisemiu.com,ravennawebtv.it,realtagenoana.it,romanews.eu,sardegnareporter.it,stylo24.it,toscananotizie.com,tusciaup.com,vaielettrico.it,valbrembanaweb.com##.td-a-rec
+2anews.it,agimeg.it,aplombardia.eu,apsicilia.it,aroundtheworld.pro,artuu.it,bologna2000.com,cronacadelleconomia.it,cronacadelveneto.com,europacalcio.it,fumettologica.it,gazzettacanaria.com,hashtagsicilia.it,ilfattovesuviano.it,ilgranchio.it,iltamburino.it,lavocedivenezia.it,link24.it,mattinodiverona.it,medicomunicare.it,messinaora.it,motoexcape.com,paisemiu.com,ravennawebtv.it,realtagenoana.it,romanews.eu,sardegnareporter.it,stylo24.it,toscananotizie.com,tusciaup.com,vaielettrico.it,valbrembanaweb.com##.td-a-rec
 ivl24.it##.td-all-devices
 ilprimatonazionale.it##.td-banner-bg
 edagricole.it##.td-banner-footer
