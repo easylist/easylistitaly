@@ -2295,6 +2295,7 @@
 ||laprimapagina.it^*/i-migliori-bonus-scommesse.png
 ||laprovinciadelsulcisiglesiente.com^*/banner-
 ||laprovinciakr.it/images/banners/
+||laprovinciakr.it/modules/mod_responsivebannerslider/
 ||laprovinciakr.it^*/banner-
 ||laputa.it^*/amazon_button.png
 ||laputa.it^*/brave_support_us.

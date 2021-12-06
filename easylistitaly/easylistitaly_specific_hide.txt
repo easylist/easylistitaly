@@ -540,7 +540,7 @@ flashgames.it###pub_sotto
 voce.it###publiredazionale
 tuttitalia.it###qh
 #reportpistoia.com#.code-block-1
-isnews.it###responsive-banner-slider
+isnews.it,laprovinciakr.it###responsive-banner-slider
 cosenostre-online.it###rev_slider_4_1_wrapper
 zerocinquantuno.it###rev_slider_4_2_wrapper
 cosenostre-online.it###rev_slider_4_5_wrapper
