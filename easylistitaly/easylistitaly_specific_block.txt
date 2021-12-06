@@ -640,6 +640,8 @@
 ||calabrianews.it^*/autocurti.png
 ||calabrianews.it^*/S-Anna-Hospital.jpg
 ||calabrianews24.com^*/Banner_
+||calabriapost.net/images/00-cse-banner/
+||calabriapost.net/modules/mod_responsivebannerslider/
 ||calabriareportage.it^*-Banner-
 ||calabriatv.it^*/BANNER-
 ||calcio-news24.it/static/banners/
