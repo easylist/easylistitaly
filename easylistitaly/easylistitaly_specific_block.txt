@@ -4588,6 +4588,7 @@
 ||voce.com.ve^*/Hotel-Las-Americas.gif
 ||voce.com.ve^*/libro-marisa.gif
 ||voce.com.ve^*_banner.
+||voceaigiovani.it/images/banners/
 ||vocedinapoli.it^*-Banner-
 ||vocedistrada.it^*/banner-
 ||vocedistrada.it^*/banner_
