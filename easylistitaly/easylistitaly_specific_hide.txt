@@ -22,6 +22,7 @@ scambieuropei.info,soldioggi.it,tesionline.it###T
 flashgames.it###T_1
 chimerarevo.com###TopWidgetArea
 larena.it###_dbx_core
+panoz.it###ad
 soldioggi.it###ad1
 soldioggi.it###ad2
 soldioggi.it###ad3
