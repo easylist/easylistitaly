@@ -21,7 +21,7 @@ tuttojuve24.it###SuperClassQuote
 scambieuropei.info,soldioggi.it,tesionline.it###T
 flashgames.it###T_1
 chimerarevo.com###TopWidgetArea
-calcionews24.com###Top_Banner
+calcionews24.com,juventusnews24.com###Top_Banner
 larena.it###_dbx_core
 panoz.it###ad
 soldioggi.it###ad1
@@ -1312,7 +1312,7 @@ pornototale.com##.co_sponsor
 bottadiculo.it##.code-block > div > a[href*="/dazn"]
 bottadiculo.it##.code-block > div > a[href*="/pokerstars"]
 bottadiculo.it##.code-block > div > a[href*="/vincitu"]
-calcionews24.com,casasuper.it,clubdoria46.it,donnaup.it,mangiabevigodi.it,notiziecatania.it,sampnews24.com,viaggi-estate.com##.code-block-1
+calcionews24.com,casasuper.it,clubdoria46.it,donnaup.it,juventusnews24.com,mangiabevigodi.it,notiziecatania.it,sampnews24.com,viaggi-estate.com##.code-block-1
 calcionews24.com##.code-block-10
 avvisatore.com,bottadiculo.it,keblog.it,pomiglianolive.it##.code-block-11
 avvisatore.com,giornaledisegrate.it,pomiglianolive.it,reportpistoia.com##.code-block-12
