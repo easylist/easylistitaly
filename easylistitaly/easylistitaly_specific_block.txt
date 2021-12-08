@@ -3209,6 +3209,7 @@
 ||primapress.it^*/banner_
 ||primapress.it^*_336x280.
 ||primaradio.net^*/LaTorre.gif
+||primocanale.it/images/banners/
 ||primocanale.it/img/banner/
 ||primopianomolise.it^*/banner
 ||primopianomolise.it^*/colacem-ppm.jpg
