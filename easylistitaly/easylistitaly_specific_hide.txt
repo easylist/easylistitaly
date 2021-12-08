@@ -720,7 +720,7 @@ grossetosport.com###text-60
 grossetosport.com,radioimmagine.it###text-61
 grossetosport.com###text-62
 assisisport.it,incucinaconelena.it,lombardoandrea.com,pitchinvasion.net###text-7
-amorethailandia.com,bioterra.it,brindisioggi.it,controcopertina.com,esportsitalia.com,ilpost.it,lombardoandrea.com,plusrew.com###text-8
+amorethailandia.com,bioterra.it,brindisioggi.it,controcopertina.com,esportsitalia.com,firstradioweb.com,ilpost.it,lombardoandrea.com,plusrew.com###text-8
 agenziagiornalisticaopinione.it,brindisioggi.it,controcopertina.com,ilpost.it,nightlife-cityguide.com,p2p-italia.com,pagamentidigitali.it,solorecensioni.com,telemia.it###text-9
 specchiosesto.it###text-html-widget-2
 agemobile.com###text-html-widget-4
