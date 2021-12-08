@@ -21,7 +21,7 @@ tuttojuve24.it###SuperClassQuote
 scambieuropei.info,soldioggi.it,tesionline.it###T
 flashgames.it###T_1
 chimerarevo.com###TopWidgetArea
-calcionews24.com,juventusnews24.com,milannews24.com###Top_Banner
+calcionews24.com,internews24.com,juventusnews24.com,milannews24.com###Top_Banner
 larena.it###_dbx_core
 panoz.it###ad
 soldioggi.it###ad1
@@ -1312,7 +1312,7 @@ pornototale.com##.co_sponsor
 bottadiculo.it##.code-block > div > a[href*="/dazn"]
 bottadiculo.it##.code-block > div > a[href*="/pokerstars"]
 bottadiculo.it##.code-block > div > a[href*="/vincitu"]
-calcionews24.com,casasuper.it,clubdoria46.it,donnaup.it,juventusnews24.com,mangiabevigodi.it,milannews24.com,notiziecatania.it,sampnews24.com,viaggi-estate.com##.code-block-1
+calcionews24.com,casasuper.it,clubdoria46.it,donnaup.it,internews24.com,juventusnews24.com,mangiabevigodi.it,milannews24.com,notiziecatania.it,sampnews24.com,viaggi-estate.com##.code-block-1
 calcionews24.com##.code-block-10
 avvisatore.com,bottadiculo.it,keblog.it,pomiglianolive.it##.code-block-11
 avvisatore.com,giornaledisegrate.it,pomiglianolive.it,reportpistoia.com##.code-block-12
@@ -1322,7 +1322,7 @@ avvisatore.com,reportpistoia.com##.code-block-15
 casasuper.it,reportpistoia.com##.code-block-16
 reportpistoia.com##.code-block-17
 reportpistoia.com##.code-block-18
-reportpistoia.com##.code-block-19
+internews24.com,reportpistoia.com##.code-block-19
 keblog.it,mangiabevigodi.it,milanocittastato.it##.code-block-2
 fisco7.it,ok-salute.it##.code-block-29
 avvisatore.com,cinquecolonne.it,mangiabevigodi.it,milanocittastato.it,reportpistoia.com##.code-block-3
