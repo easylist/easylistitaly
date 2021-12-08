@@ -3721,6 +3721,7 @@
 ||sestonotizie.it^*/pentola-d-oro-sesto-san-giovanni.jpg
 ||sestonotizie.it^*/SESTO_360x210.jpg
 ||settecalcio.it^*/File_banner/
+||settimanasport.com^*/150x60_jooble.gif
 ||sevendaysweb.com^*-banner-$domain=dirigentindustria.it
 ||sevendaysweb.com^*-mediabanner.$domain=dirigentindustria.it
 ||sevendaysweb.com^*-socibanner.$domain=dirigentindustria.it
