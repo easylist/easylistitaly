@@ -1026,6 +1026,7 @@ ebikecult.it,mtbcult.it##.banner-homepage-inside-1
 ebikecult.it,mtbcult.it##.banner-homepage-inside-2
 ebikecult.it,mtbcult.it##.banner-homepage-slider-728-90
 italiafruit.net##.banner-i
+vendingpress.it##.banner-image
 palermomania.it##.banner-images
 picenonews24.it,triestecafe.it##.banner-img
 cremona1.it,lacnews24.it##.banner-inner
@@ -1988,6 +1989,7 @@ trovaprezzi.it##.sell_on_ebay_wrapper
 excite.it##.serp-item
 calabria7.it##.sg-popup-builder-content
 calabria7.it,gamelegends.it##.sgpb-popup-overlay
+vendingpress.it##.shailan_banner_widget
 aphorism.it,bloopers.it##.shop
 fishingboatmagazine.it##.shortcode-banner-inside
 milleunadonna.it,tiscali.it##.shp-2l-dx
