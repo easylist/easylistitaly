@@ -1436,6 +1436,7 @@ bsnews.it,evosmart.it,ilvideogamepost.blog,mialleno.it,pc-gaming.it,stile.it,uff
 regaliperfetti.it##.egg_grid
 regaliperfetti.it##.egg_sort_list
 beneficicurcuma.it##.elementor-cta
+siciliaonpress.com##.elementor-element-1247f0a
 giornalesm.com##.elementor-element-1c08281c
 iamnaples.it##.elementor-element-1cc40659
 financecommunity.it##.elementor-element-1f289da8
@@ -1453,6 +1454,7 @@ reportpistoia.com##.elementor-element-4952283
 mondobalneare.com##.elementor-element-4baf56e
 lanotiziagiornale.it##.elementor-element-519fbab1
 icrewplay.com##.elementor-element-52a6569
+siciliaonpress.com##.elementor-element-534948e
 iamnaples.it##.elementor-element-56031cb6
 giornalesm.com##.elementor-element-5b8e1d7
 montagneepaesi.com##.elementor-element-5cdb699d
@@ -2308,6 +2310,7 @@ strumentiemusica.com##.ulnqd-container
 alfemminile.com##.unfyas
 portadimare.it##.unite-carousel-wrapper
 connessionivpn.it##.universal-cta__inner
+siciliaonpress.com##.upper-footer
 turistipercaso.it##.utilink
 sanihelp.it##.v2-header-banner
 bresciaoggi.it,larena.it##.v2_banner-wrapper
