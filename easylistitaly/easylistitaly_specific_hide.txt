@@ -833,7 +833,7 @@ radioradio.it,uominietrasporti.it##._ning_inner
 comunicaffe.it##._ningzone_grid
 ilsole24ore.com##.a-leaderboard
 amazon.it##.a-link-normal[href*="&adId="]
-anteprima24.it,centotrentuno.com,corriereelorino.it,erbanotizie.com,fishingboatmagazine.it,giornaleibleo.it,grandangoloagrigento.it,igossip.it,ilfattonisseno.it,ilgolfonline.it,lombardinelmondo.org,monrealepress.it,newscatania.com,piunotizie.it,radiocassinostereo.com,ravennawebtv.it,restoalsud.it,rietinvetrina.it,ultimenotizieflash.com,vivicentro.it##.a-single
+anteprima24.it,centotrentuno.com,corriereelorino.it,erbanotizie.com,fishingboatmagazine.it,giornaleibleo.it,grandangoloagrigento.it,igossip.it,ilfattonisseno.it,ilgolfonline.it,lombardinelmondo.org,monrealepress.it,newscatania.com,piunotizie.it,radiocassinostereo.com,ravennawebtv.it,restoalsud.it,rietinvetrina.it,sicilia24h.it,ultimenotizieflash.com,vivicentro.it##.a-single
 badcomics.it,badgames.it,badtaste.it,badtv.it##.aalb-880-product-carousel-unit
 cookist.it##.aalb-pa-product-container
 gnius.it##.aalb-product-carousel-unit
@@ -1429,6 +1429,7 @@ cronachedibirra.it##.e3lan125
 ilpaesenuovo.it##.e3lanat-layout-rotator
 noisiamoagricoltura.com##.e62-63
 euractiv.it##.ea-gat-slot-wrapper
+sicilia24h.it##.edgtf-position-right
 bergamonews.it##.edinews_widget_friends-3
 genova24.it##.edinews_widget_post_from_terms
 bsnews.it,evosmart.it,ilvideogamepost.blog,mialleno.it,pc-gaming.it,stile.it,ufficiospettacoli.it##.egg-container
