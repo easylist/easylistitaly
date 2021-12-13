@@ -1194,6 +1194,7 @@ legapallacanestro.com##.block-sponsor-e-partners
 lantidiplomatico.it##.block-wrapper-banner
 dissapore.com,pourfemme.it,punto-informatico.it,sportal.it,telefonino.net##.blz-url
 ilquotidianoditalia.it##.bn-lg
+farmaciaditurno.it##.bn-lg-sidebar
 ilquotidianoditalia.it##.bn-md
 ilquotidianoditalia.it##.bn-sm
 stateofmind.it##.bnn-fullwidth
