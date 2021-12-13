@@ -249,6 +249,7 @@ tefchannel.it###ctl00_cphBody_mcsBannerShortTop_pnlSlot
 tefchannel.it###ctl00_cphBody_mcsSlotBannerBottom_rptGallery_ctl00_lnkLink
 tefchannel.it###ctl00_cphBody_mcsSlotBannerTop_rptGallery_ctl01_lnkLink
 teleborsa.it###ctl00_if4WTV300x250
+parlandodisport.it###custom-background-link
 assisisport.it,casafacile24.com,casanapoli.net,gufo.it###custom_html-10
 assisisport.it,fotonerd.it,gufo.it,indiscreto.org,trnews.it###custom_html-11
 aroundtheworld.pro,cucinamamma.it,momentidicalcio.com,scienzenotizie.it###custom_html-12
@@ -1373,6 +1374,7 @@ tiscali.it##.container_b_1
 esselungaacasa.it##.container_sponsored_product
 frasimania.it##.content-banner
 torresette.news##.content-banner-right
+parlandodisport.it##.content-block-banner-2
 cookist.it,fanpage.it##.content-leaderboard
 lookdavip.tgcom24.it##.conteprodotto > a[target="_blank"]
 salernonotizie.it##.contskin
@@ -2366,6 +2368,7 @@ italiavela.it##.widget.f300x524
 bici-pieghevole.info,caniegatti.info,ciaogreen.it,gufo.it,infotelematico.com,londra.today,migliorecrema.com,miglioripc.it,notiziarte.com,salutemoderna.it##.widget_aawp_widget_bestseller
 bici-pieghevole.info,infotelematico.com,newsly.it,stampante-3d.net,tuttoesselunga.com##.widget_aawp_widget_box
 yoga-magazine.it##.widget_alobaidirandombannerswidget
+parlandodisport.it##.widget_banner
 scambiaricette.it##.widget_boodo_wp_300px
 stadiosport.it##.widget_encodiabookmakerwidget
 lasberla.com##.widget_huge_it_widget
