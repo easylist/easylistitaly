@@ -3483,6 +3483,7 @@
 ||ragusanews.com//immagini_banner/
 ||ragusanews.com/images_banner/
 ||ravennaeventi.net/file/banner1/
+||ravennaeventi.net/file/banner5/
 ||ravennafc.it^*/sponsor-
 ||ravennatoday.it/images/skin/
 ||ravennawebtv.it^*-300x300-
