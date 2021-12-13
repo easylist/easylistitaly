@@ -41,6 +41,7 @@ ilgiornaleditrani.net,unadonnasana.it###ai_widget-3
 latinapress.it###ai_widget-4
 casasuper.it###ai_widget-5
 casasuper.it###ai_widget-7
+localidautore.it###ajax-placeholder-header
 lospicchiodaglio.it###amazon_apa
 notebookitalia.it###amznbi
 direttafacile.it###annuncidiv
