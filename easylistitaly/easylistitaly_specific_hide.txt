@@ -78,7 +78,7 @@ mondocalcionews.it###banner-laterale-headerbidding
 canavesenews.it###banner-left-bottom
 canavesenews.it###banner-left-top
 cuneocronaca.it,larivieraonline.com,oggitreviso.it,piccolenote.ilgiornale.it###banner-top
-canavesenews.it,torinonews24.it###banner-top-container
+canavesenews.it,courmayeurnews.it,torinonews24.it###banner-top-container
 cataniapubblica.tv,rid.it###banner1
 cataniapubblica.tv###banner2
 gayburg.com###banner300
@@ -1050,6 +1050,7 @@ brindisisettenews.it,leccesette.it##.banner-side
 digital-news.it,isnews.it,viversano.net##.banner-sidebar
 ligurianautica.com##.banner-skin-link
 universodelgioco.it##.banner-sky
+courmayeurnews.it##.banner-slide
 canavesenews.it,torinonews24.it##.banner-slider
 qualenergia.it##.banner-space
 vienormali.it##.banner-testata
