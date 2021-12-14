@@ -3081,6 +3081,7 @@ logisticanews.it#?#.td_block_wrap:-abp-has(a:-abp-contains(Contenuti sponsorizza
 lospiffero.com#?#.article-blog-default:-abp-has(span:-abp-contains(CONTENUTO SPONSORIZZATO))
 meccanicanews.com#?#.td_block_wrap:-abp-has(a:-abp-contains(Contenuti sponsorizzati))
 metalitalia.com#?#.sidebar-block:-abp-has(a[href^="https://track.webgains.com/click.html"])
+mffashion.com#?#.media-imgnews:-abp-has(span:-abp-contains(Contenuto Sponsorizzato))
 milanofinanza.it#?#.col-md-12.intesahead.mb-3 ~ .col-md-4:-abp-has(a[href^="https://group.intesasanpaolo.com/"])
 money.it#?#.flex.flex-col.space-y-3.relative:-abp-has(.mr-2)
 my-personaltrainer.it#?#.sal-list-item:-abp-has(.sal-is-special)
