@@ -166,7 +166,7 @@
 ||pegasomedia.it/public/immaginibnr/
 ||percorsidigitali.com/consulting300.gif
 ||pezzotto.net/banners/
-||pictures.glashuette-original.com^domain=orologidiclasse.com
+||pictures.glashuette-original.com^$domain=orologidiclasse.com
 ||plug.it/*/oas/
 ||plug.it//banners/
 ||plug.it/banners/
