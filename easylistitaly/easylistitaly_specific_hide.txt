@@ -804,6 +804,7 @@ informaquiz.it##.ADV_Video
 focusjunior.it##.ASponsor
 chimerarevo.com##.AbovePostPlacementSlot
 comprovendolibri.it##.BB14
+milanofinanza.it##.BRISharebox
 comolive.it,resegoneonline.it,valtellinanews.it##.Banner
 cinemaitaliano.info##.Banner01
 cinemaitaliano.info##.Banner430x45
