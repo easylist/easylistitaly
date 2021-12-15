@@ -242,6 +242,7 @@ latinaoggi.eu###container-skin-top
 news.cinecitta.com###content-banner1
 news.cinecitta.com###content-banner2
 tltonline.it###content-footer-section
+pordenonecalcio.com###content-section-3
 blablive.com###content_bonus
 autoseller.it###ctl00_ContentCentraleBanner
 tefchannel.it###ctl00_cphBody_mcsBannerShortBottom_pnlSlot
