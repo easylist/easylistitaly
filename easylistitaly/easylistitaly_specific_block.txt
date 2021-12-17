@@ -903,6 +903,7 @@
 ||compagniadellacima.it^*/Ronco_banner.jpg
 ||comprovendodischi.it/images/AMZ-
 ||comprovendolibri.it/images/BNexnovo.gif
+||comprovendolibri.it/images/BNexnovo.jpg
 ||comprovendolibri.it/images/BNlibrifolli.jpg
 ||comprovendolibri.it/images/FdL_Cagli-160X133.jpg
 ||comprovendolibri.it/images/ico-mondadori.jpg
@@ -4966,8 +4967,6 @@
 ||today.it/~shared/cgi-bin/d_a/
 ! (/sw.js)
 /^https?:\/\/.*\/.*sw[0-9._].*/$script,domain=dundi.it|pornototale.com|skip.li
-!
-!/^https?:\/\/.*\.(club|bid|biz|xyz|site|pro|info|online|icu|monster|buzz|website|biz|re|casa|top|one|space|network|live|systems|ml|world|life|co)\/.*/$~image,third-party,domain=animeunity.tv
 !
 /^https?:\/\/.*\/[a-z0-9A-Z]{3,15}\.(php|jsx|1ph)/$image,script,subdocument,domain=amatorialeporno.it|granditetteporno.it|listasitiporno.it|matrignaporno.it|matureporno.it|milfporno.it|porno-anale.it|porno-gay.it|porno-hardcore.it|porno-lesbica.it|pornoadolescente.it|pornomatura.it|scopateitaliane.com|scopateitaliane.it|videoporno-gratis.it
 ! webrtc ads
