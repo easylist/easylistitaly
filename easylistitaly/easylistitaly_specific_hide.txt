@@ -1150,7 +1150,7 @@ saturnonotizie.it##.bannerheader
 edicolaamica.it##.bannerhome
 toscanafree.it##.bannerinoa
 toscanafree.it##.bannerinob
-bagherianews.com,betitaliaweb.it,bitsandchips.it,corriereannunci.it,corrierenews.it,corriereproposte.it,dedalomultimedia.it,radioitaliacina.com##.banneritem
+bagherianews.com,betitaliaweb.it,bitsandchips.it,corriereannunci.it,corrierenews.it,corriereproposte.it,dedalomultimedia.it,radioitaliacina.com,radiomia.it##.banneritem
 prezzifarmaco.it##.bannernativo
 toscanafree.it##.bannernews
 assisisport.it,geronimo.news,metalitalia.com,qualenergia.it,vivafm.it##.banners

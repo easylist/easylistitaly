@@ -3424,6 +3424,7 @@
 ||radiomarte.it^*/Ln_Rm.
 ||radiomarte.it^*/top_02.jpg
 ||radiomarte.it^*_Banner_
+||radiomia.it/images/banners/
 ||radiomillennium.it/images/animal-food.png
 ||radiomillennium.it/images/BMC.png
 ||radiomillennium.it/images/divanova-
