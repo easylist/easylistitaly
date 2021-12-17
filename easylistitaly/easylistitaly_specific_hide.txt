@@ -2314,6 +2314,7 @@ tvsportiva.it##.tvg-manager-box
 androidworld.it,mobileworld.it,smartworld.it##.tw-carousel
 smartworld.it##.tw-fragment-affiliation-container
 viaggioincoppia.com##.uagb-buttons__wrap
+siciliamedia.it##.ubm_banners_rotation
 notebookitalia.it##.uk-height-medium
 colonnesonore.net##.uk-panel.uk-panel-header
 cartedicredito24.it##.uk-section-default.uk-section.uk-section-xsmall
