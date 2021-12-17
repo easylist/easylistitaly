@@ -1831,11 +1831,17 @@
 ||ilgranchio.it^*_banner.
 ||ilgranchio.it^*_banner300x397_
 ||ilgrigioneitaliano.ch/images/banners/
+||ilmamilio.it^*-banner-
+||ilmamilio.it^*/banners/
 ||ilmamilio.it^*/centroEstivo-leColline-ilmamilio.jpg
+||ilmamilio.it^*/colline-centrosportivo2-
+||ilmamilio.it^*/Farmacia_Pratone1_
 ||ilmamilio.it^*/fireice-ilmamilio.jpg
 ||ilmamilio.it^*/Il_Mamilio_prestito_auto.jpg
+||ilmamilio.it^*/mamilio_mutuo.jpg
 ||ilmamilio.it^*/padel69-freeTime-ilmamilio.jpg
 ||ilmamilio.it^*/parcoUlivi-pubb3-ilmamilio.jpg
+||ilmamilio.it^*/promo-
 ||ilmamilio.it^*/sportage_pronta_consegna_mamilio_aprile.jpg
 ||ilmartino.it^*/xbanner-
 ||ilmeridianonews.it^*/fontamanchette.png
