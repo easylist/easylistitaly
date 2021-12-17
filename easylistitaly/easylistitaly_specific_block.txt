@@ -2641,6 +2641,7 @@
 ||meteosestola.it/img/bernardi.png
 ||meteosestola.it/img/modelmarris.jpg
 ||meteosestola.it/img/sevensummit.png
+||meteotrentinoaltoadige.it^*_banner_
 ||meteovalmorea.it^*/banners/
 ||mi-lorenteggio.com^*/bannerbasso.gif
 ||mialleno.it^*/2020-02-15-2.png
