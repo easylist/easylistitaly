@@ -321,6 +321,7 @@ vivilanotizia.it###fondosito
 mondocalcionews.it###footer-banner-desktop
 mondocalcionews.it###footer-banner-mobile
 lamiacittanews.it###footer-fixed
+retesport.it###footer-i-nostri-partner
 ascittadella.it###footer-sponsor
 lanostratv.it###footer-top-wrapper
 americaurlaub.de,ilmondodeglianimali.altervista.org,tvrxenon.it###footer-widgets

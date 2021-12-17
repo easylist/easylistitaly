@@ -3558,6 +3558,7 @@
 ||retesei.com^*/ips.jpg
 ||retesei.com^*/pincios-
 ||retesport.it/wp-content/uploads/2021/03/3.jpg
+||retesport.it^*/vacanze-radio.jpg
 ||ricettealvolo.it^*/Pressomassaggio-
 ||rid.it^*-Banner_
 ||rid.it^*_(720_x_88)_
