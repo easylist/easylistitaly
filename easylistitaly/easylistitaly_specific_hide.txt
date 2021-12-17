@@ -1640,6 +1640,7 @@ amoresepariamoci.com##.huge_it_video_player_player
 mercatini-natale.com##.hyvqg-container
 iodonna.it##.id-vda-article
 idealista.it##.idealista-banner
+allmusicitalia.it##.iframe-adv
 milanofinanza.it##.igturboboxnews
 sportytrader.it##.ilo
 forum.ilsoftware.it##.ilsw_forum_leaderboard
