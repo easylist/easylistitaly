@@ -2442,6 +2442,7 @@ zingarate.com##.zg-malta
 consigli.it##.zio_
 ilmigliore.org##.ziobox
 abruzzolive.it##.znugldvqrk-float-center
+3tre3.it##.zona_publi
 fip.it##.zonafornitori
 radiotorremacauda.it##.ùubm_rotation_widget
 nursetimes.org##AMP-IMG[width="320"][height="50"]
