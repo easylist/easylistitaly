@@ -2006,6 +2006,7 @@ calabria7.it##.sg-popup-builder-content
 calabria7.it,gamelegends.it##.sgpb-popup-overlay
 vendingpress.it##.shailan_banner_widget
 aphorism.it,bloopers.it##.shop
+tiscali.it##.shopping-slide-container
 fishingboatmagazine.it##.shortcode-banner-inside
 milleunadonna.it,tiscali.it##.shp-2l-dx
 tiscali.it##.shp-2l-dx-v2
@@ -2569,7 +2570,7 @@ tuttoamerica.it##a[href^="https://www.anrdoezrs.net/click-"]
 beautytester.it,digital-news.it,gufo.it,msn.com,neomag.it,partiteoggi.net,salutarmente.it,terrazzofacile.it##a[href^="https://www.awin1.com/"]
 amorethailandia.com,ideeviaggio.it,ioviaggiblog.it,maremma.name,monzanet.it,turistadimestiere.com,tuttobaviera.it,vacanzeinamerica.eu,viaggi-lowcost.info,viaggio-in-germania.de##a[href^="https://www.booking.com/"]
 fumettologica.it,stilearte.it##a[href^="https://www.catawiki.it"][href*="?utm_"]
-milleunadonna.it##a[href^="https://www.ebay.it/"][href*="?mkcid="]
+milleunadonna.it,tiscali.it##a[href^="https://www.ebay.it/"][href*="?mkcid="]
 amorethailandia.com,vacanzeinamerica.eu,voyagetips.com##a[href^="https://www.getyourguide.it/"][href*="&partner_id="]
 lavocedelpopolo.it##a[href^="https://www.holyart.it/"]
 gamelegends.it,hynerd.it,spaziogames.it,tuttotek.it,xtremehardware.com##a[href^="https://www.instant-gaming.com/?igr="]

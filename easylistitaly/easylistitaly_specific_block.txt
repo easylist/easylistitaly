@@ -4133,12 +4133,8 @@
 ||timgate.it^*/masthead_
 ||tipresentoilcane.com/banner/
 ||tipster.space/FOTO/ADV/
-||tiscali.it/12c416f4ae48ee5ee916422dc8157f76.jpeg
-||tiscali.it/18da78a0a0293ff280d4a9ee581b0b86.jpeg
-||tiscali.it/33888013e5d72770ae9f61c484ea7c01.jpeg
-||tiscali.it/735b712a451e69d1aca9a36757dd5a36.jpeg
-||tiscali.it/980df6e33d912723d5729c5b23c77d06.jpeg
-||tiscali.it/aeb2e59e0a9121c59870f5874f6bfa0c.jpeg
+||tiscali.it/02faa336f940aa67c7f80385a519c83b.jpeg
+||tiscali.it/a0675cfe3534164ff7ee602e9bc4b815.jpeg
 ||tiscali.it/amazon/
 ||tiscali.it/planner/
 ||tiscali.it/sampr/amz.js
