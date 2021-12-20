@@ -2262,6 +2262,7 @@ teleaesse.it##.text-right
 circusf1.com##.textwidget + a[href^="https://www.ansa.it/codici-sconto/"]
 bluerating.com##.the_big_banner
 87tv.it,attualita.it,cronachedellacampania.it,ilfattoalimentare.it,meteogiornale.it,pianetadonne.blog,quizammissione.it,teamworld.it##.theiaStickySidebar
+salto.bz##.theme-carousel-partners
 caleno24ore.it##.themequote
 amazon.it##.threepsl-creatives
 comesifasefaidate.it##.ticker
