@@ -1356,6 +1356,7 @@ chiamamicitta.it##.code-block-76
 grossetosport.com,latinapress.it,pomiglianolive.it,reportpistoia.com##.code-block-8
 reportpistoia.com##.code-block-85
 keblog.it,pomiglianolive.it##.code-block-9
+goalsicilia.it##.col-12.p-0.my-3.border.border-white
 ilcorrieredelgiorno.it##.col-banner
 money.it##.col-span-16.tablet\:col-span-6.laptop\:col-span-5
 lacrocequotidiano.it##.column-banner
