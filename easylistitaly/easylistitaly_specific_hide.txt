@@ -149,7 +149,7 @@ dinamobasket.com###block-106
 meridiananotizie.it###block-11
 meridiananotizie.it###block-13
 meridiananotizie.it,mobileblogger.it###block-15
-meridiananotizie.it,trileggo.it###block-3
+meridiananotizie.it,stranieriinitalia.it,trileggo.it###block-3
 meridiananotizie.it###block-9
 giornaledellamusica.it###block-adv
 giornaledellamusica.it###block-adv2
@@ -274,7 +274,7 @@ alground.com,androidblog.it,assisisport.it,biologiamarina.org,birramoriamoci.it,
 immaginaviaggiare.it###custom_html-30
 scambieuropei.info###custom_html-32
 immaginaviaggiare.it###custom_html-33
-assisisport.it,calciocasteddu.it,canalesassuolo.it,carteprepagate.org,corrieredelmolise.com,corrieredicomo.it,cucinaresenzamenate.it,destinazioneusa.com,eurekaddl.it,floinviaggio.com,grossetosport.com,guidaconsumatore.com,laprevisione.it,meteogiornale.it,nonsolonautica.it,peopleforplanet.it,pianetablunews.it,topragazze.it,travelwithbrothers.com,tuttogossipnews.it###custom_html-4
+assisisport.it,calciocasteddu.it,canalesassuolo.it,carteprepagate.org,corrieredelmolise.com,corrieredicomo.it,cucinaresenzamenate.it,destinazioneusa.com,eurekaddl.it,floinviaggio.com,grossetosport.com,guidaconsumatore.com,laprevisione.it,meteogiornale.it,nonsolonautica.it,peopleforplanet.it,pianetablunews.it,stranieriinitalia.it,topragazze.it,travelwithbrothers.com,tuttogossipnews.it###custom_html-4
 mondomobileweb.it###custom_html-42
 1x2-calcio.com,aroundtheworld.pro,calcioitalia24.it,carteprepagate.org,corrieredelmolise.com,grossetosport.com,innaturale.com,italiaonline.news,italyandmore.it,mam-e.it,melarossa.it,meteogiornale.it,thailandiapertutti.it,travelwithbrothers.com,tuttogossipnews.it###custom_html-5
 1x2-calcio.com,calcioitalia24.it,calciomercatonews.com,corrieredicomo.it,cucinamamma.it,hynerd.it,indiscreto.org,it-casinoonline.com,lombardoandrea.com,nonsprecare.it,paladins.it,pentanewslivorno.it,thailandiapertutti.it,torremaggiore.com###custom_html-6
