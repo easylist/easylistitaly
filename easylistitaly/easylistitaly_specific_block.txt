@@ -4329,6 +4329,7 @@
 ||tuttononprofit.com^*/RD-safety-2.jpg
 ||tuttopisa.com^*/banner-
 ||tuttostoria.net/images/storiadoc-animato.gif
+||tuttotek.it^*/banner-
 ||tuttotek.it^*/Catch.jpg
 ||tuttotek.it^*/instant-banner-
 ||tuttotone.app/assets/img/banner/
