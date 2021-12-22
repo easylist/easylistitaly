@@ -898,6 +898,7 @@ corrierecomunicazioni.it,digital4.biz,energyup.tech,ilsussidiario.net,industry4b
 ricettealvolo.it##.adv_content
 ricettealvolo.it##.adv_side
 calabria7.it##.advanced_floating_content
+automoto.it##.advblock
 addicted2play.com,bicimagazine.it,bimcal.it,eurogamer.it,gioco.it,lausc.it,morningstar.it,podisti.net,trentinovolley.it##.advert
 ilfoglio.it,liberoquotidiano.it,pharmastar.it##.advertisement
 film-review.it,frasicelebri.it,helloworld.it,nanopress.it,zonalocale.it##.advertising
@@ -1393,8 +1394,9 @@ giochi.it##.cpx-content
 chimerarevo.com##.cr-info-box
 ilmeteo.net##.creatividad
 mowmag.com##.crm-article-cut
+automoto.it##.crm-article-signature
 mowmag.com##.crm-layout-sidebar
-mowmag.com##.crm-sticky-parent
+automoto.it,mowmag.com##.crm-sticky-parent
 automoto.it,moto.it##.crm-unit-bx1
 automoto.it,moto.it##.crm-unit-bx2
 automoto.it,moto.it##.crm-unit-bx3
@@ -1773,6 +1775,7 @@ ecoo.it##.masterhead-container-column
 eurochampions.it,fiorentinanews.com,genoanews1893.it,lalaziosiamonoi.it,perugia24.net,pianetabasket.com,tuttofrosinone.com,tuttonocerina.com,tuttoturris.com,tuttoveneziasport.it##.masthead
 ilgiorno.it,ilrestodelcarlino.it,iltelegrafolivorno.it,lanazione.it,notizie-inter.it,quotidiano.net##.masthead-container
 screenweek.it##.matches-container
+automoto.it##.mawrap
 radiogold.it##.max-banner-top
 laputa.it##.mbt-book-buybuttons
 medicalexcellencetv.it##.medic-widget
@@ -1789,6 +1792,7 @@ forumfree.it##.mgbox
 sestonotizie.it##.mh-banner
 filmforlife.org##.mh-footer
 castellinotizie.it,catanzaro7.net,nerdevil.it##.mh-header-widget-2
+automoto.it##.mhwrap
 meteoeradar.it##.min-height
 tvdigitaldivide.it##.mioadv
 automoto.it,moto.it##.mit-skin-spacer
