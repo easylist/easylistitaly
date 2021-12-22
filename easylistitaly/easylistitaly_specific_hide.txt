@@ -1332,7 +1332,7 @@ avvisatore.com,reportpistoia.com##.code-block-14
 avvisatore.com,reportpistoia.com##.code-block-15
 casasuper.it,reportpistoia.com##.code-block-16
 reportpistoia.com##.code-block-17
-reportpistoia.com##.code-block-18
+internews24.com,reportpistoia.com##.code-block-18
 cagliarinews24.com,internews24.com,lazionews24.com,reportpistoia.com##.code-block-19
 keblog.it,mangiabevigodi.it,milanocittastato.it##.code-block-2
 fisco7.it,ok-salute.it##.code-block-29
