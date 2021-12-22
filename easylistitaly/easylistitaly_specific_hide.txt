@@ -77,7 +77,7 @@ toscanalibri.it###banner-home
 mondocalcionews.it###banner-laterale-headerbidding
 canavesenews.it###banner-left-bottom
 canavesenews.it###banner-left-top
-cuneocronaca.it,larivieraonline.com,oggitreviso.it,piccolenote.ilgiornale.it###banner-top
+cuneocronaca.it,larivieraonline.com,oggitreviso.it,piccolenote.ilgiornale.it,superscudetto.it###banner-top
 canavesenews.it,courmayeurnews.it,torinonews24.it###banner-top-container
 cataniapubblica.tv,rid.it###banner1
 cataniapubblica.tv###banner2
