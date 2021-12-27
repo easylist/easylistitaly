@@ -3354,6 +3354,7 @@
 ||radioblutoscana.it/foto/grandi/4.jpg
 ||radioblutoscana.it/foto/grandi/5.jpg
 ||radioblutoscana.it/foto/grandi/7.jpg
+||radiobussola.it^*/banner-
 ||radiocantu.com^*-260x260-
 ||radiocantu.com^*-260x260.
 ||radiocantu.com^*/Logo.bmp

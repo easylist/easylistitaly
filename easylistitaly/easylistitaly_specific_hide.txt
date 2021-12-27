@@ -1157,7 +1157,7 @@ toscanafree.it##.bannernews
 assisisport.it,geronimo.news,metalitalia.com,qualenergia.it,vivafm.it##.banners
 voglioporno.com##.banners-footer
 seguonews.it##.bannerslider_home_quadro
-radio-reporter.it##.bannerswidget
+radio-reporter.it,radiobussola.it##.bannerswidget
 quotidianodiragusa.it,seguonews.it##.bannertesto
 album-mmt.it,gossip.it,laprevisione.it,vicenzanews.it##.bannertop
 travel365.it##.bannertopright
