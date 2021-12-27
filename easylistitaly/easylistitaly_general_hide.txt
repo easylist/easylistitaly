@@ -215,6 +215,8 @@
 ##.aside-adv-scroll
 ##.av-banner-728X90
 ##.avadvslot
+##.bannerPubblicita
+##.bannerPubblicitaOrizz
 ##.banner_300x250_read
 ##.banner_pubblicita
 ##.barraSipra
