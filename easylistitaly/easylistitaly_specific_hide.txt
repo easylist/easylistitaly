@@ -35,8 +35,8 @@ buonapesca.it,piceno24.it,picenooggi.it,rivieraoggi.it,virgilio.it###adv
 agarymathematics.net,timgate.it###adv1
 libero.it###adv_topper
 catt.ch###advertising
-empresite.it###afscontainer1
-empresite.it###afscontainer2
+empresite.it,reteimprese.it###afscontainer1
+empresite.it,reteimprese.it###afscontainer2
 casasuper.it###ai_widget-11
 bottadiculo.it,donnaup.it,ilgiornaleditrani.net,unadonnasana.it###ai_widget-2
 ilgiornaleditrani.net,unadonnasana.it###ai_widget-3
@@ -1372,6 +1372,7 @@ autoscout24.it##.conmon-financeslice-boxes
 portaledelverde.it##.consigliaProd
 adnkronos.com##.cont-adv
 cottoepostato.it##.cont-bann
+reteimprese.it##.cont-banner
 edilportale.com##.cont-leaderBoard
 televisionando.it##.contBannDiv
 brindisisera.it,brindisisettenews.it##.cont_banner
@@ -2428,6 +2429,7 @@ corriereelorino.it##.wps-bt-background-takeover-id
 allertaprivacy.it##.wpsm_promobox
 calciomercato.napoli.it##.wptb-cell
 teleunica.com##.wrap-adv-body
+reteimprese.it##.wrap_banner
 lavorincasa.it##.wrapper-banner-box-wallpaper
 lavorincasa.it##.wrapper-banner-footerbanner
 lavorincasa.it##.wrapper-banner-medium-rectangle
