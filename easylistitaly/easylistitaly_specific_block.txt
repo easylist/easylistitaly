@@ -2934,6 +2934,7 @@
 ||obiettivoscuola.it/images/Edises/
 ||occhi.it^*-adv-
 ||occhioallanotizia.it^*/animation.gif
+||occhionotizie.it^*/BANNER-
 ||occhionotizie.it^*_banner_
 ||occhioviterbese.it/gestionalebanner/
 ||oggicronaca.it/cinema/megaplex.jpg
