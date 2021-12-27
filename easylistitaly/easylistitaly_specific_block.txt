@@ -3948,6 +3948,7 @@
 ||staynerd.com^*/nostalgia-
 ||staynerd.com^*/nostalgia.jpg
 ||staynerd.com^*/uncle-catania.jpg
+||stazioniradio.it/assets/img/banner/
 ||stellenellosport.com/img/gold_sponsor/
 ||stellenellosport.com/img/media_partner/
 ||stellenellosport.com/img/partner/
