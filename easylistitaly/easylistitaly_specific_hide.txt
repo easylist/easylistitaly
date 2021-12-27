@@ -1145,7 +1145,7 @@ brindisisera.it##.bannerbox
 treccani.it##.bannercontainer
 toscanafree.it##.bannerdentro
 ilgiornaledellabellezza.it##.bannergrid
-105tv.it,almanaccocalciotoscano.it,aostaoggi.it,arezzo24.net,arezzotv.net,aziendabanca.it,bicimagazine.it,calcionazionale.it,casertafocus.net,concorezzo.org,dichesegnosei.it,elbareport.it,energiamercato.it,faidatehobby.it,fiumicino-online.it,gazzettadellaspezia.it,genova3000.it,giornaledimontesilvano.com,ilcervellone.it,ilcittadinodirecanati.it,ildispaccio.it,ilgazzettinobr.it,ilgrigioneitaliano.ch,ilvimercate.org,infermieriattivi.it,informatissimo.net,isnews.it,kisskiss.it,kisskissitalia.it,kisskissnapoli.it,lametino.it,maremmanews.it,metanogpl.it,monrealenews.it,notebookitalia.it,ondalibera.it,puntovendita.info,qdpnews.it,sienafree.it,teleglobal.tv,tgnordsalento.it,tv1.it,umbriatv.com,unotvweb.it,videomediterraneo.it,voceaigiovani.it,youtg.net##.bannergroup
+105tv.it,almanaccocalciotoscano.it,aostaoggi.it,arezzo24.net,arezzotv.net,aziendabanca.it,biancoebruno.it,bicimagazine.it,calcionazionale.it,casertafocus.net,concorezzo.org,dichesegnosei.it,elbareport.it,energiamercato.it,faidatehobby.it,fiumicino-online.it,gazzettadellaspezia.it,genova3000.it,giornaledimontesilvano.com,ilcervellone.it,ilcittadinodirecanati.it,ildispaccio.it,ilgazzettinobr.it,ilgrigioneitaliano.ch,ilvimercate.org,infermieriattivi.it,informatissimo.net,isnews.it,kisskiss.it,kisskissitalia.it,kisskissnapoli.it,lametino.it,maremmanews.it,metanogpl.it,monrealenews.it,notebookitalia.it,ondalibera.it,puntovendita.info,qdpnews.it,sienafree.it,teleglobal.tv,tgnordsalento.it,tv1.it,umbriatv.com,unotvweb.it,videomediterraneo.it,voceaigiovani.it,youtg.net##.bannergroup
 comitatoparalimpico.it##.bannergroup-banner
 betitaliaweb.it##.bannergroup_rightBanner
 radiogold.it##.bannergroupskin-banner-module
@@ -1162,7 +1162,7 @@ voglioporno.com##.banners-footer
 seguonews.it##.bannerslider_home_quadro
 radio-reporter.it,radiobussola.it##.bannerswidget
 quotidianodiragusa.it,seguonews.it##.bannertesto
-album-mmt.it,gossip.it,laprevisione.it,vicenzanews.it##.bannertop
+album-mmt.it,biancoebruno.it,gossip.it,laprevisione.it,vicenzanews.it##.bannertop
 travel365.it##.bannertopright
 vicenzanews.it##.bannexDX
 vicenzanews.it##.bannexSX
