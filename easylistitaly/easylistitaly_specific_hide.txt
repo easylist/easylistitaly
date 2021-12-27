@@ -35,6 +35,8 @@ buonapesca.it,piceno24.it,picenooggi.it,rivieraoggi.it,virgilio.it###adv
 agarymathematics.net,timgate.it###adv1
 libero.it###adv_topper
 catt.ch###advertising
+empresite.it###afscontainer1
+empresite.it###afscontainer2
 casasuper.it###ai_widget-11
 bottadiculo.it,donnaup.it,ilgiornaleditrani.net,unadonnasana.it###ai_widget-2
 ilgiornaleditrani.net,unadonnasana.it###ai_widget-3
@@ -894,6 +896,7 @@ radioinstreaming.it##.adv2
 ilgallo.it##.adv4
 formulapassion.it##.advFP
 virgilio.it##.advTuning
+empresite.it##.adv_cont
 corrierecomunicazioni.it,digital4.biz,energyup.tech,ilsussidiario.net,industry4business.it,newsrimini.it,riskmanagement360.it##.adv_container
 ricettealvolo.it##.adv_content
 ricettealvolo.it##.adv_side
