@@ -2141,16 +2141,7 @@ androidworld.it,mobileworld.it##.store-affiliation
 andreagaleazzi.com##.store-box
 abilitychannel.tv,fruitbookmagazine.it,nautica.it##.strack_bnr
 100ideeperristrutturare.it,bizjournal.it,calabria7.it,casa-naturale.com,comunicaffe.it,fruitbookmagazine.it,horecanews.it,nautica.it,primopianomolise.it,quattrozampe.online,radiomovida.net,radioradio.it,uominietrasporti.it,vendingnews.it,villeecasali.com##.strack_cli
-cblive.it,myreviews.it,occhionotizie.it##.stream-item
-inter-news.it,metropolitanmagazine.it,unaparolaperte.org##.stream-item-above-footer
-metropolitanmagazine.it##.stream-item-above-post
-mole24.it##.stream-item-above-post-content
-informazioneoggi.it##.stream-item-below-header
-metropolitanmagazine.it##.stream-item-below-post-comments
-ispazio.net,metropolitanmagazine.it##.stream-item-below-post-content
-filmpost.it,ilgolfo24.it##.stream-item-top
-gazzettadellavaldagri.it,ilcorriere.net,ilmoderatore.it,metropolitanmagazine.it,mole24.it,unaparolaperte.org##.stream-item-top-wrapper
-cblive.it##.stream-item-widget
+cblive.it,filmpost.it,gazzettadellavaldagri.it,ilcorriere.net,ilgolfo24.it,ilmoderatore.it,informazioneoggi.it,inter-news.it,ispazio.net,metropolitanmagazine.it,mole24.it,myreviews.it,occhionotizie.it,unaparolaperte.org##.stream-item
 filmtv.it##.streaming
 affaritaliani.it##.strillo-speciale3
 ship2shore.it,trend-online.com##.strip
