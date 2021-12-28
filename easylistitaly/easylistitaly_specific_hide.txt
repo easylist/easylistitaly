@@ -1955,7 +1955,7 @@ amorethailandia.com##.qAduM1TI
 qdpnews.it##.qdpne-target
 romasette.it##.qgbednp
 quotidianosanita.it##.qs_n_interno_basso
-italiana.fm,radiobussola.it##.qt-sponsors
+italiana.fm,radiobussola.it,radiomessinasud.com##.qt-sponsors
 vivafm.it##.qt-widget-sponsor
 lattacco.it##.quadrato
 quizammissione.it##.quiza-prima
