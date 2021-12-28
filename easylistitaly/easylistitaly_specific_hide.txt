@@ -2327,6 +2327,7 @@ androidworld.it,mobileworld.it,smartworld.it##.tw-carousel
 smartworld.it##.tw-fragment-affiliation-container
 viaggioincoppia.com##.uagb-buttons__wrap
 radioram.it,siciliamedia.it##.ubm_banners_rotation
+radiotorremacauda.it##.ubm_rotation_widget
 notebookitalia.it##.uk-height-medium
 colonnesonore.net##.uk-panel.uk-panel-header
 cartedicredito24.it##.uk-section-default.uk-section.uk-section-xsmall
@@ -2457,7 +2458,6 @@ ilmigliore.org##.ziobox
 abruzzolive.it##.znugldvqrk-float-center
 3tre3.it##.zona_publi
 fip.it##.zonafornitori
-radiotorremacauda.it##.ùubm_rotation_widget
 nursetimes.org##AMP-IMG[width="320"][height="50"]
 amazon.it##[cel_widget_id="multi-brand-creative-desktop_loom-desktop-brand-footer-slot_40"]
 lacnews24.it##[data-src^="https://ads.pubbliemme-adv.net/"]
