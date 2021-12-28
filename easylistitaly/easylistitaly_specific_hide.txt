@@ -2221,6 +2221,7 @@ omniagate.com##.tdi_11_784
 radiocl1.it##.tdi_12
 etvmarche.it##.tdi_121
 volleynews.it##.tdi_127
+radiocl1.it##.tdi_13
 volleynews.it##.tdi_131
 imiglioridififa.com##.tdi_134
 jamma.tv##.tdi_136
