@@ -4351,6 +4351,7 @@
 ||tv2000.it^*/banner.
 ||tv2000.it^*/banner/
 ||tv2000.it^*/banner_
+||tv2000.it^*/SKIN.
 ||tv2000.it^*/skin/
 ||tv2000.it^*_300x200.
 ||tv2000.it^*_skin_
