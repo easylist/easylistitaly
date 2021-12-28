@@ -439,7 +439,7 @@ lanotiziapontina.it###media_image-103
 lanotiziapontina.it###media_image-104
 lanotiziapontina.it###media_image-106
 esportsonline.it,notiziariofinanziario.com,paroladeltifoso.it,ufficistampanazionali.it###media_image-11
-casanapoli.net,paroladeltifoso.it,pisainvideo.it,spiccandoilvolo.com###media_image-12
+casanapoli.net,paroladeltifoso.it,pisainvideo.it,radiomed.fm,spiccandoilvolo.com###media_image-12
 lamiavitainvaligia.org,weekendpremium.it###media_image-13
 lamiavitainvaligia.org,mam-e.it,pisainvideo.it###media_image-14
 casanapoli.net,gustoh24.it,lamiavitainvaligia.org,paroladeltifoso.it,seitv.it,spiccandoilvolo.com###media_image-15
