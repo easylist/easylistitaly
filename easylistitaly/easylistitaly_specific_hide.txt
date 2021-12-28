@@ -1640,6 +1640,7 @@ transfermarkt.it##.hide-for-small[style="height: 273px; text-align: center; over
 mathadvantage.org##.hijau
 valdarnopost.it##.home-centra-spot-300
 altamuralife.it,andriaviva.it,bariviva.it,barlettaviva.it,bisceglieviva.it,bitontoviva.it,canosaviva.it,cerignolaviva.it,coratoviva.it,giovinazzoviva.it,gravinalife.it,margheritaviva.it,materalife.it,minervinoviva.it,modugnoviva.it,molfettaviva.it,ruvoviva.it,sanferdinandoviva.it,spinazzolaviva.it,terlizziviva.it,traniviva.it,trinitapoliviva.it##.home-election-wrapper
+radioram.it##.home-featured-boxes
 umbria.webcam##.home_sponsor
 flash---art.it##.homepage__banner--wrapper
 corriere.ca##.horizontal_banner
@@ -2325,7 +2326,7 @@ tvsportiva.it##.tvg-manager-box
 androidworld.it,mobileworld.it,smartworld.it##.tw-carousel
 smartworld.it##.tw-fragment-affiliation-container
 viaggioincoppia.com##.uagb-buttons__wrap
-siciliamedia.it##.ubm_banners_rotation
+radioram.it,siciliamedia.it##.ubm_banners_rotation
 notebookitalia.it##.uk-height-medium
 colonnesonore.net##.uk-panel.uk-panel-header
 cartedicredito24.it##.uk-section-default.uk-section.uk-section-xsmall

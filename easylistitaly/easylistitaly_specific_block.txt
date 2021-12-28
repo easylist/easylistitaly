@@ -3463,6 +3463,7 @@
 ||radiopuglia.it/img/banner/
 ||radioradio.it^*/banner-
 ||radioradio.it^*/banner_
+||radioram.it/public/useful_banner_manager_banners/
 ||radiorcn.it^*/banners-
 ||radioreporter.it/foto/grandi/iwm.jpg
 ||radiorobinson.it^*/Logo-Cassa-di-Risparmio-
