@@ -5,7 +5,7 @@
 -banner-pubblicitario-
 -dx/adv_
 -Pubblicit%C3%A0-
--PUBBLICITa.
+-PUBBLICITa.$domain=~inoutsnc.it
 -pubblicita300x275.
 .it/_adv/
 .it/ads/
