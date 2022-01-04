@@ -340,6 +340,7 @@
 ##.widget_n1ad
 ##.wl_WidgetRel_Sponsor
 ##.wl_WidgetRel_Sponsor1
+##.yobee-lazyadv
 ##a[href*=".linksita2017.com/"]
 ##a[href*=".offerteonline2017.com/"]
 ##a[href^="//edintorni.net/related/service/sponsor/redirect/?"]
