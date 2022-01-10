@@ -342,6 +342,7 @@
 ##.wl_WidgetRel_Sponsor1
 ##.yobee-lazyadv
 ##a[href*=".linksita2017.com/"]
+##a[href*=".offerte2019.store/"]
 ##a[href*=".offerteonline2017.com/"]
 ##a[href^="//edintorni.net/related/service/sponsor/redirect/?"]
 ##a[href^="//native.booster3d.com/related/service/sponsor/redirect/?"]
