@@ -796,6 +796,7 @@ novetv.com,unviaggioinfiniteemozioni.it###widget_sp_image-91
 cinafoniaci.com###wk-grid11f
 sscalciobari.it###wl-sponsor
 guidaviaggi.org###wn-insurance-quote-editor
+umbriajournal.com###wp_editor_widget-129
 ultimenotizieoggi.it###wpb_widget-2
 animeclick.it###wrapper
 italia.fm###xbtm
