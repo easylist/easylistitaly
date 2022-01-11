@@ -1829,6 +1829,7 @@ valdichianaoggi.it##.mom-e3lanat-wrap
 mondobalneare.com##.mondobalneare-banner
 diredonna.it,gravidanzaonline.it,robadadonne.it##.mp-code
 boingtv.it,eurogamer.it,foodnetwork.it,gioco.it,morningstar.it##.mpu
+gizchina.it##.mrf-adv__wrapper
 stellafm.it##.ms-slide-link
 amorethailandia.com,whatesport.com##.mtsnb
 nordmilano24.it##.musthead
