@@ -811,6 +811,7 @@
 ||cb01.run^*/button_
 ||cb01.systems/4k/
 ||cdn77.org/banner/$domain=finestresullarte.info
+||centocitta.it/banner/
 ||centotrentuno.com/wp-content/banners/
 ||centropagina.it^*-BANNER-
 ||centropagina.it^*-LEAD-
