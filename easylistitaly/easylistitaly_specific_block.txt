@@ -1590,6 +1590,8 @@
 ||gruppovideomedia.it/banners/
 ||gsanews.it^*/Banner-
 ||guardare.stream/asset/bann.js
+||guardaserie.cam/templates/Guardaserie/images/bottscar.png
+||guardaserie.cam/templates/Guardaserie/images/bottvedere.png
 ||guardaserie.cam^*/bottone
 ||guardaserie.cam^*/btn_guarda
 ||guardaserie.cam^*/button

@@ -2027,6 +2027,7 @@ vendingpress.it##.shailan_banner_widget
 aphorism.it,bloopers.it##.shop
 tiscali.it##.shopping-slide-container
 fishingboatmagazine.it##.shortcode-banner-inside
+guardaserie.cam##.show-download
 milleunadonna.it,tiscali.it##.shp-2l-dx
 tiscali.it##.shp-2l-dx-v2
 tiscali.it##.shp-prd-ed-day
