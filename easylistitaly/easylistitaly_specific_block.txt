@@ -1233,6 +1233,7 @@
 ||expartibus.it^*/ortopediacaserta.jpg
 ||expartibus.it^*/UNICEF.png
 ||extra.treddi.com^
+||facile.it^*/banner/
 ||faidateingiardino.com^*/amazon-
 ||faidateingiardino.com^*/gia.gif
 ||fanoinforma.it^*/aset1.jpg
