@@ -965,6 +965,7 @@
 ||corrieredellacalabria.it^*/banner-
 ||corrieredellacalabria.it^*/banner_
 ||corrieredellacalabria.it^*/FinCalabra-20.
+||corrieredellosport.it/next/custom/logo-sky-wifi.png
 ||corriereelorino.it^*/00dc205a-1378-476e-8990-bf78bd18b692.jpg
 ||corriereelorino.it^*/20201103_001459.gif
 ||corriereelorino.it^*/adv-
@@ -4341,6 +4342,7 @@
 ||tuttononprofit.com^*/M2-informatica-torino-3.jpg
 ||tuttononprofit.com^*/RD-safety-2.jpg
 ||tuttopisa.com^*/banner-
+||tuttosport.com/next/custom/logo-sky-wifi-sticky.png
 ||tuttostoria.net/images/storiadoc-animato.gif
 ||tuttotek.it^*/banner-
 ||tuttotek.it^*/Catch.jpg
