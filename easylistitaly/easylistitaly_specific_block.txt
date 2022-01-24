@@ -4400,6 +4400,7 @@
 ||twebnews.it^*/amz.
 ||uberti.eu^*/guide/
 ||ubud.it^*/81i7FcioR-L-659x1024.jpg
+||udineoggi.news/wp-content/uploads/*-banner-
 ||udineseblog.it^*/BANNER-
 ||udineseblog.it^*_160x90.
 ||ufficistampanazionali.it^*-300x300.
