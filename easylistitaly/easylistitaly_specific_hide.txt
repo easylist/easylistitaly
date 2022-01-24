@@ -1984,6 +1984,7 @@ archiportale.com##.rettangolo-dx
 router-4g.it##.review-links
 webpointzero.com##.rh_listoffers
 ilclubdellericette.it##.ricetta-amazon
+ilclubdellericette.it##.ricetta__prodotti
 estrazionedellotto.it##.right
 lacnews24.it,pc-gaming.it##.right-side
 ilroma.net##.rotating-banner
