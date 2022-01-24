@@ -1201,6 +1201,7 @@ corrierecesenate.it,lavitacattolica.it##.block-banners
 legapallacanestro.com##.block-bean-banner
 soldionline.it##.block-etoro-wg
 mediaworld.it##.block-mw-external-banner
+ilclubdellericette.it##.block-products
 ilroma.net##.block-rotating-banner
 legapallacanestro.com##.block-sponsor-e-partners
 lantidiplomatico.it##.block-wrapper-banner
