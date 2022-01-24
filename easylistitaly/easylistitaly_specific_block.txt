@@ -1347,7 +1347,7 @@
 ||fremondoweb.com^*/banner_
 ||fremondoweb.com^*_laterale.
 ||freshplaza.it/b/
-||friuligol.it/immagini/File_banner/
+||friuligol.it^*/File_banner/
 ||friulioggi.it^*/airtech-mp4.mp4
 ||friulioggi.it^*/banner-
 ||friulioggi.it^*/genitori-separati5permillebis.jpg
