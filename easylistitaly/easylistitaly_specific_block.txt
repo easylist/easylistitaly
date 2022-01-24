@@ -3933,6 +3933,7 @@
 ||stamptoscana.it^*/diretta-tre-delitti_
 ||stamptoscana.it^*/diretta_penelope_
 ||stamptoscana.it^*/sponsor/
+||stanleybet.news/wp-content/uploads/*_250x300-
 ||stardust.it^*/banner/
 ||stardust.it^*/masthead/
 ||startmag.it^*-SKIN-
