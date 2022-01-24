@@ -224,7 +224,6 @@
 ||tccstatic.com^*/banner/
 ||tccstatic.com^*/skin/
 ||teetee.eu^$subdocument,third-party
-||telco-widget.s3.eu-south-1.amazonaws.com^
 ||tipster.it^$subdocument,third-party
 ||tiqets.com/widgets/$third-party
 ||tophost.it/banners/
