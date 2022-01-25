@@ -154,6 +154,7 @@ meridiananotizie.it###block-11
 teleregionelive.it###block-111
 meridiananotizie.it###block-13
 meridiananotizie.it,mobileblogger.it###block-15
+cronacaossona.com###block-2
 meridiananotizie.it,stranieriinitalia.it,trileggo.it###block-3
 meridiananotizie.it###block-9
 giornaledellamusica.it###block-adv
@@ -797,6 +798,7 @@ novetv.com,unviaggioinfiniteemozioni.it###widget_sp_image-91
 cinafoniaci.com###wk-grid11f
 sscalciobari.it###wl-sponsor
 guidaviaggi.org###wn-insurance-quote-editor
+cronacaossona.com###wp-custom-header
 umbriajournal.com###wp_editor_widget-129
 ultimenotizieoggi.it###wpb_widget-2
 animeclick.it###wrapper
@@ -1878,6 +1880,7 @@ bebeez.it##.olo-row-banner-center-hp
 bebeez.it##.olo-row-custom-sponsor
 lamilano.it##.olvu
 architetturaecosostenibile.it##.onetag
+cronacaossona.com##.oplaswidget
 italiacashback.com##.opt
 milanocam.it##.overcam_advertising
 meteofinanza.com##.overlay-buttons
