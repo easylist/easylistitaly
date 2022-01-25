@@ -257,6 +257,7 @@
 ##.epeex_Sas
 ##.evolve-adv
 ##.extra--adv
+##.first_adv
 ##.flexi-pubblicita
 ##.foc-adv-slot
 ##.foglia-middle-adv
