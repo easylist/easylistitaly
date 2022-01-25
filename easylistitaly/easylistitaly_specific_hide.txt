@@ -1880,6 +1880,10 @@ bebeez.it##.olo-row-banner-center-hp
 bebeez.it##.olo-row-custom-sponsor
 lamilano.it##.olvu
 architetturaecosostenibile.it##.onetag
+cronacaossona.com##.oplas1-paragrafo
+cronacaossona.com##.oplas2-paragrafo
+cronacaossona.com##.oplas3-paragrafo
+cronacaossona.com##.oplas5paragrafo
 cronacaossona.com##.oplaswidget
 italiacashback.com##.opt
 milanocam.it##.overcam_advertising
