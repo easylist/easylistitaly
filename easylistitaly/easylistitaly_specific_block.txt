@@ -3084,6 +3084,7 @@
 ||pescaralive.it^*/banner-
 ||pharmastar.it^*/banner/
 ||pharmastar.it^*/skins/
+||phica.net/cam4pop4sigh.js
 ||phica.net^*/15f9dddb6f38f4.png
 ||phica.net^*/15f9ddfc4acb02.png
 ||phica.net^*/1603cce1376b50.png
