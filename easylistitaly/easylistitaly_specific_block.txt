@@ -1380,6 +1380,7 @@
 ||gay.it/js/brightcove/inread-standalone.php
 ||gazzettabenevento.it/Sito2009/image/banner/
 ||gazzettadellaspezia.it^*/banners/
+||gazzettadellemilia.it/images/banners/
 ||gazzettadiavellino.it^*-banner.
 ||gazzettadiavellino.it^*/MeravigliosaCampania-
 ||gazzettadiavellino.it^*/nuova-elite-corso-estetista.png

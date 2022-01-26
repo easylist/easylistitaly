@@ -411,7 +411,7 @@ corrieredellosport.it,tuttosport.com###leaderboard_top
 concorsi.it###leaderbord
 brocardi.it###libgiurista
 diritto.it###libpro
-gazzettadellaspezia.it###linkbg
+gazzettadellaspezia.it,gazzettadellemilia.it###linkbg
 teleradio-news.it###linkcat-12
 grandangoloagrigento.it###linkwrap
 benessere.com###logo-bannerino
@@ -542,6 +542,7 @@ ladiscussione.com###penci_text-block__48733284
 catanista.eu###pg-w5f882c5709967-0
 catanista.eu###pg-w60a16d0a40882-6
 incesti.xxx,pornopizza.it,tuboitaliano.it,videopornoitalia.com###playerOverlay
+gazzettadellemilia.it###popop_wrap
 notizieflash.net###post-adv
 lagazzettamessinese.it,lanotiziapontina.it###post-sidebar-wrap
 acprosesto.it###prefooter
@@ -1152,7 +1153,7 @@ brindisisera.it##.bannerbox
 treccani.it##.bannercontainer
 toscanafree.it##.bannerdentro
 ilgiornaledellabellezza.it##.bannergrid
-105tv.it,almanaccocalciotoscano.it,aostaoggi.it,arezzo24.net,arezzotv.net,aziendabanca.it,biancoebruno.it,bicimagazine.it,calcionazionale.it,casertafocus.net,concorezzo.org,dichesegnosei.it,elbareport.it,energiamercato.it,faidatehobby.it,fiumicino-online.it,gazzettadellaspezia.it,genova3000.it,giornaledimontesilvano.com,ilcervellone.it,ilcittadinodirecanati.it,ildispaccio.it,ilgazzettinobr.it,ilgrigioneitaliano.ch,ilvimercate.org,infermieriattivi.it,informatissimo.net,isnews.it,kisskiss.it,kisskissitalia.it,kisskissnapoli.it,lametino.it,maremmanews.it,metanogpl.it,monrealenews.it,notebookitalia.it,ondalibera.it,puntovendita.info,qdpnews.it,sienafree.it,teleglobal.tv,telesardegna.net,tgnordsalento.it,tv1.it,umbriatv.com,unotvweb.it,videomediterraneo.it,voceaigiovani.it,youtg.net##.bannergroup
+105tv.it,almanaccocalciotoscano.it,aostaoggi.it,arezzo24.net,arezzotv.net,aziendabanca.it,biancoebruno.it,bicimagazine.it,calcionazionale.it,casertafocus.net,concorezzo.org,dichesegnosei.it,elbareport.it,energiamercato.it,faidatehobby.it,fiumicino-online.it,gazzettadellaspezia.it,gazzettadellemilia.it,genova3000.it,giornaledimontesilvano.com,ilcervellone.it,ilcittadinodirecanati.it,ildispaccio.it,ilgazzettinobr.it,ilgrigioneitaliano.ch,ilvimercate.org,infermieriattivi.it,informatissimo.net,isnews.it,kisskiss.it,kisskissitalia.it,kisskissnapoli.it,lametino.it,maremmanews.it,metanogpl.it,monrealenews.it,notebookitalia.it,ondalibera.it,puntovendita.info,qdpnews.it,sienafree.it,teleglobal.tv,telesardegna.net,tgnordsalento.it,tv1.it,umbriatv.com,unotvweb.it,videomediterraneo.it,voceaigiovani.it,youtg.net##.bannergroup
 comitatoparalimpico.it##.bannergroup-banner
 betitaliaweb.it##.bannergroup_rightBanner
 radiogold.it##.bannergroupskin-banner-module
@@ -1780,8 +1781,8 @@ filmaltadefinizione.me##.main-news-more
 reggionline.com##.mainBack
 hceppan.it##.mainSponsor
 larionews.com,opinione.it,portoravennanews.com,ship2shore.it,tuttomercatoweb.com##.manchette
-erbanotizie.com,gazzettadellaspezia.it,noinotizie.it##.manchette-dx
-erbanotizie.com,gazzettadellaspezia.it,noinotizie.it##.manchette-sx
+erbanotizie.com,gazzettadellaspezia.it,gazzettadellemilia.it,noinotizie.it##.manchette-dx
+erbanotizie.com,gazzettadellaspezia.it,gazzettadellemilia.it,noinotizie.it##.manchette-sx
 winenews.it##.manchette_l
 winenews.it##.manchette_r
 24emilia.com##.marquee0
