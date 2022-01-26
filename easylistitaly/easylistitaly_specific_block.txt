@@ -4117,6 +4117,7 @@
 ||terranauta.it/banner/
 ||terranuova.it^*/ad$xmlhttprequest
 ||terranuova.it^*/banner/
+||terredicampania.it^*/Banner-
 ||terremarsicane.it^*-banner-
 ||terremarsicane.it^*/banner-
 ||testuniversitari.it/files/admin/immagini/2021banner
