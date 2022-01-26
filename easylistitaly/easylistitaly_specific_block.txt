@@ -667,6 +667,7 @@
 ||calcionazionale.it/images/banners/
 ||calciostyle.it^*/bonusscommesse-
 ||caleno24ore.it^*/Despar-
+||campanialive.it/banner/
 ||campaniameteo.it/CMS/Upload/GalleriaUtente/Image/
 ||campanianotizie.com^*/bann_
 ||campanianotizie.com^*/banner-
