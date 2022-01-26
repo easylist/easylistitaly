@@ -1334,7 +1334,7 @@ pornototale.com##.co_sponsor
 bottadiculo.it##.code-block > div > a[href*="/dazn"]
 bottadiculo.it##.code-block > div > a[href*="/pokerstars"]
 bottadiculo.it##.code-block > div > a[href*="/vincitu"]
-cagliarinews24.com,calcionews24.com,casasuper.it,clubdoria46.it,donnaup.it,futsalnews24.com,internews24.com,juventusnews24.com,lazionews24.com,mangiabevigodi.it,milannews24.com,motorinews24.com,notiziecatania.it,sampnews24.com,viaggi-estate.com##.code-block-1
+cagliarinews24.com,calcionews24.com,casasuper.it,clubdoria46.it,donnaup.it,futsalnews24.com,internews24.com,juventusnews24.com,lazionews24.com,mangiabevigodi.it,milannews24.com,motorinews24.com,notiziecatania.it,occhionotizie.it,sampnews24.com,viaggi-estate.com##.code-block-1
 cagliarinews24.com,calcionews24.com,motorinews24.com##.code-block-10
 avvisatore.com,bottadiculo.it,keblog.it,pomiglianolive.it##.code-block-11
 avvisatore.com,giornaledisegrate.it,pomiglianolive.it,reportpistoia.com##.code-block-12
