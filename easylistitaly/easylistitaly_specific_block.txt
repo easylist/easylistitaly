@@ -16,6 +16,7 @@
 ||105tv.it^*/banners/
 ||12tvparma.it/static/js/advconfig.js
 ||12tvparma.it/static/js/advpopulate.js
+||24emilia.com^*/image-1_1920x1100-02.png
 ||24emilia.com^*banner
 ||24live.it^*/24live_prenota-prima_
 ||24live.it^*/2S2SPORT-
