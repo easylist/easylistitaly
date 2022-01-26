@@ -1951,7 +1951,6 @@ barinedita.it##.pubbli
 reteradioazzurra.it##.pubbli_home_extra_right
 reteradioazzurra.it##.pubbli_home_extra_top
 reteradioazzurra.it##.pubbli_home_extra_video
-ilcaffe.tv##.pubbliredazionale
 agoravox.it##.publarge
 giochigratis.net##.publi
 solitario.it##.public1

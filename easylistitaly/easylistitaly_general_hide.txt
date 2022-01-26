@@ -306,6 +306,7 @@
 ##.pubblicita_sottile
 ##.pubblicitacentrata
 ##.pubblicitapremium
+##.pubbliredazionale
 ##.pubblitalocaleaddADV
 ##.pubblitalocaleaddpiccola
 ##.qtr-bacheca-adv
