@@ -3422,6 +3422,8 @@
 ||radiolaquila1.it^*/asimar-
 ||radiolaquila1.it^*/baiocco-260x260-
 ||radiolaquila1.it^*/mei-
+||radiolike.it^*/logo_autoscuola.jpg
+||radiolike.it^*/logo_sport.jpg
 ||radiolombardia.it^*/325x50-
 ||radiolombardia.it^*/banner-
 ||radiolombardia.it^*/ilpl.png
