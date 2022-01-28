@@ -1683,6 +1683,7 @@ spaziogames.it,tomshw.it##.instant-gaming-widget
 larionews.com##.intercept
 milanofinanza.it##.intesahead
 dailybest.it##.intextbanner
+tviweb.it##.ir-sidebar > img
 repubblica.it##.is-marketing
 ispazio.net##.ispaz-adlabel
 abr24.it##.it-ad
