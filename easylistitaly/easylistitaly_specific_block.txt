@@ -3347,6 +3347,7 @@
 ||quotidianpost.it^*/banner729x90.
 ||radio-city.it^*-banner-
 ||radio-city.it^*_partner.
+||radio-gamma.it^*/BANNER-
 ||radio-reporter.it^*-690x690.
 ||radio5punto9.it^*/banner-
 ||radioalfa.fm/wp-content/banners/
