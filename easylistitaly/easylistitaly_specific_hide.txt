@@ -2334,7 +2334,7 @@ cinqueterre5.com,incinqueterre.com##.tour-banner
 tvprato.it##.tp-banner-bar
 noitv.it##.track
 noinotizie.it##.tre-spazi
-radiocompany.com##.trend-banner
+radiocompany.com,radiowow.com##.trend-banner
 iltamtam.it##.tt-banner
 tvsportiva.it##.tvg-manager-box
 androidworld.it,mobileworld.it,smartworld.it##.tw-carousel
