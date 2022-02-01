@@ -118,6 +118,7 @@
 ||superbanner.org^$third-party
 ||tagvideo.eu^$third-party
 ||tgadv.it^$third-party
+||terningpail.com^$third-party
 ||tgadvcdn.it^$third-party
 ||tipster.space^$third-party
 ||tjekscores.dk^$third-party
