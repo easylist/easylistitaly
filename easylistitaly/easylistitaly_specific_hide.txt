@@ -960,6 +960,7 @@ civile.it,ricercagiuridica.com##.animate__animated
 ansa.it##.ansacom-box
 oraridiapertura24.it##.anzeigenlabel
 insideevs.it,nonsolocap.it,omnifurgone.it,omnimoto.it,omnitrattore.it##.ap
+pescaralive.it##.apPluginContainer
 omnitrattore.it##.apb
 ridble.com##.api-box
 matrimonio.com##.app-DFP
@@ -2204,7 +2205,7 @@ cattolica.info##.tc_adm
 avtrend.it##.tcb-button-link
 cronachedellacampania.it##.tcf-container
 gioconews.it##.tcvn-banner-item
-2anews.it,agimeg.it,aplombardia.eu,apsicilia.it,aroundtheworld.pro,artuu.it,bologna2000.com,casertaweb.com,cilentotime.it,cronacadelleconomia.it,cronacadelveneto.com,europacalcio.it,fumettologica.it,gazzettacanaria.com,hashtagsicilia.it,ilfattovesuviano.it,ilgranchio.it,iltamburino.it,lavocedivenezia.it,link24.it,mattinodiverona.it,medicomunicare.it,messinaora.it,motoexcape.com,paisemiu.com,partinicolive.it,ravennawebtv.it,realtagenoana.it,romanews.eu,sardegnareporter.it,stylo24.it,toscananotizie.com,trapanisi.it,tusciaup.com,vaielettrico.it,valbrembanaweb.com##.td-a-rec
+2anews.it,agimeg.it,aplombardia.eu,apsicilia.it,aroundtheworld.pro,artuu.it,bologna2000.com,casertaweb.com,cilentotime.it,cronacadelleconomia.it,cronacadelveneto.com,europacalcio.it,fumettologica.it,gazzettacanaria.com,hashtagsicilia.it,ilfattovesuviano.it,ilgranchio.it,iltamburino.it,lavocedivenezia.it,link24.it,mattinodiverona.it,medicomunicare.it,messinaora.it,motoexcape.com,paisemiu.com,partinicolive.it,pescaralive.it,ravennawebtv.it,realtagenoana.it,romanews.eu,sardegnareporter.it,stylo24.it,toscananotizie.com,trapanisi.it,tusciaup.com,vaielettrico.it,valbrembanaweb.com##.td-a-rec
 ivl24.it##.td-all-devices
 ilprimatonazionale.it##.td-banner-bg
 edagricole.it##.td-banner-footer
