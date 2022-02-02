@@ -1349,7 +1349,7 @@ internews24.com,reportpistoia.com##.code-block-18
 cagliarinews24.com,internews24.com,lazionews24.com,reportpistoia.com##.code-block-19
 keblog.it,mangiabevigodi.it,milanocittastato.it##.code-block-2
 fisco7.it,ok-salute.it##.code-block-29
-avvisatore.com,cinquecolonne.it,mangiabevigodi.it,milanocittastato.it,reportpistoia.com##.code-block-3
+avvisatore.com,cinquecolonne.it,mangiabevigodi.it,milanocittastato.it,nursetimes.org,reportpistoia.com##.code-block-3
 ok-salute.it##.code-block-33
 ok-salute.it##.code-block-34
 ok-salute.it##.code-block-35
@@ -1931,6 +1931,7 @@ pisachannel.tv##.pre_footer
 senigallianotizie.it##.premium-banner
 pixeltv.it##.primary-sidebar
 comingsoon.it##.primeTrack
+nursetimes.org##.primobanner-320
 theflightclub.it##.pro_contro
 orologi-subacquei.it##.product-listing
 webnews.it##.product__info
