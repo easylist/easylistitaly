@@ -2005,6 +2005,7 @@ ecodallecitta.it##.rotobanner
 formula1.it##.row > a[href^="https://casinohex.it/"]
 rimini.com##.row-bann-home-mobile
 magodelpronostico.com##.row-info-bonus
+stiletv.it##.row.no-gutters.justify-content-md-end
 wikihow.it##.rr_container
 newsnow.it##.rs-banner-strip
 bicimagazine.it##.rstbox

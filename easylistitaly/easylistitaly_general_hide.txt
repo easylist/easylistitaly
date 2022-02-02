@@ -167,6 +167,7 @@
 ##.adv-h-100
 ##.adv-iframe-sx
 ##.adv-inside-text
+##.adv-loc-container
 ##.adv-margin
 ##.adv-masthead
 ##.adv-promobox
