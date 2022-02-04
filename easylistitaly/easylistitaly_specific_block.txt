@@ -4969,6 +4969,7 @@
 ||youtg.net^*/cornice_
 ||youtvrs.it/c66.png
 ||youtvrs.it^*/banner-
+||yuvideos.com/banner/
 ||zaffiromagazine.com^*/futurcasa.png
 ||zaffiromagazine.com^*/hgnews.jpg
 ||zaffiromagazine.com^*/planetconsult-
