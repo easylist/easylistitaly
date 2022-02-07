@@ -122,6 +122,7 @@
 ||tipster.space^$third-party
 ||tjekscores.dk^$third-party
 ||topbanner.it^$third-party
+||treacherousaccentbruise.com^$third-party
 ||upstory.it^$third-party
 ||viralbeat.com^$third-party
 ||wailay.com^$third-party
