@@ -456,7 +456,7 @@ football-magazine.it,starwarsnews.it###media_image-26
 weekendpremium.it###media_image-27
 football-magazine.it###media_image-28
 magnifici7.com###media_image-29
-benessere-sport.it,blograffo.net,corriereelorino.it,funghimagazine.it,magnifici7.com,natureatblog.com,nonsolomac.com,pisainvideo.it,stile.it,tecnofacile.com,tribunapoliticaweb.sm,ufficistampanazionali.it###media_image-3
+benessere-sport.it,blograffo.net,corriereelorino.it,funghimagazine.it,magnifici7.com,natureatblog.com,nonsolomac.com,pisainvideo.it,stile.it,tecnofacile.com,tribunapoliticaweb.sm,true-news.it,ufficistampanazionali.it###media_image-3
 irpiniatimes.it,weekendpremium.it###media_image-30
 irpiniatimes.it###media_image-31
 altropensiero.net,cleliamattana.com,consigliamidove.it,corriereelorino.it,esportsitalia.com,iltaccuvino.com,it-casinoonline.com,italiaonline.news,roadtvitalia.it,ufficistampanazionali.it###media_image-4
