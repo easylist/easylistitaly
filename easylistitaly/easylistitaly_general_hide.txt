@@ -310,6 +310,7 @@
 ##.pubbliredazionale
 ##.pubblitalocaleaddADV
 ##.pubblitalocaleaddpiccola
+##.publi_ad
 ##.qtr-bacheca-adv
 ##.rcsad_BottomLeft_x_content
 ##.related-adv
