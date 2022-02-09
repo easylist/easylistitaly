@@ -342,6 +342,7 @@
 ##.tw-adv-slot
 ##.view-pubblicita
 ##.widget_adv_multi
+##.widget_eepex
 ##.widget_n1ad
 ##.wl_WidgetRel_Sponsor
 ##.wl_WidgetRel_Sponsor1
