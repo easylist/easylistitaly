@@ -237,6 +237,7 @@
 ##.boxpubblicitasx
 ##.bt_adv1
 ##.bt_sub_adv1
+##.c-iol-ad
 ##.cellulare-adv
 ##.center-adv
 ##.center-adv-news
