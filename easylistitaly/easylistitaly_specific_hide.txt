@@ -2209,7 +2209,7 @@ cattolica.info##.tc_adm
 avtrend.it##.tcb-button-link
 cronachedellacampania.it##.tcf-container
 gioconews.it##.tcvn-banner-item
-2anews.it,agimeg.it,aplombardia.eu,apsicilia.it,aroundtheworld.pro,artuu.it,bologna2000.com,casertaweb.com,cilentotime.it,cronacadelleconomia.it,cronacadelveneto.com,europacalcio.it,fumettologica.it,gazzettacanaria.com,hashtagsicilia.it,ilfattovesuviano.it,ilgranchio.it,iltamburino.it,lavocedivenezia.it,link24.it,mattinodiverona.it,medicomunicare.it,messinaora.it,motoexcape.com,napolivillage.com,paisemiu.com,partinicolive.it,pescaralive.it,ravennawebtv.it,realtagenoana.it,romanews.eu,sardegnareporter.it,stylo24.it,toscananotizie.com,trapanisi.it,tusciaup.com,vaielettrico.it,valbrembanaweb.com##.td-a-rec
+2anews.it,agimeg.it,aplombardia.eu,apsicilia.it,aroundtheworld.pro,artuu.it,bologna2000.com,calciofoggia.it,casertaweb.com,cilentotime.it,cronacadelleconomia.it,cronacadelveneto.com,europacalcio.it,fumettologica.it,gazzettacanaria.com,hashtagsicilia.it,ilfattovesuviano.it,ilgranchio.it,iltamburino.it,lavocedivenezia.it,link24.it,mattinodiverona.it,medicomunicare.it,messinaora.it,motoexcape.com,napolivillage.com,paisemiu.com,partinicolive.it,pescaralive.it,ravennawebtv.it,realtagenoana.it,romanews.eu,sardegnareporter.it,stylo24.it,toscananotizie.com,trapanisi.it,tusciaup.com,vaielettrico.it,valbrembanaweb.com##.td-a-rec
 ivl24.it##.td-all-devices
 ilprimatonazionale.it##.td-banner-bg
 edagricole.it##.td-banner-footer
@@ -3016,7 +3016,7 @@ catanista.eu##img[width="270"][height="150"]
 catanista.eu##img[width="271"][height="179"]
 parmacalcio1913.com##img[width="280"][height="135"]
 iamnaples.it##img[width="280"][height="280"]
-24live.it,abruzzoweb.it,campaniapress.it,catanista.eu,circusf1.com,clubdoria46.it,confinelive.it,dentrosalerno.it,divisionecalcioa5.it,formula1news.it,gamersarsenal.it,gazzettadelmediterraneo.it,ilgiornaledelticino.ch,ilgiornaledisalerno.it,italiasera.it,lafune.eu,larampa.it,laziopress.it,link24.it,mantovauno.it,mondo-motori.it,nocerinalive.it,ondanews.it,partinicolive.it,radiompa.com,sicilianews24.it,startmag.it,tvoggisalerno.it,vercellinotizie.it,vesuviolive.it##img[width="300"]
+24live.it,abruzzoweb.it,calciofoggia.it,campaniapress.it,catanista.eu,circusf1.com,clubdoria46.it,confinelive.it,dentrosalerno.it,divisionecalcioa5.it,formula1news.it,gamersarsenal.it,gazzettadelmediterraneo.it,ilgiornaledelticino.ch,ilgiornaledisalerno.it,italiasera.it,lafune.eu,larampa.it,laziopress.it,link24.it,mantovauno.it,mondo-motori.it,nocerinalive.it,ondanews.it,partinicolive.it,radiompa.com,sicilianews24.it,startmag.it,tvoggisalerno.it,vercellinotizie.it,vesuviolive.it##img[width="300"]
 forum.passioneauto.it,ilmiocaneleggenda.it,ilmiogattoeleggenda.it,vocedimantova.it##img[width="300"][height="100"]
 newtuscia.it,spaziotennis.com##img[width="300"][height="150"]
 acquariocomefare.com,radioinblu.it##img[width="300"][height="171"]
