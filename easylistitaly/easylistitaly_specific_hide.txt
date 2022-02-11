@@ -1754,6 +1754,7 @@ fotografareindigitale.com##.lepopup-popup-overlay
 lerosa.it##.leros-widget
 laleggepertutti.it##.lexdo-banner
 laleggepertutti.it##.lexdo-llpt
+tusciaeventi.it##.lf_container
 castelvetranonews.it##.liban
 top10cose.it##.link-affiliazione
 business24tv.it##.link-at-body
