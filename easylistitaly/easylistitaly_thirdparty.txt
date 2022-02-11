@@ -85,6 +85,7 @@
 ||fattoremamma.com/fmn.js
 ||favolefantasia.com/banner/
 ||files.iqoption.com^$domain=borsainside.com
+||flywheel.cloud/gallerie/banner/
 ||fotonerd.it/wp-content/uploads/2020/05/offerte-fotografiche.jpg
 ||free.netsons.com^
 ||funkyimg.com^$domain=marcheingol.it|settecalcio.it

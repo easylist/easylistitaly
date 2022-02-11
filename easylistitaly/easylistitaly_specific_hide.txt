@@ -597,7 +597,7 @@ iovivoaroma.org###skin_link_sx
 cronacheancona.it,cronachefermane.it,cronachemaceratesi.it###skinabove
 monrealenews.it###skinbanner
 emiliagol.it,friuligol.it,toscanagol.it###skinclick
-amarantomagazine.it,buongiornoalghero.it,finestresullarte.info,freeonline.org,itvonline.news,lospiffero.com,planetmountain.com,primapress.it,salernonotizie.it,torresette.news,verdeazzurronotizie.it###skinlink
+amarantomagazine.it,buongiornoalghero.it,finestresullarte.info,freeonline.org,itvonline.news,lospiffero.com,piazzaffariweb.com,planetmountain.com,primapress.it,salernonotizie.it,torresette.news,verdeazzurronotizie.it###skinlink
 balarm.it,gamereactor.it###sky
 mondocalcionews.it###sky-sidebar
 gamereactor.it###sky2_1
@@ -915,7 +915,7 @@ ricettealvolo.it##.adv_side
 calabria7.it##.advanced_floating_content
 automoto.it##.advblock
 addicted2play.com,bicimagazine.it,bimcal.it,eurogamer.it,gioco.it,lausc.it,morningstar.it,podisti.net,trentinovolley.it##.advert
-ilfoglio.it,liberoquotidiano.it,pharmastar.it##.advertisement
+ilfoglio.it,liberoquotidiano.it,pharmastar.it,piazzaffariweb.com##.advertisement
 film-review.it,frasicelebri.it,helloworld.it,nanopress.it,zonalocale.it##.advertising
 altalex.com##.adviceBox
 sienafree.it##.advs
@@ -1238,6 +1238,7 @@ livescore.it##.bookmaker
 stadiosport.it##.bookmakers-table
 stadiosport.it##.bookmakers-title
 solovela.net##.bottmAdd
+piazzaffariweb.com##.bottom-banner
 livesicilia.it##.bottom-border-widget-promotion
 lasiritide.it##.box-1
 lasiritide.it##.box-2
@@ -1783,6 +1784,7 @@ gonews.it##.machette-over-logo
 gonews.it##.machette-sinistra
 magazinepragma.com##.magaz-slider
 lifegate.it##.magazine-lifegate
+piazzaffariweb.com##.main-banner
 cycletteprezzi.it,orologi-subacquei.it,pesipalestra.it##.main-cta-banner
 inter.it##.main-footer-sponsor
 filmaltadefinizione.me##.main-news-more
