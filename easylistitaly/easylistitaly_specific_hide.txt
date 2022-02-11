@@ -153,11 +153,13 @@ teleregionelive.it###block-105
 dinamobasket.com###block-106
 meridiananotizie.it###block-11
 teleregionelive.it###block-111
+telelazionord.it###block-129
 foggiapost.com,meridiananotizie.it###block-13
 foggiapost.com###block-14
 meridiananotizie.it,mobileblogger.it###block-15
 cronacaossona.com###block-2
 meridiananotizie.it,stranieriinitalia.it,trileggo.it###block-3
+telelazionord.it###block-58
 meridiananotizie.it###block-9
 giornaledellamusica.it###block-adv
 giornaledellamusica.it###block-adv2
