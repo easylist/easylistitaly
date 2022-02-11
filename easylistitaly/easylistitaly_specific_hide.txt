@@ -1403,6 +1403,7 @@ esselungaacasa.it##.container_sponsored_product
 frasimania.it##.content-banner
 torresette.news##.content-banner-right
 parlandodisport.it##.content-block-banner-2
+lafune.eu##.content-box-sidebar
 cookist.it,fanpage.it##.content-leaderboard
 lookdavip.tgcom24.it##.conteprodotto > a[target="_blank"]
 salernonotizie.it##.contskin
