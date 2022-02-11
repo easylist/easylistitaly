@@ -319,6 +319,7 @@ grecia.info###fh_content
 creta.info,germania.info,irlandando.it,provenzafrancia.it,romaniaturismo.it,svizzera.net###fh_top
 notizielombardia.it###fixedban
 veganiinviaggio.it###flexi_searchbox
+paesenews.it###flexslider
 calciomercato.com###float-sidebar-inner
 finaria.it###floatingbanner
 varesesport.com###floorsunrise
@@ -2041,7 +2042,7 @@ trovaprezzi.it##.sell_on_ebay_wrapper
 excite.it##.serp-item
 calabria7.it##.sg-popup-builder-content
 calabria7.it,gamelegends.it##.sgpb-popup-overlay
-vendingpress.it##.shailan_banner_widget
+paesenews.it,vendingpress.it##.shailan_banner_widget
 aphorism.it,bloopers.it##.shop
 tiscali.it##.shopping-slide-container
 fishingboatmagazine.it##.shortcode-banner-inside
