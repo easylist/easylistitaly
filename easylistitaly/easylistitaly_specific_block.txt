@@ -526,6 +526,7 @@
 ||benesserecorpomente.it^*/banner-
 ||benesserecorpomente.it^*/banner_
 ||beneventocalcio.club/partners/
+||beneventocalcio.it/images/banners/
 ||bergamoesport.it^*/BANNER-
 ||bergamoesport.it^*/planetel.jpg
 ||berlinocacioepepemagazine.com^*/schule-banner.jpg
