@@ -148,11 +148,13 @@ esportsmobile.it###black-studio-tinymce-7
 ilgolfonline.it###black-studio-tinymce-8
 tusciaweb.eu###bleft
 liberliber.it###blocco_banner
+foggiapost.com###block-10
 teleregionelive.it###block-105
 dinamobasket.com###block-106
 meridiananotizie.it###block-11
 teleregionelive.it###block-111
-meridiananotizie.it###block-13
+foggiapost.com,meridiananotizie.it###block-13
+foggiapost.com###block-14
 meridiananotizie.it,mobileblogger.it###block-15
 cronacaossona.com###block-2
 meridiananotizie.it,stranieriinitalia.it,trileggo.it###block-3
