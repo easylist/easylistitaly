@@ -2316,6 +2316,7 @@
 ||lanuovacalabria.it^*/banner/
 ||lanuovaecologia.it^*/SMS-1200x60-
 ||lapalestra.it^*/owheel-
+||lapressa.it/imgs/partners/
 ||lapressa.it/sponsors/
 ||laprimapagina.it^*/banner729x90.
 ||laprimapagina.it^*/i-migliori-bonus-scommesse.png
