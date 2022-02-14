@@ -876,7 +876,7 @@ radioitalia.it##.acquista
 sololibri.net##.acquista-esterno
 tomshw.it##.acquista_button_group
 selectra.net##.action-box
-malpensa24.it##.acx_slideshow_desc
+ilmostardino.it,malpensa24.it##.acx_slideshow_desc
 bici.pro,buongiornosuedtirol.it,gamesource.it,gqitalia.it,icasa.ch,ilfoglio.it,jugo.it,lacrocequotidiano.it,laregione.ch,le-citazioni.it,liberatv.ch,lonelyplanetitalia.it,mondoplay.it,mondoxbox.com,motorbox.com,quotidianoapuano.net,radio-in-diretta.com,serietvu.link,smartbuildingitalia.it,tellows.it,trend-online.com,tripadvisor.it,vogue.it,wallpapic.it##.ad
 tusciaweb.eu##.ad-article
 tvdream.net##.ad-box
@@ -1154,6 +1154,7 @@ fidaf.org##.banner_tab380
 bolina.it,ornews.it,ragusanews.com,salernoinweb.it,stellafm.it##.banner_top
 mercuriomagazine.com##.banner_top_left
 mercuriomagazine.com##.banner_top_right
+ilmostardino.it##.banner_tuudoo
 brindisisera.it##.banner_wide_box
 bicisupermarket.it##.banner_width
 assisieventi.it,corriereal.info,radionorba.it,vivilanotizia.it##.banner_wrapper

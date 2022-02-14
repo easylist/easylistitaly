@@ -1880,6 +1880,7 @@
 ||ilmonito.it^*/bloggif_5eea29db54ef8.gif
 ||ilmonito.it^*/logo-confetti-maxtris-
 ||ilmonito.it^*/mfp.jpg
+||ilmostardino.it^*/webtrend_banner.jpg
 ||ilnautilus.it^*/banner/
 ||ilnautilus.it^*/BARRETTA.jpg
 ||ilnautilus.it^*/bocche12.jpg
