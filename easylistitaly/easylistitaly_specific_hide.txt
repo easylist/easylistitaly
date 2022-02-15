@@ -528,6 +528,7 @@ diretta.it,flashscore.it###odds-main-wrapper
 mondoplay.it,mondoxbox.com###offersbox
 mondoplay.it,mondoxbox.com###offersbox_wide
 mammecreative.it###open_up
+tiscali.it###oswstsSkinAutoBg
 centrometeoitaliano.it###outbrain-wrapper
 erbanotizie.com###overlay
 radiogold.it###overlay-bn-wrapper
@@ -1331,6 +1332,7 @@ puntocellulare.it##.clklnk
 engage.it##.cnt-banner-top
 magodelpronostico.com##.cntBonusHome
 tiscali.it##.cnt_b_1
+tiscali.it##.cnt_b_2
 pornototale.com##.co_sponsor
 bottadiculo.it##.code-block > div > a[href*="/dazn"]
 bottadiculo.it##.code-block > div > a[href*="/pokerstars"]
