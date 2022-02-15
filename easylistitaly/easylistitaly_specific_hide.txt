@@ -1442,6 +1442,7 @@ fiorentinanews.com##.destra_banner
 flashscore.it##.detail-bonus-match-summary-content-inner
 economyup.it,movieplayer.it,techcompany360.it##.dfp
 blastingnews.com##.dfp-mobile-leadeboard
+likesx.com##.dgdom
 quotidiano.net##.discount-block
 gamesource.it##.div-85019
 cuneodice.it,genovadice.it,italiadice.it,torinodice.it##.div_banner
