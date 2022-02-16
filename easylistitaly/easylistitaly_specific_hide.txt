@@ -2064,7 +2064,7 @@ iphoneitalia.com##.single-deals
 oltrefreepress.com##.singleBannerWidget
 siracusaoggi.it##.sirac-widget
 fattoalatina.it##.site-heading-sidebar
-andreagaleazzi.com,animeclick.it,sanitainsicilia.it,startmag.it,timinternet.it##.skin
+andreagaleazzi.com,animeclick.it,greenme.it,sanitainsicilia.it,startmag.it,timinternet.it##.skin
 archilovers.com##.skin-banner-link
 brindisisettenews.it,leccesette.it##.skin-desktop
 meteofinanza.com##.skin-link
