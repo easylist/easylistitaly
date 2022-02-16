@@ -1750,6 +1750,7 @@ laleggepertutti.it##.lexdo-banner
 laleggepertutti.it##.lexdo-llpt
 tusciaeventi.it##.lf_container
 castelvetranonews.it##.liban
+libero.it##.ligatus_wrapper
 top10cose.it##.link-affiliazione
 business24tv.it##.link-at-body
 calciodangolo.com##.link-light-code
