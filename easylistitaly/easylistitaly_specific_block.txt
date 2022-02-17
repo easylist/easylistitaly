@@ -2203,6 +2203,8 @@
 ||kisskissnapoli.it^*/Marino_KKNapoli_
 ||kongnews.it^*/BANNER-
 ||kurdistanonline.net/img/scarica
+||l-8.it/images/allstudio-2017.jpg
+||l-8.it/images/ritratto-rid-1.jpg
 ||la-notizia.net^*/BBLegno.jpg
 ||la-notizia.net^*/Ottuccia.jpg
 ||la-notizia.net^*/Pane-e-Vino.jpg
