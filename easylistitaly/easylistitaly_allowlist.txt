@@ -1,5 +1,6 @@
 @@||adnkronos.com/ign/mediacenter/fotogallery/data_01/img/ad_
 @@||ads.lfstmedia.com/getad?site=$script,domain=spaghetti-interactive.it
+@@||adsafeprotected.com/iasPET.1.js$domain=la7.it
 @@||adsafeprotected.com/vans-adapter-google-ima.js$script,domain=corrieredellosport.it|tuttosport.com
 @@||adserver.adtech.de/addyn/3.0/1183/3769607/0/170/ADTECH;$script,domain=gioco.it
 @@||adswizz.com/adswizz/js/SynchroClient2.js?$domain=105.net|r101.it|radiomontecarlo.net|virginradio.it
@@ -40,7 +41,7 @@
 @@||google.com/adsense/$subdocument,domain=sedo.ch|sedo.it
 @@||google.com/adsense/search/ads.js$script,domain=tutti.ch
 @@||ilparking-moto.it/images/flag/gif/ad.gif
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=3bmeteo.com|agi.it|auto.it|capital.it|corrieredellosport.it|donnaglamour.it|formulapassion.it|gianlucadimarzio.com|guerinsportivo.it|huffingtonpost.it|inmoto.it|la7.it|liveksoft.tv|m2o.it|movieplayer.it|multiplayer.it|radiofreccia.it|radioitalia.it|radiozeta.it|rds.it|rtl.it|tuttosport.com|velvetgossip.it|video.deejay.it|video.espresso.repubblica.it|video.ilsecoloxix.it|video.lanuovasardegna.it|video.lastampa.it|video.rep.repubblica.it|video.repubblica.it|vvvvid.it|youreporter.it
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=3bmeteo.com|agi.it|auto.it|capital.it|corrieredellosport.it|donnaglamour.it|formulapassion.it|gianlucadimarzio.com|guerinsportivo.it|huffingtonpost.it|inmoto.it.it|liveksoft.tv|m2o.it|movieplayer.it|multiplayer.it|radiofreccia.it|radioitalia.it|radiozeta.it|rds.it|rtl.it|tuttosport.com|velvetgossip.it|video.deejay.it|video.espresso.repubblica.it|video.ilsecoloxix.it|video.lanuovasardegna.it|video.lastampa.it|video.rep.repubblica.it|video.repubblica.it|vvvvid.it|youreporter.it
 @@||improvedigital.com/pbw/headerlift.min.js$domain=gioco.it
 @@||js.neodatagroup.com/uploads/js/rds.js$domain=rds.it
 @@||labs.ebuzzing.it/blogs/top/getrank?$image
