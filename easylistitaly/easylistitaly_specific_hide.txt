@@ -2046,6 +2046,7 @@ calabria7.it,gamelegends.it##.sgpb-popup-overlay
 paesenews.it,vendingpress.it##.shailan_banner_widget
 aphorism.it,bloopers.it##.shop
 tiscali.it##.shopping-slide-container
+tiscali.it##.shopping-slides
 fishingboatmagazine.it##.shortcode-banner-inside
 guardaserie.cam##.show-download
 milleunadonna.it,tiscali.it##.shp-2l-dx
