@@ -273,6 +273,7 @@
 ##.header-mobile-mega-adv
 ##.home-rubriche-adv
 ##.inews_adv_top
+##.inread_adv
 ##.intro-adv
 ##.jadv_leoadv_pd
 ##.lancio_adv
