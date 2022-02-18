@@ -2116,6 +2116,7 @@ tvoggisalerno.it##.sow-slider-image-container
 tgnewstv.it##.sp-logo-carousel-pro-section
 calcioatalanta.it,calciocasteddu.it,calciocremonese.it,calciofere.it,calciogrifo.it,calciohellas.it,calciolecce.it,calciorosanero.it,calciospezia.it,fiorentina.it,forzamonza.it,forzaparma.it,labaricalcio.it,siamolaroma.it,sololalazio.it,tifocosenza.it,trapanigranata.it,usavellino1912.com,virtus.it##.sp-sponsors
 radiodiffusionepistoia.com##.spazio_banner
+ilfattoquotidiano.it##.special
 bimcal.it##.special-calendars-wrap
 lifegate.it##.special-contents
 gay.it,pgcasa.it##.speciale
