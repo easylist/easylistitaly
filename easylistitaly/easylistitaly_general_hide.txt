@@ -290,6 +290,7 @@
 ##.nk-adv
 ##.nk-adv-in-article-1
 ##.nk-adv-in-article-2
+##.nw_adv_full
 ##.partial-static-adv
 ##.partial-sticky-adv
 ##.pat-adv-300x250
