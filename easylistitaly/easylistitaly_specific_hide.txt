@@ -1146,7 +1146,7 @@ mercuriomagazine.com##.banner_top_right
 ilmostardino.it##.banner_tuudoo
 brindisisera.it##.banner_wide_box
 bicisupermarket.it##.banner_width
-assisieventi.it,corriereal.info,radionorba.it,vivilanotizia.it##.banner_wrapper
+assisieventi.it,corriereal.info,giornaleadige.it,radionorba.it,vivilanotizia.it##.banner_wrapper
 mi-lorenteggio.com##.banneraboveslider
 velanet.it##.bannerarcipelago
 laprovinciadilecco.it##.bannerbase
