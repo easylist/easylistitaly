@@ -1198,6 +1198,7 @@
 ||erbanotizie.com^*/banner_
 ||erbanotizie.com^*_multibanner_
 ||erbanotizie.com^*_popupED_
+||erreemmenews.it^*/Banner-
 ||esportsactivity.com^*-300-x-300.
 ||esportsactivity.com^*/casino-bonus.png
 ||esportsactivity.com^*/Gamopo-728-X-90.png
