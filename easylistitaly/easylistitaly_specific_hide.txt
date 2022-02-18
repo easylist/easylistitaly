@@ -524,6 +524,7 @@ lacittanews.it###newsup-image-widget-9
 anteritalia.org###nwg
 puntocellulare.it###o_list
 areanapoli.it###ob-box-list
+erreemmenews.it###obi_random_banners_posts
 diretta.it,flashscore.it###odds-main-wrapper
 mondoplay.it,mondoxbox.com###offersbox
 mondoplay.it,mondoxbox.com###offersbox_wide
