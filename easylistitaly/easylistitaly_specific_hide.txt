@@ -2135,6 +2135,7 @@ luinonotizie.it##.sponsor-interna
 erbanotizie.com##.sponsor-rubrica
 rittnerbuam.com##.sponsor-section
 classicipodcast.it##.sponsor-single
+milanbergamoairport.it##.sponsor-strip
 archilovers.com##.sponsor-title
 viterbopost.it##.sponsorA
 facciabuco.com##.sponsor_box
