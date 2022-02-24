@@ -1225,6 +1225,7 @@
 ||eurostreaming.shop/gcod.js
 ||eurostreaming.shop/gcode.js
 ||eurostreaming.team/prem.js
+||eurostreaming.town/gcode.js
 ||eurostreaming.world/gcode.js
 ||eurostreaming1.com/c.png
 ||eurostreaming1.com/g.png
