@@ -811,6 +811,7 @@
 ||cb01.dev/fake2/
 ||cb01.dev/templates/CB01_bid/images/btn_
 ||cb01.dev/templates/CB01_bid/images/button_
+||cb01.press/templates/CB01_bid/images/pulsante-
 ||cb01.run^*/button_
 ||cb01.systems/4k/
 ||cdn77.org/banner/$domain=finestresullarte.info
@@ -852,6 +853,7 @@
 ||cineblog01.bid/templates/CB01/img/immagine-4k.png
 ||cineblog01.bid/templates/CB01/img/vedimovie.png
 ||cineblog01.land/scarica
+||cineblog01.legal/templates/cb01/images/button_
 ||cineblog01.vet/300.gif
 ||cineblog01.vet/it.gif
 ||cinemadelsilenzio.it/banner4.js
