@@ -2069,6 +2069,7 @@ siracusaoggi.it##.sirac-widget
 fattoalatina.it##.site-heading-sidebar
 andreagaleazzi.com,animeclick.it,greenme.it,sanitainsicilia.it,startmag.it,timinternet.it##.skin
 archilovers.com##.skin-banner-link
+cremaoggi.it,cremonaoggi.it,cremonasport.it,oglioponews.it##.skin-container
 brindisisettenews.it,leccesette.it##.skin-desktop
 meteofinanza.com##.skin-link
 digitalic.it##.skin_a_dx
