@@ -811,7 +811,9 @@
 ||cb01.dev/fake2/
 ||cb01.dev/templates/CB01_bid/images/btn_
 ||cb01.dev/templates/CB01_bid/images/button_
+||cb01.press/templates/CB01_bid/images/botton-
 ||cb01.press/templates/CB01_bid/images/pulsante-
+||cb01.press/templates/CB01_bid/images/vedifilm.png
 ||cb01.run^*/button_
 ||cb01.systems/4k/
 ||cdn77.org/banner/$domain=finestresullarte.info
