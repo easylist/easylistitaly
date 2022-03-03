@@ -3902,6 +3902,7 @@
 ||sportextra.it/img/banner_
 ||sportface.it^*-BANNER-
 ||sportface.it^*/Banner-
+||sportgrigiorosso.it/banners/
 ||sportmagazinetrentino.it^*-1980x480
 ||sportmagazinetrentino.it^*-sponsoring
 ||sportpaper.it^*/PayFan-
