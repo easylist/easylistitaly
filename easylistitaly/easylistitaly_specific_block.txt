@@ -158,6 +158,7 @@
 ||altadefinizione.legal/templates/altadef/img/download
 ||altadefinizione.legal/templates/altadef/img/stream
 ||altadefinizione.network/templates/Dark/img/btn_
+||altadefinizione.network/templates/Dark/img/butn
 ||altadefinizione01.global/buton
 ||altadefinizione01.page/300.gif
 ||altadefinizione01.page/stream1.png
@@ -1226,6 +1227,7 @@
 ||eurostreaming.fyi/playerjs.js
 ||eurostreaming.fyi/sc.png
 ||eurostreaming.red/gcode.js
+||eurostreaming.rest/gcode.js
 ||eurostreaming.shop/gcod.js
 ||eurostreaming.shop/gcode.js
 ||eurostreaming.team/prem.js
