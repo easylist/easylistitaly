@@ -43,6 +43,7 @@
 ||campeggi.com/img/takeover/
 ||campingsportmagenta.com/CamperOnline/$third-party
 ||careerjet.it/partners/
+||cartomanzia.it/dimmi.gif
 ||casadivita.despar.it^$third-party
 ||cdn-immedia.net/banner/
 ||cdn.adultsadv.com^
