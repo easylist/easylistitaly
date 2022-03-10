@@ -11,11 +11,12 @@
 @@||antonioranesi.it/cache/Lavori/Pubblicita/$~third-party
 @@||aperture-supermercati.it/immagini/catena-20/conad.jpg
 @@||api.everli.com/sm/api/*&adgroupid=$~third-party,xmlhttprequest
+@@||assets.evolutionadv.it/comingsoon_it/comingsoon_it-fresh.new.js$domain=comingsoon.it
 @@||assets.evolutionadv.it/quantcast-fix.css$domain=money.it
 @@||assets.evolutionadv.it/violations/*.violations.js$domain=money.it
 @@||assets.evolutionadv.it^*/gpt.min.js$domain=money.it
-@@||assets.evolutionadv.it^*/optiload.min.js$domain=money.it
-@@||assets.evolutionadv.it^*/prebid.min.js$domain=money.it
+@@||assets.evolutionadv.it^*/optiload.min.js$domain=comingsoon.it|money.it
+@@||assets.evolutionadv.it^*/prebid.min.js$domain=comingsoon.it|money.it
 @@||business24tv.it/_static/*/OAsX/$stylesheet,~third-party
 @@||carloneworld.it^*/tastixhumpp_b12_Pubblicita_Taroccate.png
 @@||carrozzeriabertazzoni.it/immagini/PUBBLICITA.gif
@@ -26,6 +27,7 @@
 @@||centrosangiorgio.com^*_pubblicita/
 @@||centrovolantini.it/sites/default/files/styles/thumb_copertina/public/conad_$~third-party
 @@||cheapnet.it/adv/$~third-party
+@@||confiant-integrations.global.ssl.fastly.net/*/gpt_and_prebid/config.js$domain=comingsoon.it
 @@||digitaleterrestrefacile.it/detroitchicago/dayton.js?
 @@||dincontri.com/ads/galleries/crops/$image,~third-party
 @@||dotandad.com/TiscaliAds.js$domain=ansa.it
