@@ -1799,6 +1799,7 @@
 ||ilgiornaledelloyoga.it^*/Banner-
 ||ilgiornaledelmolise.it/img/bannerlungo/
 ||ilgiornaledelmolise.it/img/lamolisana_
+||ilgiornaledelmolise.it^*/BANNER_
 ||ilgiornaledelticino.ch^*/ADV-
 ||ilgiornaledelticino.ch^*/bfa9272d-
 ||ilgiornaledelticino.ch^*/cambio-valute-
