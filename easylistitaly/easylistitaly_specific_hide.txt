@@ -1238,7 +1238,6 @@ piazzaffariweb.com##.bottom-banner
 livesicilia.it##.bottom-border-widget-promotion
 lasiritide.it##.box-1
 lasiritide.it##.box-2
-avvenire.it##.box-300
 sslazio.it##.box-79
 centrometeoitaliano.it##.box-adv
 iphoneitalia.com,teeech.it##.box-amazon
