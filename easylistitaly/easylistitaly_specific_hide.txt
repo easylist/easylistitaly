@@ -870,7 +870,7 @@ ilmostardino.it,malpensa24.it##.acx_slideshow_desc
 bici.pro,buongiornosuedtirol.it,gamesource.it,gqitalia.it,icasa.ch,ilfoglio.it,jugo.it,lacrocequotidiano.it,laregione.ch,le-citazioni.it,liberatv.ch,lonelyplanetitalia.it,mondoplay.it,mondoxbox.com,motorbox.com,quotidianoapuano.net,radio-in-diretta.com,serietvu.link,smartbuildingitalia.it,tellows.it,trend-online.com,tripadvisor.it,vogue.it,wallpapic.it##.ad
 tusciaweb.eu##.ad-article
 tvdream.net##.ad-box
-adotta.me,gli-sport.info,soluzionicodycross.it,supertv.it##.ad-container
+adotta.me,editorialedomani.it,gli-sport.info,soluzionicodycross.it,supertv.it##.ad-container
 fantacalcio.it##.ad-video
 laltrapagina.it##.ad1
 laltrapagina.it##.ad2
