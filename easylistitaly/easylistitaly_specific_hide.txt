@@ -1776,6 +1776,7 @@ lattemiele.com##.lp-link
 lapresse.it##.lp-topleft
 viaggiperfamiglie.it##.lsp_main_slider
 tuttitalia.it##.lt
+milanofinanza.it##.lyxorboxGreen
 omnifurgone.it##.m1-apb
 omnitrattore.it##.m1-gapb-topside
 buttanissima.it##.machette
