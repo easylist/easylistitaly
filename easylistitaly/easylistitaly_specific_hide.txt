@@ -1803,6 +1803,7 @@ stellafm.it##.master-slider
 irpinianews.it##.master-slider-parent
 ecoo.it##.masterhead-container-column
 eurochampions.it,fiorentinanews.com,genoanews1893.it,lalaziosiamonoi.it,perugia24.net,pianetabasket.com,tuttofrosinone.com,tuttonocerina.com,tuttoturris.com,tuttoveneziasport.it##.masthead
+zon.it##.masthead-block
 ilgiorno.it,ilrestodelcarlino.it,iltelegrafolivorno.it,lanazione.it,notizie-inter.it,quotidiano.net##.masthead-container
 screenweek.it##.matches-container
 automoto.it##.mawrap
