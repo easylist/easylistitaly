@@ -65,6 +65,7 @@ beverfood.com###backy
 oroscopodioggi.net###ban_bg
 rimini.com###bann-top-dx
 daneel59.altervista.org,ilmioip.it,metanogpl.it,superwheels.net###banner
+comicsbox.it###banner-300x250-cont
 bresciaoggi.it,ilgiornaledivicenza.it,larena.it###banner-autodoc
 torinonews24.it###banner-bottom
 veneziafc.it###banner-box-up
