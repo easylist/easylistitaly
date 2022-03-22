@@ -2004,6 +2004,7 @@ microgiochi.com##.relacionados
 quotidianodiragusa.it##.related-news
 quotidianodiragusa.it##.related-newsc
 mobimart.it##.resp-container
+promoqui.it##.retailer-app__MainAdv
 retegargano.it##.reteg-slider
 archiportale.com##.rettangolo-dx
 router-4g.it##.review-links
