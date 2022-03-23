@@ -1514,7 +1514,7 @@ corrieredicomo.it##.elementor-element-f76437b
 iamnaples.it##.elementor-element-faa8a16
 ekuonews.it##.elementor-element-ffc0651
 radiolaquila1.it,tvrxenon.it##.elementor-image-carousel-wrapper
-twebnews.it##.elementor-main-swiper
+studio100.it,twebnews.it##.elementor-main-swiper
 affaritaliani.it##.eni
 huffingtonpost.it##.entry__right-rail-width-placeholder
 tuttitalia.it##.eo
