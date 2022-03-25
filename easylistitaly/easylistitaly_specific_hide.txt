@@ -1676,6 +1676,7 @@ sportytrader.it##.ilo
 forum.ilsoftware.it##.ilsw_forum_leaderboard
 oroscopi.info##.img_oroscopo_personalizzato
 internimagazine.it##.in21-adv-mosaico
+internimagazine.it##.in21-native-small-wrap
 rovigoindiretta.it##.in_vetrina_container
 mrw.it##.inadv
 mrw.it##.inadv-label
