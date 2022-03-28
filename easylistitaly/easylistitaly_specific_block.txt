@@ -1226,6 +1226,7 @@
 ||eurostreaming.fyi/hd-
 ||eurostreaming.fyi/playerjs.js
 ||eurostreaming.fyi/sc.png
+||eurostreaming.loan/gcode.js
 ||eurostreaming.red/gcode.js
 ||eurostreaming.rest/gcode.js
 ||eurostreaming.shop/gcod.js
