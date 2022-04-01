@@ -1303,6 +1303,7 @@ frescopesce.it##.buyaltacucina
 pensieriparole.it##.buyblock
 sitiscommesse.com##.bwin
 casanapoli.net##.bwp_gallery_slideshow
+dererker.it##.bxslider
 domusweb.it##.c-article-prev--sponsored
 quattroruote.it##.c-banner-opening1__sponsor
 asroma.com##.c-feed-card-ad
@@ -1928,6 +1929,7 @@ dolcidee.it,luce.lanazione.it,rtinradio.com,teatronaturale.it,university-esports
 replytotem.com##.partners-carousel
 100ideeperristrutturare.it,casa-naturale.com,quattrozampe.online,villeecasali.com##.partners-wrapper
 infobuild.it##.partnersection
+dererker.it##.partvert-right
 evosmart.it##.penci-banner-box
 sarnonotizie.it##.penci-container__content
 coltivazionebiologica.it##.penci-header-signup-form
@@ -2954,9 +2956,9 @@ trattoriusati.com##div[style^="width:336px; height:280px;"]
 amalfinews.it,cetaranews.it,ilportico.it,ilvescovado.it,liratv.it,occhisusalerno.it,positanonotizie.it,ravellonotizie.it##header > div > p > span > a
 meteosatonline.it##hr[style="height:5px; background: #9EB4FF;"]
 trovacinema.repubblica.it##i-amphtml-sizer[style="padding-top: 25.7732%;"]
+animelove.tv##iframe[style*="z-index: 2147483647"]
 zibaldoneweb.it##iframe[style="width: 120px; height: 240px;"]
 floinviaggio.com##iframe[style="width:300px; height:250px; border: none"]
-animelove.tv##iframe[style*="z-index: 2147483647"]
 leggopassword.it##img[alt*="Banner"]
 fortuneita.com##img[alt="Advertisement"]
 altissimoceto.it,liguriaoggi.it##img[alt="ad"]
