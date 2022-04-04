@@ -2944,6 +2944,7 @@
 ||nuovabrianza.it^*/logo-macelleria-villa-reale.jpg
 ||nuovabrianza.it^*_banner_
 ||nuovacosenza.com/spot/
+||nuovogiornalenazionale.com/images/banners/
 ||nuovosud.it/sites/default/files/box-
 ||nuovosud.it/sites/default/files/raggioverde.jpg
 ||nuovosud.it/sites/default/files/skin-
