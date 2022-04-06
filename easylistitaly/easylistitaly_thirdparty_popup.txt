@@ -6,6 +6,7 @@
 ||betway.it/bwp/$popup,third-party
 ||bit.ly^$popup,domain=calcioj.com
 ||campaigns.williamhill.it^$popup,third-party
+||carte-regalo-per-te.com^$popup
 ||codere.it/promoRedirect?$popup,third-party
 ||edreams.it/?affiliate=$popup
 ||eurostreaming.cam^$popup,third-party
@@ -31,4 +32,5 @@
 ||tracking.tuobenessere.it^$popup
 ||tracking.viaggiamo.it^$popup
 ||trendevice.com/?utm_$popup,domain=macitynet.it
+||vialedelconsumo.com^$popup
 ||vincitu.it/C.ashx?$popup,third-party
