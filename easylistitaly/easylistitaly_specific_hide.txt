@@ -967,7 +967,7 @@ pescaralive.it##.apPluginContainer
 omnitrattore.it##.apb
 ridble.com##.api-box
 matrimonio.com##.app-DFP
-moto.it##.app-ebay-text-link
+automoto.it,moto.it##.app-ebay-text-link
 stardust.it##.app-masthead
 nospoiler.it##.app__leaderboard
 radiocuore.it##.areaclick
@@ -1423,8 +1423,8 @@ automoto.it,moto.it##.crm-unit-bx1
 automoto.it,moto.it##.crm-unit-bx2
 automoto.it,moto.it##.crm-unit-bx3
 automoto.it,moto.it##.crm-unit-bx4
-moto.it##.crm-unit-bx5
-moto.it##.crm-unit-intxtdett
+automoto.it,moto.it##.crm-unit-bx5
+automoto.it,moto.it##.crm-unit-intxtdett
 automoto.it,moto.it##.crm-unit-mh
 crotoneok.it##.croto-slider
 crotoneok.it##.croto-widget
