@@ -1326,6 +1326,7 @@ federtennis.it##.cc-content-sponsor
 magazinedelledonne.it##.ccm_pugoo__sponso
 webpointzero.com##.cegg_widget_products
 radioinblu.it,tv2000.it##.cei-skin-side
+vocegiallorossa.it##.center
 lineapress.it##.cfxi-container
 vienormali.it##.cimarandom
 autoscout24.it##.cl-billboad-wrapper
@@ -1817,6 +1818,7 @@ ilgiorno.it,ilrestodelcarlino.it,iltelegrafolivorno.it,lanazione.it,notizie-inte
 screenweek.it##.matches-container
 automoto.it##.mawrap
 radiogold.it##.max-banner-top
+vocegiallorossa.it##.mbottom
 laputa.it##.mbt-book-buybuttons
 medicalexcellencetv.it##.medic-widget
 powned.it##.medium-5 + .medium-7
