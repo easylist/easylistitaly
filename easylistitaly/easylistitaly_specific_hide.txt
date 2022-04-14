@@ -132,7 +132,7 @@ entella.it###barra_click_sx
 entella.it###barra_click_top
 forum.tomshw.it###belowfirstpost
 emiliotomasini.it,lombardreport.com###bg_banner
-orizzontescuola.it###bglink
+accordo.it,orizzontescuola.it###bglink
 wuz.it###bigrectangle
 bergamoesport.it,informazionefiscale.it###billboard
 sassarioggi.it###billboard-container

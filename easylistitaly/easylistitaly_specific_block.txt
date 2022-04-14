@@ -69,6 +69,7 @@
 ||abruzzoweb.it^*/banner-
 ||acao.it/wp-content/logo_sponsor/
 ||accaddeoggi.it/images/jooble300x85.jpg
+||accordo.it/cloud-assets/x/sfondi/
 ||acquariofilia.biz/banner/
 ||acquariofilia.biz/images/banner/
 ||acquariofiliaconsapevole.info^*/banner/
