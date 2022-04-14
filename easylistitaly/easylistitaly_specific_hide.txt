@@ -1188,7 +1188,7 @@ magentanostra.it##.bdt-logo-carousel-figure
 rockit.it##.bello-container
 mahjong.it##.benvenuto_pub
 reggiosera.it##.betulla-box
-ifood.it##.bg-banner
+bikeitalia.it,ifood.it##.bg-banner
 telenord.it##.bg-link
 vivoconbenessere.it##.bg.landscape
 nuovosud.it##.bg_skin
