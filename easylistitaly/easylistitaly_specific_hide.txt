@@ -102,6 +102,7 @@ ondarock.it###banner_300x250_slot4
 chiechiera.it###banner_300x600
 finestresullarte.info###banner_8_div
 finestresullarte.info###banner_9_div
+teleboario.it###banner_container
 contosulconto.it###banner_content
 quizpatenteonline.it###banner_fix
 vocidicitta.it###banner_footer_728

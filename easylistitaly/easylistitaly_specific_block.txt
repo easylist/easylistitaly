@@ -4069,6 +4069,7 @@
 ||teleblu.tv^*/banner-
 ||teleblutv.it^*/banner-
 ||teleblutv.it^*/logo-Gruppo-Salatto-
+||teleboario.it/uploads/advertising/
 ||teleborsa.it/FrameResources/4WTV/
 ||telecaprisport.it/banner/
 ||telecaprisport.it^*Banner-290x400.
