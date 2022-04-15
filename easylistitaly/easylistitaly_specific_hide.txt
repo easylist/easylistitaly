@@ -1818,6 +1818,7 @@ zon.it##.masthead-block
 ilgiorno.it,ilrestodelcarlino.it,iltelegrafolivorno.it,lanazione.it,notizie-inter.it,quotidiano.net##.masthead-container
 screenweek.it##.matches-container
 automoto.it##.mawrap
+moto.it##.mawrap.aside-grow
 radiogold.it##.max-banner-top
 vocegiallorossa.it##.mbottom
 laputa.it##.mbt-book-buybuttons
@@ -3155,6 +3156,7 @@ metalitalia.com#?#.sidebar-block:-abp-has(a[href^="https://track.webgains.com/cl
 mffashion.com#?#.media-imgnews:-abp-has(span:-abp-contains(Contenuto Sponsorizzato))
 milanofinanza.it#?#.col-md-12.intesahead.mb-3 ~ .col-md-4:-abp-has(a[href^="https://group.intesasanpaolo.com/"])
 money.it#?#.flex.flex-col.space-y-3.relative:-abp-has(.mr-2)
+moto.it#?#.arel:-abp-has(a[href^="https://www.ebay.it/"])
 my-personaltrainer.it#?#.sal-list-item:-abp-has(.sal-is-special)
 open.online#?#.news:-abp-has(div:-abp-contains(in collaborazione con ))
 paginegialle.it#?#.list-element.list-element--free:-abp-has(.list-element__label--annuncio)
