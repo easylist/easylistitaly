@@ -628,7 +628,7 @@ victorialibertas.it###sponsor-footer
 biellaoggi.it,casaleoggi.it,cuneooggi.it,piemonteoggi.it,vercellioggi.it###sponsor_dx
 biellaoggi.it,casaleoggi.it,cuneooggi.it,piemonteoggi.it,vercellioggi.it###sponsor_sx
 calciopotenza.eu,casertanafc.it###sponsors
-bolognasportnews.it###sponsors-wrapper
+bolognasportnews.it,ilpallonegonfiato.com###sponsors-wrapper
 sassuolooggi.it###spospo
 stabiachannel.it###spot
 zeusnews.it###spotEsterno
