@@ -92,6 +92,7 @@ fip.it###bannerPushBarXS
 generacodice.com###bannerRight
 edilportale.com###bannerSkin
 camperlife.it###bannerSx
+edilportale.com###bannerTopWrapper
 camperlife.it###banner_2
 camperlife.it###banner_3
 chiechiera.it,ondarock.it###banner_300x250
