@@ -217,6 +217,7 @@ gamesvillage.it###buy_amazon
 ilpentasport.it###bx-next-sponsor
 ilpentasport.it###bx-prev-sponsor
 ascolicalcio1898.it###carousel
+bolognasportnews.it###carousel-sponsors-list
 foodbloggermania.it###categories-2
 faidateingiardino.com,newsf1.it###cb-bg-to
 sempionenews.it###cboxOverlay
