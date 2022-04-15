@@ -848,6 +848,7 @@ whiteradio.it##.Sp
 telestense.it##.StandardBanner
 camping.it##.XBPos
 ricetta.it##.\37 28-up
+liberoquotidiano.it##._fb_dbx
 radioradio.it,uominietrasporti.it##._ning_inner
 100ideeperristrutturare.it,calabria7.it,casa-naturale.com,quattrozampe.online,radioluce.it,villeecasali.com##._ning_outer
 comunicaffe.it##._ningzone_grid
