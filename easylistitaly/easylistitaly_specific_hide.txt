@@ -1971,6 +1971,7 @@ proiezionidiborsa.it##.promoboxblu
 proiezionidiborsa.it##.promoboxorange
 proiezionidiborsa.it##.promoboxplus
 teleoccidente.it##.promotion-section
+fibra.click##.propaganda
 tgfuneral24.it##.psct-banners
 playstationzone.it##.psz_template_prices_comp
 agoravox.it,boatindustry.it,boatsnews.it,europa-agri.it##.pub
