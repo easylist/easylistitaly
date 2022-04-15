@@ -1477,6 +1477,7 @@ bsnews.it,evosmart.it,ilvideogamepost.blog,mialleno.it,pc-gaming.it,stile.it,uff
 regaliperfetti.it##.egg_grid
 regaliperfetti.it##.egg_sort_list
 beneficicurcuma.it##.elementor-cta
+corrieredicarmagnola.it##.elementor-element-0ed75b8
 siciliaonpress.com##.elementor-element-1247f0a
 giornalesm.com##.elementor-element-1c08281c
 iamnaples.it##.elementor-element-1cc40659
