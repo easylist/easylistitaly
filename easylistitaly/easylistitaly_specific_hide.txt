@@ -2398,6 +2398,7 @@ casertaweb.com,pugliapress.org##.vc_carousel-inner
 avvisatoredellevante.com##.vc_cta3-container
 fiammeororugby.it##.vc_custom_1442391520819
 ilpuntonotizie.it##.vc_custom_1508767821833
+vidanetwork.it##.vc_custom_1530168853732
 calciofoggia1920.net##.vc_custom_1537770288568
 donnaup.it##.vc_custom_1546883180752
 orvietosi.it##.vc_custom_1587719628931
