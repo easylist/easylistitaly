@@ -1644,7 +1644,7 @@ cuckold.it##.happy-sidebar
 cuckold.it,pornoamatorialeitaliano.it##.happy-under-player
 finaria.it##.has-text-align-center > a > button
 emmelle.it,ultimenotizieoggi.it##.header-ainfo
-assisisport.it,comesifasefaidate.it,ecodelcinema.com,fantacalcio.it,italiaonline.news,lagenziadiviaggi.it,nocerinalive.it,oltreilfatto.it,ondatv.tv,palermolive.it,quotidianocanavese.it##.header-banner
+assisisport.it,comesifasefaidate.it,ecodelcinema.com,fantacalcio.it,italiaonline.news,lagenziadiviaggi.it,nocerinalive.it,oltreilfatto.it,ondatv.tv,palermolive.it,quotidianocanavese.it,siderweb.com##.header-banner
 nuovosud.it##.header-banner-wrapper
 calciomercato.com##.header-banner__container
 necrologi.ilcorriere.net##.header-right
@@ -2983,7 +2983,7 @@ corrierece.it##img[height="200"]
 pronostici-oggi.it##img[height="200"][width="250"]
 crotoneok.it,sienanews.it,startmag.it,vesuviolive.it##img[height="250"]
 latinaquotidiano.it,liguriaoggi.it,staffettaonline.com,startmag.it##img[height="250"][width="300"]
-nanotv.it##img[height="300"]
+ierioggidomani.it,nanotv.it##img[height="300"]
 nursetimes.org##img[height="300"][width="250"]
 volleyball.it##img[height="300"][width="300"]
 volleyball.it##img[height="490"][width="745"]
@@ -3031,7 +3031,7 @@ catanista.eu##img[width="270"][height="150"]
 catanista.eu##img[width="271"][height="179"]
 parmacalcio1913.com##img[width="280"][height="135"]
 iamnaples.it##img[width="280"][height="280"]
-24live.it,abruzzoweb.it,calciofoggia.it,campaniapress.it,catanista.eu,circusf1.com,clubdoria46.it,confinelive.it,dentrosalerno.it,divisionecalcioa5.it,formula1news.it,gamersarsenal.it,gazzettadelmediterraneo.it,ilgiornaledelticino.ch,ilgiornaledisalerno.it,italiasera.it,lafune.eu,larampa.it,laziopress.it,link24.it,mantovauno.it,mondo-motori.it,nocerinalive.it,ondanews.it,partinicolive.it,radiompa.com,sicilianews24.it,startmag.it,tvoggisalerno.it,vercellinotizie.it,vesuviolive.it##img[width="300"]
+24live.it,abruzzoweb.it,calciofoggia.it,campaniapress.it,catanista.eu,circusf1.com,clubdoria46.it,confinelive.it,dentrosalerno.it,divisionecalcioa5.it,formula1news.it,gamersarsenal.it,gazzettadelmediterraneo.it,ierioggidomani.it,ilgiornaledelticino.ch,ilgiornaledisalerno.it,italiasera.it,lafune.eu,larampa.it,laziopress.it,link24.it,mantovauno.it,mondo-motori.it,nocerinalive.it,ondanews.it,partinicolive.it,radiompa.com,sicilianews24.it,startmag.it,tvoggisalerno.it,vercellinotizie.it,vesuviolive.it##img[width="300"]
 forum.passioneauto.it,ilmiocaneleggenda.it,ilmiogattoeleggenda.it,vocedimantova.it##img[width="300"][height="100"]
 newtuscia.it,spaziotennis.com##img[width="300"][height="150"]
 acquariocomefare.com,radioinblu.it##img[width="300"][height="171"]
