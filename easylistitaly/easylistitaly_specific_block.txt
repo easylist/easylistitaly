@@ -5026,7 +5026,7 @@
 ||stgy.ovh/~shared/images/d_a/
 ||today.it/~shared/cgi-bin/d_a/
 !
-/^https?:\/\/[0-9a-z]{8,}\.com\/.*/$third-party,domain=animeforce.it|eurostreaming.voyage|nuovoindirizzo.com
+/^https?:\/\/[0-9a-z]{8,}\.com\/.*/$third-party,domain=animeforce.it|eurostreaming.voyage|ilgeniodellostreaming.bar|nuovoindirizzo.com
 ! (/sw.js)
 /^https?:\/\/.*\/.*sw[0-9._].*/$script,domain=dundi.it|pornototale.com|skip.li
 !
