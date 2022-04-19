@@ -818,6 +818,7 @@ mangiobenevivobene.it###youtube_responsive-2
 agenziagiornalisticaopinione.it###youtube_responsive-6
 avvisatore.ilsecoloxix.it,avvisatoremarittimo.it###zona_266
 giocopulito.it###zox-lead-top
+automobile.it##.ADVParallax
 informaquiz.it##.ADV_Video
 focusjunior.it##.ASponsor
 chimerarevo.com##.AbovePostPlacementSlot
