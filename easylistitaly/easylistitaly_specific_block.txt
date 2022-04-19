@@ -4030,6 +4030,7 @@
 ||studio93.it^*160x738
 ||studio93.it^*225x100
 ||studio93.it^*798x90
+||subito.it/static/reclame/
 ||submission.it/banner/
 ||sudnews.it^*/banner/
 ||sudnotizie.com^*/Assodemaniali-Campania.jpg

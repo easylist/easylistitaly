@@ -48,6 +48,7 @@ localidautore.it###ajax-placeholder-header
 lospicchiodaglio.it###amazon_apa
 notebookitalia.it###amznbi
 direttafacile.it###annuncidiv
+subito.it###apn_top_tag
 palermomania.com###area_banner_top
 excellentmagazine.it###articolo_annunci_slider
 skylinewebcams.com###ask2
@@ -102,7 +103,7 @@ ondarock.it###banner_300x250_slot4
 chiechiera.it###banner_300x600
 finestresullarte.info###banner_8_div
 finestresullarte.info###banner_9_div
-teleboario.it###banner_container
+subito.it,teleboario.it###banner_container
 contosulconto.it###banner_content
 quizpatenteonline.it###banner_fix
 vocidicitta.it###banner_footer_728
@@ -561,6 +562,7 @@ estrazionedellotto.it,superenalotto.com###promobanner
 flashgames.it###pub_sotto
 voce.it###publiredazionale
 tuttitalia.it###qh
+subito.it###reclame-native
 #reportpistoia.com#.code-block-1
 calabriapost.net,isnews.it,laprovinciakr.it###responsive-banner-slider
 cosenostre-online.it###rev_slider_4_1_wrapper
@@ -742,6 +744,7 @@ amorethailandia.com,bioterra.it,brindisioggi.it,controcopertina.com,esportsitali
 agenziagiornalisticaopinione.it,brindisioggi.it,controcopertina.com,ilpost.it,nightlife-cityguide.com,p2p-italia.com,pagamentidigitali.it,solorecensioni.com,telemia.it###text-9
 specchiosesto.it###text-html-widget-2
 agemobile.com###text-html-widget-4
+subito.it###textlinks_wrapper
 bellaumbria.net###title-search-all + #booking-search-all
 faidatecasa.com###tm-main-top
 popcorntv.it###top
