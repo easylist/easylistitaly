@@ -33,6 +33,7 @@ soldioggi.it###ad5
 digital-forum.it,ebaygeneration.com,elaborare.com,esigarettaforum.com,milanworld.net,thegamesmachine.it###ad_global_below_navbar
 bordighera.net,corriere.it,lavocedelpopolo.it###ads
 buonapesca.it,piceno24.it,picenooggi.it,rivieraoggi.it,virgilio.it###adv
+farmacia-aperta.eu###adv-info
 agarymathematics.net,timgate.it###adv1
 libero.it###adv_topper
 catt.ch###advertising
