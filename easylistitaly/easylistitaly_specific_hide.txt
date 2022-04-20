@@ -596,6 +596,7 @@ vienormali.it###site-header-banner
 vienormali.it###site-header-leaderboard
 allmusicitalia.it,corrieredellosport.it,epolisbari.com,familygo.eu,marigliano.net,tuttosport.com###skin
 movieplayer.it###skin-desktop
+artribune.com###skin-header-fragment
 crotoneok.it###skin_container
 iovivoaroma.org###skin_link_dx
 iovivoaroma.org###skin_link_sx
@@ -2243,7 +2244,7 @@ cronachedellacampania.it##.tcf-container
 gioconews.it##.tcvn-banner-item
 2anews.it,agimeg.it,aplombardia.eu,apsicilia.it,araberara.it,aroundtheworld.pro,artuu.it,bologna2000.com,calciofoggia.it,casertaweb.com,cilentotime.it,cronacadelleconomia.it,cronacadelveneto.com,europacalcio.it,foggiatv.tv,fumettologica.it,gazzettacanaria.com,hashtagsicilia.it,ilfattovesuviano.it,ilgranchio.it,ilprimatonazionale.it,iltamburino.it,industriaitaliana.it,lavocedivenezia.it,link24.it,mattinodiverona.it,medicomunicare.it,messinaora.it,motoexcape.com,napolivillage.com,oltre.tv,paisemiu.com,partinicolive.it,pescaralive.it,ravennawebtv.it,realtagenoana.it,romanews.eu,sardegnareporter.it,stylo24.it,toscananotizie.com,trapanisi.it,tusciaup.com,vaielettrico.it,valbrembanaweb.com##.td-a-rec
 ivl24.it##.td-all-devices
-ilprimatonazionale.it##.td-banner-bg
+artribune.com,ilprimatonazionale.it##.td-banner-bg
 edagricole.it##.td-banner-footer
 01net.it,dolcegiornale.it,edagricole.it,ilgiornaledelserramento.it,ristorantiweb.com,sicurezzamagazine.it##.td-banner-wrap-full
 bologna24ore.it,calciofemminileitaliano.it,calciomercato.it,cronacadiverona.com,elettronicanews.it,ferrara24ore.it,forli24ore.it,gametimers.it,gamingtoday.it,phonetoday.it,radioradio.it,ravenna24ore.it,rimininews24.it,romagiallorossa.it,romagna24economia.it,rovigo24ore.it,secondamanoitalia.it,tecnoandroid.it##.td-container-header
