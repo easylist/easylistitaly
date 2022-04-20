@@ -1544,6 +1544,7 @@ corriereproposte.it##.eventi_associati
 exibart.com##.exibart-footer-partner
 exibart.com##.exibart-footer-partner-title
 pornototale.com##.exo_container_wrapper
+milleunadonna.it,tiscali.it##.fade-slides
 giornaledibarga.it##.fascia-banner
 oroscopissimi.it##.fascione-display
 guidagrecia.net,guidaspagna.net##.fascione-display__inner
@@ -2379,6 +2380,7 @@ tvprato.it##.tp-banner-bar
 noitv.it##.track
 noinotizie.it##.tre-spazi
 radiocompany.com,radiowow.com##.trend-banner
+milleunadonna.it,tiscali.it##.tsPlWtTrk
 iltamtam.it##.tt-banner
 tvsportiva.it##.tvg-manager-box
 androidworld.it,mobileworld.it,smartworld.it##.tw-carousel
