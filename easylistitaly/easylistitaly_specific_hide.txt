@@ -2010,6 +2010,7 @@ vivafm.it##.qt-widget-sponsor
 lattacco.it##.quadrato
 quizammissione.it##.quiza-prima
 html.it##.rail-800
+rockol.it##.rckl-promo
 meteofinanza.com##.reading-box
 giardinaggio.it##.reattiva_x_90
 ispazio.net##.reclame
@@ -2700,6 +2701,7 @@ lavorincasa.it##div[class^="wbn-medium-"]
 lavorincasa.it##div[class^="wpb-bacheca-aziende"]
 lavorincasa.it##div[class^="wrapper-banner-"]
 autoscout24.it##div[data-item-name="finance-and-insurance"]
+rockol.it##div[data-track]
 stilenaturale.com##div[id="Banner_BIOOFFERTA"]
 inconcreto.net,ingenio-web.it,pavimenti-web.it##div[id^="Banner"]
 acquariocomefare.com##div[id^="acqua-"]
