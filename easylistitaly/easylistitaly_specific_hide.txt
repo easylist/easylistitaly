@@ -636,7 +636,7 @@ biellaoggi.it,casaleoggi.it,cuneooggi.it,piemonteoggi.it,vercellioggi.it###spons
 calciopotenza.eu,casertanafc.it###sponsors
 bolognasportnews.it,ilpallonegonfiato.com###sponsors-wrapper
 sassuolooggi.it###spospo
-stabiachannel.it###spot
+nexusedizioni.it,stabiachannel.it###spot
 zeusnews.it###spotEsterno
 animeclick.it###stile_link
 sportrentino.it###stit-link-sponsor
