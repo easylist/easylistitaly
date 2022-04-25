@@ -2324,6 +2324,7 @@ vivitelese.it##.tdi_72
 europacalcio.it##.tdi_75
 infocilento.it##.tdi_76
 rinnovabili.it##.tdi_88_884
+periodicodaily.com##.tdi_9
 tomshw.it##.teetee-embed
 telesud.it##.teles-header-banner
 positanonews.it##.testata
