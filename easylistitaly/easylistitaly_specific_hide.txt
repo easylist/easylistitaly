@@ -1060,7 +1060,7 @@ ebikecult.it,mtbcult.it##.banner-homepage-slider-728-90
 italiafruit.net##.banner-i
 vendingpress.it##.banner-image
 palermomania.it##.banner-images
-picenonews24.it,triestecafe.it##.banner-img
+abruzzoindependent.it,picenonews24.it,triestecafe.it##.banner-img
 cremona1.it,lacnews24.it##.banner-inner
 finanzaonline.com##.banner-inside-content
 ideawebtv.it##.banner-laterale-default
@@ -2479,6 +2479,7 @@ lagazzettamessinese.it##.widget_weptile-image-slider-widget
 apinsieme.it##.widget_wooslider_slideshow_slides
 vicenzanews.it##.wifiplaza
 tuttitalia.it##.wk
+abruzzoindependent.it##.wmain-banner
 bresciasat.it##.workspace__block--sponsor
 reflex-mania.com##.wp-block-buttons
 fitnesspalestra.org##.wp-block-product-on-sale
