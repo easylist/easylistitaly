@@ -2249,7 +2249,7 @@ gioconews.it##.tcvn-banner-item
 ivl24.it##.td-all-devices
 artribune.com,ilprimatonazionale.it##.td-banner-bg
 edagricole.it##.td-banner-footer
-01net.it,dolcegiornale.it,edagricole.it,ilgiornaledelserramento.it,ristorantiweb.com,sicurezzamagazine.it##.td-banner-wrap-full
+01net.it,01smartlife.it,dolcegiornale.it,edagricole.it,ilgiornaledelserramento.it,ristorantiweb.com,sicurezzamagazine.it##.td-banner-wrap-full
 bologna24ore.it,calciofemminileitaliano.it,calciomercato.it,cronacadiverona.com,elettronicanews.it,ferrara24ore.it,forli24ore.it,gametimers.it,gamingtoday.it,phonetoday.it,radioradio.it,ravenna24ore.it,rimininews24.it,romagiallorossa.it,romagna24economia.it,rovigo24ore.it,secondamanoitalia.it,tecnoandroid.it##.td-container-header
 radioradio.it##.td-fix-index
 amoreaquattrozampe.it##.td-footer-container
