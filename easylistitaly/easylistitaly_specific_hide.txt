@@ -598,7 +598,7 @@ vienormali.it###site-header-leaderboard
 allmusicitalia.it,corrieredellosport.it,epolisbari.com,familygo.eu,marigliano.net,tuttosport.com###skin
 movieplayer.it###skin-desktop
 artribune.com###skin-header-fragment
-crotoneok.it###skin_container
+alimentando.info,crotoneok.it###skin_container
 iovivoaroma.org###skin_link_dx
 iovivoaroma.org###skin_link_sx
 cronacheancona.it,cronachefermane.it,cronachemaceratesi.it###skinabove
@@ -2208,7 +2208,7 @@ prezzisalute.com##.stickyleft
 androidworld.it,mobileworld.it##.store-affiliation
 andreagaleazzi.com##.store-box
 abilitychannel.tv,fruitbookmagazine.it,nautica.it,tiburno.tv##.strack_bnr
-100ideeperristrutturare.it,bizjournal.it,calabria7.it,casa-naturale.com,comunicaffe.it,fruitbookmagazine.it,horecanews.it,nautica.it,primopianomolise.it,quattrozampe.online,radiomovida.net,radioradio.it,uominietrasporti.it,vendingnews.it,villeecasali.com##.strack_cli
+100ideeperristrutturare.it,alimentando.info,bizjournal.it,calabria7.it,casa-naturale.com,comunicaffe.it,fruitbookmagazine.it,horecanews.it,nautica.it,primopianomolise.it,quattrozampe.online,radiomovida.net,radioradio.it,uominietrasporti.it,vendingnews.it,villeecasali.com##.strack_cli
 cblive.it,filmpost.it,gazzettadellavaldagri.it,giornalenordest.it,ilcorriere.net,ilgolfo24.it,ilmoderatore.it,informazioneoggi.it,inter-news.it,ispazio.net,metropolitanmagazine.it,mole24.it,myreviews.it,occhionotizie.it,unaparolaperte.org##.stream-item
 filmtv.it##.streaming
 affaritaliani.it##.strillo-speciale3
@@ -2527,6 +2527,7 @@ fip.it##.zonafornitori
 nursetimes.org##AMP-IMG[width="320"][height="50"]
 lacnews24.it##[data-src^="https://ads.pubbliemme-adv.net/"]
 djmagitalia.com##[href^="http://www.djpoint.net/"]
+alimentando.info##a[aria-label^="Banner"]
 narnionline.com,ternieprovincia.com##a[class="banner_174"]
 narnionline.com,ternieprovincia.com##a[class="banner_392"]
 cineblog01.bid##a[class="imm"]
@@ -3049,7 +3050,7 @@ catanista.eu##img[width="270"][height="150"]
 catanista.eu##img[width="271"][height="179"]
 parmacalcio1913.com##img[width="280"][height="135"]
 iamnaples.it##img[width="280"][height="280"]
-24live.it,abruzzoweb.it,calciofoggia.it,campaniapress.it,catanista.eu,circusf1.com,clubdoria46.it,confinelive.it,dentrosalerno.it,divisionecalcioa5.it,formula1news.it,gamersarsenal.it,gazzettadelmediterraneo.it,ierioggidomani.it,ilgiornaledelticino.ch,ilgiornaledisalerno.it,italiasera.it,lafune.eu,larampa.it,lavorolazio.com,laziopress.it,link24.it,mantovauno.it,mondo-motori.it,nocerinalive.it,ondanews.it,partinicolive.it,radiompa.com,sicilianews24.it,startmag.it,tvoggisalerno.it,vercellinotizie.it,vesuviolive.it##img[width="300"]
+24live.it,abruzzoweb.it,alimentando.info,calciofoggia.it,campaniapress.it,catanista.eu,circusf1.com,clubdoria46.it,confinelive.it,dentrosalerno.it,divisionecalcioa5.it,formula1news.it,gamersarsenal.it,gazzettadelmediterraneo.it,ierioggidomani.it,ilgiornaledelticino.ch,ilgiornaledisalerno.it,italiasera.it,lafune.eu,larampa.it,lavorolazio.com,laziopress.it,link24.it,mantovauno.it,mondo-motori.it,nocerinalive.it,ondanews.it,partinicolive.it,radiompa.com,sicilianews24.it,startmag.it,tvoggisalerno.it,vercellinotizie.it,vesuviolive.it##img[width="300"]
 forum.passioneauto.it,ilmiocaneleggenda.it,ilmiogattoeleggenda.it,vocedimantova.it##img[width="300"][height="100"]
 newtuscia.it,spaziotennis.com##img[width="300"][height="150"]
 acquariocomefare.com,radioinblu.it##img[width="300"][height="171"]
