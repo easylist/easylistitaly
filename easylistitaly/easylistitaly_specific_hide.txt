@@ -364,7 +364,7 @@ mercatinomusicale.com###hdr_leaderboard
 rovigooggi.it###head-space
 cronachemaceratesi.it###head_sponsor
 beverfood.com###headbanner
-andriaviva.it,archiexpo.it,bariviva.it,barlettaviva.it,bisceglieviva.it,bitontoviva.it,canosaviva.it,cerignolaviva.it,coratoviva.it,giovinazzoviva.it,gravinalife.it,hotelmag.it,margheritaviva.it,medicalexpo.it,minervinoviva.it,modugnoviva.it,molfettaviva.it,nauticexpo.it,ruvoviva.it,sanferdinandoviva.it,serialgamer.it,spinazzolaviva.it,terlizziviva.it,traniviva.it,trinitapoliviva.it###header-banner
+andriaviva.it,archiexpo.it,bariviva.it,barlettaviva.it,bisceglieviva.it,bitontoviva.it,canosaviva.it,cerignolaviva.it,coratoviva.it,directindustry.it,giovinazzoviva.it,gravinalife.it,hotelmag.it,margheritaviva.it,medicalexpo.it,minervinoviva.it,modugnoviva.it,molfettaviva.it,nauticexpo.it,ruvoviva.it,sanferdinandoviva.it,serialgamer.it,spinazzolaviva.it,terlizziviva.it,traniviva.it,trinitapoliviva.it###header-banner
 radiomugello.it###header-banner-dx
 terraetradizione.com###header-banner468
 f1sport.it,informarea.it###header-right-section
