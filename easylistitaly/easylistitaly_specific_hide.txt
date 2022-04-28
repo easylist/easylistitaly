@@ -1577,7 +1577,7 @@ bluvolleyverona.it,chievoverona.it,hellasverona.it,hellasveronawomen.it##.footer
 nbv-verona.it##.footer-sponsor-line
 bresciacalcio.it,cagliaricalcio.com,olbiacalcio.com##.footer-sponsors
 foodaffairs.it##.footer-widget-area
-football-magazine.it,lavoraconnoi-italia.it,maremma.name##.footer-widgets
+football-magazine.it,iliberiprofessionisti.it,lavoraconnoi-italia.it,maremma.name##.footer-widgets
 fmtournament.it##.footer-widgets__inner
 winemag.it##.footer-wrapper
 imperatoreconsulting.eu##.footerBrand
