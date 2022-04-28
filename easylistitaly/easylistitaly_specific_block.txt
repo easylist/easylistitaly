@@ -3033,6 +3033,7 @@
 ||ornews.it^*/BCC-
 ||ornews.it^*_BANNER_
 ||orologiepassioni.com/banner/
+||orologioblog.net/wp-content/uploads/banner/
 ||oroscopo.life/banner
 ||oroscopogiorno.it/mondo300.jpg
 ||ortodacoltivare.it^*/990x200_
