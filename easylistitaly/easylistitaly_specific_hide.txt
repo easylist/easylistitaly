@@ -2294,7 +2294,7 @@ radiocl1.it##.tdi_13
 volleynews.it##.tdi_131
 finanzanow.com##.tdi_132
 imiglioridififa.com##.tdi_134
-jamma.tv##.tdi_136
+cityrumors.it,jamma.tv##.tdi_136
 radiocl1.it##.tdi_14
 jamma.tv##.tdi_144
 tipresentoilcane.com##.tdi_153_158
