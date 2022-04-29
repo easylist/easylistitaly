@@ -4140,6 +4140,7 @@
 ||tempoitalia.it/banner/
 ||temporeale.info^*/Banner-
 ||tenews.it/banner/
+||tennismarche.net/images/banners/
 ||ternieprovincia.com/images/banner/
 ||terninrete.it^*-banner.
 ||terninrete.it^*/450x450_
