@@ -1568,7 +1568,7 @@ rockol.it##.flex.\-mx-2.items-start.p-4
 beneventocalcio.it,podisti.net##.flexbannergroup
 sassuolooggi.it##.flexslider
 marsicalive.it##.fmhb-container
-brianzaweb.com,corriereelorino.it##.fn-header-banner
+brianzaweb.com,corriereelorino.it,wallnews24.it##.fn-header-banner
 focus.it##.foc-coupon
 udinese.it##.foobar-sponsor
 animaliconla.it##.footer-banner
@@ -1824,7 +1824,7 @@ winenews.it##.manchette_r
 orologipertutti.it##.masonry_grid_fullwidth
 everyeye.it##.masted
 stellafm.it##.master-slider
-irpinianews.it##.master-slider-parent
+irpinianews.it,wallnews24.it##.master-slider-parent
 ecoo.it##.masterhead-container-column
 eurochampions.it,fiorentinanews.com,genoanews1893.it,lalaziosiamonoi.it,perugia24.net,pianetabasket.com,tuttofrosinone.com,tuttonocerina.com,tuttoturris.com,tuttoveneziasport.it##.masthead
 zon.it##.masthead-block
@@ -2938,6 +2938,7 @@ motorionline.com##div[style="text-align:center;margin-bottom:20px;height:360px;o
 grandangoloagrigento.it##div[style="text-align:center;padding-bottom: 10px; min-height: 290px"]
 click4soccer.com##div[style="width: 100%; height: 90px; text-align: center; margin: 10px 0px;"]
 click4soccer.com##div[style="width: 100%; height: 90px; text-align: center; margin: auto; margin: 5px 0px;"]
+wallnews24.it##div[style="width: 150px; height: 200px;"]
 libero.it##div[style="width: 180px; height: 150px;"]
 m.lalaziosiamonoi.it,m.messinanelpallone.it##div[style="width: 300px; height: 250px; margin: 10px auto;"]
 poki.it##div[style="width: 300px; height: 250px;"]
@@ -2979,6 +2980,7 @@ adessoin.tv##div[style="width:970px; height:250px; margin:20px auto; float:left;
 milannews.it,politicanews.it##div[style="width:970px; min-height: 250px;"]
 thegamesmachine.it##div[style="width:970px;height:250px;margin: 0 auto 5px;"]
 lavorareallestero.it##div[style^="height:280px; width:357px;"]
+wallnews24.it##div[style^="position:fixed;top:0;bottom:0;left:0;right:0;z-index:0; background-image:url"]
 libero.it,mbnews.it,oroscopoastra.com,tp24.it##div[style^="width: 300px; height: 250px;"]
 gelocal.it##div[style^="width: 300px;height: 80px;border:"]
 gazzettaconcorsi.eu##div[style^="width: 728px; height: 90px;"]

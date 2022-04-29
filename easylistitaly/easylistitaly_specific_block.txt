@@ -4709,6 +4709,7 @@
 ||vwgolfcommunity.com/banner/
 ||vwgolfcommunity.com/sponsor/
 ||wallis24.it/images/banner/
+||wallnews24.it/wp-content/uploads/*-pubblicita-
 ||we-news.com/images/banners/
 ||weareblog.it^*/OtticaSMADV-
 ||webhostingmagazine.it^*/keliweb-
