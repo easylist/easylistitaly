@@ -79,6 +79,8 @@ toscanalibri.it###banner-home
 mondocalcionews.it###banner-laterale-headerbidding
 canavesenews.it###banner-left-bottom
 canavesenews.it###banner-left-top
+rpiunews.it###banner-slider
+rpiunews.it###banner-testata
 cuneocronaca.it,larivieraonline.com,oggitreviso.it,piccolenote.ilgiornale.it,superscudetto.it###banner-top
 canavesenews.it,courmayeurnews.it,torinonews24.it###banner-top-container
 cataniapubblica.tv,rid.it###banner1
@@ -1033,6 +1035,7 @@ welfarenetwork.it##.banner-468-hp
 movieforkids.bestmovie.it##.banner-660x90
 notetralerighe.it##.banner-amazon-music
 parmareport.it##.banner-big
+rpiunews.it##.banner-body
 ligurianautica.com##.banner-box
 universodelgioco.it##.banner-btf-side-rectangle
 grandenapoli.it##.banner-btn
@@ -1469,6 +1472,7 @@ gamesource.it##.div-85019
 cuneodice.it,genovadice.it,italiadice.it,torinodice.it##.div_banner
 laleggepertutti.it##.div_topbanner
 portadimare.it,saliinvetta.com##.djslider
+rpiunews.it##.djslider-loader
 ridble.com##.dn
 ilgeniodellostreaming.icu,tantifilm.stream##.download-links
 bolzano-bozen.it##.dt
