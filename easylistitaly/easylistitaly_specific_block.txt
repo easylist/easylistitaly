@@ -1221,6 +1221,7 @@
 ||euroregionalpmed.eu/img/banner/
 ||euroregionalpmed.eu/js/clickBanner_
 ||eurostreaming.bar/gcode.js
+||eurostreaming.cfd/gcode.js
 ||eurostreaming.click/gcod.js
 ||eurostreaming.fyi/300.gif
 ||eurostreaming.fyi/728.gif
@@ -5034,7 +5035,7 @@
 ||stgy.ovh/~shared/images/d_a/
 ||today.it/~shared/cgi-bin/d_a/
 !
-/^https?:\/\/[0-9a-z]{8,}\.com\/.*/$third-party,domain=animeforce.it|eurostreaming.voyage|ilgeniodellostreaming.bar|nuovoindirizzo.com
+/^https?:\/\/[0-9a-z]{8,}\.com\/.*/$third-party,domain=animeforce.it|eurostreaming.cfd|eurostreaming.voyage|ilgeniodellostreaming.bar|nuovoindirizzo.com
 ! (/sw.js)
 /^https?:\/\/.*\/.*sw[0-9._].*/$script,domain=dundi.it|pornototale.com|skip.li
 !
