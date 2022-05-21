@@ -563,6 +563,7 @@ occhionotizie.it###prj_300x250_sidebar_atf
 occhionotizie.it###prj_728x90_atf
 eurogamer.it###prod-buy
 estrazionedellotto.it,superenalotto.com###promobanner
+goaldiretta.it###pscroller1
 flashgames.it###pub_sotto
 voce.it###publiredazionale
 tuttitalia.it###qh
