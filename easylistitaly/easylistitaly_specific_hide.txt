@@ -3,6 +3,7 @@ nauticareport.it###BanCenter
 nauticareport.it###BanLeft
 lantidiplomatico.it###BanRight
 nauticareport.it###BanTop
+direttagol.one###Banner
 staffettaonline.com###BnrSolidarieta
 trend-online.com###CONT_T
 flashgames.it,scambieuropei.info,soldioggi.it,tesionline.it###C_1
