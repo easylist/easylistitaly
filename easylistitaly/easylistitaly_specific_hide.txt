@@ -1941,6 +1941,7 @@ cronacaossona.com##.oplas5paragrafo
 cronacaossona.com##.oplaswidget
 italiacashback.com##.opt
 milanocam.it##.overcam_advertising
+parmakids.it##.overheader-sidebar
 meteofinanza.com##.overlay-buttons
 meteofinanza.com##.overlay-text
 amalfinews.it,cetaranews.it,ilgiornaleoff.it,ilportico.it,ilvescovado.it,liratv.it,occhisusalerno.it,positanonotizie.it,ravellonotizie.it,reportageonline.it,sslazionuoto.it##.owl-carousel
