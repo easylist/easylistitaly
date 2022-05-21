@@ -1087,6 +1087,7 @@ ligurianautica.com##.banner-skin-link
 universodelgioco.it##.banner-sky
 courmayeurnews.it##.banner-slide
 canavesenews.it,torinonews24.it##.banner-slider
+laragione.eu##.banner-sopra-correlati
 qualenergia.it##.banner-space
 vienormali.it##.banner-testata
 edicoladigitale.info,forum.telefonino.net,frasimania.it,giornaledibarga.it,matrimonio.com,superenalotto.com##.banner-top
