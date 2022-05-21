@@ -1004,6 +1004,7 @@ supercoin.it##.atla-card-link
 radiogold.it##.autobanner
 subito.it##.autopromo
 uspistoiese1921.it##.av-partner-fake-img
+direttasport24.com##.avia-builder-el-5
 ciaoporno.it##.aviso
 gamelegends.it##.awac-wrapper
 reggionline.com##.ays-pb-modal
@@ -2248,6 +2249,7 @@ criptovalute24.com,diventaretrader.com,mercati24.com##.table-alm
 molecularlab.it##.table-riq > a[href^="http://tracker.tradedoubler.com/"]
 bottadiculo.it##.table3bonus
 bottadiculo.it##.table3bonus-side
+direttasport24.com##.tablebutton[href="https://www.direttasport24.com/leovegas-bonus-di-benvenuto"]
 ilpost.it##.tag-branded
 ilpost.it##.tag-sponsored
 videosesso.com##.tagsection
