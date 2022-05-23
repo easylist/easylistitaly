@@ -364,6 +364,8 @@ videogiocare.it###gp-affiliate-button
 cookaround.com###gpt-300250-container
 orvietonews.it###gpt-passback
 mercatinomusicale.com###hdr_leaderboard
+operaclick.com###head-left-banner
+operaclick.com###head-right-banner
 rovigooggi.it###head-space
 centrometeoitaliano.it###head_skin_placeholder
 cronachemaceratesi.it###head_sponsor
@@ -505,6 +507,7 @@ grossetonotizie.com,ultimenotizieoggi.it###media_video-2
 laquilablog.it###media_video-4
 laquilablog.it###media_video-8
 laquilablog.it###media_video-9
+operaclick.com###menu-banner
 umbriajournal.com###mh_magazine_custom_posts-17
 castellinotizie.it###mh_magazine_posts_horizontal-2
 catanzaro7.net###mh_magazine_youtube-3
@@ -3039,6 +3042,7 @@ volleyball.it##img[height="81"][width="700"]
 stabiachannel.it##img[height="85px"][width="170px"]
 volleyball.it##img[height="886"][width="886"]
 liguriaoggi.it##img[height="90"][width="728"]
+operaclick.com##img[style="width: 300px; height: 300px;"]
 salernitananews.it##img[style="width: 300px;"]
 tunews24.it##img[style="width:300px; height:250px"]
 salernitananews.it##img[style^="width: 315px;"]
