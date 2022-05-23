@@ -229,6 +229,7 @@
 ||angrinews.com^*/ComentaleOK.jpg
 ||animalinelmondo.com/images/banner/
 ||animeclick.it/Banners/
+||animeclick.it/immagini/campagna/skin-
 ||animeemanga.it/banner_
 ||animeemanga.it^*-prime-video-288x360.
 ||annuariodelcinema.it^*/banner-
