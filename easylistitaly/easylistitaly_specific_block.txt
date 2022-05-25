@@ -4086,7 +4086,8 @@
 ||telecitynews24.it^*/telecity-ad-platform/
 ||telediogene.it/images/banner/
 ||telefonino.net^*/justearntn.js
-||telefriuli.it^*/GetBanners?
+||telefriuli.it/BannerDisplayCounter.ashx?
+||telefriuli.it/WS/Get.asmx/GetBanners?
 ||telegenova.net/a.png
 ||telegenova.net/banner_
 ||telegenova.net/gruppo_spinelli.jpg
