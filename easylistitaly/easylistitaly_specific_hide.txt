@@ -1382,7 +1382,7 @@ internews24.com,reportpistoia.com##.code-block-18
 cagliarinews24.com,internews24.com,lazionews24.com,reportpistoia.com##.code-block-19
 calcionews24.com,juventusnews24.com,keblog.it,mangiabevigodi.it,milanocittastato.it##.code-block-2
 fisco7.it,ok-salute.it##.code-block-29
-avvisatore.com,cinquecolonne.it,mangiabevigodi.it,milanocittastato.it,nursetimes.org,reportpistoia.com##.code-block-3
+avvisatore.com,cinquecolonne.it,mangiabevigodi.it,milannews24.com,milanocittastato.it,nursetimes.org,reportpistoia.com##.code-block-3
 ok-salute.it##.code-block-33
 ok-salute.it##.code-block-34
 ok-salute.it##.code-block-35
