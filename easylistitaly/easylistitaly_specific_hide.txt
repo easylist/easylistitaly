@@ -335,6 +335,7 @@ calciomercato.com###float-sidebar-inner
 finaria.it###floatingbanner
 varesesport.com###floorsunrise
 termolionline.it###flyersHome
+fantamaster.it###fmstickybannercontainer
 vivilanotizia.it###fondosito
 mondocalcionews.it###footer-banner-desktop
 mondocalcionews.it###footer-banner-mobile
