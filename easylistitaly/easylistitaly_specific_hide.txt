@@ -162,7 +162,7 @@ foggiapost.com,meridiananotizie.it###block-13
 foggiapost.com###block-14
 meridiananotizie.it,mobileblogger.it###block-15
 cronacaossona.com###block-2
-meridiananotizie.it,stranieriinitalia.it,trileggo.it###block-3
+meridiananotizie.it,siamolaroma.it,stranieriinitalia.it,trileggo.it###block-3
 telelazionord.it###block-58
 meridiananotizie.it###block-9
 giornaledellamusica.it###block-adv
