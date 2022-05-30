@@ -2029,6 +2029,7 @@ pescaralive.it##.pwrq-container
 amorethailandia.com##.qAduM1TI
 qdpnews.it##.qdpne-target
 romasette.it##.qgbednp
+ssvbozenhandball.it##.qodef-e-logo > img[height="80"]
 quotidianosanita.it##.qs_n_interno_basso
 italiana.fm,radiobussola.it,radiomessinasud.com##.qt-sponsors
 vivafm.it##.qt-widget-sponsor
