@@ -2204,6 +2204,7 @@ acfontemeravigliosa.it,alfamasera.it,asdcmozzo.it,asdeasytennis.it,asdfrentania.
 aquilabasket.it##.sponsors-carousel
 legabasket.it##.sponsors-cont
 sslazio.it##.sponsors_tabs
+sportclub-meran.it##.sponsorslider
 hceppan.it##.sportnews
 avvenire.it##.spot
 archilovers.com##.spot-homepage
