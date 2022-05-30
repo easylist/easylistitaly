@@ -19,6 +19,7 @@ bakeca-incontri.net#@#.adtitle
 abilitychannel.tv#@#.adv-skin
 altervista.org#@#.adv_esterno
 ilbaratto.com#@#.jquery-script-ads
+radioalfalab.it#@#.penci-adsense-below-slider
 tuttoaffari.com#@#.top-ad
 orvieto24.it#@#.vl-header-ads
 orvieto24.it#@#.widget_viral_advertisement
