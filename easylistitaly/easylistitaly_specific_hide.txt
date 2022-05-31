@@ -391,6 +391,7 @@ rovigooggi.it###home-pbreak-space
 transfermarkt.it###home-rectangle-newsticker
 transfermarkt.it###home-rectangle-spotlight
 rovigooggi.it###home-super-space
+corsedimoto.com###homeAside > div[style="height:600px"]
 adirai.it###home_top
 centrometeoligure.com###hometop
 telegolfo.com###html_javascript_adder-16
@@ -1846,7 +1847,7 @@ stellafm.it##.master-slider
 irpinianews.it,wallnews24.it##.master-slider-parent
 ecoo.it##.masterhead-container-column
 eurochampions.it,fiorentinanews.com,genoanews1893.it,lalaziosiamonoi.it,perugia24.net,pianetabasket.com,tuttofrosinone.com,tuttonocerina.com,tuttoturris.com,tuttoveneziasport.it##.masthead
-zon.it##.masthead-block
+corsedimoto.com,zon.it##.masthead-block
 ilgiorno.it,ilrestodelcarlino.it,iltelegrafolivorno.it,lanazione.it,notizie-inter.it,quotidiano.net##.masthead-container
 screenweek.it##.matches-container
 automoto.it##.mawrap
