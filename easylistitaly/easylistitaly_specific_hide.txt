@@ -1926,6 +1926,7 @@ everyeye.it##.nome_gioco_amazon_destra
 atalantalive.it,gazzaviola.it,ilsalottodelcalcio.it,junews.it,lazionews.eu,magiconapoli.it,nerazzurrisiamonoi.it,romanistaweb.it,rossonerisiamonoi.it##.nostro-banner
 viaggi-usa.it##.notabene
 tuttotrasporti.it##.notizieSponsorizzate
+torinonews24.it##.nuovo
 dailybest.it##.nuovobanner
 empolifc.com##.o-section--promo
 loccidentale.it##.occ-banner__sidebar
@@ -2453,6 +2454,7 @@ sassaritorresfemminile.it##.vc_custom_1632153448688
 sienanews.it##.vc_custom_1644225696750
 abruzzoweb.it##.vc_custom_1650878879784
 uscatanzaro.net##.vce-featured-header-background
+torinonews24.it##.vecchio
 ebay.it##.vi-lb-placeholder
 pornoitaliano.com##.video-block-happy-absolute
 diventarehacker.it##.videocourseHeader
