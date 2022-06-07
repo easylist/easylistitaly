@@ -123,6 +123,7 @@
 ||infomaniak.ch/promotional/$third-party
 ||insicilia.com/banner/
 ||insicilia.com/modules/psaffiliate/
+||instagram.com/p/CYQuJ7NNwey/$domain=pianetalecce.it
 ||investimenti.bnpparibas.it^$domain=trend-online.com
 ||iolam.it/js/easyBid.js
 ||ipercast.net/uploads/sponsors/

@@ -1427,6 +1427,7 @@ portoravennanews.com##.container-banner
 tiburno.tv##.container-skin
 tuttiprezzi.it##.container.basso
 salernogranata.it##.container.text-center
+pianetalecce.it##.container.text-center.my-4
 tiscali.it##.container_b_1
 esselungaacasa.it##.container_sponsored_product
 frasimania.it##.content-banner
@@ -2360,6 +2361,7 @@ tomshw.it##.teetee-embed
 telesud.it##.teles-header-banner
 positanonews.it##.testata
 annunci69.it##.testoracc2
+pianetalecce.it##.text-center.my-4
 teleaesse.it##.text-left
 teleaesse.it##.text-right
 circusf1.com##.textwidget + a[href^="https://www.ansa.it/codici-sconto/"]
