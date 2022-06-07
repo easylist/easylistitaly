@@ -2266,6 +2266,7 @@ ilpost.it##.tag-branded
 ilpost.it##.tag-sponsored
 videosesso.com##.tagsection
 bitquotidiano.it##.takeover
+tvserial.it##.tax-placement-center
 ilsoftware.it##.tb_widget_as300
 superscommesse.it##.tbl-table
 agrodolce.it,autoblog.it,bebeblog.it,blogo.it,borse.it,calcioblog.it,cineblog.it,ecoblog.it,fashionblog.it,finanzaonline.com,gossipblog.it,greenstyle.it,html.it,melablog.it,motoblog.it,pinkblog.it,pmi.it,soundsblog.it,studentville.it,tvblog.it,wallstreetitalia.com,webnews.it##.tbm-code
