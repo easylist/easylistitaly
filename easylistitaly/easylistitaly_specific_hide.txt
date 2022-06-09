@@ -1218,6 +1218,7 @@ reggiosera.it##.betulla-box
 bikeitalia.it,ifood.it##.bg-banner
 telenord.it##.bg-link
 vivoconbenessere.it##.bg.landscape
+giornaletrentino.it##.bg300x250
 nuovosud.it##.bg_skin
 laprovinciacr.it##.bgbanner
 ilsicilia.it##.bibo
@@ -1875,6 +1876,7 @@ sestonotizie.it##.mh-banner
 filmforlife.org##.mh-footer
 castellinotizie.it,catanzaro7.net,nerdevil.it##.mh-header-widget-2
 automoto.it##.mhwrap
+giornaletrentino.it##.middle2
 meteoeradar.it##.min-height
 tvdigitaldivide.it##.mioadv
 automoto.it,moto.it##.mit-skin-spacer
@@ -2553,6 +2555,7 @@ lavorincasa.it##.wrapper-sider-bacheca-aziende
 lavorincasa.it##.wrapper-widget-box-prodotti-sider
 hwupgrade.it##.wrapper-xyz
 autobelle.it##.xdad
+giornaletrentino.it##.yb-sticky
 giochimahjong.it##.ympb_target_banner
 ornews.it##.youtube_adv_alert
 rivistanatura.com##.zcx
