@@ -1244,6 +1244,7 @@ ilroma.net##.block-rotating-banner
 legapallacanestro.com##.block-sponsor-e-partners
 lantidiplomatico.it##.block-wrapper-banner
 dissapore.com,pourfemme.it,punto-informatico.it,sportal.it,telefonino.net##.blz-url
+punto-informatico.it##.blz_aff_gen_button
 giornal.one##.bn-header
 ilquotidianoditalia.it##.bn-lg
 farmaciaditurno.it,giornal.one##.bn-lg-sidebar
