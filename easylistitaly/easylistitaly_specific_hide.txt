@@ -2189,7 +2189,7 @@ lifegate.it##.special-contents
 gay.it,pgcasa.it##.speciale
 radiogamma.it##.spo
 comingsoon.it##.sponPro
-acsi.it,asinazionale.it,bebeez.it,bolzano-bozen.it,europages.it,fip.it,fortitudobaseball.it,girovagandointrentino.it,ilmonferrato.it,imperiatv.it,ioarte.org,legab.it,noitv.it,olimpiamilano.com,repubblica.it,stickmangames.altervista.org,torinometeo.org##.sponsor
+acsi.it,asinazionale.it,bebeez.it,bolzano-bozen.it,europages.it,fip.it,fortitudobaseball.it,girovagandointrentino.it,ilmonferrato.it,imperiatv.it,ioarte.org,legab.it,noitv.it,olimpiamilano.com,rendimentibtp.it,repubblica.it,stickmangames.altervista.org,torinometeo.org##.sponsor
 cagliarilivemagazine.it##.sponsor-associati
 luinonotizie.it##.sponsor-background-big
 pallacanestrotrieste.it##.sponsor-carousel

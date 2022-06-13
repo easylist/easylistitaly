@@ -3573,6 +3573,7 @@
 ||reggioemiliameteo.it^*/banner/
 ||reggionline.com/yb-reggionlinecom.js
 ||reggiotv.it/immagini/banner/
+||rendimentibtp.it/sponsor/
 ||reportageonline.it^*/banner-
 ||reporter.it^*-banner-
 ||reporter.it^*-banner.
