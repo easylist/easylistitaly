@@ -2689,7 +2689,7 @@ padovasport.tv##a[href^="https://www.aliperme.it/"]
 gamelegends.it##a[href^="https://www.amazon.it/"] > img
 iobenessere.it##a[href^="https://www.amazon.it/shop/"]
 tuttoamerica.it##a[href^="https://www.anrdoezrs.net/click-"]
-beautytester.it,digital-news.it,gufo.it,msn.com,neomag.it,partiteoggi.net,salutarmente.it,terrazzofacile.it##a[href^="https://www.awin1.com/"]
+beautytester.it,digital-news.it,gufo.it,msn.com,neomag.it,partiteoggi.net,petrolioggi.it,salutarmente.it,terrazzofacile.it##a[href^="https://www.awin1.com/"]
 amorethailandia.com,ideeviaggio.it,ioviaggiblog.it,maremma.name,monzanet.it,turistadimestiere.com,tuttobaviera.it,vacanzeinamerica.eu,viaggi-lowcost.info,viaggio-in-germania.de##a[href^="https://www.booking.com/"]
 fumettologica.it,stilearte.it##a[href^="https://www.catawiki.it"][href*="?utm_"]
 milleunadonna.it,tiscali.it##a[href^="https://www.ebay.it/"][href*="?mkcid="]
