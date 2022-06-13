@@ -562,6 +562,7 @@
 ||birramoriamoci.it^*/Fatti-una-birra.gif
 ||birramoriamoci.it^*/prime-300x140.png
 ||birramoriamoci.it^*/regalli-birra-
+||bitmat.it/wp-content/uploads/*/1490x1000_
 ||bitmat.it^*/skin_
 ||bitmat.it^*_Skin-
 ||bitquotidiano.it^*/1fd5de87-f250-4006-8eb7-9b016f387bac.jpeg
