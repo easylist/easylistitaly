@@ -1308,6 +1308,8 @@ destinioltreconfine.com##.boxbanner600
 caneogolf.it##.boxbannerhome
 pneusnews.it##.boxes
 ricettedigusto.info##.boxslot
+clubdoria46.it##.boxzilla
+clubdoria46.it##.boxzilla-overlay
 sscnapoli.it##.brand
 qlash.gg##.brand-item
 tvserial.it##.break-adv
