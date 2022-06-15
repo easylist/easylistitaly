@@ -2323,7 +2323,7 @@ radiocl1.it##.tdi_12
 etvmarche.it##.tdi_121
 etvmarche.it##.tdi_124
 volleynews.it##.tdi_127
-radiocl1.it##.tdi_13
+monza-news.it,radiocl1.it##.tdi_13
 volleynews.it##.tdi_131
 finanzanow.com##.tdi_132
 imiglioridififa.com##.tdi_134
@@ -2340,6 +2340,7 @@ ilgiornaledelticino.ch##.tdi_20
 runlovers.it##.tdi_240
 esportclub.gg##.tdi_24_f9b
 finanzanow.com##.tdi_253
+monza-news.it##.tdi_29
 runlovers.it##.tdi_301
 ilgiornaledelticino.ch##.tdi_31
 ilgiornaledelticino.ch##.tdi_33
