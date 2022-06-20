@@ -349,6 +349,7 @@
 ##.widget_n1ad
 ##.wl_WidgetRel_Sponsor
 ##.wl_WidgetRel_Sponsor1
+##.yobee-adv
 ##.yobee-lazyadv
 ##a[href*=".linksita2017.com/"]
 ##a[href*=".offerte2019.store/"]
