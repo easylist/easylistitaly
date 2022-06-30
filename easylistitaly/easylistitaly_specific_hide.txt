@@ -952,6 +952,7 @@ agi.it##.agi-ad-wrap
 edagricole.it##.agriaffaires
 chiamamicitta.it,filodirettomonreale.it##.ai-rotate
 ilgiornaleditrani.net##.ai-rotate-option
+pc-gaming.it##.ai-track
 chiamamicitta.it,cityrumors.it,direttasicilia.it,noisiamoagricoltura.com,tantasalute.it,velvetgossip.it##.ai-viewport-1
 petitchef.it##.akcelo-wrapper
 pagare.online##.alert.alert-success
@@ -1508,7 +1509,7 @@ euractiv.it##.ea-gat-slot-wrapper
 sicilia24h.it##.edgtf-position-right
 bergamonews.it##.edinews_widget_friends-3
 genova24.it##.edinews_widget_post_from_terms
-bsnews.it,evosmart.it,ilvideogamepost.blog,mialleno.it,pc-gaming.it,stile.it,ufficiospettacoli.it##.egg-container
+bsnews.it,evosmart.it,ilvideogamepost.blog,mialleno.it,stile.it,ufficiospettacoli.it##.egg-container
 regaliperfetti.it##.egg_grid
 regaliperfetti.it##.egg_sort_list
 beneficicurcuma.it##.elementor-cta
@@ -1796,7 +1797,7 @@ huffingtonpost.it##.leaderboard-flex-placeholder
 ilgiorno.it,ilrestodelcarlino.it,iltelegrafolivorno.it,lanazione.it,quotidiano.net##.leaderboard-or-skin-container
 infobuildenergia.it##.leaderboard_wrapper
 lafune.eu##.left-banner-block
-lacnews24.it,pc-gaming.it##.left-side
+lacnews24.it##.left-side
 fotografareindigitale.com##.lepopup-element
 fotografareindigitale.com##.lepopup-popup-overlay
 lerosa.it##.leros-widget
@@ -2074,7 +2075,7 @@ webpointzero.com##.rh_listoffers
 ilclubdellericette.it##.ricetta-amazon
 ilclubdellericette.it##.ricetta__prodotti
 estrazionedellotto.it##.right
-lacnews24.it,pc-gaming.it##.right-side
+lacnews24.it##.right-side
 ilroma.net##.rotating-banner
 ecodallecitta.it##.rotobanner
 formula1.it##.row > a[href^="https://casinohex.it/"]
@@ -2547,7 +2548,7 @@ golfpiu.it##.wpmoneyclick_template_amz_simil_footer
 advister.it,vitaminanews.it##.wpmoneyclick_template_prices_comp
 best5.it##.wpmoneyclick_template_product-card
 tuttoapp-android.com##.wpmoneyclick_template_simple_button
-golfpiu.it,pc-gaming.it,razzedicani.net,simonemaestri.com##.wpmoneyclick_template_single-product
+golfpiu.it,razzedicani.net,simonemaestri.com##.wpmoneyclick_template_single-product
 corriereelorino.it##.wps-bt-background-takeover-id
 allertaprivacy.it##.wpsm_promobox
 calciomercato.napoli.it##.wptb-cell
@@ -2620,7 +2621,7 @@ abruzzoweb.it##a[href*="/go.php?"]
 cartedipagamento.com,connessionivpn.it,migliorisitistreaming-hd.blogspot.com,pronosticideiguerrieri.it,vivasicilia.com##a[href*="/go/"]
 cineblog01.bid##a[href*="/guarda4k.php"]
 cineblog01.bid##a[href*="/guardafilm/"]
-adginforma.it,agricultura.it,altomantovanonews.it,autobusweb.com,citynow.it,corriereromagna.it,firstonline.info,fortuneita.com,friulioggi.it,galluraoggi.it,giornaledelcilento.it,giornalelavoce.it,ilcarmagnolese.it,ilreventino.it,infocilento.it,iocaccio.it,lagenziadiviaggi.it,latinacorriere.it,latinaquotidiano.it,lavocetorino.it,leggilanotizia.it,mantovasport24.it,mantovauno.it,oltrepomantovanonews.it,pc-gaming.it,piuchepuoi.it,siracusaoggi.it,sprintesport.it,tecnicadellascuola.it,triesteallnews.it,veronaoggi.it,viaggioff.it##a[href*="/linkout/"]
+adginforma.it,agricultura.it,altomantovanonews.it,autobusweb.com,citynow.it,corriereromagna.it,firstonline.info,fortuneita.com,friulioggi.it,galluraoggi.it,giornaledelcilento.it,giornalelavoce.it,ilcarmagnolese.it,ilreventino.it,infocilento.it,iocaccio.it,lagenziadiviaggi.it,latinacorriere.it,latinaquotidiano.it,lavocetorino.it,leggilanotizia.it,mantovasport24.it,mantovauno.it,oltrepomantovanonews.it,piuchepuoi.it,siracusaoggi.it,sprintesport.it,tecnicadellascuola.it,triesteallnews.it,veronaoggi.it,viaggioff.it##a[href*="/linkout/"]
 supercoin.it##a[href*="/out/"]
 tantifilm.center##a[href*="/premium-download.php"]
 ilgiallorosso.com##a[href*="/pubblicita/"]
@@ -2664,6 +2665,8 @@ markos.it##a[href^="http://www.bookings.net/"]
 voyagetips.com##a[href^="http://www.rentalcars.com/?affiliateCode="]
 rietilife.com##a[href^="http://www.rietilife.com?pasID="]
 outcast.it##a[href^="http://www.tostadora.it/t-shirt-nerd.php?"]
+pc-gaming.it##a[href^="https://amzn.to/"] > img
+pc-gaming.it##a[href^="https://bit.ly/"] > img
 trattamentinaturalibio.it##a[href^="https://c.mtpc.se/"]
 golbym.com##a[href^="https://casinostudio3000.com/"]
 albengacorsara.it,campaniameteo.it,germania.info,librierecensioni.com,macitynet.it,partiteoggi.net,tuttoamerica.it,viaggio-in-germania.de,voyagetips.com##a[href^="https://clk.tradedoubler.com/"]
@@ -2740,7 +2743,6 @@ quotidianodiragusa.it##div[class^="banner_"]
 fiorentinanews.com##div[class^="extendedwopts-"]
 lavorincasa.it##div[class^="large-leaderboard"]
 lavorincasa.it##div[class^="medium-rectangle"]
-pc-gaming.it##div[class^="pcgaming-"]
 lavorincasa.it##div[class^="rapper-banner-footerbanner"]
 milleunadonna.it,tiscali.it##div[class^="shp-"]
 padelmagazine.it##div[class^="uk-background"]

@@ -489,12 +489,8 @@
 ||avvisatore.com^*_adv_
 ||avvisatoredellevante.com^*/unnamed.jpg
 ||aziendabanca.it/images/fintech_tribu_
-||b-cdn.net^*-728x50-$domain=pc-gaming.it
-||b-cdn.net^*/840.jpg$domain=pc-gaming.it
-||b-cdn.net^*/Banner-$domain=pc-gaming.it
 ||b-cdn.net^*/GetResponse-sidebar.jpg$domain=assistenzawponline.it
 ||b-cdn.net^*/sg_69.jpg$domain=assistenzawponline.it
-||b-cdn.net^*_300x200.$domain=pc-gaming.it
 ||badtaste.it/file/amazon/
 ||bagherianews.com/images/banners_
 ||bagherianews.com/images/Webp.net-gifmaker-
@@ -3110,7 +3106,6 @@
 ||passioneauto.it^*/banner-
 ||passioneauto.it^*/pezzidiricambio24_
 ||passionemaglie.it^*/banner-
-||pc-gaming.it^*=aa-server-
 ||peopleforplanet.it/tools/stradaalternativa.html
 ||peopleforplanet.it/tools/stradaalternativa_v.html
 ||perotorino.it/images/banners/
