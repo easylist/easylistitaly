@@ -2531,7 +2531,7 @@ bresciasat.it##.workspace__block--sponsor
 reflex-mania.com##.wp-block-buttons
 fitnesspalestra.org##.wp-block-product-on-sale
 jotv.it##.wp-caption.alignnone
-amoreperleserietv.com,vaurosenesi.it##.wpa
+amoreperleserietv.com,massimoemanuelli.com,vaurosenesi.it##.wpa
 itvonline.news##.wpb_gallery
 radiomarte.it##.wpb_revslider_element
 tuttotek.it##.wpb_wrapper > a[href^="https://www.amazon.it/"]
