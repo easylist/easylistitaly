@@ -2665,6 +2665,7 @@ markos.it##a[href^="http://www.bookings.net/"]
 voyagetips.com##a[href^="http://www.rentalcars.com/?affiliateCode="]
 rietilife.com##a[href^="http://www.rietilife.com?pasID="]
 outcast.it##a[href^="http://www.tostadora.it/t-shirt-nerd.php?"]
+criptovalute.io##a[href^="https://accounts.binance.com/en/register?ref="]
 pc-gaming.it##a[href^="https://amzn.to/"] > img
 pc-gaming.it##a[href^="https://bit.ly/"] > img
 trattamentinaturalibio.it##a[href^="https://c.mtpc.se/"]
