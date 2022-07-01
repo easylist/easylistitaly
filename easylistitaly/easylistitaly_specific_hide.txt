@@ -1595,6 +1595,7 @@ pronosticirisultativincenti.com##.fixedbar
 rockol.it##.flex.\-mx-2.items-start.p-4
 beneventocalcio.it,podisti.net##.flexbannergroup
 sassuolooggi.it##.flexslider
+finaria.it##.floatingbanner
 marsicalive.it##.fmhb-container
 brianzaweb.com,corriereelorino.it,wallnews24.it##.fn-header-banner
 focus.it##.foc-coupon
