@@ -1966,6 +1966,7 @@ meteofinanza.com##.overlay-buttons
 meteofinanza.com##.overlay-text
 amalfinews.it,cetaranews.it,ilgiornaleoff.it,ilportico.it,ilvescovado.it,liratv.it,occhisusalerno.it,positanonotizie.it,ravellonotizie.it,reportageonline.it,sslazionuoto.it,ssv-brixen.info##.owl-carousel
 livornopress.it##.padding-top.hide-in-wm-xxl
+kultur.bz.it##.page-banner
 chepreparo.it##.page-intro-description
 quotidianodiragusa.it##.page-pdmin
 casaeclima.com##.page-wrapper
