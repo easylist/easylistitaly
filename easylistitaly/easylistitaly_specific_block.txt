@@ -168,6 +168,7 @@
 ||altadefinizioneita.co/it.gif
 ||altadefinizioneita.co/sc.png
 ||altadefinizioneita.co/strem.png
+||altadefinizioneita.tv/it.gif
 ||altadefiniziones.cz/templates/cloud/img/tad
 ||altarimini.it/bannerBoxCatalog.php
 ||altissimoceto.it^*_Banners_
