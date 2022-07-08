@@ -233,6 +233,7 @@
 ||animeclick.it/immagini/campagna/skin-
 ||animeemanga.it/banner_
 ||animeemanga.it^*-prime-video-288x360.
+||anisearch.it/amazon?
 ||annuariodelcinema.it^*/banner-
 ||annuariodelcinema.it^*/banner_
 ||annuariodelcinema.it^*/banners/
