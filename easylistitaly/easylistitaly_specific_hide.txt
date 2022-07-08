@@ -1761,6 +1761,7 @@ tempoitalia.it##.jeg_footer_primary
 giornaleibleo.it##.jeg_nav_alignleft
 giornaleibleo.it##.jeg_nav_alignright
 eurocampings.it##.js-mock-banner
+eurogirlescort.it##.js-stats-click
 facileporno.com##.js-sticky-banner
 pornototale.com##.js_footer_partner_container
 pornototale.com##.js_sidebar_webcams
