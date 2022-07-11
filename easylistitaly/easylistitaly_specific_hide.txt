@@ -1598,6 +1598,7 @@ castelvetranonews.it##.fixbottom
 luinonotizie.it##.fixed-sponsor
 spoletonline.com##.fixedBanner
 pronosticirisultativincenti.com##.fixedbar
+tempostretto.it##.fixmh.hidden-xs.hidden-sm
 rockol.it##.flex.\-mx-2.items-start.p-4
 beneventocalcio.it,podisti.net##.flexbannergroup
 sassuolooggi.it##.flexslider
