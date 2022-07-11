@@ -2241,6 +2241,7 @@ ttgitalia.com##.spotlight
 ecoaltomolise.net,teleaesse.it##.spu-bg
 teleaesse.it##.spu-box
 ecoaltomolise.net##.spu-container
+livesicilia.it##.square-placeholder-container
 assisieventi.it,assisinews.it##.square_banner
 acao.it##.squarebanner2
 ebay.it##.srp-banner
