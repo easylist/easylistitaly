@@ -53,6 +53,7 @@ direttafacile.it###annuncidiv
 subito.it###apn_top_tag
 palermomania.com###area_banner_top
 excellentmagazine.it###articolo_annunci_slider
+oggimilazzo.it###ascomparsa
 skylinewebcams.com###ask2
 toplegal.it###askin1
 toplegal.it###askin2
@@ -128,6 +129,7 @@ ss.lazio.it###bannerheader
 ondarock.it###bannerhomebottom
 ondarock.it###bannerhometop
 reteradioazzurra.it###bannerini_homepage
+oggimilazzo.it###bannerone
 frasimania.it,staseratv.it,vivaparigi.com###bannerpop
 saperesalute.it###banners
 siracusanews.it###banners-top
@@ -522,6 +524,7 @@ ricettedalmondo.it###mobile-primo-scroll
 padelmagazine.it###modal
 gamereactor.it###mpu
 forum.tomshw.it###mpudesk
+oggimilazzo.it###muro
 sportparma.com###mvp-leader-cont
 ilgazzettinodigela.it,juorno.it,pistoiasport.com,qdmnotizie.it###mvp-leader-wrap
 lavocedibolzano.it,sportmagazinetrentino.it###mvp-site-wall
@@ -628,6 +631,7 @@ persemprecalcio.it###smartslider3-3
 meteofinanza.com###snp-pop-20588-overlay
 3bmeteo.com###sole24_banner
 vallesabbianews.it###sostegno-box
+oggimilazzo.it###sottoapertura
 casateonline.it,merateonline.it###sottotestata
 agendapolitica.it###sow-editor-3
 dazebaonews.it,lnd.it###sp-bottom
@@ -1208,7 +1212,7 @@ voglioporno.com##.banners-footer
 seguonews.it##.bannerslider_home_quadro
 radio-reporter.it,radiobussola.it,rpz.it##.bannerswidget
 quotidianodiragusa.it,seguonews.it##.bannertesto
-album-mmt.it,biancoebruno.it,gossip.it,laprevisione.it,vicenzanews.it##.bannertop
+album-mmt.it,biancoebruno.it,gossip.it,laprevisione.it,oggimilazzo.it,vicenzanews.it##.bannertop
 travel365.it##.bannertopright
 vicenzanews.it##.bannexDX
 vicenzanews.it##.bannexSX

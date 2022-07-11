@@ -2980,6 +2980,8 @@
 ||oggicronaca.it^*/Banner760x150-
 ||oggicronaca.it^*/comune3.jpg
 ||oggicronaca.it^*/divisionismolarge.gif
+||oggimilazzo.it/DS/
+||oggimilazzo.it/images/banners/
 ||ogginotizie.it^*/666.jpg
 ||ogginotizie.it^*/CASCINA_page-0001-scaled.jpg
 ||ogginotizie.it^*/logo-trasparente.png
