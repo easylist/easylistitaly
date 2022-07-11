@@ -2382,6 +2382,7 @@ periodicodaily.com##.tdi_9
 tomshw.it##.teetee-embed
 telesud.it##.teles-header-banner
 positanonews.it##.testata
+tempostretto.it##.testo > .hidden-sm.hidden-xs
 annunci69.it##.testoracc2
 pianetalecce.it##.text-center.my-4
 teleaesse.it##.text-left
