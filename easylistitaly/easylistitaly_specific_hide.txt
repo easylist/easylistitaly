@@ -305,7 +305,7 @@ newsfood.com###custom_html-68
 calcioitalia24.it,forestalinews.it,luoghidavedere.it,melarossa.it,pistoiasport.com,putignanonews.it,topragazze.it,torremaggiore.com###custom_html-7
 newsfood.com###custom_html-71
 calcioitalia24.it,corrierequotidiano.it,trueriders.it,vitaminanews.it###custom_html-8
-aroundtheworld.pro,indiscreto.org,scrivolibero.it,viaggiallafinedelmondo.it###custom_html-9
+aroundtheworld.pro,indiscreto.org,nerdando.com,scrivolibero.it,viaggiallafinedelmondo.it###custom_html-9
 dolciveloci.it,donnaglamour.it,economiafinanzaonline.it,newsmondo.it,notiziebenessere.it,notiziemilan.it,notiziemusica.it,primochef.it###delta-mobile-bottom
 dayitalianews.com###diretta_video_unipol
 calendario-365.it###dish-top-desktop
