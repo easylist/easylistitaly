@@ -535,6 +535,7 @@ primaonline.it###native_div_home
 rovigooggi.it###news-left-box
 rovigooggi.it###news-pretext-box
 rovigooggi.it###news-right-top-box
+milanofinanza.it###news-speciali
 rovigooggi.it###news-top-space
 lacittanews.it###newsup-image-widget-1
 lacittanews.it###newsup-image-widget-11
@@ -1357,6 +1358,7 @@ meteo.tiscali.it##.c1c3
 castellinotizie.it##.c1dcf9f90b0a36d90b8fc9001b9eaf75
 trento2018.it##.callExclusive
 tuttoandroid.net##.card
+milanofinanza.it##.carmiboxHP
 itinerariodiviaggio.com,lavocedelpalio.it##.carousel
 monrealenews.it##.carouselbanner
 carteprepagate.org##.carte-post-1
