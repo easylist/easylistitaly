@@ -1975,6 +1975,7 @@ parmakids.it##.overheader-sidebar
 meteofinanza.com##.overlay-buttons
 meteofinanza.com##.overlay-text
 amalfinews.it,cetaranews.it,ilgiornaleoff.it,ilportico.it,ilvescovado.it,liratv.it,occhisusalerno.it,positanonotizie.it,ravellonotizie.it,reportageonline.it,sslazionuoto.it,ssv-brixen.info##.owl-carousel
+money.it##.p-4.my-4.rounded-lg.text-white
 livornopress.it##.padding-top.hide-in-wm-xxl
 kultur.bz.it##.page-banner
 chepreparo.it##.page-intro-description
@@ -2667,6 +2668,7 @@ facciabuco.com##a[href^="/sprclick/"]
 infermieriattivi.it##a[href^="http://adv.comunicareimpresa.com/"]
 vacanzeinamerica.eu##a[href^="http://clkuk.tradedoubler.com/"]
 diventarehacker.it##a[href^="http://diventarehackerblog.altervista.org/"]
+money.it##a[href^="http://go.money.it/"] > .w-32
 milanodabere.it##a[href^="http://ib.adnxs.com/clktrb?id="]
 juzaphoto.com,kadaza.it,telefonino.net##a[href^="http://rover.ebay.com/"]
 gizchina.it##a[href^="http://shrsl.com/"]
