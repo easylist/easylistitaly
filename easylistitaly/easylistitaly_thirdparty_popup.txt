@@ -21,6 +21,7 @@
 ||planet49.it/cgi-bin/wingame.pl?$popup
 ||premiogiusto.com^$popup,third-party
 ||record.betpartners.it^$popup,third-party
+||record.starcasino.it^$popup,third-party
 ||starvegas.it/gmg/refer/$popup,third-party
 ||tracking.donnemagazine.it^$popup
 ||tracking.foodblog.it^$popup
