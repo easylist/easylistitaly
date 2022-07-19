@@ -1971,6 +1971,7 @@ cronacaossona.com##.oplas3-paragrafo
 cronacaossona.com##.oplas5paragrafo
 cronacaossona.com##.oplaswidget
 italiacashback.com##.opt
+eurostreaming.vote##.other_link2
 milanocam.it##.overcam_advertising
 parmakids.it##.overheader-sidebar
 meteofinanza.com##.overlay-buttons
