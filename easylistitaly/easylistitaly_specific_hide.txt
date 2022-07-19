@@ -50,6 +50,7 @@ localidautore.it###ajax-placeholder-header
 lospicchiodaglio.it###amazon_apa
 notebookitalia.it###amznbi
 direttafacile.it###annuncidiv
+subito.it###apn_native_top_tag
 subito.it###apn_top_tag
 palermomania.com###area_banner_top
 excellentmagazine.it###articolo_annunci_slider
