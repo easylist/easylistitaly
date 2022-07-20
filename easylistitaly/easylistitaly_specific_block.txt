@@ -4722,6 +4722,7 @@
 ||weareblog.it^*/OtticaSMADV-
 ||webhostingmagazine.it^*/keliweb-
 ||webhostingmagazine.it^*/kinsta-
+||webmagazine24.it/wp-content/uploads/*/banner-
 ||weboggi.it/zen/
 ||webradiodesign.it^*/banner-
 ||weekendpremium.it^*/310x205-1.png
