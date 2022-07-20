@@ -1912,6 +1912,7 @@ familygo.eu##.mobile-spot
 scienzenotizie.it##.mobile-top-banner
 alimentibevande.it,professioneallevatore.it,professionesuinicoltore.it##.mod
 federscherma.it##.module-bannerContainer
+badmintonitalia.it##.module-partner
 fise.it##.module-sponsor-HP
 fise.it##.module-sponsor-container
 fitri.it,fpi.it##.moduletable-sponsor
