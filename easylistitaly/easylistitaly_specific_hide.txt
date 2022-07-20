@@ -2154,7 +2154,7 @@ andreagaleazzi.com,animeclick.it,greenme.it,sanitainsicilia.it,startmag.it,timin
 archilovers.com##.skin-banner-link
 cremaoggi.it,cremonaoggi.it,cremonasport.it,oglioponews.it##.skin-container
 brindisisettenews.it,leccesette.it##.skin-desktop
-meteofinanza.com##.skin-link
+lavoripubblici.it,meteofinanza.com##.skin-link
 digitalic.it##.skin_a_dx
 digitalic.it##.skin_a_sx
 cellulare-magazine.it,crotoneok.it,nautica.it,vitaincamper.it##.skin_bg
