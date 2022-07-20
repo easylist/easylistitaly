@@ -18,6 +18,7 @@ seitv.it#@#.admania_themead
 bakeca-incontri.net#@#.adtitle
 abilitychannel.tv#@#.adv-skin
 altervista.org#@#.adv_esterno
+ilgiornaleditalia.it#@#.bannervcms
 ilbaratto.com#@#.jquery-script-ads
 radioalfalab.it#@#.penci-adsense-below-slider
 tuttoaffari.com#@#.top-ad

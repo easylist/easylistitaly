@@ -1218,6 +1218,7 @@ radio-reporter.it,radiobussola.it,rpz.it##.bannerswidget
 quotidianodiragusa.it,seguonews.it##.bannertesto
 album-mmt.it,biancoebruno.it,gossip.it,laprevisione.it,oggimilazzo.it,vicenzanews.it##.bannertop
 travel365.it##.bannertopright
+ilgiornaleditalia.it##.bannervcms [width="300"]
 vicenzanews.it##.bannexDX
 vicenzanews.it##.bannexSX
 notizialocale.it##.bc_random_banner
