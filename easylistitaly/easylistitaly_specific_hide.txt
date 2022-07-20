@@ -286,12 +286,12 @@ castellinotizie.it,elementocreativo.it,imolaoggi.it###custom_html-22
 aroundtheworld.pro,fiorditerra.eu###custom_html-23
 leggopassword.it###custom_html-24
 dimagrireduepuntozero.com,momentidicalcio.com,pianetaserieb.it,strill.it###custom_html-25
-castellinotizie.it###custom_html-26
+castellinotizie.it,pianetaserieb.it###custom_html-26
 dimagrireduepuntozero.com,pianetaserieb.it###custom_html-27
 pianetaserieb.it,tusciatimes.eu###custom_html-28
 tusciatimes.eu###custom_html-29
 alground.com,androidblog.it,assisisport.it,biologiamarina.org,birramoriamoci.it,calcioatalanta.it,calciofere.it,calciogrifo.it,calciolecce.it,calciomercatonews.com,canalesassuolo.it,corrieredelmolise.com,eurekaddl.it,forzaparma.it,labaricalcio.it,nonniavventura.it,nonsolonautica.it,quizlab.it,resetitaliablog.altervista.org,siamolaroma.it,sololalazio.it,tifocosenza.it,tifosipalermo.it,torremaggiore.com,trapanigranata.it,umbria.webcam###custom_html-3
-immaginaviaggiare.it###custom_html-30
+immaginaviaggiare.it,pianetaserieb.it###custom_html-30
 newtuscia.it###custom_html-31
 scambieuropei.info###custom_html-32
 immaginaviaggiare.it###custom_html-33
