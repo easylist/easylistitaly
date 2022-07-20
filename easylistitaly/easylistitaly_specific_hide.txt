@@ -141,6 +141,7 @@ entella.it###barra_click_dx
 entella.it###barra_click_sx
 entella.it###barra_click_top
 forum.tomshw.it###belowfirstpost
+calciomercato.com###better-collective-container
 emiliotomasini.it,lombardreport.com###bg_banner
 accordo.it,orizzontescuola.it###bglink
 wuz.it###bigrectangle
