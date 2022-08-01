@@ -8,7 +8,6 @@
 -PUBBLICITa.$domain=~inoutsnc.it
 -pubblicita300x275.
 .it/_adv/
-.it/ads/
 .it/ads?
 .it/ads_
 .it/adv.
