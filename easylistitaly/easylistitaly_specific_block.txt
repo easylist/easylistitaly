@@ -99,6 +99,7 @@
 ||affaritaliani.it^*/case/
 ||affaritaliani.it^*/dott/
 ||affaritaliani.it^*/eni-/
+||affaritaliani.it^*/eni_/
 ||affaritaliani.it^*/fogl/
 ||affaritaliani.it^*/immo/
 ||affaritaliani.it^*/immobiliare/
