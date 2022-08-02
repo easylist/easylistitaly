@@ -1260,6 +1260,7 @@ lantidiplomatico.it##.block-wrapper-banner
 dissapore.com,pourfemme.it,punto-informatico.it,sportal.it,telefonino.net##.blz-url
 punto-informatico.it##.blz_aff_gen_button
 punto-informatico.it##.blz_grid
+punto-informatico.it##.bm-code
 giornal.one##.bn-header
 ilquotidianoditalia.it##.bn-lg
 farmaciaditurno.it,giornal.one##.bn-lg-sidebar
