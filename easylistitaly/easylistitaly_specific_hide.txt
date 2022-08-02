@@ -2098,6 +2098,7 @@ ilclubdellericette.it##.ricetta-amazon
 ilclubdellericette.it##.ricetta__prodotti
 estrazionedellotto.it##.right
 lacnews24.it##.right-side
+aniplay.it##.rn-mobile-container
 ilroma.net##.rotating-banner
 ecodallecitta.it##.rotobanner
 formula1.it##.row > a[href^="https://casinohex.it/"]
