@@ -57,6 +57,7 @@
 @@||oasjs.kataweb.it/adsetup*.js$script,domain=capital.it|huffingtonpost.it|m2o.it|video.deejay.it|video.espresso.repubblica.it|video.ilsecoloxix.it|video.lanuovasardegna.it|video.lastampa.it|video.rep.repubblica.it|video.repubblica.it
 @@||oasjs.kataweb.it/cookielex/$domain=capital.it|huffingtonpost.it|m2o.it|video.deejay.it|video.espresso.repubblica.it|video.ilsecoloxix.it|video.lanuovasardegna.it|video.lastampa.it|video.rep.repubblica.it|video.repubblica.it
 @@||online-retail.unicredit.it/adv/$~third-party
+@@||propathos.com/wp-content/uploads/2020/11/cropped-propathos-certified-google-adwords.png$image,~third-party
 @@||repubblica.it/adimages/
 @@||stats.betradar.com^$subdocument,domain=sisal.it
 @@||sun.novara.it/image/pubblicita.jpg
