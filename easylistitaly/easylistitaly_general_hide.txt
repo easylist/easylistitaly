@@ -283,6 +283,9 @@
 ##.lg-titolo-ads-sx
 ##.linksponsorizzati
 ##.listatonativeadv
+##.live-adv-square
+##.live-adv-top
+##.live-article-adv-container
 ##.modPubblicita
 ##.nativeadv
 ##.netd_300x600adv
