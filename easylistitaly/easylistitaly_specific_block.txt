@@ -4581,6 +4581,7 @@
 ||vestirsidicorsa.it^*-350x550.
 ||vesuviolive.it^*-advbill.
 ||vesuviolive.it^*/banner-
+||vesuvionews.it/notizie/wp-content/uploads/*/banner-
 ||viaggiandoatestaalta.it^*/hey-mondo.jpg
 ||viaggiare-low-cost.it^*-banner.
 ||viaggiasenzapensieri.com^*/Concorso-Seychelles.jpg
