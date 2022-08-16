@@ -3167,7 +3167,7 @@ ilsalvagente.it,lemillebolleblog.it,vinoalvino.org##img[width="320"][height="320
 business24tv.it##img[width="325"]
 napolimagazine.com##img[width="330"][height="600"]
 spaziotennis.com##img[width="332"][height="100"]
-2duerighe.com,materanews.net,tusciaweb.eu##img[width="336"]
+2duerighe.com,materanews.net##img[width="336"]
 divisionecalcioa5.it##img[width="340"][height="140"]
 baraondanews.it##img[width="350"][height="180"]
 monkeybit.it##img[width="350"][height="350"]
