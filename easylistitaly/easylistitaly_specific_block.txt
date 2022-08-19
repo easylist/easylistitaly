@@ -87,6 +87,7 @@
 ||adginforma.it^*_skin_
 ||adnkronos.com^*/banner/
 ||adnkronos.com^*/Promo/
+||adozionilibriscolastici.it/advertiser/
 ||advtraining.it/img/banner/
 ||advtraining.it/img/banner_
 ||affarienews.it/admin/public/banner/
