@@ -2043,7 +2043,7 @@ teleoccidente.it##.promotion-section
 fibra.click##.propaganda
 tgfuneral24.it##.psct-banners
 playstationzone.it##.psz_template_prices_comp
-agoravox.it,boatindustry.it,boatsnews.it,europa-agri.it##.pub
+agoravox.it,boatindustry.it,boatsnews.it,europa-agri.it,giornalone.it##.pub
 europa-agri.it,radiogold.it##.pub-content
 kikapress.com##.pub_container
 pornolatte.com##.pub_h_250new
