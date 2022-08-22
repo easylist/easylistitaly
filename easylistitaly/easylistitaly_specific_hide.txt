@@ -2116,8 +2116,8 @@ asroma.com##.s-primary-sponsors
 asroma.com##.s-secondary-sponsors
 ilsole24ore.com##.s24-abox
 my-personaltrainer.it##.sal-list-sponsored
-bmwpassion.com##.samBannerUnit
-bmwpassion.com##.samCodeUnit
+bmwpassion.com,phica.eu##.samBannerUnit
+bmwpassion.com,phica.eu##.samCodeUnit
 community.punterforum.com##.samItem
 sardiniapost.it##.sardi-widget
 genova24.it,ivg.it,lacnews24.it##.sb-banner
@@ -2668,7 +2668,7 @@ borsainside.com,cartaricaricabile.net,stadiosport.it##a[href*="/vai/"]
 altadefinizionehd.live##a[href*="/vedi4k/"]
 altadefinizione.legal,cb01.run,guardaserie.cam,tantifilm.center##a[href*="/vedo4k.php"]
 birramoriamoci.it##a[href*="?affiliates="]
-anteprima24.it,gnoccatravels.com,ideawebtv.it,juzaphoto.com,lavorincasa.it,mangaforever.net,phica.net,voglioporno.com##a[href*="?utm_"]
+anteprima24.it,gnoccatravels.com,ideawebtv.it,juzaphoto.com,lavorincasa.it,mangaforever.net,phica.eu,voglioporno.com##a[href*="?utm_"]
 corrierenazionale.it##a[href="http://www.herobet.it/"]
 mrpornogratis.it##a[href^="//plx.mrpornogratis.it/"]
 advtraining.it##a[href^="/ad/banner/"]

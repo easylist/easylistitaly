@@ -3126,11 +3126,6 @@
 ||pescaralive.it^*/banner-
 ||pharmastar.it^*/banner/
 ||pharmastar.it^*/skins/
-||phica.net/cam4pop4sigh.js
-||phica.net^*/15f9dddb6f38f4.png
-||phica.net^*/15f9ddfc4acb02.png
-||phica.net^*/1603cce1376b50.png
-||phica.net^*/imig_01.gif
 ||piacenza24.eu^*-banner-
 ||piacenza24.eu^*/aSvep.jpg
 ||piacenza24.eu^*/Autorel-
