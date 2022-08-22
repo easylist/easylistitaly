@@ -1709,6 +1709,7 @@ assisisport.it,comesifasefaidate.it,ecodelcinema.com,fantacalcio.it,italiaonline
 nuovosud.it##.header-banner-wrapper
 calciomercato.com##.header-banner__container
 necrologi.ilcorriere.net##.header-right
+luce.lanazione.it##.header-slider
 computersm.com##.header-top
 calabria7.it##.header__banner
 h24notizie.com##.headerbanner
@@ -2004,7 +2005,7 @@ radiogardena.it##.partner-wrapper
 msmotor.tv##.partner2
 andreagaleazzi.com##.partner_box
 lifegate.it##.partnered
-dolcidee.it,luce.lanazione.it,rtinradio.com,teatronaturale.it,university-esports.it##.partners
+dolcidee.it,rtinradio.com,teatronaturale.it,university-esports.it##.partners
 replytotem.com##.partners-carousel
 100ideeperristrutturare.it,casa-naturale.com,quattrozampe.online,villeecasali.com##.partners-wrapper
 infobuild.it##.partnersection
