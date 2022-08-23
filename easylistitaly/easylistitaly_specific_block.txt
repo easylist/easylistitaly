@@ -1329,6 +1329,7 @@
 ||fitri.it/images/banners/
 ||fiumicino-online.it/images/banner
 ||flash---art.it^*/HANGAR_XL.jpg
+||fm-world.it/wp-content/uploads/*/banner-
 ||fmtv.live^*-banner-
 ||fmtv.live^*/101832706_122868592765034_2097532400958439424_o.jpg
 ||fmtv.live^*/appennino-festival-mmonaco-2018-600x400.jpg

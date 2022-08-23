@@ -1222,7 +1222,7 @@ travel365.it##.bannertopright
 ilgiornaleditalia.it##.bannervcms [width="300"]
 vicenzanews.it##.bannexDX
 vicenzanews.it##.bannexSX
-notizialocale.it##.bc_random_banner
+fm-world.it,notizialocale.it##.bc_random_banner
 corriere.it,gazzetta.it##.bck-media-list-sponsor
 nelfaro.it##.bdotcom_bc_mbe_banner
 magentanostra.it##.bdt-logo-carousel-figure
