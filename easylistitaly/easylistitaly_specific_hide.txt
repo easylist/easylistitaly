@@ -194,6 +194,7 @@ radio-in-diretta.com###block-block-9
 mediaworld.it###block-footerbanners
 mangialibri.com###block-sottopiatto
 nuovosud.it###block-views-banner-centrale-menu-block
+ecodelchisone.it###block-views-homepage-block-sponsored
 torinofc.it###block-views-sponsor-block-2
 locchiodelcineasta.com###blocksy_ct_contact_info-3
 noitv.it###bn-sidebar
