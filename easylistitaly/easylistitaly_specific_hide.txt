@@ -253,7 +253,6 @@ acquariofilia.biz###collapseobj_sidebar_google
 nuovogiornalenazionale.com###column-id-1616158022684
 infobetting.com###comparazione_bonus_tabella
 matrimoniosolidale.it###confetti-bomb
-autoscout24.it###conmon-header-stage
 tvzap.kataweb.it###consigli
 affaritaliani.it###consigliati-giochi2
 virgilio.it###cont-leaderboard
@@ -1382,7 +1381,6 @@ radioinblu.it,tv2000.it##.cei-skin-side
 vocegiallorossa.it##.center
 lineapress.it##.cfxi-container
 vienormali.it##.cimarandom
-autoscout24.it##.cl-billboad-wrapper
 cliccascienze.it##.clicc-prima-del-contenuto
 edilportale.com##.click-Skin
 telenord.it##.click-banner
@@ -1442,7 +1440,6 @@ quattroruote.it##.commercial-article
 dday.it##.company
 tiscali.it##.compare-box-cnt
 fuoritraiettoria.com##.computer
-autoscout24.it##.conmon-financeslice-boxes
 portaledelverde.it##.consigliaProd
 adnkronos.com##.cont-adv
 cottoepostato.it##.cont-bann
@@ -1604,7 +1601,6 @@ fortuneita.com##.fb-banner
 divinafm.it##.fdc-widget-sponsor
 omnitrattore.it##.featured__apb
 brindisisera.it,brindisisettenews.it##.featured_banner
-autoscout24.it##.fed-list-rate-fragment-pair
 frequentflyeritalia.com##.ffi_az_box
 masterviaggi.it##.fieldset_sponsor
 firstonline.info##.first-widget
@@ -2769,8 +2765,11 @@ techprincess.it##a[target="_blank"] > img[width="400"][height="400"]
 direttafacile.it##a[target="pubblicita.php"]
 aforismi.meglio.it##button a[target="_blank"]
 genoanews1893.it##div[astyle="text-align: center; width: 336px; height: 280px; padding: 3px 0px 3px 0px;"]
+autoscout24.it##div[class*="FinancingAndInsurance"]
 tiscali.it##div[class*="shp-dayblk"]
+autoscout24.it##div[class^="AdContentBanner"]
 homegate.ch##div[class^="AdSlotContainer_"]
+autoscout24.it##div[class^="AdTop"]
 corrieredellosport.it,tuttosport.com##div[class^="AdUnit_"]
 acffiorentina.com,acmilan.com##div[class^="Partners_"]
 ciociariaoggi.it,latinaoggi.eu##div[class^="a-p1-banner-"]
@@ -2795,7 +2794,6 @@ lavorincasa.it##div[class^="wbn-large-"]
 lavorincasa.it##div[class^="wbn-medium-"]
 lavorincasa.it##div[class^="wpb-bacheca-aziende"]
 lavorincasa.it##div[class^="wrapper-banner-"]
-autoscout24.it##div[data-item-name="finance-and-insurance"]
 rockol.it##div[data-track]
 stilenaturale.com##div[id="Banner_BIOOFFERTA"]
 inconcreto.net,ingenio-web.it,pavimenti-web.it##div[id^="Banner"]
@@ -2825,6 +2823,7 @@ alvolante.it##div[id^="dfp-alv-slot"]
 ekuonews.it##div[id^="ekuon-"]
 eurofestivalnews.com##div[id^="eurof-"]
 zero.eu##div[id^="ez_sponsor_widget-"]
+autoscout24.it##div[id^="finance-section"]
 firstonline.info##div[id^="first-"]
 galluraoggi.it##div[id^="gallu-"]
 ilgiornalediudine.com##div[id^="gdu-"]
