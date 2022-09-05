@@ -24,6 +24,7 @@ scambieuropei.info,soldioggi.it,tesionline.it###T
 flashgames.it###T_1
 chimerarevo.com###TopWidgetArea
 cagliarinews24.com,calcionews24.com,futsalnews24.com,internews24.com,juventusnews24.com,lazionews24.com,milannews24.com,motorinews24.com###Top_Banner
+caffebaiadomizia.it###_ad_10926
 larena.it###_dbx_core
 panoz.it###ad
 soldioggi.it###ad1
