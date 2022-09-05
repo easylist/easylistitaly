@@ -2173,6 +2173,7 @@
 ||italiasera.it^*/venere-spa.jpg
 ||italiasette.it^*-336x280-
 ||italiavela.it/banner/
+||italpress.com/wp-content/uploads/*/SKIN_
 ||italpress.com/wp-content/uploads/2021/03/intesa-logo.png
 ||italpress.com^*/BANNER-
 ||italpress.com^*/gif_talpress_def.
