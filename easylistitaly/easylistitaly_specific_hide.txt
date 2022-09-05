@@ -2602,6 +2602,8 @@ abruzzolive.it##.znugldvqrk-float-center
 3tre3.it##.zona_publi
 fip.it##.zonafornitori
 nursetimes.org##AMP-IMG[width="320"][height="50"]
+subito.it##[class^="AdDescription_card-block-container_"]
+subito.it##[class^="AdInfo_useful-links-wrapper_"]
 lacnews24.it##[data-src^="https://ads.pubbliemme-adv.net/"]
 djmagitalia.com##[href^="http://www.djpoint.net/"]
 alimentando.info##a[aria-label^="Banner"]
