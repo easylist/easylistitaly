@@ -3259,6 +3259,7 @@ borsaitaliana.it#?#.m-relases__result:-abp-has(div:-abp-contains(Contenuto pubbl
 bottadiculo.it#?#p[style="margin-bottom: 30px"]:-abp-has(a[href*="/dazn"])
 ebay.it#?#.s-item:-abp-has(span.s-item__title--tagblock__SPONSORED)
 ecodibergamo.it#?#.section-articles--advertising:-abp-has(.sponsored)
+eurosport.it#?#.my-2.flex.items-center.justify-center:-abp-has(a[href^="https://prf.hn/"])
 forbes.it#?#.post.type-post.status-publish.format-standard:-abp-has(.brandvoice)
 freshpointmagazine.it#?#.wpb_wrapper > .td_block_wrap:-abp-has(.sponsor)
 guadagna.net#?#center:-abp-has(a:-abp-contains(Esponi i tuoi banner sul forum))
