@@ -1361,6 +1361,7 @@
 ||fortuneita.com^*300X420
 ||fortuneita.com^*900x120
 ||fortuneita.com^*900x90
+||forum.audirsclub.it/images/banners/
 ||forum.clubalfa.it/images/banner/
 ||fotoenotizie.it^*/baleari.
 ||fotoenotizie.it^*/bannerAlto.
