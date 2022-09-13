@@ -1575,6 +1575,7 @@
 ||gliacchiappafilm.it^*/logo-eagle-service-orizzontale-
 ||gliacchiappafilm.it^*_Banner_
 ||glianni80.com^*/anni80.jpg
+||gnoccaforum.com/static/b/
 ||gnoccaforum.com^*/banners/
 ||gnoccatravels.com/files/pbblct
 ||goblins.net^*/banner/
