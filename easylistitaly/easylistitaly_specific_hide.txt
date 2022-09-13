@@ -921,7 +921,7 @@ fidal.it##.add-logo
 informagiovani-italia.com##.add_left
 spagna.cc##.add_top
 offertevolantini.it##.add_w2_h1
-24emilia.com,antennafebea.it,autoscout24.ch,brocardi.it,casacinema.media,eurostreaming.vote,filmpertutti.bar,filmpertutti.center,filmpertutti.homes,filmpertutti.kim,filmpertutti.onl,filmsenzalimiti.blog,gamemag.it,hdblog.it,hdmotori.it,hdtroll.it,ilikepuglia.it,immaginicompleanno.com,liberta.it,live-sport-tv.it,mattinonline.ch,orizzontescuola.it,radiogold.it,ravennaeventi.net,sitigiochi.it,teleborsa.it,viamichelin.ch,viamichelin.it,voce.com.ve,yuvideos.com,zazoom.it##.ads
+24emilia.com,antennafebea.it,autoscout24.ch,brocardi.it,casacinema.media,eurostreaming.vote,filmpertutti.bar,filmpertutti.center,filmpertutti.homes,filmpertutti.kim,filmpertutti.onl,filmsenzalimiti.blog,gamemag.it,hdblog.it,hdmotori.it,hdtroll.it,ilgeniodellostreaming.quest,ilikepuglia.it,immaginicompleanno.com,liberta.it,live-sport-tv.it,mattinonline.ch,orizzontescuola.it,radiogold.it,ravennaeventi.net,sitigiochi.it,teleborsa.it,viamichelin.ch,viamichelin.it,voce.com.ve,yuvideos.com,zazoom.it##.ads
 investireoggi.it##.ads-container
 ildolomiti.it##.adsB
 corrieredellacalabria.it##.ads_corriere
