@@ -13,3 +13,4 @@
 @@||record.betpartners.it^$popup,domain=superscommesse.it
 @@||starvegas.it/gmg/refer/$popup,domain=superscommesse.it
 @@||wllottomatica.adsrv.eacdn.com/C.ashx?$popup,domain=superscommesse.it
+@@||zenaps.com/rclick.php?$popup,domain=idealo.it
