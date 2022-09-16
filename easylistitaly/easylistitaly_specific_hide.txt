@@ -1516,6 +1516,7 @@ portadimare.it,saliinvetta.com##.djslider
 rpiunews.it##.djslider-loader
 ridble.com##.dn
 ilgeniodellostreaming.icu,tantifilm.stream##.download-links
+autoscout24.it##.dp-financing-insurance__wrapper
 bolzano-bozen.it##.dt
 theitaliantimes.it##.dx
 finestresullarte.info##.dx250
