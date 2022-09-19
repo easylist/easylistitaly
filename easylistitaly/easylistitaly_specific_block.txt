@@ -1239,6 +1239,7 @@
 ||eurostreaming.rest/gcode.js
 ||eurostreaming.shop/gcod.js
 ||eurostreaming.shop/gcode.js
+||eurostreaming.social/templates/eurostreaming/images/btn
 ||eurostreaming.team/prem.js
 ||eurostreaming.town/gcode.js
 ||eurostreaming.world/gcode.js
@@ -1630,6 +1631,7 @@
 ||guardaserie.cam^*/btn_guarda
 ||guardaserie.cam^*/button
 ||guardaserie.cam^*/pulsante
+||guardaserie.skin/fake2/
 ||guardaserie.video^*/guardaorads.png
 ||gufo.it^*/imperdibili-natale-eprice.jpg
 ||gufo.it^*/offerte-natale-amazon.jpg
@@ -5050,7 +5052,7 @@
 ||stgy.ovh/~shared/images/d_a/
 ||today.it/~shared/cgi-bin/d_a/
 !
-/^https?:\/\/[0-9a-z]{8,}\.com\/.*/$third-party,domain=animeforce.it|cb01.press|eurostreaming.actor|eurostreaming.cfd|eurostreaming.pics|eurostreaming.sbs|eurostreaming.voyage|ilgeniodellostreaming.bar|nuovoindirizzo.com|streamingcommunity.top
+/^https?:\/\/[0-9a-z]{8,}\.com\/.*/$~media,third-party,domain=animeforce.it|cb01.press|eurekaddl.lol|eurostreaming.actor|eurostreaming.cfd|eurostreaming.pics|eurostreaming.sbs|eurostreaming.social|eurostreaming.voyage|guardaserie.skin|ilgeniodellostreaming.bar|nuovoindirizzo.com|streamingcommunity.top
 ! (/sw.js)
 /^https?:\/\/.*\/.*sw[0-9._].*/$script,domain=dundi.it|pornototale.com|skip.li
 !

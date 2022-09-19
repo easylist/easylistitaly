@@ -3,6 +3,7 @@
 ||avmagazine.it/advertise/$popup
 ||cb01.li/vip/4K/$popup
 ||cineblog01.bid/fake2/$popup
+||guardaserie.skin/VODGRATIS/$popup
 ||ilgeniodellostreaming.to/stream/$popup
 ||supervideo.tv/vedo4k.php$popup
 ! about:blank popups
