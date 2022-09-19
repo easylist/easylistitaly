@@ -93,6 +93,8 @@
 ||affarienews.it/admin/public/banner/
 ||affaritaliani.it/includes/files/affari/
 ||affaritaliani.it/mutuionline/imgmol/
+||affaritaliani.it/static/upl2018_restyle/taxi/taxi15.jpg
+||affaritaliani.it/static/upl2021/gif_/gif_cmo_blu.gif
 ||affaritaliani.it^*/234x/
 ||affaritaliani.it^*/234x100-
 ||affaritaliani.it^*/acsm/
