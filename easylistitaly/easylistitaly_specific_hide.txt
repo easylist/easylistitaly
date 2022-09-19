@@ -2283,6 +2283,7 @@ cblive.it,filmpost.it,gazzettadellavaldagri.it,giornalenordest.it,ilcorriere.net
 filmtv.it##.streaming
 affaritaliani.it##.strillo-speciale3
 ship2shore.it,trend-online.com##.strip
+corriereadriatico.it,ilgazzettino.it,ilmattino.it,ilmessaggero.it,leggo.it,quotidianodipuglia.it##.strip-autopromo
 corriereadriatico.it,ilgazzettino.it,ilmattino.it,ilmessaggero.it,leggo.it,quotidianodipuglia.it##.strip-guidalloshopping
 noisiamofuturo.it##.stripe
 diconews.com,ideeregaloperte.it##.su-button-center
