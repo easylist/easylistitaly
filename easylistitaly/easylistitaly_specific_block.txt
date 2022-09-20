@@ -1184,6 +1184,7 @@
 ||elbanotizie.it/img/moby2.png
 ||elbareport.it/images/banners/
 ||elettricomagazine.it/wp-content/banners/
+||elettronicain.it/ext_banner/
 ||elivebrescia.tv^*/banner-
 ||elletvweb.it^*/89647628_2525170104423784_4449633659648999424_
 ||elletvweb.it^*/image-100.png

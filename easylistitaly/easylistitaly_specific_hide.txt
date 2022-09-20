@@ -112,6 +112,7 @@ finestresullarte.info###banner_8_div
 finestresullarte.info###banner_9_div
 subito.it,teleboario.it###banner_container
 contosulconto.it###banner_content
+elettronicain.it###banner_farnell
 quizpatenteonline.it###banner_fix
 vocidicitta.it###banner_footer_728
 amarantomagazine.it,entella.it###banner_header
