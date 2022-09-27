@@ -1689,6 +1689,7 @@ solitario.it##.gioco_public1
 giornaledelcilento.it##.giorn-prima-del-contenuto
 giornaledelcilento.it##.giorn-widget
 tvserial.it##.gm-place
+veritaeaffari.it##.gmp
 sportytrader.it##.go-to-bonus
 goriziaoggi.news##.goriz-widget
 3bmeteo.com##.gpt_top
