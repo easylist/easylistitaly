@@ -2732,6 +2732,7 @@ calcioefinanza.it,calciomercato.com,calcionapoli1926.it,cittaceleste.it,corriere
 gufo.it##a[href^="https://rcl.ink/"]
 rockol.it,smartworld.it,uiblog.it##a[href^="https://rover.ebay.com/"]
 ortodacoltivare.it##a[href^="https://sfogliabile.stihlmarketing.it/"]
+digital-news.it##a[href^="https://shortest.link/"]
 digital-news.it##a[href^="https://t.co/"]
 viaggio-in-germania.de##a[href^="https://tidd.ly/"]
 librierecensioni.com##a[href^="https://tracker.tradedoubler.com/"]
