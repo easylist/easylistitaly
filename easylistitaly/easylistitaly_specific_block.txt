@@ -4412,6 +4412,7 @@
 ||tuttotrasporti.it^*/notizieSponsorizzate/
 ||tuttozampe.com^*/Premium_
 ||tv1.it/images/banner/
+||tv2000.it/wp-content/uploads/*/Skin-
 ||tv2000.it^*-Banner-
 ||tv2000.it^*-skin.
 ||tv2000.it^*/8permillebanner2.jpg
