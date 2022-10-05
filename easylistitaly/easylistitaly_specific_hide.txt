@@ -2519,6 +2519,7 @@ vitatrentina.it##.vitat-testata-sx
 teleradio-news.it##.vkucdslh-container
 austria-facile.com,giappone.cc,irlanda.cc,statiuniti.cc,svezia.cc,ungheria.tv##.voli
 football-magazine.it##.vzasjfip-container
+ilsoftware.it##.w_banner
 lavorincasa.it##.wallpaper-1
 algheroeco.com,radioluna.it,sora24.it##.wallpaper-link
 secerchicasa.it##.weblink_items.grid
