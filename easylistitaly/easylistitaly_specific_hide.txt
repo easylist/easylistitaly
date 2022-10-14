@@ -1694,6 +1694,7 @@ giornaledelcilento.it##.giorn-prima-del-contenuto
 giornaledelcilento.it##.giorn-widget
 tvserial.it##.gm-place
 confidenze.com,salepepe.it,starbene.it,tustyle.it,veritaeaffari.it##.gmp
+laverita.info##.gmp-repeating-ads
 sportytrader.it##.go-to-bonus
 goriziaoggi.news##.goriz-widget
 3bmeteo.com##.gpt_top
