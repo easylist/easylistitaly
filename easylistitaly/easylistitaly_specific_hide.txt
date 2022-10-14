@@ -1100,6 +1100,7 @@ cremona1.it,lacnews24.it##.banner-inner
 finanzaonline.com##.banner-inside-content
 ideawebtv.it##.banner-laterale-default
 universodelgioco.it##.banner-leaderboard
+escort-advisor.com##.banner-link-container
 italiafruit.net##.banner-m
 viversano.net##.banner-mid
 ilnuovoterraglio.it,valdelsa.net##.banner-mobile
