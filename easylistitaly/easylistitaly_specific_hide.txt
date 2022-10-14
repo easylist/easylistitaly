@@ -910,6 +910,7 @@ bici.pro,buongiornosuedtirol.it,gamesource.it,gqitalia.it,icasa.ch,ilfoglio.it,j
 tusciaweb.eu##.ad-article
 tvdream.net##.ad-box
 adotta.me,editorialedomani.it,gli-sport.info,soluzionicodycross.it,supertv.it##.ad-container
+panorama.it##.ad-correlati
 globalist.it##.ad-slot
 fantacalcio.it##.ad-video
 laltrapagina.it##.ad1
