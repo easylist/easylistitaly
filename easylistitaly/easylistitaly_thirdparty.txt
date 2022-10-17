@@ -100,6 +100,7 @@
 ||groupon.it/content-assembly/render/$subdocument,third-party
 ||gumlet.io^*/Banner-$domain=chetogenica.net
 ||guugol.it^*/banner/
+||hackerzone.click/banner/
 ||hdpass.click/images/fake-player/
 ||hrs.de/wizard.aspx?
 ||html.it/banner/
