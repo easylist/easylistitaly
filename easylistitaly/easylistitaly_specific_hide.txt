@@ -1824,7 +1824,7 @@ ilgallo.it##.leader-board
 lagazzettamessinese.it##.leader-right-wrap
 blablive.com##.leader-wrap-out
 primapaginaonline.it##.leaderbanner
-7giorni.info,close-up.it,foodweb.it,meteovista.it,pneusnews.it,prealpina.it,ridble.com,riskcompliance.it,today.it,ultimenotizieflash.com##.leaderboard
+7giorni.info,areanapoli.it,close-up.it,foodweb.it,meteovista.it,pneusnews.it,prealpina.it,ridble.com,riskcompliance.it,today.it,ultimenotizieflash.com##.leaderboard
 blastingnews.com##.leaderboard-article
 erbanotizie.com##.leaderboard-bottom
 italiangourmet.it##.leaderboard-col
