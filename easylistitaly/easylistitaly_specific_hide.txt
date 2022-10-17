@@ -1582,6 +1582,7 @@ giornalesm.com##.elementor-element-cfedfc3
 giornalesm.com##.elementor-element-d459522
 iamnaples.it##.elementor-element-d878c7f
 menteinformatica.it##.elementor-element-df7936e
+ilsalottodelcalcio.tv##.elementor-element-e5738ed
 lanuovariviera.it##.elementor-element-e7d5233
 radiogelaexpress.it##.elementor-element-ef8757c
 corrieredicomo.it##.elementor-element-f76437b
