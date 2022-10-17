@@ -657,6 +657,7 @@ paolociraci.it###sponsor-clima-160x160
 victorialibertas.it###sponsor-footer
 biellaoggi.it,casaleoggi.it,cuneooggi.it,piemonteoggi.it,vercellioggi.it###sponsor_dx
 biellaoggi.it,casaleoggi.it,cuneooggi.it,piemonteoggi.it,vercellioggi.it###sponsor_sx
+ildubbio.news###sponsorizzato
 calciopotenza.eu,casertanafc.it###sponsors
 bolognasportnews.it,ilpallonegonfiato.com###sponsors-wrapper
 sassuolooggi.it###spospo
