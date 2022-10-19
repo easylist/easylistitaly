@@ -1856,6 +1856,7 @@ casa.it##.listingStrip
 diretta.it##.live-betting-strip
 sorrisi.com##.live-news-advbox
 acquavivalive.it,altamuralive.it,andrialive.it,barilive.it,barlettalive.it,bisceglielive.it,bitontolive.it,canosalive.com,cassanolive.it,coratolive.it,fasanolive.com,gioialive.it,giovinazzolive.it,gravinalive.it,margheritalive.it,minervinolive.it,molfettalive.it,okmugello.it,ruvolive.it,santeramolive.it,terlizzilive.it,termolionline.it,tranilive.it,vastoweb.com,viviwebtv.it##.live-promo
+lupopornohd.it##.lnks-land
 lodeate.it##.lodea-widget
 federgolf.it##.loghi
 hcb.net##.logo
@@ -1866,6 +1867,7 @@ spoletonline.com##.longBanner
 lattemiele.com##.lp-link
 lapresse.it##.lp-topleft
 viaggiperfamiglie.it##.lsp_main_slider
+lupopornohd.it##.lst_ft_bn
 tuttitalia.it##.lt
 milanofinanza.it##.lyxorboxGreen
 omnifurgone.it##.m1-apb
