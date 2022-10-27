@@ -47,6 +47,7 @@
 ||casadivita.despar.it^$third-party
 ||cdn-immedia.net/banner/
 ||cdn.adultsadv.com^
+||cdn.iubenda.com^*/iubenda_cs.js$script,third-party
 ||cdn.plus500.com/media/banners/
 ||ciaotour.com/it/client/hotels/inline.htm?*&promo=$subdocument
 ||city-news.it/do/vast/
