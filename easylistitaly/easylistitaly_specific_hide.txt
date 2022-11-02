@@ -427,6 +427,7 @@ giornaleradio.fm###layerslider_10
 tellows.it###lb_header
 hockeycortina.it###lcs_logo_carousel_wrapper
 pupia.tv###leader-left2
+lagazzettasiracusana.it###leader-wrap
 espansionetv.it,torrechannel.it###leader-wrapper
 areanapoli.it,avmagazine.it,bisceglielive.it,cronachedibirra.it,dissacration.com,eurogamer.it,fiscaleweb.com,gingerandtomato.com,ilcinemaniaco.com,iochiamo.com,lussuosissimo.com,medicinalive.com,mondoreality.com,mrwebmaster.it,musickr.it,skiinfo.ch,skiinfo.it###leaderboard
 altreconomia.it###leaderboard-top
@@ -2574,7 +2575,7 @@ giornaleravenna.com##.widget_sp_image-image-link
 boatmag.it##.widget_sponsor
 radiodigione.net##.widget_ubm-banners-rotation
 motoexcape.com##.widget_w2dc_search_widget
-lagazzettamessinese.it##.widget_weptile-image-slider-widget
+lagazzettamessinese.it,lagazzettasiracusana.it##.widget_weptile-image-slider-widget
 apinsieme.it##.widget_wooslider_slideshow_slides
 vicenzanews.it##.wifiplaza
 tuttitalia.it##.wk
