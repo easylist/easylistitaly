@@ -955,6 +955,7 @@ ricettealvolo.it##.adv_content
 ricettealvolo.it##.adv_side
 calabria7.it##.advanced_floating_content
 automoto.it##.advblock
+ansa.it##.advblockshown
 garzantilinguistica.it##.advbox
 addicted2play.com,bicimagazine.it,bimcal.it,eurogamer.it,gioco.it,lausc.it,morningstar.it,podisti.net,trentinovolley.it##.advert
 ilfoglio.it,liberoquotidiano.it,ottopagine.it,pharmastar.it,piazzaffariweb.com##.advertisement
