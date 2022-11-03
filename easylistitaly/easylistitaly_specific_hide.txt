@@ -2539,6 +2539,7 @@ football-magazine.it##.vzasjfip-container
 ilsoftware.it##.w_banner
 lavorincasa.it##.wallpaper-1
 algheroeco.com,radioluna.it,sora24.it##.wallpaper-link
+quotidiano.net##.watermark-adv
 secerchicasa.it##.weblink_items.grid
 notiziarioeolie.it##.well
 pokeritalia24.it##.well-sm
