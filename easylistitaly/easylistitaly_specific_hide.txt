@@ -1700,7 +1700,7 @@ solitario.it##.gioco_public1
 giornaledelcilento.it##.giorn-prima-del-contenuto
 giornaledelcilento.it##.giorn-widget
 tvserial.it##.gm-place
-confidenze.com,italiaoggi.it,milanofinanza.it,salepepe.it,starbene.it,tustyle.it,veritaeaffari.it##.gmp
+confidenze.com,italiaoggi.it,mffashion.com,milanofinanza.it,salepepe.it,starbene.it,tustyle.it,veritaeaffari.it##.gmp
 laverita.info##.gmp-repeating-ads
 sportytrader.it##.go-to-bonus
 goriziaoggi.news##.goriz-widget
@@ -3308,6 +3308,7 @@ logisticanews.it#?#.td_block_wrap:-abp-has(a:-abp-contains(Contenuti sponsorizza
 lospiffero.com#?#.article-blog-default:-abp-has(span:-abp-contains(CONTENUTO SPONSORIZZATO))
 meccanicanews.com#?#.td_block_wrap:-abp-has(a:-abp-contains(Contenuti sponsorizzati))
 metalitalia.com#?#.sidebar-block:-abp-has(a[href^="https://track.webgains.com/click.html"])
+mffashion.com#?#.col-12.text-center:-abp-has(.special:-abp-contains(Contenuto Sponsorizzato))
 mffashion.com#?#.media-imgnews:-abp-has(span:-abp-contains(Contenuto Sponsorizzato))
 milanofinanza.it#?#.container-fluid.bg-light-green.section-articles:-abp-has(a[href^="https://group.intesasanpaolo.com/"])
 money.it#?#.flex.flex-col.space-y-3.relative:-abp-has(.mr-2)
