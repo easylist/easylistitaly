@@ -99,6 +99,7 @@ tusciaweb.eu###bannerFondo
 fip.it###bannerPushBarLG
 fip.it###bannerPushBarXS
 generacodice.com###bannerRight
+quice.it###bannerScheda
 edilportale.com###bannerSkin
 camperlife.it###bannerSx
 edilportale.com###bannerTopWrapper
