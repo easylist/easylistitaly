@@ -2648,7 +2648,7 @@ voglioporno.com##a[href*=".com/track/"]
 videopornoitalia.it##a[href*=".rivcash.com/"]
 altadefinizione01.page##a[href*="//altadefinizione-4k-ita.php"]
 birramoriamoci.it,bollablu.it,circusf1.com,computermania.org,domanidoveandiamo.it,efferadio.it,fattoincasadabenedetta.it,footballscouting.it,fut18italia.it,futurelements.it,fvjob.it,guerrestellari.net,gufo.it,hellogreen.it,hovogliadidolce.it,hwupgrade.it,hynerd.it,imlestar.com,infotelematico.com,justfashionmagazine.com,juworld.net,juzaphoto.com,latelanera.com,losport24.com,macitynet.it,maidirelink.it,medicinaonline.co,mialleno.it,mio-ip.eu,mr-loto.it,murkymask.com,nokioteca.net,nonapritequestoblog.it,okpedia.it,partiture.it,ricettealvolo.it,sempredirebanzai.it,stazioniradio.it,tecnofun.eu,tivusat.tv,trattamentinaturalibio.it,tuttoio.com,tuttotek.it,twebnews.it,uberti.eu,ubud.it,uiblog.it,unideanellemani.it,unquizalgiorno.com,viaggio-in-germania.de,videogiocare.it,windowsblogitalia.com##a[href*="//amzn.to/"]
-24live.it,affaritaliani.it,altraeta.it,amalfinotizie.it,amantideilibri.it,aziendabanca.it,birramoriamoci.it,blocchiautocad.it,boatmag.it,calcio.tw,canale3.tv,centotrentuno.com,concorsi-letterari.it,corrieredellacalabria.it,cremaoggi.it,cremonaoggi.it,cremonasport.it,digital-news.it,faretennis.com,freeonline.org,gaynews.it,giornalesm.com,girofvg.com,hwupgrade.it,ildiariometropolitano.it,ilsussidiario.net,ivl24.it,kimchiebasilico.it,lasiritide.it,latelanera.com,lavorincasa.it,leggopassword.it,millionaire.it,oglioponews.it,pagineazzurre.com,pdvg.it,pistoiasport.com,popeconomy.tv,radiomillennium.it,radiostellaweb.it,ricettedellanonna.net,riskcompliance.it,rivistanatura.com,salernonotizie.net,settesere.it,sportando.basketball,techprincess.it,tecnoandroid.it,telegramdirectory.it,temponews.it,tiburno.tv,tusciaweb.eu,tuttoandroid.net,tuttowrestling.com,tvadrano.com,umbriaradio.it,veronanews.net,volleyball.it,yesradiodance.com##a[href*="//bit.ly/"]
+24live.it,affaritaliani.it,altraeta.it,amalfinotizie.it,amantideilibri.it,aziendabanca.it,birramoriamoci.it,blocchiautocad.it,boatmag.it,calcio.tw,canale3.tv,centotrentuno.com,concorsi-letterari.it,corrieredellacalabria.it,cremaoggi.it,cremonaoggi.it,cremonasport.it,digital-news.it,faretennis.com,freeonline.org,gaynews.it,giornalesm.com,girofvg.com,hwupgrade.it,ildiariometropolitano.it,ilsussidiario.net,ivl24.it,kimchiebasilico.it,lasiritide.it,latelanera.com,lavorincasa.it,leggopassword.it,millionaire.it,oglioponews.it,pagineazzurre.com,pdvg.it,pistoiasport.com,popeconomy.tv,radiomillennium.it,radiostellaweb.it,ricettedellanonna.net,riskcompliance.it,rivistanatura.com,salernonotizie.net,settesere.it,sportando.basketball,techprincess.it,tecnoandroid.it,telegramdirectory.it,temponews.it,tiburno.tv,tusciaweb.eu,tuttoandroid.net,tuttowrestling.com,tvadrano.com,umbriaradio.it,veezie.st,veronanews.net,volleyball.it,yesradiodance.com##a[href*="//bit.ly/"]
 animeemanga.it,comprovendodischi.it,comprovendolibri.it,corrieredellacalabria.it,passionemaglie.it,stiletv.it,verovegan.com,viaggiasenzapensieri.com##a[href*="//goo.gl/"]
 filmstreaming.page##a[href*="//streaming-ita.php"]
 digital-news.it,lavorincasa.it##a[href*="//tinyurl.com/"]
@@ -3291,6 +3291,7 @@ aleteia.org#?#div[class^="css-"]:-abp-has(a:-abp-contains(contenuto sponsorizzat
 androidplanet.it#?#.wp-block-group__inner-container:-abp-has(a[href^="https://www.appscommesse.com/"])
 borsaitaliana.it#?#.m-relases__result:-abp-has(div:-abp-contains(Contenuto pubblicitario))
 bottadiculo.it#?#p[style="margin-bottom: 30px"]:-abp-has(a[href*="/dazn"])
+carrefour.it#?#.experience-component_hp_push_promo:-abp-has(#viewHomeDesktop-middleSp-sponsored_products-0)
 ebay.it#?#.s-item:-abp-has(span.s-item__title--tagblock__SPONSORED)
 ecodibergamo.it#?#.section-articles--advertising:-abp-has(.sponsored)
 eurosport.it#?#.my-2.flex.items-center.justify-center:-abp-has(a[href^="https://prf.hn/"])
@@ -3319,7 +3320,6 @@ paginegialle.it#?#.list-element.list-element--free:-abp-has(.list-element__label
 plastix.it#?#.td_block_wrap:-abp-has(span:-abp-contains(Contenuti sponsorizzati))
 quattroruote.it#?#.c-post:-abp-has(a:-abp-contains(Sponsored by ))
 quotidianodelsud.it#?#.et_pb_css_mix_blend_mode_passthrough:-abp-contains(Sponsorizzato)
-carrefour.it#?#.experience-component_hp_push_promo:-abp-has(#viewHomeDesktop-middleSp-sponsored_products-0)
 radioluna.it#?#.feat-widget-wrap:-abp-has(div:-abp-contains(INFORMAZIONE REDAZIONALE))
 technofashion.it#?#.td_block_wrap:-abp-has(span:-abp-contains(Advertorial))
 tg24.sky.it#?#.c-card.c-card--CA10-m.c-card--CA10-t.c-card--CA10-d.c-card--base:-abp-has(.c-label--article-sponsored)
