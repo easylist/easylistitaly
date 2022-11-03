@@ -3319,6 +3319,7 @@ paginegialle.it#?#.list-element.list-element--free:-abp-has(.list-element__label
 plastix.it#?#.td_block_wrap:-abp-has(span:-abp-contains(Contenuti sponsorizzati))
 quattroruote.it#?#.c-post:-abp-has(a:-abp-contains(Sponsored by ))
 quotidianodelsud.it#?#.et_pb_css_mix_blend_mode_passthrough:-abp-contains(Sponsorizzato)
+carrefour.it#?#.experience-component_hp_push_promo:-abp-has(#viewHomeDesktop-middleSp-sponsored_products-0)
 radioluna.it#?#.feat-widget-wrap:-abp-has(div:-abp-contains(INFORMAZIONE REDAZIONALE))
 technofashion.it#?#.td_block_wrap:-abp-has(span:-abp-contains(Advertorial))
 tg24.sky.it#?#.c-card.c-card--CA10-m.c-card--CA10-t.c-card--CA10-d.c-card--base:-abp-has(.c-label--article-sponsored)
