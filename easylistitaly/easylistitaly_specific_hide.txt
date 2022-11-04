@@ -2157,6 +2157,7 @@ greenstyle.it##.section-sticky-rail
 acperugiacalcio.com##.section__sponsor-row
 atalanta.it##.section_sponsor
 ad-italia.it##.sectionbox
+onlinesiracusa.it##.sek-link-to-url
 malpensanews.it##.self-banner
 trovaprezzi.it##.sell_on_ebay_wrapper
 excite.it##.serp-item
