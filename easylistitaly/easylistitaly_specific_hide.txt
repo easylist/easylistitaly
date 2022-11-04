@@ -2540,6 +2540,7 @@ ilsoftware.it##.w_banner
 lavorincasa.it##.wallpaper-1
 algheroeco.com,radioluna.it,sora24.it##.wallpaper-link
 quotidiano.net##.watermark-adv
+onlinesiracusa.it##.wds_slider_cont
 secerchicasa.it##.weblink_items.grid
 notiziarioeolie.it##.well
 pokeritalia24.it##.well-sm
@@ -3228,7 +3229,7 @@ abruzzolive.it##img[width="480"][height="400"]
 104news.it,abruzzoweb.it,corcianonline.it,ilmiogiornale.net,orvietosi.it,radiocastelluccio.com,radiopiu.net,radiortm.it,trasimenonline.it##img[width="500"]
 tusciaweb.it##img[width="520"][height="100"]
 radio5punto9.it##img[width="589"][height="340"]
-abruzzoweb.it,filastrocche.it,frammentidicodice.com,ilgiornaledisalerno.it,nonapritequestoblog.it,radio5punto9.it,radiortm.it,tmnotizie.com##img[width="600"]
+abruzzoweb.it,filastrocche.it,frammentidicodice.com,ilgiornaledisalerno.it,nonapritequestoblog.it,onlinesiracusa.it,radio5punto9.it,radiortm.it,tmnotizie.com##img[width="600"]
 portolivorno.it##img[width="630"]
 canonclubitalia.com##img[width="632"][height="123"]
 catanista.eu,duralavita.com##img[width="640"]
