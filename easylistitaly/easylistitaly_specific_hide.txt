@@ -2422,6 +2422,7 @@ infocilento.it##.tdi_76
 cronachedi.it##.tdi_82
 rinnovabili.it##.tdi_88_884
 periodicodaily.com##.tdi_9
+telebari.it##.tdi_93
 tomshw.it##.teetee-embed
 telesud.it##.teles-header-banner
 positanonews.it##.testata
