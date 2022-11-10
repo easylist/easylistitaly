@@ -809,6 +809,7 @@ stabiachannel.it###vertical-right-banner
 qdpnews.it,tipiace.it###vetrina
 sposa.it###vetrina-content
 altarimini.it###videoRedazionale
+carrefour.it###viewCategoryDesktopSubHPFood-middleSp-sponsored_products-0
 nerdplanet.it###wallpaper
 easyviaggio.com###wdds_po_middle
 rtalive.it###wdslider-5
