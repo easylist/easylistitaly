@@ -2372,6 +2372,7 @@ ilparmense.net##.td_uid_18_606dd7c7652fd_rand
 cronacadelveneto.com##.td_uid_25_6159d23837660_rand
 ilparmense.net##.td_uid_2_606dd7c74fb8e_rand
 siciliaogginotizie.it##.td_uid_31_61780f1f0305c_rand
+italiasera.it##.td_uid_54_637ce6405e66b_rand
 romanews.eu##.td_uid_7_5fc0c934d6e11_rand
 infocilento.it##.tdi_100
 fiorentina.news##.tdi_108_886
@@ -2795,7 +2796,6 @@ juzaphoto.com##a[onclick^="ajax_bannerclicks"]
 lavocedellevalli.it##a[onclick^="ga('send', 'event',"]
 controradio.it,foodohfood.it,latinapress.it##a[rel*="sponsored"]
 italiasera.it##a[rel="nofollow noopener"]
-italiasera.it##a[rel="noopener ”nofollow” noreferrer"]
 condominioweb.com,gamingtoday.it,rassegnastampa.news,sex4u.ch,solovela.net##a[rel^="sponsored"]
 mobileworld.it##a[style="background-color: #fe8774; padding: 10px; border: none; text-align: center; text-decoration: none; font-size: 18px; width: 200px; font-weight: bold; border-radius: 10px; color: white;"]
 androidworld.it##a[style="background-color: #ff9900; padding: 10px; border: none; text-align: center; text-decoration: none; font-size: 18px; width: 200px; font-weight: bold; border-radius: 10px; color: white;"]
