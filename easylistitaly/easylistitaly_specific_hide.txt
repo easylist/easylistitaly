@@ -1518,6 +1518,7 @@ eurogamer.it##.desktop-mpu
 scienzenotizie.it##.desktop-top-banner
 fiorentinanews.com##.destra_banner
 flashscore.it##.detail-bonus-match-summary-content-inner
+diretta.it##.detailLeaderboard
 economyup.it,movieplayer.it,techcompany360.it##.dfp
 blastingnews.com##.dfp-mobile-leadeboard
 likesx.com##.dgdom
@@ -1989,6 +1990,7 @@ dailybest.it##.nuovobanner
 empolifc.com##.o-section--promo
 loccidentale.it##.occ-banner__sidebar
 diretta.it##.odds
+diretta.it##.oddsWrapper
 tuttitalia.it##.oe
 esportsonline.it##.oe-wrapper
 techzilla.it##.offerta-img-box
