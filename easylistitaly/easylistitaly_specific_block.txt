@@ -239,6 +239,7 @@
 ||animeemanga.it^*-prime-video-288x360.
 ||aniplay.it/companies-frame/
 ||anisearch.it/amazon?
+||anisearch.it/partner
 ||annuariodelcinema.it^*/banner-
 ||annuariodelcinema.it^*/banner_
 ||annuariodelcinema.it^*/banners/

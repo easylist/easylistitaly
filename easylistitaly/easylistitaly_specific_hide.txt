@@ -206,6 +206,7 @@ scubaportal.it###bodylink
 diretta.it###bonus-offers
 recensionelibro.it###book-shop
 sslazio.it###bottom
+anisearch.it###bottombox
 erbanotizie.com###box
 corriere.it###box-codici-sconto
 hwupgrade.it###box-next-container
