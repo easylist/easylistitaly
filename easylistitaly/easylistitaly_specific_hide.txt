@@ -1402,6 +1402,7 @@ cliccascienze.it##.clicc-prima-del-contenuto
 edilportale.com##.click-Skin
 telenord.it##.click-banner
 telenord.it##.click-foto
+moscarossa.biz##.click_banner
 umbria.webcam##.client_logos
 stile-magazine.it##.clients-logos
 puntocellulare.it##.clklnk

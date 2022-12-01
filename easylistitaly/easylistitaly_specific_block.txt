@@ -507,6 +507,7 @@
 ||bambiniconlavaligia.com^*/Ambassador-arredamenti-
 ||bambiniconlavaligia.com^*/dormoa-
 ||bambiniconlavaligia.com^*/Olio-di-CBD-
+||banner.moscarossa.biz^
 ||baraondanews.it^*-banner-
 ||baraondanews.it^*/350x180-
 ||baraondanews.it^*/auto-doc.
@@ -2773,6 +2774,7 @@
 ||monzanet.it/images/inpage_banners/
 ||monzanet.it/images/sponsors/
 ||moondo.info/adv/
+||moscarossa.biz/bnr/
 ||motoexcape.com^*-Skin-
 ||motori360.it^*-300-x-150-px.
 ||motori360.it^*/300x150.
