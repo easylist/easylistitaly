@@ -945,6 +945,7 @@ shipmag.it##.adv-custom-widget
 paroladeltifoso.it##.adv-image
 animatamente.net,arezzoweb.it,bici.pro,corriereromagna.it,udineoggi.news##.adv-link
 ortosemplice.it##.adv-links
+infomotori.com##.adv-listino-nuovo
 rbe.it##.adv-section
 radiocittadelcapo.it##.adv-space
 diredonna.it,gravidanzaonline.it,robadadonne.it##.adv-style
@@ -1869,6 +1870,7 @@ lupopornohd.it##.lnks-land
 lodeate.it##.lodea-widget
 federgolf.it##.loghi
 hcb.net##.logo
+infomotori.com##.logo-topdealers
 timinternet.it##.logoAmazon
 timinternet.it##.logoEbay
 timinternet.it##.logoSecretEscapes
