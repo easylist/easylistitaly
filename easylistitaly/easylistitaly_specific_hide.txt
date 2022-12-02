@@ -1188,7 +1188,7 @@ arte.it##.banner_cont
 assisinews.it,pgcasa.it,volleyball.it##.banner_container
 everyeye.it##.banner_destra
 everyeye.it##.banner_destra_mobile
-finanza.com##.banner_dx
+finanza.com,italpress.com##.banner_dx
 ragusanews.com##.banner_dx_google
 ilcittadinomb.it,laprovinciadicomo.it,laprovinciadivarese.it##.banner_footer
 villaggiomusicale.com##.banner_footerboard
