@@ -34,6 +34,7 @@
 ||bannerpromotion.it^$third-party
 ||banzaiadv.it^$third-party
 ||beead.it^$third-party
+||bnamic.com^$third-party
 ||break-even.it^$third-party
 ||brznetwork.com^$third-party
 ||btsaffiliations.com^$third-party
