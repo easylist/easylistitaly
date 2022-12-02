@@ -2105,6 +2105,7 @@
 ||itacanotizie.it^*/bj-3_
 ||itacanotizie.it^*/casano-
 ||itacanotizie.it^*/e4dv-
+||italia-informa.com^*/banner/
 ||italia.fm^*/leaseweb.gif
 ||italiaatavola.net/images/banners/
 ||italiaatavola.net/show_banner.aspx

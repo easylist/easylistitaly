@@ -1701,6 +1701,7 @@ ferraraitalia.it##.gdlr-logo-right-banner
 1001giochi.it##.general-leaderboard
 poki.it##.gf.Hd.zc
 354353.com##.gggsadad21
+italia-informa.com##.giapPageAdvCont
 mahjong.it##.giochi_h
 solitario.it##.gioco_public1
 giornaledelcilento.it##.giorn-prima-del-contenuto
@@ -1979,6 +1980,7 @@ virgilio.it##.newboxIs
 virgilio.it##.newboxIsOrizz
 ansa.it##.news-special-box
 montagna.tv##.news-sponsorizzate
+italia-informa.com##.newsitemAdv
 lagazzettaaugustana.it,obiettivonews.it,plaffo.com##.nivo-imageLink
 goodtrekking.it##.no-one
 filmpertutti.onl##.no_pop
