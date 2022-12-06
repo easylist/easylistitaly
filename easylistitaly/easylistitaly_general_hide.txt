@@ -135,6 +135,7 @@
 ##.ADV300_250_600_Content
 ##.ADVBig_Content
 ##.ADVFLEX_250_Content
+##.AlterVista_Banner
 ##.AlterVista_GoogleAdsense
 ##.Banner_VideoAd_Interno
 ##.Pubblicita
@@ -401,4 +402,5 @@
 ##a[href^="https://www.centoxcento.net/?track="]
 ##a[href^="https://www.dazn.com/"][href*="?utm_source=affiliate"]
 ##a[href^="https://www.nigiara.it/scripts/redir.php?url=https://amzn.to/"]
+##av-adv-slot
 ##div[id^="rtbuzz_"]
