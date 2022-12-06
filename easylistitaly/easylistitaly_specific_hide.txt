@@ -2304,6 +2304,7 @@ sportytrader.it##.sticky-header_banner_first
 sempionenews.it##.sticky-posts__redazionali
 quattroruote.it##.sticky-sponsor
 gay.it##.sticky-top
+leggo.it##.stickyAdv
 occhionotizie.it##.sticky_bar_container
 finanzaonline.com,webnews.it##.sticky_wrapper
 prezzisalute.com##.stickyleft
