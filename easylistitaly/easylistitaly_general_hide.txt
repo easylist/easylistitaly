@@ -338,6 +338,7 @@
 ##.tabella2Pubblicita
 ##.tabella3Pubblicita
 ##.tabellaPubblicita
+##.tbm-adv-inside_desktop
 ##.tcc-banner
 ##.tccbanner
 ##.textual-adv-text
