@@ -834,7 +834,6 @@
 ||centropagina.it^*-MEDIUM-
 ||centropagina.it^*-SKIN-
 ||centropagina.it^*-SMALL-
-||certastampa.it/images/utenti/repertorio/
 ||chefperpassione.it^*/astadelmobile.jpg
 ||chefperpassione.it^*/compagnia-pesto.jpg
 ||chefperpassione.it^*/iren.jpg
