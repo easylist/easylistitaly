@@ -2809,6 +2809,7 @@ androidworld.it##a[style="background-color: #ff9900; padding: 10px; border: none
 amica.it##a[style="width: 300px;display: block;z-index: 999999;height: 268px;position: absolute;top: 0;left: 0;"]
 techprincess.it##a[target="_blank"] > img[width="400"][height="400"]
 direttafacile.it##a[target="pubblicita.php"]
+telenicosia.it##aside[id*="media_image"]
 aforismi.meglio.it##button a[target="_blank"]
 genoanews1893.it##div[astyle="text-align: center; width: 336px; height: 280px; padding: 3px 0px 3px 0px;"]
 autoscout24.it##div[class*="FinancingAndInsurance"]
