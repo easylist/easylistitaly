@@ -166,7 +166,7 @@ dinamobasket.com###block-106
 meridiananotizie.it###block-11
 teleregionelive.it###block-111
 telelazionord.it###block-129
-foggiapost.com,meridiananotizie.it###block-13
+foggiapost.com,imusicfun.it,meridiananotizie.it###block-13
 foggiapost.com###block-14
 meridiananotizie.it,mobileblogger.it###block-15
 cronacaossona.com###block-2
