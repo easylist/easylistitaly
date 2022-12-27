@@ -15,7 +15,7 @@
 @@||api.everli.com/sm/api/*&adgroupid=$~third-party,xmlhttprequest
 @@||assets.evolutionadv.it/comingsoon_it/comingsoon_it-fresh.new.js$domain=comingsoon.it
 @@||assets.evolutionadv.it/quantcast-fix.css$domain=money.it
-@@||assets.evolutionadv.it/violations/*.violations.js$domain=money.it
+@@||assets.evolutionadv.it/violations/*.violations.js$domain=comingsoon.it|money.it
 @@||assets.evolutionadv.it^*/gpt.min.js$domain=money.it
 @@||assets.evolutionadv.it^*/optiload.min.js$domain=comingsoon.it|money.it
 @@||assets.evolutionadv.it^*/prebid.min.js$domain=comingsoon.it|money.it
