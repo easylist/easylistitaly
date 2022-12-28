@@ -1291,8 +1291,8 @@ ilquotidianoditalia.it##.bn-md
 ilquotidianoditalia.it##.bn-sm
 stateofmind.it##.bnn-fullwidth
 abcsalute.it##.bnner_container
-ilgeniodellostreaming.bar##.bnnr1
-ilgeniodellostreaming.bar##.bnnr2
+ilgeniodellostreaming.bar,ilgeniodellostreaming.press##.bnnr1
+ilgeniodellostreaming.bar,ilgeniodellostreaming.press##.bnnr2
 meteovalmorea.it##.bnr-row
 staffettaonline.com##.bnrZonaLati
 giornaledibarga.it##.bnside
@@ -2513,6 +2513,7 @@ portadimare.it##.unite-carousel-wrapper
 connessionivpn.it##.universal-cta__inner
 siciliaonpress.com##.upper-footer
 turistipercaso.it##.utilink
+giardiniblog.it##.uzuwtdg
 sanihelp.it##.v2-header-banner
 bresciaoggi.it,larena.it##.v2_banner-wrapper
 ilgiornaledivicenza.it,larena.it##.v3_horz-banner

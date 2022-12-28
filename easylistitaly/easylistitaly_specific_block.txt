@@ -5060,10 +5060,10 @@
 ||stgy.ovh/~shared/images/d_a/
 ||today.it/~shared/cgi-bin/d_a/
 !
-/^https?:\/\/[0-9a-z]{8,}\.com\/.*/$~media,third-party,domain=animeforce.it|cb01.pizza|cb01.press|cbo1.bar|cineblog01.hair|cineblog01.sale|cineblog01.taxi|cineblog01.trade|eurekaddl.cfd|eurekaddl.lol|eurostreaming.actor|eurostreaming.cfd|eurostreaming.pics|eurostreaming.sbs|eurostreaming.social|eurostreaming.voyage|guardaserie.skin|guardaserie.social|ilgeniodellostreaming.bar|ilgeniodellostreaming.pictures|ilgeniodellostreaming.vip|italia-film.click|nuovoindirizzo.com|pepperlive.info|streamingcommunity.top|tantifilm.tattoo
-/^https?:\/\/[0-9a-z]{8,}\.xyz\/.*/$~media,third-party,domain=socceron.name
+/^https?:\/\/[0-9a-z]{8,}\.com\/.*/$~media,third-party,domain=altadefinizione-01.info|altadefinizione.immo|altd.uno|animeforce.it|cb01.pizza|cb01.press|cb01.taxi|cbo1.bar|cineblog01.hair|cineblog01.sale|cineblog01.taxi|cineblog01.trade|eurekaddl.cfd|eurekaddl.lol|eurostreaming.actor|eurostreaming.cc|eurostreaming.cfd|eurostreaming.pics|eurostreaming.rodeo|eurostreaming.sbs|eurostreaming.social|eurostreaming.voyage|filmpertutti.loan|guardaserie.skin|guardaserie.social|guardaserie01.click|ilgeniodellostreaming.bar|ilgeniodellostreaming.hair|ilgeniodellostreaming.live|ilgeniodellostreaming.pictures|ilgeniodellostreaming.press|ilgeniodellostreaming.vip|italia-film.click|nuovoindirizzo.com|pepperlive.info|streamingcommunity.stream|streamingcommunity.top|streamingita.club|tantifilm.mobi|tantifilm.tattoo|tuttostream.top
+/^https?:\/\/[0-9a-z]{8,}\.xyz\/.*/$~media,third-party,domain=altadefinizione.foundation|altadefinizione.motorcycles|guardaflix.cfd|guardaserie.gives|socceron.name
 ! (/sw.js)
-/^https?:\/\/.*\/.*sw[0-9._].*/$script,domain=dundi.it|pornototale.com|skip.li
+/^https?:\/\/.*\/.*sw[0-9._].*/$script,domain=dundi.it|guardaflix.cfd|guardaserie.gives|pornototale.com|skip.li
 !
 /^https?:\/\/.*\/[a-z0-9A-Z_]{2,15}\.(php|jx|jsx|1ph|jsf|jz|jsm|j$)/$image,script,subdocument,domain=amatorialeporno.it|culonudo.com|granditetteporno.it|listasitiporno.it|matrignaporno.it|matureporno.it|milfporno.it|porno-anale.it|porno-gay.it|porno-hardcore.it|porno-lesbica.it|pornoadolescente.it|pornomatura.it|scopateitaliane.com|scopateitaliane.it|videoporno-gratis.it
 ! webrtc ads
