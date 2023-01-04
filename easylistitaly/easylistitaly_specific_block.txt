@@ -88,6 +88,7 @@
 ||adnkronos.com^*/banner/
 ||adnkronos.com^*/Promo/
 ||adozionilibriscolastici.it/advertiser/
+||adserver.ilgazzettinovesuviano.com^
 ||advtraining.it/img/banner/
 ||advtraining.it/img/banner_
 ||affarienews.it/admin/public/banner/

@@ -938,7 +938,7 @@ investireoggi.it##.ads-container
 ildolomiti.it##.adsB
 corrieredellacalabria.it##.ads_corriere
 amalfinews.it,beatgogo.it,cetaranews.it,chistachiamando.it,ilportico.it,ilvescovado.it,liratv.it,occhisusalerno.it,pcprofessionale.it,positanonotizie.it,ravellonotizie.it,trova-aperto.it,valtellinamobile.it##.adsense
-animalidacompagnia.it##.adserver
+animalidacompagnia.it,ilgazzettinovesuviano.com##.adserver
 adessoin.tv,allaguida.it,alpha59.it,altoadigetv.it,altreconomia.it,amica.it,ansa.it,buttalapasta.it,calciatoribrutti.com,calciomercato.com,cittaceleste.it,curioctopus.it,dire.it,dissapore.com,dolciveloci.it,donnaglamour.it,economiafinanzaonline.it,famigliacristiana.it,fcinter1908.it,forbes.it,forzaroma.info,gay.it,gelocal.it,gianlucadimarzio.com,girovagandointrentino.it,gta-expert.it,guardachevideo.it,ilfattoquotidiano.it,ilpost.it,ilsole24ore.com,itasportpress.it,juvenews.eu,latina24ore.it,leonardo.it,libero.it,marcopolo.tv,mediaset.it,milanofinanza.it,movieplayer.it,multiplayer.it,nanopress.it,newsmondo.it,nospoiler.it,notiziebenessere.it,notiziemilan.it,notiziemusica.it,oasport.it,passioneinter.com,pianetamilan.it,pourfemme.it,prealpina.it,primochef.it,radioindiretta.fm,repubblica.it,ricettedalmondo.it,riza.it,salepepe.it,sassuolocalcio.it,skuola.net,staffettaonline.com,stylosophy.it,supereva.it,toro.it,toronews.net,toscanadaily.com,trentinotv.it,virgilio.it,vocenuova.tv,weekendpremium.it,winesurf.it##.adv
 teleunica.com##.adv-body
 centrometeoitaliano.it##.adv-cmi
