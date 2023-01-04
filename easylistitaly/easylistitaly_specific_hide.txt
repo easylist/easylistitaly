@@ -3132,6 +3132,7 @@ libero.it,mbnews.it,oroscopoastra.com,tp24.it##div[style^="width: 300px; height:
 gelocal.it##div[style^="width: 300px;height: 80px;border:"]
 gazzettaconcorsi.eu##div[style^="width: 728px; height: 90px;"]
 ilfogliodellarte.it##div[style^="width:250px; height:250px;"]
+juzaphoto.com##div[style^="width:300px; height:250px;"]
 askanews.it,tvserial.it##div[style^="width:300px;height:100px;"]
 trattoriusati.com##div[style^="width:336px; height:280px;"]
 amalfinews.it,cetaranews.it,ilportico.it,ilvescovado.it,liratv.it,occhisusalerno.it,positanonotizie.it,ravellonotizie.it##header > div > p > span > a
