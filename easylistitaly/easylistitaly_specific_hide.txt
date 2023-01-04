@@ -1957,6 +1957,7 @@ fitri.it,fpi.it##.moduletable-sponsor
 telelazionord.it##.mom-e3lanat-inner
 valdichianaoggi.it##.mom-e3lanat-wrap
 mondobalneare.com##.mondobalneare-banner
+cremaoggi.it,cremonaoggi.it,oglioponews.it##.mondopadano-container
 diredonna.it,gravidanzaonline.it,robadadonne.it##.mp-code
 boingtv.it,eurogamer.it,foodnetwork.it,gioco.it,morningstar.it##.mpu
 gizchina.it##.mrf-adv__wrapper
