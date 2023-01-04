@@ -893,7 +893,7 @@ radioradio.it,uominietrasporti.it##._ning_inner
 100ideeperristrutturare.it,calabria7.it,casa-naturale.com,quattrozampe.online,radioluce.it,villeecasali.com##._ning_outer
 comunicaffe.it##._ningzone_grid
 ilsole24ore.com##.a-leaderboard
-anteprima24.it,centotrentuno.com,corriereelorino.it,erbanotizie.com,fishingboatmagazine.it,giornaleibleo.it,grandangoloagrigento.it,igossip.it,ilfattonisseno.it,ilgolfonline.it,lamescolanza.com,laragione.eu,lombardinelmondo.org,monrealepress.it,newscatania.com,piunotizie.it,radiocassinostereo.com,ravennawebtv.it,restoalsud.it,rietinvetrina.it,sicilia24h.it,ultimenotizieflash.com,vivicentro.it##.a-single
+anteprima24.it,centotrentuno.com,corriereelorino.it,erbanotizie.com,fishingboatmagazine.it,giornaleibleo.it,grandangoloagrigento.it,igossip.it,ilfattonisseno.it,ilgolfonline.it,lamescolanza.com,laragione.eu,lombardinelmondo.org,monrealepress.it,newscatania.com,piunotizie.it,radiocassinostereo.com,ravennawebtv.it,restoalsud.it,rietinvetrina.it,sicilia24h.it,ultimenotizieflash.com,vesuviolive.it,vivicentro.it##.a-single
 badcomics.it,badgames.it,badtaste.it,badtv.it##.aalb-880-product-carousel-unit
 cookist.it##.aalb-pa-product-container
 gnius.it##.aalb-product-carousel-unit
