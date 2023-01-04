@@ -1353,6 +1353,7 @@ tvserial.it##.break-adv
 sora24.it##.breakingNews
 giocareinborsa.com##.broker-table
 castelvetranonews.it##.brotazione
+cronachedelsannio.it##.bs-sks
 bznews24.it##.bsaProCarousel
 bznews24.it,infomedianews.com,piazzasalento.it##.bsaProContainerNew
 diaconale.it##.bt_banner
@@ -1790,6 +1791,7 @@ spaziogames.it,tomshw.it##.instant-gaming-widget
 larionews.com##.intercept
 milanofinanza.it##.intesahead
 dailybest.it##.intextbanner
+cronachedelsannio.it##.ipdvxeymh
 tviweb.it##.ir-sidebar > img
 repubblica.it##.is-marketing
 ispazio.net##.ispaz-adlabel
