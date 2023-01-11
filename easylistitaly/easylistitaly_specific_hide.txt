@@ -270,6 +270,7 @@ news.cinecitta.com###content-banner1
 news.cinecitta.com###content-banner2
 tltonline.it###content-footer-section
 pordenonecalcio.com###content-section-3
+ilgiorno.it,ilrestodelcarlino.it,iltelegrafolivorno.it,lanazione.it,quotidiano.net###contentRefact > div
 blablive.com###content_bonus
 affaritaliani.it###covid19
 autoseller.it###ctl00_ContentCentraleBanner
@@ -2565,7 +2566,7 @@ football-magazine.it##.vzasjfip-container
 ilsoftware.it##.w_banner
 lavorincasa.it##.wallpaper-1
 algheroeco.com,radioluna.it,sora24.it##.wallpaper-link
-quotidiano.net##.watermark-adv
+ilgiorno.it,ilrestodelcarlino.it,iltelegrafolivorno.it,lanazione.it,quotidiano.net##.watermark-adv
 onlinesiracusa.it##.wds_slider_cont
 secerchicasa.it##.weblink_items.grid
 notiziarioeolie.it##.well
@@ -3137,6 +3138,10 @@ ilfogliodellarte.it##div[style^="width:250px; height:250px;"]
 juzaphoto.com##div[style^="width:300px; height:250px;"]
 askanews.it,tvserial.it##div[style^="width:300px;height:100px;"]
 trattoriusati.com##div[style^="width:336px; height:280px;"]
+ilgiorno.it,ilrestodelcarlino.it,iltelegrafolivorno.it,lanazione.it,quotidiano.net##div[width="300"]
+ilgiorno.it,ilrestodelcarlino.it,iltelegrafolivorno.it,lanazione.it,quotidiano.net##div[width="320"]
+ilgiorno.it,ilrestodelcarlino.it,iltelegrafolivorno.it,lanazione.it,quotidiano.net##div[width="728"]
+ilgiorno.it,ilrestodelcarlino.it,iltelegrafolivorno.it,lanazione.it,quotidiano.net##div[width="990"]
 amalfinews.it,cetaranews.it,ilportico.it,ilvescovado.it,liratv.it,occhisusalerno.it,positanonotizie.it,ravellonotizie.it##header > div > p > span > a
 meteosatonline.it##hr[style="height:5px; background: #9EB4FF;"]
 trovacinema.repubblica.it##i-amphtml-sizer[style="padding-top: 25.7732%;"]
