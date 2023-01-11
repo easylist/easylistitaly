@@ -429,6 +429,7 @@ sienafree.it###ja-banner300x250
 sienafree.it###ja-bannertop300x250
 sienafree.it###ja-leaderboard
 local.ch###js-banner
+traderlink.it###js-strumenti-finanziari-header
 giornaleradio.fm###layerslider_10
 tellows.it###lb_header
 hockeycortina.it###lcs_logo_carousel_wrapper
@@ -3132,6 +3133,7 @@ thegamesmachine.it##div[style="width:970px;height:250px;margin: 0 auto 5px;"]
 lavorareallestero.it##div[style^="height:280px; width:357px;"]
 wallnews24.it##div[style^="position:fixed;top:0;bottom:0;left:0;right:0;z-index:0; background-image:url"]
 libero.it,mbnews.it,oroscopoastra.com,tp24.it##div[style^="width: 300px; height: 250px;"]
+traderlink.it##div[style^="width: 300px;"]
 gelocal.it##div[style^="width: 300px;height: 80px;border:"]
 gazzettaconcorsi.eu##div[style^="width: 728px; height: 90px;"]
 ilfogliodellarte.it##div[style^="width:250px; height:250px;"]
