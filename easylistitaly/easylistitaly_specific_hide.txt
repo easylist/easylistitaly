@@ -1972,7 +1972,7 @@ nordmilano24.it##.musthead
 affaritaliani.it##.mutui
 calcioatalanta.it,calciocasteddu.it,calciocremonese.it,calciofere.it,calciogrifo.it,calciohellas.it,calciolecce.it,calciorosanero.it,calciospezia.it,forzaparma.it,labaricalcio.it,qdmnotizie.it,siamolaroma.it,sololalazio.it,tifocosenza.it,trapanigranata.it##.mvp-wall-link
 leccochannelnews.it##.mvp-wallpaper
-finanzaonline.com##.mxm_wrapper
+finanza.com,finanzaonline.com##.mxm_wrapper
 passioneorologio.it##.my_best-price-btn
 donnaclick.it##.myadv
 calabrianews.it,concorezzo.org##.n2-section-smartslider
@@ -2353,7 +2353,7 @@ bitquotidiano.it##.takeover
 tvserial.it##.tax-placement-center
 ilsoftware.it##.tb_widget_as300
 superscommesse.it##.tbl-table
-agrodolce.it,autoblog.it,bebeblog.it,blogo.it,borse.it,calcioblog.it,cineblog.it,ecoblog.it,fashionblog.it,finanzaonline.com,gossipblog.it,greenstyle.it,html.it,melablog.it,motoblog.it,pinkblog.it,pmi.it,soundsblog.it,studentville.it,tvblog.it,wallstreetitalia.com,webnews.it##.tbm-code
+agrodolce.it,autoblog.it,bebeblog.it,blogo.it,borse.it,calcioblog.it,cineblog.it,ecoblog.it,fashionblog.it,finanza.com,finanzaonline.com,gossipblog.it,greenstyle.it,html.it,melablog.it,motoblog.it,pinkblog.it,pmi.it,soundsblog.it,studentville.it,tvblog.it,wallstreetitalia.com,webnews.it##.tbm-code
 betitaliaweb.it##.tbody + .bonus-background
 cattolica.info##.tc_adm
 avtrend.it##.tcb-button-link
