@@ -48,6 +48,7 @@
 ||cdn-immedia.net/banner/
 ||cdn.adultsadv.com^
 ||cdn.plus500.com/media/banners/
+||cheautocompro.it/widget-$third-party
 ||ciaotour.com/it/client/hotels/inline.htm?*&promo=$subdocument
 ||city-news.it/do/vast/
 ||civitatis.com/widget-activities/?affiliated=$third-party
