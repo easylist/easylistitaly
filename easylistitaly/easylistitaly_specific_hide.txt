@@ -671,6 +671,7 @@ bolognasportnews.it,ilpallonegonfiato.com###sponsors-wrapper
 sassuolooggi.it###spospo
 nexusedizioni.it,stabiachannel.it###spot
 zeusnews.it###spotEsterno
+magazinedelledonne.it###sticky1
 animeclick.it###stile_link
 sportrentino.it###stit-link-sponsor
 dragonballforever.it###stream-item-widget-3
