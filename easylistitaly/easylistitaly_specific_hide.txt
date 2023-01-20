@@ -1564,7 +1564,9 @@ siciliaonpress.com##.elementor-element-1247f0a
 giornalesm.com##.elementor-element-1c08281c
 iamnaples.it##.elementor-element-1cc40659
 financecommunity.it##.elementor-element-1f289da8
+gazzettadegliaurunci.it##.elementor-element-2383e9d
 iamnaples.it##.elementor-element-27c9edcc
+gazzettadegliaurunci.it##.elementor-element-2b1e2c5
 giornalesm.com##.elementor-element-2f4040ea
 lanotiziagiornale.it##.elementor-element-30ee3867
 coronavirusroma.com##.elementor-element-3579018
@@ -2230,6 +2232,7 @@ hdgolf.it##.slick-slide
 etvmarche.it,fermanafc.com,magentanostra.it,netflixlovers.it,radiosilver.it,settesere.it,uslecce.it,ustriestinacalcio1918.it##.slick-track
 radioradio.it##.slide
 unimondo.org##.slide-image
+gazzettadegliaurunci.it##.slideInUp
 livornolive.it,toscana.live##.slidelink
 oipamagazine.it,radiosvolta.it##.slider
 radiomillennium.it##.slider-banner
