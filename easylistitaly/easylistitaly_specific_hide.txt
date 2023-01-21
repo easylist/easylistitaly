@@ -2057,6 +2057,7 @@ dolcidee.it,rtinradio.com,teatronaturale.it,university-esports.it##.partners
 replytotem.com##.partners-carousel
 100ideeperristrutturare.it,casa-naturale.com,quattrozampe.online,villeecasali.com##.partners-wrapper
 infobuild.it##.partnersection
+dererker.it##.partvert
 dererker.it##.partvert-right
 evosmart.it##.penci-banner-box
 sarnonotizie.it##.penci-container__content
