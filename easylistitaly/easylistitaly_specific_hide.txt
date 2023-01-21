@@ -2324,6 +2324,7 @@ leggo.it##.stickyAdv
 occhionotizie.it##.sticky_bar_container
 finanzaonline.com,webnews.it##.sticky_wrapper
 prezzisalute.com##.stickyleft
+salto.bz##.stj-sidebar-widget
 androidworld.it,mobileworld.it##.store-affiliation
 andreagaleazzi.com##.store-box
 100ideeperristrutturare.it,alimentando.info,bizjournal.it,calabria7.it,casa-naturale.com,comunicaffe.it,fruitbookmagazine.it,horecanews.it,nautica.it,primopianomolise.it,quattrozampe.online,radiomovida.net,radioradio.it,uominietrasporti.it,vendingnews.it,villeecasali.com##.strack_cli
