@@ -3410,6 +3410,7 @@
 ||radioattivita.com^*/Banner-
 ||radioautmarche.it^*/banner_
 ||radioazzurra.it^*/banner/
+||radiobianconera.com^*/banner/
 ||radioblu.com/img/colonna_dx/
 ||radioblutoscana.it/banner-
 ||radioblutoscana.it/foto/grandi/1-1.jpg
