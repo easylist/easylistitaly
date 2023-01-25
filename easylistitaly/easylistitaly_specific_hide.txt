@@ -1530,7 +1530,7 @@ scienzenotizie.it##.desktop-top-banner
 fiorentinanews.com##.destra_banner
 flashscore.it##.detail-bonus-match-summary-content-inner
 diretta.it##.detailLeaderboard
-economyup.it,movieplayer.it,techcompany360.it##.dfp
+economyup.it,movieplayer.it,techcompany360.it,trovit.it##.dfp
 blastingnews.com##.dfp-mobile-leadeboard
 likesx.com##.dgdom
 lanuovariviera.it##.dialog-widget
