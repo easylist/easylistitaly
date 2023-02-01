@@ -1401,7 +1401,7 @@ quotidianopiemontese.it##.category-redazionale
 leggere-facile.it##.cb-large
 federtennis.it##.cc-content-sponsor
 magazinedelledonne.it##.ccm_pugoo__sponso
-webpointzero.com##.cegg_widget_products
+webpointzero.com,xiaomitoday.it##.cegg_widget_products
 radioinblu.it,tv2000.it##.cei-skin-side
 lineapress.it##.cfxi-container
 vienormali.it##.cimarandom
