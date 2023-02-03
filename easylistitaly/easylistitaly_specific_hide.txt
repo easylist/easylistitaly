@@ -3154,6 +3154,9 @@ ilgiorno.it,ilrestodelcarlino.it,iltelegrafolivorno.it,lanazione.it,quotidiano.n
 amalfinews.it,cetaranews.it,ilportico.it,ilvescovado.it,liratv.it,occhisusalerno.it,positanonotizie.it,ravellonotizie.it##header > div > p > span > a
 meteosatonline.it##hr[style="height:5px; background: #9EB4FF;"]
 trovacinema.repubblica.it##i-amphtml-sizer[style="padding-top: 25.7732%;"]
+trapaninfo.it##iframe[src="https://www.trapaninfo.it/advor.htm"]
+trapaninfo.it##iframe[src="https://www.trapaninfo.it/indexnotebook.htm"]
+trapaninfo.it##iframe[src="https://www.trapaninfo.it/wlink.htm"]
 animelove.tv##iframe[style*="z-index: 2147483647"]
 zibaldoneweb.it##iframe[style="width: 120px; height: 240px;"]
 floinviaggio.com##iframe[style="width:300px; height:250px; border: none"]

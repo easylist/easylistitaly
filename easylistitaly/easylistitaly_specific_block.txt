@@ -4264,6 +4264,10 @@
 ||trapanicalcio.it^*/libertylines.jpg
 ||trapanicalcio.it^*/nuova-sicilauto.jpg
 ||trapanicalcio.it^*/superconvieniente.png
+||trapaninfo.it/advor.htm
+||trapaninfo.it/banserver/
+||trapaninfo.it/indexnotebook.htm
+||trapaninfo.it/wlink.htm
 ||trapaniok.it/public/banner/
 ||trapanisi.it/wp-content/banners/
 ||trasporti-italia.com^*/banner/
