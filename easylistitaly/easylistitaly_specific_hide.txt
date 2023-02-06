@@ -1963,6 +1963,7 @@ badmintonitalia.it##.module-partner
 fise.it##.module-sponsor-HP
 fise.it##.module-sponsor-container
 fitri.it,fpi.it##.moduletable-sponsor
+tiscali.it##.mofrtsrc-c
 telelazionord.it##.mom-e3lanat-inner
 valdichianaoggi.it##.mom-e3lanat-wrap
 mondobalneare.com##.mondobalneare-banner
@@ -2014,6 +2015,7 @@ esportsonline.it##.oe-wrapper
 techzilla.it##.offerta-img-box
 prezzisalute.com##.offerte
 machineseeker.it##.ofni
+tiscali.it##.ofrtsrc-c
 spoletonline.com##.oldBanner
 bebeez.it##.olo-row-banner-center-hp
 bebeez.it##.olo-row-custom-sponsor
@@ -2861,6 +2863,7 @@ lavorincasa.it##div[class^="wbn-large-"]
 lavorincasa.it##div[class^="wbn-medium-"]
 lavorincasa.it##div[class^="wpb-bacheca-aziende"]
 lavorincasa.it##div[class^="wrapper-banner-"]
+tiscali.it##div[data-fkey]
 rockol.it##div[data-track]
 quotidiano.net##div[data-wt-name="widget-prodotti-migliori"]
 stilenaturale.com##div[id="Banner_BIOOFFERTA"]
