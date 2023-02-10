@@ -1398,6 +1398,7 @@ itinerariodiviaggio.com,lavocedelpalio.it##.carousel
 monrealenews.it##.carouselbanner
 carteprepagate.org##.carte-post-1
 catanzaro7.net##.catan-nellarticolo
+forbes.it##.category-powered-by-intesa-sanpaolo
 quotidianopiemontese.it##.category-redazionale
 leggere-facile.it##.cb-large
 federtennis.it##.cc-content-sponsor
@@ -1669,7 +1670,9 @@ rsd.it##.footer__widgets
 palermofc.com##.footer_int
 mitjetitalia.it##.footer_top
 telelazionord.it##.footer_top_banner
+forbes.it##.forbes-ads-skin-container
 forbes.it##.forbes-second-banner
+forbes.it##.forbes-sponsor-wrapper
 aeroporto.net##.form_auto_iata
 quattroruote.it##.four-box-sponsor
 boatmag.it##.four.columns.hide-for-small
