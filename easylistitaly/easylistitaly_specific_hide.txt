@@ -620,6 +620,7 @@ nuovosud.it###sfondo
 calabria7.it,gamelegends.it,leggopassword.it###sgpb-popup-dialog-main-div
 napolike.it###shortcode-34-5
 classlife.it###side_home_sx
+emmelle.it###sidebar-section-top
 eurogamer.it###sidebar_amazon
 104news.it###simpleimage-40
 notiziediprato.it###simplemodal-container
