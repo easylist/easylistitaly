@@ -1892,6 +1892,7 @@ infomotori.com##.logo-topdealers
 timinternet.it##.logoAmazon
 timinternet.it##.logoEbay
 timinternet.it##.logoSecretEscapes
+cruiselifestyle.it##.logologitravel
 spoletonline.com##.longBanner
 lattemiele.com##.lp-link
 lapresse.it##.lp-topleft
@@ -3352,6 +3353,7 @@ androidplanet.it#?#.wp-block-group__inner-container:-abp-has(a[href^="https://ww
 borsaitaliana.it#?#.m-relases__result:-abp-has(div:-abp-contains(Contenuto pubblicitario))
 bottadiculo.it#?#p[style="margin-bottom: 30px"]:-abp-has(a[href*="/dazn"])
 carrefour.it#?#.experience-component_hp_push_promo:-abp-has(#viewHomeDesktop-middleSp-sponsored_products-0)
+cruiselifestyle.it#?#.rowthumb:-abp-has(a[href])
 ebay.it#?#.s-item:-abp-has(span.s-item__title--tagblock__SPONSORED)
 ecodibergamo.it#?#.section-articles--advertising:-abp-has(.sponsored)
 eurosport.it#?#.my-2.flex.items-center.justify-center:-abp-has(a[href^="https://prf.hn/"])
