@@ -1874,6 +1874,7 @@ top10cose.it##.link-affiliazione
 business24tv.it##.link-at-body
 calciodangolo.com##.link-light-code
 balarm.it##.link-skin
+cruiselifestyle.it##.linkBackground
 legab.it,pressgiochi.it##.linkSkin
 monitorimmobiliare.it,winenews.it##.link_skin
 cosavederein1giorno.it##.links
@@ -2949,6 +2950,8 @@ ondanews.it##div[id^="vertical_slider"]
 yescalabria.com##div[id^="yesca-"]
 keblog.it##div[style*="height: 250px !important; max-height: 250px !important;"]
 differenzatra.it##div[style*="height: 280px;"]
+cruiselifestyle.it##div[style*="height: 78px;"]
+cruiselifestyle.it##div[style*="height: 90px;"]
 tvserial.it##div[style*="height:250px;"]
 bianconeranews.it,firenzeviola.it,linterista.it,milannews.it,sampdorianews.net,torinogranata.it,tuttoc.com,tuttojuve.com,tuttomercatoweb.com,tuttonapoli.net##div[style*="height:270px;"]
 tuttocalciatori.net##div[style*="min-height: 300px;"]
@@ -3157,6 +3160,7 @@ gazzettaconcorsi.eu##div[style^="width: 728px; height: 90px;"]
 ilfogliodellarte.it##div[style^="width:250px; height:250px;"]
 juzaphoto.com##div[style^="width:300px; height:250px;"]
 askanews.it,tvserial.it##div[style^="width:300px;height:100px;"]
+cruiselifestyle.it##div[style^="width:300px;height:250px;"]
 trattoriusati.com##div[style^="width:336px; height:280px;"]
 ilgiorno.it,ilrestodelcarlino.it,iltelegrafolivorno.it,lanazione.it,quotidiano.net##div[width="300"]
 ilgiorno.it,ilrestodelcarlino.it,iltelegrafolivorno.it,lanazione.it,quotidiano.net##div[width="320"]
