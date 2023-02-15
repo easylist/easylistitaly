@@ -2001,6 +2001,7 @@ virgilio.it##.newboxIsOrizz
 ansa.it##.news-special-box
 montagna.tv##.news-sponsorizzate
 italia-informa.com##.newsitemAdv
+hdmotori.it##.newslist_evidenza
 lagazzettaaugustana.it,obiettivonews.it,plaffo.com##.nivo-imageLink
 goodtrekking.it##.no-one
 filmpertutti.onl##.no_pop
