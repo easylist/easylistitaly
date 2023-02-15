@@ -2330,6 +2330,7 @@ quattroruote.it##.sticky-sponsor
 gay.it##.sticky-top
 leggo.it##.stickyAdv
 occhionotizie.it##.sticky_bar_container
+greenme.it##.sticky_bottom
 finanzaonline.com,webnews.it##.sticky_wrapper
 prezzisalute.com##.stickyleft
 salto.bz##.stj-sidebar-widget
