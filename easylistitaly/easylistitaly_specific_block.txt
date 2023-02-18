@@ -4238,6 +4238,7 @@
 ||tomshw.it^*/logo-instant-gaming.jpg
 ||top10cose.it^*/Offerte-Amazon-
 ||toplegal.it/upload/banner/
+||torinoaffari.it/img/tbl/ban/
 ||torinoerotica.com/banner/
 ||torinofc.it^*/header_loghi/
 ||torinofc.it^*/sponsor/
