@@ -953,6 +953,7 @@ paroladeltifoso.it##.adv-image
 animatamente.net,arezzoweb.it,bici.pro,corriereromagna.it,udineoggi.news##.adv-link
 ortosemplice.it##.adv-links
 infomotori.com##.adv-listino-nuovo
+editorialedomani.it##.adv-placeholder
 rbe.it##.adv-section
 radiocittadelcapo.it##.adv-space
 diredonna.it,gravidanzaonline.it,robadadonne.it##.adv-style
