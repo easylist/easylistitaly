@@ -1335,6 +1335,7 @@ balarm.it##.box-evidenza
 italiaoggi.it##.box-slot
 meteogiornale.it##.box-sn
 trend-online.com##.box-special
+adnkronos.com##.box-sponsor
 cagliarilivemagazine.it##.box-sponsorprimopiano-scorrimento
 donnesulweb.it##.box-top-widget
 montagna.tv##.box-tva
