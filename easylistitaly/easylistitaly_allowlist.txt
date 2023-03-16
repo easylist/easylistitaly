@@ -78,3 +78,5 @@
 @@||zincontri.com/ads/galleries/crops/$image,~third-party
 ! Ammadv.it
 @@||admin.ammadv.it/pop-under.it/$~third-party
+! CNAME (Specific allowlists)
+@@||oasjs.kataweb.it^$script,domain=lastampa.it
