@@ -955,6 +955,7 @@ ortosemplice.it##.adv-links
 infomotori.com##.adv-listino-nuovo
 editorialedomani.it##.adv-placeholder
 rbe.it##.adv-section
+ansa.it##.adv-slot
 radiocittadelcapo.it##.adv-space
 diredonna.it,gravidanzaonline.it,robadadonne.it##.adv-style
 quattroruote.it##.adv-wrap
