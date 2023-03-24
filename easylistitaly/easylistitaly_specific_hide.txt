@@ -171,6 +171,7 @@ telelazionord.it###block-129
 foggiapost.com,imusicfun.it,meridiananotizie.it###block-13
 foggiapost.com###block-14
 meridiananotizie.it,mobileblogger.it###block-15
+agenziaitalianews.it###block-19
 cronacaossona.com###block-2
 meridiananotizie.it,siamolaroma.it,stranieriinitalia.it,trileggo.it###block-3
 telelazionord.it###block-58
