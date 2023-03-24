@@ -972,7 +972,7 @@ automoto.it##.advblock
 ansa.it##.advblockshown
 garzantilinguistica.it##.advbox
 addicted2play.com,bicimagazine.it,bimcal.it,eurogamer.it,gioco.it,lausc.it,morningstar.it,podisti.net,trentinovolley.it##.advert
-ilfoglio.it,liberoquotidiano.it,ottopagine.it,pharmastar.it,piazzaffariweb.com##.advertisement
+ilfoglio.it,iltempo.it,liberoquotidiano.it,ottopagine.it,pharmastar.it,piazzaffariweb.com##.advertisement
 film-review.it,frasicelebri.it,helloworld.it,nanopress.it,zonalocale.it##.advertising
 altalex.com##.adviceBox
 sienafree.it##.advs
@@ -3161,7 +3161,10 @@ adessoin.tv##div[style="width:970px; height:250px; margin:20px auto; float:left;
 milannews.it,politicanews.it##div[style="width:970px; min-height: 250px;"]
 thegamesmachine.it##div[style="width:970px;height:250px;margin: 0 auto 5px;"]
 lavorareallestero.it##div[style^="height:280px; width:357px;"]
+iltempo.it##div[style^="height:90px; width:728px;"]
+iltempo.it##div[style^="min-width: 300px; min-height: 250px;"]
 liberoquotidiano.it##div[style^="min-width: 300px; min-height: 250px;margin:"]
+iltempo.it##div[style^="min-width: 970px; min-height: 250px;"]
 liberoquotidiano.it##div[style^="min-width: 970px; min-height: 250px;margin:"]
 wallnews24.it##div[style^="position:fixed;top:0;bottom:0;left:0;right:0;z-index:0; background-image:url"]
 libero.it,mbnews.it,oroscopoastra.com,tp24.it##div[style^="width: 300px; height: 250px;"]
