@@ -751,6 +751,7 @@
 ||cascinanotizie.it^*_400x400.
 ||casertace.net^*/caffe_orientale_
 ||casertafocus.net/home/images/banners/
+||casertasette.com/banners.php
 ||casertaweb.com^*/0001.jpg
 ||casertaweb.com^*/009.jpg
 ||casertaweb.com^*/banner-
