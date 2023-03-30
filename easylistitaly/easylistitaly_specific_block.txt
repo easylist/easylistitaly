@@ -3525,6 +3525,7 @@
 ||radionostalgia.fm^*/bannerqushi2.jpg
 ||radionostalgia.fm^*/emmerent_
 ||radionostalgia.fm^*/ROISTYLE.jpg
+||radiopnr.it/images/banners/
 ||radioprimiero.it^*/banners/
 ||radiopuglia.it/img/banner/
 ||radioradio.it^*/banner-
