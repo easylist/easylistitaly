@@ -85,6 +85,7 @@ toscanalibri.it###banner-home
 mondocalcionews.it###banner-laterale-headerbidding
 canavesenews.it###banner-left-bottom
 canavesenews.it###banner-left-top
+gnoccatravels.com###banner-riapertura-wellcum
 rpiunews.it###banner-slider
 rpiunews.it###banner-testata
 cuneocronaca.it,larivieraonline.com,oggitreviso.it,piccolenote.ilgiornale.it,superscudetto.it###banner-top
