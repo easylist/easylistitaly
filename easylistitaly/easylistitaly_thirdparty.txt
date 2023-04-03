@@ -238,6 +238,7 @@
 ||trivago.it/external_rpc.php?
 ||tuoporno.com/images/banner/
 ||tuttogratis.it/hl_mfa/DXLARGE_v7num.php?
+||unifiedads.magellanotech.it^
 ||upcom.it^*/banner/
 ||uplink.aruba.it^$third-party
 ||uzi.it/b/
