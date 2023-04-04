@@ -2102,6 +2102,7 @@ comingsoon.it,pneusnews.it##.promo
 voglioporno.com##.promo-462x66
 eurogamer.it##.promo-banner
 sardinias.it##.promo-partner-container
+theflightclub.it##.promo_carta
 ideegreen.it,motori.it,viaggievacanze.com##.promobox
 proiezionidiborsa.it##.promoboxblu
 proiezionidiborsa.it##.promoboxorange
