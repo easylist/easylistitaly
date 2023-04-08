@@ -2401,7 +2401,6 @@ artribune.com,ilprimatonazionale.it##.td-banner-bg
 edagricole.it##.td-banner-footer
 01net.it,01smartlife.it,dolcegiornale.it,edagricole.it,ilgiornaledelserramento.it,ristorantiweb.com,sicurezzamagazine.it##.td-banner-wrap-full
 bologna24ore.it,calciofemminileitaliano.it,calciomercato.it,cronacadiverona.com,elettronicanews.it,ferrara24ore.it,forli24ore.it,gametimers.it,gamingtoday.it,phonetoday.it,radioradio.it,ravenna24ore.it,rimininews24.it,romagiallorossa.it,romagna24economia.it,rovigo24ore.it,secondamanoitalia.it,tecnoandroid.it##.td-container-header
-radioradio.it##.td-fix-index
 amoreaquattrozampe.it##.td-footer-container
 ilgiornaledeltermoidraulico.it,pescaracalcio.com,tennispavese.it,ternanacalcio.com##.td-footer-wrapper
 4actionsport.it,calabriamagnifica.it,cucina-naturale.it,culturaidentita.it,fiorentina.news,gazzettadisalerno.it,ilbacodaseta.org,ilpuntonotizie.it,legavolley.it,meridiananotizie.it,okpronostico.it,oktennis.it,scattidigusto.it,telodicoio.org##.td-header-rec-wrap
@@ -2993,6 +2992,7 @@ traderlink.it##div[style*="width: 220px; height: 90px;"]
 sassuolonews.net,tuttoatalanta.com##div[style*="width: 300px; height: 250px;"]
 sicilianews24.it,stadionews.it##div[style*="width: 300px; min-height: 250px;"]
 radioradio.it##div[style*="width: 324px; height: 400px;"]
+radioradio.it##div[style*="width: 696px; height: 182px;"]
 traderlink.it##div[style*="width: 726px; height: 88px;"]
 tuttocalciatori.net##div[style*="width: 728px; height: 90px;"]
 autoelettrica101.it##div[style*="width: 750px"]
@@ -3119,10 +3119,6 @@ firenzeviola.it,milannews.it,torinogranata.it,tuttonapoli.net,vocegiallorossa.it
 firenzeviola.it,milannews.it,parmalive.com,sampdorianews.net,torinogranata.it,tuttoc.com,vocegiallorossa.it##div[style="padding: 3px 3px 3px 3px; width:160px; min-height: 600px;"]
 firenzemeteo.net##div[style="padding:10px;margin-bottom: 18px;color:#eaeaea;background-color:#494949;text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);"]
 stabiachannel.it##div[style="padding:5px 0px 10px 0px; color:#858585; background-color:#f0f0f0;"]
-radioradio.it##div[style="position: absolute; display: block; top: 0px; left: 0px; width: 696px; height: 182px; transform: scale(1.001);"]
-radioradio.it##div[style="position: absolute; display: block; top: 0px; left: 0px; width: 696px; height: 182px;"]
-radioradio.it##div[style="position: absolute; overflow: hidden; left: 0px; top: 0px; width: 324px; height: 400px; margin: 0px; padding: 0px; transform-style: flat; z-index: 0;"]
-radioradio.it##div[style="position: absolute; overflow: hidden; left: 0px; top: 0px; width: 696px; height: 182px; margin: 0px; padding: 0px; transform-style: flat; z-index: 0;"]
 altalex.com##div[style="position:relative; display: block; margin-bottom: 25px; background-color: #F5F5F5; padding: 20px 60px 85px 20px;"]
 pokemoncentral.it##div[style="text-align: center; margin-bottom: 15px; height: 90px"]
 lalaziosiamonoi.it,noesolofutbol.com,tuttocagliari.net,tuttoentella.com,tuttopalermo.net##div[style="text-align: center; width: 160px; height: 600px; padding: 0px 0px 3px 0px;"]
