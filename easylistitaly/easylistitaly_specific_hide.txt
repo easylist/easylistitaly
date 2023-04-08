@@ -537,6 +537,7 @@ castellinotizie.it###mh_magazine_posts_horizontal-2
 catanzaro7.net###mh_magazine_youtube-3
 mymovies.it###middle1_companion
 tusciaweb.eu###miesSPLASH
+editorialedomani.it###mob-skin-wrapper
 eurogamer.it###mobile-leaderboard
 eurogamer.it###mobile-mpu
 ricettedalmondo.it###mobile-primo-scroll
