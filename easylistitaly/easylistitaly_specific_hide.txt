@@ -1736,7 +1736,7 @@ solitario.it##.gioco_public1
 giornaledelcilento.it##.giorn-prima-del-contenuto
 giornaledelcilento.it##.giorn-widget
 tvserial.it##.gm-place
-confidenze.com,italiaoggi.it,mffashion.com,milanofinanza.it,salepepe.it,starbene.it,tustyle.it,veritaeaffari.it##.gmp
+confidenze.com,italiaoggi.it,mffashion.com,milanofinanza.it,panorama.it,salepepe.it,starbene.it,tustyle.it,veritaeaffari.it##.gmp
 laverita.info##.gmp-repeating-ads
 sportytrader.it##.go-to-bonus
 goriziaoggi.news##.goriz-widget
@@ -2531,6 +2531,8 @@ toscanafree.it,trapanioggi.it##.topbanner
 mammainviaggio.it##.topbar
 piccoletrasgressioni.it##.topbar-banner
 blunote.it,mondoprimavera.com##.topbar-below
+panorama.it##.topbar-fake
+panorama.it##.topbar-fake-dmp-skin
 sentimentispezzini.cittadellaspezia.com##.topbar-header
 millecanali.it##.topheader
 everyeye.it##.topskin

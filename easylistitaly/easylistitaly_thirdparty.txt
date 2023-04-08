@@ -96,6 +96,7 @@
 ||gelestatic.it^*/adv/
 ||gigacenter.it^$image,third-party
 ||giphy.com^$domain=napolipiu.com|salernitananews.it
+||gmdigital.it^*/adplay.js
 ||googleapis.com/comslider/$domain=quotidiano.net
 ||graficadivina.it/grafica-divina.jpg
 ||gratislandia.net/banners/
