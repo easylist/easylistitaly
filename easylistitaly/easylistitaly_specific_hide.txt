@@ -1417,6 +1417,7 @@ catanzaro7.net##.catan-nellarticolo
 forbes.it##.category-powered-by-intesa-sanpaolo
 quotidianopiemontese.it##.category-redazionale
 leggere-facile.it##.cb-large
+ilfattoquotidiano.it##.cc-adv-wrapper
 federtennis.it##.cc-content-sponsor
 magazinedelledonne.it##.ccm_pugoo__sponso
 webpointzero.com,xiaomitoday.it##.cegg_widget_products
@@ -2655,6 +2656,7 @@ reflex-mania.com##.wp-block-buttons
 mistergadget.tech##.wp-block-mister-gadget-amazon-list
 fitnesspalestra.org##.wp-block-product-on-sale
 jotv.it##.wp-caption.alignnone
+ilfattoquotidiano.it##.wp_bannerize
 amoreperleserietv.com,massimoemanuelli.com,vaurosenesi.it##.wpa
 itvonline.news##.wpb_gallery
 radiomarte.it##.wpb_revslider_element
