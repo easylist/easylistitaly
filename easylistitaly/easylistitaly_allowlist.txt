@@ -1,4 +1,3 @@
-@@||adnkronos.com/ign/mediacenter/fotogallery/data_01/img/ad_
 @@||ads.lfstmedia.com/getad?site=$script,domain=spaghetti-interactive.it
 @@||ads.viralize.tv/player/$third-party,xmlhttprequest,domain=ilquaderno.it|quotidiano.net
 @@||adsafeprotected.com/iasPET.1.js$domain=la7.it
