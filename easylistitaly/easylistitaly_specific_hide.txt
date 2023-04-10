@@ -803,6 +803,7 @@ notiziarioattrezzature.com,notiziariomotoristico.com###top_bann
 corrieredellacalabria.it###top_banner
 finanza.com###top_content
 goblins.net###top_header
+escort46.it###top_image_div
 paolociraci.it###top_sponsor
 hcgherdeina.com###top_sponsor_inner
 tusciaweb.eu###topalto
