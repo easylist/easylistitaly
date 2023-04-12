@@ -1094,6 +1094,7 @@ macplas.it##.banner-2-img
 welfarenetwork.it##.banner-468-hp
 movieforkids.bestmovie.it##.banner-660x90
 notetralerighe.it##.banner-amazon-music
+helplavoro.it##.banner-aziende
 parmareport.it##.banner-big
 rpiunews.it##.banner-body
 ligurianautica.com##.banner-box
@@ -1556,6 +1557,7 @@ likesx.com##.dgdom
 lanuovariviera.it##.dialog-widget
 quotidiano.net##.discount-block
 gamesource.it##.div-85019
+helplavoro.it##.divBannerHL
 cuneodice.it,genovadice.it,italiadice.it,torinodice.it##.div_banner
 laleggepertutti.it##.div_topbanner
 portadimare.it,saliinvetta.com##.djslider

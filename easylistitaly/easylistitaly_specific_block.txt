@@ -1669,6 +1669,7 @@
 ||hellogreen.it^*600x600
 ||helpconsumatori.it^*/annuncio-
 ||historychannel.it^*/swissre.
+||hlstatic.it/files/banner/
 ||hobbyquotidiano.com^*/amazon_
 ||horecanews.it/wp-content/uploads/angwp/
 ||horecanews.it^*/Banner-
