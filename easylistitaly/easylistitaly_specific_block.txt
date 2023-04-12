@@ -5080,6 +5080,6 @@
 ! (/sw.js)
 /^https?:\/\/.*\/.*sw[0-9._].*/$script,domain=dundi.it|guardaflix.cfd|guardaserie.gives|pornototale.com|skip.li
 !
-/^https?:\/\/.*\/[a-z0-9A-Z_]{2,15}\.(php|jx|jsx|1ph|jsf|jz|jsm|j$)/$image,script,subdocument,domain=amatorialeporno.it|culonudo.com|granditetteporno.it|listasitiporno.it|matrignaporno.it|matureporno.it|milfporno.it|porno-anale.it|porno-gay.it|porno-hardcore.it|porno-lesbica.it|pornoadolescente.it|pornomatura.it|scopateitaliane.com|scopateitaliane.it|videoporno-gratis.it
+/^https?:\/\/.*\/[a-z0-9A-Z_]{2,15}\.(php|jx|jsx|1ph|jsf|jz|jsm|j$)/$image,script,subdocument,domain=amatorialeporno.it|amoreporno.com|clipdisesso.com|culonudo.com|granditetteporno.it|listasitiporno.it|matrignaporno.it|matureporno.it|milfporno.it|peneporno.com|porno-anale.it|porno-gay.it|porno-hardcore.it|porno-lesbica.it|pornoadolescente.it|pornoamica.com|pornocategorie.com|pornoculi.com|pornomatura.it|pornotreno.com|scopateitaliane.com|scopateitaliane.it|sessoromantico.com|videoporno-gratis.it
 ! webrtc ads
 $webrtc,domain=hentaisaturn.com|italydownload.com|mitoitalico.com|semprehawk.com
