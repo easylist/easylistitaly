@@ -4442,6 +4442,7 @@
 ||tv2000.it^*/SKIN.
 ||tv2000.it^*/skin/
 ||tv2000.it^*/Skin_
+||tv2000.it^*/skintoniolo.jpg
 ||tv2000.it^*_300x200.
 ||tv2000.it^*_skin_
 ||tvcentromarche.it^*/ESTRA300x250-
