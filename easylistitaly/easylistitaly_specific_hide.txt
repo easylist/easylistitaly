@@ -176,7 +176,9 @@ agenziaitalianews.it###block-19
 cronacaossona.com###block-2
 meridiananotizie.it,siamolaroma.it,stranieriinitalia.it,trileggo.it###block-3
 telelazionord.it###block-58
+malpensa24.it###block-86
 meridiananotizie.it###block-9
+malpensa24.it###block-90
 giornaledellamusica.it###block-adv
 giornaledellamusica.it###block-adv2
 giornaledellamusica.it###block-adv3
@@ -509,6 +511,7 @@ lanotiziapontina.it,malpensa24.it###media_image-51
 lanotiziapontina.it###media_image-53
 lanotiziapontina.it###media_image-54
 lanotiziapontina.it###media_image-55
+malpensa24.it###media_image-58
 altropensiero.net,corrispondenzaromana.it,funghimagazine.it,giornalistitalia.it,iltaccuvino.com,pisainvideo.it,tecnogazzetta.it,ufficistampanazionali.it###media_image-6
 lanotiziapontina.it###media_image-63
 bambiniconlavaligia.com###media_image-65
