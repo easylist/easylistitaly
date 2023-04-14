@@ -25,3 +25,4 @@ tuttoaffari.com#@#.top-ad
 orvieto24.it#@#.vl-header-ads
 orvieto24.it#@#.widget_viral_advertisement
 brocardi.it#@#.with-background-ads
+la7.it#@#div[id^="rtbuzz_"]
