@@ -1414,6 +1414,7 @@ meteo.tiscali.it##.c1c3
 castellinotizie.it##.c1dcf9f90b0a36d90b8fc9001b9eaf75
 trento2018.it##.callExclusive
 tuttoandroid.net##.card
+campanialike.com##.cardSponsorColonnaDestra
 milanofinanza.it##.carmiboxHP
 itinerariodiviaggio.com,lavocedelpalio.it##.carousel
 monrealenews.it##.carouselbanner
