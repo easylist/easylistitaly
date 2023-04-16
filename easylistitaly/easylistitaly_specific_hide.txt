@@ -2219,6 +2219,7 @@ onlinesiracusa.it##.sek-link-to-url
 malpensanews.it##.self-banner
 trovaprezzi.it##.sell_on_ebay_wrapper
 excite.it##.serp-item
+campanialike.com##.sezioneSponsorDestra
 calabria7.it##.sg-popup-builder-content
 calabria7.it,gamelegends.it##.sgpb-popup-overlay
 paesenews.it,vendingpress.it##.shailan_banner_widget
