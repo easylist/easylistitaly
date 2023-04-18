@@ -1138,6 +1138,7 @@ italiafruit.net##.banner-m
 viversano.net##.banner-mid
 ilnuovoterraglio.it,valdelsa.net##.banner-mobile
 mattinonline.ch##.banner-only
+freeones.it##.banner-placeholder
 monzanet.it##.banner-promo
 calabriareportage.it,calcioitalia24.it,lameziaterme.it##.banner-promotions-wrapper
 radiotoscana.it##.banner-radio
