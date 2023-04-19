@@ -983,6 +983,9 @@
 ||corrieredellacalabria.it^*/banner_
 ||corrieredellacalabria.it^*/FinCalabra-20.
 ||corrieredellosport.it/next/custom/logo-sky-wifi.png
+||corrieredellumbria.it/upload/addsense/
+||corrierediarezzo.it/upload/addsense/
+||corrieredisiena.it/upload/addsense/
 ||corriereelorino.it^*/00dc205a-1378-476e-8990-bf78bd18b692.jpg
 ||corriereelorino.it^*/20201103_001459.gif
 ||corriereelorino.it^*/adv-

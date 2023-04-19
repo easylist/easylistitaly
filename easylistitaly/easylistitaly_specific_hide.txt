@@ -968,6 +968,7 @@ ortosemplice.it##.adv-links
 infomotori.com##.adv-listino-nuovo
 editorialedomani.it##.adv-placeholder
 rbe.it##.adv-section
+corrieredellumbria.it,corrierediarezzo.it,corrieredisiena.it##.adv-slideshow
 ansa.it##.adv-slot
 radiocittadelcapo.it##.adv-space
 diredonna.it,gravidanzaonline.it,robadadonne.it##.adv-style
@@ -985,7 +986,7 @@ automoto.it##.advblock
 ansa.it##.advblockshown
 garzantilinguistica.it##.advbox
 addicted2play.com,bicimagazine.it,bimcal.it,eurogamer.it,gioco.it,lausc.it,morningstar.it,podisti.net,trentinovolley.it##.advert
-ilfoglio.it,iltempo.it,liberoquotidiano.it,ottopagine.it,pharmastar.it,piazzaffariweb.com##.advertisement
+corrieredellumbria.it,corrierediarezzo.it,corrieredisiena.it,ilfoglio.it,iltempo.it,liberoquotidiano.it,ottopagine.it,pharmastar.it,piazzaffariweb.com##.advertisement
 film-review.it,frasicelebri.it,helloworld.it,nanopress.it,zonalocale.it##.advertising
 altalex.com##.adviceBox
 sienafree.it##.advs
@@ -1405,6 +1406,7 @@ pensieriparole.it##.buyblock
 sitiscommesse.com##.bwin
 casanapoli.net##.bwp_gallery_slideshow
 dererker.it##.bxslider
+corrieredellumbria.it,corrierediarezzo.it,corrieredisiena.it##.bxsliderAdv
 domusweb.it##.c-article-prev--sponsored
 quattroruote.it##.c-banner-opening1__sponsor
 agrifoodtoday.it,agrigentonotizie.it,anconatoday.it,arezzonotizie.it,avellinotoday.it,baritoday.it,bolognatoday.it,bresciatoday.it,brindisireport.it,casertanews.it,cataniatoday.it,cesenatoday.it,chietitoday.it,firenzetoday.it,foggiatoday.it,forlitoday.it,genovatoday.it,ilpescara.it,ilpiacenza.it,latinatoday.it,lecceprima.it,leccotoday.it,livornotoday.it,milanotoday.it,modenatoday.it,monzatoday.it,napolitoday.it,novaratoday.it,padovaoggi.it,palermotoday.it,parmatoday.it,perugiatoday.it,pisatoday.it,quicomo.it,ravennatoday.it,riminitoday.it,romagnaoggi.it,romatoday.it,salernotoday.it,sondriotoday.it,sportpiacenza.it,today.it,torinotoday.it,trentotoday.it,trevisotoday.it,triesteprima.it,udinetoday.it,veneziatoday.it,veronasera.it,vicenzatoday.it##.c-boxcta
@@ -1945,6 +1947,7 @@ erbanotizie.com,gazzettadellaspezia.it,gazzettadellemilia.it,noinotizie.it##.man
 erbanotizie.com,gazzettadellaspezia.it,gazzettadellemilia.it,noinotizie.it##.manchette-sx
 winenews.it##.manchette_l
 winenews.it##.manchette_r
+corrieredellumbria.it,corrierediarezzo.it,corrieredisiena.it##.manchettes
 24emilia.com##.marquee0
 orologipertutti.it##.masonry_grid_fullwidth
 everyeye.it##.masted
