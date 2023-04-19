@@ -132,6 +132,7 @@
 ###syTagContainer
 ###tccAdPlayer
 ###top3-pubbli
+###video-evo-player.player_evolution
 ##.ADV300_250_600_Content
 ##.ADVBig_Content
 ##.ADVFLEX_250_Content

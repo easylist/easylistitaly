@@ -2354,6 +2354,7 @@ acao.it##.squarebanner2
 ebay.it##.srp-banner
 sanitainsicilia.it##.srur_leaderboard
 cremaoggi.it,cremonaoggi.it,oglioponews.it##.standard-inside-text
+corrieredirieti.it,corrierediviterbo.it##.static-banner
 pmi.it,we-wealth.com##.sticky-banner
 wallstreetitalia.com##.sticky-ele
 sportytrader.it##.sticky-header_banner_first
