@@ -339,6 +339,7 @@ sudnews.it###dx-banner
 lastampa.it,repubblica.it###editorial-Middle1
 lastampa.it,repubblica.it###editorial-TopLeft
 metallus.it###emp_box
+iltempo.it###evolution
 news.mtv.it###execphp-14
 news.mtv.it###execphp-2
 stilearte.it###execphp-3
