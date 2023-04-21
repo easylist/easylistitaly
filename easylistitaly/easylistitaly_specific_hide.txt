@@ -816,7 +816,7 @@ mareonline.it###toplogo2
 everyeye.it###topskin_clicktag
 ilturista.info###tours-tickets-banner
 hc-neumarkt.com###tr-contentbottom
-filmpornoitaliano.org,videopornohdstreaming.com###tracking-url
+filmporno.it,filmpornoitaliano.org,videopornohdstreaming.com###tracking-url
 mymovies.it###trovastreaming + div + table
 milleunadonna.it,tiscali.it###tsSkinAuto
 tiscali.it###tsSkinAutoPageBgG
@@ -1770,7 +1770,7 @@ boatindustry.it,boatsnews.it##.habillage
 quattroruote.it##.halfPageBanner2
 pornoamatorialeitaliano.it##.happy-footer
 cuckold.it,pornoamatorialeitaliano.it,solopompini.it##.happy-header
-filmpornoitaliano.org##.happy-inside-player
+filmporno.it,filmpornoitaliano.org##.happy-inside-player
 pornoitaliano.com##.happy-section
 cuckold.it##.happy-sidebar
 cuckold.it,pornoamatorialeitaliano.it##.happy-under-player
@@ -2238,6 +2238,7 @@ milleunadonna.it,tiscali.it##.shp-2l-dx
 tiscali.it##.shp-2l-dx-v2
 tiscali.it##.shp-prd-ed-day
 tiscali.it##.shpCm
+filmporno.it##.sidebar-ads
 lavocedinovara.com,quotidianolacitta.it##.sidebar-banner
 mitindo.it##.sidebar-right-bottomleft
 sportytrader.it##.sidebar_grid
