@@ -956,6 +956,7 @@ offertevolantini.it##.add_w2_h1
 investireoggi.it##.ads-container
 ildolomiti.it##.adsB
 corrieredellacalabria.it##.ads_corriere
+motorionline.com##.adsbox
 amalfinews.it,beatgogo.it,cetaranews.it,chistachiamando.it,ilportico.it,ilvescovado.it,liratv.it,occhisusalerno.it,pcprofessionale.it,positanonotizie.it,ravellonotizie.it,trova-aperto.it,valtellinamobile.it##.adsense
 animalidacompagnia.it,ilgazzettinovesuviano.com##.adserver
 novella2000.it,pcprofessionale.it##.adunit-mark
