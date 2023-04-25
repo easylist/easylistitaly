@@ -378,6 +378,7 @@ mondoplay.it,mondoxbox.com###gameBlock_amazon
 mondoplay.it,mondoxbox.com###gameBlock_amazon_noboxart
 mandamentonotizie.it###gk-banner-top
 mandamentonotizie.it###gk-banners
+ciaoamigos.it###global_banner_center
 tuttoquiz.it###googleLAT1
 tuttoquiz.it###googleLAT2
 tuttoquiz.it###googleLINK
