@@ -3832,6 +3832,7 @@
 ||sevenpress.com^*/banner/
 ||sevenpress.com^*/bannerQ/
 ||sex4u.ch/img/banner_
+||sexycommunity.it/images/banners/
 ||sexyguidaitalia.com/images/899/
 ||ship2shore.it^*/colonna/
 ||ship2shore.it^*/manchette/
