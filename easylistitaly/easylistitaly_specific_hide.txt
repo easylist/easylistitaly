@@ -996,7 +996,7 @@ sienafree.it##.advs
 sscnapoli.it##.advspace
 soldionline.it##.afc_boxcontent_taglist
 ilmiogiornale.net##.afc_popup
-incesti.xxx,pornopizza.it,tuboitaliano.it,videopornoitalia.com##.aff
+incesti.xxx,megasesso.com,pornopizza.it,tuboitaliano.it,videopornoitalia.com##.aff
 alfemminile.com##.affi-button
 agi.it##.agi-ad-wrap
 edagricole.it##.agriaffaires
@@ -2328,6 +2328,7 @@ rittnerbuam.com##.sponsor-section
 classicipodcast.it##.sponsor-single
 milanbergamoairport.it##.sponsor-strip
 archilovers.com##.sponsor-title
+megasesso.com##.sponsor-wrapperr
 viterbopost.it##.sponsorA
 facciabuco.com##.sponsor_box
 vocetempo.it##.sponsor_home
