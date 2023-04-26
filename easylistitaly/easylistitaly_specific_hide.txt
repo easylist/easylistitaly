@@ -1386,7 +1386,7 @@ tvserial.it##.break-adv
 sora24.it##.breakingNews
 giocareinborsa.com##.broker-table
 castelvetranonews.it##.brotazione
-cronachedelsannio.it##.bs-sks
+bresciasport.net,cronachedelsannio.it##.bs-sks
 bznews24.it##.bsaProCarousel
 bznews24.it,infomedianews.com,piazzasalento.it##.bsaProContainerNew
 diaconale.it##.bt_banner
@@ -1408,6 +1408,7 @@ libro.cafe##.buy
 frescopesce.it##.buyaltacucina
 pensieriparole.it##.buyblock
 sitiscommesse.com##.bwin
+bresciasport.net##.bwjliges
 casanapoli.net##.bwp_gallery_slideshow
 dererker.it##.bxslider
 corrieredellumbria.it,corrierediarezzo.it,corrieredisiena.it##.bxsliderAdv
@@ -2675,6 +2676,7 @@ tuttitalia.it##.wk
 abruzzoindependent.it##.wmain-banner
 bresciasat.it##.workspace__block--sponsor
 reflex-mania.com##.wp-block-buttons
+bresciasport.net##.wp-block-jetpack-slideshow
 mistergadget.tech##.wp-block-mister-gadget-amazon-list
 fitnesspalestra.org##.wp-block-product-on-sale
 jotv.it##.wp-caption.alignnone
