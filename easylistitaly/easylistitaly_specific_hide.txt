@@ -1054,6 +1054,7 @@ spoletonline.com##.articleBannerSX
 scozia.net##.article_amazon_end
 germania.info##.article_buttons_end
 amsterdam.net,germania.info,scozia.net,spagna.info##.article_hotel_vicino
+dererker.it##.articles-pr-box
 ilcittadinomb.it##.artpub
 giardiniblog.it##.asa2_fbh
 tecnofun.eu##.asa_product_box
