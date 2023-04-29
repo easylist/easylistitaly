@@ -2020,7 +2020,7 @@ nordmilano24.it##.musthead
 affaritaliani.it##.mutui
 calcioatalanta.it,calciocasteddu.it,calciocremonese.it,calciofere.it,calciogrifo.it,calciohellas.it,calciolecce.it,calciorosanero.it,calciospezia.it,forzaparma.it,labaricalcio.it,qdmnotizie.it,siamolaroma.it,sololalazio.it,tifocosenza.it,trapanigranata.it##.mvp-wall-link
 leccochannelnews.it##.mvp-wallpaper
-agrodolce.it,borse.it,finanza.com,finanzaonline.com##.mxm_wrapper
+agrodolce.it,borse.it,finanza.com,finanzaonline.com,wallstreetitalia.com##.mxm_wrapper
 passioneorologio.it##.my_best-price-btn
 donnaclick.it##.myadv
 calabrianews.it,concorezzo.org##.n2-section-smartslider
