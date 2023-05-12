@@ -257,6 +257,8 @@ corrieredellacalabria.it###click_dxa
 corrieredellacalabria.it###click_sxa
 aquilabasket.it###clickit
 ildiariometropolitano.it###close_mobile_menu
+informazione-aziende.it###cls-banner2
+informazione-aziende.it###cls-upper-ads
 stilearte.it###codewidget-2
 autodromoimola.it###col-1332644838
 liricamente.it###colheader2
@@ -817,6 +819,7 @@ mareonline.it###toplogo2
 everyeye.it###topskin_clicktag
 ilturista.info###tours-tickets-banner
 hc-neumarkt.com###tr-contentbottom
+informazione-aziende.it###tr_publi
 filmporno.it,filmpornoitaliano.org,videopornohdstreaming.com###tracking-url
 mymovies.it###trovastreaming + div + table
 milleunadonna.it,tiscali.it###tsSkinAuto
