@@ -2907,7 +2907,7 @@ ilgiorno.it,ilrestodelcarlino.it,iltelegrafolivorno.it,lanazione.it,quotidiano.n
 acffiorentina.com,acmilan.com##div[class^="Partners_"]
 ciociariaoggi.it,latinaoggi.eu##div[class^="a-p1-banner-"]
 ilgiorno.it,ilrestodelcarlino.it,iltelegrafolivorno.it,lanazione.it,quotidiano.net##div[class^="ads_"]
-footdata.com##div[class^="angwp_"]
+footdata.com,uominietrasporti.it##div[class^="angwp_"]
 aprilianews.it##div[class^="april-home-adv10-"]
 ideericette.it##div[class^="astra-advanced-hook-"]
 ftaonline.com##div[class^="banner-"]
