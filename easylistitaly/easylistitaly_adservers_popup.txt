@@ -1,5 +1,3 @@
 ||golandwin.it^$popup,third-party
-||guarda4k.online^$popup
 ||heyos.com^$popup,third-party
 ||protezione-deldispositivo.com^$popup
-||scaricare-2.buzz^$popup

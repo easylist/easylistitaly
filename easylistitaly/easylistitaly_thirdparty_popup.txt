@@ -9,9 +9,7 @@
 ||carte-regalo-per-te.com^$popup
 ||codere.it/promoRedirect?$popup,third-party
 ||edreams.it/?affiliate=$popup
-||eurostreaming.cam^$popup,third-party
 ||goldbetpartners.it/redirect.aspx?$popup,third-party
-||igd-4k.click^$popup
 ||incontripersesso.com/landing/$popup
 ||informatoriads.snai.it^$popup,third-party
 ||lp.starvegas.it^$popup,third-party

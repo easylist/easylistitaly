@@ -1,14 +1,9 @@
-||4k.filmsinitaliano.online^$popup
-||altadefinizione.ac/4k/$popup
 ||avmagazine.it/advertise/$popup
 ||cb01.li/vip/4K/$popup
-||cineblog01.bid/fake2/$popup
-||guardaserie.skin/VODGRATIS/$popup
-||ilgeniodellostreaming.to/stream/$popup
 ||supervideo.tv/vedo4k.php$popup
 ! about:blank popups
-/about:blank.*/$popup,domain=cercafilm.net|guardaserie.cam
+/about:blank.*/$popup,domain=cercafilm.net
 ! html/image popups
-/^https?:\/\/.*\.(jpg|gif|png|php|html|svg|ico|js|txt)/$popup,domain=alta-definizione.life|alta-definizione.stream|altadefinizione.host|altadefinizione.pet|altadefinizione.skin|altadefinizione.team|altadefinizione01.name|altadefinizione01.plus|altadefinizionehd.live|animeunity.tv|animeworld.tv|cb01.press|cineblog01.bid|cineblog01.digital|eurostreaming.actor|filmstreaming.media|guardarefilm.space|guardaserie.cam|guardaserie.cool|ieurostreaming.xyz|ilgeniodellostreaming.bar|ilgeniodellostreaming.date|ilgeniodellostreaming.la|ilgeniodellostreaming.network|ilgeniodellostreaming.voto|ilgeniodellostreaming.world|streamingcommunity.bar|streamingcommunity.cam|streamingcommunity.cc|streamingcommunity.fun|streamingcommunity.host|streamingcommunity.icu|streamingcommunity.live|streamingcommunity.monster|streamingcommunity.press|streamingcommunity.site|streamingcommunity.top|streamingcommunity.website|streamingita.online|tantifilm.run
+/^https?:\/\/.*\.(jpg|gif|png|php|html|svg|ico|js|txt)/$popup,domain=animeunity.tv|animeworld.tv|streamingcommunity.icu
 !
 $popup,third-party,domain=serieturche.eu

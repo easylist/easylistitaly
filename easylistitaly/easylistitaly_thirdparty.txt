@@ -33,7 +33,6 @@
 ||beruby.com/images/banner/
 ||bit.ly^$domain=manfredonianews.it
 ||blogspot.com^$image,domain=blog.libero.it|newscronaca.myblog.it
-||blogspot.com^*/banner_$domain=siciliaunonews.com
 ||blogspot.com^*/GM-COMPUTER-LOGO.gif$domain=siciliaunonews.com
 ||blogspot.com^*/ISTITUTI%2BPIETRO%2BPIAZZA%2BGIF.gif$domain=siciliaunonews.com
 ||blogspot.com^*/Regina%2BMargherita%2BBanner%2B2017_$domain=siciliaunonews.com
