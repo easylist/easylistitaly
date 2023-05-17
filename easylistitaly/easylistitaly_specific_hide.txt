@@ -1566,6 +1566,8 @@ rpiunews.it##.djslider-loader
 ridble.com##.dn
 ilgeniodellostreaming.icu,tantifilm.stream##.download-links
 autoscout24.it##.dp-financing-insurance__wrapper
+sicurauto.it##.ds-margin
+sicurauto.it##.ds-margin-center
 bolzano-bozen.it##.dt
 theitaliantimes.it##.dx
 finestresullarte.info##.dx250
@@ -2227,6 +2229,7 @@ tiscali.it##.shpCm
 filmporno.it##.sidebar-ads
 lavocedinovara.com,quotidianolacitta.it##.sidebar-banner
 mitindo.it##.sidebar-right-bottomleft
+sicurauto.it##.sidebar-sticky-top
 sportytrader.it##.sidebar_grid
 cosedicasa.com##.sidespot-wrapper
 calcioatalanta.it,calciocasteddu.it,calciocremonese.it,calciofere.it,calciogrifo.it,calciohellas.it,calciolecce.it,calciorosanero.it,calciospezia.it,forzamonza.it,forzaparma.it,labaricalcio.it,siamolaroma.it,sololalazio.it,tifocosenza.it,trapanigranata.it##.sihappy
