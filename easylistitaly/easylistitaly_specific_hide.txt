@@ -7,6 +7,7 @@ milanofinanza.it##.pimcobox
 prendiporno.tv##.productora
 prendiporno.tv##.productora-logo
 prendiporno.tv##.publ11s-b0ttom
+2anews.it##img[width="300"]
 !
 nauticareport.it###BanBG
 nauticareport.it###BanCenter
