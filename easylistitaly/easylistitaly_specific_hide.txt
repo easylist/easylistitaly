@@ -1,5 +1,7 @@
+nauticareport.it###BanBG
 trend-online.com###CONT_D_1
 altarimini.it###attivitaEvidenza
+mmawiki.org###custom_html-2
 allasianfootball.com###media_image-2
 prendiporno.tv###overlay-video
 studenti.it###scrolling_element
@@ -24,15 +26,11 @@ prendiporno.tv##.publ11s-b0ttom
 my-personaltrainer.it##.sal-list-sponsored
 androidworld.it,mobileworld.it,smartworld.it##.tw-carousel
 smartworld.it##.tw-fragment-affiliation-container
+lantidiplomatico.it##.widget-banner
 altissimoceto.it##img[alt="ad"]
 2anews.it,altissimoceto.it##img[width="300"]
 altissimoceto.it##img[width="728"]
 !
-nauticareport.it###BanBG
-nauticareport.it###BanCenter
-nauticareport.it###BanLeft
-lantidiplomatico.it###BanRight
-nauticareport.it###BanTop
 direttagol.one###Banner
 staffettaonline.com###BnrSolidarieta
 trend-online.com###CONT_T
@@ -325,7 +323,7 @@ mangiabevigodi.it###custom_html-15
 aroundtheworld.pro,giochi.com,immaginaviaggiare.it,nintendari.it,sportando.basketball,tusciatimes.eu###custom_html-17
 ilgiornaledeiveronesi.it,nonsoloturisti.it,pianetaserieb.it###custom_html-18
 elementocreativo.it###custom_html-19
-assisisport.it,auguri.gratis,birramoriamoci.it,calciohellas.it,calciorosanero.it,card.it,carteprepagate.org,domanidoveandiamo.it,ilgiornaledeimarinai.it,iopartodasola.it,italiaonline.news,metallus.it,meteogiornale.it,mmawiki.org,nautica.it,sportnews.eu,thailandiapertutti.it###custom_html-2
+assisisport.it,auguri.gratis,birramoriamoci.it,calciohellas.it,calciorosanero.it,card.it,carteprepagate.org,domanidoveandiamo.it,ilgiornaledeimarinai.it,iopartodasola.it,italiaonline.news,metallus.it,meteogiornale.it,nautica.it,sportnews.eu,thailandiapertutti.it###custom_html-2
 corrierequotidiano.it,mam-e.it,sportando.basketball###custom_html-20
 castellinotizie.it,corrierequotidiano.it,elementocreativo.it,immaginaviaggiare.it,tuttojuve24.it###custom_html-21
 castellinotizie.it,elementocreativo.it,imolaoggi.it###custom_html-22
@@ -762,7 +760,7 @@ best5.it###text-26
 lamiavitainvaligia.org,nerdevil.it,pisanews.net###text-27
 giornalistitalia.it,lamiavitainvaligia.org###text-28
 lamiavitainvaligia.org,nonsolomac.com,ricettealvolo.it###text-29
-amorethailandia.com,clientiesperti.it,gstv24.it,libripiuvenduti.it,mmawiki.org,stile.it,tecnofacile.com,top10scommesse.it###text-3
+amorethailandia.com,clientiesperti.it,gstv24.it,libripiuvenduti.it,stile.it,tecnofacile.com,top10scommesse.it###text-3
 giornalistitalia.it,lamiavitainvaligia.org,nonsolomac.com###text-30
 lamiavitainvaligia.org###text-31
 castellinotizie.it###text-315
@@ -1322,7 +1320,6 @@ mediaworld.it##.block-mw-external-banner
 ilclubdellericette.it##.block-products
 ilroma.net##.block-rotating-banner
 legapallacanestro.com##.block-sponsor-e-partners
-lantidiplomatico.it##.block-wrapper-banner
 dissapore.com,pourfemme.it,punto-informatico.it,sportal.it,telefonino.net##.blz-url
 punto-informatico.it##.blz_aff_gen_button
 punto-informatico.it##.blz_grid
@@ -2626,7 +2623,7 @@ sportando.basketball##.widget > a[rel="noopener"]
 telcoinsider.it##.widget-a-wrap
 esportsonline.it##.widget-above-header
 montecarloliving.com##.widget-asd
-ideeregaloper.it,lantidiplomatico.it,oddslot.it##.widget-banner
+ideeregaloper.it,oddslot.it##.widget-banner
 supertennis.tv##.widget-banner-container
 it.businessinsider.com##.widget-financialounge
 fashionandroid.com##.widget-header

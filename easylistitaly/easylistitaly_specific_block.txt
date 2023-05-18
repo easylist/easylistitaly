@@ -60,6 +60,7 @@
 ||altoadigetv.it/images/social/banner
 ||altopiemonte24.it/images/banner/
 ||altramantova.it/images/banners/
+||mmawiki.org^*/adv-
 !
 ||altropensiero.net^*/BigRectangleAnimato.gif
 ||alwaysonboard.it/amazon_
@@ -2206,9 +2207,6 @@
 ||lanotiziaoggi.it^*/Banner-
 ||lanotiziaquotidiana.it^*/Senza-nome.jpg
 ||lanotiziaquotidiana.it^*banner
-||lantidiplomatico.it/img/coupon.png
-||lantidiplomatico.it/public/chinabestprices.jpg
-||lantidiplomatico.it/public/Senza%20nome192.png
 ||lanuova.net^*/sansone-_
 ||lanuovabq.it^*/20210316-ippolito-di-roma-cristo-e-l-anticristo.gif
 ||lanuovabq.it^*/20210426-caterina-da-siena-con-sconto-50.gif
@@ -2578,7 +2576,6 @@
 ||mio-ip.eu^*/offerte-amazon-
 ||miotv.it/public/componenti/
 ||mitology.it^*/skin-
-||mmawiki.org^*/adv
 ||mobimart.it/ban.
 ||modellismo.net/banner/
 ||modellismopiu.it/images/partners/
