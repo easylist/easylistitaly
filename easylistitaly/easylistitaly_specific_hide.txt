@@ -1,7 +1,11 @@
+prendiporno.tv###overlay-video
 agendapolitica.it###sow-editor-17
 ilmanifesto.it##.Adv
 webboh.it##.amePlaceholderBox
 milanofinanza.it##.pimcobox
+prendiporno.tv##.productora
+prendiporno.tv##.productora-logo
+prendiporno.tv##.publ11s-b0ttom
 !
 nauticareport.it###BanBG
 nauticareport.it###BanCenter
