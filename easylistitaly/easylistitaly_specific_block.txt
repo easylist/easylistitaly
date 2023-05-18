@@ -24,6 +24,7 @@
 ||abilitychannel.tv^*/skin-
 ||abr24.it^*/3E8FAA3A-9CBE-454F-8118-231975157FCC.jpeg
 ||abruzzolive.tv/images_client/
+||abruzzonotizie.com/wp-content/uploads/all.png
 ||abruzzonotizie.com^*/SkinLaserClinic.jpg
 ||abruzzoweb.it^*/banner-
 ||accordo.it/cloud-assets/x/sfondi/
