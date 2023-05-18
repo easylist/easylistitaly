@@ -1,9 +1,12 @@
 nauticareport.it###BanBG
 trend-online.com###CONT_D_1
 altarimini.it###attivitaEvidenza
+alqamah.it###bp-sf-container
 mmawiki.org###custom_html-2
 allasianfootball.com###media_image-2
 prendiporno.tv###overlay-video
+alqamah.it###ppp_box
+alqamah.it###ppp_overlay
 studenti.it###scrolling_element
 allmusicitalia.it###skin
 agendapolitica.it###sow-editor-17
@@ -30,6 +33,8 @@ my-personaltrainer.it##.sal-list-sponsored
 androidworld.it,mobileworld.it,smartworld.it##.tw-carousel
 smartworld.it##.tw-fragment-affiliation-container
 lantidiplomatico.it##.widget-banner
+alqamah.it##.widget_xyz_insert_php_widget
+alqamah.it##div[class^="unit-zona-"]
 altissimoceto.it##img[alt="ad"]
 2anews.it,altissimoceto.it##img[width="300"]
 altissimoceto.it##img[width="728"]
