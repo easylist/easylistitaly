@@ -9,6 +9,7 @@ alqamah.it###ppp_box
 alqamah.it###ppp_overlay
 studenti.it###scrolling_element
 allmusicitalia.it###skin
+altoadigegol.it###skinclick
 agendapolitica.it###sow-editor-17
 ilmanifesto.it##.Adv
 filmpertutti.boo##.ads
