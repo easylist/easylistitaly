@@ -3,6 +3,7 @@ agendapolitica.it###sow-editor-17
 ilmanifesto.it##.Adv
 webboh.it##.amePlaceholderBox
 0766news.it##.dfad
+70-80.it##.metaslider
 milanofinanza.it##.pimcobox
 prendiporno.tv##.productora
 prendiporno.tv##.productora-logo
