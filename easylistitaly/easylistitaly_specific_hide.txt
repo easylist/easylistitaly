@@ -13,9 +13,12 @@ altoadigetv.it##.adv
 androidworld.it,cookaround.com,dmbeauty.it,donnamoderna.com,focus.it,giallozafferano.it,iconmagazine.it,mobileworld.it,my-personaltrainer.it,nostrofiglio.it,pianetadonna.it,pianetamamma.it,smartworld.it,soldionline.it,sorrisi.com,studenti.it,thewom.it,valorinormali.com,webboh.it##.amePlaceholderBox
 algheroeco.com##.banner-header-dx
 algheroeco.com##.banner-header-sx
+nauticareport.it##.banner-post-slider
 0766news.it##.dfad
 sorrisi.com##.gtv-trigger-elevator
+nauticareport.it##.header-centerbar-ad
 allmusicitalia.it##.iframe-adv
+nauticareport.it##.lozad
 70-80.it##.metaslider
 alimentibevande.it,professioneallevatore.it,professionesuinicoltore.it##.mod
 nostrofiglio.it##.par-listing-collab
