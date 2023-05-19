@@ -61,6 +61,7 @@
 ||altoadigetv.it/images/banner/
 ||altoadigetv.it/images/social/banner
 ||altopiemonte24.it/images/banner/
+||altovicentinonline.it/wp-content/uploads/*/cora-viaggi-$image
 ||altramantova.it/images/banners/
 ||mmawiki.org^*/adv-
 !
