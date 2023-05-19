@@ -2,6 +2,7 @@ nauticareport.it###BanBG
 trend-online.com###CONT_D_1
 altarimini.it###attivitaEvidenza
 alqamah.it###bp-sf-container
+radiogold.it###click-piemonte
 mmawiki.org###custom_html-2
 allasianfootball.com###media_image-2
 prendiporno.tv###overlay-video
@@ -12,7 +13,7 @@ allmusicitalia.it###skin
 altoadigegol.it###skinclick
 agendapolitica.it###sow-editor-17
 ilmanifesto.it##.Adv
-filmpertutti.boo##.ads
+filmpertutti.boo,radiogold.it##.ads
 altoadigetv.it##.adv
 androidworld.it,cookaround.com,dmbeauty.it,donnamoderna.com,focus.it,giallozafferano.it,iconmagazine.it,mobileworld.it,my-personaltrainer.it,nostrofiglio.it,pianetadonna.it,pianetamamma.it,smartworld.it,soldionline.it,sorrisi.com,studenti.it,thewom.it,valorinormali.com,webboh.it##.amePlaceholderBox
 algheroeco.com##.banner-header-dx
@@ -24,6 +25,7 @@ sorrisi.com##.gtv-trigger-elevator
 nauticareport.it##.header-centerbar-ad
 allmusicitalia.it##.iframe-adv
 nauticareport.it##.lozad
+radiogold.it##.max-banner-top
 70-80.it##.metaslider
 alimentibevande.it,professioneallevatore.it,professionesuinicoltore.it##.mod
 nostrofiglio.it##.par-listing-collab
@@ -43,6 +45,7 @@ altomantovanonews.it##div[id^="altom-"]
 mantovauno.it##div[id^="manto-"]
 oltrepomantovanonews.it##div[id^="oltre-"]
 altissimoceto.it##img[alt="ad"]
+radiogold.it##img[alt^="adv-"]
 2anews.it,alessandria24.com,altissimoceto.it##img[width="300"]
 alessandria24.com##img[width="626"]
 altissimoceto.it##img[width="728"]
@@ -122,7 +125,6 @@ torinonews24.it###banner-bottom
 veneziafc.it###banner-box-up
 quotidianocanavese.it###banner-column
 9colonne.it###banner-dx
-radiogold.it###banner-fixed-top
 italiafruit.net###banner-floating-container
 toscanalibri.it###banner-home
 mondocalcionews.it###banner-laterale-headerbidding
@@ -622,7 +624,6 @@ mammecreative.it###open_up
 tiscali.it###oswstsSkinAutoBg
 centrometeoitaliano.it###outbrain-wrapper
 erbanotizie.com###overlay
-radiogold.it###overlay-bn-wrapper
 tgtourism.tv###panel-2-4-3-1
 tgtourism.tv###panel-2-4-3-3
 greenreport.it###partner-ambiente
@@ -985,7 +986,7 @@ fidal.it##.add-logo
 informagiovani-italia.com##.add_left
 spagna.cc##.add_top
 offertevolantini.it##.add_w2_h1
-24emilia.com,antennafebea.it,autoscout24.ch,brocardi.it,casacinema.media,eurostreaming.vote,filmpertutti.bar,filmpertutti.center,filmpertutti.homes,filmpertutti.kim,filmpertutti.onl,filmpertutti.sbs,filmsenzalimiti.blog,gamemag.it,hdblog.it,hdmotori.it,hdtroll.it,ilgeniodellostreaming.quest,ilikepuglia.it,immaginicompleanno.com,liberta.it,live-sport-tv.it,mattinonline.ch,orizzontescuola.it,radiogold.it,ravennaeventi.net,sitigiochi.it,startmag.it,teleborsa.it,viamichelin.ch,viamichelin.it,voce.com.ve,yuvideos.com,zazoom.it##.ads
+24emilia.com,antennafebea.it,autoscout24.ch,brocardi.it,casacinema.media,eurostreaming.vote,filmpertutti.bar,filmpertutti.center,filmpertutti.homes,filmpertutti.kim,filmpertutti.onl,filmpertutti.sbs,filmsenzalimiti.blog,gamemag.it,hdblog.it,hdmotori.it,hdtroll.it,ilgeniodellostreaming.quest,ilikepuglia.it,immaginicompleanno.com,liberta.it,live-sport-tv.it,mattinonline.ch,orizzontescuola.it,ravennaeventi.net,sitigiochi.it,startmag.it,teleborsa.it,viamichelin.ch,viamichelin.it,voce.com.ve,yuvideos.com,zazoom.it##.ads
 investireoggi.it##.ads-container
 ildolomiti.it##.adsB
 corrieredellacalabria.it##.ads_corriere
@@ -1090,7 +1091,6 @@ tecnofun.eu##.asa_product_box
 assisisport.it##.assis-widget
 giochinet.com##.ast-below-header
 supercoin.it##.atla-card-link
-radiogold.it##.autobanner
 subito.it##.autopromo
 uspistoiese1921.it##.av-partner-fake-img
 direttasport24.com##.avia-builder-el-5
@@ -1282,7 +1282,6 @@ ilgiornaledellabellezza.it##.bannergrid
 105tv.it,aostaoggi.it,arezzo24.net,arezzotv.net,aziendabanca.it,biancoebruno.it,bicimagazine.it,calcionazionale.it,casertafocus.net,concorezzo.org,dichesegnosei.it,elbareport.it,energiamercato.it,faidatehobby.it,fiumicino-online.it,gazzettadellaspezia.it,gazzettadellemilia.it,genova3000.it,giornaledimontesilvano.com,ilcervellone.it,ilcittadinodirecanati.it,ildispaccio.it,ilgazzettinobr.it,ilgrigioneitaliano.ch,ilvimercate.org,infermieriattivi.it,informatissimo.net,isnews.it,kisskiss.it,kisskissitalia.it,kisskissnapoli.it,lametino.it,maremmanews.it,metanogpl.it,monrealenews.it,notebookitalia.it,nuovogiornalenazionale.com,ondalibera.it,puntovendita.info,qdpnews.it,radiopnr.it,sienafree.it,sportgrigiorosso.it,teleglobal.tv,telesardegna.net,tgnordsalento.it,tv1.it,umbriatv.com,unotvweb.it,videomediterraneo.it,voceaigiovani.it,youtg.net##.bannergroup
 comitatoparalimpico.it##.bannergroup-banner
 betitaliaweb.it##.bannergroup_rightBanner
-radiogold.it##.bannergroupskin-banner-module
 filmforlife.org##.bannerh
 saturnonotizie.it##.bannerheader
 edicolaamica.it##.bannerhome
@@ -1977,7 +1976,6 @@ ilgiorno.it,ilrestodelcarlino.it,iltelegrafolivorno.it,lanazione.it,notizie-inte
 screenweek.it##.matches-container
 automoto.it##.mawrap
 moto.it##.mawrap.aside-grow
-radiogold.it##.max-banner-top
 laputa.it##.mbt-book-buybuttons
 medicalexcellencetv.it##.medic-widget
 powned.it##.medium-5 + .medium-7
@@ -2147,7 +2145,7 @@ fibra.click##.propaganda
 tgfuneral24.it##.psct-banners
 playstationzone.it##.psz_template_prices_comp
 agoravox.it,boatindustry.it,boatsnews.it,europa-agri.it,giornalone.it##.pub
-europa-agri.it,radiogold.it##.pub-content
+europa-agri.it##.pub-content
 kikapress.com##.pub_container
 pornolatte.com##.pub_h_250new
 barinedita.it##.pubbli
@@ -3225,7 +3223,6 @@ lamoneta.it##img[alt="advertisement_alt"]
 cinematografo.it,ondatv.tv##img[alt="banner"]
 tvdigitaldivide.it##img[alt="seo sito web adv"]
 valdarnopost.it##img[alt="spot_img"]
-radiogold.it##img[alt^="adv-"]
 narnionline.com,ternieprovincia.com,umbriamagazine.com##img[class="block_banner_img"]
 legnolab.it##img[class="legnolab-banner"]
 hellaslive.it##img[class="partner"]

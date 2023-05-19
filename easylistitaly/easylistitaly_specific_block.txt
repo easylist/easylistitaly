@@ -3306,13 +3306,6 @@
 ||radiofly.cloud^*/radios-online-
 ||radiofusion.it/images/banners/
 ||radiogelosa.it^*/caneva.gif
-||radiogold.it/images/banners/
-||radiogold.it^*/Banner-
-||radiogold.it^*/banner/
-||radiogold.it^*/banner_
-||radiogold.it^*/foral-
-||radiogold.it^*_937x110_
-||radiogold.it^*_970x250_
 ||radiogold.tv^*/banner-
 ||radiogold.tv^*/banner_
 ||radiogold.tv^*/barbanera-
