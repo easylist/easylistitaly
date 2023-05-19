@@ -43,6 +43,7 @@ mantovauno.it##div[id^="manto-"]
 oltrepomantovanonews.it##div[id^="oltre-"]
 altissimoceto.it##img[alt="ad"]
 2anews.it,altissimoceto.it##img[width="300"]
+alessandria24.com##img[width="626"]
 altissimoceto.it##img[width="728"]
 !
 direttagol.one###Banner
