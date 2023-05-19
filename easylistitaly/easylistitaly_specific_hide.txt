@@ -19,6 +19,7 @@ algheroeco.com##.banner-header-dx
 algheroeco.com##.banner-header-sx
 nauticareport.it##.banner-post-slider
 0766news.it##.dfad
+algheroeco.com##.g
 sorrisi.com##.gtv-trigger-elevator
 nauticareport.it##.header-centerbar-ad
 allmusicitalia.it##.iframe-adv
