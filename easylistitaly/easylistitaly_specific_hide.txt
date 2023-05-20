@@ -54,6 +54,8 @@ antenna1.fm##.top_publicite
 blunote.it##.topbar-below
 androidworld.it,mobileworld.it,smartworld.it##.tw-carousel
 smartworld.it##.tw-fragment-affiliation-container
+amadeusmagazine.it##.us_custom_c62a4417
+amadeusmagazine.it##.us_custom_d14818f6
 lantidiplomatico.it##.widget-banner
 androidblog.it##.widget_custom_html
 amarantomagazine.it##.widget_media_image
