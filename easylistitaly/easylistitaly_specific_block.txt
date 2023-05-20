@@ -77,6 +77,7 @@
 ||animalinelmondo.com/images/banner/
 ||animeclick.it/Banners/
 ||animeclick.it/immagini/campagna/skin-
+||animeclick.it/video-intro/
 ||animeemanga.it/banner_
 ||animeemanga.it/wp-content/uploads/*/dynit-su-prime-video-288x360.jpg
 ||anisearch.it/images/sponsor/
