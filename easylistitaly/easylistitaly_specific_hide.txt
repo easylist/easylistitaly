@@ -4,6 +4,7 @@ altarimini.it###attivitaEvidenza
 alqamah.it###bp-sf-container
 radiogold.it###click-piemonte
 mmawiki.org###custom_html-2
+meteofinanza.com###financial-popup-overlay
 allasianfootball.com###media_image-2
 prendiporno.tv###overlay-video
 alqamah.it###ppp_box
@@ -14,7 +15,7 @@ altoadigegol.it###skinclick
 agendapolitica.it###sow-editor-17
 animeclick.it###wrapper
 ilmanifesto.it##.Adv
-anteprima24.it##.a-single
+anteprima24.it,meteofinanza.com##.a-single
 filmpertutti.boo,radiogold.it##.ads
 altoadigetv.it##.adv
 animeclick.it,gamerclick.it##.amazon-row
@@ -25,6 +26,7 @@ algheroeco.com##.banner-header-sx
 nauticareport.it##.banner-post-slider
 aostaoggi.it##.bannergroup
 antenna1.fm##.bloc-pub
+meteofinanza.com##.custom-cta-container
 0766news.it,umbriaon.it##.dfad
 sicurauto.it##.ds-margin
 sicurauto.it##.ds-margin-center
