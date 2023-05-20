@@ -82,6 +82,7 @@
 ||anisearch.it/partner?
 ||annuariodelcinema.it/images/banners/
 ||annunci69.it/include/ads_ponte.php?
+||antenna1.fm/upload/publicite/
 ||aostaoggi.it/images/banners/
 ||aostasports.it^*/box/
 ||armiusate.it^*/sponsor/

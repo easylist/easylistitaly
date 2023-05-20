@@ -24,6 +24,7 @@ algheroeco.com##.banner-header-dx
 algheroeco.com##.banner-header-sx
 nauticareport.it##.banner-post-slider
 aostaoggi.it##.bannergroup
+antenna1.fm##.bloc-pub
 0766news.it,umbriaon.it##.dfad
 sicurauto.it##.ds-margin
 sicurauto.it##.ds-margin-center
@@ -45,6 +46,7 @@ sicurauto.it##.sidebar-sticky-top
 animeclick.it##.skin
 lavoripubblici.it##.skin-link
 apsicilia.it##.td-a-rec
+antenna1.fm##.top_publicite
 blunote.it##.topbar-below
 androidworld.it,mobileworld.it,smartworld.it##.tw-carousel
 smartworld.it##.tw-fragment-affiliation-container
