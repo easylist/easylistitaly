@@ -46,7 +46,7 @@ my-personaltrainer.it##.sal-list-sponsored
 sicurauto.it##.sidebar-sticky-top
 animeclick.it##.skin
 lavoripubblici.it##.skin-link
-apsicilia.it##.td-a-rec
+angrinews.com,apsicilia.it##.td-a-rec
 antenna1.fm##.top_publicite
 blunote.it##.topbar-below
 androidworld.it,mobileworld.it,smartworld.it##.tw-carousel
