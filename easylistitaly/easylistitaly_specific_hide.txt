@@ -34,6 +34,7 @@ nauticareport.it##.header-centerbar-ad
 allmusicitalia.it##.iframe-adv
 nauticareport.it##.lozad
 radiogold.it##.max-banner-top
+anisearch.it##.merchandise
 70-80.it##.metaslider
 alimentibevande.it,professioneallevatore.it,professionesuinicoltore.it##.mod
 nostrofiglio.it##.par-listing-collab

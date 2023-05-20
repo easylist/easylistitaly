@@ -79,6 +79,7 @@
 ||animeclick.it/immagini/campagna/skin-
 ||animeemanga.it/banner_
 ||animeemanga.it/wp-content/uploads/*/dynit-su-prime-video-288x360.jpg
+||anisearch.it/images/sponsor/
 ||anisearch.it/partner?
 ||annuariodelcinema.it/images/banners/
 ||annunci69.it/include/ads_ponte.php?
