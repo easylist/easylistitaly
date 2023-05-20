@@ -1,3 +1,4 @@
+##.sponsorizzati
 ##a[href^="https://adv.presscommtech.com/"]
 !
 ###ADV_filter_1
@@ -175,7 +176,6 @@
 ##.adv-margin
 ##.adv-masthead
 ##.adv-promobox
-##.adv-region
 ##.adv-sfondo
 ##.adv-skin
 ##.adv-skin-weben
@@ -337,8 +337,6 @@
 ##.slot-adv
 ##.sponsor160x600Dx
 ##.sponsor300x250Sx
-##.sponsorizzati
-##.sticky-adv
 ##.tabella2Pubblicita
 ##.tabella3Pubblicita
 ##.tabellaPubblicita

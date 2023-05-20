@@ -5,6 +5,7 @@ alqamah.it###bp-sf-container
 radiogold.it###click-piemonte
 mmawiki.org###custom_html-2
 meteofinanza.com###financial-popup-overlay
+ilfattoquotidiano.it###immo-330x350
 allasianfootball.com###media_image-2
 prendiporno.tv###overlay-video
 alqamah.it###ppp_box
@@ -17,15 +18,19 @@ animeclick.it###wrapper
 ilmanifesto.it##.Adv
 anteprima24.it,meteofinanza.com##.a-single
 filmpertutti.boo,radiogold.it##.ads
-altoadigetv.it##.adv
+altoadigetv.it,ansa.it,ilfattoquotidiano.it##.adv
+ansa.it##.adv-region
+ansa.it##.adv-slot
 animeclick.it,gamerclick.it##.amazon-row
 androidworld.it,cookaround.com,dmbeauty.it,donnamoderna.com,focus.it,giallozafferano.it,iconmagazine.it,mobileworld.it,my-personaltrainer.it,nostrofiglio.it,pianetadonna.it,pianetamamma.it,smartworld.it,soldionline.it,sorrisi.com,studenti.it,thewom.it,valorinormali.com,webboh.it##.amePlaceholderBox
+ansa.it##.ansacom-box
 amicidicasa.it##.banner-container
 algheroeco.com##.banner-header-dx
 algheroeco.com##.banner-header-sx
 nauticareport.it##.banner-post-slider
 aostaoggi.it##.bannergroup
 antenna1.fm##.bloc-pub
+ilfattoquotidiano.it##.cc-adv-wrapper
 meteofinanza.com##.custom-cta-container
 0766news.it,umbriaon.it##.dfad
 sicurauto.it##.ds-margin
@@ -39,6 +44,7 @@ radiogold.it##.max-banner-top
 anisearch.it##.merchandise
 70-80.it##.metaslider
 alimentibevande.it,professioneallevatore.it,professionesuinicoltore.it##.mod
+ansa.it##.news-special-box
 nostrofiglio.it##.par-listing-collab
 milanofinanza.it##.pimcobox
 prendiporno.tv##.productora
@@ -48,6 +54,8 @@ my-personaltrainer.it##.sal-list-sponsored
 sicurauto.it##.sidebar-sticky-top
 animeclick.it##.skin
 lavoripubblici.it##.skin-link
+ilfattoquotidiano.it##.special
+ilfattoquotidiano.it##.sticky-adv
 angrinews.com,apsicilia.it##.td-a-rec
 amarantomagazine.it##.td_block_single_image
 antenna1.fm##.top_publicite
@@ -494,9 +502,6 @@ ideawebtv.it###ideaw-slider-45856
 corrierenazionale.it###image-3
 4yougratis.it###img-60x60
 affaritaliani.it###immo-300x250
-ilfattoquotidiano.it###immo-300x350
-ilfattoquotidiano.it###immo-330x350
-ilfattoquotidiano.it###immo-form-container-300x350
 soldioggi.it###inarticle2
 soldioggi.it###inarticle3
 adirai.it###index_blog2
@@ -662,7 +667,6 @@ gazzettadellemilia.it###popop_wrap
 notizieflash.net###post-adv
 lagazzettamessinese.it,lagazzettasiracusana.it,lanotiziapontina.it###post-sidebar-wrap
 acprosesto.it###prefooter
-ansa.it###pressRelease
 occhionotizie.it###prj_300x250_sidebar_atf
 occhionotizie.it###prj_728x90_atf
 eurogamer.it###prod-buy
@@ -1009,7 +1013,7 @@ motorionline.com##.adsbox
 amalfinews.it,beatgogo.it,cetaranews.it,chistachiamando.it,ilportico.it,ilvescovado.it,liratv.it,occhisusalerno.it,pcprofessionale.it,positanonotizie.it,ravellonotizie.it,trova-aperto.it,valtellinamobile.it##.adsense
 animalidacompagnia.it,ilgazzettinovesuviano.com##.adserver
 novella2000.it,pcprofessionale.it##.adunit-mark
-adessoin.tv,allaguida.it,alpha59.it,altreconomia.it,amica.it,ansa.it,buttalapasta.it,calciatoribrutti.com,calciomercato.com,cittaceleste.it,curioctopus.it,dire.it,dissapore.com,dolciveloci.it,donnaglamour.it,economiafinanzaonline.it,famigliacristiana.it,fcinter1908.it,forbes.it,forzaroma.info,gay.it,gelocal.it,gianlucadimarzio.com,girovagandointrentino.it,gta-expert.it,guardachevideo.it,ilfattoquotidiano.it,ilpost.it,ilsole24ore.com,itasportpress.it,juvenews.eu,latina24ore.it,leonardo.it,libero.it,marcopolo.tv,mediaset.it,milanofinanza.it,movieplayer.it,multiplayer.it,nanopress.it,newsmondo.it,nospoiler.it,notiziebenessere.it,notiziemilan.it,notiziemusica.it,oasport.it,passioneinter.com,pianetamilan.it,pourfemme.it,prealpina.it,primochef.it,radioindiretta.fm,repubblica.it,ricettedalmondo.it,riza.it,salepepe.it,sassuolocalcio.it,skuola.net,staffettaonline.com,stylosophy.it,supereva.it,toro.it,toronews.net,toscanadaily.com,trentinotv.it,virgilio.it,vocenuova.tv,weekendpremium.it,winesurf.it##.adv
+adessoin.tv,allaguida.it,alpha59.it,altreconomia.it,amica.it,buttalapasta.it,calciatoribrutti.com,calciomercato.com,cittaceleste.it,curioctopus.it,dire.it,dissapore.com,dolciveloci.it,donnaglamour.it,economiafinanzaonline.it,famigliacristiana.it,fcinter1908.it,forbes.it,forzaroma.info,gay.it,gelocal.it,gianlucadimarzio.com,girovagandointrentino.it,gta-expert.it,guardachevideo.it,ilpost.it,ilsole24ore.com,itasportpress.it,juvenews.eu,latina24ore.it,leonardo.it,libero.it,marcopolo.tv,mediaset.it,milanofinanza.it,movieplayer.it,multiplayer.it,nanopress.it,newsmondo.it,nospoiler.it,notiziebenessere.it,notiziemilan.it,notiziemusica.it,oasport.it,passioneinter.com,pianetamilan.it,pourfemme.it,prealpina.it,primochef.it,radioindiretta.fm,repubblica.it,ricettedalmondo.it,riza.it,salepepe.it,sassuolocalcio.it,skuola.net,staffettaonline.com,stylosophy.it,supereva.it,toro.it,toronews.net,toscanadaily.com,trentinotv.it,virgilio.it,vocenuova.tv,weekendpremium.it,winesurf.it##.adv
 teleunica.com##.adv-body
 centrometeoitaliano.it##.adv-cmi
 shipmag.it##.adv-custom-widget
@@ -1020,7 +1024,6 @@ infomotori.com##.adv-listino-nuovo
 editorialedomani.it##.adv-placeholder
 rbe.it##.adv-section
 corrieredellumbria.it,corrierediarezzo.it,corrieredisiena.it##.adv-slideshow
-ansa.it##.adv-slot
 radiocittadelcapo.it##.adv-space
 diredonna.it,gravidanzaonline.it,robadadonne.it##.adv-style
 quattroruote.it##.adv-wrap
@@ -1034,7 +1037,6 @@ ricettealvolo.it##.adv_content
 ricettealvolo.it##.adv_side
 calabria7.it##.advanced_floating_content
 automoto.it##.advblock
-ansa.it##.advblockshown
 garzantilinguistica.it##.advbox
 addicted2play.com,bicimagazine.it,bimcal.it,eurogamer.it,gioco.it,lausc.it,morningstar.it,podisti.net,trentinovolley.it##.advert
 corrieredellumbria.it,corrierediarezzo.it,corrieredisiena.it,ilfoglio.it,iltempo.it,liberoquotidiano.it,ottopagine.it,pharmastar.it,piazzaffariweb.com##.advertisement
@@ -1079,7 +1081,6 @@ fotografidigitali.it,hwupgrade.it##.amz-wrapper
 saggiamente.com##.amz_box
 voglioporno.com##.analytics-event
 civile.it,ricercagiuridica.com##.animate__animated
-ansa.it##.ansacom-box
 oraridiapertura24.it##.anzeigenlabel
 insideevs.it,nonsolocap.it,omnifurgone.it,omnimoto.it,omnitrattore.it##.ap
 iltquotidiano.it,pescaralive.it##.apPluginContainer
@@ -1460,7 +1461,6 @@ catanzaro7.net##.catan-nellarticolo
 forbes.it##.category-powered-by-intesa-sanpaolo
 quotidianopiemontese.it##.category-redazionale
 leggere-facile.it##.cb-large
-ilfattoquotidiano.it##.cc-adv-wrapper
 federtennis.it##.cc-content-sponsor
 magazinedelledonne.it##.ccm_pugoo__sponso
 webpointzero.com,xiaomitoday.it##.cegg_widget_products
@@ -2046,7 +2046,6 @@ mondobarcamarket.it##.navbar-right
 livingcesenatico.it##.nectar-slider-wrap
 virgilio.it##.newboxIs
 virgilio.it##.newboxIsOrizz
-ansa.it##.news-special-box
 montagna.tv##.news-sponsorizzate
 italia-informa.com##.newsitemAdv
 hdblog.it,hdmotori.it##.newslist_evidenza
@@ -2313,7 +2312,6 @@ tvoggisalerno.it##.sow-slider-image-container
 tgnewstv.it##.sp-logo-carousel-pro-section
 calcioatalanta.it,calciocasteddu.it,calciocremonese.it,calciofere.it,calciogrifo.it,calciohellas.it,calciolecce.it,calciorosanero.it,calciospezia.it,fiorentina.it,forzamonza.it,forzaparma.it,labaricalcio.it,siamolaroma.it,sololalazio.it,tifocosenza.it,trapanigranata.it,usavellino1912.com,virtus.it##.sp-sponsors
 radiodiffusionepistoia.com##.spazio_banner
-ilfattoquotidiano.it##.special
 bimcal.it##.special-calendars-wrap
 lifegate.it##.special-contents
 gay.it,pgcasa.it##.speciale
@@ -2670,7 +2668,6 @@ bresciasport.net##.wp-block-jetpack-slideshow
 mistergadget.tech##.wp-block-mister-gadget-amazon-list
 fitnesspalestra.org##.wp-block-product-on-sale
 jotv.it##.wp-caption.alignnone
-ilfattoquotidiano.it##.wp_bannerize
 amoreperleserietv.com,massimoemanuelli.com,vaurosenesi.it##.wpa
 itvonline.news##.wpb_gallery
 radiomarte.it##.wpb_revslider_element

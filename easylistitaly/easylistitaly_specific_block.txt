@@ -94,7 +94,6 @@
 ||lavoripubblici.it/banner/
 ||mmawiki.org^*/adv-
 !
-||ansa.it^*/banner_
 ||aprilianews.it^*-300x250.gif
 ||aprilianews.it^*/aprilianews-limoni.jpg
 ||aprilianews.it^*/Banner_
