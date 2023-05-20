@@ -87,6 +87,7 @@
 ||antenna1.fm/upload/publicite/
 ||aostaoggi.it/images/banners/
 ||aostasports.it^*/box/
+||armiusate.it/pix/
 ||armiusate.it^*/sponsor/
 ||circusf1.com/wp-content/uploads/*/Amazon_
 ||cloudfront.net/pix/$domain=armiusate.it
