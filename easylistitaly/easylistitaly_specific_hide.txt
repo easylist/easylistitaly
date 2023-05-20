@@ -49,12 +49,14 @@ sicurauto.it##.sidebar-sticky-top
 animeclick.it##.skin
 lavoripubblici.it##.skin-link
 angrinews.com,apsicilia.it##.td-a-rec
+amarantomagazine.it##.td_block_single_image
 antenna1.fm##.top_publicite
 blunote.it##.topbar-below
 androidworld.it,mobileworld.it,smartworld.it##.tw-carousel
 smartworld.it##.tw-fragment-affiliation-container
 lantidiplomatico.it##.widget-banner
 androidblog.it##.widget_custom_html
+amarantomagazine.it##.widget_media_image
 alqamah.it##.widget_xyz_insert_php_widget
 androidblog.it##.wpmc_inject_wrapper
 lavoripubblici.it,primocomunicazione.it##a[data-banner]
