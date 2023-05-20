@@ -38,6 +38,7 @@ sicurauto.it##.ds-margin-center
 algheroeco.com,almanaccocalciotoscano.it,amicodelpopolo.it,anteprima24.it,meteofinanza.com##.g
 sorrisi.com##.gtv-trigger-elevator
 nauticareport.it##.header-centerbar-ad
+ilfattoquotidiano.it##.ifq-dfp
 allmusicitalia.it##.iframe-adv
 nauticareport.it##.lozad
 radiogold.it##.max-banner-top
