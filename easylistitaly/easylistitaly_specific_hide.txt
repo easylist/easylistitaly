@@ -2,6 +2,7 @@ nauticareport.it###BanBG
 trend-online.com###CONT_D_1
 altarimini.it###attivitaEvidenza
 alqamah.it###bp-sf-container
+blunote.it###carousel-sponsors-list
 radiogold.it###click-piemonte
 mmawiki.org###custom_html-2
 meteofinanza.com###financial-popup-overlay
@@ -73,6 +74,8 @@ androidblog.it##.wpmc_inject_wrapper
 lavoripubblici.it,primocomunicazione.it##a[data-banner]
 animeemanga.it##a[href*="//goo.gl/"]
 altomantovanonews.it,mantovasport24.it,mantovauno.it,oltrepomantovanonews.it##a[href*="/linkout/"]
+blunote.it##a[href^="http://sitiscommesse.info/"]
+blunote.it##a[href^="https://time2play.com/"]
 animeemanga.it##a[href^="https://www.primevideo.com/"][href*="tag="]
 alqamah.it##div[class^="unit-zona-"]
 alessandria24.com##div[id^="aless-"]
