@@ -67,7 +67,7 @@ amadeusmagazine.it##.us_custom_c62a4417
 amadeusmagazine.it##.us_custom_d14818f6
 lantidiplomatico.it##.widget-banner
 androidblog.it##.widget_custom_html
-amarantomagazine.it##.widget_media_image
+amarantomagazine.it,signorbet.news##.widget_media_image
 alqamah.it##.widget_xyz_insert_php_widget
 androidblog.it##.wpmc_inject_wrapper
 lavoripubblici.it,primocomunicazione.it##a[data-banner]
@@ -84,6 +84,7 @@ radiogold.it##img[alt^="adv-"]
 2anews.it,alessandria24.com,altissimoceto.it,altropensiero.net,ambientebio.it,circusf1.com##img[width="300"]
 alessandria24.com##img[width="626"]
 altissimoceto.it##img[width="728"]
+signorbet.news##img[width="930"]
 armiusate.it##img[width="970"]
 !
 staffettaonline.com###BnrSolidarieta
