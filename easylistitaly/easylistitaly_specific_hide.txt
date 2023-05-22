@@ -82,6 +82,7 @@ lantidiplomatico.it##.widget-banner
 androidblog.it,aroundtheworld.pro,leggopassword.it##.widget_custom_html
 amarantomagazine.it,aroundtheworld.pro,bsnews.it,ladriatico.info,signorbet.news##.widget_media_image
 alqamah.it##.widget_xyz_insert_php_widget
+areamediapress.it##.wp-block-image
 androidblog.it##.wpmc_inject_wrapper
 lavoripubblici.it,primocomunicazione.it##a[data-banner]
 animeemanga.it##a[href*="//goo.gl/"]
