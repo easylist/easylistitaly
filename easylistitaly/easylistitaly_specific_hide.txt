@@ -1,5 +1,6 @@
 nauticareport.it###BanBG
 trend-online.com###CONT_D_1
+leggopassword.it###Tabella_01
 altarimini.it###attivitaEvidenza
 alqamah.it###bp-sf-container
 blunote.it###carousel-sponsors-list
@@ -51,6 +52,7 @@ nauticareport.it##.lozad
 radiogold.it##.max-banner-top
 anisearch.it##.merchandise
 70-80.it##.metaslider
+leggopassword.it##.mh-header-2
 alimentibevande.it,professioneallevatore.it,professionesuinicoltore.it##.mod
 ansa.it##.news-special-box
 nostrofiglio.it##.par-listing-collab
@@ -75,7 +77,7 @@ smartworld.it##.tw-fragment-affiliation-container
 amadeusmagazine.it##.us_custom_c62a4417
 amadeusmagazine.it##.us_custom_d14818f6
 lantidiplomatico.it##.widget-banner
-androidblog.it##.widget_custom_html
+androidblog.it,leggopassword.it##.widget_custom_html
 amarantomagazine.it,bsnews.it,ladriatico.info,signorbet.news##.widget_media_image
 alqamah.it##.widget_xyz_insert_php_widget
 androidblog.it##.wpmc_inject_wrapper
