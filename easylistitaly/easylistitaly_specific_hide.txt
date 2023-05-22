@@ -32,6 +32,7 @@ amicidicasa.it##.banner-container
 algheroeco.com##.banner-header-dx
 algheroeco.com##.banner-header-sx
 nauticareport.it##.banner-post-slider
+art-news.it##.banner-promotions-wrapper
 italpress.com##.banner_img_widget
 aostaoggi.it,arezzo24.net##.bannergroup
 antenna1.fm##.bloc-pub
@@ -97,6 +98,8 @@ radiogold.it##img[alt^="adv-"]
 artemagazine.it##img[width="200"]
 ascolinews.it##img[width="250"]
 2anews.it,alessandria24.com,altissimoceto.it,altropensiero.net,ambientebio.it,circusf1.com,ladriatico.info##img[width="300"]
+art-news.it##img[width="345"]
+art-news.it##img[width="360"]
 artemagazine.it##img[width="400"]
 artemagazine.it,dazebaonews.it##img[width="600"]
 alessandria24.com##img[width="626"]
