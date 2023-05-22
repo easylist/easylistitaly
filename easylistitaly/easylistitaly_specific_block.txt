@@ -88,6 +88,7 @@
 ||antenna1.fm/upload/publicite/
 ||aostaoggi.it/images/banners/
 ||aostasports.it^*/box/
+||aprilianews.it/wp-content/uploads/*/Banner-
 ||archi-magazine.it/media/banners/
 ||arezzo24.net/images/banners/
 ||arezzotv.it/images/banner/
