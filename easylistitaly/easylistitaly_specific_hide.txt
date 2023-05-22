@@ -65,6 +65,8 @@ ilfattoquotidiano.it##.special
 ilfattoquotidiano.it##.sticky-adv
 angrinews.com,apsicilia.it,araberara.it,artuu.it,ascolinews.it##.td-a-rec
 amarantomagazine.it##.td_block_single_image
+artuu.it##.tdi_446
+artuu.it##.tdi_450
 antenna1.fm##.top_publicite
 blunote.it##.topbar-below
 androidworld.it,mobileworld.it,smartworld.it##.tw-carousel
