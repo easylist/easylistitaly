@@ -62,7 +62,7 @@ animeclick.it##.skin
 lavoripubblici.it##.skin-link
 ilfattoquotidiano.it##.special
 ilfattoquotidiano.it##.sticky-adv
-angrinews.com,apsicilia.it,araberara.it,artuu.it##.td-a-rec
+angrinews.com,apsicilia.it,araberara.it,artuu.it,ascolinews.it##.td-a-rec
 amarantomagazine.it##.td_block_single_image
 antenna1.fm##.top_publicite
 blunote.it##.topbar-below
