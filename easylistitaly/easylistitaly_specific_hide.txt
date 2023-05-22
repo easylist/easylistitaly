@@ -14,6 +14,7 @@ alqamah.it###ppp_box
 alqamah.it###ppp_overlay
 studenti.it###scrolling_element
 allmusicitalia.it###skin
+arezzo24.net###skin-banner
 altoadigegol.it###skinclick
 agendapolitica.it###sow-editor-17
 lnd.it###sp-bottom
