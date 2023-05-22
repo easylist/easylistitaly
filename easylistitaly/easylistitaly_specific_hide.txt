@@ -72,7 +72,7 @@ amadeusmagazine.it##.us_custom_c62a4417
 amadeusmagazine.it##.us_custom_d14818f6
 lantidiplomatico.it##.widget-banner
 androidblog.it##.widget_custom_html
-amarantomagazine.it,ladriatico.info,signorbet.news##.widget_media_image
+amarantomagazine.it,bsnews.it,ladriatico.info,signorbet.news##.widget_media_image
 alqamah.it##.widget_xyz_insert_php_widget
 androidblog.it##.wpmc_inject_wrapper
 lavoripubblici.it,primocomunicazione.it##a[data-banner]
