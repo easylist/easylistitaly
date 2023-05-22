@@ -21,7 +21,7 @@ lnd.it###sp-bottom
 lnd.it###sp-sponsor
 animeclick.it###wrapper
 ilmanifesto.it##.Adv
-anteprima24.it,meteofinanza.com##.a-single
+anteprima24.it,araberara.it,meteofinanza.com##.a-single
 filmpertutti.boo,radiogold.it##.ads
 altoadigetv.it,ansa.it,ilfattoquotidiano.it##.adv
 ansa.it##.adv-region
