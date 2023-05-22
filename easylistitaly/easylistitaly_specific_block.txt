@@ -90,6 +90,7 @@
 ||aostasports.it^*/box/
 ||archi-magazine.it/media/banners/
 ||arezzo24.net/images/banners/
+||arezzotv.it/images/banner/
 ||armiusate.it/pix/
 ||armiusate.it^*/sponsor/
 ||arona24.it/images/banner/
