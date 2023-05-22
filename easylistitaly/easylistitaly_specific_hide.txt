@@ -36,6 +36,7 @@ italpress.com##.banner_img_widget
 aostaoggi.it,arezzo24.net##.bannergroup
 antenna1.fm##.bloc-pub
 ilfattoquotidiano.it##.cc-adv-wrapper
+ascolicalcio1898.it##.cqcarousel-container
 meteofinanza.com##.custom-cta-container
 0766news.it,umbriaon.it##.dfad
 sicurauto.it##.ds-margin
