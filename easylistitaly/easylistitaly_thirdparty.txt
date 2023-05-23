@@ -4,6 +4,7 @@
 ||blogspot.com^*/GM-COMPUTER-LOGO.gif$domain=siciliaunonews.com
 ||blogspot.com^*/Regina%2BMargherita%2BBanner%2B2017_$domain=siciliaunonews.com
 ||blogspot.com^*/XXX.jpg$domain=siciliaunonews.com
+||gmdigital.it^*/adplay.js
 ||sorgentenatura.it/data/img/Banner_$third-party
 !
 ||24hassistance.com^*/banner_$third-party
@@ -97,7 +98,6 @@
 ||gelestatic.it^*/adv/
 ||gigacenter.it^$image,third-party
 ||giphy.com^$domain=napolipiu.com|salernitananews.it
-||gmdigital.it^*/adplay.js
 ||googleapis.com/comslider/$domain=quotidiano.net
 ||graficadivina.it/grafica-divina.jpg
 ||gratislandia.net/banners/
