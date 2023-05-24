@@ -5,6 +5,7 @@
 ||blogspot.com^*/Regina%2BMargherita%2BBanner%2B2017_$domain=siciliaunonews.com
 ||blogspot.com^*/XXX.jpg$domain=siciliaunonews.com
 ||gmdigital.it^*/adplay.js
+||investimenti.bnpparibas.it^$domain=trend-online.com
 ||sorgentenatura.it/data/img/Banner_$third-party
 !
 ||24hassistance.com^*/banner_$third-party
@@ -129,7 +130,6 @@
 ||insicilia.com/banner/
 ||insicilia.com/modules/psaffiliate/
 ||instagram.com/p/CYQuJ7NNwey/$domain=pianetalecce.it
-||investimenti.bnpparibas.it^$domain=trend-online.com
 ||iolam.it/js/easyBid.js
 ||ipercast.net/uploads/sponsors/
 ||italycharter.it/searchwidget$third-party

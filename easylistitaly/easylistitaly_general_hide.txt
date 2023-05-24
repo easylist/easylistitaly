@@ -292,7 +292,6 @@
 ##.live-article-adv-container
 ##.mg-adv-controller
 ##.modPubblicita
-##.nativeadv
 ##.netd_300x600adv
 ##.newtekadv
 ##.nk-adv
