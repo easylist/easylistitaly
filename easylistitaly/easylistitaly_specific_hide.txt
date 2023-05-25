@@ -28,6 +28,7 @@ ilfattoquotidiano.it###immo-330x350
 soldioggi.it###inarticle2
 soldioggi.it###inarticle3
 soldioggi.it###insidebar1
+ottofm.com###lcb_banner
 avmagazine.it###leaderboard
 allasianfootball.com###media_image-2
 gamereactor.it###mpu
