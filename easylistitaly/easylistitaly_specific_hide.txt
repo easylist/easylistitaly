@@ -112,7 +112,7 @@ lavoripubblici.it##.skin-link
 ilfattoquotidiano.it##.special
 assoallenatori.it##.sponsor-container
 ilfattoquotidiano.it##.sticky-adv
-angrinews.com,apsicilia.it,araberara.it,artuu.it,ascolinews.it##.td-a-rec
+angrinews.com,apsicilia.it,araberara.it,artuu.it,ascolinews.it,biancorossi.net##.td-a-rec
 amarantomagazine.it##.td_block_single_image
 biancorossi.net##.td_single_image_bg
 artuu.it##.tdi_446
@@ -150,6 +150,7 @@ siciliatv.org##div[id^="sicil-"]
 leggopassword.it##img[alt*="Banner"]
 altissimoceto.it##img[alt="ad"]
 radiogold.it##img[alt^="adv-"]
+biancorossi.net##img[height="250"]
 artemagazine.it##img[width="200"]
 ascolinews.it##img[width="250"]
 2anews.it,alessandria24.com,altissimoceto.it,altropensiero.net,ambientebio.it,circusf1.com,ladriatico.info##img[width="300"]
