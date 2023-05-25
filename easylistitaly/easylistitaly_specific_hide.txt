@@ -122,10 +122,11 @@ amadeusmagazine.it##.us_custom_c62a4417
 amadeusmagazine.it##.us_custom_d14818f6
 lantidiplomatico.it##.widget-banner
 androidblog.it,aroundtheworld.pro,leggopassword.it##.widget_custom_html
-amarantomagazine.it,areamediapress.it,aroundtheworld.pro,bsnews.it,ladriatico.info,signorbet.news##.widget_media_image
+amarantomagazine.it,areamediapress.it,aroundtheworld.pro,bsnews.it,ladriatico.info,siciliatv.org,signorbet.news##.widget_media_image
 alqamah.it##.widget_xyz_insert_php_widget
 areamediapress.it##.wp-block-image
 androidblog.it##.wpmc_inject_wrapper
+siciliatv.org##.wppopups-whole
 lavoripubblici.it,primocomunicazione.it##a[data-banner]
 animeemanga.it##a[href*="//goo.gl/"]
 altomantovanonews.it,mantovasport24.it,mantovauno.it,oltrepomantovanonews.it##a[href*="/linkout/"]
@@ -142,6 +143,7 @@ arezzoweb.it##div[id^="arezz-"]
 autobusweb.com##div[id^="autob-"]
 mantovauno.it##div[id^="manto-"]
 oltrepomantovanonews.it##div[id^="oltre-"]
+siciliatv.org##div[id^="sicil-"]
 leggopassword.it##img[alt*="Banner"]
 altissimoceto.it##img[alt="ad"]
 radiogold.it##img[alt^="adv-"]
