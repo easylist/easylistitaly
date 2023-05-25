@@ -1,3 +1,4 @@
+||natexo-programmatic.com^$third-party
 ||rtbuzz.net^
 !
 ||178.32.140.64^$third-party,domain=~pirchio.ip
@@ -76,7 +77,6 @@
 ||mediamond.it^$third-party
 ||mondoecommerce.it^$third-party
 ||mycookies.it^$third-party
-||natexo-programmatic.com^$third-party
 ||nativery.com^$third-party
 ||netfilia.com^$third-party
 ||netszex.com^$third-party
