@@ -94,6 +94,9 @@ anisearch.it##.merchandise
 24live.it,70-80.it##.metaslider
 leggopassword.it##.mh-header-2
 alimentibevande.it,professioneallevatore.it,professionesuinicoltore.it##.mod
+bergamoesport.it##.mv15 > .block > .fw
+bergamoesport.it##.mv15 > .fw
+bergamoesport.it##.mv15.block > .fw
 ansa.it##.news-special-box
 nostrofiglio.it##.par-listing-collab
 milanofinanza.it##.pimcobox
