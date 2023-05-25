@@ -123,6 +123,7 @@
 ||cloudfront.net/pix/$domain=armiusate.it
 ||forum.audirsclub.it/images/banners/
 ||forum.audirsclub.it/images/misc/Faratech
+||ilroma.net/sites/default/files/SKIN_
 ||ilroma.net^*/rotating_banner/
 ||italpress.com/wp-content/uploads/*/SKIN_
 ||italpress.com/wp-content/uploads/2021/03/intesa-logo.png
