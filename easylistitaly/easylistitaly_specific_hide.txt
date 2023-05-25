@@ -106,6 +106,7 @@ alimentibevande.it,professioneallevatore.it,professionesuinicoltore.it##.mod
 bergamoesport.it##.mv15 > .block > .fw
 bergamoesport.it##.mv15 > .fw
 bergamoesport.it##.mv15.block > .fw
+greenstyle.it##.mxm_wrapper
 ansa.it##.news-special-box
 nostrofiglio.it##.par-listing-collab
 milanofinanza.it##.pimcobox
