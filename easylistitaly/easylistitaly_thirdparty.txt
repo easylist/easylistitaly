@@ -5,6 +5,7 @@
 ||blogspot.com^*/Regina%2BMargherita%2BBanner%2B2017_$domain=siciliaunonews.com
 ||blogspot.com^*/XXX.jpg$domain=siciliaunonews.com
 ||gmdigital.it^*/adplay.js
+||greenweez.it/data/img/banner-$third-party
 ||investimenti.bnpparibas.it^$domain=trend-online.com
 ||sorgentenatura.it/data/img/Banner_$third-party
 !
