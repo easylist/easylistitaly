@@ -75,6 +75,8 @@ bagherianews.com##.banneritem
 biancoebruno.it##.bannertop
 antenna1.fm##.bloc-pub
 ilroma.net##.block-rotating-banner
+tefchannel.it##.box-banner
+tefchannel.it##.box-banner-top
 balarm.it##.box-evidenza
 ilfattoquotidiano.it##.cc-adv-wrapper
 ascolicalcio1898.it##.cqcarousel-container
