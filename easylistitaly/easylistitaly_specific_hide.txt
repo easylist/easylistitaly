@@ -63,7 +63,7 @@ androidworld.it,cookaround.com,dmbeauty.it,donnamoderna.com,focus.it,giallozaffe
 ansa.it##.ansacom-box
 ingenio-web.it##.b
 balarm.it##.balarm_adv
-asteannunci.it,avinews.it##.banner
+asteannunci.it,atalanta.it,avinews.it##.banner
 amicidicasa.it##.banner-container
 algheroeco.com##.banner-header-dx
 algheroeco.com##.banner-header-sx
@@ -90,6 +90,7 @@ bergamonews.it##.edinews_widget_post_from_terms
 basilicatanotizie.net##.elementor-element-5b9f270
 beneventocalcio.it,podisti.net##.flexbannergroup
 udinese.it##.foobar-sponsor
+atalanta.it##.footer__sponsor
 algheroeco.com,almanaccocalciotoscano.it,amicodelpopolo.it,anteprima24.it,battipaglia1929.it,lacasainordine.it,meteofinanza.com##.g
 sorrisi.com##.gtv-trigger-elevator
 nauticareport.it##.header-centerbar-ad
@@ -153,6 +154,7 @@ blunote.it##a[href^="http://sitiscommesse.info/"]
 webradioitaliane.it##a[href^="https://inmystream.info/whmcs/aff.php?"]
 blunote.it##a[href^="https://time2play.com/"]
 lavocedelpopolo.it##a[href^="https://www.holyart.it/"]
+atalanta.it##a[href^="https://www.plus500.it/"]
 animeemanga.it##a[href^="https://www.primevideo.com/"][href*="tag="]
 alqamah.it##div[class^="unit-zona-"]
 alessandria24.com##div[id^="aless-"]
