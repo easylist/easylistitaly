@@ -89,7 +89,7 @@ balarm.it##.link-skin
 nauticareport.it##.lozad
 radiogold.it##.max-banner-top
 anisearch.it##.merchandise
-70-80.it##.metaslider
+24live.it,70-80.it##.metaslider
 leggopassword.it##.mh-header-2
 alimentibevande.it,professioneallevatore.it,professionesuinicoltore.it##.mod
 ansa.it##.news-special-box
@@ -122,9 +122,9 @@ amadeusmagazine.it##.us_custom_c62a4417
 amadeusmagazine.it##.us_custom_d14818f6
 lantidiplomatico.it##.widget-banner
 androidblog.it,aroundtheworld.pro,leggopassword.it##.widget_custom_html
-amarantomagazine.it,areamediapress.it,aroundtheworld.pro,bsnews.it,ladriatico.info,siciliatv.org,signorbet.news##.widget_media_image
+24live.it,amarantomagazine.it,areamediapress.it,aroundtheworld.pro,bsnews.it,ladriatico.info,siciliatv.org,signorbet.news##.widget_media_image
 alqamah.it##.widget_xyz_insert_php_widget
-areamediapress.it##.wp-block-image
+24live.it,areamediapress.it##.wp-block-image
 androidblog.it##.wpmc_inject_wrapper
 siciliatv.org##.wppopups-whole
 lavoripubblici.it,primocomunicazione.it##a[data-banner]
