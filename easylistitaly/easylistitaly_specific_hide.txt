@@ -119,7 +119,7 @@ ilfattoquotidiano.it##.special
 assoallenatori.it##.sponsor-container
 zebreparma.it##.sponsor-wrapper
 ilfattoquotidiano.it##.sticky-adv
-angrinews.com,apsicilia.it,araberara.it,artuu.it,ascolinews.it,bellunopress.it,biancorossi.net##.td-a-rec
+angrinews.com,apsicilia.it,araberara.it,artuu.it,ascolinews.it,battipaglianews.it,bellunopress.it,biancorossi.net##.td-a-rec
 amarantomagazine.it##.td_block_single_image
 biancorossi.net##.td_single_image_bg
 artuu.it##.tdi_446
