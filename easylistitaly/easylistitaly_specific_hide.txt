@@ -87,6 +87,7 @@ sorrisi.com##.gtv-trigger-elevator
 nauticareport.it##.header-centerbar-ad
 ilfattoquotidiano.it##.ifq-dfp
 allmusicitalia.it##.iframe-adv
+beneventocalcio.club##.kode-partner
 blablive.com##.leader-wrap-out
 balarm.it##.link-skin
 nauticareport.it##.lozad
