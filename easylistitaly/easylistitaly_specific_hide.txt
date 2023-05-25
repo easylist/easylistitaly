@@ -116,6 +116,7 @@ animeclick.it##.skin
 lavoripubblici.it##.skin-link
 ilfattoquotidiano.it##.special
 assoallenatori.it##.sponsor-container
+zebreparma.it##.sponsor-wrapper
 ilfattoquotidiano.it##.sticky-adv
 angrinews.com,apsicilia.it,araberara.it,artuu.it,ascolinews.it,biancorossi.net##.td-a-rec
 amarantomagazine.it##.td_block_single_image
