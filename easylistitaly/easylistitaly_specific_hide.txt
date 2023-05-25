@@ -124,7 +124,7 @@ smartworld.it##.tw-fragment-affiliation-container
 amadeusmagazine.it##.us_custom_c62a4417
 amadeusmagazine.it##.us_custom_d14818f6
 lantidiplomatico.it##.widget-banner
-androidblog.it,aroundtheworld.pro,leggopassword.it##.widget_custom_html
+androidblog.it,aroundtheworld.pro,berlinomagazine.com,leggopassword.it##.widget_custom_html
 24live.it,amarantomagazine.it,areamediapress.it,aroundtheworld.pro,bsnews.it,ladriatico.info,siciliatv.org,signorbet.news##.widget_media_image
 biancavillaoggi.it##.widget_random_banner_widget
 alqamah.it##.widget_xyz_insert_php_widget
