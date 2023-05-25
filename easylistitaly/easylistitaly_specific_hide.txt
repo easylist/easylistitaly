@@ -59,6 +59,7 @@ arezzotv.it,bicimagazine.it,podisti.net##.advert
 animeclick.it,gamerclick.it##.amazon-row
 androidworld.it,cookaround.com,dmbeauty.it,donnamoderna.com,focus.it,giallozafferano.it,iconmagazine.it,mobileworld.it,my-personaltrainer.it,nostrofiglio.it,pianetadonna.it,pianetamamma.it,smartworld.it,soldionline.it,sorrisi.com,studenti.it,thewom.it,valorinormali.com,webboh.it##.amePlaceholderBox
 ansa.it##.ansacom-box
+ingenio-web.it##.b
 balarm.it##.balarm_adv
 asteannunci.it,avinews.it##.banner
 amicidicasa.it##.banner-container
