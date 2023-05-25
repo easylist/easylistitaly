@@ -48,6 +48,7 @@ lnd.it###sp-sponsor
 animeclick.it###wrapper
 ilmanifesto.it##.Adv
 atripaldanews.it##.BannerTop
+audisportclubitalia.blogspot.com##.Image.widget
 anteprima24.it,araberara.it,meteofinanza.com##.a-single
 badtaste.it,supertv.it##.ad-container
 filmpertutti.boo,radiogold.it##.ads
