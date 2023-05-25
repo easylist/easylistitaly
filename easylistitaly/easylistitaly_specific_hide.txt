@@ -21,6 +21,8 @@ blunote.it###carousel-sponsors-list
 radiogold.it###click-piemonte
 blablive.com###content_bonus
 mmawiki.org###custom_html-2
+cagliarinews24.com,calcionews24.com,internews24.com,juventusnews24.com,lazionews24.com,milannews24.com,sampnews24.com###evolve-desktop-masthead
+cagliarinews24.com,calcionews24.com,internews24.com,juventusnews24.com,lazionews24.com,milannews24.com,sampnews24.com###evolve-mobile-masthead
 meteofinanza.com###financial-popup-overlay
 ilfattoquotidiano.it###immo-330x350
 soldioggi.it###inarticle2
@@ -95,6 +97,7 @@ alimentibevande.it,professioneallevatore.it,professionesuinicoltore.it##.mod
 ansa.it##.news-special-box
 nostrofiglio.it##.par-listing-collab
 milanofinanza.it##.pimcobox
+cagliarinews24.com,calcionews24.com,futsalnews24.com,internews24.com,juventusnews24.com,lazionews24.com,milannews24.com,sampnews24.com##.placeholder
 prendiporno.tv##.productora
 prendiporno.tv##.productora-logo
 barinedita.it##.pubbli
