@@ -96,6 +96,7 @@ beneventocalcio.it,podisti.net##.flexbannergroup
 udinese.it##.foobar-sponsor
 atalanta.it##.footer__sponsor
 algheroeco.com,almanaccocalciotoscano.it,amicodelpopolo.it,anteprima24.it,battipaglia1929.it,bitquotidiano.it,lacasainordine.it,meteofinanza.com##.g
+asgiana.com##.gdlr-banner-item-wrapper
 sorrisi.com##.gtv-trigger-elevator
 nauticareport.it##.header-centerbar-ad
 ilfattoquotidiano.it##.ifq-dfp
