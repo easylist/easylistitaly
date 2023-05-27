@@ -1,9 +1,9 @@
 ||natexo-programmatic.com^$third-party
 ||rtbuzz.net^
+||yobee.it^$third-party
 !
 ||178.32.140.64^$third-party,domain=~pirchio.ip
 ||24network.it^$third-party
-||4strokemedia.com^$third-party
 ||ad4m.at^$third-party
 ||ad4mat.it^$third-party
 ||adagionet.com^$third-party
@@ -131,7 +131,6 @@
 ||wbusiness.fr^$third-party
 ||widebanner.com^$third-party
 ||worldfilia.net^$third-party
-||yobee.it^$third-party
 ||zanox-affiliate.de^$third-party
 ||zariumhb.com^$third-party
 ||zodiakactive.com^$third-party
