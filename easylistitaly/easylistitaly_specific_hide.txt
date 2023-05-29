@@ -146,6 +146,7 @@ sicurauto.it##.sidebar-sticky-top
 animeclick.it##.skin
 brindisisettenews.it,leccesette.it##.skin-desktop
 lavoripubblici.it##.skin-link
+buonenotiziebologna.it##.slides_container
 ilfattoquotidiano.it##.special
 bolzano-bozen.it##.sponsor
 assoallenatori.it##.sponsor-container

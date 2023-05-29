@@ -130,6 +130,8 @@
 ||brindisisettenews.it/banner/
 ||brundisium.net/ilnautiluslogo2.jpg
 ||buoncalcioatutti.it/wp-content/banners/
+||buonenotiziebologna.it/images/banners/
+||buonenotiziebologna.it/images/pub/
 ||buongiornoslovacchia.sk/banner/
 ||business24tv.it/wp-content/uploads/*/skin-
 ||cakemania.it^*/bannervoxmail300x100.png
@@ -159,9 +161,6 @@
 ||staffettaonline.com/fcResources/
 ||wp.com^*/banner/$domain=buongiornoslovacchia.sk
 !
-||buonenotiziebologna.it/images/banners/
-||buonenotiziebologna.it/images/pub/
-||buonenotiziebologna.it^*-Banner_
 ||cagliarilivemagazine.it/foto/grandi/banner
 ||calabria7.it^*/autosala.jpg
 ||calabria7.it^*/bricon.jpeg
