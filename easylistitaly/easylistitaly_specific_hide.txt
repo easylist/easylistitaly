@@ -106,6 +106,7 @@ staffettaonline.com##.fcRes
 staffettaonline.com##.fcResContLati
 beneventocalcio.it,podisti.net##.flexbannergroup
 udinese.it##.foobar-sponsor
+cagliaricalcio.com##.footer-sponsors
 atalanta.it##.footer__sponsor
 algheroeco.com,almanaccocalciotoscano.it,amicodelpopolo.it,anteprima24.it,battipaglia1929.it,bitquotidiano.it,bolognaindiretta.it,buoncalcioatutti.it,lacasainordine.it,meteofinanza.com,rietinvetrina.it##.g
 asgiana.com##.gdlr-banner-item-wrapper
@@ -157,6 +158,8 @@ amarantomagazine.it##.td_block_single_image
 biancorossi.net##.td_single_image_bg
 artuu.it##.tdi_446
 artuu.it##.tdi_450
+cagliaricalcio.com##.top-banner-home
+cagliaricalcio.com##.top-sponsor-hp
 antenna1.fm##.top_publicite
 blunote.it##.topbar-below
 androidworld.it,mobileworld.it,smartworld.it##.tw-carousel
@@ -1742,7 +1745,7 @@ lega-pro.com##.footer-partner
 genoacfc.it##.footer-partner-link
 chievoverona.it,hellasverona.it,hellasveronawomen.it##.footer-sponsor
 nbv-verona.it##.footer-sponsor-line
-bresciacalcio.it,cagliaricalcio.com,olbiacalcio.com##.footer-sponsors
+bresciacalcio.it,olbiacalcio.com##.footer-sponsors
 foodaffairs.it##.footer-widget-area
 football-magazine.it,iliberiprofessionisti.it,lavoraconnoi-italia.it,maremma.name##.footer-widgets
 serieturche.eu##.footer-widgets-wrapper
@@ -2539,7 +2542,7 @@ nicktv.it##.top-featured-mpu
 ilbellodelcalcio.net##.top-panel__message
 adirai.it##.top-sidebar
 adirai.it##.top-sidebar600
-bresciacalcio.it,cagliaricalcio.com,olbiacalcio.com##.top-sponsor-hp
+bresciacalcio.it,olbiacalcio.com##.top-sponsor-hp
 bresciacalciofemminile.it##.top-sponsor-new
 positanonews.it##.top-testata
 radio.it##.topASp

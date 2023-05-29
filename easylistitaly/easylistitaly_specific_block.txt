@@ -162,7 +162,6 @@
 ||buonenotiziebologna.it/images/banners/
 ||buonenotiziebologna.it/images/pub/
 ||buonenotiziebologna.it^*-Banner_
-||cagliaricalcio.com^*-sponsor-
 ||cagliarilivemagazine.it/foto/grandi/banner
 ||calabria7.it^*/autosala.jpg
 ||calabria7.it^*/bricon.jpeg
