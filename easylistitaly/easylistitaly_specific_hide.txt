@@ -149,6 +149,7 @@ zebreparma.it##.sponsor-wrapper
 ilfattoquotidiano.it##.sticky-adv
 bitquotidiano.it##.takeover
 angrinews.com,apsicilia.it,araberara.it,artuu.it,ascolinews.it,battipaglianews.it,bellunopress.it,biancorossi.net##.td-a-rec
+radioroma.it##.td-custom-image
 amarantomagazine.it##.td_block_single_image
 biancorossi.net##.td_single_image_bg
 artuu.it##.tdi_446
