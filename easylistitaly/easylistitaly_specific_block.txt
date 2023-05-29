@@ -156,6 +156,7 @@
 ||podisti.net/images/banners/
 ||ragusanews.com//immagini_banner/
 ||salernoinweb.it/o/sponsor/
+||staffettaonline.com/fcResources/
 ||wp.com^*/banner/$domain=buongiornoslovacchia.sk
 !
 ||buonenotiziebologna.it/images/banners/

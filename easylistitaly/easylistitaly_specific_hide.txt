@@ -52,6 +52,7 @@ agendapolitica.it###sow-editor-17
 lnd.it###sp-bottom
 lnd.it###sp-sponsor
 buonapesca.it###sponsor-bottom
+staffettaonline.com###sponsored
 animeclick.it###wrapper
 ilmanifesto.it##.Adv
 atripaldanews.it##.BannerTop
@@ -101,6 +102,8 @@ sicurauto.it##.ds-margin-center
 basilicatanotizie.net##.e-widget-swiper
 bergamonews.it##.edinews_widget_post_from_terms
 basilicatanotizie.net##.elementor-element-5b9f270
+staffettaonline.com##.fcRes
+staffettaonline.com##.fcResContLati
 beneventocalcio.it,podisti.net##.flexbannergroup
 udinese.it##.foobar-sponsor
 atalanta.it##.footer__sponsor
