@@ -161,7 +161,7 @@ smartworld.it##.tw-fragment-affiliation-container
 amadeusmagazine.it##.us_custom_c62a4417
 amadeusmagazine.it##.us_custom_d14818f6
 lantidiplomatico.it##.widget-banner
-androidblog.it,aroundtheworld.pro,berlinomagazine.com,ifood.it,leggopassword.it##.widget_custom_html
+androidblog.it,aroundtheworld.pro,berlinomagazine.com,ifood.it,ilclandestinogiornale.italiasera.it,leggopassword.it##.widget_custom_html
 24live.it,amarantomagazine.it,areamediapress.it,aroundtheworld.pro,bambiniconlavaligia.com,blograffo.net,bsnews.it,ladriatico.info,siciliatv.org,signorbet.news##.widget_media_image
 biancavillaoggi.it##.widget_random_banner_widget
 alqamah.it##.widget_xyz_insert_php_widget
@@ -200,7 +200,7 @@ radiogold.it##img[alt^="adv-"]
 biancorossi.net##img[height="250"]
 artemagazine.it##img[width="200"]
 ascolinews.it##img[width="250"]
-2anews.it,alessandria24.com,altissimoceto.it,altropensiero.net,ambientebio.it,bitquotidiano.it,business24tv.it,circusf1.com,ladriatico.info##img[width="300"]
+2anews.it,alessandria24.com,altissimoceto.it,altropensiero.net,ambientebio.it,bitquotidiano.it,business24tv.it,circusf1.com,ilclandestinogiornale.italiasera.it,ladriatico.info##img[width="300"]
 art-news.it##img[width="345"]
 art-news.it##img[width="360"]
 artemagazine.it##img[width="400"]
