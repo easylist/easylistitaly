@@ -104,7 +104,7 @@ basilicatanotizie.net##.elementor-element-5b9f270
 beneventocalcio.it,podisti.net##.flexbannergroup
 udinese.it##.foobar-sponsor
 atalanta.it##.footer__sponsor
-algheroeco.com,almanaccocalciotoscano.it,amicodelpopolo.it,anteprima24.it,battipaglia1929.it,bitquotidiano.it,bolognaindiretta.it,buoncalcioatutti.it,lacasainordine.it,meteofinanza.com##.g
+algheroeco.com,almanaccocalciotoscano.it,amicodelpopolo.it,anteprima24.it,battipaglia1929.it,bitquotidiano.it,bolognaindiretta.it,buoncalcioatutti.it,lacasainordine.it,meteofinanza.com,rietinvetrina.it##.g
 asgiana.com##.gdlr-banner-item-wrapper
 sorrisi.com##.gtv-trigger-elevator
 boatindustry.it,boatsnews.it##.habillage
