@@ -1,5 +1,7 @@
 ##.sponsorizzati
 ##a[href^="https://adv.presscommtech.com/"]
+##div[class^="rtbuzz_"]
+##div[id^="rtbuzz_"]
 !
 ###ADV_filter_1
 ###ADV_filter_2
@@ -408,4 +410,3 @@
 ##a[href^="https://www.dazn.com/"][href*="?utm_source=affiliate"]
 ##a[href^="https://www.nigiara.it/scripts/redir.php?url=https://amzn.to/"]
 ##av-adv-slot
-##div[id^="rtbuzz_"]

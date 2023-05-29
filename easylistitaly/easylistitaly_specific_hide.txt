@@ -1308,7 +1308,6 @@ fantacalciopedia.com##.banner_blog
 fidelityhouse.eu##.banner_box
 bolognafc.it##.banner_btm_page
 casateonline.it,leccoonline.com,merateonline.it##.banner_centro
-ilromanista.eu##.banner_cms
 winenews.it##.banner_concessionaria
 arte.it##.banner_cont
 assisinews.it,pgcasa.it,volleyball.it##.banner_container
