@@ -103,7 +103,7 @@ iltquotidiano.it##.apPluginContainer
 ingenio-web.it##.b
 balarm.it##.balarm_adv
 asteannunci.it,atalanta.it,avinews.it,bikeitalia.it,camperonline.it,romadailynews.it##.banner
-amicidicasa.it##.banner-container
+amicidicasa.it,canavesetoday.it##.banner-container
 algheroeco.com##.banner-header-dx
 algheroeco.com##.banner-header-sx
 nauticareport.it##.banner-post-slider
@@ -125,6 +125,7 @@ ilroma.net##.block-rotating-banner
 tefchannel.it##.box-banner
 tefchannel.it##.box-banner-top
 balarm.it##.box-evidenza
+caneogolf.it##.boxbannerhome
 ilfattoquotidiano.it##.cc-adv-wrapper
 ascolicalcio1898.it##.cqcarousel-container
 meteofinanza.com##.custom-cta-container
@@ -556,7 +557,6 @@ retesport.it###footer-i-nostri-partner
 footballnews24.it###footer-slideup
 lanostratv.it###footer-top-wrapper
 americaurlaub.de,ilmondodeglianimali.altervista.org,tvrxenon.it###footer-widgets
-caneogolf.it###footer_area
 videosesso.com###footertop
 1web.tv###fpub-popup
 cinqueterre5.com,gogoterme.com,incinqueterre.com,luoghidanonperdere.com###frm
@@ -1223,7 +1223,7 @@ mondobarcamarket.it##.banner-carousel
 nuovovolantino.it##.banner-cat
 mrw.it##.banner-center
 toscanaoggi.it##.banner-code
-1001giochi.it,canavesetoday.it,cuneocronaca.it,divinafm.it,edicoladigitale.info,giochixl.it,lacrocequotidiano.it,livesicilia.it,mtv.it,picchionews.it,professionecamionista.it,sposa.it##.banner-container
+1001giochi.it,cuneocronaca.it,divinafm.it,edicoladigitale.info,giochixl.it,lacrocequotidiano.it,livesicilia.it,mtv.it,picchionews.it,professionecamionista.it,sposa.it##.banner-container
 punto-informatico.it##.banner-content
 ilnuovoterraglio.it,nove.firenze.it##.banner-desktop
 tuttomaremma.com##.banner-dex
@@ -1344,7 +1344,6 @@ assisieventi.it,corriereal.info,giornaleadige.it,radionorba.it,vivilanotizia.it#
 mi-lorenteggio.com##.banneraboveslider
 velanet.it##.bannerarcipelago
 laprovinciadilecco.it##.bannerbase
-treccani.it##.bannercontainer
 toscanafree.it##.bannerdentro
 ilgiornaledellabellezza.it##.bannergrid
 105tv.it,casertafocus.net,concorezzo.org,dichesegnosei.it,elbareport.it,energiamercato.it,faidatehobby.it,fiumicino-online.it,gazzettadellaspezia.it,gazzettadellemilia.it,genova3000.it,giornaledimontesilvano.com,ilcervellone.it,ilcittadinodirecanati.it,ildispaccio.it,ilgazzettinobr.it,ilgrigioneitaliano.ch,ilvimercate.org,infermieriattivi.it,informatissimo.net,kisskiss.it,kisskissitalia.it,kisskissnapoli.it,lametino.it,maremmanews.it,metanogpl.it,monrealenews.it,notebookitalia.it,nuovogiornalenazionale.com,ondalibera.it,puntovendita.info,qdpnews.it,radiopnr.it,sienafree.it,sportgrigiorosso.it,teleglobal.tv,telesardegna.net,tgnordsalento.it,tv1.it,umbriatv.com,unotvweb.it,videomediterraneo.it,voceaigiovani.it,youtg.net##.bannergroup
@@ -1453,7 +1452,6 @@ vastoweb.com##.box_responsive_t
 subito.it##.box_sponsor
 destinioltreconfine.com##.boxbanner
 destinioltreconfine.com##.boxbanner600
-caneogolf.it##.boxbannerhome
 pneusnews.it##.boxes
 ricettedigusto.info##.boxslot
 clubdoria46.it##.boxzilla
