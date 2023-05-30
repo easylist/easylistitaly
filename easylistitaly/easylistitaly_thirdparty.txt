@@ -4,6 +4,7 @@
 ||blogspot.com^*/GM-COMPUTER-LOGO.gif$domain=siciliaunonews.com
 ||blogspot.com^*/Regina%2BMargherita%2BBanner%2B2017_$domain=siciliaunonews.com
 ||blogspot.com^*/XXX.jpg$domain=siciliaunonews.com
+||campingsportmagenta.com/CamperOnline/$third-party
 ||gmdigital.it^*/adplay.js
 ||greenweez.it/data/img/banner-$third-party
 ||investimenti.bnpparibas.it^$domain=trend-online.com
@@ -13,7 +14,6 @@
 ||377d936c10e6811f484c-6402e46c712497f58e3f77a59f47bbd5.r17.cf2.rackcdn.com^
 ||6chic.net/media/banner/
 ||6sicuro.it/widgets/$third-party
-||85.115.8.249^$image,domain=~chunnel.de.ip
 ||abc.sm/banner/
 ||abc.sm^*/banner/
 ||ad.jamba.it^
@@ -45,7 +45,6 @@
 ||book.terravision.eu^$domain=mylondra.it|viaggiallafinedelmondo.it
 ||booking.com^$subdocument,domain=canturino.com|cosafarea.it|cosafarei.it|cosavederemadrid.it|costieraamalfitana.com|domanidoveandiamo.it|fortementein.com|grossetoonline.com|guida-polinesia.com|guidaviaggi.org|guide-europe.info|iltempo.it|immaginaviaggiare.it|ioamolasicilia.com|iopartodasola.it|irenedisumma.com|italiasearch.it|italy.biella.it|italy.catania.it|italy.firenze.it|italy.grosseto.it|italy.milano.it|italy.novara.it|italy.vicenza.it|machupicchuperu.it|maremma.name|milleunadonna.it|monacodibaviera.org|napolike.it|nonchiamatemiturista.it|nonniavventura.it|notizie.tiscali.it|oktoberfest-monaco.it|panannablogdiviaggi.com|positivitrip.com|quattroruote.it|scorcidimondo.it|sport.tiscali.it|taj-mahal.it|thailandiapertutti.it|tipintravel.com|travelstales.it|travelwithbrothers.com|tuttobaviera.it|vadoingiappone.it|verona.net|viacolviaggio.it|viaggi-lowcost.info|viaggi-nel-tempo.com|viaggiadipiu.it|viaggiallafinedelmondo.it|viaggiascrittori.com|viaggieuropa.com|vivasicilia.com|vocedelverbopartire.com
 ||campeggi.com/img/takeover/
-||campingsportmagenta.com/CamperOnline/$third-party
 ||careerjet.it/partners/
 ||cartomanzia.it/dimmi.gif
 ||casadivita.despar.it^$third-party

@@ -139,6 +139,9 @@
 ||calabriatv.it/wp-content/uploads/*/banner-
 ||campanialive.it/banner/
 ||campaniameteo.it/CMS/Upload/GalleriaUtente/Image/
+||camperonline.it/b/
+||camperonline.it/sfondo/
+||camping.it/xbDispatcher/
 ||circusf1.com/wp-content/uploads/*/Amazon_
 ||cloudfront.net/pix/$domain=armiusate.it
 ||forum.audirsclub.it/images/banners/
@@ -166,19 +169,9 @@
 ||ragusanews.com//immagini_banner/
 ||salernoinweb.it/o/sponsor/
 ||staffettaonline.com/fcResources/
+||trentinotv.it/images/banner/
 ||wp.com^*/banner/$domain=buongiornoslovacchia.sk
 !
-||campaniapress.it^*/banner-
-||campaniapress.it^*/HSC-HUMAN-logo-vettoriale-768x633.jpg
-||campaniapress.it^*/Schermata-2020-10-15-alle-12.28.35.png
-||campaniapress.it^*/SmallLogo.jpg
-||camperlife.it^*/banner/
-||camperonline.it//b/
-||camperonline.it/b-top/
-||camperonline.it/b/
-||camperonline.it/banner/
-||camperonline.it/sfondo/
-||camping.it/xbDispatcher/
 ||canale12.it^*/banner-
 ||canale2.com^*/IMG_20200216_0001-1.jpg
 ||canale58.com/imgs/banner/
@@ -322,8 +315,6 @@
 ||chefperpassione.it^*/ventura.jpg
 ||chepreparo.it^*/67502996_443756673142028_210202330895745024_
 ||chiamamicitta.it^*/fulgor_300X100.gif
-||chievoverona.it^*/sponsor/
-||chimerarevo.com^*/banner-
 ||ciccioriccio.it/images/feel.png
 ||ciccioriccio.it/images/feelbeauty.png
 ||ciclonews.it/media/imgbanners/
@@ -646,7 +637,6 @@
 ||ekuonews.it^*/logo-vettoriale-Moretti-solo-logo-300.jpg
 ||ekuonews.it^*/test-covid.gif
 ||ekuonews.it^*/zonacottura.gif
-||elaborare.com^*/banner
 ||elbanotizie.it/img/bluenavy.jpg
 ||elbanotizie.it/img/moby2.png
 ||elbareport.it/images/banners/
@@ -735,7 +725,6 @@
 ||farevela.net^*/QIcompositesFV.jpg
 ||farevela.net^*/unnamed-1.gif
 ||farevela.net^*_banner_
-||farmacia-aperta.eu/600x160/
 ||fashionandroid.com^*-banner.
 ||fashionaut.it^*/ipm_it-
 ||fattoincasadabenedetta.it/images/prenota-
@@ -1849,9 +1838,6 @@
 ||lerosa.it^*-banner.
 ||lerosa.it^*/banner-
 ||letteraemme.it^*/Banner-
-||libero.it/_ad/
-||libero.it/static/generated_external/shopping/
-||libero.it/static/upll/234x/
 ||libroaudio.it^*/banner_
 ||lifegate.it^*/LogoGuna_
 ||ligurianautica.com^*-728x90px.
@@ -3076,10 +3062,6 @@
 ||sciscianonotizie.it^*/quote-maggiorate-com.png
 ||scopateitaliane.com/nb/
 ||scopateitaliane.it/nb/
-||scrivolibero.it^*/banner_
-||scrivolibero.it^*/campagna-
-||scrivolibero.it^*/piccioaccura.jpg
-||scrivolibero.it^*_banner.
 ||scubaportal.it^*/skin-
 ||scuolaguida.it/img/public/banner/
 ||secolo-trentino.com^*/hormann-runner.jpg
@@ -3244,7 +3226,6 @@
 ||sportperugia.it^*/saet960-x-400-pixel.jpg
 ||sportperugia.it^*/VolleyUmbria_VERTICALE.png
 ||sportwebsicilia.it^*/SWS_Box_
-||spotmix.libero.it^
 ||sprintesport.it^*/PRENOTAMI24-
 ||sprintesport.it^*/xGARANZIA-GIOVANI-
 ||sprintesport.it^*_970x250-
@@ -3579,12 +3560,6 @@
 ||travelquotidiano.com^*/tc-singapore.jpg
 ||travelstales.it^*/banner-
 ||traveltik.it^*/ENJOY-YOUR.png
-||trentinolibero.it^*/auto-doc-it_
-||trentinolibero.it^*/autopezzistore300x150.gif
-||trentinolibero.it^*/ditta-online.png
-||trentinolibero.it^*/protecteasy_
-||trentinolibero.it^*/tuttoautoricambi.it_
-||trentinotv.it/images/banner/
 ||trentinovolley.it/images/banners/
 ||trentinovolley.it/images/simboli/diatec.svg
 ||trentinovolley.it/images/simboli/trentino-foot.svg
@@ -3935,8 +3910,6 @@
 ||vinoalvino.org^*/nuovo-logo-BEDEL.jpg
 ||vinoalvino.org^*/Progetto-senza-titolo-74.png
 ||vinoalvino.org^*_banner.
-||virgilio.it/bottomchat/bottom234x60.html
-||virgilio.it/src_tag_sponsor_
 ||visitareromain3giorni.it^*/BannerHotel-
 ||visitvco.it/images/banner/
 ||vispesaro1898.it^*-bn.
