@@ -40,6 +40,7 @@
 ||affaritaliani.it^*_banner_
 ||aforismicitazioni.it/images/amazon-A.jpg
 ||aforismicitazioni.it/images/amazonBuy.png
+||agarymathematics.net/img/banner760-90.gif
 ||agendapolitica.it^*/orakom.png
 ||agensir.it^*/skin_
 ||agimeg.it/wp-content/uploads/*/Skin-
