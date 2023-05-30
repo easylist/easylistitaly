@@ -141,7 +141,7 @@ caleno24ore.it##.footer-firstrow
 cagliaricalcio.com##.footer-sponsors
 atalanta.it##.footer__sponsor
 palermofc.com##.footer_int
-algheroeco.com,almanaccocalciotoscano.it,amicodelpopolo.it,anteprima24.it,battipaglia1929.it,bitquotidiano.it,bolognaindiretta.it,buoncalcioatutti.it,lacasainordine.it,meteofinanza.com,rietinvetrina.it##.g
+algheroeco.com,almanaccocalciotoscano.it,amicodelpopolo.it,anteprima24.it,battipaglia1929.it,bitquotidiano.it,bolognaindiretta.it,buoncalcioatutti.it,calciofvg.live,lacasainordine.it,meteofinanza.com,rietinvetrina.it##.g
 asgiana.com##.gdlr-banner-item-wrapper
 italia-informa.com##.giapPageAdvCont
 sorrisi.com##.gtv-trigger-elevator
@@ -193,7 +193,7 @@ brindisisettenews.it,leccesette.it##.skin-desktop
 lavoripubblici.it##.skin-link
 buonenotiziebologna.it##.slides_container
 ilfattoquotidiano.it##.special
-bolzano-bozen.it##.sponsor
+bolzano-bozen.it,calciofvg.live##.sponsor
 cagliarilivemagazine.it##.sponsor-associati
 assoallenatori.it##.sponsor-container
 zebreparma.it##.sponsor-wrapper
