@@ -1,4 +1,5 @@
 @@||buonenotiziebologna.it/images/banners/logos/bnb/logo.png
+@@||video.comingsoon.it/Adv/Box/$image,media
 !
 @@||ads.lfstmedia.com/getad?site=$script,domain=spaghetti-interactive.it
 @@||ads.viralize.tv/player/$third-party,xmlhttprequest,domain=ilquaderno.it|quotidiano.net
