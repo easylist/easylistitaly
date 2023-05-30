@@ -199,6 +199,7 @@ ilfattoquotidiano.it##.sticky-adv
 bitquotidiano.it##.takeover
 angrinews.com,apsicilia.it,araberara.it,artuu.it,ascolinews.it,battipaglianews.it,bellunopress.it,biancorossi.net,isnews.it##.td-a-rec
 italiasera.it,radioroma.it##.td-custom-image
+italianotizie.online##.td-fix-index
 amarantomagazine.it##.td_block_single_image
 biancorossi.net##.td_single_image_bg
 artuu.it##.tdi_446
