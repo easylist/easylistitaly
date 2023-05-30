@@ -101,7 +101,7 @@ ansa.it##.ansacom-box
 iltquotidiano.it##.apPluginContainer
 ingenio-web.it##.b
 balarm.it##.balarm_adv
-asteannunci.it,atalanta.it,avinews.it,bikeitalia.it,romadailynews.it##.banner
+asteannunci.it,atalanta.it,avinews.it,bikeitalia.it,camperonline.it,romadailynews.it##.banner
 amicidicasa.it##.banner-container
 algheroeco.com##.banner-header-dx
 algheroeco.com##.banner-header-sx
