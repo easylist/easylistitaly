@@ -75,6 +75,7 @@ lnd.it###sp-sponsor
 aziendabanca.it###sp-top-banner
 buonapesca.it###sponsor-bottom
 staffettaonline.com###sponsored
+elaborare.com###text-html-widget-16
 animeclick.it###wrapper
 iltquotidiano.it##.ADS
 ilmanifesto.it##.Adv
