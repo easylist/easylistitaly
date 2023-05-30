@@ -30,6 +30,7 @@ reteimprese.it###afscontainer2
 direttafacile.it###annuncidiv
 altarimini.it###attivitaEvidenza
 brocardi.it###background-head-spacer
+camperlife.it###banner-home-column
 camperlife.it###banner_2
 camperlife.it###banner_3
 ornews.it###banner_skin
