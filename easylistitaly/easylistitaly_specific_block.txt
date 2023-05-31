@@ -144,6 +144,7 @@
 ||camperonline.it/sfondo/
 ||camping.it/xbDispatcher/
 ||canale12.it^*/banner-
+||canale58.com^*/banner/
 ||canalecinquetv.it^*/sponsor/
 ||canavesetoday.it/banners/
 ||caneogolf.it/img/banner/

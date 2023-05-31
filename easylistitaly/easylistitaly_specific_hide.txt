@@ -239,6 +239,7 @@ bresciasat.it##.workspace__block--sponsor
 androidblog.it##.wpmc_inject_wrapper
 siciliatv.org##.wppopups-whole
 ornews.it##.youtube_adv_alert
+canale58.com##.zox-widget-ad
 lavoripubblici.it,primocomunicazione.it##a[data-banner]
 animeemanga.it##a[href*="//goo.gl/"]
 altomantovanonews.it,mantovasport24.it,mantovauno.it,oltrepomantovanonews.it##a[href*="/linkout/"]
