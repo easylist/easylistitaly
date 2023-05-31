@@ -151,7 +151,7 @@ caneogolf.it##.footerADVping
 atalanta.it##.footer__sponsor
 palermofc.com##.footer_int
 algheroeco.com,almanaccocalciotoscano.it,amicodelpopolo.it,anteprima24.it,battipaglia1929.it,bitquotidiano.it,bolognaindiretta.it,buoncalcioatutti.it,calciofvg.live,canale2.com,lacasainordine.it,meteofinanza.com,rietinvetrina.it##.g
-asgiana.com##.gdlr-banner-item-wrapper
+asgiana.com,calciolecco1912.com##.gdlr-banner-item-wrapper
 italia-informa.com##.giapPageAdvCont
 sorrisi.com##.gtv-trigger-elevator
 boatindustry.it,boatsnews.it##.habillage
