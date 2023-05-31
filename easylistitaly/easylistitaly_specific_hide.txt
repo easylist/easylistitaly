@@ -76,6 +76,9 @@ lnd.it###sp-sponsor
 aziendabanca.it###sp-top-banner
 buonapesca.it###sponsor-bottom
 staffettaonline.com###sponsored
+betitaliaweb.it###text-10
+betitaliaweb.it###text-6
+betitaliaweb.it###text-9
 elaborare.com###text-html-widget-16
 animeclick.it###wrapper
 iltquotidiano.it##.ADS
@@ -194,6 +197,10 @@ animeclick.it##.skin
 brindisisettenews.it,leccesette.it##.skin-desktop
 lavoripubblici.it##.skin-link
 buonenotiziebologna.it##.slides_container
+betitaliaweb.it##.space-companies-home-widget
+betitaliaweb.it##.space-companies-sidebar-2-widget
+betitaliaweb.it##.space-organizations-home-8-widget
+betitaliaweb.it##.space-shortcode-wrap-ins
 ilfattoquotidiano.it##.special
 bolzano-bozen.it,calciofvg.live##.sponsor
 cagliarilivemagazine.it##.sponsor-associati
