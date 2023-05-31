@@ -229,7 +229,7 @@ amadeusmagazine.it##.us_custom_d14818f6
 lantidiplomatico.it##.widget-banner
 scrivolibero.it##.widget_block
 androidblog.it,aroundtheworld.pro,berlinomagazine.com,canalesassuolo.it,ifood.it,ilclandestinogiornale.italiasera.it,italianotizie.online,leggopassword.it,newtuscia.it,scrivolibero.it##.widget_custom_html
-24live.it,amarantomagazine.it,areamediapress.it,aroundtheworld.pro,bambiniconlavaligia.com,blograffo.net,bsnews.it,ladriatico.info,siciliatv.org,signorbet.news##.widget_media_image
+24live.it,amarantomagazine.it,areamediapress.it,aroundtheworld.pro,bambiniconlavaligia.com,blograffo.net,bsnews.it,ladriatico.info,siciliatv.org,signorbet.news,tuttojuve.net##.widget_media_image
 biancavillaoggi.it##.widget_random_banner_widget
 alqamah.it##.widget_xyz_insert_php_widget
 bresciasat.it##.workspace__block--sponsor
