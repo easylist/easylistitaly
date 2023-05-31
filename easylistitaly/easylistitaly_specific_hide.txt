@@ -113,6 +113,7 @@ canale7.tv##.b-ads
 balarm.it##.balarm_adv
 asteannunci.it,atalanta.it,avinews.it,bikeitalia.it,camperonline.it,romadailynews.it##.banner
 amicidicasa.it,canavesetoday.it##.banner-container
+buonapesca.it##.banner-display
 algheroeco.com##.banner-header-dx
 algheroeco.com##.banner-header-sx
 nauticareport.it##.banner-post-slider
