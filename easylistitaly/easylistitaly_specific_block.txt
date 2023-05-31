@@ -162,6 +162,7 @@
 ||italpress.com/wp-content/uploads/*/SKIN_
 ||italpress.com/wp-content/uploads/2021/03/intesa-logo.png
 ||lacasainordine.it/wp-content/banners/
+||lagazzettadelmezzogiorno.it/upload/1682775693137.jpg
 ||laprovinciakr.it/modules/mod_responsivebannerslider/
 ||lavocedelpopolo.it^*/banner_
 ||lavocedelpopolo.it^*/holyart_

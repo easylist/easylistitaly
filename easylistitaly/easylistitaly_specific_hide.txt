@@ -134,6 +134,7 @@ aostaoggi.it,arezzo24.net,aziendabanca.it,biancoebruno.it##.bannergroup
 bagherianews.com##.banneritem
 biancoebruno.it##.bannertop
 bikeitalia.it##.bg-banner
+lagazzettadelmezzogiorno.it##.bgbanner
 antenna1.fm##.bloc-pub
 ilroma.net##.block-rotating-banner
 tefchannel.it##.box-banner
