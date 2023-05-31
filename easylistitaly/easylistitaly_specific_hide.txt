@@ -135,6 +135,7 @@ tefchannel.it##.box-banner-top
 balarm.it##.box-evidenza
 caneogolf.it##.boxbannerhome
 ilfattoquotidiano.it##.cc-adv-wrapper
+calabrianews24.com##.code-block
 ascolicalcio1898.it##.cqcarousel-container
 meteofinanza.com##.custom-cta-container
 calciostyle.it##.d-block
