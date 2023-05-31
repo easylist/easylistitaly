@@ -179,9 +179,6 @@
 ||trentinotv.it/images/banner/
 ||wp.com^*/banner/$domain=buongiornoslovacchia.sk
 !
-||canicattiweb.com/bgbcc21.jpg
-||canicattiweb.com/bgeni.jpg
-||canicattiweb.com/sunbanner.gif
 ||canottaggio.org/sponsors/
 ||canottieri.com/public/img/Grafica-01-6257.jpg
 ||canottieri.com/public/img/sponsor-
