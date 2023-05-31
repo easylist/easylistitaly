@@ -183,6 +183,7 @@ bergamoesport.it##.mv15 > .block > .fw
 bergamoesport.it##.mv15 > .fw
 bergamoesport.it##.mv15.block > .fw
 greenstyle.it##.mxm_wrapper
+calabrianews24.com##.n2-section-smartslider
 ildolomiti.it##.native
 bresciaoggi.it,ilgiornaledivicenza.it,larena.it,radioverona.it,telearena.it,telemantova.it##.nativeadv
 ansa.it##.news-special-box
