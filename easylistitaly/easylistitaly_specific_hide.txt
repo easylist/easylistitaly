@@ -148,6 +148,7 @@ sicurauto.it##.ds-margin-center
 basilicatanotizie.net##.e-widget-swiper
 bergamonews.it##.edinews_widget_post_from_terms
 basilicatanotizie.net##.elementor-element-5b9f270
+brindisitime.it##.elementor-element-7df2ea5
 bussolafinanziaria.it##.elementor-element-d185417
 calabria7.it##.elementor-popup-modal
 staffettaonline.com##.fcRes
