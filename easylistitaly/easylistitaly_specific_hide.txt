@@ -197,7 +197,7 @@ ildolomiti.it##.native
 bresciaoggi.it,ilgiornaledivicenza.it,larena.it,radioverona.it,telearena.it,telemantova.it##.nativeadv
 ansa.it##.news-special-box
 italia-informa.com##.newsitemAdv
-pescare.news##.p
+boatsnews.it,pescare.news##.p
 nostrofiglio.it##.par-listing-collab
 ragusanews.com##.partner
 milanofinanza.it##.pimcobox
