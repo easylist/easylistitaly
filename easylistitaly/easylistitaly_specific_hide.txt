@@ -204,6 +204,7 @@ nostrofiglio.it##.par-listing-collab
 ragusanews.com##.partner
 milanofinanza.it##.pimcobox
 cagliarinews24.com,calcionews24.com,futsalnews24.com,internews24.com,juventusnews24.com,lazionews24.com,milannews24.com,sampnews24.com##.placeholder
+salernoinweb.it##.pollice-volante-all
 prendiporno.tv##.productora
 prendiporno.tv##.productora-logo
 agoravox.it##.pub
