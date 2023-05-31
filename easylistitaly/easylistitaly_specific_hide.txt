@@ -134,6 +134,7 @@ caneogolf.it##.boxbannerhome
 ilfattoquotidiano.it##.cc-adv-wrapper
 ascolicalcio1898.it##.cqcarousel-container
 meteofinanza.com##.custom-cta-container
+calciostyle.it##.d-block
 0766news.it,umbriaon.it##.dfad
 sicurauto.it##.ds-margin
 sicurauto.it##.ds-margin-center
