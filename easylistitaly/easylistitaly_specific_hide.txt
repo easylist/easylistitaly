@@ -13,6 +13,7 @@ leggopassword.it###Tabella_01
 chimerarevo.com###TopWidgetArea
 caffebaiadomizia.it###_ad_10926
 panoz.it###ad
+canalesassuolo.it##.widget_custom_html
 soldioggi.it###ad1
 soldioggi.it###ad2
 soldioggi.it###ad3
@@ -97,6 +98,7 @@ altoadigetv.it,ansa.it,ilfattoquotidiano.it,libero.it,supereva.it,trentinotv.it,
 editorialedomani.it##.adv-placeholder
 ansa.it##.adv-region
 ansa.it##.adv-slot
+caneogolf.it##.advbox
 arezzotv.it,bicimagazine.it,podisti.net##.advert
 avvisatore.com##.ai_widget
 animeclick.it,gamerclick.it##.amazon-row
@@ -144,6 +146,7 @@ beneventocalcio.it,podisti.net##.flexbannergroup
 udinese.it##.foobar-sponsor
 caleno24ore.it##.footer-firstrow
 cagliaricalcio.com##.footer-sponsors
+caneogolf.it##.footerADVping
 atalanta.it##.footer__sponsor
 palermofc.com##.footer_int
 algheroeco.com,almanaccocalciotoscano.it,amicodelpopolo.it,anteprima24.it,battipaglia1929.it,bitquotidiano.it,bolognaindiretta.it,buoncalcioatutti.it,calciofvg.live,lacasainordine.it,meteofinanza.com,rietinvetrina.it##.g
@@ -509,11 +512,11 @@ castellinotizie.it,pianetaserieb.it###custom_html-26
 dimagrireduepuntozero.com,pianetaserieb.it###custom_html-27
 pianetaserieb.it,tusciatimes.eu###custom_html-28
 tusciatimes.eu###custom_html-29
-alground.com,assisisport.it,calcioatalanta.it,calciofere.it,calciogrifo.it,calciolecce.it,calciomercatonews.com,canalesassuolo.it,corrieredelmolise.com,eurekaddl.it,forzaparma.it,labaricalcio.it,nonniavventura.it,nonsolonautica.it,quizlab.it,resetitaliablog.altervista.org,siamolaroma.it,sololalazio.it,tifocosenza.it,tifosipalermo.it,torremaggiore.com,trapanigranata.it,umbria.webcam###custom_html-3
+alground.com,assisisport.it,calcioatalanta.it,calciofere.it,calciogrifo.it,calciolecce.it,calciomercatonews.com,corrieredelmolise.com,eurekaddl.it,forzaparma.it,labaricalcio.it,nonniavventura.it,nonsolonautica.it,quizlab.it,resetitaliablog.altervista.org,siamolaroma.it,sololalazio.it,tifocosenza.it,tifosipalermo.it,torremaggiore.com,trapanigranata.it,umbria.webcam###custom_html-3
 immaginaviaggiare.it,pianetaserieb.it###custom_html-30
 immaginaviaggiare.it###custom_html-33
 tusciatimes.eu###custom_html-37
-assisisport.it,calciocasteddu.it,canalesassuolo.it,carteprepagate.org,corrieredelmolise.com,corrieredicomo.it,cucinaresenzamenate.it,destinazioneusa.com,eurekaddl.it,floinviaggio.com,grossetosport.com,guidaconsumatore.com,laprevisione.it,meteogiornale.it,nonsolonautica.it,peopleforplanet.it,pianetablunews.it,stranieriinitalia.it,topragazze.it,travelwithbrothers.com,tuttogossipnews.it###custom_html-4
+assisisport.it,calciocasteddu.it,carteprepagate.org,corrieredelmolise.com,corrieredicomo.it,cucinaresenzamenate.it,destinazioneusa.com,eurekaddl.it,floinviaggio.com,grossetosport.com,guidaconsumatore.com,laprevisione.it,meteogiornale.it,nonsolonautica.it,peopleforplanet.it,pianetablunews.it,stranieriinitalia.it,topragazze.it,travelwithbrothers.com,tuttogossipnews.it###custom_html-4
 mondomobileweb.it###custom_html-42
 1x2-calcio.com,carteprepagate.org,corrieredelmolise.com,grossetosport.com,innaturale.com,italiaonline.news,italyandmore.it,mam-e.it,melarossa.it,meteogiornale.it,sportcafe24.com,thailandiapertutti.it,travelwithbrothers.com,tuttogossipnews.it###custom_html-5
 1x2-calcio.com,calciomercatonews.com,corrieredelmolise.com,corrieredicomo.it,cucinamamma.it,hynerd.it,indiscreto.org,it-casinoonline.com,lombardoandrea.com,nonsprecare.it,paladins.it,pentanewslivorno.it,thailandiapertutti.it,torremaggiore.com###custom_html-6
