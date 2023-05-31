@@ -3,6 +3,7 @@ trend-online.com###CONT_D_1
 trend-online.com###CONT_T
 flashgames.it,scambieuropei.info,soldioggi.it###C_1
 flashgames.it###C_2
+legabasketfemminile.com###DIV_MainSponsorContainer
 flashgames.it,scambieuropei.info,trend-online.com###D_1
 unapennainviaggio.it###Image1
 unapennainviaggio.it###Image2
