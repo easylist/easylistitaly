@@ -219,7 +219,7 @@ assoallenatori.it##.sponsor-container
 zebreparma.it##.sponsor-wrapper
 ilfattoquotidiano.it##.sticky-adv
 bitquotidiano.it##.takeover
-angrinews.com,apsicilia.it,araberara.it,artuu.it,ascolinews.it,battipaglianews.it,bellunopress.it,biancorossi.net,calabriamagnifica.it,icalabresi.it,isnews.it##.td-a-rec
+angrinews.com,apsicilia.it,araberara.it,artuu.it,ascolinews.it,battipaglianews.it,bellunopress.it,biancorossi.net,calabriamagnifica.it,icalabresi.it,isnews.it,sardegna24.news##.td-a-rec
 italiasera.it,radioroma.it##.td-custom-image
 italianotizie.online##.td-fix-index
 amarantomagazine.it,sangavinomonreale.net##.td_block_single_image
