@@ -98,6 +98,7 @@ altoadigetv.it,ansa.it,ilfattoquotidiano.it,libero.it,supereva.it,trentinotv.it,
 editorialedomani.it##.adv-placeholder
 ansa.it##.adv-region
 ansa.it##.adv-slot
+lameziaterme.it##.advanced_floating_content
 caneogolf.it##.advbox
 arezzotv.it,bicimagazine.it,podisti.net##.advert
 avvisatore.com##.ai_widget
@@ -152,7 +153,7 @@ cagliaricalcio.com##.footer-sponsors
 caneogolf.it##.footerADVping
 atalanta.it##.footer__sponsor
 palermofc.com##.footer_int
-algheroeco.com,almanaccocalciotoscano.it,amicodelpopolo.it,anteprima24.it,battipaglia1929.it,bitquotidiano.it,bolognaindiretta.it,buoncalcioatutti.it,calciofvg.live,canale2.com,lacasainordine.it,meteofinanza.com,rietinvetrina.it##.g
+algheroeco.com,almanaccocalciotoscano.it,amicodelpopolo.it,anteprima24.it,battipaglia1929.it,bitquotidiano.it,bolognaindiretta.it,buoncalcioatutti.it,calciofvg.live,canale2.com,lacasainordine.it,lameziaterme.it,meteofinanza.com,rietinvetrina.it##.g
 asgiana.com,calciolecco1912.com##.gdlr-banner-item-wrapper
 italia-informa.com##.giapPageAdvCont
 teamworld.it##.gpt-sticky
@@ -233,7 +234,7 @@ amadeusmagazine.it##.us_custom_c62a4417
 amadeusmagazine.it##.us_custom_d14818f6
 lantidiplomatico.it##.widget-banner
 scrivolibero.it##.widget_block
-androidblog.it,aroundtheworld.pro,berlinomagazine.com,canalesassuolo.it,ifood.it,ilclandestinogiornale.italiasera.it,italianotizie.online,leggopassword.it,newtuscia.it,scrivolibero.it##.widget_custom_html
+androidblog.it,aroundtheworld.pro,berlinomagazine.com,canalesassuolo.it,ifood.it,ilclandestinogiornale.italiasera.it,italianotizie.online,lameziaterme.it,leggopassword.it,newtuscia.it,scrivolibero.it##.widget_custom_html
 24live.it,amarantomagazine.it,areamediapress.it,aroundtheworld.pro,bambiniconlavaligia.com,blograffo.net,bsnews.it,calciogoal.it,ladriatico.info,siciliatv.org,signorbet.news,tuttojuve.net##.widget_media_image
 biancavillaoggi.it##.widget_random_banner_widget
 agropolinews.it##.widget_sp_image
