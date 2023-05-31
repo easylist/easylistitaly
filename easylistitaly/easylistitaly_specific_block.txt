@@ -123,6 +123,7 @@
 ||bikerslife.com/contenuti/banners/
 ||bitquotidiano.it/wp-content/uploads/*/monteleone-
 ||bolina.it/banners/
+||bolina.it/img_header/
 ||bolli.it/images/banner/
 ||bolzano-bozen.it/images/banner/
 ||borgomanero24.it/images/banner/
