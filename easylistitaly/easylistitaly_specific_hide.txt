@@ -170,6 +170,7 @@ teamworld.it##.gpt-sticky
 sorrisi.com##.gtv-trigger-elevator
 boatindustry.it,boatsnews.it,pescare.news##.habillage
 nauticareport.it##.header-centerbar-ad
+veronavolley.it##.header-title-sponsor
 libero.it##.hp_300x1
 virgilio.it##.hp_300x250
 libero.it,virgilio.it##.hp_970x90
@@ -236,6 +237,7 @@ biancorossi.net##.td_single_image_bg
 artuu.it##.tdi_446
 artuu.it##.tdi_450
 caleno24ore.it##.themequote
+veronavolley.it##.title-sponsor
 cagliaricalcio.com##.top-banner-home
 cagliaricalcio.com##.top-sponsor-hp
 antenna1.fm##.top_publicite
