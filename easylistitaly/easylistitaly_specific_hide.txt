@@ -168,7 +168,7 @@ asgiana.com,calciolecco1912.com##.gdlr-banner-item-wrapper
 italia-informa.com##.giapPageAdvCont
 teamworld.it##.gpt-sticky
 sorrisi.com##.gtv-trigger-elevator
-boatindustry.it,boatsnews.it##.habillage
+boatindustry.it,boatsnews.it,pescare.news##.habillage
 nauticareport.it##.header-centerbar-ad
 libero.it##.hp_300x1
 virgilio.it##.hp_300x250
@@ -197,6 +197,7 @@ ildolomiti.it##.native
 bresciaoggi.it,ilgiornaledivicenza.it,larena.it,radioverona.it,telearena.it,telemantova.it##.nativeadv
 ansa.it##.news-special-box
 italia-informa.com##.newsitemAdv
+pescare.news##.p
 nostrofiglio.it##.par-listing-collab
 ragusanews.com##.partner
 milanofinanza.it##.pimcobox

@@ -7,6 +7,7 @@
 ||campingsportmagenta.com/CamperOnline/$third-party
 ||gmdigital.it^*/adplay.js
 ||greenweez.it/data/img/banner-$third-party
+||infodustrie.com/affima.php?
 ||investimenti.bnpparibas.it^$domain=trend-online.com
 ||sorgentenatura.it/data/img/Banner_$third-party
 !
