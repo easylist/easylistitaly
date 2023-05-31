@@ -138,7 +138,7 @@ tefchannel.it##.box-banner-top
 balarm.it##.box-evidenza
 caneogolf.it##.boxbannerhome
 ilfattoquotidiano.it##.cc-adv-wrapper
-calabrianews24.com##.code-block
+bottadiculo.it,calabrianews24.com##.code-block
 ascolicalcio1898.it##.cqcarousel-container
 meteofinanza.com##.custom-cta-container
 calciostyle.it##.d-block
@@ -241,6 +241,7 @@ androidworld.it,mobileworld.it,smartworld.it##.tw-carousel
 smartworld.it##.tw-fragment-affiliation-container
 amadeusmagazine.it##.us_custom_c62a4417
 amadeusmagazine.it##.us_custom_d14818f6
+bottadiculo.it##.vc_btn3-container
 lantidiplomatico.it##.widget-banner
 scrivolibero.it##.widget_block
 androidblog.it,aroundtheworld.pro,berlinomagazine.com,canalesassuolo.it,ifood.it,ilclandestinogiornale.italiasera.it,italianotizie.online,lameziaterme.it,leggopassword.it,newtuscia.it,scrivolibero.it##.widget_custom_html
