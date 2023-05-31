@@ -56,6 +56,7 @@ direttafacile.it###indirettadalgo
 soldioggi.it###insidebar1
 ottofm.com###lcb_banner
 avmagazine.it###leaderboard
+bollicinevip.com###leaderboard-wrapper
 brindisifc.it###main-sponsor
 allasianfootball.com###media_image-2
 mymovies.it###middle1_companion
@@ -249,7 +250,7 @@ amadeusmagazine.it##.us_custom_d14818f6
 bottadiculo.it##.vc_btn3-container
 lantidiplomatico.it##.widget-banner
 scrivolibero.it##.widget_block
-androidblog.it,aroundtheworld.pro,berlinomagazine.com,canalesassuolo.it,ifood.it,ilclandestinogiornale.italiasera.it,italianotizie.online,lameziaterme.it,leggopassword.it,newtuscia.it,scrivolibero.it##.widget_custom_html
+androidblog.it,aroundtheworld.pro,berlinomagazine.com,bollicinevip.com,canalesassuolo.it,ifood.it,ilclandestinogiornale.italiasera.it,italianotizie.online,lameziaterme.it,leggopassword.it,newtuscia.it,scrivolibero.it##.widget_custom_html
 24live.it,amarantomagazine.it,areamediapress.it,aroundtheworld.pro,bambiniconlavaligia.com,blograffo.net,bsnews.it,calabriamagnifica.it,calciogoal.it,ladriatico.info,siciliatv.org,signorbet.news,tuttojuve.net##.widget_media_image
 biancavillaoggi.it##.widget_random_banner_widget
 agropolinews.it##.widget_sp_image
