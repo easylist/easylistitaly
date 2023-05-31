@@ -115,6 +115,7 @@ algheroeco.com##.banner-header-sx
 nauticareport.it##.banner-post-slider
 art-news.it,calabriareportage.it,lameziaterme.it##.banner-promotions-wrapper
 brindisisettenews.it,leccesette.it##.banner-side
+italia-informa.com##.banner250x250interno
 campanialive.it##.banner380x48
 bikerslife.com##.bannerDx
 bikerslife.com##.bannerTop
