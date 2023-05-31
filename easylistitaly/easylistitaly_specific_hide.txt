@@ -46,6 +46,8 @@ mmawiki.org###custom_html-2
 mymovies.it###div_topleft
 cagliarinews24.com,calcionews24.com,internews24.com,juventusnews24.com,lazionews24.com,milannews24.com,sampnews24.com###evolve-desktop-masthead
 cagliarinews24.com,calcionews24.com,internews24.com,juventusnews24.com,lazionews24.com,milannews24.com,sampnews24.com###evolve-mobile-masthead
+bolina.it###fancybox-overlay
+bolina.it###fancybox-wrap
 meteofinanza.com###financial-popup-overlay
 ilfattoquotidiano.it###immo-330x350
 soldioggi.it###inarticle2
