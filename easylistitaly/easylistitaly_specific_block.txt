@@ -50,6 +50,7 @@
 ||aia-figc.it^*/net-insurance.png
 ||albinoleffe.com/images/banners/
 ||alessandriacalcio.it^*/banner_
+||algheronotizie.com/immaginisito/banner_
 ||alimentibevande.it/img/banners/
 ||almanaccocalciotoscano.it/wp-content/banners/
 ||alqamah.it/banners/
