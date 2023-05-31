@@ -42,6 +42,7 @@ blunote.it###carousel-sponsors-list
 radiogold.it###click-piemonte
 supereva.it,virgilio.it###cont-wallpaper
 blablive.com###content_bonus
+trnews.it###custom_html-12
 mmawiki.org###custom_html-2
 mymovies.it###div_topleft
 cagliarinews24.com,calcionews24.com,internews24.com,juventusnews24.com,lazionews24.com,milannews24.com,sampnews24.com###evolve-desktop-masthead
@@ -82,6 +83,7 @@ aziendabanca.it###sp-top-banner
 buonapesca.it###sponsor-bottom
 staffettaonline.com###sponsored
 betitaliaweb.it###text-10
+trnews.it###text-11
 betitaliaweb.it###text-6
 betitaliaweb.it###text-9
 elaborare.com###text-html-widget-16
