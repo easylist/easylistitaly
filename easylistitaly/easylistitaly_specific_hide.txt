@@ -48,7 +48,7 @@ cagliarinews24.com,calcionews24.com,internews24.com,juventusnews24.com,lazionews
 cagliarinews24.com,calcionews24.com,internews24.com,juventusnews24.com,lazionews24.com,milannews24.com,sampnews24.com###evolve-mobile-masthead
 bolina.it###fancybox-overlay
 bolina.it###fancybox-wrap
-meteofinanza.com###financial-popup-overlay
+borsainside.com,meteofinanza.com###financial-popup-overlay
 ilfattoquotidiano.it###immo-330x350
 soldioggi.it###inarticle2
 soldioggi.it###inarticle3
@@ -140,6 +140,7 @@ tefchannel.it##.box-banner
 tefchannel.it##.box-banner-top
 balarm.it##.box-evidenza
 caneogolf.it##.boxbannerhome
+borsainside.com##.brokers-with-sidebar
 ilfattoquotidiano.it##.cc-adv-wrapper
 bottadiculo.it,calabrianews24.com##.code-block
 ascolicalcio1898.it##.cqcarousel-container
@@ -164,7 +165,7 @@ cagliaricalcio.com##.footer-sponsors
 caneogolf.it##.footerADVping
 atalanta.it##.footer__sponsor
 palermofc.com##.footer_int
-algheroeco.com,almanaccocalciotoscano.it,amicodelpopolo.it,anteprima24.it,battipaglia1929.it,bitquotidiano.it,bolognaindiretta.it,buoncalcioatutti.it,calabriareportage.it,calciofvg.live,canale2.com,lacasainordine.it,lameziaterme.it,meteofinanza.com,rietinvetrina.it##.g
+algheroeco.com,almanaccocalciotoscano.it,amicodelpopolo.it,anteprima24.it,battipaglia1929.it,bitquotidiano.it,bolognaindiretta.it,borsainside.com,buoncalcioatutti.it,calabriareportage.it,calciofvg.live,canale2.com,lacasainordine.it,lameziaterme.it,meteofinanza.com,rietinvetrina.it##.g
 asgiana.com,calciolecco1912.com##.gdlr-banner-item-wrapper
 italia-informa.com##.giapPageAdvCont
 teamworld.it##.gpt-sticky
