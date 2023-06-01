@@ -162,6 +162,7 @@ ilfattoquotidiano.it##.cc-adv-wrapper
 bottadiculo.it,calabrianews24.com##.code-block
 ascolicalcio1898.it##.cqcarousel-container
 meteofinanza.com##.custom-cta-container
+carpicalcio.it##.custom-html-widget
 calciostyle.it##.d-block
 0766news.it,umbriaon.it##.dfad
 sicurauto.it##.ds-margin
