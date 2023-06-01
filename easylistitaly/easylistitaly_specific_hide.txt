@@ -112,6 +112,7 @@ badtaste.it,supertv.it##.ad-container
 brocardi.it,buildnews.it,filmpertutti.boo,radiogold.it##.ads
 ildolomiti.it##.adsB
 altoadigetv.it,ansa.it,ilfattoquotidiano.it,libero.it,supereva.it,trentinotv.it,virgilio.it##.adv
+calciobresciano.it##.adv-big-article-card
 editorialedomani.it##.adv-placeholder
 ansa.it##.adv-region
 ansa.it##.adv-slot
