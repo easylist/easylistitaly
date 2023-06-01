@@ -233,6 +233,7 @@ agoravox.it##.pub
 barinedita.it##.pubbli
 prendiporno.tv##.publ11s-b0ttom
 camperonline.it##.publink
+carteprepagate.org##.pum
 ilroma.net##.rotating-banner
 bicimagazine.it##.rstbox
 my-personaltrainer.it##.sal-list-sponsored
@@ -275,7 +276,7 @@ bottadiculo.it##.vc_btn3-container
 casertaweb.com##.vc_carousel-inner
 lantidiplomatico.it##.widget-banner
 scrivolibero.it##.widget_block
-androidblog.it,aroundtheworld.pro,berlinomagazine.com,bollicinevip.com,canalesassuolo.it,ifood.it,ilclandestinogiornale.italiasera.it,italianotizie.online,lameziaterme.it,leggopassword.it,newtuscia.it,scrivolibero.it##.widget_custom_html
+androidblog.it,aroundtheworld.pro,berlinomagazine.com,bollicinevip.com,canalesassuolo.it,carteprepagate.org,ifood.it,ilclandestinogiornale.italiasera.it,italianotizie.online,lameziaterme.it,leggopassword.it,newtuscia.it,scrivolibero.it##.widget_custom_html
 24live.it,amarantomagazine.it,areamediapress.it,aroundtheworld.pro,bambiniconlavaligia.com,blograffo.net,bsnews.it,calabriamagnifica.it,calciogoal.it,castingeprovini.com,cataniavip.it,catanzaro7.net,ladriatico.info,siciliatv.org,signorbet.news,tuttojuve.net##.widget_media_image
 catanzaro7.net##.widget_media_video
 biancavillaoggi.it##.widget_random_banner_widget
