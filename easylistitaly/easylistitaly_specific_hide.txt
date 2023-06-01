@@ -275,7 +275,7 @@ casertaweb.com##.vc_carousel-inner
 lantidiplomatico.it##.widget-banner
 scrivolibero.it##.widget_block
 androidblog.it,aroundtheworld.pro,berlinomagazine.com,bollicinevip.com,canalesassuolo.it,ifood.it,ilclandestinogiornale.italiasera.it,italianotizie.online,lameziaterme.it,leggopassword.it,newtuscia.it,scrivolibero.it##.widget_custom_html
-24live.it,amarantomagazine.it,areamediapress.it,aroundtheworld.pro,bambiniconlavaligia.com,blograffo.net,bsnews.it,calabriamagnifica.it,calciogoal.it,cataniavip.it,catanzaro7.net,ladriatico.info,siciliatv.org,signorbet.news,tuttojuve.net##.widget_media_image
+24live.it,amarantomagazine.it,areamediapress.it,aroundtheworld.pro,bambiniconlavaligia.com,blograffo.net,bsnews.it,calabriamagnifica.it,calciogoal.it,castingeprovini.com,cataniavip.it,catanzaro7.net,ladriatico.info,siciliatv.org,signorbet.news,tuttojuve.net##.widget_media_image
 catanzaro7.net##.widget_media_video
 biancavillaoggi.it##.widget_random_banner_widget
 agropolinews.it##.widget_sp_image
