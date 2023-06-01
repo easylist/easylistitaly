@@ -1,4 +1,5 @@
 @@||buonenotiziebologna.it/images/banners/logos/bnb/logo.png
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=vrsicilia.it
 @@||video.comingsoon.it/Adv/Box/$image,media
 !
 @@||ads.lfstmedia.com/getad?site=$script,domain=spaghetti-interactive.it
