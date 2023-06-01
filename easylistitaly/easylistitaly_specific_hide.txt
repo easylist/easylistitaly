@@ -77,7 +77,7 @@ studenti.it###scrolling_element
 allmusicitalia.it###skin
 arezzo24.net###skin-banner
 altoadigegol.it###skinclick
-algheronotizie.com###skinlink
+algheronotizie.com,finestresullarte.info###skinlink
 balarm.it,gamereactor.it###sky
 gamereactor.it###sky2_1
 gamereactor.it###sky2_2
