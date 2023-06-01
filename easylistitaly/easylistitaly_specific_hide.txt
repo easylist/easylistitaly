@@ -154,6 +154,7 @@ lagazzettadelmezzogiorno.it##.bgbanner
 antenna1.fm##.bloc-pub
 cascinanotizie.it##.block-block
 ilroma.net##.block-rotating-banner
+popcorntv.it##.box-adv
 tefchannel.it##.box-banner
 tefchannel.it##.box-banner-top
 balarm.it##.box-evidenza
