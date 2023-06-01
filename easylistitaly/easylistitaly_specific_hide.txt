@@ -118,7 +118,7 @@ empresite.it##.adv_cont
 lameziaterme.it##.advanced_floating_content
 caneogolf.it##.advbox
 arezzotv.it,bicimagazine.it,podisti.net##.advert
-avvisatore.com,ostuninotizie.it##.ai_widget
+avvisatore.com,carovignonotizie.net,ostuninotizie.it##.ai_widget
 animeclick.it,gamerclick.it##.amazon-row
 androidworld.it,cookaround.com,dmbeauty.it,donnamoderna.com,focus.it,giallozafferano.it,iconmagazine.it,mobileworld.it,my-personaltrainer.it,nostrofiglio.it,pianetadonna.it,pianetamamma.it,smartworld.it,soldionline.it,sorrisi.com,studenti.it,thewom.it,valorinormali.com,webboh.it##.amePlaceholderBox
 ansa.it##.ansacom-box
