@@ -236,6 +236,7 @@ camperonline.it##.publink
 carteprepagate.org##.pum
 ilroma.net##.rotating-banner
 bicimagazine.it##.rstbox
+carraresecalcio.it##.saas-brand
 my-personaltrainer.it##.sal-list-sponsored
 catanzaroinforma.it##.sb-box-pubbliredazionale
 greenstyle.it##.section-sticky-rail
