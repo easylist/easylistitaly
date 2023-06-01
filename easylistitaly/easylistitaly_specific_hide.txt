@@ -209,6 +209,7 @@ radiogold.it##.max-banner-top
 anisearch.it##.merchandise
 24live.it,70-80.it##.metaslider
 leggopassword.it##.mh-header-2
+catanzaro7.net##.mh_magazine_youtube
 alimentibevande.it,professioneallevatore.it,professionesuinicoltore.it##.mod
 bergamoesport.it##.mv15 > .block > .fw
 bergamoesport.it##.mv15 > .fw
@@ -308,6 +309,7 @@ altomantovanonews.it##div[id^="altom-"]
 aprilianews.it##div[id^="april-"]
 arezzoweb.it##div[id^="arezz-"]
 autobusweb.com##div[id^="autob-"]
+catanzaro7.net##div[id^="catan-"]
 insic.it##div[id^="insic-"]
 mantovauno.it##div[id^="manto-"]
 oltrepomantovanonews.it##div[id^="oltre-"]
