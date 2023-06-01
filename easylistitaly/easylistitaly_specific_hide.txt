@@ -108,7 +108,7 @@ iltquotidiano.it##.SkinMobile
 camping.it##.XBPos
 anteprima24.it,araberara.it,meteofinanza.com##.a-single
 badtaste.it,supertv.it##.ad-container
-brocardi.it,filmpertutti.boo,radiogold.it##.ads
+brocardi.it,buildnews.it,filmpertutti.boo,radiogold.it##.ads
 ildolomiti.it##.adsB
 altoadigetv.it,ansa.it,ilfattoquotidiano.it,libero.it,supereva.it,trentinotv.it,virgilio.it##.adv
 editorialedomani.it##.adv-placeholder
