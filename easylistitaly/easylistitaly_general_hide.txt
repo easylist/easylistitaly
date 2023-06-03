@@ -1,3 +1,4 @@
+###eadv-billboard
 ##.sponsorizzati
 ##a[href^="https://adv.presscommtech.com/"]
 ##div[class^="rtbuzz_"]
@@ -94,7 +95,6 @@
 ###corpo_video_sponsor
 ###deaAdvTop
 ###divPubblicita
-###eadv-billboard
 ###evolutionadv
 ###fullAdv-dx
 ###fullAdv-sx

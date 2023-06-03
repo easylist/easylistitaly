@@ -1,5 +1,6 @@
 ||natexo-programmatic.com^$third-party
 ||rtbuzz.net^
+||shoppydoo.com^
 ||yobee.it^$third-party
 !
 ||178.32.140.64^$third-party,domain=~pirchio.ip

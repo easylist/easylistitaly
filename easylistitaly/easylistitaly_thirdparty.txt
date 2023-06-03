@@ -267,7 +267,6 @@
 ||wp.com/www.ilgiardinodeilibri.it/*/banner_$third-party
 ||wp.com/www.ionoleggioauto.com/banner-$third-party
 ||wp.com/www.rovato.it/*/bannercasa.gif
-||ws.shoppydoo.com^$third-party
 ||yoox.it/view.aspx?$subdocument,third-party
 ||youtube-nocookie.com/embed/ac2pZ0m9Kn8$domain=fotografidigitali.it
 ||youtube.com/embed/6NpU5MhmUtg$domain=lapalestra.it
