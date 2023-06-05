@@ -111,7 +111,6 @@
 ||hackerzone.click/banner/
 ||hdpass.click/images/fake-player/
 ||hrs.de/wizard.aspx?
-||html.it/banner/
 ||iads.iltrovatore.it^
 ||ibb.co^$domain=edicolafree.xp3.biz|salernitananews.it
 ||ilgiardinodeilibri.it/data/banner_partner/

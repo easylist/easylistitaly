@@ -186,6 +186,7 @@
 ||lavoripubblici.it/banner/
 ||leccesette.it/banner/
 ||leccoonline.com/public/banner/
+||legab.it^*/sponsor/
 ||legabasketfemminile.com/Images/Sponsor/
 ||leggopassword.it/wp-content/uploads/*/Banner-
 ||lnd.it/images/sponsor/
@@ -211,15 +212,6 @@
 ||cityrumors.it^*/banner-
 ||cityrumors.it^*/skin-
 ||classifichemusica.it/img/amazon.jpg
-||classlife.it^*/banner-
-||click.html.it^
-||clientiesperti.it^*-banner.
-||cloudfront.net^*.Skin_$domain=legab.it
-||cloudfront.net^*/partner-$domain=legab.it
-||cloudfront.net^*/sponsor-$domain=legab.it
-||clubdoria46.it^*/banner-
-||clubdoria46.it^*/sanbstian.jpg
-||clubdoria46.it^*/src_logo-300x123.png
 ||cn24tv.it/images/banners/
 ||codedaze.me/scaricare.png
 ||codedaze.me/vpn_
@@ -967,7 +959,6 @@
 ||horecanews.it^*_Banner_
 ||hotelmag.it^*_banner980x200_
 ||hovogliadidolce.it^*/banner-
-||html.it^*/banner/
 ||hwreload.com/img/alphacool_logo.gif
 ||hwreload.com/img/arctic_logo.gif
 ||hwreload.com/img/icydock_logo.gif
@@ -1655,7 +1646,6 @@
 ||lecconotizie.com^*/LN_elettrasystem-
 ||left.it/wp-content/uploads/banners/
 ||left.it^*-banners-
-||legab.it^*/sponsor/
 ||legabasket.it/image/league_sponsor_
 ||leganavalenews.it^*/banners/
 ||legapallacanestro.com^*/banner/
