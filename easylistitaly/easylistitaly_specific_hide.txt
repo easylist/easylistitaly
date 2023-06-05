@@ -43,6 +43,7 @@ bergamoesport.it,informazionefiscale.it###billboard
 alqamah.it###bp-sf-container
 blunote.it###carousel-sponsors-list
 radiogold.it###click-piemonte
+meteotrentinoaltoadige.it###column-id-1539954322953
 supereva.it,virgilio.it###cont-wallpaper
 blablive.com###content_bonus
 trnews.it###custom_html-12
