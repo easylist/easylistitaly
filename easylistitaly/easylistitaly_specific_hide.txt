@@ -213,6 +213,7 @@ virgilio.it##.hp_300x250
 libero.it,virgilio.it##.hp_970x90
 ilfattoquotidiano.it##.ifq-dfp
 allmusicitalia.it##.iframe-adv
+cinquecolonne.it##.image-widget-wrapper-outer
 beneventocalcio.club##.kode-partner
 libero.it##.lancio_promo
 blablive.com##.leader-wrap-out
