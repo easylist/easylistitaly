@@ -170,6 +170,7 @@ centropagina.it##.box-b
 tefchannel.it##.box-banner
 tefchannel.it##.box-banner-top
 balarm.it##.box-evidenza
+ansa.it##.box-pressrelease
 caneogolf.it##.boxbannerhome
 clubdoria46.it##.boxzilla
 clubdoria46.it##.boxzilla-overlay
