@@ -42,6 +42,8 @@ ornews.it###banner_skin_mobile
 forum.tomshw.it###belowfirstpost
 bergamoesport.it,informazionefiscale.it###billboard
 alqamah.it###bp-sf-container
+comune-info.net###campagnelead2
+comune-info.net###campagnesquare2
 blunote.it###carousel-sponsors-list
 radiogold.it###click-piemonte
 meteotrentinoaltoadige.it###column-id-1539954322953
