@@ -245,6 +245,7 @@ leggopassword.it##.mh-header-2
 catanzaro7.net##.mh_magazine_youtube
 altoadige.it,giornaletrentino.it##.middle2
 alimentibevande.it,professioneallevatore.it,professionesuinicoltore.it##.mod
+compagniadellacima.it##.module-custom_html
 bergamoesport.it##.mv15 > .block > .fw
 bergamoesport.it##.mv15 > .fw
 bergamoesport.it##.mv15.block > .fw
