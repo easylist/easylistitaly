@@ -339,6 +339,7 @@ altomantovanonews.it,mantovasport24.it,mantovauno.it,oltrepomantovanonews.it##a[
 borsainside.com,cartaricaricabile.net##a[href*="/vai/"]
 codedaze.me##a[href^="/go.php?"]
 blunote.it##a[href^="http://sitiscommesse.info/"]
+comprovendolibri.it##a[href^="https://affiliati.celai.it/"]
 campaniameteo.it##a[href^="https://clk.tradedoubler.com/"]
 stadiosport.it##a[href^="https://crypto.com/"]
 teamworld.it##a[href^="https://disneyplus.bn5x.net/"]
