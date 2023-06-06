@@ -121,6 +121,7 @@ camping.it##.XBPos
 anteprima24.it,araberara.it,centotrentuno.com,meteofinanza.com##.a-single
 badtaste.it,supertv.it##.ad-container
 confinelive.it##.adcontainer
+condominioweb.com##.addv
 brocardi.it,buildnews.it,filmpertutti.boo,legab.it,radiogold.it##.ads
 ildolomiti.it##.adsB
 altoadigetv.it,ansa.it,ilfattoquotidiano.it,libero.it,supereva.it,trentinotv.it,virgilio.it##.adv
@@ -142,7 +143,9 @@ iltquotidiano.it##.apPluginContainer
 ingenio-web.it##.b
 canale7.tv##.b-ads
 balarm.it##.balarm_adv
+condominioweb.com##.ban_home
 castelvetranonews.it##.banflo
+condominioweb.com##.bann-home
 asteannunci.it,atalanta.it,avinews.it,bikeitalia.it,camperonline.it,casateonline.it,catanzaroinforma.it,leccoonline.com,merateonline.it,romadailynews.it##.banner
 amicidicasa.it,canavesetoday.it##.banner-container
 buonapesca.it##.banner-display
