@@ -163,7 +163,7 @@ casateonline.it,leccoonline.com,merateonline.it##.banner_centro
 italpress.com##.banner_img_widget
 bolina.it,misterstudent.tv,ornews.it,salernoinweb.it,stellafm.it##.banner_top
 bicisupermarket.it##.banner_width
-aostaoggi.it,arezzo24.net,aziendabanca.it,biancoebruno.it,casertafocus.net,concorezzo.org##.bannergroup
+aostaoggi.it,archivio.ilfriuliveneziagiulia.it,arezzo24.net,aziendabanca.it,biancoebruno.it,casertafocus.net,concorezzo.org##.bannergroup
 bagherianews.com##.banneritem
 biancoebruno.it##.bannertop
 bikeitalia.it##.bg-banner

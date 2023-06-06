@@ -87,6 +87,7 @@
 ||aostasports.it^*/box/
 ||aprilianews.it/wp-content/uploads/*/Banner-
 ||archi-magazine.it/media/banners/
+||archivio.ilfriuliveneziagiulia.it/images/banners/
 ||arezzo24.net/images/banners/
 ||arezzotv.it/images/banner/
 ||armiusate.it/pix/
