@@ -165,6 +165,7 @@ lagazzettadelmezzogiorno.it##.bgbanner
 antenna1.fm##.bloc-pub
 cascinanotizie.it##.block-block
 ilroma.net##.block-rotating-banner
+html.it##.blz-url
 popcorntv.it##.box-adv
 centropagina.it##.box-b
 tefchannel.it##.box-banner
