@@ -10,7 +10,6 @@
 ###ADVrettangolo
 ###ADVrettangolopiede
 ###ADVstriscia
-###CVLR_banner_ADX
 ###HALFPAGE2_advadagio
 ###HALFPAGE3_advadagio
 ###HALFPAGE_BOTTOM_advadagio
