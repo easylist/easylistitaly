@@ -293,7 +293,7 @@ zebreparma.it##.sponsor-wrapper
 classificaporno.com##.sppc
 ilfattoquotidiano.it##.sticky-adv
 bitquotidiano.it##.takeover
-angrinews.com,apsicilia.it,araberara.it,artuu.it,ascolinews.it,battipaglianews.it,bellunopress.it,biancorossi.net,calabriamagnifica.it,casertaweb.com,citynotizie.it,icalabresi.it,isnews.it,ostuninotizie.it,sardegna24.news##.td-a-rec
+angrinews.com,apsicilia.it,araberara.it,artuu.it,ascolinews.it,battipaglianews.it,bellunopress.it,biancorossi.net,calabriamagnifica.it,casertaweb.com,citynotizie.it,icalabresi.it,isnews.it,ostuninotizie.it,sardegna24.news,udineoggi.news##.td-a-rec
 italiasera.it,radioroma.it##.td-custom-image
 italianotizie.online##.td-fix-index
 amarantomagazine.it,sangavinomonreale.net##.td_block_single_image
