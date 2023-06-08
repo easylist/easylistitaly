@@ -1,6 +1,12 @@
 ###eadv-billboard
+###video-evo-player.player_evolution
+##.AlterVista_Banner
+##.AlterVista_GoogleAdsense
 ##.sponsorizzati
+##.yb-floorad
+##.yobee-adv
 ##a[href^="https://adv.presscommtech.com/"]
+##av-adv-slot
 ##div[class^="rtbuzz_"]
 ##div[id^="rtbuzz_"]
 !
@@ -79,7 +85,6 @@
 ###advertisingStriscia
 ###advsfondo
 ###altervista_banner-3
-###altervista_googleadsense-2
 ###annunciGoogle
 ###annunci_google
 ###annuncio-virgilio
@@ -132,12 +137,9 @@
 ###syTagContainer
 ###tccAdPlayer
 ###top3-pubbli
-###video-evo-player.player_evolution
 ##.ADV300_250_600_Content
 ##.ADVBig_Content
 ##.ADVFLEX_250_Content
-##.AlterVista_Banner
-##.AlterVista_GoogleAdsense
 ##.Banner_VideoAd_Interno
 ##.Pubblicita
 ##.ab-box-adv-cn
@@ -355,7 +357,6 @@
 ##.widget_n1ad
 ##.wl_WidgetRel_Sponsor
 ##.wl_WidgetRel_Sponsor1
-##.yobee-adv
 ##.yobee-lazyadv
 ##a[href*=".linksita2017.com/"]
 ##a[href*=".offerte2019.store/"]
@@ -404,4 +405,3 @@
 ##a[href^="https://www.centoxcento.net/?track="]
 ##a[href^="https://www.dazn.com/"][href*="?utm_source=affiliate"]
 ##a[href^="https://www.nigiara.it/scripts/redir.php?url=https://amzn.to/"]
-##av-adv-slot

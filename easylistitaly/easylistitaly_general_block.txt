@@ -1,3 +1,5 @@
+.it/adv/
+!
 -000Pubblicita-
 -000pubblicita.
 -adv-300.
@@ -12,7 +14,6 @@
 .it/ads?
 .it/ads_
 .it/adv.
-.it/adv/
 .it/adv_
 /000Pubblicita/*
 /adagioadv_
