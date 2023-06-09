@@ -232,6 +232,7 @@
 ||ossola24.it/images/banner/
 ||ottofm.com/wp-content/uploads/*/banner-
 ||ottofm.com/wp-content/uploads/*/mainini-
+||parigi2024.coni.it/images/partner/
 ||podisti.net/images/banners/
 ||pordenoneoggi.it/wp-content/uploads/*/banner-
 ||ragusanews.com//immagini_banner/

@@ -49,6 +49,7 @@ radiogold.it###click-piemonte
 meteotrentinoaltoadige.it###column-id-1539954322953
 supereva.it,virgilio.it###cont-wallpaper
 blablive.com###content_bonus
+parigi2024.coni.it###custom-sponsor-row
 trnews.it###custom_html-12
 mmawiki.org###custom_html-2
 mymovies.it###div_topleft
@@ -78,6 +79,7 @@ alqamah.it###ppp_box
 alqamah.it###ppp_overlay
 calabriapost.net,laprovinciakr.it###responsive-banner-slider
 studenti.it###scrolling_element
+parigi2024.coni.it###section-id-1678964502057
 allmusicitalia.it###skin
 arezzo24.net###skin-banner
 altoadigegol.it###skinclick
