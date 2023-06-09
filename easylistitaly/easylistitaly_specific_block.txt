@@ -202,6 +202,7 @@
 ||italia-informa.com^*/banner/
 ||italpress.com/wp-content/uploads/*/SKIN_
 ||italpress.com/wp-content/uploads/2021/03/intesa-logo.png
+||kustom-world.it/images/banners/
 ||lacasainordine.it/wp-content/banners/
 ||lagazzettadelmezzogiorno.it/upload/1682775693137.jpg
 ||lagomaggiore24.it/images/banner/
