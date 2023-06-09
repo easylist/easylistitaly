@@ -160,6 +160,7 @@ algheroeco.com##.banner-header-sx
 lacnews24.it##.banner-inner
 nauticareport.it##.banner-post-slider
 art-news.it,calabriareportage.it,lameziaterme.it##.banner-promotions-wrapper
+picenotime.it##.banner-pt-orizzontale-home
 vercellioggi.it##.banner-section
 brindisisettenews.it,leccesette.it##.banner-side
 italia-informa.com##.banner250x250interno
@@ -202,6 +203,7 @@ telenord.it##.click-foto
 avvisatore.com,bottadiculo.it,calabrianews24.com,clubdoria46.it##.code-block
 picenotime.it##.col-12.col-lg-6
 picenotime.it##.col-12.col-sm-4.py-3
+picenotime.it##.copy > .mb-5
 ascolicalcio1898.it##.cqcarousel-container
 ilmeteo.net##.creatividad
 meteofinanza.com##.custom-cta-container
@@ -296,6 +298,7 @@ barinedita.it##.pubbli
 prendiporno.tv##.publ11s-b0ttom
 camperonline.it##.publink
 carteprepagate.org##.pum
+picenotime.it##.py-1.colonna-singola > .py-5
 ilroma.net##.rotating-banner
 bicimagazine.it##.rstbox
 carraresecalcio.it##.saas-brand
