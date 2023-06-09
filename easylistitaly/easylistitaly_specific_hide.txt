@@ -345,6 +345,7 @@ cremaoggi.it,cremonaoggi.it,cremonasport.it,oglioponews.it##.standard-inside-tex
 ilfattoquotidiano.it##.sticky-adv
 comunicaffe.it##.strack_bnr
 crotoneok.it##.strack_cli
+motori.it##.strip_agos_link
 bitquotidiano.it##.takeover
 angrinews.com,apsicilia.it,araberara.it,artuu.it,ascolinews.it,battipaglianews.it,bellunopress.it,biancorossi.net,calabriamagnifica.it,casertaweb.com,citynotizie.it,comunicaffe.it,corcianonline.it,cronacadiverona.com,cronachedellacampania.it,icalabresi.it,isnews.it,ostuninotizie.it,sardegna24.news,trasimenonline.it,triesteallnews.it,udineoggi.news##.td-a-rec
 italiasera.it,radioroma.it##.td-custom-image
