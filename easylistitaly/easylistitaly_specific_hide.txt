@@ -175,7 +175,7 @@ cronachedibirra.it##.banner_in-article_container
 bolina.it,misterstudent.tv,ornews.it,salernoinweb.it,stellafm.it##.banner_top
 bicisupermarket.it##.banner_width
 corriereal.info##.banner_wrapper
-aostaoggi.it,archivio.ilfriuliveneziagiulia.it,arezzo24.net,aziendabanca.it,biancoebruno.it,casertafocus.net,concorezzo.org##.bannergroup
+aostaoggi.it,archivio.ilfriuliveneziagiulia.it,arezzo24.net,aziendabanca.it,biancoebruno.it,casertafocus.net,concorezzo.org,cralistruzione.it##.bannergroup
 bagherianews.com,corriereannunci.it,corrierenews.it,corriereproposte.it##.banneritem
 assisisport.it##.banners
 biancoebruno.it##.bannertop
