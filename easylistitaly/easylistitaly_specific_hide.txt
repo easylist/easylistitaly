@@ -142,6 +142,7 @@ corrieredellumbria.it,corrierediarezzo.it,corrieredisiena.it##.advertisement
 chiamamicitta.it##.ai-rotate
 chiamamicitta.it##.ai-viewport-1
 avvisatore.com,carovignonotizie.net,ostuninotizie.it##.ai_widget
+corrierinocampaniasport.it##.alpha.omega
 animeclick.it,gamerclick.it##.amazon-row
 androidworld.it,cookaround.com,dmbeauty.it,donnamoderna.com,focus.it,giallozafferano.it,iconmagazine.it,mobileworld.it,my-personaltrainer.it,nostrofiglio.it,pianetadonna.it,pianetamamma.it,smartworld.it,soldionline.it,sorrisi.com,studenti.it,thewom.it,valorinormali.com,webboh.it##.amePlaceholderBox
 ansa.it##.ansacom-box
@@ -302,6 +303,7 @@ camperonline.it##.publink
 carteprepagate.org##.pum
 picenotime.it##.py-1.colonna-singola > .py-5
 ilroma.net##.rotating-banner
+corrierinocampaniasport.it##.rotor-items
 bicimagazine.it##.rstbox
 carraresecalcio.it##.saas-brand
 my-personaltrainer.it##.sal-list-sponsored
