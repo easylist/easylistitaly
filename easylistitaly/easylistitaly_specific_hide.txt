@@ -258,6 +258,7 @@ libero.it,virgilio.it##.hp_970x90
 ilfattoquotidiano.it##.ifq-dfp
 allmusicitalia.it##.iframe-adv
 cinquecolonne.it##.image-widget-wrapper-outer
+corrierenazionale.it##.jetpack-image-container
 beneventocalcio.club##.kode-partner
 libero.it##.lancio_promo
 blablive.com##.leader-wrap-out
