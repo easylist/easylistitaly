@@ -154,7 +154,7 @@ balarm.it##.balarm_adv
 condominioweb.com##.ban_home
 castelvetranonews.it##.banflo
 condominioweb.com##.bann-home
-assisieventi.it,assisinews.it,asteannunci.it,atalanta.it,avinews.it,bikeitalia.it,camperonline.it,casateonline.it,catanzaroinforma.it,coriglianocalabro.it,cremaoggi.it,cremonaoggi.it,cremonasport.it,cuneocronaca.it,euroregionalpmed.eu,leccoonline.com,merateonline.it,oglioponews.it,romadailynews.it##.banner
+assisieventi.it,assisinews.it,asteannunci.it,atalanta.it,avinews.it,bikeitalia.it,camperonline.it,casateonline.it,catanzaroinforma.it,conquistedellavoro.it,coriglianocalabro.it,cremaoggi.it,cremonaoggi.it,cremonasport.it,cuneocronaca.it,euroregionalpmed.eu,leccoonline.com,merateonline.it,oglioponews.it,romadailynews.it##.banner
 amicidicasa.it,canavesetoday.it##.banner-container
 buonapesca.it##.banner-display
 euroregionalpmed.eu##.banner-header
