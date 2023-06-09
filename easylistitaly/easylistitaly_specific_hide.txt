@@ -364,6 +364,7 @@ clientiesperti.it,computer-acquisti.com##.widget_text
 alqamah.it##.widget_xyz_insert_php_widget
 bresciasat.it##.workspace__block--sponsor
 24live.it,areamediapress.it##.wp-block-image
+e-tv.it##.wpcp-carousel-wrapper
 androidblog.it##.wpmc_inject_wrapper
 siciliatv.org##.wppopups-whole
 ornews.it##.youtube_adv_alert
