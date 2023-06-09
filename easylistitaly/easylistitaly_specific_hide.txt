@@ -209,6 +209,7 @@ picenotime.it##.col-12.col-sm-4.py-3
 picenotime.it##.copy > .mb-5
 ascolicalcio1898.it##.cqcarousel-container
 ilmeteo.net##.creatividad
+corriere.ca##.ct-code-block
 meteofinanza.com##.custom-cta-container
 carpicalcio.it##.custom-html-widget
 calciostyle.it##.d-block
