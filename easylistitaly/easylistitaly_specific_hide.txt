@@ -339,6 +339,7 @@ cagliarilivemagazine.it##.sponsor-associati
 assoallenatori.it##.sponsor-container
 zebreparma.it##.sponsor-wrapper
 tokyo2020.coni.it##.sponsor_int
+cronachetarantine.it##.sppb-addon-single-image-container
 classificaporno.com##.sppc
 assisinews.it##.square_banner
 cremaoggi.it,cremonaoggi.it,cremonasport.it,oglioponews.it##.standard-inside-text
@@ -356,6 +357,7 @@ artuu.it##.tdi_446
 artuu.it##.tdi_450
 caleno24ore.it##.themequote
 veronavolley.it##.title-sponsor
+cronachetarantine.it##.top-banner
 cagliaricalcio.com##.top-banner-home
 cagliaricalcio.com##.top-sponsor-hp
 antenna1.fm##.top_publicite
