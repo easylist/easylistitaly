@@ -199,6 +199,7 @@
 ||euroregionalpmed.eu/js/clickBanner_
 ||forum.audirsclub.it/images/banners/
 ||forum.audirsclub.it/images/misc/Faratech
+||giornaleadige.it/wp-content/banners/
 ||ilroma.net/sites/default/files/SKIN_
 ||ilroma.net^*/rotating_banner/
 ||italia-informa.com^*/banner/

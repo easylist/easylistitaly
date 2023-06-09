@@ -236,7 +236,7 @@ cagliaricalcio.com##.footer-sponsors
 caneogolf.it##.footerADVping
 atalanta.it##.footer__sponsor
 palermofc.com##.footer_int
-algheroeco.com,almanaccocalciotoscano.it,amicodelpopolo.it,anteprima24.it,battipaglia1929.it,bitquotidiano.it,bolognaindiretta.it,borsainside.com,buoncalcioatutti.it,calabriareportage.it,calciofvg.live,canale2.com,castelvetranoselinunte.it,centropagina.it,corriereal.info,corrieresalentino.it,lacasainordine.it,lameziaterme.it,meteofinanza.com,pugliapress.org,rietinvetrina.it##.g
+algheroeco.com,almanaccocalciotoscano.it,amicodelpopolo.it,anteprima24.it,battipaglia1929.it,bitquotidiano.it,bolognaindiretta.it,borsainside.com,buoncalcioatutti.it,calabriareportage.it,calciofvg.live,canale2.com,castelvetranoselinunte.it,centropagina.it,corriereal.info,corrieresalentino.it,giornaleadige.it,lacasainordine.it,lameziaterme.it,meteofinanza.com,pugliapress.org,rietinvetrina.it##.g
 asgiana.com,calciolecco1912.com##.gdlr-banner-item-wrapper
 italia-informa.com##.giapPageAdvCont
 goriziaoggi.news##.goriz-widget
