@@ -298,6 +298,7 @@ prendiporno.tv##.productora
 prendiporno.tv##.productora-logo
 comingsoon.it##.promo
 agoravox.it##.pub
+radiogold.it##.pub-content
 barinedita.it##.pubbli
 prendiporno.tv##.publ11s-b0ttom
 camperonline.it##.publink
