@@ -236,7 +236,7 @@ cagliaricalcio.com##.footer-sponsors
 caneogolf.it##.footerADVping
 atalanta.it##.footer__sponsor
 palermofc.com##.footer_int
-algheroeco.com,almanaccocalciotoscano.it,amicodelpopolo.it,anteprima24.it,battipaglia1929.it,bitquotidiano.it,bolognaindiretta.it,borsainside.com,buoncalcioatutti.it,calabriareportage.it,calciofvg.live,canale2.com,castelvetranoselinunte.it,centropagina.it,corrieresalentino.it,lacasainordine.it,lameziaterme.it,meteofinanza.com,pugliapress.org,rietinvetrina.it##.g
+algheroeco.com,almanaccocalciotoscano.it,amicodelpopolo.it,anteprima24.it,battipaglia1929.it,bitquotidiano.it,bolognaindiretta.it,borsainside.com,buoncalcioatutti.it,calabriareportage.it,calciofvg.live,canale2.com,castelvetranoselinunte.it,centropagina.it,corriereal.info,corrieresalentino.it,lacasainordine.it,lameziaterme.it,meteofinanza.com,pugliapress.org,rietinvetrina.it##.g
 asgiana.com,calciolecco1912.com##.gdlr-banner-item-wrapper
 italia-informa.com##.giapPageAdvCont
 goriziaoggi.news##.goriz-widget
@@ -360,7 +360,7 @@ bottadiculo.it##.vc_btn3-container
 casertaweb.com##.vc_carousel-inner
 lantidiplomatico.it##.widget-banner
 scrivolibero.it##.widget_block
-androidblog.it,aroundtheworld.pro,assisisport.it,berlinomagazine.com,bollicinevip.com,canalesassuolo.it,carteprepagate.org,circuitoturismo.it,ifood.it,ilclandestinogiornale.italiasera.it,italianotizie.online,lameziaterme.it,leggopassword.it,newtuscia.it,scrivolibero.it##.widget_custom_html
+androidblog.it,aroundtheworld.pro,assisisport.it,berlinomagazine.com,bollicinevip.com,canalesassuolo.it,carteprepagate.org,circuitoturismo.it,corriereal.info,ifood.it,ilclandestinogiornale.italiasera.it,italianotizie.online,lameziaterme.it,leggopassword.it,newtuscia.it,scrivolibero.it##.widget_custom_html
 24live.it,amarantomagazine.it,areamediapress.it,aroundtheworld.pro,bambiniconlavaligia.com,blograffo.net,bsnews.it,calabriamagnifica.it,calciogoal.it,castingeprovini.com,cataniavip.it,catanzaro7.net,chepreparo.it,citymilanonews.com,coriglianocalabro.it,corrispondenzaromana.it,crotoneok.it,ladriatico.info,siciliatv.org,signorbet.news,tuttojuve.net##.widget_media_image
 catanzaro7.net##.widget_media_video
 biancavillaoggi.it##.widget_random_banner_widget
@@ -405,7 +405,7 @@ assisinews.it,assisisport.it##div[id^="assis-"]
 autobusweb.com##div[id^="autob-"]
 catanzaro7.net##div[id^="catan-"]
 citynow.it##div[id^="cityn-"]
-corriereromagna.it##div[id^="corri-"]
+corriereal.info,corriereromagna.it##div[id^="corri-"]
 crotoneok.it##div[id^="croto-"]
 insic.it##div[id^="insic-"]
 mantovauno.it##div[id^="manto-"]
