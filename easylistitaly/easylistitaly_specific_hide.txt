@@ -201,6 +201,7 @@ clubdoria46.it##.boxzilla-overlay
 borsainside.com##.brokers-with-sidebar
 castelvetranonews.it##.brotazione
 corrieredellumbria.it,corrierediarezzo.it,corrieredisiena.it##.bxsliderAdv
+assisieventi.it##.carousel
 ilfattoquotidiano.it##.cc-adv-wrapper
 telenord.it##.click-foto
 avvisatore.com,bottadiculo.it,calabrianews24.com,clubdoria46.it##.code-block
@@ -314,6 +315,7 @@ catanzaroinforma.it##.sb-box-pubbliredazionale
 greenstyle.it##.section-sticky-rail
 comunicalo.it,coriglianocalabro.it,crotoneok.it##.sgpb-popup-dialog-main-div-wrapper
 comunicalo.it,coriglianocalabro.it,crotoneok.it##.sgpb-popup-overlay
+assisieventi.it##.side_banners
 sicurauto.it##.sidebar-sticky-top
 cosedicasa.com##.sidespot-wrapper
 animeclick.it##.skin
@@ -408,6 +410,7 @@ catanzaro7.net##div[id^="catan-"]
 citynow.it##div[id^="cityn-"]
 corriereal.info,corriereromagna.it##div[id^="corri-"]
 crotoneok.it##div[id^="croto-"]
+assisieventi.it##div[id^="evassisi-"]
 insic.it##div[id^="insic-"]
 mantovauno.it##div[id^="manto-"]
 crotoneok.it##div[id^="mdl-"]
