@@ -129,6 +129,7 @@ ildolomiti.it##.adsB
 corrieredellacalabria.it##.ads_corriere
 altoadigetv.it,ansa.it,ilfattoquotidiano.it,libero.it,supereva.it,trentinotv.it,virgilio.it##.adv
 calciobresciano.it##.adv-big-article-card
+corrieredellumbria.it,corrierediarezzo.it,corrieredisiena.it##.adv-big2
 editorialedomani.it##.adv-placeholder
 ansa.it##.adv-region
 corrieredellumbria.it,corrierediarezzo.it,corrieredisiena.it##.adv-slideshow
