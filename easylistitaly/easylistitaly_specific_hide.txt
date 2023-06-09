@@ -370,7 +370,7 @@ androidblog.it,aroundtheworld.pro,assisisport.it,berlinomagazine.com,bollicinevi
 catanzaro7.net##.widget_media_video
 biancavillaoggi.it##.widget_random_banner_widget
 agropolinews.it,corrieregiallorosso.com##.widget_sp_image
-clientiesperti.it,computer-acquisti.com##.widget_text
+clientiesperti.it,computer-acquisti.com,corrieregiallorosso.com##.widget_text
 alqamah.it##.widget_xyz_insert_php_widget
 bresciasat.it##.workspace__block--sponsor
 24live.it,areamediapress.it##.wp-block-image
