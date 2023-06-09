@@ -160,6 +160,7 @@ algheroeco.com##.banner-header-sx
 lacnews24.it##.banner-inner
 nauticareport.it##.banner-post-slider
 art-news.it,calabriareportage.it,lameziaterme.it##.banner-promotions-wrapper
+vercellioggi.it##.banner-section
 brindisisettenews.it,leccesette.it##.banner-side
 italia-informa.com##.banner250x250interno
 campanialive.it##.banner380x48
@@ -241,6 +242,7 @@ cuckold.it##.happy-sidebar
 cuckold.it##.happy-under-player
 assisisport.it##.header-banner
 nauticareport.it##.header-centerbar-ad
+vercellioggi.it##.header-images
 veronavolley.it##.header-title-sponsor
 libero.it##.hp_300x1
 virgilio.it##.hp_300x250
