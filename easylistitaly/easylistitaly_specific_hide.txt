@@ -338,7 +338,7 @@ ilfattoquotidiano.it##.sticky-adv
 comunicaffe.it##.strack_bnr
 crotoneok.it##.strack_cli
 bitquotidiano.it##.takeover
-angrinews.com,apsicilia.it,araberara.it,artuu.it,ascolinews.it,battipaglianews.it,bellunopress.it,biancorossi.net,calabriamagnifica.it,casertaweb.com,citynotizie.it,comunicaffe.it,cronacadiverona.com,cronachedellacampania.it,icalabresi.it,isnews.it,ostuninotizie.it,sardegna24.news,trasimenonline.it,triesteallnews.it,udineoggi.news##.td-a-rec
+angrinews.com,apsicilia.it,araberara.it,artuu.it,ascolinews.it,battipaglianews.it,bellunopress.it,biancorossi.net,calabriamagnifica.it,casertaweb.com,citynotizie.it,comunicaffe.it,corcianonline.it,cronacadiverona.com,cronachedellacampania.it,icalabresi.it,isnews.it,ostuninotizie.it,sardegna24.news,trasimenonline.it,triesteallnews.it,udineoggi.news##.td-a-rec
 italiasera.it,radioroma.it##.td-custom-image
 italianotizie.online##.td-fix-index
 amarantomagazine.it,sangavinomonreale.net##.td_block_single_image
