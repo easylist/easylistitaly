@@ -153,7 +153,7 @@ balarm.it##.balarm_adv
 condominioweb.com##.ban_home
 castelvetranonews.it##.banflo
 condominioweb.com##.bann-home
-assisieventi.it,assisinews.it,asteannunci.it,atalanta.it,avinews.it,bikeitalia.it,camperonline.it,casateonline.it,catanzaroinforma.it,cremaoggi.it,cremonaoggi.it,cremonasport.it,cuneocronaca.it,euroregionalpmed.eu,leccoonline.com,merateonline.it,oglioponews.it,romadailynews.it##.banner
+assisieventi.it,assisinews.it,asteannunci.it,atalanta.it,avinews.it,bikeitalia.it,camperonline.it,casateonline.it,catanzaroinforma.it,coriglianocalabro.it,cremaoggi.it,cremonaoggi.it,cremonasport.it,cuneocronaca.it,euroregionalpmed.eu,leccoonline.com,merateonline.it,oglioponews.it,romadailynews.it##.banner
 amicidicasa.it,canavesetoday.it##.banner-container
 buonapesca.it##.banner-display
 euroregionalpmed.eu##.banner-header
@@ -310,8 +310,8 @@ my-personaltrainer.it##.sal-list-sponsored
 lacnews24.it##.sb-banner
 catanzaroinforma.it##.sb-box-pubbliredazionale
 greenstyle.it##.section-sticky-rail
-comunicalo.it,crotoneok.it##.sgpb-popup-dialog-main-div-wrapper
-comunicalo.it,crotoneok.it##.sgpb-popup-overlay
+comunicalo.it,coriglianocalabro.it,crotoneok.it##.sgpb-popup-dialog-main-div-wrapper
+comunicalo.it,coriglianocalabro.it,crotoneok.it##.sgpb-popup-overlay
 sicurauto.it##.sidebar-sticky-top
 cosedicasa.com##.sidespot-wrapper
 animeclick.it##.skin
@@ -360,7 +360,7 @@ casertaweb.com##.vc_carousel-inner
 lantidiplomatico.it##.widget-banner
 scrivolibero.it##.widget_block
 androidblog.it,aroundtheworld.pro,assisisport.it,berlinomagazine.com,bollicinevip.com,canalesassuolo.it,carteprepagate.org,circuitoturismo.it,ifood.it,ilclandestinogiornale.italiasera.it,italianotizie.online,lameziaterme.it,leggopassword.it,newtuscia.it,scrivolibero.it##.widget_custom_html
-24live.it,amarantomagazine.it,areamediapress.it,aroundtheworld.pro,bambiniconlavaligia.com,blograffo.net,bsnews.it,calabriamagnifica.it,calciogoal.it,castingeprovini.com,cataniavip.it,catanzaro7.net,chepreparo.it,corrispondenzaromana.it,crotoneok.it,ladriatico.info,siciliatv.org,signorbet.news,tuttojuve.net##.widget_media_image
+24live.it,amarantomagazine.it,areamediapress.it,aroundtheworld.pro,bambiniconlavaligia.com,blograffo.net,bsnews.it,calabriamagnifica.it,calciogoal.it,castingeprovini.com,cataniavip.it,catanzaro7.net,chepreparo.it,coriglianocalabro.it,corrispondenzaromana.it,crotoneok.it,ladriatico.info,siciliatv.org,signorbet.news,tuttojuve.net##.widget_media_image
 catanzaro7.net##.widget_media_video
 biancavillaoggi.it##.widget_random_banner_widget
 agropolinews.it##.widget_sp_image
