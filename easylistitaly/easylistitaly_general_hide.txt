@@ -2,6 +2,7 @@
 ###video-evo-player.player_evolution
 ##.AlterVista_Banner
 ##.AlterVista_GoogleAdsense
+##.banner-adv
 ##.sponsorizzati
 ##.yb-floorad
 ##.yobee-adv
