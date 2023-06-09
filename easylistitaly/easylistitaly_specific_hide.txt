@@ -334,7 +334,7 @@ ilfattoquotidiano.it##.sticky-adv
 comunicaffe.it##.strack_bnr
 crotoneok.it##.strack_cli
 bitquotidiano.it##.takeover
-angrinews.com,apsicilia.it,araberara.it,artuu.it,ascolinews.it,battipaglianews.it,bellunopress.it,biancorossi.net,calabriamagnifica.it,casertaweb.com,citynotizie.it,comunicaffe.it,cronachedellacampania.it,icalabresi.it,isnews.it,ostuninotizie.it,sardegna24.news,triesteallnews.it,udineoggi.news##.td-a-rec
+angrinews.com,apsicilia.it,araberara.it,artuu.it,ascolinews.it,battipaglianews.it,bellunopress.it,biancorossi.net,calabriamagnifica.it,casertaweb.com,citynotizie.it,comunicaffe.it,cronacadiverona.com,cronachedellacampania.it,icalabresi.it,isnews.it,ostuninotizie.it,sardegna24.news,triesteallnews.it,udineoggi.news##.td-a-rec
 italiasera.it,radioroma.it##.td-custom-image
 italianotizie.online##.td-fix-index
 amarantomagazine.it,sangavinomonreale.net##.td_block_single_image
@@ -3344,4 +3344,5 @@ tuttoandroid.net#?#article[id^="post-"]:-abp-has(span:-abp-contains(Adv))
 tuttomercatoweb.com#?#.mtop.mbottom.tcc-screen:-abp-has(.adv_margin)
 zonalocale.it#?#.listed.small:-abp-has(a:-abp-contains(Informazione Pubblicitaria))
 !
+cronacadiverona.com#?#.td_block_template_1:-abp-has(.td-block-title-wrap:-abp-contains(Banner))
 cruiselifestyle.it#?#.rowthumb:-abp-has(a[href])
