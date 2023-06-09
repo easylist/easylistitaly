@@ -135,6 +135,7 @@ corrieredellumbria.it,corrierediarezzo.it,corrieredisiena.it##.adv-slideshow
 ansa.it##.adv-slot
 empresite.it##.adv_cont
 lameziaterme.it##.advanced_floating_content
+mondopadano.it##.advblock
 caneogolf.it##.advbox
 arezzotv.it,bicimagazine.it,podisti.net##.advert
 corrieredellumbria.it,corrierediarezzo.it,corrieredisiena.it##.advertisement
@@ -178,6 +179,7 @@ aostaoggi.it,archivio.ilfriuliveneziagiulia.it,arezzo24.net,aziendabanca.it,bian
 bagherianews.com,corriereannunci.it,corrierenews.it,corriereproposte.it##.banneritem
 assisisport.it##.banners
 biancoebruno.it##.bannertop
+mondopadano.it##.bbanner
 bikeitalia.it##.bg-banner
 altoadige.it,giornaletrentino.it##.bg300x250
 lagazzettadelmezzogiorno.it##.bgbanner

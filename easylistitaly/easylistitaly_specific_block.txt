@@ -222,6 +222,7 @@
 ||merateonline.it/public/banner/
 ||misterstudent.tv/o/sponsor/
 ||mmawiki.org^*/adv-
+||mondopadano.it/media/statiche/mondopadano/ADV/
 ||newtuscia.it/wp-content/uploads/*/Banner-
 ||novara24news.it/images/banner/
 ||novarese24.it/images/banner/
