@@ -185,6 +185,7 @@
 ||corrierediarezzo.it/upload/addsense/
 ||corrieredisiena.it/upload/addsense/
 ||corriereelorino.it/wp-content/uploads/*/cover-corriere-expert.jpg
+||corriereincontri.it/images/banners/
 ||corrierenews.it/images/banners/
 ||corriereproposte.it/images/banners/
 ||cosedicasa.com/wp-content/uploads/sidespot/
