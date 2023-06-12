@@ -3,6 +3,7 @@
 ##.AlterVista_Banner
 ##.AlterVista_GoogleAdsense
 ##.banner-adv
+##.sb-box-pubbliredazionale
 ##.sponsorizzati
 ##.yb-floorad
 ##.yobee-adv
@@ -326,7 +327,6 @@
 ##.related-adv
 ##.sal-adv-adsense
 ##.sal-adv-slot
-##.sb-box-pubbliredazionale
 ##.sdbadv
 ##.sidebar-adv
 ##.sidebar-item-adv
