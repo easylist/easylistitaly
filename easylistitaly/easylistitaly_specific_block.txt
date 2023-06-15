@@ -259,6 +259,8 @@
 ||pordenoneoggi.it/wp-content/uploads/*/banner-
 ||ragusanews.com//immagini_banner/
 ||salernoinweb.it/o/sponsor/
+||settecalcio.it//immagini/File_banner/
+||settecalcio.it/immagini/File_banner/
 ||sport24news.it/images/banner/
 ||staffettaonline.com/fcResources/
 ||telenord.it/img/uploads/video/*.mp4
@@ -2620,7 +2622,6 @@
 ||sestonotizie.it^*/BANNER_
 ||sestonotizie.it^*/pentola-d-oro-sesto-san-giovanni.jpg
 ||sestonotizie.it^*/SESTO_360x210.jpg
-||settecalcio.it^*/File_banner/
 ||settimanasport.com^*/150x60_jooble.gif
 ||sevendaysweb.com^*-banner-$domain=dirigentindustria.it
 ||sevendaysweb.com^*-mediabanner.$domain=dirigentindustria.it

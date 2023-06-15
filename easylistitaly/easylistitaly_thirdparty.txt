@@ -13,6 +13,7 @@
 ||imgur.com^$domain=casertasette.com
 ||infodustrie.com/affima.php?
 ||investimenti.bnpparibas.it^$domain=trend-online.com
+||postimg.cc^$domain=settecalcio.it
 ||sorgentenatura.it/data/img/Banner_$third-party
 ||viaggiare.columbusassicurazioni.it^$third-party
 !
@@ -187,7 +188,7 @@
 ||pop.virgilio.us^
 ||popspace.virgilio.us^
 ||pornotizie.com/image/banner/
-||postimg.cc^$domain=funoanalisitecnica.com|napolimagazine.com|settecalcio.it|toscanagol.it
+||postimg.cc^$domain=funoanalisitecnica.com|napolimagazine.com|toscanagol.it
 ||pratoverdecagliari.it/images/banners/$third-party
 ||pressnews.network/banners/
 ||promo.easy-dating.org^
