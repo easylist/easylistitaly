@@ -28,6 +28,7 @@
 ||acspezia.com^*/sponsor/
 ||adozionilibriscolastici.it/advertiser/
 ||adserver.ilgazzettinovesuviano.com^
+||adv-img.edilportale.com^
 ||advtraining.it/img/banner/
 ||advtraining.it/img/banner_
 ||affarienews.it/admin/public/banner/
