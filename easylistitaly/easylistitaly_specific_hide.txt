@@ -175,6 +175,7 @@ art-news.it,calabriareportage.it,lameziaterme.it##.banner-promotions-wrapper
 picenotime.it##.banner-pt-orizzontale-home
 vercellioggi.it##.banner-section
 brindisisettenews.it,leccesette.it##.banner-side
+radioecovicentino.it##.banner-slider
 edicoladigitale.info##.banner-top
 italia-informa.com##.banner250x250interno
 campanialive.it##.banner380x48
