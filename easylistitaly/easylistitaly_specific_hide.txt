@@ -82,9 +82,10 @@ alqamah.it###ppp_overlay
 calabriapost.net,laprovinciakr.it###responsive-banner-slider
 studenti.it###scrolling_element
 parigi2024.coni.it###section-id-1678964502057
+emiliagol.it###sfondo_pop
 allmusicitalia.it###skin
 arezzo24.net###skin-banner
-altoadigegol.it###skinclick
+altoadigegol.it,emiliagol.it###skinclick
 algheronotizie.com,finestresullarte.info###skinlink
 balarm.it,gamereactor.it###sky
 gamereactor.it###sky2_1
@@ -96,7 +97,7 @@ agendapolitica.it###sow-editor-17
 lnd.it###sp-bottom
 lnd.it###sp-sponsor
 aziendabanca.it###sp-top-banner
-canottaggio.org###sponsor
+canottaggio.org,emiliagol.it###sponsor
 buonapesca.it###sponsor-bottom
 staffettaonline.com###sponsored
 altoadige.it,giornaletrentino.it###taboola-below-article-thumbnails-2nd
@@ -993,7 +994,7 @@ iovivoaroma.org###skin_link_dx
 iovivoaroma.org###skin_link_sx
 cronacheancona.it,cronachefermane.it,cronachemaceratesi.it###skinabove
 monrealenews.it###skinbanner
-emiliagol.it,friuligol.it,toscanagol.it###skinclick
+friuligol.it,toscanagol.it###skinclick
 freeonline.org,itvonline.news,lospiffero.com,piazzaffariweb.com,planetmountain.com,primapress.it,salernonotizie.it,torresette.news,verdeazzurronotizie.it###skinlin
 mondocalcionews.it###sky-sidebar
 bisceglielive.it,eurogamer.it,gommadiretto.it,vastoweb.com###skyscraper

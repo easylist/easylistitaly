@@ -214,6 +214,7 @@
 ||elbanotizie.it/img/moby2.png
 ||elbareport.it/images/banners/
 ||elettricomagazine.it/wp-content/banners/
+||emiliagol.it//immagini/File_banner/
 ||emiliagol.it/immagini/File_banner/
 ||emiliagol.it/js/allinone_bannerRotator.js
 ||euroregionalpmed.eu/img/banner/
