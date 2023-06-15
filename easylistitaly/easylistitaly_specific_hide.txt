@@ -269,6 +269,8 @@ assisisport.it##.header-banner
 nauticareport.it##.header-centerbar-ad
 vercellioggi.it##.header-images
 veronavolley.it##.header-title-sponsor
+ecovicentino.it##.home-top-banner-dx
+ecovicentino.it##.home-top-banner-sx
 libero.it##.hp_300x1
 virgilio.it##.hp_300x250
 libero.it,virgilio.it##.hp_970x90
@@ -305,6 +307,7 @@ greenstyle.it##.mxm_wrapper
 calabrianews24.com##.n2-section-smartslider
 ildolomiti.it##.native
 bresciaoggi.it,ilgiornaledivicenza.it,larena.it,radioverona.it,telearena.it,telemantova.it##.nativeadv
+ecovicentino.it##.new_class_eco
 ansa.it##.news-special-box
 italia-informa.com##.newsitemAdv
 diretta.it,flashscore.it##.oddsPlacement
@@ -369,7 +372,7 @@ comunicaffe.it##.strack_bnr
 crotoneok.it##.strack_cli
 motori.it##.strip_agos_link
 bitquotidiano.it##.takeover
-angrinews.com,apsicilia.it,araberara.it,artuu.it,ascolinews.it,battipaglianews.it,bellunopress.it,biancorossi.net,calabriamagnifica.it,casertaweb.com,citynotizie.it,comunicaffe.it,corcianonline.it,cronacadiverona.com,cronachedellacampania.it,elivebrescia.tv,icalabresi.it,ilprimatonazionale.it,isnews.it,ostuninotizie.it,sardegna24.news,trasimenonline.it,triesteallnews.it,udineoggi.news##.td-a-rec
+angrinews.com,apsicilia.it,araberara.it,artuu.it,ascolinews.it,battipaglianews.it,bellunopress.it,biancorossi.net,calabriamagnifica.it,casertaweb.com,citynotizie.it,comunicaffe.it,corcianonline.it,cronacadiverona.com,cronachedellacampania.it,ecovicentino.it,elivebrescia.tv,icalabresi.it,ilprimatonazionale.it,isnews.it,ostuninotizie.it,sardegna24.news,trasimenonline.it,triesteallnews.it,udineoggi.news##.td-a-rec
 italiasera.it,radioroma.it##.td-custom-image
 italianotizie.online##.td-fix-index
 amarantomagazine.it,sangavinomonreale.net##.td_block_single_image
