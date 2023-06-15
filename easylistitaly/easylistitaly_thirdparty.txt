@@ -8,6 +8,8 @@
 ||campingsportmagenta.com/CamperOnline/$third-party
 ||gmdigital.it^*/adplay.js
 ||greenweez.it/data/img/banner-$third-party
+||ibb.co^$domain=marcheingol.it
+||imgbox.com^$domain=marcheingol.it
 ||imgur.com^$domain=casertasette.com
 ||infodustrie.com/affima.php?
 ||investimenti.bnpparibas.it^$domain=trend-online.com
@@ -96,7 +98,6 @@
 ||flywheel.cloud/gallerie/banner/
 ||fotonerd.it/wp-content/uploads/2020/05/offerte-fotografiche.jpg
 ||free.netsons.com^
-||funkyimg.com^$domain=marcheingol.it|settecalcio.it
 ||gaggioso.it^$subdocument,third-party
 ||gbtcdn.com^$domain=lantidiplomatico.it
 ||gelestatic.it^*/adv/
@@ -117,7 +118,7 @@
 ||ilpelonelluovo.net/banner/
 ||iltelaiodipenelope.it/banner_exchange/
 ||imageshack.com^$domain=notiziariocalcio.com
-||imgbox.com^$domain=funoanalisitecnica.com|marcheingol.it|venetogol.it
+||imgbox.com^$domain=funoanalisitecnica.com|venetogol.it
 ||imgix.net/715335a0c32a3a51fd84da3af3c399853fe31204.jpg$domain=videogamezone.eu
 ||imgur.com^$domain=friuligol.it|guardaserie.chat|ilgeniodellostreaming.llc|ilgeniodellostreaming.re|powned.it|venetogol.it
 ||immagineweb.net^$domain=zerosette.it

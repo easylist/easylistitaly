@@ -8,6 +8,7 @@
 ##.yb-floorad
 ##.yobee-adv
 ##a[href^="https://adv.presscommtech.com/"]
+##a[href^="https://book-of-ra-online.it/"]
 ##av-adv-slot
 ##div[class^="rtbuzz_"]
 ##div[id^="rtbuzz_"]
