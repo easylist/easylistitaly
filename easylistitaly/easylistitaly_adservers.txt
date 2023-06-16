@@ -1,4 +1,6 @@
 ||ad4m.at^$third-party
+||delosnetwork.it^$third-party
+||eadv.it^$third-party
 ||natexo-programmatic.com^$third-party
 ||rtbuzz.net^
 ||shoppydoo.com^
@@ -50,10 +52,8 @@
 ||consigli.it^$third-party
 ||coreg-feed.com^$third-party
 ||crmpilot.it^$third-party
-||delosnetwork.it^$third-party
 ||digitalbees.it^$third-party
 ||disploot.com^$third-party
-||eadv.it^$third-party
 ||easymarketcrs.it^$third-party
 ||ebuzzing.it^$third-party
 ||edinetadv.com^$third-party

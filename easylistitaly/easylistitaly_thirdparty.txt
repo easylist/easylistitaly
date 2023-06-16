@@ -15,6 +15,7 @@
 ||investimenti.bnpparibas.it^$domain=trend-online.com
 ||postimg.cc^$domain=settecalcio.it
 ||sorgentenatura.it/data/img/Banner_$third-party
+||venerota.it/lcn_jpg.php$third-party
 ||viaggiare.columbusassicurazioni.it^$third-party
 !
 ||24hassistance.com^*/banner_$third-party
@@ -247,7 +248,6 @@
 ||upcom.it^*/banner/
 ||uplink.aruba.it^$third-party
 ||uzi.it/b/
-||venerota.it/lcn_jpg.php$third-party
 ||viagogo.it/feeds/widget.ashx?*&affiliateid=$subdocument
 ||viralize.tv/display/$script,domain=teleborsa.it
 ||visitbritainshop.com^$image,third-party
