@@ -279,6 +279,7 @@ allmusicitalia.it##.iframe-adv
 cinquecolonne.it##.image-widget-wrapper-outer
 emiliaeunanotte.it##.inserzione_pubblicitaria
 corrierenazionale.it##.jetpack-image-container
+nextpit.it##.jobbioapp
 beneventocalcio.club##.kode-partner
 libero.it##.lancio_promo
 blablive.com##.leader-wrap-out
