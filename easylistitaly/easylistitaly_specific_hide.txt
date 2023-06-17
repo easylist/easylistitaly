@@ -139,6 +139,7 @@ condominioweb.com##.addv
 brocardi.it,buildnews.it,filmpertutti.boo,legab.it,radiogold.it##.ads
 ildolomiti.it##.adsB
 corrieredellacalabria.it##.ads_corriere
+daninseries.it##.adunit-mark
 altoadigetv.it,ansa.it,ilfattoquotidiano.it,ilpost.it,libero.it,supereva.it,trentinotv.it,virgilio.it##.adv
 calciobresciano.it##.adv-big-article-card
 corrieredellumbria.it,corrierediarezzo.it,corrieredisiena.it##.adv-big2
