@@ -4,6 +4,7 @@
 ##.AlterVista_GoogleAdsense
 ##.banner-adv
 ##.sb-box-pubbliredazionale
+##.slyvi-ads-inserter-ad-unit
 ##.sponsorizzati
 ##.yb-floorad
 ##.yobee-adv

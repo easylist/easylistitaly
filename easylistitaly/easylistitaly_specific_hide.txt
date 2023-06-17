@@ -50,7 +50,7 @@ diretta.it,flashscore.it###box-over-content-a
 alqamah.it###bp-sf-container
 comune-info.net###campagnelead2
 comune-info.net###campagnesquare2
-blunote.it,bolognasportnews.it###carousel-sponsors-list
+blunote.it,bolognasportnews.it,ilpallonegonfiato.it###carousel-sponsors-list
 radiogold.it###click-piemonte
 meteotrentinoaltoadige.it###column-id-1539954322953
 supereva.it,virgilio.it###cont-wallpaper
