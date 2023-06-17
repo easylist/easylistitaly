@@ -251,7 +251,7 @@ brindisitime.it##.elementor-element-6f94cf90
 brindisitime.it##.elementor-element-7df2ea5
 newslinet.com##.elementor-element-c3fb427
 bussolafinanziaria.it##.elementor-element-d185417
-calabria7.it##.elementor-popup-modal
+calabria7.it,newslinet.com##.elementor-popup-modal
 corriereproposte.it##.eventi_associati
 fortuneita.com##.fb-banner
 staffettaonline.com##.fcRes
