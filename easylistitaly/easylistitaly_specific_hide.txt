@@ -154,6 +154,7 @@ mondopadano.it##.advblock
 caneogolf.it##.advbox
 arezzotv.it,bicimagazine.it,podisti.net##.advert
 corrieredellumbria.it,corrierediarezzo.it,corrieredisiena.it##.advertisement
+dauniacom.it##.advt-col
 agi.it##.agi-ad-wrap
 chiamamicitta.it##.ai-rotate
 chiamamicitta.it##.ai-viewport-1
