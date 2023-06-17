@@ -1,5 +1,6 @@
 ###eadv-billboard
 ###video-evo-player.player_evolution
+###yobee-top-page
 ##.AlterVista_Banner
 ##.AlterVista_GoogleAdsense
 ##.banner-adv
@@ -7,6 +8,7 @@
 ##.slyvi-ads-inserter-ad-unit
 ##.sponsorizzati
 ##.yb-floorad
+##.yb-sticky
 ##.yobee-adv
 ##a[href^="https://adv.presscommtech.com/"]
 ##a[href^="https://book-of-ra-online.it/"]
