@@ -225,7 +225,7 @@ empolifc.com##.c-footer__sponsors-container
 assisieventi.it##.carousel
 ilfattoquotidiano.it##.cc-adv-wrapper
 telenord.it##.click-foto
-avvisatore.com,bottadiculo.it,calabrianews24.com,clubdoria46.it,ok-salute.it##.code-block
+avvisatore.com,bottadiculo.it,calabrianews24.com,casasuper.it,clubdoria46.it,ok-salute.it##.code-block
 picenotime.it##.col-12.col-lg-6
 picenotime.it##.col-12.col-sm-4.py-3
 edilportale.com##.cont-leaderBoard
