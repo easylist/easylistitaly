@@ -1,7 +1,7 @@
 ||1001giochi.it/bfb/
 ||104news.it^*/BANNER-
 ||105tv.it^*/banners/
-||24emilia.com^*banner
+||24emilia.com/wp-content/uploads/*/banner-
 ||24live.it/wp-content/uploads/*/carter.gif
 ||24newsonline.it/images/*_banner_
 ||24newsonline.it/images/banner/
@@ -221,6 +221,8 @@
 ||emiliagol.it/js/allinone_bannerRotator.js
 ||euroregionalpmed.eu/img/banner/
 ||euroregionalpmed.eu/js/clickBanner_
+||eurostreaming.beauty/gcode.js
+||eurostreaming.soy/300.gif
 ||fantacalciopedia.com/img/banner_
 ||fantascientificast.com/partner/
 ||fortune.it/images/all-studio-2017.jpg
@@ -287,13 +289,6 @@
 ||datameteo.com^*/clickday.jpg
 ||datameteo.com^*/logo-scamuzzi.png
 ||datameteo.com^*/una-mano-per-i-bambini-onlus.png
-||expartibus.it^*/bannerep-
-||expartibus.it^*/CASA_AMICA.png
-||expartibus.it^*/doppia_DIFESA.png
-||expartibus.it^*/ferrerehouse.jpg
-||expartibus.it^*/LILT.png
-||expartibus.it^*/ortopediacaserta.jpg
-||expartibus.it^*/UNICEF.png
 ||extra.treddi.com^
 ||facile.it^*/banner/
 ||fantascienzaitalia.com^*/banner-
@@ -3603,14 +3598,6 @@
 ||wp.com/www.medicalexcellencetv.it/*_300x100.
 ||wp.com/www.medicalexcellencetv.it/*_600x500.
 ||wp.com/www.meganerd.it/*/MNERD15685.png
-||wp.com/www.napolisera.it/*/assistenza_infermieristica_anziani.png
-||wp.com/www.napolisera.it/*/basile.jpg
-||wp.com/www.napolisera.it/*/geometra-caiazzo.jpg
-||wp.com/www.napolisera.it/*/kidney.jpg
-||wp.com/www.napolisera.it/*/labriola.jpg
-||wp.com/www.napolisera.it/*/logo.jpg
-||wp.com/www.napolisera.it/*/malasanita2.jpg
-||wp.com/www.napolisera.it/*/studio-savoia.jpg
 ||wp.com/www.nerdpool.it/*/bg-vendiloshop-
 ||wp.com/www.oggicronaca.it/*/comune3.jpg
 ||wp.com/www.oggicronaca.it/*/divisionismolarge.gif

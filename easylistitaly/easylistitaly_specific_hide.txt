@@ -302,6 +302,7 @@ lupopornohd.it##.lnks-land
 nauticareport.it##.lozad
 lupopornohd.it##.lst_ft_bn
 corrieredellumbria.it,corrierediarezzo.it,corrieredisiena.it##.manchettes
+24emilia.com##.marquee0
 radiogold.it##.max-banner-top
 ilmeteo.net##.megabanner
 anisearch.it##.merchandise
@@ -1231,7 +1232,7 @@ fidal.it##.add-logo
 informagiovani-italia.com##.add_left
 spagna.cc##.add_top
 offertevolantini.it##.add_w2_h1
-24emilia.com,antennafebea.it,autoscout24.ch,casacinema.media,eurostreaming.vote,filmpertutti.bar,filmpertutti.center,filmpertutti.homes,filmpertutti.kim,filmpertutti.onl,filmpertutti.sbs,filmsenzalimiti.blog,gamemag.it,hdblog.it,hdmotori.it,hdtroll.it,ilgeniodellostreaming.quest,ilikepuglia.it,immaginicompleanno.com,liberta.it,live-sport-tv.it,mattinonline.ch,orizzontescuola.it,ravennaeventi.net,sitigiochi.it,startmag.it,viamichelin.ch,viamichelin.it,voce.com.ve,yuvideos.com,zazoom.it##.ads
+antennafebea.it,autoscout24.ch,casacinema.media,eurostreaming.vote,filmpertutti.bar,filmpertutti.center,filmpertutti.homes,filmpertutti.kim,filmpertutti.onl,filmpertutti.sbs,filmsenzalimiti.blog,gamemag.it,hdblog.it,hdmotori.it,hdtroll.it,ilgeniodellostreaming.quest,ilikepuglia.it,immaginicompleanno.com,liberta.it,live-sport-tv.it,mattinonline.ch,orizzontescuola.it,ravennaeventi.net,sitigiochi.it,startmag.it,viamichelin.ch,viamichelin.it,voce.com.ve,yuvideos.com,zazoom.it##.ads
 investireoggi.it##.ads-container
 motorionline.com##.adsbox
 amalfinews.it,beatgogo.it,cetaranews.it,chistachiamando.it,ilportico.it,ilvescovado.it,liratv.it,occhisusalerno.it,pcprofessionale.it,positanonotizie.it,ravellonotizie.it,trova-aperto.it,valtellinamobile.it##.adsense
@@ -2032,7 +2033,6 @@ gazzettadellaspezia.it,gazzettadellemilia.it,noinotizie.it##.manchette-dx
 gazzettadellaspezia.it,gazzettadellemilia.it,noinotizie.it##.manchette-sx
 winenews.it##.manchette_l
 winenews.it##.manchette_r
-24emilia.com##.marquee0
 everyeye.it##.masted
 irpinianews.it,wallnews24.it##.master-slider-parent
 ecoo.it##.masterhead-container-column
