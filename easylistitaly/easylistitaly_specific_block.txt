@@ -205,6 +205,7 @@
 ||dichesegnosei.it/images/banners/
 ||digitalic.it/wp-content/uploads/*/skin_
 ||dirittodicronaca.it/images/banners/
+||dirittoegiustizia.it/assets/js/banners-script/
 ||djmagitalia.com/wp-content/uploads/*-banner-
 ||dossier.net/risorse/img/2010-rettangolo-336x280.js
 ||earone.it/themes/banner/
