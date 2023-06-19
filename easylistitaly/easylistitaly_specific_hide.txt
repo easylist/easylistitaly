@@ -266,6 +266,7 @@ cagliaricalcio.com##.footer-sponsors
 caneogolf.it##.footerADVping
 atalanta.it##.footer__sponsor
 palermofc.com##.footer_int
+dozenblogs.com##.fw-block-image-parent
 algheroeco.com,almanaccocalciotoscano.it,amicodelpopolo.it,anteprima24.it,battipaglia1929.it,bitquotidiano.it,bolognaindiretta.it,borsainside.com,buoncalcioatutti.it,calabriareportage.it,calciofvg.live,canale2.com,castelvetranoselinunte.it,centropagina.it,corriereal.info,corrieresalentino.it,dronezine.it,elettricomagazine.it,giornaleadige.it,lacasainordine.it,lameziaterme.it,meteofinanza.com,modenaindiretta.it,pugliapress.org,rietinvetrina.it##.g
 diretta.it,flashscore.it##.gamble
 asgiana.com,calciolecco1912.com##.gdlr-banner-item-wrapper
