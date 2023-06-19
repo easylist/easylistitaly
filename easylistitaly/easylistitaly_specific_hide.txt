@@ -199,6 +199,7 @@ bolina.it,misterstudent.tv,ornews.it,salernoinweb.it,stellafm.it##.banner_top
 bicisupermarket.it##.banner_width
 corriereal.info##.banner_wrapper
 aostaoggi.it,archivio.ilfriuliveneziagiulia.it,arezzo24.net,aziendabanca.it,biancoebruno.it,casertafocus.net,concorezzo.org,corriereincontri.it,cralistruzione.it,dichesegnosei.it##.bannergroup
+doppiozero.com##.bannerini
 bagherianews.com,corriereannunci.it,corrierenews.it,corriereproposte.it,dedalomultimedia.it,elbareport.it##.banneritem
 assisisport.it##.banners
 biancoebruno.it##.bannertop
