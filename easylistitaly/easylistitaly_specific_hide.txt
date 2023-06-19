@@ -419,6 +419,7 @@ androidblog.it,aroundtheworld.pro,assisisport.it,berlinomagazine.com,bollicinevi
 24live.it,amarantomagazine.it,areamediapress.it,aroundtheworld.pro,bambiniconlavaligia.com,blograffo.net,bsnews.it,calabriamagnifica.it,calciogoal.it,castingeprovini.com,cataniavip.it,catanzaro7.net,chepreparo.it,citymilanonews.com,coriglianocalabro.it,corrierepievese.it,corrispondenzaromana.it,crotoneok.it,dayitalianews.com,dentrolanotizia.tv,ecodisicilia.com,energiaincomune.com,esportsactivity.com,evangelici.net,ladriatico.info,siciliatv.org,signorbet.news,tgyou24.it,tuttojuve.net,universoinformatico24.it##.widget_media_image
 catanzaro7.net##.widget_media_video
 biancavillaoggi.it##.widget_random_banner_widget
+dozenblogs.com##.widget_sow-image
 agropolinews.it,corrieregiallorosso.com,emotionrit.it##.widget_sp_image
 clientiesperti.it,computer-acquisti.com,corrieregiallorosso.com,ilpost.it##.widget_text
 alqamah.it##.widget_xyz_insert_php_widget
