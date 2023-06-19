@@ -258,6 +258,7 @@ staffettaonline.com##.fcRes
 staffettaonline.com##.fcResContLati
 castelvetranonews.it##.fixbottom
 beneventocalcio.it,podisti.net##.flexbannergroup
+entella.it##.flexslider
 udinese.it##.foobar-sponsor
 caleno24ore.it##.footer-firstrow
 cagliaricalcio.com##.footer-sponsors
