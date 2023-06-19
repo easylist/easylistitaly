@@ -228,6 +228,7 @@
 ||fortune.it/images/all-studio-2017.jpg
 ||fortune.it/images/all.jpg
 ||fortune.it/images/allstudio-mani-dep.jpg
+||fortune.it/images/banner-giallo.gif
 ||fortune.it/images/ritratti-rosso.gif
 ||fortuneita.com^*/banners.js
 ||forum.audirsclub.it/images/banners/
