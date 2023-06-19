@@ -262,6 +262,7 @@ beneventocalcio.it,podisti.net##.flexbannergroup
 entella.it##.flexslider
 udinese.it##.foobar-sponsor
 caleno24ore.it##.footer-firstrow
+figc.it##.footer-loghi
 cagliaricalcio.com##.footer-sponsors
 caneogolf.it##.footerADVping
 atalanta.it##.footer__sponsor
