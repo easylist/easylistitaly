@@ -253,6 +253,7 @@ newslinet.com##.elementor-element-c3fb427
 bussolafinanziaria.it##.elementor-element-d185417
 calabria7.it,newslinet.com##.elementor-popup-modal
 corriereproposte.it##.eventi_associati
+exibart.com##.exibart_banner
 fortuneita.com##.fb-banner
 staffettaonline.com##.fcRes
 staffettaonline.com##.fcResContLati
