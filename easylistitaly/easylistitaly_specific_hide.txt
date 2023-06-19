@@ -269,6 +269,7 @@ algheroeco.com,almanaccocalciotoscano.it,amicodelpopolo.it,anteprima24.it,battip
 diretta.it,flashscore.it##.gamble
 asgiana.com,calciolecco1912.com##.gdlr-banner-item-wrapper
 italia-informa.com##.giapPageAdvCont
+estrazionedellotto.it##.giocaBox
 goriziaoggi.news##.goriz-widget
 teamworld.it##.gpt-sticky
 sorrisi.com##.gtv-trigger-elevator
@@ -355,6 +356,7 @@ greenstyle.it##.section-sticky-rail
 comunicalo.it,coriglianocalabro.it,crotoneok.it##.sgpb-popup-dialog-main-div-wrapper
 comunicalo.it,coriglianocalabro.it,crotoneok.it##.sgpb-popup-overlay
 assisieventi.it##.side_banners
+estrazionedellotto.it##.sidebar-right
 sicurauto.it##.sidebar-sticky-top
 cosedicasa.com##.sidespot-wrapper
 animeclick.it##.skin
@@ -438,6 +440,7 @@ digital-news.it##a[href*="/skynetflix"]
 borsainside.com,cartaricaricabile.net##a[href*="/vai/"]
 archiportale.com##a[href^="/click.asp?Url="]
 codedaze.me##a[href^="/go.php?"]
+estrazionedellotto.it##a[href^="/it/gioca/"]
 blunote.it##a[href^="http://sitiscommesse.info/"]
 comprovendolibri.it##a[href^="https://affiliati.celai.it/"]
 settecalcio.it##a[href^="https://casinohex.it/"]
