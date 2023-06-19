@@ -207,6 +207,7 @@
 ||dirittodicronaca.it/images/banners/
 ||dirittoegiustizia.it/assets/js/banners-script/
 ||djmagitalia.com/wp-content/uploads/*-banner-
+||doppiozero.com^*/r_banner_box_d/
 ||dossier.net/risorse/img/2010-rettangolo-336x280.js
 ||earone.it/themes/banner/
 ||ecodellasabina.it/public/publicitas/

@@ -46,6 +46,9 @@ entella.it###barra_click_sx
 entella.it###barra_click_top
 forum.tomshw.it###belowfirstpost
 bergamoesport.it,informazionefiscale.it###billboard
+doppiozero.com###block-views-block-banner-inserzionisti-block-banner-box-inser
+doppiozero.com###block-views-block-banner-inserzionisti-block-banner-box-inserz-2
+doppiozero.com###block-views-block-banner-inserzionisti-block-banner-box-inserzionisti
 diretta.it,flashscore.it###box-over-content-a
 alqamah.it###bp-sf-container
 comune-info.net###campagnelead2
