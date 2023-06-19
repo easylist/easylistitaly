@@ -105,7 +105,7 @@ agendapolitica.it###sow-editor-17
 lnd.it###sp-bottom
 lnd.it###sp-sponsor
 aziendabanca.it###sp-top-banner
-canottaggio.org,emiliagol.it###sponsor
+canottaggio.org,divisionecalcioa5.it,emiliagol.it###sponsor
 buonapesca.it###sponsor-bottom
 staffettaonline.com###sponsored
 altoadige.it,giornaletrentino.it###taboola-below-article-thumbnails-2nd
