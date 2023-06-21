@@ -99,6 +99,7 @@ algheronotizie.com,finestresullarte.info###skinlink
 balarm.it,gamereactor.it###sky
 gamereactor.it###sky2_1
 gamereactor.it###sky2_2
+bianconeranews.it###slimbanner
 mail1.libero.it###slink-dx
 mail1.libero.it###slink-sx
 casateonline.it,leccoonline.com,merateonline.it###sottotestata
