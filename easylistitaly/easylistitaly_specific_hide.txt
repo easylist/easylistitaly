@@ -144,7 +144,7 @@ brocardi.it,buildnews.it,filmpertutti.boo,legab.it,radiogold.it##.ads
 ildolomiti.it##.adsB
 corrieredellacalabria.it##.ads_corriere
 daninseries.it##.adunit-mark
-altoadigetv.it,ansa.it,ilfattoquotidiano.it,ilpost.it,libero.it,supereva.it,trentinotv.it,virgilio.it##.adv
+altoadigetv.it,ansa.it,fattoincasadabenedetta.it,ilfattoquotidiano.it,ilpost.it,libero.it,supereva.it,trentinotv.it,virgilio.it##.adv
 calciobresciano.it##.adv-big-article-card
 corrieredellumbria.it,corrierediarezzo.it,corrieredisiena.it##.adv-big2
 editorialedomani.it##.adv-placeholder
@@ -370,6 +370,7 @@ catanzaroinforma.it##.sb-box-pubbliredazionale
 greenstyle.it##.section-sticky-rail
 comunicalo.it,coriglianocalabro.it,crotoneok.it##.sgpb-popup-dialog-main-div-wrapper
 comunicalo.it,coriglianocalabro.it,crotoneok.it##.sgpb-popup-overlay
+fattoincasadabenedetta.it##.side-adv-group
 assisieventi.it##.side_banners
 estrazionedellotto.it##.sidebar-right
 sicurauto.it##.sidebar-sticky-top
