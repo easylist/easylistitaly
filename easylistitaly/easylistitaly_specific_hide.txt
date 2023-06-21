@@ -135,7 +135,7 @@ iltquotidiano.it##.PaddingPubb
 iltquotidiano.it##.Posizione-Home-Grande
 iltquotidiano.it##.SkinMobile
 camping.it##.XBPos
-anteprima24.it,araberara.it,centotrentuno.com,djmagitalia.com,dronezine.it,feelrouge.tv,meteofinanza.com##.a-single
+anteprima24.it,araberara.it,centotrentuno.com,djmagitalia.com,dronezine.it,farevela.net,feelrouge.tv,meteofinanza.com##.a-single
 badtaste.it,supertv.it##.ad-container
 confinelive.it##.adcontainer
 fidal.it##.add-logo

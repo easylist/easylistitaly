@@ -13,6 +13,7 @@
 ||imgur.com^$domain=casertasette.com
 ||infodustrie.com/affima.php?
 ||investimenti.bnpparibas.it^$domain=trend-online.com
+||italycharter.it/searchwidget$third-party
 ||postimg.cc^$domain=settecalcio.it
 ||sorgentenatura.it/data/img/Banner_$third-party
 ||venerota.it/lcn_jpg.php$third-party
