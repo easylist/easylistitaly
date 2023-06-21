@@ -223,6 +223,7 @@
 ||fantascientificast.com/partner/
 ||fantascienzaitalia.com/wp-content/uploads/*/banner-
 ||fcprovercelli.it/images/images/banner/
+||feralpisalo.it/images/sponsors/
 ||feralpisalo.it/img/sponsor/
 ||fidaf.org/public/sponsor/
 ||fidal.it/upload/sponsor/

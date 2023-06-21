@@ -387,7 +387,7 @@ betitaliaweb.it##.space-organizations-home-8-widget
 betitaliaweb.it##.space-shortcode-wrap-ins
 ilfattoquotidiano.it##.special
 comingsoon.it##.sponPro
-bolzano-bozen.it,calciofvg.live,legab.it##.sponsor
+bolzano-bozen.it,calciofvg.live,feralpisalo.it,legab.it##.sponsor
 cagliarilivemagazine.it##.sponsor-associati
 assoallenatori.it##.sponsor-container
 zebreparma.it##.sponsor-wrapper
