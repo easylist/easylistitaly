@@ -50,6 +50,7 @@ doppiozero.com###block-views-block-banner-inserzionisti-block-banner-box-inser
 doppiozero.com###block-views-block-banner-inserzionisti-block-banner-box-inserz-2
 doppiozero.com###block-views-block-banner-inserzionisti-block-banner-box-inserzionisti
 diretta.it,flashscore.it###box-over-content-a
+rollingstone.it###box-wolf
 alqamah.it###bp-sf-container
 comune-info.net###campagnelead2
 comune-info.net###campagnesquare2
@@ -308,6 +309,7 @@ emiliaeunanotte.it##.inserzione_pubblicitaria
 corrierenazionale.it##.jetpack-image-container
 nextpit.it##.jobbioapp
 beneventocalcio.club##.kode-partner
+rollingstone.it##.l-home-branded-block
 libero.it##.lancio_promo
 blablive.com##.leader-wrap-out
 castelvetranonews.it##.liban
