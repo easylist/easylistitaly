@@ -234,6 +234,7 @@ corrieredellumbria.it,corrierediarezzo.it,corrieredisiena.it##.bxsliderAdv
 empolifc.com##.c-footer__sponsors-container
 assisieventi.it##.carousel
 ilfattoquotidiano.it##.cc-adv-wrapper
+fitp.it##.cc-content-sponsor
 telenord.it##.click-foto
 avvisatore.com,bottadiculo.it,calabrianews24.com,casasuper.it,clubdoria46.it,ok-salute.it##.code-block
 picenotime.it##.col-12.col-lg-6

@@ -233,6 +233,7 @@
 ||filmstreaming.page/it.gif
 ||filmstreaming.page/sc.png
 ||filmstreaming.page/strem.png
+||fitp.it/media_contents/partner/
 ||fortune.it/images/all-studio-2017.jpg
 ||fortune.it/images/all.jpg
 ||fortune.it/images/allstudio-mani-dep.jpg
