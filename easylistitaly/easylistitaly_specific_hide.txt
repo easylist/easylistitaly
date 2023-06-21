@@ -245,7 +245,7 @@ ascolicalcio1898.it##.cqcarousel-container
 ilmeteo.net##.creatividad
 corriere.ca##.ct-code-block
 meteofinanza.com##.custom-cta-container
-carpicalcio.it##.custom-html-widget
+carpicalcio.it,fashionandroid.com##.custom-html-widget
 calciostyle.it##.d-block
 diretta.it,flashscore.it##.detailLeaderboard
 0766news.it,umbriaon.it##.dfad
