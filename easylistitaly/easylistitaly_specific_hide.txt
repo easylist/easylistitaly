@@ -271,6 +271,7 @@ fortuneita.com##.fb-banner
 staffettaonline.com##.fcRes
 staffettaonline.com##.fcResContLati
 castelvetranonews.it##.fixbottom
+pisasportingclub.com##.flex-contents-sponsor
 beneventocalcio.it,podisti.net##.flexbannergroup
 entella.it##.flexslider
 finaria.it##.floatingbanner
