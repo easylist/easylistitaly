@@ -325,6 +325,7 @@ lupopornohd.it##.lnks-land
 federgolf.it##.loghi
 nauticareport.it##.lozad
 lupopornohd.it##.lst_ft_bn
+fip.it##.main-sponsors
 corrieredellumbria.it,corrierediarezzo.it,corrieredisiena.it##.manchettes
 24emilia.com##.marquee0
 radiogold.it##.max-banner-top
@@ -353,6 +354,7 @@ diretta.it,flashscore.it##.oddsPlacement
 boatindustry.it,boatsnews.it,pescare.news##.p
 nostrofiglio.it##.par-listing-collab
 fc-suedtirol.com,ragusanews.com##.partner
+fip.it##.partners
 evosmart.it##.penci-banner-box
 milanofinanza.it##.pimcobox
 cagliarinews24.com,calcionews24.com,futsalnews24.com,internews24.com,juventusnews24.com,lazionews24.com,milannews24.com,sampnews24.com##.placeholder
