@@ -1,4 +1,3 @@
-nauticareport.it###BanBG
 trend-online.com###CONT_D_1
 trend-online.com###CONT_T
 comprovendolibri.it###CVLR_banner_ADX
@@ -446,7 +445,7 @@ biancavillaoggi.it##.widget_random_banner_widget
 104news.it##.widget_simpleimage
 dozenblogs.com##.widget_sow-image
 agropolinews.it,corrieregiallorosso.com,emotionrit.it##.widget_sp_image
-clientiesperti.it,computer-acquisti.com,corrieregiallorosso.com,domanidoveandiamo.it,filmforlife.org,finaria.it,ilpost.it##.widget_text
+clientiesperti.it,computer-acquisti.com,corrieregiallorosso.com,domanidoveandiamo.it,filmforlife.org,finaria.it,ilpost.it,pisa24.info##.widget_text
 alqamah.it##.widget_xyz_insert_php_widget
 bresciasat.it##.workspace__block--sponsor
 24live.it,areamediapress.it##.wp-block-image
