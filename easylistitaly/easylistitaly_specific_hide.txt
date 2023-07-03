@@ -124,6 +124,7 @@ animeclick.it###wrapper
 calabrianews.it###yobee-top-page
 iltquotidiano.it##.ADS
 ilmanifesto.it##.Adv
+fotonerd.it##.Amazon
 comprovendolibri.it##.BB14
 comolive.it,resegoneonline.it,valtellinanews.it##.Banner
 cinemaitaliano.info##.Banner01
@@ -527,6 +528,7 @@ ekuonews.it##div[id^="ekuon-"]
 assisieventi.it##div[id^="evassisi-"]
 finanzareport.it##div[id^="finan-"]
 firstonline.info##div[id^="first-"]
+fotonerd.it##div[id^="fotonerd-"]
 insic.it##div[id^="insic-"]
 mantovauno.it##div[id^="manto-"]
 crotoneok.it##div[id^="mdl-"]
