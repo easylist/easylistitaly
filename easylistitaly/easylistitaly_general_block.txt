@@ -1,5 +1,6 @@
 -banner-pubblicitario-
 .it/adv/
+/TiscaliADV_
 !
 -000Pubblicita-
 -000pubblicita.
@@ -73,7 +74,6 @@
 /sponsorizzate.
 /tiscali_ads.
 /tiscaliAds/*
-/TiscaliADV_
 /xbanner-pubblicitario-
 _adv300x250.
 _adv300x250_

@@ -9,12 +9,12 @@
 ||gmdigital.it^*/adplay.js
 ||greenweez.it/data/img/banner-$third-party
 ||ibb.co^$domain=marcheingol.it
-||imgbox.com^$domain=marcheingol.it
-||imgur.com^$domain=casertasette.com
+||imgbox.com^$domain=marcheingol.it|venetogol.it
+||imgur.com^$domain=casertasette.com|friuligol.it|venetogol.it
 ||infodustrie.com/affima.php?
 ||investimenti.bnpparibas.it^$domain=trend-online.com
 ||italycharter.it/searchwidget$third-party
-||postimg.cc^$domain=settecalcio.it
+||postimg.cc^$domain=napolimagazine.com|settecalcio.it|toscanagol.it
 ||sorgentenatura.it/data/img/Banner_$third-party
 ||venerota.it/lcn_jpg.php$third-party
 ||viaggiare.columbusassicurazioni.it^$third-party
@@ -122,9 +122,7 @@
 ||ilpelonelluovo.net/banner/
 ||iltelaiodipenelope.it/banner_exchange/
 ||imageshack.com^$domain=notiziariocalcio.com
-||imgbox.com^$domain=funoanalisitecnica.com|venetogol.it
 ||imgix.net/715335a0c32a3a51fd84da3af3c399853fe31204.jpg$domain=videogamezone.eu
-||imgur.com^$domain=friuligol.it|guardaserie.chat|ilgeniodellostreaming.llc|ilgeniodellostreaming.re|powned.it|venetogol.it
 ||immagineweb.net^$domain=zerosette.it
 ||immobiliagest.it^$subdocument,third-party
 ||immobiliare.it/widget/$third-party
@@ -132,7 +130,6 @@
 ||immobz.it^*/banner.aspx?
 ||incontripersesso.com/banner/
 ||incontriticino.com/promo/
-||info.manpower.it^$domain=funoanalisitecnica.com
 ||infomaniak.ch/promotional/$third-party
 ||insicilia.com/banner/
 ||insicilia.com/modules/psaffiliate/
@@ -163,8 +160,6 @@
 ||middycdn-a.akamaihd.net^
 ||mmvid.s3.amazonaws.com^
 ||mytrend.it/gifs/banner/
-||napolimagazine.blob.core.windows.net/banner-
-||napolimagazine.blob.core.windows.net/skin-
 ||nencinisport.it/scambio/banner_$third-party
 ||neonisi.com^*/items.external?$third-party
 ||netrefer-a.akamaihd.net^
@@ -191,7 +186,6 @@
 ||pop.virgilio.us^
 ||popspace.virgilio.us^
 ||pornotizie.com/image/banner/
-||postimg.cc^$domain=funoanalisitecnica.com|napolimagazine.com|toscanagol.it
 ||pratoverdecagliari.it/images/banners/$third-party
 ||pressnews.network/banners/
 ||promo.easy-dating.org^
