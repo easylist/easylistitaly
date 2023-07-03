@@ -96,7 +96,7 @@ emiliagol.it###sfondo_pop
 allmusicitalia.it,corrieredellosport.it,tuttosport.com###skin
 arezzo24.net###skin-banner
 altoadigegol.it,emiliagol.it,friuligol.it,toscanagol.it###skinclick
-algheronotizie.com,finestresullarte.info,freeonline.org###skinlink
+algheronotizie.com,comunicati-stampa.net,finestresullarte.info,freeonline.org###skinlink
 balarm.it,gamereactor.it###sky
 gamereactor.it###sky2_1
 gamereactor.it###sky2_2
