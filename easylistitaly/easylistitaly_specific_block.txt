@@ -254,6 +254,8 @@
 ||fpi.it/images/banners/
 ||freeonline.org/img/banner/
 ||fremondoweb.com/wp-content/uploads/*/banner_
+||freshplaza.it^*/b/
+||freshplaza.it^*/banners/
 ||friuligol.it/js/allinone_bannerRotator.js
 ||giornaleadige.it/wp-content/banners/
 ||ilroma.net/sites/default/files/SKIN_
