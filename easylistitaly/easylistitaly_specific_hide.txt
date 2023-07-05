@@ -232,6 +232,7 @@ altoadige.it,giornaletrentino.it##.bg300x250
 lagazzettadelmezzogiorno.it##.bgbanner
 antenna1.fm##.bloc-pub
 cascinanotizie.it##.block-block
+lavocedimanduria.it##.block-first-ads
 ilroma.net##.block-rotating-banner
 html.it##.blz-url
 corriereirpinia.it##.body-link-padding
