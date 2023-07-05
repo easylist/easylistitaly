@@ -1852,6 +1852,7 @@ focus.it##.foc-coupon
 animaliconla.it##.footer-banner
 ilmiostiledivita.it,incucinaconnonnaanna.it,lamiacasadolcecasa.it,nonsoloautoemoto.it##.footer-columns
 lega-pro.com##.footer-partner
+genoacfc.it##.footer-partners
 hellasverona.it,hellasveronawomen.it##.footer-sponsor
 nbv-verona.it##.footer-sponsor-line
 bresciacalcio.it,olbiacalcio.com##.footer-sponsors
