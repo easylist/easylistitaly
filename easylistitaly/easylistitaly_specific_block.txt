@@ -262,6 +262,7 @@
 ||gardapost.it/wp-content/uploads/*/banner-
 ||garedepoca.com/grafica/banner_
 ||gazzettabenevento.it/Sito2009/image/banner/
+||gazzettadellaspezia.com/images/banners/
 ||gazzettadellemilia.it/images/banners/
 ||giornaleadige.it/wp-content/banners/
 ||ilroma.net/sites/default/files/SKIN_

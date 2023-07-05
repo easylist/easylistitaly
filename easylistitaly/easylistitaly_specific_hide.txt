@@ -31,6 +31,7 @@ empresite.it,reteimprese.it###afscontainer2
 direttafacile.it###annuncidiv
 altarimini.it###attivitaEvidenza
 brocardi.it###background-head-spacer
+gazzettadellaspezia.com###banner-cornice
 camperlife.it###banner-home-column
 edilportale.com###bannerTopWrapper
 camperlife.it###banner_2
@@ -220,7 +221,7 @@ fidaf.org##.banner_tab380
 bolina.it,misterstudent.tv,ornews.it,salernoinweb.it,stellafm.it##.banner_top
 bicisupermarket.it##.banner_width
 corriereal.info##.banner_wrapper
-105tv.it,aostaoggi.it,archivio.ilfriuliveneziagiulia.it,arezzo24.net,aziendabanca.it,biancoebruno.it,casertafocus.net,concorezzo.org,corriereincontri.it,cralistruzione.it,dichesegnosei.it,fcprovercelli.it,fiumicino-online.it,gazzettadellemilia.it##.bannergroup
+105tv.it,aostaoggi.it,archivio.ilfriuliveneziagiulia.it,arezzo24.net,aziendabanca.it,biancoebruno.it,casertafocus.net,concorezzo.org,corriereincontri.it,cralistruzione.it,dichesegnosei.it,fcprovercelli.it,fiumicino-online.it,gazzettadellaspezia.com,gazzettadellemilia.it##.bannergroup
 filmforlife.org##.bannerh
 doppiozero.com##.bannerini
 bagherianews.com,corriereannunci.it,corrierenews.it,corriereproposte.it,dedalomultimedia.it,elbareport.it##.banneritem
