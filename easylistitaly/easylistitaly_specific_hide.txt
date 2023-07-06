@@ -3306,4 +3306,6 @@ zonalocale.it#?#.listed.small:-abp-has(a:-abp-contains(Informazione Pubblicitari
 cronacadiverona.com#?#.td_block_template_1:-abp-has(.td-block-title-wrap:-abp-contains(Banner))
 cruiselifestyle.it#?#.rowthumb:-abp-has(a[href])
 forbes.it#?#.post.type-post.status-publish.format-standard:-abp-has(.brandvoice)
+laleggepertutti.it#?#.cl-amp-important-information:-abp-has(div:-abp-contains(Annuncio pubblicitario))
+laleggepertutti.it#?#.custom-html:-abp-has(div:-abp-contains(Annuncio pubblicitario))
 lospiffero.com#?#.article-blog-default:-abp-has(span:-abp-contains(CONTENUTO SPONSORIZZATO))
