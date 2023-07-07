@@ -6,6 +6,9 @@
 ##.adv-gptslot
 ##.banner-adv
 ##.footer-adv
+##.partial-static-adv
+##.partial-sticky-adv
+##.pubblicita
 ##.sb-box-pubbliredazionale
 ##.slyvi-ads-inserter-ad-unit
 ##.sponsorizzati
@@ -307,8 +310,6 @@
 ##.nk-adv-in-article-1
 ##.nk-adv-in-article-2
 ##.nw_adv_full
-##.partial-static-adv
-##.partial-sticky-adv
 ##.pat-adv-300x250
 ##.pat-adv-box
 ##.pat-adv-masthead
@@ -316,7 +317,6 @@
 ##.promo_sp
 ##.pub_text
 ##.pubblicit
-##.pubblicita
 ##.pubblicita-banner
 ##.pubblicita-box
 ##.pubblicitaGoogle

@@ -15,6 +15,7 @@
 ||infodustrie.com/affima.php?
 ||investimenti.bnpparibas.it^$domain=trend-online.com
 ||italycharter.it/searchwidget$third-party
+||jooble.org/css/images/logos/jooble_$third-party
 ||postimg.cc^$domain=napolimagazine.com|settecalcio.it|toscanagol.it
 ||sorgentenatura.it/data/img/Banner_$third-party
 ||venerota.it/lcn_jpg.php$third-party
@@ -138,7 +139,6 @@
 ||iolam.it/js/easyBid.js
 ||ipercast.net/uploads/sponsors/
 ||italycharter.it/searchwidget$third-party
-||jooble.org/css/images/logos/jooble_$third-party
 ||kataweb.it/zbanner_consorzio.js
 ||kataweb.it^*/negozi/$third-party
 ||kuko.it/banner.
