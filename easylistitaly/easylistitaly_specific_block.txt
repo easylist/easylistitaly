@@ -330,6 +330,7 @@
 ||verbano24.it/images/banner/
 ||vercellese24.it/images/banner/
 ||visitvco.it/images/banner/
+||wechianti.com/wp-content/uploads/*/Banner-
 ||wp.com^*/banner/$domain=buongiornoslovacchia.sk
 !
 ||datameteo.com^*/clickday.jpg
