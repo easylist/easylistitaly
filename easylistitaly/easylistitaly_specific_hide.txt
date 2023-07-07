@@ -65,6 +65,7 @@ trnews.it###custom_html-12
 meteogiornale.it,mmawiki.org###custom_html-2
 meteogiornale.it###custom_html-4
 meteogiornale.it###custom_html-5
+agriaffaires.it###display-mb
 mymovies.it###div_topleft
 cagliarinews24.com,calcionews24.com,internews24.com,juventusnews24.com,lazionews24.com,milannews24.com,sampnews24.com###evolve-desktop-masthead
 cagliarinews24.com,calcionews24.com,internews24.com,juventusnews24.com,lazionews24.com,milannews24.com,sampnews24.com###evolve-mobile-masthead
