@@ -272,7 +272,7 @@ ilmeteo.net##.creatividad
 corriere.ca##.ct-code-block
 fitri.it##.custom-cont-banner
 meteofinanza.com##.custom-cta-container
-carpicalcio.it,fashionandroid.com##.custom-html-widget
+carpicalcio.it,fashionandroid.com,gazzettinodelchianti.it##.custom-html-widget
 calciostyle.it##.d-block
 diretta.it,flashscore.it##.detailLeaderboard
 0766news.it,umbriaon.it##.dfad
@@ -419,6 +419,7 @@ brindisisettenews.it,leccesette.it##.skin-desktop
 lavoripubblici.it##.skin-link
 digitalic.it##.skin_a_dx
 digitalic.it##.skin_a_sx
+gazzettinodelchianti.it##.slick-slider
 fremondoweb.com##.sliderclass
 buonenotiziebologna.it##.slides_container
 24newsonline.it,altopiemonte24.it,arona24.it,biellese24.it,borgomanero24.it,cusio24.it,lagomaggiore24.it,novara24news.it,novarese24.it,ossola24.it,sport24news.it,ticino24.it,verbano24.it,vercellese24.it,visitvco.it##.slideshowck
@@ -445,7 +446,7 @@ comunicaffe.it##.strack_bnr
 crotoneok.it##.strack_cli
 motori.it##.strip_agos_link
 bitquotidiano.it##.takeover
-2anews.it,angrinews.com,apsicilia.it,araberara.it,artuu.it,ascolinews.it,bargiornale.it,battipaglianews.it,bellunopress.it,biancorossi.net,calabriamagnifica.it,casertaweb.com,citynotizie.it,comunicaffe.it,corcianonline.it,cronacadiverona.com,cronachedellacampania.it,dasapere.it,ecovicentino.it,elivebrescia.tv,energiaincomune.com,europacalcio.it,fiorentina.news,foggiatv.it,fotoenotizie.it,fumettologica.it,gamingtoday.it,gamingwiki.it,gazzettadiavellino.it,gazzettadimilano.it,gazzettadinapoli.it,gazzettadiroma.it,gazzettadisalerno.it,gazzettajonica.it,gazzettinodelgolfo.it,icalabresi.it,ilprimatonazionale.it,ilsalvagente.it,isnews.it,ostuninotizie.it,saporicondivisi.com,sardegna24.news,sportchianti.it,trasimenonline.it,triesteallnews.it,udineoggi.news##.td-a-rec
+2anews.it,angrinews.com,apsicilia.it,araberara.it,artuu.it,ascolinews.it,bargiornale.it,battipaglianews.it,bellunopress.it,biancorossi.net,calabriamagnifica.it,casertaweb.com,citynotizie.it,comunicaffe.it,corcianonline.it,cronacadiverona.com,cronachedellacampania.it,dasapere.it,ecovicentino.it,elivebrescia.tv,energiaincomune.com,europacalcio.it,fiorentina.news,foggiatv.it,fotoenotizie.it,fumettologica.it,gamingtoday.it,gamingwiki.it,gazzettadiavellino.it,gazzettadimilano.it,gazzettadinapoli.it,gazzettadiroma.it,gazzettadisalerno.it,gazzettajonica.it,gazzettinodelchianti.it,gazzettinodelgolfo.it,icalabresi.it,ilprimatonazionale.it,ilsalvagente.it,isnews.it,ostuninotizie.it,saporicondivisi.com,sardegna24.news,sportchianti.it,trasimenonline.it,triesteallnews.it,udineoggi.news##.td-a-rec
 gazzettadiavellino.it##.td-all-devices
 edagricole.it##.td-banner-footer
 01health.it,01net.it,01smartlife.it##.td-banner-wrap-full
