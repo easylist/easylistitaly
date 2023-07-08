@@ -5,6 +5,7 @@
 ##.AlterVista_GoogleAdsense
 ##.adv-gptslot
 ##.banner-adv
+##.box_adv_cliccaofferta
 ##.footer-adv
 ##.partial-static-adv
 ##.partial-sticky-adv
