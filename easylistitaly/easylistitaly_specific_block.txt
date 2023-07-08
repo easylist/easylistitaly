@@ -316,6 +316,7 @@
 ||parigi2024.coni.it/images/partner/
 ||podisti.net/images/banners/
 ||pordenoneoggi.it/wp-content/uploads/*/banner-
+||portalecanicatti.info/images/banners/
 ||ragusanews.com//immagini_banner/
 ||salernoinweb.it/o/sponsor/
 ||seriedgol.it/js/allinone_bannerWithPlaylist.js
