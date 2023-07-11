@@ -445,7 +445,7 @@ betitaliaweb.it##.space-organizations-home-8-widget
 betitaliaweb.it##.space-shortcode-wrap-ins
 ilfattoquotidiano.it##.special
 comingsoon.it##.sponPro
-bolzano-bozen.it,calciofvg.live,feralpisalo.it,girovagandointrentino.it,legab.it##.sponsor
+bolzano-bozen.it,calciofvg.live,catanista.com,feralpisalo.it,girovagandointrentino.it,legab.it##.sponsor
 cagliarilivemagazine.it##.sponsor-associati
 assoallenatori.it##.sponsor-container
 zebreparma.it##.sponsor-wrapper
@@ -494,6 +494,7 @@ bottadiculo.it##.vc_btn3-container
 casertaweb.com##.vc_carousel-inner
 expartibus.it##.vc_custom_1548952245523
 fiorentina.news##.vc_single_image
+catanista.com##.w-100
 lantidiplomatico.it##.widget-banner
 supertennis.tv##.widget-banner-container
 scrivolibero.it##.widget_block
