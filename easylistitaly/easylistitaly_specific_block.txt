@@ -277,6 +277,7 @@
 ||gnoccaforum.com/static/b/
 ||gnoccatravels.com/files/pbblct
 ||goblins.net/files/images/banner/
+||horecanews.it/wp-content/uploads/angwp/
 ||ilroma.net/sites/default/files/SKIN_
 ||ilroma.net^*/rotating_banner/
 ||italia-informa.com^*/banner/
@@ -328,6 +329,8 @@
 ||seriedgol.it/js/allinone_bannerWithPlaylist.js
 ||settecalcio.it/js/allinone_bannerRotator.js
 ||sport24news.it/images/banner/
+||stabiachannel.it/assets/images/banners/
+||stabiachannel.it/home/img/banner/
 ||staffettaonline.com/fcResources/
 ||superenalotto.com/images/banners/
 ||telenord.it/img/uploads/video/*.mp4
@@ -346,8 +349,6 @@
 ||datameteo.com^*/una-mano-per-i-bambini-onlus.png
 ||facile.it^*/banner/
 ||giornalisti.vivere.srl^
-||gocity.it/library/banner/
-||golbym.com^*/betmaster-
 ||gommadiretto.it/simg/schaufenster_rechts/
 ||gommeblog.it^*/Gommadiretto-
 ||gommeblog.it^*/Gommadiretto.
@@ -413,13 +414,6 @@
 ||historychannel.it^*/swissre.
 ||hlstatic.it/files/banner/
 ||hobbyquotidiano.com^*/amazon_
-||horecanews.it/wp-content/uploads/angwp/
-||horecanews.it^*/Banner-
-||horecanews.it^*/banner_
-||horecanews.it^*/RIGEL_
-||horecanews.it^*_background_
-||horecanews.it^*_Banner_
-||hotelmag.it^*_banner980x200_
 ||hovogliadidolce.it^*/banner-
 ||hwreload.com/img/alphacool_logo.gif
 ||hwreload.com/img/arctic_logo.gif
@@ -924,7 +918,6 @@
 ||laguida.it^*-Skin.
 ||laltrapagina.it^*/barraagenda.jpg
 ||laltrapagina.it^*/pe4681.
-||laluce.news^*/50-off.png
 ||lametino.it/images/banners/
 ||lamiacittanews.it^*-300x300-
 ||lamiacittanews.it^*-banner-
@@ -1065,7 +1058,6 @@
 ||lerosa.it^*-banner.
 ||lerosa.it^*/banner-
 ||letteraemme.it^*/Banner-
-||libroaudio.it^*/banner_
 ||ligurianautica.com^*-728x90px.
 ||ligurianautica.com^*-skin-
 ||ligurianautica.com^*/banner
@@ -1139,10 +1131,6 @@
 ||luxurypretaporter.it^*/banner-
 ||luxwatch.it/watches_250x250_
 ||lyricsmusica.it/img/offerte-sconti.png
-||macitynet.it^*/amazon-banner.
-||macitynet.it^*/macity-big-
-||macitynet.it^*/macitybig
-||macitynet.it^*/macitynettrendeviceborsa.jpg
 ||macplas.it/archivioFiles/Banner/
 ||magazine-italia.it^*/banner-
 ||magazine-italia.it^*/banner_
@@ -2220,7 +2208,6 @@
 ||sentireascoltare.com^*/auto-doc.it-
 ||sentireascoltare.com^*/motordoctor.gif
 ||sentireascoltare.com^*/whisperin-sons2_3.gif
-||serialgamer.it^*/banner_
 ||sestaporta.news^*_300x300.
 ||sestaporta.news^*_BANNER_
 ||sestonotizie.it^*/BANNER_
@@ -2378,8 +2365,6 @@
 ||sslaziofans.it/images/sponsor/
 ||sslazionuoto.it/images/bt-shortcode/bt-carousel-
 ||ssmatelicacalcio.com^*/fidea.png
-||stabiachannel.it^*/banner/
-||stabiachannel.it^*/banners/
 ||stackpathcdn.com^*-banner.$domain=ondatv.tv
 ||stackpathcdn.com^*/banner_$domain=buonenotizie.it|ondatv.tv
 ||stadiotardini.it/banners/

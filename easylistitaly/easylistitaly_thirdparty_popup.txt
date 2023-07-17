@@ -31,6 +31,5 @@
 ||tracking.style24.it^$popup
 ||tracking.tuobenessere.it^$popup
 ||tracking.viaggiamo.it^$popup
-||trendevice.com/?utm_$popup,domain=macitynet.it
 ||vialedelconsumo.com^$popup
 ||vincitu.it/C.ashx?$popup,third-party

@@ -1,6 +1,7 @@
 ||ad4m.at^$third-party
 ||delosnetwork.it^$third-party
 ||eadv.it^$third-party
+||epeex.io^$third-party
 ||natexo-programmatic.com^$third-party
 ||rtbuzz.net^
 ||shoppydoo.com^
@@ -57,7 +58,6 @@
 ||easymarketcrs.it^$third-party
 ||ebuzzing.it^$third-party
 ||edinetadv.com^$third-party
-||epeex.io^$third-party
 ||evolutionadv.it^$third-party
 ||firebanner.com^$third-party
 ||gbucket.ch^$third-party
