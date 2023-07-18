@@ -277,6 +277,8 @@
 ||gnoccaforum.com/static/b/
 ||gnoccatravels.com/files/pbblct
 ||goblins.net/files/images/banner/
+||gratisfree.it/cgi-bin/bannergest$script
+||greenews.info/wp-content/banners/
 ||horecanews.it/wp-content/uploads/angwp/
 ||ilroma.net/sites/default/files/SKIN_
 ||ilroma.net^*/rotating_banner/
@@ -349,16 +351,7 @@
 ||datameteo.com^*/una-mano-per-i-bambini-onlus.png
 ||facile.it^*/banner/
 ||giornalisti.vivere.srl^
-||gommadiretto.it/simg/schaufenster_rechts/
-||gommeblog.it^*/Gommadiretto-
-||gommeblog.it^*/Gommadiretto.
-||gomorraweb.com^*/granvesuvio-
-||grae.it^*/headerVILLA-
 ||grandangoloagrigento.it^*/350x350-
-||grandimagazziniculturali.it^*/banner728x90animato.gif
-||gratisfree.it/cgi-bin/bannergest$script
-||greenews.info/wp-content/banners/
-||greenretail.it^*/LAND-
 ||grossetonotizie.com^*/banner-
 ||grossetonotizie.com^*/logo-cpt.jpg
 ||grossetoonline.com^*-970x90-
@@ -467,7 +460,6 @@
 ||ilcittadinodirecanati.it/images/banners/
 ||ilcittadinodirecanati.it^*/banner/
 ||ilcittadinoonline.it^*/wpseo_
-||ilcorriere.net^*-banner.
 ||ilcorrieredelgiorno.it^*/720x300_
 ||ilcorrieredelgiorno.it^*_SKIN_
 ||ilcorrieredellacitta.com^*/AMA-Cassonetti.png
@@ -563,7 +555,6 @@
 ||ilgiornalediudine.com^*-300x300.
 ||ilgiornalediudine.com^*/300x300px_
 ||ilgiornalediudine.com^*/720x90px_
-||ilgolfo24.it^*/pegaso.jpg
 ||ilgolfonline.it^*/shamir.jpg
 ||ilgoriziano.it/public/banner/
 ||ilgranchio.it^*/banner-
@@ -594,12 +585,6 @@
 ||ilmiogattoeleggenda.it^*/tasto-amazon-
 ||ilmioip.it/img/banner
 ||ilmioip.it/img/infermieri
-||ilmoderatore.it^*-banner.
-||ilmoderatore.it^*/banner-
-||ilmoderatore.it^*/blog-TV.jpg
-||ilmoderatore.it^*/resto-al-sud-sicilia-
-||ilmoderatore.it^*/tinnirello_
-||ilmoderatore.it^*/UIL-Trasporti-1280x502.jpeg
 ||ilmohicano.it/^*/CPM_LOGO_NEW_111I-400x176.jpg
 ||ilmomento.org^*-300x250.
 ||ilmonito.it^*/allocca.jpg
@@ -798,8 +783,6 @@
 ||italiaonline.news^*/offertaformativa-
 ||italiasette.it^*-336x280-
 ||italiavela.it/banner/
-||italyandmore.it^*/GreenValleedaoste.jpg
-||italyandmore.it^*/VIA-E.png
 ||italynews.it^*/logo5.jpg
 ||itinerariodiviaggio.com/img/partner/
 ||itvonline.news^*-300x250.
@@ -982,10 +965,7 @@
 ||latinapress.it^*/banner-
 ||latinaquotidiano.it^*/AQL-ModelloTariffario_Web_
 ||latinaquotidiano.it^*/banner-
-||latitudeslife.com/magazine/adv/
-||latitudeslife.com^*/banners/
 ||lattacco.it/immagini/immagini_banner/
-||lattemiele.com/wp-content/plugins/fv-wordpress-flowplayer/flowplayer/fv-flowplayer.min.js
 ||lausc.it/images/banners/
 ||lavitacattolica.it^*/banner/
 ||lavoce.it^*-banner-
@@ -1276,10 +1256,6 @@
 ||moglie.xxx/tiny-night-eb35/
 ||mogliinmostra.it^*/1017046211.gif
 ||mogliinmostra.it^*/1018107841.jpg
-||mole24.it^*-skin-
-||mole24.it^*/802x300.
-||mole24.it^*/skin-
-||mole24.it^*_600x600.
 ||molisetabloid.it^*/lamolisana.png
 ||momentidicalcio.com^*/hotel-turner-roma-004-820x298.jpg
 ||momentidicalcio.com^*/img_2423-797x290.jpg
@@ -1295,7 +1271,6 @@
 ||mondobarcamarket.it^*/Mondo_Barca.gif
 ||mondoclassica.it^*/banner/
 ||mondodelgusto.it^*/arch/
-||mondomobileweb.it/images/vbsl.png
 ||mondoraro.org^*/achille-lauro.jpg
 ||mondoraro.org^*/mjfsignedbook.jpg
 ||mondoraro.org^*/stratton-
@@ -1359,8 +1334,6 @@
 ||nba24.it^*/banner-
 ||nbnotizie.it^*/LoghiPUBBL/
 ||nbv-verona.it/img/sponsor-
-||necrologi.ilcorriere.net^*/boffanook.jpg
-||necrologi.ilcorriere.net^*/Schermata-2020-02-04-alle-14.43.25.png
 ||necrologivercelli.it/images/promo-
 ||nerdando.com/immagini/partnership/
 ||nerdface.it/images/BannerSponsor/
@@ -1495,8 +1468,6 @@
 ||obiettivoscuola.it/images/Edises/
 ||occhi.it^*-adv-
 ||occhioallanotizia.it^*/animation.gif
-||occhionotizie.it^*/BANNER-
-||occhionotizie.it^*_banner_
 ||occhioviterbese.it/gestionalebanner/
 ||oggicronaca.it/cinema/megaplex.jpg
 ||oggicronaca.it/cinema/xmegaplex.
@@ -2304,10 +2275,6 @@
 ||sora24.it/banner/
 ||sora24.it^*/amazon-prime-
 ||spaziogames.it^*/logo-instant-gaming.jpg
-||spaziotennis.com^*-BANNER-
-||spaziotennis.com^*/BANNER0-
-||spaziotennis.com^*/bonusscommessepro.jpg
-||spaziotennis.com^*/RTA-quadrato.jpg
 ||specchiosesto.it^*-banner-
 ||specchiosesto.it^*/banner-
 ||spiccandoilvolo.com^*-partner-
@@ -2867,8 +2834,6 @@
 ||umbriasettegiorni.it^*/skin-
 ||umbriatv.com/images/banners/
 ||unadonna.it^*-300x250px-
-||unaparolaperte.org^*/copiawhite-background.png
-||unaparolaperte.org^*/film-sabato.jpg
 ||unicasport.it^*-Banner-
 ||unicoebello.it^*-380x380
 ||unideanellemani.it^*-banner-
@@ -3272,7 +3237,7 @@
 ||wp.com^*-banner-$domain=blogdellamusica.eu|fisco7.it|funghimagazine.it|infonewsvietri.it|lagazzettaaeroportuale.it|libringioco.blog|nerdpool.it|radiocassinostereo.com
 ||wp.com^*-banner.$domain=blogdellamusica.eu|infonewsvietri.it|orvietosi.it|radiocassinostereo.com
 ||wp.com^*/675x238-$domain=tv9italia.it
-||wp.com^*/banner-$domain=cinecorriere.it|foggiagol.it|funghimagazine.it|giornaledicalabria.it|ilgiornaledeiveronesi.it|lagazzettaaeroportuale.it|libringioco.blog|nonsoloturisti.it|nuotounostiledivita.it|oggicronaca.it|orvietosi.it|radiocassinostereo.com|sentieriselvaggi.it|teleischia.com|temporeale.info|teverepost.it|tusciatimes.eu|tv9italia.it|vesuvianonews.it
+||wp.com^*/banner-$domain=cinecorriere.it|foggiagol.it|funghimagazine.it|giornaledicalabria.it|ilgiornaledeiveronesi.it|lagazzettaaeroportuale.it|libringioco.blog|nonsoloturisti.it|nuotounostiledivita.it|oggicronaca.it|orvietosi.it|radiocassinostereo.com|sentieriselvaggi.it|teleischia.com|temporeale.info|tusciatimes.eu|tv9italia.it|vesuvianonews.it
 ||wp.com^*/banner/$domain=cronacaflegrea.it
 ||wp.com^*/banner_$domain=agropolinews.it|bimbonaturale.org|brescia2.it|fisco7.it|nuotounostiledivita.it|thewalkoffame.it|tusciatimes.eu
 ||wp.com^*/banners/$domain=risveglioduemila.it
