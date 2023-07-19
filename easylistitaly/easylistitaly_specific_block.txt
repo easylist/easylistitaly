@@ -351,7 +351,6 @@
 ||datameteo.com^*/una-mano-per-i-bambini-onlus.png
 ||facile.it^*/banner/
 ||giornalisti.vivere.srl^
-||grandangoloagrigento.it^*/350x350-
 ||grossetonotizie.com^*/banner-
 ||grossetonotizie.com^*/logo-cpt.jpg
 ||grossetoonline.com^*-970x90-
@@ -481,11 +480,6 @@
 ||ildigitale.it^*-skin-
 ||ilfarosulmondo.it^*/prenota-il-tuo-viaggio-in-iran-
 ||ilfattodicalabria.it^*/PPE.png
-||ilfattonisseno.it^*/350x350_
-||ilfattonisseno.it^*/5x1000-grafica-
-||ilfattonisseno.it^*/6x3_MR18.jpg
-||ilfattonisseno.it^*/gif-china.gif
-||ilfattonisseno.it^*/q5-meridiano.gif
 ||ilfattoonline.com^*/cataldi-fresh-market1.jpg
 ||ilfattoonline.com^*/Green-Valley.jpg
 ||ilfattoonline.com^*/minibinrental-vaughan.jpg
@@ -1081,7 +1075,6 @@
 ||livornopress.it^*/SCOPRI-DI-PIU-IES.
 ||lodiedintorni.com^*-banner-
 ||lodiedintorni.com^*/Banner-
-||lombardinelmondo.org^*/Banner-
 ||londraweb.com/london_pass1.jpg
 ||lopinionista.it^*/tuttiautopezzi.
 ||lopinionistanews.it^*/Adv.
