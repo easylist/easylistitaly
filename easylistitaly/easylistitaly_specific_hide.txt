@@ -134,6 +134,7 @@ casilinanews.it###text-4
 betitaliaweb.it###text-6
 betitaliaweb.it###text-9
 elaborare.com###text-html-widget-16
+anisearch.it###topA_iframe
 stabiachannel.it###topBanner
 goblins.net###top_header
 escort46.it###top_image_div
