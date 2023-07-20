@@ -1,4 +1,5 @@
 ||ad4m.at^$third-party
+||adplay.it^$third-party
 ||delosnetwork.it^$third-party
 ||eadv.it^$third-party
 ||epeex.io^$third-party
