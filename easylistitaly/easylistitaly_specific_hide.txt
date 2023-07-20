@@ -173,6 +173,7 @@ abruzzoindependent.it##.ad-banner
 badtaste.it,supertv.it##.ad-container
 confinelive.it##.adcontainer
 fidal.it##.add-logo
+gazzettaconcorsi.eu##.add_left_div
 condominioweb.com##.addv
 brocardi.it,buildnews.it,filmpertutti.boo,legab.it,radiogold.it##.ads
 ildolomiti.it##.adsB
