@@ -22,6 +22,7 @@ soldioggi.it###ad5
 digital-forum.it,esigarettaforum.com,thegamesmachine.it###ad_global_below_navbar
 lavocedelpopolo.it###ads
 buonapesca.it,picenooggi.it###adv
+liberoquotidiano.it###adv-after-briefly
 farmacia-aperta.eu###adv-info
 agarymathematics.net###adv1
 libero.it###adv_topper
