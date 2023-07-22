@@ -75,6 +75,7 @@ cagliarinews24.com,calcionews24.com,internews24.com,juventusnews24.com,lazionews
 bolina.it###fancybox-overlay
 bolina.it###fancybox-wrap
 borsainside.com,meteofinanza.com###financial-popup-overlay
+lasicilia.it###frame-1
 altamuralife.it,andriaviva.it,bariviva.it,barlettaviva.it,bisceglieviva.it,bitontoviva.it,canosaviva.it,cerignolaviva.it,coratoviva.it,giovinazzoviva.it,gravinalife.it,hotelmag.it,margheritaviva.it,materalife.it,minervinoviva.it,modugnoviva.it,molfettaviva.it,pugliaviva.it,ruvoviva.it,sanferdinandoviva.it,spinazzolaviva.it,terlizziviva.it,traniviva.it,trinitapoliviva.it###header-banner
 filmatipornohd.com###horizontal-banner
 ilfattoquotidiano.it###immo-330x350
@@ -185,7 +186,8 @@ daninseries.it##.adunit-mark
 altoadigetv.it,fattoincasadabenedetta.it,gay.it,girovagandointrentino.it,ilfattoquotidiano.it,ilpost.it,lagazzettadelmezzogiorno.it,libero.it,prealpina.it,supereva.it,trentinotv.it,virgilio.it##.adv
 calciobresciano.it##.adv-big-article-card
 corrieredellumbria.it,corrierediarezzo.it,corrieredisiena.it##.adv-big2
-editorialedomani.it##.adv-placeholder
+lasicilia.it##.adv-intext-placeholder
+editorialedomani.it,lasicilia.it##.adv-placeholder
 corrieredellumbria.it,corrierediarezzo.it,corrieredisiena.it##.adv-slideshow
 ansa.it##.adv-slot
 empresite.it##.adv_cont
@@ -446,6 +448,7 @@ prendiporno.tv##.publ11s-b0ttom
 camperonline.it##.publink
 carteprepagate.org##.pum
 picenotime.it##.py-1.colonna-singola > .py-5
+lasicilia.it##.rcs-sidebar
 prealpina.it##.redazionale
 ilroma.net##.rotating-banner
 corrierinocampaniasport.it##.rotor-items
