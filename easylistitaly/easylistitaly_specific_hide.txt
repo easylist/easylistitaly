@@ -268,6 +268,7 @@ mondopadano.it##.bbanner
 bikeitalia.it##.bg-banner
 altoadige.it,giornaletrentino.it##.bg300x250
 lagazzettadelmezzogiorno.it##.bgbanner
+hcgherdeina.com##.big-sponsor-box
 antenna1.fm##.bloc-pub
 cascinanotizie.it##.block-block
 lavocedimanduria.it##.block-first-ads
@@ -479,6 +480,7 @@ gazzettinodelchianti.it,hdgolf.it##.slick-slider
 fremondoweb.com##.sliderclass
 buonenotiziebologna.it##.slides_container
 24newsonline.it,altopiemonte24.it,arona24.it,biellese24.it,borgomanero24.it,cusio24.it,lagomaggiore24.it,novara24news.it,novarese24.it,ossola24.it,sport24news.it,ticino24.it,verbano24.it,vercellese24.it,visitvco.it##.slideshowck
+hcgherdeina.com##.small-sponsor-box
 tgnewstv.it##.sp-logo-carousel-pro-section
 betitaliaweb.it##.space-companies-home-widget
 betitaliaweb.it##.space-companies-sidebar-2-widget
