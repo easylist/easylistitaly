@@ -48,6 +48,7 @@ entella.it###barra_click_sx
 entella.it###barra_click_top
 forum.tomshw.it###belowfirstpost
 bergamoesport.it,informazionefiscale.it###billboard
+augustanews.it,avolanews.it,catanianews.it,ibleinews.it,leontinoinews.it,notonews.it,pachinonews.it,sicilianews.it,siracusanews.it###billboard1
 doppiozero.com###block-views-block-banner-inserzionisti-block-banner-box-inser
 doppiozero.com###block-views-block-banner-inserzionisti-block-banner-box-inserz-2
 doppiozero.com###block-views-block-banner-inserzionisti-block-banner-box-inserzionisti
@@ -432,6 +433,7 @@ fc-suedtirol.com,ragusanews.com##.partner
 padovacalcio.it##.partner-img-logo
 lifegate.it##.partnered
 fip.it##.partners
+augustanews.it,avolanews.it,catanianews.it,ibleinews.it,leontinoinews.it,notonews.it,pachinonews.it,sicilianews.it,siracusanews.it##.paszone_container
 evosmart.it##.penci-banner-box
 milanofinanza.it##.pimcobox
 cagliarinews24.com,calcionews24.com,futsalnews24.com,internews24.com,juventusnews24.com,lazionews24.com,milannews24.com,sampnews24.com##.placeholder
