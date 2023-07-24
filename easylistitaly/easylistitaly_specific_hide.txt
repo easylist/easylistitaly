@@ -430,7 +430,7 @@ laleggepertutti.it##.notizie-blue-bnr-one
 diretta.it,flashscore.it##.oddsPlacement
 boatindustry.it,boatsnews.it,pescare.news##.p
 nostrofiglio.it##.par-listing-collab
-fc-suedtirol.com,ragusanews.com##.partner
+fc-suedtirol.com,hcpustertal.com,ragusanews.com##.partner
 padovacalcio.it##.partner-img-logo
 lifegate.it##.partnered
 fip.it##.partners
