@@ -3160,7 +3160,7 @@ lanuovariviera.it##td[style="width: 33%; vertical-align: top; border-color: #000
 lanuovariviera.it##td[style="width: 50%;"]
 datameteo.com##td[style^="border-top-style: solid; border-top-color:#d3d3d3; border-top-width: 1px"]
 astrologiainlinea.it##td[width="728"][height="90"]
-! Advanced element hiding rules for Adblock Plus
+!! Advanced element hiding rules for Adblock Plus
 aleteia.org#?#div[class^="css-"]:-abp-has(a:-abp-contains(contenuto sponsorizzato))
 androidplanet.it#?#.wp-block-group__inner-container:-abp-has(a[href^="https://www.appscommesse.com/"])
 borsaitaliana.it#?#.m-relases__result:-abp-has(div:-abp-contains(Contenuto pubblicitario))
