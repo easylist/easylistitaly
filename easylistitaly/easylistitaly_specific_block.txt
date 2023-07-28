@@ -284,6 +284,8 @@
 ||guida-aziende-italiane.it/img/c015banner.jpg
 ||hcgherdeina.com/img/db/sponsor/
 ||horecanews.it/wp-content/uploads/angwp/
+||ilgiornaledelmolise.it/img/bannerlungo/
+||ilgiornaledelmolise.it/img/lamolisana_
 ||ilroma.net/sites/default/files/SKIN_
 ||ilroma.net^*/rotating_banner/
 ||italia-informa.com^*/banner/
@@ -448,9 +450,6 @@
 ||ilgiornaledellaprotezionecivile.it^*_banners/
 ||ilgiornaledellarte.com/allegati/BANNER
 ||ilgiornaledelloyoga.it^*/Banner-
-||ilgiornaledelmolise.it/img/bannerlungo/
-||ilgiornaledelmolise.it/img/lamolisana_
-||ilgiornaledelmolise.it^*/BANNER_
 ||ilgiornaledelticino.ch^*/ADV-
 ||ilgiornaledelticino.ch^*/bfa9272d-
 ||ilgiornaledelticino.ch^*/cambio-valute-
@@ -615,7 +614,6 @@
 ||imola.it^*/Selice-102.gif
 ||imola.it^*/tecnoacustica.gif
 ||imola.it^*_banner.
-||imolaoggi.it^*/Free-Health-Academy.jpg
 ||imperatoreconsulting.eu/__PUBLIC/ADV_
 ||imperiasport.net^*/BITIM.jpg
 ||imperiasport.net^*/LucaeAlice.jpg
@@ -721,8 +719,6 @@
 ||italianiedimburgo.com^*/gIF-ITALIANIEDIMBURGO.gif
 ||italianiedimburgo.com^*/trova-il-tuo-tirocinio-a-edimburgo.jpg
 ||italianiedimburgo.com^*/vuoi-imparare-l-inglese-a-edimburgo.jpg
-||italiaonline.news^*/logo-formadocenti2.jpg
-||italiaonline.news^*/offertaformativa-
 ||italiasette.it^*-336x280-
 ||italiavela.it/banner/
 ||italynews.it^*/logo5.jpg
@@ -1189,10 +1185,6 @@
 ||mogliinmostra.it^*/1017046211.gif
 ||mogliinmostra.it^*/1018107841.jpg
 ||molisetabloid.it^*/lamolisana.png
-||momentidicalcio.com^*/hotel-turner-roma-004-820x298.jpg
-||momentidicalcio.com^*/img_2423-797x290.jpg
-||momentidicalcio.com^*/img_4897-1100x400.jpg
-||momentidicalcio.com^*/img_9408.jpg
 ||momentosera.it/bannerupload/
 ||mondo-motori.it^*/banner_
 ||mondo3.com^*/offerte-amazon-offerte.jpg
@@ -1281,14 +1273,6 @@
 ||news-24.it^*_skin-
 ||news.cinecitta.com/public/banner/
 ||newsf1.it^*/promozione-libro-
-||newsfood.com^*-Banner-
-||newsfood.com^*/banner-
-||newsfood.com^*/FAO-GIAHS_Soave-firma-mail-1.jpg
-||newsfood.com^*/hotel-orlando.gif
-||newsfood.com^*/ILPNEWSFOOD.gif
-||newsfood.com^*/KriKri_Frozen-yogurt_Newsfood1.gif
-||newsfood.com^*/Webbanner_
-||newsfood.com^*_banner_
 ||newsinquota.it^*/BANNER_
 ||newsinquota.it^*/colorificio_paulin.jpg
 ||newsinquota.it^*/Springo_
@@ -1297,7 +1281,6 @@
 ||nigiara.it/data/*/3x6-
 ||nigiara.it/data/nigiara/sh-
 ||nigiara.it/data/nigiara/sh2-
-||nintendari.it^*/instagaming.jpg
 ||nintendon.it^*/Amazon-
 ||nocerinalive.it^*/sponsor1-
 ||noitv.it^*-300x460-
@@ -1525,8 +1508,6 @@
 ||piacenzaonline.info^*/Banner-
 ||pianetamessina.com^*/BANNER-
 ||pianetamountainbike.it/public/Banner/
-||pianetaserieb.it^*/auto-doc.it-
-||pianetaserieb.it^*/PHOTO-2020-12-26-12-44-41.jpg
 ||piazzasalento.it^*/Banner-
 ||piazzasalento.it^*/dedagroup-1156x250-
 ||piazzasalento.it^*/santarita300x250.jpg
@@ -2278,8 +2259,6 @@
 ||storiedisport.it^*/logo5.png
 ||stradeonline.it/images/banners/
 ||streamingmagazine.it^*/streamingmagazine.jpg
-||strill.it^**/banner
-||strill.it^*/rigan
 ||strumentiemusica.com^*-125x125.
 ||studio5fm.com^*/Progetto-senza-titolo39.png
 ||studio93.it^*/Banner
@@ -2554,8 +2533,6 @@
 ||turismoitalianews.it^*/banners/
 ||turismovacanza.net^*/banner-
 ||turistadimestiere.com^*/banner-
-||tusciatimes.eu^*/banner-
-||tusciatimes.eu^*/banner_
 ||tusciaup.com^*-160x90-
 ||tusciaup.com^*-160x90.
 ||tusciaup.com^*-300x250.
@@ -2624,9 +2601,6 @@
 ||tuttopisa.com^*/banner-
 ||tuttosport.com/next/custom/logo-sky-wifi-sticky.png
 ||tuttostoria.net/images/storiadoc-animato.gif
-||tuttotek.it^*/banner-
-||tuttotek.it^*/Catch.jpg
-||tuttotek.it^*/instant-banner-
 ||tuttotone.app/assets/img/banner/
 ||tuttotrasporti.it^*/notizieSponsorizzate/
 ||tuttozampe.com^*/Premium_
@@ -2966,8 +2940,6 @@
 ||wp.com/ilpiccolo.org/*/Gamberini-
 ||wp.com/images.liveuniversity.it/*300x250
 ||wp.com/irenedisumma.com/*/fari.jpg
-||wp.com/momentidicalcio.com/*/2.jpg
-||wp.com/momentidicalcio.com/*/img_4895.jpg
 ||wp.com/nonsoloturisti.it/*/heymondo-
 ||wp.com/notiziescientifiche.it/*/vediamans-min.jpg
 ||wp.com/p2p-italia.com/*/mwzdpamnekgr.gif
@@ -3033,16 +3005,6 @@
 ||wp.com/www.teleradio-news.it/*-490x147-
 ||wp.com/www.thewalkoffame.it/*/myzona.gif
 ||wp.com/www.tsdtv.it/*/300x300-
-||wp.com/www.tusciatimes.eu/*/300x500.
-||wp.com/www.tusciatimes.eu/*/Banca-Lazio-Nord.jpg
-||wp.com/www.tusciatimes.eu/*/Confartigianato_ok-min1.jpg
-||wp.com/www.tusciatimes.eu/*/fenix-services.jpeg
-||wp.com/www.tusciatimes.eu/*/Jooblelogo-lavoro-Viterbo.png
-||wp.com/www.tusciatimes.eu/*/laundry-hospital-services.jpeg
-||wp.com/www.tusciatimes.eu/*/logo-confesercenti2.png
-||wp.com/www.tusciatimes.eu/*/Palestra-Magno.jpeg
-||wp.com/www.tusciatimes.eu/*/Tuscia-Food-CamCommVT.gif
-||wp.com/www.tusciatimes.eu/*/VITERBO-ance.gif
 ||wp.com/www.tuttoboxe.it/*/amazon-
 ||wp.com/www.tuttojuve.net/*/119054606_350406236368302_7591478443508881500_n.png
 ||wp.com/www.tuttojuve.net/*/12597e17-489e-4e5f-aed5-57e4c9562708-1.jpg
@@ -3056,9 +3018,9 @@
 ||wp.com^*-banner-$domain=blogdellamusica.eu|fisco7.it|funghimagazine.it|infonewsvietri.it|lagazzettaaeroportuale.it|libringioco.blog|nerdpool.it
 ||wp.com^*-banner.$domain=blogdellamusica.eu|infonewsvietri.it
 ||wp.com^*/675x238-$domain=tv9italia.it
-||wp.com^*/banner-$domain=cinecorriere.it|foggiagol.it|funghimagazine.it|giornaledicalabria.it|ilgiornaledeiveronesi.it|lagazzettaaeroportuale.it|libringioco.blog|nonsoloturisti.it|nuotounostiledivita.it|oggicronaca.it|sentieriselvaggi.it|teleischia.com|temporeale.info|tusciatimes.eu|tv9italia.it|vesuvianonews.it
+||wp.com^*/banner-$domain=cinecorriere.it|foggiagol.it|funghimagazine.it|giornaledicalabria.it|ilgiornaledeiveronesi.it|lagazzettaaeroportuale.it|libringioco.blog|nonsoloturisti.it|nuotounostiledivita.it|oggicronaca.it|sentieriselvaggi.it|teleischia.com|temporeale.info|tv9italia.it|vesuvianonews.it
 ||wp.com^*/banner/$domain=cronacaflegrea.it
-||wp.com^*/banner_$domain=agropolinews.it|bimbonaturale.org|brescia2.it|fisco7.it|nuotounostiledivita.it|thewalkoffame.it|tusciatimes.eu
+||wp.com^*/banner_$domain=agropolinews.it|bimbonaturale.org|brescia2.it|fisco7.it|nuotounostiledivita.it|thewalkoffame.it
 ||wp.com^*/banners/$domain=risveglioduemila.it
 ||wp.com^*/BRIGNOLA20201.jpg$domain=infonewsvietri.it
 ||xtremehardware.com/instant-gaming.png
