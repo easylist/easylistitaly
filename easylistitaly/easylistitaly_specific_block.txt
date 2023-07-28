@@ -311,6 +311,7 @@
 ||lnd.it/images/sponsor/
 ||lospiffero.com/banner/
 ||lupopornohd.it/bnr/
+||malpensa24.it/wp-content/uploads/*/background-
 ||marcheingol.it/js/allinone_bannerRotator.js
 ||merateonline.it/public/banner/
 ||meteoaquilano.it/images/Banner
@@ -866,15 +867,6 @@
 ||laputa.it^*/amazon_button.png
 ||laputa.it^*/brave_support_us.
 ||laputa.it^*/kindle_button.png
-||laquilablog.it^*-300x300-
-||laquilablog.it^*/affittasi.gif
-||laquilablog.it^*/asm-
-||laquilablog.it^*/ASM.jpeg
-||laquilablog.it^*/capitello.gif
-||laquilablog.it^*/melograno.gif
-||laquilablog.it^*/mondadori-meridiana.png
-||laquilablog.it^*/risana.gif
-||laquilablog.it^*_300x300-
 ||larionews.com^*-MANCHETTE-
 ||larionews.com^*/banner-
 ||larivieraonline.com^*/banner/
@@ -1060,8 +1052,6 @@
 ||maidirelink.it^*/sconti-amazon.jpg
 ||mail.tiscali.it^*/advlib.js
 ||malindikenya.net^*/sponsors/
-||malpensa24.it^*/background-
-||malpensa24.it^*/BANNER_
 ||mammaimperfetta.it^*_banner.
 ||mammedomani.it/images/banners/
 ||mandamentonotizie.it/animazione/
@@ -1224,7 +1214,6 @@
 ||motori360.it^*/enjoy-eni.gif
 ||motori360.it^*_370x150
 ||movieplayer.it/static/images/cinecitta-
-||msmotor.tv^*/LOGO_Partner_
 ||museionline.info/images/banners/
 ||museionline.info/images/ticket/
 ||mycarteprepagate.it^*/N26-300-
@@ -2647,7 +2636,6 @@
 ||udineseblog.it^*_160x90.
 ||uiblog.it^*/buyfromebay-
 ||ulisseonline.it^*/banner-
-||ultimenotizieoggi.it^*/banner-
 ||ultimissimemantova.it/banner/
 ||umbriajournal.com^*/banner-
 ||umbriajournal.com^*/banner.

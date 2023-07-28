@@ -1,6 +1,7 @@
 -banner-pubblicitario-
 .it/adv/
 /TiscaliADV_
+_pubblicita.
 !
 -000Pubblicita-
 -000pubblicita.
@@ -80,7 +81,6 @@ _adv300x250_
 _adv400x220.
 _adv400x90.
 _pubblicita-
-_pubblicita.
 _pubblicita/
 _pubblicita_
 _sito/adv/
