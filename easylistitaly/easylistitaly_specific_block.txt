@@ -223,6 +223,7 @@
 ||fcprovercelli.it/images/images/banner/
 ||feralpisalo.it/images/sponsors/
 ||feralpisalo.it/img/sponsor/
+||ferrovie.it/portale/images/banners/
 ||fidaf.org/public/sponsor/
 ||fidal.it/upload/sponsor/
 ||fif.it/images/sponsor/
