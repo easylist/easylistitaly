@@ -581,7 +581,7 @@ androidblog.it,aroundtheworld.pro,assisisport.it,berlinomagazine.com,bollicinevi
 secolo-trentino.com##.widget_media_gallery
 24live.it,amarantomagazine.it,areamediapress.it,aroundtheworld.pro,bambiniconlavaligia.com,blograffo.net,bsnews.it,calabriamagnifica.it,calciogoal.it,castingeprovini.com,cataniavip.it,catanzaro7.net,chepreparo.it,citymilanonews.com,coriglianocalabro.it,corrierepievese.it,corrispondenzaromana.it,crotoneok.it,dayitalianews.com,dentrolanotizia.tv,ecodisicilia.com,energiaincomune.com,esportsactivity.com,etvmarche.it,evangelici.net,fiorentinanews.com,football-magazine.it,giocopulito.it,giornalesm.com,grossetonotizie.com,italiaonline.news,ladriatico.info,laquilablog.it,mam-e.it,newsfood.com,pisainvideo.it,portolivorno.it,sicilia24h.it,siciliatv.org,signorbet.news,teleregionelive.it,tgyou24.it,tuttojuve.net,tuttolivorno.it,ufficistampanazionali.it,universoinformatico24.it##.widget_media_image
 catanzaro7.net,laquilablog.it##.widget_media_video
-biancavillaoggi.it##.widget_random_banner_widget
+biancavillaoggi.it,buongiornosuedtirol.it##.widget_random_banner_widget
 104news.it##.widget_simpleimage
 dozenblogs.com##.widget_sow-image
 agropolinews.it,corrieregiallorosso.com,emotionrit.it##.widget_sp_image
@@ -650,6 +650,7 @@ aprilianews.it##div[id^="april-"]
 arezzoweb.it##div[id^="arezz-"]
 assisinews.it,assisisport.it##div[id^="assis-"]
 autobusweb.com##div[id^="autob-"]
+buongiornosuedtirol.it##div[id^="buong-"]
 catanzaro7.net##div[id^="catan-"]
 citynow.it##div[id^="cityn-"]
 corriereal.info,corriereromagna.it##div[id^="corri-"]
