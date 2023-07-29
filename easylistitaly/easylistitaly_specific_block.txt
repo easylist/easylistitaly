@@ -328,8 +328,8 @@
 ||napolimagazine.blob.core.windows.net/banner-
 ||napolimagazine.blob.core.windows.net/skin-
 ||napolimagazine.com/images/*/banner-
-||newtuscia.it/wp-content/uploads/*/Banner-
 ||newtuscia.it/wp-content/uploads/*/banner-
+||newtuscia.it/wp-content/uploads/*/Banner-
 ||novara24news.it/images/banner/
 ||novarese24.it/images/banner/
 ||ondarock.it/banners/
