@@ -3,6 +3,7 @@
 ###yobee-top-page
 ##.AlterVista_Banner
 ##.AlterVista_GoogleAdsense
+##.ads--primo-piano
 ##.adv-gptslot
 ##.banner-adv
 ##.box_adv_cliccaofferta
@@ -167,7 +168,6 @@
 ##.adagiowritebanner_dmtag
 ##.adivi-infeed
 ##.adk-slot
-##.ads--primo-piano
 ##.ads-dx
 ##.ads-sx
 ##.ads_dx

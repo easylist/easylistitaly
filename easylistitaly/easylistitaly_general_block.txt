@@ -1,5 +1,7 @@
 -banner-pubblicitario-
+.it/ads/$image
 .it/adv/
+/pubblicita%CC%80-
 /TiscaliADV_
 _pubblicita.
 !
@@ -12,7 +14,6 @@ _pubblicita.
 -PUBBLICITa.$domain=~inoutsnc.it
 -pubblicita300x275.
 .it/_adv/
-.it/ads/$image
 .it/ads?
 .it/ads_
 .it/adv.
@@ -52,7 +53,6 @@ _pubblicita.
 /pubbl_vert.
 /pubblicit%C3%A0-
 /pubblicit%c3%a0/*
-/pubblicita%CC%80-
 /pubblicita%CC%80.
 /pubblicita-
 /pubblicita.
