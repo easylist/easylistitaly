@@ -229,6 +229,7 @@ corrierinocampaniasport.it##.alpha.omega
 lombardoandrea.com##.amazon-auto-links
 animeclick.it,gamerclick.it##.amazon-row
 androidworld.it,cookaround.com,dmbeauty.it,donnamoderna.com,focus.it,giallozafferano.it,iconmagazine.it,mobileworld.it,my-personaltrainer.it,nostrofiglio.it,pianetadonna.it,pianetamamma.it,smartworld.it,soldionline.it,sorrisi.com,studenti.it,thewom.it,valorinormali.com,webboh.it##.amePlaceholderBox
+ansa.it##.ansa-c
 iltquotidiano.it##.apPluginContainer
 gonews.it##.articolo_redazionale
 ingenio-web.it##.b
