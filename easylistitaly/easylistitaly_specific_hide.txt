@@ -14,8 +14,8 @@ leggopassword.it###Tabella_01
 chimerarevo.com###TopWidgetArea
 caffebaiadomizia.it###_ad_10926
 panoz.it###ad
-soldioggi.it###ad1
-soldioggi.it###ad2
+bsshotel.it,soldioggi.it###ad1
+bsshotel.it,soldioggi.it###ad2
 soldioggi.it###ad3
 soldioggi.it###ad4
 soldioggi.it###ad5
