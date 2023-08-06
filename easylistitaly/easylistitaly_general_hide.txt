@@ -1,8 +1,15 @@
+###adk_article-middle
+###adk_article-top
+###adk_interstitial
+###adk_spalla-bottom
+###adk_spalla-middle
+###adk_spalla-top
 ###eadv-billboard
 ###video-evo-player.player_evolution
 ###yobee-top-page
 ##.AlterVista_Banner
 ##.AlterVista_GoogleAdsense
+##.adk-slot
 ##.ads--primo-piano
 ##.adv-gptslot
 ##.banner-adv
@@ -51,13 +58,7 @@
 ###adasta_box_ros_2
 ###adbanner-laterale
 ###adbanner-stampa
-###adk_article-middle
-###adk_article-top
-###adk_interstitial
 ###adk_masthead
-###adk_spalla-bottom
-###adk_spalla-middle
-###adk_spalla-top
 ###ads-interno-1
 ###ads-interno-2
 ###ads-laterale
@@ -167,7 +168,6 @@
 ##.ad_pedice
 ##.adagiowritebanner_dmtag
 ##.adivi-infeed
-##.adk-slot
 ##.ads-dx
 ##.ads-sx
 ##.ads_dx

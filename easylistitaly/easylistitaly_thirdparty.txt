@@ -264,7 +264,6 @@
 ||wp.com/www.ionoleggioauto.com/banner-$third-party
 ||wp.com/www.rovato.it/*/bannercasa.gif
 ||yoox.it/view.aspx?$subdocument,third-party
-||youtube-nocookie.com/embed/ac2pZ0m9Kn8$domain=fotografidigitali.it
 ||youtube.com/embed/6NpU5MhmUtg$domain=lapalestra.it
 ||youtube.com/embed/C6-nzz8XTKg$domain=ilportaledelcavallo.it
 ||youtube.com/embed/f5YM1v4F32c$domain=investomagazine.com

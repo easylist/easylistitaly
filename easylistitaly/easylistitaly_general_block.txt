@@ -1,6 +1,7 @@
 -banner-pubblicitario-
 .it/ads/$image
 .it/adv/
+/banner-pubblicitari/*
 /pubblicita%CC%80-
 /TiscaliADV_
 _pubblicita.
@@ -34,7 +35,6 @@ _pubblicita.
 /altro/adv/*
 /annunciogoogle.
 /archivio/advertising/*
-/banner-pubblicitari/*
 /banner/adv-
 /bannerpubblicitario.
 /banners/ADV-
