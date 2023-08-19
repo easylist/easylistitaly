@@ -311,6 +311,7 @@ corrierecesenate.it,lavitacattolica.it##.block-banners
 cascinanotizie.it##.block-block
 lavocedimanduria.it##.block-first-ads
 ilroma.net##.block-rotating-banner
+iphoneitalia.com##.block_vidverto
 html.it##.blz-url
 corriereirpinia.it##.body-link-padding
 popcorntv.it##.box-adv
