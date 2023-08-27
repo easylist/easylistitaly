@@ -115,6 +115,7 @@ forum.tomshw.it###mpudesk
 mondoplay.it,mondoxbox.com###offersbox
 mondoplay.it,mondoxbox.com###offersbox_wide
 prendiporno.tv###overlay-video
+corriere.it###pno-text-article-bottom
 gazzettadellemilia.it###popop_wrap
 lagazzettamessinese.it,lagazzettasiracusana.it###post-sidebar-wrap
 alqamah.it###ppp_box
@@ -302,6 +303,7 @@ bagherianews.com,corriereannunci.it,corrierenews.it,corriereproposte.it,dedalomu
 assisisport.it,geronimo.news##.banners
 biancoebruno.it##.bannertop
 mondopadano.it##.bbanner
+corriere.it##.bck-adv
 bikeitalia.it##.bg-banner
 altoadige.it,giornaletrentino.it##.bg300x250
 lagazzettadelmezzogiorno.it##.bgbanner
@@ -319,6 +321,7 @@ centropagina.it##.box-b
 tefchannel.it##.box-banner
 tefchannel.it##.box-banner-top
 balarm.it##.box-evidenza
+corriere.it##.boxADVmanuale
 caneogolf.it##.boxbannerhome
 infocilento.it##.boxprepost
 clubdoria46.it##.boxzilla
@@ -485,6 +488,7 @@ bresciaoggi.it,ilgiornaledivicenza.it,larena.it,radioverona.it,telearena.it,tele
 ecovicentino.it##.new_class_eco
 italia-informa.com##.newsitemAdv
 laleggepertutti.it##.notizie-blue-bnr-one
+laleggepertutti.it##.notizie-blue-bnr-two
 diretta.it,flashscore.it##.oddsPlacement
 boatindustry.it,boatsnews.it,pescare.news##.p
 nostrofiglio.it##.par-listing-collab
