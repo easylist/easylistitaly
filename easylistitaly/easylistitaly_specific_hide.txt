@@ -201,7 +201,7 @@ gizchina.it,gufo.it##.__lxG__multi
 anteprima24.it,araberara.it,assinews.it,centotrentuno.com,djmagitalia.com,dronezine.it,farevela.net,feelrouge.tv,fishingboatmagazine.it,giornaleibleo.it,ilfattonisseno.it,ilgolfonline.it,lamescolanza.com,madoniepress.it,meteofinanza.com,monrealepress.it,newscatania.com,radiocassinostereo.com,sicilia24h.it,vesuviolive.it,vivicentro.it##.a-single
 ispazio.net##.a-wrap
 fut18italia.it,gommeblog.it,reviewbox.it,tuttotek.it##.aawp
-icasa.ch,ilfoglio.it,lacrocequotidiano.it,mondoplay.it,mondoxbox.com##.ad
+eurosport.it,icasa.ch,ilfoglio.it,lacrocequotidiano.it,mondoplay.it,mondoxbox.com##.ad
 abruzzoindependent.it##.ad-banner
 badtaste.it,supertv.it##.ad-container
 theitaliantimes.it##.adb
