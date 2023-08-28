@@ -270,6 +270,8 @@
 ||gazzettinodelchianti.it/wp-content/uploads/*/banner-
 ||genova3000.it/images/banners/
 ||geronimo.news/media/banners/
+||gigishow.it/site/images/banners/
+||gigishow.it/site/images/sponsor/
 ||giglionews.it/images/banner_
 ||giglionews.it/images/minicrociere-giglio-giannutri.jpg
 ||giochi-gratis.eu/card-banner.png
