@@ -187,6 +187,7 @@ cinemaitaliano.info##.Banner970x250
 fc-suedtirol.com##.BannerContainer
 cinemaitaliano.info##.BannerDx
 atripaldanews.it##.BannerTop
+laleggepertutti.it##.BelowTitle
 edilportale.com##.BigSquare
 audisportclubitalia.blogspot.com##.Image.widget
 tv2000.it##.ImageBanner
