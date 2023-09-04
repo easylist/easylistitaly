@@ -529,6 +529,7 @@ bmwpassion.com,phica.eu##.samCodeUnit
 community.punterforum.com##.samItem
 lacnews24.it##.sb-banner
 catanzaroinforma.it##.sb-box-pubbliredazionale
+fiorentinanews.com##.secondWidget
 greenstyle.it##.section-sticky-rail
 comunicalo.it,coriglianocalabro.it,crotoneok.it##.sgpb-popup-dialog-main-div-wrapper
 comunicalo.it,coriglianocalabro.it,crotoneok.it##.sgpb-popup-overlay
