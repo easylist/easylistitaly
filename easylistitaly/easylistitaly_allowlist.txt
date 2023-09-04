@@ -1,5 +1,7 @@
+@@||amazon-adsystem.com/aax2/apstag.js$script,domain=video.gazzetta.it
 @@||buonenotiziebologna.it/images/banners/logos/bnb/logo.png
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=agi.it|vrsicilia.it
+@@||components2.rcsobjects.it/rcs_adv/v1/distro/dfp/common/prebid7.33.0.js$script,domain=video.gazzetta.it
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=agi.it|video.gazzetta.it|vrsicilia.it
 @@||video.comingsoon.it/Adv/Box/$image,media
 !
 @@||ads.lfstmedia.com/getad?site=$script,domain=spaghetti-interactive.it
