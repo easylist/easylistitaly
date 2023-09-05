@@ -323,6 +323,7 @@ tefchannel.it##.box-banner
 tefchannel.it##.box-banner-top
 balarm.it##.box-evidenza
 corriere.it##.boxADVmanuale
+flashscore.it##.boxOverContent__banner
 caneogolf.it##.boxbannerhome
 infocilento.it##.boxprepost
 clubdoria46.it##.boxzilla
