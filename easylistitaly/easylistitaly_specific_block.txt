@@ -185,6 +185,8 @@
 ||corriereproposte.it/images/banners/
 ||cosedicasa.com/wp-content/uploads/sidespot/
 ||cralistruzione.it/images/convenzionati/banner/
+||cremaonline.it/ajax/visBanPub2018.php
+||cremaonline.it/js/skin.js
 ||cronacaflegrea.it/banner/
 ||cronachetarantine.it/images/nuovi-banner-quadrati/
 ||crotone24news.it/images/banners/

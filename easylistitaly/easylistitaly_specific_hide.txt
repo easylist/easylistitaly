@@ -131,7 +131,7 @@ zaffiromagazine.com###section-id-1582563950308
 parigi2024.coni.it###section-id-1678964502057
 msmotor.tv###sezpartnercommerciali
 emiliagol.it###sfondo_pop
-allmusicitalia.it,corrieredellosport.it,tuttosport.com###skin
+allmusicitalia.it,corrieredellosport.it,cremaonline.it,tuttosport.com###skin
 arezzo24.net###skin-banner
 altoadigegol.it,emiliagol.it,friuligol.it,toscanagol.it###skinclick
 algheronotizie.com,comunicati-stampa.net,finestresullarte.info,freeonline.org,verdeazzurronotizie.it###skinlink
