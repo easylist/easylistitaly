@@ -254,7 +254,7 @@ condominioweb.com##.ban_home
 castelvetranonews.it##.banflo
 piuincontri.com##.banitem
 condominioweb.com##.bann-home
-1001giochi.it,assisieventi.it,assisinews.it,asteannunci.it,atalanta.it,avinews.it,bikeitalia.it,camperonline.it,casateonline.it,catanzaroinforma.it,conquistedellavoro.it,coriglianocalabro.it,crema-news.it,cremaoggi.it,cremonaoggi.it,cremonasport.it,cuneocronaca.it,euroregionalpmed.eu,giochixl.it,hcb.net,key4biz.it,leccoonline.com,luccaindiretta.it,merateonline.it,oglioponews.it,romadailynews.it,sportando.basketball,valtiberinaonline.it,varesenews.it##.banner
+1001giochi.it,assisieventi.it,assisinews.it,asteannunci.it,atalanta.it,avinews.it,bikeitalia.it,camperonline.it,casateonline.it,catanzaroinforma.it,conquistedellavoro.it,coriglianocalabro.it,crema-news.it,cremaoggi.it,cremonaoggi.it,cremonasera.it,cremonasport.it,cuneocronaca.it,euroregionalpmed.eu,giochixl.it,hcb.net,key4biz.it,leccoonline.com,luccaindiretta.it,merateonline.it,oglioponews.it,romadailynews.it,sportando.basketball,valtiberinaonline.it,varesenews.it##.banner
 1001giochi.it,amicidicasa.it,canavesetoday.it,edicoladigitale.info,lacrocequotidiano.it##.banner-container
 buonapesca.it##.banner-display
 fiscal-focus.it##.banner-full-width-3
@@ -541,7 +541,7 @@ estrazionedellotto.it##.sidebar-right
 sicurauto.it##.sidebar-sticky-top
 cosedicasa.com##.sidespot-wrapper
 animeclick.it,greenme.it##.skin
-cremaoggi.it,cremonaoggi.it,cremonasport.it,oglioponews.it##.skin-container
+cremaoggi.it,cremonaoggi.it,cremonasera.it,cremonasport.it,oglioponews.it##.skin-container
 brindisisettenews.it,leccesette.it##.skin-desktop
 lavoripubblici.it##.skin-link
 digitalic.it##.skin_a_dx
