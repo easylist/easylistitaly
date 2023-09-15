@@ -5,6 +5,7 @@
 ||24newsonline.it/images/*_banner_
 ||24newsonline.it/images/banner/
 ||24newsonline.it/index.php/banner-
+||3bmeteo.com/banner/
 ||3tre3.it/3tres3_common/pub/
 ||51news.it/images/banners/
 ||51news.it/images/banners_

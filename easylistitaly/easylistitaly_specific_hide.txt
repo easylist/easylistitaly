@@ -111,6 +111,7 @@ forum.tomshw.it###masthead
 allasianfootball.com###media_image-2
 mymovies.it###middle1_companion
 gamereactor.it###mpu
+3bmeteo.com###mpu_t
 forum.tomshw.it###mpudesk
 mondoplay.it,mondoxbox.com###offersbox
 mondoplay.it,mondoxbox.com###offersbox_wide
