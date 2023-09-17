@@ -13,7 +13,6 @@
 ||incontripersesso.com/landing/$popup
 ||informatoriads.snai.it^$popup,third-party
 ||lp.starvegas.it^$popup,third-party
-||lupoporno.com^$popup,third-party
 ||mmwebhandler.aff-online.com^$popup,third-party
 ||okincontri.com^$popup,third-party
 ||partypoker.it/td/$popup
