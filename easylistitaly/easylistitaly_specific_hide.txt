@@ -1322,6 +1322,7 @@ ilportaledelcavallo.it##.ab_top_banner
 facileporno.com##.abcnn___video-units
 tag24.it##.above-footer
 ilsole24ore.com##.abox
+trivenetogoal.it##.accordion-section>img
 radioitalia.it##.acquista
 sololibri.net##.acquista-esterno
 tomshw.it##.acquista_button_group
