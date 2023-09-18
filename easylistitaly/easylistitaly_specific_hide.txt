@@ -351,6 +351,7 @@ avvisatore.com,bottadiculo.it,calabrianews24.com,casasuper.it,clubdoria46.it,gam
 picenotime.it##.col-12.col-lg-6
 picenotime.it##.col-12.col-sm-4.py-3
 lacrocequotidiano.it##.column-banner
+gay.it##.compact-featured
 edilportale.com##.cont-leaderBoard
 provinciagranda.it##.cont_banner_slide
 portoravennanews.com##.container-banner
