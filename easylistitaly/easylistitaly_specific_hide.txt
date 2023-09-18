@@ -1599,6 +1599,7 @@ bitsandchips.it##.big-g-page
 bitsandchips.it##.big-g-sidebar
 spoletonline.com##.bigBanner
 ilcaffe.tv##.big_box
+bella-piscina.it##.big_section_bann
 virtusverona.it##.bigbanner
 foodnetwork.it,money.it##.billboard
 palermopost.it##.bjsromgazn-container
