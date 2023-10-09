@@ -445,6 +445,7 @@ corrierenazionale.it##.jetpack-image-container
 nextpit.it##.jobbioapp
 beneventocalcio.club##.kode-partner
 rollingstone.it##.l-home-branded-block
+laluce.news##.laluc-widget
 libero.it##.lancio_promo
 blablive.com##.leader-wrap-out
 prealpina.it##.leaderboard
