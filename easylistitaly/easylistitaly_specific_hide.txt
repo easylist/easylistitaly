@@ -1906,6 +1906,7 @@ transfermarkt.it##.hide-for-small[style="height: 273px; text-align: center; over
 mathadvantage.org##.hijau
 valdarnopost.it##.home-centra-spot-300
 radioram.it##.home-featured-boxes
+pharmacyscanner.it##.home-section-banner-large
 ilturista.info##.hotel-form
 livingcesenatico.it##.hover-wrap
 moto.it##.hpblock.linkedimage
@@ -2287,7 +2288,7 @@ viterbopost.it##.sponsorA
 facciabuco.com##.sponsor_box
 vocetempo.it##.sponsor_home
 teramocalcio.it##.sponsor_slide
-dday.it,tomshw.it##.sponsored
+dday.it,pharmacyscanner.it,tomshw.it##.sponsored
 agrifoodtoday.it,agrigentonotizie.it,anconatoday.it,arezzonotizie.it,avellinotoday.it,baritoday.it,bolognatoday.it,bresciatoday.it,brindisireport.it,casertanews.it,cataniatoday.it,cesenatoday.it,chietitoday.it,firenzetoday.it,foggiatoday.it,forlitoday.it,genovatoday.it,ilpescara.it,ilpiacenza.it,latinatoday.it,lecceprima.it,leccotoday.it,livornotoday.it,milanotoday.it,modenatoday.it,monzatoday.it,napolitoday.it,novaratoday.it,padovaoggi.it,palermotoday.it,parmatoday.it,perugiatoday.it,pisatoday.it,quicomo.it,ravennatoday.it,riminitoday.it,romagnaoggi.it,romatoday.it,salernotoday.it,sondriotoday.it,sportpiacenza.it,today.it,torinotoday.it,trentotoday.it,trevisotoday.it,triesteprima.it,udinetoday.it,veneziatoday.it,veronasera.it,vicenzatoday.it##.sponsored-story
 unionesarda.it##.sponsored-teaser
 techgaming.it##.sponsored-texts
@@ -3134,5 +3135,7 @@ laleggepertutti.it#?#.cl-amp-important-information:-abp-has(div:-abp-contains(An
 laleggepertutti.it#?#.custom-html:-abp-has(div:-abp-contains(Annuncio pubblicitario))
 lospiffero.com#?#.article-blog-default:-abp-has(span:-abp-contains(CONTENUTO SPONSORIZZATO))
 orvietosi.it#?#.jeg_slide_item:-abp-has(.category-sponsorizzate)
+pharmacyscanner.it#?#.similar-post-holder:-abp-has(.categoria:-abp-contains(Post sponsorizzato))
+pharmacyscanner.it#?#article:-abp-has(.featured + .spons-post)
 radioluna.it#?#.feat-widget-wrap:-abp-has(div:-abp-contains(INFORMAZIONE REDAZIONALE))
 sportando.basketball#?#.widget.widget_block:-abp-has(a[target="_blank"])
