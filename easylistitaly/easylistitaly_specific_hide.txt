@@ -346,7 +346,7 @@ fiorentina.news##.carousel-layout
 ilfattoquotidiano.it##.cc-adv-wrapper
 fitp.it##.cc-content-sponsor
 telenord.it##.click-foto
-avvisatore.com,bottadiculo.it,calabrianews24.com,casasuper.it,clubdoria46.it,gametimers.it,gommeblog.it,greenme.it,grossetosport.com,gstv24.it,mangiabevigodi.it,milanocittastato.it,ok-salute.it##.code-block
+avvisatore.com,bottadiculo.it,calabrianews24.com,casasuper.it,clubdoria46.it,donnaglamour.it,gametimers.it,gommeblog.it,greenme.it,grossetosport.com,gstv24.it,mangiabevigodi.it,milanocittastato.it,ok-salute.it##.code-block
 picenotime.it##.col-12.col-lg-6
 picenotime.it##.col-12.col-sm-4.py-3
 lacrocequotidiano.it##.column-banner
