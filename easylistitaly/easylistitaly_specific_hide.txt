@@ -550,6 +550,7 @@ lavoripubblici.it##.skin-link
 digitalic.it##.skin_a_dx
 digitalic.it##.skin_a_sx
 giocopulito.it##.skinsuperiore
+search.ch##.sl-banner
 gazzettinodelchianti.it,hdgolf.it##.slick-slider
 fremondoweb.com##.sliderclass
 buonenotiziebologna.it##.slides_container

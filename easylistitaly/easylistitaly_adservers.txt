@@ -4,6 +4,7 @@
 ||eadv.it^$third-party
 ||epeex.io^$third-party
 ||natexo-programmatic.com^$third-party
+||ringier-advertising.ch^$third-party
 ||rtbuzz.net^
 ||shoppydoo.com^
 ||yobee.it^$third-party
