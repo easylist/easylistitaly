@@ -382,6 +382,7 @@ gliacchiappafilm.it##.elementor-element-86155c2
 gliacchiappafilm.it##.elementor-element-ba10dde
 newslinet.com##.elementor-element-c3fb427
 bussolafinanziaria.it##.elementor-element-d185417
+business24tv.it##.elementor-element-d7cafb1
 tv9italia.it##.elementor-element-d985f61
 infocilento.it##.elementor-image-carousel-wrapper
 calabria7.it,newslinet.com##.elementor-popup-modal
