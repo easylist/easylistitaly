@@ -1,4 +1,5 @@
 ||ad4m.at^$third-party
+||adkaora.space^$third-party
 ||adplay.it^$third-party
 ||delosnetwork.it^$third-party
 ||eadv.it^$third-party
@@ -7,6 +8,7 @@
 ||ringier-advertising.ch^$third-party
 ||rtbuzz.net^
 ||shoppydoo.com^
+||tjekscores.dk^$third-party
 ||yobee.it^$third-party
 !
 ||178.32.140.64^$third-party,domain=~pirchio.ip
@@ -17,7 +19,6 @@
 ||adbrawl.com^$third-party
 ||adbreak.ch^$third-party
 ||addyon.com^$third-party
-||adkaora.space^$third-party
 ||adnext.it^$third-party
 ||adpartner.it^$third-party
 ||adresponse.it^$third-party
@@ -94,7 +95,6 @@
 ||partypartners.it^$third-party
 ||payclick.it^$third-party
 ||paypublicity.it^$third-party
-||pc-on-internet.com^
 ||pirchio.com^$third-party
 ||plavid.com^$third-party
 ||preludeadv.it^$third-party
@@ -127,13 +127,11 @@
 ||tgadv.it^$third-party
 ||tgadvcdn.it^$third-party
 ||tipster.space^$third-party
-||tjekscores.dk^$third-party
 ||upstory.it^$third-party
 ||viralbeat.com^$third-party
 ||wailay.com^$third-party
 ||wbusiness.fr^$third-party
 ||widebanner.com^$third-party
 ||worldfilia.net^$third-party
-||zanox-affiliate.de^$third-party
 ||zariumhb.com^$third-party
 ||zodiakactive.com^$third-party

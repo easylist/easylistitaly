@@ -1,16 +1,2 @@
 @@||ad.doubleclick.net/ddm/trackclk/$popup,domain=autoxy.it
-@@||ads.betfair.com/redirect.aspx?$popup,domain=superscommesse.it
-@@||ads.leovegas.com/redirect.aspx?$popup,domain=superscommesse.it
-@@||ads.planetwin365affiliate.com/redirect.aspx?$popup,domain=superscommesse.it
-@@||ads.sisal.it/promoRedirect?$popup,domain=superscommesse.it
-@@||affiliazioniads.snai.it^$popup,domain=superscommesse.it
-@@||betway.it/bwp/$popup,domain=superscommesse.it
-@@||campaigns.williamhill.it/C.ashx?$popup,domain=superscommesse.it
-@@||codere.it/promoRedirect?$popup,domain=superscommesse.it
-@@||entainpartners.com/renderBanner.do?$popup,domain=superscommesse.it
-@@||gvcaffiliates.com/renderBanner.do?$popup,domain=superscommesse.it
-@@||mmwebhandler.aff-online.com^$popup,domain=superscommesse.it
-@@||record.betpartners.it^$popup,domain=superscommesse.it
-@@||starvegas.it/gmg/refer/$popup,domain=superscommesse.it
-@@||wllottomatica.adsrv.eacdn.com/C.ashx?$popup,domain=superscommesse.it
 @@||zenaps.com/rclick.php?$popup,domain=idealo.it

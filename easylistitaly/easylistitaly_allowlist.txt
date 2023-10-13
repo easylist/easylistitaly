@@ -24,7 +24,6 @@
 @@||amazon-adsystem.com/aax2/apstag.js$script,domain=corrieredellosport.it|tuttosport.com
 @@||ansa.it^*/ad-gallery/$image
 @@||antonioranesi.it/cache/Lavori/Pubblicita/$~third-party
-@@||aperture-supermercati.it/immagini/catena-20/conad.jpg
 @@||api.everli.com/sm/api/*&adgroupid=$~third-party,xmlhttprequest
 @@||assets.evolutionadv.it/adnkronos_com/adnkronos_com.new.js$domain=adnkronos.com
 @@||assets.evolutionadv.it/adnkronos_com/video.js$domain=adnkronos.com
@@ -34,7 +33,6 @@
 @@||assets.evolutionadv.it^*/gpt.min.js$domain=money.it
 @@||assets.evolutionadv.it^*/optiload.min.js$domain=adnkronos.com|comingsoon.it|money.it
 @@||assets.evolutionadv.it^*/prebid.min.js$domain=adnkronos.com|comingsoon.it|money.it
-@@||business24tv.it/_static/*/OAsX/$stylesheet,~third-party
 @@||carloneworld.it^*/tastixhumpp_b12_Pubblicita_Taroccate.png
 @@||carrozzeriabertazzoni.it/immagini/PUBBLICITA.gif
 @@||carrozzeriabertazzoni.it/pubblicita/
@@ -44,7 +42,6 @@
 @@||cheapnet.it/adv/$~third-party
 @@||confiant-integrations.global.ssl.fastly.net/*/gpt_and_prebid/config.js$domain=comingsoon.it
 @@||confiant-integrations.net/*/gpt_and_prebid/config.js$domain=adnkronos.com
-@@||digitaleterrestrefacile.it/detroitchicago/dayton.js?
 @@||dincontri.com/ads/galleries/crops/$image,~third-party
 @@||dotandad.com/TiscaliAds.js$domain=ansa.it
 @@||doubleclick.net/gpt/pubads_impl_$script,domain=corrieredellosport.it|tuttosport.com
@@ -52,10 +49,8 @@
 @@||forebase.com/plugin/*/images/ads/$image
 @@||forebase.com/plugin/ads.htm?$subdocument
 @@||g.doubleclick.net/tag/js/gpt.js$script,domain=corrieredellosport.it|tuttosport.com
-@@||gelocal.it/adimages/
 @@||google.com/adsense/$subdocument,domain=sedo.ch|sedo.it
 @@||google.com/adsense/search/ads.js$script,domain=tutti.ch
-@@||ilparking-moto.it/images/flag/gif/ad.gif
 @@||images.sbito.it/api/v1/sbt-ads-images-pro/images/ad/$image,domain=subito.it
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=3bmeteo.com|auto.it|capital.it|corrieredellosport.it|guerinsportivo.it|huffingtonpost.it|inmoto.it|la7.it|liveksoft.tv|livesicilia.it|m2o.it|movieplayer.it|multiplayer.it|radiofreccia.it|radioitalia.it|radiozeta.it|rds.it|rtl.it|tuttosport.com|velvetgossip.it|video.deejay.it|video.espresso.repubblica.it|video.ilsecoloxix.it|video.lanuovasardegna.it|video.lastampa.it|video.rep.repubblica.it|video.repubblica.it|vvvvid.it|youreporter.it
 @@||improvedigital.com/pbw/headerlift.min.js$domain=funnygames.it|gioco.it
@@ -71,13 +66,9 @@
 @@||propathos.com/wp-content/uploads/2020/11/cropped-propathos-certified-google-adwords.png$image,~third-party
 @@||rcsobjects.it/rcs_adv/v1/distro/dfp/common/prebid7.$domain=la7.it
 @@||rcsobjects.it/rcs_data-tracking/v1/distro/openx/openx_async.js$domain=la7.it
-@@||repubblica.it/adimages/
 @@||stats.betradar.com^$subdocument,domain=sisal.it
 @@||sun.novara.it/image/pubblicita.jpg
 @@||synchrobox.adswizz.com/register2.php$script,domain=105.net|r101.it|radiomontecarlo.net|virginradio.it
-@@||terradidelizie.s3.amazonaws.com/banners/$image,domain=terradidelizie.it
-@@||ubibanca.com^*/ubi-adbanner.js
-@@||video.lactv.it/adtech/css/player_v3.min.css$stylesheet,~third-party
 @@||videosynd.kataweb.it/advertising/$xmlhttprequest,domain=videosynd.kataweb.it
 @@||virgilio.it^*?advTile=$subdocument,domain=mailweb.virgilio.it
 @@||vobis.it/ZeusInc/AdFarm/Image/$image,~third-party

@@ -1,4 +1,3 @@
-cosavisitareanewyork.com#@##adbox
 corr.it#@##adv-Top
 repubblica.it#@##advtop
 subito.it#@##body_ad
@@ -12,11 +11,8 @@ bakeca-incontri.net#@#.ad_center
 subito.it#@#.ad_links
 huffingtonpost.it#@#.ad_spot
 newscrawler.it#@#.ad_wrapper
-filmeter.net#@#.adbanner
 subito.it#@#.adcont
-seitv.it#@#.admania_themead
 bakeca-incontri.net#@#.adtitle
-abilitychannel.tv#@#.adv-skin
 altervista.org#@#.adv_esterno
 ilgiornaleditalia.it#@#.bannervcms
 ilbaratto.com#@#.jquery-script-ads

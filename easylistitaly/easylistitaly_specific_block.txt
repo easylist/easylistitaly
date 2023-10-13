@@ -393,6 +393,7 @@
 ||visitvco.it/images/banner/
 ||wechianti.com/wp-content/uploads/*/Banner-
 ||wp.com^*/banner/$domain=buongiornoslovacchia.sk
+||xtremehardware.com/instant-gaming.png
 ||yuvideos.com/banner/
 !
 ||datameteo.com^*/clickday.jpg
@@ -2878,7 +2879,6 @@
 ||wp.com^*-banner-$domain=funghimagazine.it|lagazzettaaeroportuale.it|libringioco.blog|nerdpool.it
 ||wp.com^*/banner-$domain=cinecorriere.it|foggiagol.it|funghimagazine.it|giornaledicalabria.it|ilgiornaledeiveronesi.it|lagazzettaaeroportuale.it|libringioco.blog|nonsoloturisti.it|oggicronaca.it|sentieriselvaggi.it|teleischia.com|temporeale.info
 ||wp.com^*/banner_$domain=agropolinews.it|bimbonaturale.org|brescia2.it|thewalkoffame.it
-||xtremehardware.com/instant-gaming.png
 ||yescalabria.com^*/CaffeMauro300X600-
 ||yescalabria.com^*/caffemauro728x90-
 ||yesmagazine.it^*_780X90.

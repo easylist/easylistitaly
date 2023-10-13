@@ -6,6 +6,7 @@
 ||blogspot.com^*/XXX.jpg$domain=siciliaunonews.com
 ||booking.com^$subdocument,domain=circuitoturismo.it|domanidoveandiamo.it
 ||campingsportmagenta.com/CamperOnline/$third-party
+||dhresource.com^$domain=xtremehardware.com
 ||dynamic.rcefoto.com^$domain=juzaphoto.com
 ||funshopping.it/iframe_embed/$third-party
 ||gmdigital.it^*/adplay.js
@@ -78,7 +79,6 @@
 ||d3qrbrazsnzdog.cloudfront.net^
 ||debriditalia.com/images/$third-party
 ||delosstore.it/banner/
-||dhresource.com^$domain=xtremehardware.com
 ||diariodelwebsrl.it/js/web/oasport.js
 ||digitaladv.despar.it^
 ||digitalwebbusiness.com^*/banners.$third-party
