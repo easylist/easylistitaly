@@ -485,7 +485,7 @@ cremaoggi.it,cremonaoggi.it,oglioponews.it##.mondopadano-container
 bergamoesport.it##.mv15 > .block > .fw
 bergamoesport.it##.mv15 > .fw
 bergamoesport.it##.mv15.block > .fw
-greenstyle.it##.mxm_wrapper
+cineblog.it,greenstyle.it,soundsblog.it,tvblog.it##.mxm_wrapper
 calabrianews24.com##.n2-section-smartslider
 telemia.it##.n2-ss-slide-1014
 ildolomiti.it##.native
