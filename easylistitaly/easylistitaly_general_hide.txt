@@ -5,6 +5,7 @@
 ###adk_spalla-middle
 ###adk_spalla-top
 ###eadv-billboard
+###rcsad_TopLeft_container
 ###video-evo-player.player_evolution
 ###yobee-top-page
 ##.AlterVista_Banner
