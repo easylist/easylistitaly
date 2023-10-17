@@ -623,6 +623,7 @@ casertaweb.com##.vc_carousel-inner
 expartibus.it##.vc_custom_1548952245523
 fiorentina.news##.vc_single_image
 ufficistampanazionali.it##.vlchbykoag
+vetrinamotori.it##.vm-adunit
 catanista.com##.w-100
 radioluna.it,sora24.it##.wallpaper-link
 lantidiplomatico.it,oddslot.it##.widget-banner
