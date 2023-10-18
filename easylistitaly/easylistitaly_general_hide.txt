@@ -4,6 +4,7 @@
 ###adk_spalla-bottom
 ###adk_spalla-middle
 ###adk_spalla-top
+###adv_nativa
 ###eadv-billboard
 ###rcsad_TopLeft_container
 ###video-evo-player.player_evolution
