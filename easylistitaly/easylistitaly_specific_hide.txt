@@ -626,7 +626,7 @@ ufficistampanazionali.it##.vlchbykoag
 vetrinamotori.it##.vm-adunit
 catanista.com##.w-100
 radioluna.it,sora24.it##.wallpaper-link
-lantidiplomatico.it,oddslot.it##.widget-banner
+lantidiplomatico.it,maremmanews.it,oddslot.it##.widget-banner
 supertennis.tv##.widget-banner-container
 ilgolfonline.it##.widget_black_studio_tinymce
 grossetosport.com,scrivolibero.it##.widget_block
