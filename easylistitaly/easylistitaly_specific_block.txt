@@ -329,6 +329,7 @@
 ||meteoaquilano.it/images/logo_
 ||meteoaquilano.it/images/pianeta_ciclo_
 ||meteoaquilano.it/Sponsor/
+||milanofinanza.it^*/sponsor2.png
 ||misterstudent.tv/o/sponsor/
 ||mmawiki.org^*/adv-
 ||mondopadano.it/media/statiche/mondopadano/ADV/
@@ -351,6 +352,7 @@
 ||palermomania.it/public/banner/
 ||palermoparla.news/root/wp-content/uploads/*/banner_
 ||parigi2024.coni.it/images/partner/
+||phica.eu/zanzan.js
 ||piuincontri.com/img/tbl/ban/
 ||piunotizie.it/wp-content/uploads/*/SKIN-
 ||plx.pornototale.com^
@@ -1149,10 +1151,6 @@
 ||mi-lorenteggio.com^*/bannerbasso.gif
 ||mialleno.it^*/2020-02-15-2.png
 ||microgiochi.com/img/gdesire.jpg
-||milanofinanza.it^*/activtrades.gif
-||milanofinanza.it^*/sponsor2.png
-||milanofinanza.it^*/turbo24-head-new.jpg
-||milanofinanza.it^*/unicredit-mfiu-small.png
 ||milanosud.it^*-banner.
 ||milanosud.it^*/banner-
 ||milanosud.it^*/BANNER_
@@ -1567,9 +1565,6 @@
 ||pyrosonline.it/site/public/image/20200131153026.jpg
 ||qcanavese.it/banner/
 ||qdpnews.it/images/banners/
-||quattroruote.it^*/banners/
-||quattroruote.it^*/box-eni-
-||quattroruote.it^*/sponsor/
 ||quellidellelica.com/images/banners/
 ||quellidellelica.com/SKIN/
 ||quibrianzanews.com^*/banner_
