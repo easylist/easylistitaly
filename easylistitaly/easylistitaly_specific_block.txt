@@ -345,9 +345,15 @@
 ||ossola24.it/images/banner/
 ||ottofm.com/wp-content/uploads/*/banner-
 ||ottofm.com/wp-content/uploads/*/mainini-
+||palermomania.it/images/banner/
+||palermomania.it/images/banner_
+||palermomania.it/images/informaticanetizen-
+||palermomania.it/public/banner/
+||palermoparla.news/root/wp-content/uploads/*/banner_
 ||parigi2024.coni.it/images/partner/
 ||piuincontri.com/img/tbl/ban/
 ||piunotizie.it/wp-content/uploads/*/SKIN-
+||plx.pornototale.com^
 ||podisti.net/images/banners/
 ||pordenoneoggi.it/wp-content/uploads/*/banner-
 ||portalecanicatti.info/images/banners/
@@ -395,6 +401,8 @@
 ||wp.com^*/banner/$domain=buongiornoslovacchia.sk
 ||xtremehardware.com/instant-gaming.png
 ||yuvideos.com/banner/
+! (/sw.js)
+/^https?:\/\/.*\/.*sw[0-9._].*/$script,domain=pornototale.com
 !
 ||datameteo.com^*/clickday.jpg
 ||datameteo.com^*/logo-scamuzzi.png
@@ -1401,10 +1409,6 @@
 ||ondalibera.it/images/banners/
 ||ondanovara.it^*_banner_
 ||ondatv.tv^*/banner-
-||onedance.fm^*/430-x-350-
-||onedance.fm^*/728-x-90-
-||ontuscia.it^*/2021/02/2BF65CC6-E2A3-42EC-946D-29D8BD681FCB.png
-||ontuscia.it^*/330.jpg
 ||operaclick.com/sites/default/files/banners/
 ||opinione.it/media/*/finedi-
 ||opinione.it/media/*/im-
@@ -1415,39 +1419,14 @@
 ||orologioblog.net/wp-content/uploads/banner/
 ||oroscopo.life/banner
 ||oroscopogiorno.it/mondo300.jpg
-||ortodacoltivare.it^*/990x200_
-||ortodacoltivare.it^*/ortofacile.jpg
-||ortodacoltivare.it^*/solabiol.jpg
-||ortodacoltivare.it^*/videocorso-orto.jpg
-||ortofrutta.com^*/promo-
-||orvieto24.it^*-Banner_
-||ostiatv.it/upl/banner
-||ostuninews.it^*/pierpaolo-marseglia-
 ||pablitoescort.com/images/banner/
 ||padelmagazine.it/images/banner/
-||padovagoal.it^*-660-X-90-
-||padovagoal.it^*-660-x-90.
-||padovagoal.it^*-660x90.
-||padovagoal.it^*/290X250-
-||padovagoal.it^*/660X90-
-||padovagoal.it^*/argi1.jpg
-||padovagoal.it^*_600x199-
 ||padovanews.it/images/banners/
-||paesesera.toscana.it^*/banner-
-||paesesera.toscana.it^*/Estra_
-||paesesera.toscana.it^*/unnamed.jpg
 ||paganesecalcio.com^*/agrovo-
 ||paganesecalcio.com^*/caiazzo-
 ||paganesecalcio.com^*/GIONOVA-
 ||paganesecalcio.com^*/Logo-Effezeta-
 ||pagineazzurre.com^*/ld-marinaportoantico.jpg
-||palermomania.com/images/banner/
-||palermomania.it/images/banner/
-||palermomania.it/images/banner_
-||palermomania.it/images/informaticanetizen-
-||palermomania.it/public/banner/
-||palermoparla.news^*/banner_
-||palermopost.it^*/1622491142927.jpg
 ||pallacanestrobiella.it/images/edilnol-
 ||pallacanestrovarese.it^*/loghi-top/
 ||paolociraci.com/sponsor/
@@ -1514,7 +1493,6 @@
 ||plateamajor.com/img/BC_
 ||plusrew.com^*/Guadagna-con-YAP.jpg
 ||plx.mrpornogratis.it^
-||plx.pornototale.com^
 ||pointvet.it/web/media/banner/
 ||poliziamunicipale.it/script/getbnr.aspx?
 ||pontilenews.it/immagini/autodoc.gif
@@ -2879,9 +2857,6 @@
 ||wp.com^*-banner-$domain=funghimagazine.it|lagazzettaaeroportuale.it|libringioco.blog|nerdpool.it
 ||wp.com^*/banner-$domain=cinecorriere.it|foggiagol.it|funghimagazine.it|giornaledicalabria.it|ilgiornaledeiveronesi.it|lagazzettaaeroportuale.it|libringioco.blog|nonsoloturisti.it|oggicronaca.it|sentieriselvaggi.it|teleischia.com|temporeale.info
 ||wp.com^*/banner_$domain=agropolinews.it|bimbonaturale.org|brescia2.it|thewalkoffame.it
-||yescalabria.com^*/CaffeMauro300X600-
-||yescalabria.com^*/caffemauro728x90-
-||yesmagazine.it^*_780X90.
 ||yogajournal.it^*/banner-
 ||youtg.net^*/cornice_
 ||youtvrs.it/c66.png
@@ -2912,9 +2887,5 @@
 ||today.it/~shared/cgi-bin/d_a/
 !
 /^https?:\/\/[0-9a-z]{8,}\.com\/.*/$~media,third-party,domain=altadefinizione-01.info|altadefinizione.immo|altd.uno|animeforce.it|cb01.pizza|cb01.taxi|cbo1.bar|cineblog01.hair|cineblog01.sale|cineblog01.taxi|cineblog01.trade|eurekaddl.cfd|eurekaddl.lol|eurekaddl.mom|eurostreaming.cc|eurostreaming.pics|eurostreaming.rodeo|eurostreaming.sbs|eurostreaming.voyage|guardaserie01.click|ilgeniodellostreaming.live|nuovoindirizzo.com|pepperlive.info
-/^https?:\/\/[0-9a-z]{8,}\.xyz\/.*/$~media,third-party,domain=socceron.name
-! (/sw.js)
-/^https?:\/\/.*\/.*sw[0-9._].*/$script,domain=pornototale.com
 !
 /^https?:\/\/.*\/[a-z0-9A-Z_]{2,15}\.(php|jx|jsx|1ph|jsf|jz|jsm|j$)/$image,script,subdocument,domain=amatorialeporno.it|amoreporno.com|clipdisesso.com|culonudo.com|granditetteporno.it|listasitiporno.it|matrignaporno.it|matureporno.it|milfporno.it|peneporno.com|porno-anale.it|porno-gay.it|porno-hardcore.it|porno-lesbica.it|pornoadolescente.it|pornoamica.com|pornocategorie.com|pornoculi.com|pornomatura.it|pornotreno.com|scopateitaliane.com|scopateitaliane.it|sessoromantico.com|videoporno-gratis.it
-! webrtc ads
