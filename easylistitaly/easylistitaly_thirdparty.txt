@@ -1,5 +1,6 @@
 ||advx.esprimo.com^
 ||affiliatetxt.nextmediaweb.com^
+||autoxy.it/js/combine/lead_banner_min.js$third-party
 ||bannerpress.bps.plap.it^
 ||blogspot.com^*/GM-COMPUTER-LOGO.gif$domain=siciliaunonews.com
 ||blogspot.com^*/Regina%2BMargherita%2BBanner%2B2017_$domain=siciliaunonews.com
