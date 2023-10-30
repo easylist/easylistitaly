@@ -559,7 +559,7 @@ italia-informa.com##.newsitemAdv
 laleggepertutti.it##.notizie-blue-bnr-one
 laleggepertutti.it##.notizie-blue-bnr-two
 diretta.it,flashscore.it##.oddsPlacement
-hdmotori.it##.offer-icons
+hdblog.it,hdmotori.it##.offer-icons
 boatindustry.it,boatsnews.it,pescare.news##.p
 nostrofiglio.it##.par-listing-collab
 fc-suedtirol.com,hcpustertal.com,ragusanews.com##.partner
