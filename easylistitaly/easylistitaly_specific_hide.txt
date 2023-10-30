@@ -550,7 +550,7 @@ bergamoesport.it##.mv15 > .fw
 bergamoesport.it##.mv15.block > .fw
 qdmnotizie.it##.mvp-wall-link
 cineblog.it,greenstyle.it,soundsblog.it,tvblog.it##.mxm_wrapper
-calabrianews24.com##.n2-section-smartslider
+calabrianews24.com,loccidentale.it##.n2-section-smartslider
 telemia.it##.n2-ss-slide-1014
 ildolomiti.it##.native
 bresciaoggi.it,ilgiornaledivicenza.it,larena.it,radioverona.it,telearena.it,telemantova.it##.nativeadv
