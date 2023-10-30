@@ -3100,6 +3100,7 @@ laleggepertutti.it#?#.cl-amp-important-information:-abp-has(div:-abp-contains(An
 laleggepertutti.it#?#.custom-html:-abp-has(div:-abp-contains(Annuncio pubblicitario))
 lospiffero.com#?#.article-blog-default:-abp-has(span:-abp-contains(CONTENUTO SPONSORIZZATO))
 orvietosi.it#?#.jeg_slide_item:-abp-has(.category-sponsorizzate)
+paginegialle.it#?#.search-itm:-abp-has(.search-itm__label:-abp-contains(annuncio))
 pharmacyscanner.it#?#.similar-post-holder:-abp-has(.categoria:-abp-contains(Post sponsorizzato))
 pharmacyscanner.it#?#article:-abp-has(.featured + .spons-post)
 radioluna.it#?#.feat-widget-wrap:-abp-has(div:-abp-contains(INFORMAZIONE REDAZIONALE))
