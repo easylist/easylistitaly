@@ -671,6 +671,7 @@ artuu.it##.tdi_446
 artuu.it##.tdi_450
 ilgiornaledelticino.ch##.tdi_47
 gazzettajonica.it##.tdi_65
+ilbacodaseta.org##.tds-title-over-image
 teleaesse.it##.text-left
 teleaesse.it##.text-right
 caleno24ore.it##.themequote
