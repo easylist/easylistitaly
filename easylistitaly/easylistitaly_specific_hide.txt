@@ -577,6 +577,7 @@ prendiporno.tv##.productora-logo
 ansa.it,comingsoon.it##.promo
 agoravox.it##.pub
 radiogold.it##.pub-content
+paginebianche.it##.pubb
 barinedita.it##.pubbli
 prendiporno.tv##.publ11s-b0ttom
 camperonline.it##.publink
