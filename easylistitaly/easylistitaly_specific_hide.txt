@@ -711,7 +711,7 @@ catanzaro7.net,laquilablog.it##.widget_media_video
 biancavillaoggi.it,buongiornosuedtirol.it##.widget_random_banner_widget
 104news.it##.widget_simpleimage
 dozenblogs.com##.widget_sow-image
-agropolinews.it,corrieregiallorosso.com,emotionrit.it,ibizaa.it,novetv.com##.widget_sp_image
+agropolinews.it,corrieregiallorosso.com,emotionrit.it,ibizaa.it,novetv.com,quotidianodellumbria.it##.widget_sp_image
 clientiesperti.it,computer-acquisti.com,corrieregiallorosso.com,domanidoveandiamo.it,filmforlife.org,finaria.it,fishingboatmagazine.it,giornalesm.com,gliacchiappafilm.it,grossetosport.com,ilpost.it,noinotizie.it,pisa24.info,tusciatimes.eu##.widget_text
 alqamah.it##.widget_xyz_insert_php_widget
 bresciasat.it##.workspace__block--sponsor
@@ -777,7 +777,7 @@ zonalocale.it##div[class*="zonal-"]
 sslazio.it##div[class^="Footer_footerSponsorItem_"]
 tuttoandroid.net##div[class^="OfferteCarousel"]
 gizchina.it,gufo.it,laleggepertutti.it##div[class^="__lxG__"]
-horecanews.it,radioradio.it,vendingnews.it##div[class^="angwp_"]
+horecanews.it,quotidianodellumbria.it,radioradio.it,vendingnews.it##div[class^="angwp_"]
 cilentochannel.com##div[class^="cilen-"]
 alqamah.it##div[class^="unit-zona-"]
 gnoccatravels.com##div[id*="b-nner"]
