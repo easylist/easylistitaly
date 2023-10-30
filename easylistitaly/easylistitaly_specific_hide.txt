@@ -25,6 +25,7 @@ buonapesca.it,picenooggi.it###adv
 liberoquotidiano.it###adv-after-briefly
 farmacia-aperta.eu###adv-info
 agarymathematics.net###adv1
+paginegialle.it###adv_side
 libero.it###adv_topper
 catt.ch###advertising
 empresite.it,reteimprese.it###afscontainer1
