@@ -13,6 +13,7 @@
 ##.AlterVista_GoogleAdsense
 ##.adk-slot
 ##.ads--primo-piano
+##.adunit-mark
 ##.adv-gptslot
 ##.banner-adv
 ##.box_adv_cliccaofferta
