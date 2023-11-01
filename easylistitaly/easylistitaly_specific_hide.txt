@@ -704,6 +704,7 @@ amadeusmagazine.it##.us_custom_c62a4417
 amadeusmagazine.it##.us_custom_d14818f6
 bottadiculo.it##.vc_btn3-container
 casertaweb.com##.vc_carousel-inner
+nuovabrianza.it##.vc_custom_1489165980187
 expartibus.it##.vc_custom_1548952245523
 fiorentina.news##.vc_single_image
 ufficistampanazionali.it##.vlchbykoag
@@ -729,6 +730,7 @@ alqamah.it##.widget_xyz_insert_php_widget
 bresciasat.it##.workspace__block--sponsor
 24live.it,areamediapress.it##.wp-block-image
 radiomarte.it##.wpb_revslider_element
+nuovabrianza.it##.wpb_video_widget
 etvmarche.it##.wpcp-carousel-section
 e-tv.it##.wpcp-carousel-wrapper
 palermolive.it##.wpls-logo-showcase
@@ -888,9 +890,10 @@ napolimagazine.com##img[width="160"]
 civatenews.com,radiogold.tv,valnews.it##img[width="240"]
 animalidacompagnia.it,ascolinews.it,cartabiancanews.com,ciclonet.it,cronacaflegrea.it,radiogold.tv##img[width="250"]
 radiortm.it##img[width="256"]
-2anews.it,alessandria24.com,altissimoceto.it,altropensiero.net,ambientebio.it,bitquotidiano.it,borderline24.com,business24tv.it,calabria7.it,calabriatv.it,campaniapress.it,carteprepagate.org,chefperpassione.it,circusf1.com,clubdoria46.it,comunicalo.it,concorsi-letterari.it,confinelive.it,corriereelorino.it,cosenzachannel.it,dentrosalerno.it,domanidoveandiamo.it,gazzettinodelgolfo.it,guidaviaggi.it,iamnaples.it,ideefesta.it,ilclandestinogiornale.italiasera.it,ilcorriere.net,ilgiornaledelticino.ch,ilgiornaledisalerno.it,ladriatico.info,lapresse.it,lattemiele.com,macitynet.it,malpensa24.it,newtuscia.it,notiziariofinanziario.com,orvieto24.it,pordenoneoggi.it,radiolaquila1.it,radiortm.it,scrivolibero.it,sportchianti.it,startmag.it,tgnewstv.it,todinforma.it,ufficistampanazionali.it,veneziaorientale.news,vercellinotizie.it,xtremehardware.com##img[width="300"]
+2anews.it,alessandria24.com,altissimoceto.it,altropensiero.net,ambientebio.it,bitquotidiano.it,borderline24.com,business24tv.it,calabria7.it,calabriatv.it,campaniapress.it,carteprepagate.org,chefperpassione.it,circusf1.com,clubdoria46.it,comunicalo.it,concorsi-letterari.it,confinelive.it,corriereelorino.it,cosenzachannel.it,dentrosalerno.it,domanidoveandiamo.it,gazzettinodelgolfo.it,guidaviaggi.it,iamnaples.it,ideefesta.it,ilclandestinogiornale.italiasera.it,ilcorriere.net,ilgiornaledelticino.ch,ilgiornaledisalerno.it,ladriatico.info,lapresse.it,lattemiele.com,macitynet.it,malpensa24.it,newtuscia.it,notiziariofinanziario.com,nuovabrianza.it,orvieto24.it,pordenoneoggi.it,radiolaquila1.it,radiortm.it,scrivolibero.it,sportchianti.it,startmag.it,tgnewstv.it,todinforma.it,ufficistampanazionali.it,veneziaorientale.news,vercellinotizie.it,xtremehardware.com##img[width="300"]
 ideawebtv.it##img[width="310"]
 ilsalvagente.it##img[width="320"]
+nuovabrianza.it##img[width="324"]
 tusciaweb.eu,wechianti.com##img[width="336"]
 art-news.it##img[width="345"]
 iamnaples.it##img[width="350"]
@@ -901,7 +904,7 @@ giornalerossoblu.it##img[width="460"]
 italiaciclismo.net##img[width="466"]
 casertace.net,crotoneok.it,glianni80.com,ilgiornaledisalerno.it,paesesera.toscana.it,radiortm.it##img[width="500"]
 agendapolitica.it##img[width="530"]
-artemagazine.it,dazebaonews.it,fisco7.it,fmtv.live,ilgiornaledisalerno.it,radiortm.it##img[width="600"]
+artemagazine.it,dazebaonews.it,fisco7.it,fmtv.live,ilgiornaledisalerno.it,nuovabrianza.it,radiortm.it##img[width="600"]
 cataniavip.it##img[width="609"]
 alessandria24.com##img[width="626"]
 ilsalvagente.it##img[width="690"]
