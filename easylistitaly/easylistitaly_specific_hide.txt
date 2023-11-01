@@ -583,7 +583,7 @@ fip.it##.partners
 dererker.it##.partvert
 dererker.it##.partvert-right
 augustanews.it,avolanews.it,catanianews.it,ibleinews.it,leontinoinews.it,notonews.it,pachinonews.it,sicilianews.it,siracusanews.it##.paszone_container
-evosmart.it##.penci-banner-box
+evosmart.it,nonsolonautica.it##.penci-banner-box
 cagliarinews24.com,calcionews24.com,futsalnews24.com,internews24.com,juventusnews24.com,lawebstar.it,lazionews24.com,milannews24.com,sampnews24.com##.placeholder
 misterstudent.tv,salernoinweb.it##.pollice-volante-all
 pordenoneoggi.it##.porde-widget
