@@ -266,8 +266,4 @@
 ||wp.com/www.rovato.it/*/bannercasa.gif
 ||yoox.it/view.aspx?$subdocument,third-party
 ||youtube.com/embed/6NpU5MhmUtg$domain=lapalestra.it
-||youtube.com/embed/C6-nzz8XTKg$domain=ilportaledelcavallo.it
 ||youtube.com/embed/f5YM1v4F32c$domain=investomagazine.com
-||youtube.com/embed/p0OuIDbH_sI$domain=ilportaledelcavallo.it
-||youtube.com/embed/POnZiaHLpRA$domain=nuovabrianza.it
-||youtube.com/embed/XfHzu8taPbc$domain=sienafree.it
