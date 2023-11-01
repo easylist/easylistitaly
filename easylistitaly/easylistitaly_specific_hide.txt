@@ -430,6 +430,7 @@ nuoto.com##.elementor-element-7c264a8
 brindisitime.it##.elementor-element-7df2ea5
 nuoto.com##.elementor-element-812d66c
 terninrete.it##.elementor-element-81d25aa
+sienafree.it##.elementor-element-820712b
 gliacchiappafilm.it##.elementor-element-86155c2
 nuoto.com##.elementor-element-9d61ccc
 gliacchiappafilm.it##.elementor-element-ba10dde
@@ -437,6 +438,7 @@ nuoto.com##.elementor-element-ba7d4b3
 terninrete.it##.elementor-element-bc84cfe
 newslinet.com##.elementor-element-c3fb427
 nuoto.com##.elementor-element-d025178
+sienafree.it##.elementor-element-d126f8f
 bussolafinanziaria.it##.elementor-element-d185417
 business24tv.it##.elementor-element-d7cafb1
 tv9italia.it##.elementor-element-d985f61
@@ -883,7 +885,7 @@ corriereelorino.it##img[title="Pubblicità"]
 orvietosi.it##img[title^="banner"]
 formula1news.it##img[width="120"]
 sexycommunity.it##img[width="140"]
-1stationradio.com,chefperpassione.it##img[width="150"]
+1stationradio.com,chefperpassione.it,sienafree.it##img[width="150"]
 cinafoniaci.com##img[width="155"]
 napolimagazine.com##img[width="160"]
 1stationradio.com,artemagazine.it,cinafoniaci.com,tusciaweb.eu##img[width="200"]
