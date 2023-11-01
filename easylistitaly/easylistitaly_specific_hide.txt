@@ -397,6 +397,7 @@ picenotime.it##.copy > .mb-5
 uominietrasporti.it##.cp-slidein-popup-container
 ascolicalcio1898.it##.cqcarousel-container
 ilmeteo.net##.creatividad
+crotoneok.it##.croto-widget
 corriere.ca##.ct-code-block
 fitri.it##.custom-cont-banner
 meteofinanza.com##.custom-cta-container
@@ -428,6 +429,7 @@ nuoto.com##.elementor-element-6003641
 brindisitime.it##.elementor-element-6f94cf90
 nuoto.com##.elementor-element-7c264a8
 brindisitime.it##.elementor-element-7df2ea5
+crotoneok.it##.elementor-element-80e080f
 nuoto.com##.elementor-element-812d66c
 terninrete.it##.elementor-element-81d25aa
 sienafree.it##.elementor-element-820712b
