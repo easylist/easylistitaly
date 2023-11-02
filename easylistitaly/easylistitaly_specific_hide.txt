@@ -401,7 +401,7 @@ crotoneok.it##.croto-widget
 corriere.ca##.ct-code-block
 fitri.it##.custom-cont-banner
 meteofinanza.com##.custom-cta-container
-blogdellamusica.eu,carpicalcio.it,fashionandroid.com,gazzettinodelchianti.it##.custom-html-widget
+blogdellamusica.eu,carpicalcio.it,fashionandroid.com,gazzettinodelchianti.it,investomagazine.com##.custom-html-widget
 calciostyle.it##.d-block
 diretta.it,flashscore.it##.detailLeaderboard
 0766news.it,umbriaon.it##.dfad
@@ -471,7 +471,7 @@ palermofc.com##.footer_int
 forbes.it##.forbes-ads-skin-container
 quattroruote.it##.fullBanner
 dozenblogs.com##.fw-block-image-parent
-algheroeco.com,almanaccocalciotoscano.it,amicodelpopolo.it,anteprima24.it,assinews.it,battipaglia1929.it,benessereconomico.it,bitquotidiano.it,bolognaindiretta.it,borsainside.com,buoncalcioatutti.it,calabriareportage.it,calciofvg.live,canale2.com,castelvetranoselinunte.it,centropagina.it,corriereal.info,corrieresalentino.it,dronezine.it,elettricomagazine.it,financecommunity.it,gdonews.it,giornaleadige.it,giornaledellabirra.it,giornaledellavela.com,ilfattonisseno.it,ilgiornaledellabellezza.it,ilgiornaledelmolise.it,ilsicilia.it,lacasainordine.it,lagazzettamarittima.it,lameziaterme.it,lapiazzaweb.it,laquilablog.it,lavocedeltrentino.it,lavocedibolzano.it,lavoceditalia.com,madoniepress.it,meteofinanza.com,milanodabere.it,modenaindiretta.it,monrealepress.it,picenonews24.it,pugliapress.org,radioluna.it,rietinvetrina.it,sanitainsicilia.it,siciliammare.it,siciliarurale.eu,sportmagazinetrentino.it,unicoebello.it,verdeazzurronotizie.it,vesuvianonews.it,vesuviolive.it,webmarte.tv##.g
+algheroeco.com,almanaccocalciotoscano.it,amicodelpopolo.it,anteprima24.it,assinews.it,battipaglia1929.it,benessereconomico.it,bitquotidiano.it,bolognaindiretta.it,borsainside.com,buoncalcioatutti.it,calabriareportage.it,calciofvg.live,canale2.com,castelvetranoselinunte.it,centropagina.it,corriereal.info,corrieresalentino.it,dronezine.it,elettricomagazine.it,financecommunity.it,gdonews.it,giornaleadige.it,giornaledellabirra.it,giornaledellavela.com,ilfattonisseno.it,ilgiornaledellabellezza.it,ilgiornaledelmolise.it,ilsicilia.it,lacasainordine.it,lagazzettamarittima.it,lameziaterme.it,lapalestra.it,lapiazzaweb.it,laquilablog.it,lavocedeltrentino.it,lavocedibolzano.it,lavoceditalia.com,madoniepress.it,meteofinanza.com,milanodabere.it,modenaindiretta.it,monrealepress.it,picenonews24.it,pugliapress.org,radioluna.it,rietinvetrina.it,sanitainsicilia.it,siciliammare.it,siciliarurale.eu,sportmagazinetrentino.it,unicoebello.it,verdeazzurronotizie.it,vesuvianonews.it,vesuviolive.it,webmarte.tv##.g
 diretta.it,flashscore.it##.gamble
 1001giochi.it##.game-leaderboard
 asgiana.com,calciolecco1912.com##.gdlr-banner-item-wrapper
@@ -718,6 +718,7 @@ catanista.com##.w-100
 radioluna.it,sora24.it##.wallpaper-link
 lantidiplomatico.it,maremmanews.it,oddslot.it##.widget-banner
 supertennis.tv##.widget-banner-container
+italiavela.it##.widget.f300x524
 ilgolfonline.it##.widget_black_studio_tinymce
 grossetosport.com,scrivolibero.it,trivenetogoal.it##.widget_block
 androidblog.it,aroundtheworld.pro,assisisport.it,berlinomagazine.com,bollicinevip.com,canalesassuolo.it,carteprepagate.org,circuitoturismo.it,corriereal.info,corrieredelmolise.com,corrierequotidiano.it,dauniacom.it,dayitalianews.com,europacalcio.it,expartibus.it,fantascientificast.com,forestalinews.it,gonews.it,ibizaa.it,ifood.it,ilclandestinogiornale.italiasera.it,ilprimatonazionale.it,immaginaviaggiare.it,italianotizie.online,italyandmore.it,lameziaterme.it,leggopassword.it,mangiabevigodi.it,momentidicalcio.com,napolisera.it,newsfood.com,newtuscia.it,padovagoal.it,quotidianopiemontese.it,scrivolibero.it,sportando.basketball,stadiotardini.it,startmag.it,trivenetogoal.it,tusciatimes.eu,tuttotek.it,umbria.webcam##.widget_custom_html
@@ -2507,7 +2508,6 @@ esportsonline.it##.widget-above-header
 montecarloliving.com##.widget-asd
 agrifoodtoday.it,agrigentonotizie.it,anconatoday.it,arezzonotizie.it,avellinotoday.it,baritoday.it,bolognatoday.it,bresciatoday.it,brindisireport.it,casertanews.it,cataniatoday.it,cesenatoday.it,chietitoday.it,firenzetoday.it,foggiatoday.it,forlitoday.it,genovatoday.it,ilpescara.it,ilpiacenza.it,latinatoday.it,lecceprima.it,leccotoday.it,livornotoday.it,milanotoday.it,modenatoday.it,monzatoday.it,napolitoday.it,novaratoday.it,padovaoggi.it,palermotoday.it,parmatoday.it,perugiatoday.it,pisatoday.it,quicomo.it,ravennatoday.it,riminitoday.it,romagnaoggi.it,romatoday.it,salernotoday.it,sondriotoday.it,sportpiacenza.it,today.it,torinotoday.it,trentotoday.it,trevisotoday.it,triesteprima.it,udinetoday.it,veneziatoday.it,veronasera.it,vicenzatoday.it##.widget-moovit
 gelocal.it,ilsecoloxix.it,lastampa.it,repubblica.it##.widget-sponsor--container
-italiavela.it##.widget.f300x524
 bici-pieghevole.info,caniegatti.info,ciaogreen.it,infotelematico.com,londra.today,migliorecrema.com,miglioripc.it,notiziarte.com,salutemoderna.it##.widget_aawp_widget_bestseller
 bici-pieghevole.info,infotelematico.com,newsly.it,stampante-3d.net,tuttoesselunga.com##.widget_aawp_widget_box
 yoga-magazine.it##.widget_alobaidirandombannerswidget

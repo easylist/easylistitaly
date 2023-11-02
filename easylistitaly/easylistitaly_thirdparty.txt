@@ -1,5 +1,6 @@
 ||advx.esprimo.com^
 ||affiliatetxt.nextmediaweb.com^
+||api.vivisail.com^$domain=italiavela.it
 ||autoxy.it/js/combine/lead_banner_min.js$third-party
 ||bannerpress.bps.plap.it^
 ||blogspot.com^*/GM-COMPUTER-LOGO.gif$domain=siciliaunonews.com
@@ -23,8 +24,10 @@
 ||jooble.org/css/images/logos/jooble_$third-party
 ||postimg.cc^$domain=napolimagazine.com|settecalcio.it|toscanagol.it
 ||sorgentenatura.it/data/img/Banner_$third-party
+||tcccdn.com^*/banner/
 ||venerota.it/lcn_jpg.php$third-party
 ||viaggiare.columbusassicurazioni.it^$third-party
+||viralize.tv/display/$script,domain=teleborsa.it
 ||windows.net^*/Banner/$domain=divisionecalcioa5.it
 !
 ||24hassistance.com^*/banner_$third-party
@@ -45,7 +48,6 @@
 ||aimon.it/banner_
 ||alpitour.it/widget/$third-party
 ||andreafranzoso.com/banner/
-||api.vivisail.com^$domain=italiavela.it
 ||artera.it/banners.php?
 ||atomikecn.nohup.it^$third-party
 ||autocrocetta.com^$domain=quotidianocanavese.it
@@ -229,7 +231,6 @@
 ||stgy.it/images/skin/
 ||supercalcioextra.com^$domain=laprevisione.it
 ||tamtamsrl.it/dreamteam/banner/
-||tcccdn.com^*/banner/
 ||tccstatic.com^*/banner/
 ||tccstatic.com^*/skin/
 ||teetee.eu^$subdocument,third-party
@@ -245,7 +246,6 @@
 ||uplink.aruba.it^$third-party
 ||uzi.it/b/
 ||viagogo.it/feeds/widget.ashx?*&affiliateid=$subdocument
-||viralize.tv/display/$script,domain=teleborsa.it
 ||visitbritainshop.com^$image,third-party
 ||vistosulweb.com/almanacco/
 ||vitaquotidiana.com^$third-party
@@ -265,5 +265,3 @@
 ||wp.com/www.ionoleggioauto.com/banner-$third-party
 ||wp.com/www.rovato.it/*/bannercasa.gif
 ||yoox.it/view.aspx?$subdocument,third-party
-||youtube.com/embed/6NpU5MhmUtg$domain=lapalestra.it
-||youtube.com/embed/f5YM1v4F32c$domain=investomagazine.com
