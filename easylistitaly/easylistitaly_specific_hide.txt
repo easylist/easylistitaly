@@ -265,7 +265,7 @@ dauniacom.it##.advt-col
 agi.it##.agi-ad-wrap
 edagricole.it##.agriaffaires
 chiamamicitta.it##.ai-rotate
-chiamamicitta.it##.ai-viewport-1
+chiamamicitta.it,cosenzaduepuntozero.it##.ai-viewport-1
 avvisatore.com,carovignonotizie.net,ostuninotizie.it##.ai_widget
 valsassinanews.com##.aibwp_banner_widget
 ferrovie.it##.alignC
@@ -368,6 +368,7 @@ clubdoria46.it##.boxzilla
 clubdoria46.it##.boxzilla-overlay
 borsainside.com##.brokers-with-sidebar
 castelvetranonews.it##.brotazione
+cosenzaduepuntozero.it##.bsac
 diaconale.it##.bt_banner
 igds.pro##.btn-01
 igds.pro##.btn-02
