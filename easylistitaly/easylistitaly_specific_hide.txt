@@ -721,7 +721,7 @@ supertennis.tv##.widget-banner-container
 italiavela.it##.widget.f300x524
 ilgolfonline.it##.widget_black_studio_tinymce
 grossetosport.com,scrivolibero.it,trivenetogoal.it##.widget_block
-androidblog.it,aroundtheworld.pro,assisisport.it,berlinomagazine.com,bollicinevip.com,canalesassuolo.it,carteprepagate.org,circuitoturismo.it,corriereal.info,corrieredelmolise.com,corrierequotidiano.it,dauniacom.it,dayitalianews.com,europacalcio.it,expartibus.it,fantascientificast.com,forestalinews.it,gonews.it,ibizaa.it,ifood.it,ilclandestinogiornale.italiasera.it,ilprimatonazionale.it,immaginaviaggiare.it,italianotizie.online,italyandmore.it,lameziaterme.it,leggopassword.it,mangiabevigodi.it,momentidicalcio.com,napolisera.it,newsfood.com,newtuscia.it,padovagoal.it,quotidianopiemontese.it,scrivolibero.it,sportando.basketball,stadiotardini.it,startmag.it,trivenetogoal.it,tusciatimes.eu,tuttotek.it,umbria.webcam##.widget_custom_html
+androidblog.it,aroundtheworld.pro,assisisport.it,berlinomagazine.com,bollicinevip.com,canalesassuolo.it,carteprepagate.org,circuitoturismo.it,corriereal.info,corrieredelmolise.com,corrierequotidiano.it,dauniacom.it,dayitalianews.com,europacalcio.it,expartibus.it,fantascientificast.com,forestalinews.it,gonews.it,ibizaa.it,ifood.it,ilclandestinogiornale.italiasera.it,ilprimatonazionale.it,immaginaviaggiare.it,italianotizie.online,italyandmore.it,lameziaterme.it,leggopassword.it,mangiabevigodi.it,momentidicalcio.com,napolisera.it,newsfood.com,newtuscia.it,padovagoal.it,quotidianopiemontese.it,scrivolibero.it,sportando.basketball,stadiotardini.it,startmag.it,thailandiapertutti.it,trivenetogoal.it,tusciatimes.eu,tuttotek.it,umbria.webcam##.widget_custom_html
 padovagoal.it##.widget_cyclone-slider-widget
 padovagoal.it##.widget_execphp
 secolo-trentino.com##.widget_media_gallery
@@ -897,7 +897,7 @@ napolimagazine.com##img[width="160"]
 civatenews.com,radiogold.tv,valnews.it##img[width="240"]
 animalidacompagnia.it,ascolinews.it,cartabiancanews.com,ciclonet.it,cronacaflegrea.it,radiogold.tv##img[width="250"]
 radiortm.it##img[width="256"]
-2anews.it,alessandria24.com,altissimoceto.it,altropensiero.net,ambientebio.it,bitquotidiano.it,borderline24.com,business24tv.it,calabria7.it,calabriatv.it,campaniapress.it,carteprepagate.org,chefperpassione.it,circusf1.com,clubdoria46.it,comunicalo.it,concorsi-letterari.it,confinelive.it,corriereelorino.it,cosenzachannel.it,dentrosalerno.it,domanidoveandiamo.it,gazzettinodelgolfo.it,guidaviaggi.it,iamnaples.it,ideefesta.it,ilclandestinogiornale.italiasera.it,ilcorriere.net,ilgiornaledelticino.ch,ilgiornaledisalerno.it,ladriatico.info,lapresse.it,lattemiele.com,macitynet.it,malpensa24.it,newtuscia.it,notiziariofinanziario.com,nuovabrianza.it,orvieto24.it,pordenoneoggi.it,radiolaquila1.it,radiortm.it,scrivolibero.it,sienanews.it,sportchianti.it,startmag.it,tgnewstv.it,todinforma.it,ufficistampanazionali.it,veneziaorientale.news,vercellinotizie.it,xtremehardware.com##img[width="300"]
+2anews.it,alessandria24.com,altissimoceto.it,altropensiero.net,ambientebio.it,bitquotidiano.it,borderline24.com,business24tv.it,calabria7.it,calabriatv.it,campaniapress.it,carteprepagate.org,chefperpassione.it,circusf1.com,clubdoria46.it,comunicalo.it,concorsi-letterari.it,confinelive.it,corriereelorino.it,cosenzachannel.it,dentrosalerno.it,domanidoveandiamo.it,gazzettinodelgolfo.it,guidaviaggi.it,iamnaples.it,ideefesta.it,ilclandestinogiornale.italiasera.it,ilcorriere.net,ilgiornaledelticino.ch,ilgiornaledisalerno.it,ladriatico.info,lapresse.it,lattemiele.com,macitynet.it,malpensa24.it,newtuscia.it,notiziariofinanziario.com,nuovabrianza.it,orvieto24.it,pordenoneoggi.it,radiolaquila1.it,radiortm.it,scrivolibero.it,sienanews.it,sportchianti.it,startmag.it,tgnewstv.it,thailandiapertutti.it,todinforma.it,ufficistampanazionali.it,veneziaorientale.news,vercellinotizie.it,xtremehardware.com##img[width="300"]
 ideawebtv.it##img[width="310"]
 ilsalvagente.it##img[width="320"]
 nuovabrianza.it##img[width="324"]
@@ -1066,11 +1066,11 @@ mobileblogger.it,pistoiasport.com,sassarioggi.it###custom_html-1
 casafacile24.com###custom_html-10
 criptovalute24.com,indiscreto.org,radiorossonera.it,trnews.it###custom_html-11
 ilgiornaledeiveronesi.it,nonsoloturisti.it###custom_html-18
-auguri.gratis,calciohellas.it,calciorosanero.it,card.it,ilgiornaledeimarinai.it,iopartodasola.it,metallus.it,sportnews.eu,thailandiapertutti.it###custom_html-2
+auguri.gratis,calciohellas.it,calciorosanero.it,card.it,ilgiornaledeimarinai.it,iopartodasola.it,metallus.it,sportnews.eu###custom_html-2
 alground.com,calcioatalanta.it,calciofere.it,calciogrifo.it,calciolecce.it,calciomercatonews.com,forzaparma.it,labaricalcio.it,nonniavventura.it,quizlab.it,resetitaliablog.altervista.org,siamolaroma.it,sololalazio.it,tifocosenza.it,tifosipalermo.it,torremaggiore.com,trapanigranata.it###custom_html-3
 calciocasteddu.it,cucinaresenzamenate.it,destinazioneusa.com,floinviaggio.com,guidaconsumatore.com,laprevisione.it,peopleforplanet.it,pianetablunews.it,stranieriinitalia.it,topragazze.it,travelwithbrothers.com,tuttogossipnews.it###custom_html-4
-1x2-calcio.com,innaturale.com,melarossa.it,sportcafe24.com,thailandiapertutti.it,travelwithbrothers.com,tuttogossipnews.it###custom_html-5
-1x2-calcio.com,calciomercatonews.com,indiscreto.org,nonsprecare.it,paladins.it,pentanewslivorno.it,thailandiapertutti.it,torremaggiore.com###custom_html-6
+1x2-calcio.com,innaturale.com,melarossa.it,sportcafe24.com,travelwithbrothers.com,tuttogossipnews.it###custom_html-5
+1x2-calcio.com,calciomercatonews.com,indiscreto.org,nonsprecare.it,paladins.it,pentanewslivorno.it,torremaggiore.com###custom_html-6
 luoghidavedere.it,melarossa.it,pistoiasport.com,putignanonews.it,topragazze.it,torremaggiore.com###custom_html-7
 trueriders.it,vitaminanews.it###custom_html-8
 indiscreto.org,nerdando.com,viaggiallafinedelmondo.it###custom_html-9
