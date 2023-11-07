@@ -4,6 +4,7 @@
 ||delosnetwork.it^$third-party
 ||eadv.it^$third-party
 ||epeex.io^$third-party
+||hbagency.it^$third-party
 ||natexo-programmatic.com^$third-party
 ||ringier-advertising.ch^$third-party
 ||rtbuzz.net^
@@ -66,7 +67,6 @@
 ||gbucket.ch^$third-party
 ||go2speed.org^$third-party
 ||guarda4k.online^$third-party
-||hbagency.it^$third-party
 ||hubaffiliations.net^$third-party
 ||husfly.com^$third-party
 ||inaffiliago.it^$third-party
