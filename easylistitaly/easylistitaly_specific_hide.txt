@@ -711,6 +711,7 @@ artuu.it##.tdi_446
 artuu.it##.tdi_450
 ilgiornaledelticino.ch##.tdi_47
 gazzettajonica.it##.tdi_65
+rinnovabili.it##.tdi_74
 ilbacodaseta.org##.tds-title-over-image
 teleaesse.it##.text-left
 teleaesse.it##.text-right
