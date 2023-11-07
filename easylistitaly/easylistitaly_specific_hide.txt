@@ -573,6 +573,7 @@ filmforlife.org##.mh-footer
 leggopassword.it##.mh-header-2
 catanzaro7.net##.mh_magazine_youtube
 altoadige.it,giornaletrentino.it##.middle2
+ilgiallorosso.eu##.ml-auto.py-2
 alimentibevande.it,professioneallevatore.it,professionesuinicoltore.it##.mod
 sexycommunity.it##.mod_bannerslider
 compagniadellacima.it##.module-custom_html
