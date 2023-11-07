@@ -434,6 +434,7 @@ nuoto.com##.elementor-element-15edae8
 terninrete.it##.elementor-element-1827e93
 nuoto.com##.elementor-element-1f1e93f
 nuoto.com##.elementor-element-21eec18
+gazzettadegliaurunci.it##.elementor-element-41fcba5
 nuoto.com##.elementor-element-47125ff
 nuoto.com##.elementor-element-5b88623
 basilicatanotizie.net##.elementor-element-5b9f270
