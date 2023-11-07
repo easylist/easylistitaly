@@ -758,6 +758,7 @@ clientiesperti.it,computer-acquisti.com,corrieregiallorosso.com,domanidoveandiam
 alqamah.it##.widget_xyz_insert_php_widget
 bresciasat.it##.workspace__block--sponsor
 24live.it,areamediapress.it##.wp-block-image
+lacittanews.it##.wp-block-stackable-image
 radiomarte.it##.wpb_revslider_element
 nuovabrianza.it##.wpb_video_widget
 etvmarche.it##.wpcp-carousel-section
@@ -959,6 +960,7 @@ borderline24.com##img[width="720"]
 agendapolitica.it,altissimoceto.it,bottadiculo.it,faretennis.com,glianni80.com,guidaviaggi.it,ilgiornaledisalerno.it,italyandmore.it##img[width="728"]
 ilgiornaledisalerno.it##img[width="794"]
 ilgiornaledisalerno.it##img[width="800"]
+lacittanews.it##img[width="900"]
 signorbet.news##img[width="930"]
 armiusate.it##img[width="970"]
 archiportale.com##td[style="height:278px; background-color:#E8E8E6; cursor:pointer;position:relative;z-index:95;padding:40px 0 18px"]
