@@ -640,6 +640,7 @@ fattoincasadabenedetta.it##.side-adv-group
 assisieventi.it##.side_banners
 estrazionedellotto.it##.sidebar-right
 sicurauto.it##.sidebar-sticky-top
+fiorentinauno.com##.sidesponsors_wrapper
 cosedicasa.com##.sidespot-wrapper
 animeclick.it,greenme.it##.skin
 cremaoggi.it,cremonaoggi.it,cremonasera.it,cremonasport.it,oglioponews.it##.skin-container
