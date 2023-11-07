@@ -364,6 +364,7 @@ flashscore.it##.boxOverContent__banner
 hdblog.it,hdmotori.it##.box_highlight_footer
 caneogolf.it##.boxbannerhome
 infocilento.it##.boxprepost
+corriere.it##.boxpromo
 clubdoria46.it##.boxzilla
 clubdoria46.it##.boxzilla-overlay
 borsainside.com##.brokers-with-sidebar
