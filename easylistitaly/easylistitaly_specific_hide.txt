@@ -309,9 +309,11 @@ art-news.it,calabriareportage.it,lameziaterme.it,teleoccidente.it##.banner-promo
 picenotime.it##.banner-pt-orizzontale-home
 radiotoscana.it##.banner-radio
 fiscal-focus.it,solovela.net##.banner-right
+dailynautica.com##.banner-row
 vercellioggi.it##.banner-section
 brindisisettenews.it,leccesette.it##.banner-side
 dirittoegiustizia.it##.banner-sidebar
+dailynautica.com##.banner-skin-link
 radioecovicentino.it##.banner-slider
 laragione.eu##.banner-sopra-correlati
 edicoladigitale.info,fiscal-focus.it,superenalotto.com##.banner-top
