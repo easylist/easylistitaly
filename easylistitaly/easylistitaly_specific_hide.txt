@@ -524,6 +524,8 @@ libero.it,virgilio.it##.hp_970x90
 giornalesm.com##.hthb-notification
 ilfattoquotidiano.it##.ifq-dfp
 allmusicitalia.it##.iframe-adv
+infojobs.it##.ij-AdvertisingRoadblockTop
+infojobs.it##.ij-OfferList-banner
 cinquecolonne.it##.image-widget-wrapper-outer
 affaritaliani.it##.immo-HP
 lecconotizie.com##.insert-adv-venerota
