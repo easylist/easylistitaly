@@ -6,6 +6,7 @@
 ||epeex.io^$third-party
 ||hbagency.it^$third-party
 ||natexo-programmatic.com^$third-party
+||nativery.com^$third-party
 ||ringier-advertising.ch^$third-party
 ||rtbuzz.net^
 ||shoppydoo.com^
@@ -81,7 +82,6 @@
 ||mediamond.it^$third-party
 ||mondoecommerce.it^$third-party
 ||mycookies.it^$third-party
-||nativery.com^$third-party
 ||netfilia.com^$third-party
 ||netszex.com^$third-party
 ||newclick.com^$third-party

@@ -140,7 +140,6 @@
 ||incontriticino.com/promo/
 ||infomaniak.ch/promotional/$third-party
 ||insicilia.com/banner/
-||instagram.com/p/CYQuJ7NNwey/$domain=pianetalecce.it
 ||iolam.it/js/easyBid.js
 ||ipercast.net/uploads/sponsors/
 ||italycharter.it/searchwidget$third-party
