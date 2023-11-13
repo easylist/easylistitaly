@@ -610,6 +610,7 @@ cineblog.it,greenstyle.it,soundsblog.it,tvblog.it##.mxm_wrapper
 calabrianews24.com,loccidentale.it##.n2-section-smartslider
 telemia.it##.n2-ss-slide-1014
 dagospia.com,ildolomiti.it##.native
+dagospia.com##.native_mobile
 bresciaoggi.it,ilgiornaledivicenza.it,larena.it,radioverona.it,telearena.it,telemantova.it##.nativeadv
 ecovicentino.it##.new_class_eco
 italia-informa.com##.newsitemAdv
