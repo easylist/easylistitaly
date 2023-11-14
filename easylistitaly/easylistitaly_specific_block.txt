@@ -299,6 +299,7 @@
 ||ilgiornaledelmolise.it/img/lamolisana_
 ||ilgoriziano.it/public/banner/
 ||ilgrigioneitaliano.ch/images/banners/
+||ilmediano.com/wp-content/banners/
 ||ilmioip.it/img/banner
 ||ilmioip.it/img/infermieri
 ||ilnuovoterraglio.it/wp-content/uploads/*/banner-
