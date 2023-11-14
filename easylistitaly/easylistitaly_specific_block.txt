@@ -403,6 +403,7 @@
 ||sexycommunity.it/images/banners/
 ||siciliammare.it/wp-content/banners/
 ||siciliarurale.eu/wp-content/banners/
+||solosavoia.it/file/*/back_officina_creativa.jpg
 ||solovela.net/imm_ADV?
 ||solovela.net/immagini/banner/
 ||sora24.it/banner/
