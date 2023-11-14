@@ -148,6 +148,7 @@
 ||caneogolf.it/img/banner/
 ||cani.it/banners/
 ||casateonline.it/public/banner/
+||casefunerarie.it/uploads/banners/
 ||casertafocus.net/home/images/banners/
 ||casertasette.com/banners.php
 ||cdn77.org/banner/$domain=finestresullarte.info
