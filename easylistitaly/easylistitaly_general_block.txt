@@ -1,4 +1,5 @@
 -banner-pubblicitario-
+.it/_adv/
 .it/ads/$image
 .it/adv/
 /banner-pubblicitari/*
@@ -16,7 +17,6 @@ _pubblicita.
 -Pubblicit%C3%A0-
 -PUBBLICITa.$domain=~inoutsnc.it
 -pubblicita300x275.
-.it/_adv/
 .it/ads?
 .it/ads_
 .it/adv.
