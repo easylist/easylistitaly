@@ -5,6 +5,7 @@
 ###adk_spalla-middle
 ###adk_spalla-top
 ###adv_nativa
+###advertisingStriscia
 ###eadv-aside
 ###eadv-aside-2
 ###eadv-aside-3
@@ -114,7 +115,6 @@
 ###advcolonnadx
 ###advcolonnasx
 ###advdivbp1
-###advertisingStriscia
 ###advsfondo
 ###altervista_banner-3
 ###annunciGoogle
