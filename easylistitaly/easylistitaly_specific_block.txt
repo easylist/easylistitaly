@@ -412,6 +412,7 @@
 ||portalecanicatti.info/images/banners/
 ||portoravennanews.com/file/*/banner_
 ||pressgiochi.it/wp-content/uploads/*/skin-
+||primocanale.it/images/banners/
 ||qdmnotizie.it/wordpress/wp-content/uploads/*/banner_
 ||radiohollywood.net/images/europea-92-buono.jpg
 ||radioluna.it/news/wp-content/uploads/*/manchette_
@@ -623,11 +624,6 @@
 ||lapressa.it/sponsors/
 ||lasiritide.it/img/agrello
 ||lasiritide.it/img/logobuonorgse.jpg
-||latina24ore.it^*/banner-
-||latina24ore.it^*_Skin_
-||latinapress.it^*-banner-
-||latinapress.it^*/armstrong.jpeg
-||latinapress.it^*/banner-
 ||lattacco.it/immagini/immagini_banner/
 ||lavocedelquartiere.it^*/banner_
 ||lavocedinewyork.com/wp-content/banners/
@@ -981,8 +977,6 @@
 ||primapress.it^*/banner_
 ||primapress.it^*_336x280.
 ||primaradio.net^*/LaTorre.gif
-||primocanale.it/images/banners/
-||primocanale.it/img/banner/
 ||production-livingdocs-bluewin-ch.imgix.net^*/6f3cdbc0-2a58-4a7e-933f-9077769c899b.png$domain=bluewin.ch
 ||professionecamionista.it/amb/
 ||professionemotori.it/wp-content/uploads/williamHillbox.png
@@ -1184,8 +1178,6 @@
 ||sanmarinofixing.com/smfixing/images/banners/
 ||sannicandro.org/data/farmacie/
 ||sannicandro.org/data/sponsor/
-||sanremonews.it^*/banner/
-||sanremonews.it^*/box/
 ||sardanews.it/images/banners/
 ||sardegnaierioggidomani.com^*_banner.
 ||sarnonotizie.it^*/630x90.
@@ -1316,9 +1308,6 @@
 ||stellenellosport.com^*/Primocanale_
 ||stellenellosport.com^*/Valletta-Cambiaso-
 ||stile-magazine.it/uploads/partner/
-||stilearte.it^*/a-catawiki-2-
-||stilearte.it^*/CATAWIKI-reg.jpg
-||stilearte.it^*/CATAWIKI.jpg
 ||storiedisport.it^*/biblio.gif
 ||storiedisport.it^*/logo5.png
 ||stradeonline.it/images/banners/
@@ -1335,7 +1324,6 @@
 ||tagmagazine.it^*/sem.jpg
 ||targatocn.it^*/banner/
 ||tccstatic.com/template/*/js/p-$script
-||tcinformatica.net/1/173x173/$domain=cattolica.info
 ||teatrionline.com^*/banner.
 ||teatronaturale.it/media2/partners/
 ||technologyreview.it/_media/_adv/
@@ -1408,8 +1396,6 @@
 ||tgnordsalento.it/images/banner-
 ||theapplelounge.com^*/banner-
 ||thelostavocado.com^*/Booking_Com_
-||themaxmoda.files.wordpress.com/^*/img_4930-3.png$domain=themaxmagazineedizioneitalia.com
-||themaxmoda.files.wordpress.com^*/img_4929-5.gif$domain=themaxmagazineedizioneitalia.com
 ||ticino24.it/images/banner/
 ||ticinofinanza.ch/banner/
 ||tifosipalermo.it^*/seatavoladisegno300x250.jpg
@@ -1722,11 +1708,6 @@
 ||wp.com/www.cataniaunafede.it/*/schillaci_bianco.jpg
 ||wp.com/www.foggiagol.it/*/ariannaclub-banner1.jpg
 ||wp.com/www.foggiagol.it/*/emilio-lannunziata.gif
-||wp.com/www.giornaledicalabria.it/*/Affidato-orafo-
-||wp.com/www.giornaledicalabria.it/*/ARBITRI-ok.jpg
-||wp.com/www.giornaledicalabria.it/*/GIF-REGIONE.
-||wp.com/www.giornaledicalabria.it/*/Pub-
-||wp.com/www.giornaledicalabria.it/*/Sorical.gif
 ||wp.com/www.girofvg.com/*/Fondazione-Aquileia_open-day-2021giu.jpg
 ||wp.com/www.girofvg.com/*/Jbl_guida_turistica.jpg
 ||wp.com/www.girofvg.com/*/Van-Gogh-Il-sogno-Immersive-art-experience-quad-stellata.png
@@ -1741,8 +1722,6 @@
 ||wp.com/www.lopinionistanews.it/*/Guffanti.jpg
 ||wp.com/www.lopinionistanews.it/*/itof-
 ||wp.com/www.lopinionistanews.it/*/Orion-
-||wp.com/www.medicalexcellencetv.it/*_300x100.
-||wp.com/www.medicalexcellencetv.it/*_600x500.
 ||wp.com/www.meganerd.it/*/MNERD15685.png
 ||wp.com/www.nerdpool.it/*/bg-vendiloshop-
 ||wp.com/www.partiture.it/*/logo-amazon_
@@ -1759,14 +1738,12 @@
 ||wp.com/www.thewalkoffame.it/*/myzona.gif
 ||wp.com/www.tsdtv.it/*/300x300-
 ||wp.com/www.tuttoboxe.it/*/amazon-
-||wp.com/www.tuttojuve.net/*/119054606_350406236368302_7591478443508881500_n.png
-||wp.com/www.tuttojuve.net/*/12597e17-489e-4e5f-aed5-57e4c9562708-1.jpg
 ||wp.com/www.veicolux.it/*/immagine-autoparti-affiliate-
 ||wp.com/www.viaggiallafinedelmondo.it/wp-content/uploads/*/civitatis.jpg
 ||wp.com/www.worldofwrestling.it/*/wow.gif
 ||wp.com/www.zerosette.it/*/bella-venezia.png
 ||wp.com^*-banner-$domain=funghimagazine.it|lagazzettaaeroportuale.it|libringioco.blog|nerdpool.it
-||wp.com^*/banner-$domain=cinecorriere.it|foggiagol.it|funghimagazine.it|giornaledicalabria.it|ilgiornaledeiveronesi.it|lagazzettaaeroportuale.it|libringioco.blog|nonsoloturisti.it|sentieriselvaggi.it|teleischia.com|temporeale.info
+||wp.com^*/banner-$domain=cinecorriere.it|foggiagol.it|funghimagazine.it|ilgiornaledeiveronesi.it|lagazzettaaeroportuale.it|libringioco.blog|nonsoloturisti.it|sentieriselvaggi.it|teleischia.com|temporeale.info
 ||wp.com^*/banner_$domain=agropolinews.it|bimbonaturale.org|brescia2.it|thewalkoffame.it
 ||yogajournal.it^*/banner-
 ||youtg.net^*/cornice_
@@ -1785,8 +1762,6 @@
 ||zetatielle.com^*/banner_
 ||zetatielle.com^*/daubaci-box.gif
 ||zon.it^*/Banner-
-||zonacalciofaidate.it^*/soccerhosue.jpg
-||zonacalciofaidate.it^*/WhatsApp-Image-2020-04-09-at-11.35.46.jpeg
 ||zonawrestling.net^*-banner.
 ! Citynews
 /traffico//banner/*
