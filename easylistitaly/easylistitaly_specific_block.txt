@@ -298,6 +298,8 @@
 ||hlstatic.it/files/banner/
 ||horecanews.it/wp-content/uploads/angwp/
 ||hwupgrade.it/js/hwu_adv.js
+||ilgazzettinobr.it/images/banners/
+||ilgiornaledellaprotezionecivile.it^*/_abe_banners/
 ||ilgiornaledelmolise.it/img/bannerlungo/
 ||ilgiornaledelmolise.it/img/lamolisana_
 ||ilgoriziano.it/public/banner/
@@ -314,6 +316,9 @@
 ||industria-online.com/storage/b-
 ||infooggi.it/banner-
 ||informatrieste.eu/siti-non-aams-italiani.jpg
+||insanitas.it/wp-content/banners/
+||invaligia.com/images/ani1_MV.gif
+||invaligia.com/images/YousosBanner.png
 ||italia-informa.com^*/banner/
 ||italia.fm^*/leaseweb.gif
 ||italiaatavola.net/images/banners/
@@ -334,6 +339,8 @@
 ||lacitta.eu/images/banners/
 ||lacronacadiravenna.it/file/*/banner_
 ||lagazzettadelmezzogiorno.it/upload/1682775693137.jpg
+||lagazzettadilucca.it/images/banners/
+||lagazzettadimassaecarrara.it/images/banners/
 ||lagazzettamarittima.it/wp-content/uploads/Background-
 ||lagomaggiore24.it/images/banner/
 ||laprovinciacr.it/upload/1693226934775.jpg
@@ -359,6 +366,7 @@
 ||loudd.it/public/banner/
 ||lupopornohd.it/bnr/
 ||malpensa24.it/wp-content/uploads/*/background-
+||manduriaoggi.it/html/banner/
 ||marcheingol.it/js/allinone_bannerRotator.js
 ||marsicalive.it/wp-content/uploads/*/banner-
 ||merateonline.it/public/banner/
@@ -530,13 +538,6 @@
 ||ilfilo.net^*/autoparti-it-
 ||ilfilo.net^*/Banner-
 ||ilformat.info^*/banner_
-||ilgazzettinobr.it^*/banners/
-||ilgiornaledabruzzo.it/wp-content/uploads/2013/05/Ai-Viali-Lanciano.png
-||ilgiornaledelcibo.it^*/conosci-cirfood.
-||ilgiornaledellaprotezionecivile.it^*_banners/
-||ilgiornaledellarte.com/allegati/BANNER
-||ilgiornaledelloyoga.it^*/Banner-
-||ilgiornaledirieti.it/css/sfondo.jpg
 ||ilmeridianonews.it^*/fontamanchette.png
 ||ilmeridianonews.it^*/RESTA2.jpg
 ||ilmessaggero.it/img/banner_
@@ -546,8 +547,6 @@
 ||ilmohicano.it/^*/CPM_LOGO_NEW_111I-400x176.jpg
 ||ilmomento.org^*-300x250.
 ||ilombardia.it^*/all4cycling-
-||ilpaesenuovo.it^*/perhospital-01.jpg
-||ilpaesenuovo.it^*/perhospital.jpg
 ||ilpisasiamonoi.it/public/banner-
 ||ilquotidiano.it/userdata/banner/
 ||ilreggino.it^*/Lega-Ski-ilV_
@@ -573,15 +572,7 @@
 ||informatissimo.net/images/banners/
 ||infovizzini.it/layout/banners/
 ||ingleseprecoce.it^*-400x400.
-||innaturale.com^*/banner-
-||innovami.news^*/banner-
-||insanitas.it/wp-content/banners/
 ||inside.bz.it/images/banners/
-||inter.it^*/partners/
-||internapoli.it^*-banner-
-||internapoli.it^*/banner-
-||invaligia.com/images/ani1_MV.gif
-||invaligia.com/images/YousosBanner.png
 ||inviaggiodasola.com^*/banner3_
 ||ioamolasicilia.com^*/TOUR-PALERMO-
 ||ioarte.org/img/banner/
@@ -606,9 +597,6 @@
 ||lafune.eu^*/Banner-
 ||lagazzetta.info^*/banner/
 ||lagazzettaaugustana.it^*-banner-
-||lagazzettadilucca.it^*/inserzioni/
-||lagazzettadimassaecarrara.it^*/Banner-
-||lagazzettadimassaecarrara.it^*/inserzioni/
 ||lagenziadiviaggi.it^*-300x600-
 ||lagenziadiviaggi.it^*/okSKIN-
 ||lagoleada.it^*-300x250.
@@ -657,7 +645,6 @@
 ||lultimaribattuta.it^*/franca.jpg
 ||luoghidavedere.it^*-in-regalo-per-la-tua-prossima-prenotazione-su-airbnb-codice-sconto-sconti.png
 ||lurlo.news^*/squisicily
-||luxurypretaporter.it^*/banner-
 ||luxwatch.it/watches_250x250_
 ||lyricsmusica.it/img/offerte-sconti.png
 ||macplas.it/archivioFiles/Banner/
@@ -670,8 +657,6 @@
 ||mammaimperfetta.it^*_banner.
 ||mammedomani.it/images/banners/
 ||mandamentonotizie.it/animazione/
-||manduriaoggi.it/html/banner/
-||manduriaoggi.it/img_new/848x280_
 ||mangaforever.net^*/fumetti-am.
 ||mangaforever.net^*/sconti-online.jpg
 ||mangiobenevivobene.it^*/banner-
@@ -693,9 +678,7 @@
 ||matrimony.it^*/professionisti.jpg
 ||mauxa.com/storage/banner/
 ||medialivetv.it^*/banner_
-||mediashow.cc/scaricare.png
 ||medicitalia.it/js/yb-medicitaliait-21a.js
-||medium.ilcaffe.tv/img_medium/
 ||megaescort.info/felo.js
 ||megaescort.info/sites/default/files/blog/
 ||megasesso.com/js_pub/

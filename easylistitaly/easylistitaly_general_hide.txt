@@ -35,6 +35,7 @@
 ##.partial-sticky-adv
 ##.pubblicita
 ##.pubblicitacentrata
+##.pubbliredazionale
 ##.sb-box-pubbliredazionale
 ##.slyvi-ads-inserter-ad-unit
 ##.sponsorizzati
@@ -342,7 +343,6 @@
 ##.pubblicita_col1
 ##.pubblicita_sottile
 ##.pubblicitapremium
-##.pubbliredazionale
 ##.pubblitalocaleaddADV
 ##.pubblitalocaleaddpiccola
 ##.publi_ad
