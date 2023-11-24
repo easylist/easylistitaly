@@ -1698,7 +1698,6 @@ torinofc.it##.bannerColDxStd
 lamiachampagne.com##.bannerContainer
 calabria.live##.bannerFullCenter
 marathonworld.it,sportdaily.it##.bannerGoogle
-questaseratv.it##.bannerHeader
 calabria.live##.bannerHeaderDx
 calabria.live##.bannerHeaderSx
 puntosicuro.it##.bannerLeader
