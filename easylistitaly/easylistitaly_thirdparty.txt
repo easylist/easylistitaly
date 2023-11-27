@@ -21,6 +21,7 @@
 ||italycharter.it/searchwidget$third-party
 ||jooble.org/css/images/logos/jooble_$third-party
 ||postimg.cc^$domain=napolimagazine.com|settecalcio.it|toscanagol.it
+||pratoverdecagliari.it/images/banners/$third-party
 ||sorgentenatura.it/data/img/Banner_$third-party
 ||tcccdn.com^*/banner/
 ||venerota.it/lcn_jpg.php$third-party
@@ -183,7 +184,6 @@
 ||pop.virgilio.us^
 ||popspace.virgilio.us^
 ||pornotizie.com/image/banner/
-||pratoverdecagliari.it/images/banners/$third-party
 ||pressnews.network/banners/
 ||promo.easy-dating.org^
 ||promo.ezstatic.com^
