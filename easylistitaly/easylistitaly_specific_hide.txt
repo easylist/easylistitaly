@@ -2064,7 +2064,7 @@ blog.libero.it,blog.virgilio.it##.lb_hook1
 blog.libero.it,blog.virgilio.it##.lb_hook2
 convertire-documenti.it##.lead-responsive
 lagazzettamessinese.it##.leader-right-wrap
-,7giorni.info,areanapoli.it,close-up.it,foodweb.it,meteovista.it,ridble.com,riskcompliance.it,today.it##.leaderboard
+7giorni.info,areanapoli.it,close-up.it,foodweb.it,meteovista.it,ridble.com,riskcompliance.it,today.it##.leaderboard
 blastingnews.com##.leaderboard-article
 italiangourmet.it##.leaderboard-col
 simonandthestars.it##.leaderboard-container
