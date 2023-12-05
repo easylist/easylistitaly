@@ -1,7 +1,10 @@
+-000Pubblicita-
+-000pubblicita.
 -banner-pubblicitario-
 .it/_adv/
 .it/ads/$image
 .it/adv/
+/000Pubblicita/*
 /banner-pubblicitari/*
 /pubblicita%CC%80-
 /pubblicita-
@@ -9,8 +12,6 @@
 /TiscaliADV_
 _pubblicita.
 !
--000Pubblicita-
--000pubblicita.
 -adv-300.
 -adv-728.
 -dx/adv_
@@ -21,7 +22,6 @@ _pubblicita.
 .it/ads_
 .it/adv.
 .it/adv_
-/000Pubblicita/*
 /adagioadv_
 /ads-fissi/*
 /adv-300x300-
