@@ -4,6 +4,7 @@
 ||autoxy.it/js/combine/lead_banner_min.js$third-party
 ||bannerpress.bps.plap.it^
 ||beruby.com/images/banner/
+||bit.ly^$domain=manfredonianews.it
 ||booking.com^$subdocument,domain=circuitoturismo.it|domanidoveandiamo.it|ioamolasicilia.com
 ||callister.it^$domain=armiusate.it
 ||campingsportmagenta.com/CamperOnline/$third-party
@@ -20,6 +21,7 @@
 ||investimenti.bnpparibas.it^$domain=trend-online.com
 ||italycharter.it/searchwidget$third-party
 ||jooble.org/css/images/logos/jooble_$third-party
+||netsons.com/manage/images/affiliates/$third-party
 ||postimg.cc^$domain=napolimagazine.com|settecalcio.it|toscanagol.it
 ||pratoverdecagliari.it/images/banners/$third-party
 ||sorgentenatura.it/data/img/Banner_$third-party
@@ -32,7 +34,6 @@
 ||windows.net^*/Banner/$domain=divisionecalcioa5.it
 !
 ||24hassistance.com^*/banner_$third-party
-||377d936c10e6811f484c-6402e46c712497f58e3f77a59f47bbd5.r17.cf2.rackcdn.com^
 ||6chic.net/media/banner/
 ||6sicuro.it/widgets/$third-party
 ||abc.sm/banner/
@@ -57,7 +58,6 @@
 ||banner-madai-com.s3.amazonaws.com^
 ||bazarcoupon.com/images/$third-party
 ||bellicapelliforum.com^$domain=forumfree.it
-||bit.ly^$domain=manfredonianews.it
 ||blogspot.com^$image,domain=blog.libero.it|newscronaca.myblog.it
 ||book.terravision.eu^$domain=mylondra.it|viaggiallafinedelmondo.it
 ||booking.com^$subdocument,domain=canturino.com|cosafarea.it|cosafarei.it|cosavederemadrid.it|costieraamalfitana.com|fortementein.com|guida-polinesia.com|guidaviaggi.org|guide-europe.info|immaginaviaggiare.it|iopartodasola.it|irenedisumma.com|italiasearch.it|italy.biella.it|italy.catania.it|italy.firenze.it|italy.grosseto.it|italy.milano.it|italy.novara.it|italy.vicenza.it|machupicchuperu.it|maremma.name|milleunadonna.it|monacodibaviera.org|napolike.it|nonchiamatemiturista.it|nonniavventura.it|notizie.tiscali.it|oktoberfest-monaco.it|panannablogdiviaggi.com|positivitrip.com|quattroruote.it|scorcidimondo.it|sport.tiscali.it|taj-mahal.it|tipintravel.com|travelstales.it|travelwithbrothers.com|tuttobaviera.it|vadoingiappone.it|viacolviaggio.it|viaggi-lowcost.info|viaggi-nel-tempo.com|viaggiadipiu.it|viaggiallafinedelmondo.it|viaggiascrittori.com|viaggieuropa.com|vivasicilia.com|vocedelverbopartire.com

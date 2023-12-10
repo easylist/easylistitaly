@@ -1,6 +1,7 @@
 ||ad4m.at^$third-party
 ||adkaora.space^$third-party
 ||adplay.it^$third-party
+||brznetwork.com^$third-party
 ||delosnetwork.it^$third-party
 ||eadv.it^$third-party
 ||epeex.io^$third-party
@@ -47,7 +48,6 @@
 ||banzaiadv.it^$third-party
 ||beead.it^$third-party
 ||break-even.it^$third-party
-||brznetwork.com^$third-party
 ||btsaffiliations.com^$third-party
 ||casino-sicuro.it^$third-party
 ||clacson24.com^$third-party
