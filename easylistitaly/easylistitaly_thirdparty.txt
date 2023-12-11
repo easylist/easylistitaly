@@ -14,6 +14,7 @@
 ||gmdigital.it^*/adplay.js
 ||greenweez.it/data/img/banner-$third-party
 ||ibb.co^$domain=marcheingol.it
+||im.ge^$domain=lanuovariviera.it
 ||imgbox.com^$domain=marcheingol.it|venetogol.it
 ||imgur.com^$domain=casertasette.com|friuligol.it|venetogol.it
 ||infodustrie.com/affima.php?
