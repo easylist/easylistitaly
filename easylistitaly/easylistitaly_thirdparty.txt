@@ -12,6 +12,7 @@
 ||dynamic.rcefoto.com^$domain=juzaphoto.com
 ||funshopping.it/iframe_embed/$third-party
 ||gmdigital.it^*/adplay.js
+||gocomunicazione.it^$domain=vdj.it
 ||greenweez.it/data/img/banner-$third-party
 ||ibb.co^$domain=marcheingol.it
 ||im.ge^$domain=lanuovariviera.it
