@@ -26,6 +26,7 @@
 ||postimg.cc^$domain=napolimagazine.com|settecalcio.it|toscanagol.it
 ||pratoverdecagliari.it/images/banners/$third-party
 ||sorgentenatura.it/data/img/Banner_$third-party
+||ssl.p.jwpcdn.com/*/vast.js$domain=veneziaradiotv.it
 ||tcccdn.com^*/banner/
 ||venerota.it/lcn_jpg.php$third-party
 ||viaggiare.columbusassicurazioni.it^$third-party
