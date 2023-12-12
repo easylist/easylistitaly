@@ -5,7 +5,7 @@
 ||bannerpress.bps.plap.it^
 ||beruby.com/images/banner/
 ||bit.ly^$domain=manfredonianews.it
-||booking.com^$subdocument,domain=circuitoturismo.it|domanidoveandiamo.it|ioamolasicilia.com
+||booking.com^$subdocument,domain=circuitoturismo.it|domanidoveandiamo.it|ioamolasicilia.com|viaggiallafinedelmondo.it
 ||callister.it^$domain=armiusate.it
 ||campingsportmagenta.com/CamperOnline/$third-party
 ||dhresource.com^$domain=xtremehardware.com
@@ -62,8 +62,8 @@
 ||bazarcoupon.com/images/$third-party
 ||bellicapelliforum.com^$domain=forumfree.it
 ||blogspot.com^$image,domain=blog.libero.it|newscronaca.myblog.it
-||book.terravision.eu^$domain=mylondra.it|viaggiallafinedelmondo.it
-||booking.com^$subdocument,domain=canturino.com|cosafarea.it|cosafarei.it|cosavederemadrid.it|costieraamalfitana.com|fortementein.com|guida-polinesia.com|guidaviaggi.org|guide-europe.info|immaginaviaggiare.it|iopartodasola.it|irenedisumma.com|italiasearch.it|italy.biella.it|italy.catania.it|italy.firenze.it|italy.grosseto.it|italy.milano.it|italy.novara.it|italy.vicenza.it|machupicchuperu.it|maremma.name|milleunadonna.it|monacodibaviera.org|napolike.it|nonchiamatemiturista.it|nonniavventura.it|notizie.tiscali.it|oktoberfest-monaco.it|panannablogdiviaggi.com|positivitrip.com|quattroruote.it|scorcidimondo.it|sport.tiscali.it|taj-mahal.it|tipintravel.com|travelstales.it|travelwithbrothers.com|tuttobaviera.it|vadoingiappone.it|viacolviaggio.it|viaggi-lowcost.info|viaggi-nel-tempo.com|viaggiadipiu.it|viaggiallafinedelmondo.it|viaggiascrittori.com|viaggieuropa.com|vivasicilia.com|vocedelverbopartire.com
+||book.terravision.eu^$domain=mylondra.it
+||booking.com^$subdocument,domain=canturino.com|cosafarea.it|cosafarei.it|cosavederemadrid.it|costieraamalfitana.com|fortementein.com|guida-polinesia.com|guidaviaggi.org|guide-europe.info|immaginaviaggiare.it|iopartodasola.it|irenedisumma.com|italiasearch.it|italy.biella.it|italy.catania.it|italy.firenze.it|italy.grosseto.it|italy.milano.it|italy.novara.it|italy.vicenza.it|machupicchuperu.it|maremma.name|milleunadonna.it|monacodibaviera.org|napolike.it|nonchiamatemiturista.it|nonniavventura.it|notizie.tiscali.it|oktoberfest-monaco.it|panannablogdiviaggi.com|positivitrip.com|quattroruote.it|scorcidimondo.it|sport.tiscali.it|taj-mahal.it|tipintravel.com|travelstales.it|travelwithbrothers.com|tuttobaviera.it|vadoingiappone.it|viacolviaggio.it|viaggi-lowcost.info|viaggi-nel-tempo.com|viaggiadipiu.it|viaggiascrittori.com|viaggieuropa.com|vivasicilia.com|vocedelverbopartire.com
 ||campeggi.com/img/takeover/
 ||careerjet.it/partners/
 ||cartomanzia.it/dimmi.gif

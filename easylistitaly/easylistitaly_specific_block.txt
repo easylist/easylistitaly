@@ -469,6 +469,7 @@
 ||portaledelverde.it/img/banner-
 ||portaledelverde.it/upload/banner/
 ||portoravennanews.com/file/*/banner_
+||predire.vos.it/mondocartomante.jpg
 ||presepio.it/wp-content/uploads/*/BANNER-
 ||pressgiochi.it/wp-content/uploads/*/skin-
 ||primapress.it^*/banner_
@@ -529,6 +530,7 @@
 ||telenord.it/img/uploads/video/*.mp4
 ||ternieprovincia.com/images/banner/
 ||tg24.info/network/wp-content/banners/
+||tgnordsalento.it/images/banner-
 ||theitaliantimes.it/js/gpt.plus.min.js
 ||torinoaffari.it/img/tbl/ban/
 ||torinoerotica.com/banner/
@@ -848,7 +850,6 @@
 ||plateamajor.com/img/BC_
 ||plusrew.com^*/Guadagna-con-YAP.jpg
 ||plx.mrpornogratis.it^
-||predire.vos.it/mondocartomante.jpg
 ||production-livingdocs-bluewin-ch.imgix.net^*/6f3cdbc0-2a58-4a7e-933f-9077769c899b.png$domain=bluewin.ch
 ||puntovendita.info/images/banners/
 ||pyrosonline.it/site/public/image/20200131153026.jpg
@@ -1058,7 +1059,6 @@
 ||ssmatelicacalcio.com^*/fidea.png
 ||stardust.it^*/banner/
 ||stardust.it^*/masthead/
-||statoquotidiano.it^*/300x250
 ||stellenellosport.com/img/gold_sponsor/
 ||stellenellosport.com/img/media_partner/
 ||stellenellosport.com/img/partner/
@@ -1132,7 +1132,6 @@
 ||teletruria.it^*/CHIMET-
 ||telodicoio.org^*/guadagnare-soldi-velocemente-
 ||tempoitalia.it/banner/
-||temporeale.info^*/Banner-
 ||tenews.it/banner/
 ||tennismarche.net/images/banners/
 ||terraetradizione.com^*/banner-
@@ -1149,7 +1148,6 @@
 ||tgcal24.it^*/BANNER-
 ||tgcal24.it^*/banner_
 ||tgmax.it/wp-content/uploads/2018/05/1.png
-||tgnordsalento.it/images/banner-
 ||theapplelounge.com^*/banner-
 ||thelostavocado.com^*/Booking_Com_
 ||ticino24.it/images/banner/
@@ -1325,7 +1323,6 @@
 ||viviparigi.it^*/banners/
 ||vivitortona.it/image/megaplex.jpg
 ||vivitortona.it/image/oasi.jpg
-||vos.it^*/mondocartomante.jpg
 ||vvvvid.it/vast/
 ||vwgolfcommunity.com/banner/
 ||vwgolfcommunity.com/sponsor/
@@ -1343,7 +1340,6 @@
 ||wikilao.com^*/banners/
 ||windows.net/specialeelezioni/$domain=altamuralive.it|barilive.it|barlettalive.it|bitontolive.it|cassanolive.it|coratolive.it|giovinazzolive.it|ruvolive.it|santeramolive.it|terlizzilive.it
 ||worldmagazine.it^*/high.jpg
-||worldofwrestling.it^*/wow.gif
 ||wp.com/1x2-calcio.com/*/comparazione-bonus-Vincitu.png
 ||wp.com/1x2-calcio.com/*/EUROBET-compara.png
 ||wp.com/businessandleaders.it/*/bloggif_5a71e5783573c.gif
@@ -1352,7 +1348,6 @@
 ||wp.com/genovaquotidiana.com/*-320x320-
 ||wp.com/genovaquotidiana.com/*/450B64F4-5F47-4821-9328-A0F5DF02B4E6.jpeg
 ||wp.com/images.liveuniversity.it/*300x250
-||wp.com/nonsoloturisti.it/*/heymondo-
 ||wp.com/notiziescientifiche.it/*/vediamans-min.jpg
 ||wp.com/p2p-italia.com/*/mwzdpamnekgr.gif
 ||wp.com/p2p-italia.com/*/RC-bn-
@@ -1368,36 +1363,9 @@
 ||wp.com/www.girofvg.com/*/Van-Gogh-Il-sogno-Immersive-art-experience-quad-stellata.png
 ||wp.com/www.gustoh24.it/*/hoepli.jpg
 ||wp.com/www.iltecnoblog.com/*/hype-10-euro-omaggio.jpg
-||wp.com/www.lavocetorino.it/*/leaderdivalore-
 ||wp.com/www.lecronachelucane.it/*/ppp_
 ||wp.com/www.lodeate.it/*/logototapulchra.png
-||wp.com/www.partiture.it/*/logo-amazon_
-||wp.com/www.playersmagazine.it/*/amazon_logo.jpg
-||wp.com/www.sempredirebanzai.it/*/mesicHD2.jpg
-||wp.com/www.sempredirebanzai.it/*/Schermata-2020-05-16-alle-17.38.22.png
-||wp.com/www.spaziotennis.it/*/dhs.jpg
-||wp.com/www.statoquotidiano.it/*/727x247-
-||wp.com/www.tabsernews.it/*/THE-SOUND.png
-||wp.com/www.telebrindisi.tv/*/danesehp.jpg
-||wp.com/www.telebrindisi.tv/*/pasticcioni2.gif
-||wp.com/www.telebrindisi.tv/*/Teatro-verdi-2019.jpg
 ||wp.com/www.teleradio-news.it/*-490x147-
-||wp.com/www.tsdtv.it/*/300x300-
-||wp.com/www.tuttoboxe.it/*/amazon-
-||wp.com/www.veicolux.it/*/immagine-autoparti-affiliate-
-||wp.com/www.viaggiallafinedelmondo.it/wp-content/uploads/*/civitatis.jpg
-||wp.com/www.worldofwrestling.it/*/wow.gif
-||wp.com^*/banner-$domain=cinecorriere.it|ilgiornaledeiveronesi.it|nonsoloturisti.it|sentieriselvaggi.it|teleischia.com|temporeale.info
-||yogajournal.it^*/banner-
-||youtg.net^*/cornice_
-||youtvrs.it/c66.png
-||youtvrs.it^*/banner-
-||zenazone.it^*/banner-
-||zenzero.info/images/call-to-action-
-||zetatielle.com^*/banner_
-||zetatielle.com^*/daubaci-box.gif
-||zon.it^*/Banner-
-||zonawrestling.net^*-banner.
 ! Citynews
 /traffico//banner/*
 /~vda/*/*.php/*
