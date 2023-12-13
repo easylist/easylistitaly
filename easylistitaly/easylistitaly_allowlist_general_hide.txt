@@ -1,3 +1,7 @@
+unionesarda.it#@#.leftAds
+unionesarda.it#@#.rightAds
+unionesarda.it#@#.topAds
+!
 corr.it#@##adv-Top
 repubblica.it#@##advtop
 subito.it#@##body_ad
