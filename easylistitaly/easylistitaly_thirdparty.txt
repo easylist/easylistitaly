@@ -1,5 +1,6 @@
 ||advx.esprimo.com^
 ||affiliatetxt.nextmediaweb.com^
+||affiliati.ionoleggioauto.com^$third-party
 ||api.vivisail.com^$domain=italiavela.it
 ||autoxy.it/js/combine/lead_banner_min.js$third-party
 ||bannerpress.bps.plap.it^
