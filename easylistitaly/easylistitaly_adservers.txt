@@ -6,6 +6,7 @@
 ||eadv.it^$third-party
 ||epeex.io^$third-party
 ||hbagency.it^$third-party
+||justearn.it^$third-party
 ||natexo-programmatic.com^$third-party
 ||nativery.com^$third-party
 ||ringier-advertising.ch^$third-party
@@ -73,7 +74,6 @@
 ||inaffiliago.it^$third-party
 ||ioladv.it^$third-party
 ||iperbanner.com^$third-party
-||justearn.it^$third-party
 ||leaderaffiliation.com^$third-party
 ||leonardoadv.it^$third-party
 ||linkto.org^$third-party

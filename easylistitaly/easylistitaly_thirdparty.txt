@@ -12,10 +12,11 @@
 ||dhresource.com^$domain=xtremehardware.com
 ||dynamic.rcefoto.com^$domain=juzaphoto.com
 ||funshopping.it/iframe_embed/$third-party
+||giphy.com^$domain=salernitananews.it
 ||gmdigital.it^*/adplay.js
 ||gocomunicazione.it^$domain=vdj.it
 ||greenweez.it/data/img/banner-$third-party
-||ibb.co^$domain=marcheingol.it
+||ibb.co^$domain=marcheingol.it|salernitananews.it
 ||im.ge^$domain=lanuovariviera.it
 ||imgbox.com^$domain=marcheingol.it|venetogol.it
 ||imgur.com^$domain=casertasette.com|friuligol.it|venetogol.it
@@ -25,6 +26,7 @@
 ||italycharter.it/searchwidget$third-party
 ||jooble.org/css/images/logos/jooble_$third-party
 ||netsons.com/manage/images/affiliates/$third-party
+||pegasomedia.it/public/immaginibnr/
 ||postimg.cc^$domain=napolimagazine.com|settecalcio.it|toscanagol.it
 ||pratoverdecagliari.it/images/banners/$third-party
 ||sorgentenatura.it/data/img/Banner_$third-party
@@ -64,7 +66,7 @@
 ||bellicapelliforum.com^$domain=forumfree.it
 ||blogspot.com^$image,domain=blog.libero.it|newscronaca.myblog.it
 ||book.terravision.eu^$domain=mylondra.it
-||booking.com^$subdocument,domain=canturino.com|cosafarea.it|cosafarei.it|cosavederemadrid.it|costieraamalfitana.com|fortementein.com|guida-polinesia.com|guidaviaggi.org|guide-europe.info|immaginaviaggiare.it|iopartodasola.it|irenedisumma.com|italiasearch.it|italy.biella.it|italy.catania.it|italy.firenze.it|italy.grosseto.it|italy.milano.it|italy.novara.it|italy.vicenza.it|machupicchuperu.it|maremma.name|milleunadonna.it|monacodibaviera.org|napolike.it|nonchiamatemiturista.it|nonniavventura.it|notizie.tiscali.it|oktoberfest-monaco.it|panannablogdiviaggi.com|positivitrip.com|quattroruote.it|scorcidimondo.it|sport.tiscali.it|taj-mahal.it|tipintravel.com|travelstales.it|travelwithbrothers.com|tuttobaviera.it|vadoingiappone.it|viacolviaggio.it|viaggi-lowcost.info|viaggi-nel-tempo.com|viaggiadipiu.it|viaggiascrittori.com|viaggieuropa.com|vivasicilia.com|vocedelverbopartire.com
+||booking.com^$subdocument,domain=canturino.com|cosafarea.it|cosafarei.it|cosavederemadrid.it|costieraamalfitana.com|fortementein.com|guida-polinesia.com|guidaviaggi.org|guide-europe.info|immaginaviaggiare.it|iopartodasola.it|irenedisumma.com|italiasearch.it|italy.biella.it|italy.catania.it|italy.firenze.it|italy.grosseto.it|italy.milano.it|italy.novara.it|italy.vicenza.it|machupicchuperu.it|maremma.name|milleunadonna.it|monacodibaviera.org|napolike.it|nonchiamatemiturista.it|nonniavventura.it|notizie.tiscali.it|oktoberfest-monaco.it|panannablogdiviaggi.com|positivitrip.com|quattroruote.it|scorcidimondo.it|sport.tiscali.it|taj-mahal.it|tipintravel.com|travelstales.it|travelwithbrothers.com|tuttobaviera.it|vadoingiappone.it|viacolviaggio.it|viaggi-lowcost.info|viaggi-nel-tempo.com|viaggiadipiu.it|viaggiascrittori.com|viaggieuropa.com|vocedelverbopartire.com
 ||campeggi.com/img/takeover/
 ||careerjet.it/partners/
 ||cartomanzia.it/dimmi.gif
@@ -116,7 +118,6 @@
 ||gbtcdn.com^$domain=lantidiplomatico.it
 ||gelestatic.it^*/adv/
 ||gigacenter.it^$image,third-party
-||giphy.com^$domain=napolipiu.com|salernitananews.it
 ||googleapis.com/comslider/$domain=quotidiano.net
 ||graficadivina.it/grafica-divina.jpg
 ||gratislandia.net/banners/
@@ -126,12 +127,9 @@
 ||hdpass.click/images/fake-player/
 ||hrs.de/wizard.aspx?
 ||iads.iltrovatore.it^
-||ibb.co^$domain=edicolafree.xp3.biz|salernitananews.it
 ||ilgiardinodeilibri.it/data/banner_partner/
 ||ilpelonelluovo.net/banner/
 ||iltelaiodipenelope.it/banner_exchange/
-||imageshack.com^$domain=notiziariocalcio.com
-||imgix.net/715335a0c32a3a51fd84da3af3c399853fe31204.jpg$domain=videogamezone.eu
 ||immobiliagest.it^$subdocument,third-party
 ||immobiliare.it/widget/$third-party
 ||immobilmente.com/Banner/$third-party
@@ -175,7 +173,6 @@
 ||offerte.buste.net^$third-party
 ||oro24ksrl.it/widget/$third-party
 ||overlays.fr/js/launcher.js
-||pegasomedia.it/public/immaginibnr/
 ||percorsidigitali.com/consulting300.gif
 ||pezzotto.net/banners/
 ||pictures.glashuette-original.com^$domain=orologidiclasse.com

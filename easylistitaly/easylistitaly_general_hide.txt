@@ -45,6 +45,7 @@
 ##.yobee-adv
 ##a[href^="https://adv.presscommtech.com/"]
 ##a[href^="https://book-of-ra-online.it/"]
+##a[href^="https://campaigns.williamhill.it/C.ashx?"]
 ##a[href^="https://casinononaams.co"]
 ##av-adv-slot
 ##div[class^="rtbuzz_"]
@@ -410,7 +411,6 @@
 ##a[href^="https://affiliati.gointernet.it/verify/"]
 ##a[href^="https://affiliation.software/"]
 ##a[href^="https://affiliazioniads.snai.it/"]
-##a[href^="https://campaigns.williamhill.it/C.ashx?"]
 ##a[href^="https://direct.piuannews.com/aff_"]
 ##a[href^="https://go.ketchupadv.it/aff_"]
 ##a[href^="https://guarda4k.online/"]
