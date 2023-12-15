@@ -17,7 +17,6 @@
 ||abruzzolive.tv/images_client/
 ||abruzzonotizie.com/wp-content/uploads/all.png
 ||abruzzonotizie.com^*/SkinLaserClinic.jpg
-||abruzzoweb.it^*/banner-
 ||accordo.it/cloud-assets/x/sfondi/
 ||acrenate.it^*/sponsor_
 ||acspezia.com^*/sponsor/
@@ -1163,8 +1162,6 @@
 ||tiscali.it^*/comparasemplice.
 ||tiscali.it^*/eby3x4.jpg
 ||torinotoday.it/images/skin/
-||tradingmania.it^*-Banner-
-||tradingmania.it^*-sidebar.
 ||trainingpedia.it^*/banner-
 ||trainingpedia.it^*/corso-personal-trainer.jpg
 ||trasporti-italia.com^*/banner/
@@ -1249,14 +1246,11 @@
 ||tuttointer24.it^*/banner-
 ||tuttoio.com^*/Banner-
 ||tuttonatale.it^*/tutto-costumi-
-||tuttopisa.com^*/banner-
 ||tuttostoria.net/images/storiadoc-animato.gif
 ||tuttotone.app/assets/img/banner/
 ||tuttotrasporti.it^*/notizieSponsorizzate/
 ||tuttozampe.com^*/Premium_
 ||tv1.it/images/banner/
-||tvcentromarche.it^*/ESTRA300x250-
-||tvcity.it^*/400x300_
 ||tvqui.it^*/BANNER-
 ||tvsei.it^*/uisp
 ||tvserial.it^*/300x50_
