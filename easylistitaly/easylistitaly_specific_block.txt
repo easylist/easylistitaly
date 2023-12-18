@@ -414,6 +414,7 @@
 ||momentosera.it/bannerupload/
 ||mondopadano.it/media/statiche/mondopadano/ADV/
 ||monitorimmobiliare.it/images/upload/banner/
+||moondo.info/adv/
 ||motori.it/widget-agos/
 ||myvalley.it/wp-content/banners/
 ||napolicalcionews.it/images/Banner
@@ -499,6 +500,7 @@
 ||sannicandro.org/data/sponsor/
 ||sardanews.it/images/banners/
 ||sardinias.it/files/partner/
+||sassarioggi.it/wp-content/uploads/*-banner-
 ||sassuolooggi.it/public/images/ban_
 ||sassuolooggi.it/public/slides/
 ||scopateitaliane.com/nb/
@@ -514,6 +516,7 @@
 ||solovela.net/imm_ADV?
 ||solovela.net/immagini/banner/
 ||sora24.it/banner/
+||spoletonline.com/banner/
 ||sport24news.it/images/banner/
 ||sslazionuoto.it/images/bt-shortcode/bt-carousel-
 ||stabiachannel.it/assets/images/banners/
@@ -709,7 +712,6 @@
 ||londraweb.com/london_pass1.jpg
 ||losport24.com^*/cm.jpg
 ||lucchese1905.it^*/sponsor-
-||luinonotizie.it^*/cipriano-home-
 ||lultimaribattuta.it^*/franca.jpg
 ||luoghidavedere.it^*-in-regalo-per-la-tua-prossima-prenotazione-su-airbnb-codice-sconto-sconti.png
 ||lurlo.news^*/squisicily
@@ -748,7 +750,6 @@
 ||meglioviaggiare.it^*/banner
 ||meglioviaggiare.it^*/logo-standard-reporter-
 ||mercuriomagazine.com^*/banner_
-||meridiananotizie.it^*/123.jpg
 ||metallirari.com^*/banner_
 ||metallized.it/banner/
 ||minformo.com/img/ipini.png
@@ -768,7 +769,6 @@
 ||monzanet.it/images/banner/
 ||monzanet.it/images/inpage_banners/
 ||monzanet.it/images/sponsors/
-||moondo.info/adv/
 ||motoexcape.com^*-Skin-
 ||motori360.it^*-300-x-150-px.
 ||motori360.it^*/300x150.
@@ -933,13 +933,6 @@
 ||radiodigitalenergy.com/images/canastri.jpg
 ||radiodigitalenergy.com/images/radio.net.jpg
 ||radiodimensionemusica.it^*/Logo-Pigini.jpg
-||radiofly.cloud^*/area-logo-
-||radiofly.cloud^*/astranet-
-||radiofly.cloud^*/banner-
-||radiofly.cloud^*/Estra_
-||radiofly.cloud^*/foxy-logo.png
-||radiofly.cloud^*/logo_astra_
-||radiofly.cloud^*/radios-online-
 ||radiogelosa.it^*/caneva.gif
 ||radioibiza.it/images/banners/
 ||radioimmagine.it^*/bannerino_
@@ -953,9 +946,6 @@
 ||radiointemelia.it/images/pubb-online/
 ||radiolike.it^*/logo_autoscuola.jpg
 ||radiolike.it^*/logo_sport.jpg
-||radiolombardia.it^*/325x50-
-||radiolombardia.it^*/banner-
-||radiolombardia.it^*/ilpl.png
 ||radioluce.it^*/banner-
 ||radiomadeinitaly.it^*/sarr50-
 ||radiomia.it/images/banners/
@@ -1041,7 +1031,6 @@
 ||skuola.net/assets/js/mm-banner-manager.js?
 ||specchiosesto.it^*-banner-
 ||specchiosesto.it^*/banner-
-||spoletonline.com/banner/
 ||sport-press.it^*/image001.jpg
 ||sport-press.it^*_300x300.
 ||sportdaily.it/images/adsense/
@@ -1253,7 +1242,6 @@
 ||tv1.it/images/banner/
 ||tvqui.it^*/BANNER-
 ||tvsei.it^*/uisp
-||tvserial.it^*/300x50_
 ||uberti.eu^*/guide/
 ||ubud.it^*/81i7FcioR-L-659x1024.jpg
 ||udineseblog.it^*/BANNER-
