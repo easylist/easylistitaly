@@ -34,6 +34,7 @@ empresite.it,reteimprese.it###afscontainer2
 salernonotizie.net###amz
 direttafacile.it###annuncidiv
 oggimilazzo.it###ascomparsa
+irpinianews.it##aside.widget_media_image
 altarimini.it###attivitaEvidenza
 brocardi.it###background-head-spacer
 daneel59.altervista.org,ilmioip.it,metanogpl.it,umbriaradio.it###banner
@@ -538,6 +539,7 @@ vienormali.it##.cimarandom
 telenord.it##.click-foto
 vispesaro1898.it##.cmsmasters_clients_slider_wrap
 avvisatore.com,bottadiculo.it,caffeinamagazine.it,calabrianews24.com,casasuper.it,clubdoria46.it,donnaglamour.it,donnapop.it,donnaup.it,gametimers.it,giornaledisegrate.it,gommeblog.it,greenme.it,grossetosport.com,gstv24.it,infonurse.it,informarea.it,keblog.it,latinapress.it,lawebstar.it,mangiabevigodi.it,milanocittastato.it,ok-salute.it,pomiglianolive.it,sportchannel214.it,stilearte.it,trattamentinaturalibio.it,zonacalciofaidate.it##.code-block
+casinamia.com##.code-block-17
 picenotime.it##.col-12.col-lg-6
 monza-news.it##.col-12.col-md-4
 monza-news.it##.col-12.col-md-6
@@ -1583,6 +1585,7 @@ ricettedalmondo.it###ricetta-box2
 napolike.it###shortcode-34-5
 familygo.eu,marigliano.net###skin
 artribune.com###skin-header-fragment
+cronacheancona.it###skin_above
 alimentando.info###skin_container
 iovivoaroma.org###skin_link_dx
 iovivoaroma.org###skin_link_sx
@@ -2250,6 +2253,7 @@ passioneorologio.it##.rehub_feat_block
 regaliperfetti.it##.rehub_woo_review
 ilsole24ore.com##.rel--brandconn
 mobimart.it##.resp-container
+daninseries.it##.responsive-banner
 promoqui.it##.retailer-app__MainAdv
 router-4g.it##.review-links
 webpointzero.com##.rh_listoffers
@@ -2888,6 +2892,7 @@ paginegialle.it#?#.search-itm:-abp-has(.search-itm__label:-abp-contains(annuncio
 pharmacyscanner.it#?#.similar-post-holder:-abp-has(.categoria:-abp-contains(Post sponsorizzato))
 pharmacyscanner.it#?#article:-abp-has(.featured + .spons-post)
 radioluna.it#?#.feat-widget-wrap:-abp-has(div:-abp-contains(INFORMAZIONE REDAZIONALE))
+signoresidiventa.com#?#.widget_sow-image:-abp-has(a[target="_blank"])
 sportando.basketball#?#.widget.widget_block:-abp-has(a[href^="https://betsquare.com/"])
 sportando.basketball#?#.widget.widget_block:-abp-has(a[target="_blank"])
 technofashion.it#?#.td_block_wrap:-abp-has(span:-abp-contains(Advertorial))
