@@ -319,6 +319,7 @@
 ||ilmioip.it/img/banner
 ||ilmioip.it/img/infermieri
 ||ilnuovoterraglio.it/wp-content/uploads/*/banner-
+||ilpisasiamonoi.it/public/banner-
 ||ilroma.net/sites/default/files/SKIN_
 ||ilroma.net^*/rotating_banner/
 ||ilsicilia.it/wp-content/banners/
@@ -439,6 +440,7 @@
 ||nuovogiornalenazionale.com/images/banners/
 ||nuovosud.it/sites/default/files/banner/
 ||oggimilazzo.it/images/banners/
+||oktennis.it/wp-content/skin/
 ||olbianotizie.it/img/assets/siddura/
 ||ondarock.it/banners/
 ||ondarock.it/skin/
@@ -462,6 +464,7 @@
 ||piuincontri.com/img/tbl/ban/
 ||piunotizie.it/wp-content/uploads/*/SKIN-
 ||piuvallitv.it/templates/piuvallitv/web/images/sponsors/
+||plx.mrpornogratis.it^
 ||plx.pornototale.com^
 ||podisti.net/images/banners/
 ||pointvet.it/web/media/banner/
@@ -518,6 +521,8 @@
 ||sora24.it/banner/
 ||spoletonline.com/banner/
 ||sport24news.it/images/banner/
+||sportevai.it/img/banner/
+||sportevai.it/uploads/*/sportevai-banner.
 ||sslazionuoto.it/images/bt-shortcode/bt-carousel-
 ||stabiachannel.it/assets/images/banners/
 ||stabiachannel.it/home/img/banner/
@@ -622,7 +627,7 @@
 /^https?:\/\/[0-9a-z]{8,}\.com\/.*/$script,third-party,xmlhttprequest,domain=calcio.re|guardaserie01.click|pepperlive.info
 /^https?:\/\/[0-9a-z]{8,}\.xyz\/.*/$script,third-party,xmlhttprequest,domain=ilgeniodellostreaming.zone
 ! (/sw.js)
-/^https?:\/\/.*\/.*sw[0-9._].*/$script,domain=pornototale.com
+/^https?:\/\/.*\/.*sw[0-9._].*/$script,domain=mrpornogratis.it|pornototale.com
 !
 ||datameteo.com^*/clickday.jpg
 ||datameteo.com^*/logo-scamuzzi.png
@@ -636,12 +641,9 @@
 ||ilmeridianonews.it^*/RESTA2.jpg
 ||ilmessaggero.it/img/banner_
 ||ilmetapontino.it^*/banner-
-||ilmiocaneleggenda.it^*/tasto-amazon.png
-||ilmiogattoeleggenda.it^*/tasto-amazon-
 ||ilmohicano.it/^*/CPM_LOGO_NEW_111I-400x176.jpg
 ||ilmomento.org^*-300x250.
 ||ilombardia.it^*/all4cycling-
-||ilpisasiamonoi.it/public/banner-
 ||ilquotidiano.it/userdata/banner/
 ||ilreggino.it^*/Lega-Ski-ilV_
 ||ilsalottodelcalcio.it^*-banner.
@@ -675,8 +677,6 @@
 ||lagenziadiviaggi.it^*/okSKIN-
 ||lagoleada.it^*-300x250.
 ||lagoleada.it^*/300-x-250-
-||laguida.it^*-311x300-
-||laguida.it^*-Skin.
 ||laltrapagina.it^*/barraagenda.jpg
 ||laltrapagina.it^*/pe4681.
 ||lametino.it/images/banners/
@@ -752,9 +752,6 @@
 ||mercuriomagazine.com^*/banner_
 ||metallirari.com^*/banner_
 ||metallized.it/banner/
-||minformo.com/img/ipini.png
-||minformo.com/img/ipini2.png
-||minformo.com/img/sicuro.png
 ||mio-ip.eu^*/offerte-amazon-
 ||miotv.it/public/componenti/
 ||mitology.it^*/skin-
@@ -792,11 +789,8 @@
 ||newsinquota.it^*/Springo_
 ||newsly.it^*/aawp/
 ||nightlife-cityguide.com^*/sconto-airbnb.png
-||nintendon.it^*/Amazon-
 ||nocerinalive.it^*/sponsor1-
 ||nokioteca.net/_immagini/Nokia2720-2.
-||nonapritequestoblog.it^*-banner.
-||nonapritequestoblog.it^*/banner_
 ||nonsolobenessere.it^*/bio-aloe-ferox-bioness-promo-
 ||nonsolomodanews.it^*-768x494.
 ||nonsprecare.it^*_Inspiringirls.jpg
@@ -814,7 +808,6 @@
 ||oipamagazine.it^*/euroservice.gif
 ||okpronostico.it^*/comparazione-bonus.jpg
 ||oksiena.it/banner/
-||oktennis.it^*/skin/
 ||oltrepomantovanonews.it^*/banner-
 ||oltrepomantovanonews.it^*/SKIN-
 ||omniagate.com^*/canado-tuscany.jpg
@@ -827,7 +820,6 @@
 ||orologioblog.net/wp-content/uploads/banner/
 ||oroscopo.life/banner
 ||oroscopogiorno.it/mondo300.jpg
-||padelmagazine.it/images/banner/
 ||padovanews.it/images/banners/
 ||pallacanestrobiella.it/images/edilnol-
 ||pallacanestrovarese.it^*/loghi-top/
@@ -863,7 +855,6 @@
 ||plateamajor.com/img/banner/
 ||plateamajor.com/img/BC_
 ||plusrew.com^*/Guadagna-con-YAP.jpg
-||plx.mrpornogratis.it^
 ||production-livingdocs-bluewin-ch.imgix.net^*/6f3cdbc0-2a58-4a7e-933f-9077769c899b.png$domain=bluewin.ch
 ||puntovendita.info/images/banners/
 ||pyrosonline.it/site/public/image/20200131153026.jpg
@@ -1003,9 +994,6 @@
 ||rtcquartarete.it^*/dantonio.png
 ||rtcquartarete.it^*/fatture-01-
 ||rtinradio.com^*/banner/
-||rto.it^*/bbk-2.png
-||rto.it^*/pallacanestro-170x170.png
-||rto.it^*/parcheggio.png
 ||ruminantia.it^*/banner-
 ||ruminantia.it^*_banner-
 ||rumorscena.com^*/Banner-
@@ -1016,7 +1004,6 @@
 ||scattidigusto.it^*/d2-abbigliamento-
 ||scattidigusto.it^*/mulino-caputo-
 ||scubaportal.it^*/skin-
-||scuolaguida.it/img/public/banner/
 ||seguonews.it^*/banner/
 ||seguonews.it^*/banner_
 ||sentimentispezzini.cittadellaspezia.com^*/al.jpg
@@ -1036,11 +1023,7 @@
 ||sportdaily.it/images/adsense/
 ||sporteconomy.it^*/bandobanner1024x126-
 ||sporteconomy.it^*/banner-
-||sportevai.it/img/banner/
-||sportevai.it^*-banner.
 ||sportextra.it/img/banner_
-||sportface.it^*-BANNER-
-||sportface.it^*/Banner-
 ||sportgrigiorosso.it/banners/
 ||sportpaper.it^*/PayFan-
 ||sportpaper.it^*/PayFan.
@@ -1077,7 +1060,6 @@
 ||teatrionline.com^*/banner.
 ||teatronaturale.it/media2/partners/
 ||technologyreview.it/_media/_adv/
-||technoven.com^*/Buy-Button.jpg
 ||tecnofacile.com^*/guida-regali-high-tech.jpg
 ||tecnofun.eu^*/pip5.jpg
 ||telcoinsider.it^*/banner-
@@ -1154,8 +1136,6 @@
 ||trainingpedia.it^*/banner-
 ||trainingpedia.it^*/corso-personal-trainer.jpg
 ||trasporti-italia.com^*/banner/
-||travelforbusiness.it^*/Banner-
-||travelforbusiness.it^*/ttg795x100-
 ||travelgay.it/images/fade_OK.gif
 ||travelquotidiano.com^*/Dem-Malesia-ok-tc.jpg
 ||travelquotidiano.com^*/DEM-webinar-tc.png
