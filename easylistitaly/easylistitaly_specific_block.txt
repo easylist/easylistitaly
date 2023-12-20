@@ -486,7 +486,6 @@
 ||radio-reporter.it/sponsor/
 ||radiofusion.it/img/banner/
 ||radiohollywood.net/images/europea-92-buono.jpg
-||radioluna.it/news/wp-content/uploads/*/manchette_
 ||radioradio.it/media/angwp/
 ||ragusanews.com//immagini_banner/
 ||ravennaeventi.net/file/*/banner_
@@ -539,6 +538,7 @@
 ||ternieprovincia.com/images/banner/
 ||tg24.info/network/wp-content/banners/
 ||tgnordsalento.it/images/banner-
+||theapplelounge.com/wp-content/uploads/*/banner-trendevice.jpg
 ||theitaliantimes.it/js/gpt.plus.min.js
 ||torinoaffari.it/img/tbl/ban/
 ||torinoerotica.com/banner/
@@ -926,9 +926,6 @@
 ||radiodimensionemusica.it^*/Logo-Pigini.jpg
 ||radiogelosa.it^*/caneva.gif
 ||radioibiza.it/images/banners/
-||radioimmagine.it^*/bannerino_
-||radioimmagine.it^*/ccw_MR.png
-||radioimmagine.it^*/set19aprilia2.png
 ||radioincontro.com^*/Abita-poltrone.jpg
 ||radioincontro.com^*/banner
 ||radioincontro.com^*/enaip-corsi-formazione-urbino.jpg
@@ -1073,7 +1070,6 @@
 ||telediogene.it/images/banner/
 ||telefonino.net^*/justearntn.js
 ||teleglobal.tv/images/banners/
-||telegolfo.com^*-500X150.
 ||telegramdirectory.it^*/discount-
 ||telejonio.com^*/banner_
 ||telemia.it^*-BANNER-
@@ -1118,7 +1114,6 @@
 ||tgcal24.it^*/BANNER-
 ||tgcal24.it^*/banner_
 ||tgmax.it/wp-content/uploads/2018/05/1.png
-||theapplelounge.com^*/banner-
 ||thelostavocado.com^*/Booking_Com_
 ||ticino24.it/images/banner/
 ||ticinofinanza.ch/banner/
@@ -1151,9 +1146,6 @@
 ||tribunapoliticaweb.sm^*/sumsquadrato1-
 ||tribunapoliticaweb.sm^*_banner.
 ||tribunapoliticaweb.sm^*_skin_
-||trivenetogoal.it^*-300-X-250-
-||trivenetogoal.it^*/padova-300.jpg
-||trivenetogoal.it^*/sentimento-padova-
 ||trmtv.it^*/banner_
 ||trmtv.it^*/banners/
 ||trmweb.it^*/banner-
