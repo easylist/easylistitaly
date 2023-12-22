@@ -4,6 +4,7 @@
 ||api.vivisail.com^$domain=italiavela.it
 ||autoxy.it/js/combine/lead_banner_min.js$third-party
 ||bannerpress.bps.plap.it^
+||bellicapelliforum.com^$domain=forumfree.it
 ||beruby.com/images/banner/
 ||bit.ly^$domain=manfredonianews.it
 ||booking.com^$subdocument,domain=circuitoturismo.it|domanidoveandiamo.it|ioamolasicilia.com|viaggiallafinedelmondo.it
@@ -11,6 +12,7 @@
 ||campingsportmagenta.com/CamperOnline/$third-party
 ||dhresource.com^$domain=xtremehardware.com
 ||dynamic.rcefoto.com^$domain=juzaphoto.com
+||flywheel.cloud/gallerie/banner/
 ||funshopping.it/iframe_embed/$third-party
 ||giphy.com^$domain=salernitananews.it
 ||gmdigital.it^*/adplay.js
@@ -63,7 +65,6 @@
 ||babbano.com^*/babbano.png$third-party
 ||banner-madai-com.s3.amazonaws.com^
 ||bazarcoupon.com/images/$third-party
-||bellicapelliforum.com^$domain=forumfree.it
 ||blogspot.com^$image,domain=blog.libero.it|newscronaca.myblog.it
 ||book.terravision.eu^$domain=mylondra.it
 ||booking.com^$subdocument,domain=canturino.com|cosafarea.it|cosafarei.it|cosavederemadrid.it|costieraamalfitana.com|fortementein.com|guida-polinesia.com|guidaviaggi.org|guide-europe.info|immaginaviaggiare.it|iopartodasola.it|irenedisumma.com|italiasearch.it|italy.biella.it|italy.catania.it|italy.firenze.it|italy.grosseto.it|italy.milano.it|italy.novara.it|italy.vicenza.it|machupicchuperu.it|maremma.name|milleunadonna.it|monacodibaviera.org|napolike.it|nonchiamatemiturista.it|nonniavventura.it|notizie.tiscali.it|oktoberfest-monaco.it|panannablogdiviaggi.com|positivitrip.com|quattroruote.it|scorcidimondo.it|sport.tiscali.it|taj-mahal.it|tipintravel.com|travelstales.it|travelwithbrothers.com|tuttobaviera.it|vadoingiappone.it|viacolviaggio.it|viaggi-lowcost.info|viaggi-nel-tempo.com|viaggiadipiu.it|viaggiascrittori.com|viaggieuropa.com|vocedelverbopartire.com
@@ -111,7 +112,6 @@
 ||fattoremamma.com/fmn.js
 ||favolefantasia.com/banner/
 ||files.iqoption.com^$domain=borsainside.com
-||flywheel.cloud/gallerie/banner/
 ||fotonerd.it/wp-content/uploads/2020/05/offerte-fotografiche.jpg
 ||free.netsons.com^
 ||gaggioso.it^$subdocument,third-party
