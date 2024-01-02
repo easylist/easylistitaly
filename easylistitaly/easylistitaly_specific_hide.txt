@@ -2157,7 +2157,8 @@ cycletteprezzi.it,orologi-subacquei.it,pesipalestra.it##.main-cta-banner
 hceppan.it##.mainSponsor
 irpinianews.it##.master-slider-parent
 ecoo.it##.masterhead-container-column
-eurochampions.it,genoanews1893.it,lalaziosiamonoi.it,perugia24.net,pianetabasket.com,tuttofrosinone.com,tuttonocerina.com,tuttoturris.com,tuttoveneziasport.it##.mastheadscreenweek.it##.matches-container
+eurochampions.it,genoanews1893.it,lalaziosiamonoi.it,perugia24.net,pianetabasket.com,tuttofrosinone.com,tuttonocerina.com,tuttoturris.com,tuttoveneziasport.it##.masthead
+screenweek.it##.matches-container
 5chat.it##.mediumrectangle
 terremarsicane.it##.megatop_wrap
 pistoiasport.com##.menu-banner-wrapper
