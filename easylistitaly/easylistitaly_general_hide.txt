@@ -4,6 +4,13 @@
 ###adk_spalla-bottom
 ###adk_spalla-middle
 ###adk_spalla-top
+###adv-Middle1-hr
+###adv-Middle1-mobile
+###adv-Middle2-mobile
+###adv-Middle3
+###adv-Middle3-mobile
+###adv-x40
+###adv-x40-mobile
 ###adv_nativa
 ###advertisingStriscia
 ###eadv-aside

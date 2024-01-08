@@ -521,7 +521,9 @@ primaonline.it##.blocco-autopromo-container
 winenews.it##.blocco_banner_top
 giornaledellamusica.it##.block-ad-gdm
 corrierecesenate.it,lavitacattolica.it##.block-banners
+alvolante.it##.block-banners-manzoni
 cascinanotizie.it##.block-block
+alvolante.it##.block-dcbanners-header
 lavocedimanduria.it##.block-first-ads
 ilroma.net##.block-rotating-banner
 iphoneitalia.com##.block_vidverto
@@ -1286,6 +1288,7 @@ controradio.it##div[id^="contr-"]
 corriereal.info,corriereromagna.it##div[id^="corri-"]
 crotoneok.it##div[id^="croto-"]
 filmtv.it##div[id^="datalit_"]
+alvolante.it##div[id^="dfp-alv-"]
 umbriatv.com##div[id^="div-home-banner-"]
 ekuonews.it##div[id^="ekuon-"]
 eurofestivalnews.com##div[id^="eurof-"]
