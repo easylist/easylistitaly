@@ -1,6 +1,7 @@
 ||advx.esprimo.com^
 ||affiliatetxt.nextmediaweb.com^
 ||affiliati.ionoleggioauto.com^$third-party
+||affiliazioni.misterdomain.eu^$third-party
 ||api.vivisail.com^$domain=italiavela.it
 ||autoxy.it/js/combine/lead_banner_min.js$third-party
 ||bannerpress.bps.plap.it^
@@ -54,7 +55,6 @@
 ||affiliati.bet2bet.it^
 ||affiliation.majeeko.com^$third-party
 ||affiliation.sostariffe.it^$third-party
-||affiliazioni.misterdomain.eu^$third-party
 ||aimon.it/banner_
 ||alpitour.it/widget/$third-party
 ||andreafranzoso.com/banner/
