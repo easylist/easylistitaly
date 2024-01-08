@@ -673,6 +673,7 @@ bussolafinanziaria.it##.elementor-element-d185417
 business24tv.it##.elementor-element-d7cafb1
 tv9italia.it##.elementor-element-d985f61
 nuoto.com##.elementor-element-dc93016
+lacittadisalerno.it##.elementor-element-e1e064e
 rovigo.news##.elementor-element-e55fe4b
 tuttopisa.com##.elementor-element-eafee8c
 lostrillonenews.it##.elementor-element-f5fc7c3
