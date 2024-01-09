@@ -3,6 +3,7 @@
 ||affiliati.ionoleggioauto.com^$third-party
 ||affiliazioni.misterdomain.eu^$third-party
 ||api.vivisail.com^$domain=italiavela.it
+||auto.noicompriamoauto.it/evaluation/$third-party
 ||autoxy.it/js/combine/lead_banner_min.js$third-party
 ||bannerpress.bps.plap.it^
 ||bellicapelliforum.com^$domain=forumfree.it

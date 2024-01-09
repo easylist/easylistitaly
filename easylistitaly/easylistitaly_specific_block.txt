@@ -646,6 +646,7 @@
 ||whiteradio.it/themes/img/sponsor/
 ||wp.com/www.ilcarmagnolese.it/wp-content/uploads/*-Skin-
 ||wp.com^*/banner/$domain=buongiornoslovacchia.sk
+||www.motori360.it/wp-content/uploads/*/SKIN_
 ||xtremehardware.com/instant-gaming.png
 ||yuvideos.com/banner/
 ||zonalotto.it/banner_
