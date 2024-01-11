@@ -798,7 +798,7 @@ giornaleibleo.it##.jeg_nav_item.jeg_nav_html
 terninrete.it##.jet-popup
 corrierenazionale.it##.jetpack-image-container
 nextpit.it##.jobbioapp
-eurogirlescort.it##.js-stt-click
+eurogirlescort.it##.js-stt-click > picture
 pornototale.com##.js_footer_partner_container
 pornototale.com##.js_sidebar_webcams
 pornototale.com##.js_webcam_models_container
