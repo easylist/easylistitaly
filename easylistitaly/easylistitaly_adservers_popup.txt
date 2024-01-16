@@ -1,3 +1,2 @@
 ||golandwin.it^$popup,third-party
 ||heyos.com^$popup,third-party
-||protezione-deldispositivo.com^$popup
