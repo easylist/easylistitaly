@@ -1,2 +1,1 @@
-||golandwin.it^$popup,third-party
 ||heyos.com^$popup,third-party
