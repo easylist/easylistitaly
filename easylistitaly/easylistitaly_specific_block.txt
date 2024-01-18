@@ -590,6 +590,7 @@
 ||telenord.it/img/uploads/video/*.mp4
 ||telepordenone.tv/js/banner.js
 ||teleradiostereo.it/images/banner/
+||telesirio.it^*/banners/
 ||ternieprovincia.com/images/banner/
 ||tg24.info/network/wp-content/banners/
 ||tgnordsalento.it/images/banner-
@@ -981,14 +982,6 @@
 ||tccstatic.com/template/*/js/p-$script
 ||tecnofacile.com^*/guida-regali-high-tech.jpg
 ||telefonino.net^*/justearntn.js
-||telesettelaghi.com^*/finestre-e-finestre.
-||telesettelaghi.com^*/maxottica-
-||telesirio.it/images/banners/
-||telestense.it/wp-content/banners/
-||teletruria.it^*/CHIMET-
-||telodicoio.org^*/guadagnare-soldi-velocemente-
-||tempoitalia.it/banner/
-||tenews.it/banner/
 ||tennismarche.net/images/banners/
 ||terranauta.it/banner/
 ||terranuova.it^*/ad$xmlhttprequest

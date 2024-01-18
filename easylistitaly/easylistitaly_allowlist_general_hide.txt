@@ -1,3 +1,4 @@
+ilgiornaleditalia.it#@#.bannervcms
 unionesarda.it#@#.leftAds
 unionesarda.it#@#.rightAds
 unionesarda.it#@#.topAds
@@ -18,7 +19,6 @@ newscrawler.it#@#.ad_wrapper
 subito.it#@#.adcont
 bakeca-incontri.net#@#.adtitle
 altervista.org#@#.adv_esterno
-ilgiornaleditalia.it#@#.bannervcms
 questaseratv.it#@#.channelBoxAds
 questaseratv.it#@#.gptslot
 ilbaratto.com#@#.jquery-script-ads
