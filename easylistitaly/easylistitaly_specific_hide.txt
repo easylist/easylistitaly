@@ -1243,6 +1243,7 @@ domanidoveandiamo.it,losport24.com,mio-ip.eu,tivustream.com##a[href*="//amzn.to/
 bolognasportnews.it,kimchiebasilico.it##a[href*="//bit.ly/"]
 animeemanga.it,comprovendodischi.it,comprovendolibri.it##a[href*="//goo.gl/"]
 comprovendodischi.it,immaginaviaggiare.it,luxwatch.it,tivustream.com##a[href*="//www.amazon."][href*="tag="]
+cb01.promo##a[href*="/4k/film/"]
 paolociraci.com,paolociraci.it##a[href*="/ad-click.php"]
 ilquotidianodellazio.it##a[href*="/ad/click/"]
 forumfree.it##a[href*="/ad_click.php?"]
