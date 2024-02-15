@@ -605,6 +605,7 @@ bresciasport.net##.bwjliges
 casanapoli.net##.bwp_gallery_slideshow
 dererker.it##.bxslider
 corrieredellumbria.it,corrierediarezzo.it,corrieredisiena.it##.bxsliderAdv
+quattroruote.it##.c-adv
 empolifc.com##.c-footer__sponsors-container
 trento2018.it##.callExclusive
 campanialike.com##.cardSponsorColonnaDestra
