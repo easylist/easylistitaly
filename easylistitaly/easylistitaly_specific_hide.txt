@@ -387,7 +387,7 @@ filmtv.it##.altri
 prezzisalute.com##.amaz
 lombardoandrea.com##.amazon-auto-links
 animeclick.it,gamerclick.it##.amazon-row
-androidworld.it,cookaround.com,dmbeauty.it,donnamoderna.com,focus.it,giallozafferano.it,iconmagazine.it,mobileworld.it,my-personaltrainer.it,nostrofiglio.it,pianetadonna.it,pianetamamma.it,smartworld.it,soldionline.it,sorrisi.com,studenti.it,thewom.it,valorinormali.com,webboh.it##.amePlaceholderBox
+cookaround.com,dmbeauty.it,donnamoderna.com,focus.it,giallozafferano.it,iconmagazine.it,my-personaltrainer.it,nostrofiglio.it,pianetadonna.it,pianetamamma.it,smartworld.it,soldionline.it,sorrisi.com,studenti.it,thewom.it,valorinormali.com,webboh.it##.amePlaceholderBox
 ansa.it##.ansa-c
 bznews24.it,ilfilo.net,iltquotidiano.it,lasberla.com,stateofmind.it##.apPluginContainer
 quotidianodelsud.it##.argomenti-articolo-sponsor
@@ -1137,7 +1137,7 @@ everyeye.it##.topskin
 tvprato.it##.tp-banner-bar
 giornaledibarga.it,noitv.it##.track
 noinotizie.it##.tre-spazi
-androidworld.it,mobileworld.it,smartworld.it##.tw-carousel
+smartworld.it##.tw-carousel
 smartworld.it##.tw-fragment-affiliation-container
 radioram.it##.ubm_banners_rotation
 uiblog.it##.uiblo-widget
