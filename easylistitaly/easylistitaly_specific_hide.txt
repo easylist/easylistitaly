@@ -1851,6 +1851,7 @@ garzantilinguistica.it##.advbox
 addicted2play.com,bimcal.it,gioco.it,morningstar.it,trentinovolley.it##.advert
 helloworld.it,nanopress.it##.advertising
 altalex.com##.adviceBox
+megasesso.com##.aff__inner
 alfemminile.com##.affi-button
 filodirettomonreale.it##.ai-rotate
 pc-gaming.it##.ai-track
