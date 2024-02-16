@@ -2101,6 +2101,7 @@ winemag.it##.footer-wrapper
 imperatoreconsulting.eu##.footerBrand
 iltredici.it##.footer__partners
 rsd.it##.footer__widgets
+pornototale.com##.footer_partner_container_wrapper
 mitjetitalia.it##.footer_top
 aeroporto.net##.form_auto_iata
 boatmag.it##.four.columns.hide-for-small
