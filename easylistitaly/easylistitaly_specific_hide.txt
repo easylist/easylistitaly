@@ -1140,6 +1140,7 @@ noinotizie.it##.tre-spazi
 androidworld.it,mobileworld.it,smartworld.it##.tw-carousel
 smartworld.it##.tw-fragment-affiliation-container
 radioram.it##.ubm_banners_rotation
+uiblog.it##.uiblo-widget
 notebookitalia.it##.uk-height-medium
 padelmagazine.it##.uk-padding.uk-padding-remove-bottom.uk-text-center
 monitorimmobiliare.it##.uk-skin-link
