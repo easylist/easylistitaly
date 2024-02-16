@@ -786,7 +786,7 @@ nuovosud.it##.header-banner-wrapper
 nauticareport.it##.header-centerbar-ad
 genovaquotidiana.com##.header-image-wrap
 vercellioggi.it##.header-images
-cittafuture.quotidiano.net,luce.lanazione.it##.header-slider
+cittafuture.quotidiano.net##.header-slider
 veronavolley.it##.header-title-sponsor
 startmag.it##.headofpage
 internazionale.it##.hentry--banner
@@ -1309,6 +1309,7 @@ auto.it,corrieredellosport.it,tuttosport.com##div[class^="AdUnit_"]
 ilgiorno.it,ilrestodelcarlino.it,iltelegrafolivorno.it,lanazione.it,quotidiano.net##div[class^="Ad_"]
 sslazio.it##div[class^="Footer_footerSponsorItem_"]
 tuttoandroid.net##div[class^="OfferteCarousel"]
+luce.lanazione.it##div[class^="Slots_brand_"]
 gizchina.it,gufo.it,laleggepertutti.it##div[class^="__lxG__"]
 ciociariaoggi.it,latinaoggi.eu##div[class^="a-p1-banner-"]
 ilgiorno.it,ilrestodelcarlino.it,iltelegrafolivorno.it,lanazione.it,quotidiano.net##div[class^="ads_"]
@@ -1531,6 +1532,7 @@ sportevai.it##p[style="margin-top: 25px; border: 1px solid #0D8600; padding: 10p
 sportevai.it##p[style="margin-top: 30px; border: 1px solid #0D8600; padding: 10px; font-weight: bold; text-align: center;"]
 paganinotizie.it##rs-slides
 amalfinews.it,cetaranews.it,ilportico.it,ilvescovado.it,liratv.it,occhisusalerno.it,positanonotizie.it,ravellonotizie.it##section > div > div > span
+luce.lanazione.it##span[class^="Partner_"]
 archiportale.com##td[style="height:278px; background-color:#E8E8E6; cursor:pointer;position:relative;z-index:95;padding:40px 0 18px"]
 elbanotizie.it##td[style="width: 160px;"]
 acmilan.com##ul[class*="TopHeader__SponsorsSection-"]
