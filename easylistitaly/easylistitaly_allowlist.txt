@@ -1,10 +1,12 @@
 @@||amazon-adsystem.com/aax2/apstag.js$domain=calcionapoli1926.it|cittaceleste.it|derbyderbyderby.it|fantamagazine.com|fcinter1908.it|formulapassion.it|forzaroma.info|gazzabet.news|golssip.it|hellas1903.it|ilmilanista.it|ilposticipo.it|itasportpress.it|juvenews.eu|mediagol.it|mondoudinese.it|notiziecalciomercato.eu|numericalcio.it|padovasport.tv|pianetamilan.it|toronews.net|tuttobolognaweb.it|video.gazzetta.it|violanews.com
+@@||amazon-adsystem.com/aax2/apstag.js$script,domain=auto.it|corrieredellosport.it|tuttosport.com
 @@||buonenotiziebologna.it/images/banners/logos/bnb/logo.png
 @@||centrosangiorgio.com^*_pubblicita.
 @@||centrosangiorgio.com^*_pubblicita/
 @@||centrosangiorgio.com^*_pubblicita_
 @@||components2.rcsobjects.it/rcs_adv/v1/distro/dfp/common/prebid7.33.0.js$script,domain=calcionapoli1926.it|cittaceleste.it|derbyderbyderby.it|fantamagazine.com|fcinter1908.it|forzaroma.info|gazzabet.news|golssip.it|hellas1903.it|ilmilanista.it|ilposticipo.it|itasportpress.it|juvenews.eu|mediagol.it|mondoudinese.it|notiziecalciomercato.eu|numericalcio.it|padovasport.tv|pianetamilan.it|toronews.net|tuttobolognaweb.it|video.gazzetta.it|violanews.com
 @@||fluid.4strokemedia.com/www/delivery/asyncspc.php?$xmlhttprequest,domain=circusf1.com|fantacalcio.it|gianlucadimarzio.com|ilmeteo.it
+@@||g.doubleclick.net/tag/js/gpt.js$script,domain=auto.it|corrieredellosport.it|tuttosport.com
 @@||gay.it/adv/empty.mp4$media,~third-party
 @@||go.ezodn.com/tardisrocinante/lazy_load.js?$script,domain=consiglibenessere.org
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=agi.it|calcionapoli1926.it|circusf1.com|cittaceleste.it|derbyderbyderby.it|fantacalcio.it|fantamagazine.com|fcinter1908.it|formulapassion.it|forzaroma.info|gazzabet.news|gianlucadimarzio.com|golssip.it|hellas1903.it|ilmeteo.it|ilmilanista.it|ilposticipo.it|itasportpress.it|juvenews.eu|mediagol.it|mistergadget.tech|mondoudinese.it|notiziecalciomercato.eu|numericalcio.it|padovasport.tv|pianetamilan.it|toronews.net|tuttobolognaweb.it|video.gazzetta.it|violanews.com|vrsicilia.it
@@ -21,7 +23,6 @@
 @@||adultsadv.com/etero/random730_90.php$domain=mrjizz.com|pornotubo.it
 @@||adv.mediamond.it/hp_sponsor/utility_mediamond.js$domain=105.net|r101.it|radiomontecarlo.net|virginradio.it
 @@||adv.mediamond.it^*/tag_adv_mediamond.js$domain=105.net|r101.it|radiomontecarlo.net|virginradio.it
-@@||amazon-adsystem.com/aax2/apstag.js$script,domain=corrieredellosport.it|tuttosport.com
 @@||ansa.it^*/ad-gallery/$image
 @@||antonioranesi.it/cache/Lavori/Pubblicita/$~third-party
 @@||api.everli.com/sm/api/*&adgroupid=$~third-party,xmlhttprequest
@@ -48,7 +49,6 @@
 @@||foolbite.com/foolbite/*_pubblicita_$~third-party
 @@||forebase.com/plugin/*/images/ads/$image
 @@||forebase.com/plugin/ads.htm?$subdocument
-@@||g.doubleclick.net/tag/js/gpt.js$script,domain=corrieredellosport.it|tuttosport.com
 @@||google.com/adsense/$subdocument,domain=sedo.ch|sedo.it
 @@||google.com/adsense/search/ads.js$script,domain=tutti.ch
 @@||images.sbito.it/api/v1/sbt-ads-images-pro/images/ad/$image,domain=subito.it
