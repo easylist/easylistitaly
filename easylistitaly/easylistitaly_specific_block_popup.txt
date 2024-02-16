@@ -1,8 +1,7 @@
 ||plx.pornototale.com^$popup
 !
 ||avmagazine.it/advertise/$popup
-||cb01.li/vip/4K/$popup
 ! html/image popups
-/^https?:\/\/.*\.(jpg|gif|png|php|html|svg|ico|js|txt)/$popup,domain=animeunity.tv|streamingcommunity.icu
+/^https?:\/\/.*\.(jpg|gif|png|php|html|svg|ico|js|txt)/$popup,domain=animeunity.tv
 !
 $popup,third-party,domain=serieturche.eu
