@@ -34,6 +34,7 @@
 ||pegasomedia.it/public/immaginibnr/
 ||postimg.cc^$domain=napolimagazine.com|settecalcio.it|toscanagol.it
 ||pratoverdecagliari.it/images/banners/$third-party
+||ptp.stbm.it^
 ||sorgentenatura.it/data/img/Banner_$third-party
 ||ssl.p.jwpcdn.com/*/vast.js$domain=veneziaradiotv.it
 ||tcccdn.com^*/banner/
