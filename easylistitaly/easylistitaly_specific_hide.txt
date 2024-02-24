@@ -391,6 +391,7 @@ animeclick.it,gamerclick.it##.amazon-row
 cookaround.com,dmbeauty.it,donnamoderna.com,focus.it,giallozafferano.it,iconmagazine.it,my-personaltrainer.it,nostrofiglio.it,pianetadonna.it,pianetamamma.it,smartworld.it,soldionline.it,sorrisi.com,studenti.it,thewom.it,valorinormali.com,webboh.it##.amePlaceholderBox
 ansa.it##.ansa-c
 bznews24.it,ilfilo.net,iltquotidiano.it,lasberla.com,stateofmind.it##.apPluginContainer
+insideevs.it##.apb
 quotidianodelsud.it##.argomenti-articolo-sponsor
 spoletonline.com##.articleBannerDX
 spoletonline.com##.articleBannerSX
