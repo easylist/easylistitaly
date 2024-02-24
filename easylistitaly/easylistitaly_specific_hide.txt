@@ -340,6 +340,7 @@ gazzettaconcorsi.eu##.add_left_div
 condominioweb.com##.addv
 antennafebea.it,brocardi.it,buildnews.it,casacinema.media,filmpertutti.boo,hdtroll.it,insidemarketing.it,legab.it,liberta.it,live-sport-tv.it,mattinonline.ch,orizzontescuola.it,radiogold.it##.ads
 mtbcult.it##.ads-container
+libero.it##.ads-iol
 ildolomiti.it##.adsB
 corrieredellacalabria.it##.ads_corriere
 beatgogo.it,chistachiamando.it,trova-aperto.it##.adsense
