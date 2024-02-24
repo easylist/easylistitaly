@@ -1162,7 +1162,7 @@ pressgiochi.it##.videoCristal
 voglioporno.gratis##.video_left_box
 larivieraonline.com##.view-Banners
 vitatrentina.it##.vitat-widget
-videos.mrpornogratis.it##.vjs-producer
+videos.mrpornogratis.it,videos.pornototale.com##.vjs-producer
 ufficistampanazionali.it##.vlchbykoag
 vetrinamotori.it##.vm-adunit
 catanista.com##.w-100
