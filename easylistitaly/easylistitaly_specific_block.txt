@@ -1041,7 +1041,6 @@
 ||tuttotrasporti.it^*/notizieSponsorizzate/
 ||tuttozampe.com^*/Premium_
 ||tv1.it/images/banner/
-||tvqui.it^*/BANNER-
 ||tvsei.it^*/uisp
 ||uberti.eu^*/guide/
 ||ubud.it^*/81i7FcioR-L-659x1024.jpg
