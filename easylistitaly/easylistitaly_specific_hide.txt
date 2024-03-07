@@ -159,6 +159,7 @@ avmagazine.it,cronachedibirra.it,sexycommunity.it###leaderboard
 bollicinevip.com###leaderboard-wrapper
 finestresullarte.info###leaderboard1
 finestresullarte.info###leaderboard2
+greenstyle.it###leoskin-content
 gazzettadellemilia.it###linkbg
 teleradio-news.it###linkcat-12
 salernonotizie.it###machette_left
