@@ -1235,6 +1235,7 @@ androidblog.it,best5.it##.wpmc_inject_wrapper
 best5.it##.wpmoneyclick_template_product-card
 siciliatv.org##.wppopups-whole
 radiomillennium.it##.wrapper-banner-l-2
+centrometeoitaliano.it##.wrapper-mgid
 radiomillennium.it##.wrapper-quadrati
 ilbacodaseta.org##.wrapper-widget-imagen
 hwupgrade.it##.wrapper-xyz
