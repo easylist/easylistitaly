@@ -1,5 +1,4 @@
-@@||amazon-adsystem.com/aax2/apstag.js$domain=calcionapoli1926.it|cittaceleste.it|derbyderbyderby.it|fantamagazine.com|fcinter1908.it|formulapassion.it|forzaroma.info|gazzabet.news|golssip.it|hellas1903.it|ilmilanista.it|ilposticipo.it|itasportpress.it|juvenews.eu|mediagol.it|mondoudinese.it|notiziecalciomercato.eu|numericalcio.it|padovasport.tv|pianetamilan.it|toronews.net|tuttobolognaweb.it|video.gazzetta.it|violanews.com
-@@||amazon-adsystem.com/aax2/apstag.js$script,domain=auto.it|corrieredellosport.it|tuttosport.com
+@@||amazon-adsystem.com/aax2/apstag.js$domain=auto.it|calcionapoli1926.it|cittaceleste.it|corrieredellosport.it|derbyderbyderby.it|fantamagazine.com|fcinter1908.it|formulapassion.it|forzaroma.info|gazzabet.news|golssip.it|hellas1903.it|ilmilanista.it|ilposticipo.it|itasportpress.it|juvenews.eu|mediagol.it|mondoudinese.it|notiziecalciomercato.eu|numericalcio.it|padovasport.tv|pianetamilan.it|toronews.net|tuttobolognaweb.it|tuttosport.com|video.gazzetta.it|violanews.com
 @@||buonenotiziebologna.it/images/banners/logos/bnb/logo.png
 @@||centrosangiorgio.com^*_pubblicita.
 @@||centrosangiorgio.com^*_pubblicita/
