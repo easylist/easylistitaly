@@ -293,6 +293,7 @@ stabiachannel.it###vertical-right-banner
 tipiace.it###vetrina
 sposa.it###vetrina-content
 sscalciobari.it###wl-sponsor
+qds.it###wrap > div[style="min-height:110px"]
 animeclick.it###wrapper
 italia.fm###xbtm
 italia.fm###xttm
