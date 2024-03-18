@@ -686,6 +686,7 @@ nuoto.com##.elementor-element-112e4a6
 tuttopisa.com##.elementor-element-157231d
 nuoto.com##.elementor-element-15edae8
 terninrete.it##.elementor-element-1827e93
+brindisitime.it##.elementor-element-1a06c91
 lostrillonenews.it##.elementor-element-1b7cba81
 nuoto.com##.elementor-element-1f1e93f
 nuoto.com##.elementor-element-21eec18
