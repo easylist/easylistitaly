@@ -337,7 +337,7 @@ laltrapagina.it##.ad1
 laltrapagina.it##.ad2
 laltrapagina.it##.ad5
 theitaliantimes.it##.adb
-confinelive.it,lamilano.it##.adcontainer
+confinelive.it,lamilano.it,lojonio.it##.adcontainer
 mondobarcamarket.it,unonotizie.it##.add
 fidal.it##.add-logo
 informagiovani-italia.com##.add_left
