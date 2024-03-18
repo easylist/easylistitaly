@@ -548,7 +548,7 @@ bikeitalia.it##.bg-banner
 vivoconbenessere.it##.bg.landscape
 altoadige.it,giornaletrentino.it##.bg300x250
 nuovosud.it##.bg_skin
-lagazzettadelmezzogiorno.it##.bgbanner
+giornalelavoce.it,lagazzettadelmezzogiorno.it##.bgbanner
 hcgherdeina.com##.big-sponsor-box
 spoletonline.com##.bigBanner
 money.it##.billboard
