@@ -38,6 +38,7 @@
 ##.eadv-in-content
 ##.eadv-related
 ##.footer-adv
+##.live-adv-container
 ##.partial-static-adv
 ##.partial-sticky-adv
 ##.pubblicita
