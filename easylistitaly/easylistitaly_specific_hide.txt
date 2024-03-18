@@ -562,7 +562,7 @@ alvolante.it##.block-banners-manzoni
 legapallacanestro.com##.block-bean-banner
 cascinanotizie.it##.block-block
 alvolante.it##.block-dcbanners-header
-lavocedimanduria.it##.block-first-ads
+lavocedimanduria.it,viviwebtv.it##.block-first-ads
 ilroma.net##.block-rotating-banner
 legapallacanestro.com##.block-sponsor-e-partners
 iphoneitalia.com##.block_vidverto
