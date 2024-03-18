@@ -500,6 +500,7 @@ winenews.it##.banner_concessionaria
 everyeye.it##.banner_destra
 everyeye.it##.banner_destra_mobile
 ilgiornaleditalia.it##.banner_dx-rectangle_1_300x250
+brindisisera.it##.banner_esteso
 ilgoriziano.it##.banner_header
 ilsussidiario.net##.banner_header_custom
 italpress.com##.banner_img_widget
@@ -641,6 +642,7 @@ gay.it##.compact-featured
 portaledelverde.it##.consigliaProd
 adnkronos.com##.cont-adv
 edilportale.com##.cont-leaderBoard
+brindisisera.it##.cont_banner
 provinciagranda.it##.cont_banner_slide
 portoravennanews.com##.container-banner
 salernogranata.it##.container.text-center
@@ -742,6 +744,7 @@ exibart.com##.exibart_banner
 fortuneita.com##.fb-banner
 staffettaonline.com##.fcRes
 staffettaonline.com##.fcResContLati
+brindisisera.it##.featured_banner
 frequentflyeritalia.com##.ffi_az_box
 castelvetranonews.it##.fixbottom
 luinonotizie.it##.fixed-sponsor
