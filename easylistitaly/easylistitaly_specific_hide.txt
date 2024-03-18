@@ -1120,6 +1120,7 @@ foggiatv.it##.td_uid_15_64a1adc5c477f_rand
 giustizianews24.it##.td_uid_22_657632dcd06b2_rand
 giustizianews24.it##.td_uid_8_6576328c94bf2_rand
 energiaincomune.com##.tdi_11
+ledicoladelsud.it##.tdi_163
 ilgiornaledelticino.ch##.tdi_17
 ilgiornaledelticino.ch##.tdi_29
 artuu.it##.tdi_446
@@ -2806,6 +2807,7 @@ orvietosi.it##.jeg_slide_item:has(.category-sponsorizzate)
 forbes.it##.post.type-post.status-publish.format-standard:has(.brandvoice)
 cruiselifestyle.it##.rowthumb:has(a[href])
 italpress.com##.td-block-row:has(a[href^="https://group.intesasanpaolo.com/"])
+ledicoladelsud.it##.td_block_inner.td-mc1-wrap:has(a[href*="/pubbliredazionale/"])
 01health.it,01net.it,01smartlife.it##.td_block_wrap:has(.sponsor)
 sportando.basketball##.widget.widget_block:has(a[href^="https://betsquare.com/"])
 freshpointmagazine.it##.wpb_wrapper > .td_block_wrap:has(.sponsor)
