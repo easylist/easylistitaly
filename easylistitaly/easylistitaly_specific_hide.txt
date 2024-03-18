@@ -1030,6 +1030,7 @@ theflightclub.it##.single-bestseller
 manfredonianews.it##.single-box
 trueriders.it##.single-slot-holder
 animeclick.it,greenme.it##.skin
+norbaonline.it##.skin-banner
 cremaoggi.it,cremonaoggi.it,cremonasera.it,cremonasport.it,oglioponews.it##.skin-container
 brindisisettenews.it,leccesette.it##.skin-desktop
 lavoripubblici.it##.skin-link
