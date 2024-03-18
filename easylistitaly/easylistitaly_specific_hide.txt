@@ -143,6 +143,7 @@ ferrovie.it###head_r
 centrometeoitaliano.it###head_skin_placeholder
 altamuralife.it,andriaviva.it,bariviva.it,barlettaviva.it,bisceglieviva.it,bitontoviva.it,canosaviva.it,cerignolaviva.it,coratoviva.it,giovinazzoviva.it,gravinalife.it,hotelmag.it,insella.it,margheritaviva.it,materalife.it,minervinoviva.it,modugnoviva.it,molfettaviva.it,pugliaviva.it,ruvoviva.it,sanferdinandoviva.it,spinazzolaviva.it,terlizziviva.it,traniviva.it,trinitapoliviva.it###header-banner
 radiomugello.it###header-banner-dx
+coniugazione.it###header_pub
 transfermarkt.it###home-rectangle-newsticker
 transfermarkt.it###home-rectangle-spotlight
 filmatipornohd.com###horizontal-banner
