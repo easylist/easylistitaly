@@ -609,6 +609,7 @@ igds.pro##.btn-01
 igds.pro##.btn-02
 scaricarelibri.net##.button
 libro.cafe##.buy
+screenweek.it##.buy-container
 frasicelebri.it##.buy-on-amazon
 sitiscommesse.com##.bwin
 bresciasport.net##.bwjliges
@@ -1884,7 +1885,6 @@ notebookcheck.it##.am_el
 cronotop.it##.amaz-product
 gamemag.it,lavorincasa.it,nientepopcorn.it,robadadonne.it##.amazon
 leggoquandovoglio.it##.amazon-a
-screenweek.it##.amazon-btn
 ridble.com##.amazon-product
 cliccascienze.it##.amazon-products-container-list
 shopping.tiscali.it##.amazonShopping
@@ -2168,7 +2168,6 @@ repubblica.it##.is-marketing
 abr24.it##.it-ad
 hdmotori.it##.item_prod
 aeroporto.net##.items_aff_styles
-screenweek.it##.itunes-btn
 eurocampings.it##.js-mock-banner
 facileporno.com##.js-sticky-banner
 nientepopcorn.it##.justwatch
@@ -2205,7 +2204,6 @@ hceppan.it##.mainSponsor
 irpinianews.it##.master-slider-parent
 ecoo.it##.masterhead-container-column
 eurochampions.it,genoanews1893.it,lalaziosiamonoi.it,perugia24.net,pianetabasket.com,tuttofrosinone.com,tuttonocerina.com,tuttoturris.com,tuttoveneziasport.it##.masthead
-screenweek.it##.matches-container
 5chat.it##.mediumrectangle
 terremarsicane.it##.megatop_wrap
 pistoiasport.com##.menu-banner-wrapper
@@ -2537,7 +2535,7 @@ blog.libero.it,newscronaca.myblog.it##a[href*=".clickbank.net/"]
 bollablu.it,footballscouting.it,futurelements.it,imlestar.com,infotelematico.com,jguana.com,latelanera.com,maidirelink.it,mr-loto.it,murkymask.com,nokioteca.net,okpedia.it,ricettealvolo.it,tuttoio.com,uberti.eu,ubud.it,uiblog.it,unideanellemani.it,unquizalgiorno.com,viaggio-in-germania.de,videogiocare.it,windowsblogitalia.com##a[href*="//amzn.to/"]
 affaritaliani.it,blocchiautocad.it,boatmag.it,canale3.tv,gaynews.it,lasiritide.it,latelanera.com,lavorincasa.it,pdvg.it,pistoiasport.com,radiostellaweb.it,ricettedellanonna.net,riskcompliance.it,rivistanatura.com,settesere.it,tecnoandroid.it,temponews.it,tuttowrestling.com,tvadrano.com,veezie.st,veronanews.net,yesradiodance.com##a[href*="//bit.ly/"]
 lavorincasa.it##a[href*="//tinyurl.com/"]
-2backpack.it,aforismicitazioni.it,alfemminile.com,arredoingiardino.it,bellezzasalute.it,beppegrillo.it,bora.la,cdclassico.com,cibocanigatti.it,cliccascienze.it,consigli.it,epubdownload.it,facciabuco.com,giardinaggio.it,giardinaggio.net,giardinaggio.org,iphoneitalia.com,italianiinguerra.com,junglam.com,lasiciliaweb.it,lavorincasa.it,librierecensioni.com,londra.today,londranews.com,mangaforever.net,mantovanotizie.com,migliorigiochi.eu,miglioriofferteweb.com,nerdmovieproductions.it,newsly.it,nientepopcorn.it,notetralerighe.it,outcast.it,outofbit.it,pensieriparole.it,punto-informatico.it,ridble.com,rifaidate.it,robotincucina.it,rockol.it,screenweek.it,serialclick.it,stile.it,telefonino.net,termometropolitico.it,topdigamma.it,tuttomantova.it,videogiochi.com,vivailfitness.it##a[href*="//www.amazon."][href*="tag="]
+2backpack.it,aforismicitazioni.it,alfemminile.com,arredoingiardino.it,bellezzasalute.it,beppegrillo.it,bora.la,cdclassico.com,cibocanigatti.it,cliccascienze.it,consigli.it,epubdownload.it,facciabuco.com,giardinaggio.it,giardinaggio.net,giardinaggio.org,iphoneitalia.com,italianiinguerra.com,junglam.com,lasiciliaweb.it,lavorincasa.it,librierecensioni.com,londra.today,londranews.com,mangaforever.net,mantovanotizie.com,migliorigiochi.eu,miglioriofferteweb.com,nerdmovieproductions.it,newsly.it,nientepopcorn.it,notetralerighe.it,outcast.it,outofbit.it,pensieriparole.it,punto-informatico.it,ridble.com,rifaidate.it,robotincucina.it,rockol.it,serialclick.it,stile.it,telefonino.net,termometropolitico.it,topdigamma.it,tuttomantova.it,videogiochi.com,vivailfitness.it##a[href*="//www.amazon."][href*="tag="]
 donnematurepelose.top,donnematureporche.top,donnematuresex.top,donnenude.biz,donnepornovideo.com,donnetroievideo.com,filmpornocompleto.com,filmpornoconvecchie.link,filmpornodonne.casa,filmpornogratuiti.com,filmpornoitaliani.casa,fotopornodonne.casa,maturepelose.com,maturescopate.top,nonnemature.top,pornomamme.com,ragazzifoto.com,vecchieporche.com,videodonnesexy.casa,videoeroticogratis.com,videopornogratuito.com##a[href*="/avtm/link.php?"]
 focus.it##a[href*="/codice-sconto/"]
 gazzetta.it##a[href*="/codici-sconto/"]
