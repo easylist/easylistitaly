@@ -912,7 +912,7 @@ sestonotizie.it##.mh-banner
 filmforlife.org##.mh-footer
 leggopassword.it##.mh-header-2
 catanzaro7.net##.mh_magazine_youtube
-trueriders.it##.mha-slot-holder
+goodtrekking.it,trueriders.it##.mha-slot-holder
 altoadige.it,giornaletrentino.it##.middle2
 tvdigitaldivide.it##.mioadv
 laprovinciadelsulcisiglesiente.com##.mkdf-header-banner-widget
@@ -1031,7 +1031,7 @@ fiorentinauno.com##.sidesponsors_wrapper
 cosedicasa.com##.sidespot-wrapper
 theflightclub.it##.single-bestseller
 manfredonianews.it##.single-box
-trueriders.it##.single-slot-holder
+goodtrekking.it,trueriders.it##.single-slot-holder
 animeclick.it,greenme.it##.skin
 norbaonline.it##.skin-banner
 cremaoggi.it,cremonaoggi.it,cremonasera.it,cremonasport.it,oglioponews.it##.skin-container
