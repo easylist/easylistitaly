@@ -95,6 +95,7 @@ doppiozero.com###block-views-block-banner-inserzionisti-block-banner-box-inser
 doppiozero.com###block-views-block-banner-inserzionisti-block-banner-box-inserz-2
 doppiozero.com###block-views-block-banner-inserzionisti-block-banner-box-inserzionisti
 ecodelchisone.it###block-views-homepage-block-sponsored
+beneventonews24.it###bnnews-skinned
 diretta.it,flashscore.it###box-over-content-a
 rollingstone.it###box-wolf
 alqamah.it###bp-sf-container
@@ -1067,7 +1068,7 @@ betitaliaweb.it##.space-organizations-home-8-widget
 betitaliaweb.it##.space-shortcode-wrap-ins
 ilfattoquotidiano.it##.special
 comingsoon.it##.sponPro
-bolzano-bozen.it,calciofvg.live,catanista.com,feralpisalo.it,girovagandointrentino.it,ioarte.org,legab.it,torinometeo.org##.sponsor
+beneventonews24.it,bolzano-bozen.it,calciofvg.live,catanista.com,feralpisalo.it,girovagandointrentino.it,ioarte.org,legab.it,torinometeo.org##.sponsor
 cagliarilivemagazine.it##.sponsor-associati
 luinonotizie.it##.sponsor-background-big
 assoallenatori.it##.sponsor-container

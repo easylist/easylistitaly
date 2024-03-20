@@ -111,6 +111,8 @@
 ||benesserecorpomente.it/wp-content/uploads/*/banner-
 ||beneventocalcio.club/partners/
 ||beneventocalcio.it/images/banners/
+||beneventonews24.it/wp-content/themes/weben-news/assets/images/skins/
+||beneventonews24.it/wp-content/themes/weben-news/assets/images/sponsors/
 ||biancoebruno.it/images/banner/
 ||bicisupermarket.it/images/vintage.jpg
 ||biella24.files.wordpress.com/2019/10/fondo-autoland-biella24.jpg
