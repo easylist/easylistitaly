@@ -549,6 +549,7 @@
 ||radioradio.it/media/angwp/
 ||radioram.it/public/useful_banner_manager_banners/
 ||ragusanews.com//immagini_banner/
+||ragusanews.com/immagini_banner/
 ||ravennaeventi.net/file/*/banner_
 ||reggioemiliameteo.it/files/banner/
 ||reggioemiliameteo.it/images/main-sponsor/
