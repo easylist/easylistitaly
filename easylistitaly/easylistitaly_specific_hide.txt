@@ -1462,7 +1462,7 @@ gonews.it##div[style^="width:600px;"]
 earone.it##div[style^="width:968px;min-height:300px;"]
 spaziogames.it##div[wire\:id]
 calcioline.com##figure[style="width:300px;"]
-amalfinews.it,cetaranews.it,ilportico.it,ilvescovado.it,liratv.it,occhisusalerno.it,positanonotizie.it,ravellonotizie.it##header > div > div > span
+amalfinews.it,cetaranews.it,ilportico.it,ilvescovado.it,liratv.it,occhisusalerno.it,positanonotizie.it,ravellonotizie.it##header > div > p > span > a
 leggopassword.it##img[alt*="Banner"]
 powerhockey.info##img[alt="Banner"]
 videomediterraneo.it##img[alt="DESPAR"]
@@ -1562,7 +1562,7 @@ corriereelorino.it##p > img
 sportevai.it##p[style="margin-top: 25px; border: 1px solid #0D8600; padding: 10px; font-weight: bold; text-align: center; font-size: 12px;"]
 sportevai.it##p[style="margin-top: 30px; border: 1px solid #0D8600; padding: 10px; font-weight: bold; text-align: center;"]
 paganinotizie.it##rs-slides
-amalfinews.it,cetaranews.it,ilportico.it,ilvescovado.it,liratv.it,occhisusalerno.it,positanonotizie.it,ravellonotizie.it##section > div > div > span
+amalfinews.it,cetaranews.it,ilportico.it,ilvescovado.it,liratv.it,occhisusalerno.it,positanonotizie.it,ravellonotizie.it##section > div > p > span > a
 luce.lanazione.it##span[class^="Partner_"]
 archiportale.com##td[style="height:278px; background-color:#E8E8E6; cursor:pointer;position:relative;z-index:95;padding:40px 0 18px"]
 elbanotizie.it##td[style="width: 160px;"]
@@ -2426,7 +2426,6 @@ vivitelese.it##.tdi_72
 cronachedi.it##.tdi_82
 periodicodaily.com##.tdi_9
 telesud.it##.teles-header-banner
-positanonews.it##.testata
 tempostretto.it##.testo > .hidden-sm.hidden-xs
 attualita.it,ilfattoalimentare.it,pianetadonne.blog##.theiaStickySidebar
 comesifasefaidate.it##.ticker
@@ -2446,7 +2445,6 @@ adirai.it##.top-sidebar
 adirai.it##.top-sidebar600
 bresciacalcio.it,olbiacalcio.com##.top-sponsor-hp
 bresciacalciofemminile.it##.top-sponsor-new
-positanonews.it##.top-testata
 robacinese.it##.top_offers
 travel365.it##.toparticle
 mammainviaggio.it##.topbar
