@@ -407,6 +407,7 @@ spoletonline.com##.articleBannerDX
 spoletonline.com##.articleBannerSX
 dererker.it##.articles-pr-box
 gonews.it##.articolo_redazionale
+gonews.it##.articolo_redazionale_content
 tecnofun.eu##.asa_product_box
 dirigentindustria.it##.aside-banners
 asroma.com##.asr-header-sponsor
