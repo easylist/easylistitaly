@@ -966,6 +966,12 @@ fip.it,pallacanestrocantu.com,teatronaturale.it##.partners
 dererker.it##.partvert
 dererker.it##.partvert-right
 augustanews.it,avolanews.it,catanianews.it,ibleinews.it,leontinoinews.it,notonews.it,pachinonews.it,sicilianews.it,siracusanews.it##.paszone_container
+lidentita.it##.pc-sezione-home-ultimiarticoli > .container > .row > .col-xs-12.col-md-4.sidebar > .row > .col-xs-12 > img
+lidentita.it##.pc-sezione-home-ultimiarticoli > .container > .row > .col-xs-12.col-md-4.sidebar > img
+lidentita.it##.pc-sezione-home-videoepolitica > .container > .row > .col-xs-12.col-md-4.sidebar > .row > .col-xs-12 > img
+lidentita.it##.pc-sezione-home-videoepolitica > .container > .row > .col-xs-12.col-md-4.sidebar > .row > img
+lidentita.it##.pc-sezione-single-sidebar-singlesidebar > .row > .col-xs-12 > a
+lidentita.it##.pc-sezione-single-sidebar-singlesidebar > .row > .col-xs-12 > img
 evosmart.it,nonsolonautica.it##.penci-banner-box
 notiziediprato.it##.penci_bottomblock
 kongnews.it##.penci_list_banner_widget
