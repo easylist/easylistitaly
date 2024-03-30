@@ -518,6 +518,7 @@
 ||predire.vos.it/mondocartomante.jpg
 ||presepio.it/wp-content/uploads/*/BANNER-
 ||pressgiochi.it/wp-content/uploads/*/skin-
+||primapaginanews.it/public_files/files_upload/banner_adv/
 ||primapress.it^*/banner_
 ||primocanale.it/images/banners/
 ||professionecamionista.it/amb/
