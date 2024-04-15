@@ -2846,6 +2846,7 @@ laleggepertutti.it#?#.cl-amp-important-information:-abp-has(div:-abp-contains(An
 laleggepertutti.it#?#.custom-html:-abp-has(div:-abp-contains(Annuncio pubblicitario))
 logisticanews.it#?#.td_block_wrap:-abp-has(a:-abp-contains(Contenuti sponsorizzati))
 lospiffero.com#?#.article-blog-default:-abp-has(span:-abp-contains(CONTENUTO SPONSORIZZATO))
+mediaworld.it#?#li[data-index-number]:-abp-has([data-test="mms-product-card"]:-abp-contains(Sponsorizzati))
 paginegialle.it#?#.search-itm:-abp-has(.search-itm__label:-abp-contains(annuncio))
 pharmacyscanner.it#?#.similar-post-holder:-abp-has(.categoria:-abp-contains(Post sponsorizzato))
 radioluna.it#?#.feat-widget-wrap:-abp-has(div:-abp-contains(INFORMAZIONE REDAZIONALE))
