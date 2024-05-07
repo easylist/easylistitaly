@@ -923,6 +923,7 @@ laprovinciadelsulcisiglesiente.com##.mkdf-header-banner-widget
 ilgiallorosso.eu##.ml-auto.py-2
 alimentibevande.it,professioneallevatore.it,professionesuinicoltore.it##.mod
 sexycommunity.it##.mod_bannerslider
+primocanale.it##.mod_manualbanners
 compagniadellacima.it##.module-custom_html
 fitri.it,fpi.it##.moduletable-sponsor
 mondobalneare.com##.mondobalneare-banner

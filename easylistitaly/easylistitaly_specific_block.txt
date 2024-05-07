@@ -521,6 +521,7 @@
 ||primapaginanews.it/public_files/files_upload/banner_adv/
 ||primapress.it^*/banner_
 ||primocanale.it/images/banners/
+||primocanale.it/images/jch-optimize/ng/images_banners_
 ||professionecamionista.it/amb/
 ||professionemotori.it/wp-content/uploads/williamHillbox.png
 ||puntovendita.info/images/banners/
