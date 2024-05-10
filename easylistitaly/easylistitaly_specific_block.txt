@@ -294,6 +294,7 @@
 ||giochixl.it/bfb/
 ||giornaleadige.it/wp-content/banners/
 ||giornaledellabirra.it/wp-content/uploads/*/Banner-
+||gnoccaforum.biz/banner/
 ||gnoccaforum.com/static/b/
 ||gnoccatravels.com/files/pbblct
 ||goblins.net/files/images/banner/
