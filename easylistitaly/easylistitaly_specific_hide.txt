@@ -755,6 +755,7 @@ exibart.com##.exibart_banner
 fortuneita.com##.fb-banner
 staffettaonline.com##.fcRes
 staffettaonline.com##.fcResContLati
+rosa-rossa.com##.feat-profiles
 brindisisera.it##.featured_banner
 frequentflyeritalia.com##.ffi_az_box
 castelvetranonews.it##.fixbottom
