@@ -133,6 +133,7 @@ bolina.it,tp24.it###fancybox-wrap
 borsainside.com,meteofinanza.com###financial-popup-overlay
 varesesport.com###floorsunrise
 vivilanotizia.it###fondosito
+pablitoescort.com###footer > .panel
 radioromacapitale.it###footer-i-nostri-partner
 videosesso.com###footertop
 lasicilia.it###frame-1
@@ -1183,6 +1184,7 @@ padelmagazine.it##.uk-padding.uk-padding-remove-bottom.uk-text-center
 monitorimmobiliare.it##.uk-skin-link
 portadimare.it##.unite-carousel-wrapper
 siciliaonpress.com##.upper-footer
+pablitoescort.com##.upperbanner
 uspontedera.it##.us_custom_99fe846b
 amadeusmagazine.it##.us_custom_c62a4417
 amadeusmagazine.it##.us_custom_d14818f6
