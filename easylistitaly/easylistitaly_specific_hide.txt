@@ -205,6 +205,7 @@ legavolleyfemminile.it###prefooter > .container-xl
 investire.biz###promoBotton
 estrazionedellotto.it,superenalotto.com###promobanner
 sabatononsolosport.com###pubbli
+termometropolitico.it###pubblicita-spike
 calabriapost.net,laprovinciakr.it###responsive-banner-slider
 rid.it###right-banners
 federgolf.it###rolex
