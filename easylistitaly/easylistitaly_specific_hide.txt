@@ -38,6 +38,7 @@ oggimilazzo.it###ascomparsa
 altarimini.it###attivitaEvidenza
 brocardi.it###background-head-spacer
 daneel59.altervista.org,ilmioip.it,metanogpl.it,umbriaradio.it###banner
+incontriamoci.xxx###banner-adv
 quotidianocanavese.it###banner-column
 gazzettadellaspezia.com###banner-cornice
 toscanalibri.it###banner-home
