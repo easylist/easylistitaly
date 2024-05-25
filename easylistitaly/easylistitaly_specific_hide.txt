@@ -1158,6 +1158,7 @@ artuu.it##.tdi_450
 ilgiornaledelticino.ch##.tdi_47
 presepio.it##.tdi_51
 gazzettajonica.it##.tdi_65
+corriereflegreo.it##.tdi_70
 rinnovabili.it##.tdi_74
 cure-naturali.it##.teaser-side
 inbici.net,motori360.it,vivaboy.com##.text-html-box
