@@ -1115,7 +1115,9 @@ assisinews.it##.square_banner
 sanitainsicilia.it##.srur_leaderboard
 cremaoggi.it,cremonaoggi.it,cremonasport.it,oglioponews.it##.standard-inside-text
 corrieredirieti.it,corrierediviterbo.it##.static-banner
+affaritaliani.it##.stickable2 > div > a
 affaritaliani.it##.stickable2 > div > center > .link
+affaritaliani.it##.stickable2 > div > center > a
 ilfattoquotidiano.it##.sticky-adv
 wallstreetitalia.com##.sticky-ele
 sempionenews.it##.sticky-posts__redazionali
@@ -1352,6 +1354,7 @@ lanuovacalabria.it##app-banner-popup
 italiafruit.net##banner
 commentimemorabili.it##center[style="margin:10px auto;text-align:center;min-height:250px;"]
 primapaginanews.it##di[style^="width:260px;height:153px;"]
+affaritaliani.it##div > center > a
 gnoccatravels.com##div[class*="b-nner"]
 ekuonews.it##div[class*="ekuon-"]
 medicalexcellencetv.it##div[class*="medic-"]
