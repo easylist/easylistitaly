@@ -570,6 +570,7 @@ money.it##.billboard
 antenna1.fm##.bloc-pub
 primaonline.it##.blocco-autopromo-container
 winenews.it##.blocco_banner_top
+affaritaliani.it##.bloccocentrale > center > a[href^="https://group.intesasanpaolo.com/"]
 giornaledellamusica.it##.block-ad-gdm
 corrierecesenate.it,lavitacattolica.it##.block-banners
 alvolante.it##.block-banners-manzoni
@@ -1000,6 +1001,7 @@ prendiporno.tv##.productora-logo
 ansa.it,comingsoon.it,pneusnews.it##.promo
 sardinias.it##.promo-partner-container
 theflightclub.it##.promo_carta
+affaritaliani.it##.promoaziende
 tgfuneral24.it##.psct-banners-wrapper
 agoravox.it##.pub
 radiogold.it##.pub-content
@@ -1113,6 +1115,7 @@ assisinews.it##.square_banner
 sanitainsicilia.it##.srur_leaderboard
 cremaoggi.it,cremonaoggi.it,cremonasport.it,oglioponews.it##.standard-inside-text
 corrieredirieti.it,corrierediviterbo.it##.static-banner
+affaritaliani.it##.stickable2 > div > center > .link
 ilfattoquotidiano.it##.sticky-adv
 wallstreetitalia.com##.sticky-ele
 sempionenews.it##.sticky-posts__redazionali
