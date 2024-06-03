@@ -2845,6 +2845,7 @@ datameteo.com##td[style^="border-top-style: solid; border-top-color:#d3d3d3; bor
 investire.biz##.card.shadowLink:has(#ContentPlaceHolder1_rptAzzMain_btn_0)
 money.it##.flex.flex-col.space-y-3.relative:has(.mr-2)
 orvietosi.it##.jeg_slide_item:has(.category-sponsorizzate)
+sportmediaset.mediaset.it##.lancio-adv:has(span.contenuto_sponsorizzato)
 forbes.it##.post.type-post.status-publish.format-standard:has(.brandvoice)
 douglas.it##.product-grid-column:has(.product-tile__sponsored-it)
 cruiselifestyle.it##.rowthumb:has(a[href])
