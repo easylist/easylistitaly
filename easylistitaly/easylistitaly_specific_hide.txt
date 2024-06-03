@@ -1104,6 +1104,7 @@ sichannel.tv,sienaweb.tv##.sponsor_dx
 vocetempo.it##.sponsor_home
 tokyo2020.coni.it##.sponsor_int
 italiachecambia.org,pharmacyscanner.it##.sponsored
+sportmediaset.mediaset.it##.sponsored-section
 unionesarda.it##.sponsored-teaser
 focus-online.it,parmacalcio1913.com##.sponsors
 avvenire.it##.spot
