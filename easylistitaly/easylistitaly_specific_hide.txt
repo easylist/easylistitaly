@@ -2870,5 +2870,5 @@ paginegialle.it#?#.search-itm:-abp-has(.search-itm__label:-abp-contains(annuncio
 pharmacyscanner.it#?#.similar-post-holder:-abp-has(.categoria:-abp-contains(Post sponsorizzato))
 radioluna.it#?#.feat-widget-wrap:-abp-has(div:-abp-contains(INFORMAZIONE REDAZIONALE))
 technofashion.it#?#.td_block_wrap:-abp-has(span:-abp-contains(Advertorial))
-tgcom24.mediaset.it#?#.right.es.large:-abp-has(span:-abp-contains(contenuto sponsorizzato))
+tgcom24.mediaset.it#?#div[data-testid="section"]:-abp-has(span:-abp-contains(Contenuto sponsorizzato))
 tuttoandroid.net#?#.card.dark:-abp-has(span:-abp-contains(Adv))
