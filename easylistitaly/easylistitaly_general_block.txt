@@ -6,6 +6,7 @@
 .it/adv/
 /000Pubblicita/*
 /banner-pubblicitari/*
+/mnz_adsetup.js
 /pubblicita%CC%80-
 /pubblicita-
 /pubblicita/*
