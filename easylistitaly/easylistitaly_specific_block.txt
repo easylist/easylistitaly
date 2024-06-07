@@ -103,6 +103,7 @@
 ||bagherianews.com/images/Webp.net-gifmaker-
 ||balarm.it/attachment-web/
 ||balarm.it^*-skin-
+||banner.moscarossa.biz^
 ||baraondanews.it/wp-content/uploads/*-banner-
 ||baraondanews.it/wp-content/uploads/*/auto-doc.
 ||basketfemminilebiellese.altervista.org^*/Sponsor/
