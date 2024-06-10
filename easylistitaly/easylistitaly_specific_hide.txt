@@ -253,6 +253,9 @@ canottaggio.org,divisionecalcioa5.it,emiliagol.it###sponsor
 buonapesca.it###sponsor-bottom
 federcanoa.it###sponsor-bottom-wrapper
 paolociraci.it###sponsor-clima-160x160
+corrieredisaluzzo.it###sponsor_destra_testata
+corrieredisaluzzo.it###sponsor_popup
+corrieredisaluzzo.it###sponsor_sinistra_testata
 staffettaonline.com###sponsored
 zerocinquantuno.it###sponsorhome
 powerhockey.info###sponsors
@@ -386,7 +389,7 @@ mondopadano.it##.advblock
 caneogolf.it##.advbox
 arezzotv.it,bicimagazine.it,lausc.it,podisti.net##.advert
 gufo.it##.advertise-sb
-corrieredellumbria.it,corrierediarezzo.it,corrieredisiena.it,ilfoglio.it,iltempo.it,liberoquotidiano.it,ottopagine.it,pharmastar.it,piazzaffariweb.com##.advertisement
+corrieredellumbria.it,corrierediarezzo.it,corrieredisaluzzo.it,corrieredisiena.it,ilfoglio.it,iltempo.it,liberoquotidiano.it,ottopagine.it,pharmastar.it,piazzaffariweb.com##.advertisement
 necrologi.ilcorriere.net##.advertisement-area
 ilgazzettinodisicilia.it##.advertisement_above_footer
 frasicelebri.it##.advertising

@@ -188,6 +188,7 @@
 ||corriereannunci.it/images/banners/
 ||corrieredellumbria.it/upload/addsense/
 ||corrierediarezzo.it/upload/addsense/
+||corrieredisaluzzo.it/cgi-bin/sponsor/
 ||corrieredisiena.it/upload/addsense/
 ||corriereelorino.it/wp-content/uploads/*/cover-corriere-expert.jpg
 ||corriereincontri.it/images/banners/
