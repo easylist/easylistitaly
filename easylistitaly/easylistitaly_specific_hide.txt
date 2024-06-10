@@ -587,6 +587,8 @@ webnews.it##.blz_button
 abcsalute.it##.bnner_container
 radioalex.it##.bnnr_top
 meteovalmorea.it##.bnr-row
+cuneodice.it,genovadice.it,italiadice.it,torinodice.it##.bnr_300_600
+cuneodice.it,genovadice.it,italiadice.it,torinodice.it##.bnr_rt_medio
 corriereirpinia.it##.body-link-padding
 mercatini-natale.com,salernonotizie.net,turistadimestiere.com##.bookingaff
 solovela.net##.bottmAdd
