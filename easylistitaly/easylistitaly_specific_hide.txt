@@ -1263,7 +1263,7 @@ toscana.live,yogajournal.it##.widget_revslider
 olbianova.it##.widget_sisw_widget
 dozenblogs.com,siciliaoggi.com,signoresidiventa.com##.widget_sow-image
 sabiniatv.it##.widget_sow-slider
-corrieregiallorosso.com,emotionrit.it,giornaledicalabria.it,ibizaa.it,messinasportiva.it,novetv.com,quotidianodellumbria.it,unviaggioinfiniteemozioni.it##.widget_sp_image
+corrieregiallorosso.com,damasio.it,emotionrit.it,giornaledicalabria.it,ibizaa.it,messinasportiva.it,novetv.com,quotidianodellumbria.it,unviaggioinfiniteemozioni.it##.widget_sp_image
 labusa.info##.widget_supercarousel_widget
 clientiesperti.it,computer-acquisti.com,corrieregiallorosso.com,domanidoveandiamo.it,filmforlife.org,finaria.it,fishingboatmagazine.it,giornalesm.com,gliacchiappafilm.it,grossetosport.com,ilpost.it,laprimapagina.it,noinotizie.it,pisa24.info,tusciatimes.eu##.widget_text
 motoexcape.com##.widget_w2dc_search_widget
