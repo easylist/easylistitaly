@@ -2134,7 +2134,6 @@ cuneodice.it,genovadice.it,italiadice.it,torinodice.it##.div_banner
 rpiunews.it##.djslider-loader
 ridble.com##.dn
 autoscout24.it##.dp-financing-insurance__wrapper
-900letterario.it,appianews.it,notiziemolise.com,progettoitalianews.net,themusicblog.eu,viaggi-estate.com##.e3lan
 noisiamoagricoltura.com##.e62-63
 evosmart.it,ilvideogamepost.blog,stile.it,ufficiospettacoli.it##.egg-container
 regaliperfetti.it##.egg_grid
