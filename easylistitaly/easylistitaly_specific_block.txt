@@ -302,6 +302,7 @@
 ||goblins.net/files/images/banner/
 ||gratisfree.it/cgi-bin/bannergest$script
 ||greenews.info/wp-content/banners/
+||grp.it/assets/images/banners/
 ||gruppovideomedia.it/banners/
 ||guida-aziende-italiane.it/img/c015banner.jpg
 ||hcgherdeina.com/img/db/sponsor/
