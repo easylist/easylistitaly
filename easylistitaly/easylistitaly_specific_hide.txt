@@ -117,6 +117,7 @@ parigi2024.coni.it###custom-sponsor-row
 meteogiornale.it,mmawiki.org###custom_html-2
 meteogiornale.it###custom_html-4
 meteogiornale.it###custom_html-5
+gazzettadalba.it###custom_html-95
 salernonotizie.net###dd
 agriaffaires.it###display-mb
 tuttomercatoweb.com###div-masthead-top_lazy
