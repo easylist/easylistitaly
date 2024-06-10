@@ -819,7 +819,7 @@ pornoitaliano.com##.happy-section
 cuckold.it##.happy-sidebar
 cuckold.it##.happy-under-player
 meglioviaggiare.it,siciliaoggi.com##.header-ainfo
-assisisport.it,oddslot.it,oltreilfatto.it,palermolive.it,radioviainternet.it,siderweb.com,toscana.live##.header-banner
+assisisport.it,lagazzetta.info,oddslot.it,oltreilfatto.it,palermolive.it,radioviainternet.it,siderweb.com,toscana.live##.header-banner
 nauticareport.it##.header-centerbar-ad
 genovaquotidiana.com##.header-image-wrap
 vercellioggi.it##.header-images
@@ -1526,6 +1526,7 @@ mondoprimavera.com##img[style="width: 200px; height: 400px;"]
 mondoprimavera.com##img[style="width: 300px; height: 250px;"]
 reggiotv.it##img[style="width: 650px;height: 115px;"]
 sscalciobari.it##img[style="width:100%;margin-top:20px;"]
+lagazzetta.info##img[style="width:300;height:250;"]
 primapaginanews.it##img[style^="width:336px;height:136px;"]
 primapaginanews.it##img[style^="width:728px;height:210px;"]
 viaggiallafinedelmondo.it##img[style^="width:728px;height:90px;"]

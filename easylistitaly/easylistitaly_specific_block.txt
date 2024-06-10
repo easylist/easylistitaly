@@ -370,6 +370,7 @@
 ||lacronacadiravenna.it/file/*/banner_
 ||ladigetto.it/files/banners/
 ||lafune.eu/wp-content/uploads/*/Banner-
+||lagazzetta.info/wp-content/uploads/banner/
 ||lagazzettaaugustana.it/wp-content/plugins/ruota-banner-widget/
 ||lagazzettadelmezzogiorno.it/upload/1682775693137.jpg
 ||lagazzettadilucca.it/images/banners/
@@ -758,7 +759,6 @@
 ||italiani.it^*/compramadeinitaly.jpg
 ||l-8.it/images/allstudio-2017.jpg
 ||l-8.it/images/ritratto-rid-1.jpg
-||lagazzetta.info^*/banner/
 ||lagoleada.it^*-300x250.
 ||lagoleada.it^*/300-x-250-
 ||lapressa.it/imgs/partners/
