@@ -867,7 +867,7 @@ sitiscommesse.com##.intro-brand-wrapp
 juventus.com##.jcom-o-footer__corporate
 juventus.com##.jcom-o-sponsors-nav__child
 telesettelaghi.it##.jeg_ad
-giornaleibleo.it##.jeg_nav_item.jeg_nav_html
+giornaleibleo.it,ilsaviglianese.com##.jeg_nav_item.jeg_nav_html
 terninrete.it##.jet-popup
 corrierenazionale.it##.jetpack-image-container
 nextpit.it##.jobbioapp
