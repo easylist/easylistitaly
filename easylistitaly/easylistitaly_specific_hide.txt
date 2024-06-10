@@ -1305,6 +1305,7 @@ casertasette.com##[href^="banners.php?"]
 djmagitalia.com##[href^="http://www.djpoint.net/"]
 tivustream.com##[href^="https://privadovpn.com/#a_aid="] > img
 tivustream.com##[href^="https://zoogvpn.com/?a_aid="] > img
+panoramadinovi.it##a > .alignnone.size-full
 narnionline.com,ternieprovincia.com##a[class="banner_174"]
 narnionline.com,ternieprovincia.com##a[class="banner_392"]
 lavoripubblici.it,primocomunicazione.it##a[data-banner]
