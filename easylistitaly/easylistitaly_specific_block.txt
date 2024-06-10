@@ -405,6 +405,8 @@
 ||legavolleyfemminile.it/wp-content/uploads/*/Banner_
 ||leggopassword.it/wp-content/uploads/*/Banner-
 ||legnolab.it/media/imagecache/vetrina/*-banner-
+||lespresso.it/js/banner-interstitial.js
+||lespresso.it/js/banner.js
 ||lineaedp.it/files/*/skin_
 ||lineameteo.it/files/images/2/banner_1_.png
 ||link24.it/wp-content/uploads/*/banner-
