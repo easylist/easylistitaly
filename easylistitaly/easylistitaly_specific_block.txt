@@ -379,6 +379,7 @@
 ||lagazzettaonline.info/portal/images/banners/
 ||lagomaggiore24.it/images/banner/
 ||lanuovacalabria.it/media/images/banner/
+||lanuovagazzettadisaluzzo.it/style/bg.JPG
 ||laprovinciacr.it/upload/1693226934775.jpg
 ||laprovinciacr.it/upload/1693477452631.jpg
 ||laprovinciakr.it/modules/mod_responsivebannerslider/
