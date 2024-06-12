@@ -9,6 +9,7 @@
 /mnz_adsetup.js
 /pubblicita%CC%80-
 /pubblicita-
+/pubblicita.$domain=~tribunale.milano.it
 /pubblicita/*
 /TiscaliADV_
 _pubblicita.
@@ -57,7 +58,6 @@ _pubblicita.
 /pubblicit%C3%A0-
 /pubblicit%c3%a0/*
 /pubblicita%CC%80.
-/pubblicita.
 /pubblicita2.
 /pubblicita2/*
 /pubblicita_
