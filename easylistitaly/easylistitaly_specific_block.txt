@@ -195,6 +195,7 @@
 ||corrierenews.it/images/banners/
 ||corriereobjects.it/fascioni/sponsor/
 ||corriereproposte.it/images/banners/
+||corrieretoscano.it/wp-content/uploads/*/Oimmei-Digital-Consulting-Skin.jpg
 ||cosedicasa.com/wp-content/uploads/sidespot/
 ||cralistruzione.it/images/convenzionati/banner/
 ||cremaonline.it/ajax/visBanPub2018.php
