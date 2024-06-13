@@ -264,6 +264,7 @@ sassuolooggi.it###spospo
 stabiachannel.it###spot
 youtg.net###sppb-addon-1579863788273
 cpop.it,spaziogames.it,tomshw.it###sticky_ads
+hwupgrade.it###strip-container
 garedepoca.com###strisciabanner_destra
 garedepoca.com###strisciabanner_sinistra
 invaligia.com###table3
