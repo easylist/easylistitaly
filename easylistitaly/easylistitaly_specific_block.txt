@@ -387,6 +387,7 @@
 ||laprovinciacr.it/upload/1693226934775.jpg
 ||laprovinciacr.it/upload/1693477452631.jpg
 ||laprovinciakr.it/modules/mod_responsivebannerslider/
+||laragione.eu/wp-content/themes/yootheme/cache/*/banner-
 ||larivieraonline.com/sites/default/files/banner/
 ||lausc.it/images/banners/
 ||lavocedelpalio.it/uploads/banner/
