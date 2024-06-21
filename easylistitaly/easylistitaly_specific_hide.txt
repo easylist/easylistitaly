@@ -294,6 +294,7 @@ betitaliaweb.it,metallus.it###text-9
 elaborare.com###text-html-widget-16
 umbriamagazine.com###thelink
 orvietosi.it###tirsena-banner
+forum.tomshw.it###tomshw_it_halfpage1
 certificatejournal.it,finanza.com###top-banner
 sposa.it###top-banner-container
 hwupgrade.it###top300x250-background
@@ -1488,6 +1489,7 @@ manduriaoggi.it##div[style="background-color:#FFF; border:#FC0 1px solid; paddin
 lacasadic.com,seried24.com##div[style="height: 600px"]
 corsedimoto.com,zon.it##div[style="height:600px"]
 live-sport-tv.it##div[style="margin-bottom:5px;width:300px;height:250px !important"]
+forum.tomshw.it##div[style="margin: 1rem 0; width:100%; display: flex"]
 vastoweb.com##div[style="min-height: 250px"]
 cani.com##div[style="min-height: 300px;"]
 vastoweb.com##div[style="min-height: 90px"]
