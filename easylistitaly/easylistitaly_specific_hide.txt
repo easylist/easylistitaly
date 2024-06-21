@@ -636,6 +636,7 @@ diaconale.it##.bt_banner
 igds.pro##.btn-01
 igds.pro##.btn-02
 scaricarelibri.net##.button
+cb01.church##.buttona_group
 libro.cafe##.buy
 screenweek.it##.buy-container
 frasicelebri.it##.buy-on-amazon
@@ -1038,6 +1039,7 @@ microgiochi.com##.relacionados
 dday.it##.relevant.preview
 mobimart.it##.resp-container
 daninseries.it##.responsive-banner
+cb01.church##.responsive_120x600
 esperia.tv,zerocinquantuno.it##.revslider-initialised
 ladigetto.it##.right_sponsor
 ilroma.net##.rotating-banner
