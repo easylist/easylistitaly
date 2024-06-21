@@ -11,6 +11,7 @@
 /pubblicita-
 /pubblicita.$domain=~tribunale.milano.it
 /pubblicita/*
+/rcsad_partner.js
 /TiscaliADV_
 _pubblicita.
 !
