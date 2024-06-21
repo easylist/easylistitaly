@@ -1063,6 +1063,7 @@ spoletonline.com##.scoopBanner
 fiorentinanews.com##.secondWidget
 diretta.it##.section--nmb
 greenstyle.it##.section-sticky-rail
+borse.it,certificatejournal.it,finanza.com,finanzaonline.com,wallstreetitalia.com##.section-sticky-rail[style="min-height: 800px;"]
 onlinesiracusa.it##.sek-link-to-url
 campanialike.com##.sezioneSponsorDestra
 comunicalo.it,coriglianocalabro.it,crotoneok.it,sibarinet.it##.sgpb-popup-dialog-main-div-wrapper
