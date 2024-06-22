@@ -398,6 +398,7 @@ necrologi.ilcorriere.net##.advertisement-area
 ilgazzettinodisicilia.it##.advertisement_above_footer
 frasicelebri.it##.advertising
 yogamap.it##.advertising-box
+tuttogreen.it##.advplace
 dauniacom.it##.advt-col
 ilmiogiornale.net##.afc_popup
 incesti.xxx,megasesso.com,pornopizza.it,tuboitaliano.it,videopornoitalia.com##.aff
