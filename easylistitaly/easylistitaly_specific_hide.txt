@@ -1378,6 +1378,7 @@ italiasera.it##a[rel="nofollow noopener"]
 isoladiminorca.com##a[rel="sponsored"]
 direttafacile.it##a[target="pubblicita.php"]
 lanuovacalabria.it##app-banner-popup
+greenme.it##aside[style="margin: 8px auto; display: flex; justify-content: center; min-height: 251px;"]
 italiafruit.net##banner
 commentimemorabili.it##center[style="margin:10px auto;text-align:center;min-height:250px;"]
 primapaginanews.it##di[style^="width:260px;height:153px;"]
