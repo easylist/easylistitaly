@@ -381,6 +381,7 @@ centrometeoitaliano.it##.adv-cmi
 paroladeltifoso.it##.adv-image
 lasicilia.it##.adv-intext-placeholder
 editorialedomani.it,lasicilia.it##.adv-placeholder
+arte.sky.it##.adv-section-side
 corrieredellumbria.it,corrierediarezzo.it,corrieredisiena.it##.adv-slideshow
 ansa.it,filastrocche.it##.adv-slot
 stateofmind.it##.adv-top-fullpage
