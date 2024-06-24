@@ -1080,7 +1080,7 @@ assisieventi.it##.side_banners
 quotidianolacitta.it##.sidebar-banner
 estrazionedellotto.it##.sidebar-right
 sicurauto.it##.sidebar-sticky-top
-fiorentinauno.com##.sidesponsors_wrapper
+fiorentinauno.com,tuttosporttaranto.com##.sidesponsors_wrapper
 cosedicasa.com##.sidespot-wrapper
 theflightclub.it##.single-bestseller
 manfredonianews.it##.single-box
