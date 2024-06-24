@@ -845,6 +845,7 @@ internazionale.it##.hentry--banner
 vocedistrada.it##.hh-cubo-wrap
 vocedistrada.it##.hh-sponsor-wrap
 valseriananews.it##.hidden-xs[style="height:600px;"]
+legaseriea.it##.hm-banner
 radioram.it##.home-featured-boxes
 pharmacyscanner.it##.home-section-banner-large
 ecovicentino.it##.home-top-banner-dx
