@@ -558,6 +558,7 @@ oksiena.it##.bannerinocentrale2
 bagherianews.com,corriereannunci.it,corrierenews.it,corriereproposte.it,dedalomultimedia.it,elbareport.it,perotorino.it,primapress.it,radiomia.it,tgnordsalento.it##.banneritem
 oksiena.it##.bannerlaterale
 oksiena.it##.bannerpiccolilaterale
+facciabuco.com##.bannerpost
 assisisport.it,eurogirlescort.it,geronimo.news,metalitalia.com,qualenergia.it,vivafm.it##.banners
 radiobussola.it,rpz.it##.bannerswidget
 trapanioggi.it##.bannertesto
