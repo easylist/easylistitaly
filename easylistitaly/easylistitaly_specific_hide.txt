@@ -962,6 +962,7 @@ mondobalneare.com##.mondobalneare-banner
 cremaoggi.it,cremonaoggi.it,oglioponews.it##.mondopadano-container
 macplas.it##.mp-banner
 eurogamer.it##.mpu
+tuttoeuropei.com##.mtop > .center
 tutti.ch##.mui-style-17xiqz7
 tutti.ch##.mui-style-z954cu
 bergamoesport.it##.mv15 > .block > .fw
@@ -1512,6 +1513,7 @@ risvegliopopolare.it##div[style="width:320px !important;height: 480px !important
 gta-expert.it##div[style="width:732px; height:105px"]
 thegamesmachine.it##div[style="width:970px;height:250px;margin: 0 auto 5px;"]
 torresette.news##div[style^="height: 250px !important;"]
+tuttoeuropei.com##div[style^="height:270px;"]
 iltempo.it##div[style^="height:90px; width:728px;"]
 f1-news.eu##div[style^="min-height: 250px; max-height: 600px; overflow: hidden; width: 300px;"]
 ilgiorno.it,ilrestodelcarlino.it,iltelegrafolivorno.it,lanazione.it,quotidiano.net##div[style^="min-height: 250px;"]
