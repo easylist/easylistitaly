@@ -384,6 +384,7 @@ editorialedomani.it,lasicilia.it##.adv-placeholder
 arte.sky.it##.adv-section-side
 corrieredellumbria.it,corrierediarezzo.it,corrieredisiena.it##.adv-slideshow
 ansa.it,filastrocche.it##.adv-slot
+oggi.it##.adv-square
 stateofmind.it##.adv-top-fullpage
 quattroruote.it##.adv-wrap
 iodonna.it##.adv-wrapper
@@ -1309,6 +1310,7 @@ androidblog.it,best5.it##.wpmc_inject_wrapper
 best5.it##.wpmoneyclick_template_product-card
 siciliatv.org##.wppopups-whole
 radiomillennium.it##.wrapper-banner-l-2
+oggi.it##.wrapper-bottom1
 centrometeoitaliano.it##.wrapper-mgid
 radiomillennium.it##.wrapper-quadrati
 ilbacodaseta.org##.wrapper-widget-imagen
