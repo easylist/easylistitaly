@@ -1313,6 +1313,7 @@ centrometeoitaliano.it##.wrapper-mgid
 radiomillennium.it##.wrapper-quadrati
 ilbacodaseta.org##.wrapper-widget-imagen
 hwupgrade.it##.wrapper-xyz
+iodonna.it##.wrapperAdv
 ornews.it##.youtube_adv_alert
 weboggi.it##.zen
 infooggi.it##.zero-margins.w-dyn-items.w-row
