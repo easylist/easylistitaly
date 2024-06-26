@@ -273,6 +273,7 @@ gamesvillage.it###takeover_gv
 ecovicentino.it###td-layer-audio-article-banner
 italynews.it###tdi_29
 liberoquotidiano.it###teads-container
+onepiecepower.com###tendina
 betitaliaweb.it,meglioviaggiare.it###text-10
 italiachecambia.org###text-13
 viaggiasenzapensieri.com###text-15
@@ -295,6 +296,7 @@ betitaliaweb.it,metallus.it###text-9
 elaborare.com###text-html-widget-16
 umbriamagazine.com###thelink
 orvietosi.it###tirsena-banner
+onepiecepower.com###toCloseGADS
 forum.tomshw.it###tomshw_it_halfpage1
 certificatejournal.it,finanza.com###top-banner
 sposa.it###top-banner-container
