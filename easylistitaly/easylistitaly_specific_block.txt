@@ -554,6 +554,7 @@
 ||radioazzurra.it^*/banner/
 ||radiocentraleweb.it/public/audio/campoDelSole.jpg
 ||radiocentraleweb.it/public/audio/sarsina.jpg
+||radiociak.it^*/banners/
 ||radiocittafutura.it/images/banners/
 ||radiofusion.it/img/banner/
 ||radiohollywood.net/images/europea-92-buono.jpg
