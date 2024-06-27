@@ -7,6 +7,7 @@
 /000Pubblicita/*
 /banner-pubblicitari/*
 /mnz_adsetup.
+/mnz_adsetup_online.js
 /pubblicita%CC%80-
 /pubblicita-
 /pubblicita.$domain=~tribunale.milano.it
