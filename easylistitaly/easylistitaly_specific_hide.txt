@@ -782,6 +782,9 @@ tivustream.com##.elementor-widget-wp-widget-aawp_widget_box
 sienanews.it##.eltd-image-widget
 nanotv.it##.entry-content > p > a
 informazionecomunicazione.it##.entry-inner
+notizie.tiscali.it##.entry-pos-vsb
+notizie.tiscali.it##.entry-shopping
+notizie.tiscali.it##.entry-shopping-header
 webhostingmagazine.it##.epcl-banner
 corriereproposte.it##.eventi_associati
 moscarossa.biz##.evidenzia_accompa_diamond
