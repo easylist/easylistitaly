@@ -322,6 +322,7 @@ italia.fm###xbtm
 italia.fm###xttm
 calabrianews.it###yobee-top-page
 iltquotidiano.it##.ADS
+iltquotidiano.it##.ADSDesktop
 ilmanifesto.it,mentelocale.it##.Adv
 fotonerd.it##.Amazon
 comprovendolibri.it##.BB14
