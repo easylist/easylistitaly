@@ -1046,6 +1046,7 @@ sardinias.it##.promo-partner-container
 theflightclub.it##.promo_carta
 affaritaliani.it##.promoaziende
 tgfuneral24.it##.psct-banners-wrapper
+programmitvstasera.it##.ptv-ads
 agoravox.it##.pub
 radiogold.it##.pub-content
 ispazio.net##.pub-header
