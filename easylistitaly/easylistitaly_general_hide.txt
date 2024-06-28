@@ -57,6 +57,7 @@
 ##a[href^="https://campaigns.williamhill.it/C.ashx?"]
 ##a[href^="https://casinononaams.co"]
 ##av-adv-slot
+##div[class^="hbagency_space_"]
 ##div[class^="rtbuzz_"]
 ##div[id^="rtbuzz_"]
 !
