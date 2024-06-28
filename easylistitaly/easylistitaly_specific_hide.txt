@@ -374,7 +374,7 @@ bluewin.ch##.ads-group
 libero.it##.ads-iol
 ildolomiti.it##.adsB
 corrieredellacalabria.it##.ads_corriere
-beatgogo.it,chistachiamando.it,trova-aperto.it##.adsense
+amalfinews.it,beatgogo.it,cetaranews.it,chistachiamando.it,ilportico.it,ilvescovado.it,occhisusalerno.it,positanonotizie.it,ravellonotizie.it,trova-aperto.it##.adsense
 animalidacompagnia.it,ilgazzettinovesuviano.com##.adserver
 daninseries.it,novella2000.it,pcprofessionale.it##.adunit-mark
 altoadigetv.it,calcionapoli1926.it,cittaceleste.it,cookist.it,derbyderbyderby.it,fanpage.it,fantamagazine.com,fattoincasadabenedetta.it,fcinter1908.it,forzaroma.info,gay.it,gazzabet.news,gazzetta.it,geopop.it,girovagandointrentino.it,golssip.it,gta-expert.it,gustoblog.it,hellas1903.it,ilbianconero.com,ilfattoquotidiano.it,ilmilanista.it,ilpost.it,ilposticipo.it,itasportpress.it,juvenews.eu,kodami.it,lagazzettadelmezzogiorno.it,laprovinciadivarese.it,latina24ore.it,lexplain.it,libero.it,mediagol.it,mondoudinese.it,movieplayer.it,notiziecalciomercato.eu,numericalcio.it,padovasport.tv,pianetamilan.it,prealpina.it,spaziogames.it,supereva.it,tomshw.it,toronews.net,trentinotv.it,tuttobolognaweb.it,violanews.com,virgilio.it,weekendpremium.it##.adv
@@ -1571,7 +1571,7 @@ gonews.it##div[style^="width:600px;"]
 earone.it##div[style^="width:968px;min-height:300px;"]
 spaziogames.it##div[wire\:id]
 calcioline.com##figure[style="width:300px;"]
-amalfinews.it,cetaranews.it,ilportico.it,ilvescovado.it,liratv.it,occhisusalerno.it,positanonotizie.it,ravellonotizie.it##header > div > p > span > a
+amalfinews.it,cetaranews.it,ilportico.it,ilvescovado.it,occhisusalerno.it,positanonotizie.it,ravellonotizie.it##header > div > p > em > a[data-id][data-position]
 leggopassword.it##img[alt*="Banner"]
 powerhockey.info##img[alt="Banner"]
 videomediterraneo.it##img[alt="DESPAR"]
@@ -1678,7 +1678,7 @@ corriereelorino.it##p > img
 sportevai.it##p[style="margin-top: 25px; border: 1px solid #0D8600; padding: 10px; font-weight: bold; text-align: center; font-size: 12px;"]
 sportevai.it##p[style="margin-top: 30px; border: 1px solid #0D8600; padding: 10px; font-weight: bold; text-align: center;"]
 paganinotizie.it##rs-slides
-amalfinews.it,cetaranews.it,ilportico.it,ilvescovado.it,liratv.it,occhisusalerno.it,positanonotizie.it,ravellonotizie.it##section > div > p > span > a
+amalfinews.it,cetaranews.it,ilportico.it,ilvescovado.it,occhisusalerno.it,positanonotizie.it,ravellonotizie.it##section > div > p > em > a[data-id][data-position]
 luce.lanazione.it##span[class^="Partner_"]
 archiportale.com##td[style="height:278px; background-color:#E8E8E6; cursor:pointer;position:relative;z-index:95;padding:40px 0 18px"]
 elbanotizie.it##td[style="width: 160px;"]
