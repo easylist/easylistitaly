@@ -1186,6 +1186,7 @@ motori.it##.strip_agos_link
 vacanzeinamerica.eu##.su-button
 casa-domotica24.it##.su-tabs
 quizpatenteonline.it##.subHeader
+freeonline.org##.sw-banner
 yesmagazine.it##.swiper-slide
 luinonotizie.it,radiolaquila1.it##.swiper-wrapper
 criptovalute24.com,diventaretrader.com##.table-alm
