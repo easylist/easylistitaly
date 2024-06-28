@@ -1339,6 +1339,7 @@ infooggi.it##.zero-margins.w-dyn-items.w-row
 canale58.com##.zox-widget-ad
 acffiorentina.com,acmilan.com##[class^="Partners_"]
 acffiorentina.com##[class^="Sponsors_"]
+svapo.it##[data-blockid="plugin_12_sodPhpWidget_hbkztw3dh"]
 unionesarda.it##[data-revive-zoneid]
 casertasette.com##[href^="banners.php?"]
 djmagitalia.com##[href^="http://www.djpoint.net/"]

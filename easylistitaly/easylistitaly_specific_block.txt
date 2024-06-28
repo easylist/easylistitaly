@@ -620,6 +620,8 @@
 ||stiletv.it/banner/
 ||sudnews.it/upload/img/banner/
 ||superenalotto.com/images/banners/
+||svapo.it/dev/amzn.js
+||svapo.it/dev/itemlookup_iframe.js
 ||teatronaturale.it/media2/partners/
 ||telcoinsider.it/wp-content/uploads/*/banner-
 ||teleantenna.it/banner/
