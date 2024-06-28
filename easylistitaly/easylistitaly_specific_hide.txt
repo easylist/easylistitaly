@@ -870,6 +870,7 @@ virgilio.it##.hp_300x250
 libero.it,virgilio.it##.hp_970x90
 giornalesm.com##.hthb-notification
 iodonna.it##.id-vda
+lastampa.it##.idealista
 ilfattoquotidiano.it##.ifq-dfp
 allmusicitalia.it##.iframe-adv
 infojobs.it##.ij-AdvertisingRoadblockTop
