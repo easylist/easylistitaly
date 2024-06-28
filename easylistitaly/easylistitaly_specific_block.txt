@@ -540,6 +540,7 @@
 ||primocanale.it/images/jch-optimize/ng/images_banners_
 ||professionecamionista.it/amb/
 ||professionemotori.it/wp-content/uploads/williamHillbox.png
+||punto-informatico.it/app/plugins/blazemedia_adv/
 ||puntovendita.info/images/banners/
 ||pyrosonline.it/site/public/image/20200131153026.jpg
 ||qdmnotizie.it/wordpress/wp-content/uploads/*/banner_

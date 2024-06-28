@@ -606,7 +606,7 @@ ilroma.net##.block-rotating-banner
 legapallacanestro.com##.block-sponsor-e-partners
 iphoneitalia.com##.block_vidverto
 html.it##.blz-url
-webnews.it##.blz_button
+punto-informatico.it,webnews.it##.blz_button
 abcsalute.it##.bnner_container
 radioalex.it##.bnnr_top
 meteovalmorea.it##.bnr-row
