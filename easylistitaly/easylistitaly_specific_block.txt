@@ -102,6 +102,7 @@
 ||bagherianews.com/images/banners_
 ||bagherianews.com/images/Webp.net-gifmaker-
 ||balarm.it/attachment-web/
+||balarm.it/banner/
 ||balarm.it^*-skin-
 ||banner.moscarossa.biz^
 ||baraondanews.it/wp-content/uploads/*-banner-
