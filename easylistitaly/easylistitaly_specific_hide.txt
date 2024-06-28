@@ -1045,6 +1045,7 @@ affaritaliani.it##.promoaziende
 tgfuneral24.it##.psct-banners-wrapper
 agoravox.it##.pub
 radiogold.it##.pub-content
+ispazio.net##.pub-header
 coniugazione.it##.pub_contenu
 coniugazione.it##.pub_inread_div
 coniugazione.it##.pub_pave_div
