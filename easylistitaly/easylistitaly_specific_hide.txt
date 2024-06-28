@@ -1,10 +1,10 @@
 trend-online.com###CONT_D_1
 trend-online.com,youmath.it###CONT_T
 comprovendolibri.it###CVLR_banner_ADX
-flashgames.it,scambieuropei.info,soldioggi.it,youmath.it###C_1
+chimica-online.it,flashgames.it,scambieuropei.info,soldioggi.it,youmath.it###C_1
 flashgames.it###C_2
 legabasketfemminile.com###DIV_MainSponsorContainer
-flashgames.it,scambieuropei.info,trend-online.com,youmath.it###D_1
+chimica-online.it,flashgames.it,scambieuropei.info,trend-online.com,youmath.it###D_1
 unapennainviaggio.it###Image1
 unapennainviaggio.it###Image2
 sciscianonotizie.it###M629235ScriptRootC1263703
