@@ -1377,6 +1377,7 @@ estrazionedellotto.it##a[href^="/it/gioca/"]
 money.it##a[href^="http://go.money.it/"] > .w-32
 visitareromain3giorni.it##a[href^="http://www.booking.com/"]
 comprovendolibri.it##a[href^="https://affiliati.celai.it/"]
+frontedelblog.it##a[href^="https://amzn.to/"]
 digital-news.it##a[href^="https://bit.ly/"] > img
 losport24.com##a[href^="https://bookmakerstranieri.net/"]
 settecalcio.it##a[href^="https://casinohex.it/"]
