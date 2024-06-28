@@ -728,6 +728,7 @@ cronachedibirra.it##.e3lan125
 euractiv.it##.ea-gat-slot-wrapper
 bergamonews.it##.edinews_widget_post_from_terms
 rovigo.news##.elementor-element-0429c68
+liratv.it##.elementor-element-078a7b4
 nuoto.com##.elementor-element-0afd1bc
 nuoto.com##.elementor-element-112e4a6
 tuttopisa.com##.elementor-element-157231d
@@ -741,8 +742,10 @@ zerosette.it##.elementor-element-27f22cb
 teletruria.it##.elementor-element-3182b78
 lostrillonenews.it##.elementor-element-36b79523
 tele8tv.it##.elementor-element-3861025
+liratv.it##.elementor-element-3946757
 gazzettadegliaurunci.it##.elementor-element-41fcba5
 nuoto.com##.elementor-element-47125ff
+liratv.it##.elementor-element-4b46f565
 tuttopisa.com##.elementor-element-555c969
 nuoto.com##.elementor-element-5b88623
 basilicatanotizie.net##.elementor-element-5b9f270
