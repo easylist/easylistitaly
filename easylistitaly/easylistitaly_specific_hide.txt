@@ -1377,6 +1377,7 @@ altadefinizione4k.tv##a[href*="/streaming-gratis.php"]
 borsainside.com,cartaricaricabile.net##a[href*="/vai/"]
 mrpornogratis.it##a[href^="//plx.mrpornogratis.it/"]
 archiportale.com##a[href^="/click.asp?Url="]
+amalficoast.it##a[href^="/click.axd?"]
 codedaze.me##a[href^="/go.php?"]
 estrazionedellotto.it##a[href^="/it/gioca/"]
 money.it##a[href^="http://go.money.it/"] > .w-32
