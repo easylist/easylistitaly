@@ -875,6 +875,7 @@ libero.it,virgilio.it##.hp_970x90
 giornalesm.com##.hthb-notification
 iodonna.it##.id-vda
 lastampa.it##.idealista
+inforge.net##.ifCUnit
 ilfattoquotidiano.it##.ifq-dfp
 allmusicitalia.it##.iframe-adv
 infojobs.it##.ij-AdvertisingRoadblockTop
@@ -1412,7 +1413,7 @@ marathonworld.it##a[onclick^="BannerClick("]
 juzaphoto.com##a[onclick^="ajax_bannerclicks"]
 pressgiochi.it,solovela.net##a[rel*="sponsored"]
 italiasera.it##a[rel="nofollow noopener"]
-isoladiminorca.com##a[rel="sponsored"]
+inforge.net,isoladiminorca.com##a[rel="sponsored"]
 direttafacile.it##a[target="pubblicita.php"]
 lanuovacalabria.it##app-banner-popup
 greenme.it##aside[style="margin: 8px auto; display: flex; justify-content: center; min-height: 251px;"]
