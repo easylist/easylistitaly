@@ -34,6 +34,7 @@ empresite.it,reteimprese.it###afscontainer2
 salernonotizie.net###amz
 notebookitalia.it###amznbi
 direttafacile.it###annuncidiv
+separarensilabas.com###antiBannersGigantes
 oggimilazzo.it###ascomparsa
 altarimini.it###attivitaEvidenza
 brocardi.it###background-head-spacer
