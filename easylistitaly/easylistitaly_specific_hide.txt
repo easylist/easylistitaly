@@ -668,6 +668,7 @@ campanialike.com##.cardSponsorColonnaDestra
 assisieventi.it,lavocedelpalio.it##.carousel
 fiorentina.news##.carousel-layout
 monrealenews.it##.carouselbanner
+oggimilazzo.it##.cb-category-top
 ilfattoquotidiano.it##.cc-adv-wrapper
 fitp.it##.cc-content-sponsor
 casefunerarie.it##.cf-nation-banners
