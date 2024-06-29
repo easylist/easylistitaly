@@ -425,6 +425,7 @@ filmtv.it##.altri
 prezzisalute.com##.amaz
 lombardoandrea.com##.amazon-auto-links
 animeclick.it,gamerclick.it##.amazon-row
+iolecal.blogspot.com##.amazonAds
 cookaround.com,dmbeauty.it,donnamoderna.com,focus.it,giallozafferano.it,iconmagazine.it,my-personaltrainer.it,nostrofiglio.it,pianetadonna.it,pianetamamma.it,smartworld.it,soldionline.it,sorrisi.com,studenti.it,thewom.it,valorinormali.com,webboh.it##.amePlaceholderBox
 ansa.it##.ansa-c
 bznews24.it,ilfilo.net,iltquotidiano.it,lasberla.com,sdnews.it,stateofmind.it##.apPluginContainer

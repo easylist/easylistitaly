@@ -353,6 +353,7 @@
 ||invaligia.com/images/ani1_MV.gif
 ||invaligia.com/images/YousosBanner.png
 ||ioarte.org/img/banner/
+||iolecal.it/blog/amazon/
 ||iovivoaroma.org/public/banners/
 ||italia-informa.com^*/banner/
 ||italia.fm^*/leaseweb.gif
