@@ -838,7 +838,7 @@ quattroruote.it##.genericBanner
 gestoricarburanti.it##.gesto-widget
 italia-informa.com##.giapPageAdvCont
 estrazionedellotto.it##.giocaBox
-italiaoggi.it,mffashion.com,milanofinanza.it,money.it,panorama.it,salepepe.it,veritaeaffari.it##.gmp
+italiaoggi.it,mffashion.com,milanofinanza.it,money.it,panorama.it,salepepe.it,veritaeaffari.it,xiaomitoday.it##.gmp
 laverita.info##.gmp-repeating-ads
 sentieriselvaggi.it##.google-banners
 goriziaoggi.news##.goriz-widget
@@ -1529,6 +1529,7 @@ unionemonregalese.it##div[id^="ump-"]
 uominietrasporti.it##div[id^="uomin-"]
 viaggioff.it##div[id^="viagg-"]
 weareblog.it##div[id^="weare-"]
+xiaomitoday.it##div[id^="xiaom-"]
 lanuovagazzettadisaluzzo.it##div[onclick*="return x5engine.utils.imPopUpWin("]
 radiortm.it##div[style*="height: 350px;"]
 cruiselifestyle.it##div[style*="height: 78px;"]
