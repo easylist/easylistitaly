@@ -1,4 +1,5 @@
 ||ad4m.at^$third-party
+||addendo.network^$third-party
 ||adkaora.space^$third-party
 ||adplay.it^$third-party
 ||brznetwork.com^$third-party
