@@ -1,6 +1,7 @@
 trend-online.com###CONT_D_1
 trend-online.com,youmath.it###CONT_T
 comprovendolibri.it###CVLR_banner_ADX
+comprovendolibri.it###CVLR_banner_ASX
 chimica-online.it,flashgames.it,scambieuropei.info,soldioggi.it,youmath.it###C_1
 flashgames.it###C_2
 legabasketfemminile.com###DIV_MainSponsorContainer
