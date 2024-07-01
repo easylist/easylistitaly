@@ -400,6 +400,7 @@
 ||lavocedelpopolo.it^*/banner_
 ||lavocedelpopolo.it^*/holyart_
 ||lavocedelpopolo.it^*_264x264_
+||lavorincasa.it/product/$image
 ||lavoripubblici.it/banner/
 ||lavoroecarriere.it/wp-content/uploads/*/sm-banner.
 ||leccesette.it/banner/
@@ -789,8 +790,6 @@
 ||lavocedelquartiere.it^*/banner_
 ||lavocedinewyork.com/wp-content/banners/
 ||lavocedivenezia.it^*/banner-
-||lavorincasa.it/adb3.php
-||lavorincasa.it/product/
 ||maidireborsa.it^*/image004-
 ||maidirelink.it^*/sconti-amazon.jpg
 ||mail.tiscali.it^*/advlib.js
