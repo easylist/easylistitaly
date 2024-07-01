@@ -30,6 +30,7 @@
 ||italycharter.it/searchwidget$third-party
 ||jooble.org/css/images/logos/jooble_$third-party
 ||netsons.com/manage/images/affiliates/$third-party
+||oasjs.kataweb.it/neodata/
 ||offerte.news/pub/
 ||pegasomedia.it/public/immaginibnr/
 ||postimg.cc^$domain=napolimagazine.com|settecalcio.it|toscanagol.it
