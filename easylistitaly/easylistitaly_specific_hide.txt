@@ -62,7 +62,7 @@ finestresullarte.info###banner_9_div
 teleboario.it###banner_container
 quizpatenteonline.it###banner_fix
 vocidicitta.it###banner_footer_728
-entella.it###banner_header
+entella.it,inpiega.it###banner_header
 vocidicitta.it###banner_header_728
 ornews.it###banner_skin
 ornews.it###banner_skin_mobile
@@ -1668,7 +1668,7 @@ casertace.net,crotoneok.it,glianni80.com,ilgiornaledisalerno.it,ilmiogiornale.ne
 sienanews.it##img[width="521"]
 agendapolitica.it##img[width="530"]
 genovaquotidiana.com##img[width="543"]
-abruzzoweb.it,artemagazine.it,dazebaonews.it,fisco7.it,fmtv.live,ilfattodicalabria.it,ilgiornaledisalerno.it,ilmonito.it,ilportaledelcavallo.it,nuovabrianza.it,radio5punto9.it,radiocastelluccio.com,radiortm.it,videomediterraneo.it##img[width="600"]
+abruzzoweb.it,artemagazine.it,dazebaonews.it,fisco7.it,fmtv.live,ilfattodicalabria.it,ilgiornaledisalerno.it,ilmonito.it,ilportaledelcavallo.it,inpiega.it,nuovabrianza.it,radio5punto9.it,radiocastelluccio.com,radiortm.it,videomediterraneo.it##img[width="600"]
 lavoce.it##img[width="601"]
 cataniavip.it##img[width="609"]
 sienanews.it##img[width="625"]
