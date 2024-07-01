@@ -1001,6 +1001,7 @@ dagospia.com,ildolomiti.it##.native
 dagospia.com##.native_mobile
 bresciaoggi.it,ilgiornaledivicenza.it,larena.it,radioverona.it,telearena.it,telemantova.it##.nativeadv
 ecovicentino.it##.new_class_eco
+tio.ch##.newhome_widget
 italia-informa.com##.newsitemAdv
 plaffo.com##.nivo-imageLink
 laleggepertutti.it##.notizie-blue-bnr-one

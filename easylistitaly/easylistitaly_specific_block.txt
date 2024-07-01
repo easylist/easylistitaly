@@ -650,6 +650,10 @@
 ||tgnordsalento.it/images/banner-
 ||theapplelounge.com/wp-content/uploads/*/banner-trendevice.jpg
 ||theitaliantimes.it/js/gpt.plus.min.js
+||tio.ch/ext/a.php?
+||tio.ch/ext/adbreak/ads.php?
+||tio.ch/ext/pdata.php?
+||tio.ch/layout/js/native/newhome_widget.js
 ||torinoaffari.it/img/tbl/ban/
 ||torinoerotica.com/banner/
 ||torinofc.it/sites/default/files/sponsor/

@@ -40,6 +40,7 @@
 ||sorgentenatura.it/data/img/Banner_$third-party
 ||ssl.p.jwpcdn.com/*/vast.js$domain=veneziaradiotv.it
 ||tcccdn.com^*/banner/
+||tdn.da-services.ch^
 ||venerota.it/lcn_jpg.php$third-party
 ||viaggiare.columbusassicurazioni.it^$third-party
 ||viralize.tv/display/$script,domain=teleborsa.it

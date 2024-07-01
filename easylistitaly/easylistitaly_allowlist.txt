@@ -1,9 +1,11 @@
+@@||adbreak.ch/js/ext/adbreak.js?$script,domain=tio.ch
 @@||ads.viralize.tv/player/$xmlhttprequest,domain=automoto.it|ilquaderno.it|moto.it
 @@||ads.viralize.tv^|$script,domain=automoto.it|ilquaderno.it|moto.it
 @@||amazon-adsystem.com/aax2/apstag.js$domain=105.net|auto.it|calcionapoli1926.it|cittaceleste.it|corrieredellosport.it|derbyderbyderby.it|fantamagazine.com|fcinter1908.it|formulapassion.it|forzaroma.info|gazzabet.news|golssip.it|hellas1903.it|ilmilanista.it|ilposticipo.it|itasportpress.it|juvenews.eu|mediagol.it|mondoudinese.it|notiziecalciomercato.eu|numericalcio.it|padovasport.tv|pianetamilan.it|r101.it|toronews.net|tuttobolognaweb.it|tuttosport.com|video.gazzetta.it|violanews.com
 @@||assets.evolutionadv.it/adnkronos_com/adnkronos_com.new.js$domain=adnkronos.com
 @@||assets.evolutionadv.it/adnkronos_com/video.js$domain=adnkronos.com
 @@||assets.evolutionadv.it/optiload/$script,domain=adnkronos.com
+@@||b.adbreak.ch^$script,domain=tio.ch
 @@||buonenotiziebologna.it/images/banners/logos/bnb/logo.png
 @@||cdnadn.evolutionadv.it/Assets/Video/*.mp4$domain=adnkronos.com
 @@||centrosangiorgio.com^*_pubblicita.
@@ -14,12 +16,13 @@
 @@||g.doubleclick.net/tag/js/gpt.js$script,domain=auto.it|corrieredellosport.it|tuttosport.com
 @@||gay.it/adv/empty.mp4$media,~third-party
 @@||go.ezodn.com/tardisrocinante/lazy_load.js?$script,domain=consiglibenessere.org
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=agi.it|calcionapoli1926.it|circusf1.com|cittaceleste.it|derbyderbyderby.it|fantacalcio.it|fantamagazine.com|fcinter1908.it|formulapassion.it|forzaroma.info|gazzabet.news|gianlucadimarzio.com|golssip.it|hellas1903.it|ilmeteo.it|ilmilanista.it|ilposticipo.it|iodonna.it|itasportpress.it|juvenews.eu|mediagol.it|mistergadget.tech|mondoudinese.it|notiziecalciomercato.eu|numericalcio.it|oggi.it|padovasport.tv|pianetamilan.it|qds.it|toronews.net|tuttobolognaweb.it|tuttoeuropei.com|video.corriere.it|video.gazzetta.it|violanews.com|vrsicilia.it
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=agi.it|calcionapoli1926.it|circusf1.com|cittaceleste.it|derbyderbyderby.it|fantacalcio.it|fantamagazine.com|fcinter1908.it|formulapassion.it|forzaroma.info|gazzabet.news|gianlucadimarzio.com|golssip.it|hellas1903.it|ilmeteo.it|ilmilanista.it|ilposticipo.it|iodonna.it|itasportpress.it|juvenews.eu|mediagol.it|mistergadget.tech|mondoudinese.it|notiziecalciomercato.eu|numericalcio.it|oggi.it|padovasport.tv|pianetamilan.it|qds.it|tio.ch|toronews.net|tuttobolognaweb.it|tuttoeuropei.com|video.corriere.it|video.gazzetta.it|violanews.com|vrsicilia.it
 @@||monetize-static.viralize.tv/viralize_player_content.min.$script,domain=automoto.it|ilquaderno.it|moto.it
 @@||player.aniview.com/script/$script,domain=adnkronos.com
 @@||player.avplayer.com/script/$script,domain=adnkronos.com
 @@||query.yahooapis.com/v1/public/yql?*/pubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=telefriuli.it
 @@||repstatic.it/cless/common/adv/prebid6.28.0.js$domain=ilmeteo.it
+@@||tdn.da-services.ch/current/tio.js$script,domain=tio.ch
 @@||video.comingsoon.it/Adv/Box/$image,media
 ! https://www.agi.it/cronaca/news/2024-06-26/vernice-rossa-scalinata-trinita-dei-monti-26928755/
 @@||d11otsap2ziep3.cloudfront.net/resources/videojs-ads/videojs-contrib-ads.js$script,~third-party
