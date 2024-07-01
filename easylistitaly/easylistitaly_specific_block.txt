@@ -179,6 +179,7 @@
 ||cn24tv.it/images/banners/
 ||codedaze.me/scaricare.png
 ||codedaze.me/vpn_
+||comingsoon.it/imgdb/banner/
 ||comunicaffe.it/wp-content/uploads/angwp/items/
 ||comunicati-stampa.net/images/banner/
 ||concorezzo.org/images/banners/

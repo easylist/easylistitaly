@@ -384,6 +384,7 @@ calciobresciano.it##.adv-big-article-card
 corrieredellumbria.it,corrierediarezzo.it,corrieredisiena.it##.adv-big2
 paginebianche.it##.adv-card
 centrometeoitaliano.it##.adv-cmi
+comingsoon.it##.adv-container
 paroladeltifoso.it##.adv-image
 lasicilia.it##.adv-intext-placeholder
 editorialedomani.it,lasicilia.it##.adv-placeholder
@@ -1048,6 +1049,7 @@ sololibri.net##.productContent
 prendiporno.tv##.productora
 prendiporno.tv##.productora-logo
 ansa.it,comingsoon.it,pneusnews.it##.promo
+comingsoon.it##.promo-img
 sardinias.it##.promo-partner-container
 theflightclub.it##.promo_carta
 affaritaliani.it##.promoaziende
