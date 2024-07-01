@@ -842,7 +842,7 @@ quattroruote.it##.genericBanner
 gestoricarburanti.it##.gesto-widget
 italia-informa.com##.giapPageAdvCont
 estrazionedellotto.it##.giocaBox
-italiaoggi.it,mffashion.com,milanofinanza.it,money.it,panorama.it,salepepe.it,veritaeaffari.it,xiaomitoday.it##.gmp
+italiaoggi.it,mffashion.com,milanofinanza.it,money.it,panorama.it,rockit.it,salepepe.it,veritaeaffari.it,xiaomitoday.it##.gmp
 laverita.info##.gmp-repeating-ads
 sentieriselvaggi.it##.google-banners
 goriziaoggi.news##.goriz-widget
