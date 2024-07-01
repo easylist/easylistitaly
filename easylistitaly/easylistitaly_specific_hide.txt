@@ -359,7 +359,7 @@ casa-domotica24.it,casinamia.com,dilei.it,fut18italia.it,gommeblog.it,monetizzan
 ilmostardino.it##.acx_ppt
 eurosport.it,icasa.ch,ilfoglio.it,lacrocequotidiano.it,mondoplay.it,mondoxbox.com##.ad
 abruzzoindependent.it##.ad-banner
-badtaste.it,supertv.it##.ad-container
+badtaste.it,mtv.it,supertv.it##.ad-container
 panorama.it##.ad-correlati
 laltrapagina.it##.ad1
 laltrapagina.it##.ad2
@@ -2064,7 +2064,7 @@ notetralerighe.it##.banner-amazon-music
 rpiunews.it##.banner-body
 universodelgioco.it##.banner-btf-side-rectangle
 nuovovolantino.it##.banner-cat
-divinafm.it,giochixl.it,livesicilia.it,mtv.it,picchionews.it##.banner-container
+divinafm.it,giochixl.it,livesicilia.it,picchionews.it##.banner-container
 punto-informatico.it##.banner-content
 tuttomaremma.com##.banner-dex
 italiani.it##.banner-empty-italiani
