@@ -623,6 +623,7 @@
 ||stadiotardini.it/banners/
 ||staffettaonline.com/fcResources/
 ||stampareggiana.it/wp-content/uploads/*/DOLCIARIA_SANPROSPERO-1.jpg
+||startmag.it/wp-content/uploads/*_SKIN_
 ||stiletv.it/banner/
 ||sudnews.it/upload/img/banner/
 ||superenalotto.com/images/banners/
