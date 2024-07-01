@@ -1444,6 +1444,7 @@ ilgiorno.it,ilrestodelcarlino.it,iltelegrafolivorno.it,lanazione.it,quotidiano.n
 alimentando.info,horecanews.it,quotidianodellumbria.it,radioluce.it,radioradio.it,umbriasettegiorni.it,vendingnews.it,vitaincamper.it##div[class^="angwp_"]
 cilentochannel.com##div[class^="cilen-"]
 qdpnews.it##div[class^="qdpne-"]
+informazione.it##div[class^="r89-"]
 alqamah.it##div[class^="unit-zona-"]
 unionesarda.it##div[data-name^="Banner SEC"]
 unionesarda.it##div[data-name^="RCS FRAME"]
