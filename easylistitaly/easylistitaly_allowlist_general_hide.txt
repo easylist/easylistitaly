@@ -6,8 +6,7 @@ unionesarda.it#@#.topAds
 !
 corr.it#@##adv-Top
 repubblica.it#@##advtop
-subito.it#@##body_ad
-kijiji.it#@##post-ad
+subito.it#@##body_a
 corrierediragusa.it#@##pubblicita
 direttasicilia.it#@#.ad-header
 globalist.it#@#.ad-slot
