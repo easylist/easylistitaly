@@ -676,6 +676,7 @@ monrealenews.it##.carouselbanner
 oggimilazzo.it##.cb-category-top
 ilfattoquotidiano.it##.cc-adv-wrapper
 fitp.it##.cc-content-sponsor
+m.tuttomercatoweb.com##.center[style="margin:10px auto; height:auto; min-height:120px;"]
 casefunerarie.it##.cf-nation-banners
 vienormali.it##.cimarandom
 telenord.it##.click-foto
