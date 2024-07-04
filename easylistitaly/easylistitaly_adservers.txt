@@ -2,6 +2,7 @@
 ||addendo.network^$third-party
 ||adkaora.space^$third-party
 ||adplay.it^$third-party
+||affiliation.software^$third-party
 ||brznetwork.com^$third-party
 ||delosnetwork.it^$third-party
 ||eadv.it^$third-party
@@ -35,7 +36,6 @@
 ||advit.it^$third-party
 ||advplace.com^$third-party
 ||affiliago.it^$third-party
-||affiliation.software^$third-party
 ||affiliationpartner.it^$third-party
 ||affiliazioni.me^$third-party
 ||affiliazioniweb.com^$third-party
