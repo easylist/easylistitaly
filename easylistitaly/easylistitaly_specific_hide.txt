@@ -1144,6 +1144,7 @@ fremondoweb.com##.sliderclass
 buonenotiziebologna.it##.slides_container
 24newsonline.it,altopiemonte24.it,arona24.it,biellese24.it,borgomanero24.it,cusio24.it,lagomaggiore24.it,novara24news.it,novarese24.it,ossola24.it,sport24news.it,ticino24.it,verbano24.it,vercellese24.it,visitvco.it##.slideshowck
 tmnotizie.com##.slogan
+libreriamo.it##.slot-banner
 sportal.it##.slot_banner
 sluurpy.it##.sluurpy_bdrw
 salernogranata.it##.slywdg-box
@@ -1290,6 +1291,7 @@ vitatrentina.it##.vitat-widget
 videos.mrpornogratis.it,videos.pornototale.com##.vjs-producer
 ufficistampanazionali.it##.vlchbykoag
 vetrinamotori.it##.vm-adunit
+libreriamo.it##.vm_player
 blunote.it,catanista.com##.w-100
 sora24.it##.wallpaper-link
 webhostingmagazine.it##.webho-widget
