@@ -937,6 +937,7 @@ blablive.com##.leader-wrap-out
 pneusnews.it,prealpina.it##.leaderboard
 infobuild.it,infobuildenergia.it##.leaderboard_wrapper
 lafune.eu##.left-banner-block
+agimeg.it##.lgx_logo_slider_app
 castelvetranonews.it##.liban
 libero.it##.ligatus_wrapper
 balarm.it##.link-skin
