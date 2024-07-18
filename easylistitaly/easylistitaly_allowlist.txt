@@ -49,7 +49,6 @@
 @@||carloneworld.it^*/tastixhumpp_b12_Pubblicita_Taroccate.png
 @@||carrozzeriabertazzoni.it/immagini/PUBBLICITA.gif
 @@||carrozzeriabertazzoni.it/pubblicita/
-@@||catchup.acdsolutions.it/jstag/videoplayerFluid/*&adZone=$script,domain=sanmarinortv.sm
 @@||centrovolantini.it/sites/default/files/styles/thumb_copertina/public/conad_$~third-party
 @@||cheapnet.it/adv/$~third-party
 @@||confiant-integrations.global.ssl.fastly.net/*/gpt_and_prebid/config.js$domain=comingsoon.it
