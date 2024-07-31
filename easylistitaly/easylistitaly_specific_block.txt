@@ -79,6 +79,7 @@
 ||antenna1.fm/upload/publicite/
 ||aostaoggi.it/images/banners/
 ||aostasports.it^*/box/
+||api.everyeye.it/amazon/
 ||api.trecentodieci.it/serve/cdn/qcanavese/ads/$image,domain=quotidianocanavese.it
 ||api.trecentodieci.it/serve/cdn/qcanavese/skin/$image,domain=quotidianocanavese.it
 ||aprilianews.it/wp-content/uploads/*/Banner-
