@@ -1141,6 +1141,7 @@ digitalic.it##.skin_a_dx
 digitalic.it##.skin_a_sx
 cellulare-magazine.it##.skin_bg
 sempionenews.it##.skin_click
+forumfree.it##.skin_tbl_width
 giocopulito.it##.skinsuperiore
 search.ch##.sl-banner
 gazzettinodelchianti.it,hdgolf.it##.slick-slider
