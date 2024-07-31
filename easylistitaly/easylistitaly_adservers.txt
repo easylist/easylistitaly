@@ -4,6 +4,7 @@
 ||adplay.it^$third-party
 ||affiliation.software^$third-party
 ||brznetwork.com^$third-party
+||btmarketing.it^$third-party
 ||delosnetwork.it^$third-party
 ||eadv.it^$third-party
 ||epeex.io^$third-party
