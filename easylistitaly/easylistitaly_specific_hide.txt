@@ -1048,6 +1048,7 @@ lidentita.it##.pc-sezione-home-videoepolitica > .container > .row > .col-xs-12.c
 lidentita.it##.pc-sezione-single-sidebar-singlesidebar > .row > .col-xs-12 > a
 lidentita.it##.pc-sezione-single-sidebar-singlesidebar > .row > .col-xs-12 > img
 evosmart.it,ladiscussione.com,nonsolonautica.it##.penci-banner-box
+ore12.net##.penci-promo-item
 notiziediprato.it##.penci_bottomblock
 kongnews.it##.penci_list_banner_widget
 notiziediprato.it##.penci_topblock
