@@ -258,7 +258,7 @@ portadimare.it###sp-pub-sup-1
 lnd.it###sp-sponsor
 youtg.net###sp-testata
 aziendabanca.it###sp-top-banner
-canottaggio.org,divisionecalcioa5.it,emiliagol.it###sponsor
+canottaggio.org,divisionecalcioa5.it,emiliagol.it,radiogalileo.it###sponsor
 buonapesca.it###sponsor-bottom
 federcanoa.it###sponsor-bottom-wrapper
 paolociraci.it###sponsor-clima-160x160
