@@ -852,6 +852,7 @@ diretta.it,flashscore.it##.gamble
 asgiana.com,calciolecco1912.com,usviterbese.it##.gdlr-banner-item-wrapper
 quattroruote.it##.genericBanner
 gestoricarburanti.it##.gesto-widget
+teleorte.it##.ghostkit-custom-1BB0B1
 italia-informa.com##.giapPageAdvCont
 estrazionedellotto.it##.giocaBox
 italiaoggi.it,mffashion.com,milanofinanza.it,money.it,panorama.it,rockit.it,salepepe.it,veritaeaffari.it,xiaomitoday.it##.gmp
