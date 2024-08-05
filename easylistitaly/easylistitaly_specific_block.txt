@@ -238,6 +238,7 @@
 ||elettricomagazine.it/wp-content/banners/
 ||emiliagol.it/js/allinone_bannerRotator.js
 ||escortaltop.it/banner/
+||escortinn.com/fe/img/helenecastelli3.jpg
 ||euroregionalpmed.eu/img/banner/
 ||euroregionalpmed.eu/js/clickBanner_
 ||eurostreaming.beauty/gcode.js
