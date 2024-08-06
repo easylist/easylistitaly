@@ -691,6 +691,7 @@ casefunerarie.it##.cf-nation-banners
 vienormali.it##.cimarandom
 telenord.it##.click-foto
 moscarossa.biz##.click_banner
+essemagazine.it##.clients-section
 pianetabambini.it##.clsads
 vispesaro1898.it##.cmsmasters_clients_slider_wrap
 magodelpronostico.com##.cntBonusHome
