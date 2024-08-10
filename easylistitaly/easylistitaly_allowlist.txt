@@ -8,6 +8,7 @@
 @@||assets.evolutionadv.it/adnkronos_com/adnkronos_com.new.js$domain=adnkronos.com
 @@||assets.evolutionadv.it/adnkronos_com/video.js$domain=adnkronos.com
 @@||assets.evolutionadv.it/optiload/$script,domain=adnkronos.com
+@@||assets.evolutionadv.it/prebid/*/prebid.min.js$domain=adnkronos.com
 @@||b.adbreak.ch^$script,domain=tio.ch
 @@||buonenotiziebologna.it/images/banners/logos/bnb/logo.png
 @@||cdnadn.evolutionadv.it/Assets/Video/*.mp4$domain=adnkronos.com
