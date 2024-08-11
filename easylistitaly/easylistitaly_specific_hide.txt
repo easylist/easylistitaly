@@ -174,7 +174,7 @@ settegiorniatortona.it###lateralesx
 ottofm.com###lcb_banner
 lagazzettamessinese.it,lagazzettasiracusana.it###leader-wrap
 torrechannel.it###leader-wrapper
-avmagazine.it,cronachedibirra.it,sexycommunity.it###leaderboard
+avmagazine.it,chronist.it,cronachedibirra.it,sexycommunity.it###leaderboard
 bollicinevip.com###leaderboard-wrapper
 finestresullarte.info###leaderboard1
 finestresullarte.info###leaderboard2
