@@ -1031,6 +1031,7 @@ boatindustry.it,boatsnews.it,pescare.news##.p
 money.it##.p-4.my-4.rounded-lg.text-white
 livornopress.it##.padding-top.hide-in-wm-xxl
 kultur.bz.it##.page-banner
+radioolympia.it##.page-section-benner
 paisemiu.com##.paise-widget
 nostrofiglio.it##.par-listing-collab
 agrodolce.it##.partial-promobox
