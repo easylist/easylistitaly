@@ -430,6 +430,7 @@ chiamamicitta.it,ilgiornaleditrani.net##.ai-rotate
 chiamamicitta.it,cosenzaduepuntozero.it##.ai-viewport-1
 avvisatore.com,carovignonotizie.net,ostuninotizie.it##.ai_widget
 valsassinanews.com##.aibwp_banner_widget
+alessandria24.com##.aless-widget
 ferrovie.it##.alignC
 corrierinocampaniasport.it##.alpha.omega
 monza-news.it##.alternated-ad
