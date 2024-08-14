@@ -152,6 +152,7 @@ lasicilia.it###frame-1
 ilcittadinodirecanati.it###g-top
 mondoplay.it,mondoxbox.com###gameBlock_amazon
 mondoplay.it,mondoxbox.com###gameBlock_amazon_noboxart
+it.advfn.com###google-ads-skin-wrapper
 orvietonews.it###gpt-passback
 operaclick.com###head-left-banner
 operaclick.com###head-right-banner
@@ -479,6 +480,7 @@ dirigentindustria.it##.banne
 1001giochi.it,assisieventi.it,assisinews.it,asteannunci.it,atalanta.it,avinews.it,bikeitalia.it,camperonline.it,casateonline.it,catanzaroinforma.it,conquistedellavoro.it,coriglianocalabro.it,crema-news.it,cremaoggi.it,cremonaoggi.it,cremonasera.it,cremonasport.it,cuneocronaca.it,euroregionalpmed.eu,giochixl.it,giornalemetropolitano.com,hcb.net,hdblog.it,hdmotori.it,ilgiornaledellaprotezionecivile.it,ilgoriziano.it,key4biz.it,lanuova.net,leccoonline.com,lostrillone.tv,luccaindiretta.it,merateonline.it,modellismopiu.it,movieplayer.it,oggitreviso.it,oglioponews.it,radioprimiero.it,romadailynews.it,sportando.basketball,sportevai.it,teatronaturale.it,telepaceag.it,tg24.info,tgfuneral24.it,toscanaoggi.it,trmweb.it,tuttoandroid.net,tuttotech.net,valtiberinaonline.it,varesenews.it,videonotizietv.it,vitatrentina.it,voceapuana.com##.banner
 welfarenetwork.it##.banner-468-hp
 planetmountain.com##.banner-515
+it.advfn.com##.banner-728-90
 radio24.ilsole24ore.com##.banner-area
 helplavoro.it##.banner-aziende
 parmareport.it##.banner-big
@@ -510,6 +512,7 @@ fiscal-focus.it,kongnews.it,solovela.net##.banner-right
 dailynautica.com##.banner-row
 vercellioggi.it##.banner-section
 brindisisettenews.it,leccesette.it##.banner-side
+it.advfn.com##.banner-side-300-600
 dirittoegiustizia.it##.banner-sidebar
 dailynautica.com##.banner-skin-link
 radioecovicentino.it##.banner-slider
@@ -1093,6 +1096,7 @@ picenotime.it##.py-1.colonna-singola > .py-5
 radiobussola.it,radiomessinasud.com##.qt-sponsors
 vivafm.it##.qt-widget-sponsor
 lasicilia.it##.rcs-sidebar
+it.advfn.com##.recent-stocks-sibling
 live-sport-tv.it##.rectangles
 prealpina.it##.redazionale
 megaescort.info##.region-banner-bottom
@@ -1264,6 +1268,7 @@ veronavolley.it##.title-sponsor
 cronachetarantine.it##.top-banner
 cagliaricalcio.com##.top-banner-home
 laverita.info,panorama.it##.top-billboard
+it.advfn.com##.top-pinned-container
 cagliaricalcio.com##.top-sponsor-hp
 fmtv.live##.top_banner
 antenna1.fm##.top_publicite
