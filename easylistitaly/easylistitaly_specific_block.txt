@@ -146,6 +146,7 @@
 ||cakemania.it^*/bannervoxmail300x100.png
 ||calabriapost.net/modules/mod_responsivebannerslider/
 ||calabriatv.it/wp-content/uploads/*/banner-
+||calciomercato.com/build/images/adv.$image
 ||campanialive.it/banner/
 ||campaniameteo.it/CMS/Upload/GalleriaUtente/Image/
 ||camperonline.it/b/
