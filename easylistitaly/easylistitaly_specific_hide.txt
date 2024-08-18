@@ -65,6 +65,7 @@ quizpatenteonline.it###banner_fix
 vocidicitta.it###banner_footer_728
 entella.it,inpiega.it###banner_header
 vocidicitta.it###banner_header_728
+scacchierando.it###banner_s
 ornews.it###banner_skin
 ornews.it###banner_skin_mobile
 chiechiera.com###banner_sotto_header
