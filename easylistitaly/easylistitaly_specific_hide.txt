@@ -530,6 +530,8 @@ italia-informa.com##.banner250x250interno
 fotografidigitali.it,hwupgrade.it,tvtech.it##.banner300x250
 campanialive.it##.banner380x48
 calabria.live##.banner50
+italia-informa.com##.banner728x90CX
+italia-informa.com##.banner728x90CX-copia
 gnoccaforum.biz##.banner768x60
 statoquotidiano.it##.bannerCommenti
 lamiachampagne.com##.bannerContainer
