@@ -1,7 +1,7 @@
 ||1001giochi.it/bfb/
 ||105tv.it/web/images/banners/
 ||24emilia.com/wp-content/uploads/*/banner-
-||24live.it/wp-content/uploads/*/carter.gif
+||24live.it/wp-content/uploads/*/banner-
 ||24newsonline.it/images/*_banner_
 ||24newsonline.it/images/banner/
 ||24newsonline.it/index.php/banner-
@@ -585,6 +585,7 @@
 ||ragusanews.com//immagini_banner/
 ||ragusanews.com/immagini_banner/
 ||ravennaeventi.net/file/*/banner_
+||recensionelibro.it/banner/
 ||reggioemiliameteo.it/files/banner/
 ||reggioemiliameteo.it/images/main-sponsor/
 ||romagnasport.com//public/banner/
@@ -605,6 +606,7 @@
 ||senigallianotizie.it/banner/
 ||seriedgol.it/js/allinone_bannerWithPlaylist.js
 ||settecalcio.it/js/allinone_bannerRotator.js
+||settimanasport.com^*/150x60_jooble.gif
 ||sexycommunity.it/images/banners/
 ||sexyguidaitalia.com/images/899/
 ||shortpixel.ai/client/to_webp,q_glossy,ret_img/https://www.sslaziofans.it/*/BANNER-
@@ -838,7 +840,6 @@
 ||newsinquota.it^*/Springo_
 ||newsly.it^*/aawp/
 ||nightlife-cityguide.com^*/sconto-airbnb.png
-||nocerinalive.it^*/sponsor1-
 ||nokioteca.net/_immagini/Nokia2720-2.
 ||notebookcheck.it/fileadmin/Sonstiges/amaz_$xmlhttprequest
 ||oas.repubblica.it^
@@ -906,9 +907,6 @@
 ||ravennatoday.it/images/skin/
 ||rcrevolution.net^*/banners/
 ||realtagenoana.it^*/600x600.gif
-||recensionelibro.it/banner/
-||redacon.it^*-banner.
-||redacon.it^*/bannerino_
 ||reggina1914.it^*/sponsor-
 ||rendimentibtp.it/sponso/
 ||repstatic.it/cless/common/promo_editoriali/
@@ -944,15 +942,12 @@
 ||sassuolocalcio.it/wp-content/uploads/adv/
 ||sassuolocalcio.it^*/partners/
 ||scaccoweb.it/images/banners/
-||scattidigusto.it^*/d2-abbigliamento-
-||scattidigusto.it^*/mulino-caputo-
 ||scubaportal.it^*/skin-
 ||seguonews.it^*/banner/
 ||seguonews.it^*/banner_
 ||sentimentispezzini.cittadellaspezia.com^*/al.jpg
 ||sestaporta.news^*_300x300.
 ||sestaporta.news^*_BANNER_
-||settimanasport.com^*/150x60_jooble.gif
 ||sevenpress.com^*/autodoc.jpg
 ||sevenpress.com^*/banner/
 ||sevenpress.com^*/bannerQ/
@@ -975,10 +970,6 @@
 ||strumentiemusica.com^*-125x125.
 ||subito.it/static/reclame/
 ||submission.it/banner/
-||superbasket.it^*-750x80px.
-||superbasket.it^*/750x80-
-||superbasket.it^*/banner_
-||superinformati.com^*/Banner-
 ||tccstatic.com/template/*/js/p-$script
 ||tecnofacile.com^*/guida-regali-high-tech.jpg
 ||telefonino.net^*/justearntn.js
@@ -1019,9 +1010,6 @@
 ||travelquotidiano.com^*/tc-singapore.jpg
 ||travelstales.it^*/banner-
 ||traveltik.it^*/ENJOY-YOUR.png
-||trentinovolley.it/images/banners/
-||trentinovolley.it/images/simboli/diatec.svg
-||trentinovolley.it/images/simboli/trentino-foot.svg
 ||trentotoday.it/images/skin/
 ||tribunaliitaliani.it^*/MULTI_page-0001.jpg
 ||tribunaliitaliani.it^*/studio-tecnico-bortolotti.jpg
@@ -1077,7 +1065,6 @@
 ||tuttonatale.it^*/tutto-costumi-
 ||tuttostoria.net/images/storiadoc-animato.gif
 ||tuttotone.app/assets/img/banner/
-||tuttotrasporti.it^*/notizieSponsorizzate/
 ||tuttozampe.com^*/Premium_
 ||tv1.it/images/banner/
 ||tvsei.it^*/uisp

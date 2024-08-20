@@ -14,7 +14,6 @@ globalist.it#@#.ad-wrapper
 bakeca-incontri.net#@#.ad_bottom
 bakeca-incontri.net#@#.ad_center
 subito.it#@#.ad_links
-huffingtonpost.it#@#.ad_spot
 newscrawler.it#@#.ad_wrapper
 subito.it#@#.adcont
 bakeca-incontri.net#@#.adtitle
