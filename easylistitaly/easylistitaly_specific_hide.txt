@@ -1288,6 +1288,7 @@ inbici.net,motori360.it,vivaboy.com##.text-html-box
 teleaesse.it##.text-left
 teleaesse.it##.text-right
 livorno24.com##.textwidget
+gds.it##.thematic--adv
 caleno24ore.it##.themequote
 veronavolley.it##.title-sponsor
 cronachetarantine.it##.top-banner
