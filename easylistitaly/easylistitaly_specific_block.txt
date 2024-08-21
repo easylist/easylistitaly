@@ -245,6 +245,7 @@
 ||euroregionalpmed.eu/js/clickBanner_
 ||eurostreaming.beauty/gcode.js
 ||eurostreaming.soy/300.gif
+||facciabuco.com/grafica/adv/
 ||fantacalciopedia.com/img/banner_
 ||fantascientificast.com/partner/
 ||fantascienzaitalia.com/wp-content/uploads/*/banner-
@@ -802,7 +803,6 @@
 ||lavocedinewyork.com/wp-content/banners/
 ||lavocedivenezia.it^*/banner-
 ||maidireborsa.it^*/image004-
-||maidirelink.it^*/sconti-amazon.jpg
 ||mail.tiscali.it^*/advlib.js
 ||malindikenya.net^*/sponsors/
 ||mammaimperfetta.it^*_banner.
@@ -972,7 +972,6 @@
 ||submission.it/banner/
 ||tccstatic.com/template/*/js/p-$script
 ||tecnofacile.com^*/guida-regali-high-tech.jpg
-||telefonino.net^*/justearntn.js
 ||tennismarche.net/images/banners/
 ||terranauta.it/banner/
 ||terranuova.it^*/ad$xmlhttprequest
@@ -983,9 +982,6 @@
 ||tfnweb.it^*/BANNERDX-
 ||tfnweb.it^*/centro-oculistico-logo-
 ||tfnweb.it^*/COSAT.jpg
-||tgcal24.it^*-banner-
-||tgcal24.it^*/BANNER-
-||tgcal24.it^*/banner_
 ||tgmax.it/wp-content/uploads/2018/05/1.png
 ||thelostavocado.com^*/Booking_Com_
 ||ticino24.it/images/banner/
