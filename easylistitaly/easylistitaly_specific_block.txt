@@ -751,7 +751,7 @@
 ||zonalotto.it/banner_
 ||zonalotto.it/banner_zl/
 !
-/^https?:\/\/[0-9a-z]{8,}\.com\/.*/$script,third-party,xmlhttprequest,domain=calcio.re|guardaserie01.click|onepiecepower.com|pepperlive.info|streamingcommunity.cz
+/^https?:\/\/[0-9a-z]{8,}\.com\/.*/$script,third-party,xmlhttprequest,domain=animeunity.to|calcio.re|guardaserie01.click|onepiecepower.com|pepperlive.info|streamingcommunity.cz
 /^https?:\/\/[0-9a-z]{8,}\.xyz\/.*/$script,third-party,xmlhttprequest,domain=ilgeniodellostreaming.zone
 ! (/sw.js)
 /^https?:\/\/.*\/.*sw[0-9._].*/$script,domain=mrpornogratis.it|pornototale.com
