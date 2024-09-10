@@ -182,6 +182,7 @@ soldioggi.it###inarticle3
 direttafacile.it###indirettadalgo
 soldioggi.it###insidebar1
 gnoccatravels.com###instant-message-banner
+tusciaweb.eu###interno_sottotitolo
 settegiorniatortona.it###lateraledx
 settegiorniatortona.it###lateralesx
 ottofm.com###lcb_banner
