@@ -4,13 +4,8 @@ unionesarda.it#@#.leftAds
 unionesarda.it#@#.rightAds
 unionesarda.it#@#.topAds
 !
-corr.it#@##adv-Top
-repubblica.it#@##advtop
-subito.it#@##body_a
 corrierediragusa.it#@##pubblicita
 direttasicilia.it#@#.ad-header
-globalist.it#@#.ad-slot
-globalist.it#@#.ad-wrapper
 bakeca-incontri.net#@#.ad_bottom
 bakeca-incontri.net#@#.ad_center
 subito.it#@#.ad_links
@@ -22,7 +17,6 @@ questaseratv.it#@#.channelBoxAds
 questaseratv.it#@#.gptslot
 ilbaratto.com#@#.jquery-script-ads
 radioalfalab.it#@#.penci-adsense-below-slider
-tuttoaffari.com#@#.top-ad
 brocardi.it#@#.with-background-ads
 simulatoripensione.it#@#a[href^="https://www.financeads.net/tc.php?"]
 la7.it#@#div[id^="rtbuzz_"]
