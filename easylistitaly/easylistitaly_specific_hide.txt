@@ -1084,6 +1084,7 @@ laleggepertutti.it##.notizie-blue-bnr-one
 laleggepertutti.it##.notizie-blue-bnr-two
 voglioporno.com##.ntv-disclaimer
 diretta.it,flashscore.it##.oddsPlacement
+diretta.it##.oddsWrapper
 hdblog.it,hdmotori.it##.offer-icons
 spoletonline.com##.oldBanner
 radiociak.it,reportageonline.it,sslazionuoto.it##.owl-carousel
