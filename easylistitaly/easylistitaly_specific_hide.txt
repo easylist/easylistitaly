@@ -853,6 +853,7 @@ informazionecomunicazione.it##.entry-inner
 tiscali.it##.entry-pos-vsb
 tiscali.it##.entry-shopping
 tiscali.it##.entry-shopping-header
+tiscali.it##.entry-shopping-sml
 webhostingmagazine.it##.epcl-banner
 corriereproposte.it##.eventi_associati
 moscarossa.biz##.evidenzia_accompa_diamond
