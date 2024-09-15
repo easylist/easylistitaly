@@ -509,7 +509,7 @@ radio24.ilsole24ore.com##.banner-area
 helplavoro.it##.banner-aziende
 parmareport.it##.banner-big
 universodelgioco.it##.banner-btf-side-rectangle
-1001giochi.it,amicidicasa.it,canavesetoday.it,cb01.photography,edicoladigitale.info,lacrocequotidiano.it,professionecamionista.it,quotidianocanavese.it,sposa.it,sscnapoli.it##.banner-container
+1001giochi.it,amicidicasa.it,canavesetoday.it,cb01.com.co,cb01.photography,edicoladigitale.info,lacrocequotidiano.it,professionecamionista.it,quotidianocanavese.it,sposa.it,sscnapoli.it##.banner-container
 punto-informatico.it##.banner-content
 quimedia.it##.banner-ct
 nove.firenze.it##.banner-desktop
@@ -709,7 +709,7 @@ diaconale.it##.bt_banner
 igds.pro##.btn-01
 igds.pro##.btn-02
 scaricarelibri.net##.button
-cb01.photography##.buttona_group
+cb01.com.co,cb01.photography##.buttona_group
 libro.cafe##.buy
 screenweek.it##.buy-container
 frasicelebri.it##.buy-on-amazon
