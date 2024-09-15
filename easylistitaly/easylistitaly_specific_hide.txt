@@ -1290,6 +1290,7 @@ motori.it##.strip_agos_link
 vacanzeinamerica.eu##.su-button
 casa-domotica24.it##.su-tabs
 quizpatenteonline.it##.subHeader
+ferrovie.info##.subslider-0
 freeonline.org##.sw-banner
 yesmagazine.it##.swiper-slide
 luinonotizie.it,radiolaquila1.it##.swiper-wrapper
