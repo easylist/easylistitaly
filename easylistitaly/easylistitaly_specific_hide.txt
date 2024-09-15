@@ -391,6 +391,7 @@ ad-italia.it,gqitalia.it,lacucinaitaliana.it,vanityfair.it,vogue.it,wired.it##.a
 laltrapagina.it##.ad1
 laltrapagina.it##.ad2
 laltrapagina.it##.ad5
+virgilio.it##.ad_t1
 theitaliantimes.it##.adb
 confinelive.it,lojonio.it##.adcontainer
 mondobarcamarket.it,unonotizie.it##.add
