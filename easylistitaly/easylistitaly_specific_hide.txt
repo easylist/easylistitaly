@@ -1261,6 +1261,7 @@ vocetempo.it##.sponsor_home
 tokyo2020.coni.it##.sponsor_int
 hellaslive.it##.sponsor_widget
 italiachecambia.org,pharmacyscanner.it##.sponsored
+dailyonline.it##.sponsored-adv
 sportmediaset.mediaset.it##.sponsored-section
 unionesarda.it##.sponsored-teaser
 focus-online.it,parmacalcio1913.com##.sponsors
