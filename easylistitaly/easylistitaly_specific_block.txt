@@ -406,6 +406,7 @@
 ||lavocedelpopolo.it^*/banner_
 ||lavocedelpopolo.it^*/holyart_
 ||lavocedelpopolo.it^*_264x264_
+||lavocedilucca.it/images/banner_
 ||lavorincasa.it/product/$image
 ||lavoripubblici.it/banner/
 ||lavoroecarriere.it/wp-content/uploads/*/sm-banner.

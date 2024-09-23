@@ -551,6 +551,7 @@ edicoladigitale.info,fiscal-focus.it,superenalotto.com##.banner-top
 torresette.news##.banner-top-left
 torresette.news##.banner-top-right
 telegranducato.it##.banner-wrap
+lavocedilucca.it##.banner1
 gnoccaforum.biz##.banner250x250
 italia-informa.com##.banner250x250interno
 fotografidigitali.it,hwupgrade.it,tvtech.it##.banner300x250
@@ -1052,6 +1053,7 @@ leggopassword.it##.mh-header-2
 catanzaro7.net##.mh_magazine_youtube
 goodtrekking.it,paesidelgusto.it,piccolieviaggi.it,trueriders.it##.mha-slot-holder
 altoadige.it,giornaletrentino.it##.middle2
+lavocedilucca.it##.minwbanner
 tvdigitaldivide.it##.mioadv
 laprovinciadelsulcisiglesiente.com##.mkdf-header-banner-widget
 ilgiallorosso.eu##.ml-auto.py-2
