@@ -756,7 +756,7 @@
 /^https?:\/\/[0-9a-z]{8,}\.xyz\/.*/$script,third-party,xmlhttprequest,domain=altadefinizione01.lol|ilgeniodellostreaming.zone
 ! (/sw.js)
 /^https?:\/\/.*\/.*sw[0-9._].*/$script,domain=mrpornogratis.it|pornototale.com
-!
+!!
 ||datameteo.com^*/clickday.jpg
 ||datameteo.com^*/logo-scamuzzi.png
 ||datameteo.com^*/una-mano-per-i-bambini-onlus.png
