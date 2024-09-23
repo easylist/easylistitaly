@@ -3,6 +3,7 @@
 ||adkaora.space^$third-party
 ||adplay.it^$third-party
 ||affiliation.software^$third-party
+||broadbandy.net^$third-party
 ||brznetwork.com^$third-party
 ||btmarketing.it^$third-party
 ||delosnetwork.it^$third-party
