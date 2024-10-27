@@ -907,7 +907,7 @@ gestoricarburanti.it##.gesto-widget
 teleorte.it##.ghostkit-custom-1BB0B1
 italia-informa.com##.giapPageAdvCont
 estrazionedellotto.it##.giocaBox
-italiaoggi.it,mffashion.com,milanofinanza.it,money.it,panorama.it,rockit.it,salepepe.it,veritaeaffari.it,xiaomitoday.it##.gmp
+italiaoggi.it,meteolive.it,mffashion.com,milanofinanza.it,money.it,panorama.it,rockit.it,salepepe.it,veritaeaffari.it,xiaomitoday.it##.gmp
 laverita.info##.gmp-repeating-ads
 sentieriselvaggi.it##.google-banners
 dueruote.it##.googleAdvSticky
