@@ -923,6 +923,7 @@ sorrisi.com##.gtv-trigger-elevator
 cinqueterre5.com##.gyg-list
 vacanzeinamerica.eu##.gyg-static
 corrieredicarmagnola.it##.h-text4.h-text
+ricetta.it##.h728-up-home
 boatindustry.it,boatsnews.it,pescare.news##.habillage
 cuckold.it##.happy-header
 pornoitaliano.com##.happy-player-beside
