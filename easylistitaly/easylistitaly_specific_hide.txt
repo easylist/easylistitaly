@@ -721,7 +721,7 @@ diaconale.it##.bt_banner
 igds.pro##.btn-01
 igds.pro##.btn-02
 scaricarelibri.net##.button
-cb01.com.co,cb01.photography##.buttona_group
+altadefinizione.now,cb01.com.co,cb01.photography##.buttona_group
 libro.cafe##.buy
 screenweek.it##.buy-container
 frasicelebri.it##.buy-on-amazon
