@@ -479,10 +479,6 @@
 ||myvalley.it/wp-content/banners/
 ||napolicalcionews.it/images/Banner
 ||napolicittasolidale.it/portal/files/banner/
-||napolimagazine.biz^
-||napolimagazine.blob.core.windows.net/banner-
-||napolimagazine.blob.core.windows.net/skin-
-||napolimagazine.com/images/*/banner-
 ||narnionline.com/images2/banner/
 ||newlaw.it/banner/
 ||newtuscia.it/wp-content/uploads/*/banner-
