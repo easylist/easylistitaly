@@ -23,6 +23,7 @@
 ###eadv-in-content-3
 ###eadv-related
 ###rcsad_TopLeft_container
+###video-evo-mobile
 ###video-evo-player.player_evolution
 ###yobee-top-page
 ##.AlterVista_Banner
@@ -38,6 +39,8 @@
 ##.eadv-in-content
 ##.eadv-related
 ##.footer-adv
+##.gptslot
+##.gptslotvideo
 ##.live-adv-container
 ##.partial-static-adv
 ##.partial-sticky-adv
