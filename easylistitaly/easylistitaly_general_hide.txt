@@ -23,6 +23,7 @@
 ###eadv-in-content-3
 ###eadv-related
 ###rcsad_TopLeft_container
+###video-evo-desktop
 ###video-evo-mobile
 ###video-evo-player.player_evolution
 ###yobee-top-page
