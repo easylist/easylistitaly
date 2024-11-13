@@ -194,6 +194,7 @@
 ||corriereannunci.it/images/banners/
 ||corrieredellumbria.it/upload/addsense/
 ||corrierediarezzo.it/upload/addsense/
+||corrierediragusa.it/wp-content/uploads/*-skin-
 ||corrieredisaluzzo.it/cgi-bin/sponsor/
 ||corrieredisiena.it/upload/addsense/
 ||corriereelorino.it/wp-content/uploads/*/cover-corriere-expert.jpg
