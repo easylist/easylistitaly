@@ -33,10 +33,12 @@ catt.ch###advertising
 ilsussidiario.net###adwallpaper-container
 empresite.it,reteimprese.it###afscontainer1
 empresite.it,reteimprese.it###afscontainer2
+lospicchiodaglio.it###amazon_apa
 salernonotizie.net###amz
 notebookitalia.it###amznbi
 direttafacile.it###annuncidiv
 separarensilabas.com###antiBannersGigantes
+excellentmagazine.it###articolo_annunci_slider
 oggimilazzo.it###ascomparsa
 altarimini.it###attivitaEvidenza
 brocardi.it###background-head-spacer
@@ -178,6 +180,7 @@ radiomugello.it###header-banner-dx
 coniugazione.it###header_pub
 transfermarkt.it###home-rectangle-newsticker
 transfermarkt.it###home-rectangle-spotlight
+excellentmagazine.it###home_annunci_slider
 filmatipornohd.com###horizontal-banner
 ilfattoquotidiano.it###immo-330x350
 soldioggi.it###inarticle2
@@ -627,7 +630,7 @@ bagherianews.com,corriereannunci.it,corrierenews.it,corriereproposte.it,dedalomu
 oksiena.it##.bannerlaterale
 oksiena.it##.bannerpiccolilaterale
 facciabuco.com##.bannerpost
-assisisport.it,eurogirlescort.it,geronimo.news,localidautore.it,metalitalia.com,qualenergia.it,vivafm.it##.banners
+assisisport.it,eurogirlescort.it,geronimo.news,metalitalia.com,qualenergia.it,vivafm.it##.banners
 radiobussola.it,rpz.it##.bannerswidget
 trapanioggi.it##.bannertesto
 biancoebruno.it,oggimilazzo.it,vicenzanews.it##.bannertop
@@ -1875,18 +1878,11 @@ cellularitalia.com##table[width="300"] > tbody > tr > td[height="600"]
 archiportale.com##td[style="height:278px; background-color:#E8E8E6; cursor:pointer;position:relative;z-index:95;padding:40px 0 18px"]
 elbanotizie.it##td[style="width: 160px;"]
 acmilan.com##ul[class*="TopHeader__SponsorsSection-"]
-!
-skiinfo.it###Mid
-corriere.it###ads
+!!
 subito.it###after_listing
-unadonnasana.it###ai_widget-2
-unadonnasana.it###ai_widget-3
-localidautore.it###ajax-placeholder-header
-lospicchiodaglio.it###amazon_apa
 subito.it###apn_native_top_tag
 subito.it###apn_skin_tag
 subito.it###apn_top_tag
-excellentmagazine.it###articolo_annunci_slider
 10cose.it,arrivi-partenze.it,ilportalediibiza.it,lazionascosto.it,menevojoanna.it,nelfaro.it,romania.it,scorcidimondo.it,storiediverse.it,tuttobaviera.it,viaggieuropa.com###b_searchboxInc
 oroscopodioggi.net###ban_bg
 rimini.com###bann-top-dx
@@ -2013,7 +2009,7 @@ cronacheancona.it,cronachefermane.it,cronachemaceratesi.it,cronachepicene.it###i
 local.ch###js-banner
 tellows.it###lb_header
 hockeycortina.it###lcs_logo_carousel_wrapper
-areanapoli.it,dissacration.com,fiscaleweb.com,gingerandtomato.com,ilcinemaniaco.com,iochiamo.com,lussuosissimo.com,medicinalive.com,mondoreality.com,mrwebmaster.it,musickr.it,skiinfo.it###leaderboard
+areanapoli.it,dissacration.com,fiscaleweb.com,gingerandtomato.com,ilcinemaniaco.com,iochiamo.com,lussuosissimo.com,medicinalive.com,mondoreality.com,mrwebmaster.it,musickr.it###leaderboard
 altreconomia.it###leaderboard-top
 saperesalute.it###leaderboardBox
 casa.it###leaderboard_footer

@@ -30,7 +30,6 @@ _pubblicita.
 /ads-fissi/*
 /adv-300x300-
 /adv-mediumrectangle-
-/ADV-Quadrata_
 /adv/codice_
 /adv_s_pirchio.
 /advpirchio.
