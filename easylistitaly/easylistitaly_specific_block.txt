@@ -589,6 +589,7 @@
 ||recensionelibro.it/banner/
 ||reggioemiliameteo.it/files/banner/
 ||reggioemiliameteo.it/images/main-sponsor/
+||rimini.com/data/thumb_cache/_data_banner_
 ||romagnasport.com//public/banner/
 ||romagnasport.com/public/dim_banner/
 ||salernoinweb.it/o/sponsor/
@@ -919,7 +920,6 @@
 ||repubblica.it^*_contentsense_
 ||rete8.it^*/banner_
 ||ricettealvolo.it^*/Pressomassaggio-
-||rimini.com^*_banner_
 ||rimininews24.it^*/la-pulce-logo.png
 ||riskcompliance.it^*-1600x300px-
 ||riskcompliance.it^*/Fintech-Finance-2.jpg
