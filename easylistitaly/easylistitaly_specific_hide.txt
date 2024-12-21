@@ -62,6 +62,7 @@ larivieraonline.com,oggitreviso.it,sannicandro.org###banner-top
 canavesenews.it,courmayeurnews.it,torinonews24.it###banner-top-container
 cataniapubblica.tv,rid.it###banner1
 cataniapubblica.tv###banner2
+gayburg.com###banner300
 hdblog.it,hdmotori.it###banner3_300600
 viterbonews24.it###bannerFondo
 generacodice.com###bannerRight
@@ -175,6 +176,7 @@ cinqueterre5.com,gogoterme.com,incinqueterre.com,luoghidanonperdere.com###frm
 ilcittadinodirecanati.it###g-top
 mondoplay.it,mondoxbox.com###gameBlock_amazon
 mondoplay.it,mondoxbox.com###gameBlock_amazon_noboxart
+gayburg.com###gbnative
 cpop.it###goldrake-link
 it.advfn.com###google-ads-skin-wrapper
 orvietonews.it###gpt-passback
@@ -1896,7 +1898,6 @@ subito.it###after_listing
 subito.it###apn_native_top_tag
 subito.it###apn_skin_tag
 subito.it###apn_top_tag
-gayburg.com###banner300
 tusciaweb.eu###bannerFondo
 subito.it###banner_container
 subito.it###banner_leaderboard
