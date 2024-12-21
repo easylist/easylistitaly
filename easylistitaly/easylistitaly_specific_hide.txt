@@ -1530,6 +1530,7 @@ africaland.it##a[href="http://www.vale4x4.it"] > img
 mrpornogratis.it##a[href^="//plx.mrpornogratis.it/"]
 archiportale.com##a[href^="/click.asp?Url="]
 amalficoast.it##a[href^="/click.axd?"]
+localidautore.it##a[href^="/click2.axd?"]
 codedaze.me##a[href^="/go.php?"]
 estrazionedellotto.it##a[href^="/it/gioca/"]
 money.it##a[href^="http://go.money.it/"] > .w-32
