@@ -27,13 +27,6 @@
 ||advtraining.it/img/banner/
 ||advtraining.it/img/banner_
 ||affarienews.it/admin/public/banner/
-||affaritaliani.it/static/upl2018_restyle/taxi/taxi15.jpg
-||affaritaliani.it/static/upl2021/gif_/gif_cmo_blu.gif
-||affaritaliani.it^*/300x/
-||affaritaliani.it^*/bann/
-||affaritaliani.it^*/e23_/
-||affaritaliani.it^*/eni_/
-||affaritaliani.it^*_banner_
 ||aforismicitazioni.it/images/amazon-A.jpg
 ||aforismicitazioni.it/images/amazonBuy.png
 ||agarymathematics.net/img/banner760-90.gif
