@@ -91,6 +91,7 @@ salernonotizie.it###banner_testa
 radiovalbelluna.it###banner_top
 chiechiera.com###bannerdg
 oggimilazzo.it###bannerone
+frasimania.it,vivaparigi.com###bannerpop
 chiechiera.com###bannervira
 entella.it###barra_click_dx
 entella.it###barra_click_sx
@@ -573,7 +574,7 @@ universodelgioco.it##.banner-sky
 radioecovicentino.it##.banner-slider
 laragione.eu##.banner-sopra-correlati
 vienormali.it##.banner-testata
-edicoladigitale.info,fiscal-focus.it,superenalotto.com##.banner-top
+edicoladigitale.info,fiscal-focus.it,frasimania.it,superenalotto.com##.banner-top
 torresette.news##.banner-top-left
 torresette.news##.banner-top-right
 telegranducato.it##.banner-wrap
@@ -1475,7 +1476,6 @@ corrieregiallorosso.com,damasio.it,emotionrit.it,giornaledicalabria.it,ibizaa.it
 labusa.info##.widget_supercarousel_widget
 clientiesperti.it,computer-acquisti.com,corrieregiallorosso.com,domanidoveandiamo.it,filmforlife.org,finaria.it,fishingboatmagazine.it,giornalesm.com,gliacchiappafilm.it,grossetosport.com,ilpost.it,laprimapagina.it,noinotizie.it,pisa24.info,tusciatimes.eu##.widget_text
 motoexcape.com##.widget_w2dc_search_widget
-augustanews.it,avolanews.it,catanianews.it,ibleinews.it,leontinoinews.it,notonews.it,siracusanews.it##.widget_widget_necro
 mondobarcamarket.it##.widget_wpb_widget
 alqamah.it##.widget_xyz_insert_php_widget
 vicenzanews.it##.wifiplaza
@@ -1905,13 +1905,9 @@ subito.it###apn_skin_tag
 subito.it###apn_top_tag
 subito.it###banner_container
 subito.it###banner_leaderboard
-frasimania.it,staseratv.it,vivaparigi.com###bannerpop
-saperesalute.it###banners
-siracusanews.it###banners-top
 linguee.it###banners_right
 linguee.it###banners_top
 wuz.it###bigrectangle
-augustanews.it,avolanews.it,catanianews.it,ibleinews.it,notonews.it,pachinonews.it,siracusanews.it###billboard1
 travelstales.it###bl_html-8
 travelstales.it###bl_html-9
 liberliber.it###blocco_banner
@@ -2013,7 +2009,6 @@ tellows.it###lb_header
 hockeycortina.it###lcs_logo_carousel_wrapper
 areanapoli.it,dissacration.com,fiscaleweb.com,gingerandtomato.com,ilcinemaniaco.com,iochiamo.com,lussuosissimo.com,medicinalive.com,mondoreality.com,mrwebmaster.it,musickr.it###leaderboard
 altreconomia.it###leaderboard-top
-saperesalute.it###leaderboardBox
 casa.it###leaderboard_footer
 concorsi.it###leaderbord
 benessere.com###logo-bannerino
@@ -2206,7 +2201,6 @@ viversano.net##.banner-mid
 freeones.it##.banner-placeholder
 umbria24.it##.banner-show-desktop
 viversano.net##.banner-sidebar
-frasimania.it##.banner-top
 archiproducts.com,minigiochi.com##.banner-wrapper
 virtusverona.it##.banner1
 ilturista.info##.banner2
@@ -2302,7 +2296,6 @@ televisionando.it##.contBannDiv
 tuttiprezzi.it##.container.basso
 tiscali.it##.container_b_1
 esselungaacasa.it##.container_sponsored_product
-frasimania.it##.content-banner
 parlandodisport.it##.content-block-banner-2
 cookist.it,fanpage.it##.content-leaderboard
 lookdavip.tgcom24.it##.conteprodotto > a[target="_blank"]
