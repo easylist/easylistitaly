@@ -43,6 +43,7 @@ oggimilazzo.it###ascomparsa
 altarimini.it###attivitaEvidenza
 10cose.it,arrivi-partenze.it,ilportalediibiza.it,lazionascosto.it,menevojoanna.it,scorcidimondo.it,tuttobaviera.it###b_searchboxInc
 brocardi.it###background-head-spacer
+viterbonews24.it###backgroundPopup
 rimini.com###bann-top-dx
 daneel59.altervista.org,ilmioip.it,metanogpl.it###banner
 comicsbox.it###banner-300x250-cont
@@ -65,6 +66,7 @@ cataniapubblica.tv###banner2
 gayburg.com###banner300
 hdblog.it,hdmotori.it###banner3_300600
 tusciaweb.eu,viterbonews24.it###bannerFondo
+viterbonews24.it###bannerPopUp
 generacodice.com###bannerRight
 quice.it###bannerScheda
 edilportale.com###bannerTopWrapper
