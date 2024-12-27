@@ -675,6 +675,7 @@ gazzetta.it##.betting-point-table
 diretta.it##.bettingStrip
 azscore.co.it##.bettingTip__buttonsContainer
 bluerating.com,forbes.it##.bfc-ad-container
+medicitalia.it##.bg-adv
 bikeitalia.it##.bg-banner
 dueruote.it##.bg-publired
 vivoconbenessere.it##.bg.landscape
