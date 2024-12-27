@@ -263,6 +263,9 @@ rid.it###right-banners
 federgolf.it###rolex
 studio93.it###rotator1adLink
 odontoiatria33.it###rowHeader
+ecodisavona.it###ruby_0ba4fd8d
+ecodisavona.it###ruby_4dfe6c07
+ecodisavona.it###ruby_f8fff442
 studenti.it###scrolling_element
 sampdoria.it###section-b-sponsor
 zaffiromagazine.com###section-id-1582563950308
