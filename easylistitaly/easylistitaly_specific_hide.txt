@@ -413,7 +413,7 @@ whiteradio.it##.Sp
 napolimagazine.com##.TopLiveScore
 napolimagazine.com##.TopTestata
 camping.it##.XBPos
-anteprima24.it,araberara.it,assinews.it,centotrentuno.com,djmagitalia.com,dronezine.it,farevela.net,feelrouge.tv,fishingboatmagazine.it,giornaleibleo.it,ilfattonisseno.it,ilgolfonline.it,industriaitaliana.it,itacanotizie.it,labusa.info,lamescolanza.com,larionews.com,madoniepress.it,meteofinanza.com,monrealepress.it,newscatania.com,nordmilano24.it,radiocassinostereo.com,sicilia24h.it,vesuviolive.it,vivicentro.it##.a-single
+anteprima24.it,araberara.it,assinews.it,centotrentuno.com,corriereelorino.it,djmagitalia.com,dronezine.it,farevela.net,feelrouge.tv,fishingboatmagazine.it,giornaleibleo.it,ilfattonisseno.it,ilgolfonline.it,industriaitaliana.it,itacanotizie.it,labusa.info,lamescolanza.com,larionews.com,madoniepress.it,meteofinanza.com,monrealepress.it,newscatania.com,nordmilano24.it,radiocassinostereo.com,sicilia24h.it,vesuviolive.it,vivicentro.it##.a-single
 ispazio.net,siciliaonpress.com,sienafree.it,smartcentral.it,teslers.it##.a-wrap
 casa-domotica24.it,casinamia.com,dilei.it,fut18italia.it,gommeblog.it,maccanismi.it,mille-animali.com,monetizzando.it,orgoglionerd.it,reviewbox.it,salutemoderna.it,techbusiness.it,techprincess.it,thrillercafe.it,tivustream.com,tuttotek.it##.aawp
 selectra.net##.action-box
