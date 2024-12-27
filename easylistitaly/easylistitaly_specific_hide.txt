@@ -38,6 +38,7 @@ salernonotizie.net###amz
 notebookitalia.it###amznbi
 direttafacile.it###annuncidiv
 separarensilabas.com###antiBannersGigantes
+subito.it###apn_skin_tag
 excellentmagazine.it###articolo_annunci_slider
 oggimilazzo.it###ascomparsa
 altarimini.it###attivitaEvidenza
@@ -76,7 +77,7 @@ chiechiera.com,chiechiera.it,ondarock.it###banner_300x250
 chiechiera.com###banner_300x600
 finestresullarte.info###banner_8_div
 finestresullarte.info###banner_9_div
-teleboario.it###banner_container
+subito.it,teleboario.it###banner_container
 contosulconto.it###banner_content
 quizpatenteonline.it###banner_fix
 vocidicitta.it###banner_footer_728
@@ -346,6 +347,7 @@ betitaliaweb.it###text-6
 viaggioff.it###text-7
 betitaliaweb.it,metallus.it###text-9
 elaborare.com###text-html-widget-16
+subito.it###textlinks_wrapper
 umbriamagazine.com###thelink
 orvietosi.it###tirsena-banner
 onepiecepower.com###toCloseGADS
@@ -1600,6 +1602,7 @@ romaedintorninotizie.it##div[class*="romae-"]
 tmnotizie.com##div[class*="tmnot-"]
 vitacasalese.it##div[class*="vitac-"]
 zonalocale.it##div[class*="zonal-"]
+subito.it##div[class^="AdInfo_useful-links-wrapper_"]
 auto.it,corrieredellosport.it,tuttosport.com##div[class^="AdUnit_"]
 ilgiorno.it,ilrestodelcarlino.it,iltelegrafolivorno.it,lanazione.it,quotidiano.net##div[class^="Ad_"]
 subito.it##div[class^="AdsGAMPlacement_"]
@@ -1614,9 +1617,11 @@ ilgiorno.it,ilrestodelcarlino.it,iltelegrafolivorno.it,lanazione.it,quotidiano.n
 alimentando.info,horecanews.it,quotidianodellumbria.it,radioluce.it,radioradio.it,umbriasettegiorni.it,vendingnews.it,vitaincamper.it##div[class^="angwp_"]
 lavorincasa.it##div[class^="bn-"]
 cilentochannel.com##div[class^="cilen-"]
+subito.it##div[class^="loanbox-module_"]
 qdpnews.it##div[class^="qdpne-"]
 informazione.it##div[class^="r89-"]
 alqamah.it##div[class^="unit-zona-"]
+subito.it##div[class^="vehicle-history-section_"]
 lavorincasa.it##div[class^="wrapper-banner-"]
 unionesarda.it##div[data-name^="Banner SEC"]
 unionesarda.it##div[data-name^="RCS FRAME"]
@@ -1905,19 +1910,11 @@ archiportale.com##td[style="height:278px; background-color:#E8E8E6; cursor:point
 elbanotizie.it##td[style="width: 160px;"]
 acmilan.com##ul[class*="TopHeader__SponsorsSection-"]
 !!
-subito.it###after_listing
-subito.it###apn_native_top_tag
-subito.it###apn_skin_tag
-subito.it###apn_top_tag
-subito.it###banner_container
-subito.it###banner_leaderboard
 corriere.it###box-codici-sconto
-subito.it###box_agos
 masterviaggi.it###box_link_sponsor
 ricettedelmondo.it###box_pub2
 masterviaggi.it###box_sponsor
 pensieriparole.it###boxbelow
-subito.it###bs_textlinks
 foodbloggermania.it###categories-2
 offroadlifestyle.com###cc-m-12085211599
 offroadlifestyle.com###cc-m-12085214099
@@ -2026,7 +2023,6 @@ acprosesto.it###prefooter
 goaldiretta.it###pscroller1
 voce.it###publiredazionale
 tuttitalia.it###qh
-subito.it###reclame-native
 cosenostre-online.it###rev_slider_4_1_wrapper
 zerocinquantuno.it###rev_slider_4_2_wrapper
 cosenostre-online.it###rev_slider_4_5_wrapper
@@ -2073,7 +2069,6 @@ incucinaconelena.it,pitchinvasion.net###text-7
 brindisioggi.it,controcopertina.com,firstradioweb.com###text-8
 brindisioggi.it,controcopertina.com,nightlife-cityguide.com,pagamentidigitali.it###text-9
 agemobile.com###text-html-widget-4
-subito.it###textlinks_wrapper
 bellaumbria.net###title-search-all + #booking-search-all
 faidatecasa.com###tm-main-top
 popcorntv.it###top
@@ -2167,7 +2162,6 @@ germania.info##.article_buttons_end
 amsterdam.net,germania.info,scozia.net,spagna.info##.article_hotel_vicino
 giochinet.com##.ast-below-header
 supercoin.it##.atla-card-link
-subito.it##.autopromo
 uspistoiese1921.it##.av-partner-fake-img
 matrimoniosolidale.it##.b-invito-b
 lecalorie.it##.b_728
@@ -2249,7 +2243,6 @@ forum-wranglermania.com##.box-body > img
 donnesulweb.it##.box-top-widget
 montagna.tv##.box-tva
 oggi.it##.boxOpenx
-subito.it##.box_sponsor
 ricettedigusto.info##.boxslot
 giocareinborsa.com##.broker-table
 piazzasalento.it##.bsaProContainerNew
@@ -2695,8 +2688,6 @@ giochimahjong.it##.ympb_target_banner
 zingarate.com##.zg-malta
 consigli.it##.zio_
 ilmigliore.org##.ziobox
-subito.it##[class^="AdDescription_card-block-container_"]
-subito.it##[class^="AdInfo_useful-links-wrapper_"]
 alimentando.info##a[aria-label^="Banner"]
 manomano.it##a[class*="sponsoredProductCard"]
 blog.libero.it##a[href*=".clickbank.net/"]
