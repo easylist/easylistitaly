@@ -152,6 +152,7 @@ lacapitale.it###comp-lwetp9ib
 supereva.it,virgilio.it###cont-wallpaper
 ciociariaoggi.it,latinaoggi.eu###container-skin-top
 blablive.com###content_bonus
+corriere.it###cuponation_box
 parigi2024.coni.it###custom-sponsor-row
 meteogiornale.it,mmawiki.org###custom_html-2
 meteogiornale.it###custom_html-4
@@ -1915,7 +1916,6 @@ archiportale.com##td[style="height:278px; background-color:#E8E8E6; cursor:point
 elbanotizie.it##td[style="width: 160px;"]
 acmilan.com##ul[class*="TopHeader__SponsorsSection-"]
 !!
-corriere.it###box-codici-sconto
 masterviaggi.it###box_link_sponsor
 ricettedelmondo.it###box_pub2
 masterviaggi.it###box_sponsor
