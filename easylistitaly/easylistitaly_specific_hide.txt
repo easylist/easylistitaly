@@ -168,6 +168,8 @@ meteogiornale.it###custom_html-5
 radiocapri.it###custom_html-7
 gazzettadalba.it###custom_html-95
 salernonotizie.net###dd
+calendario-365.it###dish-top-desktop
+calendario-365.it###dish-top-mobile
 agriaffaires.it###display-mb
 tuttomercatoweb.com###div-masthead-top_lazy
 portaledelverde.it###divPopUp
@@ -1935,7 +1937,6 @@ sportcafe24.com,travelwithbrothers.com,tuttogossipnews.it###custom_html-5
 calciomercatonews.com,paladins.it,pentanewslivorno.it###custom_html-6
 pistoiasport.com###custom_html-7
 nerdando.com###custom_html-9
-calendario-365.it###dish-top-desktop
 nextpit.it###div-header
 nextpit.it###div-sidebar_right_extra
 clickcase.it###dvBoxDxBanner250x250
