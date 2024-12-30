@@ -39,6 +39,7 @@
 ##.eadv-bottom
 ##.eadv-in-content
 ##.eadv-related
+##.evolve-custom-header
 ##.footer-adv
 ##.gptslot
 ##.gptslotvideo
