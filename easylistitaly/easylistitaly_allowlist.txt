@@ -1,4 +1,5 @@
 @@||adbreak.ch/js/ext/adbreak.js?$script,domain=tio.ch
+@@||ads.talkscreativity.com/assets/publisher/$script,domain=corrierealpi.it|ilnordest.it|ilpiccolo.it|mattinopadova.it|messaggeroveneto.it|nuovavenezia.it|tribunatreviso.it
 @@||ads.viralize.tv/player/$xmlhttprequest,domain=automoto.it|ilquaderno.it|moto.it
 @@||ads.viralize.tv^|$script,domain=automoto.it|ilquaderno.it|moto.it
 @@||adswizz.com/adswizz/js/SynchroClient2.js?$domain=105.net|r101.it|radiomontecarlo.net|virginradio.it
