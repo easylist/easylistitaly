@@ -2852,7 +2852,6 @@ asroma24.com,ilmilanista.it,interistaweb.it##div[style="width:480px; height:72px
 calcissimo.com,firenzeviola.it,parmalive.com,sampdorianews.net,torinogranata.it,tuttoc.com,tuttonapoli.net,vocegiallorossa.it##div[style="width:728px; min-height: 90px;"]
 esportsweb.it,tuttocagliari.net##div[style="width:970px; height: auto; min-height: 250px; padding: 0 0 10px 0;"]
 milannews.it,politicanews.it##div[style="width:970px; min-height: 250px;"]
-gelocal.it##div[style^="width: 300px;height: 80px;border:"]
 conoscimilano.it,cybersecitalia.it,ecoseven.net,lagoleada.it,latelanera.com,radiogammastereo.it,ragionierieprevidenza.it,senzabarcode.it,sportavellino.it,tennismarche.net,terrazzofacile.it##img[width="300"][height="250"]
 tusciaweb.it##img[width="520"][height="100"]
 ilsoftware.it##section[id^="ADleaderboard"]
