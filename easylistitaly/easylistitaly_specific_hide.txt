@@ -175,6 +175,11 @@ tuttomercatoweb.com###div-masthead-top_lazy
 portaledelverde.it###divPopUp
 mymovies.it###div_topleft
 ecodicaserta.it###down
+clickcase.it###dvBoxDxBanner250x250
+clickcase.it###dvBoxDxSponsor1_250x100
+clickcase.it###dvBoxDxSponsor3_250x100
+clickcase.it###dvBoxSxBanner160x600
+clickcase.it###dvHeaderBanner
 sudnews.it###dx-banner
 gnoccatravels.com###escortadvisor-widget
 laquilablog.it###evidenza-adv
@@ -1937,10 +1942,6 @@ sportcafe24.com,travelwithbrothers.com,tuttogossipnews.it###custom_html-5
 calciomercatonews.com,paladins.it,pentanewslivorno.it###custom_html-6
 pistoiasport.com###custom_html-7
 nerdando.com###custom_html-9
-clickcase.it###dvBoxDxBanner250x250
-clickcase.it###dvBoxDxSponsor1_250x100
-clickcase.it###dvBoxDxSponsor3_250x100
-clickcase.it###dvBoxSxBanner160x600
 lastampa.it,repubblica.it###editorial-Middle1
 lastampa.it,repubblica.it###editorial-TopLeft
 forum-wranglermania.com###fa_ticker_container
