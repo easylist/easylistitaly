@@ -10,6 +10,7 @@
 ||bellicapelliforum.com^$domain=forumfree.it
 ||beruby.com/images/banner/
 ||bit.ly^$domain=manfredonianews.it
+||booking.autoeurope.com/?aff=$third-party
 ||booking.com^$subdocument,domain=circuitoturismo.it|domanidoveandiamo.it|ioamolasicilia.com|viaggiallafinedelmondo.it
 ||callister.it^$domain=armiusate.it
 ||campingsportmagenta.com/CamperOnline/$third-party
