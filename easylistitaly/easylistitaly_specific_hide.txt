@@ -105,6 +105,7 @@ bergamoesport.it,informazionefiscale.it###billboard
 augustanews.it,avolanews.it,catanianews.it,ibleinews.it,leontinoinews.it,notonews.it,pachinonews.it,sicilianews.it,siracusanews.it###billboard1
 metalgermania.it###black-studio-tinymce-2
 imusicfun.it###block-13
+sportcafe24.com###block-22
 monetizzando.it,techuniverse.it###block-30
 techuniverse.it###block-33
 techuniverse.it###block-34
@@ -1945,7 +1946,7 @@ acmilan.com##ul[class*="TopHeader__SponsorsSection-"]
 auguri.gratis,calciohellas.it,calciorosanero.it,card.it,ilgiornaledeimarinai.it,iopartodasola.it,sportnews.eu###custom_html-2
 calcioatalanta.it,calciofere.it,calciogrifo.it,calciolecce.it,forzaparma.it,labaricalcio.it,nonniavventura.it,quizlab.it,resetitaliablog.altervista.org,siamolaroma.it,sololalazio.it,tifocosenza.it,tifosipalermo.it,trapanigranata.it###custom_html-3
 calciocasteddu.it,cucinaresenzamenate.it,destinazioneusa.com,guidaconsumatore.com,laprevisione.it,pianetablunews.it,travelwithbrothers.com,tuttogossipnews.it###custom_html-4
-sportcafe24.com,travelwithbrothers.com,tuttogossipnews.it###custom_html-5
+travelwithbrothers.com,tuttogossipnews.it###custom_html-5
 termolionline.it###flyersHome
 fantamaster.it###fmstickybannercontainer
 lanostratv.it###footer-top-wrapper
