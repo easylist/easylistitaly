@@ -1174,6 +1174,7 @@ diretta.it##.oddsWrapper
 hdblog.it,hdmotori.it##.offer-icons
 spoletonline.com##.oldBanner
 guardaserie.marketing,guardaserie.okinawa##.opbtn
+acffiorentina.com##.our-partners
 guardaserie.marketing,guardaserie.okinawa##.overmsg
 radiociak.it,reportageonline.it,sslazionuoto.it##.owl-carousel
 boatindustry.it,boatsnews.it,pescare.news##.p
@@ -1551,8 +1552,7 @@ weboggi.it##.zen
 infooggi.it##.zero-margins.w-dyn-items.w-row
 3tre3.it##.zona_publi
 canale58.com##.zox-widget-ad
-acffiorentina.com,acmilan.com##[class^="Partners_"]
-acffiorentina.com##[class^="Sponsors_"]
+acmilan.com##[class^="Partners_"]
 svapo.it##[data-blockid="plugin_12_sodPhpWidget_hbkztw3dh"]
 unionesarda.it##[data-revive-zoneid]
 casertasette.com##[href^="banners.php?"]
