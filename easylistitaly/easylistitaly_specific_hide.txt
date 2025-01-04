@@ -758,6 +758,7 @@ cuneodice.it,genovadice.it,italiadice.it,torinodice.it##.bnr_rt_medio
 corriereirpinia.it##.body-link-padding
 azscore.co.it##.bonus-offers-container
 mercatini-natale.com,salernonotizie.net,turistadimestiere.com##.bookingaff
+fantamaster.it##.bookmakers-widget
 solovela.net##.bottmAdd
 piazzaffariweb.com##.bottom-banner
 centrometeoitaliano.it,popcorntv.it##.box-adv
