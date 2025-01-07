@@ -309,6 +309,7 @@
 ||goblins.net/files/images/banner/
 ||gratisfree.it/cgi-bin/bannergest$script
 ||greenews.info/wp-content/banners/
+||greenreport.it/images/banners/
 ||grp.it/assets/images/banners/
 ||gruppovideomedia.it/banners/
 ||guida-aziende-italiane.it/img/c015banner.jpg
