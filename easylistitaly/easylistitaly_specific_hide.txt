@@ -491,6 +491,7 @@ mtbcult.it##.ads-container
 bluewin.ch##.ads-group
 libero.it##.ads-iol
 ildolomiti.it##.adsB
+4yougratis.it##.adsVert
 corrieredellacalabria.it##.ads_corriere
 motorionline.com##.adsbox
 amalfinews.it,beatgogo.it,cetaranews.it,chistachiamando.it,ilportico.it,ilvescovado.it,occhisusalerno.it,positanonotizie.it,ravellonotizie.it,trova-aperto.it##.adsense
