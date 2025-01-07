@@ -509,7 +509,7 @@ lasicilia.it##.adv-intext-placeholder
 editorialedomani.it,lasicilia.it##.adv-placeholder
 arte.sky.it##.adv-section-side
 corrieredellumbria.it,corrierediarezzo.it,corrieredisiena.it##.adv-slideshow
-ansa.it,filastrocche.it##.adv-slot
+ansa.it,filastrocche.it,mammecreative.it##.adv-slot
 oggi.it##.adv-square
 stateofmind.it##.adv-top-fullpage
 quattroruote.it##.adv-wrap
