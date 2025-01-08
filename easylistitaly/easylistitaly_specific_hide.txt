@@ -1663,6 +1663,7 @@ botteega.it,ilcambiamento.it##a[href^="https://www.macrolibrarsi.it/"][href*="?p
 occhi.it##a[href^="https://www.museibassano.it/"]
 atalanta.it##a[href^="https://www.plus500.it/"]
 animeemanga.it,comingsoon.it,newtuscia.it,tivustream.com##a[href^="https://www.primevideo.com/"][href*="tag="]
+tuttoveneziasport.it##a[href^="https://www.sitiscommesse.com/"]
 gnoccatravels.com##a[onclick*="trackBanner('"]
 marathonworld.it##a[onclick^="BannerClick("]
 juzaphoto.com##a[onclick^="ajax_bannerclicks"]
