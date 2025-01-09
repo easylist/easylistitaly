@@ -353,6 +353,7 @@ canottaggio.org,divisionecalcioa5.it,emiliagol.it,radiogalileo.it###sponsor
 buonapesca.it###sponsor-bottom
 federcanoa.it###sponsor-bottom-wrapper
 paolociraci.it###sponsor-clima-160x160
+victorialibertas.it###sponsor-footer
 corrieredisaluzzo.it###sponsor_destra_testata
 corrieredisaluzzo.it###sponsor_popup
 corrieredisaluzzo.it###sponsor_sinistra_testata
@@ -1385,6 +1386,7 @@ cagliarilivemagazine.it##.sponsor-associati
 luinonotizie.it##.sponsor-background-big
 assoallenatori.it##.sponsor-container
 sscnapoli.it##.sponsor-footer
+victorialibertas.it##.sponsor-header
 luinonotizie.it##.sponsor-interna
 powerhockey.info##.sponsor-logo
 zebreparma.it##.sponsor-wrapper
@@ -1995,16 +1997,7 @@ elbanotizie.it##td[style="width: 160px;"]
 acmilan.com##ul[class*="TopHeader__SponsorsSection-"]
 !!
 radioshowitalia.it,reggina1914.it###sponsor
-victorialibertas.it###sponsor-footer
 calciopotenza.eu,casertanafc.it###sponsors
-magazinedelledonne.it###sticky1
-amoreperleserietv.com###supplementary
-geologi.it###table113
-chedonna.it###tdi_197_d09
-chedonna.it###tdi_201_2ff
-chedonna.it###tdi_70_667
-newnotizie.it###tdi_8_c64
-irlandaonline.com###text-1
 myfitnessmagazine.it,techboom.net###text-10
 brand-news.it,lol-esports.it,tuttoancona.com###text-11
 cioccolato.org,myfitnessmagazine.it,pantareinews.com###text-14
@@ -2465,7 +2458,6 @@ studiocataldi.it##.sopraarticolo20
 radiodiffusionepistoia.com##.spazio_banner
 bebeez.it,ilmonferrato.it,rendimentibtp.it,repubblica.it,stickmangames.altervista.org##.sponsor
 pallacanestrotrieste.it##.sponsor-carousel
-victorialibertas.it##.sponsor-header
 rittnerbuam.com##.sponsor-section
 classicipodcast.it##.sponsor-single
 milanbergamoairport.it##.sponsor-strip
@@ -2507,8 +2499,6 @@ varese7press.it##.td_uid_12_609028db5e06a_rand
 ilparmense.net##.td_uid_18_606dd7c7652fd_rand
 cronacadelveneto.com##.td_uid_25_6159d23837660_rand
 ilparmense.net##.td_uid_2_606dd7c74fb8e_rand
-chedonna.it##.tdi_115_a60
-chedonna.it##.tdi_115_ebb
 volleynews.it##.tdi_127
 volleynews.it##.tdi_131
 imiglioridififa.com##.tdi_134
@@ -2521,9 +2511,6 @@ runlovers.it##.tdi_357
 dituttounpop.it##.tdi_45
 vivitelese.it##.tdi_61
 vivitelese.it##.tdi_71
-chedonna.it##.tdi_71_064
-chedonna.it##.tdi_71_985
-chedonna.it##.tdi_71_e6c
 vivitelese.it##.tdi_72
 cronachedi.it##.tdi_82
 periodicodaily.com##.tdi_9
