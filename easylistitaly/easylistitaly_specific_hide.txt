@@ -385,7 +385,7 @@ cioccolato.org,esportsonline.it###text-14
 viaggiasenzapensieri.com###text-15
 soccermagazine.it###text-18
 adviceandcommerce.it,auguri.gratis,stranieriinitalia.it###text-2
-contusu.it###text-23
+contusu.it,vacanzeingrecia.eu###text-23
 vacanzeingrecia.eu###text-25
 ricettealvolo.it###text-29
 ingleseprecoce.it,stile.it###text-3
@@ -401,7 +401,7 @@ teleaesse.it###text-53
 theapplelounge.com###text-55
 betitaliaweb.it###text-6
 viaggioff.it###text-7
-betitaliaweb.it,metallus.it###text-9
+betitaliaweb.it,metallus.it,vacanzeingrecia.eu###text-9
 elaborare.com###text-html-widget-16
 subito.it###textlinks_wrapper
 umbriamagazine.com###thelink
