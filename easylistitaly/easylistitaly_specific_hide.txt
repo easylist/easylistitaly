@@ -303,6 +303,7 @@ voce.it###publiredazionale
 quizlab.it###ql-cpa
 calabriapost.net,laprovinciakr.it###responsive-banner-slider
 zerocinquantuno.it###rev_slider_4_2_wrapper
+cosenostre-online.it###rev_slider_6_3_wrapper
 ricettedalmondo.it###ricetta-box1
 ricettedalmondo.it###ricetta-box2
 rid.it###right-banners
@@ -1297,7 +1298,7 @@ microgiochi.com##.relacionados
 dday.it##.relevant.preview
 mobimart.it##.resp-container
 daninseries.it##.responsive-banner
-esperia.tv,zerocinquantuno.it##.revslider-initialised
+cosenostre-online.it,esperia.tv,zerocinquantuno.it##.revslider-initialised
 ladigetto.it##.right_sponsor
 ilroma.net##.rotating-banner
 corrierinocampaniasport.it##.rotor-items
