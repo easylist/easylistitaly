@@ -42,6 +42,7 @@
 ##.evolve-custom-header
 ##.footer-adv
 ##.gptslot
+##.gptslot-li
 ##.gptslotvideo
 ##.live-adv-container
 ##.partial-static-adv
