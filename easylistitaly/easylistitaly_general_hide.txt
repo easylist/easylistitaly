@@ -57,11 +57,14 @@
 ##.yb-floorad
 ##.yb-sticky
 ##.yobee-adv
+##a[href^="http://media.vincitu.it/C.ashx?"]
+##a[href^="https://ads.sisal.it/"]
 ##a[href^="https://adv.presscommtech.com/"]
 ##a[href^="https://book-of-ra-online.it/"]
 ##a[href^="https://campaigns.williamhill.it/C.ashx?"]
 ##a[href^="https://casinononaams.co"]
 ##a[href^="https://cloudvpn.to/link.php?id="]
+##a[href^="https://media.goldbetpartners.it/redirect.aspx?"]
 ##av-adv-slot
 ##div[class^="hbagency_space_"]
 ##div[class^="rtbuzz_"]
@@ -415,13 +418,11 @@
 ##a[href^="http://display.tracksafe.click/"]
 ##a[href^="http://edintorni.net/related/service/sponsor/redirect/?"]
 ##a[href^="http://labseo.ddns.net/"]
-##a[href^="http://media.vincitu.it/C.ashx?"]
 ##a[href^="http://native.publy.com/related/service/sponsor/redirect/?"]
 ##a[href^="http://tracking.performoney.it/"]
 ##a[href^="http://www.bet365.it/"][href*="?affiliate="]
 ##a[href^="http://www.sostariffe.it/tracker2.php?"]
 ##a[href^="https://4kmovies.online/download/"]
-##a[href^="https://ads.sisal.it/"]
 ##a[href^="https://adserver.html.it/"]
 ##a[href^="https://affiliate.across.it/"]
 ##a[href^="https://affiliati.gointernet.it/verify/"]
@@ -434,7 +435,6 @@
 ##a[href^="https://link.offerte2019.info/"]
 ##a[href^="https://link.offerte2019.space/"]
 ##a[href^="https://marketing.net.occhiali24.it/"]
-##a[href^="https://media.goldbetpartners.it/redirect.aspx?"]
 ##a[href^="https://mediaserver.bwinpartypartners.it/renderBanner.do?"]
 ##a[href^="https://n26-eu.c2nwa3.net/"]
 ##a[href^="https://offerte2019.space/"]
