@@ -851,6 +851,7 @@ gay.it##.compact-featured
 portaledelverde.it##.consigliaProd
 adnkronos.com##.cont-adv
 edilportale.com##.cont-leaderBoard
+settesere.it##.contBanner
 brindisisera.it##.cont_banner
 provinciagranda.it##.cont_banner_slide
 portoravennanews.com##.container-banner
