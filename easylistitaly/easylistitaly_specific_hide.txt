@@ -468,6 +468,7 @@ trentinovolley.it##.LogoTrentino
 orvietosi.it##.MS_custom_feed_reader
 iltquotidiano.it##.PaddingPubb
 iltquotidiano.it##.Posizione-Home-Grande
+immoscout24.ch##.ResultListPage_adStyle_SPs8t
 viterbonews24.it##.SepBanner
 theitaliantimes.it##.Side_DX
 iltquotidiano.it##.SkinMobile
