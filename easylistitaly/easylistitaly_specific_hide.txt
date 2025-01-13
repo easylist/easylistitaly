@@ -872,7 +872,7 @@ ascolicalcio1898.it##.cqcarousel-container
 ilmeteo.net##.creatividad
 crotoneok.it##.croto-widget
 infobuild.it,infobuildenergia.it##.cskin
-autoscout24.ch##.css-ljr5pl
+autoscout24.ch,motoscout24.ch##.css-ljr5pl
 corriere.ca##.ct-code-block
 mogliinmostra.it,tse-tse.it##.ctaiscriviti
 fitri.it##.custom-cont-banner
