@@ -707,7 +707,7 @@ velanet.it##.bannerarcipelago
 oksiena.it##.bannercentrale
 oksiena.it##.bannercentrale2
 gnoccaforum.biz,trovaescort.org##.bannercontainer
-105tv.it,aostaoggi.it,archivio.ilfriuliveneziagiulia.it,arezzo24.net,aziendabanca.it,biancoebruno.it,casertafocus.net,concorezzo.org,corriereincontri.it,cralistruzione.it,dichesegnosei.it,fcprovercelli.it,fiumicino-online.it,gazzettadellaspezia.com,gazzettadellemilia.it,genova3000.it,giornaledimontesilvano.com,greenreport.it,ilcervellone.it,ilcittadinodirecanati.it,ilgazzettinobr.it,ilgrigioneitaliano.ch,ilvimercate.org,informatissimo.net,lagazzettadilucca.it,lagazzettadimassaecarrara.it,lagazzettadiviareggio.net,metanogpl.it,monrealenews.it,notebookitalia.it,ondalibera.it,puntovendita.info,radiopnr.it,sportgrigiorosso.it,teleglobal.tv,telesirio.it,voceaigiovani.it,youtg.net,zaffiromagazine.com##.bannergroup
+105tv.it,aostaoggi.it,archivio.ilfriuliveneziagiulia.it,arezzo24.net,aziendabanca.it,biancoebruno.it,casertafocus.net,concorezzo.org,corriereincontri.it,cralistruzione.it,dichesegnosei.it,fcprovercelli.it,fiumicino-online.it,gazzettadellaspezia.com,gazzettadellemilia.it,genova3000.it,giornaledimontesilvano.com,greenreport.it,ilcervellone.it,ilcittadinodirecanati.it,ilgazzettinobr.it,ilgrigioneitaliano.ch,ilvimercate.org,informatissimo.net,lagazzettadelserchio.net,lagazzettadilucca.it,lagazzettadimassaecarrara.it,lagazzettadiviareggio.net,metanogpl.it,monrealenews.it,notebookitalia.it,ondalibera.it,puntovendita.info,radiopnr.it,sportgrigiorosso.it,teleglobal.tv,telesirio.it,voceaigiovani.it,youtg.net,zaffiromagazine.com##.bannergroup
 youtg.net##.bannergroupskinbanner
 filmforlife.org##.bannerh
 torinoaffari.it##.bannerimageright

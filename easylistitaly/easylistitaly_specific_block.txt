@@ -386,6 +386,7 @@
 ||lagazzetta.info/wp-content/uploads/banner/
 ||lagazzettaaugustana.it/wp-content/plugins/ruota-banner-widget/
 ||lagazzettadelmezzogiorno.it/upload/1682775693137.jpg
+||lagazzettadelserchio.net/images/banners/
 ||lagazzettadilucca.it/images/banners/
 ||lagazzettadimassaecarrara.it/images/banners/
 ||lagazzettadiviareggio.net/images/banners/
