@@ -1197,6 +1197,7 @@ macplas.it##.mp-banner
 boingtv.it,eurogamer.it##.mpu
 criptovalute.io##.mui-row.row.mui--text-center.mui--align-middle
 tutti.ch##.mui-style-17xiqz7
+anibis.ch##.mui-style-lwlc47
 tutti.ch##.mui-style-z954cu
 bergamoesport.it##.mv15 > .block > .fw
 bergamoesport.it##.mv15 > .fw
