@@ -45,7 +45,7 @@
 ||tdn.da-services.ch^
 ||venerota.it/lcn_jpg.php$third-party
 ||viaggiare.columbusassicurazioni.it^$third-party
-||viralize.tv/display/$script,domain=teleborsa.it
+||viralize.tv/display/$script,domain=lagazzettadiviareggio.it|teleborsa.it
 ||volantinopiu.com^$domain=paesenews.it
 ||widgetbay.3labs.it^$third-party
 ||widgets.skyscanner.net^$domain=thailandiapertutti.it
