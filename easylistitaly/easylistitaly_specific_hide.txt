@@ -1357,6 +1357,7 @@ filmporno.it##.sidebar-ads
 quotidianolacitta.it##.sidebar-banner
 estrazionedellotto.it##.sidebar-right
 sicurauto.it##.sidebar-sticky-top
+rtalive.it##.sidebarSlider
 fiorentinauno.com,tuttosporttaranto.com##.sidesponsors_wrapper
 cosedicasa.com##.sidespot-wrapper
 theflightclub.it##.single-bestseller
