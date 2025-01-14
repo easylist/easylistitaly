@@ -285,6 +285,7 @@
 ||freshplaza.it^*/b/
 ||freshplaza.it^*/banners/
 ||friuligol.it/js/allinone_bannerRotator.js
+||fruitbookmagazine.it/wp-content/uploads/*/SKIN_
 ||gamingtoday.it/wp-content/uploads/*/Banner-
 ||gardapost.it/wp-content/uploads/*/banner-
 ||garedepoca.com/grafica/banner_

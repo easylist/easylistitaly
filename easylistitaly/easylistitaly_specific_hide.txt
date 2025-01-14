@@ -516,6 +516,7 @@ antennafebea.it,brocardi.it,buildnews.it,casacinema.media,filmpertutti.boo,hdtro
 mtbcult.it##.ads-container
 bluewin.ch##.ads-group
 libero.it##.ads-iol
+fruitbookmagazine.it##.ads-irn
 ildolomiti.it##.adsB
 4yougratis.it##.adsVert
 corrieredellacalabria.it##.ads_corriere
