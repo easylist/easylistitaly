@@ -218,6 +218,7 @@ tuttoquiz.it###googleLAT2
 tuttoquiz.it###googleLINK
 tuttoquiz.it###googleTOP
 orvietonews.it###gpt-passback
+100ideeperristrutturare.it###hausme-widget
 operaclick.com###head-left-banner
 operaclick.com###head-right-banner
 ferrovie.it###head_r
