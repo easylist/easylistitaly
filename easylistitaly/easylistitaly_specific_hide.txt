@@ -1,3 +1,5 @@
+automobile.it###ADV_filter_1
+automobile.it###ADV_filter_2
 trend-online.com###CONT_D_1
 trend-online.com,youmath.it###CONT_T
 comprovendolibri.it###CVLR_banner_ADX
@@ -428,22 +430,30 @@ mareonline.it###toplogo2
 everyeye.it###topskin_clicktag
 hc-neumarkt.com###tr-contentbottom
 informazione-aziende.it###tr_publi
+filmporno.it,filmpornoitaliano.org,videopornohdstreaming.com###tracking-url
 stabiachannel.it###underLogoBanner
 stabiachannel.it###vertical-right-banner
 tipiace.it###vetrina
 sposa.it###vetrina-content
+rtalive.it###wdslider-5
 sscalciobari.it###wl-sponsor
 qds.it###wrap > div[style="min-height:110px"]
 animeclick.it###wrapper
 italia.fm###xbtm
 italia.fm###xttm
 calabrianews.it###yobee-top-page
+mangiobenevivobene.it###youtube_responsive-2
 iltquotidiano.it##.ADS
 iltquotidiano.it##.ADSDesktop
+automobile.it##.ADV300_250_600_Content
+automobile.it##.ADVBig_Content
+automobile.it##.ADVFLEX_250_Content
+automobile.it##.ADVParallax
+focusjunior.it##.ASponsor
 avvocatoandreani.it,ilmanifesto.it,mentelocale.it##.Adv
 fotonerd.it##.Amazon
 comprovendolibri.it##.BB14
-comolive.it,resegoneonline.it,valtellinanews.it##.Banner
+blackdevils.team,comolive.it,resegoneonline.it,valtellinanews.it##.Banner
 cinemaitaliano.info##.Banner01
 cinemaitaliano.info##.Banner430x45
 cinemaitaliano.info##.Banner970x250
@@ -453,6 +463,7 @@ orvietonews.it##.BannerFissodx
 atripaldanews.it##.BannerTop
 laleggepertutti.it##.BelowTitle
 edilportale.com##.BigSquare
+sportoutdoor24.it##.BoxAdv
 verovegan.com##.CMAC_AdChangerWidget
 viterbonews24.it,viterbooggi.eu##.CON-fascia-alto-banner
 napolimagazine.com##.CenterArticle
@@ -1045,6 +1056,7 @@ corrieredicarmagnola.it##.h-text4.h-text
 ricetta.it##.h728-up-home
 boatindustry.it,boatsnews.it,pescare.news##.habillage
 cuckold.it##.happy-header
+filmporno.it,filmpornoitaliano.org,pornoitaliano.com##.happy-inside-player
 pornoitaliano.com##.happy-player-beside
 pornoitaliano.com##.happy-section
 cuckold.it##.happy-sidebar
@@ -1241,10 +1253,12 @@ nostrofiglio.it##.par-listing-collab
 agrodolce.it##.partial-promobox
 broncos.it,crosspertutti.it,fc-suedtirol.com,hcpustertal.com,radiofly.cloud,ragusanews.com,telemiaplay.telemia.tv##.partner
 padovacalcio.it##.partner-img-logo
+100ideeperristrutturare.it,casa-naturale.com,quattrozampe.online,villeecasali.com##.partner-item-wrapper
 radio-gamma.it##.partner-news
 radiogardena.it##.partner-wrapper
 lifegate.it##.partnered
 fip.it,pallacanestrocantu.com,teatronaturale.it##.partners
+100ideeperristrutturare.it,casa-naturale.com,quattrozampe.online,villeecasali.com##.partners-wrapper
 dererker.it##.partvert
 dererker.it##.partvert-right
 augustanews.it,avolanews.it,catanianews.it,ibleinews.it,leontinoinews.it,notonews.it,pachinonews.it,sicilianews.it,siracusanews.it##.paszone_container
@@ -1337,6 +1351,7 @@ fishingboatmagazine.it##.shortcode-banner-inside
 guardaserie.marketing,guardaserie.okinawa##.show-download
 fattoincasadabenedetta.it##.side-adv-group
 assisieventi.it##.side_banners
+filmporno.it##.sidebar-ads
 quotidianolacitta.it##.sidebar-banner
 estrazionedellotto.it##.sidebar-right
 sicurauto.it##.sidebar-sticky-top
@@ -2008,22 +2023,6 @@ archiportale.com##td[style="height:278px; background-color:#E8E8E6; cursor:point
 elbanotizie.it##td[style="width: 160px;"]
 acmilan.com##ul[class*="TopHeader__SponsorsSection-"]
 !!
-filmporno.it,filmpornoitaliano.org,videopornohdstreaming.com###tracking-url
-carrefour.it###viewCategoryDesktopSubHPFood-middleSp-sponsored_products-0
-easyviaggio.com###wdds_po_middle
-rtalive.it###wdslider-5
-guidaviaggi.org###wn-insurance-quote-editor
-corriere.it###yoodeal
-corriere.it###yoodeal2
-mangiobenevivobene.it###youtube_responsive-2
-automobile.it##.ADVParallax
-informaquiz.it##.ADV_Video
-focusjunior.it##.ASponsor
-blackdevils.team,focusrisparmio.com##.Banner
-sportoutdoor24.it##.BoxAdv
-mentelocale.it##.PresentedBy
-100ideeperristrutturare.it,casa-naturale.com,quattrozampe.online,villeecasali.com##._ning_outer
-ilsole24ore.com##.a-leaderboard
 cookist.it##.aalb-pa-product-container
 gnius.it##.aalb-product-carousel-unit
 facileporno.com##.aan_fake
@@ -2206,7 +2205,6 @@ automoto.it,moto.it##.crm-unit-intxtdett
 automoto.it,moto.it##.crm-unit-mh
 techzilla.it##.css_offerte_ajax
 geekmag.it##.custom_html-16
-sportoutdoor24.it##.dazn_leaderboard
 robacinese.it##.deal_daywoo
 buonaporno.com##.default__interest-block
 economyup.it,techcompany360.it,trovit.it##.dfp
@@ -2225,7 +2223,6 @@ ilsalottodelcalcio.tv##.elementor-element-e5738ed
 tuttitalia.it##.eo
 filmone.it##.epcl-shortcode
 garganotv.com##.erzodfm-container
-easyviaggio.com##.esv-edito-ctn
 it.benzinga.com##.etoro-widget
 generationsport.it##.euotmcyxkq
 milleunadonna.it,tiscali.it##.fade-slides
@@ -2267,7 +2264,6 @@ mahjong.it##.giochi_h
 solitario.it##.gioco_public1
 3bmeteo.com##.gpt_top
 ricetta.it##.h728-up-home
-filmporno.it,pornoitaliano.com##.happy-inside-player
 comesifasefaidate.it,fantacalcio.it##.header-banner
 computersm.com##.header-top
 mammafelice.it##.headerright
@@ -2357,10 +2353,8 @@ milanocam.it##.overcam_advertising
 parmakids.it##.overheader-sidebar
 isoladicretavacanze.com,isoladiformentera.com,isoladifuerteventura.com,isoladiibiza.com,isoladilanzarote.com,isoladimaiorca.com,isoladimaltavacanze.com,isoladirodivacanze.com,listooo.com,mollaretutto.com,tierra.it,vacanzenelmediterraneo.com##.partner-banner
 bolognafc.it##.partner-footer
-100ideeperristrutturare.it,casa-naturale.com,quattrozampe.online,villeecasali.com##.partner-item-wrapper
 dolcidee.it,rtinradio.com,university-esports.it##.partners
 replytotem.com##.partners-carousel
-100ideeperristrutturare.it,casa-naturale.com,quattrozampe.online,villeecasali.com##.partners-wrapper
 infobuild.it##.partnersection
 coltivazionebiologica.it##.penci-header-signup-form
 pressmare.it##.pm-adv
@@ -2408,7 +2402,6 @@ milleunadonna.it,tiscali.it##.shp-2l-dx
 tiscali.it##.shp-2l-dx-v2
 tiscali.it##.shp-prd-ed-day
 tiscali.it##.shpCm
-filmporno.it##.sidebar-ads
 mitindo.it##.sidebar-right-bottomleft
 simonemaestri.com##.simone-grid-item
 iphoneitalia.com##.single-deals
@@ -2454,7 +2447,6 @@ livesicilia.it##.square-placeholder-container
 ebay.it##.srp-banner
 pmi.it,we-wealth.com##.sticky-banner
 leggo.it##.stickyAdv
-100ideeperristrutturare.it,bizjournal.it,casa-naturale.com,fruitbookmagazine.it,quattrozampe.online,radiomovida.net,villeecasali.com##.strack_cli
 corriereadriatico.it,ilgazzettino.it,ilmattino.it,ilmessaggero.it,leggo.it,quotidianodipuglia.it##.strip-autopromo
 corriereadriatico.it,ilgazzettino.it,ilmattino.it,ilmessaggero.it,leggo.it,quotidianodipuglia.it##.strip-guidalloshopping
 noisiamofuturo.it##.stripe

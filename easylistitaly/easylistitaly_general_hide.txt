@@ -71,8 +71,6 @@
 ##div[class^="rtbuzz_"]
 ##div[id^="rtbuzz_"]
 !
-###ADV_filter_1
-###ADV_filter_2
 ###ADV_leaderboard_atf
 ###ADVrettangolo
 ###ADVrettangolopiede
@@ -191,9 +189,6 @@
 ###syTagContainer
 ###tccAdPlayer
 ###top3-pubbli
-##.ADV300_250_600_Content
-##.ADVBig_Content
-##.ADVFLEX_250_Content
 ##.Banner_VideoAd_Interno
 ##.Pubblicita
 ##.ab-box-adv-cn
