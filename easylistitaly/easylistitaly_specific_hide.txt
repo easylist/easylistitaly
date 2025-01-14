@@ -789,6 +789,7 @@ cuneodice.it,genovadice.it,italiadice.it,torinodice.it##.bnr_300_600
 cuneodice.it,genovadice.it,italiadice.it,torinodice.it##.bnr_rt_medio
 corriereirpinia.it##.body-link-padding
 azscore.co.it##.bonus-offers-container
+ilsole24ore.com##.booki-link
 mercatini-natale.com,salernonotizie.net,turistadimestiere.com##.bookingaff
 fantamaster.it##.bookmakers-widget
 solovela.net##.bottmAdd
