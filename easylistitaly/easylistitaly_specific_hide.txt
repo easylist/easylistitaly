@@ -230,6 +230,8 @@ radiomugello.it###header-banner-dx
 ilfoggia.com###header-text-nav-wrap
 coniugazione.it###header_pub
 blog.ilgiornale.it###headerleader
+gli-sport.info###hit-hd-top
+gli-sport.info###hit-sid-top
 vivinewyork.com###hm-rsp-txt-desk
 agriturismo.it###home-banner
 transfermarkt.it###home-rectangle-newsticker
