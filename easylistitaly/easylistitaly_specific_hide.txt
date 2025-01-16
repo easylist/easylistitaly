@@ -1083,6 +1083,7 @@ startmag.it##.headofpage
 internazionale.it##.hentry--banner
 vocedistrada.it##.hh-cubo-wrap
 vocedistrada.it##.hh-sponsor-wrap
+facileporno.com##.hidden-under-920
 valseriananews.it##.hidden-xs[style="height:600px;"]
 legaseriea.it##.hm-banner
 legaseriea.it##.hm-sponsor-footer
