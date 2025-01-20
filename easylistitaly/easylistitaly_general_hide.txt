@@ -26,6 +26,7 @@
 ###video-evo-desktop
 ###video-evo-mobile
 ###video-evo-player.player_evolution
+###video-mh-mob.player_evolution
 ###yobee-top-page
 ##.AlterVista_Banner
 ##.AlterVista_GoogleAdsense
