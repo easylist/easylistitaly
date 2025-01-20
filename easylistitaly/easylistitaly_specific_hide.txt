@@ -180,6 +180,7 @@ agriaffaires.it###display-mb
 tuttomercatoweb.com###div-masthead-top_lazy
 portaledelverde.it###divPopUp
 mymovies.it###div_topleft
+tiscali.it###dotnAd-970x120-strip
 ecodicaserta.it###down
 clickcase.it###dvBoxDxBanner250x250
 clickcase.it###dvBoxDxSponsor1_250x100
