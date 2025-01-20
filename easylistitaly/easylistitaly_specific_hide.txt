@@ -1195,7 +1195,7 @@ corrieredellumbria.it,corrierediarezzo.it,corrieredisiena.it##.manchettes
 ilcarmagnolese.it##.manchettesxd
 24emilia.com##.marquee0
 everyeye.it##.masted
-corsedimoto.com,lacasadic.com,meteolive.it,romanews.eu,seried24.com,zon.it##.masthead-block
+corsedimoto.com,lacasadic.com,meteolive.it,passioneinter.com,romanews.eu,seried24.com,zon.it##.masthead-block
 matematicamente.it##.masthead-wrapper
 dueruote.it##.masthead_cont
 automoto.it,moto.it##.mawrap
@@ -1881,6 +1881,7 @@ manduriaoggi.it##div[style="background-color:#FFF; border:#FC0 1px solid; paddin
 lacasadic.com,seried24.com##div[style="height: 600px"]
 repubblica.it##div[style="height:300px; clear:both;"]
 corsedimoto.com,zon.it##div[style="height:600px"]
+passioneinter.com##div[style="height:660px"]
 live-sport-tv.it##div[style="margin-bottom:5px;width:300px;height:250px !important"]
 convertire-documenti.it##div[style="margin-top:10px;min-height:250px"]
 forum.tomshw.it##div[style="margin: 1rem 0; width:100%; display: flex"]
@@ -1892,6 +1893,7 @@ cani.com##div[style="min-height: 300px;"]
 vastoweb.com##div[style="min-height: 90px"]
 tvzap.it##div[style="min-height:115px;"]
 laleggepertutti.it##div[style="min-height:250px"]
+passioneinter.com##div[style="min-height:300px; margin-top:1em; margin-bottom:1em"]
 epertutti.com##div[style="overflow:auto; width:100%; height:300px; box-sizing: border-box; display: block;"]
 epertutti.com##div[style="overflow:auto; width:480px; height:360px; box-sizing: border-box; display: block;"]
 calciofoggia1920.net##div[style="padding-right:16px; padding-top:5px; float:right; height:60px"]
@@ -1906,6 +1908,7 @@ thegamesmachine.it##div[style="width:970px;height:250px;margin: 0 auto 5px;"]
 torresette.news##div[style^="height: 250px !important;"]
 fritzbox-forum.com##div[style^="height: 90px; position:relative; max-height: 90px; min-width: 728px;"]
 latin.it##div[style^="height:250px;"]
+passioneinter.com##div[style^="height:630px"]
 iltempo.it##div[style^="height:90px; width:728px;"]
 ilgiorno.it,ilrestodelcarlino.it,iltelegrafolivorno.it,lanazione.it,quotidiano.net##div[style^="min-height: 250px;"]
 voglioviverecosi.com##div[style^="min-height: 90px;"]
