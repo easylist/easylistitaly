@@ -931,6 +931,7 @@ inbici.net,padovagoal.it,specchiosesto.it,strill.it,vivaboy.com##.e3lan
 cronachedibirra.it##.e3lan125
 euractiv.it##.ea-gat-slot-wrapper
 bergamonews.it##.edinews_widget_post_from_terms
+pc-gaming.it##.egg-container
 rovigo.news##.elementor-element-0429c68
 liratv.it##.elementor-element-078a7b4
 nuoto.com##.elementor-element-0afd1bc
