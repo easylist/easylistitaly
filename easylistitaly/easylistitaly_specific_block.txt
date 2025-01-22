@@ -1010,7 +1010,6 @@
 ||tuttostoria.net/images/storiadoc-animato.gif
 ||tuttotone.app/assets/img/banner/
 ||tuttozampe.com^*/Premium_
-||tv1.it/images/banner/
 ||tvsei.it^*/uisp
 ||uberti.eu^*/guide/
 ||ubud.it^*/81i7FcioR-L-659x1024.jpg
@@ -1026,7 +1025,6 @@
 ||unitremilano.it^*/compro-rame-
 ||unitremilano.it^*/Wall-Specialist-
 ||universoinformatico24.it^*/banner-
-||unotvweb.it^*/banners/
 ||urbanfile.org^*/banner-
 ||usavellino1912.com^*/cosmopol-
 ||usavellino1912.com^*/cropped-LOGO-PTV-

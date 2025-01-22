@@ -35,6 +35,7 @@
 ##.adunit-mark
 ##.adv-gptslot
 ##.banner-adv
+##.banner_pubblicita
 ##.box_adv_cliccaofferta
 ##.eadv-aside
 ##.eadv-bottom
@@ -271,7 +272,6 @@
 ##.bannerPubblicita
 ##.bannerPubblicitaOrizz
 ##.banner_300x250_read
-##.banner_pubblicita
 ##.barraSipra
 ##.bck-adv-sponsor
 ##.bk-adv
@@ -372,7 +372,6 @@
 ##.sidebar-adv
 ##.sidebar-item-adv
 ##.sidebar__adv
-##.single-adv
 ##.sito-adv-sopra-main
 ##.slot-adv
 ##.sponsor160x600Dx
