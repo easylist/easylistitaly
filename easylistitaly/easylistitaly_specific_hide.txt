@@ -972,6 +972,7 @@ lostrillonenews.it##.elementor-element-1b7cba81
 nuoto.com##.elementor-element-1f1e93f
 nuoto.com##.elementor-element-21eec18
 vendingpress.it##.elementor-element-2267f46
+seguonews.com##.elementor-element-2b63c83
 teletruria.it##.elementor-element-3182b78
 lostrillonenews.it##.elementor-element-36b79523
 tele8tv.it##.elementor-element-3861025
