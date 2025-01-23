@@ -346,6 +346,7 @@ algheronotizie.com,comunicati-stampa.net,finestresullarte.info,freeonline.org,pi
 balarm.it,gamereactor.it###sky
 gamereactor.it###sky2_1
 gamereactor.it###sky2_2
+milleunadonna.it###sky_fluid
 settesere.it###slideBannerTop
 mail1.libero.it###slink-dx
 mail1.libero.it###slink-sx
@@ -1229,6 +1230,7 @@ corrieredellumbria.it,corrierediarezzo.it,corrieredisiena.it##.manchettes
 ilcarmagnolese.it##.manchettesxd
 24emilia.com##.marquee0
 everyeye.it##.masted
+milleunadonna.it##.masthead
 corsedimoto.com,lacasadic.com,meteolive.it,passioneinter.com,romanews.eu,seried24.com,zon.it##.masthead-block
 matematicamente.it##.masthead-wrapper
 dueruote.it##.masthead_cont
