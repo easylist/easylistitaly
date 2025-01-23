@@ -1509,7 +1509,7 @@ sempionenews.it##.sticky-posts__redazionali
 prezzisalute.com##.stickyleft
 laziorugby.it##.stm-image-carousel
 cb01.in##.story-cover-bb
-cblive.it,dragonballforever.it,gazzettadellavaldagri.it,giornalenordest.it,ilgolfo24.it,ilmoderatore.it,inter-news.it,iocaccio.it,metropolitanmagazine.it,mole24.it,occhionotizie.it,ok-salute.it,quotidianodibari.it,unaparolaperte.org,vicenzareport.it##.stream-item
+cblive.it,dragonballforever.it,gazzettadellavaldagri.it,giornalenordest.it,ilgolfo24.it,ilmoderatore.it,inter-news.it,iocaccio.it,metropolitanmagazine.it,mole24.it,occhionotizie.it,ok-salute.it,quotidianodibari.it,unaparolaperte.org,vicenzareport.it,viversano.net##.stream-item
 cblive.it,ilgolfo24.it,ilmoderatore.it,iocaccio.it,quotidianodifoggia.it##.stream-item-widget
 filmtv.it##.streaming
 motori.it##.strip_agos_link
