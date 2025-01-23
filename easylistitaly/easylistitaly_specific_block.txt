@@ -210,6 +210,7 @@
 ||cuneocronaca.it/img/banner/
 ||cuneocronaca.it/js/clickBanner.js
 ||cusio24.it/images/banner/
+||dailybet.it/banner_
 ||dailybet.it/immagini/banner/
 ||dailynautica.com/wp-content/uploads/*_enewsBannerSkin_
 ||darkveins.com/wp-content/uploads/*/lhorror.jpg
