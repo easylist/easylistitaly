@@ -132,6 +132,7 @@ doppiozero.com###block-views-block-banner-inserzionisti-block-banner-box-inser
 doppiozero.com###block-views-block-banner-inserzionisti-block-banner-box-inserz-2
 doppiozero.com###block-views-block-banner-inserzionisti-block-banner-box-inserzionisti
 ecodelchisone.it###block-views-homepage-block-sponsored
+ilformat.info###bn-header
 beneventonews24.it###bnnews-skinned
 maiescort.com###bnrf
 maiescort.com###bnrt
@@ -817,6 +818,7 @@ html.it,telefonino.net##.blz-url
 punto-informatico.it,webnews.it##.blz_button
 punto-informatico.it##.bm-code
 azscore.co.it##.bn
+ilformat.info##.bn-loop
 abcsalute.it##.bnner_container
 radioalex.it##.bnnr_top
 meteovalmorea.it##.bnr-row
