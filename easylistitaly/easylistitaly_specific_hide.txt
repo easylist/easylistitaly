@@ -721,6 +721,8 @@ ravennaeventi.net##.bannerSide
 opinione.it##.bannerSidebar
 adcgroup.it,bikerslife.com,edilportale.com,globalgeografia.com,lacronacadiravenna.it##.bannerTop
 woitalia.it##.banner_200
+cosafarei.it##.banner__desktop
+cosafarei.it##.banner__mobile
 professionemotori.it##.banner_after_feat
 laleggepertutti.it##.banner_article
 lafune.eu##.banner_articolo
