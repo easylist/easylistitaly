@@ -419,6 +419,8 @@ betitaliaweb.it###text-6
 viaggioff.it###text-7
 betitaliaweb.it,metallus.it,vacanzeingrecia.eu###text-9
 elaborare.com###text-html-widget-16
+tuttoesselunga.com###text-html-widget-24
+tuttoesselunga.com###text-html-widget-25
 subito.it###textlinks_wrapper
 umbriamagazine.com###thelink
 orvietosi.it###tirsena-banner
@@ -987,7 +989,7 @@ theitaliantimes.it##.dx
 finestresullarte.info##.dx250
 pisanews.net##.e-swiper-container
 basilicatanotizie.net##.e-widget-swiper
-inbici.net,padovagoal.it,specchiosesto.it,strill.it,vivaboy.com##.e3lan
+inbici.net,padovagoal.it,specchiosesto.it,strill.it,tuttoesselunga.com,vivaboy.com##.e3lan
 cronachedibirra.it##.e3lan125
 euractiv.it##.ea-gat-slot-wrapper
 bergamonews.it##.edinews_widget_post_from_terms
