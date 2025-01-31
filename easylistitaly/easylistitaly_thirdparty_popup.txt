@@ -4,7 +4,6 @@
 ||betclic.it/partner.aspx?$popup
 ||betway.it/bwp/$popup,third-party
 ||campaigns.williamhill.it^$popup,third-party
-||carte-regalo-per-te.com^$popup
 ||codere.it/promoRedirect?$popup,third-party
 ||edreams.it/?affiliate=$popup
 ||goldbetpartners.it/redirect.aspx?$popup,third-party
@@ -29,5 +28,4 @@
 ||tracking.style24.it^$popup
 ||tracking.tuobenessere.it^$popup
 ||tracking.viaggiamo.it^$popup
-||vialedelconsumo.com^$popup
 ||vincitu.it/C.ashx?$popup,third-party

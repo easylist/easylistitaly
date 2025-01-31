@@ -59,7 +59,6 @@
 ||ad.jamba.it^
 ||ad.missena.io^
 ||adagiobanner.s3.amazonaws.com^
-||addioartrite.com/banner/$third-party
 ||adverum.it/banners/
 ||affiliati.bet2bet.it^
 ||affiliation.majeeko.com^$third-party
@@ -76,13 +75,12 @@
 ||bazarcoupon.com/images/$third-party
 ||blogspot.com^$image,domain=blog.libero.it|newscronaca.myblog.it
 ||book.terravision.eu^$domain=mylondra.it
-||booking.com^$subdocument,domain=canturino.com|cosafarea.it|cosafarei.it|cosavederemadrid.it|costieraamalfitana.com|fortementein.com|guida-polinesia.com|guidaviaggi.org|guide-europe.info|immaginaviaggiare.it|iopartodasola.it|irenedisumma.com|italiasearch.it|italy.biella.it|italy.catania.it|italy.firenze.it|italy.grosseto.it|italy.milano.it|italy.novara.it|italy.vicenza.it|machupicchuperu.it|maremma.name|milleunadonna.it|monacodibaviera.org|napolike.it|nonchiamatemiturista.it|nonniavventura.it|notizie.tiscali.it|oktoberfest-monaco.it|panannablogdiviaggi.com|positivitrip.com|quattroruote.it|scorcidimondo.it|sport.tiscali.it|taj-mahal.it|tipintravel.com|travelstales.it|travelwithbrothers.com|tuttobaviera.it|vadoingiappone.it|viacolviaggio.it|viaggi-lowcost.info|viaggi-nel-tempo.com|viaggiadipiu.it|viaggiascrittori.com|viaggieuropa.com|vocedelverbopartire.com
+||booking.com^$subdocument,domain=canturino.com|cosafarea.it|cosafarei.it|cosavederemadrid.it|costieraamalfitana.com|fortementein.com|guida-polinesia.com|guidaviaggi.org|guide-europe.info|immaginaviaggiare.it|irenedisumma.com|italiasearch.it|italy.biella.it|italy.catania.it|italy.firenze.it|italy.grosseto.it|italy.milano.it|italy.novara.it|italy.vicenza.it|machupicchuperu.it|maremma.name|milleunadonna.it|monacodibaviera.org|napolike.it|nonchiamatemiturista.it|nonniavventura.it|notizie.tiscali.it|oktoberfest-monaco.it|panannablogdiviaggi.com|positivitrip.com|quattroruote.it|scorcidimondo.it|sport.tiscali.it|taj-mahal.it|tipintravel.com|travelstales.it|tuttobaviera.it|vadoingiappone.it|viacolviaggio.it|viaggi-lowcost.info|viaggi-nel-tempo.com|viaggiadipiu.it|viaggiascrittori.com|viaggieuropa.com|vocedelverbopartire.com
 ||campeggi.com/img/takeover/
 ||careerjet.it/partners/
 ||cartomanzia.it/dimmi.gif
 ||casadivita.despar.it^$third-party
 ||cdn-immedia.net/banner/
-||cdn.adultsadv.com^
 ||cdn.plus500.com/media/banners/
 ||cheautocompro.it/widget-$third-party
 ||ciaotour.com/it/client/hotels/inline.htm?*&promo=$subdocument
@@ -103,7 +101,6 @@
 ||digitalwebbusiness.com^*/banners.$third-party
 ||djsoldi.com^$image,third-party
 ||djsuonerie.it/pic/$third-party
-||dodiblog.it/banner_diretti/
 ||dohop.com/widget/$third-party
 ||doyoogo.com/build/widgetDOM.js$third-party
 ||duke.it/images/banners/
@@ -113,7 +110,6 @@
 ||emotiko.com^*/banners/
 ||enoleggioauto.it/affiliatexmlstylesheets/
 ||entiredigital.com^*/yb-$script
-||eurocqs.it/iframe/$third-party
 ||eurostream.link/js/pub.min.js
 ||evaneos.it/widget/$third-party
 ||expoitalyadv.it^$image,third-party
@@ -131,13 +127,10 @@
 ||graficadivina.it/grafica-divina.jpg
 ||gratislandia.net/banners/
 ||groupon.it/content-assembly/render/$subdocument,third-party
-||guugol.it^*/banner/
-||hackerzone.click/banner/
 ||hdpass.click/images/fake-player/
 ||hrs.de/wizard.aspx?
 ||iads.iltrovatore.it^
 ||ilgiardinodeilibri.it/data/banner_partner/
-||ilpelonelluovo.net/banner/
 ||iltelaiodipenelope.it/banner_exchange/
 ||immobiliagest.it^$subdocument,third-party
 ||immobiliare.it/widget/$third-party
@@ -181,7 +174,6 @@
 ||nohup.it^*_110x40_
 ||offerte.buste.net^$third-party
 ||oro24ksrl.it/widget/$third-party
-||overlays.fr/js/launcher.js
 ||percorsidigitali.com/consulting300.gif
 ||pezzotto.net/banners/
 ||pictures.glashuette-original.com^$domain=orologidiclasse.com
@@ -222,7 +214,6 @@
 ||sk1.it/images/banners/
 ||sk1.it/images/promo/
 ||slotmachinesgratisonline.com/image/$third-party
-||smscellulari.it/pic/banner/$third-party
 ||sonnige-aussichten.ch/_img/ad/$third-party
 ||sostariffe.it/sosWidget3/$third-party
 ||spox.com/daznpic/$third-party
@@ -244,7 +235,6 @@
 ||tophost.it/banners/
 ||trilud.com/highlight_300X280.php?
 ||trivago.it/external_rpc.php?
-||tuoporno.com/images/banner/
 ||tuttogratis.it/hl_mfa/DXLARGE_v7num.php?
 ||unifiedads.magellanotech.it^
 ||upcom.it^*/banner/

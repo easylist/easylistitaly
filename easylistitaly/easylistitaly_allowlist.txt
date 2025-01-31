@@ -37,7 +37,6 @@
 @@||ads.viralize.tv/player/$third-party,xmlhttprequest,domain=quotidiano.net
 @@||adsafeprotected.com/vans-adapter-google-ima.js$script,domain=corrieredellosport.it|tuttosport.com
 @@||adserver.adtech.de/addyn/3.0/1183/3769607/0/170/ADTECH;$script,domain=gioco.it
-@@||adultsadv.com/etero/random730_90.php$domain=mrjizz.com|pornotubo.it
 @@||ansa.it^*/ad-gallery/$image
 @@||antonioranesi.it/cache/Lavori/Pubblicita/$~third-party
 @@||api.everli.com/sm/api/*&adgroupid=$~third-party,xmlhttprequest

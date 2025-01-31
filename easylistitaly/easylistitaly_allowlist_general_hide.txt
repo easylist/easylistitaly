@@ -6,12 +6,9 @@ unionesarda.it#@#.topAds
 !
 corrierediragusa.it#@##pubblicita
 direttasicilia.it#@#.ad-header
-bakeca-incontri.net#@#.ad_bottom
-bakeca-incontri.net#@#.ad_center
 subito.it#@#.ad_links
 newscrawler.it#@#.ad_wrapper
 subito.it#@#.adcont
-bakeca-incontri.net#@#.adtitle
 altervista.org#@#.adv_esterno
 questaseratv.it#@#.channelBoxAds
 questaseratv.it#@#.gptslot

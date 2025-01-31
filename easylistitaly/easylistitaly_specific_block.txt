@@ -118,7 +118,6 @@
 ||bierredue.it/estensione.gif
 ||bierredue.it/images/450x75.jpg
 ||bikerslife.com/contenuti/banners/
-||bitquotidiano.it/wp-content/uploads/*/monteleone-
 ||blogsicilia.it/wp-content/uploads/sites/*/banner-300x100-
 ||bn.radiogold.it^
 ||bolina.it/banners/
@@ -377,7 +376,6 @@
 ||italiavela.it/banner/
 ||italpress.com/wp-content/uploads/*/SKIN_
 ||italpress.com/wp-content/uploads/2021/03/intesa-logo.png
-||ivanzazzaroni.it/wp-content/uploads/*/Lardini_banner300x600.jpg
 ||juventus.com^*/sponsors/
 ||katablog.it/images/e-commerce-carrello.jpg
 ||kimchiebasilico.it/wp-content/uploads/*/Spring21_PNG2.jpg
@@ -406,7 +404,6 @@
 ||laprovinciacr.it/upload/1693477452631.jpg
 ||laprovinciakr.it/modules/mod_responsivebannerslider/
 ||laragione.eu/wp-content/themes/yootheme/cache/*/banner-
-||larivieraonline.com/sites/default/files/banner/
 ||lasiritide.it/public/sponsor/
 ||lausc.it/images/banners/
 ||lavocedelpalio.it/uploads/banner/
@@ -762,7 +759,7 @@
 ||zonalotto.it/banner_
 ||zonalotto.it/banner_zl/
 !
-/^https?:\/\/[0-9a-z]{8,}\.com\/.*/$script,third-party,xmlhttprequest,domain=animeunity.to|calcio.run|guardaserie01.click|onepiecepower.com|pepperlive.info|streamingcommunity.cz
+/^https?:\/\/[0-9a-z]{8,}\.com\/.*/$script,third-party,xmlhttprequest,domain=animeunity.to|calcio.run|guardaserie01.click|onepiecepower.com|pepperlive.info
 /^https?:\/\/[0-9a-z]{8,}\.xyz\/.*/$script,third-party,xmlhttprequest,domain=altadefinizione01.lol|ilgeniodellostreaming.zone
 ! (/sw.js)
 /^https?:\/\/.*\/.*sw[0-9._].*/$script,domain=mrpornogratis.it|pornototale.com
@@ -778,7 +775,6 @@
 ||mysocialpet.it^*/loghi_sponsor/
 ||mywhere.it^*/160x310.png
 ||mywhere.it^*/310x310.png
-||nbnotizie.it^*/LoghiPUBBL/
 ||nbv-verona.it/img/sponsor-
 ||necrologivercelli.it/images/promo-
 ||nerdando.com/immagini/partnership/
@@ -905,7 +901,6 @@
 ||submission.it/banner/
 ||tccstatic.com/template/*/js/p-$script
 ||tecnofacile.com^*/guida-regali-high-tech.jpg
-||tennismarche.net/images/banners/
 ||terranauta.it/banner/
 ||terranuova.it^*/ad$xmlhttprequest
 ||terranuova.it^*/banner/
@@ -966,7 +961,6 @@
 ||ulisseonline.it^*/banner-
 ||ultimissimemantova.it/banner/
 ||unadonna.it^*-300x250px-
-||unicasport.it^*-Banner-
 ||unideanellemani.it^*-banner-
 ||unimondo.org^*/banner/
 ||unitremilano.it^*/compro-rame-
@@ -997,4 +991,4 @@
 ||stgy.ovh/~shared/images/d_a/
 ||today.it/~shared/cgi-bin/d_a/
 !
-/^https?:\/\/.*\/[a-z0-9A-Z_]{2,15}\.(php|jx|jsx|1ph|jsf|jz|jsm|j$)/$image,script,subdocument,domain=amatorialeporno.it|amoreporno.com|clipdisesso.com|culonudo.com|granditetteporno.it|listasitiporno.it|matrignaporno.it|matureporno.it|milfporno.it|peneporno.com|porno-anale.it|porno-gay.it|porno-hardcore.it|porno-lesbica.it|pornoadolescente.it|pornoamica.com|pornocategorie.com|pornoculi.com|pornomatura.it|pornotreno.com|sessoromantico.com|videoporno-gratis.it
+/^https?:\/\/.*\/[a-z0-9A-Z_]{2,15}\.(php|jx|jsx|1ph|jsf|jz|jsm|j$)/$image,script,subdocument,domain=amatorialeporno.it|amoreporno.com|clipdisesso.com|culonudo.com|matureporno.it|peneporno.com|porno-anale.it|pornoadolescente.it|pornoamica.com|pornocategorie.com|pornoculi.com|pornotreno.com|sessoromantico.com
