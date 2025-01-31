@@ -33,6 +33,7 @@ agarymathematics.net###adv1
 paginegialle.it###adv_side
 libero.it###adv_topper
 catt.ch###advertising
+montagna.tv###advertorial-partnership
 ilsussidiario.net###adwallpaper-container
 empresite.it,reteimprese.it###afscontainer1
 empresite.it,reteimprese.it###afscontainer2
