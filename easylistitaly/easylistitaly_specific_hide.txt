@@ -555,7 +555,7 @@ infomotori.com##.adv-listino-nuovo
 editorialedomani.it,lasicilia.it##.adv-placeholder
 arte.sky.it##.adv-section-side
 corrieredellumbria.it,corrierediarezzo.it,corrieredisiena.it##.adv-slideshow
-ansa.it,filastrocche.it,mammecreative.it##.adv-slot
+amicopediatra.it,ansa.it,filastrocche.it,mammecreative.it##.adv-slot
 oggi.it##.adv-square
 diredonna.it,gravidanzaonline.it,robadadonne.it##.adv-style
 stateofmind.it##.adv-top-fullpage
