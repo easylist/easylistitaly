@@ -342,6 +342,7 @@ alimentando.info###skin_container
 iovivoaroma.org###skin_link_dx
 iovivoaroma.org###skin_link_sx
 cronacheancona.it,cronachefermane.it,cronachemaceratesi.it,cronachepicene.it###skinabove
+mondopadano.it###skinadvtop2
 monrealenews.it###skinbanner
 altoadigegol.it,emiliagol.it,friuligol.it,toscanagol.it###skinclick
 algheronotizie.com,comunicati-stampa.net,finestresullarte.info,freeonline.org,piazzaffariweb.com,torresette.news,verdeazzurronotizie.it###skinlink
