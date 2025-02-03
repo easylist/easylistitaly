@@ -31,6 +31,7 @@
 ||investimenti.bnpparibas.it^$domain=trend-online.com
 ||italycharter.it/searchwidget$third-party
 ||jooble.org/css/images/logos/jooble_$third-party
+||limone.iltrovatore.it^
 ||netsons.com/manage/images/affiliates/$third-party
 ||oasjs.kataweb.it/neodata/
 ||offerte.news/pub/
