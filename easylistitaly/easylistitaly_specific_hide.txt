@@ -399,7 +399,7 @@ italiachecambia.org###text-13
 cioccolato.org,esportsonline.it###text-14
 viaggiasenzapensieri.com###text-15
 soccermagazine.it###text-18
-adviceandcommerce.it,auguri.gratis,stranieriinitalia.it###text-2
+adviceandcommerce.it,auguri.gratis,storiedisport.it,stranieriinitalia.it###text-2
 contusu.it,vacanzeingrecia.eu###text-23
 vacanzeingrecia.eu###text-25
 ricettealvolo.it###text-29
