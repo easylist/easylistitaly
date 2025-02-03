@@ -531,6 +531,7 @@ mtbcult.it##.ads-container
 bluewin.ch##.ads-group
 libero.it##.ads-iol
 fruitbookmagazine.it##.ads-irn
+ilmohicano.it##.ads-margin-secondary
 ildolomiti.it##.adsB
 4yougratis.it##.adsVert
 corrieredellacalabria.it##.ads_corriere
@@ -674,6 +675,7 @@ universodelgioco.it##.banner-leaderboard
 kongnews.it##.banner-left
 escort-advisor.com##.banner-link-container
 lostrillone.tv##.banner-noborder
+ilmohicano.it##.banner-orizzontale
 primocanale.it##.banner-position
 nauticareport.it##.banner-post-slider
 art-news.it,calabriareportage.it,ilpaesenuovo.it,lameziaterme.it,sportnotizie24.com,teleoccidente.it##.banner-promotions-wrapper
