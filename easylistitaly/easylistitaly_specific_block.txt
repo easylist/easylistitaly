@@ -24,8 +24,6 @@
 ||adozionilibriscolastici.it/advertiser/
 ||adserver.ilgazzettinovesuviano.com^
 ||adv-img.edilportale.com^
-||advtraining.it/img/banner/
-||advtraining.it/img/banner_
 ||affarienews.it/admin/public/banner/
 ||aforismicitazioni.it/images/amazon-A.jpg
 ||aforismicitazioni.it/images/amazonBuy.png
