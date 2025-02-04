@@ -998,6 +998,7 @@ basilicatanotizie.net##.e-widget-swiper
 inbici.net,padovagoal.it,specchiosesto.it,strill.it,tuttoesselunga.com,vivaboy.com##.e3lan
 cronachedibirra.it##.e3lan125
 euractiv.it##.ea-gat-slot-wrapper
+trasporti-italia.com##.edinet_box_sponsorizzati
 bergamonews.it##.edinews_widget_post_from_terms
 pc-gaming.it,stile.it##.egg-container
 rovigo.news##.elementor-element-0429c68
