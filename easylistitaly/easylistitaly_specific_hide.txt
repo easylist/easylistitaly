@@ -412,7 +412,7 @@ ricettealvolo.it###text-29
 ingleseprecoce.it,libripiuvenduti.it,stile.it###text-3
 passioneauto.it###text-35
 passioneauto.it###text-36
-casilinanews.it,tecnofacile.com###text-4
+casilinanews.it,tecnofacile.com,tuttonatale.it###text-4
 tgfuneral24.it###text-40
 vocedelverbopartire.com###text-42
 teleaesse.it###text-47
