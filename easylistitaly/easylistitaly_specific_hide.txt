@@ -168,6 +168,7 @@ lacapitale.it###comp-lwetp9ib
 dilei.it,quifinanza.it,siviaggia.it,supereva.it,virgilio.it###cont-wallpaper
 ciociariaoggi.it,latinaoggi.eu###container-skin-top
 boatmag.it###contenitore-articolo > .oxy-dynamic-list
+boatmag.it###contenitore-principale > .oxy-carousel-builder
 blablive.com###content_bonus
 corriere.it###cuponation_box
 parigi2024.coni.it###custom-sponsor-row
@@ -183,6 +184,7 @@ agriaffaires.it###display-mb
 udineseblog.it###div-home-main-banner-1
 tuttomercatoweb.com###div-masthead-top_lazy
 portaledelverde.it###divPopUp
+boatmag.it###div_block-39-2182
 mymovies.it###div_topleft
 lecconotizie.com###domination-container
 tiscali.it###dotnAd-970x120-strip
@@ -314,6 +316,8 @@ sabatononsolosport.com###pubbli
 termometropolitico.it###pubblicita-spike
 voce.it###publiredazionale
 quizlab.it###ql-cpa
+boatmag.it###repeater-manchette-dx
+boatmag.it###repeater-manchette-sx
 calabriapost.net,laprovinciakr.it###responsive-banner-slider
 zerocinquantuno.it###rev_slider_4_2_wrapper
 cosenostre-online.it###rev_slider_6_3_wrapper
@@ -2045,6 +2049,7 @@ lamoneta.it##img[alt="advertisement_alt"]
 ondatv.tv##img[alt="banner"]
 radiogold.it##img[alt^="adv-"]
 cruisinlife.it,kustom-world.it##img[alt^="banner"]
+boatmag.it##img[class*="img-banner"]
 narnionline.com,ternieprovincia.com,umbriamagazine.com##img[class="block_banner_img"]
 tusciatimes.eu##img[data-eio-rwidth="800"][data-eio-rheight="250"]
 outcast.it##img[height="100"]
