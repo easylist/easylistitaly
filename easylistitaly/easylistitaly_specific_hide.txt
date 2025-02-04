@@ -1329,7 +1329,7 @@ bergamoesport.it##.mv15 > .fw
 bergamoesport.it##.mv15.block > .fw
 qdmnotizie.it##.mvp-wall-link
 borse.it,cineblog.it,finanza.com,finanzaonline.com,greenstyle.it,mondo-motori.it,soundsblog.it,tvblog.it,wallstreetitalia.com##.mxm_wrapper
-calabrianews24.com,calciofoggia.it,loccidentale.it,sarnonotizie.it,telemia.it##.n2-section-smartslider
+calabrianews24.com,calciofoggia.it,loccidentale.it,sarnonotizie.it,telemia.it,unicosettimanale.it##.n2-section-smartslider
 persemprecalcio.it##.n2-ss-slider
 dagospia.com,ildolomiti.it##.native
 dagospia.com##.native_mobile
