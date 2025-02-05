@@ -17,6 +17,7 @@
 ||shoppydoo.com^
 ||tjekscores.dk^$third-party
 ||yobee.it^$third-party
+||yohtads.com^$third-party
 !
 ||178.32.140.64^$third-party,domain=~pirchio.ip
 ||24network.it^$third-party
