@@ -936,6 +936,7 @@ brindisisera.it##.cont_banner
 provinciagranda.it##.cont_banner_slide
 portoravennanews.com##.container-banner
 zazoom.it##.container-banner-ads_no
+horecanews.it##.container-bn
 ilombardia.it##.container-sponsor
 tuttiprezzi.it##.container.basso
 salernogranata.it##.container.text-center
