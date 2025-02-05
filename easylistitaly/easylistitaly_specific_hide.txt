@@ -1321,6 +1321,7 @@ ricettedalmondo.it##.mobile-ricetta-box1
 alimentibevande.it,professioneallevatore.it,professionesuinicoltore.it##.mod
 sexycommunity.it##.mod_bannerslider
 primocanale.it##.mod_manualbanners
+quotidianodellumbria.it##.modalJS_object
 compagniadellacima.it##.module-custom_html
 fitri.it,fpi.it##.moduletable-sponsor
 valdichianaoggi.it##.mom-e3lanat-wrap
