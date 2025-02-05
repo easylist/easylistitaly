@@ -565,6 +565,7 @@ stateofmind.it##.adv-top-fullpage
 quattroruote.it##.adv-wrap
 iodonna.it##.adv-wrapper
 ilgallo.it##.adv4
+gazzetta.it##.adv__webvtls
 empresite.it##.adv_cont
 corrierecomunicazioni.it,digital4.biz,esg360.it,innovationpost.it,newsrimini.it##.adv_container
 lameziaterme.it##.advanced_floating_content
