@@ -195,6 +195,8 @@ clickcase.it###dvBoxDxSponsor3_250x100
 clickcase.it###dvBoxSxBanner160x600
 clickcase.it###dvHeaderBanner
 sudnews.it###dx-banner
+lastampa.it###editorial-Middle1
+lastampa.it###editorial-TopLeft
 gnoccatravels.com###escortadvisor-widget
 laquilablog.it###evidenza-adv
 iltempo.it###evolution
