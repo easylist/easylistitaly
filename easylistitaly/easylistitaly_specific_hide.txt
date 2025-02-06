@@ -141,6 +141,7 @@ recensionelibro.it###book-shop
 diretta.it,flashscore.it###box-over-content-a
 rollingstone.it###box-wolf
 ilpentasport.it###boxSponsor
+corriere.it###box_mkt_hp_spalla_dx
 alqamah.it###bp-sf-container
 filmpertutti.pizza###button
 ilpentasport.it###bx-next-sponsor
