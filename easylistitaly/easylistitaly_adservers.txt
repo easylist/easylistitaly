@@ -14,6 +14,7 @@
 ||nativery.com^$third-party
 ||ringier-advertising.ch^$third-party
 ||rtbuzz.net^
+||seowebbs.com^$third-party
 ||shoppydoo.com^
 ||tjekscores.dk^$third-party
 ||yobee.it^$third-party
@@ -96,7 +97,6 @@
 ||scambiobanner.tv^$third-party
 ||scambiositi.com^$third-party
 ||seolabadv.it^$third-party
-||seowebbs.com^$third-party
 ||softwareplanet.net^$third-party
 ||soluzionibio.it^$third-party
 ||spicciolo.com^$third-party
