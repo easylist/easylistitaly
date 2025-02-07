@@ -9,6 +9,7 @@
 ###adv-Middle2-mobile
 ###adv-Middle3
 ###adv-Middle3-mobile
+###adv-TopLeft
 ###adv-x40
 ###adv-x40-mobile
 ###adv_nativa

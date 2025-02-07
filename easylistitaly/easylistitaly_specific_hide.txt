@@ -597,6 +597,7 @@ petitchef.it##.akcelo-wrapper
 alessandria24.com##.aless-widget
 ferrovie.it##.alignC
 corrierinocampaniasport.it##.alpha.omega
+repubblica.it##.alpitour
 monza-news.it##.alternated-ad
 grecia.cc,informagiovani-italia.com##.alto_add
 filmtv.it##.altri
