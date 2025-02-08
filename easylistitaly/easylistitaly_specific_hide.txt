@@ -536,9 +536,11 @@ mantovanotizie.com##.adivi-infeed
 antennafebea.it,brocardi.it,buildnews.it,casacinema.media,filmpertutti.boo,hdtroll.it,insidemarketing.it,legab.it,liberta.it,live-sport-tv.it,mattinonline.ch,nuovosud.it,orizzontescuola.it,radiogold.it,startmag.it##.ads
 mtbcult.it##.ads-container
 bluewin.ch##.ads-group
+scienzenotizie.it##.ads-in-article
 libero.it##.ads-iol
 fruitbookmagazine.it##.ads-irn
 ilmohicano.it##.ads-margin-secondary
+scienzenotizie.it##.ads-related-multiplex
 ildolomiti.it##.adsB
 4yougratis.it##.adsVert
 corrieredellacalabria.it##.ads_corriere
