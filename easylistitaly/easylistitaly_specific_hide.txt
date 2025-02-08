@@ -1468,6 +1468,7 @@ bicimagazine.it##.rstbox
 ilsole24ore.com##.s24-abox
 ship2shore.it##.s2s-banner
 carraresecalcio.it##.saas-brand
+ok-salute.it##.salut-widget
 bmwpassion.com,phica.eu##.samBannerUnit
 bmwpassion.com,phica.eu##.samCodeUnit
 community.punterforum.com##.samItem
