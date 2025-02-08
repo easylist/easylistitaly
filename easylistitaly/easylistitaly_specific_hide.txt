@@ -1,6 +1,10 @@
 automobile.it###ADV_filter_1
 automobile.it###ADV_filter_2
+trend-online.com###CONT_C_1
+trend-online.com###CONT_C_2
 trend-online.com###CONT_D_1
+trend-online.com###CONT_D_2
+trend-online.com###CONT_D_3
 trend-online.com,youmath.it###CONT_T
 comprovendolibri.it###CVLR_banner_ADX
 comprovendolibri.it###CVLR_banner_ASX
