@@ -843,7 +843,7 @@ corriereirpinia.it##.body-link-padding
 azscore.co.it##.bonus-offers-container
 cosafarei.it##.boo-link
 ilsole24ore.com##.booki-link
-mercatini-natale.com,salernonotizie.net,turistadimestiere.com##.bookingaff
+cosafarei.it,mercatini-natale.com,salernonotizie.net,turistadimestiere.com##.bookingaff
 livescore.it##.bookmaker
 fantamaster.it##.bookmakers-widget
 solovela.net##.bottmAdd
