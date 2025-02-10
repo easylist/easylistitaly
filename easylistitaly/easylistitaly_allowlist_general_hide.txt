@@ -14,6 +14,5 @@ questaseratv.it#@#.channelBoxAds
 questaseratv.it#@#.gptslot
 ilbaratto.com#@#.jquery-script-ads
 radioalfalab.it#@#.penci-adsense-below-slider
-brocardi.it#@#.with-background-ads
 simulatoripensione.it#@#a[href^="https://www.financeads.net/tc.php?"]
 la7.it#@#div[id^="rtbuzz_"]
