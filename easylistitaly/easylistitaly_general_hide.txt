@@ -31,11 +31,9 @@
 ###yobee-top-page
 ##.AlterVista_Banner
 ##.AlterVista_GoogleAdsense
-##.adk-slot
 ##.ads--primo-piano
 ##.adunit-mark
 ##.adv-gptslot
-##.banner-adv
 ##.banner_pubblicita
 ##.box_adv_cliccaofferta
 ##.eadv-aside
@@ -44,7 +42,6 @@
 ##.eadv-related
 ##.evolve-custom-header
 ##.footer-adv
-##.gptslot
 ##.gptslot-li
 ##.gptslotvideo
 ##.live-adv-container
@@ -130,7 +127,6 @@
 ###adv_adagio
 ###adv_click
 ###adv_in_post
-###adv_mob
 ###adv_nativ_sopracartina
 ###adv_outbrain_AR_1_sottocartina
 ###adv_sotto_navigatore
@@ -268,7 +264,6 @@
 ##.archive-post__adv
 ##.aside-adv-scroll
 ##.av-banner-728X90
-##.avadvslot
 ##.bannerPubblicita
 ##.bannerPubblicitaOrizz
 ##.banner_300x250_read
