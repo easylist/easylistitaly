@@ -301,6 +301,7 @@ lavocedibolzano.it###mvp-site-wall
 lavocedibolzano.it,qdmnotizie.it,sportparma.com###mvp-wallpaper
 mondoplay.it,mondoxbox.com###offersbox
 mondoplay.it,mondoxbox.com###offersbox_wide
+leggo.it###outbrain
 prendiporno.tv,voglioporno.com###overlay-video
 sposa.it###partner-content
 lucchese1905.it,sassuolocalcio.it###partners
