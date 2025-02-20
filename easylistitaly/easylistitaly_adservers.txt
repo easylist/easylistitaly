@@ -6,6 +6,7 @@
 ||adplay.it^$third-party
 ||adspro.it^$third-party
 ||affiliation.software^$third-party
+||bannerbuy.it^$third-party
 ||break-even.it^$third-party
 ||broadbandy.net^$third-party
 ||brznetwork.com^$third-party
