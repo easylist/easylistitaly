@@ -282,6 +282,7 @@ salernonotizie.it###machette_left
 salernonotizie.it###machette_right
 brindisifc.it###main-sponsor
 forum.tomshw.it,leonardo.it###masthead
+mondo-motori.it###masthead-adv
 familygo.eu###masthead-desktop
 gazzettinonline.it###masthead_wrapper
 allasianfootball.com###media_image-2
