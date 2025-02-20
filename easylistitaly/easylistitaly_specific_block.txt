@@ -109,6 +109,7 @@
 ||beneventonews24.it/wp-content/themes/weben-news/assets/images/skins/
 ||beneventonews24.it/wp-content/themes/weben-news/assets/images/sponsors/
 ||biancoebruno.it/images/banner/
+||biccy.it/public/general/adv/
 ||bicisupermarket.it/images/vintage.jpg
 ||biella24.files.wordpress.com/2019/10/fondo-autoland-biella24.jpg
 ||biellese24.it/images/banner/
