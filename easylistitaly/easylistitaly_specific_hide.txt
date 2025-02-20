@@ -520,6 +520,7 @@ abruzzoindependent.it##.ad-banner
 ad-italia.it,adotta.me,badtaste.it,gqitalia.it,lacucinaitaliana.it,mtv.it,soluzionicodycross.it,supertv.it,vanityfair.it,vogue.it,wired.it##.ad-container
 panorama.it##.ad-correlati
 globalist.it##.ad-slot
+badtaste.it##.ad-sm-unit
 laltrapagina.it##.ad1
 laltrapagina.it##.ad2
 laltrapagina.it##.ad5
