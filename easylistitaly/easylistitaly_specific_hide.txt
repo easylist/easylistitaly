@@ -1708,7 +1708,9 @@ notiziarioeolie.it##.well
 pokeritalia24.it##.well-sm
 transfermarkt.it##.werbung
 siciliainternazionale.com##.widget-1
-siciliainternazionale.com##.widget-7
+foggiacalciomania.com##.widget-2
+foggiacalciomania.com##.widget-5
+foggiacalciomania.com,siciliainternazionale.com##.widget-7
 siciliainternazionale.com##.widget-8
 telcoinsider.it##.widget-a-wrap
 lantidiplomatico.it,maremmanews.it,oddslot.it##.widget-banner
