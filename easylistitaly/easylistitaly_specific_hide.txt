@@ -905,7 +905,7 @@ domusweb.it##.c-article-prev--sponsored
 empolifc.com##.c-footer__sponsors-container
 trento2018.it##.callExclusive
 campanialike.com##.cardSponsorColonnaDestra
-assisieventi.it,lavocedelpalio.it##.carousel
+assisieventi.it,lavocedelpalio.it,superj.it##.carousel
 monrealenews.it##.carouselbanner
 oggimilazzo.it##.cb-category-top
 leggere-facile.it##.cb-large
