@@ -384,6 +384,7 @@
 ||lacitta.eu/images/banners/
 ||lacronacadiravenna.it/file/*/banner_
 ||ladigetto.it/files/banners/
+||ladigetto.it^*/banner/
 ||lafune.eu/wp-content/uploads/*/Banner-
 ||lagazzetta.info/wp-content/uploads/banner/
 ||lagazzettaaugustana.it/wp-content/plugins/ruota-banner-widget/
