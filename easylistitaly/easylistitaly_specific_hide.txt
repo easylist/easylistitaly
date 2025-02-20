@@ -682,6 +682,7 @@ toscanalibri.it##.banner-home-2
 valsassinanews.com##.banner-image
 palermomania.it##.banner-images
 abruzzoindependent.it,triestecafe.it##.banner-img
+occhionotizie.it##.banner-img-footer
 lacnews24.it##.banner-inner
 ilcambiamento.it##.banner-laterale
 universodelgioco.it##.banner-leaderboard
