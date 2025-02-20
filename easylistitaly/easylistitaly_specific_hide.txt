@@ -887,7 +887,7 @@ borsainside.com##.brokers-with-sidebar
 castelvetranonews.it##.brotazione
 bresciasport.net,cronachedelsannio.it##.bs-sks
 bznews24.it##.bsaProCarousel
-ilnuovotorrazzo.it##.bsaProContainer
+ilnuovotorrazzo.it,ilsarrabus.news##.bsaProContainer
 infomedianews.com,qdmnotizie.it,torinomagazine.it##.bsaProContainerNew
 cosenzaduepuntozero.it,sigmagazine.it##.bsac
 diaconale.it##.bt_banner
