@@ -850,6 +850,7 @@ livescore.it##.bookmaker
 fantamaster.it##.bookmakers-widget
 solovela.net##.bottmAdd
 piazzaffariweb.com##.bottom-banner
+secoloditalia.it##.bottomright
 lasiritide.it##.box-1
 lasiritide.it##.box-2
 centrometeoitaliano.it,popcorntv.it##.box-adv
@@ -1319,6 +1320,7 @@ leggopassword.it##.mh-header-2
 goodtrekking.it,paesidelgusto.it,piccolieviaggi.it,trueriders.it##.mha-slot-holder
 automoto.it##.mhwrap
 altoadige.it,giornaletrentino.it##.middle2
+secoloditalia.it##.middleright
 lavocedilucca.it##.minwbanner
 tvdigitaldivide.it##.mioadv
 automoto.it,moto.it##.mit-skin-spacer
@@ -1644,6 +1646,7 @@ allsongs.tv,cronachetarantine.it,offerteshopping.it##.top-banner
 cagliaricalcio.com##.top-banner-home
 laverita.info,panorama.it##.top-billboard
 it.advfn.com##.top-pinned-container
+secoloditalia.it##.top-right
 adirai.it##.top-sidebar
 adirai.it##.top-sidebar600
 cagliaricalcio.com##.top-sponsor-hp
