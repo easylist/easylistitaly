@@ -1,6 +1,4 @@
 ||plx.pornototale.com^$popup
-!
-||avmagazine.it/advertise/$popup
 ! html/image popups
 /^https?:\/\/.*\.(jpg|gif|png|php|html|svg|ico|js|txt)/$popup,domain=animeunity.tv
 !
