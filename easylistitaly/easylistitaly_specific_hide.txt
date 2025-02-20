@@ -319,6 +319,7 @@ investire.biz###promoBotton
 estrazionedellotto.it,superenalotto.com###promobanner
 goaldiretta.it###pscroller1
 sabatononsolosport.com###pubbli
+termometropolitico.it###pubblicita-betblack
 termometropolitico.it###pubblicita-spike
 voce.it###publiredazionale
 quizlab.it###ql-cpa
