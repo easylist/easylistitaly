@@ -1581,6 +1581,7 @@ cremaoggi.it,cremonaoggi.it,cremonasport.it,oglioponews.it##.standard-inside-tex
 corrieredirieti.it,corrierediviterbo.it##.static-banner
 ilfattoquotidiano.it##.sticky-adv
 pmi.it##.sticky-banner
+meteolive.it##.sticky-banner-container
 sempionenews.it##.sticky-posts__redazionali
 prezzisalute.com##.stickyleft
 laziorugby.it##.stm-image-carousel
