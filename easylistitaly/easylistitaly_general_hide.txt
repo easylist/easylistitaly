@@ -4,6 +4,7 @@
 ###adk_spalla-bottom
 ###adk_spalla-middle
 ###adk_spalla-top
+###admputop
 ###adv-Middle1-hr
 ###adv-Middle1-mobile
 ###adv-Middle2-mobile
@@ -23,6 +24,7 @@
 ###eadv-in-content-2
 ###eadv-in-content-3
 ###eadv-related
+###ioladv-wallpaper
 ###rcsad_TopLeft_container
 ###video-evo-desktop
 ###video-evo-mobile
