@@ -1338,7 +1338,7 @@ fitri.it,fpi.it##.moduletable-sponsor
 valdichianaoggi.it##.mom-e3lanat-wrap
 mondobalneare.com##.mondobalneare-banner
 cremaoggi.it,cremonaoggi.it,oglioponews.it##.mondopadano-container
-macplas.it##.mp-banner
+gravidanzaonline.it,macplas.it##.mp-banner
 diredonna.it,gravidanzaonline.it,robadadonne.it##.mp-code
 boingtv.it,eurogamer.it##.mpu
 criptovalute.io##.mui-row.row.mui--text-center.mui--align-middle
