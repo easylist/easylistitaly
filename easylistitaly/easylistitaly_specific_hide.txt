@@ -828,6 +828,7 @@ lavocedimanduria.it,viviwebtv.it##.block-first-ads
 ilclubdellericette.it##.block-products
 ilroma.net##.block-rotating-banner
 legapallacanestro.com##.block-sponsor-e-partners
+repubblica.it##.block__native
 html.it,telefonino.net##.blz-url
 punto-informatico.it,webnews.it##.blz_button
 punto-informatico.it##.bm-code
@@ -2440,6 +2441,7 @@ mediamarkt.ch,mediaworld.it#?#li[data-index-number]:-abp-has([data-test="mms-pro
 paginegialle.it#?#.search-itm:-abp-has(.search-itm__label:-abp-contains(annuncio))
 pharmacyscanner.it#?#.similar-post-holder:-abp-has(.categoria:-abp-contains(Post sponsorizzato))
 radioluna.it#?#.feat-widget-wrap:-abp-has(div:-abp-contains(INFORMAZIONE REDAZIONALE))
+repubblica.it#?#.block.is-postit:has(.block__overtitle:-abp-contains(Contenuti promozionali))
 technofashion.it#?#.td_block_wrap:-abp-has(span:-abp-contains(Advertorial))
 tgcom24.mediaset.it#?#div[data-testid="section"]:-abp-has(span:-abp-contains(Contenuto sponsorizzato))
 tuttoandroid.net#?#.card.dark:-abp-has(span:-abp-contains(Adv))
