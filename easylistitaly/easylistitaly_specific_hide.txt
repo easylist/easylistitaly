@@ -558,7 +558,7 @@ comingsoon.it,ilsussidiario.net##.adv-container
 shipmag.it##.adv-custom-widget
 calciomercato.com##.adv-desktop-vertical
 paroladeltifoso.it##.adv-image
-biccy.it##.adv-inside-content
+biccy.it,vologratis.org##.adv-inside-content
 lasicilia.it##.adv-intext-placeholder
 animatamente.net##.adv-link
 infomotori.com##.adv-listino-nuovo
