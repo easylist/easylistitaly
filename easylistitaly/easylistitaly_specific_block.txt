@@ -446,6 +446,7 @@
 ||malpensa24.it/wp-content/uploads/*/background-
 ||mammedomani.it/images/banners/
 ||manduriaoggi.it/html/banner/
+||mangaforever.net/public/general/adv/
 ||mangiobenevivobene.it/wp-content/uploads/*/banner-
 ||mantovauno.it/wp-content/uploads/*/banner-
 ||marcheingol.it/js/allinone_bannerRotator.js
