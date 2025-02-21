@@ -1125,6 +1125,7 @@ pornototale.com##.footer_partner_container_wrapper
 mitjetitalia.it##.footer_top
 forbes.it##.forbes-ads-skin-container
 quattroruote.it##.fullBanner
+ilromanista.eu##.fullWidthBanner
 pressgiochi.it##.full_width_banner
 lodiedintorni.com##.fusion-column-inner-bg-wrapper
 ilnuovogiornaleweb.it##.fusion-imageframe
