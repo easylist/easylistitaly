@@ -803,6 +803,7 @@ telejonio.com##.bdaia-widget
 lostrillonenews.it##.bdt-carousel-style-carousel
 rockit.it##.bello-container
 mahjong.it##.benvenuto_pub
+loravesuviana.it##.betteradscontainer
 gazzetta.it##.betting-point-table
 diretta.it##.bettingStrip
 azscore.co.it##.bettingTip__buttonsContainer
