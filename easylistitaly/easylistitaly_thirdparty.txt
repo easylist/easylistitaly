@@ -92,6 +92,7 @@
 ||volantinopiu.com^$domain=paesenews.it
 ||widget.getyourguide.com^$third-party
 ||widgetbay.3labs.it^$third-party
+||widgets.shop.moda.it^
 ||widgets.skyscanner.net^$domain=thailandiapertutti.it
 ||windows.net^*/Banner/$domain=divisionecalcioa5.it
 ||wp.com/it.jooble.org/css/images/logos/jooble_135x110.png
