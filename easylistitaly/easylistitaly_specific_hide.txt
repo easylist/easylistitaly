@@ -433,6 +433,7 @@ betitaliaweb.it,metallus.it,vacanzeingrecia.eu###text-9
 elaborare.com###text-html-widget-16
 tuttoesselunga.com###text-html-widget-24
 tuttoesselunga.com###text-html-widget-25
+subito.it###textlinks_wrapper
 umbriamagazine.com###thelink
 orvietosi.it###tirsena-banner
 onepiecepower.com###toCloseGADS
