@@ -1005,6 +1005,7 @@ finestresullarte.info##.dx250
 pisanews.net##.e-swiper-container
 basilicatanotizie.net##.e-widget-swiper
 euractiv.it##.ea-gat-slot-wrapper
+ledicola.it##.eager-ad
 trasporti-italia.com##.edinet_box_sponsorizzati
 bergamonews.it##.edinews_widget_post_from_terms
 pc-gaming.it,stile.it##.egg-container
