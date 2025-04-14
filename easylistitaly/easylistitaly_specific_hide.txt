@@ -610,7 +610,7 @@ monza-news.it##.alternated-ad
 grecia.cc,informagiovani-italia.com##.alto_add
 filmtv.it##.altri
 prezzisalute.com##.amaz
-nientepopcorn.it##.amazon
+iphoneitalia.com,nientepopcorn.it##.amazon
 leggoquandovoglio.it##.amazon-a
 animeclick.it,gamerclick.it##.amazon-row
 iolecal.blogspot.com##.amazonAds
