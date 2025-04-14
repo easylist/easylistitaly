@@ -234,6 +234,7 @@ tuttoquiz.it###googleLAT2
 tuttoquiz.it###googleLINK
 tuttoquiz.it###googleTOP
 orvietonews.it###gpt-passback
+iphoneitalia.com###grid-offers-widget
 100ideeperristrutturare.it###hausme-widget
 operaclick.com###head-left-banner
 operaclick.com###head-right-banner
