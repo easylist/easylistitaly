@@ -66,6 +66,7 @@
 ||anisearch.it/images/sponsor/
 ||anisearch.it/partner?
 ||annuariodelcinema.it/images/banners/
+||annunci.modellismo.it/banner/
 ||annunci69.it/include/ads_ponte.php?
 ||antenna1.fm/upload/publicite/
 ||aostaoggi.it/images/banners/
