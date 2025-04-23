@@ -1232,6 +1232,7 @@ emiliaeunanotte.it##.inserzione_pubblicitaria
 orvietosi.it##.inside-adv
 orvietosi.it##.inside-adv-h
 larionews.com##.intercept
+affaritaliani.it##.intesa
 dailybest.it##.intextbanner
 sitiscommesse.com##.intro-brand-wrapp
 abr24.it##.it-ad
