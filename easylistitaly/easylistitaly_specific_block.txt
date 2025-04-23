@@ -781,6 +781,7 @@
 ||vwgolfcommunity.com/banner/
 ||vwgolfcommunity.com/sponsor/
 ||wallis24.it/images/banner/
+||webandmagazine.media/wp-content/uploads/*/SKIN-
 ||wechianti.com/wp-content/uploads/*/Banner-
 ||welfarenetwork.it/media/banner/
 ||whiteradio.it/themes/img/sponsor/
