@@ -664,6 +664,7 @@ it.advfn.com##.banner-728-90
 radio24.ilsole24ore.com##.banner-area
 helplavoro.it##.banner-aziende
 parmareport.it##.banner-big
+ediliziainrete.it##.banner-block
 rpiunews.it##.banner-body
 universodelgioco.it##.banner-btf-side-rectangle
 1001giochi.it,amicidicasa.it,canavesetoday.it,divinafm.it,edicoladigitale.info,giochixl.it,lacrocequotidiano.it,picchionews.it,professionecamionista.it,quotidianocanavese.it,sposa.it,sscnapoli.it##.banner-container
@@ -816,6 +817,7 @@ vivoconbenessere.it##.bg.landscape
 altoadige.it,giornaletrentino.it##.bg300x250
 nuovosud.it##.bg_skin
 giornalelavoce.it,lagazzettadelmezzogiorno.it##.bgbanner
+ediliziainrete.it##.bglink
 hcgherdeina.com##.big-sponsor-box
 spoletonline.com##.bigBanner
 virtusverona.it##.bigbanner
