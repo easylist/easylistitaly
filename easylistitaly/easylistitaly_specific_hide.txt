@@ -2434,6 +2434,7 @@ tusciaweb.it##img[width="520"][height="100"]
 datameteo.com##td[style^="border-top-style: solid; border-top-color:#d3d3d3; border-top-width: 1px"]
 ! :has()
 investire.biz##.card.shadowLink:has(#ContentPlaceHolder1_rptAzzMain_btn_0)
+monetaweb.it##.content-row.wrapper.border--primary:has(.wp-block-adv-banner)
 money.it##.flex.flex-col.space-y-3.relative:has(.mr-2)
 orvietosi.it##.jeg_slide_item:has(.category-sponsorizzate)
 sportmediaset.mediaset.it##.lancio-adv:has(span.contenuto_sponsorizzato)
