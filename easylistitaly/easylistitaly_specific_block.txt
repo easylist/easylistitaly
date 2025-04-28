@@ -766,7 +766,7 @@
 ||vienormali.it/images/banner/
 ||vipiu.it/wp-content/uploads/*/sfondo_
 ||visitvco.it/images/banner/
-||vistanet.it/wp-content/plugins/vistanet-plugins/js/clienti_adv.js
+||vistanet.it^*/clienti_adv.js
 ||vitadamamma.com^*/adv/
 ||vitaincamper.it/wp-content/plugins/angwp/
 ||viterbonews24.it/gesBanner/
