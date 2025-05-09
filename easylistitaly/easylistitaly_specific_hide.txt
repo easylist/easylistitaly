@@ -2449,8 +2449,8 @@ ledicoladelsud.it##.td_block_inner.td-mc1-wrap:has(a[href*="/pubbliredazionale/"
 01health.it,01net.it,01smartlife.it##.td_block_wrap:has(.sponsor)
 sportando.basketball##.widget.widget_block:has(a[href^="https://betsquare.com/"])
 freshpointmagazine.it##.wpb_wrapper > .td_block_wrap:has(.sponsor)
+mediamarkt.ch,mediaworld.it##[data-test="mms-product-card"]:has(div[data-test="mms-plp-sponsored"])
 pharmacyscanner.it##article:has(.featured + .spons-post)
-mediamarkt.ch,mediaworld.it##div[data-test="mms-product-card"]:has(div[data-test="mms-plp-sponsored"])
 liberoquotidiano.it##div[style="min-height: 885px;"]:has(.advertisement-wrapper)
 ! Advanced element hiding rules for Adblock Plus
 adnkronos.com#?#.cont-ev-list:-abp-has(.title-channel:-abp-contains(in Evidenza))
