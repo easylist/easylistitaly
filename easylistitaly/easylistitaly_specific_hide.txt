@@ -2454,6 +2454,7 @@ freshpointmagazine.it##.wpb_wrapper > .td_block_wrap:has(.sponsor)
 mediamarkt.ch,mediaworld.it##[data-test="mms-product-card"]:has(div[data-test="mms-plp-sponsored"])
 pharmacyscanner.it##article:has(.featured + .spons-post)
 liberoquotidiano.it##div[style="min-height: 885px;"]:has(.advertisement-wrapper)
+mediaworld.it#?#[data-test="mms-router-link"]:-abp-contains(Sponsorizzati)
 ! Advanced element hiding rules for Adblock Plus
 adnkronos.com#?#.cont-ev-list:-abp-has(.title-channel:-abp-contains(in Evidenza))
 agi.it#?#.agi-article-card:-abp-has(.article-category:-abp-contains(BRANDED CONTENT))
