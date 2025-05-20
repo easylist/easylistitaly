@@ -10,6 +10,7 @@ comprovendolibri.it###CVLR_banner_ADX
 comprovendolibri.it###CVLR_banner_ASX
 chimica-online.it,flashgames.it,scambieuropei.info,soldioggi.it,youmath.it###C_1
 flashgames.it###C_2
+investire.biz###ContentPlaceHolder1_pnlDoubleLeftToRight_H
 legabasketfemminile.com###DIV_MainSponsorContainer
 chimica-online.it,flashgames.it,scambieuropei.info,trend-online.com,youmath.it###D_1
 unapennainviaggio.it###Image1
@@ -76,6 +77,7 @@ tusciaweb.eu,viterbonews24.it###bannerFondo
 viterbonews24.it###bannerPopUp
 generacodice.com###bannerRight
 quice.it###bannerScheda
+investire.biz###bannerTicker
 edilportale.com###bannerTopWrapper
 camperlife.it###banner_2
 camperlife.it###banner_3
@@ -187,6 +189,7 @@ agriaffaires.it###display-mb
 udineseblog.it###div-home-main-banner-1
 tuttomercatoweb.com###div-masthead-top_lazy
 portaledelverde.it###divPopUp
+investire.biz###divPromoBottonMobile
 boatmag.it###div_block-39-2182
 mymovies.it###div_topleft
 lecconotizie.com###domination-container

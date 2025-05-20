@@ -94,6 +94,7 @@
 ||widgetbay.3labs.it^$third-party
 ||widgets.shop.moda.it^
 ||widgets.skyscanner.net^$domain=thailandiapertutti.it
+||windows.net/public/images/banner/$domain=investire.biz
 ||windows.net^*/Banner/$domain=divisionecalcioa5.it
 ||wp.com/it.jooble.org/css/images/logos/jooble_135x110.png
 ||wp.com/www.ionoleggioauto.com/banner-$third-party
