@@ -90,6 +90,7 @@
 ||viaggiare.columbusassicurazioni.it^$third-party
 ||viralize.tv/display/$script,domain=lagazzettadiviareggio.it|teleborsa.it
 ||volantinopiu.com^$domain=paesenews.it
+||vzbl.eu^
 ||widget.getyourguide.com^$third-party
 ||widgetbay.3labs.it^$third-party
 ||widgets.shop.moda.it^

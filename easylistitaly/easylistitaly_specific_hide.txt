@@ -46,6 +46,7 @@ salernonotizie.net###amz
 notebookitalia.it###amznbi
 direttafacile.it###annuncidiv
 separarensilabas.com###antiBannersGigantes
+leroymerlin.it###arm-pad[data-st-name="sponsored"]
 excellentmagazine.it###articolo_annunci_slider
 oggimilazzo.it###ascomparsa
 altarimini.it###attivitaEvidenza
