@@ -180,7 +180,9 @@ corriere.it###cuponation_box
 parigi2024.coni.it###custom-sponsor-row
 meteogiornale.it,mmawiki.org###custom_html-2
 meteogiornale.it###custom_html-4
+gommeblog.it###custom_html-47
 meteogiornale.it###custom_html-5
+gommeblog.it###custom_html-66
 radiocapri.it###custom_html-7
 gazzettadalba.it###custom_html-95
 salernonotizie.net###dd
