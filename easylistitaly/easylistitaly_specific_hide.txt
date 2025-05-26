@@ -959,6 +959,7 @@ portoravennanews.com##.container-banner
 zazoom.it##.container-banner-ads_no
 horecanews.it##.container-bn
 ilombardia.it##.container-sponsor
+ssvnaturns.it##.container-sponsoren
 tuttiprezzi.it##.container.basso
 salernogranata.it##.container.text-center
 torresette.news##.content-banner-right
@@ -1244,6 +1245,8 @@ affaritaliani.it##.intesa
 dailybest.it##.intextbanner
 sitiscommesse.com##.intro-brand-wrapp
 abr24.it##.it-ad
+ssvnaturns.it##.item-464
+ssvnaturns.it##.item-596
 aeroporto.net##.items_aff_styles
 juventus.com##.jcom-o-footer__corporate
 juventus.com##.jcom-o-sponsors-nav__child
