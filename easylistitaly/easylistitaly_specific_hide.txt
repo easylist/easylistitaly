@@ -932,6 +932,8 @@ magazinedelledonne.it##.ccm_pugoo__sponso
 m.tuttomercatoweb.com##.center[style="margin:10px auto; height:auto; min-height:120px;"]
 casefunerarie.it##.cf-nation-banners
 vienormali.it##.cimarandom
+carrefour.it##.citrus-spotlight-external-wrapper
+carrefour.it##.citrus-tile
 telenord.it##.click-foto
 moscarossa.biz##.click_banner
 stile-magazine.it##.clients-logos
