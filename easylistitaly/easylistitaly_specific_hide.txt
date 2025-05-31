@@ -309,7 +309,6 @@ lavocedibolzano.it###mvp-site-wall
 lavocedibolzano.it,qdmnotizie.it,sportparma.com###mvp-wallpaper
 mondoplay.it,mondoxbox.com###offersbox
 mondoplay.it,mondoxbox.com###offersbox_wide
-leggo.it###outbrain
 prendiporno.tv,voglioporno.com###overlay-video
 sposa.it###partner-content
 lucchese1905.it,sassuolocalcio.it###partners
@@ -528,7 +527,6 @@ tusciaweb.eu##.ad-article
 abruzzoindependent.it##.ad-banner
 ad-italia.it,adotta.me,badtaste.it,gqitalia.it,lacucinaitaliana.it,mtv.it,soluzionicodycross.it,supertv.it,vanityfair.it,vogue.it,wired.it##.ad-container
 panorama.it##.ad-correlati
-globalist.it##.ad-slot
 badtaste.it##.ad-sm-unit
 laltrapagina.it##.ad1
 laltrapagina.it##.ad2
@@ -569,7 +567,6 @@ calciomercato.com##.adv-desktop-vertical
 paroladeltifoso.it##.adv-image
 biccy.it,mangaforever.net,vologratis.org##.adv-inside-content
 lasicilia.it##.adv-intext-placeholder
-animatamente.net##.adv-link
 infomotori.com##.adv-listino-nuovo
 editorialedomani.it,lasicilia.it##.adv-placeholder
 arte.sky.it##.adv-section-side

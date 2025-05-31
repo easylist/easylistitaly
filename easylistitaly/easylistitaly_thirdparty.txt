@@ -23,7 +23,6 @@
 ||civitatis.com/widget-activities/?affiliated=$third-party
 ||d1yhzddoi8ev99.cloudfront.net^
 ||d2moz0h55szev9.cloudfront.net^
-||d3f4nuq5dskrej.cloudfront.net^
 ||dhresource.com^$domain=xtremehardware.com
 ||digitaladv.despar.it^
 ||doyoogo.com/build/widgetDOM.js$third-party

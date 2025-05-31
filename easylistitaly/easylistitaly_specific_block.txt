@@ -792,7 +792,6 @@
 ||xtremehardware.com/instant-gaming.png
 ||yuvideos.com/banner/
 ||zonalotto.it/banner_
-||zonalotto.it/banner_zl/
 !
 /^https?:\/\/[0-9a-z]{8,}\.com\/.*/$script,third-party,xmlhttprequest,domain=onepiecepower.com|pepperlive.info
 ! (/sw.js)
