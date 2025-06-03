@@ -1248,6 +1248,7 @@ larionews.com##.intercept
 affaritaliani.it##.intesa
 dailybest.it##.intextbanner
 sitiscommesse.com##.intro-brand-wrapp
+tviweb.it##.ir-sidebar-top
 abr24.it##.it-ad
 ssvnaturns.it##.item-464
 ssvnaturns.it##.item-596
@@ -1484,6 +1485,7 @@ dday.it##.relevant.preview
 mobimart.it##.resp-container
 daninseries.it##.responsive-banner
 cosenostre-online.it,esperia.tv,zerocinquantuno.it##.revslider-initialised
+tviweb.it##.right-news
 ladigetto.it##.right_sponsor
 ilroma.net##.rotating-banner
 corrierinocampaniasport.it##.rotor-items
@@ -1698,6 +1700,9 @@ notebookitalia.it##.uk-height-medium
 padelmagazine.it##.uk-padding.uk-padding-remove-bottom.uk-text-center
 monitorimmobiliare.it##.uk-skin-link
 strumentiemusica.com##.ulnqd-container
+tviweb.it##.under-pp
+tviweb.it##.under-video
+tviweb.it##.under-week
 portadimare.it##.unite-carousel-wrapper
 siciliaonpress.com##.upper-footer
 pablitoescort.com##.upperbanner
