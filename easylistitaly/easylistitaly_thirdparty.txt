@@ -1,3 +1,4 @@
+||ad.citynews.it^
 ||adtech.vivimedia.it^
 ||advtraining-ads.it^$third-party
 ||advx.esprimo.com^
