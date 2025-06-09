@@ -891,6 +891,7 @@ corriere.it##.boxpromo
 ricettedigusto.info##.boxslot
 clubdoria46.it##.boxzilla
 clubdoria46.it##.boxzilla-overlay
+open.online##.branded
 skillandbet.com##.brandlist_bonusbutton
 tvserial.it##.break-adv
 borsainside.com##.brokers-with-sidebar
