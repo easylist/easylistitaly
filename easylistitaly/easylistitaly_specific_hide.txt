@@ -626,7 +626,7 @@ insideevs.it,omnifurgone.it,omnitrattore.it##.ap
 bznews24.it,ilfilo.net,iltquotidiano.it,lasberla.com,sdnews.it,stateofmind.it##.apPluginContainer
 insideevs.it,omnitrattore.it##.apb
 quotidianodelsud.it##.argomenti-articolo-sponsor
-tutto.tv,tuttoandroid.net##.article-banner-container
+tutto.tv,tuttoandroid.net,tuttotech.net##.article-banner-container
 quilivorno.it##.article-type-redazionale
 spoletonline.com##.articleBannerDX
 spoletonline.com##.articleBannerSX
