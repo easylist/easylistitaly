@@ -2498,4 +2498,4 @@ radioluna.it#?#.feat-widget-wrap:-abp-has(div:-abp-contains(INFORMAZIONE REDAZIO
 repubblica.it#?#.block.is-postit:has(.block__overtitle:-abp-contains(Contenuti promozionali))
 technofashion.it#?#.td_block_wrap:-abp-has(span:-abp-contains(Advertorial))
 tgcom24.mediaset.it#?#div[data-testid="section"]:-abp-has(span:-abp-contains(Contenuto sponsorizzato))
-tuttoandroid.net#?#.card.dark:-abp-has(span:-abp-contains(Adv))
+tuttoandroid.net,tuttotech.net#?#.card.dark:-abp-has(span:-abp-contains(Adv))
