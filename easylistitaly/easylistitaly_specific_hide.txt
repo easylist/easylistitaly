@@ -1142,6 +1142,7 @@ palermofc.com##.footer_int
 pornototale.com##.footer_partner_container_wrapper
 mitjetitalia.it##.footer_top
 forbes.it##.forbes-ads-skin-container
+formulapassion.it##.fp-adv
 quattroruote.it##.fullBanner
 ilromanista.eu##.fullWidthBanner
 pressgiochi.it##.full_width_banner
