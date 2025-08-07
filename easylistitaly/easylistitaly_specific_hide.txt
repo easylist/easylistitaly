@@ -880,6 +880,7 @@ corriere.it##.boxADVmanuale
 portaledelverde.it##.boxContainerBanner
 ludomedia.it##.boxGiocoAmazon
 oggi.it##.boxOpenx
+diretta.it##.boxOverContentRevive
 hdblog.it##.box_highlight_footer
 cuneodice.it,genovadice.it,italiadice.it,torinodice.it##.box_oikia
 caneogolf.it##.boxbannerhome
