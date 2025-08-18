@@ -1240,6 +1240,7 @@ ilnuovogiornaleweb.it##.imageframe-align-center
 oroscopi.info##.img_oroscopo_personalizzato
 internimagazine.it##.in21-adv-mosaico
 internimagazine.it##.in21-native-small-wrap
+subito.it##.index-module_lira-container__Nwzwo
 cronacaossona.com##.info1-paragrafo
 cronacaossona.com##.info2-paragrafo
 cronacaossona.com##.info3-paragrafo
