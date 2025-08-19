@@ -1182,6 +1182,7 @@ goriziaoggi.news##.goriz-widget
 teamworld.it##.gpt-sticky
 3bmeteo.com##.gpt_top
 studiouniversal.it##.grf-widget
+iphoneitalia.com##.grid-offers-widget
 cittafuture.quotidiano.net##.gs_carousel_swiper
 sorrisi.com##.gtv-trigger-elevator
 354353.com##.guanggadsadswqew
