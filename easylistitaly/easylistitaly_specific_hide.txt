@@ -1790,6 +1790,7 @@ clientiesperti.it,computer-acquisti.com,corrieregiallorosso.com,domanidoveandiam
 motoexcape.com##.widget_w2dc_search_widget
 mondobarcamarket.it##.widget_wpb_widget
 alqamah.it##.widget_xyz_insert_php_widget
+tomshw.it##.widgetbay-card
 vicenzanews.it##.wifiplaza
 bresciasat.it##.workspace__block--sponsor
 raccontivietati.com##.wp-block-cover
