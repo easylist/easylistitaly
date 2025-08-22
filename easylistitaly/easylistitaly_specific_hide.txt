@@ -308,6 +308,8 @@ sportparma.com###mvp-leader-cont
 juorno.it,laziopress.it,pistoiasport.com,qdmnotizie.it,thrillercafe.it###mvp-leader-wrap
 lavocedibolzano.it###mvp-site-wall
 lavocedibolzano.it,qdmnotizie.it,sportparma.com###mvp-wallpaper
+dday.it###offer-desktop-slider
+dday.it###offer-mobile-slider
 mondoplay.it,mondoxbox.com###offersbox
 mondoplay.it,mondoxbox.com###offersbox_wide
 prendiporno.tv,voglioporno.com###overlay-video
