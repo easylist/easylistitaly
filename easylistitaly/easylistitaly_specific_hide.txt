@@ -1148,6 +1148,7 @@ pornototale.com##.footer_partner_container_wrapper
 mitjetitalia.it##.footer_top
 forbes.it##.forbes-ads-skin-container
 formulapassion.it##.fp-adv
+sport.sky.it##.ftbl__card-adv
 quattroruote.it##.fullBanner
 ilromanista.eu##.fullWidthBanner
 pressgiochi.it##.full_width_banner
