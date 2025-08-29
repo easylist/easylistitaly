@@ -31,7 +31,7 @@ digital-forum.it,esigarettaforum.com,thegamesmachine.it###ad_global_below_navbar
 iphoneitalia.com###addendoContainer_Video
 lavocedelpopolo.it###ads
 buonapesca.it,picenooggi.it###adv
-financialounge.repubblica.it###adv-Middle-hr-wrapper
+financialounge.com,financialounge.repubblica.it###adv-Middle-hr-wrapper
 liberoquotidiano.it###adv-after-briefly
 farmacia-aperta.eu###adv-info
 agarymathematics.net###adv1
@@ -234,8 +234,9 @@ mondoplay.it,mondoxbox.com###gameBlock_amazon_noboxart
 gayburg.com###gbnative
 infodifesa.it###gmpSkinMobileSpacer
 cpop.it###goldrake-link
+financialounge.com###google-ads-billboard
 it.advfn.com###google-ads-skin-wrapper
-financialounge.repubblica.it###google-ads-sticky-side-container
+financialounge.com,financialounge.repubblica.it###google-ads-sticky-side-container
 tuttoquiz.it###googleLAT1
 tuttoquiz.it###googleLAT2
 tuttoquiz.it###googleLINK
