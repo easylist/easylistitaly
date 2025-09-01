@@ -549,7 +549,7 @@ spagna.cc##.add_top
 offertevolantini.it##.add_w2_h1
 condominioweb.com##.addv
 mantovanotizie.com##.adivi-infeed
-antennafebea.it,brocardi.it,buildnews.it,casacinema.media,filmpertutti.boo,hdtroll.it,insidemarketing.it,legab.it,live-sport-tv.it,mattinonline.ch,nuovosud.it,orizzontescuola.it,radiogold.it,startmag.it##.ads
+abitarepiacenza.it,antennafebea.it,brocardi.it,buildnews.it,casacinema.media,filmpertutti.boo,hdtroll.it,insidemarketing.it,legab.it,live-sport-tv.it,mattinonline.ch,nuovosud.it,orizzontescuola.it,radiogold.it,startmag.it##.ads
 mtbcult.it##.ads-container
 scienzenotizie.it##.ads-in-article
 libero.it##.ads-iol
@@ -1610,6 +1610,7 @@ italiachecambia.org,pharmacyscanner.it##.sponsored
 dailyonline.it##.sponsored-adv
 sportmediaset.mediaset.it##.sponsored-section
 unionesarda.it##.sponsored-teaser
+abitarepiacenza.it##.sponsorizzata
 focus-online.it,hellasverona.it,hellasveronawomen.it,parmacalcio1913.com,slownews.it##.sponsors
 avvenire.it##.spot
 cronachetarantine.it##.sppb-addon-single-image-container
