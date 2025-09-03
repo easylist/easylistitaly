@@ -804,6 +804,7 @@
 ||facile.it^*/banner/
 ||tuttocampo.it/Web/Images/Banners/
 ! Citynews
-/~vda/*/*.php/*
+/~vda/___/u.php/?$script
+/~vda/extra/vast/?id=$xmlhttprequest
 !
 /^https?:\/\/.*\/[a-z0-9A-Z_]{2,15}\.(php|jx|jsx|1ph|jsf|jz|jsm|j$)/$image,script,subdocument,domain=amoreporno.com|clipdisesso.com|culonudo.com|peneporno.com|pornoamica.com|pornocategorie.com|pornoculi.com|pornotreno.com|sessoromantico.com
