@@ -2249,6 +2249,7 @@ sportevai.it##p[style="margin-top: 30px; border: 1px solid #0D8600; padding: 10p
 agro24.it,paganinotizie.it##rs-slides
 amalfinews.it,cetaranews.it,ilportico.it,ilvescovado.it,occhisusalerno.it,positanonotizie.it,ravellonotizie.it##section > div > p > em > a[data-id][data-position]
 luce.lanazione.it##span[class^="Partner_"]
+tag24.it##span[x-html="ownBanner"]
 annunci.modellismo.it##table[width="300"]
 cellularitalia.com##table[width="300"] > tbody > tr > td[height="600"]
 archiportale.com##td[style="height:278px; background-color:#E8E8E6; cursor:pointer;position:relative;z-index:95;padding:40px 0 18px"]
