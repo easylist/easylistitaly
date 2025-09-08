@@ -570,6 +570,7 @@ centrometeoitaliano.it##.adv-cmi
 comingsoon.it,ilsussidiario.net##.adv-container
 shipmag.it##.adv-custom-widget
 calciomercato.com##.adv-desktop-vertical
+lapresse.it##.adv-div-gpt-ad-MPU_Top
 paroladeltifoso.it##.adv-image
 biccy.it,mangaforever.net,vologratis.org##.adv-inside-content
 lasicilia.it##.adv-intext-placeholder
@@ -1314,6 +1315,8 @@ spoletonline.com##.longBanner
 jamma.tv##.look-data
 lecconotizie.com##.loop-pubbliredazionali
 nauticareport.it##.lozad
+lapresse.it##.lp-click-banner-1000
+lapresse.it##.lp-outbrain-wrapper
 lapresse.it##.lp-topleft
 lupopornohd.it##.lst_ft_bn
 omnifurgone.it##.m1-apb
