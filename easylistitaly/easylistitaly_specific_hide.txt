@@ -43,6 +43,7 @@ ilsussidiario.net###adwallpaper-container
 empresite.it,reteimprese.it###afscontainer1
 empresite.it,reteimprese.it###afscontainer2
 lospicchiodaglio.it###amazon_apa
+starbene.it###ameheader_overlay
 salernonotizie.net###amz
 notebookitalia.it###amznbi
 direttafacile.it###annuncidiv
