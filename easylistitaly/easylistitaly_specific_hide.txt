@@ -1595,7 +1595,7 @@ ilfattoquotidiano.it##.special
 bimcal.it##.special-calendars-wrap
 radiogamma.it##.spo
 comingsoon.it##.sponPro
-beneventonews24.it,bolzano-bozen.it,calciofvg.live,catanista.com,feralpisalo.it,girovagandointrentino.it,ilmonferrato.it,ioarte.org,legab.it,stickmangames.altervista.org,torinometeo.org##.sponsor
+beneventonews24.it,bolzano-bozen.it,calciofvg.live,catanista.com,feralpisalo.it,girovagandointrentino.it,ilmonferrato.it,ioarte.org,lasicilia.it,legab.it,stickmangames.altervista.org,torinometeo.org##.sponsor
 cagliarilivemagazine.it##.sponsor-associati
 luinonotizie.it##.sponsor-background-big
 assoallenatori.it##.sponsor-container
