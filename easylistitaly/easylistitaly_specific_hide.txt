@@ -485,6 +485,7 @@ automobile.it##.ADVBig_Content
 automobile.it##.ADVFLEX_250_Content
 automobile.it##.ADVParallax
 focusjunior.it##.ASponsor
+subito.it##.AdsBeforeListingBlock_adsense-before-listing-container__0bLqE
 avvocatoandreani.it,ilmanifesto.it,mentelocale.it##.Adv
 fotonerd.it##.Amazon
 comprovendolibri.it##.BB14
