@@ -187,6 +187,8 @@ gommeblog.it###custom_html-66
 radiocapri.it###custom_html-7
 gazzettadalba.it###custom_html-95
 salernonotizie.net###dd
+lapresse.it###dentsu-horizontal-banner
+lapresse.it###dentsu-vertcal-banner
 calendario-365.it###dish-top-desktop
 calendario-365.it###dish-top-mobile
 agriaffaires.it###display-mb
@@ -574,6 +576,7 @@ centrometeoitaliano.it##.adv-cmi
 comingsoon.it,ilsussidiario.net##.adv-container
 shipmag.it##.adv-custom-widget
 calciomercato.com##.adv-desktop-vertical
+lapresse.it##.adv-div-gpt-ad-MPU_Middle
 lapresse.it##.adv-div-gpt-ad-MPU_Top
 paroladeltifoso.it##.adv-image
 biccy.it,mangaforever.net,vologratis.org##.adv-inside-content
@@ -1322,6 +1325,7 @@ jamma.tv##.look-data
 lecconotizie.com##.loop-pubbliredazionali
 nauticareport.it##.lozad
 lapresse.it##.lp-click-banner-1000
+lapresse.it##.lp-click-banner-300
 lapresse.it##.lp-outbrain-wrapper
 lapresse.it##.lp-topleft
 lupopornohd.it##.lst_ft_bn
