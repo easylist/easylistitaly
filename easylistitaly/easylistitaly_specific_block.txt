@@ -342,6 +342,7 @@
 ||ilmediano.com/wp-content/banners/
 ||ilmioip.it/img/banner
 ||ilmioip.it/img/infermieri
+||ilnordestquotidiano.it/wp-content/uploads/*-Skin-Banner-
 ||ilnuovoterraglio.it/wp-content/uploads/*/banner-
 ||ilpisasiamonoi.it/public/banner-
 ||ilquotidiano.it/userdata/banner/
