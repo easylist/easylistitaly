@@ -1473,6 +1473,7 @@ misterstudent.tv,salernoinweb.it##.pollice-volante-all
 radiociak.it##.pop_up_modal_content > a
 pordenoneoggi.it##.porde-widget
 notizielazio.it##.post-middle-banner
+ilcorrieredelgiorno.it##.poste
 comingsoon.it##.primeTrack
 nursetimes.org##.primobanner-320
 redacon.it##.prj_artcorr_container
@@ -2162,7 +2163,7 @@ alimentando.info##img[height="135"]
 canale12.it,notiziediprato.it,radio88.eu,sienanews.it##img[height="150"]
 teleischia.com##img[height="210"]
 biancorossi.net,bimbonaturale.org,ilfattodicalabria.it,ilnautilus.it,sportchianti.it,turismovacanza.net##img[height="250"]
-focus.shipmag.it,ilcorriere.net,ofcs.it,radio88.eu,sienanews.it,vercellinotizie.it,vocedimantova.it##img[height="300"]
+focus.shipmag.it,ilcorriere.net,ilcorrieredelgiorno.it,ofcs.it,radio88.eu,sienanews.it,vercellinotizie.it,vocedimantova.it##img[height="300"]
 radio88.eu##img[height="310"]
 caprinews.it,paesesera.toscana.it##img[height="500"]
 ilgiornaledisalerno.it##img[height="520"]
@@ -2246,6 +2247,7 @@ tgfuneral24.it##img[width="680"]
 ilsalvagente.it##img[width="690"]
 ilprimatonazionale.it##img[width="693"][height="191"]
 calabrianews.it,orawebtv.it,sabiniatv.it##img[width="700"]
+ilcorrieredelgiorno.it##img[width="713"][height="94"]
 borderline24.com,ilcorrieredelgiorno.it,lavocedelnordest.eu##img[width="720"]
 agendapolitica.it,agro24.it,altissimoceto.it,bottadiculo.it,faretennis.com,glianni80.com,guidaviaggi.it,ilgiornaledisalerno.it,ladriatico.info,salernonotizie.net,sciscianonotizie.it,senzalinea.it,viaggiallafinedelmondo.it,zerosette.it##img[width="728"]
 brontolodicelasua.it##img[width="730"]
