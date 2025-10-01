@@ -1229,6 +1229,7 @@ vocedistrada.it##.hh-cubo-wrap
 vocedistrada.it##.hh-sponsor-wrap
 facileporno.com##.hidden-under-920
 valseriananews.it##.hidden-xs[style="height:600px;"]
+nordest24.it##.hidden.lg\:block.lg\:h-\[1250px\]
 legaseriea.it##.hm-banner
 legaseriea.it##.hm-sponsor-footer
 blogsicilia.it,grandangoloagrigento.it##.hoi
@@ -1921,6 +1922,7 @@ italiasera.it##a[rel="nofollow noopener"]
 isoladiminorca.com##a[rel="sponsored"]
 direttafacile.it##a[target="pubblicita.php"]
 lanuovacalabria.it##app-banner-popup
+nordest24.it##aside[aria-label="advertisement"]
 greenme.it##aside[style="margin: 8px auto; display: flex; justify-content: center; min-height: 251px;"]
 italiafruit.net##banner
 commentimemorabili.it##center[style="margin:10px auto;text-align:center;min-height:250px;"]

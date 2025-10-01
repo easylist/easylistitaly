@@ -39,6 +39,7 @@
 ##.banner_pubblicita
 ##.box_adv_cliccaofferta
 ##.eadv-aside
+##.eadv-billboard
 ##.eadv-bottom
 ##.eadv-in-content
 ##.eadv-related
