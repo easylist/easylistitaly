@@ -94,6 +94,7 @@
 ||vzbl.eu^
 ||widget.getyourguide.com^$third-party
 ||widgetbay.3labs.it^$third-party
+||widgets.betscanner.it^$third-party
 ||widgets.shop.moda.it^
 ||widgets.skyscanner.net^$domain=thailandiapertutti.it
 ||windows.net/public/images/banner/$domain=investire.biz
