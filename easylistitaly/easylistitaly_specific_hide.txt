@@ -298,7 +298,7 @@ zazoom.it###logoads
 salernonotizie.it###machette_left
 salernonotizie.it###machette_right
 brindisifc.it###main-sponsor
-forum.tomshw.it,leonardo.it###masthead
+forum.tomshw.it,leonardo.it,tuttohellasverona.it###masthead
 mondo-motori.it###masthead-adv
 familygo.eu###masthead-desktop
 ubitennis.com###masthead-wrapper
@@ -2094,6 +2094,7 @@ we-news.com##div[style*="height:280px;"]
 ragusaoggi.it##div[style*="min-height: 280px;"]
 sportitalia.com##div[style*="width: 1040px;"]
 sportitalia.com##div[style*="width: 160px;"]
+tuttohellasverona.it##div[style*="width: 300px; height: 250px;"]
 sportitalia.com##div[style*="width: 336px;"]
 sportitalia.com##div[style*="width: 468px;"]
 sportitalia.com##div[style*="width: 728px;"]
@@ -2125,6 +2126,7 @@ calciofoggia1920.net##div[style="padding-right:16px; padding-top:5px; float:righ
 firenzemeteo.net##div[style="padding:10px;margin-bottom: 18px;color:#eaeaea;background-color:#494949;text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);"]
 lacasadic.com,seried24.com##div[style="position: sticky!important;top: 0px;width: 100%;text-align: center;border: 1px solid #efefef;padding: 22px 0;background: #f2f2f259;"]
 wiki.pokemoncentral.it##div[style="text-align: center; margin-bottom: 15px; height: 90px"]
+tuttohellasverona.it##div[style="width: 300px;"]
 ecoage.it##div[style="width:135px; float:right; padding:5px; background-color:#e4e4e4;"]
 risvegliopopolare.it##div[style="width:320px !important;height: 480px !important;"]
 gta-expert.it##div[style="width:732px; height:105px"]
