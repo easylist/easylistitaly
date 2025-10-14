@@ -1,3 +1,4 @@
+/Oimmei-Digital-Consulting-Skin.jpg$domain=corrierearetino.it|corriereempolese.it|corrieregrossetano.it|corrierelivornese.it|corrierelucchese.it|corrieremassacarrarese.it|corrierepisano.it|corrierepistoiese.it|corrierepratese.it|corrieresenese.it|corrieretoscano.it
 ||1001giochi.it/bfb/
 ||105tv.it/web/images/banners/
 ||24emilia.com/wp-content/uploads/*/banner-
@@ -195,7 +196,6 @@
 ||corrierenews.it/images/banners/
 ||corriereobjects.it/fascioni/sponsor/
 ||corriereproposte.it/images/banners/
-||corrieretoscano.it/wp-content/uploads/*/Oimmei-Digital-Consulting-Skin.jpg
 ||corrieretoscano.it/wp-content/uploads/*/Skin_
 ||cosedicasa.com/wp-content/uploads/sidespot/
 ||cralistruzione.it/images/convenzionati/banner/
