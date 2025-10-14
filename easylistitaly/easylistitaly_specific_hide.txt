@@ -1693,6 +1693,7 @@ energiaincomune.com##.tdi_11
 ledicoladelsud.it##.tdi_163
 ilgiornaledelticino.ch##.tdi_17
 cronachedibirra.it##.tdi_170
+veronanews.net##.tdi_21
 ilgiornaledelticino.ch##.tdi_29
 artuu.it##.tdi_446
 artuu.it##.tdi_450
