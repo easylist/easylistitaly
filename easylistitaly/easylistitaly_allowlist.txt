@@ -13,6 +13,7 @@
 @@||b.adbreak.ch^$script,domain=tio.ch
 @@||buonenotiziebologna.it/images/banners/logos/bnb/logo.png
 @@||cdnadn.evolutionadv.it/Assets/Video/*.mp4$domain=adnkronos.com
+@@||ced.sascdn.com/tag/3052/smart.js$domain=telenuovo.it
 @@||centrosangiorgio.com^*_pubblicita.
 @@||centrosangiorgio.com^*_pubblicita/
 @@||centrosangiorgio.com^*_pubblicita_
