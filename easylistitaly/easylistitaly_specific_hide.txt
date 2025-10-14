@@ -1610,7 +1610,7 @@ betitaliaweb.it##.space-companies-sidebar-2-widget
 betitaliaweb.it##.space-organizations-home-8-widget
 betitaliaweb.it##.space-shortcode-wrap-ins
 lapancalera.it##.spazi-pubblicitari
-ilfattoquotidiano.it##.special
+ansa.it,ilfattoquotidiano.it##.special
 bimcal.it##.special-calendars-wrap
 radiogamma.it##.spo
 comingsoon.it##.sponPro
