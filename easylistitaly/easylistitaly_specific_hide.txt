@@ -1256,6 +1256,7 @@ iodonna.it##.id-vda
 iodonna.it##.id-vda-article
 lastampa.it##.idealista
 idealista.it##.idealista-banner
+ilfattoquotidiano.it##.ifq-adv-flux
 ilfattoquotidiano.it##.ifq-dfp
 allmusicitalia.it##.iframe-adv
 infojobs.it##.ij-AdvertisingRoadblockTop
