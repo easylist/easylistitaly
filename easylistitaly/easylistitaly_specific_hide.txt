@@ -221,7 +221,7 @@ cagliarinews24.com,calcionews24.com,futsalnews24.com,internews24.com,juventusnew
 cagliarinews24.com,calcionews24.com,futsalnews24.com,internews24.com,juventusnews24.com,lawebstar.it,lazionews24.com,milannews24.com,sampnews24.com###evolve-mobile-masthead
 screenweek.it###fading_desktop_wrapper
 screenweek.it###fading_mobile_wrapper
-bolina.it,tp24.it###fancybox-overlay
+bolina.it,corrieretoscano.it,tp24.it###fancybox-overlay
 bolina.it,tp24.it###fancybox-wrap
 cibo360.it###fascia_banner_bottom
 borsainside.com,meteofinanza.com###financial-popup-overlay
