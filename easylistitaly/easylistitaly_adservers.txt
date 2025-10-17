@@ -17,6 +17,7 @@
 ||eadv.it^$third-party
 ||epeex.io^$third-party
 ||evolutionadv.it^$third-party
+||fluxtech.ai^$third-party
 ||gbucket.ch^$third-party
 ||hbagency.it^$third-party
 ||justearn.it^$third-party
