@@ -890,6 +890,7 @@ centropagina.it##.box-b
 difesaonline.it,tefchannel.it##.box-banner
 tefchannel.it##.box-banner-top
 balarm.it##.box-evidenza
+milanofinanza.it##.box-ishares
 torinofc.it##.box-partner
 italiaoggi.it##.box-slot
 adnkronos.com##.box-sponsor
@@ -1911,6 +1912,7 @@ allmobileworld.it##a[href^="https://it.dhgate.com/"] > img
 calcioefinanza.it,digital-news.it,gazzabet.news##a[href^="https://prf.hn/"]
 toonitalia.xyz##a[href^="https://privatealps.net/"]
 fm-world.it##a[href^="https://rebrand.ly/"]
+milanofinanza.it##a[href^="https://servedby.flashtalking.com/"]
 sportnotizie24.com##a[href^="https://www.1betandgonow.com/"]
 tuttomercatoweb.com##a[href^="https://www.daily.it/dazn/?dazn="]
 lavocedelpopolo.it##a[href^="https://www.holyart.it/"]
