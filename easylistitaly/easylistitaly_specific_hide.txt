@@ -243,6 +243,7 @@ gayburg.com###gbnative
 infodifesa.it###gmpSkinMobileSpacer
 cpop.it###goldrake-link
 financialounge.com###google-ads-billboard
+financialounge.com###google-ads-skin
 it.advfn.com###google-ads-skin-wrapper
 financialounge.com,financialounge.repubblica.it###google-ads-sticky-side-container
 tuttoquiz.it###googleLAT1
