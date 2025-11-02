@@ -1738,6 +1738,7 @@ everyeye.it##.topskin
 cinqueterre5.com,incinqueterre.com##.tour-banner
 tvprato.it##.tp-banner-bar
 giornaledibarga.it,noitv.it##.track
+cucchiaio.it##.track-adv
 noinotizie.it##.tre-spazi
 radiocompany.com,radiowow.com##.trend-banner
 smartworld.it##.tw-carousel
