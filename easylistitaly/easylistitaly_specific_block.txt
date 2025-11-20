@@ -790,6 +790,7 @@
 ||vwgolfcommunity.com/banner/
 ||vwgolfcommunity.com/sponsor/
 ||wallis24.it/images/banner/
+||wasabisys.com/ad-group-images/$domain=laviola.it
 ||webandmagazine.media/wp-content/uploads/*/SKIN-
 ||wechianti.com/wp-content/uploads/*/Banner-
 ||welfarenetwork.it/media/banner/

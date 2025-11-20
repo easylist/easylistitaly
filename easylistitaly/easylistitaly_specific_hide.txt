@@ -567,6 +567,7 @@ libero.it##.ads-iol
 fruitbookmagazine.it##.ads-irn
 ilmohicano.it##.ads-margin-secondary
 scienzenotizie.it##.ads-related-multiplex
+laviola.it##.ads-slot
 ildolomiti.it##.adsB
 4yougratis.it##.adsVert
 corrieredellacalabria.it##.ads_corriere
@@ -1883,6 +1884,7 @@ paolociraci.com,paolociraci.it##a[href*="/ad-click.php"]
 ilquotidianodellazio.it##a[href*="/ad/click/"]
 forumfree.it##a[href*="/ad_click.php?"]
 telecitynews24.it,wesud.it##a[href*="/ads/"]
+laviola.it##a[href*="/adsclicktracker?"]
 digital-news.it##a[href*="/attivadazn"]
 digital-news.it##a[href*="/attivanow"]
 migliorisitistreaming-hd.blogspot.com,pronosticideiguerrieri.it##a[href*="/go/"]
