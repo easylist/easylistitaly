@@ -566,8 +566,12 @@ scienzenotizie.it##.ads-in-article
 libero.it##.ads-iol
 fruitbookmagazine.it##.ads-irn
 ilmohicano.it##.ads-margin-secondary
+denaro.it##.ads-masthead-module
+denaro.it##.ads-primo-module
 scienzenotizie.it##.ads-related-multiplex
+denaro.it##.ads-secondo-module
 laviola.it##.ads-slot
+denaro.it##.ads-terzo-module
 ildolomiti.it##.adsB
 4yougratis.it##.adsVert
 corrieredellacalabria.it##.ads_corriere
