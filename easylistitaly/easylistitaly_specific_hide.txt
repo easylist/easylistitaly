@@ -2293,6 +2293,7 @@ laziopress.it##img[width="805"]
 lacittanews.it##img[width="900"]
 signorbet.news##img[width="930"]
 innovami.news##img[width="940"]
+mondosanita.it##img[width="950"][height="150"]
 armiusate.it,scattidigusto.it,zerosette.it##img[width="970"]
 saperesalute.it##img[width="980"]
 corriereelorino.it##p > img
