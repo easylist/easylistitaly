@@ -1,3 +1,4 @@
+||ad-hub.it^
 ||ad4m.at^$third-party
 ||adasta.it^$third-party
 ||adbreak.ch^$third-party
