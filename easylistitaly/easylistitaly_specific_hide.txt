@@ -852,6 +852,7 @@ hcgherdeina.com##.big-sponsor-box
 spoletonline.com##.bigBanner
 virtusverona.it##.bigbanner
 money.it##.billboard
+milanofinanza.it##.binance-span
 azscore.co.it##.bkw
 antenna1.fm##.bloc-pub
 primaonline.it##.blocco-autopromo-container

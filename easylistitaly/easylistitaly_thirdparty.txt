@@ -68,6 +68,7 @@
 ||plug.it/banners/
 ||postimg.cc^$domain=napolimagazine.com|settecalcio.it|toscanagol.it
 ||pratoverdecagliari.it/images/banners/$third-party
+||public.bnbstatic.com/unpkg/growth-widget/$domain=milanofinanza.it
 ||roi.ediscom.it^
 ||sailory.com/logo_sailory.gif$third-party
 ||scambiobanner.aruba.it^$third-party
