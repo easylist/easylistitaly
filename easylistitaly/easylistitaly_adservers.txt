@@ -36,6 +36,7 @@
 ||seowebbs.com^$third-party
 ||shoppydoo.com^
 ||tjekscores.dk^$third-party
+||toobee.it^$third-party
 ||upstory.it^$third-party
 ||worldfilia.net^$third-party
 ||yobee.it^$third-party
