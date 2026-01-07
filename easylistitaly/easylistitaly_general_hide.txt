@@ -389,7 +389,6 @@
 ##.topadv_right
 ##.trama_ads
 ##.tw-adv-native
-##.tw-adv-slot
 ##.view-pubblicita
 ##.widget_adv_multi
 ##.widget_eepex
