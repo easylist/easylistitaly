@@ -1845,6 +1845,7 @@ alqamah.it##.widget_xyz_insert_php_widget
 spaziogames.it,tomshw.it##.widgetbay-card
 vicenzanews.it##.wifiplaza
 bresciasat.it##.workspace__block--sponsor
+sport.it##.wp-block-af-widget-affiliate
 raccontivietati.com##.wp-block-cover
 ondatv.tv##.wp-block-embed-youtube
 newsmondo.it##.wp-block-evolve-sponsor
