@@ -84,7 +84,6 @@
 ||tcccdn.com^*/banner/
 ||tccstatic.com^*/banner/
 ||tdn.da-services.ch^
-||tiqets.com/widgets/$third-party
 ||unifiedads.magellanotech.it^
 ||uplink.aruba.it^$third-party
 ||uzi.it/b/
