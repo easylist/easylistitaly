@@ -116,11 +116,12 @@ bergamoesport.it,informazionefiscale.it###billboard
 augustanews.it,avolanews.it,catanianews.it,ibleinews.it,leontinoinews.it,notonews.it,pachinonews.it,sicilianews.it,siracusanews.it###billboard1
 metalgermania.it###black-studio-tinymce-2
 imusicfun.it###block-13
+liguriaday.it###block-17
 notiziebenessere.it###block-2
 sportcafe24.com###block-22
 tifosipalermo.it###block-27
 monetizzando.it,techuniverse.it###block-30
-techuniverse.it###block-33
+liguriaday.it,techuniverse.it###block-33
 techuniverse.it###block-34
 techuniverse.it###block-35
 techuniverse.it###block-38
@@ -1888,7 +1889,7 @@ panoramadinovi.it##a > .alignnone.size-full
 narnionline.com,ternieprovincia.com##a[class="banner_174"]
 narnionline.com,ternieprovincia.com##a[class="banner_392"]
 lavoripubblici.it,primocomunicazione.it##a[data-banner]
-differenzatra.it,domanidoveandiamo.it,librierecensioni.com,losport24.com,mio-ip.eu,newtuscia.it,tivustream.com##a[href*="//amzn.to/"]
+differenzatra.it,domanidoveandiamo.it,librierecensioni.com,liguriaday.it,losport24.com,mio-ip.eu,newtuscia.it,tivustream.com##a[href*="//amzn.to/"]
 bolognasportnews.it,kimchiebasilico.it,veronanetwork.it##a[href*="//bit.ly/"]
 animeemanga.it,comprovendodischi.it,comprovendolibri.it##a[href*="//goo.gl/"]
 comprovendodischi.it,immaginaviaggiare.it,luxwatch.it,tivustream.com,videogiochi.com##a[href*="//www.amazon."][href*="tag="]
