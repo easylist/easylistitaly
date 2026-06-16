@@ -673,6 +673,7 @@ piuincontri.com##.b-banner-group
 azscore.co.it##.b-odds
 lecalorie.it##.b_728
 quattroruote.it##.bacheca
+ilsole24ore.com##.background-adv
 canalearte.tv##.background-cover
 balarm.it##.balarm_adv
 oggitreviso.it##.ban
@@ -1551,6 +1552,8 @@ rimini.com##.row-bann-home-mobile
 magodelpronostico.com##.row-info-bonus
 wikihow.it##.rr_container
 bicimagazine.it##.rstbox
+ilsole24ore.com##.s-abox
+ilsole24ore.com##.s-askn
 ilsole24ore.com##.s24-abox
 ship2shore.it##.s2s-banner
 carraresecalcio.it##.saas-brand
