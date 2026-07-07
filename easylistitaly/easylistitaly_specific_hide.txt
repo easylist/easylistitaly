@@ -1038,6 +1038,7 @@ valsusaoggi.it##.defaultsidebard
 wallnews24.it##.depicter
 destinazioneusa.com##.desti-widget
 diretta.it,flashscore.it##.detailLeaderboard
+app.padovia.it##.detour-ad-banner-item
 0766news.it,umbriaon.it##.dfad
 movieplayer.it##.dfp
 likesx.com##.dgdom
