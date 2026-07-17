@@ -1621,6 +1621,7 @@ lavoroecarriere.it##.sm-banner
 ilgallo.it##.small-banner-1
 hcgherdeina.com##.small-sponsor-box
 spoletonline.com##.smallBanner
+teleborsa.ansa.it##.smartmag-widget-codes
 trentinovolley.it##.social-diatec-menu
 itacanotizie.it,piacenza24.eu##.sour-intext
 tvoggisalerno.it##.sow-slider-image-container
