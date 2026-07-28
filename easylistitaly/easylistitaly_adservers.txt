@@ -9,6 +9,7 @@
 ||affiliation.software^$third-party
 ||affilroi.com^$third-party
 ||bannerbuy.it^$third-party
+||blendee.com^
 ||break-even.it^$third-party
 ||broadbandy.net^$third-party
 ||brznetwork.com^$third-party
