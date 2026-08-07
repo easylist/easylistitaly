@@ -601,7 +601,7 @@ oggi.it##.adv-square
 diredonna.it,gravidanzaonline.it,robadadonne.it##.adv-style
 stateofmind.it##.adv-top-fullpage
 quattroruote.it##.adv-wrap
-iodonna.it##.adv-wrapper
+fanpage.it,iodonna.it##.adv-wrapper
 ilgallo.it##.adv4
 gazzetta.it##.adv__webvtls
 empresite.it##.adv_cont
